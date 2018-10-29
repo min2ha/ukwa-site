@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Brian John
-
 <p>Brian John is an author from pembrokeshire. This is his personal site and of his publishing company Greencrift Books.</p>

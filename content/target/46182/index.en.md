@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# #VlogaMhòid on Twitter
-
 MG Alba ask their followers to post vlogs about their experience of the Royal National Mod with this hashtag.

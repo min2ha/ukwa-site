@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The EU is our own Hotel California: We can check out, but we'll never leave   
-

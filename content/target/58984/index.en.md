@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Friends of Dyffryn Gardens Society
-
 Dyffryn Gardens, House and Arboretum is a collection of botanical gardens located near the villages of Dyffryn and St. Nicholas in the Vale of Glamorgan. The Friends of Dyffryn Gardens was established in the early 1980's.

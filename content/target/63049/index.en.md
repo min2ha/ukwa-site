@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Labour Campaign for the Single Market (@laboursinglemkt) on Twitter
-
 Twitter feed of campaign to shift Labour Party policy towards staying in the EU single market

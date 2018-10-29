@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scottish Quality Wild Venison 
-
 Site of a company aiming to maintain, develop and promote Quality Assurance Standards throughout the whole Venison industry.

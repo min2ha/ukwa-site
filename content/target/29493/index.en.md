@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cronfa Goffa T. Llew Jones
-
 T. Llew Jones is a Welsh author. This site was set up to celebrate 100 years since his birth.

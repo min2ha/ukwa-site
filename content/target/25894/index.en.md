@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: You think coalition government was bad? What’s coming is uglier
-
 None

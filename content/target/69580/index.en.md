@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# Athena Trio
-
 Athena Trio are a classical vocal trio from Wales. They are sopranos Gwawr Edwards and Ellen Williams and mezzo-soprano Sioned Terry.

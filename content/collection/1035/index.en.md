@@ -351,6 +351,4 @@
   "endDateText": "31-03-2019"
 }
 
-# Brexit : Impact on the Republic of Ireland
-
 Collection about the impact of the UK exit from the European Union (EU) on the Republic of Ireland following the Referendum in June 2016.

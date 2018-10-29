@@ -10,8 +10,6 @@
   "start_date": "2018-02-03T09:00:00Z"
 }
 
-# The British Bobsleigh and Skeleton Association (BBSA)
-
 The British Bobsleigh & Skeleton Association (BBSA) is the national governing body for the sports of bobsleigh and skeleton in the UK.
 
 The BBSA formed following the merger of the former organisations, British Bobsleigh Association and British Skeleton Association, with the

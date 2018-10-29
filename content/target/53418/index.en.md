@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Tearfund: Election Guide 2017
-
 Tearfund has two suggested questions you can ask candidates on the doorstep, at hustings, if they phone you, or on social media. These aren’t party political questions, they’re the same for each party, to make sure candidates hear that voters care about international poverty. You don’t need to be an expert - it’s part of a would-be MP’s job to listen to their constituents’ concerns, and your point of view matters.
 

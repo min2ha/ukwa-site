@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: IFS despairs as it finds no party’s imaginary numbers add up
-
 None

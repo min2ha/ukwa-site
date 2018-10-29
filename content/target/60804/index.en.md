@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jacob Rees-Mogg says Treasury 'fiddling figures' on Brexit
-
 In February 2018, prominent Brexiteer and Tory MP Jacob Rees-Mogg accused Treasury officials of "fiddling the figures" on Brexit to keep the UK in the European Union customs union.
 

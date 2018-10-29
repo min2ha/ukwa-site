@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Equality
-
 Equality is a charity that works to uphold and secure the rights of the Roma ethnic minority group

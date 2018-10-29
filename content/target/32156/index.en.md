@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Cynghrair Cymunedau Cymraeg
-
 An organisation that links Welsh speaking communities across Wales in order to explore ways in halting a decline in a number of Welsh speakers across communities in Wales.

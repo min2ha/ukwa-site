@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Petrol Prices
-
 None

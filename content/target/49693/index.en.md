@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Dunfermline Gilbert & Sullivan Society
-
 Site of an amateur operatic group aiming to foster and maintain a knowledge and appreciation of the works of W S Gilbert and Arthur Sullivan by regular, public performance of their works. Based in Dunfermline, Fife.

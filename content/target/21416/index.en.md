@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: PMQs recap: Ed Miliband brands David Cameron a typical bully for chickening out of TV debates
-
 None

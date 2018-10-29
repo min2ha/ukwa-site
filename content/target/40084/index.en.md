@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr Ian MacIntyre on Facebook (Labour candidate for Dwyfor Meirionnydd)
-
 Dr Ian MacIntyre is the Labour candidate for Dwyfor Meirionnydd at the 2016 National Assembly Election. 

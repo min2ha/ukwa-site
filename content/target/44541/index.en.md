@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Just as “Brexit means Brexit”, it must also mean a migration target
-
 blog post on the relationship between Brexit and migration

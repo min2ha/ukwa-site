@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: PM World Economic Forum speech: economic facts for the UK remaining in the EU
-
 The Prime Minister spoke at a World Economic Forum (WEF) event on the economic arguments for the UK remaining in a reformed European Union

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Artists Information Company (A-N): EU referendum: In or out – two opposing views on what the vote means to the arts
-
 An article comparing two opposing viewpoints concerning the EU Referendum and its effect on the arts.

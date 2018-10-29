@@ -10,5 +10,3 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Vale of Clwyd Mind
-

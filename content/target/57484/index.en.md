@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Ruth McLees Art, Blog 
-
 Ruth Mclees is a freelance artist specialising in contemporary figurative work and portraiture. This is her blog.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# West Wales Children's Book Group
-
 The West Wales Children's Book Group was established in 1999 and is a member of the Federation of Children's Book Groups. 

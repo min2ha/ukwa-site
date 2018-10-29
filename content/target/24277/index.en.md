@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: How Nicola Sturgeon plans to do a deal with Ed Miliband
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'I AGREE with Nigel': Liberal Democrat chief Vince Cable reveals why he backs the former UKIP leader's shock call for a second Brexit referendum   
-

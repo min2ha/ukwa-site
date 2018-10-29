@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Lambeth Housing Activists
-
 Activists involved in Tenants and Residents Associations, housing co-ops, private renters groups, homeless organisations, trade unions and other housing campaign groups.

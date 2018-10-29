@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Sara Gethin - Not Me
-
 Sara Gethin debut novel - Not Thomas was published by Honno in 2017. Sara Gethin is a pen name of award-winning author Wendy White who grew up in Llanelli.

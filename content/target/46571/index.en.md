@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Common Vision
-
 Common Vision aims to curate and develop research and discussion which aligns the behaviours, expectations and values of the millennials with long-term intergenerational goals around the common good. They use creative and crowdsourced methods to promote civic engagement beyond a politically active minority

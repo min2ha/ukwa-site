@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sky News: Prime Minister: No 'muddled thinking' on Brexit
-
 Theresa May hints that Britain may leave the single market as part of Brexit saying the UK cannot hold on to "bits of membership".

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Ambulance Service
-
 None

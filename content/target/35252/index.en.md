@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Addysg Anturus: Oherwydd mai antur ydyw addysgu
-
 This is a blog by a Welsh second language teacher sharing a range of teaching resources that he has created for the classroom.

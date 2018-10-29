@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Riding FA (@NorthRidingFA) on Twitter
-
 Official Twitter account of North Riding FA.

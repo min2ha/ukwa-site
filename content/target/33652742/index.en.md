@@ -10,5 +10,3 @@
   "start_date": "2010-01-19T00:00:00Z"
 }
 
-# Welsh Slate The Strongest Most Durable Slate Known To Man
-

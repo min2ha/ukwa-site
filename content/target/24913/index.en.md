@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Duncan Enright on Twitter (@duncanenright) (Labour Candidate of West Oxfordshire)   
-

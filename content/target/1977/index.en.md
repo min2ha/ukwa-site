@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Strategic Health Authority: facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute for Economic Affairs: Brexit : directions for outside the EU
-
 Free market think tank founded in 1955

@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-#  French Studies Library Group (FSLG)
-
 The aim of the French Studies Library Group (FSLG), which was founded in 1999, is to act as a focus for librarians and others concerned with the provision of library resources and services in French studies in the United Kingdom.

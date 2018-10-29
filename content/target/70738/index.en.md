@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Arundel & Brighton
-
 The site provides news, information, resources and materials together with courses and event details for parishes, clergy and laity of the diocese and beyond. 

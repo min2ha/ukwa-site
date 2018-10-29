@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# GlaxoSmithKline plc
-
 GlaxoSmithKline plc is a British pharmaceutical company. They are a science-led global healthcare company with research and develop in a broad range of innovative products in three primary areas: Pharmaceuticals, Vaccines and Consumer Healthcare.

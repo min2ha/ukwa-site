@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Socialist Party: Articles tagged 'EU'
-
 All Socialist Party articles tagged 'EU'

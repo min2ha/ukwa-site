@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Open House: The women of 1916
-
 Article by Maria-Daniella Dick in independent Scottish Catholic journal of comment, opinion and reflection.

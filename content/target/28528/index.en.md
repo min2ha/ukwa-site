@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# British Photographic Council, The
-
 The British Photographic Council exists to protect, develop and promote the rights and interests of photographic image makers, those involved in the distribution of their work, and the bodies that represent them in the UK. The British Photographic Council is an umbrella body, and its board is comprised of representatives from its member organisations.

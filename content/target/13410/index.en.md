@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Campaign for an English Parliament
-
 <p>The CEP was set up in response to the discussion around, and establishment of, the Scottish Parliament and Welsh Assemblies. The campaign seeks to use academic, business and other advocates to make the case for a parliament that exclusively represents voters living in Engalnd. Blog posts have focused on the Scottish Independence referendum in the lead up to 18 September.</p>

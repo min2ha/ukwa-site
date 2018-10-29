@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nick Clegg could lose seat to Labour and become the general election's biggest casualty
-
 None

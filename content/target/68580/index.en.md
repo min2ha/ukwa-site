@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit May’s problem: Brexit and Trumpism have become monstrous twins
-

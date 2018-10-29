@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# Lia van Bekhoven - Journalist
-
 <p>A website of Lia van Bekhoven, Dutch journalist based in London.</p>

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ebenezer Church, Talbot Green
-

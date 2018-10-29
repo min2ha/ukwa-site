@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 24 October 2016: European Council
-
 Prime Minister Theresa May makes a statement on her first European Council. She warns that Brexit negotiations will be difficult and will require some give and take. She believes that if we approach this in a constructive spirit, we can ensure a smooth departure. We can build a powerful new relationship that works both for the UK and for the countries of the EU, and we can secure the deal that is right for the British people.

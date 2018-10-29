@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Trench Reconstruction: Signature Floral Feature
-
 The project is to create a signature, floral, trench reconstruction on land owned by Immingham Town Council, immediately adjacent to the War Memorial.

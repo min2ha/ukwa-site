@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# HSBC Holdings plc
-
 HSBC Holdings plc is a British-based multinational banking and financial services company. Its services include: retail banking, corporate banking, investment banking, mortgage loans, private banking, wealth management, credit cards, finance and insurance 

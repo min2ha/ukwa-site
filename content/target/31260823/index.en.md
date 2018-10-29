@@ -10,5 +10,3 @@
   "start_date": "2009-09-08T00:00:00Z"
 }
 
-# Worldwide Fitz(-)Henry DNA Project, The
-

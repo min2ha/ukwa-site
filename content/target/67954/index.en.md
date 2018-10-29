@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# South Western Association of the WPCS
-
 The aim of our association is to promote Welsh Ponies and Cobs (Sections A, B, C, D and Part-Breds) in Cornwall, Devon, Somerset and Dorset.

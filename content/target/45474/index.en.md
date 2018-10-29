@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Explore Pitlochry
-
 Site of an organisation promoting activities and services for tourists visiting the area of Pitlochry, Perth & Kinross, Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alun Cairns on Facebook
-
 Conservative Candidate for the Vale of Glamorgan.

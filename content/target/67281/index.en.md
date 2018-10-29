@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff Bay Run
-
 The Brecon Water Cardiff Bay Run is a 10K race and 2K Family Fun Run set in Cardiff's historic Bay.

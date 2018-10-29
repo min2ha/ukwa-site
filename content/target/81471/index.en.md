@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Local Government Association: LGA: Almost £1 billion of European Social Fund at risk of being sent back to Brussels
-
 The Government is likely to fail to invest almost £1 billion in local communities through the European Social Fund (ESF) risking the money being sent back to Brussels, with the deadline for the money to be spent fast approaching.
 

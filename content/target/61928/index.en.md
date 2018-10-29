@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool FC (@LFC ) on Twitter
-
 Liverpool Football Club is a professional football club in Liverpool, England.

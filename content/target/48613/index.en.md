@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Davos 2017: Prime Minister's speech to the World Economic Forum
-
 Theresa May spoke about her plans for Brexit and a Global Britain, and how free markets, free trade and globalisation can work for everyone

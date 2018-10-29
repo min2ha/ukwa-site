@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Chaosbunny
-
 Diary webcomic by Maxine Green. Jim the Chaosbunny is an artist by trade, geek by inclination and full-time embodiment of entropy by nature. She has no intention whatsoever of growing up, but fully intends to take over the world.

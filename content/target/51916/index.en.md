@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Frances of Rome RC Church, Ross-on-Wye Herefordshire 
-

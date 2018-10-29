@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# HistoryofParliament (@HistParl) on Twitter 
-
 The History of Parliament is a research project creating a comprehensive account of parliamentary politics in England, then Britain, from their origins in the thirteenth century. 

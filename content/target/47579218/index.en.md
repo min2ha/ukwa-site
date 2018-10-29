@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Lyre, The - British poetry news
-

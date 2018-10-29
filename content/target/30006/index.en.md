@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Central: Easter Rising centenary is being hijacked say families of 1916
-
 Article on the IrishCentral website

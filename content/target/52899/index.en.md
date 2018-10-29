@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Monique McAdams (@monique2017GE) on Twitter
-
 Twitter profile of Monique McAdams, Scottish Labour candidate for East Kilbride, Strathaven and Lesmahagow in the 2017 general election.

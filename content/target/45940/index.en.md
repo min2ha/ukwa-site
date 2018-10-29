@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Mòd nan Eilean Siar
-
 Website of the Mòd nan Eilean Siar, which ran from Friday 14th to Saturday 22nd October 2016.

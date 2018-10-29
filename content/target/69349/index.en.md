@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Leo The Great
-
 Site of a Scottish Roman Catholic parish church located in Glasgow.

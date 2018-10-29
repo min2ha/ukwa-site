@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Gibraltar angered by Spain's EU 'veto'
-
 A draft document on the EU's Brexit strategy said no agreement on the EU's future relationship with the UK would apply to Gibraltar without the consent of Spain, giving it a potential veto. But Gibraltar's chief minister Fabian Picardo said this was "unacceptable".

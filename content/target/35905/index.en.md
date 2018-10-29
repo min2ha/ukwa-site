@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Common. Official report, Monday 22nd February 2016: European Council
-
 David Cameron's statement to Parliament on the agreement reached at the February 2016 European Council meeting about reform of Britain's relationship with the European Union.

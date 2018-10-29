@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# International Voluntary Service
-
 IVS GB is a peace organisation working for the sustainable development of local and global communities throughout the world.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Celtic Congress Wales 2014 | Y Gyngres Celtaidd Cymru 2014
-
 The Celtic Congress work to promote and perpetuate the mutual ideals, cultures and languages of the Celtic people’s of Europe. This is the site for the 2014 Celtic Congress that was held in Wales.

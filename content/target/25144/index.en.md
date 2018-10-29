@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband and Boris Johnson trade blows on Andrew Marr as general election campaign gets personal 
-
 None

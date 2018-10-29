@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade Etherington Visually impaired ski racer on Facebook
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Pride of Britain Awards
-
 The Daily Mirror’s Pride of Britain Awards in partnership with TSB celebrate the achievements of truly remarkable people who make our world a better place.

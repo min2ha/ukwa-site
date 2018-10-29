@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain's election: rise of Scottish and English nationalists threatens old order
-
 None

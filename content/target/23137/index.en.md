@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# David Maddox (@DavidPBMaddox) on Twitter
-
 Twitter profile of David Maddox, a political journalist for The Scotsman based in Westminster. 

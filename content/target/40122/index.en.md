@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Frank Brangwyn at the William Morris Gallery
-
 Project to support a new exhibition and learning resources about Frank Brangwyn and the First World War.

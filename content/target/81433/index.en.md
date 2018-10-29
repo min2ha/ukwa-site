@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen Oilcats (@AOilcats) on Twitter
-
 Flag football team based in Aberdeen, playing in the BAFA Adult Flag League HNC East Conference. New players always welcome to train with us!
 

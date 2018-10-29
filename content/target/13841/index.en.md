@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Great Together (GreatTogether14) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Girls on the Ball (@GirlsontheBall) on Twitter
-
 Official account of Girls on the Ball covering women's football over land & sea, averaging 32,000 miles/year.

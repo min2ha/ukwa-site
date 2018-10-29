@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: John Prescott launches blistering attack on Ed Miliband's failed election campaign
-
 None

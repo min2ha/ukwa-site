@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# CMT UK - Charcot-Marie-Tooth Disease UK
-

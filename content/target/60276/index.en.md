@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Suella Fernandes (Conservative politician)
-
 Suella Fernandes was first elected as Conservative  MP for Fareham in 2015 and re-elected in 2017. She became a junior minister in the Department for Exiting the EU in January 2018.

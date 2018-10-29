@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Jazzmine B (@jreadsalot) on Twitter
-
 A publicist and a diversity champion.

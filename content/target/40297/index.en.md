@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Fife Contemporary Art & Craft
-
 Site of an independent visual arts organisation based in St. Andrews, Fife, Scotland.

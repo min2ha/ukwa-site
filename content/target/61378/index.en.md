@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# CorCenCC (Corpws Cenedlaethol Cymraeg Cyfoes - the National Corpus of Contemporary Welsh)
-
 The CorCenCC project (Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh), is creating a major language resource for Welsh speakers, Welsh learners, Welsh language researchers, and indeed anyone who is interested in the Welsh language. CorCenCC is an inter-disciplinary and multi-institutional project funded by the ESRC and AHRC and led by Dawn Knight, at the Centre for Language and Communication Research, Cardiff University.

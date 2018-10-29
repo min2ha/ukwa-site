@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Jantar Blog
-
 Blog from Jantar Publishing, which publishes English translations of literature written in the languages of Central and East Europe.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T11:00:00Z"
 }
 
-# Atlas Llenyddol Digidol Cymru a'i Ffiniau | Digital Literary Atlas of Wales and its Borderlands, The | 
-
 The Digital Literary Atlas of Wales and its Borderlands is an interactive online atlas that maps the locations of English‑language novels set in Wales. It is an AHRC-funded project involving Cardiff University and CREW, Swansea University.

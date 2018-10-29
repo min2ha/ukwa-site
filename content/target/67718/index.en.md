@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Alresford Rugby Club
-
 Established in 1991 Alresford run 2 senior teams and a minis section. 
 With development of our new ground We will be introducing a new colts section. 

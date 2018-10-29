@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# SSE plc
-
 SSE plc is a British energy company, they operate in United Kingdom and Ireland. They are involved in the generation, transmission, distribution and supply of electricity and gas, the operation of gas and telecoms networks and other energy-related services such as gas storage, exploration and production. 

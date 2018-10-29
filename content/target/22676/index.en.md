@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ian Lavery on Facebook (Labour candidate for Wansbeck)
-

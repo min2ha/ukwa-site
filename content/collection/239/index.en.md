@@ -5940,6 +5940,4 @@
   "endDateText": ""
 }
 
-# Religion/Theology
-
 Websites identified by the Religious Archives Group (RAG). The collection was originally headed by Clive Field who was succeeded by Peter Webster.

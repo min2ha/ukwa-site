@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northampton General Hospital
-
 None

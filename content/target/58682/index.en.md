@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Graeme Dey
-
 Greame Dey, Scottish National Party Member of the Scottish Parliament for Angus South.

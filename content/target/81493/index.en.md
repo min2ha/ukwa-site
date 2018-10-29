@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Baggies (@WBALGBT) on Twitter
-
 LGBT+ Supporters of West Bromwich Albion Football

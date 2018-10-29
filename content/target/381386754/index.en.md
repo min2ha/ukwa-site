@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Trawnsewid Llandrindod Transition
-
 A voluntary and grassroot community group formed as part of the international transition movement to prepare a make a transition to a healthier and low carbon future. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Some Ramblings
-
 The blog of Rececca Plenderleith, Scottish Liberal Democrat candidate for Kilmarnock and Irvine Valley in the 2016 Scottish Parliamentary election.

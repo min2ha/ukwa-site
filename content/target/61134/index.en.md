@@ -10,6 +10,4 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Miranda Emmerson, Writer
-
 Miranda Emmerson is a playwright, author of two books and a regular contributor to BBC Radio 4 and BBC Radio 4 Extra. She grew up in south-west London and now lives in Wales. 

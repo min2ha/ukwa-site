@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Lothian
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in East Lothian and Midlothian.

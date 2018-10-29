@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Cardiff University Brain Research Imaging Centre (CUBRIC)
-
 Cardiff University’s Brain Research Imaging Centre was opened in 2016 and houses a combination of neuroimaging equipment unique within Europe and is a world-leading research centre in the field of Psychology, Psychiatry and Neuroscience.

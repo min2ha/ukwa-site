@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# New Exhibitions
-
 For over 30 years New Exhibitions has been a publication with the function of identifying, presenting and disseminating accurate, comprehensive and up-to-date information on the Contemporary Art scene.

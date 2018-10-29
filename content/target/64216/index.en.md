@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Jedburgh Old and Trinity Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Can I catch Ebola from a toilet seat? 
-
 Article on how contagious Ebola is

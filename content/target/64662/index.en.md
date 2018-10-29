@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Lodge Randolph No. 776
-
 Site of a masonic lodge located in Buckhaven, Fife and affiliated with the Grand Lodge of Scotland.

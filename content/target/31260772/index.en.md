@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Chelsea Theatre
-
 Chelsea Theatre is a contemporary performance space and community hub which combines artistic excellence and community participation.

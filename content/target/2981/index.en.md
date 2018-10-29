@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Gumtree
-
 <p>Large network of online classifieds and community websites.</p>

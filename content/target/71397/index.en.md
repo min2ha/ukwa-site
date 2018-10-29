@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Old Whitgiftian RFC on Pitchero
-
 The official website of Old Whitgiftian Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Thinking Drugs
-
 Thinking Drugs is maintained by New Economics Foundation and Release to encourage development of opinions about international drugs issues.

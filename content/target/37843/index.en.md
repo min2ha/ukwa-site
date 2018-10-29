@@ -10,5 +10,3 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# Cymdeithas Hanes Catholig Cymru a'r Gororau | Wales and the Marches Catholic History Society
-

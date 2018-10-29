@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St. Helena Tourism
-
 Official tourist website for St. Helena including travel and tour trips as well as local news.

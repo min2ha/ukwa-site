@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# The Water Services Regulation Authority (@Ofwat) on Twitter
-
 The economic regulator of the water sector in England & Wales, building trust & confidence in water from customers & wider society. RTs do not imply endorsement

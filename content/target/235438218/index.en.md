@@ -10,6 +10,4 @@
   "start_date": "2014-11-08T23:00:00Z"
 }
 
-# World Composers
-
 <p>Database of composers</p>

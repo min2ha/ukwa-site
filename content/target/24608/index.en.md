@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Attacks on Ed Miliband 'low rent and laughable' says Labour's US election guru
-
 None

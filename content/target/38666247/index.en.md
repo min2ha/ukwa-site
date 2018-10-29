@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Equestrian Federation (BEF)
-
 The British Equestrian Federation is the national governing body of equestrian sport in Great Britain and represents the country at the International Federation for Equestrian Sports (FEI).

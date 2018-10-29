@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with European Commission President Juncker: 21 October 2016
-
 Prime Minister Theresa May met with Jean-Claude Juncker, President of the European Commission, after the European Council meeting. She reiterated her position that while the UK would be leaving the EU we would not be leaving Europe. 

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Continuity in the availability of goods for the EU and the UK
-
 It is in the interests of both the UK and the EU to ensure a smooth and orderly withdrawal in regard to the availability of goods in the UK and EU markets. The government recognises that investors, businesses and citizens in the UK and across the EU want to be able to plan ahead with certainty, and this paper sets out its desire to provide legal certainty and avoid disruption for business and consumers.
 
 

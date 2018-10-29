@@ -11,7 +11,5 @@
   "subject": "Zines and Fanzines"
 }
 
-# AZ Magazine (@azmaguk) on Twitter
-
 An online zine focused on the aim of creating a voice and a platform for those who have felt excluded from the wider LGBT+ community. This is their Twitter account.
  

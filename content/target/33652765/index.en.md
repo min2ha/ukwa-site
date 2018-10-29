@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Gurkha Museum Winchester, The
-
 None

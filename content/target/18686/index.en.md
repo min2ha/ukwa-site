@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Magna Carta manuscript reveals its secrets: Scans uncover lost text hidden on a damaged section of 800-year-old parchment
-

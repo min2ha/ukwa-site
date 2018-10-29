@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Diocese of Argyll & the Isles / Sgìr-Easbuig Earraghàidheal 's nan Eilean
-
 Site of the Roman Catholic Diocese of Argyll & the Isles

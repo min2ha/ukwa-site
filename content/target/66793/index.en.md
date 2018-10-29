@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# McTaggart Construction Limited
-
 The website of McTaggart Construction Limited, a construction development and building services company based in Ayrshire, Scotland.

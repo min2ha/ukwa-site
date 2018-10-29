@@ -10,6 +10,4 @@
   "start_date": "2017-05-03T00:00:00Z"
 }
 
-# Platform-7
-
 Platform-7 is an abstract live art events network creating innovative, provocative and thought provoking interventions discussing social issues in the public realm, est 2007.

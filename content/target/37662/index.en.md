@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Lesley Brennan MSP: MSP for North East Scotland
-

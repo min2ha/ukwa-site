@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Edinburgh
-
 The website of the Presbytery of Edinburgh. 

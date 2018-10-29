@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Windrush Betrayal
-
 An online petition to capture interest in perusing a legal case to find justice for the Windrush generation.

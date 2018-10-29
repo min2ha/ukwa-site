@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marion Fellows on Facebook
-
 This is the Facebook page of Marion Fellows, the Scottish National Party (SNP) candidate for Motherwell and Wishaw in the UK General Election on the 7th May 2015.

@@ -10,5 +10,3 @@
   "start_date": "2006-11-21T00:00:00Z"
 }
 
-# Plwyf Llangynfelyn: Hanes a chofnodion plwyf Llangynfelyn - The history and records of the parish of Llangynfelyn
-

@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Adam Price (@Adamprice) on Twitter
-
 Adam Price is the Assembly Member for Carmarthen East and Dinefwr.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# GM Freeze
-
 Genetically modified (GM) Freeze the campaign on GM food, crops and patents

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 25th Jan 2017: Prime Minister's Questions
-
 The Prime Minister, Theresa May, announces that she will agree to produce a white paper on the government's Brexit strategy. She and Jeremy Corbyn also cover worker's rights post-Brexit and UK-US relations.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Time to call Sturgeon's bluff, Cameron urged
-
 None

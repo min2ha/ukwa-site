@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Scotlander
-
 Scotlander is a spanish-language blog that specialises in documenting Scottish culture through photographs, blog posts, and tips. It is linked with ScotlandeRadio, a radio station broadcasting from Inverness. 

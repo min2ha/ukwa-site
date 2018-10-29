@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# New Dot Cinema
-
 New Dot Cinema was launched in 2015 and is a community cinema for Llangollen and the Dee Valley.

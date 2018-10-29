@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Association of Professional Healthcare Analysts (AphA)
-
 AphA is an organisation whose membership is representative of all areas of the health care sector. The organisation’s aim is to raise the profile of healthcare analysts and provide a professional support network, ultimately achieving professional registration status for its members, and to drive up the quality and applicability of robust analytics as an aid to evidence based decision making in a modern health and care system

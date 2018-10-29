@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Penzance Town Council
-
 None

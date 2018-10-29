@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Watch Forums
-
 An online enthusiast community concerned with watch collecting. Discusses electric watches, vintage watches, military watches, watches by region and various other related topics.

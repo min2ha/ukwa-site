@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Royal New Potatoes
-
 Website for the Jersey Royal New Potato with history, latest news and recipes.

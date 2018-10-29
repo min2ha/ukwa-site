@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# York Rugby Club (@york_rufc) on Twitter
-
 The official Twitter account of York Rugby Club.

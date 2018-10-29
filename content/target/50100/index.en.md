@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Linlithgow Rose Football Club
-
 Site page for a Scottish junior football club based in Linlithgow, West Lothian.

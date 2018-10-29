@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cymru 1914. The Welsh experience of the First World War
-
 <p>A site provided by the National Library of Wales, and funded by JISC and project partners to conduct mass digitization of primary sources relating to World War One.</p>

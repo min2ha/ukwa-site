@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stewart Stevenson MSP
-
 <p>The website of Stewart Stevenson, Member of the Scottish Parliament for Banffshire and Buchan Coast.</p>

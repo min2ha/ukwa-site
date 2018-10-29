@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Scott Mann (@scottmann4NC  ) on Twitter (Conservative Politician)
-
 Scott Mann stood as Conservative candidate for North Cornwall at the 2017 General Election and was elected MP. He was first elected to serve North Cornwall in 2015.

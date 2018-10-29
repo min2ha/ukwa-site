@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Dumfries and Kirkcudbright
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in Dumfries & Galloway [historic counties of Dumfriesshire, Kirkcudbrightshire and Wigtown].

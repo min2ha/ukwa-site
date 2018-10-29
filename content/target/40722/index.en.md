@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Impulse online magazine
-
 Word Press site of an online and hard copy magazine produced by journalism students attending Edinburgh Napier University and covering arts, culture and travel.

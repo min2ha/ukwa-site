@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Carmarthen Ham Caerfyrddin
-
 Carmarthen Ham is one of the EU’s list of protected foods. 

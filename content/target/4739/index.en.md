@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Conservative Home: Mandela and the Right
-
 <p>Blog posting by Paul Goodman on Nelson Mandela and the variety of views on South Africa by those on the political right in the UK.</p>

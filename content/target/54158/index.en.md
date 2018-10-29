@@ -10,5 +10,3 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Central Wales RIGS group (Regionally Important Geodiversity Sites)
-

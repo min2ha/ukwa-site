@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Chris Lintott's Universe
-

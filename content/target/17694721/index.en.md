@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Tintagel - King Arthur Country
-
 None

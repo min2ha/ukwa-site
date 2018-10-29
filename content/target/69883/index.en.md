@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stirling Festival of Cycling and Walking 2018
-
 Website for the Stirling Festival of Cycling and Walking 2018.

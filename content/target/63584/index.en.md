@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stow and Heriot Church
-
 The website of Stow St. Mary of Wedale and Heriot Church of Scotland.

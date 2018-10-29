@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carolyn Harris MP on Facebook
-
 Carolyn Harris is the Labour candidate for Swansea East.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Staverton
-
 The community website for Staverton in South Hams, Devon.

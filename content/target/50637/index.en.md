@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Diarmuid Johnson: Music - Poetry - Images
-
 Diarmuid Johnson is a writer and musician, scholar and artist from Cardiff.

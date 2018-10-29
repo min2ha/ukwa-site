@@ -10,6 +10,4 @@
   "start_date": "2015-02-04T06:00:00Z"
 }
 
-# Hercules Editions
-
 <p>Site of Hercules Editions, the publisher</p>

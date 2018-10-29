@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Scotland's for Peace
-
 Site of a campaign for the majority of Scotland's elected representatives to be in favour of not renewing nuclear weapons hodings, to establish a Scottish peace and justice centre and a Scottish peace day.

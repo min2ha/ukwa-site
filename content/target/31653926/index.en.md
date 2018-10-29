@@ -10,5 +10,3 @@
   "start_date": "2009-09-15T00:00:00Z"
 }
 
-# Arts and Humanities E-Science Centre
-

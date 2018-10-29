@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Christopher Brookmyre
-
 The website of Scottish crime writer Christopher Brookmyre.

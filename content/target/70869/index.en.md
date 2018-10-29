@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tabard RFC
-
 The official website of Tabard Rugby Football Club. Established 1951. Tabard is a friendly and sociable family club and our aim is to give everyone the opportunity to fulfil their potential on the rugby field.

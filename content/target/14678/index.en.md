@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# London School of Hygiene & Tropical Medicine: Ebola in West Africa
-
 None

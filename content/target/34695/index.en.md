@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# RMS Titanic
-
 A project page on a family history site www.geni.com.

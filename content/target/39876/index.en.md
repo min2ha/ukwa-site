@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Highlands and Islands Conservatives (@HIConservatives) on Twitter
-
 Twitter feed of the Highland Conservatives.

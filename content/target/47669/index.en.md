@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Eurig Salisbury
-
 Eurig Salisbury is a Poet and ​Lecturer in Creative Writing at the Department of Welsh and Celtic Studies in Aberystwyth University.

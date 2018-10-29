@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Sandyford
-
 Site of the National Health Service (NHS)  Greater Glasgow and Clyde sexual health branch

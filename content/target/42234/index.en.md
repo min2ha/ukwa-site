@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# We Are Europe (@weareeuropeuk) on Twitter
-
 A collective of friends, artists, campaigners, creatives, and doers who want a positive future in Europe.

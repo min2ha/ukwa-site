@@ -10,5 +10,3 @@
   "start_date": "2008-08-04T23:00:00Z"
 }
 
-# Asiantaeth yr Amgylchedd Cymru - Environment Agency Wales
-

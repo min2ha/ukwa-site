@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh South & Midlothian Scottish Socialist Party (SSP) on Facebook
-

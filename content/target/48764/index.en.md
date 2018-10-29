@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Supreme Court Brexit ruling: What happens next?
-
 The Supreme Court  dismissed the government's argument that it had the power to begin official Brexit negotiations with the rest of the EU without Parliament's prior agreement. This article explains what could happen next.

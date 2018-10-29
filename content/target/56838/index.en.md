@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Enforcement and Dispute Resolution
-
 The direct jurisdiction of the Court of Justice of the European Union (CJEU) in the UK will end at the point of our withdrawal from the EU. The UK and the EU need therefore to agree on how both the provisions of the Withdrawal Agreement, and our new deep and special partnership, can be monitored and implemented to the satisfaction of both sides, and how any disputes which arise can be resolved.
 
 

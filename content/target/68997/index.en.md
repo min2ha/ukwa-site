@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Economic Affairs: Freedom to flourish: UK regulatory autonomy, recognition and a productive economy
-
 Withdrawal from the EU must mean regulatory autonomy for the United Kingdom – sovereignty over its regulations. This reflects the democratic mandate of the 2016 referendum and the 2017 manifesto commitments of the Conservative and Labour Parties, and will propel growth and competition in the economy. It is also necessary for the UK to be able to sign advanced trade agreements with countries around the world. The United Kingdom has a unique opportunity to use withdrawal from the EU to grow its economy and become considerably more productive. It is vital that nothing is done to take these benefits off the table. But for pro-competitive regulation, regulatory autonomy is vital.

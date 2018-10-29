@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Episcopal Church in the North West Highlands, The
-
 Site of a group of Scottish Episcopal Christian churches and their congregations in the the North and North West of Scotland, namely, St. Mary the Virgin, Ullapool; St. Gilbert's, Lochinver; St. Bonifaceof Ross, Achiltibuie; St. Mary-by-the-Cross Scottish Episcopal Church, Tongue; St. Gilbert's, Kinlochbervie.

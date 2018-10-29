@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Edinburgh Past and Present
-
 Personal site created to promote the history and current information about Edinburgh, Scotland

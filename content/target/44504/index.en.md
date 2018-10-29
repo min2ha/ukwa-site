@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Linsert.org
-
 Site devoted to sharing resources focusing on LGBTI+ history, with a particular interest in Scotland, and promoting study in the field.

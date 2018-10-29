@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# Bring Back British Rail
-
 Founded in 2009, Bring Back British Rail strives to popularise the idea of re-nationalising the railway system.

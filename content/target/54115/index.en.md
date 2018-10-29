@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Dawson (@MorleyNeil)  on Twitter (Labour Politician)
-
 Neil Dawson stood as Labour Co-op candidate for Morley and Outwood in the 2017 General Election but was not elected.

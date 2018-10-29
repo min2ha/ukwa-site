@@ -10,5 +10,3 @@
   "start_date": "2017-05-12T09:00:00Z"
 }
 
-# Scottish Government: Engage for Education
-

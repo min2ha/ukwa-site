@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Mr Brexit (@MrBrexit) on Twitter
-
 Campaigning to leave the EU

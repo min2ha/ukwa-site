@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Britain's membership of the EU could fall down the generation gap
-
 Guardian, The

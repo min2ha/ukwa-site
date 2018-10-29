@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Guildfordians Rugby Club
-
 The official website of Guildfordians Rugby Club. Guildfordians Rugby is a friendly rugby club in the heart of Guildford that welcomes new members, playing or non-playing, young or old, male or female.

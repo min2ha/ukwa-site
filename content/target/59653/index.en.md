@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# MG Car Forum
-
 An online enthusiast community concerned with MG Cars. Discusses MG cars shows, news & events, specific MG cars and various other topics.

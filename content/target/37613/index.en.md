@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Syed Kamall: Tory MEP who helped David Cameron with EU renegotiation joins Leave campaign
-

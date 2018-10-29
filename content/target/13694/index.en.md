@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# East Renfrewshire Council: Referendum events for pupils
-
 None

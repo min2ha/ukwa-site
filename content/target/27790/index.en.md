@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Salisbury International Arts Festival: Elvis Costello, Omid Djalili and Shappi Khorsandi among the highlights
-

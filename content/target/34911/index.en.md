@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Aberteifi Artisans
-
 Aberteifi Artisans is an open arts group created for all artisan artists, musicians, photographers, poets, writers, bakers, brewers, thespians & makers in & around Aberteifi (Cardigan) in West Wales.

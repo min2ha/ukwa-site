@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Parish, Irvine
-
 Site of a Scottish Roman Catholic parish church located in Irvine, Ayrshire and its associated parish, St. Margaret's of Scotland, Ayrshire.

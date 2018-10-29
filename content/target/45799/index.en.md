@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Llan - a modern Celtic monastery
-
 A community of spiritual seekers striving to live after the example of Rabbi Jesus Ben Joseph and dedicated to becoming their True selves.

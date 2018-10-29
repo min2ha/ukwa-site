@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Low Commission's Manifesto for Advice in Wales
-

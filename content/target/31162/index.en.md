@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# New Manchester Walks
-
 New Manchester Walks is a website offering tours and walks in Manchester area.

@@ -10,8 +10,6 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Porthdinllaen Lifeboat
-
 Porthdinllaen Lifeboat Station is situated near Morfa Nefyn on the north coast of the Lleyn Penninsula in Gwynedd, North Wales.
 
  

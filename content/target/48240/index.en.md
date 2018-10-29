@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Record Journal, The
-
 Record Journal promotes live folk music in North Wales and began in 2008 as an online portfolio of journalistic writings. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Andrea Jenkyns (Conservative Politician)
-
 Andrea Jenkyns stood as Conservative candidate for Morley and Outwood at the 2017 General Election and was successful.

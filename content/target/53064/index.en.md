@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Runnymede & Weybridge Conservatives
-
 Provides a biography of the sitting MP, Philip Hammond, plus the usual mix of news and events.

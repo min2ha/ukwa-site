@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harrow Health and Wellbeing Board
-
 None

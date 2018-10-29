@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gregory Stafford (@Gregory4Cardiff) on Twitter
-
 Gregory Stafford is the Conservative Parliamentary candidate for Cardiff Central at the 2017 General Election.

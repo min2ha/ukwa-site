@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Games Fund
-
 UK Games Fund is a community interest company that has been established to help develop the UK games development sector, particularly at the early stage.

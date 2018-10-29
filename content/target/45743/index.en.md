@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Meditation Trust
-
 The Meditation Trust was established as a registered charity in 2000 with a mission to make Transcendental Meditation ('TM') accessible and affordable for all.

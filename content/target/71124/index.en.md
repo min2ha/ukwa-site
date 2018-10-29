@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Helens RFC
-
 The official website of St. Helens Rugby Football Club.

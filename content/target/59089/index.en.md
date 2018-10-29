@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Shia Asna Ashri Azadari Information Centre Scotland
-
 Site of an Islamic centre in Glasgow.

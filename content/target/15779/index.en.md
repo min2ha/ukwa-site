@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Salisbury U3A
-
 <p>A University of the Third Age local site for Salisbury. This site combines the three U3A groups: Salisbury, Sarum and Spire .</p>

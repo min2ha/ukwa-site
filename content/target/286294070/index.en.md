@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Circuit of Wales
-
 <p>Circuit of Wales is a motor racing circuit under development in Blaenau Gwent and is funded by the Welsh Government and private investors.</p>

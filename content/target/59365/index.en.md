@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Paul Golding (@GoldingBF) on Twitter
-
 Paul Golding is the Leader of Britain First.

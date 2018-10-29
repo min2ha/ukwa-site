@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Budget Group (@WomensBudgetGrp) on Twitter
-
 Official Twitter page of the Women's Budget Group, independent, not-for-profit group monitoring the impact of government policies on men & women and putting forward gender-equal policies.

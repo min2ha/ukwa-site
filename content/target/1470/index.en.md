@@ -10,6 +10,4 @@
   "start_date": "2013-05-03T10:00:00Z"
 }
 
-# General Medical Council
-
 <p>Website of the General Medical Council which registers doctors to practise medicine in the UK.</p>

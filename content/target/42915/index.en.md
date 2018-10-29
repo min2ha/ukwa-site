@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Melbourne Star
-
 This website is a dedication to those who were lost when the MV Melbourne Star of the Blue Star Line was torpedoed and sunk during WWII.

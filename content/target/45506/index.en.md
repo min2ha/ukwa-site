@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7th Sept. 2016: G20 Summit
-
 The Prime Minister discusses the process of Brexit and outlines how she intends to conduct negotiations.

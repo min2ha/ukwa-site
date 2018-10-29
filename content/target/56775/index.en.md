@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Widdershins
-
 Widdershins is a series of Victorian-era adventure stories, set in the fictional town of Widdershins, West Yorkshire- England’s magical epicentre, home to bounty hunters, failed wizards, stage magicians, and more, besides. It is created by Kate Ashwin.

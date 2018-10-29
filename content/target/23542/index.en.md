@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Gilbert (@stephen_gilbert) on Twitter (Liberal Democrats candidate for St Austell and Newquay)
-
 Stephen Gilbert stood as Liberal Democrats candidate for St Austell and Newquay in the 2015 General Election but was not elected. 

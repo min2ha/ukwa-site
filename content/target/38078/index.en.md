@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NE Stronger In (@NEStrongerIn) on Twitter
-
 North East regional campaign for the UK to stay in the EU

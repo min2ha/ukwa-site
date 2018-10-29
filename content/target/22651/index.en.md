@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour attacked by top bosses: Karren Brady among 100 execs warning against Ed Miliband
-
 None

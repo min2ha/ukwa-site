@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Llanwnda | Llanwnda Community Council
-
 Llanwnda Community Council’s catchment area includes the villages of Rhosgadfan, Rhostryfan, Rhos Isaf, Dinas, Llanwnda and Saron. 

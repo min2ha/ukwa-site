@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# BBC News: Politics
-

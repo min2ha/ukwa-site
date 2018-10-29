@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# World Confederation for Physical Therapy (WCPT)
-
 The World Confederation for Physical Therapy represents physical therapists and their organisations around the globe. Physical therapists, also known as physiotherapists, are the specialists in human activity and movement. 

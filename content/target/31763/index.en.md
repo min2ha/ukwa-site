@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Welsh Antiques
-
 Welsh Antiques is based in Kidwelly and specialises in quality antique Welsh furniture. 

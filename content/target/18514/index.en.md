@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Can Lib Dem 'rent-to-own' housing plan work?
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tania Mahmood (@tania_mahmood) on Twitter (Peace Party candidate for Tottenham)
-

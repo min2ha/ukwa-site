@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU leaders to discuss UK's exit without Theresa May
-
 The EU's 27 other leaders  met without British Prime Minister Theresa May later to discuss their plans for the upcoming Brexit negotiations at the December Council Meeting.

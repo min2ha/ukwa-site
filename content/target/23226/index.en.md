@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Youth: a creative way to get young people voting
-

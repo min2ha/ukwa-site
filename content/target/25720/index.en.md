@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Up close and personal: Danny Alexander hopes local popularity will save his seat
-
 None

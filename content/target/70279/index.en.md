@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football for All NI (@FootballforAll) on Twitter
-
 Creating a Fun, Safe and Inclusive culture throughout football in Northern Ireland.

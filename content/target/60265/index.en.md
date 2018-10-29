@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bound and Gagged Comedy
-
 Site of a comedy touring promoter, management and promoter of events at the Edinburgh Festival Fringe; based in London.

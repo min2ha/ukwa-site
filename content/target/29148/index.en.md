@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T10:00:00Z"
 }
 
-# Old Market, The
-
 Brighton and Hove City Reads organised by the The Old Market

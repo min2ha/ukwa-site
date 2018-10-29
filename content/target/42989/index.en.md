@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West India Committee
-
 Website of West India Committee - UK-based charity seeking to promote the interests of agriculture, manufacturing Industries and trade of the West Indies, Guyana and Belize.

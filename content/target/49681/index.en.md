@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson accused of bad taste for calling Brexit 'liberation'
-

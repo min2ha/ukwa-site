@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Stone Festival
-
 A local festival organised by a committee in Stone, UK.

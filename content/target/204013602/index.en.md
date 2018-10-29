@@ -10,6 +10,4 @@
   "start_date": "2013-12-13T15:00:00Z"
 }
 
-# Save Our Sulivan
-
 None

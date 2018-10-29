@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berry Hill RFC
-
 Estabished in 1892 and currently playing in Gloucestershire One

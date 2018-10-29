@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Scotmas Group
-
 Scotmas Group supplies chlorine dioxide engineering and development to industry. Chlorine dioxide is used as a disinfectant.

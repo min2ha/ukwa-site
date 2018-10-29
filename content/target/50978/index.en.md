@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# British Autism Study of Infant Siblings
-
 Autism is a developmental condition affecting social development and communication. Some form of autism affects up to 1 in 100 children in the UK. Currently, it is very rare that autism is diagnosed earlier than two years of age when symptoms are sufficiently clear.

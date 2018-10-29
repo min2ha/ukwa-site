@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Jack Sargeant AM: your local Assembly Member for Alyn and Deeside
-
 Jack Sargeant is the Welsh Assembly Member for Alyn and Deeside elected  in a by-election that took place in 2018 following the death of his late father, Carl Sargeant. 

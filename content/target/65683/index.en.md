@@ -11,7 +11,5 @@
   "subject": "News Sites"
 }
 
-# UnHerd
-
 UnHerd.com is a new media platform with a double mission. Its aim is to appeal to people who instinctively refuse to follow the herd, and to investigate ‘unheard’ ideas, individuals and communities. It focuses on the significant events going on in the world, filtering out the distractions to give readers what they really need to know.
 

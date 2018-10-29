@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirk of St Nicholas Uniting, The
-
 The website of the Kirk of St. Nicholas Uniting, located in Aberdeen. 

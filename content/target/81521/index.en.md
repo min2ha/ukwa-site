@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UK Government and Parliament: Support The Best Policy for Children; give Both Parents Equality in Law.
-
 Petition to give both fathers and mothers equality in the law.

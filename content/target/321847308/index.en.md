@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Wales Literature Exchange - Cyfnewidfa Lên Cymru
-
 Wales Literature Exchange is the translation junction connecting writers, translators and publishers in Wales and abroad.

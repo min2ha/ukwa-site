@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Yorkshire & Humber Green Party: European Elections - 22 May 2014
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# ArchaeoDomus, Archaeological & Heritage Services
-
 ArchaeoDomus Archaeological & Heritage Services was established in 2014 and is based at Lampeter. They offer archaeological and heritage building services. They provide a range of archaeological and heritage services for their clients.

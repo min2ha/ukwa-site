@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isobel Pooley: Great Britain International High Jumper
-
 <p>The website of high jumper Isobel Pooley, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

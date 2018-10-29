@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Apostolic Faith Mission in Scotland
-
 Site of a Christian church, originating in Southern Africa, and with churches in Edinburgh and Glasgow.

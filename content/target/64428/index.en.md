@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Galston Parish Church
-
 Site of a Church of Scotland parish church at Galston, Ayrshire.

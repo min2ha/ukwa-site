@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Money Saving Expert
-
 <p>MoneySavingExpert.com is a British consumer finance information and discussion website founded by financial journalist Martin Lewis in February 2003.</p>

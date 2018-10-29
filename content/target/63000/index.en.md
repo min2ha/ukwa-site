@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carlops Parish Church
-
 Site of a Church of Scotland parish church at carlops, Scottish Borders.

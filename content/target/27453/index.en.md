@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Kitchen-sink drama: a new home front opens in the battle for the general election
-
 None

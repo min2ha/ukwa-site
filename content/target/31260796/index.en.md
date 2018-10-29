@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Ballinascreen Historical Society 
-
 None

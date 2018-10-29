@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Ayrshire and Arran | Conservative and Unionists
-
 Website for North Ayrshire and Arran Conservatives, a local political group involved in the 7th May 2015 General Elections.

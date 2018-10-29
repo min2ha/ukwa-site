@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Brexit: what happens next?
-
 Now that the UK has voted to leave the EU, what will happen next? This Commons Library briefing paper looks at the immediate consequences of the vote and some of the longer term implications. This paper considers various questions about UK withdrawal from the EU and what is likely to happen in the coming weeks and months. The issues include the method of leaving the EU, continuing parliamentary scrutiny of EU business and the withdrawal negotiations, and the implications of Brexit for Scotland and Gibraltar.

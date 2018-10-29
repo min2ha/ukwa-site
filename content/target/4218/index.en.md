@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# No Glory in War 1914-18
-
 <p>A campaign to promote a centenary celebration marked by a realistic assessment of the history of the war, and tending to the promotion of peace and international co-operation.</p>

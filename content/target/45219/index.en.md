@@ -10,6 +10,4 @@
   "start_date": "2016-09-01T10:00:00Z"
 }
 
-# Scottish Flag Trust
-
 Site of an organisation set up to maintain and promote the Flag Heritage Centre.

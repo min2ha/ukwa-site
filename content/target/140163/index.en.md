@@ -10,5 +10,3 @@
   "start_date": "2007-10-17T00:00:00Z"
 }
 
-# Llyn Seafood Festival
-

@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Llyfrau Achau Alcwyn C. Evans | Alcwyn C. Evans Pedigree Books
-
 These three manuscript volumes contain indexed pedigrees of the ancient families of south-west Wales compiled by Alcwyn Caryni Evans, a highly thorough and industrious antiquary from Carmarthen. 

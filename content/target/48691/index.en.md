@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Digital Business Academy
-
 The Digital Business Academy is a free online platform created by Tech City UK to teach skills you need to start, grow or join a digital business. 

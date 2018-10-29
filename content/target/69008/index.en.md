@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Kidwelly Festival Choir
-
 Kidwelly festival choir is a mixed voice choir formed in 1984, the choir performs a varied repertoire, from sacred and classical songs to musicals.

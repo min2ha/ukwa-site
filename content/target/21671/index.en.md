@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Form a government by late summer or the money runs out – Treasury
-
 None

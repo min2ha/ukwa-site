@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# STV Productions
-
 STV Productions is part of the network television production arm of STV Group plc. The company's output includes drama, factual, entertainment and children's programming for broadcast on television stations worldwide. The production company Ginger Productions is also incorporated into this group.

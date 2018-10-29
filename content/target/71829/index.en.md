@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Young Migrant and Welsh
-
 Young Migrant and Welsh is a one-year heritage project led by young people from Ethnic Minorities and Youth Support Team Wales (EYST) that has researched young people’s experiences of living and growing up in Wales.

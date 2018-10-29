@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Breathless with Emphysema/Asthma-copd
-
 None

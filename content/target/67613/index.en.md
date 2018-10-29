@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Pages of Hackney: Event: The Cultural Legacy of the Windrush
-
 A special event to 70 years on from the arrival of the HMT Empire Windrush, which has come to symbolise a generation of Caribbean migrants to the United Kingdom.

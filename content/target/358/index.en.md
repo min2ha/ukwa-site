@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Derby City Health and Wellbeing Board
-

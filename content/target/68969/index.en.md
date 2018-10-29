@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: AUSTIN MITCHELL: If Remainers win their fight for a second referendum, they may be in for the shock of their lives
-

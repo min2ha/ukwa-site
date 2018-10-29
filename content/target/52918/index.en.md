@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Eastern Daily Press: Arnolds Keys’ five-point general election manifesto for commercial property
-
 Article presents a five-point manifesto for the commercial property sector

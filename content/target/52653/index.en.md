@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Run Riot
-
 Run Riot is a listing of cultural happenings, updated on a regular basis by a team of writers, agitators and culture enthusiasts. 

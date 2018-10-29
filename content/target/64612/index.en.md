@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Penybont & District Local History
-
 This is a local history society for the communities of Penybont, Crossgates and Llandegley.

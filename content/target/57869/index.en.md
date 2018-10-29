@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffington Post, The: The Importance of Mental Health Awareness
-
 Huffington Post article on mental health awareness and

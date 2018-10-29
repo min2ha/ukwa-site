@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wolverton Evangelical Church
-
 Wolverton Evangelical Church, Milton Keynes is a congregation of believers from different backgrounds and a wide age range who meet together on Sundays, Wednesdays and at other times as we have opportunity.

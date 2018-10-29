@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Bishop Grosseteste University (BGU)
-
 Official website of the Bishop Grosseteste University (BGU), Lincoln.

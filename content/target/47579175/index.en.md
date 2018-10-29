@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brighton & Hove Green Party
-
 Website of Brighton & Hove Green Party, providing information on councillors, campaigns, local Green teams and local and national news updates.

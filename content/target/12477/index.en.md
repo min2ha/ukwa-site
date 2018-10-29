@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Adam Thomas (timmytant1) on Twitter
-
 Twitter profile of Adam Thomas, captain of Wales' Rugby Sevens team in the 2014 Commonwealth Games.

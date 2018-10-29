@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Turning the tide
-

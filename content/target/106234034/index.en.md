@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Cumbria Police & Crime Commissioner
-
 None

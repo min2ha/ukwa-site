@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Which political party manifesto is best for your bank balance?
-
 None

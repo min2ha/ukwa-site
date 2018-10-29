@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Deaf Association (BDA):  BDA - Manifesto
-
 The British Deaf Association (BDA) is a deaf-led British charity that campaigns and advocates for deaf people who use British Sign Language.

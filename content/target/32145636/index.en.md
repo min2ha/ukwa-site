@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bournemouth Coastal Area Meeting
-

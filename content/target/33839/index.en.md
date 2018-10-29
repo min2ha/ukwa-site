@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# History@Kingston
-
 News and views from the history department at Kingston University, London.

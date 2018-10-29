@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Anna Soubry on Brexit: ‘History will condemn those who haven’t tried to stop all this nonsense’
-

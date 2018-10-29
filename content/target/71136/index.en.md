@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: If Brexit is so great, why do Johnson, Rees-Mogg and Bone look so sad?
-

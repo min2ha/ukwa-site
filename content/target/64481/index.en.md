@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UKFPP (@UKFriendsPP) on Twitter
-
 An organisation raising money for Planned Parenthood.

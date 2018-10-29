@@ -10,5 +10,3 @@
   "start_date": "2016-08-12T10:00:00Z"
 }
 
-# Dyfed Powys National Association of Retired Police Officers
-

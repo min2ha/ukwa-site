@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Friends of Maud Railway Museum
-
 Site of a museum located in a disused railway station, Maud Junction, Aberdeenshire, Scotland, and focusing on railway heritage in the area.

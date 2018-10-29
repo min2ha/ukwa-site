@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Rainbow Development in Africa
-
 Rainbow Development is located in Presteigne and works in Africa works with farmers and farming communities in southern Mauritania and northern Senegal, West Africa.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Impact: University of Nottingham Student Newspaper: “Young People Get It, Being Part Of Something Bigger”: Alan Johnson Addresses EU Referendum
-
 An article from Impact, the student newspaper of the University of Nottingham, detailing a review of a speech given by Remain campaigner, Alan Johnson MP at University Park Campus, on why he believes Britain should remain within the European Union.

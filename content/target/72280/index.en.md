@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Perth Elim Christian Life Centre
-
 Site of an Elim Pentecostal church (Christian) located in Perth.

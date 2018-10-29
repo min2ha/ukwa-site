@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Labour reveals all-woman BME shortlist for Edmonton
-
 None

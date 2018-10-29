@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Holyrood: Theresa May on Brexit, Scotland and the future of the UK
-

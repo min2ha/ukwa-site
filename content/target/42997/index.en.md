@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Free Speech Debate
-
 Website of Free Speech Debate - research project of the Dahrendorf Programme for the Study of Freedom at St Antony's College in the University of Oxford.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Schools Week: Mental health green paper will tackle risks of social media
-
 Website that features news and content relating to the educational sector. 

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Limping Chicken, The: The UK's independent deaf news and deaf blogs website!
-
 <p>Blog carrying news and comment which focus on diverse deaf lives across the UK and the world. The blog is edited by Charlie Swinbourne and Andy Palmer.</p>

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Clann Eireann
-
 Clann Eireann is a handball team from Lurgan, Co. Armagh, Northern Ireland.

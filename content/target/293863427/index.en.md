@@ -10,5 +10,3 @@
   "start_date": "2015-03-03T00:00:00Z"
 }
 
-# Glasgay! Festival
-

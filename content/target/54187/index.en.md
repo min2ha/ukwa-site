@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Diane Scott (Green Party  Politician)
-
 Diane Scott stood as Green Party candidate for Brentford and Isleworth at the 2017 General Election but was not elected.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Justice principle can't be sacrificed - Kerry McCarthy
-

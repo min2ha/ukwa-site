@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Orbital
-
 Comic shop in London, founded in 2002

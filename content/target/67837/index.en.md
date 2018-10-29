@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Colwyn Abbey Players
-
 Colwyn Abbey Players are amateur dramatic club based in Colwyn Bay.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computing Futures Museum
-
 Computing Futures Museum set up by Staffordshire University with support from the BCS is located in Stafford.

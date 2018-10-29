@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shebbear and Buckland Filleigh
-
 his is an independent one stop website aimed as a resource for locals and visitors alike. If you are looking for accommodation, a tradesman, loaf of bread, social events or just background information, you can find it all here.

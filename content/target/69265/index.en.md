@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady & St John's 
-
 Site of a Roman Catholic church in Scotland for the parish of Our Lady & St. John's, Blackwood, Lanarkshire, serving Kirkmuirhill, Lesmahagow, Coalburn, Auchenheath, Tilletudlum and Netherburn.

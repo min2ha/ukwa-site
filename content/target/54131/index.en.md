@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Holly Lynch (@HollyLynch5) on Twitter (Labour Politician)
-
 Holly Lynch stood as Labour candidate for Halifax in the 2017 General Election and was successful. She was first elected for Halifx in 2015.

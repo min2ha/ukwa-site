@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Monmouth Choral Society
-
 Monmouth Choral Society is a friendly choir of about 100 members which is led by the professional conductor Steven Kings.

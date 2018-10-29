@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Reekie (@James_Reekie1) on Twitter
-
 The Twitter profile of James Reekie, Scottish Conservative and Unionist candidate for Dunfermline in the 2016 Scottish Parliament election.

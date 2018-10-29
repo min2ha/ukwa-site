@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Archdiocese of Glasgow
-
 Site of the Roman Catholic Archdiocese of Glasgow.

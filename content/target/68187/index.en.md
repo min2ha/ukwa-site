@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burton on Trent Rugby Club
-
 A rugby club founded by brewers in a pub has every chance of being successful and so it has proved, founded in 1870 and still going strong today.

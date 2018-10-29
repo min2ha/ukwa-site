@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Marlow Town Regatta & Festival
-
 Website for the Marlow Town Regatta & Festival

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Highland Football League
-
 Site of an organisation organising the Highland Football League and football youth development in the Highland areas of Scotland.

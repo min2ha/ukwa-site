@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Article by Sam McBride, Political Correspondent
-

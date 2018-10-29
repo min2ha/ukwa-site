@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Niwl, Y
-
 Y Niwl are a surf instrumental band from Wales.

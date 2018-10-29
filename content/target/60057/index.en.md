@@ -10,6 +10,4 @@
   "start_date": "2018-01-05T09:00:00Z"
 }
 
-#  Inverness : the City in the Highlands on Facebook
-
 Facebook page for the city of Inverness, which provides information on life, amenities, accomodation, tourism, work, study, events and business in the city. 

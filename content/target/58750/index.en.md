@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Read Write Count / Leugh Scrìobh Cunntais
-
 Scottish Government dual language (English and Scottish Gaelic) website providing ways for parents / carers to encourage children to read, write and count through games.

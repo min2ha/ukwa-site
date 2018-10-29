@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bad EU trade deal 'disastrous' for UK jobs, investment and growth
-

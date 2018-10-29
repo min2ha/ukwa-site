@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# The Not Forgotten Association (NFA)
-
 Maintaining its original aims, the NFA has continued to adapt to meet the changing needs of the serving wounded and veterans with disabilities.

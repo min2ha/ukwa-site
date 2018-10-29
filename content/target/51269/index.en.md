@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Eritrean Relief Association (UK)
-
 The Eritrean Relief Association (UK) is a charity registered in the UK. As a company limited by guarantee incorporated in England, it is governed by a Memorandum and Article of Association.

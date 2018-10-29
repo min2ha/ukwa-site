@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Left Scotland
-
 Left:Scotland is a fortnightly video series produced and presented by Stephen Paton, as well as a series of blog posts on politics in Scotland, and global events from a Scottish perspective.

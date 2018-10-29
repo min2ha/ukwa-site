@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Return of the Mack II — Illustration, etc.
-
 Rosemary Cunningham's blog article about the Glasgow School of Art's fire, which gutted its Mackintosh building.

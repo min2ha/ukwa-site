@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Swf.uk  -  Vintage Star Wars Collecting Forum
-
 An online enthusiast community concerned with collecting vintage Star Wars memorabilia. Includes sections for general chat, vintage valuation requests, Star Wars Events, sales section and various other related topics.

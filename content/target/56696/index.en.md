@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Hull's Own Air Force Station
-
 Under the title of “Hulls own Air Force Station” Local RAF Historian Len Bacon privately published his book in 2002 precisely on the day that marked the  63rd anniversary of the opening of the 17th Balloon Centre / RAF Sutton on Hull  in 1939 - the 28th June.

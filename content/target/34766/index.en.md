@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Street Football Wales (SFW) 
-
 Street Football Wales (SFW) is a social inclusion charity that exists to improve the lives and opportunities for homeless and socially excluded people in Wales.

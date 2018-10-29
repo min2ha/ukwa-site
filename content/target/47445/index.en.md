@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Monckton Chambers: Brexit blog
-
 Monckton Chambers is a set of barristers’ chambers, based in London. They practise across a wide range of commercial and civil law, with a particular focus on EU, competition, VAT, other indirect taxes and public & administrative law.

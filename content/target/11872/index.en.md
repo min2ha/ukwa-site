@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Larbert Cluster Schools 2014 - Going for Glasgow 2014
-
 <p>Combined Commonwealth Games blog for Airth, Bothkennar, Carron, Carronshore, Kinnaird, Ladeside, Stenhousemuir and Larbert Village Primary Schools.</p>

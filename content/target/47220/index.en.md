@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Peterhead Prison Museum 
-
 Site of a museum in the former prison in Peterhead, Aberdeenshire, Scotland.

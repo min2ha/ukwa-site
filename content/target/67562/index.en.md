@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Annan Rugby Football Club
-
 Dumfries and Galloway rugby club

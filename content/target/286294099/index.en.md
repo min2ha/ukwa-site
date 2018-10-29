@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Quadrapheme
-
 <p>Literary criticism, reviews, etc, focussed on British and Irish writers.</p>

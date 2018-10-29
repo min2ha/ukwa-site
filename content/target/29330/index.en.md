@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# Greenacre Writers
-
 The Greenacre Writers was founded in 2009 by Finchley Based Writers.

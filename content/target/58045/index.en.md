@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Yacht Forum UK
-
 An online enthusiast community forum for yacht owners and sailors. Discusses safety, technical aspects of yachts and engineering, regional yachting information & news & events and various other related topics.

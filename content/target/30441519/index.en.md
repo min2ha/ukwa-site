@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Relph Family
-
 Website containing various historical, genealogical and ethical sub-pages.

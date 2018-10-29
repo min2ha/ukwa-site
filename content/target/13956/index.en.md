@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Poundsterlinglive: Could a new Scottish currency be stronger than the sterling? 
-
 None

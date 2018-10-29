@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ben Macpherson
-
 Ben Macpherson is the Scottish National Party Member of the Scottish Parliament for the Edinburgh Northern and Leith constituency.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Monifieth Carnoustie Labour (@Labourmoncar) on Twitter
-
 Twitter profile of the Monifieth and Carnoustie branch of the Scottish Labour Party.

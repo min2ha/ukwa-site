@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# The Redress of the Past: Historical Pageants in Britain
-
 The Redress of the Past, a major Arts and Humanities Research Council funded project examining historical pageants in twentieth-century Britain.

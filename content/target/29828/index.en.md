@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Big Sexy Circus City (@bigsexycircus) on Twitter
-
 Big Sexy Circus Venue is an Edinburgh Fringe Festival venue specialising in circus acts and cabaret. This is its official Twitter account.

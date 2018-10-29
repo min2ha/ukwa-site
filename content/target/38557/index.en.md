@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Councillor Nick Cook
-
 Nick Cook is the Scottish Conservative and Unionist party candidate for Edinburgh Eastern constituency in the 2016 Scottish Parliamentary election.

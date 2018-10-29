@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Season zine (@season_zine) on Twitter
-
 Season is an independent platform that aims to champion female fashion and football fans. It was launched in London in 2016. This is the official Twitter account.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-19T10:00:00Z"
 }
 
-# #Snag2015 hashtag on Twitter
-
 The hashtag for Seachdain na Gàidhlig, or Edinburgh Gaelic Week 2015.

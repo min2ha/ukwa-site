@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scottish Food Guide
-
 Site providing food related expertise based around Scottish food and produce.

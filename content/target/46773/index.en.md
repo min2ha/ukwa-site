@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Dawn Bowden AM on Facebook
-
 Dawn Bowden is Welsh Labour's Assembly Member for Merthyr Tydfil and Rhymney.

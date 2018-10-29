@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# American Museum in Britain
-
 The American Museum has a collection of folk and decorative arts, the Museum shows the diverse aray of American traditions. 

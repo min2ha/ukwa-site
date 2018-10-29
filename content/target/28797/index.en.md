@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Tom & Raj Jones Trust
-
 Trust dedicated to the memory of Dr Thomas Parry jones OBE (1935-2013), a Welsh scientist, inventor and entrepreneur, who was responsible for developing and marketing the first electronic breathalyser.

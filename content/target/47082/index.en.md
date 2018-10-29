@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fife Lions Amateur Rugby League Football Club
-
 Pitch Hero site of an amateur Rugby league club based in Kirkcaldy, Fife, Scotland.

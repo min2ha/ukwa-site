@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Belfast Telegraph: Theresa May says Ireland's border 'important priority' in Brexit negotiations and calls for Stormont politicians to reestablish government
-

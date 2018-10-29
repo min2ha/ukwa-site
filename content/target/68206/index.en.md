@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Anguillian
-
 The Weekly Independent Newspaper of Anguilla

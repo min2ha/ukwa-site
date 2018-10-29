@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bob Neill (Conservative Politician)
-
 Bob Neill stood as Conservative candidate for Bromley and Chislehurst at the 2015 General Election. He was first elected to serve as MP for Bromley and Chislehurst in 2006 and re-elected in 2015. He stood for re-election at the 2017 general election and was successful.

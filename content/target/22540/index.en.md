@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Leaders' debate attracts seven million viewers
-
 None

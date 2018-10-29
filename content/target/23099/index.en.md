@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ken Barker (@BarkerKen) on Twitter (Green Party candidate for Cardiff West) 
-
 Ken Barker is the Green Party candidate for Pontypridd at the 2016 National Assembly Elections and Cardiff West at the 2015 General Election.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bloggerheads
-
 Blog on corruption in politics and the media run by Tim Ireland.

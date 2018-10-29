@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Clive Stanley Associates
-
 Clive Stanley Associates is a company that provides Webmasters & Website Designers.

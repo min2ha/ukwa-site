@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking - The Independent
-
 All the latest breaking news on Stephen Hawking. Browse The Independent’s complete collection of articles and commentary on Stephen Hawking.

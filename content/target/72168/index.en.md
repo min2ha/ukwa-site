@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hayle Rugby Football Club
-
 The official website of Hayle Rugby Football Club.

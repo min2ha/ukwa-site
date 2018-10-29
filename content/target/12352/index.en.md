@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlie (CharlieGrice1) on Twitter
-
 <p>The twitter profile of athlete Charlie Grice, competing the the 1500m for Team England in the Glasgow 2014 Commonwealth Games.</p>

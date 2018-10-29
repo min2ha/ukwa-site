@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Innovation Centres
-
 Site of a programme that accelerates technological advances by forging new collaborations between business, charities and so on, and Scotland’s world-leading researchers.

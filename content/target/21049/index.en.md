@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Naomi Long on Facebook (Alliance Party candidate for Belfast East)
-

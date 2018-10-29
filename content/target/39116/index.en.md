@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Cousland Smiddy
-
 Site for a local history project to restore a village forge in Cousland, Midlothian, Scotland, providing the village with a visitor attraction.

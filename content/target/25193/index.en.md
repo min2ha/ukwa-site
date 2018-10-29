@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron's election bribes will cost EVERY family £1,493, warn Labour 
-
 None

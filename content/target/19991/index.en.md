@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sam Gould (@GouldSam) on Twitter 
-
 Sam Gould was the Candidate for Caerphilly in the 2015 General Election and 2016 National Assembly for Wales Election.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Salmon Aquaculture Reform Network Scotland (SARNS)
-
 Site of a coalition of individuals, environmental, community and conservation groups covering the West Highlands and Islands area, with shared concerns about the future direction of Scotland’s salmon farming industry.

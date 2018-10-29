@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London School of Economics and Political Science (LSE) Blog: Understanding the role of the mass media in the EU Referndum 
-
 Article discussing the role of the mass media in the EU Referendum.

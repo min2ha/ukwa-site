@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# UK Men's Movement
-
 None

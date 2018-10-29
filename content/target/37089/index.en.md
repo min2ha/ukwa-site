@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Society/Culture Website on Facebook
-

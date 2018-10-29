@@ -10,5 +10,3 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Undeb Ffotograffig  Cymru | The Welsh Photographic Federation
-

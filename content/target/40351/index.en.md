@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scotland | Conservative Home
-
 Posts tagged Scotland in Conservativehome.

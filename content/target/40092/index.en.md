@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Stefan Ryszewski on Facebook (Conservative candidate for Llanelli)
-
 Stefan Ryszewski is the Conservative candidate for Llanelli at the 2016 National Assembly Election.

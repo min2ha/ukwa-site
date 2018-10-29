@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Fair Fuel UK
-
 FairFuelUK Campaign advocates to stop any Fuel Duty rises in this Parliament (2010-2015) and beyond and cut Fuel Duty by 3p for economic growth.

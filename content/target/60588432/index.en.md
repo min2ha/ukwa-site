@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Alzheimer's Research UK (ARUK)
-
 Alzheimer's Research UK (ARUK) is a research charity aiming to defeat dementia.

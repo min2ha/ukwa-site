@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Tim Vine
-
 Official website of a comedian Tim Vine.

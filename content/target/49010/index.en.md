@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Cyfarwyddiadur Cymunedol Abertawe | Swansea Community Directory
-
 The following organisations make up the Directory partnership: Swansea Libraries, City and County of Swansea Council and Swansea Family Information Service.

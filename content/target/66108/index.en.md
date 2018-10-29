@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Tywi Valley Open Studios
-
 Tywi Valley Open Studios was established to enable artists to share their working practices with the general public. 

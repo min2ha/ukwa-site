@@ -10,6 +10,4 @@
   "start_date": "2018-07-13T09:00:00Z"
 }
 
-# Rafael Klein (@rafkleinart) on Twitter
-
 Official Twitter account of Artist Rafael Klein, also known as Randy Klein.

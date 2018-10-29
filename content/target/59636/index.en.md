@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 100 Days of Mimi
-
 Blog written by a young woman who has bipolar disorder

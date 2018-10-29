@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kim Long (@CaptainKim) on Twitter
-
 The Twitter profile of Kim Long, Scottish Green Party candidate for Glasgow in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# United Kingdom and Ireland Controlled Release Society (UKICRS)
-
 The UKICRS addresses a broad range of research fields based on controlled release which include agriculture, veterinary, food and cosmetic sciences.

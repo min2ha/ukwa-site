@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# South East Edinburgh Churches Acting Together
-
 Site of a group of Christian churches in the South-East of Edinburgh, Scotland, affiliated to ACTS (Action of Churches Together in Scotland).

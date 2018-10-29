@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# McStanden Ski Blog
-
 None

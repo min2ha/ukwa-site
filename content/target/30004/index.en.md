@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Xenario UK Digital Asset Management
-
 Xenario UK Limited is the UK's supplier of Digital Asset Management software from FotoWare a.s (Oslo). 

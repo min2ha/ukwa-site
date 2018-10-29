@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Familias en Glasgow
-
 A group of Spanish-speaking families in Glasgow. This group provides opporunities for children and parents to make friends and network within the community. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# UKIP Scotland (@UKIP_Scotland) on Twitter
-
 Twitter profile of the Scottish branch of the United Kingdom Independence Party.

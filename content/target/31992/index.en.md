@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Ainmean-Àite na h-Alba - Gaelic Place-Names of Scotland
-
 Ainmean-Àite na h-Alba, or Gaelic Place-Names of Scotland is the national advisory partnership for Gaelic place-names in Scotland.

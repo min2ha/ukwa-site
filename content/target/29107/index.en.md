@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Yorkshire Green Party
-
 Website of North Yorkshire Green Party, providing information on campaigns, parliamentary candidates and local, national and party news.

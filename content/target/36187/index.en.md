@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Pro-EU campaign should be wary of Nicola Sturgeon
-

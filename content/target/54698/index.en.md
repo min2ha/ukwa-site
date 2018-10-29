@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Talk Magic
-
 Talk Magic is an online enthusiast forum concerned with the hobby of magic and sleight of hand

@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Cadenza Music
-
 Music publisher based in Newport, Wales.

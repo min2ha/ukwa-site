@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Barry Parish Church
-
 Site of a Church of Scotland parish church at Carnoustie, Angus.

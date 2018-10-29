@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Jersey Evening Post
-

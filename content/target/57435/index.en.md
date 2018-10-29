@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow Comic Con
-
 Site of an annual convention of graphic novels, comics and science fiction located in Glasgow.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Claire Cunningham
-
 <p>Web site of Claire Cunningham a multi-disciplinary performer and choreographer based in Glasgow. She will be performing “Guide Gods” a new work that looks at the perspectives of the major faiths and religions towards the issue of disability at community venues in Glasgow in June 2014. Part of the Glasgow 2014 Cultural Programme.</p>

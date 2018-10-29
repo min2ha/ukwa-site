@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Save The Berwyn
-
 A campaign to save the Berwyn Centre, a former workingman's hall, in Nant-y-moel near Bridgend.

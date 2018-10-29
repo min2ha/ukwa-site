@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mary Fee for RNW (@MaryFee2016) on Twitter
-
 Twitter profile of Mary Fee, the Scottish Labour candidate for Renfrewshire North and West in the 2016 Scottish Parliamentary election.

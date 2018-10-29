@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FSF Cymru Wales Fans' Guide to France.
-
 FSF Cymru have produced their first ever tournament guidebook - the FSF Cymru Wales Fans' Guide to France for Euro 2016

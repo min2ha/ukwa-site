@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May heads to Chequers for cabinet talks
-
 Theresa May and her senior ministers were to try to hammer out a deal over the government's approach to Brexit when they met at her country retreat on February 22nd 2018. Ministers were at odds over how closely the EU and UK should align after exit day in March 2019.

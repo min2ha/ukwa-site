@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Health Maps Wales
-
 Health Maps Wales contains a wide range of Welsh resident data including hospital admissions, mortality and child health. It is possible to explore health indicators by area, map trends in data over time and make comparisons at local and national levels. 

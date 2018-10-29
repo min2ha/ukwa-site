@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Broxburn Athletic Football Club
-
 Site page for a Scottish junior football club based in Broxburn, West Lothian, Scotland.

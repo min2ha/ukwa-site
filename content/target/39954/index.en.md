@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Berkshire in the First World War
-
 The project will digitize newspapers, street directories, photos and personal accounts of WW1 in Berkshire.

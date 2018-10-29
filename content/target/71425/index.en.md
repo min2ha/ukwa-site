@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Black Isle Churches
-
 Site of a group of Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Highland, namely: St. John, Arpafeelie, St. Andrew's, Fortrose, and St. Regulus', Cromarty.

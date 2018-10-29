@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Electric Honey (Electric_Honey_) on Twitter
-
 Twitter account for Electric Honey, a record label that is run by Music Business students from Glasgow Kelvin College (formerly Stow College). This account appears to have been replaced by the @ElectricHoney25 handle.

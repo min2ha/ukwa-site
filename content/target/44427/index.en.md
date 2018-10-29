@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "Brexit" Campaign: 2016 UK referendum on membership of European Union, The
-
 A free one day IAMCR pre-conference to discuss the impact of the EU Referendum result.

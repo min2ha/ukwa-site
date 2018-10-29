@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Engineering and Analysis Design (CEAD)
-

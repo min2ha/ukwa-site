@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kane's Church
-
 The website of St. Kane's Church.

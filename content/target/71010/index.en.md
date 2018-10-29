@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# inklewriter
-
 This tool helps writers tell interactive tales with the minimum of fuss. inklewriter keeps your branching story organised, so you can concentrate on what’s important – the writing.
 
 inklewriter is a free tool designed to allow anyone to write and publish interactive stories. It’s perfect for writers who want to try out interactivity, but also for teachers and students looking to mix computer skills and creative writing.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Dudley CCG
-
 None

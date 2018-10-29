@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# World Turned Upside Down NE, The: 15 times when Jeremy Corbyn was on the right side of history
-
 A blog post written by supporters of Jeremy Corbyn outlining his political record.

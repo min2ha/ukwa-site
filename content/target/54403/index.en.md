@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John McNally (@JohnMcNallySNP) on Twitter
-
 Twitter profile of Twitter profile of John McNally, Scottish National Party candidate for Falkirk in the 2017 general election.

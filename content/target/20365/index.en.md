@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Young Labour (@YoungLabourUK) on Twitter 
-
 Young Labour is the youth section of the UK Labour Party. Membership is automatic for Labour Party members aged 14 to 26.

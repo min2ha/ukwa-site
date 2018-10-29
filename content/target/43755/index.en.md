@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Priti Patel warns of EU migration threat to UK class sizes
-
 Guardian, The

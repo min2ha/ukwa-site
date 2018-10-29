@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Network Norwich & Norfolk
-
 Network Norwich & Norfolk is a portal website set up to help improve communications and connections within the Christian community in and around Norwich and Norfolk.

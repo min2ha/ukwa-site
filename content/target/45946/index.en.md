@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Wales Cancer Bank (WCB), The
-
 The Wales Cancer Bank (WCB) is a biobank that collects samples of tissue and blood from patients in Wales where cancer is a possible diagnosis. 

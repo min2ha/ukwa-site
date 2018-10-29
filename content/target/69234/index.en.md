@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Constantines, Govan on Facebook
-
 Site of a Roman Catholic church in Scotland for the parish of St. Constantines, Govan.

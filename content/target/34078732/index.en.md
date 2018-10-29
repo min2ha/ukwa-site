@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Stuart Silver
-
 Stuart Silver is an award-winning screenwriter, television writer, actor and director.

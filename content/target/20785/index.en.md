@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Lazarowicz on Facebook
-
 This is the Facebook page of Mark Lazarowicz, the Labour Party candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

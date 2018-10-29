@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit withdrawal agreement row: Real crisis or par for course?
-
 Argues that the Irish border question has the potential to bring the whole Brexit deal tumbling down.
 

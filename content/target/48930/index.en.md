@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Emergency Totnes Demo against Trump's #MuslimBan & UK complicity on Facebook
-
 A demo organised at short notice in response to US President Donald Trump's #MUSLIMBAN on the mini roundabout at bottom of Fore Street at 6pm on Monday 30/01/2017. This demonstration was part of a network of nationwide protests - https://www.facebook.com/events/359732827741189/

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# BelfastTelegraph.co.uk: Mark Bennett reflects on his Olympic glory
-

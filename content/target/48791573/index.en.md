@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Redundancy UK Blog, The
-
 None

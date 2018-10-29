@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethel Presbyterian Church, Cardiff
-

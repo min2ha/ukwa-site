@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gerry Hassan – writing, research, policy and ideas
-
 Website of Gerry Hassan. Writer, commentator, Research Fellow in cultural policy at University of the West of Scotland. Author of 'Caledonian Dreaming: The Quest for a Different Scotland'.

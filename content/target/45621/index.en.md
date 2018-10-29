@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Grampian Animal Rights Advocates
-
 Site active in 2010-2011 focusing on actions of Grampian animal rights advocates.  Includes guide to 'Vegan Aberdeen'

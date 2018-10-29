@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UK Parliament: Tributes to Nelson Mandela
-
 <p>The House of Commons and the House of Lords paid tribute to Nelson Mandela on Monday 9 December 2013. This page links to videos and other information about Parliament’s commemoration of the life of Nelson Mandela.</p>

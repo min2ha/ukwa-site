@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Eden Festival
-
 Site of an annual music festival staged near St. Anns Dumfries & Galloway, and featuring contemporary music and DJs.

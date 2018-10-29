@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Paget University Hospitals NHS
-
 None

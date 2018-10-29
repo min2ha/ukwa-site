@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Paradise Green (@ParadiseGreenUK) on Twitter
-
 Twitter profile of Paradise Green, covering Augustine's and The Vault Theatres at the Edinburgh Fringe Festival.

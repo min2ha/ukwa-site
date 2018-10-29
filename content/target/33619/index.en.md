@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fabian Society: EU referendum
-
 The Fabian Society is Britain’s oldest political think tank, founded in 1884. The Society develops political ideas and public policy on the left.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Torquay Herald Express
-
 None

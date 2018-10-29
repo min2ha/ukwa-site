@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Exclusively Shows (Housewares and Electrical)
-
 Trade shows held annually at the Business Design Centre in Islington

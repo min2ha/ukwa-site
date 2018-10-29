@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Philippa Lawrence
-
 Philipa Lawrence is a Textile Artist and Principal Lecturer at Cardiff School of Art & Design. She embraces land and environmental art, the use of textiles in a fine art context, and the relationship between art, craft and design.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Thomas Darwood (@Joseph77Adam) on Twitter (Independent candidate for Leicester East)
-

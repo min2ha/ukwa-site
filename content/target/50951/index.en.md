@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  St Patrick's Catholic Church, Newport | Eglwys Gatholig y Sant Padrig, Casnewydd  
-

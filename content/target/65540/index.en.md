@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Moffat Town Hall Redevelopment Trust
-
 Site of a trust aiming to preserve and seek new uses and opportunities for the town hall in Moffat, Dumfries & Galloway.

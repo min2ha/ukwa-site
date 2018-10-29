@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Advance Construction Group Limited
-
 Advance Construction Group Limited is a Scotland-based construction services company. The company constructs roads, utilities, houses, health centres and schools. 

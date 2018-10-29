@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jean-Claude Juncker: EU superstate claims are nonsense
-
 Responding to a sppech by Boris Johnson, the president of the European Commission said claims he wanted to create a European "superstate" were "total nonsense". 

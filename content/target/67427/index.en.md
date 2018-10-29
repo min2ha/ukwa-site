@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Speirs & Jeffrey Limited
-
 Website of a company which provides investment management services. The company was founded in 1906 and is based in Glasgow, Scotland. On 14th June 2018 it was announced that Speirs & Jeffrey is going to be purchased by Rathbone Brothers plc.

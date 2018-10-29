@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Howe of Fife Parish Centre
-
 Site of a Church of Scotland parish church at Ladybank, Fife.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Association of the Egyptian Nubian Community in the United Kingdom
-
 Facebook presence of Association of the Egyptian Nubian Community in the United Kingdom

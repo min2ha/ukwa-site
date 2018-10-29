@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Cheltenham Festival
-
 Cheltenham Festival

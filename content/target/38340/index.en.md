@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Slugger O'Toole: Continued membership of the EU is the only way that Unionism can survive
-
 Article by David Shiels

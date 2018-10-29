@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Counterfire: How the Easter Rising changed the world
-
 Article by Chris Bambery, socialist interpretation of the Easter Rising and its legacy

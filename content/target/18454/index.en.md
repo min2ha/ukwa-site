@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Scottish Labour's Jim Murphy says Tory-Labour coalition 'ludicrous'
-
 None

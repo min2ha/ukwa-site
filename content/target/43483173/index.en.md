@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alan Reid
-
 Alan Reid, Scottish Liberal Democrat candidate for Argyll and Bute in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Historian Dan Snow says we're lucky to be alive today
-

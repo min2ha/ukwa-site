@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leighton Buzzard Rugby Football Club
-
 The official website of Leighton Buzzard Rugby Football Club.

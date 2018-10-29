@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Donald Trump says UK 'doing great' after Brexit vote
-
 In his first UK interview - with former Justice Secretary Michael Gove for the Times - Mr Trump said he thought the UK was "so smart in getting out". Mr Trump promised a quick trade deal between the US and the UK after he takes office on Friday. 

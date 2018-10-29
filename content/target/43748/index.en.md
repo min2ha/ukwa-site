@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: British financial sector sure of EU remain vote despite late FTSE dip 
-
 Guardian, The

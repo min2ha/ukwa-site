@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mike Crockart – MP for Edinburgh West
-

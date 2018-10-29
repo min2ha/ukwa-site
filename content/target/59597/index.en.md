@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Benedetti Architects – Architecture and Urban Design
-
 Renato Benedetti formed Benedetti Architects in 2016 following 20 years of award-winning success as McDowell+Benedetti Architects.

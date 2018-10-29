@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Whitby (@CllrJohnWhitby) on Twitter (UKIP  Politician)
-
 John Whitby stood as UK Independence Party (UKIP) candidate for North West Cambridgeshire in the 2017 General Election but was not elected. 

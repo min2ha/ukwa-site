@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Brexit is a Whitehall farce that threatens the heart of Europe
-

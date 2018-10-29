@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# NHS England Statement on Fire at Grenfell Tower
-
 NHS England Statement on Fire at Grenfell Tower

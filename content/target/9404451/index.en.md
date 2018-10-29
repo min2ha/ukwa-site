@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# SERPENT Project - Deep-Sea Biology using Remotely Operated Vehicles
-
 None

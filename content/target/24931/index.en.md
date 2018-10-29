@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mick Hardy (@VoteMickHardy) on Twitter (Independent Candidate for Norwich North)
-

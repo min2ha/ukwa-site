@@ -10,5 +10,3 @@
   "start_date": "2008-09-04T00:00:00Z"
 }
 
-# Nick Crowe - artwork for download site
-

@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Search and Rescue Dog Association Southern Scotland 
-
 Site of a Scottish charitable organisation training and taking part in rescues aided by dogs throughout central and southern Scotland.

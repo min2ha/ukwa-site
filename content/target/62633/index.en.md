@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Great Shelford Online
-
 Up-to-date community news, events, planning applications and information about Great Shelford, including Shelford Rugby Club, Shelford Post office and the Shelford Feast.

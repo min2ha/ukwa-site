@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Rob Adams | Painter and Designer
-
 A website and blog by Rob Adams, an Illustrator, Painter, and Designer.

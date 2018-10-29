@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Mersea Mick - Pilots, Pets & Planes - an islands opportunity to commemorate WW1
-
 Project using Mersea Mick, a unique local tale, to refresh the memories of the gift of liberty that the soldiers of the First World War afforded the continent of Europe.

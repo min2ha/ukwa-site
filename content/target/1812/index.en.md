@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Surrey County Council
-
 Official website of the Surrey County Council.

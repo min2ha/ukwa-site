@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The SNP may well hold the balance of power – it’s democracy, stupid
-
 None

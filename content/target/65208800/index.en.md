@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computing At School
-
 The Computing at School (CAS) Working Group aims to promote the teaching of computer science at school.

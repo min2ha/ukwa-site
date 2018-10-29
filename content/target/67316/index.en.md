@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# The Medical Society of London
-
 The Medical Society of London, founded in 1773, established as a forum for physicians, surgeons, apothecaries and accoucheurs to give them the opportunity of meeting together for the exchange of medical intelligence.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# TUI Group
-
 TUI Group is a multinational travel and tourism company. It is the largest leisure, travel and tourism company in the world, and owns travel agencies, hotels, airlines, cruise ships and retail stores. The group owns six European airlines (the largest holiday fleet in Europe) and nine tour operators based in Europe.

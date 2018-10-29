@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robina Barton (@robina4labour16) on Twitter
-
 Twitter profile of Robina Barton, the Scottish Labour candidate for Shetland in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# In Defense of the Internet: The Relationship between Internet Communication and Depression, Loneliness, Self-Esteem, and Perceived Social Support
-
 A journal article discussing the relationship between internet communication and mental health

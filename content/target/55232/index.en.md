@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Alliance of Religions and Conservation
-
 The Alliance of Religions and Conservation ARC is a secular body that helps the major religions of the world to develop their own environmental programmes, based on their own core teachings, beliefs and practices.

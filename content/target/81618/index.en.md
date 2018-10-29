@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scarlets Ladies (@Scarlets_Ladies) on Twitter
-
 Twitter Page of the Scarlets Ladies Regional Rugby Squads. Womens Senior and Girls Under 18's.

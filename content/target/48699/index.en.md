@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Magnetic North Theatre Productions Ltd
-
 Site of a theatre company based in Edinburgh, Scotland.

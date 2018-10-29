@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim McFarlane (@jim_mcfarlane99) on Twitter
-
 The Twitter profile of Jim McFarlane, the Trade Unionist and Socialist Coalition candidate for Dundee West in the UK General Election on the 7th May 2015 and Dundee City West in the 2016 Scottish Parliamentary election.

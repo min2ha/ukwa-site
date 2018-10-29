@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berks & Bucks FA
-
  The official website of the governing body for football across the Berks & Bucks county.

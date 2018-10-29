@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The Guardian view on the judges and Brexit: ministers must come clean
-

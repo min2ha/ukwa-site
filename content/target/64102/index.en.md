@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's March Mcr (@WMMcr) on Twitter
-
 Womens' March Manchester, a sister march to WM DC. All Sisters & Allies welcome. Jan 21st 2017 (2K) was just the beginning.

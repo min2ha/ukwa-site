@@ -11,7 +11,5 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Kirkby Lonsdale's WWI Centenary Project 1914-2014
-
 <p>Kirkby Lonsdale's WWI Centenary Project 1914-2014 is a Heritage Lottery funded project<br />
 to commemorate the centenary of WWI.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# EU Citizens for an Independent Scotland
-
 Site of a group of European Union citizens living in Scotland who are in favour of Scottish political independence from the United Kingdom, particulaly as means of maintaining close links with the the European Union.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# MCWFC SupportersClub (@MCWFC_OSC) on Twitter
-
 The twitter account of the official supporters club for Manchester City Women's Football Club.

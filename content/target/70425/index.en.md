@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# World Yoga Festival
-
 Yoga festival

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret McDougall MSP on Facebook
-

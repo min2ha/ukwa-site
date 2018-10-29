@@ -10,5 +10,3 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Scottish Environment, Food and Agriculture Research Institutes (SEFARI)
-

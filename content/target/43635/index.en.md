@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Millionplus and NUS: letter urging students to vote Remain
-
 A pdf letter from Professor Dave Phoenix
 Chair, MillionPlus and Vice-Chancellor, London South Bank University and Megan Dunn, President of NUS, urging students to vote to Remain in the EU.

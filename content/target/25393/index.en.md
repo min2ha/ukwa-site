@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron to urge Scots to avoid Labour-SNP 'nightmare scenario'
-
 None

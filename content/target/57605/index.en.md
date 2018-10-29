@@ -10,6 +10,4 @@
   "start_date": "2017-09-30T09:00:00Z"
 }
 
-# Eden Care UK
-
 Eden Care & Muslim Burial Fund is coordinating funerals for the victims of Grenfell Tower fire, 14 June 2017. As a care organisation, our services are for young people and adults who are terminally ill or reaching end of life.Eden Care UK will engage the service users in a culturally inclusive and religious sensitive manner to increase and enhance their quality of life through friendship and advocacy. 

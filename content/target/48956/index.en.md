@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Deveronside Junior Football Club
-
 Site for a Scottish junior football club based in Banff, Aberdeenshire, Scotland

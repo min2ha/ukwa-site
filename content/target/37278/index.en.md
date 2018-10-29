@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: The Brexit debate: facts and figures versus hearts and minds
-

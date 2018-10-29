@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Asia House: New sponsor for our Festival of Asian Literature
-
 Festival organised by Asia House.

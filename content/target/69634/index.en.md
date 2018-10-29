@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's Lochgilphead
-
 Site of a Scottish Roman Catholic parish church located in 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Colchester Avenue Allotments Association (CAAA)
-
 Colchester Avenue Allotments Association (CAAA) is a registered charity and located in the Penylan area of Cardiff.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I felt like trolling Tories. Instead I joined the Labour party – like 20,000 others
-
 None

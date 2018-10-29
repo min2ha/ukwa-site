@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Radical Housing Network
-
 The Radical Housing Network is made up of groups fighting for housing justice, based in London.

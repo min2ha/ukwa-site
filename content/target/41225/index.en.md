@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Carluke Development Trust
-
 Site of a community organisation based in Carluke, South Lanarkshire, that aims to create opportunities for a successful and sustainable town.

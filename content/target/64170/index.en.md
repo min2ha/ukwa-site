@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UK Feminista (@UK_Feminista) on Twitter
-
 Promoting and supporting feminist activism in the UK

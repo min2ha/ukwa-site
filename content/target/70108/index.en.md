@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Waterbeach Running Festival
-
 Website for the Waterbeach running festival

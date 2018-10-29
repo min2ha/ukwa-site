@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mar Orienteering Club
-
 Site of an orienteering club in the Deeside area of Aberdeenshire.

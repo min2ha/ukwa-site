@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Stay at home dad
-
 None

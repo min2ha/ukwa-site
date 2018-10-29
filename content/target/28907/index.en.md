@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Ymddiriedolaeth Elizabeth Evans | Elizabeth Evans Trust
-
 The Elizabeth Evans Trust was formed in 2005 to help fund young people who wish to pursue a professional career in the performing arts in Wales.

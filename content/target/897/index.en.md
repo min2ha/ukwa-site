@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hertfordshire Community NHS Trust
-
 None

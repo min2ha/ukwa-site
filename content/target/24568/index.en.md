@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ex-Tory candidate Mike Whitehead switches to UKIP
-
 None

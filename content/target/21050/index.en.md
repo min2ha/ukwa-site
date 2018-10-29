@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Corri Wilson (SNP candidate for Ayr, Carrick and Cumnock)
-
 Corri Wilson is the Scottish National Party (SNP) candidate for Ayr, Carrick and Cumnock.

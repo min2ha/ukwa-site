@@ -10,6 +10,4 @@
   "start_date": "2018-06-17T09:00:00Z"
 }
 
-# NOSAS Archaeology Blog
-
 Blog site reporting on digs, surveys, research and field trips by North of Scotland Archaeological Society

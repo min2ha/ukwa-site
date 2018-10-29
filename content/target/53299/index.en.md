@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Crowdfunder: Most funded Politics projects crowdfunding
-
 Links to online crowd funding campaigns tagged in the politics section of the Crowdfunder  website.

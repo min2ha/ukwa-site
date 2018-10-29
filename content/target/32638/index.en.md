@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Mar Thoma Congregation Cardiff MTC
-
 The Malankara Mar Thoma Syrian Church of Malabar, also known as the Mar Thoma Church, is a Christian denomination based in the state of Kerala in southwestern India. Cardiff MTC is the first central Wales based congregation. 

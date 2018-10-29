@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Cymdeithas Integreiddio Amlddiwylliannol Gogledd Cymru | North Wales Association for Multicultural Integration
-

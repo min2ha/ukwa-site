@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May to seek general election on 8 June
-
 UK Prime Minister Theresa May announced plans to call a snap general election on 8 June 2017.

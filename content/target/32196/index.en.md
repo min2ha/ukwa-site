@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Grwp Cynefin
-
 Grwp Cynefin is a charitable Housing Association based in north Wales.

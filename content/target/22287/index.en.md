@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Allan (@DrMikeAllan) on Twitter
-
 Twitter profile of Michael Allan, the Independent candidate for East Lothian in the 2015 UK General Election.

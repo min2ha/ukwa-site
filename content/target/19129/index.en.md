@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historic UK: The Origins of the Magna Carta
-

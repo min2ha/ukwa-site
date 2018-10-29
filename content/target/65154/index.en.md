@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# New Arab, The:  'First BAME Home Secretary' headlines distract from racism of Windrush scandal
-
 An article about the appointment of  Sajid Javid  as Amber Rudd's replacement as Home Secretary in April 2018. 

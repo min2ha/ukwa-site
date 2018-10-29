@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Carmichael (@xrisemma) on Twitter (Green Party candidate for Blaenau Gwent)
-

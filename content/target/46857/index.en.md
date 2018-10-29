@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Life for African Mothers
-
 Life for African Mothers concentrate its efforts on tackling Millenium Development Goal 5, reducing Maternal Mortality, with a focus on Sub Sahran Africa. The charity is based in Cardiff.

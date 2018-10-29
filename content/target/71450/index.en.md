@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ayr Rugby Football Club
-
 The official website of Ayr Rugby Football Club.

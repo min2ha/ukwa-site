@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cathy Newman (@cathynewman) on Twitter
-
 Cathy Newman is a presenter for Channel 4 News and blogger for the Telegraph. 

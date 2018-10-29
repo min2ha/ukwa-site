@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# East Dulwich Forum, The
-

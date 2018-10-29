@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Katy Clark (KatyClarkMP) on Twitter
-
 <p>The twitter profile of Katy Clark, Liberal Democrat Member of Parliament for North Ayrshire and Arran.</p>

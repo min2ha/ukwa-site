@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hereford Cathedral
-
 Official website of the Hereford Cathedral.

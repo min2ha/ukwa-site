@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Institute of Physics in Wales: The Welsh Assembly Election 2016
-

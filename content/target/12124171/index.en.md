@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# little.red.boat
-
 None

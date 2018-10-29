@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mallard Place
-
 A community group organised by residents of Mallard Place for residents.

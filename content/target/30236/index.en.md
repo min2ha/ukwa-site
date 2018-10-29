@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: The Newsroom Blog
-
 This blog provides the news about yesterday's news, and looks to where news may be going in the future. It informs about aspects of the collections, provides guides to their best use, and reports on activities in news production and news-related research. 

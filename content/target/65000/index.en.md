@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Knapdale Church
-
 Site of a Church of Scotland parish church at North Knapdale, Argyll & Bute.

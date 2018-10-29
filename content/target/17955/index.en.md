@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Mercy For Mankind
-
 Mercy For Mankind (Mercy4Mankind) is a charity action organised by the Ahmadiyya Muslim Youth Association (AMYA)

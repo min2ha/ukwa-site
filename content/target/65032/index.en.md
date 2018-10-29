@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Accelerating growth
-
 Information about the City Region Deal for the Edinburgh and South East Scotland, involving government investment in these areas.

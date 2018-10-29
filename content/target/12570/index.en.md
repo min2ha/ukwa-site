@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shona Robison (ShonaRobison) on Twitter
-
 Twitter profile of Shona Robison, SNP MSP for Dundee City East, Cabinet Secretary for the Commonwealth Games, Sport, Equality and Pensioners Rights in the Scottish Government.

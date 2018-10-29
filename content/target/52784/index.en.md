@@ -10,6 +10,4 @@
   "start_date": "2017-05-05T09:00:00Z"
 }
 
-# South West of Scotland Transport Partnership / SWestrans
-
 Site of regional transport partnership for the South West of Scotland working towards provision of good, reasonably priced public transport services.

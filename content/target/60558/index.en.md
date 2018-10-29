@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Jack Sargeant (@Jack4AandD) on Twitter
-
 Jack Sargeant is the Welsh Labour candidate for the Alyn and Deeside at the Welsh Assembly by-election on Tuesday 6 February 2018.

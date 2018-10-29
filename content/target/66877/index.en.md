@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Digby Brown LLP
-
 The website of Digby Brown LLP, a legal firm based in Edinburgh, Scotland. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clydebank Football Club
-
 Site for a Scottish junior football club based in Clydebank, West Dunbartonshire.

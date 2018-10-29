@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Citizens UK: Community Organising Co-ordinates Civil Society Response to the General Election 2017
-
 Citizens UK is calling on political candidates to engage with civil society in their constituencies and pledge to build a relationship to work together for the common good with an aim to make Britain a more just, inclusive and welcoming country by 2022.

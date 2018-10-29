@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# British Library, The: UK Web Archive Blog
-
 News and views from the British Library’s web archiving team and guests. Posts about the public UK Web Archive, and since April 2013, about web archiving as part as non-print legal deposit. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Economists for Britain
-
 Economists for Britain exists to give a voice to Britain’s economists who want to see fundamental changes made to the terms of our EU membership. They are independent and non-partisan academics, involving people from all parties and no party. As a campaign, they aim to reflect the views of all types of economist, ranging from academics to business specialists. The campaign is represented in the media and at events by practising economists. Economists for Britain will aim to ensure that the British people understand that many economists want a better deal from Brussels and are prepared to make the positive case for change.

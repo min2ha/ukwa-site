@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Marc Bolan
-
 Information on all things Marc Bolan & T.Rex related

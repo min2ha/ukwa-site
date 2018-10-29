@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Art of Wood, The
-
 The Art of Wood is the name of a bespoke furniture making company based in the UK.

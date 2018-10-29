@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Helena in Focus (@sthelenafocus) on Twitter
-
 Personal thoughts on the South Atlantic island of St Helena from its director of tourism, Christopher Pickard. 

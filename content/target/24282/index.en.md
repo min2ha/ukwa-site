@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband 'must take over Scottish campaign from failing Jim Murphy'
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jonathan Clatworthy on Facebook (Green Party candidate for Liverpool Walton)
-

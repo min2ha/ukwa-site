@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: Those who call for Brexit are handing European power to the Kremlin
-

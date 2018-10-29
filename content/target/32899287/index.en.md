@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Jerome Gatehouse Collection, The
-
 Jerome Gatehouse spent twenty seven years researching and collecting military band memorabilia as well as writing the histories of our military bands and collected vast archive of information on the subject. The collection is based in Newport.

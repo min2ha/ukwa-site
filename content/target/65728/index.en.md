@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# J. & J. Denholm Limited
-
 J. & J. Denholm Limited is a holding company engaged in shipping, logistics, seafoods, industrial services and oil services businesses.

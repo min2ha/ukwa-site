@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Tech for UK (@TechForUK) on Twitter
-
 Uniting the UK’s technology industry against Brexit, and calling for a vote by Parliament & the people on the terms. In partnership with Best for Britain
 

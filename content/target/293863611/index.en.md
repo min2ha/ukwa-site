@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Digital Scotland: Superfast Broadband
-

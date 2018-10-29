@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Bye bye Bercow? Conservatives and Lib Dems launch surprise 'payback' plot to unseat Speaker
-
 None

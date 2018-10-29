@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Glasgow Refugee Asylum and Migration Network (GRAMNet)
-
 WordPress site of a group﻿ aiming to bring together researchers and practitioners, NGOs and policy makers working with migrants, refugees and asylum seekers in Scotland.

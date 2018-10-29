@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hungerford RFC (@HungerfordRFC) on Twitter
-
 The official Twitter account of Hungerford Rugby Football Club.

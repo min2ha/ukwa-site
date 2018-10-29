@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Freedom Festival
-
 International arts festival where the city is the stage.

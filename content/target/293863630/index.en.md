@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Directorate for Planning and Environmental Appeals (DPEA)
-

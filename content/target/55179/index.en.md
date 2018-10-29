@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Intelligence Squared
-
 Intelligence Squared is the world’s premier forum for debate and intelligent discussion.

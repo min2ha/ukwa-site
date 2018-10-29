@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Grangetown Muslim Cultural Centre
-
 Grangetown Muslim Cultural Centre A.K.A. Masjid-e Abubakr is a Islamic institution based in Cardiff. 

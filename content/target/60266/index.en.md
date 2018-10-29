@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Youth Football Scotland
-
 Site of a not-for-profit social enterprise with the primary target of providing a one stop shop for anyone connected to the game of youth football, Scotland-wide. 
  

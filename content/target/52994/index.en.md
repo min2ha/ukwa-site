@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maidenhead Tories (@MCA_Tories) on Twitter
-
 The official Twitter account for the Maidenhead Conservative Association, the constituency of RT Hon Theresa May MP, Prime Minister.

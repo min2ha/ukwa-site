@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James MacK-L (@JamesMacKL) on Twitter
-
 The Twitter profile of James MacKessack-Leitch, the Scottish Green Party candidate for Moray in the UK General Election on the 7th May 2015.

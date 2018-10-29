@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'We deplore Brexit': Angela Merkel slams the British decision to quit the EU while standing alongside Theresa May and warns Germany's position has not softened  
-

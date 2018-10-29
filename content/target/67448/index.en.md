@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Gordon & MacPhail
-
 Website of an independent bottler and distiller of Scotch whisky. The company was founded in 1895 and is located in Elgin, Scotland. Gordon & MacPhail is the trading name of Speymalt Whisky Distributors Limited.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Liverpool's Easter Rising 1916 Centenary Events 1916
-
 Events page by the Liverpool Easter 1916 Commemoration Commitee

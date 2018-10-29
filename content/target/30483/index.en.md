@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# University of the Arts London
-
 Official website of the University of the Arts London.

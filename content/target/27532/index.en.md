@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Tesco chairman John Allan slams Tory plan for an EU referendum
-
 None

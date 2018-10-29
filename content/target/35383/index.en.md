@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Flayrah
-
 A news magazine of interest to furry fans.

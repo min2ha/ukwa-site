@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Humming Earth
-
 Site of a publisher based in Scotland.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Arrochar, Tarbet and Ardlui Heritage Group
-
 Site dedicated to local and family history in the villages of Arrochar, Tarbet and Ardlui in Argyllshire, Scotland

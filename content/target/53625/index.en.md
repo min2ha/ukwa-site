@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Late November Gallery, Haverfordwest
-
 The Late November Gallery is located in Haverfordwest.

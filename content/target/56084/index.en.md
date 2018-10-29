@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Athletics Association (AAA)
-
 Website of the Army Athletic Association covering athletics, cross country and road racing. Provides information on upcoming fixtures as well as results.

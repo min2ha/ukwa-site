@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: CBI outlines priorities for first 100 days of next government
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Why not regulate social media like tobacco or alcohol?
-
 News article about the challenges and threats to public health caused by social media and the possible solution being regulation

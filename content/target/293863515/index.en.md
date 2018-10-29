@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# everyonesbusiness.coop
-
 <p>Blog site for the co-operative and social enterprise sector in Wales run by Wales Co-operative Centre.</p>

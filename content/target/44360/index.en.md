@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Bishop Creighton House
-
 For 100 years Bishop Creighton House has been working in Hammersmith & Fulham and provides meeting space for all members of the community.

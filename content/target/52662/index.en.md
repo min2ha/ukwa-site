@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:32.363462", 
+  "date": "2018-10-29T13:21:33.705146", 
   "open_access": false, 
   "target_url": "http://www.southwalesamateurleague.co.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "South Wales Amateur League", 
-  "record_id": "20181029T125432/nzNO2PiXCduBewSDbkvZ8A==", 
+  "record_id": "20181029T132133/nzNO2PiXCduBewSDbkvZ8A==", 
   "publisher": "southwalesamateurleague.co.uk", 
   "start_date": null, 
   "subject": "Sport: Football"
 }
-
-# South Wales Amateur League
 

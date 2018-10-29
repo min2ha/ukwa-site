@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# St. Lucy's Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Cumbernauld, Lanarkshire.

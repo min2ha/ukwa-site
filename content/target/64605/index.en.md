@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Welsh Connection, The: Nantgarw and Swansea Pottery and Porcelain
-
 Nantgarw and Swansea porcelain are renowned throughout the world of ceramic collectors. The website is a listing of rare Welsh pottery that are for sale on the site.

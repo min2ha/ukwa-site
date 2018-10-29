@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ballymoney & Moyle Times
-
 None

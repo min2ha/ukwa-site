@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# GLC tour blog 
-
 Goldie Lookin Chain" The GLC are a band from Newport South Wales. This is their tour blog.

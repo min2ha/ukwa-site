@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# War and Revolution in Russia 1914 - 1921
-
 War and Revolution in Russia 1914 - 1921 learning resource 

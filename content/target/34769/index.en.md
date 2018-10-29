@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# John Howell Williams
-
 John Hywel Williams is a Welsh Conductor and Composer.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Largs Gaelic Choir on Facebook
-

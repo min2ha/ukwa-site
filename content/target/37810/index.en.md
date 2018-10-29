@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EuroMove Wales (@EuromoveWales) on Twitter
-
 European Movement Council of Wales is Pro European movement based in Wales.

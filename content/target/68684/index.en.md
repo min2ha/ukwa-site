@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Sport
-
 Website advertising the Festival of Sport, organised by Kids Run Free

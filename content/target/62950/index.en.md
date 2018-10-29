@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# March4LifeUK (@March4LifeUK) on Twitter
-
 A UK based pro life campaign group.

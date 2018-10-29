@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Meirion Jenkins (@meirionj) on Twitter
-
 Conservative candidate for Bridgend.

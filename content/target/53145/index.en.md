@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Charley Hasted (@CharleyHasted) on Twitter
-
 Charley Hasted is the Liberal Democrat Prospective Parliamentary Candidate for Swansea East.

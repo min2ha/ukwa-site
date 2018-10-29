@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Balchder Gogledd Cymru | North Wales Pride
-

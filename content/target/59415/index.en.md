@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Diabetes Research Unit Cymru | Uned Ymchwil Diabetes Cymru
-
 Diabetes Research Unit Cymru is based within the Institute of Life Science, Swansea University and is funded by the Welsh Government. Diabetes Research Unit Cymru (DRU Cymru) supports a wide variety of research projects currently underway across Wales covering diabetes prevention and care.

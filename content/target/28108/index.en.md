@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Sir Benfro
-
 This is Pembrokeshire Welsh Language Initiative. The aim is to promote bilingualism within the county.

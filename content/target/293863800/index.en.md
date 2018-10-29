@@ -10,5 +10,3 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Pontypridd Canal Conservation Group
-

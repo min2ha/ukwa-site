@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU': Tories revolt over May's Brexit blueprint as 98-page plan reveals European workers WILL be allowed into Britain, EU judges WILL get a say and the UK WILL follow Brussels rules
-

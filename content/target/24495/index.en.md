@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David and Samantha Cameron visit Sikh temple
-
 None

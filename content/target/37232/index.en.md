@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reimagining Europe (@reimagininge) on Twitter
-
 A twitter account for Reimagining Europe, a blog with a christian perspective on the EU referendum

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Camlough R (@Camlough_Rovers) on Twitter
-

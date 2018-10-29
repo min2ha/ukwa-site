@@ -10,6 +10,4 @@
   "start_date": "2015-11-30T09:00:00Z"
 }
 
-# Toucan Music
-
 Toucan Music is a UK free music net-label, which had an online presence since 2004. It specialises in electronic, dance, house and chillout music.

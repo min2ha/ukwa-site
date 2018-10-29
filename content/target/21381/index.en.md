@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Melanie Ward for Glenrothes and Central Fife
-
 This is the website of Melanie Ward, the Labour Party candidate for Glenrothes in the UK General Election on the 7th May 2015.

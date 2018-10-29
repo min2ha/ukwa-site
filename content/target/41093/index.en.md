@@ -10,6 +10,4 @@
   "start_date": "2017-02-27T10:00:00Z"
 }
 
-# BBC Newsbeat
-
 Newsbeat is produced by BBC News but differs from the BBC's other news programmes in its remit to provide news tailored for a specifically younger audience.

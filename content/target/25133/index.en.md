@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: East Ham Tories encourage locals to vote for 'Name Surname' in general election 
-
 None

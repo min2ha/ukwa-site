@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# Oxford Dictionary of National Biography
-
 <p>The Oxford Dictionary of National Biography was first published in 2004 in print (60 vols.) and online. Since 2005 online updates have extended the Dictionary’s coverage in three annual updates, published every January, May, and September.<br />
 It is a national record of significant figures in British history and culture, worldwide, from the Romans to the 21st century. The Dictionary is written by named, specialist authors. It is overseen by academic editors at Oxford University, UK, and published by Oxford University Press.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron hits back after campaign digs from donors and Rupert Murdoch
-
 None

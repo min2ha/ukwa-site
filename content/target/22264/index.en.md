@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Community Foundations (UKCF): Philanthropy Manifesto for the General Election 2015
-
 There are 48 community foundations across the UK and UKCF is their umbrella organisation. They provide advice and support to our member community foundations and help UK-wide clients such as Big Lottery and Comic Relief channel funding, via community foundations, to where it’s needed most. 

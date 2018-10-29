@@ -11,8 +11,6 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Connect
-
 For those affected by the Grenfell Tower fire
 
 Find information on organisations, groups and projects offering: emotional support; healthcare, housing advice, legal advice; financial assistance and community activities.

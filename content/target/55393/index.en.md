@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# South Wales Premier Cricket League
-

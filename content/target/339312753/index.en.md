@@ -10,5 +10,3 @@
   "start_date": "2016-01-25T00:00:00Z"
 }
 
-# Library of Birmingham: First World War
-

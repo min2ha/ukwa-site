@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Exiting the EU and security, law enforcement and criminal justice
-
 Information to support a Commons debate on January 18th on the implications of exiting the EU for security, law enforcement and criminal justice

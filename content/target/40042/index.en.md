@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Filmed and Not Forgotten: The Stories of the People captured on Film 100 years ago
-
 Project that will preserve, curate, and, importantly, make the filmed heritage of the period held by the Yorkshire Film Archive permanently accessible for people to see, enjoy and learn from.

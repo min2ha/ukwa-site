@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Demos
-
 Demos is a cross-party think-tank in Britain. They produce original research, publish innovative thinkers and host thought-provoking events. Their mission is to bring politics closer to people.

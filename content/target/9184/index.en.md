@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# EU Fresh Start
-
 A campaign for renegotiation of the UK's relationship with the EU, and for a referendum on EU membership, organised within the Conservative Party. The project consulted Conservative MPs, MEPs and Peers to produce position papers on a range of related issues (organised on the web site under 'research areas').

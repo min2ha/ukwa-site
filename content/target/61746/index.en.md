@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Queen's Park Govanhill Parish Church
-
 Site of a Church of Scotland parish church at Govanhill, Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Colmcilles GAC
-
 Céad Mile Fáilte go dtí an (Welcome to the) official St. Colmcilles GAC website, serving the community of St. Albans and surrounding areas.

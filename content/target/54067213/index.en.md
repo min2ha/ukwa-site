@@ -10,5 +10,3 @@
   "start_date": "2010-08-05T00:00:00Z"
 }
 
-# P.O.S.H - The Ships of P&O
-

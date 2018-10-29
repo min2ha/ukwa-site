@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joseph Champion - Green Party Candidate for Blaenau Gwent 2015 on Facebook
-
 Joe Champion is standing for the Green Party at Blaenau Gwent.

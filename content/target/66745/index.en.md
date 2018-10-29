@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge Tarbolton (Kilwinning) St. James No. 135
-
 Site of a masonic lodge located in Tarbolton, Ayrshire and affiliated with the Grand Lodge of Scotland.

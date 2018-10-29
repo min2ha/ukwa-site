@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading RFC (@Reading_RFC) on Twitter
-
 Est.1898. Official Twitter page for Reading RFC (Reading Rugby Club) in Sonning, Berkshire, UK.

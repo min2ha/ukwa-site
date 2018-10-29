@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# BT Paralympic World Cup
-

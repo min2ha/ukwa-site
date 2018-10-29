@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T10:00:00Z"
 }
 
-# Linc Cymru
-
 Linc Homes provides good quality affordable homes for people on low income across South Wales.

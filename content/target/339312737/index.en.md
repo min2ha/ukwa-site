@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Embassy of Ireland, Great Britain: “Ireland 2016” commemorations programme in Britain.
-
 Minister Flanagan to launch the “Ireland 2016” commemorations programme in Britain.

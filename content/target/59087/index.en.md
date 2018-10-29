@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: The crunch is coming for Theresa May
-
 Argues that the government was coming to the point where it would be forced to decide whether or not to offer the EU a larger financial settlement in exchange for a trade deal.

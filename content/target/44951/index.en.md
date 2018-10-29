@@ -10,6 +10,4 @@
   "start_date": "2016-08-11T10:00:00Z"
 }
 
-# Edinburgh Skeptics Society
-
 WordPress site of a society established to promote science, reason and critical thinking.

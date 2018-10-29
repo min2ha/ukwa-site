@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cheer Festival
-
 Website for Cheer Festival, a festival for cheerleaders. 

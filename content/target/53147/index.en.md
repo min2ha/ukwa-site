@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mike Whittall (@MikeyGMT) on Twitter 
-
 Mike Whittall is the Wales Green Party candidate for Swansea West at the 2017 General Election.

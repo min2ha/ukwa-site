@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Frack Free Dee
-
 Frack Free Dee is a collective based loosely around the River Dee catchment in Cheshire, Wirral, North East Wales and North Shropshire.  They oppose and campaign against all forms of extreme energy with particular focus on Coal Bed Methane (CBM), Shale and Underground Coal Gasification (UCG) all of which are commonly referred to as Fracking. 

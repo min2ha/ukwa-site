@@ -10,5 +10,3 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# Anglesey Oyster and Welsh Produce Festival
-

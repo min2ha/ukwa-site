@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  DOMINIC LAWSON: I greatly admire the academics who've come out for Brexit but they'll need thick skins and courage 
-
 Comments on the launch of a new website called Briefings for Brexit by a group of 38 academics,

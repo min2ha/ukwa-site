@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Inside GOV.UK
-
 A blog about running and improving the GOV.UK website, for people who create or manage content on the site, frequent users and anyone else who is interested. 

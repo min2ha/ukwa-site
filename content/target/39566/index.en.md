@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Laird on Facebook
-
 Facebook page of Richard Laird, Scottish National Party list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

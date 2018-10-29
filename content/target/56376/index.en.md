@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Sanatan Dharma Mandal & Hindu Community Centre, Cardiff
-
 The Sanatan Dharma Mandal & Hindu Community Centre is located in Cardiff.

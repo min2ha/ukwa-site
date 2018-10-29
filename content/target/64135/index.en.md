@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# New St. Andrew's Parish Church
-

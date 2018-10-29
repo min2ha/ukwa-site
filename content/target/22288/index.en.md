@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Allan, Dr
-
 This is the website of Mike Allan, the Independent candidate for East Lothian in the UK General Election on the 7th May 2015.

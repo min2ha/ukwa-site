@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and chemicals regulation (REACH)
-
 House of Commons Library briefing paper discussing the EU REACH regulation for chemicals and the potential impacts of Brexit including in relation to a no deal scenario.

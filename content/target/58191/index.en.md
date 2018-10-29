@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time To Change
-
 Charity to end mental health discrimination

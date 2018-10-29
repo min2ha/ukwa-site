@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Architecture and Design Scotland
-
 Architecture and Design Scotland (A+DS) is Scotland's champion for excellence in placemaking, architecture and planning.
 A+DS organised the GREEN2014 programme, exploring the environmental legacy of the XX Commonwealth Games in Glasgow through an exhibition and a wide range of events.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Runnymede eco-village reprieve until Magna Carta celebrations
-

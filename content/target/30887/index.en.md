@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# YES 2 Scotland's Independence
-
 A fundraising site for a Scottish Independence Referendum.

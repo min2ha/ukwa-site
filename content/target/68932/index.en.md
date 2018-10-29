@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Financial Times: Gender pay gap: how women are short-changed in the UK
-
 A news article on the gender pay gap in the UK

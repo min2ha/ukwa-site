@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Retro Sport & Toy NI (@UlsterSportFair) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Voices
-
 National Voices is the coalition of charities that stands for people being in control of their health and care. It works for a strong patient and citizen voice and services built around people. It stands up for voluntary organisations and their vital work for people’s health and care.

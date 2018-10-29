@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# SNP Edinburgh Southern
-
 Website of SNP Edinburgh Southern, providing information on parliamentary candidates, events and local, national and party news.

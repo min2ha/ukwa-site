@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Croydon Quakers
-
 None

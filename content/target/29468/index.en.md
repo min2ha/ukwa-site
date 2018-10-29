@@ -10,5 +10,3 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Ymchwil Canser Cymru | Cancer Research Wales
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# F-Word, the: Contemporary UK Feminism
-
 The F-Word publishes feminist reviews, blogs & features. We promote discussion of contemporary feminism. We're a diverse team with diverse opinions.

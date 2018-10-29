@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Trinity College Dublin: Decade of Commemoration
-
 Trinity College, Dublin's website for the Decade of Commemorations. Contains, programme of events, research projects being undertaken, and podcasts of previous events.

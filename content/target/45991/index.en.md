@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Poetry Day
-
 National Poetry Day is a Forward Arts Foundation initiative. The Forward Arts Foundation is a charity that enables all to enjoy, discover and share poetry. They champion excellence in poetry and grow audiences through National Poetry Day, the Forward Prizes for Poetry and annual Forward books. 

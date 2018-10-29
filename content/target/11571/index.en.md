@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Table Tennis England
-
 None

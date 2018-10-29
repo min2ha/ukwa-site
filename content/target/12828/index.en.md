@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Opera: Anamchara - Songs of Friendship
-
 <p>A new family opera from Scottish Opera, written by acclaimed Scottish novelist Alexander McCall Smith and composer Pippa Murphy and created for Festival 2014, the cultural celebration running alongside the sporting action of the Commonwealth Games. Performances at the Theatre Royal, Glasgow, 25th-27th July 2014.</p>

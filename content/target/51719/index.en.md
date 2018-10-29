@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Glanrafon Evangelical Church, Llangollen
-

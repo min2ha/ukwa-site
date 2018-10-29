@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Camden Green Party
-
 Website of Camden Green Party, providing information on representatives and candidates, campaigns, and local and national news updates.

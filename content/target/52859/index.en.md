@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Elle
-
 ELLE is the world's biggest-selling fashion magazine. It is the international authority on style, with 44 print editions worldwide and 37 websites. Launched in 1985, British ELLE, edited by Lorraine Candy, has unparalleled access to world-renowned designers, celebrities, models, photographers,writers, columnists and stylists.

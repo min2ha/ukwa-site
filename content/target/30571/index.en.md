@@ -11,5 +11,3 @@
   "subject": null
 }
 
-#  Inchinnan Digital Commonwealth
-

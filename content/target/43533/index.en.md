@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# About My Vote: EU Referendum 
-
 Information by the Electoral Commission about the EU Referendum

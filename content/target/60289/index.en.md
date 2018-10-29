@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# British Red Cross Blog: What to do if you’ve been affected by Grenfell Tower fire
-
 This page is aimed at people directly affected by the Grenfell Tower fire. It is for residents, friends, family and neighbours. It will be updated with the latest official information about how to get help.

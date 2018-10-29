@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# Prinknash Abbey
-
 Prinknash Abbey is a Roman Catholic monastic community of men, who live in the spirit of the Rule of Saint Benedict, in the heart of the Cotswolds.
 
 The community belongs to the English Province of the Subiaco Cassinese Benedictine Congregation, which is itself part of the worldwide Benedictine Confederation.

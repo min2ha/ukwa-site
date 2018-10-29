@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Magna Carta worth £10m discovered in Kent County Council’s archives
-

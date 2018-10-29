@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Alternative Technology: The EU and the environement
-
 Article dicussing the options for the UK on preserving the environment and impacts of policy on climate change

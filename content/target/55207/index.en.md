@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Ryedale Family History Group
-
 The Ryedale Family History Group was established in 2005 to help members to further their research into family and local history.

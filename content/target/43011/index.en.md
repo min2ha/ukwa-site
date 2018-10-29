@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NIPSA Is Right To Oppose The EU
-
 This week NIPSA, Northern Ireland’s largest trade union at its conference voted to advocate that its members vote to leave the European Union. 

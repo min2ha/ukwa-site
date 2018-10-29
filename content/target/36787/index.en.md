@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# R3: Association of Business Recovery Professionals
-
 The Association of Business Recovery Professionals is active in raising awareness with individuals and businesses on the key benefits in obtaining financial advice and providing greater information to wider audiences. R3 work with government, key policy makers, opinion formers and the media to ensure that the work and views of Insolvency Practitioners (IPs) are reflected in the press.

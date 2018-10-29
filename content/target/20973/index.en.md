@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Harper on Facebook
-
 This is the Facebook page of Emma Harper, the Scottish National Party (SNP) candidate for Dumfriesshire, Clydesdale and Tweeddale in the UK General Election on the 7th May 2015 and list candidate for South Scotland in the 2016 Scottish Parliamentary election.

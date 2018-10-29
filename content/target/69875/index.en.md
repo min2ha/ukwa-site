@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Charles Borromeo, Paisley
-
 Site of a Scottish Roman Catholic parish church located in Paisley.

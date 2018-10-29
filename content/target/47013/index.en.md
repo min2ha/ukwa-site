@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter Shop, The 
-
 The official Harry Potter shop is located beside the fictional  Platform 9 3/4 at King’s Cross station in London.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# Pembrokeshire Association of Voluntary Services (PAVS)
-
 <p>Pembrokeshire Association of Voluntary Services is the independent association of voluntary and community groups in Pembrokeshire.</p>

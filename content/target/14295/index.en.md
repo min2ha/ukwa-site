@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Being Human: A Festival of the Humanities
-
 <p>Site of the festival devoted to the humanities research</p>

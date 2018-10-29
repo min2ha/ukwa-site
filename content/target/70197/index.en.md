@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bangor FC (@bangorfc) on Twitter
-
 The Super Seasiders Official Twitter.

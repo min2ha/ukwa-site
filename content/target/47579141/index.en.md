@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Spagphacious Aeolotony
-
 None

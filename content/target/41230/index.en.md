@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Guaridan, The: Never mind the BBC – here's 20 years of top Guardian recipes
-
 The culinary world was left reeling by the prospect of the BBC mothballing its online recipes. The Guardian published links to some of their favourite recipes.

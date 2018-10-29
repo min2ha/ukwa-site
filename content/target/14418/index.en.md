@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - I nearly decided not to vote yes YES because of...
-
 Ewan Morrison's post of the 5th of July, 2014.

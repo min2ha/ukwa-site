@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Friends of the Earth: EU referendum
-
 The UK part of Friends of the Earth International, an interest group which campaigns for solutions to environmental problems, argues the UK's nature is better protected by the EU

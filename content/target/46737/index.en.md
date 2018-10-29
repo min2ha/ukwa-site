@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Brexit war can still be won, but we must start fighting back
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aldershot Town F.C.
-
 Aldershot Town Football Club is a professional association football club based in Aldershot, Hampshire, England. The club participates in the National League, the fifth tier of English football. 

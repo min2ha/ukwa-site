@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Business Guide Hebrides
-
 Site of a directory of businesses on the islands of Lewis, Harris, Skye, Raasay, North and South Uist Barra, in the Western Isles of Scotland.

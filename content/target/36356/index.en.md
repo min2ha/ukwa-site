@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The : The PM asked for little and has been offered even less, blasts Chris Roycroft-Davis
-
 Comment by Chris Roycroft-Davis

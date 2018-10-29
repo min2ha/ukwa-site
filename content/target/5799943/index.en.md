@@ -10,5 +10,3 @@
   "start_date": "2008-05-08T00:00:00Z"
 }
 
-# Centre for Earth, Planetary, Space & Astronomical Research - CEPSAR
-

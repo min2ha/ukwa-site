@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: Establishing local healthwatch: working with district councils
-
 None

@@ -11,7 +11,5 @@
   "subject": "Genetics"
 }
 
-# National Information Centre for Metabolic Diseases
-
 Formerly Children Living With Inherited Metabolic Diseases (CLIMB) [not found in UK Web Archive]
 see also Target 129371 CAH

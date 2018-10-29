@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Courier, The: Concerns over Forth Bridge world heritage site bid
-

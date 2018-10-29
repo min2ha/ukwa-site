@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Labour for Mental Health: Labour Campaign for mental health
-
 Labour Party website for raising awareness and tackling the stigma which faces many people with mental health issues and in pressing for real parity with physical health in our NHS

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Where's the fairy godmother?
-
 A significant chunk - polling suggested a hefty majority of members - of the Labour Party wanted to see another vote on the European Union, with the party's leanings overwhelmingly towards Remain. However, calling for another referendum risked infuriating Labour voters who supported leaving the EU.

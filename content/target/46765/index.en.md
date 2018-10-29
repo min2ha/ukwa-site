@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Ulster-Scots Language Society
-
 Site of a society aiming to promote and preserve the spoken and written forms of Ulster-Scots.

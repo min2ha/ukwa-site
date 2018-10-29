@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Hug and Pint, The
-
 Website of The Hug and Pint, a vegan bar, restaurant and music venue in Glasgow, Scotland. 

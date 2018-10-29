@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Rhodd Eryri | Snowdonia Giving
-
 Snowdonia Giving is a new scheme set up to work with the local communities, organisations, businesses and individuals to protect the Snowdonia National Park both now and in the future – it is a way to easily donate a small amount of money to help save Snowdonia. Snowdonia Giving is administered by Menter Môn on behalf of the Snowdonia Partnership and participating businesses. Snowdonia is under threat due to it's own popularity – the rapidly increasing number of people enjoying the Park...over 6 Million people every year!

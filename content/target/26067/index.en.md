@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ‘Vote British, not Bolshie’: election posters that chart a changing Britain
-
 None

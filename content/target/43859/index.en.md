@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Momentum's Corbyn Loyalists To Confront Rebel Labour MPs
-
 Grassroots body hits out at ‘undemocratic’ coup and asks supporters to protest outside parliament against no-confidence vote

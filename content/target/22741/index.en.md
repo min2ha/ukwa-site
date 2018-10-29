@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T07:00:00Z"
 }
 
-# Greenfield Valley Musuem and Heritage Park
-
 The 70 acre Greenfield Valley Heritage Park, Museum and Farm, is owned by Flintshire County Council and managed by The Greenfield Valley Trust Ltd.

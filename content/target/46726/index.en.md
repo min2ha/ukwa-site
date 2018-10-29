@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Celtic Quick News
-
 Site of an unofficial Celtic Football Club news service and publisher of Celtic FC related books.

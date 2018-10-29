@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Buckinghamshire Learning Trust
-
 The core moral purpose of the Trust is to increase the number of schools and settings giving good and better provision to children and young people and to reduce the number of schools and settings falling into Ofsted categories. 

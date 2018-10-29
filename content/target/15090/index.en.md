@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Herne Bay Matters
-
 <p>HerneBayMatters.com is about, for, and by Herne Bay (Kent, England). It was started in 2010 to fill a gap - the town didn't have a central, shared point of contact and information.</p>

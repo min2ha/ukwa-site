@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stephen Richardson (@CllrSRichardson ) on Twitter (Mebyon Kernow candidate for Truro and Falmouth) 
-

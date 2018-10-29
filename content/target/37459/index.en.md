@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Muslim News, The: Boris Johnson urges Britain to seize its opportunity to leave the EU
-
 Boris Johnson said in a television interview that withdrawal was the only way for his country to throw off the “anti-democratic” regulations imposed by Brussels.

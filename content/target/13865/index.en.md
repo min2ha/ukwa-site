@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gemma Doyle MP
-
 <p>The website of Gemma Doyle, Labour (Co-op) Member of Parliment for West Dunbartonshire.</p>

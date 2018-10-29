@@ -10,5 +10,3 @@
   "start_date": "2015-02-11T00:00:00Z"
 }
 
-# Cymdeithas Hanes Bro Ogwr
-

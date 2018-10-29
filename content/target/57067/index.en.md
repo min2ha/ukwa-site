@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Space Travel 4 Dummies
-
 Science fiction webcomic series following the adventures of intergalactic smugglers Brent Lagwater and Clavlin Hoper.

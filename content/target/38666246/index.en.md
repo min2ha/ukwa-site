@@ -11,5 +11,3 @@
   "subject": "Cornwall"
 }
 
-# West Cornwall Community Network
-

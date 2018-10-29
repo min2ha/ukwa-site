@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# News North Wales: Irish Easter 1916 rising prisoners remembered at Frongoch ahead of centenary
-

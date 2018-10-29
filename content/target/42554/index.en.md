@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Girlguiding UK
-
 Girlguiding is a UK-wide charity, overseen by a Board of Trustees and divided nationally into 10 different countries/regional groups.

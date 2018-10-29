@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: Boris Johnson matches David Cameron on 'trust', says ComRes poll
-
 Independent, The: EU referendum: Boris Johnson matches David Cameron on 'trust', says ComRes poll

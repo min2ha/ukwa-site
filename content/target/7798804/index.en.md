@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Warriorwomen Running Blog
-
 None

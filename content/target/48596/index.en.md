@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Sarah Rhys
-
 Sarah Rhys is an 'interdisciplinary artist living and working in rural Monmouthshire. Her current investigations and responses are to Memory, Place and the Liminal'.

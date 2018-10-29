@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Be Aware Productions
-
 Be Aware Productions is a production company based in Cardiff 'which focuses on creating innovative performing and audio-visual art works'.

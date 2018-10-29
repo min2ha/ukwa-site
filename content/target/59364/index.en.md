@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Engineering Research Network Wales | Rhwydwaith Ymchwil Peirianneg Cymru
-
 The Engineering Research Network Wales was established in 2013 with funding from the Welsh Government and the Higher Education Funding Council for Wales. The aim is to promote research excellence and industrial engagement across a wide spectrum of engineering challenges. Partners include the Engineering Colleges at Bangor, Cardiff and Swansea Universities and TWI Ltd. 

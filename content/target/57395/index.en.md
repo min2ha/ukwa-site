@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Islay Jazz Festival
-
 Site of an annual jazz music festival staged at various venues on the isle of Islay, Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: BBC News: Could pro-Remain MPs and peers scupper Brexit?
-
 A High Court ruling that Parliament - not the government alone - can trigger Article 50 threatens to delay Theresa May's timetable for leaving the EU. It could delay, but not prevent, Brexit.

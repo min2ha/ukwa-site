@@ -10,8 +10,6 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# PRCA
-
 The PRCA promotes all aspects of public relations and communications work, helping teams and individuals maximise the value they deliver to clients and organisations.
 
 The Association exists to raise standards in PR and communications, providing members with industry data, facilitating the sharing of communications best practice and creating networking opportunities.

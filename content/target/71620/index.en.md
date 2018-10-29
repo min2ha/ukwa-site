@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour conference: Starmer says EU remain option on the table
-
 Labour's Brexit spokesman insisted at the Party,s 2018 conference that it could back another referendum that offered voters the chance to stay in the EU.

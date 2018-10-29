@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Green Pastures Bed & Breakfast
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Injury Observatory for Britain and Ireland, The (IOBI)
-
 None

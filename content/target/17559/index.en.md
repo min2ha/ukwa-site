@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Time is running out for voters to wake up to the Tories? cataclysmic plans
-
 None

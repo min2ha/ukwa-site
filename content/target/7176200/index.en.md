@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quaker Universalist Group
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cammy Day on Facebook
-
 This is the Facebook page of Richard Doherty, the Scottish Green Party candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Amnesty London (@amnestylondon) on Twitter
-
 Run by and for Amnesty International UK volunteers, members and local groups in London.

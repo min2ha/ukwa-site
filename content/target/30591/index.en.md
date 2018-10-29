@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# L'Office du Jèrriais
-
 Website for L'Office du Jèrriais, the traditional language of Jersey.

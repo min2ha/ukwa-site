@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: Magna Carta Manuscripts United At British Library To Celebrate 800th Anniversary
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Meet the teenagers standing to be MPs in the 2015 election 
-
 None

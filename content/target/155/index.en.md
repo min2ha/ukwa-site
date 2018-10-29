@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Tees and Hartlepool NHS Foundation Trust
-
 None

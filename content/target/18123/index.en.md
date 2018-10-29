@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Cameron's debate plan rejected: Broadcasters to go ahead without the PM
-
 None

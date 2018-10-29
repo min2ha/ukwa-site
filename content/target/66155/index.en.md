@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Lodge St. Andrew 544
-
 Site of a masonic lodge located in Coatbridge. Lanarkshire and affiliated with the Grand Lodge of Scotland.

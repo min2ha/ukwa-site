@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Coign Church, Woking
-
 The Coign Church is an Evangelical, Charismatic Church.  

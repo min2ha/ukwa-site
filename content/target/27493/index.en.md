@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Leaders' debate: SNP gets more than 2,000 new members in under 24 hours after TV battle
-
 None

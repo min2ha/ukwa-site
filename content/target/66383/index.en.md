@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Gray & Adams Limited
-
 Gray & Adams Limited designs and manufactures temperature-controlled and other specialist transport equipment. The company was founded in 1957 and is based in Fraserburgh, Scotland.

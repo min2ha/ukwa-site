@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Runnymede Trust: Electing Without Prejudice: Free speech. Hard facts. Real debate
-
 Runnymede calls on politicians of all political persuasions to focus on issues-led debate and look away from the politics of prejudice and hate.

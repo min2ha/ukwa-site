@@ -10,6 +10,4 @@
   "start_date": "2013-12-07T23:45:00Z"
 }
 
-# Africa Research Institute
-
 None

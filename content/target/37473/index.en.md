@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK universities lobby against a British exit from the EU
-
 UK universities are in opposition to departure from the European Union. A main reason for their opposition is the ability to move freely throughout the EU.

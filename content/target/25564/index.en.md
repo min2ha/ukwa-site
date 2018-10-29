@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron mocks Ed Miliband over Russell Brand interview
-
 None

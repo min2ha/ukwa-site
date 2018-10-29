@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Delta Poll: Brexit, the Chequers Deal and the Conservatives
-
 Most respondents no longer care what sort of Brexit the country gets or when it happens – they simply want the Government to get on with it. With the issue of leaving the EU still dominating UK politics, it seems voters have had enough of the talking, and just want action. According to Delta Poll, six out of ten Brits agreed that they no longer care how or when we leave – they just want it over and done with.

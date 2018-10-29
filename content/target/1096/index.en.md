@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Newborn and Infant Physical Examination Programme
-
 None

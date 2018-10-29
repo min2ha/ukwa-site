@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Waste and Resources Action Programme (WRAP) Cymru 
-
 WRAP Cymru, funded by the Welsh Government, work with businesses and individuals to help them reap the benefits of reducing waste, develop sustainable products and use resources in an efficient way. WRAP Cymru are a significtane player in environmental business support in Wales moving towards a zero waste future for Wales.

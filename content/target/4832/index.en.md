@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Team GB: BOA Chairman Seb Coe on the Passing of Nelson Mandela
-
 <p>Statement by Lord Coe on 6 December.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson put his political ambition to lead the Tory Party ahead of UK interests, says David Cameron
-

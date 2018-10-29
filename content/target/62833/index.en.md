@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irish Rugby (IRFU)
-
 The official website of the Irish Rugby Football Union (IRFU) for the island of Ireland.

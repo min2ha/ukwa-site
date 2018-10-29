@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Iain Duncan Smith wins battle to complete his welfare reforms
-
 None

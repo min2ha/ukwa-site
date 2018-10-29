@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Eddie Barnes (EddieBarnes23) on Twitter
-
 <p>The twitter profile of Eddie Barnes, Director of Strategy and Communications for the Scottish Conservative Party.</p>

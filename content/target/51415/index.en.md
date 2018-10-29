@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May eyes 'special partnership' with EU'
-
 Theresa May said the UK was facing "one of the most significant moments" in its recent history as she prepared to begin the process of leaving the EU. The Prime Minister said her goal was a "deep and special partnership" after Brexit.

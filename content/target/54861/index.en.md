@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Rydon
-
 Rydon is a construction, development, maintenance and management group operating throughout southern England. It was involved in the Grenfell Tower refurbishment project that took place in 2015-2016 and sub-contracted multiple other firms to work on the project.

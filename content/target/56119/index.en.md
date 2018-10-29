@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Thomas Madhavan Photography
-
 Thomas Madhavan is a Cardiff-based photographer, interested mainly in street and documentary photography. 

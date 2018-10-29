@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gravesham Labour Party
-
 Website of Gravesham Labour Party, providing information on party officers, county and borough councillors, events, campaigns and local and national news.

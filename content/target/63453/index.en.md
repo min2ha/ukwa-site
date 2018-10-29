@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Fair Vote Project, The
-
 Anti-Brexit campaign group claiming that Vote Leave cheated in the EU Referendum campaign by overspending and misled people into supporting EU Exit.

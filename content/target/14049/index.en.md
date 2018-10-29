@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wales Online: Scottish Independence Referendum
-
 None

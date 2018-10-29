@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Atomic Pìseag
-
 The website of Atomic Piseag, the Argyll Ladies' Centennial Gaelic Choir.

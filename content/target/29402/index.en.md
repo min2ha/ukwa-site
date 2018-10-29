@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# British Association of Dangerous Goods Professionals (BADGP)
-
 British Association of Dangerous Goods Professionals (BADGP) represents individual professional people, not companies and seeks to improve the standard of professionalism in the major modes of transport. It was established in 2010.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Qasim Hanif (@qasimk01) on Twitter
-
 Twitter profile of Qasim Hanif, the Scottish National Party list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

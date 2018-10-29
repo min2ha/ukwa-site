@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# NLW Volunteering (@NLWVolunteering) on Twitter 
-
 This is the twitter feed from the National Library of Wales Volunteering dept.

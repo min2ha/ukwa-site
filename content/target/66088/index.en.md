@@ -11,8 +11,6 @@
   "subject": "Parliamentary Archives"
 }
 
-# Government Whips' Office, House of Lords
-
 About the Government Whips' Office
 
 The Government Whips’ Office is responsible for the management of the Government’s legislative programme in the House of Lords.  The office is led by the Chief Whip who is supported by a team of Whips who are Ministers of the Crown appointed as Baronesses and Lords in Waiting. The office is part of the Cabinet Office’s Government in Parliament Group.

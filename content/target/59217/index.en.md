@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Folk Wales Online Magazine 
-
 FolkWales OM is edited by Mick Tems, Llantrisant Folk Club co-founder and Life President and presents events, topics and stories from the Folm music scene in Wales.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Film Edinburgh
-
 Site of an organisation marketing the city of Edinburgh as a film location, providing information on how it is achieved and examples of film and television set in the city, or that has used the city as a location.

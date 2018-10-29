@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Hans Zell Publishing
-
 Hans Zell Publishing have closed down but they are maintaining their website which provide some background about our past activities, details of backlist titles still in print, reviews of recent titles, as well as some other documents. 

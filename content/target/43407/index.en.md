@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Student Newspaper, The: Brexit would restore democracy and help trade
-
 An article detailing the Brexit argument that leaving the EU would be beneficial to UK trade and restore supposedly diminished democratic rights.

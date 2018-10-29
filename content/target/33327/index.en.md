@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Alun Lewis 1915-2015 Centenary
-
 Alun Lewis is a Welsh writer of the Second World War.

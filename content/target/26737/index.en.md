@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The : The SNP has won its first election in England - in a primary school
-
 None

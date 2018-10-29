@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Burnham Abbey
-
 Burnham Abbey was founded for a community of Augustinian Canonesses in 1266 by Richard, Earl of Cornwall, brother of King Henry III, reputedly in thanksgiving for his release from captivity after the Battle of Lewes in 1265.
 

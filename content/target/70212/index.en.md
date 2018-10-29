@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Workers Party Northern Ireland: International Women's Day, Forgotten Rights - Forgotten Women 
-
 The workers party email bulletin from the 8th March 2018.

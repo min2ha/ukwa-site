@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Policy Network
-
 Policy Network is an international thinktank and research institute. Its network spans national borders across Europe and the wider world with the aim of promoting the best progressive thinking on the major social and economic challenges of the 21st century. 

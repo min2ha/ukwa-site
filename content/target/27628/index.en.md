@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip voters: do you hate the SNP more than you hate David Cameron?
-
 None

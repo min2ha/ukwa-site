@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# UK Jewish Film
-
 At the core of UK Jewish Film’s existence is the notion that film is universal. It crosses cultures and divides and has the ability to unite, engage and educate diverse audiences through the telling of cinematic stories that provide stimulating, interesting and unique views of Jewish and Israeli life and culture.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# anf.nildram.co.uk
-
 This is the splash page for two websites for robot enthusiasts. One website is called Beeb Control while the other focuses on the behind the scenes process in the metalshop/workshop space.  

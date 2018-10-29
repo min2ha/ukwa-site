@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Hockey Association
-
 Website of the Army Hockey Association, which was formed to promote, develop and encourage participation in hockey for all army personnel. Includes information about teams, coaching, and results. 

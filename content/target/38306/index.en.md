@@ -10,5 +10,3 @@
   "start_date": "2016-04-06T10:00:00Z"
 }
 
-# Old Roads of Scotland
-

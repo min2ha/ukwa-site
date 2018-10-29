@@ -10,6 +10,4 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Black Rat Productions
-
 Black Rat Productions is a professional theatre company based in Penarth.

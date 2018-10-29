@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tweed Love Bike Festival
-
 Site of a festival of cycling located at Peebles and Peeblesshire, Scottish Borders.

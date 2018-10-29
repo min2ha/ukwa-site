@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Jerusalem Baptist Church, Briton Ferry
-

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Royal Society, The
-
 <p>The Royal Society is a self-governing Fellowship of many of the world’s most distinguished scientists drawn from all areas of science, engineering, and medicine.</p>

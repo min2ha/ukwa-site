@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London GreenerIN (@LondonGreenerIN) on Twitter
-
 London Green Party campaigning for the UK to stay in the EU

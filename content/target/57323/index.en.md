@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain takes another big step towards leaving Europe
-
 Report on the EU Withdrawal Bill passing its second reading in the House of Commons

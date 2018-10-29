@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Hexham Neighbourhood Plan
-
 Dedicated site for development of the Hexham Neighbourhood Plan, offering documentation and minutes. It aims to promote public involvement in the project.

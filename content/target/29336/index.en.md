@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# BBC History : VE Day and the aftermath of WW2
-
 Andrew Marr explains how VE Day was soon overshadowed by the horrors of the holocaust and signalled the death knell for imperial Britain.

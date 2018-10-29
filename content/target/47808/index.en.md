@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Career Women Wales
-
 Career Women Wales is a social enterprise providing training for women to recognise and achieve their professional goals whilst valuing the importance of a work-life balance. It is managed by Chwarae Teg .

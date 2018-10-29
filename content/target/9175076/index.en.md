@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Seven Stories - The Centre for Children's Books
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margaret Burgess MSP
-
 Margaret Burgess is Scottish National Party member of the Scottish Parliament for Cunninghame South.

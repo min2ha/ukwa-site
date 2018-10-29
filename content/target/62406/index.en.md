@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Catalina Architecture
-
 Catalina Architects are a private architectural practice based in Mid Wales.

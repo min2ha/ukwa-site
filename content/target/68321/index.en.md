@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Crickhowell Walking Festival
-
 9 days of guided walks and events in and around Crickhowell and the Black Mountains

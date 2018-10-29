@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Alberto Nardelli (@AlbertoNardelli) on Twitter (The Guardian) 
-

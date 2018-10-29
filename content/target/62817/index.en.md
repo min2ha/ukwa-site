@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: EU27 and UK citizens’ acquired rights in the Brexit withdrawal agreement: detailed analysis and annotation
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# HammersmithToday.co.uk
-

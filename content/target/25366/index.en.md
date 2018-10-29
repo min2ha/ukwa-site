@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: smaller parties favoured in Dewsbury
-
 None

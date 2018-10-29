@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Guardian, The: The terrible beauty of the Easter Rising remains alive today
-

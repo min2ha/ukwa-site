@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Girvan North Parish Church
-
 Site of a Church of Scotland parish church at Girvan, Ayrshire.

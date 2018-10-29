@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy Store UK, The 
-
 Website for The Comedy Store UK (London and Manchester) including listings, FAQs, history etc

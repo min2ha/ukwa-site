@@ -11,6 +11,4 @@
   "subject": "SmashFest UK"
 }
 
-# Ward and Partners
-
 Aim to help buyers find the home that they want. The website aims to show the property that may never hit the internet. Nominated by a Smashfest 2015 visitor, who commented: great for looking for affordable homes!

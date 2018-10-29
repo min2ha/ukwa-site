@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Buckley & Deeside Circuit, The Methodist Church
-

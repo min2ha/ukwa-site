@@ -11,8 +11,6 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Islands Holdings  (FIH)
-
 FIH group plc (FIH) is quoted on AIM (Alternative Investment Market), incorporated in the United Kingdom, with operations in the Falkland Islands and the UK. Its business activities in the Falklands are conducted by The Falkland Islands Company (FIC), established by Royal Charter in 1852. FIC's activities include retailing, property, insurance, hotels, shipping and fishing agency services. In the UK the group operates a long established passenger ferry service across the mouth of Portsmouth harbour, Portsmouth Harbour Ferry Company (PHFC).
 
 On 5 March 2008 the group acquired MOMART, a market leader in the handling and storage of fine art and antiquities.

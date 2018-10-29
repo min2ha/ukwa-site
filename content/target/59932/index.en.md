@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Megan Broadmeadow
-
 Megan Broadmeadow is a Welsh artist and was awarded the 2015–16 Mark Tanner Sculpture Award. Her aims 'are to continue to explore immersivity, and our complex relationships to objects. To understand how objects and environments affect our subconscious, and bring a little touch of magic to peoples lives'.

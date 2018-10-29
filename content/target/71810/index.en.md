@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Monster Voice Cardiff
-
 Monster Voice Cardiff is a voice agency representing actors, comedians and voiceover artists for commercial, radio, character and narration work. 

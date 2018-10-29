@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Black Studies Association
-
 The Black Studies Association aims to build the discipline of Black Studies into a force in the UK. 

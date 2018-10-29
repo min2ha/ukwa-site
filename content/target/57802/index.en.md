@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Tina Holley - Watercolour Artist
-
 Tina Holley is a Watercolour Artist who ran her own gallery at the National Trust's Bodnant Garden in North Wales. After many years in North Wales she is based in the Scottish Borders.

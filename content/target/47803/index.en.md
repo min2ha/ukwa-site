@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Intu Properties plc
-
 Intu Properties plc is a British Real Estate Investment Trust, focused on shopping centre management and development, and other commercial property.

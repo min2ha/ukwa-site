@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Divided Britain, where the Brexit alarm is sounded but no one wants to hear
-

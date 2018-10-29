@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Edinburgh Tram Inquiry, The
-
 Inquiry aiming to establish why the Edinburgh Trams project incurred delays and cost more than planned while delivering less.

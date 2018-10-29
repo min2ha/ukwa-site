@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Gray (@NeilGrayMP) on Twitter
-
 Twitter profile of Neil Gray, Scottish National Party candidate for Airdrie and Shotts in the 2017 general election.

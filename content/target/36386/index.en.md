@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU referendum notebook: The next seven days will be absolutely crucial for Brexit hopes
-
 Column by Patrick O'Flynn

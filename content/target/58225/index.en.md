@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# iNews: I treat porn addiction – people have no idea how addictive it is 
-
 News article about a porn addiction therapist and the negative impact of porn on mental health that she has witnessed 

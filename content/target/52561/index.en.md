@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Best for Britain, The
-
 This website is sponsored by Anneliese Dodd, MEP. It sets out the benefits that the EU brings to each county in the South East region, and offers facts and statistics in support.

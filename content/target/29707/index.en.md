@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thame Arts & Literature Festival
-
 Thame Arts & Literature Festival

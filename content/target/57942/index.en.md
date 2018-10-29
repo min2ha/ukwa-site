@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# IBERS: Institute of Biological, Environmental and Rural Sciences
-
 IBERS: Institute of Biological, Environmental and Rural Sciences is a research and education center at Aberystwyth University. Research includes grass, clover and forage production, plant science, soil science and animal nutrition.

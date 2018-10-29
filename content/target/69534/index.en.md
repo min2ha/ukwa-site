@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of St. Flannan's
-
 Site of a Scottish Roman Catholic parish church located in Kirkintilloch, East Dunbartonshire, incorporating the church of St. John of the Cross, Twechar.

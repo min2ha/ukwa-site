@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for Economic Policy Research (CEPR)
-
 he Centre for Economic Policy Research (CEPR) is a network of over 1100 researchers who are based mainly in universities throughout Europe and collaborate through CEPR in research and its dissemination It is funded by a registered, European charity founded in 1983 by Richard Portes, FBA, CBE. CEPR's office is located in London.

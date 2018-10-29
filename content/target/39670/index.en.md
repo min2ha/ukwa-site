@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War 1 Hub
-
 This project is to bring the story of the Argyll and Sutherland Highlanders in WW1, taking part of the Museum's WW1 exhibition to schools, libraries or Museums.

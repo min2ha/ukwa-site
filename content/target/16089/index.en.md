@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# World Jewish Relief 
-
 <p>World Jewish Relief (WJR) is a UK based international Jewish charity, committed to meeting the needs of individuals and communities living in poverty, assisting them in the transformation of their lives and livelihoods.</p>

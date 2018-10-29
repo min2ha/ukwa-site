@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Creativity of the First World War
-
 Project with a focus on the town of Holsworthy through the First World War.

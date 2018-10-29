@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why it’s right for the Lords to apply the brakes on a train-crash Brexit
-

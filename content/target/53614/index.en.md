@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Doug Lawson (@dougilawson) on Twitter (Green Party Politician)
-
 Doug Lawson stood as Green Party Candidate for Penrith and the Border in the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Ulster-Scots Academy
-
 Site of an organisation recording, collecting, conserving, studying, promoting and disseminating written and spoken Ulster-Scots in its cultural and historical contexts, in association with native speakers, and to the highest academic standards.

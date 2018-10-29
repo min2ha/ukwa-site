@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: I am no Tory stooge, says woman who 'shredded' Ed Miliband on Question Time
-
 None

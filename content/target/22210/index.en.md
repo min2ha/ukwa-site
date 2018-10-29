@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anne-Marie Trevelyan (Conservative Politician)
-
 Anne-Marie Trevelyan stood as Conservative candidate for Berwick-upon-Tweed in the 2017 general election and was successful.

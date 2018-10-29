@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Powys Mental Health 
-
 Powys Mental Health Information Service is a service provided by Powys Association of Voluntary Organisations (PAVO). 

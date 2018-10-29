@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Coastlines Cymru | Llinellau Arfordirol
-
 Coast Lines is a community arts group situated in Fishguard.

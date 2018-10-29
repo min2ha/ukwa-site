@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Hive, The (Worcester)
-
 The Hive is home to a huge range of print and online resources all of which can be discovered through three online catalogue searches; Library search, Archaeology search and Archive search.

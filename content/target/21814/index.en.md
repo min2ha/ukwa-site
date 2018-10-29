@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Exposing anti-independence bias on the BBC on Facebook
-
 Facebook page for Exposing Anti-Independence Bias on the BBC, they publish news stories and has a link to complaints section of the BBC.

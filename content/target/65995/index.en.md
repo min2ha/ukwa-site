@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# National Parent Forum of Scotland
-
 Site of a forum that works in partnership with national and local government and other organisations involved in education and child wellbeing issues to ensure that parents play a full and equal role in education, with the overall aim of helping every child to maximise their potential through their school life.

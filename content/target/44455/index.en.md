@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T11:00:00Z"
 }
 
-# Celtic & Scottish Studies | The University of Edinburgh
-
 The University of Edinburgh's Celtic and Scottish Studies home page

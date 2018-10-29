@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Poke, The: People are sharing pictures of their cats with #CatsAgainstBrexit in an anti-Brexit protest and it’s pretty funny actually
-
 Social Media review on humour site The Poke

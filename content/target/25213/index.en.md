@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: 'Black political leadership seriously lacking'
-
 None

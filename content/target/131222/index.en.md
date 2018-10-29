@@ -11,6 +11,4 @@
   "subject": "Fashion"
 }
 
-# Museum of Costume, Bath
-
 None

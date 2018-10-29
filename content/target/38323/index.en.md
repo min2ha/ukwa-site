@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Army Museum: Easter Rising 1916
-
 Website including video: experts from museums in Northern Ireland and the Republic of Ireland share their thoughts about objects from the National Army Museum’s Easter Rising collection.

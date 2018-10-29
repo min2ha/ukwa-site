@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Windrush Foundation (@Windrush1948) on Twitter
-
 The official Twitter account for the Windrush Foundation UK.

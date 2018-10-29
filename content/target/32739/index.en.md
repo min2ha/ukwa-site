@@ -10,6 +10,4 @@
   "start_date": "2015-11-19T09:00:00Z"
 }
 
-# Kirsty Fife
-
 Blog by Kirsty Fife, archivist, cultural organiser and creative practitioner.

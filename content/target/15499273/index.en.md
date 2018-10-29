@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Bath Postal Museum
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charles Dundas (@cdundas) on Twitter
-
 Twitter profile of Charles Dundas, Liberal Democrat candidate for Livingston in the 2015 UK General Election and Almond Valley in the 2016 Scottish Parliamentary election.

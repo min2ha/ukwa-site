@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Outside The Box Comedy Club
-
 Website for the Out The Box comedy clubs

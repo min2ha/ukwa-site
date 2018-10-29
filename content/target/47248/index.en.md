@@ -10,6 +10,4 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# Ysgol y Ganllwyd
-
 Gwynedd primary school set to close in 20017.

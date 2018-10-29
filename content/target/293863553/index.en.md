@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Aelwyd Housing Association
-
 <p>Aelwyd is a Charitable, Christian Housing Association works closely for local Churches and communities providing rented homes for people in housing need.</p>

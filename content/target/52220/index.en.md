@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bartholomew's Church, Clay Cross
-

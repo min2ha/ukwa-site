@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Development Company
-
 Website for the Jersey Development Company, who act as the delivery vehicle for property development for the States of Jersey. Contains details of the company and projects, both completed and proposed.

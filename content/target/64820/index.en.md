@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Northern Ireland Human Rights Commission: Discussion Paper on Brexit
-
 This report examines the impact of the United Kingdom’s exit from the European Union (Brexit) upon human rights and equality issues.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Guardian, The: Barack Obama sets out Africa vision after Mandela pilgrimage
-
 None

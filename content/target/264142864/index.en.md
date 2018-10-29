@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1Ludford - A Village's Sacrifice, Ludford 1914-1918
-
 <p>Project involving the community in finding out about how the First World War affected Ludford's people and places.</p>

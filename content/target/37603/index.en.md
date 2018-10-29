@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Bwyd nid Bomiau Caerdydd | Food not Bombs Cardiff
-
 Food Not Bombs is an all-volunteer movement that shares free vegan meals as a protest to war and poverty. Food Not Bombs Cardiff serve hot vegan food every Friday at 12.30pm behind the Cardiff Central Market.

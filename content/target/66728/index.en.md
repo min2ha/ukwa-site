@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit showdown as Theresa May FINALLY sets a date for confrontation with Remain rebels by planning a marathon series of votes on House of Lords amendments to flagship laws 
-

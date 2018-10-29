@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Computing: Video games are not a "mental disorder" - but let's ban exploiters from selling weaponised gambling platforms as games
-
 News article disagreeing about the recent decision by the World Health Organisation to classify video game addicition as a mental health condition. Stresses the focus should be on games and gambling.

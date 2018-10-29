@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Scottish School of Educational Research
-
 The project is intended to delineate and detail a tacit ‘Scottish School of Educational Research’ that existed between about 1925 and 1950 and had profound and enduring influences on world educational and psychological research.

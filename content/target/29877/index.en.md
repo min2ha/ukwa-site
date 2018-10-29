@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Assembly Festival on Facebook
-
 Facebook for Assembly Festival, a production company that presents a programme of theatre, comedy, music, cabaret, circus and more at the Edinburgh Festival Fringe and on tour.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carabao UK
-
 The official website of of Carabao UK, an energy soft drink. The company have sponsored Reading FC, Chelsea FC and The Carabao Cup. 

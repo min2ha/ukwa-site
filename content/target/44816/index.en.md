@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Residents Against Ffos-y-Fran (R.A.F.F.) 
-
 Residents Against Ffos-y-Fran have been opposing opencast mining in Merthyr Tydfil for a number of years. 

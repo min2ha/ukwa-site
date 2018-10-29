@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# University of Cambridge: Robinson College
-

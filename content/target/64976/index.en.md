@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# NATECLA Scotland
-
 The Scottish branch of the National Association for Teaching English and other Community Languages to Adults, or NATECLA.

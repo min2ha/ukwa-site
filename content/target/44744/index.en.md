@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron accused of 'gross negligence' over Brexit contingency plans 
-
 Guardian, The

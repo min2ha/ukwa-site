@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sound Festival
-
 Site of an annual classical music festival staged in Aberdeen and Aberdeenshire.

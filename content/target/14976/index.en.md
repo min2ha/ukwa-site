@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claxton & Sand Hutton Parish
-

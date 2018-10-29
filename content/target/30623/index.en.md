@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# St Mary's University, Twickenham
-
 Official website of St Mary's University, Twickenham.

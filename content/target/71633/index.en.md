@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Sons of the Mars
-
 Site recording the history of the training ship 'Mars' which was docked in the Tay at Dundee where homeless and destitute boys learned new skills and kept out of trouble.

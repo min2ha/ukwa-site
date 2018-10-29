@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron hands junior jobs to his harshest critics in ministerial reshuffle
-
 None

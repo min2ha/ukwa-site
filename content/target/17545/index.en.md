@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-#  Guardian, The: How Tories could remain the largest party (part two): vote green, get blue
-
 None

@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Wilkie Collins Information Pages
-
 None

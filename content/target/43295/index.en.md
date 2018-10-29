@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Roger Helmer (UKIP  MEP for the East Midlands)
-
 Roger Helmer stood as the UK Independence Party (UKIP) candidate for South Leicestershire in the 2017 General Election, but was not elected. He has been the Member of the European Parliament (MEP) for the East Midlands region since 1999, and was the Head of Delegation for the UK Independence Party (UKIP). Before becoming an MEP, he was a business executive. He announced his resignation as an MEP in June 2017 following allegations of misuse of public funds,

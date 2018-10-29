@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: You don't need to trust politicians to vote for Brexit. Just trust yourself
-

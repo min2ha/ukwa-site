@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Gaynor Arnold
-
 Gaynor Arnold was born and brought up in Cardiff, made the 2008 Man Booker and the Orange Prize Longlist and is a member of Academi.

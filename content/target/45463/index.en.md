@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Peter J. Conradi
-
 Author and former lecturer and probably best known for his works on Dame Iris Murdoch.

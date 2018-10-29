@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ballymena Guardian
-
 None

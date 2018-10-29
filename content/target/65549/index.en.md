@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Students plan summer of defiance in push for ‘people’s vote’ on Brexit
-
 Claims that "One million students join calls for vote on Brexit deal". Using extrapolation, the article equated 120 student union officers signing a letter to the Observer to the direct support of 980,000 students around the country.

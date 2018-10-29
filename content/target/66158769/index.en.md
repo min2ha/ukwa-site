@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Therapeutic Living With Other People's Children: An oral history of residential therapeutic care c. 1930 - c. 1980
-
 None

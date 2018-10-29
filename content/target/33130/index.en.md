@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Techniquest Glyndŵr
-
 Techniquest Glyndwr is based at Glyndŵr University, Wrexham. The aim is to promote the advancement of education and learning, particularly amongst children, of science and technology.

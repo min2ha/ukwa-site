@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Callander Jazz and Blues Festival
-
 Site of an annual jazz, rhythm and blues, blues and rock festival in Callander, Stirlingshire, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Be the First to Like This
-
 About an anthlogy of new Scottish poets, published by Vagabond Voices.

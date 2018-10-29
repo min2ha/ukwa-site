@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Italian Connection, The
-
 None

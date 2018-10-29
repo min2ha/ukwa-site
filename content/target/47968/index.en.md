@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# iohannes.com
-
 Electronic manuscript transcriptions of the Gospel according to John in Greek, Latin, Syriac and Coptic. 

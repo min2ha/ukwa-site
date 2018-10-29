@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sheffield Students
-
 Information for Sheffield students ahead of the 2015 general election. This is a joint campaign produced by The Sheffield College, Sheffield Hallam Students’ Union and Sheffield Students’ Union. 

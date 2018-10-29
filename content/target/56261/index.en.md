@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: UK 'has never been more addicted to smartphones'
-
 Article regarding a report published by Deloitte which findings state that people in the UK have never been more addicted to their smartphones

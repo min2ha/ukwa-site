@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Contemporary British Silversmiths
-
 <p>"Contemporary British Silversmiths is dedicated to maintaining and advancing the historic craft of silversmithing within the context of contemporary design. We represent a valuable forum for silversmiths throughout the country and an important point of contact for anyone interested in modern silverware." - About.</p>

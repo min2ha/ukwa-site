@@ -10,6 +10,4 @@
   "start_date": "2014-04-25T02:15:00Z"
 }
 
-# West Midlands Conservatives on Twitter
-
 None

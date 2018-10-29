@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Cromarty East Church 
-
 Site of a former church operating as a performance and wedding venue in the town of Cromarty, Highland, Scotland

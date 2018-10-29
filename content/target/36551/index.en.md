@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Former Ukip deputy says that Nigel Farage is 'least trusted' voice on Europe
-

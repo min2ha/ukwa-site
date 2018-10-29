@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wheatley Hills RUFC on Pitchero
-
 Founded in 1962 Wheatley Hills RUFC aim to create a stable environment in which the young players can reach their full potential, whilst enjoying the atmosphere and camaraderie that has long been a traditional part of our game.

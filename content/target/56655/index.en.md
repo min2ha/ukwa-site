@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Digital Library of Chinese Theatre 中国戏剧资料库
-
 This is a Pilot of the Digital Library of Chinese Theatre that the international research network Staging China is building alongside the project’s partners. The aim is to provide a central hub for Chinese Theatre resources that can be used for teaching, research and increasing knowledge. This is a bi lingual site in both English and Chinese.

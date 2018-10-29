@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sea Change Festival
-
 Website for the Sea Change Festival in Devon.

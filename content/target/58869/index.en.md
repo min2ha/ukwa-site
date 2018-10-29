@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Do not Go Gentle Festival
-
 Do Not Go Gentle was established in 2001 and is an annual arts ​festival held in ​Swansea. The aim is to be a type of festival that Dylan Thomas might have liked. It involves beer, cosy and atmospheric venues, great acts, and the people of Swansea who gave him the inspiration to write.

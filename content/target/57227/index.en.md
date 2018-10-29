@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Blood Bikes Wales 
-
 Blood Bikes Wales is a charity that cover whe whole of Wales and transport blood and other medical supplies free of charge for the NHS.

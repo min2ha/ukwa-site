@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Alex Salmond: Deal or no deal, I'll tell Miliband what to do
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Irish Medals Easter Rising
-
 This website contains information drawn from a number of archival sources and contains lists of participants in the Easter Rising, 1916, both rebels and Crown forces. It also contains digital images of primary documents and militaria.  

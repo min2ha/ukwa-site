@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# AZ Magazine
-
 AZ Magazine is an online publication for LGBT+ People of Colour.

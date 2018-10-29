@@ -10,6 +10,4 @@
   "start_date": "2015-08-06T10:00:00Z"
 }
 
-# Rumi Festival
-
 The Rumi Festival is hosted by the Beshara School at the Chisholme Institute

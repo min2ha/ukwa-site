@@ -10,6 +10,4 @@
   "start_date": "2017-11-25T09:00:00Z"
 }
 
-# Ben Nevis Race
-
 Site of a categorised annual series of races from Fort William to the summit of Ben Nevis and back, and the race organisers.

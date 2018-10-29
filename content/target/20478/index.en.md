@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage urges Ukip to take positive stance in immigration debate
-
 None

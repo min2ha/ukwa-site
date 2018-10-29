@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Pray for Scotland
-
 Site of an organisation promoting and supporting prayer for every aspect of Scotland.

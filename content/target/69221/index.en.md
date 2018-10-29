@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Michel Barnier questions Theresa May's Brexit White Paper
-
 Michel Barnier commented that Theresa May's plan for a future trade relationship with the EU could weaken the single market and create burdens for business. Michel Barnier has said Theresa May's plan for a future trade relationship with the EU could weaken the single market and create burdens for business.
 
 

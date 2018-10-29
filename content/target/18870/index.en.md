@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Melvyn Bragg has bottled it on the Magna Carta
-

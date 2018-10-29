@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jess Asato (@Jessica_Asato) on Twitter (Labour candidate for Norwich North)
-

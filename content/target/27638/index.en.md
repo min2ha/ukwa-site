@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage to sack Patrick O'Flynn in purge of Ukip coup plotters
-
 None

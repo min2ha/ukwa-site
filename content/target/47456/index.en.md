@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Gal-Dem
-
 gal-dem is a creative magazine (online and in print) comprised of over 70 women of colour. Most of our team are based in the UK, but we do have a few from farther afield including the States and South America. The aim of gal-dem is to open up our take on the world to a wider audience. We want people of different shapes, sizes, genders and ethnic backgrounds to engage with the work we are doing. It is no secret that the mainstream media doesn’t represent or reflect us, so we are doing it for ourselves.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T08:00:00Z"
 }
 
-# Boundary Commission for Scotland
-
 The Boundary Commission for Scotland is responsible for reviews of parliamentary boundaries in Scotland.

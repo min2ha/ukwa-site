@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rio 2016: Michael Conlan launches foul-mouthed attack on amateur boxing board for 'cheating' him out of Games
-
 24-year-old Conlan launched a furious verbal attack on the AIBA after his quarter-final defeat in Rio on Tuesday 16th of August 2016.

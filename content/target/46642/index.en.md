@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Lights, Camera, Cardiff
-
 Lights, Camera, Cardiff examines the film industry in Cardiff and the surrounding South Wales area and is 'one-stop-shop for every South Wales-based cinephile.' Lights, Camera, Cardiff is run by Emily Bater, a journalist and film obsessive. 

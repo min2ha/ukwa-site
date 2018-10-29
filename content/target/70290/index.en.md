@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# FC United Women (@FCUnitedWomen) on Twitter
-

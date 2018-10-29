@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Hay St Marys FC
-

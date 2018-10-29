@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Thorne Moore
-
 Thorne Moore is an author of novels set in West Wales. She has three books published by Honno: A Time For Silence, Motherlove and The Unravelling; and a fourth novel, Shadows, published by Endeavour and a book of short stories: Moments of Consequence.

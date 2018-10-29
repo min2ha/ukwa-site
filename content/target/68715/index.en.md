@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May’s EU deal under fire from hardline Brexiters
-
 Anti-EU MPs warned that the proposed UK-EU relationship after Brexit could be worse than no deal, while entrepreneurs said the plans were unworkable
 

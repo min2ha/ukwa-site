@@ -10,5 +10,3 @@
   "start_date": "2009-06-22T00:00:00Z"
 }
 
-# Vanity Publishing - advice and warning
-

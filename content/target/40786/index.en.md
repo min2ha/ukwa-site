@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# High Grow Darlo on Facebook
-
 High Grow Darlo is an innovative community project planting fresh vegetables, fruits & herbs in public areas around Darlington for public consumption.

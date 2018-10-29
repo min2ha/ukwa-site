@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Irish budget contains measures to deal with Brexit fallout
-
 The Irish government has announced a cautious budget after the Brexit vote, with 1.3bn euros (£1.2bn) allocated for tax cuts and public spending increases.

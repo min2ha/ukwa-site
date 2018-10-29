@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mesut Özil (m10_official) on Twitter
-
 Professional footballer from Germany who plays with Arsenal Football Club.

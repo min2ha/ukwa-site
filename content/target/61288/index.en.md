@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: MPs could block Theresa May's Brexit plan - Anna Soubry
-
 Pro-European Conservative MPs could join forces with Labour to block the kind of Brexit Theresa May wants, according to Anna Soubry

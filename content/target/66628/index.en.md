@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# The Scottish Investment Trust plc
-
 The website of The Scottish Investment Trust plc, a publicly owned investment manager. The company was founded in 1887 and is based in Edinburgh, Scotland.

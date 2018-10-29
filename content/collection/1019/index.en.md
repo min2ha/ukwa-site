@@ -403,6 +403,4 @@
   "endDateText": "31-07-2018"
 }
 
-# Magic
-
 2017 marks the 20th anniversary of the publication of Harry Potter and the Philosopher’s Stone. The National Library of Scotland and the British Library have curated a collection of Harry Potter themed websites to mark this significant literary milestone. 

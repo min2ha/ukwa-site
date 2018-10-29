@@ -10,5 +10,3 @@
   "start_date": "2015-07-13T00:00:00Z"
 }
 
-# Cynon Culture
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Coleman Racing
-
 Coleman Racing UK is based in Pembrokeshire and the home of P1 Superstock Offshore Powerboat Racing Team Sam and Daisy Coleman. 

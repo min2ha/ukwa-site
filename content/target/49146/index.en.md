@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Threave Rovers Football Club
-
 Site for a Scottish amateur football club based in Castle Douglas, Dumfries & Galloway.

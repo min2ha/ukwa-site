@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Ulster Unionist Party (UUP): Our Vision
-
 A subsection of the Ulster Unionist Party (UUP) website that outlines their policies on a number of issues including their vision for Northern Ireland outside the EU after the Brexit process.

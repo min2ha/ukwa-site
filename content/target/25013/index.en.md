@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: IN PICTURES: The General Election LOSERS as parties' big-hitters miss out
-
 None

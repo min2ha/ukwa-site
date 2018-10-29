@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Swica Carnival
-
 Swica Carnival run Wales' biggest annual carnival, the Cardiff Carnival.

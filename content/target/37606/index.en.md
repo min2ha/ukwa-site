@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit risks higher fares and fewer flights for UK tourists, warns Abta
-
 Guardian, The

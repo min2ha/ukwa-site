@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Rushlight The Belfast Magazine
-
 None

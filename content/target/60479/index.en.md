@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Irish PM addresses MEPs
-
 Irish PM Leo Varadkar debates 'the future of Europe' with MEPs. He warns against 'backsliding' on Brexit pledges over Irish border and claims that British soldiers in World War II fought for European values.
 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jack Caldwell (@JackForMSP) on Twitter
-
 Twitter profile of Jack Caldwell, the independent candidate for Edinburgh Northern and Leith constituency in the 2016 Scottish Parliamentary election.

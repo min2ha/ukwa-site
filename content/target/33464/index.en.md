@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sir y Fflint dros Addysg Gymraeg (SYFFLAG)
-
 Pressure group campaigning for Welsh medium education across Flintshire.

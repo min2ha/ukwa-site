@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Imaging & Machine Vision Europe
-

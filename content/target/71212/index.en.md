@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Watford Dance Festival
-
 Website for the Watford Dance Festival.

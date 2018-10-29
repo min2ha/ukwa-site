@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Freedom Association (@fta4freedom) on Twitter
-
 The Freedom Association is a non-partisan, libertarian pressure group dedicated to fighting for individual liberty, freedom of expression & national sovereignty.

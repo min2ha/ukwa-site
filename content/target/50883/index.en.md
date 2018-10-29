@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WEA in World War I in the North East, The 
-
 The Workers Educational Association (WEA) was launched in the North East in 1910 at a time when education was mostly accessible to the wealthy.  This project reflects on the Association's experience during WWI.

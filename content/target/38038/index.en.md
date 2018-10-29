@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Westminster In (@Westminster_In) on Twitter
-
 City of Westminster residents and businesses in support of @StrongerIn #EUref

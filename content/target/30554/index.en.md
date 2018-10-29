@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sharing our Learning in Dundee: Digital Commonwealth Project at St Paul’s RC Academy
-

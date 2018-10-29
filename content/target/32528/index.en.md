@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Hollie Arnold 
-
 Hollie Arnold is a Welsh based Paralympian.

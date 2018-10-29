@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Anglo-Indian Project: Exploring Anglo-Indian history
-

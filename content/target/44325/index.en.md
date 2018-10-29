@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T10:00:00Z"
 }
 
-# Visit Cowal
-
 Site of a local marketing organisation promoting tourism in the Cowal peninsula, Argyll & Bute, Scotland

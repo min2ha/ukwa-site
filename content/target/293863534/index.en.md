@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent Deeside
-
 <p>This is the site for Phil Woods, Independent Deeside candidate.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Catherine Blaiklock (UKIP Politician)
-
 Catherine Blaiklock was the UK Independence Party (UKIP) candidate in the constituency of Great Yarmouth in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fleetwood Town Football Club
-
 Fleetwood Town Football Club is a professional association football club based in the town of Fleetwood, Lancashire, England.  Established in 1997, the current Fleetwood Town F.C. is the third incarnation of the club which first formed in 1908. Their home strip is red shirts with white sleeves and white shorts. The home ground is Highbury Stadium in Fleetwood and its supporters are affectionally known as the Cod Army. 

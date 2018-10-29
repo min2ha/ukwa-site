@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: PM Commons statement on EU reform and referendum: 22 February 2016
-
 Oral statement to Parliament

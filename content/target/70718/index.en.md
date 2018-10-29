@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: ROBERT HARDMAN: The ugly racist mobs aren't on the march in Brexit Britain - but they are in Germany, the heart of the 'open and friendly' EU
-
 Following an outbreak of anti-immigrant rioting in Chemnitz, points out that right-wing extremism is on the rise not in Brexit Britain but in EU member states such as Germany.

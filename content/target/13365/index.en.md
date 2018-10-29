@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow Against ATOS!
-
 <p>Website of Glasgow Against ATOS: a campaign opposing the Department of Work and Pension’s Work Capability Assessments carried out by the French multinational company ATOS. It covers protests against Atos being an official supporter and supplier of services to the XX Commonwealth Games.</p>

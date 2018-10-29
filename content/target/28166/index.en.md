@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Ben Pile (@clim8resistance) on Twitter
-
 Twitter feed of Ben Pile, one of the writers for the blog site Climate Resistance.

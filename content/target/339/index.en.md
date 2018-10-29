@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnet Health and Wellbeing Board
-
 None

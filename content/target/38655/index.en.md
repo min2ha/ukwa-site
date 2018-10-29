@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Blinded By War
-
 Project to research and explain the big impact that the First World War has had on the development of ophthalmic medicine.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Orkney Nature Festival
-
 festival celebrating and sharing wild Orkney

@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Crown Office and Procurator Fiscal Service, The (COPFS)
-
 Scotland’s prosecution service.

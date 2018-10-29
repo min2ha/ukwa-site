@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Stranraer and District Local History Trust
-
 Site of a trust set up to research, record and publish information on local history for the benefit of the community of Stranraer and district in Dumfries and Galloway in the South West of Scotland.

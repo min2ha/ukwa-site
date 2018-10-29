@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Global Warming Policy Forum: Energy Manifesto 2017
-
 The new government should take immediate steps to prevent further economic harm and rising policy costs while simultaneously undertaking a comprehensive review of energy and climate policies to ensure that the United Kingdom as a whole can prosper as an independent trading nation after leaving the European Union.
 

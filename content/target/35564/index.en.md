@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ciaran Roarty (@sgpciaran) on Twitter
-
 The Twitter profile of Ciaran Roarty, Scottish Green Party candidate for West Scotland in the 2016 Scottish Parliament election.

@@ -10,5 +10,3 @@
   "start_date": "2007-07-12T00:00:00Z"
 }
 
-# Ty Newydd: Y Ganolfan Ysgrifennu Genedlaethol - National Writery Centre for Wales
-

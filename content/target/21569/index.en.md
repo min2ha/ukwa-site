@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tory candidate suspended over vote-winning allegations
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2014-11-30T01:00:00Z"
 }
 
-# Child Christmas in Wales
-
 <p>This is Wales Theatre Company's 2014 adaptation of Dylan Thomas's play 'A Child Christmas in Wales'.</p>

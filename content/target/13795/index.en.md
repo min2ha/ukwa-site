@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Citizen Smart: The Silence of the Shamed
-
 None

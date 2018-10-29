@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Against Violence & Abuse
-
 We strive to improve services for survivors through our learning, resources, consultancy and end Violence Against Women and Girls through our policy, research and prevention work.

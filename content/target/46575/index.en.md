@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# BBC Radio nan Gaidheal site
-
 BBC Radio nan Gaidheal site

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Deer Commission for Scotland (DCS)
-
 None

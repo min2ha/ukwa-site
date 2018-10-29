@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband launches Labour election bid: 'We will win by having millions of conversations'
-

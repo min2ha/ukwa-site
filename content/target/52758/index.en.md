@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Evangelist, Bromley
-
 We are a friendly, welcoming Anglican church located close to the centre of Bromley in Kent, with an attractive historic building (Grade II Listed) and a traditional but relaxed style of worship.

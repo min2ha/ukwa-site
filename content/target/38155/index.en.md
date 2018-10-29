@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nadia El-Nakla : Nadia for North East Scotland
-
 Nadia El-Nakla is the Scottish National Party list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

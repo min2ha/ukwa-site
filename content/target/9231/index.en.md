@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anna Sloan Curling on Twitter
-

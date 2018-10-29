@@ -10,8 +10,6 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Cyfenter
-
 The Cyfenter Fund ran from 2012 to 2015 and provided financial investment of up to £75,000 to new and developing Social Enterprises to deliver new products or services. It was managed by Menter Môn and funded under the EU
 Convergence Programme, through the European Regional Development Fund
 (ERDF) and the local authorities of Anglesey, Conwy, Denbighshire and Gwynedd.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post: EU Referendum Result: JK Rowling Expresses Shock As Other Celebs React To Brexit
-
 An article displaying the tweets of celebrities reacting to the EU Referendum result.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Transition Kintyre
-
 Site of a community environmental organisation based in Kintyre, Argyll & Bute, promoting transition from high fossil fuel use to lower energy use based on renewables, and ecouraging communities finding solutions to reduce energy consumption and setting up their own renewable energy schemes. 

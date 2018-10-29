@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# European Consortium for Political Research (ECPR)
-
 The European Consortium for Political Research (ECPR) is an independent scholarly association, established in 1970. Its 300 institutional members across around 50 countries represent the leading universities, students and senior academics engaged in the research and teaching of political science worldwide. 

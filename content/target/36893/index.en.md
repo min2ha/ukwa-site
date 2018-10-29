@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Royal British Legion: Building a better future for the Armed Forces Community in Wales
-

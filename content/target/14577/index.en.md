@@ -10,5 +10,3 @@
   "start_date": "2013-04-06T02:00:00Z"
 }
 
-# Pontypridd Museum
-

@@ -10,5 +10,3 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Eglwys Gymraeg Canol Llundain | Welsh Church of Central London, The
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Royal College of Music
-
 Official website of the Royal College of Music.

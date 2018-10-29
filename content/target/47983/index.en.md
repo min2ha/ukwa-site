@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Two Ridings Community Foundation
-
 Two Ridings Community Foundation uses its knowledge and experience of grant-making to make a difference in their region of the UK. 

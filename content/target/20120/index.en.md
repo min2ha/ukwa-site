@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: A general election with an unpredictable result but a predictable campaign 
-

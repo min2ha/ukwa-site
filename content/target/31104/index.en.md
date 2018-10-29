@@ -10,6 +10,4 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Thematic Research Network for Emergency, Unscheduled and Trauma Care (TRUST)
-
 TRUST brings together representatives from across the whole spectrum of emergency, unscheduled and trauma care and is funded by the Welsh Government.

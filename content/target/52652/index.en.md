@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Residence
-
 Residence is a collective of artists, they share space, resources, knowledge and opportunities. 

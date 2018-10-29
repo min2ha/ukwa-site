@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Pentecost UK
-
 The Church of Pentecost started in a small way. The Church’s beginnings are linked to the ministry of Pastor James McKeown (1900-1989), an Irish missionary sent by the Apostolic Church, Bradford, UK to the then Gold Coast (now Ghana) in 1937 to help a group of believers of the Apostolic Faith led by one Peter Newman Anim in a town called Asamankese.

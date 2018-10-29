@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Tamar Valley Tipis - camping holidays
-
 None

@@ -11,6 +11,4 @@
   "subject": "Fashion"
 }
 
-# Alan Bissett | novels, plays, films, banter
-
 Scottish author and playwright Alan Bissett.

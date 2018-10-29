@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Bristol Refugee Rights (BRR)
-
 Bristol Refugee Rights (BRR) was set up as a voluntary organisation in 2006 with the aim of upholding and championing the human rights of asylum seekers and refugees.

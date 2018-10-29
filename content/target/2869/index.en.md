@@ -10,6 +10,4 @@
   "start_date": "2013-07-03T12:00:00Z"
 }
 
-# Cancer Research UK 
-
 None

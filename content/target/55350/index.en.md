@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T00:00:00Z"
 }
 
-# Moor Pool Heritage Trust
-
 Website about local charity set up by residents to preserve the Moor Pool garden suburb.

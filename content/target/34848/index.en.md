@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Romantic Novelists’ Association (RNA)
-
 Romantic Novelists’ Association (RNA) was formed in 1960 to promote romantic fiction and to encourage good writing and now represents more than 700 writers, agents, editors and other publishing professionals.

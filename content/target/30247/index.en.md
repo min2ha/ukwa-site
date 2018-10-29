@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Gwirvol
-
 GwirVol is a partnership of organisations in Wales who represent and promote youth volunteering in Wales through all of its projects. 

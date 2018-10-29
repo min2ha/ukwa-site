@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband on his life experience outside of politics: 'I was an adviser for the Treasury' 
-

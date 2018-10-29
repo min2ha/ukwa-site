@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# The Synergy Centre
-
 Multimedia community art centre, cafe and bar in Brighton. Its aims include: To promote the individual and collective well being, health and happiness of people living in communities, particularly those suffering from social exclusion, poverty and the associated low levels of well-being, mental and spiritual health.    To raise awareness of healthy and sustainable living practices and thereby empower people to adopt healthier, happier and more ecological lifestyles.

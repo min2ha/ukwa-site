@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Perthshire Society of Natural Science
-
 Site of a society engaged in encouragement, fostering and furthering interest in the Perthshire environment, its nature and cultural heritage and archaeology.

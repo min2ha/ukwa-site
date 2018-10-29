@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: What did we learn from Theresa May's Florence speech?
-
 Prime Minister Theresa May used a speech in Florence to set out the UK's position on how to move Brexit talks forward. With further negotiations planned for the following week, what did her speech tell us about the sort of Brexit deal we might end up with? Reality Check correspondent Chris Morris analyses what she said.

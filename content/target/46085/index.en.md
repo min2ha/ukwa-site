@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anti-Cuts Space; 11 Bedford Square
-
 Anti-Cuts space emerged from a squat of 11 Bedford Square, London during February to August 2011.  "Inspired by the campaigns and actions springing up across the country, we are opening this as a space to link up and share ideas and strategies for how to fight the cuts."

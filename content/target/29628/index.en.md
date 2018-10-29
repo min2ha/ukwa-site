@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Gotts Family History
-
 The site is run by Ian Gotts of St Albans, with contributions from many researchers into Gotts families.

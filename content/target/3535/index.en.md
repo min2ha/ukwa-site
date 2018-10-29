@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News Shopper (South East)
-
 None

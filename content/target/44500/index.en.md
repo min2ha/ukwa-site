@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Meticulous, steely, and loyal to her friends: Theresa May is the perfect person to lead us out of the EU
-

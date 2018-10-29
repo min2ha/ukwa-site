@@ -10,7 +10,5 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Ann Catrin Evans
-
 "Ann Catrin Evans is an internationally renowned
 sculptor & jeweller based in Caernarfon and elcted member of the RCA in 2016."

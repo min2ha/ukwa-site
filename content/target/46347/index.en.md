@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# How will Brexit affect copyright legislation?
-
 An article about UK copyright law after Brexit on the London School of Economics and Political Science blog.

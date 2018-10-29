@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Liberal Party on Facebook
-
 None

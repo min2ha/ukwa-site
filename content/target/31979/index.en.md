@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Conducttr
-
 Conducttr is an audience engagement tool that integrates storytelling, gaming, and marketing automation. 

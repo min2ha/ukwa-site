@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewen MacAskill (ewenmacaskill) on Twitter
-

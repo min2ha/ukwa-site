@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders' debate: Cameron and Miliband set to face Jeremy Paxman next week
-
 None

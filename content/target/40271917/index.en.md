@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caroline Pidgeon
-
 Website of Caroline Pidgeon, a Liberal Democrats candidate for London Mayor in 2016.

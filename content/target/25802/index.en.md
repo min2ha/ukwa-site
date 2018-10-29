@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy launches Scottish Labour's manifesto with rousing speech
-
 None

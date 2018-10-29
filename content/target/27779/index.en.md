@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: On the eve of Magna Carta’s 800th birthday, the British legal system is being ripped apart
-

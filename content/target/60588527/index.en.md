@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Waltham Forest
-
 None

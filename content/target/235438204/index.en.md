@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Mental Health Recovery Stories
-
 None

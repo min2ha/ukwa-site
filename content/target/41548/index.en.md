@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Blair Atholl & Area Tourism Association
-
 Site of an organisation providing tourist information for visitors to the locale of Blair Atholl, Perth & Kinross.

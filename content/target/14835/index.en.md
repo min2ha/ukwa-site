@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - The Scottish Green Party's Patrick Harvie - Ours...
-
 <p>Yes Scotland links to Patrick Harvie's statement "Ours was a campaign of hope and inspiration" on the Scottish Greens blog at 3.06pm on the 20th of September, 2014.</p>

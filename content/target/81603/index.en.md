@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Stella Travel Services UK
-
 Stella Travel Services UK is one of the UK's leading integrated travel businesses. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

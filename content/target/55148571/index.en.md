@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Time Out London: Olympics
-

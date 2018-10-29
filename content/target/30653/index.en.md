@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Al-Maktoum College of Higher Education
-
 Official website of the Al-Maktoum College of Higher Education, Dundee

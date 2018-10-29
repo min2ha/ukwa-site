@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Healthy Weight for Children Hub
-
 None

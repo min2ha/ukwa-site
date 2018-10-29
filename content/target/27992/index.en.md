@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy CV
-
 Website of biographies of UK-based comedians.

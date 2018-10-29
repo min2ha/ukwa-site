@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Above the Stag Theatre
-
 Above The Stag Theatre is a theatre in Vauxhall, London with a focus on producing LGBT-themed theatre including new writing, musicals and revivals. It is a full-time professional LGBT theatre.

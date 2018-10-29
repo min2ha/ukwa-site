@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ossett Rugby (@OssettRugby) on Twitter
-
 The official Twitter account of Ossett Rugby Club.

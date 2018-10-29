@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Bond: Ebola Response Hub
-
 <p>Information-sharing and coordination primarily aimed at NGOs in the UK responding to the Ebola epidemic in West Africa.</p>

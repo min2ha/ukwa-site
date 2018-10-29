@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Canada - United Kingdom Chamber of Commerce
-
 The Canada - United Kingdom Chamber of Commerce supports trade and investment between Canada, the UK and Europe.

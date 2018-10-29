@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Movember UK
-
 The Movember Foundation is a global charity committed to men living happier, healthier, longer lives. It organises fundrising every November by encouraging men to grow a moustache.

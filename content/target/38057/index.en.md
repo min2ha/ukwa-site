@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# HaveringIn (@Havering_In)
-
 Havering local campaign for the UK to stay in the EU

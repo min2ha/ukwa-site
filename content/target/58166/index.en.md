@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Tech News:Treatment, training and therapy: VR in healthcare
-
 News article about using VR technology in a medical setting to treat medical conditions

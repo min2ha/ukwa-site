@@ -10,6 +10,4 @@
   "start_date": "2009-10-06T00:00:00Z"
 }
 
-# Furry Monkey, The
-
 Diary site for coping with Non-Hodgkin's lymphoma.

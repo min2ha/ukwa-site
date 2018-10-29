@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# RICS Wales Manifesto 2016: Building 4 the Future Property in Politics
-

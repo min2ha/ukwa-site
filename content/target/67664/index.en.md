@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Trams Online
-
 A website with news and features on British tram and light rail systems

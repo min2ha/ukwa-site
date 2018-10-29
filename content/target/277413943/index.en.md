@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scots Asians for Yes to an Independent Scotland
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s-Greyfriars’ Parish Church, Dumfries
-
 Site of a Church of Scotland parish church covering St. Mary's and Greyfriars' parishes in Dumfries, as well as Caerlaverock, Dumfries and Galloway.

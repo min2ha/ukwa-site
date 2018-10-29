@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Acts Community Church in the Rhondda Valley
-

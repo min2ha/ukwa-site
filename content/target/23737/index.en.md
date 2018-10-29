@@ -10,5 +10,3 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Communities First Llangeinor | Cymunedau Yn Gyntaf Llangeinor 
-

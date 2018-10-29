@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Brecon & Radnoshire Conservatives (@BandR_Tories) on Twitter 
-

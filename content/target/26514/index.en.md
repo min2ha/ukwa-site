@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The 2015 election disaster doesn’t mean we should give up on polling
-
 None

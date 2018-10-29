@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dunfermline Athletic Heritage Trust
-
 Site of an organisation celebrating the heritage of Dunfermline Athlethic Football Club, based in Dunfermline, Fife, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Aangirfan
-
 <p>Aangirfan is a blog run by an anonymous blogger since 2014.</p>

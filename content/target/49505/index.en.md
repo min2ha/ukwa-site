@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Tomorrow's Company
-
 Tomorrow’s Company is a not-for-profit think-tank founded in 1996 to encourage businesses to be a force for good in society. It publishes research reports, articles and books intended to influence key decision-makers in business and government globally.

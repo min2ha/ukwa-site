@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# EastSide Arts
-
 Website for the EastSide Arts Festival

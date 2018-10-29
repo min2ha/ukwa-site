@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Whitechapel Gallery: Easter Rising: Irish Artists Now
-
 Arts event at Whitechapel Gallery to mark the centenary of the Easter Rising and examine the contemporary practice from Northern Ireland and the Republic of Ireland.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Pròiseact nan Ealan (@pnanealan) on Twitter
-
 Pròiseact Nan Ealan worked nationally and internationally to promote the Gaelic language and its culture through the arts.

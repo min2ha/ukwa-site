@@ -10,5 +10,3 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Cynghrair Henoed Cymru | Age Alliance Cymru
-

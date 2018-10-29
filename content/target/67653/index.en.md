@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heads Together (@headstogether) on twitter
-
 A UK  twitter site which aims to tackle the stigma surrounding mental health.

@@ -11,7 +11,5 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Newtown Remembers: Commemorating 100 years since the First World War
-
 'Newtown Remembers: Commemorating 100 years since the First World War'
 is a partnership led by Newtown Town Council and funded by the Heriatge Lottery Fund. The project is commemorating the impact of the First World War on the town.

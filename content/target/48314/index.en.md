@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UK in a Changing Europe, The: 2016: A review
-
 A review of the EU Referendum from a London based think tank.

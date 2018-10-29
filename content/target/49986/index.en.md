@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Canolfan Gristnogol Siloh Christian Centre, Ystrad Mynach
-
 The centre is funded by the Presbyterian Church of Wales.

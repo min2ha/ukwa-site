@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Crossrail: Tunnel, The Archaeology of Crossrail
-
 A range of archaeological objects unearthed by Crossrail, Europe’s largest infrastructure project.

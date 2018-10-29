@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Scotland Office (@UKGovScotland) on Twitter
-
 The official account of the UK Government, Scotland.

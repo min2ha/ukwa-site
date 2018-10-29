@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Central Scotland Family History Society 
-
 Site of a family history society set up to research genealogy of the former Scottish Regional Council area 'Central' - an area now defined as Clackmannanshire, Stirlingshire and  West Perthshire, and the parishes of Bo'ness and Carriden.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Serf's Church
-

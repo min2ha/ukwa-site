@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Investis
-
 Investis are a digital communications company based in London with offices across Europe, North America, and Asia-Pacific.

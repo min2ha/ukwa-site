@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Ian Rankin
-
 The website of the crime writer Ian Rankin, author of the Rebus series.

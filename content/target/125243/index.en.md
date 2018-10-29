@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# UK Ladybird Survey
-

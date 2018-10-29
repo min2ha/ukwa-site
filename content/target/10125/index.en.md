@@ -10,6 +10,4 @@
   "start_date": "2014-04-30T02:15:00Z"
 }
 
-# YouGov
-
 None

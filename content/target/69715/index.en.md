@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Tower Ceramics Ltd.
-
 Company in London selling ceramic goods including porcelain, tiles and slate from two branches

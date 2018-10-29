@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour pledges face-to-face careers advice in schools
-
 None

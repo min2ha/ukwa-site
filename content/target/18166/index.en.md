@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Ashcroft: Ukip plunge in aftermath of Channel 4 programme
-
 None

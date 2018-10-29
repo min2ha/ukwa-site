@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kenta Gallagher Mountainbiker on Twitter
-

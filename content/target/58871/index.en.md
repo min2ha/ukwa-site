@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# FGM Aware
-
 Resources and information to help tackle FGM in Scotland

@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Concept Players, Wales' Premier Drama Group
-
 The Concept Players are a small amateur theatre group based in the South East Wales.

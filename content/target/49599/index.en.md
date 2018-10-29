@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: As Bad as it Gets: the White Paper on Brexit
-
 Vitriolic critique of the UK Government's Brexit White paper, which is describes as Theresa May's speech with a few statistics and graphs added.

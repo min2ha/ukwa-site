@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Badgers Mount Residents' Association website
-

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Amnesty QUB (@AmnestyQUB) on Twitter
-
 The Amnesty International student group at Queen's University Belfast.

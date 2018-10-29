@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Shoo Rayner
-
 None

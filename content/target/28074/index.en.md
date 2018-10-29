@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Laughing Horse Comedy Club
-
 Website for Laughing Horse Comedy, specialists in running comedy clubs, booking comedy shows, and running Festival venues and shows.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Reid Foundation (ReidFoundation) on Twitter, The
-
 <p>The twitter profile of the Jimmy Reid Foundation, a campaigning body which seeks to include the full range of progressive politics in Scotland.</p>

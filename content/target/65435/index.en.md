@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Scottish Records Society
-
 Site of a society aiming to promote the study of the historical records of Scotland by commissioning and editing works of appropriate significance, and by the publication of approved and contextualised original documents and of calendars and indices of public records and private muniments relating to Scotland of value to historians and genealogists.

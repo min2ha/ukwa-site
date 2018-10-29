@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# What The Frock! Comedy Events
-
 Website for 'What The Frock! Comedy', a series of comedy events in Bristol and Bath celebrating female comedians.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: An obituary for a Labour party that abandoned its roots – from the year 2025
-
 None

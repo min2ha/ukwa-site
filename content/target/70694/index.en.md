@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Outdoor Lads
-
 Site of an outdoor sports club running outdoor sports activities for gay, bisexual and trans men.

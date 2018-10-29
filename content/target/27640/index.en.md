@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne to announce details of welfare cuts in 'Summer Budget'
-
 None

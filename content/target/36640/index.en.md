@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Draig Goch Cymru
-
 A campaign to get as many Red Dragons flying as possible on St David’s Day, in Wales and around the world.

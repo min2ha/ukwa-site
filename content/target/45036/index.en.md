@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Peeblesshire News: Grant is going to Rio
-
 A local news article about cyclist Grant Ferguson's selection for the Rio 2016 Olympics.

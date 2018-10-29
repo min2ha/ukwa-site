@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# A Story to Tell : Scotland's Pubs & Bars
-
 Site promoting Scottish pubs and bars, in association with The Scottish Licensed Trade Association and VisitScotland.

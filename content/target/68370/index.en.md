@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Saesnes yng Nghymru yn dysgu Cymraeg ers 2009
-
 'Saesnes yng Nghymru yn dysgu Cymraeg ers 2009' is a blog by Sarah Reynolds, author, Welsh learner and former winner of the Rhys Davies Short Story Winner. The blog was published between January 2015 and December 2016. Sarah Renolds is originally from Essex and now lived in Wales.

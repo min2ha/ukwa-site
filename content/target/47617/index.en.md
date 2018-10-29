@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: CBI Wales Annual Dinner Speech
-
 Speech by David Davis, Secretary of State for Exiting the European Union, on the impact of Brexit on Welsh business.

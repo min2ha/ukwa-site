@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Veterans for Britain
-
 Veterans for Britain is led by ex-Armed Forces personnel. It argues that The UK and its Armed Forces would be freer, more effective, more democratic and more able to retain their distinctive capabilities and ethos if they were without the impositions being applied by the EU in defence command, defence structures, operations, procurement, intelligence and the development of new technology.

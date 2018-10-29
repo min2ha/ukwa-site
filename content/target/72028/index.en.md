@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hunslet RLFC
-
 The official website of Hunslet Hawks Rugby League Football Club. The Hunslet Hawks were founded in October, 1883. The South Leeds Stadium has been the home of the Hunslet Hawks since it opened in 1995.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Immigration - the Brexit dividing line
-
 Argues that Chancellor Philip Hammond favours  a softer Brexit in the shape of an economically closer relationship with the EU and a more porous approach to immigration controls 

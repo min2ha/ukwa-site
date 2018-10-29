@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour claims study shows Tories back further NHS privatisation
-
 None

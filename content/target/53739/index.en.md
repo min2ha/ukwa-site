@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fiona Mills (@Fiona__Mills) on Twitter (UKIP Politician)
-
 Fiona Mills stood as UK Independence Party (UKIP) candidate for Carlisle at the 2017 General Election but was not elected.

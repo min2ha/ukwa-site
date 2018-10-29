@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I do not want to be English – and any attempt to create an English identity will fail
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May sets out post-Brexit offer on EU citizens
-
 Theresa May said she wants EU citizens living in the UK to stay after Brexit as she announced plans designed to put their "anxiety to rest".

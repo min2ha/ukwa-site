@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# African Writers Abroad (AWA)
-
 None

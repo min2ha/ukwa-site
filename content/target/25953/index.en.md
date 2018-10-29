@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on the Tory/Lib Dem government: a pact that endured
-
 None

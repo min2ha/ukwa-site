@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Iain Dale (IainDale) on Twitter
-

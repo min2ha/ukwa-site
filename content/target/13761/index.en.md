@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Research Society, The
-
 <p>The website of the Scottish Research Society, set up in May 2014, to commission academic work on "subjects that reflect the economic, social, political and cultural aspects of the question of separation".</p>

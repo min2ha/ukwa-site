@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Philip Pullman on the 1,000 causes of Brexit
-
 Author Philip Pullman discusses the causes of Brexit.

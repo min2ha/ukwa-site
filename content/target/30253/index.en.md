@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Ancestry.co.uk
-
 Website of a genealogy database.

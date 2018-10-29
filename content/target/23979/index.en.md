@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: EU holds its breath ahead of UK vote
-
 None

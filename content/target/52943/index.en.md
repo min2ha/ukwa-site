@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# International Moving Image Society
-
 International Moving Image Society provide the film, TV, video game and media industries with the education and training to produce the best products.

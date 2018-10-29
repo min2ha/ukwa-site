@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scotch Whisky Association: Standing Council on Europe
-
 Nwes article: David Frost, Chief Executive of the Scottish Whisky Association takes part in the Scottish Government's Standing Council on Europe.

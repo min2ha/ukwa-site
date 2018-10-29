@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ickenham Rugby (@IckenhamRFC) on Twitter
-
 The official Twitter account of Ickenham Rugby Football Club. Ickenham RFC is a friendly club based in the West London Borough of Hillingdon that combines a good standard of competitive rugby with a strong social ethos. 

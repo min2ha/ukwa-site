@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Man FRIDAY (@ManFRIDAY_) on Twitter
-
 The official Twitter account of a campaign group made up of British women who oppose the trans-right activist (TRA) push for self-ID which is being discussed by Parliament in 2018.

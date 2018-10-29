@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Population Matters: UK election manifesto issued
-
 Population Matters is a membership charity that addresses population size and its effect on environmental sustainability. They see population growth as a major contributor to environmental degradation, resource depletion and other problems. To address these, they conduct research, inform the public and advocate improved family planning, better sex education and women’s empowerment, which together yield smaller and thus more sustainable families.

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Spectator, The : Stephen Hawing
-
 Tag related to Stephen Hawing

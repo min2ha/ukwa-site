@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain can become world's richest major economy, says George Osborne
-
 None

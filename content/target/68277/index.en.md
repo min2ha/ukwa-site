@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Walcountians RFC (@owrfc) on Twitter
-
 The official Twitter account of Old Walcountians Rugby Football Club.

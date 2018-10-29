@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Save Cressingham Gardens
-
 Campaign against Lambesth Council's plans to demolish Cressingham Gardens, a high density, low rise housing estate with a corresponding low crime rate built in the late 1970’s by the renowned Ted Hollamby, a leading architect in Lambeth of the 1970’s.

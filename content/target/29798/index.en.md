@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wolds Words Festival
-
 Festival organised by Magna Vitae – Trust for Leisure and Culture.

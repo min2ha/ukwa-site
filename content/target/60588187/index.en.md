@@ -10,5 +10,3 @@
   "start_date": "2015-03-05T09:00:00Z"
 }
 
-# Rosemary Furber
-

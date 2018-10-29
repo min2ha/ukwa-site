@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Andy Croy on Facebook (Labour candidate for Wokingham)
-

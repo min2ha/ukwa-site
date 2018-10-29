@@ -10,5 +10,3 @@
   "start_date": "2016-01-06T09:00:00Z"
 }
 
-# Offa's Dyke Assocation
-

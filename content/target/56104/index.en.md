@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Civvystreet
-
 Website of the Royal British Legion’s employability programme for the Service community in civilian life. Hosts adverts for jobs and contains information about career transitions, learning and skills, funding schemes and events.

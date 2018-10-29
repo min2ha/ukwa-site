@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Michael Gove rules out Conservative deal with Ukip
-
 None

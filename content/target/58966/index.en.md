@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Your Hwb
-
 Your Hwb is a social enterprise based in Penmaenmawr, Dwygyfylchi & Capelulo near Conwy.

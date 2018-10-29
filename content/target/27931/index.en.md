@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T08:00:00Z"
 }
 
-# St Hugh's College, University of Oxford
-
 Official website of St Hugh's College, University of Oxford.

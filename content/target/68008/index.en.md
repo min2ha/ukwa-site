@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# KRUFC (@KRUFC) on Twitter
-
 The official Twitter account of Knaresborough Rugby Club currently play in Yorkshire four and were formed in 1982. 

@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# UK Stroke Forum
-
 The UK Stroke Forum organises multidisciplinary conferences for stroke care professionals, to share the latest developments in stroke care and research.

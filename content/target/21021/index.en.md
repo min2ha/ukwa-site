@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Coburn on Facebook
-
 This is the Facebook page of David Coburn, the UK Independence Party (UKIP) candidate for Falkirk in the UK General Election on the 7th May 2015.

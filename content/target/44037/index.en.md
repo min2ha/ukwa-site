@@ -10,6 +10,4 @@
   "start_date": "2016-07-01T11:00:00Z"
 }
 
-# Green Man Community Centre
-
 The Green Man Community Centre is primarily a resource for residents of Strawberry Vale in the N2 area, London.

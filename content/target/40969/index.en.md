@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Berwick Community Trust
-
 Site of a community development organisation aiming to develop and regenerate the town of Berwick-upon-Tweed, Northumberland.

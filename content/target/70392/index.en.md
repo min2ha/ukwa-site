@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Twinwood Festival
-
 Website for the Twinwood festival, a festival for music & dance.

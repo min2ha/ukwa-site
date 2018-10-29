@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department of Health and Social Care: DHSC publishes Brexit guidance for pharmaceutical industry and suppliers of medical devices
-
 The Health and Social Care Secretary wrote 2 letters to industry about contingency plans in the unlikely event of a no-deal Brexit.
 

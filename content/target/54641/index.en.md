@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Quatuor Coronati
-
 Quatuor Coronati is the world’s premier research lodge. Established in 1884 (and consecrated in 1886), the lodge’s founders wished to advance an evidence-based approach to study Masonic history and research the origins of Freemasonry. Their approach was intended to replace the more imaginative writings of earlier authors and was later referred to as the ‘authentic school’ of Masonic research. Quatuor Coronati continues to adopt the same principles today.

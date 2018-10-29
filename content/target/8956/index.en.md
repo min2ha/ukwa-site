@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whitelines Snowboarding: Sochi 2014
-
 None

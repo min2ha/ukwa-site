@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Croes-y-Parc Chapel
-

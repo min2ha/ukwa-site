@@ -10,5 +10,3 @@
   "start_date": "2006-05-31T23:00:00Z"
 }
 
-# enCompassCulture
-

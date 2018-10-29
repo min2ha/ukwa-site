@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liberal Democrats mull 50 years in the wilderness 
-
 None

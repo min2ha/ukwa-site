@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wildlife Trusts, The: EU Referendum - our position
-
 The Wildlife Trusts  rescue and restore places for wildlife and people, and influence and help others to do the same. They take the position that EU membership has a positive effect on environmental protection in the UK

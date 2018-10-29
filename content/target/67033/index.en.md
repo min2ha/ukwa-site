@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# St. Andrew Royal Arch Chapter #146
-
 Site of a chapter of the Scottish Royal Arch branch of freemasonry in Aberdeenshire.

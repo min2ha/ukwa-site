@@ -10,6 +10,4 @@
   "start_date": "2015-05-15T09:00:00Z"
 }
 
-# Coed-y-Paen
-
 A village in Monmouthshire.

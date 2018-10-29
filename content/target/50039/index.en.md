@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Albany Road Baptist Church
-

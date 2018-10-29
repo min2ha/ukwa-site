@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chepstow Beacon
-
 None

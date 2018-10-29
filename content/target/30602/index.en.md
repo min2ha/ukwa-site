@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Northumbria University
-
 Official website of the Northumbria University, Newcastle.

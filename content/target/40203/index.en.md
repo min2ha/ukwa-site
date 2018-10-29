@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Byddar Cymru | Wales Deaf Online
-
 Information resource for the deaf and hard of hearing in Wales.

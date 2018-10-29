@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire Grand Depart
-
 Tour de France; Grand Depart; Yorkshire

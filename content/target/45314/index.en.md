@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Fundraising Standards Board (FRSB)
-
 The FRSB was the independent self-regulatory scheme for fundraising in the UK. They supported its members in complying with fundraising best practice and helped protect the public by ensuring charities were accountable for their fundraising and by dealing with any concerns.

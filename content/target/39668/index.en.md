@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Brian Smith TUSC, Glasgow Cathcart on 5 May 2016 on Facebook
-
 Facebook page of Brian Smith, the Trade Unionist and Socialist Coalition (TUSC) candidate for Glasgow Cathcart in the 2016 Scottish Parliamentary election.

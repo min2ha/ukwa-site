@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Cole-Hamilton
-
 Alex Cole-Hamilton is the Scottish Liberal Democrats candidate for the Edinburgh Western constituency in the 2016 Scottish Parliament election.

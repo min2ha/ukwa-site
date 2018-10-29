@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Iain Gray (IainGrayMSP) on Twitter
-
 <p>The twitter profile of Iain Gray, MSP for East Lothian.</p>

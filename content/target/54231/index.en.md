@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dan Greef (@DanGreef) on Twitter (Labour Party Politician)
-
 Dan Greef stood as Labour candidate for South Cambridgeshire at the 2107 General Election but was not elected.

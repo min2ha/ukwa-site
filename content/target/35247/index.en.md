@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Royal Aeronautical Society
-
 Royal Aeronautical Society was established in 1866 and focuses on the developments in aviation and aerospace.

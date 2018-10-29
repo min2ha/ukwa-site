@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancashire Teaching Hospitals
-
 None

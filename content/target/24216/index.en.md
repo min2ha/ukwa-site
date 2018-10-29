@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Ed Miliband admits SNP could prop up Labour government - as it happened
-
 None

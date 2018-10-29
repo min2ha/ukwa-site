@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta School, The
-
 Website of a school in Staines-upon-Thames, Middlesex.

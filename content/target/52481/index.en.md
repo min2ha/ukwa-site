@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Coastlands Family Church, Cardiff
-

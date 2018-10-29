@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nik Johnson (@CambridgeMagpie) on Twitter (Labour Politician)
-
 Nik Johnson stood as Labour Party candidate for Huntingdon in the 2017 General Election but was not elected.

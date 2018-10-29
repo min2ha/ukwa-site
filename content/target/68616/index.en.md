@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Poverty 
-
 Providing a source of data on poverty and inequality in London, the capital city of England.

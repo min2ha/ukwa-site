@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# ESRC Wales Doctoral Training Partnership (DTP)
-
 The ESRC Wales Doctoral Training Partnership (DTP) is a consortium of leading universities, established to train top-level social scientists across Wales. It is a collaboration between Cardiff University (the lead institution), Aberystwyth University, Bangor University, Cardiff Metropolitan University, the University of Gloucestershire and Swansea University.

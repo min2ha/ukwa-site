@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK and European Metal Detecting Forum
-
 The UK and European Metal Detecting Forum is an online enthusiast forum concerned with the hobby of Metal Detecting.

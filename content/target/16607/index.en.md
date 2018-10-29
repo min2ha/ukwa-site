@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls can beat George Osborne on his preferred economic battleground
-
 None

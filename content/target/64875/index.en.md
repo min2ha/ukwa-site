@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain's hopes to strike post Brexit trade deals globally could fall apart as the EU plays hard ball on the Irish border amid warnings from Barnier that negotiations could fail   
-

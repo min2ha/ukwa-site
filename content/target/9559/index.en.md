@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Political betting: There's no way that UKIP should be favourite to win most votes at EURO14 based on current polling
-
 None

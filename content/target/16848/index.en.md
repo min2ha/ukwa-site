@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# Scottish Government: Directorate for Planning and Environmental Appeals (DPEA)
-
 None

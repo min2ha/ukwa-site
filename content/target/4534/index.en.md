@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UNISON pays tribute to Nelson Mandela
-
 <p>A tribute to Nelson Mandela from Dave Prentis, General Secretary of Unison, recalling the support of Unison members in campaigning against apartheid and the continued solidarity with South African unions.</p>

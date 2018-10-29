@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Ghostsigns
-
 This site is dedicated to ‘ghostsigns’, the typically fading remains of painted advertising on walls. The aim is to raise awareness and understanding of ghostsigns through a variety of projects, including research, publishing, tours and events. 

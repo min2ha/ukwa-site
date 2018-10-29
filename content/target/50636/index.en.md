@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Cruachan : The Hollow Mountain
-
 Site of a visitor and education centre at the hydro-electric power station at Cruachan on Loch Awe, Argyll & Bute.

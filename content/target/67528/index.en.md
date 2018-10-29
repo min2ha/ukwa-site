@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Plymouth Argaum RFC (@PlymouthArgaum) on Twitter
-
 The official Twitter account of Plymouth Argaum RFC.

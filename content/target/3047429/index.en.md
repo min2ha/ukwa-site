@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Paul Linford
-
 None

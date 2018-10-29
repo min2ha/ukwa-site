@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Northern Ireland Assembly: Press Release: Speaker hosts lecture on Easter Rising
-
 Press release about a lecture in the 'Perspectives On' series hosted by the Speaker of the Assembly.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Homeless World Cup
-
 The Homeless World Cup is comprised of the Foundation, which works with seventy National Partners and other institutions to research and share good practice; the Supporters Club and the annual football tournament.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# York Medical Society
-
 York Medical Society was founded in 1832 for "The purpose of promoting and diffusing medical knowledge". 

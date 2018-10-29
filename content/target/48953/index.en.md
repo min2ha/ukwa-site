@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Appleby Fair
-
 The official site for the Appleby Horse Fair, set up by the public sector organisations who co-ordinate the Fair.  The Fair is an annual gathering and horse fair of Gypsies and Travellers in the Cumbria town of Appleby, held each year in mid-June.

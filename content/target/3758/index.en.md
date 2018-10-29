@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cental Somerset Gazette
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anna Turney Paralympic Skier
-

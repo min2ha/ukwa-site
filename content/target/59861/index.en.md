@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Kevin Carolyn
-
 Website of Kevin Carlyon, witch, paranormal researcher and tarot consultant.

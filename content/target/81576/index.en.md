@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Georgia Ruth
-
 Georgia Ruth is a Cardiff-based songwriter and musician from Aberystwyth. Her second album was released through Navigator Records. 

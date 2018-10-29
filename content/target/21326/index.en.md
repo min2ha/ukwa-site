@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dr Paul Monaghan SNP
-

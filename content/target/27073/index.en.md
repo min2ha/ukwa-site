@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# Fine Art Society, The
-
 The Fine Art Society was established in 1876, and specialises in 19th and 20th century British art and design. 

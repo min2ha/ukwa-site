@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories to announce resits for pupils who fail end of primary school exams
-
 None

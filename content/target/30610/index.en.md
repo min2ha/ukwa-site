@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Queen Margaret University
-
 Official website of Queen Margaret University, Edinburgh.

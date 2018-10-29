@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Dafydd Williams
-
 Dafydd Williams is a Welsh photographer who 'explores the themes of decay, fragility and the passage of time...and how they interact with their cities and towns.' 

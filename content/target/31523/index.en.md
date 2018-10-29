@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Dot Everyone
-
 Doteveryone is a digital institution promoting understanding and use of digital technology to deliver prosperity and social well-being. 

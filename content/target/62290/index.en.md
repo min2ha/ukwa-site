@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fulham Football Club
-
 Fulham Football Club is a professional association football club based in Fulham, London, England. Founded in 1879, they play in the Championship, the second tier of English football, having been relegated from the Premier League in 2013–14 after 13 consecutive seasons in the top flight.[4] They are the oldest-established football team from London to have played in the Premier League.

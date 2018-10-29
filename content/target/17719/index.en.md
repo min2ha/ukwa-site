@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why Natalie Bennett should shrug off this ‘humiliation’
-
 None

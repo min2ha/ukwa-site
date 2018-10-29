@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Derry Jazz Festival
-
 Website for the Derry Jazz Festival

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon de Deney (@simoneddeney) on Twitter, Liberal Democrats Candidate for Hackney North and Stoke Newington
-
 Simon de Deney stood as Liberal Democrats candidate for Hackney North and Stoke Newington at the 2015 General Election but was not elected. 

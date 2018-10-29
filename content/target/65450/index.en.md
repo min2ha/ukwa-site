@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British Library: FA Ban on Women in Football
-
 An oral history recording of Sue Lopez discussing women's football

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gearoid O hEara (@GearoidOhEara) on Twitter (Sinn Fein candidate for Foyle)
-

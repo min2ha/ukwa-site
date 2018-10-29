@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# Bòrd na Gàidhlig: Reports
-
 Reports published online by the Bòrd na Gàidhlig.

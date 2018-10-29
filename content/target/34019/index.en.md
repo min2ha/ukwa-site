@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Sensible Eurosceptics being put off by ‘angry, unintelligent mob’, says senior Tory
-

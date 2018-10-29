@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Policy Connect
-
 Working to inform and improve UK public policy: a leading network of parliamentary groups, research commissions, forums and campaigns working to bring together public and private sector with parliamentarians and leading experts.
 

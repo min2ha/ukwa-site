@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Debate on an e-petition relating to ending the export of live farm animals after the UK leaves the European Union
-
 Information on exporting live animals to EU countries ahead of the debate on an e-petition calling for a ban after the UK leaves the EU
 

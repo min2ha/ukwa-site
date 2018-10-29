@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# FC Nomads of Connah's Quay
-

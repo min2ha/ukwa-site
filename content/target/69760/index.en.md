@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: European traders will riot in the streets and public safety will be put at risk if the EU refuses to do a Brexit deal and hits the UK with tariffs and security restrictions, leaders warn
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Conservative Home
-
 Conservative Home was founded by Tim Montgomerie in 2005 to champion the interests of grassroots Tory members and to argue for a broad conservatism that is serious about social justice and economic competitiveness. It is independent of the Conservative Party but supportive of it. ConservativeHome is owned by Michael Ashcroft and co-founded by Stephan Shakespeare.

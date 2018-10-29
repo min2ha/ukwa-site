@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Crystal Palace Festival
-
 Website for the Crystal Palace Festival, a Festival for arts, heritage and culture.

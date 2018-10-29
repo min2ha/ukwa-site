@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: These 19 charts will help you cut through the election spin
-
 None

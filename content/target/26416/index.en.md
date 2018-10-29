@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view: Britain needs a new direction, Britain needs Labour
-
 None

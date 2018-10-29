@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Edinburgh Journal of Gadda Studies, The
-
 None

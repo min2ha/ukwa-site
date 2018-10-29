@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Dornoch Highland Gathering
-
 Site of a highland games at Dornoch, Highland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Eaquals
-
 Eaquals is an international non-profit membership association. Founded in 1991, we are independent of any commercial group and exist solely to serve the interests of language learners and the language education profession.

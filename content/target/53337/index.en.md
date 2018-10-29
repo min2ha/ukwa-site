@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jamie Paterson (@jpatersonlibdem) on Twitter
-
 Twitter profile of Jamie Paterson, Scottish Liberal Democrat candidate for Na h-Eileanan an Iar in the 2017 general election.

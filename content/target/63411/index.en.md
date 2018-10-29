@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Independent, The: Professor Stephen Hawking
-
 Browse The Independent’s complete collection of articles and commentary on Professor Stephen Hawking. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Aeromodellers Forum
-
 An online enthusiast community concerned with aeromodelling. Discusses information for beginners, building guides, reviews and various other related topics.

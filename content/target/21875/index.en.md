@@ -10,5 +10,3 @@
   "start_date": "2015-11-19T09:00:00Z"
 }
 
-# Scotland's Towns Partnership
-

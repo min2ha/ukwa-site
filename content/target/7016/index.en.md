@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Statement from the Prince of Wales about the death of Nelson Mandela, A
-
 <p>A statement made on 6 December 2013, from the official website for the Prince of Wales and Duchess of Cornwall.</p>

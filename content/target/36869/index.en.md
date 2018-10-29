@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Institute of Chartered Accountants of England and Wales, The: Manifesto for Welsh Assembly elections 2016
-

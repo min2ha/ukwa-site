@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glentoran FC
-
 The Official website of Glentoran Football Club, based in Belfast, Northern Ireland.

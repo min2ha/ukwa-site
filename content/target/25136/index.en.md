@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour want to recruit Tory Tarzan Michael Heseltine after election 
-
 None

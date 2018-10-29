@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Woven Communities
-
 Site of a project aiming to bring together diverse research conducted about vernacular Scottish basket making. 

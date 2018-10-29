@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: The 'alternative' social networks being used to win over voters
-
 None

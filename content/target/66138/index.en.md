@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# BURN Marketing
-
 BURN is an integrated brand response agency that specialises in building more valuable relationships between customers and brands.

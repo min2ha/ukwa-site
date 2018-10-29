@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British National Party: European Union: The Real Reason We Voted Leave
-
 A blogpost arguing that immigration was the main reason behind Britain deciding to leave the EU. 

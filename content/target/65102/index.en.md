@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's, Jerusalem
-
 Site of the Church of Scotland in Jerusalem, including information on the Presbytery of Jerusalem.

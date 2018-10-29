@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Whisky Stramash
-
 Site of a whisky sampling and promotion event stages at Surgeon's Hall, Edinburgh.

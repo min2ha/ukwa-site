@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Ingleby Davies Design
-
 Ingleby Davies Design is a design agency working for leading cultural, heritage and tourism organisations and businesses in Wales.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One History Bus 
-
 Birmingham has a fascinating story to tell with its involvement in the First World War.

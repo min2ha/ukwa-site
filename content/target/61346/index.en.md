@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women at the Game (@womenatthegame) on Twitter
-
 Women at the Game aim to give women the chance to go to live football in a supportive all-female group. This is their official Twitter account.

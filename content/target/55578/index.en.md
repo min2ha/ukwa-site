@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Chancellor at the CBI President's dinner
-
 The Chancellor talks about his plan for the British economy and for backing British business and British jobs.at the CBI President's dinner

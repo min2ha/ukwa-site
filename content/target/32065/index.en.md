@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Swansea Lives
-
 Swansea lives provides information about services for people who have a learning disability in Swansea.

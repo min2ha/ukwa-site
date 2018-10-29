@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Glasgow University Union
-
 Site of a students' representative body at the University of Glasgow, who provide representation, welfare, social and sports services.

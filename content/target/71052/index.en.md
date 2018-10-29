@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: The Brexiteers will slash the state. Theresa May must call their bluff
-

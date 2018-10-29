@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Mugdock Country Park
-
 Site of a country park near Milngavie, East Dunbartonshire, offering outdoor activities as well as facilities for events.

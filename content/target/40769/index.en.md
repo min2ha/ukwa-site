@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Voluntary Arts Scotland / Ealain Saor-thoileach an Alba
-
 Site of the Scottish arm of Voluntary Arts UK promoting and increasing active participation in cultural activities across Scotland,  improve the environment for everyone participating in the arts, and providing information and training to groups and individuals participating in the voluntary arts sector.

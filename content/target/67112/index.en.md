@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gordano RFC (@GordanoRFC) on Twitter
-
 The Official Tweet of Gordano Rugby Football Club.

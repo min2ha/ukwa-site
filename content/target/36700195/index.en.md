@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Network of Oxford Women for Justice and Peace
-
 None

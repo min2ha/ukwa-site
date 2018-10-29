@@ -10,5 +10,3 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Unknown & Untold | The Story of Britain's WW1 Muslim Soldiers
-

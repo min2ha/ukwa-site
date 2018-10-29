@@ -11,6 +11,4 @@
   "subject": "Caribbean Communities in the UK"
 }
 
-# Carib Intelligence (@Caribintelligen) on Twitter
-
 This is the official Twitter account of Caribbean Intelligence, a UK Caribbean and Diaspora news website. 

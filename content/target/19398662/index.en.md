@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Peace Direct
-
 Peace Direct is an award-winning, international NGO supporting local people in some of the most challenging conflict environments worldwide.

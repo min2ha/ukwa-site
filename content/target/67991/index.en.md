@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Motor Cycle Live, 2018
-
 Website for the Motor Cycle Live 2018

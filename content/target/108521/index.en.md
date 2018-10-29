@@ -10,5 +10,3 @@
   "start_date": "2010-04-14T00:00:00Z"
 }
 
-# Plaid Cymru Swansea West ~ Gorllewin Abertawe
-

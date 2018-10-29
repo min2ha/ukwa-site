@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Race The Neighbours
-
 The website for the 10km race between the residents of Muswell Hill and East Finchley. The inaugural Race the Neighbours was in summer 2015.

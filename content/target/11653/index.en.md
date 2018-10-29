@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cameron Brodie (_Cameron_Brodie) on Twitter
-
 <p>The twitter profile of athlete Cameron Brodie, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

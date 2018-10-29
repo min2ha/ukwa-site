@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicole McKay (@NicoleMcKay1) on Twitter
-
 The twitter profile of Nicole McKay, standing as the Class War candidate for Aberdeen North.

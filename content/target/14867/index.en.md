@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Better Together added a new photo
-
 Better Together post, made at 9.33pm on 17th September 2014.

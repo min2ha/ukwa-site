@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Nottingham North & East CCG
-
 None

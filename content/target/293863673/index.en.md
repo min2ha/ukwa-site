@@ -10,6 +10,4 @@
   "start_date": "2015-03-24T11:00:00Z"
 }
 
-# Michal Iwanowski Photography
-
 Professional photographer living and working in Cardiff since 2001.

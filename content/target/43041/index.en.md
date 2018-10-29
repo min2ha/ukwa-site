@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# We love local government
-
 A blog looking sideways at life in local government

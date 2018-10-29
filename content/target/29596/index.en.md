@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Haggeye on Facebook
-
 Haggeye is an RNIB project to bring together young people living with sight loss in Scotland.

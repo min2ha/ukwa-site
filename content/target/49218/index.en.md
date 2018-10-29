@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Longside Football Club
-
 Site for a Scottish junior football club based in Aberdeenshire.

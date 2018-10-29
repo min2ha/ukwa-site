@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Macfarlane Group plc
-
 Macfarlane Group plc is a packaging and label company headquartered in Glasgow, Scotland. 

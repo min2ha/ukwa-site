@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Wiltshire Council
-
 <p>Wiltshire Council website gives information about local Council and the services it provides.</p>

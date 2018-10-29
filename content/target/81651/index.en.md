@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: How to manage No Deal? To start with, pledge to reduce tariffs.
-
 Brexit negotiations are stalled. Only one issue matters – the Irish backstop. Despite all the drama and noises off about Chequers, “Norway for now”, and Super Canada, none of that matters if we cannot agree a divorce. And, unless the EU shifts tack, the only path to an orderly divorce is via the backstop. So we are facing down a growing risk of No Deal. No Deal could mean tariffs on trade with our largest partner – the EU. So, the Government should commit now to reduce our overall tariffs in the event of No Deal.
 

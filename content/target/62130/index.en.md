@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Westenders, The
-
 The Westenders are a theatre group based in Brecon, Powys.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Armando Iannucci: We've become a land of Sturgeonettes, pining to be able to vote for her
-
 None

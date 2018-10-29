@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Matt Johnson. Ex-soldier. Ex-cop. Author.
-
 Matt Johnson is an ex-soldier, ex-police officer and full time crime author. His books are published by Orenda Books.

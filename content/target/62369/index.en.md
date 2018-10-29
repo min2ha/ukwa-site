@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grimsby Town F.C.
-
 Grimsby Town Football Club is a professional football club based in the town of Cleethorpes, North East Lincolnshire, England, that competes in League Two, the fourth-highest division overall in the English football league system. 

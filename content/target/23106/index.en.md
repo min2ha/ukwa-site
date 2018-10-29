@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ben Leonard Rice (@GreenParty_Ben) on Twitter (Green Part candidate for Carmarthen East and Dinefwr)
-

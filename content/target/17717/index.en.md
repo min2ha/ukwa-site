@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour seeks to embarrass Tories over MPs' outside earnings with vote
-
 None

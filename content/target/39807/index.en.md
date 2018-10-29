@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Stephen Hunt on Facebook (Independent candidate for Neath)
-
 Stephen Hunt is the Independent candidate for Neath at the 2016 National Assembly Election. 

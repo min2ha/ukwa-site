@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T11:00:00Z"
 }
 
-# Jonathan Hateley Sculpture
-
 Born in the West Midlands and now living and working from his studio in Kent, Jonathan Hateley’s sculpture has been exhibited widely, both in the UK and Internationally.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Baxters Food Group Limited
-
 The website of Baxters Food Group Limited. The company, doing business as Baxters, produces and markets soups, preserves, condiments, and other food products. Baxters was founded in 1868 and is based in Fochabers, United Kingdom.

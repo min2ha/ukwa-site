@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dr Williams's Centre for Dissenting Studies
-

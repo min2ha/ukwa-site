@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shrewsbury and Telford
-
 None

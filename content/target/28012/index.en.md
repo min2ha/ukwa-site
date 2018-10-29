@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Machynlleth Comedy Festival
-
 Website for the Machynlleth Comedy Festival, held since 2011 at Machynlleth, Wales.

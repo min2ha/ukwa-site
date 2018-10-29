@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Colwinston Charitable Trust
-
 The Trust works predominantly in the areas of Opera, Music and the Visual Arts. The funding is primarily directed towards the support of activity that benefits Wales.

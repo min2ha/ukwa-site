@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Borders Family History Society
-
 Site of a genealogy society providing information and concentrating on the family history of Scottish counties in South Eastern Scotland, near or bordering England (Roxburgh, Selkirk, Berwick and Peebles).

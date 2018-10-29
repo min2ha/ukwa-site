@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln BIG to host carnival to celebrate the Magna Carta thanks to £10,000 grant
-

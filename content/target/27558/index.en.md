@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Lib Dems win prize for best press release of the General Election campaign
-
 None

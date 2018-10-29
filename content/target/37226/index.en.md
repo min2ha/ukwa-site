@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: Tony Blair: 'Brexit will lead to Scottish independence'
-

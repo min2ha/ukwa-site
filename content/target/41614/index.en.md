@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Porlock
-
 Porlock is situated on the Exmoor Coast in West Somerset, 6 miles from Minehead, 28 miles from Taunton and 30 miles from Barnstaple.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Clydebank Local History Society
-
 Local history site aiming to raise awareness of the culture, history and heritage of Clydebank, West Dunbartonshire, Scotland. Also with information on Clydebank Museum.

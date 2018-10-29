@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Turriff United Football Club
-
 Site of a Scottish football club located in Turriff, Aberdeenshire, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Gofalaeth Bro Llanuwchllyn a'r Cylch
-
 Information from the Pastorate of Llanuwchlyn, 

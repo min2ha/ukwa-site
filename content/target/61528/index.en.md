@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cardonald Parish Church
-
 Site of a Church of Scotland parish church at Cardonald, Glasgow.

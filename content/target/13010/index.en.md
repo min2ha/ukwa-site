@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Recoat
-
 <p>The blog of Recoat Gallery, which exhibits graphic art, illustration, graffiti, street art and photography.</p>
 <p>Recoat are the organisers of 'In Common', a mural project commissioned by Glasgow 2014 for Festival 2014, the cultural celebration during the Commonwealth Games. They have invited 5 world renowned artists from Commonwealth countries to visit Glasgow to paint large scale murals in 5 different areas of Glasgow; North, East, South, West and City Centre.</p>

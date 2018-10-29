@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: General election could be damp squib in Wales with just three seats at most changing hands, poll shows
-

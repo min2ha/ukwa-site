@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pension will be published 'in pounds and pence' under Tory government
-
 None

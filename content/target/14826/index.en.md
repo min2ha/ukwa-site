@@ -10,6 +10,4 @@
   "start_date": "2014-11-26T06:00:00Z"
 }
 
-# British Music Society
-
 The British Music Society was founded in 1979 by a group of musical enthusiasts. BMS publications include an annual journal (British Music) and four quarterly newsletters.

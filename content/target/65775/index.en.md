@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Printhaus, The 
-
 The Printhaus was established in 2010 and is Cardiff's only community-based screenprint workshop. 

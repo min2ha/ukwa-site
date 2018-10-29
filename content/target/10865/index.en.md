@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visit Harrogate: Tour de France 2014
-
 Tour de France pages on Visit Harrogate website

@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Cronfa Fuddsoddi Leol | Local Investment Fund (LIF Cymru)
-
 The Local Investment Fund (LIF) provides financial support to assist new and existing businesses in Wales.

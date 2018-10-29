@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southside Fringe
-
 Site of an eclectic festival held on the Southside of Glasgow.

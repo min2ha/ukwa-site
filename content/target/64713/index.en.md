@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Purplebricks
-
 Purplebricks is a British online estate agent, founded in 2012. Purplebricks was founded by brothers Michael and Kenny Bruce; after selling their Midlands estate agent Burchell Edwards to Connells in 2011, along with David Shepherd. As of December 2015, Purplebricks had a 60% share "among the top six online estate agents".

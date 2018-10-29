@@ -11,5 +11,3 @@
   "subject": "IT Collection"
 }
 
-# BBC News: Technology
-

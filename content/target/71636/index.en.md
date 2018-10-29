@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Change.org: Eating Disorders are not just about weight #dumpthescales
-
 Change.org petition calling for the UK government to review the eating disorder guidance delivered by clinicians. Includes the campaigner's personal journey of suffering with an eating disorder.

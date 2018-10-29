@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Armadale, West Lothian, Scotland
-
 Local history site focusing on the town of Armadale, West Lothian.

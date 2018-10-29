@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Glamis Castle & Strathmore Estates
-
 Site of a Scottish castle, stately home and visitor located in Angus, and the associated estate run along commercial lines as a working farm, property letting agency, forester and purveyor of field sports.

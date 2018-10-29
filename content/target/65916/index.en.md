@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Business Application Software Developers Association (BASDA)
-
 BASDA offer value for their members through collaboration and support as a UK Industry Association for software developers across all sectors.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Let the SNP run the BBC, says Salmond
-
 None

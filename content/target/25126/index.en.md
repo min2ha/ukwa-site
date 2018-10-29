@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: SNP leader Nicola Sturgeon says she plans to wield influence over Labour and admits: 'I know why the English are worried'
-
 None

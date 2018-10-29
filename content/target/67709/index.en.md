@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Balmaha Brewing Co.
-
 Site of a brewer located at Balmaha, Stirlingshire.

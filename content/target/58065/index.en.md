@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Eleanor Jane 
-
 Eleanor Jane is professional photographer from south Wales specialising in music and travel photographer shooting creative portraiture for touring bands, live rock & roll and behind-the-scenes concert photography.

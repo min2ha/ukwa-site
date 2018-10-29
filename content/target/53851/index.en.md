@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bill Piper (UKIP Politician)
-
 Bill Piper stood as UK Independence Party candidate for North Down at the 2017 General Election but was not elected.

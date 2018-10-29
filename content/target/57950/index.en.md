@@ -10,6 +10,4 @@
   "start_date": "2017-10-20T09:00:00Z"
 }
 
-# Alana Tyson
-
 Alana Tyson is a Welsh-Canadian artist currently living in North Wales. According to the site 'Alana Tyson’s work attempts to make sense of the world she inhabits. As an immigrant to the UK and a natural observer, she feels highly responsive to the contradictions of everyday life'.

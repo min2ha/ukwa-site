@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Anglo-Catalan Society, The
-
 The Anglo-Catalan Society (ACS) exists to promote awareness and appreciation of Catalan culture in Britain and Ireland and to encourage cultural relations with the Catalan-speaking communities. 

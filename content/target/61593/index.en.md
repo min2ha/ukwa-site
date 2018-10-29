@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: What is the Working Time Directive that Boris and Gove are plotting to scrap? 
-
 Senior government ministers, including Boris Johnson and Michael Gove, were reportedly among a small group of hard- Brexiteers who were pushing to scrap the Working Time Regulations in a cabinet meeting on what our future trade relationship with the EU should look like. 

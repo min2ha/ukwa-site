@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Baptist College
-
 Site of a Scottish higher education theological college located on the Paisley campus of the University of the West of Scotland.

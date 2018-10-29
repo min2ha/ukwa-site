@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Joylon Trimingham (@trimingham1) on Twitter (Green Party candidate for Dover)
-

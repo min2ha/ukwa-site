@@ -10,6 +10,4 @@
   "start_date": "2017-04-14T09:00:00Z"
 }
 
-# Lancaster Arts at Lancaster University
-
 Lancaster Arts reflects the commitment of its major funders – Lancaster University and Arts Council England - in supporting cultural and artistic engagement at the highest level through a programme of internationally renowned contemporary theatre, dance, visual art and classical music.

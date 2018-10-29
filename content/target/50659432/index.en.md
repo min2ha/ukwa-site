@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# William Penn School
-

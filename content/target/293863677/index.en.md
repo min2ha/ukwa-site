@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Canolfan Eco Cymru | Wales Eco Centre
-
 Welsh Energy and environment charity promoting sustainable energy use, climate change education, sustainable lifestyles & fuel poverty issues.

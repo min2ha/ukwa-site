@@ -10,5 +10,3 @@
   "start_date": "2011-09-22T00:00:00Z"
 }
 
-# BBC News: Middle East and North Africa Protests 2011
-

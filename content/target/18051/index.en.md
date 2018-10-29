@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Rees-Evans for UKIP leader
-
 John Rees-Evans is one of the candidates hoping to become UKIP leader during the leadership election of Oct-Nov 2016.

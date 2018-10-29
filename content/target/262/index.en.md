@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Cumbria CCG
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Episcopal Church, Greyfriars Kirkcudbright, St. Mary's Gatehouse of Fleet
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Dumfries and Galloway.

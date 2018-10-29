@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Rygbi Gogledd Cymru | North Wales Rugby (RGC 1404)
-

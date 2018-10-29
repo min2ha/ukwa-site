@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Fighterboy
-
 Website dedicated to Pilot Officer Cecil "Charlie" Reginald Young, who died during World War 2.

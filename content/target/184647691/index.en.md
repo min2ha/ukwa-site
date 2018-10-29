@@ -10,5 +10,3 @@
   "start_date": "2013-08-13T00:00:00Z"
 }
 
-# Phil Rogers Pottery
-

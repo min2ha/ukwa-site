@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Cathedral welcomes original Magna Carta to St Albans
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Disability Rights UK: General Election manifestos 2017
-
 Presents a selected list of proposals, which affect disabled people, taken from the relevant party manifesto. 

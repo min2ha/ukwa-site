@@ -10,6 +10,4 @@
   "start_date": "2007-03-27T23:00:00Z"
 }
 
-# Gurkha Welfare Trust
-
 The Gurkha Welfare Trust was established in England in 1969. Its remit is to provide financial, medical and community aid to alleviate hardship and distress among Gurkha ex-servcemen of the British Crown and their dependants after they have returned to their homeland of Nepal. 

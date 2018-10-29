@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Hospital Consultants and Specialists Association
-

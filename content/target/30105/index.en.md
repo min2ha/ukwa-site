@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anglican Pacifist Fellowship
-
 The Anglican Pacifist Fellowship is a body of people within the Anglican Communion who reject war as a means of solving international disputes, and believe that peace and justice should be sought through non-violent means.

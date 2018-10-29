@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Bad Film Club
-
 Bad Film Club meet monthly at Chapter, Cardiff. The Bad Film Club has created a place where like minded folk can gather to celebrate the guilty joy that is a good bad movie and re-create that living room atmosphere of a night in with friends. The shackles of polite cinema etiquette are discarded. The audience are encouraged to jeer, heckle and participate with the film creating a unique interactive cinema experience. 

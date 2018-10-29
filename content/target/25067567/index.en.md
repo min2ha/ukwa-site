@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Rio Tinto plc
-
 Rio Tinto plc is a British-Australian multinational and one of the world's largest metals and mining corporations. The company has operations on six continents, but is mainly concentrated in Australia and Canada. producing aluminium, copper, diamonds, gold, industrial minerals (borates, titanium dioxide and salt), iron ore, thermal and metallurgical coal and uranium.

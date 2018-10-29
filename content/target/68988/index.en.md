@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Roch's FC (@StRochsJuniors) on Twitter
-
 St Roch's Football Club is a Scottish football club, based in Royston Road, Glasgow. Nicknamed "the Candy Rock", they were formed in 1920 and play at James McGrory Park.

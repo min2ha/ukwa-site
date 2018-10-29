@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# Calon FM
-
 Calon FM is a community radio station for Wrexham.

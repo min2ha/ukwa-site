@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: This close to the general election, it’s better to be lucky than right
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Rave Child
-
 Rave Child is a Glasgow-based music blog offering reviews of live shows and records by Scottish musicians, and Glasgow gig listings. 

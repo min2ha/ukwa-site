@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Business of Fashion, The
-

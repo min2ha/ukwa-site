@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# Andrew Redmond Barr
-
 "Andrew Redmond Barr is a writer and artist from Edinburgh, interested in literature, history and illustration."

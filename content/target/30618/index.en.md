@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Bun-sgoil Taobh na Pàirce
-
 The site of Bun-sgoil Taobh na Pàirce, a Gaelic language school based in Edinburgh.

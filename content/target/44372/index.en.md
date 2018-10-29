@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Millarworld
-
 Site of the graphic novelist Mark Millar

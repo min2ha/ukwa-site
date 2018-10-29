@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Epsom and St Helier University Hospitals
-
 None

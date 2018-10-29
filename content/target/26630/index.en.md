@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lynton Crosby: the man who really won the election for the Tories
-
 None

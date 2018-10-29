@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Brown on Facebook
-
 This is the Facebook page of Alan Brown, the Scottish National Party (SNP) candidate for Kilmarnock and Loudoun in the UK General Election on the 7th May 2015.

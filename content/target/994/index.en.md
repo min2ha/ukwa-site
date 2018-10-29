@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unite the Union: Save our NHS
-
 None

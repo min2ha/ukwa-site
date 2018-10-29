@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Louise Mensch (@LouiseMensch) on Twitter (Conservative MP for Corby)
-
 Twitter account for Louise Mensch, Conservative MP for Corby

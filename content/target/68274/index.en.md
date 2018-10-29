@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Cranleighan RFC (@OldCranRFC) on Twitter
-
 The official Twitter account of Old Cranleighan Rugby Football Club, based at Thames Ditton in Surrey.

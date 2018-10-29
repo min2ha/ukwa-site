@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Feels FM
-
 Interactive online emoji powered jukebox, launched by See Me Scotland

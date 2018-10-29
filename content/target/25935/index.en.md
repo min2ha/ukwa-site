@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: Leaked documents reveal Tory benefit cut options – as it happened
-
 None

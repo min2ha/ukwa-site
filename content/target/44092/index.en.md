@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Skye and Lochalsh Environment Forum
-
 Site of a group interested in the biodiversity of the areas on the Isle of Skye and Lochalsh in Highland, Scotland.

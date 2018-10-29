@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Suzie Ferguson (Independent candidate for Reading West)
-
 Suzie Ferguson stood as and independent candidate for Reading West at the 2015 General Election but was not elected.

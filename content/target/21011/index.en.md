@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Sheridan (@VoteSheridan) on Twitter
-
 The Twitter profile of James Sheridan, the Labour Party candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

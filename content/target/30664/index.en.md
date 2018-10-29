@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# British and Irish Modern Music Institute (BIMM)
-
 The British and Irish Modern Music Institute, has colleges in six cities – London, Berlin, Dublin, Manchester, Bristol and Brighton – and a provider of contemporary music education in the UK and Europe.

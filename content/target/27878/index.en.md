@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Bishop Hill Blog
-
 Blog site about all things climate change related.

@@ -10,5 +10,3 @@
   "start_date": "2011-02-23T00:00:00Z"
 }
 
-# Swansea Metropolitan University
-

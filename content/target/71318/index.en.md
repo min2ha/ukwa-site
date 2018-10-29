@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Banbridge RFC (@banbridgerugby) on Twitter
-
 Amateur rugby club, competing in the Ulster Senior League and Division 1B of the All Ireland League with 5 adult teams, 3 youth teams, and a mini rugby section.

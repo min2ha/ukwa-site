@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Teacher Development Trust
-
 The national charity for effective professional development in schools and colleges.

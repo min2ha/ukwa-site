@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Ann Oakley
-
 Ann Oakley is a writer and a sociologist. She has written both novels and many non-fiction books. Her official archive is held at the British Library. 

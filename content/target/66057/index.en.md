@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# St. Bride Foundation
-
 Organisation founded in 1891 including a library of printing, workshops, venues for events and the Bridewell Theatre.

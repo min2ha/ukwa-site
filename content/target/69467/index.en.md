@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Writing with Kate Pawsey
-
 Kate Pawsey is a writer and founder of Writing Time, a service enabling writers and would-be writers space to explore their writing within a structured and stimulating framework. 

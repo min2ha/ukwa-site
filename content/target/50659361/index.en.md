@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# responsibletravel.com: Women Only Holidays
-

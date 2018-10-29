@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# War Resisters' International joins the world in mourning the passing of Nelson Mandela
-
 <p>Statement from War Resisters' International on the passing of Nelson Mandela. The statement also notes WRI's role in campaigning to end apartheid in South Africa.</p>

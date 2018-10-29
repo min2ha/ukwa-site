@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# 800 Group
-
 800 Group is a building company undertaking major projects and refurbishment work, mostly in central and greater London. It employs architects, quantity surveyors and accountants as well as builders and tradespeople.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Swimming: Commonwealth Games
-
 None

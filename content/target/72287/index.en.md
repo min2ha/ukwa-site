@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Peoples Church Falkirk (PCF) Ministries
-
 Site of an Elim Pentecostal church (Christian) located in Falkirk.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tory election guru Grant Shapps' sleazy sales pitch revealed: ''I took out my pocket-book and bought a plane'' 
-
 None

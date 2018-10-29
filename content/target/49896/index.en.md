@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Northern Ireland Assembly election poll and odds: What to expect and who will win?
-
 A review of 2016 Election Results with predictions for the the March 2017 election.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum exposes gaping political fault-lines
-
 Article by Peter Taaffe, from Socialism Today (monthly magazine of the Socialist Party England & Wales).

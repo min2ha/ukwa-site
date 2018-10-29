@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire Cancer Network
-
 None

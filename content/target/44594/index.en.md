@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Whittlesford Society
-
 The Whittlesford Society was founded in 1975 to stimulate public interest in the village and its environs and promote high standards of planning and architecture. Secure the preservation, protection, development and improvement of features and of public or historic interest in the village and adjacent areas.

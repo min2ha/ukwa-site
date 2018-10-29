@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Seiriol Davies
-
 Seiriol Davies writes, creates comedy, acts, composes and songwrites.  His musical about Henry Cyril Paget: the cross-dressing Marquess of Anglesey, ran at the Edinburgh Fringe in 2016.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North East London and the City
-
 None

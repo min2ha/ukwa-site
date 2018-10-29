@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Gurston Down Hillclimb
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pudding Mill River
-
 None

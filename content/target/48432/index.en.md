@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Cardiff Pubs
-
 A guide and brief history to the pubs of Cardiff.

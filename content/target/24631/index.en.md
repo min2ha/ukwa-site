@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Crunch time for Labour in Scottish leaders' debates
-
 None

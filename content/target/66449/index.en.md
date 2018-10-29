@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# I & H Brown Limited
-
 I & H Brown Limited operates civil engineering construction and remediation, energy, property development, plant hire, and farming and estate management businesses. The company was founded in 1964 and is based in Perth, Scotland. 

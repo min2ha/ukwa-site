@@ -10,5 +10,3 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Neil McEvoy (@neiljmcevoy) on Facebook (Plaid Cymru AM for South Wales Central)
-

@@ -10,8 +10,6 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# The random musings of iesha small
-
 Personal site of Iesha Small. "I mainly write about education, leadership and society. Occasionally creativity and other things may get a mention.
 
 I teach maths and work as an Assistant Head teacher in a secondary school in England. I work with others within and beyond my organisation to spread my leadership philosophy that listening and asking the right questions  matters more than having all the right answers."

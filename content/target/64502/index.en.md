@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Hill Dickinson LLP
-
 International law firm headquartered in Liverpool specialising in shipping and marine law

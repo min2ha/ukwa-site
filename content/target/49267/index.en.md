@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Swansea Pride 2014
-
 Swansea Pride was held at Singleton Park, Swansea in 2014.

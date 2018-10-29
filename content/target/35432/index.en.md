@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Royal College of Obstetricians and Gynaecologists: Q&As related to Zika virus and pregnancy
-
 FAQ on Zika virus risks to pregnant woman

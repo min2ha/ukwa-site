@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative manifesto to offer 1.3m families right to buy housing association homes
-
 None

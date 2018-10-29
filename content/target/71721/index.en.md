@@ -10,6 +10,4 @@
   "start_date": "2018-09-27T09:00:00Z"
 }
 
-# Dow UK
-
 Dow combines the power of science and technology to innovate what is essential to human progress. We use driving innovations that make the most of the materials, polymers, chemicals and biological science developments to ensure clean water, clean energy generation and conservation or increasing agricultural productivity.  It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

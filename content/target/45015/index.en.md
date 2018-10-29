@@ -10,6 +10,4 @@
   "start_date": "2016-08-13T10:00:00Z"
 }
 
-# 404 INK
-
 404 Ink aims to publish fiction and non-fiction writing, including comics, in English and Scottish Gaelic.

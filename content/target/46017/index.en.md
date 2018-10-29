@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Gates Cambridge
-
 The Gates Cambridge Trust was established in October 2000, and provides scholarship to postgraduate students.

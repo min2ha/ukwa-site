@@ -10,7 +10,5 @@
   "start_date": "2017-09-09T09:00:00Z"
 }
 
-# Care Society
-
 The Care Society are a Mid Wales based charity who offer support, help and advice to those who are homeless, threatened with homelessness or in need of assistance.
 

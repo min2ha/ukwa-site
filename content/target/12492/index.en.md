@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matty Lee (@mattydiver) on Twitter
-
 The twitter profile of diver Matty Lee, member of Team England for the Glasgow 2014 Commonwealth Games.

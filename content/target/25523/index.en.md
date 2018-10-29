@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Will Nigel Farage turn out to be a mirage in South Thanet?
-
 None

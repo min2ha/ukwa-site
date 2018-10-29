@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret McCulloch (magmsp) on Twitter
-
 The twitter profile of Margaret McCulloch, Member of the Scottish Parliament for Central Scotland.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hannah Bettsworth for Edinburgh Central and Lothian on Facebook
-

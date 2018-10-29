@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: All aboard the George Osborne rollercoaster
-
 None

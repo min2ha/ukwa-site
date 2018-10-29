@@ -11,6 +11,4 @@
   "subject": "Independent Arts Organisations"
 }
 
-# Pigeon Wing, The
-
 None

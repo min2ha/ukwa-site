@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Synergy Concerts
-
 Website of a Glasgow-based music and event promotors.

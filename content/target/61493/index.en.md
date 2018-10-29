@@ -10,7 +10,5 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Treowen
-
 Treowen is a Grade I Listed house built about 1620 and is located at
 Wonastow, 3 miles from Monmouth.

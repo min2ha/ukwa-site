@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: Indian and Australian immigrants better than eastern Europeans
-
 None

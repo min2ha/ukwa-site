@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Cardiff School of Art and Design Degree Show Catalogue (CASD Show)
-
 Cardiff School of Art and Design Degree Show Catalogue provides a snapshot of the work completed by art and design students as they approach the end of their studies at Cardiff Metropolitan University.

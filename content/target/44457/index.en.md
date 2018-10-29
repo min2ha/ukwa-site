@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: ‘I don't understand the anger’: how the Europeans in London see Brexit
-

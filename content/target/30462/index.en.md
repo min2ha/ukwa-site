@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# My Parish Online (Jersey)
-
 Website for the 12 Parishes of Jersey

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Jeremy Corbyn won't back Britain, says MARCO GIANNANGELI
-
 Comment by Marco Giannangeli

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband targets grey vote with guaranteed free bus passes and TV licences for elderly
-
 None

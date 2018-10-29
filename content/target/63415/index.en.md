@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Professor Stephen Hawking has died aged 76
-
  The Irish Post - article about the passing of Stephen Hawking.

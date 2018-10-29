@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# London Fianna Fáil (@FiannaFailLdn) on Twitter
-
 London Fianna Fáil, estd. 2012.

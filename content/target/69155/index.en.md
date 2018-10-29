@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Museum of Somerset (@SomersetMuseum) on Twitter
-
 Find out about the latest events, exhibitions, activities and news! 

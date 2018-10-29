@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Ummah Welfare Trust
-
 Ummah Welfare Trust is a UK-based international relief and development charity established in 2001. Inspired by the Islamic teachings of empathy, generosity and selflessness, the trust aims to alleviate poverty and suffering across the world.

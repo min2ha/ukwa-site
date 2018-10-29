@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: Ukip will bring immigration levels 'back to normal' - video
-

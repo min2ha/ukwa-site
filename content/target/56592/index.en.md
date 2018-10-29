@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Society for Popular Astronomy (SPA)
-
 The Society for Popular Astronomy is a national astronomical society based in the United Kingdom for beginners to amateur astronomy.

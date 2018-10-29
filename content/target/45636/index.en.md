@@ -10,6 +10,4 @@
   "start_date": "2016-09-27T11:00:00Z"
 }
 
-# Newport and Lower Wye Circuit
-
 Newport and Lower Wye Circuit is part of the Wales Synod, the Methodist Church.

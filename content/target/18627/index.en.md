@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duncan Higgitt for Afan on Facebook
-
 Facebook page for Duncan Higgitt, PPC for Afan for Plaid Cymru.

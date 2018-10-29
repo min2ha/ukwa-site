@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Canonbie & District Residents Association
-
 Community website for the village and district of Canonbie, Dumfries & Galloway, providing information on amenities, services, activities and clubs and societies in the area.

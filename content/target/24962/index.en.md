@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: It's decision time! Cameron and Miliband fire up supporters in final campaign rallies after six weeks on the stump
-
 None

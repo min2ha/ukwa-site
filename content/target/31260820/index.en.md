@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# David Cameron [by R. Sobati]
-

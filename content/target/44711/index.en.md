@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Grŵp
-
 Grŵp is a business network for women in Wales with a focus on learning and development.

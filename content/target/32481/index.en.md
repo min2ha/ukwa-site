@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Papercraft Inspirations
-
 Online version of the Papercraft Inspirations magazine.

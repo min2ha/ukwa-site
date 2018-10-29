@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rory Stewart (Conservative  Politician)
-
 Rory Stewart stood as Conservative candidate for Penrith and the Border at the 2015 General Election. He was first elected to serve as MP for Penrith and the Border in 2010 and re-elected in 2015. He stood for re-election in 2017 and was successful.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Ancient Tree Hunt
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Gofal
-
 Gofal is the leading Welsh mental health and wellbeing charity. 

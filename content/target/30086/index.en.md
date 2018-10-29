@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Dragon 32 Universe
-
 Dragon 32 Universe is a site dedicated to building a library of all the software for the Dragon 32 computer.

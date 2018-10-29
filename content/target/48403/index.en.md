@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Diego Garcia Online  
-
 This site if for entertainment purposes only, they are not military, and will not provide any information related to the military tactics or locations beyond public knowledge.

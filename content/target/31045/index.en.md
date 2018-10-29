@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-#  Pentyrch & District Local History Society
-

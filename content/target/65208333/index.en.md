@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Gakuranman - Illuminating Japan
-
 Website contains tales of adventure, explorations and other interesting issues from Japan. It is run by Michael Gakuran.

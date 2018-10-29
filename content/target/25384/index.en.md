@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative party pledges extra £8bn a year for NHS
-
 None

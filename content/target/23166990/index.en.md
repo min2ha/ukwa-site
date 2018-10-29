@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Coldharbour Farm - self-catering holiday accomodation, Bodmin, Cornwall
-

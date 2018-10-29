@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Salisbury placed in Lonely Planet top 10 cities alongside Washington and Milan
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's Douglas Alexander deletes tweets saying Nicola Sturgeon backs Tories
-
 None

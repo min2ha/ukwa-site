@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Morag Hannah (@marr0g) on Twitter
-
 The Twitter profile of Morag Hannah, Scottish Green Party candidate for North East Scotland in the 2016 Scottish Parliament election.

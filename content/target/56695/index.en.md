@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Candy Jar Book Festival
-
 Candy Jar Book Festival is a book festival held in Cardiff and run by Candy Jar Book publishers.

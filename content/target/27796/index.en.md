@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Magna Carta exhibition Game of Barons opens at Trowbridge Museum
-

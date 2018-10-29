@@ -10,5 +10,3 @@
   "start_date": "2015-02-12T09:00:00Z"
 }
 
-# Peter Webster (@pj_webster) on Twitter
-

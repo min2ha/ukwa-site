@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Folkestone Literary Festival 2008
-
 Folkestone Literary Festival 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip asks Scotland Yard to investigate BBC's Have I Got News For You
-
 None

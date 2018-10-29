@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Sion Swifts Ladies & Girls FC on Irish Football Association
-

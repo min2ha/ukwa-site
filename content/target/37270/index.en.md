@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ITV News: Stephen Hawking leads 150 scientists against Brexit
-
 ITV News article on letter from 150 scientists to The Times oppositing British withdrawal from the EU

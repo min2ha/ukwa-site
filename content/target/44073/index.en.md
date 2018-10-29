@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Elizabeth Truss, Conservative MP for South West Norfolk
-
 Website of Elizabeth Truss, Conservative MP for South West Norfolk. Offers biographical information and news of local and parliamentary activities. 

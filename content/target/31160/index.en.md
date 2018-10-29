@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Great British Innovation Vote
-
 The vote took place to celebrate the theme of invention and discovery in National Science & Engineering Week. The most popular invention of the past was Alan Turing's Universal Machine.

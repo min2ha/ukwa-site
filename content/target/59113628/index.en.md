@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vale of Aylesbury Methodist Circuit
-
 None

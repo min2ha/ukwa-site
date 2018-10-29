@@ -2036,8 +2036,6 @@
   "endDateText": "31-12-2014"
 }
 
-# Scottish Independence Referendum
-
 On the 18th September 2014 voters were asked ‘should Scotland be an independent country’. The results of this vote saw the electorate voting 55.3% in favour of remaining within the UK. For the first time in the UK, and specifically for that vote, 16 and 17 year olds were eligible to cast their ballots. Those born in other parts of the UK but resident in Scotland at the time of the vote were also eligible to vote, while those born in Scotland but no longer living there were not.
 </br>
 These archived sites form part of a larger collection of books, reports, serials, and material such as flyers, leaflets, etc., as well as moving image, sound and archival material made by the National Library of Scotland; for further information visit the Library's Scottish Independence Referendum 2014 Collection page: <a>https://www.nls.uk/collections/topics/referendum.</a>

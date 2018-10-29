@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Stop Neath & Port Talbot Prison
-
 Neath and Port Talbot is set for a new Mega Prison in Baglan. The Stop NPT Prison are a group opposed to this Prison development.

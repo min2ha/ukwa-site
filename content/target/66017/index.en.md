@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Cabinet agrees Brexit customs 'backstop' option
-
 Reports that the cabinet had agreed a customs proposal aimed at avoiding a hard border in Northern Ireland. Ministers had signed off on the "backstop" that would see the UK match EU tariffs after 2020, if there was no deal on their preferred customs arrangements.
 

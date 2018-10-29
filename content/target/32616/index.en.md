@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Migration Advisory Committee
-
 The MAC is a non-departmental public body to advise the UK government. This website links to committee reports and consultations.

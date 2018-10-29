@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Screen Academy Scotland
-
 Site of a higher education collaboration between Edinburgh Napier University and Edinburgh College of Art, dedicated to fostering the future of film makers through its programme of degree and post graduate and short course.

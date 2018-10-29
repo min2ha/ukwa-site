@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Gymraeg Trefynwy a'r Cylch | Monmouth and District Welsh Society
-

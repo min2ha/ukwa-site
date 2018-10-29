@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Heart of Conflict
-
 Welcome to Heart of Conflict, a project marking the centenary of World War One in Cornwall. We've been working since 2014 with local groups and people to uncover previously untold stories. This site is a pinboard of memories, photographs, recordings and documents.

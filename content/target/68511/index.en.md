@@ -10,5 +10,3 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Brendan O'Hara MP | Member of Parliament for Argyll and Bute
-

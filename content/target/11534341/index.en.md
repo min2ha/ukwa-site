@@ -10,5 +10,3 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Strudent Finance Wales | Cyllid Myfyrwyr Cymru
-

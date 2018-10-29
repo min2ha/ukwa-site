@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aberdeen Tories (@AberdeenTories)
-
 Twitter feed of Aberdeen Conservative & Unionist Association.

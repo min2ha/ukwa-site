@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Southlight
-
 Site of a literary group based in Annan, Dumfries & Galloway, who focus on poetry, short stories and illustration.

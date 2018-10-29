@@ -10,8 +10,6 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Centre for Democracy and Peace Building
-
 The purpose of the Centre for Democracy and Peace Building is to uphold and share the values and principles of democracy in order to build peace, stability and reconciliation.
 
 

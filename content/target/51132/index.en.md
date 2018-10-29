@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Deva Church, Prestatyn
-
 Deva Church was started in 1964 by a group who moved to North Wales from the West Midlands. The Church was established as long the lines of Open Brethren Assembly but has since developed into what can be described as an independent evangelical Church run by its members.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: This election campaign is crying out for a Jennifer’s Ear moment
-
 None

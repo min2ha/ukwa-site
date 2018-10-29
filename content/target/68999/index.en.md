@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: May’s big new problem is the loss of trust which she has inflicted upon herself
-
 Argues that, by developing an alternative Brexit plan to appease the EU without the knowledge of David Davis, Theresa May has forfeited the trust of her MPs.

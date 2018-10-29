@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Anstruther Improvements Association
-
 Site of a community organisation established to protect and improve Anstruther, Cellardyke and Kilrenny, by supporting improvemnet projects.

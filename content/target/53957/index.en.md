@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# CommonSpace: #GE17
-
 GE17 tagged posts from the CommonSpace digital news service, owned by the Commonweal think tank.

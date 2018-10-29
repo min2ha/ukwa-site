@@ -11,6 +11,4 @@
   "subject": "Fashion"
 }
 
-# fashioncapital.co.uk
-
 None

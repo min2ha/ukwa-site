@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derek Thomas (Conservative)
-
 Derek Thomas stood as Conservative candidate for St Ives at the 2015 General Election and was elected to serve as MP.

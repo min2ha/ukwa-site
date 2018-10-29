@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Montrose Air Station Heritage Centre
-
 Museum based at and commemorating Montrose airfield in angus, Scotland.

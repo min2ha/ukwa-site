@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Truly, this man was the son of God. And I don’t mean David Cameron
-
 None

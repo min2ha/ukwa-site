@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Disabled and Supportive Carer (D&SC)
-
 <p>Disabled and Supportive Carer (D&amp;SC) is a magazine published four times a year to regular subscribers as well as NHS Trusts, Disabled Living Centres and doctors' surgeries, it has a print run of 10,000 each issue. The magazine includes a wide range of topics from mobility aids to independent living. Each edition also includes a dedicated motoring section – Disability Motoring News, DMN.</p>

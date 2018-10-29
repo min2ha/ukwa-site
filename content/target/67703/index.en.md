@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Côr Curiad 
-
 Côr Curiad is a ladies choir based in Llanelli and established in 1995.

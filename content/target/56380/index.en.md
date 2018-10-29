@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Foreign and Commonwealth Office: Public consultation on the United Kingdom’s future legal framework for imposing and implementing sanctions
-
 The UK currently implements UN and other multilateral sanctions regimes through EU legal acts. Once we leave the EU, we will need new legal powers to maintain our ability to impose, implement and amend sanctions regimes.

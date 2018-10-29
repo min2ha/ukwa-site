@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 18th Jan. 2017: Leaving the EU: Security, Law Enforcement and Criminal Justice 
-

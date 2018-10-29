@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Danus Skene (@DanusSkene) on Twitter
-
 The Twitter profile of Danus Skene, the Scottish National Party candidate for Shetland in the 2016 Scottish Parliament election.

@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Billericay Reading Rooms World War 1 Project 
-

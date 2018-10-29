@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Sun, The: Vote for EU poll Cameron tells Tories
-

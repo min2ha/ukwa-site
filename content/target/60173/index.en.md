@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# Bute Film Club on Facebook
-
 Facebook page of a film society based on the island of Bute.

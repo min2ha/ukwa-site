@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RSPH: Royal Society for Public Health
-
 Sub section of a website which reports on the positive and negative effects of social media on young people's mental health

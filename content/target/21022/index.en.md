@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Conniff (@ChrisConniff52) on Twitter
-
 The Twitter profile of Chris Conniff, the Labour Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

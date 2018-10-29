@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Gazette: Curry Mallet receives grant for Magna Carta celebrations
-

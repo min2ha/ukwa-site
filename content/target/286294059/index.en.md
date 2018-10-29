@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Jo Clements
-
 <p>Jo Clements is a visual artist based in Manchester, UK who has shown work nationally and internationally.  Jo’s skills and processes include working with film, photography, 3d construction and installation, use of found film footage, research into the history, theories and application of materials sourced from online and institutional archives.</p>

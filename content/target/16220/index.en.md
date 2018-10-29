@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Mathern Community Council
-
 <p>This is the site forMathern Community  Council covering the villages of Mathern, Mounton and Pwllmeyric near Chepstow.</p>

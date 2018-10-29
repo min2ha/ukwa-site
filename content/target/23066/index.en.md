@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Gale (Conservative Politician)
-
 Roger Gale stood as Conservative candidate for North Thanet at the 2015 General Election. He was first elected to serve as MP for North Thanet in 1983 and re-elected in all subsequent elections to 2015. He stood for re-election again in 2017 and was successful.

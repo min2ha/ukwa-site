@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachael Kelly (rkellyno4) on Twitter
-
 Twitter profile of swimmer Rachael Kelly, member of Team England for the Glasgow 2014 Commonwealth Games.

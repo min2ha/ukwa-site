@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Accessing and Screening WW1 Archive by training volunteers
-
 The project will train six volunteers to catalogue hitherto unseen WW1 archive film footage lodged at the Huntley Film Archives in South Herefordshire.

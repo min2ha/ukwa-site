@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Parent Partnership Network (NPPN)
-
 None

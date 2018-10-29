@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Banchory Strathspey and Reel Society
-
 Site of a Scottish traditional fiddle and accordian music society located in Banchory, Aberdeenshire, and their annual music festival.

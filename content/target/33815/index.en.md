@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Suffolk County 1916 Irish Rising Memorial Web Page
-
 US website

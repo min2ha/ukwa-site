@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: SNP will be 'chain to Labour’s wrecking ball' if Ed Miliband wins
-
 None

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# UCD Decade of Centenaries 
-
 This website provides information on UCD conferences, exhibitions, publications and other outputs relating to the Decade of Centenaries. It provides scholarly resources such as an interactive timeline of the events of 100 years ago, as well as links to much of the commemorative content already produced by the university.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Politics Blog: Brexit series
-
 Oxford University politics blog discussing Brexit and the EU Referendum.

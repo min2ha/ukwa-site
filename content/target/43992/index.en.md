@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Neuropolitics Research
-
 The Neuropolitics Research Lab at the University of Edinburgh has undertaken sentiment research on EU Referendum related hashtags.

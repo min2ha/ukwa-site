@@ -10,5 +10,3 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# St Illtyd’s Catholic High School | Ysgol Uwchradd Gatholig Illtud Sant
-

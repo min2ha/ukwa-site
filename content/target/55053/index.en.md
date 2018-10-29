@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Ctrl + Alt + Del
-
 Ctrl + Alt + Del is a literary magazine published in the Welsh language.

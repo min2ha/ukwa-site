@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Assembly
-
 Official website of the Northern Ireland Assembly.

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Trench (@trenchmag) on Twitter
-
 Trench is a music, style, and culture platform based in London aiming to uncover and uplift the voices of now. This is their Twitter account.

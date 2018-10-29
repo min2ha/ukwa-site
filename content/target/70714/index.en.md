@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM visit to Africa
-
 The Prime Minister visited South Africa, Nigeria and Kenya for the first time with senior ministers and a wide-ranging trade delegation. This is a time of enormous change across Africa with a unique opportunity, as the UK moves towards Brexit, for a truly Global Britain to invest in and work alongside African nations, with mutual benefits.
 
 

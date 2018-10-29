@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Dispute settlement and the ECJ in the draft withdrawal agreement
-
 In this blog post, Prof Peers analyses the main issues involved in the relationship between the European Court of Justice and the UK after Brexit, annotates part of the proposed withdrawal agreement, and proposes a number of amendments to the text. 

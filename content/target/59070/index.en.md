@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Americas Studies (@_Americas) on Twitter
-
 We're the Americas Collections at the British Library; ask us about our collections from Canada, the Caribbean, Latin America, and the US.

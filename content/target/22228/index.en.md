@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dawn Furness (Green Party candidate for Blyth Valley)
-
  Dawn Furness,  Hello World ,  Green Party Parliamentary Candidate for Blyth Valley in the 2015 General Election but was not elected. 

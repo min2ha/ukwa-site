@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Anglo-Saxon, Norse, and Celtic 
-
 This blog is written and maintained by members of the Department of Anglo-Saxon, Norse & Celtic, University of Cambridge. The blog covers the history, languages, literatures and material culture of medieval Britain, Ireland and Scandinavia.

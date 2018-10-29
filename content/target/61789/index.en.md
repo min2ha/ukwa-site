@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard:  26th February 2018: Department for Exiting the European Union
-
 Estimates day debate on spending on the Department for Exiting the European Union.

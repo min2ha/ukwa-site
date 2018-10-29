@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Institute and Faculty of Advocates: Brexit blog
-

@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Old Tottonians RFC (@Old_Totts_Rugby) on Twitter
-
 The official Twitter account of Old Tottonians Rugby Football Club.
 The social rugby club is located in Edmonton North London

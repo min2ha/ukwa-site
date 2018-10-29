@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Donmouth 
-
 A website with articles on the local history of North-East England, with a feature on the history of women's football, in particular the Dick Kerr Ladies football team.

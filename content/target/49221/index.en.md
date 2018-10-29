@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Roath Remembers
-
 Roath Remembers provide community stories from 1914-1918 and commemorate those who lost their lives in the war who were from the Roath area of Cardiff. Roath Remembers is a Heritage Lottery funded project and run by RoathCardiff.

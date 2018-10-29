@@ -10,6 +10,4 @@
   "start_date": "2015-01-08T00:00:00Z"
 }
 
-# Autism Research Trust, The
-
 <p>The Autism Research Trust raises funds to predominantly support research conducted at the Autism Research Centre (ARC) at Cambridge University.</p>

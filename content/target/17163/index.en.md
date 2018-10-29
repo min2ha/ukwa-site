@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Milliband will bankrupt Britain, bosses warn
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Drug Treatment Outcomes Research Study (DTORS)
-
 A major study of drug treatment centres, to find out what factors contributed to likelihood of a persons success in such a programme. The study has completed, and the website holds the final reports and details of methods, participating Drug Action Teams, and promotional materials. 

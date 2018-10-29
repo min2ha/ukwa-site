@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Cancer Care Parcel – Hampers & Gifts Ideas
-
 Providing gift parcels for those with cancer

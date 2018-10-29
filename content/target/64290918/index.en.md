@@ -10,6 +10,4 @@
   "start_date": "2013-11-20T23:00:00Z"
 }
 
-# Rethinking Pitt-Rivers
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stratford Festival of Motoring 2018
-
 Website for the Stratford Festival of Motoring 

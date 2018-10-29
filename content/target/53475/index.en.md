@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Society for Public Health (RSPH): #StatusOfMind
-
 Royal Society for Public Health (RSPH): Social media and young people’s mental health and wellbeing

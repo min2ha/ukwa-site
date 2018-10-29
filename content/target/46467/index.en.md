@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: The Midsummer Bonfire: Brexit and Podemos
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

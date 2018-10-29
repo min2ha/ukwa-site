@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Neil Kinnock condemns Corbyn for 'silence or ignorance' over Brexit
-

@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Knotweed Control
-
 Knotweed Control Swansea Limited specialises in professional advice and effective solutions for  Japanese knotweed (Fallopia japonica) and other invasive non-native (INNS) plant species such as Himalayan balsam, Rhododendron ponticum and cotoneaster. They are based in Swansea, the so-called UK capital of knotweed.

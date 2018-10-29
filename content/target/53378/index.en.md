@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Catholic Bishops Conference of England and Wales: The General Election 2017: A letter to Catholics in England and Wales from their Bishops
-

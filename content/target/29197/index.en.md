@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# HOSPA
-
 HOSPA is a not for profit educationally focused association helping hospitality’s finance, revenue management and IT professionals develop their careers and network, as well as keep up-to-date with industry trends and developments. 

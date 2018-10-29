@@ -10,6 +10,4 @@
   "start_date": "2015-05-16T09:00:00Z"
 }
 
-# Noahs Ark Appeal Children's Hospital Charity
-
 The appeal for a Children's Hospital in Wales.

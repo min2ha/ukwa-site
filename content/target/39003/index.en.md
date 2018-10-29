@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Argyll & Bute Museums & Heritage Forum
-
 Online directory and portal for local and family history and museum websites relating to the Scottish local authority area of Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Under Age Sales: Election Manifesto for Under Age Sales
-
 Under Age Sales are a social enterprise that specializes in supporting retailers of age restricted products in the UK. Their ethos is to be a comprehensive and authoritative source of information, training and support. 

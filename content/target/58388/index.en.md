@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Spey Valley Cinema
-
 Site of a cinema in Aviemore, Highland.

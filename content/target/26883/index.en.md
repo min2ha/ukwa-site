@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# European Tour Operators Association (ETOA)
-
 European Tour Operators Association (ETOA) was founded in 1989 by a group of tour operators who wanted representation in Europe. It offers a networking and contracting platform for tourism professionals organising B2B events (City Fair, GEM, HEM). The organisation provides advocacy support on a European level, industry campaigns and B2B marketing representation opportunities; in order to promote Europe as a number one tourism destination.

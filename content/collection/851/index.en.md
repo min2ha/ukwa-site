@@ -59,6 +59,4 @@
   "endDateText": "31-03-2018"
 }
 
-# The Queen's Official Birthday 2016
-
 Collection of websites to mark the Queen's 90th birthday in 2016. 

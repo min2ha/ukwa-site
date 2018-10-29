@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Glen Gogerly UKIP (@glen_gogerly) on Twitter (UKIP Politician)
-
 Glen Gogerly stood as UK Independence Party (UKIP) candidate in the constituency of Stroud in the 2017 General Election but was not elected.

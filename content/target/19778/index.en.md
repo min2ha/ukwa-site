@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr. Victor Babu (Liberal Democrat candidate for Clwyd West)
-
 Dr. Victor Babu is the Liberal Democrat candidate for Aberconwy in the 2015 General Election and Clwyd West in the 2016 National Assembly Election.

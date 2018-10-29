@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lammermuir Festival
-
 Site of an annual classical music festival located at various venues around East Lothian, Scotland.

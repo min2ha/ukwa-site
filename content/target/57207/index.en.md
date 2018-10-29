@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Theatr Gwent Theatre Archive
-
 Gwent Theatre closed in 2010. This is an archive of some of the theatre's material.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Alba Real Ale Festival
-
 Site of an annual beer festival staged by the Royal Tay Yacht Club, Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# 3 Crate Productions
-
 3 Crate Productions is a theatre company based in South Wales.

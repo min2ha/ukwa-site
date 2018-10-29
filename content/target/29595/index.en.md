@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas y Cymod | Fellowship of Reconcillation in Wales
-
 A peace movement based in Wales.

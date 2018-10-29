@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gov.UK: Prime Minister's Speech on Europe
-
 David Cameron's speech on Europe

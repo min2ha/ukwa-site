@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband 'snubs' 1,100 business leaders months by sitting in his office 600 yards away
-
 None

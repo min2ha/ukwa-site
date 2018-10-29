@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron mauled by Paxman but poll says he won first TV leaders' programme
-
 None

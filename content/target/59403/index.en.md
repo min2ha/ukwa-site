@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Foras na Gaeilge on Twitter
-
 Twitter page for an organisation based in Dublin, Republic of Ireland, responsible for the promotion of Irish language (Gaeilge). In Irish Gaeilge.

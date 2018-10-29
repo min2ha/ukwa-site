@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# CommonSpace: Scotland to double its EU global trading departments and open new Berlin office
-

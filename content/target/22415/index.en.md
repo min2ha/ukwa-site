@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election TV debate - as it happened, March 26, 2015
-
 None

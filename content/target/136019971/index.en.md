@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# People Transition - for people in the health and care system
-
 None

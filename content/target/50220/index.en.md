@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rosyth Football Club
-
 Site for a Scottish junior football club based in Rosyth, Fife.

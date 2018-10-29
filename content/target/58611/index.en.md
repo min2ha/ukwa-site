@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Trimontium Heritage Centre
-
 Site of a heritage centre at Newstead, Scottish Borders, focusing on the historic Roman site of Trimontium.

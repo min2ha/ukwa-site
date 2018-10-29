@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Findhorn Heritage Centre and Icehouse
-
 Site of a museum located in the village of Findhorn, Moray, Scotland

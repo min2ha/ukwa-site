@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Joseph’s GAA Club London
-
 The history of St. Joseph’s GAA Club, or ‘The Joes’, as we are affectionately known, dates back to the club’s formation in 1947 in the Men’s Club attached to St. Joseph’s Church, Hanwell. The Club held their meetings in an old wooden hut that stood in the grounds of what is still St. Joseph’s Church.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huws Gray Alliance 
-
 The Huws Gray Alliance or Cymru Alliance League forms the second level of the Welsh football league system in north and central Wales.

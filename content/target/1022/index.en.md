@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Support Federation
-
 None

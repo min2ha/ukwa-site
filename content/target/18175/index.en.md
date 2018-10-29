@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election 2015: Ed Miliband in 'any time' challenge to PM over debates
-
 None

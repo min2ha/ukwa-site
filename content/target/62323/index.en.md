@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Sutton United Football Club
-
 Sutton United F.C.
 Sutton United Football Club is a football club in Sutton, South London, England, who play in the National League, the fifth tier of English football.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Vox Political: politics for the people
-
 A blog by Mike Sivier, a freelance journalist with an interest in politics. Comments on Brexit from a Remain perspective

@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Alhambra Theatre Dunfermline
-
 Site of a theatrical venue in Dunfermline, Scotland

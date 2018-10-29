@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Travellers Aid Trust
-
 The Travellers Aid Trust website was established in 1988 in order to support Gypsies and Travellers in the UK. The trust is located in Kidwelly, Carmarthenshire.

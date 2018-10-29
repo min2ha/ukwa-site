@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# CAMRA : Aberdeen Grampian and Northern Isles Branch
-
 Site of the Aberdeen Grampian and Northern Isles branch of the Campaign for Real Ale.

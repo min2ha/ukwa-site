@@ -10,6 +10,4 @@
   "start_date": "2014-09-10T07:00:00Z"
 }
 
-# Parliament Magazine, The
-
 <p>Website of the magazine, focusing on the European Parliament and EU politics, policy and people.</p>

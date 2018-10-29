@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# RAND Corporation
-
 RAND Corporation an American nonprofit global policy think tank[ created in 1948 by Douglas Aircraft Company to offer research and analysis to the United States Armed Forces. It is financed by the U.S. government and private endowment,corporations, universitiesand private individuals.

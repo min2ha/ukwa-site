@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute for Fiscal Studies, The (TheIFS) on Twitter
-
 <p>The twitter profile of the Institute for Fiscal Studies (IFS), an independent research institute with the principal aim of better informing public debate on economics in order to promote the development of effective fiscal policy.</p>

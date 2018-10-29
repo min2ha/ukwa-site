@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Wandle Beer Festival
-
 Local beer festival

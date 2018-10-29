@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Avon Rugby Football Club
-
 Playing rugby since 1925.

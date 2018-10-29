@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Museum of Carpet
-
 The Museum of Carpet is run by the Carpet Museum Trust, supported by the Friends of the Carpet Museum.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UNA-UK: Mandela - a giant for justice and a down-to-earth inspiration
-
 None

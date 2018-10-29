@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Canary, The: Windrush
-
 Articles from The Canary tagged Windrush. 

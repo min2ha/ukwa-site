@@ -10,6 +10,4 @@
   "start_date": "2016-08-26T10:00:00Z"
 }
 
-# UNISON Rochdale Local Government Branch
-
 The Rochdale Local Government branch of UNISON is a trade union for Public Sector employees.  They have over 4000 members working for the Council, Schools, Colleges, RBH and Link4Life. The Branch also represents members in the voluntary sector in Rochdale who provide services to the public.

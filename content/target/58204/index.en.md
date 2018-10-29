@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Author reveals he was so addicted to porn, he felt like he’d ‘burnt his eyeballs’ and explains how he kicked his 20-year habit
-
 Article written by a porn addict describing his journey and the affect of internet porn on his mental health

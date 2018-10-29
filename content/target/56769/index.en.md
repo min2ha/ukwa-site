@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Discord Comics
-
 Website of LBGT* Queer comics creator Tab Kimpton.  As of August 2017 the site includes Khaos Komix, Shades of A, Minority Monsters, and Sir, Butler and Boy.

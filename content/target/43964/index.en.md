@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Crowds gather outside parliament to protest against Brexit
-
 Thousands of remain voters take to the streets to demand the referendum decision be challenged or rejected.

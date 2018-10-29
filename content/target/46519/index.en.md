@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Ace Cardiff
-
 ACE Cardiff was established to support the education of disadvantaged children and young people in Cardiff.

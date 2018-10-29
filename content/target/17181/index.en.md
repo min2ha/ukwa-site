@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Beat this Nigel Farage: election rival Al Murray hits the campaign trail promising a penny a pint
-
 None

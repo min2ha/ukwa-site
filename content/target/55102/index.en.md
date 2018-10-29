@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dump the Guardian
-
 An independent news site that highlighted how before the 2017 UK General Election results that the Guardian was attacking Jeremy Corbyn's leadership of the Labour Party.

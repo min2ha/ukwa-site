@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Let Britain Decide
-
 <p>Web campaign in support of the Conservative Party policy of holding a referendum in Britain on the question of membership of the European Union.</p>

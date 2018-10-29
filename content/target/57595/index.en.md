@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Commonword  (Cultureword / Crocus Books)
-
 Commonword is a writer development organisation based in Manchester, providing opportunities for new and aspiring writers to develop their talent and potential.

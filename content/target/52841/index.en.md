@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Evangelical Alliance: What kind of society?
-
 The Evangelical Alliance is hoping to provoke thousands of conversations on what kind of society we want as the UK heads to the polls on 8 June 2017 following Prime Minister Theresa May's call for an early election. 

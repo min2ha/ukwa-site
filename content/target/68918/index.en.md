@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Bernadette's
-
 Site of a Roman Catholic church in Scotland for the parish of Saint Bernadette, Tullibody, Clackmannanshire.

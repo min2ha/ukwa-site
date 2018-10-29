@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Tonbridge and Malling Borough Council
-
 Provides information on public services, council budgets and spending, consultations and committee minutes and agendas

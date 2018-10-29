@@ -10,6 +10,4 @@
   "start_date": "2018-09-11T09:00:00Z"
 }
 
-# Geraint Rhys
-
 Geraint Rhys is politicised and politically aware Welsh singer from Swansea. His songwriting merges social commentary with his own personal experience of living in multicultural austerity Britain. 

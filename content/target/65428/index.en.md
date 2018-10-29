@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Advance Housing and Support
-
 Our vision is to transform the lives of people with a disability or mental health condition by providing the best quality housing, support and employment services. We want to enable our customers to live the lives they choose, achieve their personal goals, feel valued and know their voices are heard.

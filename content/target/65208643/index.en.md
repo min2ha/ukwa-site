@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Official website of Becky Downie, The
-
 <p>The official website of gymnast Becky Downie, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

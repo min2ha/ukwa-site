@@ -11,5 +11,3 @@
   "subject": "Dickens Bicentenary"
 }
 
-# Playhouse Theatre: The Mystery of Charles Dickens
-

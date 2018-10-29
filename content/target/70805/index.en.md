@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Telling Sense: Viewpoint: Gender equality in parenting remains a long way off by Jeremy Bowden
-
 An article about gender equality in parenting

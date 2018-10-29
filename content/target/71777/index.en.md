@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Department for Environment, Food and Rural Affairs: Progress in Implementing EU Exit
-
 The Department for Environment, Food & Rural Affairs (Defra) is one of the government departments most affected by EU Exit.. Defra has done well in very difficult circumstances. Despite facing many challenges that are outside its control, it has rapidly expanded its workforce, quickly filling some of its skills gaps and moving ahead with building the IT systems it needs in case no deal is reached with the EU.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# St Gallgo's Church, Llanallgo
-
 St Gallgo's Church, Llanallgo is in Anglesey. It is also associated with the wreck of the Royal Charter in 1859.

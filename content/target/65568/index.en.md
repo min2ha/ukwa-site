@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Bakery House
-
 Bakery House is a business that envelopes fine dining of unique Mediterranean taste and an pastry and grill atmosphere

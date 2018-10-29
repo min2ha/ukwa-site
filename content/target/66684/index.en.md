@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Institute for Employment Studies (IES)
-
 The Institute for Employment Studies (IES) is a leading British centre of research and consultancy on human resources and employment. Its research is frequently cited in the mainstream national media

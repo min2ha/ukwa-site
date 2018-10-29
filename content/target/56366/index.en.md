@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Different Trains 1947
-
 Different Trains 1947 is a collaboration between Ninja Tune's Actress, Jack Barnett (These New Puritans), Indian music producer Sandunes, and filmmakers/artists Iain Forsyth & Jane Pollard, who will perform a new audiovisual composition in response to the events of 1947.

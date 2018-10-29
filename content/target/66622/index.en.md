@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Craneware plc
-
 The website of Craneware plc, an Edinburgh-based company that develops, licenses and provides support for computer software for the United States healthcare industry.

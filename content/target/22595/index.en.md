@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron will QUIT Downing Street after second term if re-elected in May 
-
 None

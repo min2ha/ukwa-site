@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Class Centre for Labour and Social Studies: Brexit: What Next?
-
 Blog post discussing the feasibility of a second referendum and the political future of Britain.

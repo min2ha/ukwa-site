@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: No 10 refuses to consider plans to have EU staff at British ports
-
 Downing Street refused to consider proposals to have EU officials stationed at British ports serving Ireland, intended as part of a solution to the problem of the Irish border after Brexit. The compromise plan, which was under consideration by Ireland and Brussels, was aimed at “de-dramatising” the Irish border issue, and reflected the fact that many goods entered Northern Ireland via Dublin, and not Belfast or the two other main ports in the region.
 
 

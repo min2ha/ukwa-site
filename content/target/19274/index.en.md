@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta College Oxford
-

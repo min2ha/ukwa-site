@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Senior Lib Dem throws doubt on new coalition with Tories
-
 None

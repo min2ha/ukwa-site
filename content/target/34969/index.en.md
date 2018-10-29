@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Egni Cooperative
-
 Egni Cooperative was established in 2014 by Awel Aman Tawe (AAT), a community renewable energy charity in South Wales. Egni develops solar energy on community buildings in Wales and is the first Solar PV Co-operative in Wales.

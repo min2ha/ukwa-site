@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Treasury: Chancellor letter to Chair of Treasury Committee on ‘no deal’ Brexit economic analysis
-
 In this letter published on the Treasury website, Mr Hammond repeated the findings of the Treasury's provisional Brexit analysis released earlier in 2018. That analysis includes a warning that a "no-deal" Brexit could mean a 7.7% hit to GDP over the next 15 years, compared with the "status quo baseline".
 
 .

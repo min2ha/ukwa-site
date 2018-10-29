@@ -10,6 +10,4 @@
   "start_date": "2016-08-17T10:00:00Z"
 }
 
-# First Draft News
-
 A social media analysis magazine site for journalists.

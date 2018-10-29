@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute for Fiscal Studies (IFS): Election 2015
-
 IFS analysis for the 2015 general election

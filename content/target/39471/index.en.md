@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Left Foot Forward: How BME voters see the EU referendum and why we need to hear their voices
-
 A newly released Runnymede Trust report reveals differing public attitudes amongst ethnic minority Britons on immigration and Europe. In the coming EU referendum, addressing the prevailing concerns of BME voters would substantially shape the debate.

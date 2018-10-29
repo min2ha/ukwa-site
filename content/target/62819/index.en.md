@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Resolution: Brexit and Family Law
-
 Sets out the options for family law following the UK's withdrawal from the EU.

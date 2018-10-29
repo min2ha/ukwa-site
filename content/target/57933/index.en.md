@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T00:00:00Z"
 }
 
-# www.fazeley.info
-
 Welcome to www.fazeley.info a community resource for Mile Oak, Fazeley, Drayton Bassett and surrounding areas. 

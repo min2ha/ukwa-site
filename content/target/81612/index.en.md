@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Windrush compensation scheme 
-
 This consultation paper outlines our proposed compensation scheme to help redress the impact on the Windrush generation who have faced difficulties in demonstrating their lawful status under the immigration system.

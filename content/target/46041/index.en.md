@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Mr and Mrs Clark
-
 Mr and Mrs Clark are performance mavericks and a dance theatre company based in Newport.

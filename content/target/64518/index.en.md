@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# In the Matter of the Data Protection Acat 1998 and in the Matter of a Proposed Contract between Cambridge Analytica Inc and United Kingdom Independence Party: Opinion
-
 Legal opinion advising Cambridge Analytica on the lawfulness of a proposed contract with UKIP to process data to enable targeting of voters during the EU Referendum campaign of 2016.  Provided to the Digital, Culture, Media and Sport Committee as written evidence for their inquiry into fake news.

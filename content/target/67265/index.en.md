@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Maidenhead RFC (@maidsrfc) on Twitter
-
 The official Twitter account of Maidenhead Rugby Club.

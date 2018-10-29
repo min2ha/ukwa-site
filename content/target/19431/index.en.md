@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Edmundsbury Cathedral: Magna Carta 800 Exhibition
-

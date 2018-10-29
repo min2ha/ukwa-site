@@ -10,8 +10,6 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# End Our Pain
-
 THE MEDICAL USE OF CANNABIS HAS AN EXTREMELY LONG HISTORY, DATING BACK SEVERAL MILLENNIA.
 
 There is increasing acceptance within the medical profession of the use of cannabis and cannabis derivatives for medicinal purposes.

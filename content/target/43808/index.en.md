@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-#  Fitnah! Movement for Women’s Liberation
-
 Fitnah is a protest movement demanding freedom, equality, and secularism and calling for an end to misogynist cultural, religious and moral laws and customs, compulsory veiling, sex apartheid, sex trafficking, and violence against women.

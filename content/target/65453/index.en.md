@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dorset Dogs Festival
-
 Annual celebration of dogs and the countryside, with displays, demonstrations, agility, stalls, childrens activities, activities for dogs, refreshments and a dog show

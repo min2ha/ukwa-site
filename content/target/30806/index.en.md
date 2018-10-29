@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Old Bakehouse Publications
-
 Local history book publishers based in Abertillery.

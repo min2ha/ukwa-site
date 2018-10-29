@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain Stronger in Europe: More than 150 top scientists explain why leaving the UK would be a disaster
-
 An open letter written by Stephen Hawkings and signed by Cambridge scientists underlining the importance of the EU for scientific research

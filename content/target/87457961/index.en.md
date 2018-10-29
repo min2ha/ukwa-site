@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Librarians' Information Literacy Annual Conference (LILAC)
-
 Website of the annual conference organised by the Information Literacy Group and CILIP.

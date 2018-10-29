@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Is this what Brexit looks like? Pro-Remain campaigners bring chaos to border town as they set up mock checkpoints between Ireland and Northern Ireland  
-

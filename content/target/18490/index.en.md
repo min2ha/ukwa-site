@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: Bosses should be allowed to discriminate between Britons and foreigners
-
 None

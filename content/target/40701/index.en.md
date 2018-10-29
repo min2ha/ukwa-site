@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tweets MPs delete (@deletedbyMPs) on Twitter
-
 Publishing updates from https://www.politwoops.co.uk/ of deleted MPs tweets back onto Twitter. 

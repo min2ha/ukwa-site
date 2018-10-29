@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cottingham Road Baptist Church
-
 None

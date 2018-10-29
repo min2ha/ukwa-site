@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-#  1915 then and now 
-
 ‘1915: then and now’ will inspire young people across Swale to be actively involved in making a contemporary art response to the first world war and learning about how it impacted on life in Swale both during 1915 and thereafter

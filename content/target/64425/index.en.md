@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Petition: Amnesty for anyone who was a minor that arrived In Britain between 1948 to 1971
-
 A petition for the government to  give amnesty for the Windrush Generation that came to the UK between 1948 to 1971.

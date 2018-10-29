@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Vote or E4 gets it. And maybe Dave. And Kellogg's cornflakes
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: a third of voters still undecided
-
 None

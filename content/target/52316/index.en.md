@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# #JC4PM
-
 An array of celebrities toured Britain in a musical show dedicated to making Jeremy Corbyn the country's next Prime Minister. 

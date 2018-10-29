@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Rowlinson, Plaid Cymru - Delyn on Facebook
-
 Paul Rowlinson is the Plaid Cymru candidate for Delyn.

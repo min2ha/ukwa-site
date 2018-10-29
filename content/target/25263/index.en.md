@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: George Osborne refuses to answer NHS funding question 18 TIMES in 'disastrous' TV interview
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# James Walker (Leith) Limited
-
 James Walker (Leith) Limited provides engineering and construction services. The company offers timber engineering, property investments, fabricated wood millwork, and residential and commercial investments. 

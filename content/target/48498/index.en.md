@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Islands Government
-
 Falkland Islands Government official website.

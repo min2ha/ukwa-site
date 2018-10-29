@@ -10,5 +10,3 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# St David's Uniting Baptist, Presbyterian and United Reformed Church, Pontypridd
-

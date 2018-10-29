@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'Last call' for deal, Donald Tusk warns UK
-
 The European Council president Donald Tusk, commented at the June EU summit that the "most difficult" issues n the Brexit negotiations were unresolved and "quick progress" was needed if agreement was to be reached by October 2018.
 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Matteo Renzi's referendum defeat risks Italy political crisis
-
 Italian PM Matteo Renzi's referendum defeat on Sunday December 4th 2016 has left Italy facing political and economic uncertainty. This article also considers the implications of the crisis for the EU.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Prospect Union (@ProspectUnion) on Twitter
-
 The union for UK professionals, managers and specialists. 

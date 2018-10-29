@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eventbrite: Look: From Empire Windrush To The Commonwealth & Windrush Scandal 
-
 At this event, history consultant Kwaku in marking African Jubilee Year will address some of the generally held misconceptions surrounding the Empire Windrush’s voyage from the Caribbean to Britain in 1948.

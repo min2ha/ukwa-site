@@ -10,6 +10,4 @@
   "start_date": "2016-09-10T12:00:00Z"
 }
 
-# Bryntirion Press
-
 Bryntirion Press is the publishing arm of the Evangelical Movement of Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Corris Mine Explorers
-
 Corris Explorers provides the opportunity for visitors to visit the Old Braich Goch slate mine in mid Wales, first worked by miners in 1836.

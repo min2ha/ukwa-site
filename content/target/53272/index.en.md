@@ -10,6 +10,4 @@
   "start_date": "2017-05-17T09:00:00Z"
 }
 
-# Paul Masterton (@PM4EastRen) on Twitter
-
 Twitter profile of Paul Masterton, Scottish Conservative and Unionist Party candidate for East Renfrewshire in the 2017 general election.

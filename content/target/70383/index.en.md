@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Workhouse: The Story of an Institution.., The
-
 Historical information and research on workshouses and similar institutions including the Poor Law, architecture, primary sources and a geographical survey of workshouses in the UK.

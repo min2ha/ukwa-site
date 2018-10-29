@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Proper Adventure
-
 Site focusing on adventure as an activity - outdoor pursuits, in remote places.

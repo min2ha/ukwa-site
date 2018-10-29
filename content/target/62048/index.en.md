@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# bet365 Stadium
-
 The bet365 Stadium is an all-seater football stadium in Stoke-on-Trent, Staffordshire, England and the home of Premier League club Stoke City.

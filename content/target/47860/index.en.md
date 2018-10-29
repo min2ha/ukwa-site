@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Guy Verhofstadt warns against 'eternal' interim deal
-
 Any interim deal between the UK and the EU should not be allowed to become "eternal", according to a key figure in the negotiations. Guy Verhofstadt, the European Parliament's chief Brexit negotiator, said any "transitional arrangement" should have a strict time limit.

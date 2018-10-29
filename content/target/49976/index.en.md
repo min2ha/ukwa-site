@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# John Paul Jones Cottage Museum
-
 Site of a museum dedicated to the early United States naval officer John Paul Jones, located in the cottage he in which he was born in Dumfries & Galloway, Scotland.

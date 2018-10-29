@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# My Pledge Her Choice (@MPHerChoice) on Twitter
-
 Join the My Pledge, Her Choice campaign to ensure our elected MPs hear the voice of the pro-choice majority and support women's rights. #MyPledgeHerChoice

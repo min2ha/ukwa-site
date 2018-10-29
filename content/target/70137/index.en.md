@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Roman Catholic Church, Bonnybridge
-
 Site of a Scottish Roman Catholic parish church in Bonnybridge, near Falkirk.

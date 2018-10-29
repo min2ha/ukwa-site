@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Top Tory threatens to quit if David Cameron does post-election deal with Ukip 
-
 None

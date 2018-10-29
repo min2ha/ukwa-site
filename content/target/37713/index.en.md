@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Turkey deal reveals the EU's future - Britain should be desperate to be a part of it
-

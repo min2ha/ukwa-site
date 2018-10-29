@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Ysgol Uwchradd Llanfair ym Muallt | Builth Wells High School
-
 Builth Wells High School under review for closure due to plans to re-organise secondary education in the county of Powys.

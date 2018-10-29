@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Through the Lens of John Thomson
-
 Touring exhibitions featuring prints of China and Southeast Asia by John Thomson, curated from the Wellcome Library's collection of glass negatives.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Recovery Cymru
-
 Recovery Cymru is a mutual-aid support community in Cardiff for people in or seeking recovery from drug and alcohol problems. 

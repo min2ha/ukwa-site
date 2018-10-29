@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage: Ukip would work with Cameron to block Labour-SNP coalition
-
 None

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Bright Green: Nelson Mandela: see the movement he personified as well as the great man
-
 <p>Blog posting of 6 December 2013 by Peter McColl, arguing for the significance of the wider United Democratic Front in bringing an end to apartheid in South Africa, and that greater inclusion of popular movements is needed in South Africa to drive economic and social change.</p>

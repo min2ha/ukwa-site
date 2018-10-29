@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Plymouth Health and Wellbeing Board
-
 None

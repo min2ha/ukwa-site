@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sir Ivan Rogers' letter to staff in full
-
 The UK's ambassador to the European Union, Sir Ivan Rogers, resigned. Here is his message to staff in full. The BBC has highlighted key passages in bold, and added BBC political reporter Justin Parkinson's commentary in italics.

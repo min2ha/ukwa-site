@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Cairn o' Mohr
-
 Site of a fruit wine, cider and non-alcoholic drinks maker located in Errol, Perthshire.

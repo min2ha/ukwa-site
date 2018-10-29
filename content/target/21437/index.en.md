@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Midlothian Greens
-
 Website for the Midlothian Greens, a local branch of the Scottish Green Party.

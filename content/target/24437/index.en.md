@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green Party plans to raise top rate of income tax to 60p
-
 None

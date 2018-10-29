@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Westmonster: Government refuses to discuss ‘Windrush’ migration controversy with Caribbean officials
-
 An article about the migration status of the Windrush generation.

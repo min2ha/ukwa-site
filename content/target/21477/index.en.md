@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Russell Brand is wrong, if young people like me don't vote it just helps the Tories
-
 None

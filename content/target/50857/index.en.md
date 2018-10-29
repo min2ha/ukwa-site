@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Battle of Flowers
-
 Official website for the Jersey Battle of Flowers

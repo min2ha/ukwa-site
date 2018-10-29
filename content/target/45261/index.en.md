@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 05 September 2016: Exiting the European Union
-
 Statement by David Davis, Secretary of State for Exiting the European Union, on the work of his department since the referendum. The department will engage in two broad areas of work: firstly to build consensus within the UK on what Brexit should look like, and secondly to engage with EU member states.

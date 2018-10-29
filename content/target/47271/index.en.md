@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Centre for Policy Studies: The free ports opportunity
-
 EU law has long held back the potential of British ports. In this report, Rishi Sunak MP shows how Brexit would bring an end to this, allowing the introduction of Free Ports across the nation.
  

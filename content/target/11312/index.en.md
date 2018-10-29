@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# What kind of future do you want for Scotland? - The big vote
-
 <p>Supported and promoted by the Scottish Community Alliance, The Big Vote organises local events to discuss what the implications of a 'yes' or 'no' vote in the independence referendum would mean to the community. The website provides information about events held and brief notes of which issues were seen as most important.</p>

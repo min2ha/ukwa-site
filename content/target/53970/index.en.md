@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Just Party, The 
-
 The Just Political Party was established around the time of the EU Referendum and their aim is to be in contention to be in Government within 10 years.  

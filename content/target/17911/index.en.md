@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# This is Durham: Magna Carta
-

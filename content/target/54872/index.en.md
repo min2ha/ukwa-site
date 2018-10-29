@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Celotex 
-
 Celotex offer PIR thermal insulation boards in various thicknesses for new build and refurbishment applications for both the commercial and domestic sectors. The company is owned by French firm Saint-Gobain. It was involved in the Grenfell Tower refurbishment project that took place in 2015-2016. Even though the insulation has high fire safety rating but can still burn.

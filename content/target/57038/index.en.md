@@ -10,5 +10,3 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Gower College Swansea | Coleg Gwyr Abertawe
-

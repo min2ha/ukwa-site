@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Chris Grooms Celtic Guitar
-
 Chris Grooms is a Welsh speaking, classical guitar playing Texan. This is his personal site providing access to many of his downloads.

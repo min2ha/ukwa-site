@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# External Affairs and Additional Legislation Committee (@SeneddEAAL) on Twitter
-
 The External Affairs and Additional Legislation Committee is the Assembly Wales Committee responsible for examining the implications for Wales of the UK’s withdrawal from the EU. 

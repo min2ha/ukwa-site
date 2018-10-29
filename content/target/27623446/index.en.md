@@ -10,6 +10,4 @@
   "start_date": "2009-03-11T00:00:00Z"
 }
 
-# Sandow Plus
-
 Important Bodybuilding books written before,during and after the Sandow era. Some of the leading Bodybuilding, Strength and Health books and courses that followed from the 1900s through to the 1950s and later.

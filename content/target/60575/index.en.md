@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Ness of Brodgar Trust
-
 Site of a trust whose aim is to foster public awareness of the Ness of Brodgar, Orkney and to fund excavation of its Neolothic site into the future.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dem opposition to EU referendum is of very highest importance, says Cable
-
 None

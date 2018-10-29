@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Rowe (@LukeRowe1990) on Twitter
-
 The twitter profile of cyclist Luke Rowe, member of Team Wales for the Glasgow 2014 Commonwealth Games.

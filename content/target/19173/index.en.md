@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Isle of Thanet Gazette: Overseas visitors get tips at event
-

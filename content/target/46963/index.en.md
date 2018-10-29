@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Casglu'r Cadeiriau
-
 It is a tradition in Wales to give chairs to winning bards. This blog provides a brief history to many of these Eisteddfodol bardic chairs.

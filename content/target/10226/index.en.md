@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Andrea Biondi, Labour on Facebook
-
 None

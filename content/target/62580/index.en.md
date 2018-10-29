@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# True FLA- Democratic Football Lads Alliance, The (@TrueFla) on Twitter
-
 Set up in February 2018, The True FLA are a splinter group from the FLA that was established in June 2017. The FLA is a far right racist street movement in which fascists are organising. Despite its claims not to be racist.

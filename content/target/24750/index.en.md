@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robina Rose (Green candidiate for Kensington)
-
 Robina Rose (Green Party Parliamentary Candidate for Kensington.) but was not elected.

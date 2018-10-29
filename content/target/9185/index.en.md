@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanda Lightfoot Biathlete Facebook
-
 None

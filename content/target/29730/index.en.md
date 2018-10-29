@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Wakefield Litfest
-
 Festival organised by Beam for The Orangery and supported by Arts Council England.

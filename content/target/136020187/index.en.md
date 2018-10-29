@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Waltham Forest LINk
-
 None

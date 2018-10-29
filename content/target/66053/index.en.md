@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library:  European Union (Withdrawal) Bill: Summary of Lords Amendments
-
 This House of Lords Library Briefing summarises amendments made to the European Union (Withdrawal) Bill in the House of Lords.

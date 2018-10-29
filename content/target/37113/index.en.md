@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Herald Scotland: Scots want to stay in EU, as the rest of Britain wants to say goodbye, says new poll
-
 The results of a poll suggesting that Scotland wants to stay in the EU while the rest of the UK would like to separate. 

@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Self-injury support
-
 None

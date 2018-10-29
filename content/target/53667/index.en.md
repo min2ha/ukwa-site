@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Medway Green Party's Blog 
-
 Medway Green Party is a local party of The Green Party of England and Wales. We are also a sub-party of Kent Green Party.

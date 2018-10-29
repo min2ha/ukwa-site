@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# The Organisation for Professionals in Regulatory Affairs (TOPRA)
-
 TOPRA is the professional membership organisation for individuals engaged in regulatory affairs for human or veterinary medicines and medical devices across Europe. 

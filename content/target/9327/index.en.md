@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Herald Scotland: Referendum News
-
 <p>News stories and opinion on the referendum on Scottish independence, from the website of the The Herald and Sunday Herald newspapers.</p>

@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Leytonstone Today
-
 This website covers the main town centre area from approximately the Leytonstone High Road Overground station to the edge of the forest at Whipps Cross, which forms the old boundary with Walthamstow.
 
 This site is no longer updated and most material has been transferred to a new site https://leytonstonetoday.net/ 

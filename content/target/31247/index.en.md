@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# John Cleese
-
 Official website of John Cleese, British actor and writer and a founder of the group Monty Python.

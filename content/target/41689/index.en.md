@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Motherwell
-
 Site of the Roman Catholic Diocese of Motherwell, Scotland

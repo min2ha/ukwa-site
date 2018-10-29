@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Citizen, The
-
 <p>Pro-independence blog maintained by Dean Brown. Posts contain visual and moving image campaigns materials.</p>

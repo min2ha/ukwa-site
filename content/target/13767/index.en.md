@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# International Socialist Group: Tommy Sheridan vs Owen Jones
-
 <p>An article by David Jamieson on the debate between Owen Jones and Tommy Sheridan on the BBC's Scotland 2014 programme.</p>

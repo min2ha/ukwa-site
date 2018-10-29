@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Should polling showing a 25 point swing to the SNP be taken seriously?
-
 None

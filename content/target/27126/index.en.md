@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T08:00:00Z"
 }
 
-# Chewing the Cud
-
 Hereford’s old livestock market is the stimulus for a heritage project which brings people together from all over the county to share memories, gain skills, make a film and create a children’s exhibition which celebrates shared agricultural history.

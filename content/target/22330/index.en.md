@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# View from Roger Mullin, The
-
 This is the blog of Roger Mullin, the Scottish National Party (SNP) candidate for Kirkcaldy and Cowdenbeath in the UK General Election on the 7th May 2015.

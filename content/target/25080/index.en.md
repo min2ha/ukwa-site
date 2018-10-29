@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Mega-rich City bankers stump up cash for David Cameron's General Election campaign 
-
 None

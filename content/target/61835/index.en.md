@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mean City Roller Derby on Facebook
-
 Facebook page of a skating roller derby team based in central Glasgow.

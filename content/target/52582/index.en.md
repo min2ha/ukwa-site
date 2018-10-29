@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julie Ireland (@JulieIreland) on Twitter (Liberal Democrats  Politician)
-
 Julie Ireland stood as Liberal Democrat candidate for Beckenham at the 2017 General Election but was not elected.

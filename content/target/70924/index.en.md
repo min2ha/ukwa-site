@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Chappel Beer Festival
-
 CAMRA beer festival located at the East Anglian Railway Museum

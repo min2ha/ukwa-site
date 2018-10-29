@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband hits back at ‘tax-avoiding’ Boots boss
-
 None

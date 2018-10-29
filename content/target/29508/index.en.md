@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Great British Oceans
-
 Great British Oceans is a coalition of conservation and environmental organisations and over 100 conservation experts in calling on the UK Government to protect precious marine environments.

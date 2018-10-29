@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: Magna Carta: The Foundation of Freedom 1215–2015
-

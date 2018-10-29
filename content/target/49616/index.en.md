@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Vonage
-
 Vonage is a UK company that supplies business phone systems.

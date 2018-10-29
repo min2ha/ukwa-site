@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ryan Spencer-Jones - Athlete
-
 <p>The website of shot put thrower Ryan Spencer-Jones, Team Wales for the Glasgow 2014 Commonwealth Games.</p>

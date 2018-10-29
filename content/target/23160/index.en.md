@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# James Matthews (@jamesmatthewsky) on Twitter
-
 Twitter account of James Matthews, Sky News Scotland Bureau Chief.

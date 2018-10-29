@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# The Women's Room
-
 <p>Website of campaigning group aiming to address the under-representation of women on expert panels and in the media.</p>

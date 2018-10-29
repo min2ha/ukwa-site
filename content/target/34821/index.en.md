@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Russian Art and Culture
-
 Russian Art and Culture started out as a blog and is now an online platform for Russian art and culture in the world. It presents reviews and news on Russian art, exhibitions and cultural events in the UK.

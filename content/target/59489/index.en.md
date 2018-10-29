@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Newsbeat (@BBCNewsbeat) on Twitter
-
 Twitter handle for BBC Newsbeat promoting a story on mental health issues 

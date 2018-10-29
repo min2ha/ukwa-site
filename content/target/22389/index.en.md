@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tony Blair's bid to boost Labour election campaign backfires
-
 None

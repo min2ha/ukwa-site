@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham Asbury Methodist Circuit
-
 None

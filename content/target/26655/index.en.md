@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The People’s Republic of Brighton and Hove: Britain’s latest breakaway nation
-
 None

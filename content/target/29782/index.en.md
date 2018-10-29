@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Winchester Poetry Festival
-
 The festival was funded by Arts Council England, The Foyle Foundation, Garrick Charitable Trust, Hampshire County Council, Tramman Trust, Winchester BID and Winchester City Council.

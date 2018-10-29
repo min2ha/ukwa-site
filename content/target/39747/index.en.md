@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# St Austell's Feast Week and the First World War
-
 Project exploring the impact of the First World War on St. Austell. 

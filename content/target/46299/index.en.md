@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Professional Football League
-
 Site of the organisation which runs and organises professional football leagues in Scotland.

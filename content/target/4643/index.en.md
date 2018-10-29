@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Church of Scotland: Death of Nelson Mandela
-
 None

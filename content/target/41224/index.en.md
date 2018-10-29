@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Campbeltown Community Orchard & Garden
-
 Site of a local community initiative to grow food locally and thereby increase awareness of the environment in the area.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Society of Conservative Lawyers
-
 The Stockholm Network was a pan-European think tank and network located in London. In addition to its own policy research, it was an umbrella organisation for market-oriented think tanks in Europe. It had over 130 member organisations.

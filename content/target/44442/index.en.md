@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The : EU referendum morning briefing: Leave threatens £2.4bn bill for Britain 
-
 An article regarding Leave campaigners' claims that remaining in the EU will cost Britain £2.4bn

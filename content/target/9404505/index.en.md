@@ -10,5 +10,3 @@
   "start_date": "2008-07-18T00:00:00Z"
 }
 
-# People Science & Policy
-

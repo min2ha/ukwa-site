@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Nia Edwards-Behi
-
 Nia Edwards-Behi is a film scholar, writer, programmer and co-director of the annual Abertoir Horror Festival. 

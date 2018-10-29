@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jon Ball (Liberal Democrat candidate for Ealing Central and Acton) (@JonBall) on Twitter
-

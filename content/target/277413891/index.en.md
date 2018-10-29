@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Early Days of a Better Nation 
-
 Blog run by Kenneth Macrae "Ken" MacLeod, a Scottish science fiction writer.

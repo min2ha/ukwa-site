@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Eluned Morgan (@wgmin_LifeIaith) on Twitter 
-
 This is the official channel of the Minister for Lifelong Learning and Welsh Language at the Welsh Government.

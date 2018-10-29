@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Social Media Surgery (SocMedSurgery)  on Twitter
-
 Social Media Surgery offers help on a response to the baton relay reaching Dundee.

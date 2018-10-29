@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Donald Trump and Britain’s Brexiteers have more in common than you might think
-
 Argues that almost all politicians accept certain rules of the game and the rule of law – such as the independence of the judiciary and the inviolability of election results – but not so Trump and his Brexiteer friends

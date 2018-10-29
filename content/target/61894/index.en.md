@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Helmsdale Church of Scotland, Parish of Kildonan & Loth
-
 Site of a Church of Scotland parish church at Helmsdale, Highlands (historically Sutherland).

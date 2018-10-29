@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# UK Parliament (@UKParliament) on Twitter
-
 Keeping an eye on government, debating laws, approving taxes. This official Twitter feed is produced by the Digital Service in Parliament.

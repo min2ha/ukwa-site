@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Staffordshire Police & Crime Commissioner
-
 None

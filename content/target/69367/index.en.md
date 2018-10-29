@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Dukosi
-
 Dukosi is a company specialising in lithium batteries, electronic engineering, integrated circuit design and embedded software.

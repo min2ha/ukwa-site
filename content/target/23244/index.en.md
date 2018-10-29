@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jane Dodds (@DoddsJane) on Twitter 
-
 Jane Dodds is the Liberal Democrat candidate for Montgomeryshire at the 2016 National Assembly Elections and the 2017 General Election.

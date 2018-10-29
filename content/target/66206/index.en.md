@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Norwich gaming festival
-
 Website for the Norwich gaming festival

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Slugger O'Toole: The Brexit debate showed how for once, it’s not really about us.
-
 Article by Brian Walker

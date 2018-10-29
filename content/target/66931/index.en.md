@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Linden Porter – Relationship Coach
-
 A powerful alternative to traditional marriage counselling with proven results. Future focused Strategic Coaching. Fast, Solution-based Marriage Counselling with proven results.

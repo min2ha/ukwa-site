@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Ness 888
-
 Site of a masonic lodge located in Invergordon, Easter Ross, Highland and affiliated with the Grand Lodge of Scotland.

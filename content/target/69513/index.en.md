@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Retail Consortium
-
 The BRC leads the industry and works with its members to tell the story of retail, shape debates and influence issues and opportunities which will help make that positive difference. It cares about the careers of people who work in our industry, the communities retail touches and competitiveness as a fundamental principle of the industry’s success.

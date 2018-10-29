@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK's 'no-deal' Brexit plans warn of credit card fees
-
 Reports on the guidance to businesses and citizens issued by the government on coping with a no deal Brexit.The guidance included instructions for businesses who could face extra paperwork at borders and contingency plans to avoid medicine shortages. Britons visiting the EU could also face extra credit card charges.
 
 

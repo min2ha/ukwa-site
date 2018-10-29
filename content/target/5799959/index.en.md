@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Gypsy Roma Traveller Leeds
-
 None

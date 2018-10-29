@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Arweiniad Sustrans Cymru i’r Maniffestos ar gyfer 2016
-

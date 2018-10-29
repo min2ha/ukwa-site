@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Retro Computers
-
 Website dedicated to historical computers, particularly Spectrum ZX Vega.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# British Ceramic Confederation 
-
 The British Ceramic Confederation represents the collective interests of all sectors of the UK ceramics industry. BCC safeguards the industry's prosperity, acting on its behalf in discussions and negotiations with government and regulators.

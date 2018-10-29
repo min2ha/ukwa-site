@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Apex Hotels Limited
-
 Apex Hotels Limited owns and operates a chain of hotels throughout the United Kingdom. 

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tony Salkeld (@silurian_reiver) on Twitter (Plaid Cymru candidate for Newport East) 
-
 Tony Salkeld is the Plaid Cymru candidate for Newport East at the 2016 National Assembly Elections.

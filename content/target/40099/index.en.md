@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Aled Morgan Hughes on Facebook (Plaid Cymru candidate for Mongomeryshire)
-
 Aled Morgan Hughes is the Plaid Cymru candidate for Montgomeryshire at the 2016 National Assembly Election. 

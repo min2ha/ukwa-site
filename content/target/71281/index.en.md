@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Plympton Victoria RFC on Pitchero
-
 The official website of Plympton Victoria Rugby Football Club.

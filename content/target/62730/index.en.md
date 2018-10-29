@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Haughfoot Lodge No. 1824
-
 Site of a masonic lodge located in Stow, Scottish Borders and affiliated with the Grand Lodge of Scotland.

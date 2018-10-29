@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Grant awarded to Faversham celebrations of Magna Carta
-

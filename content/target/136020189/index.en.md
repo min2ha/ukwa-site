@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tower Hamlets LINk
-
 None

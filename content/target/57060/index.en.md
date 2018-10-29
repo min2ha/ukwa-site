@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 5th September 2017: EU Exit Negotiations
-
 David Davis updates the House on the two rounds of negotiations with the European Union which took place in July and August 2017

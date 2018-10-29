@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints’ Putney
-
 All Saints’ Church is a Church of England church in the ‘liberal Catholic Anglican tradition’, welcoming people of all Christian traditions and backgrounds.

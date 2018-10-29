@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Amersham & Chiltern RFC
-

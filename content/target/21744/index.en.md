@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory candidate suspended for allegedly colluding with EDL for election votes
-
 None

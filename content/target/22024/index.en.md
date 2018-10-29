@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachel Maclean (Conservative)
-
 Rachel Maclean stood as Conservative candidate for Birmingham, Northfield at the 2015 General Election but was not elected.

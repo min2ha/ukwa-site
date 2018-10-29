@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas Apostle RC Church Neilston
-
 Site of a Scottish Roman Catholic parish church located in Neilston, Glasgow.

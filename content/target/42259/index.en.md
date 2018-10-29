@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# START - Somers Town Art 
-
 START, or Somers Town and St Pancras Art, is a voluntary group that organises an annual street arts festival, Somers Town Festival, and cultural and arts events throughout the year.

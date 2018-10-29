@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Carbon Brief: Election 2017: What the manifestos say on energy and climate change
-

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Meet the doppelgangers who are total strangers but look like identical twins
-

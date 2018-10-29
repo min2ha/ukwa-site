@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Danny Crockford SEO, Digital Marketing and Social Media Professional
-
 Blog containing SEO advice, hints and tips.

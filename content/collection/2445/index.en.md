@@ -639,6 +639,4 @@
   "endDateText": ""
 }
 
-# Mental Health
-
 A collection of websites curated by staff at the Wellcome Library in London in between 2005 and 2013. The collection includes websites addressing issues of mental health and its effects as well as support and research organisations.

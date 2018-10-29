@@ -11,6 +11,4 @@
   "subject": "Crimean War"
 }
 
-# Crimean Texts
-
 None

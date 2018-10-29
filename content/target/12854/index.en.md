@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Comar
-
 <p>Comar is an Isle of Mull arts venue.  The website includes information about the “The Pokey Hat” an event for families at Comar in July 2014 as part of Culture 2014.</p>

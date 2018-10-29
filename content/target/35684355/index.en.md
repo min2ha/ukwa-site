@@ -10,6 +10,4 @@
   "start_date": "2010-02-17T00:00:00Z"
 }
 
-# Sleep Apnoea Trust
-
 The Sleep Apnoea Trust Association (SATA) exists to improve the lives of sleep apnoea patients, their partners and their families.

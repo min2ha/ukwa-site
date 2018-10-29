@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: PM's 'brilliant' EU deal isn't all it's cracked up to be, blasts PETER HILL
-
 Column by Peter Hill

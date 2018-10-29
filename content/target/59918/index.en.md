@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Hywel John
-
 Hywel John is a Welsh playwright and actor born in Pembrokeshire.

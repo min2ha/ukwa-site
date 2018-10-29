@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Ulster Fry, The: Top Ten tackiest Easter Rising souvenirs
-

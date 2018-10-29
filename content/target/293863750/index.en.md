@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dai Havard MP Merthyr Tydfil and Rhymney
-

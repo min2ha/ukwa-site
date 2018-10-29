@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Olive Heffernan (@O_Heffernan) on Twitter
-
 Tweeter feed of freelance science writer, Olive Heffernan

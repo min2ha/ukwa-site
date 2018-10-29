@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Adam Hurrey (@FootballCliches) on Twitter
-
 Adam Hurrey is a Freelance football writer and the author of the Football Clichés website and subsequent book. (http://angleofpostandbar.blogspot.co.uk/) 

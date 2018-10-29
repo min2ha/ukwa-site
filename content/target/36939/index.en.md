@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: EU Referendum: summary and analysis of the new Settlement for the UK in the EU
-
 This Commons Library briefing looks at the new Settlement for the United Kingdom within the European Union agreed at the European Council on 17-19 February 2016. The Settlement consists of seven texts: a Decision and a Statement of Heads of State or Government and five Declarations.

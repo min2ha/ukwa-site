@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Prospect: General Election 2015 
-
 Prospect's members are engineers, scientists, managers and specialists in areas as diverse as agriculture, defence, education and children's services, energy, environment, heritage, shipbuilding, telecoms and transport. They are the largest union in the UK representing professional engineers. This was a temporary blog site set up for general Election 2015.

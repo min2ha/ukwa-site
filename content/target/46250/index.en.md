@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC: What do we know about Brexit?
-
 A summary of what is known to date about the UK leaving the EU.

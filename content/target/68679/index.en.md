@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Something Wild Trail Running Festival
-
  family friendly trail running event at Dartmoor National Park

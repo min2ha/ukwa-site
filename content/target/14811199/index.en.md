@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Leaders We Deserve
-
 None

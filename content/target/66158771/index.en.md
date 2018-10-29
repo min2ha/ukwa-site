@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Tennyson Society, The
-
 None

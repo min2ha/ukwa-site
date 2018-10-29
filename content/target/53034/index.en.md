@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Huffington Post: Politics
-
 The politics section of the Huffington Post UK website.

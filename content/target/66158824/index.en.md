@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Derry City Council
-
 None

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Cabinet unease over open-ended customs union
-
 Reports that there were signs that the UK was considering whether to stay in an a customs union with the EU for good, if a wider trade deal couldn't be done.
 

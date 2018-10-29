@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: France's Michel Barnier made European negotiator with UK
-
 Former French Foreign Minister Michel Barnier has been appointed by the European Commission to negotiate with Britain over Brexit.

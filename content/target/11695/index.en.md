@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Houston (runner_ross) on Twitter
-
 <p>The twitter profile of althete Ross Houston, marathon runner and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

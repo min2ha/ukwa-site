@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Will the Queen 'take control' if election creates a stalemate?
-
 None

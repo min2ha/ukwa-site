@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# TheWalkingLibrarian (@Zone1Librarian) on Twitter
-
 Librarian & antiquarian bookseller who enjoys walking around London, and beyond.

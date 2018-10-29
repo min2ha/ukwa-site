@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 1st Dec. 2016: Oral Answers to Questions: Exiting the European Union
-
 David Davis, Secretary of State for Exiting the European Union, answers questions on Brexit.

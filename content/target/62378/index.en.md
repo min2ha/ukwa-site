@@ -10,6 +10,4 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-#  HKEM Church
-
 Site of a group of Church of Scotland churches covering the communities of Hoddom, Kirtle-Eaglesfield and Middlebie, Dumfries and Galloway.

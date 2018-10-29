@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Findhorn Foundation
-
 Site of a community based in Findhorn, Moray, Scotland, promoting self-knowledge, peace, cooperation with nature and sustainability.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Loch Ness Brewery
-
 Site of a brewer located at Aviemore, Highland.

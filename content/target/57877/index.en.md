@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Katie Forbes MSP on Twitter
-
 The twitter profile of Katie Forbes, MSP for Skye, Lochaber and Badenoch.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  May torpedoed draft Brexit deal after the EU demanded a SECOND backstop for Irish border - amid warnings no-deal plans must be triggered within WEEKS to avoid the UK being crippled by crashing out
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nesta: General Election 2017: What's in the manifestos?
-
 This blog features analysis from the University of Sheffield using the Political Futures Tracker, a text analysis tool that was first developed for the 2015 Election. The researchers use ground breaking Natural Language Processing methods to delve into these daunting documents and clearly outline the big issues they discuss.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Stop your whingeing: why the Left are such bad losers
-
 None

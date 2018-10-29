@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Philip Charles Parker inkworks paintworks and portraits
-
 Philip Charles Parker is an artist from Ruthin who mianly paints portraits.

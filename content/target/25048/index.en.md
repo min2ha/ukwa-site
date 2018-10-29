@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Miliband has 'lost the plot' if he won't work with me, says Sturgeon as Labour split emerges over talking to the SNP
-
 None

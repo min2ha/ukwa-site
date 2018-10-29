@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: How big tech finally awakened to the horror of its own inventions
-
 News article about the number of former workers in the tech industry and social media business who have criticised the effect their creations are having on the public.

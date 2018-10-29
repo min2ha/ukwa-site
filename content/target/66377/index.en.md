@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# John Maclean & Sons Electrical (Dingwall) Limited
-
 John Maclean & Sons Electrical (Dingwall) Limited - trading as MacLean Electrical Group - is a supplier of electrical equipment for hazardous area applications, serving oil, gas, petrochemical, marine, pharmaceutical, and process industries. The company is headquartered in Dingwall, and in March 2015 the group was acquired by US-based company DistributionNOW.

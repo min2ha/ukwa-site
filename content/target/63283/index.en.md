@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# iNews: Stephen Hawking
-
 UK and international news, politics, business, sport, comment, lifestyle and culture from i, Britain's first and only concise quality. These are the articles related to Stephen Hawking.

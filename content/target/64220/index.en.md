@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew’s Scots Memorial Church
-
 The website of St. Andrew’s Scots Memorial Church, Jerusalem.

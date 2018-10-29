@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Edensor
-
 St. Peter's, the Parish Church of Edensor & Pilsley. Located in the heart of the Peak District, and within the estate of Chatsworth this 19th Century church boasts more than just a stunning location.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Graeme Brooks (@GraemeAB) on Twitter
-
 The Twitter profile of Graeme Brooks, Scottish Conservative and Unionist candidate for Greenock and Inverclyde in the 2016 Scottish Parliament election.

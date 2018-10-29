@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Episcopal Church
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kirkcaldy, Fife, with its associated church, St. Mary & St. Leonard, Kinghorn.

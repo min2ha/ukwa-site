@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# NIssan to build new models in Sunderland
-
 Nissan confirmed it would build both the new Qashqai and the X-Trail SUV at its Sunderland plant following government "support and assurances".

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Chantry Farm
-
 Chantry Farm is a campsite in the South East of England, consisting of 54 acres on the South Downs. They promote walks in the country to see skylarks, sheep and other guests. The campers help fund the farm restoration. Chantry dates back to 1350. Campers also help fund Chantry Farm to undertake small scale local food production.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Flower Factory Field
-
 An educational project involving local young people exploring the history and the connection between the ceramic industry and the involvement of women workers during the First World War. 

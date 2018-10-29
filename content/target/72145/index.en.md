@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hertford RFC
-
 The official website of Hertford Rugby Union Football Club.

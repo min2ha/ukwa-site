@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: GPs are exhausted, A&E is overrun and hospitals are broke. What went wrong?
-
 None

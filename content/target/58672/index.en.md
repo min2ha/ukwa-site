@@ -10,8 +10,6 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# L&D Training 
-
 L&D Training offer training courses for workplaces that deal with the following issues: 
 Sexual assault
 Consent

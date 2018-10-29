@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Politics was once about beliefs and society. Now it's a worship of money
-

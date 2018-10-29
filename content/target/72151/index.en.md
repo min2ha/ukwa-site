@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip's and St. James' Edinburgh
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Goldenacre and Logie Green, Edinburgh, namely St. Philip's and St. James’ respectively.

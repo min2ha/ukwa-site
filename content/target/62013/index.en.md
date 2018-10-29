@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Dublin casts doubt on UK's latest NI border plan
-
 Theresa May said in her Mansion House speech that 80% of firms would face no new customs checks between Northern Ireland and the Irish Republic and others would be simplified. But Irish Foreign Minister Simon Coveney said he was not sure it would adequately protect the EU's market.
 
 

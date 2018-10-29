@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Home Office in the Media: Immigration Minister: Immigration status of the Windrush generation
-
 A press release from the Immigration Minister who was quoted in an article from the Voice on the immigration status of the Windrush generation.

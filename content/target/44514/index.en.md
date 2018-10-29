@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Youth Council: 1.5 million young people blocked from voting in the EU Referendum
-
 article on the voting rights of young people under 18 and how it was significant in the EU Referendum

@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Brangwyn Hall
-
 The Brangwyn Hall is a principal cultural location in Swansea and is regularly used for weddings, functions, award ceremonies, events and concerts.

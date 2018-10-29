@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Bishops vow to take on ‘sex appeal’ of Russell Brand’s ‘don’t vote’ message
-
 None

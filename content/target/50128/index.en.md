@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bargeddie Church
-
 The website of Bargeddie Church of Scotland. 

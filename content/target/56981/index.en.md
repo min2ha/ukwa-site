@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# John Somerville Collection
-
 Site of a collection of speedway photography covering the history of the sport in the United Kingdom, but particularly Scotland.

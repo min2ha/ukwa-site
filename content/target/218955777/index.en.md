@@ -10,6 +10,4 @@
   "start_date": "2014-01-07T18:00:00Z"
 }
 
-# Landscape Group - Laserjet HP Managed Print Solutions specialist and Factory Outlet Shop
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Anderson (@john_anders0n) on Twitter
-
 Twitter profile of John Anderson, Scottish Conservative and Unionist candidate for Glasgow Maryhill and Springburn in the 2016 Scottish Parliament election.

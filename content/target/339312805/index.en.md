@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Amgylchedd.com: Rhwydwaith er hybu'r Gymraeg yn y maes amgylcheddol
-
 A network established in order to discuss environmental matters through the medium of Welsh.

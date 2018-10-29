@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LocalGov: Brexit could cost Cornwall ‘hundreds of millions’, councillor says
-
 Council warns it could lose out on ‘hundreds of millions of pounds’ in the event of a Brexit, despite Government assurances lost EU funding would be covered.

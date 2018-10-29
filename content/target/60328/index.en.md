@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welwyn Hatfield Times: Welwyn Hatfield MP launches Online Suicide Prevention report in Parliament
-
 News article about a report launch by an MP called 'Online Suicide Prevention: A Pro-active Strategy for Government and the Internet Industry', it is the product of a two-year research programme.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradley Monk (UKIP) 
-
 Bradley Monk stood as UKIP candidate for Cornwall South East at the 2015 General Election but was not elected.

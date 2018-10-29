@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cllr Joel James (Conservative candidate for Pontypridd)
-
 Joel James is the Conservative candidate for North Wales at the 2016 National Assembly Elections. 

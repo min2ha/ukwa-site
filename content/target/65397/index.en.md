@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Julie Brunskill - Ceramics
-
 Julie Brunskill is a ceramist who uses materials and techniques to explore and address her feelings about climate change and the loss of green space within the urban environment. She moved to Wales in 1983 and had a studio in Swansea's Maritime Quarter in 1986 until 2005. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'Dear Harry... '- Henry Moseley: A Scientist Lost to War, Museum of the History of Science
-
 Henry ‘Harry’ Moseley was an exceptionally promising young English physicist in the years immediately before World War I. His work on the X-ray spectra of the elements provided a new foundation for the Periodic Table and contributed to the development of the nuclear model of the atom. Yet Moseley’s life and career were cut short when he was killed in 1915, aged 27, in action at Gallipoli, Turkey.

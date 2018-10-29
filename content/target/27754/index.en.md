@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Charlston Literary Festival will be a cultural mine
-

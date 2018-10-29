@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Science and Technology Committee: A time for boldness: report
-
 The Prime Minister, the Rt Hon Theresa May MP, has stated clearly that she wants a positive outcome for science1 as the UK leaves the EU. With a view to helping her to achieve this ambition, this report sets out key actions to ensure that UK science continues to flourish.
 

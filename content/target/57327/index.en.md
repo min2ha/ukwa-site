@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Northern Ireland Assembly: Possible models for the UK-EU relationship post ‘Brexit’
-
 NIA Research and Information Service Briefing Paper on potential relationship models open to the UK and EU post-Brexit.

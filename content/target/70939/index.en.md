@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Towersey festival.
-
 Website for the Towersey music festival.

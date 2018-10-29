@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland Writers FC | a stramash in the goalmouth of literature
-
 The Scotland Writers Football Club was established in 2011 by writers Allan Wilson and Doug Johnstone and the managing director of Cargo Publishing, Mark Buckland.

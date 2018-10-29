@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  We can't let Brexit get lost in transition
-
 Argues that, while the Conservatives are busy fighting each other, the Eurocrats and the embittered Remoaner saboteurs are making hay. Those determined to derail Brexit can smell weakness.

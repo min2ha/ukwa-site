@@ -10,7 +10,5 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Newbridge Memo
-
 Celynen Collieries Institute & Memorial (known as Newbridge Memo) are Grade II and Grade II* listed buildings in Newbridge and has recently re-opened as a 
 a community hub.

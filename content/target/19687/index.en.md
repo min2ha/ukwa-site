@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T01:00:00Z"
 }
 
-# Storify: Archiving Community Storytelling: Challenges and Opportunities: - Archive of social media & event content #digarchive
-
 A storify recording the event "Archiving Community Storytelling: Challenges and Opportunities" held at the University of the West of Scotland on the 13th March 2015.

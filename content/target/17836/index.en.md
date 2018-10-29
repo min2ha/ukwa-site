@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories are edging ahead as Ed holds Labour back
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cove Rangers Football Club
-
 Site of a Scottish football club based in Aberdeen, Scotland.

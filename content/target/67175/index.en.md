@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Chem19 Recording Studio
-
 Website of a recording studio in Glasow, Scotland that is run by the Chemikal Underground record label. 

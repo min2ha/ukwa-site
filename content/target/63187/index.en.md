@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Vote Leave: Activist to give MPs evidence of 'rule breaking'
-
 The Brexit activist who accused the Vote Leave campaign of exceeding legal spending limits said his claims would be backed up by evidence presented to MPs at a news conference in London.

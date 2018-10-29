@@ -10,5 +10,3 @@
   "start_date": "2016-10-14T11:00:00Z"
 }
 
-# Bòrd na Gàidhlig on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Brentwood Weekly News
-
 None

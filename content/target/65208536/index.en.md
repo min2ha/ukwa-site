@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Joeyanne Libraryanne - Librarianship in the modern age
-

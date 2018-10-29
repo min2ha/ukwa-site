@@ -11,6 +11,4 @@
   "subject": "London Terrorist Attack 7th July 2005"
 }
 
-# Chatham House
-
 Chatham House, the Royal Institute of International Affairs, is an independent policy institute based in London. 

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Feminist and Women's Studies Association (FWSA)
-
 None

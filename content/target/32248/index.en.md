@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Partick Thistle History Archive
-
 A site containing historical information about Partick Thistle Football Club, compiled by volunteers.

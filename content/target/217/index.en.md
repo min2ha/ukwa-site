@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University College London Hospitals
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Treasury Committee:  Transitional arrangements for Exiting the European Union
-
 The Committee supports a time-limited ‘standstill’ transition arrangement after the Article 50 negotiations conclude, and welcomes the broad alignment between the UK and EU27 on this issue.  It agrees with the Chancellor that transitional arrangements are “a wasting asset”. They should be sufficiently simple to negotiate within a matter of weeks, to provide early certainty from 30 March 2019, and to maximise the time available for subsequent discussion on the future framework for trade.

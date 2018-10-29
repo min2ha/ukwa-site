@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sussex Wildlife Trust: EU referendum
-
 An article concerning the position of the Sussex Wildlife trust within context of the EU referendum.

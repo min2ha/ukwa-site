@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tim Hallam (@Tim_Hallam) on Twitter (Liberal Democrats Politician)
-
 Tim Hallam stood as Liberal Democrat for Broxtrow in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Barvas Church of Scotland
-
 Facebook page of a Church of Scotland parish church at Barvas, the Isle of Lewis.

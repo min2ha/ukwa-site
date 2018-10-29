@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research North:Brexit North: Securing a united voice at the negotiating table
-
 Argues that we need a Northern Brexit Negotiating Committee to consider and advocate for the type of Brexit that the north of England needs, just as other parts of the country will. This paper discusses the pressing issues and questions that this committee will need to address

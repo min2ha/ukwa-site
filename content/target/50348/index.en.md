@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Darvel Juniors Football Club
-
 Site for a Scottish junior football club based in Darvel, Ayrshire.

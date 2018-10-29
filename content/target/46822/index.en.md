@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Relx Plc
-
 Relx plc is a multinational information and analytics company, it operates in four market segments: scientific, technical and medical; risk and business analytics; legal; and exhibitions. The company operates in 40 countries and serves customers in over 180 nations.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gwyl Lyfrau Caerdydd | Cardiff Book Festival
-

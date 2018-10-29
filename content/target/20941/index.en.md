@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter McColl on Facebook
-
 This is the Facebook page of Peter McColl, the Scottish Green Party candidate for Edinburgh East in the UK General Election on the 7th May 2015.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: May gets down to business on Brexit 
-
 Theresa May's Mansion House on March 2nd 2018 speech was another key milestone in the Brexit process and for once business leaders did not leave totally disappointed.
 

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Nesta
-
 Nesta is an innovation charity with a mission to help people and organisations bring great ideas to life. 

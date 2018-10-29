@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Get it Loud in Libraries
-
 Get It Loud In Libraries is a unique award-winning project designed to give people who love music, the chance to see top-notch artists in their local library. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Dr Jo (Joanna) Skelt (1968-2018)
-
 University of Birgmingham obituary page

@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Meredydd Barker
-
 Meredydd Barker is a Welsh playwright. This is her blog from 2014.

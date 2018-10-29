@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How Green party surge threatens Labour's election hopes
-
 None

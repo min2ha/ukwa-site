@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Let's Stay Together
-
 None

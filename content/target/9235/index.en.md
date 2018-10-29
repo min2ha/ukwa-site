@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roski: Rowan Cheshire Freestyle Skier
-
 None

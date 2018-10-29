@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Scottish Civic Trust
-
 Site of an organisation promoting education on environment issues, contributing to planning, encouraging best practice in new building, building conservation and improvement of Scottish townscapes.

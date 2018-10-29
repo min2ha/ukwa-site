@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Coursera: The Magna Carta and its Legacy
-

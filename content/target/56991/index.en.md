@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maternal Mental Health Alliance (@MMHAlliance) on Twitter
-
 Twitter profile for The MMHA (Maternal Mental Health Alliance) a UK coalition improving the mental health of women & their children in pregnancy & the 1st postnatal year

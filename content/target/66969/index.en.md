@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Operative Lodge of Airdrie 203
-
 Site of a masonic lodge located in Airdrie, Lanarkshire and affiliated with the Grand Lodge of Scotland.

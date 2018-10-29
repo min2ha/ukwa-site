@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inspire
-
 <p>Inspire supports libraries in working together to improve access to information and learning for all. Inspire libraries include public, higher education and national libraries plus further education libraries, health related libraries and a wide range of specialist libraries.</p>

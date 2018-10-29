@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: A Budget for Brexit: Hammond lays the groundwork for our EU divorce with major education shake-up and social care funding boost - but will raise taxes instead of splashing the cash   
-

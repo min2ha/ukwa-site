@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Two of Cunard’s ‘Three Queens’ to display facsimile of Magna Carta
-

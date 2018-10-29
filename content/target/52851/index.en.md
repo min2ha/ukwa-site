@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cultural Learning Alliance: General Election Manifesto for Arts and Cultural Learning	
-
 A strong arts education is the key	to diversifying our workforce, tackling social inequality and giving young people the skills they need to innovate and to contribute to the global economy. 	

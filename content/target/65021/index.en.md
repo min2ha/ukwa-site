@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# RI Team
-
 Big Data Analytics & Decision Science, we understand our clients' trading issues and build a team capable of solving any problem, to unlock the potential of data.

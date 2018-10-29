@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# East Berkshire Green Party
-
 Website of East Berkshire Green Party, providing information on campaigns, events, how to get involved and local and national news updates.

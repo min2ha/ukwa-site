@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Friends of Cardigan Bay
-
 Friends of Cardigan Bay is an environmental conservation organisation in Aberystwyth. The group riase awareness for conservation in Cardigan Bay through scientific research and community involvement.

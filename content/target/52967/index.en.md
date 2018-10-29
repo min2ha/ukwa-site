@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Laura Dover (@Laura4KandL) on Twitter
-
 Twitter profile of Laura Dover, Scottish Labour candidate for Kilmarnock and Loudoun in the 2017 general election.

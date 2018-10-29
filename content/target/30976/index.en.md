@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Josh Widdicombe
-
 Official website of an actor and comedian Josh Widdicombe.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Neil Wilson (@neil4ebelfast) on Twitter (Conservative and Unionist Party candidate for Belfast East)
-

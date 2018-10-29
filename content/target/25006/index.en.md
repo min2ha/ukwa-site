@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Dawn Butler returns to parliament with landslide victory
-
 None

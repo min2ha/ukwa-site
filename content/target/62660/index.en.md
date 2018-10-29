@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Liberton Northfield Church
-
 Site of a Church of Scotland parish church at Liberton, south Edinburgh.

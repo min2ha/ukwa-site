@@ -10,5 +10,3 @@
   "start_date": "2012-12-11T00:00:00Z"
 }
 
-# Track OER: Tracking Open Educational Resources
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: How poll tracker works
-
 This page describes how the BBC News poll tracker works and what the margins of errors are.

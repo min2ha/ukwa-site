@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Nova: Biennial Welsh Arts Prize
-
 Nova is a biennial arts prize open for all Welsh visual artists aged thirty-five or under. Nova is an RCA project funded by Arts Council of Wales. Originating 

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Nottingham: Vice-Chancellor pays tribute to Nelson Mandela
-
 None

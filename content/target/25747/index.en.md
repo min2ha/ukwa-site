@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ‘Black people are saying, Where are our leaders? Who are we voting for?’
-
 None

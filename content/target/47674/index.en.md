@@ -10,6 +10,4 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Fiction Factory Films
-
 Fiction Factory has been part of the Tinopolis Group and is based in Cardiff. It is one of the UK’s leading independent media companies for Film and TV.

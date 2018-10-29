@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Workers Party Northern Ireland
-
  The Workers Party is socialist, secular and anti-sectarian.
 The Party is a progressive and radical force at home with a
 strong and developed sense of internationalism and allies

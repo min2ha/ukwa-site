@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband is hardly the only politician who's never had a 'proper job'
-
 None

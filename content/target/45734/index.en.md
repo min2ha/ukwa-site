@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Fight for Peace
-
 Fight for Peace uses boxing and martial arts combined with education and personal development to realise the potential of young people.

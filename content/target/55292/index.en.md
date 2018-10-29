@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# St Athan FC
-

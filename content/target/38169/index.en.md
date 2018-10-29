@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Respect GO (@Respect4go) on Twitter
-
 Group campaigning for the UK to leave the EU

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clive Jones (@CliveJonesPPC) on Twitter (Liberal Democrats candidate for Wokingham)
-
 Clive Jones stood as Liberal Democrats candidate for Wokingham at the 2015 General Election but was not elected. 

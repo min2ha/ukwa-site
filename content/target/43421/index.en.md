@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Surrey Politics (@SurreyPolitics) on Twitter
-
 Department of Politics, @UniofSurrey. We research, teach & tweet on UK, European & International Politics.

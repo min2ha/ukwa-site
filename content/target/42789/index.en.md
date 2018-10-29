@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Protect Our Wild Animals
-
 Protect Our Wild Animals was formed in 1998 by former staff of the League Against Cruel Sports to monitor hunts and work to prevent harm to wildlife from hunting with dogs for 'sport'

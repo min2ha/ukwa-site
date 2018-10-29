@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Elmore on Facebook
-
 Chris Elmore is standing to be the Labour MP for the Vale of Glamorgan.

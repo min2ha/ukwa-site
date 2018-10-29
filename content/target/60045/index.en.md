@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dundee High Rugby
-
 Site of a Scottish rugby union football club based in Dundee, with historic links to Dundee High School.

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Songololo Feet Community Textile Printing Project
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Michel Barnier: Who is the new EU Brexit negotiator labelled 'no friend of the City'?
-
 Former Lib Dem leader Nick Clegg says Michel Barnier – dubbed 'le cretin des Alpes' by French critics – is likely to 'drive a very hard bargain indeed'

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Laura Love Scottish National Party candidate for Falkirk
-
 None

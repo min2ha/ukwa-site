@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Rehab 4 Addiction
-
 Rehab 4 Addiction provides help for those seeking addiction treatment. 

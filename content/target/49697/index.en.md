@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Carnegie Youth Theatre
-
 Site of an amateur youth musical theatre group based in Dunfermline, Fife.

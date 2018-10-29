@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of School and College Leaders: Election 2015
-
 The Association of School and College Leaders (ASCL) is a professional body representing more than 18,000 school, college and system leaders across the UK.

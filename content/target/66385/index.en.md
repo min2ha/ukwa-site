@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Design Interactions Show 2009 
-
 Design Interactions Show 2009 

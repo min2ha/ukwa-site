@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Which business figures support Labour? Erm, Bill Somebody, says Ed Balls
-
 None

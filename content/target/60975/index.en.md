@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# St Gabriels Hurling Club - London
-
 The St Gabriel's Hurling Club in London was founded in Kensal Green, London in  1961 and has had a glorious and illustrious 56 years history.
 
 Over the past 57 years the club has had a huge impact on the London GAA landscape with players and officers representing London, and also by promoting the ideals of the Gaelic Athletic Association in the UK capital. The club crest sports the following slogan ‘Ag Couthú Na hIomána o 1961', meaning ‘Promoting Hurling since 1961'.

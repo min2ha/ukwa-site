@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Coalition and minority governments are not so unusual in UK elections
-
 None

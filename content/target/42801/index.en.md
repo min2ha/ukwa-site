@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Solidarity with Refugees
-
 Campaign following on from UK demonstration in solidarity with refugees (London, September 12th 2015) for a 'fair and humane' UK response to the current refugee crisis.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian James Johnson (@ianjamesjohnson) on Twitter 
-
 Plaid Cymru candidate for the Vale of Glamorgan at the 2015 and 2017 General Election and 2016 National Assembly for Wales Election.

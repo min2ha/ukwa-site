@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Fly Cardiff
-
 Fly Cardiff is a passenger focus group for Cardiff Airport.

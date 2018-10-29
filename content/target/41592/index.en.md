@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Northowram.org
-
 Information on on life in Northowram village.

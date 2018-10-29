@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Glynneath Rugby Football Club
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Rajasthan Medical Association UK
-
 Rajasthan Medical Association establishs fraternities and exchange social and cultural activities in the United Kingdom. 

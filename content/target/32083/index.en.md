@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# caistor.net
-
 Current and historical information about Caistor in Lincolnshire.

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Albemarle Gallery
-
 <p>Art gallery displaying and selling UK and international art, including paintings and sculpture.</p>

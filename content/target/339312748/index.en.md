@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Revolution 1916 
-
 This is the website for ‘Revolution 1916’ an exhibition to commemorate the centenary year of the 1916 Rising. It is owned and produced by Ireland 1916 Commemorations Ltd a not for profit company set up to operate Sinn Féin’s 1916 Centenary programme.

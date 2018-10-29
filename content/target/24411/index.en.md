@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: From dumping the tampon tax to lifting the smoking ban: our guide to Ukip’s general election manifesto
-
 None

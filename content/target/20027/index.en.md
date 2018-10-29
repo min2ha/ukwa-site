@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Warman, Conservative Candidate for Cardiff South and Penarth
-
 Conservative Candidate for Cardiff South and Penarth

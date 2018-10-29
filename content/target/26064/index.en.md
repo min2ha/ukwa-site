@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour rules out ‘negative’ election campaign posters
-
 None

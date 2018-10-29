@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Magna Carta: Runnymede Eco-Village 'hippies not wanted'
-

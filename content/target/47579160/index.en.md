@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Institute of Healthy Ageing, University College London (UCL)
-
 None

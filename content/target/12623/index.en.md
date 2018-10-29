@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# Association of Train Operating Companies (ATOC)
-
 Association of Train Operating Companies (ATOC) was set up after privatisation in 1993. The Association brings together all train companies to preserve and enhance the benefits for passengers of Britain’s national rail network.

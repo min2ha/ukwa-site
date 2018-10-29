@@ -10,6 +10,4 @@
   "start_date": "2016-08-18T10:00:00Z"
 }
 
-# BHP Comics
-
 Site of a graphic novel and comic publisher based in Scotland.

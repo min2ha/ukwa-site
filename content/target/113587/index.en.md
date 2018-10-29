@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Introduced Species in the British Isles
-

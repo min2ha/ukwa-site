@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: I will not stand again for parliament if I lose on Thursday
-
 None

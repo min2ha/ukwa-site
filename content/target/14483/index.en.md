@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman: The future of Trident in U.S hands?
-
 None

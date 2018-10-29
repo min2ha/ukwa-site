@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# IPPR: Scotland's will to power – and why 'Britishness' was never enough
-
 None

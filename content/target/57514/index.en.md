@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bank warned not to raise interest rates amid squeeze on households
-

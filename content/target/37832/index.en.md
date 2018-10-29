@@ -10,5 +10,3 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# 57 NORTH | Listen.Play.Discover
-

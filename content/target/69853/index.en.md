@@ -11,8 +11,6 @@
   "subject": "LGBTQ+"
 }
 
-# Diverse Church
-
 Diverse Church is a membership-based Christian LGBT+ organisation. The website includes a blog.  "We believe growth in the christian faith happens most effectively in small scale, peer led christian community.
 
 Because of this Diverse Church plants one self governing LGBT+ Christian community of at least 100 members each year."

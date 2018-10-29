@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Draft Withdrawal Agreement - 19 March 2018
-
 The draft Withdrawal Agreement of 19 March 2018 includes agreed legal text for the implementation period, citizens’ rights, and the financial settlement, as well as a significant number of other articles. The UK and the EU negotiating teams aim to finalise the entire Withdrawal Agreement by October.
 

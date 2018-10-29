@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# londonirisharc (@londonirisharc) on Instagram 
-
 London-Irish Abortion Rights Campaign group campaign for free, safe, legal abortion across the island of Ireland. 

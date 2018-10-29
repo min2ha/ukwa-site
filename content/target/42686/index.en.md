@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Hebevents.com
-
 Site of an events and news guide for the Outer Hebrides / Western Isles of Scotland

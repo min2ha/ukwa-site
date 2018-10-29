@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# National Paralympic Heritage Trust
-
 The National Paralympic Heritage Trust was established on 11th November 2015 to protect and share British Paralympic Heritage.

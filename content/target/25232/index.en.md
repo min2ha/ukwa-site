@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Come back home': Cameron issues impassioned plea to Ukip supporters to vote Tory to keep Miliband out of Number 10
-
 None

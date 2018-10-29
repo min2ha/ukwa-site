@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A Brexit deal looms - Hammond and May's darkest hour is up
-

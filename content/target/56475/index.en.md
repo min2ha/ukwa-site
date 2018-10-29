@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Slynn Foundation
-
 The Slynn Foundation is an educational charity working with senior judges and justice institutions around the world to improve justice systems and the rule of law, and to enhance professional understanding of human rights, mediation and European Union law and practice.

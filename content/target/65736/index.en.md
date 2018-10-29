@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# All Under One Banner on Facebook
-
 Site of an umbrella group working towards Scottish independence.

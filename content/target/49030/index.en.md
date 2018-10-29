@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# ECPAT UK:  Protecting children everywhere
-
 ECPAT UK is the leading expert voice on child trafficking in the UK. ECPAT UK has been instrumental in raising awareness in government of the plight of children trafficked into the UK for both sexual exploitation and for exploitative labour. 

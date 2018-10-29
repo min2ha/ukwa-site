@@ -10,6 +10,4 @@
   "start_date": "2011-09-29T00:00:00Z"
 }
 
-# Talu am fagiau Cymru | Carrier bags charge Wales
-
 Keep Wales Tidy

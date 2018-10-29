@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:54:16.727180", 
+  "date": "2018-10-29T13:21:16.407148", 
   "open_access": false, 
   "target_url": "http://www.constructwales.co.uk/home/en/", 
   "description": null, 
   "end_date": null, 
   "title": "Construct Wales", 
-  "record_id": "20181029T125416/r31uJMYbwfP8VLCKe3Nn/w==", 
+  "record_id": "20181029T132116/r31uJMYbwfP8VLCKe3Nn/w==", 
   "publisher": "constructwales.co.uk", 
   "start_date": null, 
   "subject": "Government Websites 2007 "
 }
-
-# Construct Wales
 
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Budget 2015: Ed Miliband claims Tories have a 'secret plan' to cut the NHS
-
 None

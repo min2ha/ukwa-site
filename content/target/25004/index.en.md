@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: General Election 2015: 'This is my journey' says Kate Osamor
-
 None

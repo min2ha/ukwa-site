@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richmond Noticeboard
-
 The noticeboard is an open, public space for people in Richmond, North Yorkshire to share news and views about the town.

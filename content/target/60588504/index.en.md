@@ -10,5 +10,3 @@
   "start_date": "2011-07-15T00:00:00Z"
 }
 
-# Health With Pride
-

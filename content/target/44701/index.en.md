@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lydia Hall Golf
-
 Lydia Gail Hall is a Welsh professional golfer from Bridgend.

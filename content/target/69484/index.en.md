@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK PonyCon Forum
-
 A forum focusing on the UK My Little Pony convention

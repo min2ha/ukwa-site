@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Bankfoot Inn
-
 Site of a public house and hotel at Bankfoot, Perthshire, host of village events.

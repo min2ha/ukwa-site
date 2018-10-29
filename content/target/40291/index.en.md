@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Aled Roberts (@AledRoberts2016) on Twitter (Liberal Democrats candidate for North Wales) 
-
 Aled Roberts is the Liberal Democrats candidate for North Wales at the 2016 National Assembly for Wales elections.

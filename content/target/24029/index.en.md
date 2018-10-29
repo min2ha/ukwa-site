@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour election results: Ed Miliband 'expected to quit'
-
 None

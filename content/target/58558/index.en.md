@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Design Research Unit Wales (DRU)
-
 The Design Research Unit is based at Cardiff University and has been established to implement architectural, urban design and landscape projects from the position of research.

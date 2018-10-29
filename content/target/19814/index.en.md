@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Age Cymru: General Election 2015 Manifesto
-
 Age Cymru is the national charity for older people in Wales. 

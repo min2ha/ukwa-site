@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Love Trails Festival
-
 Website for Love Trails Festival for running and music. 

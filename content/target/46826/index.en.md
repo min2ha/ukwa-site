@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  The press must be free to criticise: Theresa May backs newspapers after attacks on judges who ruled EU deal must go through Parliament 
-
 Theresa May defended the free Press's right to criticise the judiciary – saying it 'underpins our democracy'. The Prime Minister intervened amid protests from lawyers and Remain-supporting MPs over the reporting of last week's hugely controversial High Court ruling that Parliament must be given a vote on Brexit.

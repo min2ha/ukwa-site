@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Co-production network for Wales | Rhwydwaith cydgynhyrchu Cymru
-
 Co-production network for Wales is Lottery-funded Network of over 1000 co-pro champions, researchers and do-ers working together promoting co-production, pooling our resources to transform public service commissioning, design, delivery & evaluation.

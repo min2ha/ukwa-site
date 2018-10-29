@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Ross Colquhoun (@rosscolquhoun) on Twitter
-

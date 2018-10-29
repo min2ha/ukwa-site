@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotreferendum (scotreferendum) on Twitter
-
 <p>The official channel of the Scottish Government on the Independence Referendum.</p>

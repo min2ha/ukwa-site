@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: SNP chief Nicola Sturgeon threatens new independence referendum if Britain votes to leave the EU in 2017
-
 None

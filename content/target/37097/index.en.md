@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Week, The: EU referendum: Boris Johnson calls Cameron a 'merchant of gloom'
-

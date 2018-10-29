@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Canolfan Y Santes Fair | St Mary's Centre
-

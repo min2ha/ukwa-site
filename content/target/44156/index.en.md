@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Information literacy of the heart
-
 A blog post on information literacy during the EU Referendum debate.

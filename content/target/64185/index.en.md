@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Nairn Old Parish Church
-

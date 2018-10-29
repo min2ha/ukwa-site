@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Paul Potts
-
 Paul Potts is a British tenor and 2007 winner of television competition Britain's Got Talent.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scotlands Places
-
 Scotlands Places is a website that allows users to search across different national databases using geographic locations. The user is able to enter a place name or a coordinate to search across these collections or they can use the mapping in the website to both define and refine their search. 

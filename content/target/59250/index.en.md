@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Criccieth Life
-
 A torust information guide to Criccieth in Gwynedd.

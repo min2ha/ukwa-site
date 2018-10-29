@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The price that Ed Miliband is prepared to pay to win the Muslim vote
-
 None

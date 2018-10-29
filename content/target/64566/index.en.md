@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Lodge Polkemmet 927
-
 Site of a masonic lodge located at Whitburn, West Lothian and affiliated with the Grand Lodge of Scotland.

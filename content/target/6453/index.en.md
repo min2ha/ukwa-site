@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Royal Central: Prince Charles arrives in South Africa for Nelson Mandela's funeral
-
 <p>Report on Prince Charles' arrival in Qunu for the funeral of Nelson Mandela. The report also includes statements and reactions from Prince Charles and other members of the Royal Family on hearing of Mandela's passing.</p>

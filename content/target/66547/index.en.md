@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Office of Gas and Electricity Markets (Ofgem) (@ofgem) on Twitter
-
 Ofgem protects the interests of gas and electricity consumers in Great Britain by promoting competition and regulating monopoly network companies.

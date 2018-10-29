@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Tayside and Fife Jewish Community
-
 Site providing information about the local Jewish community, their activities and links to relevant organisations within the Tayside and Fife localities and beyond.

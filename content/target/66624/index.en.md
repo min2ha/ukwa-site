@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Tulloch Homes Group Limited
-
 The website of Tulloch Homes Group Limited, a housebuilding company based in Inverness, Scotland. 

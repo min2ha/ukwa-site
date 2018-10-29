@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Peebles Civic Society
-
 Society concerned with planning and architectural matters in Peebles, Peeblesshire, Scotland

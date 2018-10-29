@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# College Computer Fair
-
 Computer fair taking place in Central London.

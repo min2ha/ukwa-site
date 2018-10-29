@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Anaerobic Digestion The Official Source for Information on AD and Biogas
-
 <p>This portal is a gateway to the latest information on anaerobic digestion, biogas and digestate. Website is produced and maintained by the National Non-Food Crops Centre (NNFCC), and was produced following recommendations from the Anaerobic Digestion Task Group's Report of July 2009.</p>

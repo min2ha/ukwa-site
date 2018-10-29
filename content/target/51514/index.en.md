@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Flashpoint
-
 Flashpoint is a multidisciplinary journal in the arts and politics. 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph: The: David Cameron's EU demands 'justified and necessary' says Angela Merkel
-

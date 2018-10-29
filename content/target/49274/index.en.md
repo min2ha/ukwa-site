@@ -10,5 +10,3 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Royal Welsh Grassland Event | Diwrnod Tir Glas Brenhinol Cymru
-

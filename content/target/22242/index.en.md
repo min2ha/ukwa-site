@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Nicholson (@UKIPHEXHAM) on Twitter (UKIP candidate for Hexham)
-

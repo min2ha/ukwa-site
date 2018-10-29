@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Victims of Crime in Scotland
-
 None

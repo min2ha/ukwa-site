@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Simon Thorne Music
-
 Simon Thorne is a Welsh composer who 'consistently challenges structures and norms.'

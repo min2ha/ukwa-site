@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fierce Valley Roller Girls
-
 Site of a skating roller derby league based in Grangemouth, near Falkirk.

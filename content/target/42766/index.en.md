@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Glasgow School of Art Sustainability
-
 Site of a group at Glasgow School of Art promoting positive action to challenge climate change in Glasgow's creative community.

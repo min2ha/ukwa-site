@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Fuel Theatre
-
 Founded in 2004, and led by Louise Blackwell and Kate McGrath, Fuel is a producing organisation working in partnership with some of the most exciting artists in the UK to develop, create and present new work for all. 

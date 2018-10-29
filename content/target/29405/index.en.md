@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Venturefest Wales
-
 Venturefest Wales 2015 brings entrepreneurs, investors and innovative companies together to inspire business growth. The event is held at the Swalec Stadium.

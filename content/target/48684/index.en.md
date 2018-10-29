@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Supreme Court says Parliament must give Article 50 go-ahead
-
 Parliament must vote on whether the government can start the Brexit process, the Supreme Court ruled.

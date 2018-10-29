@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Notts TV: Boris Johnson Visits Nottingham to Back Brexit
-

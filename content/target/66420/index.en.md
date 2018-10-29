@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# City Mayors Foundation
-
 The City Mayors Foundation, an international research think tank dedicated to urban affairs, is maintained and financed by professionals working together in Europe, North and South America, Asia and Africa to promote strong and prosperous cities as well as good local government.

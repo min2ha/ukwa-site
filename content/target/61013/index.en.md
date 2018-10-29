@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Vote 100 (@UKVote100) on Twitter
-
 Vote 100 is a UK Parliament project celebrating 100 years of the Representation of the People Act 1918, giving vote to some women & all men, in 2018. This is their official Twitter account.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wired: Facebook's suicide alert tool isn't coming to the EU. Here's why
-
 News article about Facebook and its suicide prevention tool that is not being used in the EU due to data protection. The system scans posts and facebook live for recognised patterns to watch for troubling comments in users posts and videos, such as "are you ok?", as indications someone may need mental-health help, passing their details onto emergency responders to intervene.

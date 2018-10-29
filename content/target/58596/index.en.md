@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Safer Together
-
 Safer Together is a consortium for not-for-profit providers of services for victims of domestic abuse. 

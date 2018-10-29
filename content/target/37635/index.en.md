@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: PETER HITCHENS: Here's the entire EU debate in 9 words: Do you want to be a servant of Brussels?    
-

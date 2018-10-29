@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Boris Johnson: EU exit 'win-win for us all'
-
 BBC News: Boris Johnson: EU exit 'win-win for us all'

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beach Volleyball UK
-
 None

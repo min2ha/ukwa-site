@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Basketball Wales
-
 Basketball Wales is the National Governing Body (NGB) of the game of basketball in Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Frontotemporal Dementia Support Group
-
 The Frontotemporal Dementia Support Group is particularly directed towards carers who are coping with behavioural changes in a partner, family member or friend as a result of frontotemporal dementia (including Pick's Disease).

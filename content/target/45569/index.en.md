@@ -10,5 +10,3 @@
   "start_date": "2016-09-24T11:00:00Z"
 }
 
-# Pafiliwn Llangollen Pavilion
-

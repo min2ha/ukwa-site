@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would reduce UK to negotiating status of Jersey, says French minister 
-
 Guardian, The

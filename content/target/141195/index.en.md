@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Karen Whitefield - Scottish Labour
-
 None

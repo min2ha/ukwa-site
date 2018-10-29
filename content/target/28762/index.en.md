@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Unilever brightFuture
-
 Unilever brightFuture is a platform that helps unite and amplify the efforts of a growing community of people who believe it is possible to build a world where everyone lives well and lives sustainably.

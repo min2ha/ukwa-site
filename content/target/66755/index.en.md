@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Think Cats
-
 An online resource for information about domestic cat care and popular cat breeds in the home

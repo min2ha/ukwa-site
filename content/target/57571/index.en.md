@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Scottish Prison Arts Network (SPAN)
-
 Site of a professional network for artists across arts forms engaged in the criminal justice field in Scotland, providing a focus for sharing practice, connecting artists and supporting organisations and articulating the importance and impact of making art with offenders and their families in Scotland.

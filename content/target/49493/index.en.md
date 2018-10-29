@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Trade Justice Movement
-
 Our vision is trade that is low carbon, is in the interest of the many, not the few, and of institutions that are democratic and accountable.

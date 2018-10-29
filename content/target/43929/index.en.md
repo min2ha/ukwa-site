@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# After the referendum: Tories Out! General election now
-
 A statement on the result of the EU Referendum by the Socialist Party in England and Wales.

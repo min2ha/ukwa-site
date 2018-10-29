@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scottish Parliament: European Committee in Brussels talks - News & Parliament TV
-

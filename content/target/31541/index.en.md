@@ -10,6 +10,4 @@
   "start_date": "2015-10-19T10:00:00Z"
 }
 
-# Iomairt Ghàidhlig Dhùn Èideann
-
 Iomairt Ghàidhlig Dhùn Èideann, the Edinburgh Gaelic Initiative's site contains information about Gaelic language events in Edinburgh.

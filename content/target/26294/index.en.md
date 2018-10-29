@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chailey News
-
 Chailey News is an online magazine of St Peter's Parish, Chailey.

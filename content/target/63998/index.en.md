@@ -10,5 +10,3 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Bridgend County Show
-

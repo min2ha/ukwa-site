@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Miliband and Cameron battleground set with 100 days to go before election
-
 None

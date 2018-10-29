@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The North Koreans voting in their first democratic election – in Britain
-
 None

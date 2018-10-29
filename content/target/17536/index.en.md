@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Inside the Lib Dem campaign: party navigates perilous electoral waters
-
 None

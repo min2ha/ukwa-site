@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scott Quigg
-
 An official website of Scott Quigg, a professional boxer.

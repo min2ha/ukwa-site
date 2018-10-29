@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Prostrate Cancer Wales
-
 Prostate Cancer Wales & UK funding prostate cancer research, campaign for testing and raise awareness of the issue.

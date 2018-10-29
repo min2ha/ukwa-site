@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: However distasteful he finds us, David Cameron must hide his contempt for Eurosceptics
-

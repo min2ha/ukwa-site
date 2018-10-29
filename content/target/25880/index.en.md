@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Travelling Politician Problem: what's the shortest route between the 50 top marginals?
-
 None

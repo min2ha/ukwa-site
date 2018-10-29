@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 2016 a year for National Renewal
-
 Blog entry by Sinn Fein president Gerry Adams, reflecting on the implications of the Easter Rising centenary for Irish politics and society today

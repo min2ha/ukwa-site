@@ -10,5 +10,3 @@
   "start_date": "2009-05-18T00:00:00Z"
 }
 
-# No Smoking Day
-

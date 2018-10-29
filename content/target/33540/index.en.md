@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Photographers Gallery, The : Easter Rising 1916 Sean Sexton Collection
-
 The Easter Rising 1916, an exhibition drawn from Sean Sexton's photographic collection and curated by Luke Dodd.

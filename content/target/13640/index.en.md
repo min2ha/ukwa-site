@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Atheist, The
-
 <p>The musings of an Atheist living in Scotland.</p>

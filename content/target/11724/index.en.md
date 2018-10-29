@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Patrick MacHugh (PatrickMacHugh) on Twitter
-
 <p>The twitter profile of althete Patrick McHugh, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

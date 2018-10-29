@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# A Pint of History Please: Exploring the History of Ceredigion's Pubs
-
 The aim of the project is to gather information about the pubs in the county of Ceredigion, and to gain a better understanding of the role of the pub in the community. The project is being co-ordinated by Ceredigion Local History Forum as part of the wider Cynefin project run by Archives and Records Council Wales.

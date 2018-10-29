@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffingtonpost: Time for A Bigger Role For Digital Technology Amidst The Student Mental Health Crisis
-
 Blog article about the role digital technology can have in helping with the mental health crisis facing students.

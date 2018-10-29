@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Sarah Millican
-
 Official website of a stand up comedian Sarah Millican.

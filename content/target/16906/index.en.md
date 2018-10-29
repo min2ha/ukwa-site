@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Federation of Retail Newsagents (NFRN): Public Affairs Manifesto 2015
-
 The National Federation of Retail Newsagents (NFRN) was founded in 1919 and is one of Europe’s largest retail trade associations with over 16,000 independent news and convenience retailers in membership throughout the UK and Ireland.

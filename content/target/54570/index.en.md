@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# Filmhouse
-
 Site of a cinema and location for various annual film festivals, including the Edinburgh International Film Festival.

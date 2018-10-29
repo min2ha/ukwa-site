@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lawyers for Britain (@lawyers4britain) on Twitter
-
 Lawyers who believe there should be a substantial change in Britain's relationship with the EU. 

@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Shock City
-
 Site of an organisation staging rock music events featuring rock tribute acts.

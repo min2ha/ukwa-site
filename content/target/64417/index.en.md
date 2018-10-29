@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Catrin Morris Jones - Harpist for Weddings and Functions
-
 Catrin Morris Jones is a professional harpist from Wales. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Hearts of Jesus and Mary, Girvan
-
 Site of a Scottish Roman Catholic church located in Girvan, Ayrshire which incorporates the Our Lady and Saint Cuthbert church, Maybole.

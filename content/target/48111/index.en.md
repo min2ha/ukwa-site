@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library:  Brexit: UK Funding from the EU
-
 This Commons Library briefing Looks at the funding received by the UK from EU institutions and considers the implications of Brexit on the EU as a source of funding for regional development, agriculture support, research and innovation and other areas.

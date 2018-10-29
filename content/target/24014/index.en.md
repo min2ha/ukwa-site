@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: The psychology of voting: an emotional matter?
-
 None

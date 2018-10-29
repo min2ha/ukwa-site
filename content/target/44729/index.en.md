@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM statement in Paris: 21 July 2016
-
 At a press conference with President Hollande of France, Prime Minister Theresa May spoke about strengthening the UK-France relationship in the context of Britain leaving the EU.

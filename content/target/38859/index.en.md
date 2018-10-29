@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit would be bad for security in Europe warns Nato chief after Downing street talks with David Cameron 
-

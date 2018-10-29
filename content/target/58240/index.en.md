@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords EU External Affairs Sub-Committee:  Government Response: Brexit: Trade in Goods
-
 The government has published a list of the 58 sectors of the economy on which it has assessed the impact of leaving the EU.

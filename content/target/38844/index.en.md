@@ -10,6 +10,4 @@
   "start_date": "2016-04-14T10:00:00Z"
 }
 
-# Swan Trust
-
 Site of a trust set up to encourage use of the sailing vessel 'The Swan' an example of a traditional fishing boat from East coast of Scotland known as a 'fifie', with a view to keeping the skills and methods involved alive. Based in Lerwick, Shetland.

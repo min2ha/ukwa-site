@@ -10,6 +10,4 @@
   "start_date": "2015-06-03T08:00:00Z"
 }
 
-# Royal Holloway, University of London
-
 Official website of the Royal Holloway, University of London.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# EWM Group Corporate Publications
-
 Corporate website of the EWM (Edinburgh Woollen Mill) Group of companies.

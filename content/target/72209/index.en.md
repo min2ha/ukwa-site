@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Clydebank Family Church
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Clydebank, Dunbartonshire.

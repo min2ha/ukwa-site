@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Of course migration will dominate the EU referendum – we finally have a chance to change
-

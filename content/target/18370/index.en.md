@@ -10,6 +10,4 @@
   "start_date": "2015-03-21T09:00:00Z"
 }
 
-# International Project Finance Association (IPFA)
-
 The International Project Finance Association (IPFA) is an international, independent, not-for-profit association dedicated to promoting and representing the interests of private companies and public sector organisations in Project Finance and Public Private Partnerships (PPPs) throughout the world.

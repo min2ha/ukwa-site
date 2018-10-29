@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gordon Brown warns over 'chaos and constitutional crisis' of voting SNP
-
 None

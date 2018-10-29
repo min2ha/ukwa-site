@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Northern and Leith Labour
-
 The Constituency Labour Party in Edinburgh Northern and Leith.

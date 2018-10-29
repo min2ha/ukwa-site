@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Achi Baba - Gallipoli 1915 was supported by Heritage Lottery Fund - Then and Now. 
-
 Achi Baba - Gallipoli 1915 was supported by Heritage Lottery Fund - Then and Now. 

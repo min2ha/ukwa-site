@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Welsh Food Bites
-

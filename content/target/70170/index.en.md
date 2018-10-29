@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ballymena Allstars (@BU_Allstars) on Twitter
-
 Official Twitter account of Ballymena United Allstars Ladies Football Club.

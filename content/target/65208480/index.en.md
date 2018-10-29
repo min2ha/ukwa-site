@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Archaeology Wales
-
 Archaeology Wales Ltd was established in 1992 and are a commercial archaeological company undertaking all aspects of archaeological work around Great Britain.

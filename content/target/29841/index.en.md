@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# Wymondham Words
-
 Festival organised by a dedicated team of volunteers.

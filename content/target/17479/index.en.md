@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Channel 4's Ukip film attracts complaints before it even airs
-
 None

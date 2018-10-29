@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leicester City (@LCFC ) on Twitter
-
 The official #lcfc Twitter account.

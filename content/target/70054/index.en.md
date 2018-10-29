@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Club Call
-
 Football news since 1986

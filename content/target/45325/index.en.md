@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# Wales Artist Resource Programme (WARP)
-
 Wales Artist Resource Programme (WARP) is based in g39 on Oxford Street, Cardiff and aims to provide professional development resources and services for artists. 

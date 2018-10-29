@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Cougar Automation
-
 ougar Automation Ltd is the UK’s leading supplier of Control System Integration services. We provide five distinct service deliverables to a range of industry sectors.

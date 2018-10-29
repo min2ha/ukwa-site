@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Royal Court Theatre
-
 The Royal Court has produced a variety of plays from Laura Wade’s Posh to Jez Butterworth’s Jerusalem and Martin McDonagh’s Hangmen. Royal Court plays from every decade are now performed on stage and taught in classrooms and universities across the globe.

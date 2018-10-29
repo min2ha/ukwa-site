@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Abercwmboi Photo Archive Project
-
 Community project showcasing the story of Cap Coch and Abercwmboi through photographs of the people and places of the village.

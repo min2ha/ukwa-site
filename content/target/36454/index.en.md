@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron's former boss Lord Lamont blasts EU Remain campaign as 'comical'
-
 Article by Jake Burman

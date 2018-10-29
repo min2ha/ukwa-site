@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron's election debate stand is a voter turn-off
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Organ Club, The
-
 The Organ club is a membership organisation for people in the history and science of organs and organ playing. Membership is open to people who play the organ and also for people who enjoy listening to organ music. The website contains details of the Club and events, and access to newsletters.

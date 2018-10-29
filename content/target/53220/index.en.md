@@ -10,6 +10,4 @@
   "start_date": "2017-05-16T09:00:00Z"
 }
 
-# Museums at Night
-
 Museums at Night is the UK-wide festival of Lates in museums and galleries, produced by Culture24, the Brighton-based arts charity dedicated to shining a light on Britain’s sparkling culture and heritage.

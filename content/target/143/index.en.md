@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maidstone and Tunbridge Wells NHS Trust
-
 None

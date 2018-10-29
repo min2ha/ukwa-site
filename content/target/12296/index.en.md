@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian, The: Villain or hero? Sarajevo is split on archduke's assassin Gavrilo Princip
-
 None

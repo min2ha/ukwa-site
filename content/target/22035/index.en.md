@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Robert Punton (@PuntonRobert) on Twitter (TUSC candidate for Birmingham Perry Bar)
-

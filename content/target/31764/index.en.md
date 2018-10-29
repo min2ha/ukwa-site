@@ -10,5 +10,3 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Amgueddfa'r Milwr Cymreig, Castell Caerdydd | Cardiff Castle Museum of the Welsh Soldier
-

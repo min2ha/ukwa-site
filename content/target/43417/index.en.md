@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Palatinate, The: Durham University Student Newspaper EU Referendum 
-
 A sub-section of the Durham University student newspaper, The Palatinate, devoted to debate and discussion about the EU Referendum, with articles written by students and student political societies.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Oban & Lorn on Facebook
-
 The official Facebook page of the Oban & Lorn Branch of the Scottish National party (SNP).

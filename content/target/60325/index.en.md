@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Anxious teenagers ‘buy Xanax on the dark web’
-
 News article about teenagers suffering with anxiety self medicating by purchasing Xanax online 

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Iain Dale's Diary
-
 None

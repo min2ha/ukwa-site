@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Society of Chiropodists and Podiatrists
-

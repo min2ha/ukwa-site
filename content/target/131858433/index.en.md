@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Network of Public Health Observatories, The (formerly Association of Public Health Observatories)
-
 None

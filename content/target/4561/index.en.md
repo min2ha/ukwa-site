@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Archbishop of Canterbury: statement following the death of Nelson Mandela
-
 <p>Statement from the archbishop of Canterbury, Justin Welby, released on 5 December 2013.</p>

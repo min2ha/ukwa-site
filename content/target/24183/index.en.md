@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ten things that will be better under the Tories (if you're not a Tory)
-
 None

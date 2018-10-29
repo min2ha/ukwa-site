@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Automation Logic
-
 Automation Logic is a leading professional services consultancy delivering Cloud, Automation and DevOps solutions.

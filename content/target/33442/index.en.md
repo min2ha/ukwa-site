@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Castell-nedd Port Talbot
-
 This is Neath Port Talbot's Welsh Language Initiative. The aim is to promote the Welsh language within the county. 

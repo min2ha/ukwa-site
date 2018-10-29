@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Grove Chapel
-
 Grove Chapel is an independent church in Camberwell in London which organises regular services and also supports home-based and world missions. 

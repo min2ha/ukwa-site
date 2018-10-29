@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Sandyford Henderson Memorial Church
-

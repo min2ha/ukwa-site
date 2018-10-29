@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May kicks Brexit can down the road
-
 Comments on unbridgeable differences within Theresa May's Cabinet on the destination of Brexit

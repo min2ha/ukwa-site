@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Everyone hates inheritance tax – so reduce it to 20%
-
 None

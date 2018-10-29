@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2009"
 }
 
-# ENACT- enacting European citizenship
-
 None

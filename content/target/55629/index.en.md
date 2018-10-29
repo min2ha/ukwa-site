@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The HomeBrew Forum
-
 An online enthusiast forum concerned with home brewing beers, ciders and wines. Discusses brewing techniques, recipes, beer-kit reviews, beer books and various other topics.

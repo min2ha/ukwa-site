@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clydesdale Rugby Club 
-
 Site of a Scottish rugby union football club based in Stonehouse, Lanarkshire.

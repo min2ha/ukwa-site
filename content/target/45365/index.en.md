@@ -10,5 +10,3 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Cwmni Theatr Cymru | Wales Theatre Company
-

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Escouts community forum
-
 An online enthusiast community concerned with scouting. Discusses both local and international scouting, programmes and ideas for scouting, campsites and camping and other related topics.

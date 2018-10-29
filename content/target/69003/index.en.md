@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Guto Bebb: MP resigns as minister over Brexit vote
-
 A Welsh Conservative MP quit as a minister in anger at concessions being given to Brexiteers by Theresa May. Guto Bebb resigned as minister for defence procurement in order to vote against the government on amendments it accepted to its Brexit Customs Bill.

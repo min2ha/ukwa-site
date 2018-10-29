@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# ABC Adfan Ban a Chwm | ABC Revitalise Hill and Valley
-
 Adfer Ban a Chwm (ABC) is a building preservation trust turning derelict vernacular buildings in rural Wales into affordable homes for local people.

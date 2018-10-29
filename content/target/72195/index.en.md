@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Gower Hidden History
-
 Gower Hidden History is a blog by Gary Gregor who writes a weekly column on local history in the South Wales Evening Post.  He gives talks to various societies and has had articles published in such journals as Gower and the Swansea History Journal. The blog has been published since April 2015.

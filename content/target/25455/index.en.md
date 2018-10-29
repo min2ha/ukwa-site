@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The leaders’ debate: it was the women wot won it
-
 None

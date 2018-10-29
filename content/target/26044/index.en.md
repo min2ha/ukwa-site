@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who performed better in last night's TV leader interviews?
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2010-10-11T00:00:00Z"
 }
 
-# Children's Heart Federation
-

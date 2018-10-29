@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# the Irish World (@theirishworld) on Twitter
-
 The family newspaper for Irish people in the UK

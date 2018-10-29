@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Bureau des Îles Anglo-Normandes
-
 The Bureau des Îles Anglo-Normandes (BIAN) represents the Governments of Guernsey and Jersey in France

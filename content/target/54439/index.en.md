@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Justice for Marine A
-
 Sgt Alexander Blackman has had his murder conviction reduced to manslaughter on the grounds of diminished responsibility by the Court of Appeal.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DOMINIC LAWSON: Who'd take lessons from the IRA's chum Corbyn on Brexit and the Irish border?
-
 Argues that Jeremy Corbyn, a long term sympathiser with the IRA, would not by trusted by Ulster unionists to negotiate Brexit.

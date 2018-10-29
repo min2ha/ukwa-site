@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Capital & Conflict: The Truth about 'Brexit'
-
 A webpage advertising a free pamphlet that supports 'Brexit'.

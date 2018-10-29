@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Pro-Brexit MPs warn Barack Obama to stay out of EU referendum debate
-

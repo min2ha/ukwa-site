@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM: UK should become the global leader in free trade
-
 Prime Minister Theresa May announces that she will set out her ambition for the UK to become the global leader in free trade when she attends the G20 Summit in China in September 2016.

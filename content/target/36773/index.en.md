@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Swyddi gwell yn nes ardref | Better jobs close to home
-
 Better Jobs, Closer to Home campaign is run by the Wales TUC. The aim is to bring better quality jobs to the south Wales valleys.

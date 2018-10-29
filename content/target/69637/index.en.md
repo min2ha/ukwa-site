@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Matt Edwards Rally Driver
-
 Matt Edwards is a Rally Driver from north Wales.

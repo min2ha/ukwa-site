@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: Frameworks analysis: Breakdown of areas of EU law that intersect with devolved competence in Scotland, Wales and Northern Ireland.
-
  EU law creates consistent practices across the UK in a range of policy areas. This document sets out the UK government’s provisional assessment of where we’ll need to maintain those practices in common frameworks after we leave the EU. The analysis set out will continue to develop over time as the UK government and devolved administrations discuss this.
 

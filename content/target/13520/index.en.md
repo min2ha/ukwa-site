@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Host City Glasgow: signs of slavery and the imperial past are never far away
-
 <p>Article by Sumita Mukherjee about Glasgow’s historic connections with the slave trade and the importance of being aware of this during the XX Commonwealth Games. One of a series of “Host City Glasgow” articles on “The Conversation”  an independent source of news and views, sourced from the academic and research community.</p>

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Digitisation (@BL_Digitisation) on Twitter
-
 Digitise your archive and collections at the British Library

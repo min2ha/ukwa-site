@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May's offer to EU citizens 'falls short'
-
 Theresa May's offer to give EU citizens in the UK "settled status" after Brexit has been described as being "far short of what citizens are entitled to". MEPs, including European Parliament chief Brexit negotiator Guy Verhofstadt called the proposal a "damp squib".

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liam Fox (@LiamFoxMP) on Twitter (Secretary of State for International Trade and Conservative MP for North Somerset)
-
 The Conservative MP for North Somerset and former Defence Secretary describes his campaign for a vote the leave the EU and the 23rd June 2016 referendum and to be elected as leader of the Conservative Party following the resignation of David Cameron in June 2016. He then moves on to his work as Secretary of State for International Trade from Summer 2016.

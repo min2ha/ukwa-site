@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Stannard
-
 <p>The website of cyclist Ian Stannard, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

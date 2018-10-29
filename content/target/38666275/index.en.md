@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Unofficial London Olympics 2012 forum
-

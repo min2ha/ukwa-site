@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Occupied Times of London, The
-
 None

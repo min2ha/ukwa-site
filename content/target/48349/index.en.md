@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Pitcairn and Norfolk Islands Society
-
 The Pitcairn and Norfolk Islands Society devotes itself to the study and history of the Pitcairn and Norfolk Islands, their people, and the mutiny on the HMAV Bounty. 

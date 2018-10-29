@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron 'will try to cling to power even if coalition loses majority'
-
 None

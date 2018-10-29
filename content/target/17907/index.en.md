@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visit Lincoln: Magna Carta 800th Anniversary
-

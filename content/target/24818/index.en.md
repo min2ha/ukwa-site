@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Steve Pound (Labour party candidate for Ealing North) (@StevePoundMP) on Twitter
-
 None

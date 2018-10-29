@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women in Film and Television (WFTV)
-
 None

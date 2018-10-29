@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Dafen Community website
-
 Dafen is a village on the outskirts of Llanelli.

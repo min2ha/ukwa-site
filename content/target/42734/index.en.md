@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Living legacies 1914-18 (Queen's University Belfast)
-

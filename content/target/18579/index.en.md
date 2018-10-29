@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruth Osner (@ruthosner) on Twitter
-
 Green Party Candidate for Cardiff North

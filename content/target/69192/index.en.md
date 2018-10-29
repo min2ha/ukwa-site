@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Culture Night Belfast
-
 Website for the Culture Night Festival in Belfast. 

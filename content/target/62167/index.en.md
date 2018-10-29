@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# MBClub UK
-
 An online enthusiast community concerned with Mercedes Benz cars. Discusses engine, bodywork, interior, wheels, Mercedes performance, news and other related topics.

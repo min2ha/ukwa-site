@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of General Practitioners Facebook
-
 None

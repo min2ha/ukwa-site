@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# College of Optometrists, The
-
 <p>The College of Optometrists is the professional, scientific and examining Body for Optometry in the UK working for the public benefit.</p>

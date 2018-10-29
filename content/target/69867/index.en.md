@@ -10,6 +10,4 @@
   "start_date": "2018-08-10T09:00:00Z"
 }
 
-# Elan Catrin Parry
-
 Elan Catrin Parry is a mezzo-soprano from Wrexham and the first female Welsh singer to be exclusively signed to Decca Records.

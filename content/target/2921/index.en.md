@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Information is Beautiful
-
 <p>Website featuring Data journalism - distilling data, information and knowledge into visualizations, infographics and diagrams.</p>

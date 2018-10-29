@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Camberwell Online Blog
-
 Community blog focusing on life in South London.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Rob Roy Country - Loch Earn Tourism Initiative
-
 Site of a tourist information organisation focussing on the areas of Strathyre, Balquhidder, Lochearnhead and St. Fillans.

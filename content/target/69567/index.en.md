@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# Cofio Jim
-
 Cofio Jim is a campaign urging Carmarthenshire County Council and Llanelli Town Council to recognise the contribution made to Welsh public life by former MP and Welsh Secretary, Jim Griffiths, by erecting a statue of him in Llanelli town centre.

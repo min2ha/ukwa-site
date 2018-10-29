@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Awel Amen Tawe
-
 Community energy project for the Amman and Swansea valleys.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sunningdale Village Venues
-
 Sunningdale Village Venues co-ordinates many activities using a range of local venues - currently at Holy Trinity Church and Sunningdale Village Hall at either end of Church Road, Sunningdale, Berkshire, as well as at Holy Trinity School on Station Road and The Hope Centre on Sunningdale High Street.

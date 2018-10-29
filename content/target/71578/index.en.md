@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: UK will shift Brexit stance in its ‘darkest hour’ claim EU officials
-
 Reports that EU officials predicted that Britain would eventually cave into their demands rather than face a "no deal" Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Gareth Brindle Jones
-
 Gareth Brindle Jones is an artist living in Anglesey who works loosely in  acrylics and oils. Much of his works is of the coastline.

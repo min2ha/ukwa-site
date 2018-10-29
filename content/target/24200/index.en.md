@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Leaders grilled by audience in Question Time special
-
 None

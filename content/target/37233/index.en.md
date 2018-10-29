@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Sir Michael Caine 'sort of certain' UK should quit EU
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Unicom
-
 Unicom is a UK independent telecommunication provider for small businesses. Providing business landline, mobile, broadband, gas and electricity.

@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Dental Defence Union (DDU)
-
 The Dental Defence Union (DDU) is the specialist dental division of the Medical Defence Union (MDU). 

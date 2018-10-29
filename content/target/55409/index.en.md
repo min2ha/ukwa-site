@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Politeia: Triggering Article 50: Courts, Government & Parliament
-
 Constitution experts say neither the Courts nor Parliament should have the last word on Brexit.

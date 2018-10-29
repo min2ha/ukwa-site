@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gail (@GRobertsonSNP) on Twitter
-
 The Twitter profile of Gail Robertson, the Scottish National Party candidate for Dumbarton in the 2016 Scottish Parliament election.

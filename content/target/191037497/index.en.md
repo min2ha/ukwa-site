@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hay Festival
-
 The Hay Festival of Literature & Arts is an annual literature festival held in Hay-on-Wye, Powys, Wales, for ten days. The festival has expanded in recent years and now includes musical performances and film previews.

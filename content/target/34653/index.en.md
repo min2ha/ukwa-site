@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nigel Don SNP MSP for Angus North and Mearns
-

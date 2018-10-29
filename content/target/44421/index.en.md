@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: W​e need nothing short of a wholesale review of housing policy​ after Brexit
-

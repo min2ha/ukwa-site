@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Boy Azooga 
-
 Boy Azooga are a band from Cardigff signed to Heavenly Records and are made up of classically trained musicians.

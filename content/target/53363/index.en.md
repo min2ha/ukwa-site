@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Professional Footballers' Association Scotland
-
 Site of an organisation which is the independent trade union for professional footballers and the collective voice for players in Scotland. 

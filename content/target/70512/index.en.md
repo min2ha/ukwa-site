@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Winslow Rugby Club on Pitchero
-
 Winslow RUFC are an amateur rugby club based in Bucks. A club for all levels we are always looking for new players!

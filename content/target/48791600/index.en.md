@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# European Marine Energy Centre Ltd (EMEC), The
-
 None

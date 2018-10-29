@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Elmer Cotton Sports (@ELMERCOTTON) on Twitter
-
 An Oxford based sports shop that was established in 1911, they also make team wear to order.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May risks row with Brexiters over plan for single market for goods
-
 Theresa May could once again be on a collision course with the Brexiter wing of her party over a controversial proposal to keep the UK in a single market for goods. Whitehall sources said they believed free movement of goods was “100% the direction of travel” as the prime minister’s focus shifted to the next battle over Britain’s future relationship with the EU after the June 2018 Brussels summit.

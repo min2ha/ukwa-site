@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool F.C.
-
 Liverpool Football Club is a professional football club in Liverpool, England.

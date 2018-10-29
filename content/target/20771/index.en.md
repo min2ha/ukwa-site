@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jason Rose on Facebook
-
 This is the Facebook page of Jason Rose, the Scottish Green Party candidate for East Lothian in the UK General Election on the 7th May 2015.

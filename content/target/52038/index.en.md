@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John’s Church, Folkestone
-
 St. John’s Church, Folkestone is a warm and friendly evangelical Anglican church with a flexible style of worship.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# We Love Barra and Vatersay
-

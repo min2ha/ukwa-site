@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Twyford bathroom History
-
 A history of Twyfords - the sanitaryware manufacturing company from Stoke-on-Trent established 1680.

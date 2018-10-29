@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Financial Times: Westminster Blog: Brexit live
-
 Blogposts relating to Brexit

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Institute of English Studies: History of Libraries Research Seminar: School of Advanced Studies, University of London
-
 <p>History of Libraries Research Seminar series organised by the Institute of English Studies, School of Advanced Study, University of London.</p>

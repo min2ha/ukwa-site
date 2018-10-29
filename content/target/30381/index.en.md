@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Dewis Cymru
-
 The Dewis website provides quality information from a comprehensive database of resources built from a network of social care, health, third and independent sector organisations in Wales.

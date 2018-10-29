@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Macduff Marine Aquarium
-
 Site of an aquarium featuring exhibits of marine life from the Moray Firth, Scotland.

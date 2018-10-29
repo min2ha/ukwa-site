@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ben Lake (@BenMLake) on Twitter 
-
 Plaid Cymru Prospective Parliamentary Candidate for Ceredigion at the 2017 General Election.

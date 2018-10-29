@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peterborough LINk
-
 None

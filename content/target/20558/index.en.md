@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Martin Rowson on David Cameron and the leaders' debates - cartoon
-

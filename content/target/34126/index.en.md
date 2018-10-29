@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Anglo Thai Legal (ATL)
-
 Anglo Thai Legal is a law firm based in Thailand and the UK.

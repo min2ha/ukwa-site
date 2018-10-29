@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tabernacle Porth
-
 Tabernacle Baptist Church is an independent Evangelical Church situated in the centre of Porth in the Rhondda Valley.

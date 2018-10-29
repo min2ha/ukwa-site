@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Integral Medical Holdings (IMH) Group
-
 IMH Group is a network of over 50 primary care sites across the UK whose aim is to help the NHS to meet its development targets. It comprises over 50 sites, including GP practices, walk-in centres and urgent care centres. 

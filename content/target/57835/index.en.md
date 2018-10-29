@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# The Learning Zone: where the capital's past comes to life
-
 If you are interested in stories, pictures, information and ideas from London's past, the Learning Zone is for you. You can also find out more about how an archive works and what jobs people do.

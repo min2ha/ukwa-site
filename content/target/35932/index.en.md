@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Llŷr Powell (@LlyrPowell) on Twitter 
-
 Llŷr Powell is the UKIP candidate for Neath at the 2016 National Assembly for Wales elections. 

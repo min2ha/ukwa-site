@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Atkinson for Wrexham on Facebook
-
 Conservative Party Candidate for Wrexham.

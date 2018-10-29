@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T09:00:00Z"
 }
 
-# National Theatre Wales
-
 Official website of the National Theatre Wales.

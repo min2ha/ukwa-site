@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Libby Brooks (libby_brooks) on Twitter
-
 Twitter account for Libby Brooks, Scotland reporter for the Guardian.

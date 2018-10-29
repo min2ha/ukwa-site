@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Final Furths and Furthists
-
 Blog that records hillwalking data, including information about people ('Furthists') who have completed the ascent of the 3000-foot mountains of England, Wales and Ireland. Includes the transcription of historic data from Scottish Mountaineering Club's archive of Munroists' letters.

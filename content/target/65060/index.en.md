@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Bridgend Carers Centre
-
 Bridgend Carers is a registered chariety established in 1999. The charity support people caring for family & friends across Bridgend County.

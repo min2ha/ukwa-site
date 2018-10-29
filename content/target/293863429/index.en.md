@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SABB.org.uk
-
 <p>Events, news and results published by the Scottish Association for Blind Bowlers (SABB).</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Scots Radio
-
 Site of a radio station based in Aberdeen featuring programmes in and about Scots language and culture.

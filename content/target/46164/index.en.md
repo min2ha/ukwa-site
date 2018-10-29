@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Libraries Taskforce - Blog
-
 What do people want from public libraries in the 21st century? The Taskforce was set up to enable libraries in England to exploit their potential and be recognised as a vital resource for all. On this blog, members of the Taskforce talk about their work.

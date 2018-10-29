@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Target Shooting Federation
-
 None

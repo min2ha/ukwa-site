@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wyvis Churches
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Easter Ross, Highland, namely St. Anne's, Strathpeffer; St. James, Dingwall.

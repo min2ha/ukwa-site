@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Angus Folk
-
 Site of a folk music and community singing group based at Kirriemuir, Angus.

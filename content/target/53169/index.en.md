@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tomos Dafydd Davies, Llais newydd dros Ynys Môn | A fresh voice for Ynys Môn
-
 Tomos Dafydd Davies is the Conservative candidate for Ynys Mon at the 2017 General Election.

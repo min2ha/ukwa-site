@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Peckwood Centre
-
 Peck Wood is a residential centre set in 19 acres of beautiful ancient woodland in the North Worcestershire countryside, close to Alvechurch, 12 miles from the centre of Birmingham and 3 miles from the M42. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Durham Dales, Easington and Sedgefield CCG
-
 None

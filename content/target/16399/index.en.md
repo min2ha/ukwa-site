@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# University of Dundee
-
 The official website of the University of Dundee, which became an independent institution in 1967.

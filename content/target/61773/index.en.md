@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ardal Weinidogaeth Bro'r Holl Saint | All Saints Ministry Area
-

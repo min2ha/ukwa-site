@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Monmouth
-
 Official website of the Diocese of Monmouth.

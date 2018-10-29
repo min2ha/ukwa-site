@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# National Museums Liverpool: Pride and Prejudice - LGBT research project
-
 Pride and Prejudice - LGBT research project was started in 2016 and will run until 2017. The project aims to reveal the sometimes hidden LGBT histories of objects held at National Museums Liverpool’s art galleries and the Museum of Liverpool. 

@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Leeds Sports and Physical Activity - Leeds University
-
 The Sport & Physical Activity Service at the University is responsible for the University’s sports facilities and development programmes. Our staff team comprises of some 100 people committed to delivering the highest levels of service to our customers.

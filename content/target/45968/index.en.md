@@ -10,5 +10,3 @@
   "start_date": "2016-10-06T11:00:00Z"
 }
 
-# Cantorion Ardwyn Caerdydd | Cardiff Ardwyn Singers
-

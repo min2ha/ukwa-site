@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# HopeRoad Publishing
-
 HopeRoad Publishing describes itself as "an exciting, independent publisher, vigorously supporting voices too often neglected by the mainstream. We are promoters of literature with a special focus on Africa, Asia and the Caribbean. At the heart of our publishing is the love of outstanding writing from writers you, the reader, would have otherwise missed.".  Based in London.

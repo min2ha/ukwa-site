@@ -10,6 +10,4 @@
   "start_date": "2016-11-11T09:00:00Z"
 }
 
-# Meddwl: Adran Athronyddol Urdd Graddedigion Prifysgol
-
 The society was established at UCW Aberystwyth in order to promote philosophy in Wales and above all to promote the teaching of philosophy through the medium of Welsh.

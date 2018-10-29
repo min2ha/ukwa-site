@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# UKIP Brent and Camden
-

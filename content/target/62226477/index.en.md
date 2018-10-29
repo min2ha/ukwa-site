@@ -10,5 +10,3 @@
   "start_date": "2013-03-12T00:00:00Z"
 }
 
-# Holistic yoga with Alyson
-

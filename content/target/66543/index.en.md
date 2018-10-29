@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Office for Standards in Education, Children's Services and Skills (@ofstednews) on Twitter
-
 We inspect and regulate the care of children & young people, and education & skills for all. 

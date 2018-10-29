@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris for PM? Don't make me laugh! Demob-happy Cameron jokes in the Commons as he faces MPs for first time since resigning - but where's his most likely successor? 
-

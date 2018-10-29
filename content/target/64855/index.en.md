@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Sharing our stories to show life in contemporary Hastings
-
 Personal website detailing life in Hastings.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Unst Writers Group
-
 Site of a creative writing group based in Unst, Shetland.

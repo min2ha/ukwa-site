@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull City Official Supporters Club
-
 Hull City Official Supporters Club is the only supporters’ group officially recognised by Hull City AFC.

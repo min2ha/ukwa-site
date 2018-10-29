@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BritishUnity (BritainUnited1) on Twitter
-

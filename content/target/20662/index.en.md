@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# EU Citizens for an Independent Scotland on Facebook
-
 A Facebook groups for EU Citizens of all nationalities living in Scotland and wish to vote in Scotland's Referendum.

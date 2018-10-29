@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kezia Dugdale MSP
-
 The website of Kezia Dugdale, Scottish Labour Member of the Scottish Parliament for Lothian and leader of the Scottish Labour Party.

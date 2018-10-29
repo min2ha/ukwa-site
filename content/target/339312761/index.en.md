@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Huw Lewis (Labour & Co-operative Assembly Member for Merthyr Tydfil & Rhymney)
-
 Huw Lewis is the Labour & Co-operative Assembly Member for Merthyr Tydfil & Rhymney. He is retiring at the 2016 National Assembly Elections.

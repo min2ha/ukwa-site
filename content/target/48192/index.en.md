@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Civitas: Mitigating the impact of tariffs on UK-EU trade
-
 Previous research from Civitas has revealed that post-Brexit, in the event of there being no trade treaty, UK exports to the EU-27 could expect to suffer tariff costs in the region of £5.2 billion, but the corresponding exports from the EU-27 to the UK would face costs in the region of £12.9 billion. These figures were advanced as a strong argument that it is in the best interests of the EU-27 to agree a trade treaty to permit tariff-free access to their markets to the UK. This paper considers the policy responses open to the UK in the event that a trade treaty is not reached, in terms of mitigating the cost of these tariffs for UK businesses.

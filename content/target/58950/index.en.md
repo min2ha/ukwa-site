@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Community Food Co-ops in Wales - RRU
-
 A community food co-op operates is held on a weekly basis at a local community venues and is a non-trading initiative run by volunteers on behalf of the community.  The produce comes directly from a local supplier, supporting a local farm, retailer or wholesaler. There are over 300 community food co-ops running across Wales. This site is managed by Rural Regeneration Unit Ltd.

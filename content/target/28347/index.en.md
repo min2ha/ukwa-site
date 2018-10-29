@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# International Institute of Communications (IIC)
-
 The International Institute of Communications (IIC) is an independent, global, not for profit policy forum for the converging telecoms, media and technology industries. Membership offers a discussion framework and professional network for senior level strategists working at the intersection of business and public policy. The IIC was established in 1969.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Glencorse Old Kirk
-
 Site of a country house in Midlothian operating as a wedding venue.

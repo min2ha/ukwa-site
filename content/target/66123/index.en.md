@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# St. John Operative No. 347, The
-
 Site of a masonic lodge located in Rutherglen, Glasgow and affiliated with the Grand Lodge of Scotland.

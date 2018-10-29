@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Advisory, Conciliation and Arbitration Service: Gender pay gap reporting
-
 A web page from the Advisory, Conciliation and Arbitration Service on gender pay gap reporting 

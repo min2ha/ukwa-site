@@ -10,5 +10,3 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Scottish Local Authorities Economic Development Group (SLAED)
-

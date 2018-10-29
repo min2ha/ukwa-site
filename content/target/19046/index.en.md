@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: David Cameron could learn a lot from the Magna Carta
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Zebadiah Abu-Obadiah (Al-Zebabist Nation of Ooog)
-
 Zebadiah Abu-Obadiah stood as Al-Zebabist Nation of Ooog candidate for Thanet South at the 2015 General Election but was not elected.

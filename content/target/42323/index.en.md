@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cheddon Fitzpaine
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UFS Union for the Future
-

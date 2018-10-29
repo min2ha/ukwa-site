@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# EUROfusion
-
 EUROfusion is a publisher of scientific publications.

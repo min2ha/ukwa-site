@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martyn Singleton (@MartynSingleton) on Twitter (Labour candidate for Montgomeryshire)
-

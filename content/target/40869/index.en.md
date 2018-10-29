@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Fife Voluntary Action
-
 Site of an organisation offering support, development and representation to community groups, voluntary organisations, social enterprises and volunteers in the Fife council area. Third Sector.

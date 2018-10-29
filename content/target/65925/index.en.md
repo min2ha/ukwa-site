@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# The British Fluoridation Society
-
 The British Fluoridation Society was founded in 1969 to work for improved dental health in the UK through the introduction of water fluoridation schemes.

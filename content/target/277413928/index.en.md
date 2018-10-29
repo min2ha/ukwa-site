@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# The Migration Observatory
-
 Based at the University of Oxford Centre on Migration, Policy and Society (COMPAS), the Migration Observatory provides evidenced-based analysis and briefings to support public debate on migration.

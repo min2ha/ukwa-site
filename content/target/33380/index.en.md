@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# The Highland Institute for Contemporary Art (HICA)
-
 The Highland Institute for Contemporary Art (HICA) isan artist-run space, located near Inverness in the North of Scotland.

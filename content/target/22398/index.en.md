@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election TV debate: Everything you need to know about the Cameron-Miliband clash
-
 None

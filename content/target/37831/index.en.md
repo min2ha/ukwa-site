@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brussels attacks: Terrorism could break the EU and lead to Brexit
-

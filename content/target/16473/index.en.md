@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron has stopped trying to wrestle the Ukip pig
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Jeremy Corbyn, take note: leftwing remainers won’t stay silent on Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Pandemic Influenza"
 }
 
-# Octagon Services Ltd
-
 None

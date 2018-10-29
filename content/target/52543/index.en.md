@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cwmaman Institute FC
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Trade Bill
-
 This bill contains details of the government's trade policy post-Brexit. Ministers say the Trade Bill includes provisions for the UK to implement existing EU trade agreements and help ensure firms can still access foreign government contracts worth £1.3tn. It will also create a new trade remedies body to defend UK businesses against injurious trade practices.

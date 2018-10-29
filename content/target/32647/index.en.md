@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Continence Product Advisor
-
 Non-profit resource for patients and health care professionals giving advice on continence products.

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Post
-
 Website for Jersey Post or Jersey Post Group - the licensed universal service provider of mail service for the Bailiwick of Jersey.

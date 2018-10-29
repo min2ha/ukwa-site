@@ -10,5 +10,3 @@
   "start_date": "2010-05-24T00:00:00Z"
 }
 
-# Droitwich Canals Restoration in Pictures
-

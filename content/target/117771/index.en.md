@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Women's Studies Internet Resources
-

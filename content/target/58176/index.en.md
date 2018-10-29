@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Belmont Filmhouse
-
 Site of a cinema in Aberdeen.

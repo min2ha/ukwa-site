@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Moroccan Community in Birmingham
-
 Facebook presence of Moroccan Community in Birmingham

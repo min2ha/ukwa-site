@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lindsay Whittle on Facebook (Plaid Cymru candidate for Caerphilly)
-
 Lindsay Whittle is the Plaid Cymru candidate for Caerphilly at the 2016 National Assembly for Wales Election.

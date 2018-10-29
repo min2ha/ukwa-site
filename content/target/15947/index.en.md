@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Standards Commission for Scotland, The
-
 The Standards Commission is an independent public body which promotes and enforces the Codes of Conduct for councillors and board members of devolved public bodies.

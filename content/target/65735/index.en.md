@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Denholm Transport Limited
-
 Denholm Transport Limited is a road haulage company that is a subsidiary of the Denholm Group. 

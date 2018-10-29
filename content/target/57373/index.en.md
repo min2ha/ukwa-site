@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Re-Union Canal Boats
-
 Site of a social enterprise and charitable organisation based in Edinburgh and Falkirk operating across the Union and Forth & Clyde Canals.

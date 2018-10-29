@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Douglas Beattie (@douglasbeatt) on Twitter
-
 Twitter profile of Douglas Beattie, Scottish Labour candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2017 general election.

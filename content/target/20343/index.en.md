@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Julia Reid on Facebook (UKIP candidate for Chippenham)
-

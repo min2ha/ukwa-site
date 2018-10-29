@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Innerleithen Community Council
-
 Site of a community council for the communities of Innerleithen, Cardrona, Traquair & Glen​ in [historic Peeblesshire] the Scottish Borders.

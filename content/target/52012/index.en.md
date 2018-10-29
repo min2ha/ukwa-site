@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Barge: London's floating church
-
 St. Peter's Barge is a church community in the Docklands area; part of the Church of England.

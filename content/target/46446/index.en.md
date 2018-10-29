@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Cardiff Institute of Society, Health and Wellbeing (CISHeW)
-
 Cardiff Institute of Society, Health and Wellbeing (CISHeW) is a new research institute within Cardiff School of Social Sciences at Cardiff University focusing on 'social action, policy dialogue, the dynamic nature of health and wellbeing, and social justice'. 

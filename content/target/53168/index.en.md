@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# DePaul UK's Manifesto Briefing
-
 In 2016 Depaul UK worked with 3,000 young people across the country who were homeless or at risk of homelessness. It is calling on all political parties to commit to ensuring that no young person sleeps in an unsafe place.

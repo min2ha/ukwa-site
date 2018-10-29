@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Healing and Revival Church, Malpas, Newport
-
 Trinity Healing and Revival Church, Malpas, Newport is part of the Presbyterian Church of Wales.

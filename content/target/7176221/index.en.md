@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Nelly's Garden
-
 None

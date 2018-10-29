@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Why Vote Leave?
-
 Campaign document for the Vote Leave campaign. 

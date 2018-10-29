@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Marc Heaton
-
 Marc Heaton is a versatile Welsh artist born in Pontypridd and now based in Devon. 

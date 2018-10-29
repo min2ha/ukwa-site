@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Alexander McCall Smith
-
 Alexander McCall Smith is the author of several series of novels, including No 1 Ladies’ Detective Agency and Scotland Street novels.

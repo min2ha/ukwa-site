@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Citizen's Theatre
-
 Theatre based in Glasgow, Scotland.

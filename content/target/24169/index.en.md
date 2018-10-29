@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Miliband savages brother Ed for 'backwards' campaign
-
 None

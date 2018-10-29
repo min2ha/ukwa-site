@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Pact between Labour and the SNP could end the union, warns Major
-
 None

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Re-Elect Sandra White SNP on Facebook
-

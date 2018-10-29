@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Isle of Bute Jazz Festival
-
 Site of an annual jazz festival based in Rothesay, Isle of Bute.

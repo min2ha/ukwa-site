@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Fowler's Real Ales
-
 Site of a brewer at Preston Pans, East Lothian.

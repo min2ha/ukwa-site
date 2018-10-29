@@ -10,5 +10,3 @@
   "start_date": "2005-03-01T00:00:00Z"
 }
 
-# Society for the Social History of Medicine, The (SSHM)
-

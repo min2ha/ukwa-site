@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# DPAC (@Dis_PPL_Protest) on Twitter
-
 DPAC was formed by a group of disabled people after the 3rd October 2010 mass protests against cuts in Birmingham, England. The 3rd October saw the first mass protest against the austerity cuts and their impact on disabled people-It was led by disabled people under the name of The Disabled Peoples’ Protest.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stithians RFC
-
 The official website of Stithians Rugby Club.

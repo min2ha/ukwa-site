@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# British Computer Fairs (BCF)
-
 British Computer Fairs (BCF) started running computer fairs back in 1994 under the name of British Computer Fairs and it operates in London and the South East.

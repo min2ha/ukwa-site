@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Talgarth and District Historical Society
-

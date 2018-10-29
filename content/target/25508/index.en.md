@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory manifesto pledge of English votes for English laws is 'betrayal of Scotland'
-
 None

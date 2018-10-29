@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# Data.uel
-
 Data.uel is the new research data repository for University of East London. Researchers at UEL can deposit their research data here, and link it to their publications in ROAR. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron wins majority for Conservatives in Election 2015 victory
-
 None

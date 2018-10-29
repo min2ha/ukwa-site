@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Bowling Association
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Health Service Centre (SHSC)
-
 SHSC provides events, venue and meeting services to the NHS in Scotland; it is a part of NHS National Services Scotland.

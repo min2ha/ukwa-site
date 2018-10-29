@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Academy of Contemporary Music (ACM), The 
-
 Official website of the Academy of Contemporary Music, Guildford.

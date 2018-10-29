@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: "How cyberbullies target their victims: Expert reveals the eight disturbing ways trolls can make people feel vulnerable"
-
 Daily Mail article about cyberbullying

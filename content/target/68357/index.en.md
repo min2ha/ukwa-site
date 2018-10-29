@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Derbyshire Chargers RLFC
-
 A community rugby league team based around North Derbyshire. Playing opportunities for all from the age of 6 upwards.

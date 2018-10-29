@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Council of Christians and Jews
-
 <p>Interfaith	Christian-Jewish<br />
 Christian/Jewish interfaith council</p>

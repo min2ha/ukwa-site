@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# British Association of Nature Conservationists (BANC)
-
 None

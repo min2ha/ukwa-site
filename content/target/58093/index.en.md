@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Machars Movies
-
 Site of a community cinema located in the Isle of Whithorn, Dumfries & Galloway

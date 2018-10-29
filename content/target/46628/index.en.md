@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Gwyl Gwydir
-
 Gwyl Gwydir is an Independent Music Festival in North Wales. 

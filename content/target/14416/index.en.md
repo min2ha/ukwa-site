@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Local businesses (toy shops, book shops, clothes...
-
 Ewan Morrison posts about amazon.com and Scottish Government funding on the 13th of July, 2014.

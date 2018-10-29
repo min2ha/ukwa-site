@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Could 4.3 million families lose child benefit? Osborne refuses to rule out depriving more parents of cash to tackle deficit
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: In-Between the Lines of the High Court Brexit Judgment: EU Transnational Rights and their Safeguards
-
 This post casts another look at the High Court judgment on the government’s power to start the process of UK withdrawal from the EU. It reflects further on the EU law implications of the judgment, beyond the political furore that it has raised and possibly beyond the immediate contingencies of Brexit. The argument is that the judgment, albeit focusing on a question of UK constitutional law, also engages with the problem of safeguards for transnational rights – e.g. rights of British nationals in other Member States- in the process of a Member State’s withdrawal from the EU. Questions that the judgment prompts in this respect bear on EU law from three distinct perspectives that warrant closer analysis.

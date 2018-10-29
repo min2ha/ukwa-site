@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lauren Price (LLPrice94) on Twitter
-
 The twitter profile of althete Lauren Price, boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.

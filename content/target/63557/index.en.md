@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ervie-Kirkcolm Church of Scotland
-

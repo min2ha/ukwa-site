@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Dr Johann Gregory
-
 Dr Johann Gregory is an early career academic with special expertise in English literature and and emerging expertise in emerging economy.  He is also a Research Associate for Cardiff University’s Creative Economy project.

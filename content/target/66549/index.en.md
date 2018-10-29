@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Office of Qualifications and Examinations Regulation (Ofqual) (@ofqua) on Twitter
-
 Official channel for the regulator of qualifications, exams and assessments in England.

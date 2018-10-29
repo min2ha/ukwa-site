@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: The general election is no time to play Russian roulette with our children's lives by voting in climate change sceptics 
-

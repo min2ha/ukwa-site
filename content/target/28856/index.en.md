@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# VE Day Beacons
-
 Over 200 beacons will be lit on Friday 8 May to mark Victory in Europe (VE) Day.

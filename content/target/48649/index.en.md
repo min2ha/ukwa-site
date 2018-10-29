@@ -10,5 +10,3 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Learn Direct Cymru Wales
-

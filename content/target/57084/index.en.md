@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Strathaven Balloon Festival
-
 Site of an annual hot air balloon festival stages at Strathaven, Lanarkshire.

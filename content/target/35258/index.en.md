@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Colin Turbett (@ctur282388) on Twitter
-
 The Twitter profile of Colin Turbett, RISE Alliance candidate for West Scotland in the 2016 Scottish parliament election.

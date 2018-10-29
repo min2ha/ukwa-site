@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Scotland United Against Trump: National Demonstration on Facebook
-
 Facebook page of a one-off demonstration against the visit of US President Donald Trump, staged on 14 July 2018

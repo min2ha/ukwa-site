@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Inclusion Scotland
-
 Site of a consortium of disabled peoples' organisations and disabled individuals. Through a process of structured development we aim to draw attention to the physical, social, economic, cultural and attitudinal barriers that affect our everyday lives as disabled people in Scotland.

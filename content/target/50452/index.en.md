@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Only Labour can secure a fair Brexit. Here’s how
-

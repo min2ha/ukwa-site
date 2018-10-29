@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Porth Esboniadur
-
 The Esboniadur is a Coleg Gymraeg Cenedlaethol wiki providing information on the following subjects for students to support their work at the college: Geography, TV and Film, Theatre a Radio Drama. 

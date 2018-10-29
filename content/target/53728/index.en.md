@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ipetitions: 16 year olds need their vote!
-
 A petition to allow 16 and 17 year olds the right to vote in the UK.

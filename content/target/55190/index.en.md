@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Stockbridge, Grassmarket, Leith & Fountainbridge Markets
-
 Site of a group of weekly markets run by independent small traders and located at sites throughout Edinburgh.

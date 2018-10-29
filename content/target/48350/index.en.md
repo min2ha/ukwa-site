@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Trump interview quotes - and the reaction
-
 Donald Trump gave his first UK interview since being elected US president, speaking to Conservative MP and Times writer Michael Gove. Here are a selection key quotes, and some of the reaction to them.

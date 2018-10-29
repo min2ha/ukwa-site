@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Parliamentary Digital Service Blog
-
 The Parliamentary Digital Service Blog

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Addaction Scotland
-
 Site of the Scottish arm of an organisation established to represent localised drug and alcohol issues that our services have to address in Scottish communities.

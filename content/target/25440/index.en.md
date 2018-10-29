@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour has a plan for minorities – and that just might win it the election
-
 None

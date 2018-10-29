@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Gavin Mitchell Comics & Illustration
-
 Gavin Mitchell is a Comic book Graphic Designer living in Wales. The blog was written between 2009 and 2015.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: David Cameron fluffs citizenship test on David Letterman's Late Show
-

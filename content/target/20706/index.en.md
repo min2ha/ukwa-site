@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Johnstone on Facebook
-
 The Facebook page of Alex Johnstone, Scottish Conservative candidate for Banff and Buchan in the 2015 UK General Election.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Whitechapel Gallery: Electronic Superhighway (2016-1966)
-
 The exhibition Electronic Superhighway (2016-1966) took place at the Whitechapel Gallery from 29 January to 15 May 2016.

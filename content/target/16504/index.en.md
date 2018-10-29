@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Cameron should 'stop ducking' TV election debates, says Miliband
-
 None

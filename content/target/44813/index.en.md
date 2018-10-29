@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T12:00:00Z"
 }
 
-# London Palestine Action
-
 London Palestine Action is a network of people in London taking creative action against Israeli apartheid through BDS and other effective, participatory Palestine solidarity work.

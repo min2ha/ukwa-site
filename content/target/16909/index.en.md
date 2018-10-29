@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Mencap
-
 Mencap is a charity working with people with a learning disability to change laws and services, challenging prejudice and directly supporting thousands of people.

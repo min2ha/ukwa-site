@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Emanuel (Lemanuel19) on Twitter
-
 <p>The twitter profile of middle distance runner Lee Emanuel, competing in the 1500m for Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# SPECIFIC
-
 SPECIFIC is an academic and industrial consortium led by Swansea University with BASF, NSG Pilkington, Tata Steel and Cardiff University as strategic partners to address the challenge of low carbon electricity and heat by enabling buildings to generate, store and release their own energy, in one system, using only the energy from the sun. SPECIFIC is based at Baglan Bay Innovation Centre.

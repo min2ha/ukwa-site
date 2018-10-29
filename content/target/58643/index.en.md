@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Walking Scottish Borders
-
 Site provinding information on walking routes for visitors to the Scottish Borders.

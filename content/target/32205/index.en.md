@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Twristiaeth Cynaliadwy Powys | Sustainable Tourism Powys
-
 Sustainable Tourism Powys were responsible for 'grants totalling £870,000 have so far been awarded to 235 local projects: area of supported include woodland trails, high rope course, cycle tracks, music and arts events, activities for improving access to the outdoor, green energy initiatives, recycling and energy reduction schemes, marketing campaigns, web site development and enhancement.' 

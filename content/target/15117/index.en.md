@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kilcullen Diary, A
-
 <p>A Kilcullen Diary is a website dedicated to local issues. It is edited by Brian Byrne.</p>

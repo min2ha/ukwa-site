@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kickback Motorcycle Show
-
 Website for the Kickback Motorcycle Show

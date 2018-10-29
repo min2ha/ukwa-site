@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jewish Community of Berkshire
-
 A lively and welcoming Jewish community.

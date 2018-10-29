@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering the First World War in Balsall Heath 
-
 This page explores details from Archives and the local press about Balsall Heath men in the war. It is part of a project, financed by the Heritage Lottery Fund, that has compiled as much information as is possible on the men listed on local memorials and many who survived the war and thus are largely unknown today.

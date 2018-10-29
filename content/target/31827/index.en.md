@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Ddinesig Aberystwyth a'r Cylch | Aberystwyth and District Civic Society
-

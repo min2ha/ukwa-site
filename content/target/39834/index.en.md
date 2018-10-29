@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cunninghame South SNP (@CS_SNP) on Twitter
-
 Twitter profile of the Cunninghame South branch of the Scottish National Party (SNP).

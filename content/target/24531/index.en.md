@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: SNP manifesto to set out UK-wide 'alternative to cuts'
-
 None

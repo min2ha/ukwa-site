@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party overtakes Lib Dems in new opinion poll
-
 None

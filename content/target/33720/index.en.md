@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Oundle School
-
 Website of Oundle School, Peterborough.

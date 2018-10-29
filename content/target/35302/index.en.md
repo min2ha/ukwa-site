@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: CBI accused of scaremongering again over the Brexit after heads of 21 business federations use letter to say Britain must maintain its ties to Brussels   
-

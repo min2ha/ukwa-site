@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Erne West Evangelical Church
-

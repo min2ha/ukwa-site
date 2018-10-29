@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Office for Budget Responsibility
-
 The Office for Budget Responsibility was created in 2010 to provide independent and authoritative analysis of the UK’s public finances.

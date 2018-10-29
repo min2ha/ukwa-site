@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Barn Owl Trust
-
 None

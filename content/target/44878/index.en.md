@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Psephizo
-
 A blog by Ian Paul who is a theologian, author, speaker and an academic consultant. 

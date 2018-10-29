@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Procedure Committee: Scrutiny of Delegated Legislation under the European Union (Withdrawal) Act 2018
-
 The House of Commons Procedure Committee's final report on Commons scrutiny of the detailed process of incorporating EU law into UK law to prepare for Brexit. 
 

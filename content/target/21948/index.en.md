@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Wales Sport Awards | Gwobrau Chwaraeon Cymru
-

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona O'Donnell for South of Scotland on Facebook
-

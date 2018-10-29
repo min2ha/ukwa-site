@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Hockey Forum
-
 An online enthusiast community concerned with ice hockey. Discusses UK based ice hockey and North American ice hockey.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# Estyn
-
 Estyn is the office of Her Majesty's Inspectorate for Education and Training in Wales. They are independent of, but funded by, the National Assembly for Wales. The purpose of Estyn is to inspect quality and standards in education and training in Wales.

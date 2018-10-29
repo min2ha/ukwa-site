@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Liverpool Green Party General Election Crowdfunder site for Stephanie Pitchers
-
 Stephanie Pitchers stood as Green Party candidate for Liverpool riverside for the 2017 General Election; this is her crowdfunded site to fund her election campaign.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jaqueline Foster (Conservative MEP for the North West)
-
 Jacqueline Foster stood as Conservative candidate for the North West at the 1999 European Parliament election and was elected to serve as MEP.  She was subsequently re-elected in 2005, 2009 and 2014. Jacqueline is the Conservative Spokesman on the Transport & Tourism Committee and is also Deputy Leader of the Conservative MEPs.

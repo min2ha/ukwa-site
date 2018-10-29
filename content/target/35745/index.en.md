@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Business leaders' EU letter adds little to 'In' campaign
-

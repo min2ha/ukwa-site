@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IP EXPO Manchester
-
 IT event taking place in Manchester.

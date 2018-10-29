@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Explore Tobermory
-
 Site providing visitor / tourist information for Tobermory, the largest town on the Isle of Lewis, Inner Hebrides, Scotland.

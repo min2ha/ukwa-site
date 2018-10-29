@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Economic Performance: Brexit 2016
-
 Objective, brief and non-technical, CEP BREXIT Analysis is a series of background briefings on the issues facing the public over the referendum on Britain's membership of the European Union. 

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Retro Isle
-
 Retro Isle is a website dedicated to retro computers and games.

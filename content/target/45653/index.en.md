@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union
-

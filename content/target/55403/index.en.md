@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Local Government Association: Brexit
-
 The Local Government Association analyses and comments on the impact of Brexit on local authorities

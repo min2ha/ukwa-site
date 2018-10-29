@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Above and Beyond Party (@VoteAboveBeyond) on Twitter  
-

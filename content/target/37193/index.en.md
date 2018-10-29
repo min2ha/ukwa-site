@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: David Cameron: I will stay as PM if I lose EU referendum
-

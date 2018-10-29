@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# St David's and Dewisland Historical Society
-
 <p>History society for St David's in Pembrokeshire.</p>

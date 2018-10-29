@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Andalucía.com forum
-
 The forum  provides information about Andalucia to help tourists enjoy the region and foreign residents settle and integrate into the local and international culture. The Living in Andalucía topic includes a discussion of the impact of Brexit on expatriates. The General topic includes a discussion of the views of Spanish people.
 

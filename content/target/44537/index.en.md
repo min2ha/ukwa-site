@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Blog: What next for charities after Brexit?
-
 blog post on the effect of Brexit on charities

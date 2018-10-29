@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Gabriel's Catholic Church, Merrylee
-
 Site of a Scottish Roman Catholic parish church located in Merrylee, Glasgow.

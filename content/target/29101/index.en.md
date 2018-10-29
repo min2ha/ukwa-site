@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Southampton & District Green Party
-
 Website of Southampton & District Green Party, providing information on officers and committee members, social events and local news.

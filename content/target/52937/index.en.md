@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Conversation, The: UK election 2017
-
 News, research and comment on the UK general election of 2017

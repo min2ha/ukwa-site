@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# PaulHamlynFoundation (@phf_uk) on Twitter
-
 Independent funder focussing on the Arts, Young people, Education & Learning and Migration. we work across the UK and in India. 

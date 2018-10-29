@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clì Gàidhlig (@CliGaidhlig) on Twitter
-
 Clì Gàidhlig is an organisation for supporting adult Gaelic learners. This is its official Twitter profile.

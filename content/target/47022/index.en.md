@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# WeLoveMagic
-
 This website was set up in 2008 by magic enthusiast Georgie.

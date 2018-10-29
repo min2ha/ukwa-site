@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# GeekedFest 
-
 GeekedFest was an annual event established in 2015 and is a South Wales based comic-con.

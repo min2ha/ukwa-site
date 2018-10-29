@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Mair : Solidarity
-
 Bill Mair is the Solidarity list candidate for Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.

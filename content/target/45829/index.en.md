@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# DMG Media
-
 DMG Media is the consumer media company of DMGT PLC.

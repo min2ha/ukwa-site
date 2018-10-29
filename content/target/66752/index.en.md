@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Crowdfunder: Support pro-choice education
-
 Crowdfunding project by Education for Choice charity

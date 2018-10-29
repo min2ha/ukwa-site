@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Lincoln Castle Revealed Project Dig - Volunteers Needed
-

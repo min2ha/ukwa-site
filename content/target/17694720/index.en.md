@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Welwyn St Mary's - Ground Source Heat Pump System
-
 None

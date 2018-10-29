@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband's support surges to new high after victory in BOTH TV debates 
-
 None

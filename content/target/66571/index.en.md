@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Framework for the UK-EU Partnership Data Protection
-
 This presentation is part of a series produced by the UK negotiating team for discussion with the EU, in order to inform the development of the future framework. It focuses on the UK’s proposals for the free flow of personal data between the UK and the EU.
 
 

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Institute for Food Science and Technology
-
 The Institute of Food Science & Technology (IFST) is the leading qualifying body for food professionals in Europe and the only professional body in the UK concerned with all aspects of food science and technology. Their membership comprises individuals from a wide range of backgrounds, from students to experts, working across all aspects of food science and technology, and from academia through to enforcement.  It is a registered charity (no 1121681) and a company limited by guarantee (no 930776)

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Three things that need to happen before I defend men from Olympic sexism
-
 A response to internet commentators complain about ‘horny PC feminazis’ complaining about sexist TV coverage while ogling male Olympians. 

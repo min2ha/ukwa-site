@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# North Wales Horse
-
 North Wales Horse is the essential local information resource for the equestrian community in North Wales (Anglesey, Conwy, Denbighshire, Flintshire, Gwynedd, Wrexham)

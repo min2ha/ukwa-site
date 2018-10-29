@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Ladies GFA (@londonladiesgaa) on Twitter
-
 London Ladies Gaelic Football Association. 

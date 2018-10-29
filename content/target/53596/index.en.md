@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fenland Green Party (@NECambsGreens) on Twitter  
-
 Renationalise Rail and Energy, Scrap Trident, Anti-Austerity, Universal Basic Income, Free Tuition Fees, Keep NHS Public, Living Wage.

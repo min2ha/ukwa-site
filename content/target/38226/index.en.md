@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Christians4Britain (@Xtians4Britain) on Twitter
-
 Non-denominational cross-party broad-church body of Christians advocating Brexit

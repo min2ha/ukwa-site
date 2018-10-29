@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War MK: From Conflict to Cosmopolis: Commemorating the Great War in Milton Keynes
-

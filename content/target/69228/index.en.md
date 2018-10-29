@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sky News: UK could refuse to pay Brexit bill if EU fails to agree trade deal, says Raab
-
 Britain could refuse to pay its divorce bill to Brussels if it does not get a trade deal, the new Brexit Secretary warned.
 

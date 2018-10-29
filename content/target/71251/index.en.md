@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Arundel Cathedral
-
 The web site for Arundel Cathedral, cathedral church for the catholic diocese of Arundel and Brighton.

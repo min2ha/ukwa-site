@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: An antidote to Alex Salmond: offer the Scots home rule 
-
 None

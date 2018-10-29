@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Shapinsay Kirk
-
 Site of a Church of Scotland parish church at Shapinsay, Orkney.

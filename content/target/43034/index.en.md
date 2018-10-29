@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# People's Press Online Archive, The
-
 Online archive of the Morning Star and Daily Worker newspapers from 1930 to 1945 and 2000 to the present day

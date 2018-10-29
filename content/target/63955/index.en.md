@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Robroyston Church of Scotland
-

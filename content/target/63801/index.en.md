@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: The EU perspective on the one-year countdown
-
 Big EU powers France and Germany are convinced that they gain more by protecting the EU and its single market for members than they risk losing in establishing weaker trade relations with the UK after Brexit. Heading into this one-year-to go countdown until Brexit, EU countries are feeling confident.
 
 

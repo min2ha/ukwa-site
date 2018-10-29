@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Four alternatives to EU membership rejected by the government 
-
 Guardian, The

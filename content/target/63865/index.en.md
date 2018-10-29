@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BrexitLawNI
-
 A collaborative ESRC-funded research project to identify the constitutional, legal, human rights and equality aspects of Brexit for Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Coleman on Facebook
-
 This is the Facebook page of Daniel Coleman, the Liberal Democrats candidate for Dundee West in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vince Cable on Facebook (Liberal Democrats candidate for Twickenham) 
-
 Vince Cable stood as Liberal Democrats candidate for Twickenham at the 2015 General Election but was not elected. 

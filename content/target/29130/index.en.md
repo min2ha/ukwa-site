@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Boswell Book Festival
-
 Boswell Book Festival

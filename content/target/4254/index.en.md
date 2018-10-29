@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Red Paper Collective
-
 The Red Paper Collective is made up of trade unionists, academics, politicians. Their purpose is to provide a Labour voice in the nationalist v unionist debate around the referendum.

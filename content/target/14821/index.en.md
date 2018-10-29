@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - The Scottish social networking site Kiltr have an...
-
 <p>Yes Scotland post made at 7.22am 17th September, 2014.</p>

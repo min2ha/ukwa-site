@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# VE 70 : Let the Memory Live on with a Story 
-
 Royal British Legion crowd sourcing project  to gather and share stories  relating to VE & VJ Day

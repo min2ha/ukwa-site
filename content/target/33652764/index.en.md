@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Shedworking - A lifestyle guide for shedworkers
-
 None

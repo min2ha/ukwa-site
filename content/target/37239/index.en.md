@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SKY News: Sturgeon Vows To Battle Brexit Despite Poll
-
 SKY News: Sturgeon Vows To Battle Brexit Despite Poll

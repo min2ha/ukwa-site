@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Diocese of Oxford: First World War Centenary
-
 None

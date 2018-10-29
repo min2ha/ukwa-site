@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Royal Holloway opens Magna Carta centre to study digital age 'freedoms'
-

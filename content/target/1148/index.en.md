@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North of England Cancer Network
-
 None

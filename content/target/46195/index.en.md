@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Pathway Care Fostering
-
 Pathway Care is one of the country’s leading independent fostering agencies. Their main office is based in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Queen voiced 'scathing views' on EU more than once, says Sun editor
-
 An article exposing the points of view both of The Sun editor and of people, particularly people in the government, who believe that claims of the Queen backing Brexit are false

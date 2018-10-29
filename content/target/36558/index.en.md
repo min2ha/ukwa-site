@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Battle to remain in European Union lacks emotional punch, says top In donor Sir Anthony Bailey
-

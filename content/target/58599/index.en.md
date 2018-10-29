@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Live Borders
-
 Site of the business that delivers sporting and cultural events and facilities for the Scottish Borders.

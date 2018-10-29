@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Research Information Network (RIN)
-
 None

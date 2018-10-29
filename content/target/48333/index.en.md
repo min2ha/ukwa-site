@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aberystwyth Storytelling Festival 
-
 The site for Aberystwyth Storytelling Festival held from 2011 to 2013.

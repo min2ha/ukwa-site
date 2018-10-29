@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour was wrong to bring in 24 hour drinking, admits Andy Burnham
-
 None

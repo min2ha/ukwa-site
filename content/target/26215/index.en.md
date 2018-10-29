@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Children England: England's Children: A Manifesto
-
 None

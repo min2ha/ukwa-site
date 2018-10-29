@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# British Society for Eighteenth-Century Studies
-
 The British Society for Eighteenth-Century Studies promotes the study of all aspects of the Global ‘Long’ Eighteenth Century.

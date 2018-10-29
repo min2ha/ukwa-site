@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Stephen's Home Page
-
 <p>Stephen's Home Page contains text of books 'History of St Thomas Church, Heaton Norris' and 'Getting Started with the TI99/4A computer', Sample programs in sdlbasic, catalogue from ceased firm 'Stainless Software', reference page for disappeared film 'Magic Boy', reference page for local demolished historic cinema (Poco a Poco) with additional supporting reference pages.</p>

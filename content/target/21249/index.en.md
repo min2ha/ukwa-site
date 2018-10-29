@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geraint Davies MP (@GeraintDaviesMP) on Twitter 
-
 Labour & Co-op Candidate for Swansea West.

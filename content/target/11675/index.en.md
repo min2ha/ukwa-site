@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# stephen milne (mrStephenMilne) on Twitter
-
 The twitter profile of althete Stephen Milne, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

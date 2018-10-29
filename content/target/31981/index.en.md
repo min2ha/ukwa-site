@@ -10,5 +10,3 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Scottish Coastal Archaeology and the Problem of Erosion
-

@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Tweed Forum
-
 Site for a group with a broad membership of organisations and individuals representing a spectrum of interests throughout the Tweed catchment. Incorporating all those with an interest in the sustainable management of the Tweed catchment, our membership is cross-border, including both statutory and non-statutory bodies, local stakeholder groups, the private sector and environmental NGOs - Tweed area of South East Scotland and the North East of England.

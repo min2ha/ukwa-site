@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Preparations under way at Chislehurst and Sidcup school to mark Magna Carta 800th anniversary
-

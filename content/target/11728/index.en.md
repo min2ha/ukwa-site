@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aqeel Ahmed (BOXINGDISCUSION) on Twitter
-
 The twitter profile of althete Aqeel Ahmed, light flyweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

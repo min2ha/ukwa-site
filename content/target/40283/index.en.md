@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Re-connecting Portsmouth to World War 1: Spies, sea and the city
-
 This project will engage different cross-sections of local people (primary school children/students/senior citizens) to learn from their own research and help build a picture of the personal experiences of those involved in these conflicts and the wider impact on civilians in Portsmouth.

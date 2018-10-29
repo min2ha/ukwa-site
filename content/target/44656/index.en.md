@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# Glass Butter Beach Festival
-
 Glass Butter Beach Festival is a music festival held in Abersoch, Gwynedd.

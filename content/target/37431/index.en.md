@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Asian Lite News: Reporting on Cameron: Britain is ‘stronger, safer and better off’ in EU
-
 Britain will be “stronger, safer and better off” if it votes to stay in the European Union (EU), British Prime Minister David Cameron said.  Speaking at the Welsh Conservative conference in Llangollen, Cameron said that Britain will see “real opportunities for growth” in key sectors like digital and energy and services if it remains part of the EU, Xinhua reported.

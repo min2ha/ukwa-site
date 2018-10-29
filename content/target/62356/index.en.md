@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Torquay United F.C.
-
 Torquay United Football Club is a professional association football club based in Torquay, Devon, England. The club participates in the National League, the fifth tier of English football.

@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# John Keats, Keats House Hampstead London
-
 None

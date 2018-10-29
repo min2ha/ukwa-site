@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Pluscarden Abbey
-
 Pluscarden Abbey is a community of Catholic Benedictine monks living in the only medieval British monastery still being used for its original purpose.

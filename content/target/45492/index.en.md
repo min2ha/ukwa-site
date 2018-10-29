@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Adam Czerniawski
-
 Adam Czerniawski left Poland in 1941 and now lives in Monmouthshire. He is a Polish poet, prose-writer and translator of Polish literature and philosophy into English and a member of Academi.

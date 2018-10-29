@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# University of Worcester
-
 Official website of the University of Worcester.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: David Davis 'can live' with shorter EU transition
-
 David Davis said he could "live with" a transition period of under two years if that helped to secure an early deal.
 

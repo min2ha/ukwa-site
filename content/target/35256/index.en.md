@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Risk of EU breaking up is 'real', European Council President admits
-

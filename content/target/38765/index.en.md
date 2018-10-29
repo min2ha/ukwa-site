@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard McCready
-
 Richard McCready is the Scottish Labour candidate for Dundee City East in the 2016 Scottish Parliamentary election.

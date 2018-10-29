@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grangemouth Broncos (@thebroncos) on Twitter
-
 Grangemouth Broncos play American Flag Football the non-contact version of NFL Football

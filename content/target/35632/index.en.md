@@ -10,6 +10,4 @@
   "start_date": "2016-04-01T10:00:00Z"
 }
 
-# Hannah Pudner (@hannahpudner) on Twitter (Green Party candidate for Cardiff West)
-
 Deputy Leader of the Wales Green Party & their prospective candidate for Cardiff West, May 2016. 

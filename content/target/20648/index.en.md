@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Richard Baker for Aberdeen North
-

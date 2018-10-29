@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scunthorpe United F.C.
-
 Scunthorpe United Football Club is a professional association football club based in the town of Scunthorpe, Lincolnshire, England. The team play in League One, the third tier of the English football league system.

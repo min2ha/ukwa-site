@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Sue Lambert Trust
-
 The Sue Lambert Trust is a Norfolk based charity which provides support for survivors of sexual abuse.

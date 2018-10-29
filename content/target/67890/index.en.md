@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords  Hansard: 20th June 2018: European Union (Withdrawal) Bill
-
 The Lords pass the European Union (Withdrawal) Bill. Lord Newby announces that the Liberal Democrats will not rest until yjey have stopped Brexit.

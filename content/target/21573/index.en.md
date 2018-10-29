@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Alex Salmond predicts vote-by-vote deal with Labour
-
 None

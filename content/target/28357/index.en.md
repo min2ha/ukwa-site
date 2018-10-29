@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Forest School Association (FSA)
-
 Forest School Association (FSA) is the professional body and dedicated voice for Forest School within the UK. They are devoted to promoting quality Forest School for all.

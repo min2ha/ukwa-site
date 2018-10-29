@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Pigeon Racing Forum
-
 An online enthusiast forum concerned with pigeon racing. Discusses pigeon health, feeding, breeding, strains and families. Loft fixtures and fittings. Race information and shows, and various other topics.

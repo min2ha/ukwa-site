@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU leaders says UK offer could 'worsen situation'
-
 European leaders criticised the UK's offer to EU nationals after Brexit - with one senior figure claiming it could "worsen the situation" for them. European Council President Donald Tusk said the plan was "below expectations" while German Chancellor Angela Merkel said there had been "no breakthrough". 

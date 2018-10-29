@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC Question Time sketch: David Cameron v Ed Miliband... and Liam Byrne
-
 None

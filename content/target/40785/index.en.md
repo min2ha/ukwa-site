@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Totally Stokesley on Facebook
-
 Totally Stokesley is a Facebook Community Group created to discuss, support and praise everything going on in Stokesley.

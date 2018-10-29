@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# WEP Cardiff (@wepSouthWales) on Twitter  
-
 Women's Equality Party branch for Cardiff and the Valleys.

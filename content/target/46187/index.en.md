@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# https://www.gov.uk/government/groups/libraries-taskforce
-
 Implementing the Independent Library Report for England, providing leadership and helping to reinvigorate the public library service.

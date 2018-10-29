@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Destiny College
-
 Site of an international Christian leadership academy located in Glasgow, existing to train people to fulfil their potential in the Destinty Church context.

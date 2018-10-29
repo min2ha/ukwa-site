@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Will UK citizens have to pay to visit the EU after Brexit? 
-
 Following a Guardian article, and the Home Secretary’s confirmation, it’s clear that the EU is planning to institute some kind of Electronic System of Travel Authorisation (ESTA) in future, which could well apply to UK citizens visiting the EU after Brexit. This post examines the background, context and consequences.

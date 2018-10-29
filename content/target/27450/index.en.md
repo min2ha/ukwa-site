@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: UK election results: Was it 'The Sun wot won it' for David Cameron?
-
 None

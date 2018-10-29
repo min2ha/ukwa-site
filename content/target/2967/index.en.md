@@ -10,6 +10,4 @@
   "start_date": "2013-07-27T03:15:00Z"
 }
 
-# England Golf
-
 <p>England Golf is the governing body for all amateur golf in England. It was formed when the English Golf Union merged with the English Women's Golf Association on 1st January 2012.</p>

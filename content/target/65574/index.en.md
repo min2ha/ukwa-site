@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Association of Town and City Management (ATCM)
-
 ATCM is the largest membership organisation of its kind in Europe. We are dedicated to making sure town and city centres reach their full potential.

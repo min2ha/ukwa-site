@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The passion of a pumped prime minister – or the delusions of Dave?
-
 None

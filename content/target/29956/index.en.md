@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Get Stuffed Comedy
-
 Website for Get Stuffed comedy club and The Tringe comedy festival, Tring in Hertfordshire.

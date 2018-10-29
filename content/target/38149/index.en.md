@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maciej Wiczynski (@MaciejWiczynski) on Twitter
-
 Twitter profile of Maciej Wiczynski, the Scottish National Party list candidate for the Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.

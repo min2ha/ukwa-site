@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Waveney Valley Athletic Club
-
 We are the largest road running club in Lowestoft and Beccles and we also have a growing Junior Athletic club which is based in Lowestoft. 

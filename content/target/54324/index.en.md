@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Grant Smith (@GrantSmithForMP)  on Twitter (Independent Politician)
-
 Grant Smith stood as an Independent candidate for Maidenhead at the 2017 General Election but was not elected.

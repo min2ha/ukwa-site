@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Old Operating Theatre Museum, The
-
 Website of the Old Operating Theatre Museum, London

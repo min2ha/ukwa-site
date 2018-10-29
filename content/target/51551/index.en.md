@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Ukrainian Medical Association of the United Kingdom
-
 Ukrainian Medical Association of the UK (UMAUK) doing many projects to help Ukraine in this difficult time.

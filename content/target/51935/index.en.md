@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Weymouth
-
 Holy Trinity with St Nicholas in Weymouth, Dorset is a friendly, approachable and open church playing a central role in the local community.

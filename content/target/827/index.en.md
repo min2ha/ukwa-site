@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Great Western Ambulance Service
-
 None

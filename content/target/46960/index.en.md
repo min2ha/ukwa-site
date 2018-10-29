@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Schools Football Association
-

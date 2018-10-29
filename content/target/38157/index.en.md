@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron denies focus on EU vote has left government in chaos
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Central Lancashire
-
 None

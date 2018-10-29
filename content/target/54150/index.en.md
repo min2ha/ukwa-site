@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Trafnidiaeth Canolbarth Cymru | Mid Wales Transportation (TraCC)
-
 TraCC is a partnership between the three Mid Wales Local Authorities - Powys, Ceredigion and Gwynedd.

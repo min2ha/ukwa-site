@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# National Student Association of Medical Research (NSAMR), The
-
 <p>The National Student Association of Medical Research (NSAMR) is a student-led organisation that aims to encourage and enable medical students to pursue a career in academic medicine. It supports regional student research societies and funds an annual national student conference.</p>

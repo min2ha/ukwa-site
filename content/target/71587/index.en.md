@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Labour for A People's Vote
-
 Group works with grassroots Labour members all over Britain, and with trade unionists, councillors and MPs to campaign for an alternative to Tory Brexit, a People's Vote on their deal, and the election of a radical Labour government.

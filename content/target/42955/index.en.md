@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow's Merchant City Festival
-
 Site of an annual festival located in the hyper local area of central Glasgow known as Merchant City, and featuring street arts, music, theatre, food & drink, visual art, film, comedy, dance, fashion & design and children & families activities.

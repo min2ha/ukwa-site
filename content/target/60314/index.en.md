@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Obama warns against irresponsible social media use
-
 News article about the dangers of irresponsible social media use.

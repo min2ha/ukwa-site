@@ -10,6 +10,4 @@
   "start_date": "2007-07-17T00:00:00Z"
 }
 
-# WellChild
-
 Helps sick children and their families throughout the UK to manage the consequences of serious illness and complex health conditions through our programme of care, support and research.

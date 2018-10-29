@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rhys Taylor (@syhrtaylor) on Twitter
-
 Bangor Councillor and Liberal Democrat candidate for Arfon.

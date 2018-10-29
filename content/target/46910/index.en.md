@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Survation: A vote to leave: EU Referendum
-
 An article discussing polling around the EU Referendum.

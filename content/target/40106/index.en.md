@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Brymbo | Brymbo Community Council
-
 This site provides community members with the latest News & Events and a method to contact the community council to raise issues.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Resolution
-
 Resolution is a project by the design studio Barnbrook. A creative response to the political situation in Northern Ireland. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotsman, The: ‘Yes landslide’ if Westminster breaks powers vow
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Institute of Risk Management
-
 IRM is the leading body for professional risk management. We help build excellence in risk management to improve the way organisations work.

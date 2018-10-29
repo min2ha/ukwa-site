@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Greenwich School of Management London
-
 Official website of the Greenwich School of Management London.

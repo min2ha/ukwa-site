@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why the big beasts of politics must listen to the disillusioned voters I have met
-
 None

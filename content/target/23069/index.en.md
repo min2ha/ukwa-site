@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katy Beddoe (Green Party candidate for Islwyn)
-
 Katy Beddoe is the Green Party candidate for Islwyn at the 2016 National Assembly for Wales Elections and Caerphilly at the 2015 General Election.

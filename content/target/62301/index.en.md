@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Satori Lab, Culture Hackers
-
 The Satori Lab are based in Cardiff and describe themselves as 'Culture Hackers'. They support organisations transition from the industrial to the connected age and specialise in helping organisations with traditional cultures adapt to the new opportunities created by the networked society. 

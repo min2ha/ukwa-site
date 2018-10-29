@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Tory tensions still profound despite cabinet deal
-
 Describes how Theresa May outmanoeuvred the Brexiteers in her cabinet and persuaded them to accept her plan for future UK-EU relations as the only viable solution.  The Brexiteers were unable to put up a common fight, and capitulated.

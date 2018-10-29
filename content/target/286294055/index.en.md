@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Onestop Webshop
-
 <p>Onestop Webshop specialises in web design and eCommerce for business.</p>

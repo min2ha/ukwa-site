@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: As the Tory Brexit fight club slugs it out, do they even care about Ireland?
-

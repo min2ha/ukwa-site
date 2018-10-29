@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Ahmed J Versi (@ahmedversi) on Twitter
-
 Editor & Publisher, The Muslim News.

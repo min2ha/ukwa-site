@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Mountain Bike Rider Foum
-
 The online forum of the Mountain Bike Rider magazine. Discusses routes, bike buying, technical maintenance information, news, events and health & fitness and various other topics.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Belper in Wartime
-
 The website was created to mark the centenary of WWI, research has been done for all the names on the Belper War Memorial and a page is dedicated to each soldier.

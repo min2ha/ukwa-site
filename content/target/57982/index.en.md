@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital - Learning - Culture: Thoughts From David White
-
 David White has worked in various roles where digital, learning and culture meet. He has regularly spoken at events on topics such as digital identity, digital literacies and online credibility. Research interests include Learning in digital spaces, modes of engagement online, digital identity, critical digital literacies, online credibility, ways of knowing. This is his personal website.

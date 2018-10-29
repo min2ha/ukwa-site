@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Pals for Life
-
 'Pals for Life' provides an opportunity for young people and adults to learn about the First World War and the Pals Battalions that served in the Northwest.

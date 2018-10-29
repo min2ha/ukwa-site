@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Energy & Utilities Alliance
-
 None

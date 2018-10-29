@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Ruth Davidson was the star at Wembley. Can’t we have more politicians like her?
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# PoliticsHome
-
 Claims to be the most viewed and valued politics news source covering the Westminster Parliament.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Crynwyr Pwllheli (Quakers in Pwllheli)
-

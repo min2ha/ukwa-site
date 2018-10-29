@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cayman News Service (CNS)
-
 This site is one of four websites run by Cayman News Service Ltd, the premier online news outlet for the Cayman Islands and an entirely internet-based media house.

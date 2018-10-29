@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Llay Miners Welfare Football Club 
-

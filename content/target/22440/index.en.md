@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP conference: Party backs 50p rate of tax across UK
-
 None

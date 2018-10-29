@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gethin James on Facebook (UKIP candidate for Ceredigion)
-
 Gethin James is the UKIP candidate for Ceredigion at the 2016 National Assembly Election. 

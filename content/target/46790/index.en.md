@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Change Britain (@Change_Britain) on Twitter
-
 Twitter account of Change Britain, which campaigns to make a success of Britain's exit from the European Union.

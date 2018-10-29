@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Fiona Mills (@FionaMillsUKIP) on Twitter (UKIP candidate for Carlisle)
-

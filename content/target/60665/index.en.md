@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Cambuslang Royal Arch Lodge No. 114
-
 Site of a masonic lodge based in Cambuslang, South Lanarkshire.

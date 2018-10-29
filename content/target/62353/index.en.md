@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Morecambe F.C.
-
 Morecambe Football Club is a professional football club in Morecambe, Lancashire, England, which plays in League Two, the fourth tier of English football. In 2007, they were promoted for the first time into the Football League.

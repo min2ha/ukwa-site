@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Could Norfolk’s ‘rainbow’ alliance be the future of multi-party politics?
-
 None

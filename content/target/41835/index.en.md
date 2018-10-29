@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: A short guide to the EU referendum
-
 This Commons Library guide summarises a selection of its EU referendum related briefings. It describes the referendum process and considers the potential implications of either result following the vote in June 2016.

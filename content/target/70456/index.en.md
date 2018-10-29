@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# DeltaPoll: Sun on Sunday Landscape Poll
-
 Deltapoll’s survey for The Sun on Sunday in August 2018 looking at the state of the parties, Brexit, anti-Semitism and the weather.
 

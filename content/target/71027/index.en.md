@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Priestfield Parish Church
-
 Site of a Church of Scotland parish church at Dalkeith Road, Edinburgh.

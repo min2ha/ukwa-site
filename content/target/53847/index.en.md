@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sara Hyde (@sarakhyde) on Twitter (Labour Party Politician)
-
 Sara Hyde stood as the Labour Party candidate for Bromley and Chislehurst in the 2017 General Election but was not elected.

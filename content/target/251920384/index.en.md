@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Michael Bell - Ph.D. Students Blog
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Pitcairn Island: Mikes Pitcairn Website  
-
 Information on history, photos of various places on the Island and even  information on what its like to live on Pitcairn today.

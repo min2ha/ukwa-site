@@ -10,6 +10,4 @@
   "start_date": "2006-08-29T00:00:00Z"
 }
 
-# Website of Professor Ted Honderich including the Determinism and Freedom Philosophy Website
-
 None

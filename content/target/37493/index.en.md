@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Professional
-
 Arts Professional

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brent Health and Wellbeing Board
-
 None

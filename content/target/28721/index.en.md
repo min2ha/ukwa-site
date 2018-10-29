@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Robin Webster (@RobinWebster) on Twitter
-
 Twitter feed of Robin Webster, helped start up @carbonbrief. Now freelance researcher/writer on env policy, and working with @ClimateOutreach.

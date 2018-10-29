@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# GeoMôn | Anglesey Goepark
-
 GeoMôn is one seven Geoparks in the UK and is located in Amlwch, Isle of Anglesey. Geoparks advance the 'protection and use of geological heritage in a sustainable way'. 

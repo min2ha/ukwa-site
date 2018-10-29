@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow School of Art: Cabbages in an Orchard; The formers and forms of Charles Rennie Mackintosh and Graham Fagen.
-
 <p>Glasgow School of Art website. Alumnus Graham Fagen has been invited by The Glasgow School of Art Exhibitions Department to research Charles Rennie Mackintosh through the GSA Archives &amp; Collections Centre, and to create this solo exhibition of new work to be featured as part of GENERATION. Part of the cultural programme of Glasgow 2014.</p>

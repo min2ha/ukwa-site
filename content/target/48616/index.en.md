@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Davos 2017: Chancellor’s speech at the CBI’s British business Leaders Lunch
-
 Chancellor Philip Hammond pledged to do whatever is necessary to boost the British economy if the EU doesn't agree to a good deal over Brexit.

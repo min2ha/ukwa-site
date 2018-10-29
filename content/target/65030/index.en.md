@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Third Bridge
-
 Third Bridge Connections provides access to industry experts who can offer unique insights into companies and markets.

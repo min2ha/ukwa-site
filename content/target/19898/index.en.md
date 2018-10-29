@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# SNP Youth on Twitter
-
 Representing young people in the SNP.

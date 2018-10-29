@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Prestwick World Festival of Flight
-
 Site of a multimedia festival of aviation and flight featuring static and live air displays, exhibitions, conference and talks, as well as artistic events - located at Prestwick Airfield, Ayrshire.

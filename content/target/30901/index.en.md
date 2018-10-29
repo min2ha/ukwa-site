@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# London Design Festival
-
 The London Design Festival is an annual event, held to celebrate and promote London as the design capital of the world and as the gateway to the international creative community.

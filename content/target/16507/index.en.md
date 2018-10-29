@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: NHS set for a bumpy start to 2015
-
 None

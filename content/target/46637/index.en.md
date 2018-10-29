@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Art of Being Well, The
-
 The Art of Being explores experiences of mental health & substance dependency issues. The project is part-funded by Cardiff Council's Neighbourhood Fund and is produced with the support of VCS Cymru.

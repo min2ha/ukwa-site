@@ -10,6 +10,4 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# James Wright (@JamesForNowrich) on Twitter (Liberal Democrats candidate for Norwich North)
-
 James Wright stood as a Liberal Democrats candidate for Norwich North but was not elected. 

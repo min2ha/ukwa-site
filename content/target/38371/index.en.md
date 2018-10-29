@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Little Atoms: How modern Ireland should honour the Easter Rising, by someone who's been there
-
 Article on Little Atoms magazine.

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sukeban Magazine 
-
 A non-profit platform for talented people who deserve interest in their work, as well as aiming to include and support a wide range of talented individuals. 

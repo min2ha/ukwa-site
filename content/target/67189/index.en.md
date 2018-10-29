@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Betsi Research: Betsi Cadwaladr University Health Board
-
 Research is an important part of the work in Betsi Cadwaladr University Health Board and range from ranges from questionnaires, to highly complex, clinical trials testing new drugs and therapies. This is their official website.

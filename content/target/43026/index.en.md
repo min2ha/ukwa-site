@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave the EU
-
 Believes that the UK should on principle leave the European Union. There are a number of thorough and professional sites which advance this case in detail, in particular that of Richard North at http://www.eureferendum.com and others linked in the blogroll. This blog aims for something slightly different here: to publish brief, clear and incisive arguments on the fundamental case; and comparable commentary on the evolving approach to the UK referendum.

@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Harry Giles
-
 Harry Giles is an Orkney-born, Edinburgh based performer and poet.

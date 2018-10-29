@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Tony Blair’s Brexit speech: the message not the messenger
-

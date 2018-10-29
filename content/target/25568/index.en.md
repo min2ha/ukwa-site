@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Democratic Unionists: we'd seek review of BBC in hung parliament talks
-
 None

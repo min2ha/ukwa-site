@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hitchin Rugby Football Club
-
 The official Twitter account of Hitchin Rugby Football Club, was founded in 1954. The clubs emblem, the hedgehog, was chosen as being both apposite and unique. 

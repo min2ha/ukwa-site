@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cathy Jamieson on Facebook
-
 This is the Facebook page of Cathy Jamieson, the Labour Party candidate for Kilmarnock and Loudoun in the UK General Election on the 7th May 2015.

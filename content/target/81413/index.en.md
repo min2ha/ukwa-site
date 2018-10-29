@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Poole Maritime  Festival 2018
-
 Website for the Poole Maritime  Festival 2018.

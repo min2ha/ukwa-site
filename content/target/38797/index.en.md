@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Mauchline Holy Fair World War 1 History Project
-
 Project as part of the annual Mauchline Holy Fair enabling local schoolchildren to trace and research history of names from the local War Memorial.

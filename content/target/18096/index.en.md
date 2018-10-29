@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: TV debates: Watch David Cameron argue with himself over whether party leaders should clash on television
-
 None

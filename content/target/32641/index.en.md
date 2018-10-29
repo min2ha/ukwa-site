@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Longparish
-
 Website of Longparish, Hampshire.

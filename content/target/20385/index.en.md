@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jim Hume on Facebook
-
 Facebook page of Jim Hume, former Liberal Democrat Member of the Scottish Parliament and candidate for Ettrick, Roxburgh and Berwickshire in the 2016 Scottish Parliamentary election.

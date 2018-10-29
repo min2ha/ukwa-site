@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# London Drama
-
 London Drama, the Professional Association for teachers of drama and theatre in London, was originally formed in 1955 by teachers committed to the creative experience of educational drama and the school play. 

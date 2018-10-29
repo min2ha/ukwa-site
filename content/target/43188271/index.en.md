@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sevenoaks Conservatives
-
 Website of Sevenoaks Conservatives, providing information on MPs, MEPs, Association officers, county, district and town councillors, speeches, local and national news.

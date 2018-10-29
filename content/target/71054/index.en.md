@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southampton RFC on Pitchero
-
 The official website of Southampton Rugby Club.

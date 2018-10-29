@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Plas Kynaston Canal Group
-
 The Plas Kynaston Canal Group represents and promotes the community of Cefn near the Pontcysyllte World Heritage Site. 

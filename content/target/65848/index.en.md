@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Scottish Assessors Association
-
 Site of the association of valuation assessors for Scotland, responsible for setting council tax rates, and their portal which contains information about assessment, rates and related matters.

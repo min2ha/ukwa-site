@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit 2016 - Send the message, public group on Facebook
-
 A facebook group promoting Brexit

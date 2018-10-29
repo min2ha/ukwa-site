@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# St Marks Lodge at Glasgow No 102
-
 Site of a masonic lodge located in Glasghow and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: A year of Remainers’ warnings haven’t made Leave voters any more likely to think Brexit will be bad
-
 Over a year after the referendum, only a minority of Leave voters believe that Brexit will have any negative impact

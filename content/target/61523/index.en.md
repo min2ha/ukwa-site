@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Lodge Inverary St. John No. 50
-
 Site of a masonic lodge located in Inveraray, Argyll & Bute and affiliated with the Grand Lodge of Scotland.

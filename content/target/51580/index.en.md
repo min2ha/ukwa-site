@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mure Memorial Church
-
 Website of the Mure Memorial Church, which is located in Glasgow, Scotland. 

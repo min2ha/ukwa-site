@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Bull fighting. Foie gras. Don't tell me Europe's kinder to animals than us
-
 Responds to critics of Brexit who argue that it will mean lowering of animal welfare standards in the UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jim Hume
-
 The website of Jim Hume and Kris Chapman, Scottish Liberal Democrats candidates for the South Scotland regional list in the 2016 Scottis Parliament election.

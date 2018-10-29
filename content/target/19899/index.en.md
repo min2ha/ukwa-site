@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Youth Scotland on Twitter
-
 The twitter profile of the Youth Wing of the Scottish Liberal Democrats.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: What are the Conservatives' prospects for 2015?
-
 None

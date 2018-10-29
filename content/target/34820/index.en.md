@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# British-Italian Society (BIS), The
-
 The British-Italian Society (BIS) is a registered UK Charity, which promotes and encourages knowledge of Italy, the Italian way of life and Italy’s contribution to Western civilisation.

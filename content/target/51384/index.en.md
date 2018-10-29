@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# RSA Insurance Group plc
-
 RSA Insurance Group plc (trading as RSA) is a British multinational general insurance company. RSA has major operations in the UK & Ireland, Scandinavia and Canada and provides insurance products and services in more than 140 countries through a network of local partners. It has 17 million customers.

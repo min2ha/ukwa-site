@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# UK Bond Network
-
 UK Bond Network is a platform that links institutional investors, wealth managers and high net worth individuals with UK business borrowers through an online bond auction.

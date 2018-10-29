@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Elections in the News: Scottish Independence referendum: what do women think?
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brownhills Bob's Brownhills Blog
-

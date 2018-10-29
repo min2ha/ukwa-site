@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Partick South Parish Church
-

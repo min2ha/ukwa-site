@@ -10,5 +10,3 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Bradford and District St David's Society
-

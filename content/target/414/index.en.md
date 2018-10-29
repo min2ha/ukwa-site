@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandwell Health and Wellbeing Board
-
 None

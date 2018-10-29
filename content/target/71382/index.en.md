@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Priorian RFC on Pitchero
-
 The official website of Old Priorian Rugby Football Club.

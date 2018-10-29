@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Veterans for Peace UK
-
 Veterans for Peace UK is an off shoot of the United States organisation of the same name. Effectively replacing the Ex-Services Campaign Nuclear Disarmament, the organisation promotes alternatives to war. 

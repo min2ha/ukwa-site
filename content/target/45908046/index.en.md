@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Banks MP
-
 The website of Gordon Banks, Labour Member of Parliament for Ochil and South Perthshire.

@@ -10,5 +10,3 @@
   "start_date": "2010-05-04T00:00:00Z"
 }
 
-# West of Wales SMP
-

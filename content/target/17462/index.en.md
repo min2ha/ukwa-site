@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Childbirth Trust (NCT): NCT's 2015 Manifesto for the Next Government
-
 The NCT were established to support parents. They give them accurate, impartial information so that they can decide what’s best for their family, and introduce them to a network of local parents to gain practical and emotional support.

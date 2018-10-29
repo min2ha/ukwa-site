@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Katie Archibald (@_katiearchibald) on Twitter
-

@@ -10,5 +10,3 @@
   "start_date": "2011-01-28T00:00:00Z"
 }
 
-# PGA - Graphic Design Advertising Brand identity Exhibition & signage Print Publishing Web & interactive
-

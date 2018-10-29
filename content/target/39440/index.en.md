@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Friends of the Pentlands
-
 Site of a group working towards preservation and promotion of the cultural and natural heritage of the Pentland hills, to the South and South West of Edinburgh, and working with local businesses, groups and authorities to ensure visitors, businesses and residents share their goals to use and develop the area sympathetically.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Doncaster Green Party
-
 Website of Doncaster Green Party, providing information on how to get involved, campaigns, and local and national news.

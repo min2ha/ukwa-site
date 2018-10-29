@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Douglas Carswell says Nigel Farage needs to 'take a break' 
-
 None

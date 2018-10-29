@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rhun ap Iorwerth (Plaid Cymru Assembly Member for Ynys Mon)
-

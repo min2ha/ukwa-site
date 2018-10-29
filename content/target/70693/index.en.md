@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Falkirk and Linlithgow Hockey Club
-
 Site of a Scottish field hockey club with men's, women's and junior sides, and located in Falkirk.

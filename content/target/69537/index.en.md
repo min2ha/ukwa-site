@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Dundee Institute of Healthcare Simulation (DIHS)
-
 DHIS is a facility for simulation-based healthcare education and communication in healthcare practice.

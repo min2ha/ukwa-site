@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Ceredigion50
-
 The Ceredigion 50+ Forum is a service run by Ceredigion County Council. The aim is to highlight and tackle issues facing older people in Ceredigion, through offering the opportunity to communicate and engage with one another as well as with the service providers within Ceredigion.

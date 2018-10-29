@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Kilner Snowboard
-
 None

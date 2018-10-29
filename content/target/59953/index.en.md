@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# NEW Dance
-
 NEW Dance is the dance development organisation for Denbighshire, Flintshire and Wrexham in north east Wales.

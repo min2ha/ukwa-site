@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Royal Burgh of Peebles
-
 Community site providing information on the town of Peebles in the Scottish Borders, Scotland, featuring visitor attractions, businesses and some history in the town.

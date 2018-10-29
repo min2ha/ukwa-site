@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T00:00:00Z"
 }
 
-# Bons Baisers From London
-
 <p>A blog by a French person in London.</p>

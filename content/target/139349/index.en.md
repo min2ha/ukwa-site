@@ -10,5 +10,3 @@
   "start_date": "2007-05-03T00:00:00Z"
 }
 
-# Chronic Pain Policy Coalition
-

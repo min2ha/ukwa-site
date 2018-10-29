@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nicola Sturgeon tells debate SNP would have 'big clout' at Westminster
-
 None

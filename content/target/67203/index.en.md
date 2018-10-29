@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Loch Lomond Brewery Ltd
-
 Site of a brewwer based at Alexandria, West Dunbartonshire.

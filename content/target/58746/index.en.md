@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union:  David Davis' closing remarks after EU exit negotiations on 9-10 November 
-
 Reports progress with Brexit negotiations focusing on Northern Ireland, citizen's rights and the financial settlement.

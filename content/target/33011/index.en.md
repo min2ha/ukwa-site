@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ZDNet
-
 ZDNet delivers news coverage and analysis on the trends, technologies and opportunities that matter to IT professionals and decision makers. It also contains a blog.

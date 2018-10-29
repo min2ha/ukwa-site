@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Asian Today
-
 West Midlands-based newspaper, The Asian Today is a free award-winning publication aimed at the south-Asian community. First printed in September 2002, the publication has gone from strength to strength, with a readership of well over 200,000 as well as a minimum circulation of 80,000 copies per calendar month.  "We offer our readers an insight into top local stories, whether it is lifestyle, culture or hard-hitting news. We have led the way with exclusive news stories, many of which have been echoed by mainstream press. The Asian Today has continued to bring the most diverse and innovative news stories and features."

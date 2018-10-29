@@ -10,6 +10,4 @@
   "start_date": "2016-08-10T10:00:00Z"
 }
 
-# BRfm Community Radio
-
 BRfm Community Radio was established in 2004 the local frequency is 97.3fm for Blaenau Gwent

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Town Online - Official Website of Aberdare Town FC
-

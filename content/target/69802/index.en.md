@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent, The: Brexit: EU making 'massive miscalculation' if it thinks UK won't walk away without deal, David Davis warns
-
 David Davis, the former Brexit secretary, claimed the EU would be making a "massive miscalculation" if it thought the UK was not ready to walk away from the negotiations in Brussels without a deal.

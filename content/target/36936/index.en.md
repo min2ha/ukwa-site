@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Storm over who leaked Queen's views on the EU: Spotlight on Gove over claim Her Majesty told Clegg Europe 'was going in wrong direction'    
-

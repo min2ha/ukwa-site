@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# Menswear Style
-
 First launched in April 2012 MenswearStyle is an independent daily online men’s fashion, grooming and lifestyle magazine. Focused on Fashion, Style, Lifestyle and Grooming, they aim to supply the latest collections and trend alerts from not only well-known fashion labels, but also up-and-coming brands in the market. They cover a wide range of men’s topics from grooming and cars to health & fitness and exclusive industry interviews.

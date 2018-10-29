@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's, South Queensferry
-
 Site of a Roman Catholic parish church in Scotland, located at South Queensferry, Edinburgh also covering the parish church of St. Mary's, Ratho.

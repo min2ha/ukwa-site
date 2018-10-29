@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Treasury: HM Treasury analysis: the long-term economic impact of EU membership and the alternatives
-
 HM Treasury analysis on the EU referendum shows that a vote to leave would mean Britain would be permanently poorer.

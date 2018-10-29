@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Christian Rebuild
-
 Christian Rebuild is based in Haverfodwest and 'helps church-run projects and Christian individuals in 'second-world' countries'. 

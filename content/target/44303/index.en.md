@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Hambleton District Council
-
 Website of Hambleton District Council provides news, information on services and activities, information about planning policy and plans, and access to committee papers and minutes. You can also respond to consultations and find out about council budget and spending

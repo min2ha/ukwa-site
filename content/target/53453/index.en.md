@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dartford & Gravesham Green Party Fighting Fund
-
 Help us make sure that there are Green candidates on the ballot paper in Dartford and in Gravesham!

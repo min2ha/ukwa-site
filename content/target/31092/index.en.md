@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# British Archaeological Jobs and Resources (BAJR)
-
 British Archaeological Jobs and Resources is a portal with information about employment, training and professional news.

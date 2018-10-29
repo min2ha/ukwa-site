@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Honiton RFC on Pitchero
-
 The official website of Honiton Rugby Football Club.

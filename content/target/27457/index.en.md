@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Huge drop in registered voters could have crucial impact on who forms next government, experts warn
-
 None

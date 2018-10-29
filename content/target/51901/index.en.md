@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Mackay Brown Fellowship
-
 Site of a fellowship named in honour of the Orkney writer George Mackay Brown set up to promote new creative writing in the islands and to celebrate Orkney writers, past and present; the main activities are running a book festival, writing residencies and other literary events, supporting the annual Orkney Writers’ Course, run by the St Magnus International Festival.

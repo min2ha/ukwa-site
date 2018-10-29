@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# War Hospital: Stories from Whipps Cross, The 
-
 A project exploring the role of Whipps Cross Hospital during the First World War period.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Bates (Conservative)
-
 Stephen Bates stood as Conservative candidate for Newcastle upon Tyne North at the 2015 General Election but was not elected.

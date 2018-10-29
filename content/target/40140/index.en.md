@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Steve Bell on Theresa May and the EU referendum – cartoon 
-
 Guardian, The

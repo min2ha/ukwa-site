@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: June 26th 2017: European Council
-
 Lords debate on Theresa May's statement to Parliament on the June 2016 EU Council meeting and the rights of EU citizens living in the UK.

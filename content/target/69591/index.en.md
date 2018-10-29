@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Overtake, The
-
 An independent online news site.

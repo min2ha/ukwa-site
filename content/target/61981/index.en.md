@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol City W.F.C.
-
 Bristol City Women's Football Club is a women's association football team from the city of Bristol.

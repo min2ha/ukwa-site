@@ -10,5 +10,3 @@
   "start_date": "2017-08-05T09:00:00Z"
 }
 
-# East Kilbride History Society
-

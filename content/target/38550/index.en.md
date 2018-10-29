@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Donald's Thoughts | Comment on the secular, scientific, political and ecclesiastical scene
-
 Donald Boyd, Scottish Christian Party "Proclaiming Christ's Lordship" candidate for Inverness, Nairn, Badenoch and Strathspey in the 2017 general election.

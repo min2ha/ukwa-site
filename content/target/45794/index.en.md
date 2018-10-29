@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# #CorbynWins: New tasks for TUSC
-
 The Trade Unionist and Socialist Coalition (TUSC) was set-up in 2010 to push forward the process of re-establishing a mass party for working class political representation. With Jeremy Corbyn re-elected as Labour leader, Socialist Party executive member and TUSC's national election agent Clive Heemskerk examines what role TUSC should play in the next period.

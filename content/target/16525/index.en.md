@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's NHS election crusade a pale imitation of 1992 campaign - Milburn
-
 None

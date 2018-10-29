@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# St. Andrews Brewing Co. Limited
-
 Site of a brewer, gin distiller and publican located at St. Andrews, Fife.

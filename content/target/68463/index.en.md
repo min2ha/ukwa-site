@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Swansea Live
-
 Swansea TRI Live was held on Saturday 19th and Sunday 20th May 2018 and is an eclectic music event built around the Swansea Triathlon.

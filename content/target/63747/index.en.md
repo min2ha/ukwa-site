@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Beath and Cowdenbeath North Church
-

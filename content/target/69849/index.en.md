@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC News: Abortion
-
 All articles on the BBC News website tagged with the Abortion tag.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The:Call of Duty increases risk of Alzheimer's disease
-
 News article regarding a study that found those who play online games are more at risk of developing mental health issues

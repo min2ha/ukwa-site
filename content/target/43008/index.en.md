@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# BBC: Queen's birthday: Guests brave rain at Queen's picnic lunch
-
 Rainy conditions have not dampened the spirits of guests at a picnic lunch in London - the last of the events for the Queen's official birthday.

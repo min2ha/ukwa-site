@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# News Letter: John Bruton: His full speech denouncing the Easter Rising
-
 Speech by John Bruton, former Taoiseach, at 11am on Monday 28th March, in Iveagh House Dublin as part of the RTE “Reflecting the Rising” series.

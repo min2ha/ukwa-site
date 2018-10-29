@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Ceredigion
-
 Cymdeithas Ceredigion is a literary and historical society based in south Ceredigion.

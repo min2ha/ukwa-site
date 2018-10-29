@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# I Fight Lions
-
 I Fight Lions is a rock band from Llanberis, North Wales signed to Recordiau Cosh Records.

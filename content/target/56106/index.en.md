@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Annual Business Awards for Cardiff
-
 The Cardiff Business Awards aims to recognise outstanding achievement in business and celebrate talent, ambition and innovation from across Wales' capital city.

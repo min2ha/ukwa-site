@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Côr Teifi
-
 Cor Teifi is a choir of 40 members from around Ceredigion and Pembrokeshire. The choir was establised in 2016 and are based in Cardigan.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# TMSA Keith Festival
-
 Site of an annual festival of traditional Scottish music and song located at Keith, Moray.

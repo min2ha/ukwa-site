@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Association of Social Workers, The:Status of Mind: Social media and young people’s mental health
-
 A paper about the emerging evidence of social media and the affect it is having on mental health. Also discusses the generational disparity when looking at social media usage.

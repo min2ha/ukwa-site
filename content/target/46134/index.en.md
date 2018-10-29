@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Furnace to Flowers
-
 Furnace to Flowers is a project located in Ebbw Vale. The aim isto transform a 25 hectare corridor running through The Works as far as Victoria Gardens at the Festival Park site  and 'demonstrating the potential of post-industrial areas to provide a haven for many species of wildlife as well as beautiful, peaceful places for people to enjoy.' It is managed by Gwent Wildlife.

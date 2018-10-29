@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Cutts (lukepolejump) on Twitter
-
 Twitter profile of pole vaulter Luke Cutts, member of Team England at the Glasgow 2014 Commonwealth Games.

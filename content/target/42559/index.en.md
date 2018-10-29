@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queen's birthday coverage "out of touch with reality"
-
 Republic want to see the monarchy abolished and the Queen replaced with an elected, democratic head of state. 

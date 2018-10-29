@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Geiriadur Cymraeg - Gwyddeleg Ar-lein | Foclair Gaeilge - Breatnaise (Lexicelt)
-
 Lexicelt is a Gaelic-Welsh dictionary containing a few hundred phrases. It was developed by Uned Technolegau Iaith, Bangor University and Dublin University.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Sight Cymru
-
 Sight Cymru (formerly Sight Support) is an independent Welsh charity originally established in 1865 as Gwent Association for the Blind in Newport, South Wales. They are based in Pontypool and are the the only entirely Welsh sight loss agency that provides services throughout Wales. 

@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-#  Advanced Procurement for Universities and Colleges Scotland
-
 Site of a the Scottish collaborative procuremenet organisation for Scotland's Further and HIgher education institutions.

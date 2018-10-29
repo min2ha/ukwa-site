@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Pets at Home 
-
 Pets At Home have all the pet supplies, pet food, toys and accessories you and your pet needs.

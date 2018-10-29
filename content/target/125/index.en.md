@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampshire Hospitals
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Scarf
-
 Siet of a social enterprise based in Aberdeen aiming to reduce fuel poverty, and promote energy efficiencysustainable living and carbon reduction.

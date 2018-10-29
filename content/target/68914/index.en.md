@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Lourdes Catholic Church Perth
-
 Site of a Roman Catholic church in Scotland located in Perth.

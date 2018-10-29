@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Healthcare Risk Management Review (HRMR)
-
 Healthcare Risk Management Review is a resource to help healthcare risk managers stay abreast of developments in the industry and devise long-term strategies for managing risks.

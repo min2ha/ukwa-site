@@ -10,6 +10,4 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# Regional Learning Partnership South West and Central Wales
-
 The Regional Learning Partnership South West and Central Wales is 'facilitating the development of a Regional Delivery Plan for Employment and Skills for south west and central Wales'. The body is the response to the Welsh Government’s future strategic approach to the employment and skills agenda.

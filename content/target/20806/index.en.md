@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Beattie-Smith (@SarahBS_27) on Twitter
-
 The Twitter profile of Sarah Beattie-Smith, the Scottish Green Party candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

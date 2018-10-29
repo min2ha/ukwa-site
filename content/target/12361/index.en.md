@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonny Mellor (jonnymellor9) on Twitter
-
 <p>The twitter profile of athlete Jonny Mellor, competitor in the 10, 000 metres for Team England in the Glasgow 2014 Commonwealth Games.</p>

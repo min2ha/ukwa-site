@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Tax Justice Blog
-
 None

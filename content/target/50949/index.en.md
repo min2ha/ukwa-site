@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Church, Newport
-

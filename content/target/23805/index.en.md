@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Cymdeithas Cwm Arian Association
-
 Cymdeithas Cwm Arian Association is a Local Community Forum that covers the three North Pembrokeshire villages of Hermon, Glogue and Llanfyrnach.

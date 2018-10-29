@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Let's Talk About Sex
-
 This website documents a significant HLF project which charted the history of sex and health education in Manchester over the last 30 years.  It contains some unique content unavailable elsewhere.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory inheritance tax plan benefits high earners disproportionately, says IFS
-
 None

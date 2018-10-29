@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Learning for Public Health West Midlands
-
 None

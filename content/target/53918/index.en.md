@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Phillip Broughton (UKIP  Politician)
-
 Phillip Broughton stood as UK Independence Party (UKIP) candidate in the constituency of Hartlepool in the 2015 & 2017 General Election and was not successful in either.

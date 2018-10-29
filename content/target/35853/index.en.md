@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Rhyl 
-
 Rhyl North Wales, Rhyl Town Council, Rhyl Business group

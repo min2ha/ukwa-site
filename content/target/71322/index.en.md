@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Malone RFC (@MaloneRFC) on Twitter
-
 Malone play Rugby at Gibson Park, Belfast. Players of all standards welcome. 

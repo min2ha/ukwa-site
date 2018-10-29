@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: CBI steps up the scaremongering: Now bosses say leaving the EU will cost one million jobs and £100billion to the UK economy  
-

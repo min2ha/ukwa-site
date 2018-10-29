@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Maintain the Union (MTUIrvine) on Twitter
-

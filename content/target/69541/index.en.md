@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Engine Shed, The
-
 "The Engine Shed is Scotland’s dedicated building conservation centre, based in Stirling."

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Amateur Football Combination (AFC)
-
 The Amateur Football Combination (AFC) is an adult male league affiliated to the Amateur Football Alliance (AFA), London FA, Middlesex FA and Surrey FA, and was formed in 2002 by the merger of the Old Boys' Football League (1907) and Southern Olympian League (1911) and subsequently merging with the London Financial Football Association (itself comprising the London Banks Football Association, 1900 and the London Insurance Football Association, 1908) in 2006.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Garndiffaith Gleemen Choir
-
 Garndiffaith Gleemen Choir was founded in 1948 and rehearse at Zion Hill Community Centre in Pontnewynydd, Pontypool.

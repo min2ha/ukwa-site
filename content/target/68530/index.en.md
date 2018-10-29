@@ -10,5 +10,3 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Martin Docherty-Hughes MP – SNP MP for West Dunbartonshire
-

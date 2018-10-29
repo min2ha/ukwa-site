@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lisburn Distillery (@distilleryworld) on Twitter
-
 The only Official Lisburn Distillery Football Club Twitter Site.

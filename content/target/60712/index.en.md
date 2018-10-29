@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Minty's Gig Guide To Cardiff
-
 Minty provides his curated outlook of live music across all of the venues in Cardiff with bands performing live in session each week on his podcast.

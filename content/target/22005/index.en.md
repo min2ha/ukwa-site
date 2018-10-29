@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robert Alden (Conservative)
-
 Robert Alden stood as Conservative candidate for Birmingham, Erdington at the 2015 General Election but was not elected.

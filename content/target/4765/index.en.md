@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# St Francis Xavier Sixth Form College: SFX Moodle: Nelson Mandela - in our thoughts and prayers
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ComputerWeekly.com
-
 Computer Weekly provides the latest news and analysis through its website and 200,000-subscriber weekly digital magazine. It is a dedicated monthly magazine for European IT leaders; independent research studies; and the networking events for senior IT managers.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# Nottingham 2023
-
 Nottingham put forward a bid to become European Capital of Culture in 2023.

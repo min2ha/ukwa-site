@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Welsh Health Specialised Services Committee (WHSSC) | Pwyllgor Gwasanaethau Iechyd Arbenigol Cymru (PGIAC)
-
 The Welsh Health Specialised Services Committee (WHSSC) is responsible for the joint planning of Specialised and Tertiary Services on behalf of Local Health Boards in Wales. 

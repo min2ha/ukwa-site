@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Strathearn Gallery
-
 The Strathearn Gallery is a contemporary art gallery in Crieff, established in 1994 and run by Susan Bennett.

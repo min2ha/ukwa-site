@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Academics for Yes
-
 <p>“Academics for YES” was created to enlighten the independence debate by tapping into the expertise of professional scholars who believe that Scotland’s future is best placed in Scotland’s hands</p>

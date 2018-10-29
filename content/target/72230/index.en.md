@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Comichaus On Haunted Hill (@Comichaus) on Twitter
-
 Comichaus.com is an online platform to buy and sell digital comics either through their website or their mobile app. This is their official Twitter account.

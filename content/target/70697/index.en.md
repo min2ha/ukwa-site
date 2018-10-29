@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Lothian Eagles Australian Rules Football Team
-
 Site of an Australian Rules Football club liocated in West Lothian.

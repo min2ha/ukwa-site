@@ -10,6 +10,4 @@
   "start_date": "2016-03-09T09:00:00Z"
 }
 
-# Retail Week
-
 Retail Week is a UK-based news magazine, website and data service covering the retail industry. Founded in 1988 by financial journalist Patience Wheatcroft and her husband Tony Salter, it is now owned by the business magazine publisher EMAP. The magazine is published every Friday. 

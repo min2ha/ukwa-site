@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sunflowerfest
-
 Website for the Sunflowerfest festival of music and arts. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Prosiect Llongau-U 1914-1918 | U-boat Project Wales
-
 The U-Boat Project 1914-18 is a collaboration between the Royal Commission on the Ancient and Historical Monuments of Wales, Bangor University and the Nautical Archaeology Society and funded by the National Lottery. The project is using the latest imaging techniques to reveal underwater wrecks from the Great War, and is supporting coastal communities around Wales to tell their previously untold stories about the Great War at Sea.

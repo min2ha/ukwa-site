@@ -10,6 +10,4 @@
   "start_date": "2017-02-27T10:00:00Z"
 }
 
-# BBC iWonder
-
 BBC iWonder provides answers to the questions sparked in your everyday life - questions sparked by BBC programmes, what's in the news, important anniversaries, or what's trending on social media.

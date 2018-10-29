@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Privacy: This is a 'Magna Carta moment' 
-

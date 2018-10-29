@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Over 75s to see GP on same day: PM's vow on appointments as he pledges another £8bn for the NHS 
-
 None

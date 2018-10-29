@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Longplayer
-
 Longplayer is a one thousand year long musical composition. It began playing at midnight on the 31st of December 1999, and will continue to play without repetition until the last moment of 2999, at which point it will complete its cycle and begin again. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wirral University Teaching Hospital
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christine Jardine - Liberal Democrat Candidate for Gordon
-
 This is the website of Christine Jardine, the Liberal Democrats candidate for Gordon in the UK General Election on the 7th May 2015.

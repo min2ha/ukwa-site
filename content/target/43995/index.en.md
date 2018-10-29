@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: Statement from the Governor of the Bank of England following the EU referendum result 
-
 The governor of the Bank of England offers reassurance that it has contingency plans in place to cope with the impact of the vote to leave the EU

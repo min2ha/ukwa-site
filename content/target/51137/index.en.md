@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# St. Nazaire Society
-
 In the above illustration by Ross Watton (www.rosswatton.com), HMS Campbeltown is shown at full speed and under heavy fire, approaching the German Naval dockyard at Saint-Nazaire. Her target, the outer caisson of the mighty 'Normandie' dry dock would, when destroyed, render inoperative the only facility on the Atlantic coast capable of repairing Germany's most powerful warships. Carried on board the Campbeltown and the fleet of small ships accompanying her, a force of highly-trained Army Commandos stood ready to demolish all the dock's ancilliary services

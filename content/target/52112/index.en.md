@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Wentwood Ministry Area - Church in Wales
-

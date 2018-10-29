@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Transport Planning Society: 2015 General Election TPS Manifesto
-
 Guest presentation to the Institute for Transport Studies by Keith Buchan, Policy Director of the Transport Planning Society (TPS), 12th November 2014 
 
 Keith Buchan outlines what the Transport Planning Society would like to see included in a transport manifesto for the new Government which will be elected in 2015. 

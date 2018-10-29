@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# Gogledd Creadigol | Creative North Wales
-
 Creative North Wales/ C6 is a network for the creative digital industries in north Wales. 

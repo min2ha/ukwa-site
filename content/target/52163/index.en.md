@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Public Reading Room: Writing - Ken Loach
-
 Ken Loach is an English director of television and independent film that comments on a range of social issues. He has a regular section in PRR. He has written extensively about supporting Jeremy Corbyn and the Labour Party.

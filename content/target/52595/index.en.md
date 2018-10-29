@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jerry Evans (@Jerry4MP) on Twitter (Liberal Democrats Politician)
-
 Jerry Evans stood as  Liberal Democrat candidate for Birmingham Hall Green at the 2017 General Election but was not elected.

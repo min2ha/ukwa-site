@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Remain-Labour (@Remain_Labour) on Twitter
-
 Remain-Labour are campaigning for a change in Labour Party policy, to support full EU membership, before Article 50 expires.

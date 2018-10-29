@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Age Platform Europe: manifesto for the European Parliament elections 2014
-
 None

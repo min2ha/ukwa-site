@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kemnay Parish Church
-
  The Kemnay Parish Church website.

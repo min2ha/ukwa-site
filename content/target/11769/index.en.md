@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Back a Rising Star
-
 <p>The website for the Back a Rising Star programme; lists profiles of the athletes who benefit and news about the programme.</p>
 <p>From the website:<br />
 "Scottish Swimming’s Back a Rising Star programme enables individuals, community groups and companies from the Scottish community to donate funds – anything from £100 to £10,000 a year – to support Scottish national programme athletes."</p>

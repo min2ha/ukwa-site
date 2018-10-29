@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Russian Arctic Convey Museum Project
-
 Site of a museum displaying artefacts from and commemorating the Second World War conveys of the British Navies to Russia.

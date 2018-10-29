@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kessog's Blanefield
-
 Site of a Scottish Roman Catholic parish church located in Blanefield, Stirlingshire.

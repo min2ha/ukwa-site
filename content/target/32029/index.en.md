@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Geoparc y Fforest Fawr | Fforest Fawr Geopark 
-
 Fforest Fawr Geopark was the first Geopark to be designated in Wales. It is located on the western half the Brecon Beacons National Park.

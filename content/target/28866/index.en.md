@@ -10,6 +10,4 @@
   "start_date": "2015-07-11T10:00:00Z"
 }
 
-# Bath Festivals
-
 Bath Festivals brings international performers, writers and thinkers to Bath every year to inspire, entertain and challenge audiences of all ages and artistic tastes. Bath Festivals is the charitable organisation responsible for the Bath International Music Festival, the Independent Bath Literature Festival and the Telegraph Bath Children’s Literature Festival.

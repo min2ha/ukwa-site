@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Friends of the Earth: General Election 2015
-
 Friends of the Earth is an international network of environmental organizations in 74 countries. It was founded in 1969.

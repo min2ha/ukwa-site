@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Christian Centre, Ebbw Vale
-

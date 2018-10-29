@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Knife Crimes
-
 KnifeCrimes.Org is an Online Knife, Gun & Gang related information Resource...Violence Reduction, fewer Victims by Changing Attitudes. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# London Rose Centre (@LondonRoseCentr) on Twitter
-
 The London Rose Centre is part of the Rose of Tralee International Festival and each year we hold a London Rose selection to find our new London Rose.

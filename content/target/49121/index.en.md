@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Full fact: Brexit in law
-
  
 UK independent fact checking charity

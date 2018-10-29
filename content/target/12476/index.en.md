@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Suzy Drane (SuzyDrane) on Twitter
-
 Suzy Drane's Twitter profile, captain of Team Wales women's netball team at the 2014 Commonwealth Games.

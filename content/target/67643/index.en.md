@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# SELOC Lotus Enthusiasts
-
 A website for enthusiasts of Lotus cars

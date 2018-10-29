@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Will Quitaly sink the EU? Tomorrow, a 'No' vote in a referendum in Italy could lead it out of Europe - and spark an economic crisis
-
 Discusses the implications for the EU of rejection of Italian prime minister Renzi's constitutional reforms in a referendum vote.

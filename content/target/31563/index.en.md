@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Heneghan & Lawson
-
 Ben Heneghan and Ian Lawson compose and produce music for film and television.

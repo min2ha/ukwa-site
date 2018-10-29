@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# University of Stirling Students' Union
-
 Site of the students' representation, welfare, advice, social and sports union at the University of Stirling.

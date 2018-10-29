@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Auchentoshan
-
 Site of a distillery and whisky visitor centre located at Clydebank, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Starting Out Guide, Stonewall
-
 Whether you’re looking for your first job or want to make a career change, Starting Out provides the information you need to find an inclusive employer.

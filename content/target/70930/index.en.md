@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Annual Connective Art & Music Festival
-
 Website for the Annual Connective Art & Music Festival.

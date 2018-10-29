@@ -10,5 +10,3 @@
   "start_date": "2011-11-18T00:00:00Z"
 }
 
-# Wales Africa Community Links
-

@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T15:41:00Z"
 }
 
-# CelluComp
-
 CelluComp specialises in the development and commercialisation of sustainable materials.

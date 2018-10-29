@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Fergus' and St James' Parish
-
 Site of two Roman Catholic churches in Scotland for the parishes of St. Fergus and St. James, Paisley.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Giles Watling (Conservative)
-
 Giles Watling stood as Conservative candidate for Clacton at the 2015 General Election but was not elected.

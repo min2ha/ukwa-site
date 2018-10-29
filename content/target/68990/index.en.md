@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tranmere Rovers (@TranmereRovers) on Twitter
-
 The official Twitter account of Tranmere Rovers football club.

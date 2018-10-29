@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Work and Study in Scotland
-

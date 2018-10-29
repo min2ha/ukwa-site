@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dickens Heath dot Net
-

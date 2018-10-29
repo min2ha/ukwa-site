@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: More openly-gay MPs are in Parliament than ever before - and they've set a world record
-
 None

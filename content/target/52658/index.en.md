@@ -10,7 +10,5 @@
   "start_date": "2017-04-29T09:00:00Z"
 }
 
-# Aberdare Girls’ Grammar School
-
 Aberdare Girls’ Grammar School website provides memories and history of the Aberdare County Grammar School for Girl from 1913-1978.
 1913 to 1978

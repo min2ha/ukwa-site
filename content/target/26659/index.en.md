@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The punk, the shop steward and the friend of aristocrats – meet the cabinet
-
 None

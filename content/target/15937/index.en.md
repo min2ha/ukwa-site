@@ -10,6 +10,4 @@
   "start_date": "2015-01-17T00:00:00Z"
 }
 
-# Advancing Quality Alliance (AQuA)
-
 <p>Advancing Quality Alliance (AQuA) is a membership body which aims to improve the quality of healthcare.</p>

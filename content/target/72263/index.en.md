@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ayrshire Music Festival 
-
 Website for the Ayrshire Music Festival.

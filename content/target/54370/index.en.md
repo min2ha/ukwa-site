@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Pontiac Owners Club (UK)
-
 The Pontiac Motor Company has a distinguised history dating back to the latter part of the nineteenth century, when Edward Murphy established the Pontiac Buggy Co. in Pontiac, Michigan.

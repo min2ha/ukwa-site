@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# British Association of Art Therapists, The (BAAT)
-
 The British Association of Art Therapists (BAAT) is a dynamic organisation and art therapy is a growing profession.

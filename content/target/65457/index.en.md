@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festivals of Dogs
-
 Dog event all about dogs

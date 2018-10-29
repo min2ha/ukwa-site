@@ -10,6 +10,4 @@
   "start_date": "2014-06-13T05:00:00Z"
 }
 
-# European College of Hypnotherapy
-
 None

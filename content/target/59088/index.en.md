@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Madrassa Al-Arabia Al-Islamia
-
 Site of a Islamic place of worship (mosque) and educational centre located in Paisley Road, Glasgow.

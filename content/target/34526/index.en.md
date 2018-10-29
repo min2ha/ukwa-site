@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Thanet District Council
-
 Website of Thanet District Council offers information about local services, news, financial information, policy documents, consultations, and full text of council committee meeting minutes and agendas

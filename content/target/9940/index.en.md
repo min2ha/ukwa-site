@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Public and Commercial Services Union, East Kilbride Revenue and Customs Branch: Scottish independence resources page
-
 None

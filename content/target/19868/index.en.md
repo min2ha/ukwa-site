@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sutton Liberal Democrats on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Egmont
-
 is an independent think-tank based in Brussels. Its interdisciplinary research is conducted in a spirit of total academic freedom. Drawing on the expertise of its own research fellows, as well as that of external specialists, both Belgian and foreign, it provides analysis and policy options that are meant to be as operational as possible.

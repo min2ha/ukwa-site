@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - One of the reasons I'm voting No is that the SNP...
-

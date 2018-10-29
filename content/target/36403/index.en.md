@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: The time is right for Britain to free itself from the EU, says LEO MCKINSTRY
-
 Column by Leo McKinstry

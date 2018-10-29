@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# BBC Sky at Night 
-
 Online version of the BBC Sky at Night magazine dedicated to astronomy.

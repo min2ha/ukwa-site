@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Richard Houdmont
-
 Richard Houdmont is children's author, Chair of Poetry Wales Press and a Trustee at the National Library of Wales. This is is his personal website.

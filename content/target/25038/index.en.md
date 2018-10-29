@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Only workers earning more than £50,000 will pay 40p tax rate, vows Osborne in 'crusade for the people of Middle Britain'
-
 None

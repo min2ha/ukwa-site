@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# UK Interactive Entertainment (Ukie)
-
 Ukie (UK Interactive Entertainment) is a trade body for the UK's games and wider interactive entertainment industry. 

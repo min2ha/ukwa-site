@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Who Runs Britain: EU referendum myths: prisoners’ voting rights and EU membership
-
 Post on the Who Runs Britain? blog.

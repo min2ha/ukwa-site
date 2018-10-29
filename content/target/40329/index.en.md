@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cyprus Mail: The Brexit conundrum for expats in Cyprus
-
 As the referendum on whether the United Kingdom is to remain a part of the European Union nears, many of the more than 24,000 British expats in Cyprus are hoping that the republic’s special relationship with the UK will lessen the possible disruptions caused by a Brexit.

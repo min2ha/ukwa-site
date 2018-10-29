@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# DOTW: DOTW Blog
-
 Doctors of the World UK (DOTW) blog

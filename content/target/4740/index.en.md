@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Conservative Home: Lord Risby: Mandela – the moral giant who transformed South Africa and was loved throughout the world
-
 <p>A tribute to Nelson Mandela, and discussion of the end of apartheid in South Africa, posted on 6 December.</p>

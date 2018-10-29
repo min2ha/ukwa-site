@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War dance project, The 
-
 A dance project to mark the centenary of The Great War.

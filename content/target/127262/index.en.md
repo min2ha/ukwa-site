@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# dovegreyreader scribbles
-
 None

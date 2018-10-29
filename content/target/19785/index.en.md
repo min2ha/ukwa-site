@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Auto Express: General election 2015: who is on the side of motorists?
-

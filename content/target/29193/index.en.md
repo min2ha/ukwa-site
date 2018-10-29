@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# National Youth Ballet of Great Britain
-
 National Youth Ballet of Great Britain is a charity supporting young ballet dancers.

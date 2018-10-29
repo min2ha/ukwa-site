@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Research the Headlines
-
 A blog examining news stories reporting scienctific research.

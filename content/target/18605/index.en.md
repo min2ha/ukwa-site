@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Parker on Facebook
-
 Ceredigion's Plaid Cymru candidate for the May 2015 Westminster Election.

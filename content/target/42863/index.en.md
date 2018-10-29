@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Riffs
-
 Blog of Andrew Prescott, Professor of Digital Humanities at Glasgow university -  a riff on digital humanities.

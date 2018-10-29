@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Serious Hazards of Transfusion (SHOT)
-
 SHOT is the United Kingdom’s independent haemovigilance scheme. Since 1996 SHOT has been collecting and analysing anonymised information on adverse events and reactions in blood transfusion from all healthcare organisations that are involved in the transfusion of blood and blood components in the United Kingdom. 

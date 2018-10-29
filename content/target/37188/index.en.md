@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Herald Scotland: Cameron bows to Eurosceptics as he sets EU referendum rules
-
 David Cameron has decided to use the Westminster election method when it comes to the EU vote. 

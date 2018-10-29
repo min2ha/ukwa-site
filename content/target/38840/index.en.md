@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robbie Simpson (@robbie_simpson) on Twitter
-
 Twitter profile of Robbie Simpson, the Scottish Liberal Democrat candidate for Ayr in the 2016 Scottish Parliamentary election.

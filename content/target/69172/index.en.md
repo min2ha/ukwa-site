@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Family
-
 Site of a Scottish Roman Catholic parish church located in Port Glasgow, Inverclyde.

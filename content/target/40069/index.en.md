@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Val Bradley on Facebook (Green Party candidate for Carmarthen West and South Pembrokeshire)
-
 Val Bradley is the Green Party candidate for Carmarthen West and South Pembrokeshire at the 2016 National Assembly Election. 

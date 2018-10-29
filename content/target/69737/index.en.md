@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northern Irish Clubs
-
 A list of Northern Irish soccer clubs.

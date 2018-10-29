@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Soros-backed campaign to push for new Brexit vote within a year
-

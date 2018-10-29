@@ -11,6 +11,4 @@
   "subject": "Edinburgh Transport Referendum 2005"
 }
 
-# Transport Edinburgh
-
 None

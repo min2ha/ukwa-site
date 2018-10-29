@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Express: The pro-EU elite must stop lording it over us, says NICK FERRARI
-
 Through­out the almost two years that have elapsed since that dramatic Brexit vote, a cabal of plotters so under­ hand they wouldn't disgrace the wildest dreams of notorious Italian schemer Niccolo Machiavelli have striven to rev­erse the historic outcome, while simulta­neously subverting what democracy attempted to deliver.
 

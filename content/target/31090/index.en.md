@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# anybook.biz
-
 Website of a company buying unwanted books from libraries and selling them on.

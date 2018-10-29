@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Charnwood Green Party's candidate crowdfunder campaign
-
 Nick Cox stood as Green Party candidate for Charnwood in the 2017 General Election but was not elected. This is the Crowdfunded campaign for his election.

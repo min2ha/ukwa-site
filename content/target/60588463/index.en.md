@@ -10,5 +10,3 @@
   "start_date": "2011-06-30T00:00:00Z"
 }
 
-# Civic Trust for Wales, The
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Torfaen Talks
-
 Torfaen County Borough Council's Newspaper for residents.

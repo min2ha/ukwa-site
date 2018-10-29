@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Intern Aware
-
 Intern Aware is a campaigning organisation dedicated to promoting fair access to the internship system. Access to internships is unequal and unfair. By refusing to pay interns a wage, many people are being excluded from accessing the opportunities which would allow them to get the jobs they deserve.

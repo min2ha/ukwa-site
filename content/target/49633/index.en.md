@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Adjutant General's Corps Regimental Association 
-
 The Adjutant General's Corps Regimental Association is situated at Worthy Down, near Winchester, home of the Adjutant General's Corps and was established in 1992 to promote friendship between the serving and retired members of The Adjutant General’s Corps and their dependants.  

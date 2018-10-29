@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# John and Muriel Higgins Home Page, The
-
 The website contains few subcategories, such as 'The Victor Canning Pages', 'Minimal pairs for English RP' and 'Homographs'. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: There has been a shift against Brexit, but the public still think we should go ahead with it
-
 Remainers beware: people who think Britain was wrong to vote to leave the EU do not necessarily think the referendum result should be reversed 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Why April’s family is backing Leave: Relatives of murdered schoolgirl call for European judges to stop meddling in UK courts    
-

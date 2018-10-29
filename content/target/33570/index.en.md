@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bethan Gwanas | ym mrwydro am lyfrau - plant yn bennaf
-

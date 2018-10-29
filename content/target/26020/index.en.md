@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP will be a 'progressive ally' to rest of the UK, says party leader
-
 None

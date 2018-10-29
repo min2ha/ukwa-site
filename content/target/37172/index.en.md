@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU leaders warn Cameron over membership referendum
-
 Website for the BBC News service

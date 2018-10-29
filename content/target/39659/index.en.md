@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michelle Rodger SNP on Facebook
-
 Facebook page of Michelle Rodger, former Scottish National Party (SNP) list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

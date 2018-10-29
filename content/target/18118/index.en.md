@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Bus engine roars as tour to secure black vote gets under way
-
 None

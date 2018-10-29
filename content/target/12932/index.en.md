@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paxton House: Exhibition: Kenny Hunter
-
 <p>Paxton House is a Partner Gallery of the National Galleries of Scotland. The Singing of Swans’ is an exhibition of sculptures by Kenny Hunter at Paxton House. It is part of GENERATION a celebration of Scottish contemporary art of the last 25 years to mark the Commonwealth Games in Glasgow.</p>

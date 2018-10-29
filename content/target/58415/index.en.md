@@ -10,5 +10,3 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# BBC Radio 4: Best of Today
-

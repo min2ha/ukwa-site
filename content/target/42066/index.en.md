@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Resources for redundant public servants
-
 Blog written by a civil servant of 20 years, about being made redundant, dealing with the consequences and trying to find another job.

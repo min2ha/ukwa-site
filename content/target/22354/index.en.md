@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jesse Rae on Facebook
-
 This is the Facebook page of Jesse Rae, the Independent candidate for Berwickshire, Roxburgh and Selkirk in the UK General Election on the 7th May 2015.

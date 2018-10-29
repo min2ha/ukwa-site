@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# University Foundation Programme (UFP), The
-
 <p>The University Foundation Programme (UFP) is a one-year intensive course, which offers students an entry route to UK undergraduate degree courses. The UFP was established at David Game College, London in 1989. The UFP is also offered in Bath (Bath Academy).</p>

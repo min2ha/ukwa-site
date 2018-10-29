@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# London Welsh Bowling Association
-

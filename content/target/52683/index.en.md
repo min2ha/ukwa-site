@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ross Shipman (@RossShipp) on Twitter (Liberal Democrats Politician)
-
 Ross Shipman stood as Liberal Democrats candidate for Bolsover at the 2017 General Election but was not elected.

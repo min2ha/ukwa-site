@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Tory grandee who says David Cameron’s EU migrant deal ‘will make no difference at all'
-

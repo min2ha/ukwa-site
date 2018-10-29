@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Tom Newton Dunn (tnewtondunn) on Twitter
-

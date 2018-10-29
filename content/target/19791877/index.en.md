@@ -10,5 +10,3 @@
   "start_date": "2008-10-10T00:00:00Z"
 }
 
-# Western Heights Preservation Society (WHPS)
-

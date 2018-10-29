@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilraughts Reformed Presbyterian Church
-
 We are a congregation of the Reformed Presbyterian Church of Ireland and have been worshipping in our present location since 1805.

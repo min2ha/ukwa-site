@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Society for the Study of Labour History
-
 Founded in 1960, the Society publishes the journal Labour History Review, and organises conferences and other events on labour history. The website provides information on the journal, news and events, and also links to labour history collections in the UK.

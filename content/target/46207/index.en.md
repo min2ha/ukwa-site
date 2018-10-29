@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Plaid Cymru: Adran Brexit | Brexit Section
-

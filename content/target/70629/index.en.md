@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# [DWAN] (@dwarchivenorth) on Twitter
-
 Digital Women's Archive North CIC org: projects & research on heritage, feminism, archives & spaces. 

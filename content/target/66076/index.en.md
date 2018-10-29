@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Strathpeffer Highland Gathering on Facebook
-
 Facebook page of a highland games at Strathpeffer, Highland.

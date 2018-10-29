@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Shirley Ford, Green Party on Facebook
-
 None

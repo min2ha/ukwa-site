@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# UEFA Champions League Final Cardiff 2017
-

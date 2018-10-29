@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# John Hemming's Web Log (Liberal Democrats  Politician)
-
 John Hemming stood as Liberal Democrats candidate for Birmingham Yardley at the 2017 General Election but was not elected.. He was first elected to serve as the MP for Birmingham Yardley in 2005 and re-elected in 2010  and 2015. He stood for re-election again in 2017] and was not successful.

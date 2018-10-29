@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# FreshStart
-
 Site of a charity based in Edinburgh, Scotland, helping people out of homelessness.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# British Association of Dermatologists Biologic Interventions Register (BADBIR)
-
 British Association of Dermatologists Biologic Interventions Register (BADBIR) is a UK and Ireland observational study which seeks to assess the long-term safety of biologic treatments for psoriasis.

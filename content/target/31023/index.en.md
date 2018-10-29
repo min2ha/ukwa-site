@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Caldicot and District Historical and Archaeological Society
-

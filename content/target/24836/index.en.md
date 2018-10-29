@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Diane Abbott on Facebok (Labour Parliamentary Candidadate for Hackney North and Stoke Newington)
-

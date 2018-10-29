@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Branded Content Marketing Association (BCMA)
-
 The BCMA is the global industry body for branded content practitioners, run by practitioners, promoting best practice, sharing knowledge and growing the branded content industry.

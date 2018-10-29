@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Celtic Music Radio 95FM
-
 Site of licensed broadcast radio station dedicated to promoting Celtic and roots music of all genres, based in Glasgow.

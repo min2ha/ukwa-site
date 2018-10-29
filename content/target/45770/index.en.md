@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Eccentric Club, The
-
 The Eccentric Club is a private members' traditional social club in central London.

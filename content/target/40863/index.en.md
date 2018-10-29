@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Young Films
-
 Young Films are an independent film and television production company based on the Isle of Skye.

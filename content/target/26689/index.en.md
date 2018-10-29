@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We, the Scottish people, cannot now be ignored
-
 None

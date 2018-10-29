@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Whales and Dolphins Conservation: A UK Manifesto for Whales and Dolphins
-
 Ahead of the UK's general election on 8th June 2017, WDC recommends three achievable and critical steps to directly improve the welfare and protection of whales, dolphins and porpoises in the next Parliament. 
 

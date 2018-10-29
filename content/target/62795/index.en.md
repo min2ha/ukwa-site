@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Birmingham 2022 (@birminghamcg22) on Twitter
-
 The official Twitter of Birmingham Commonwealth Games 2022. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: British expats in the EU fear a stronger euro far more than they fear Brexit
-
 Discusses the impact of Brexit on British expatriates in France 

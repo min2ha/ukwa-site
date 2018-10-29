@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Llanwit Major Today 
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: 'Brexit?' Everything now at stake for Cameron
-

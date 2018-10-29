@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Glesga Pals
-
 Site listing stories and photographs from the history of Glasgow, and inviting contributions from people with memories of the city.

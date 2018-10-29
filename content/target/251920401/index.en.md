@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Royal Free London NHS Foundation Trust
-

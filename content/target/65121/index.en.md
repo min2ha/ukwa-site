@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  We will support the peers' vote, vow Tory rebels: Remain MPs insist they will try to derail Brexit in the Commons by backing House of Lords amendment   
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Chromasia
-
 None

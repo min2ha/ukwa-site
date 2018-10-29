@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guy's and St Thomas's NHS Foundation Trust
-
 None

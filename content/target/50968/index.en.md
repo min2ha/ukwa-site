@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Nant Coch Church, Newport
-

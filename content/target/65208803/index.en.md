@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Robert Owen Museum
-
 <p>The Robert Owen Museum is in Newtown, Powys. This is the birthplace of Robert Owen. The museum is funded by the Co-operative Group, Cymru/Wales Values &amp; Principles Committee.</p>

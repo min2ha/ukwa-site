@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Association for Journalism Education UK (AJE)
-
 The AJE represents journalism educators at higher education institutions in the United Kingdom and Ireland founded in 1997.

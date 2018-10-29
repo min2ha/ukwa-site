@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Blackburne House
-
 Blackburne House Group is a training led organisation, which delivers high quality training, education and consultancy services. It was established in 1983 in Liverpool.

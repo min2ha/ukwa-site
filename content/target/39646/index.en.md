@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Heather Anderson SNP on Facebook
-
 Facebook page of Heath Anderson, Scottish National party list candidate for South Scotland region in the 2016 Scottish parliamentary election.

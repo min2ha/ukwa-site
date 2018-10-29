@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee:  Oral evidence: The Progress of the UK's Negotiations on EU Withdrawal, January 24th 2018
-
 Evidence given by Rt Hon David Davis MP, Secretary of State, Department for Exiting the European Union on January 24th 2018, on progress of the Brexit negotiations

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# League against Cruel Sports
-
 The League is a charity that brings together people who want to stop cruelty to animals in the name of sport.Established in 1924, they successfully use lawful investigations, campaigning and lobbying to make a difference in the UK and around the world.Their current campaigns include Hunting, Shooting, Bullfighting, Snaring, Dog Fighting, Racing Animals and the Badger Cull.

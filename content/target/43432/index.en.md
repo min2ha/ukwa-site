@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Nottingham Professional Services (NPS): EU Question Time Event a Huge Success
-

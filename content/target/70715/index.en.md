@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: Chancellor of the Duchy of Lancaster gives the MEDEF keynote address
-
 Defends the Chequers white paper as the basis of the UK's future relationship with the EU after Brexit. Points out that without compromise, pragmatism and appreciation of the wider context, there is a risk that we do not strike a deal before March 2019 and we end up leaving without one, which is in no-one's interests.
 

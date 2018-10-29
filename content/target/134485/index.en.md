@@ -10,5 +10,3 @@
   "start_date": "2007-01-03T00:00:00Z"
 }
 
-# Private Planet
-

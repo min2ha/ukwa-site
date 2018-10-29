@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Kidd SNP (@BillKiddSNP) on Twitter
-
 Twitter profile of Bill Kidd, Scottish National Party candidate for Glasgow Anniesland in the 2016 Scottish Parliamentary election.

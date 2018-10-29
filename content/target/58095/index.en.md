@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# UK Green Film Festival
-
 Site of an annual nationwide festival aiming to bring environmentally themed films to audiences across the UK, and screened in independent cinemas.

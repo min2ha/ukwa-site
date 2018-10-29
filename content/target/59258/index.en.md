@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HR News: Working with Mental Health
-
 Article on website about mental health and the workplace with suggestions and encouragement

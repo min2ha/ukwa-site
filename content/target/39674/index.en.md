@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Jim Halfpenny - Scottish TUSC, Renfrewshire North and West 5th May on Facebook
-
 Facebook page of Jim Halfpenny, Scottish Trade Unionist and Socialist Coalition (TUSC) candidate for Renfrewshire North and West in the 2016 Scottish Parliamentary election.

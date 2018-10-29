@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hawick Harlequins Rugby Football Club
-
 Site of a Scottish rugby union football club based in Hawick, Scottish Borders.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T11:00:00Z"
 }
 
-# Jewin Welsh Church | Eglwys Gymraeg Jewin
-
 Eglwys Gymraeg Jewin is a Welsh chapel in the City of London.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fawcett Society: Women and the General Election 2017: Fawcett’s Women’s Manifesto 
-
 The Fawcett Society manifesto calls on all political parties to pledge to advance gender equality and women’s rights. The Manifesto contains calls-to-action on five key areas of concern including closing the gender pay gap, an issue that Fawcett has long campaigned for.

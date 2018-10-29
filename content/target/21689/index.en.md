@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Kay Burley and Jeremy Paxman embrace their election debate roles
-
 None

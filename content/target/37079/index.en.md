@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Lord Rose clashes with MPs over statistics
-
 BBC News: EU referendum: Lord Rose clashes with MPs over statistics

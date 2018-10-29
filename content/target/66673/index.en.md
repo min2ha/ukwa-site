@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Gemma Copp
-
 Gemma Copp is a Welsh artist who predominantly works with film and installation and aims to raise a flux of visceral emotions relating to identity and the human condition. Copp was awarded Welsh Artist of the Year in 2012 for her film Rising Tides.

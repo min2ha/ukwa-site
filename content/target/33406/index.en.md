@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Songs That Don't Exist Yet: ‘Help Me Write A Song About Something That’s Important To You: Know Web Edition’ @ Web We Want Festival, Southbank Centre, London
-
 Blog post about creating a song inspired by Web We Want Festival 'Song About the Internet'.

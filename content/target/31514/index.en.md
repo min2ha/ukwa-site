@@ -10,6 +10,4 @@
   "start_date": "2015-10-19T10:00:00Z"
 }
 
-# Speakers Corner
-
 Speakers Corner is a speakers' agency, committed to providing a service to clients looking for after dinner speakers, keynote speakers, conference facilitators, motivational speakers or corporate entertainment, in the form of consultancy, booking and logistics.

@@ -10,7 +10,5 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Great Portland Estates
-
 Great Portland Estates
 Great Portland Estates plc is a British property development and investment company. 

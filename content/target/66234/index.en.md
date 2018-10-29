@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hope House
-
 Site of a Seventh-Day Adventist church located in Dunfermline, Fife.

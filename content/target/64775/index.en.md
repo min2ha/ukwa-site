@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Pollokshaws Parish Church on Facebook
-
 Facebook page a Church of Scotland parish church at Pollokshaws, Glasgow.

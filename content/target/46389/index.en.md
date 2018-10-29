@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T11:00:00Z"
 }
 
-# Jane Fox Sculptor
-
 Jane Fox Sculptor is Sculptor, Librettist and Artistic Director of Asking4It Productions - profound and epic - studies in experimental opera 

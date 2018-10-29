@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron has paid cash, but never helped someone 'evade' tax
-
 None

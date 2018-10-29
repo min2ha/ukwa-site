@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Holt Local History Society
-

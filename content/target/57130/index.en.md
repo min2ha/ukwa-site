@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# King's College London: UK media coverage of the 2016 EU Referendum campaign
-

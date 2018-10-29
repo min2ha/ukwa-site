@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# NI Direct: Renewable Heat Incentive for domestic customers
-

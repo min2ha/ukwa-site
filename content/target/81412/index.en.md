@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Guiting Music Festival
-
 Website for the 49th Guiting Music Festival.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Brian Barder's Website
-

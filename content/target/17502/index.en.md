@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Women and politics: on board the Guardian's pink bus - video
-
 None

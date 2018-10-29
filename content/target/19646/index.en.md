@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sheffield Labour Party
-
 Website of Sheffield Labour Party, providing information on Labour people in Sheffield, how to get involved and news and party blog.

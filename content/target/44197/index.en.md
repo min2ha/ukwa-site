@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# ITV News: Euro 2016
-

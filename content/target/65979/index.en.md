@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Robert Halfon MP (@halfon4harlowMP) on Twitter
-
 The Conservative Party MP for Harlow.

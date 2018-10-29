@@ -10,5 +10,3 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Antigua and Barbuda High Commission, London
-

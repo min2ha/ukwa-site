@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Fuel Poverty Action
-
 Fuel Poverty Action campaigns against the injustice of cold homes by turning up the heat on rip-off energy companies pockets.

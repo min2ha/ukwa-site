@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Miliband: Change with a hint of disdain
-
 None

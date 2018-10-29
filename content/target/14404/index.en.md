@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - I've been without facebook for a week and I felt a...
-
 Ewan Morrison's post of 31st of July, 2014.

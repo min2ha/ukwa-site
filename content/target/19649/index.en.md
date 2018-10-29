@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Morley and Outwood Conservatives
-
 Website of Morley and Outwood Conservatives, providing information on association officers and MPs, Policy Forum, events, and local and national news.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: The United Kingdom’s exit from and new partnership with the European Union
-
 On 17 January 2017 the Prime Minister set out the 12 principles which will guide the government in fulfilling the democratic will of the people of the United Kingdom. In this White Paper the government sets out the basis for these priorities and the approach to forging a new strategic partnership between the United Kingdom and the EU.

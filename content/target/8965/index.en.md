@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ellie Koyander Mogul skier Facebook
-
 None

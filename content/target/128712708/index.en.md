@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Thames Valley Police & Crime Commissioner
-
 None

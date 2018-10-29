@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Breitbart - London
-
 Breitbart is a conservative American news and opinion website founded in 2007. It's headquarters are in Los Angeles, California, with bureaus in Texas, London, and Jerusalem.

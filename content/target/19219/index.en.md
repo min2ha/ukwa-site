@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Record Society: The Lincoln Magna Carta Conference
-

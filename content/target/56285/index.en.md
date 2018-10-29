@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Universities & Colleges Employers Association: Higher Education Workforce Survey 2017.
-
 The new Higher Education Workforce Survey 2017 is an in-depth report providing detailed analysis of workforce trends and identifying some of the challenges facing the sector. This comprehensive workforce survey, published today by the Universities and Colleges Employers Association (UCEA), shows while the UK HE sector still benefits from relatively few recruitment and retention difficulties, there are growing concerns relating to IT roles and in STEM subjects in the professional services and academic groups respectively.  There is not yet any clear and immediate ‘Brexit effect’ in the recruitment and retention data at sector level

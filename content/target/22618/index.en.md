@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Is this the most dangerous woman in Britain?
-
 None

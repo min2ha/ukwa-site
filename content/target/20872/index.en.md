@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Morton on Facebook
-
 This is the Facebook page of Sean Morton, the Labour Party candidate for Moray in the UK General Election on the 7th May 2015.

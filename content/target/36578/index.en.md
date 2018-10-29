@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The David Cameron may win this referendum, but at the cost of a divided nation
-

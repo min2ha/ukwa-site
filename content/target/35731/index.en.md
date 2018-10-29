@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# University of Oxford, Faculty of Law: Brexit
-

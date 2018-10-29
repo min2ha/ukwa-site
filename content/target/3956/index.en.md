@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ripley and Heanor News
-
 None

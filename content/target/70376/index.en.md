@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Crawley Old Girls (COGs)
-
 We are a group of “old” girls who are learning to play football while having fun and making new friends.

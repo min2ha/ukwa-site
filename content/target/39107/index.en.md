@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Living Village, The 
-
 Project to see how the village has changed over the last 100 years and in particular look at some of the local industries, families and influential people that have made the village what it is.

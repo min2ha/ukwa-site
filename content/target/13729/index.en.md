@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aberdeenshire Council: Scottish Independence Referendum
-
 None

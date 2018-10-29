@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Green manifesto 'a vision of a fair economy'
-
 None

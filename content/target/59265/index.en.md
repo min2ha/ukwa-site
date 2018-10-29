@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Forfarshire
-
 Site of a provincial grand masonic lodge covering the historic area of Forfarshire [now mainly in Angus] overseeing the daughter lodges of the area and affiliated to the Grand Lodge of Scotland.

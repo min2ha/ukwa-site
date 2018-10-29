@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitley Bay Barbarians RLFC on Pitchero
-
 The official website of Whitley Bay Barbarians RLFC

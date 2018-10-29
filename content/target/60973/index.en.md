@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Clarets GFC
-
 St Clarets are one of the best established and well recognised GAA clubs in London, and we have been an integral part of the Gaelic Athletic Association community in the county at both adult and youth level since the mid-1970s.

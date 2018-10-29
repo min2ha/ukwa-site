@@ -10,6 +10,4 @@
   "start_date": "2005-01-24T00:00:00Z"
 }
 
-# University of Birmingham: History of Medicine Unit
-
 The School of Medicine, of the College of Medical and Dental Sciences at the University of Birmingham is a major international centre for research and education in medicine and medical sciences.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# TfL Travel AlertsVerified account (@TfLTravelAlerts) on Twitter
-
 Here to help with travel advice for Tube, DLR, Overground, TfL Rail and Trams. 

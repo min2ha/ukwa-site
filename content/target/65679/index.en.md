@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK needs Brexit 'safe harbour' - David Miliband
-
 David Miliband urged the UK to seek a "safe harbour" after Brexit by staying in the European Economic Area. Mr Miliband, a former Labour foreign secretary, who has worked for the International Rescue Committee in New York since 2013, joined politicians from other parties who favour retaining the closest links with the EU for a press conference on May 14th.
 
 

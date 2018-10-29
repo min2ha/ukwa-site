@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Institute of Opinion (IOO)
-
 The Institute of Opinion (IOO) is a non-partisan platform for views and opinion on the issues facing the UK; both economically and politically.

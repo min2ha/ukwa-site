@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: If the British lion is ever going to roar again then the first step is to chuck Chequers
-
 Argues that the Chequers proposals for the UK's future relationship with the EU would give us neither political nor economic freedom.

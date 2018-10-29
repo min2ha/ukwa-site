@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Simon Gaiger
-
 Simon Gaiger is a British sculpturist. His work is 'simultaneously human and landscape, narrative and abstract [and] influenced by the layers of his life and surroundings'. He is a member of the Royal British Society of Sculptors and has a studio in Wales.

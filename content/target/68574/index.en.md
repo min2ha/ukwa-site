@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's RC Church
-
 Site of a two Roman Catholic parish churches in Scotland, St. Jopspeh's located in Peebles incorporating St. James, Innerleithen.

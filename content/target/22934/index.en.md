@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Edwards-Daem (UKIP)
-
 Peter Edwards-Daem stood as UKIP candidate for Faversham & Mid Kent at the 2015 General Election but was not elected.

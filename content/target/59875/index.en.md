@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Writing Wales: Literature, Culture and Art in Wales
-
 Writing Wales is an independent website established with the aim of providing news, information and reviews on Anglophone Welsh writing. Writing Wales is run by Dr Emma Schofield from Cardiff University.

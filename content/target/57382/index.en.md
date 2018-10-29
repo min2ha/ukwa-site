@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Foreign policy, defence and development - a future partnership paper
-
 The UK’s commitment to European security will remain steadfast, and we will seek to agree new arrangements that enable us to sustain close UK-EU cooperation that will allow us to tackle our shared threats.
 

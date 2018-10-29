@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# EThOS (@EThOSBL) on Twitter
-
 Access UK PhD theses with the British Library E-Theses Online Service. Immediate free downloads, or order from print. 460,000 and counting

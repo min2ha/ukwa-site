@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Undeb Bedyddwyr Cymru, Dathliad y Bedyddwyr | Baptist Union of Wales, 150 Baptist Celebration
-

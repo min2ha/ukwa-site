@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# British Library Events related to Windrush: Songs in a Strange Land exhibtion 2018
-

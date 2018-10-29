@@ -11,8 +11,6 @@
   "subject": "Sports Collection"
 }
 
-# Radnor Indoor Bowls Association
-
 Radnorshire Indoor Bowls Association opened its doors to the public on 1st December 1990 and now provides a six rink stadium which attracts members from a wide area.
 
 The Association caters for all standards of play and several members from the Men’s, Ladies’ and Junior Sections have been selected to play for Wales at International level.

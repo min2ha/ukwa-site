@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michelle Gildernew on Facebook (Sinn Fein candidate for Fermanagh and South Tyrone)
-

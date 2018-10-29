@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russia House
-
 The Russia House Limited was set up in 1970 by Barry Martin, who is still at the helm as Chairman of the company, leading a team with half-century’s experience in facilitating and providing services to foster Russo-British Trade.

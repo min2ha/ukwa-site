@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Gretna Girls, The - HM Gretna Munitions Factory re-lived 100 years on...
-
 Project to devise, produce with young people from Gretna and surrounds an original performance work.

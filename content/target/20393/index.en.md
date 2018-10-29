@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Davidson on Twitter
-
 The twitter profile of Ian Davidson, Labour & Co-operative Party candidate for Glasgow South West.

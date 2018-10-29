@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mary Fee - Your Voice for West Scotland
-
 Mary Fee is the Scottish Labour candidate for Renfrewshire North and West in the 2016 Scottish Parliamentary election.

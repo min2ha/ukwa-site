@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron told: stop cowering over election TV debates
-

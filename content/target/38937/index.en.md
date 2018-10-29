@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Red Poets
-
 Red Poets are a group of poets with roots in the Welsh Socialist Republican Movement in Wales. 

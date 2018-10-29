@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Londoner's Diary: Roadshow pulls out of its big day in the Commons
-

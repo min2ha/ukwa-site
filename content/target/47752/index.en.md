@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unite the Union
-
 Unite the Union feature Ken Loach's film 'I Daniel Blake'.

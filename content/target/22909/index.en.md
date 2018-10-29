@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clair Hawkins (@ClairHawkins) on Twitter (Labour candidate for Dover)
-

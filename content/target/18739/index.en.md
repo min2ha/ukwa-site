@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Magna Carta: honouring the world's 'most influential secular document' 
-

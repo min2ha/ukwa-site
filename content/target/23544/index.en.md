@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Deborah Hopkins on Facebook (Labour candidate for St Austell and Newquay)
-

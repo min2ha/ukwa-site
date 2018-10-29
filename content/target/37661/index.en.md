@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Green MEPs: Why Greens say yes to Europe
-
 Published 2016 by the UK Green MEPs. Edited, researched and part-written by Danny Bates. 

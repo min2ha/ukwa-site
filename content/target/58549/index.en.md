@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# The Attic Players
-
 The Attic Players was established in 1932 and is based in Newcastle Emlyn.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Protest: Stop Trump's Muslim Ban - Stop May Supporting It on Facebook
-
 A protest in London on February 4th in response to the actions by President Donald Trump.

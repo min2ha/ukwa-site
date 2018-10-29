@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Somali Progressive Association, The (SPA)
-
 The Somali Progressive Association serves the Somali Communities of Cardiff and the Vale of Glamorgan.

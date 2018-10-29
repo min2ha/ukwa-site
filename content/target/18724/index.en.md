@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: How the Magna Carta became a Minor Carta, part 1 
-

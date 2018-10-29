@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: Why the Government believes that voting to remain in the European Union is the best decision for the UK
-
 This leaflet sets out the facts, and explains why the government believes a vote to remain in the EU is in the best interests of the people of the UK. It shows some of the choices the UK would face if there were a vote to leave.

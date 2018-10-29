@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hinckley_Rugby (@Hinckley_Rugby) on Twitter
-
 The official Twitter account of Hinckley Rugby Club. Hinckley RFC are a successful Midlands One club who were established in 1893. 

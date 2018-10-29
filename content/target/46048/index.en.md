@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Flossy and Boo
-
 Flossy & Boo LTD is an internationally touring, critically acclaimed Cardiff based theatre company.

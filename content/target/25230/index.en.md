@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Happy Warrior' Ed's TV debate cribsheet
-
 None

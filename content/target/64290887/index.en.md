@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# National Portrait Gallery Exhibition: The Queen: Art and Image
-

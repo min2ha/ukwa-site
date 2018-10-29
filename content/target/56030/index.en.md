@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jenny Collier Comedy
-
 Jenny Collier is an award winning comedian from Wales.

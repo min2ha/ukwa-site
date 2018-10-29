@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff and the Vale Liberal Democrats
-
 Website of Cardiff and the Vale Liberal Democrats, providing information on Welsh Assembly member, councillors, campaigns, and local and national news updates and opinion.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# tes:In the search for the root causes of children's poor mental health, we'll probably find that social media is a dead-end
-
 Article discussing the impact of the internet and social media on mental health for teens.

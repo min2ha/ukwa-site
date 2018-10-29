@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Desmond (@dezairedale) on Twitter (Labour Politician)
-
 Michael Desmond stood as Labour candidate for Faversham and Mid Kent in the 2017 General Election but was not elected.

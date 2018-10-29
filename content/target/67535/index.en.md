@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blandford RFC
-
 Sociable rugby club located in the heart of Dorset, fielding two senior sides and a thriving mini and youth section.

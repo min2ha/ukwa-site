@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# The Voluntary Sector Studies Network (VSSN) 
-
 The Voluntary Sector Studies Network (VSSN) promotes understanding of the UK voluntary sector through research and provides a voice and a meeting place for voluntary sector researchers in the UK. They're a membership organisation, with members around the UK and internationally from academia and the voluntary sector itself.

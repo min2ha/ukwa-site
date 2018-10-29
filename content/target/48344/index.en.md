@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Islands Conflict  
-
 The Falkland Islands conflict started in 1982. The islands were a British Overseas Territory that Argentina tried to reclaim.

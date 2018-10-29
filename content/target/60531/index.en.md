@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Capel-y-Ffin Monastery
-
 Capel-y-ffin Monastery is located in the Llanthony Valley and was built in 1870. In 1924 the monastery was bought by stone carver, engraver and typeface designer Eric Gill. David Jones, the Welsh artist and writer was also a regular visitor. It is now holiday accommodation.

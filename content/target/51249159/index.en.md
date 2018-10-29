@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Chrissy Williams
-
 Website of a poet and academic Chrissy Williams.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# England Supporters Club
-
 The official supporters club for the England football team ran by the FA.

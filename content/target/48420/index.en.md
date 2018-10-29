@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Les Smith  
-
 A personal website with information on his trips to the Ascension Islands and his wife's M.Sc. dissertation.

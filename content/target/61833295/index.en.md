@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isles of Scilly Methodists
-
 None

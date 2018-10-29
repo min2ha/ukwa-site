@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-#  Bagillt History Club 
-

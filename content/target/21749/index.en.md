@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip is in meltdown – and not because of the protesting ‘scum’
-
 None

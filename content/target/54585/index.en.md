@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fish Finger4MP (@MrFishFingerMP) on Twitter (Independent Politician)
-
 Fish Finger stood as an Independent candidate for Westmorland and Lonsdale in the 2017 General Election but was not elected. 

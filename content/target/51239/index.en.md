@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Digital Wales
-
 Digital Wales is a comprehensive online platform connecting and supporting Wales’s expanding entrepreneurship ecosystem and contains the latest news and information from the sector.

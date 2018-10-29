@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Eyemouth United Football Club
-
 Site of an amateur Scottish football club based in Eyemouth, Scottish Borders.

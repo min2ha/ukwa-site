@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Pylon Appreciation Society, The
-
 The Pylon Appreciation Society was set up and is run by Flash Wilson Bristow.

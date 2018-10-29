@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. David's Episcopal Church
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Pilton, Edinburgh.

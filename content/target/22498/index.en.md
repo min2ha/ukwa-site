@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The signatories - Labour defectors, the retailers, the FTSE 100 bosses
-
 None

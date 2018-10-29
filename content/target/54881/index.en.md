@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Iraqi Cultural Centre, London
-
 Unofficial Facebook presence of the Iraqi Cultural Centre, Shepherd's Bush Green, London.

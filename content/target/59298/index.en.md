@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK divorce bill offer worth up to 50bn euros
-
 Reports that the UK has offered a financial settlement of up to 50bn euros (£44bn) to the EU in exchange for opening negotiations on trade.

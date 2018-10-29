@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# Falmouth Exeter Plus
-
 Falmouth Exeter Plus is the service delivery partner of Falmouth University and the University of Exeter.

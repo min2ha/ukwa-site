@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK approach to Brexit 'chaotic' - leaked Irish report
-
 An internal Irish government paper, obtained by RTÉ, documents EU figures' scathing assessments of the performance of cabinet members such as Brexit Secretary David Davis.in the Brexit negotiations

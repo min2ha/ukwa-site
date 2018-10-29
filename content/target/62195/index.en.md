@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Vicarage Road Stadium
-
 Vicarage Road, a stadium in Watford, Hertfordshire, England, is the home of the football club Watford of the Premier League.

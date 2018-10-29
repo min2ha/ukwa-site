@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carmock and Oakley Church
-
 The website of Carmock and Oakley Church.

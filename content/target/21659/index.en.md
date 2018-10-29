@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband plays down poll fears of Scottish rout facing Labour
-
 None

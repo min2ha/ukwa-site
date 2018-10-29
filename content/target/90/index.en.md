@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham Women's NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour should stop flinching at every Tory attack and sell its vision to voters
-
 None

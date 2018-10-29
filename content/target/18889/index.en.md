@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# University of Lincoln: Magna Carta lecture series: Roly Keating, Chief Executive of the British Library: Magna Carta in the Digital Age
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Cover photos (Protecting our NHS)
-
 <p>Yes Scotland changes its "cover photo" at 9.10am on 16th September, 2014.</p>

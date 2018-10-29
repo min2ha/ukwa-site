@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Erin Rickard
-
 Erin Rickard is a visual and conceptual artist from north Devon who now lives in South Wales. 

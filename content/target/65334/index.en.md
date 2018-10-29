@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Opinion Suddenly, soft Brexit can happen. Thank the Lords
-

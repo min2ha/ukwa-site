@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# Target Ovarian Cancer
-
 Target Ovarian Cancer is the national ovarian cancer charity working to save lives and help women diagnosed.

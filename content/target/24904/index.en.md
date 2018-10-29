@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stuart Macdonald, Green Party parliamentary candidate for Witney
-
 Stuart Macdonald – Green Party parliamentary candidate for Witney at the 2015 General Election but was not elected.

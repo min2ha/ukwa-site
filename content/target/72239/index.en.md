@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Jon Dafydd-Kidd
-
 Jon Dafydd-Kidd is a Director / Musician / Facilitator and works with leading Welsh theatre companies including The National Youth Theatre of Wales, Hijinx Theatre and Taking Flight Theatre Company.

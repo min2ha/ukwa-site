@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Barnier denies Arlene Foster's claims of 'aggression' 
-
 The EU's chief Brexit negotiator, Michel Barnier, denied Arlene Foster's claims that he had been "aggressive" towards Northern Ireland unionists in the Brexit talks.
 

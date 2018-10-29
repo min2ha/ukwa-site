@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Glengarry Heritage Centre
-
 Site of a musuem preserving the local and family history of Glengarry, Perthshire, and links with the Clan McDonell.

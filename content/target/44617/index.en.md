@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What can aid workers do to heal tensions in a post-Brexit vote world?
-

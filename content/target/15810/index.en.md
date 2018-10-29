@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# French Bookshop, The
-
 <p>The French Bookshop sells books and other publications in French.</p>

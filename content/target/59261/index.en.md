@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Brierley Hillness
-
 Brierley Hillness Project Archive and Community Engagement Toolkit: Reflecting on the past to help shape the future of Brierley Hill's new town centre.  

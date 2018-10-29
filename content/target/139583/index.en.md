@@ -10,6 +10,4 @@
   "start_date": "2007-05-03T23:00:00Z"
 }
 
-# Understand Meningitis and Septicaemia
-
 We fund research to prevent meningitis and septicaemia, and to improve survival rates and outcomes. 

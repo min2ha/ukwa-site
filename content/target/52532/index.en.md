@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joel Kemp (@jpkemp94) on Twitter (Liberal Democratsv
-
 Joel Kemp stood as Liberal Democrat candidate for Bexhill and Battle at the 2017 General Election but was not elected.

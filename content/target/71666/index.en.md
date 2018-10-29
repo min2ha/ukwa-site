@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC: 100 Women: The female protesters against giving women the vote
-
 An article about the anti-suffrage movement

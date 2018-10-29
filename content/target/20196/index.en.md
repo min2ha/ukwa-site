@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Le boudin blanc
-
 Le boudin blanc is a French restaurant in Mayfair

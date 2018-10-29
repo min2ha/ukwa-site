@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Wales Environment Link Marine
-
 Wales Environment LINK marine working group involved a number of NGOs working together to protect the Welsh Seas.

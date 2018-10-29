@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Fighting Robots Association Forum
-
 An online enthusiast community forum concerned with fighitng robots. Discusses rules & safety, live events, socials, bot building, tv shows and various related topics.

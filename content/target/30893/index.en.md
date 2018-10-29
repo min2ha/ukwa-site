@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Know, The
-
 Website of an anti-EU organisation campaigning for the exit of Great Britain from the European Union.

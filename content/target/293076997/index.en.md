@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Pete Davies
-
 <p>Pete Davis is a photographer from Wales.</p>

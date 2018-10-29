@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Church of Bute, The
-
 Parish website of the United Church of Bute, which was formed in 1999 following the union of five Island congregations – Ascog, Craigmore St Brendan’s, Kingarth and Kilchattan Bay, North Bute, and Rothesay High Kirk.

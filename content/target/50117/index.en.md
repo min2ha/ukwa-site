@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Old High St Stephen's Church
-
 The parish website of Old High St. Stephen’s Church: the oldest congregation in Inverness. The parish includes two church buildings: Old High Church and St. Stephen's Church. 

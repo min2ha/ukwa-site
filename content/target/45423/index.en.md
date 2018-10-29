@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Velvet Coalmine
-
 Festival of music, film, literature and more, across multiple venues in Blackwood, South Wales. 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Arran Mountain Festival
-
 Site of an annual festival of moutains and hill walking on the Island of Arran, 'North Ayrshire'.

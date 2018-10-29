@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Teifi Angoras
-
 Teifi Angora Goats at Dolau Isaf Farm, Pembrokeshire have been breeding Angora Goats since 1987 and farm them for their fleece which has been named the Diamond Fibre for its strength and lustre.

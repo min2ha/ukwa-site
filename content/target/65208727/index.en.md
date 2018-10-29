@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Barbados Stamps
-
 None

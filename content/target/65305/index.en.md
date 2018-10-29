@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba Gaelic Church, Glasgow
-
 Site of a Church of Scotland parish church in Glasgow, which specialises in Scottish Gaelic services.

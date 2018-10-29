@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Association for Learning Technology (ALT)
-
 Association for Learning Technology (ALT) is a membership organisation in the learning technology field. Their purpose is to ensure that use of learning technology is effective and efficient, informed by research and practice, and grounded in an understanding of the underlying technologies, their capabilities and the situations into which they are placed.

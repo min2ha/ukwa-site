@@ -11,8 +11,6 @@
   "subject": "LGBTQ+"
 }
 
-# Just A Ball Game?
-
 We are a grass roots LGBT+ campaign organisation who work around equality inclusion and diversity making a difference to society. Partnerships and a focus on cultural change through education is one of our stronger elements.
 We aim to raise awareness around LGBT inclusion and visibility.Promote LGBT history and achievements.
 Change mind-sets, help to dispel myths and widen education in different cultures in a healthy active way.

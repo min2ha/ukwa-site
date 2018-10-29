@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Plaid Glyndwr
-
 Plaid Glyndŵr was formed in November 2012 as a Welsh nationalist republican party.

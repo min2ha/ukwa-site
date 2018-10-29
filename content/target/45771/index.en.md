@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# 5 Style
-
 A lifestyle magazine covering minimalism in fashion, design and travel.

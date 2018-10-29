@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rhondda People
-
 Community news and views - by the people of the Rhondda for the people of the Rhondda.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for New Europe
-
 Business for New Europe is an independent coalition of business leaders advocating a positive case for reform in Europe.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# India Centre HCA Wales - Hindu Cultural Association
-
 India Centre HCA Wales is managed by Indian Community in Wales whose aim is to facilitate seamless integration of the Indian Community to the wider local community. 

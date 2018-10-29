@@ -10,5 +10,3 @@
   "start_date": "2007-06-21T00:00:00Z"
 }
 
-# Family Records
-

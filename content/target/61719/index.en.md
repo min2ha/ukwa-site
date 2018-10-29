@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Liam Fox berates Corbyn for 'selling out' Britain over backing for EU customs union saying the UK must embrace 'opportunities of the future'   
-

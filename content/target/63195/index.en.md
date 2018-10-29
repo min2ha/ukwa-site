@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: MPs must 'agree' outcome, Labour says
-
 Labour said the offer of a "take it or leave it" Commons vote on the final Brexit deal was "unacceptable" and MPs, not ministers, must agree the outcome. Shadow Brexit secretary Sir Keir Starmer said it was "unthinkable" that if MPs rejected the agreement the UK just "crashed out" of the EU anyway.
 

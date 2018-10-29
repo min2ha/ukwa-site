@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Edmundsbury Cathedral: Tour: Dames of The Magna Carta
-

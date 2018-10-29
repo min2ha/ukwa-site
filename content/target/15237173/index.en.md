@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:15.601460", 
+  "date": "2018-10-29T13:21:15.159745", 
   "open_access": true, 
   "target_url": "http://www.athleticsresults.co.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Athletics Results", 
-  "record_id": "20181029T125415/hriDWIblB0NulVMFCBdibw==", 
+  "record_id": "20181029T132115/hriDWIblB0NulVMFCBdibw==", 
   "publisher": "athleticsresults.co.uk", 
   "start_date": null, 
   "subject": "Blogs"
 }
-
-# Athletics Results
 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Radio and Telly Forum UK
-
 The Radio and Telly Forum is an online enthusiast community concerned with Radio and Television. It discusses digital TV services in the UK such as: Freeview, YouView, BT Vision, Sky etc. In addition it discusses UK television shows and radio shows.

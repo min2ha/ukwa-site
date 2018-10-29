@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Denholm Fishselling Limited
-
 Denholm Fishselling Limited, a subsidiary of the Denholm Group, provides support services to the fishing industry in Scotland and Northern Ireland. 

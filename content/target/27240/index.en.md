@@ -10,5 +10,3 @@
   "start_date": "2015-06-04T07:00:00Z"
 }
 
-# Superfast Cyflymu Cymru
-

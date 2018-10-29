@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Conservatives? No – Brexit has shown us what they really are
-

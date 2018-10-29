@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ross Murdoch
-
 The official site of swimmer Ross Murdoch. 

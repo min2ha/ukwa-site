@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Val McDermid (@valmcdermid) on Twitter
-
 The twitter profile of crime writer val McDermid.

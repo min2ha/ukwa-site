@@ -10,5 +10,3 @@
   "start_date": "2016-07-07T11:00:00Z"
 }
 
-# Octavius Magazine
-

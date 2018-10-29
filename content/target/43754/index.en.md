@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum live: Khan accuses Boris Johnson of leading 'Project Hate' in BBC's Great Debate
-
 Guardian, The

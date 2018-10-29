@@ -11,6 +11,4 @@
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
 
-# Actionaid UK
-
 ActionAid is a leading international charity working in over 45 countries. They work with the poorest women and children in the world, changing their lives for good.

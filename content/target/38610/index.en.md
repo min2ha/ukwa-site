@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Emily St.Denny (@EmilyStDenny) on Twitter
-
 Twitter profile of Emily St. Denny, the Scottish Green Party list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

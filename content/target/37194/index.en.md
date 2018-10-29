@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Irish News: Stewart Dickinson says Theresa Villiers will be ousted from the NIO after EU vote
-
 Belfast-based english-language news and current affairs site focusing primarily on Northern Ireland and the Republic of Ireland. 

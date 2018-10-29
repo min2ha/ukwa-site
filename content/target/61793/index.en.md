@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Liam Fox warning of customs union 'sellout' 
-
 Any form of customs union with the EU after Brexit would be a "complete sellout" for the UK, International Trade Secretary Liam Fox said in a speech on February 27th 2018. But his former top official criticised the government's strategy. Sir Martin Donnelly, who was permanent secretary in the Department for International Trade until 2017, said any deals done after Brexit would not compensate for leaving the single market and the customs union.
 
 

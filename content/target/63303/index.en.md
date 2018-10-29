@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Sky News: Stephen Hawking
-
 Sky News delivers breaking news, headlines and top stories from business, politics, entertainment and more in the UK and worldwide. These are the articles related to Stephen Hawking.

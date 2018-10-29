@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# West Central London Green Party on Facebook
-

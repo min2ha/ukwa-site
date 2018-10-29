@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# InFacts
-
 InFacts is a journalistic enterprise making the fact-based case for Britain to remain in the European Union

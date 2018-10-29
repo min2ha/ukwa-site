@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Bridgford Online
-
 West Bridgford Online aims to bring local people together through social media – aiming to become the place people go to find out about eating, drinking, events and offers in the local area. 

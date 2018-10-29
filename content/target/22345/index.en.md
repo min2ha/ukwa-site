@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Louise Ramsay (@louise__ramsay) on Twitter
-
 Twitter profile of Louise Ramsay, Scottish Green Party candidate for Perth and North Perthshire in the 2015 UK General Election.

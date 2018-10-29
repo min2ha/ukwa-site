@@ -10,5 +10,3 @@
   "start_date": "2012-09-07T00:00:00Z"
 }
 
-# COLLABORATE: working with employers and students to design assessment enhanced by the use of digital technologies
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Crunch, The
-
 The Crunch is a multimedia poetry magazine based in Swansea, curated by original founder Adam Sillman, alongside Richard James Jones and Rhys Owain Williams. 

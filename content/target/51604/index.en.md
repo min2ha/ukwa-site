@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Penicuik South Church
-
 Website of  Penicuik South Church. 

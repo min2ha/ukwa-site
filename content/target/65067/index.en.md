@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Neath Port Talbot Ramblers
-
 Neath Port Talbot Ramblers group was formed in May 1998. They walks very each week, from local walks around the Neath area to walks further afield.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Inside the community of men who have given up porn
-
 News article about porn addiction and the steps addicts have taken to overcome it by creating online communities to support each other 

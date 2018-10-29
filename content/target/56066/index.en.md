@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Gardens of Peace
-
 Gardens of Peace provides burial and funeral services to all sections of the Muslim community in the UK. It is located in Ilford, Redbridge.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Potteries Bottle Oven, The
-
 A site which displays information about the remaining Potteries Bottle Ovens. There was once 2000 bottle ovens in Stoke-on-Trent. Now there are 46. This website (done as a blog) gives as much information as possible about the structures which dominated Stoke-on-Trent but have largely disappeared.

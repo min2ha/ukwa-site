@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cardiff Assembles: News regarding the 2016 Welsh Assembly election.
-
 Blog by Emma James (trainee journalist at Cardiff University) providing news regarding the 2016 Welsh Assembly election. The blog will also explore the reasons why some people are choosing to abstain from voting. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Rowlinson (@paul_rowlinson) on Twitter 
-
 Paul Rowlinson is the Plaid Cymru candidate for Delyn at the 2015 and 2017 General Election and2016 National Assembly Elections. 

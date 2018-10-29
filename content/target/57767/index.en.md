@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Nick Clegg suggests people join Labour to stop Brexit
-
 Former Liberal Democrat leader Nick Clegg says people should consider joining Labour in an attempt to prevent Brexit from happening.

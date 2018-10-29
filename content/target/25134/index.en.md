@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband rules out any kind of deal with Scottish National Party after the election 
-
 None

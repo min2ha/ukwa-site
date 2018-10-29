@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Scary Go Round
-
 Website of comics creator John Allison. Includes the Tackleford universe comics Bobbins, Scary Go Round, Bad Machinery and Giant Days.

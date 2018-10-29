@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: It’s Brexit crunch time. Theresa May’s no-deal disaster is not an option
-
 Keir Starmer is a Labour MP and shadow secretary of state for exiting the EU

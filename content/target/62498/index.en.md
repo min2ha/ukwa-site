@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: UK government publishes analysis on returning EU powers
-
 Provisional analysis published that will result in the devolved administrations of the UK receiving extensive new powers as the UK departs the EU.
 
 Provisional analysis published that will result in the devolved administrations of the UK receiving extensive new powers as we depart the EU.

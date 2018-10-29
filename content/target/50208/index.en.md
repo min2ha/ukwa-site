@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 7th March 2017: European Union (Notification of Withdrawal) Bill
-
 Report stage of the European Union (Notification of Withdrawal) Bill in the Lords.

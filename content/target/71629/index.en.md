@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour agrees to keep options open on 'people's vote' 
-
 Senior allies of Jeremy Corbyn questioned the rationale for a fresh Brexit referendum as delegates to the party’s 2018 conference in Liverpool agreed a statement committing Labour to keeping the option on the table.

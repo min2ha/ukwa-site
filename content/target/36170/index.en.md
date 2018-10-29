@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gary Dunion – Green for Central Scotland
-
 Gary Dunion is the Scottish Greens candidate for the Central Scotland list in the 2016 Scottish Parliament election.

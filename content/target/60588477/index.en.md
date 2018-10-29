@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Dr. Myron Evans: Thoughts on Science, History, Politics and Poetry
-

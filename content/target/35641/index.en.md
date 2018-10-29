@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Elizabeth Evans, tales from the campaign trail (Liberal Democrats candidate for Ceredigion)
-
 Elizabeth Evans is the Liberal Democrats candidate for Ceredigion at the 2016 National Assembly Elections.

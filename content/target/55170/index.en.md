@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Stop the War Coalition Scotland
-
 Site of the Scottish branch of the UK wide Stop the War Coalition, a political movement for peace.

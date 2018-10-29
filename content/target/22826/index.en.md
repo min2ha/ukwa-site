@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Better Nation (@NationBetter) on Twitter
-
 Twitter feed for a blog about "politics, and a particular interest in the nation of Scotland – as it has been, as it stands now, and its future prospects".

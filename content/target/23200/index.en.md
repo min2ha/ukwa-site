@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Political Archive on Flickr 
-
 A collection of political ephemera by the Scottish Political Archive. Photographs and images relating to the political and social life of Scotland. 

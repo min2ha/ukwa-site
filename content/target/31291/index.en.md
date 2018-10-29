@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Resource for London
-
 Resource for London is where London's voluntary sector comes together to work, meet and exhibit. It provides office space, conference, training and meeting rooms and exhibition space.

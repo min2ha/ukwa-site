@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Thomas Shires Collection
-
 The Thomas Shires Collection is a website dedicated to the photographs of Thomas Atherton Shires who lived and worked in Bolton at the end of the 19th century and the very beginning of the 20th century. Photography was a hobby, and the collection makes an archive of the equivalent of today's snapshots; photographs of places and scenes which took the photographers eye as he enjoyed his Sunday days off work. The collection is an online gallery of 187 historic photographs taken by Thomas in Bolton and on various leisure trips to the popular ‘day trip’ destinations of the day. 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Applied Quantitative Methods Network: (AQMeN): The view from the continent: What people in other member states think about the UK’s EU referendum
-

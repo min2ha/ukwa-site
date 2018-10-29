@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Llais Llafur Newspaper
-
 The ‘Llais Llafur’ was a weekly newspaper published at Ystalyfera  between 1898 and 1971 always known locally as the ‘Llais’. With funding from the Heritage Lottery Fund, the Ystradgynlais Family History Society is having the complete run of the newspaper put on to microfilm and deposited in Ystradgynlais Library.

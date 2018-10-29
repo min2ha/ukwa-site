@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Council for Voluntary Organisations (NCVO)
-
 National Council for Voluntary Organisations (NCVO) champions the voluntary sector and volunteering. They connect, represent and support voluntary organisations.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# City of Edinburgh Council, The: Scottish Independence Referendum
-
 None

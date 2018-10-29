@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Mike Bubbins
-
 Mike Bubbins is a comedian from Cardiff who has written and performed at The Edinburgh Fringe Festival and has been a regular guest comedian on BBC Radio Wales.

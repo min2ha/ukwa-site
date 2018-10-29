@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Leonard for Central Scotland
-
 Richard Leonard is the Scottish Labour Party candidate for Airdrie and Shotts constituency in the 2016 Scottish Parliamentary election.

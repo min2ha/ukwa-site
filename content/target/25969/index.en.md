@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour accused of last-minute attempt to parachute candidate into safe seat
-
 None

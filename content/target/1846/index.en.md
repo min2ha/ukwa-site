@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northumberland County Council
-
 Website of Northumberland County Council provides news, information about council campaigns, and access to consultations, planning policy and committee papers and minutes.

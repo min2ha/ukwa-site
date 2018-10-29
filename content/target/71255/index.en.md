@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Yorkshire Schools Dance Festival
-
 Website for the Yorkshire Schools Dance Festival

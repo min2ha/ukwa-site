@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Warwickshire and Bedford Conservatives
-
 Website of North Warwickshire and Bedford Conservatives, providing information on borough and county councillors, association officers, how to get involved and local, national and party news.

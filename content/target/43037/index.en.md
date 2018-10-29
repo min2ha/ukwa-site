@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# June 18 1999
-
 Records London actions and images of June 18 1999, an International day of action, protest and carnival aimed at the heart of the global economy.

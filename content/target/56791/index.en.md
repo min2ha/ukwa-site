@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Islay Festival of Music and Malt
-
 Site of a festival of locally produced Scotch whisky and Scottish traditional music taking place on Islay, Argyll & Bute / Inner Hebrides.

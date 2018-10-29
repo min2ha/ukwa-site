@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Everything Flows
-
 Site of a Glasgow-based music blog that publishes reviews, features, interviews, and music news coverage. 

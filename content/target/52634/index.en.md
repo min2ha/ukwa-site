@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# The Huffington Post Blog
-

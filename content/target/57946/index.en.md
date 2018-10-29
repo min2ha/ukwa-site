@@ -10,6 +10,4 @@
   "start_date": "2017-10-20T09:00:00Z"
 }
 
-# Development Bank for Wales | Banc Datblygu Cymru
-
 The Development Bank of Wales was established by the Welsh Government to assist businesses to get the finance they need to start-up, strengthen and grow. It can provide flexible finance for businesses based in Wales from £1,000 up to £5 million. 

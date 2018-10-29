@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: "Global Legal Forum 2015: Celebrating Magna Carta 800"
-

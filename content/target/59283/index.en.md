@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Shape Records
-
 Shape Records is an independent record label established in 2006 and based in Mid Wales. 

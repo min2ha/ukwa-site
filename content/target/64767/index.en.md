@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Cynadleddau a Digwyddiadau 1825 Conferences and Events, Canolfan Dylan Thomas
-
 The 1825 Conferences Centre hosts gala dinners, conferences, functions and events in in Swansea’s Maritime Quarter. It is also called the Dylan Thomas Centre, and regarded as one of the city’s most iconic buildings.

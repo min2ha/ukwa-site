@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lord Bew calls for second jobs clarity from election candidates
-
 None

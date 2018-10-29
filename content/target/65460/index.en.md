@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Whisky Max
-
 Website of the writer and expert on Scotch whisky, Charles MacLean.

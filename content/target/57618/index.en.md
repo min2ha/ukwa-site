@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scalextric UK Forum
-
 An online enthusiast community concerned with Scalextric and slot-car racing. Discusses test tracks, standard Scalextric, digital Scalextric and various other topics.

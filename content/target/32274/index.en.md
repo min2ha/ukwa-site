@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T00:00:00Z"
 }
 
-# APC: Animal Procedures Committee
-
 The APC is a non-departmental public body that advises the UK government on issues relating to the Animals (Scientific Procedures) Act 1986.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-09T09:00:00Z"
 }
 
-# India Building (Liverpool)
-
 Website about historic office building on Water Street, Liverpool.

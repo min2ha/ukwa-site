@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Local Government Association - Europe
-
 This is the Welsh Local Government Association dedicated page looking at the implications of Brexit on Welsh councils.

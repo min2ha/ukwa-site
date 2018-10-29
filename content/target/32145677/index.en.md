@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jesus Lane Cambridge Meeting
-

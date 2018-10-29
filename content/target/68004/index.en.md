@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dereham Rugby Club
-
 Dereham Rugby Club represent traditional fun, traditional values and, above all, traditional rugby.

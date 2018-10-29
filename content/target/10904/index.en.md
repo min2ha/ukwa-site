@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Press: Tour de France
-
 Tour de France hosted by York Press

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Pink, passionate Cameron or lusty Miliband? Can I be a leader too?
-
 None

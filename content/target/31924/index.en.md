@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Recursion Computer Science Fair
-
 Computer fair in Stratford-upon-Avon.

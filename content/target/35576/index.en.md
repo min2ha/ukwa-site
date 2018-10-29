@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister: PM's statement following Cabinet meeting on EU settlement: 20 February 2016
-
 The PM's statement in Downing Street following a Cabinet meeting on Britain's new settlement with the European Union.

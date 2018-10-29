@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Brookland Parish
-
 The Brookland Parish website was created in 2016, prior to this they used the URL http://www.brookland.org.uk/

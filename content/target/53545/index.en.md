@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# West End Festival
-
 Site of an annual cultural festival in the West End of Glasgow.

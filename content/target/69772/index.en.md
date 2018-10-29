@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# ZZ9
-
 A website for fans of Douglas Adams's Hitchhiker's Guide to the Galaxy.

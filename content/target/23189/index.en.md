@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Anglican Mainstream: Manifesto
-
 An information resource for orthodox Anglicans.

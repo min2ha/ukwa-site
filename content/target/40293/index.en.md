@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Andrew Carnegie Birthplace Museum
-
 Site of a museum Dunfermline, Scotland, with collections relating to the Scottish industrialist and philnthropist Andrew Carnegie; the museum is set in the subject's birthplace.

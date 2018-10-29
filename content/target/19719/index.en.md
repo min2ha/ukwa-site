@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Frances Bryant - Green Party Candidate for Preseli Pembrokeshire 2015 on Facebook
-
 Green Party Candidate for Preseli Pembrokeshire.

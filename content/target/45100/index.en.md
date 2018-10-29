@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic boxing corruption alive and well, says official, as rows continue
-
 Official calls for IOC action and resignation of Aiba president and executives while Irish world champion Michael Conlan accuses officials of cheating after defeat.

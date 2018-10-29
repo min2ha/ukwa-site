@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# J.K.Rowling Official Site
-
 J.K. Rowling is the author of the Harry Potter series of books, published between 1997 and 2007, and 'The Casual Vacancy', published in 2012.

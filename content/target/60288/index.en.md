@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Tower fire: support for people affected [Central Government site]
-
 Information about the support available for people affected by the Grenfell Tower fire on 14 June 2017

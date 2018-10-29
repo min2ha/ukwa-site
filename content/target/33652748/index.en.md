@@ -10,5 +10,3 @@
   "start_date": "2011-01-21T00:00:00Z"
 }
 
-# Tref Llanbedr Pont Steffan - The Town of Lampeter
-

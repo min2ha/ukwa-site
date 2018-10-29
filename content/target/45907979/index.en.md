@@ -10,5 +10,3 @@
   "start_date": "2010-07-15T00:00:00Z"
 }
 
-# Freeze Frame - historic polar images, 1845-1982 from the Scott Polar Research Institute
-

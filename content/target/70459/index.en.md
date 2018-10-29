@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Park United Reformed Church
-
 Site of a Scottish United Reformed church located in Airdrie, Lanarkshire.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Lawyers celebrate anniversary of Magna Carta with a #Jelfie
-

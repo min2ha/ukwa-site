@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark McGeever (@Mark_McGeever) on Twitter
-
 Twitter profile of Mark McGeever, Scottish Conservative and Unionist party candidate for East Kilbride, Strathaven and Lesmahagow in the 2017 general election.

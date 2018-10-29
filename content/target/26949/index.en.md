@@ -10,6 +10,4 @@
   "start_date": "2015-05-27T09:00:00Z"
 }
 
-# Bye Buy Childhood
-
 Bye Buy Childhood campaign aims to empower families to challenge the commercialisation and sexualisation of childhood through positive action.

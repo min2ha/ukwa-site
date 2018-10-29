@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wee Dub Festival
-
 Site of an music festival located in Edinburgh and featuring the Jamaican music genre, 'dub', closely associated with reggae.

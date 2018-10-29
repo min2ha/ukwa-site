@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband resigns as Labour leader after party bloodbath in general election 
-
 None

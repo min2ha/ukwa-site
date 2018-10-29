@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Transport for London (TfL)
-
 Transport for London is the local government body responsible for most aspects of the transport system in Greater London. Its role is to implement the transport strategy and to manage transport services across London.

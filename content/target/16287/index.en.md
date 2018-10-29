@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# King's College London: Your Community in London - France
-
 <p>Information for French students of the King's College London.</p>

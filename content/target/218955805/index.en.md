@@ -10,6 +10,4 @@
   "start_date": "2014-01-29T10:00:00Z"
 }
 
-# West Somerset Mineral Railway
-
 None

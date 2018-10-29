@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Government Equalities Office
-
 The Government Equalities Office is part of the Department for Education of HM Government. It was created in October 2007 when the Women and Equality Unit, based within the Department for Communities and Local Government was converted into an independent department. 

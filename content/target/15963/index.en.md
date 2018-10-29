@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Airline Pilots Association (BALPA), The
-
 <p>The British Airline Pilots Association (BALPA) is a professional association and registered trade union established to represent the interests of all UK pilots.</p>

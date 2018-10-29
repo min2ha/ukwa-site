@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Scarborough News, The
-
 None

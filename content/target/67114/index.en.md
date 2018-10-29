@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# UK Oncology Nursing Society (UKONS) 
-
 UKONS is committed facilitating its educational and developmental aims through local, regional as well as national events.

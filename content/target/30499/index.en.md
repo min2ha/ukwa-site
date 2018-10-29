@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Genuine Jersey
-
 Genuine Jersey was launched in 2001 to promote the diversity and quality of local Jersey produce and products.

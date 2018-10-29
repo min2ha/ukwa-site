@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: PM's rejection of head-to-head debate is 'devastating blow to his own authority'
-
 None

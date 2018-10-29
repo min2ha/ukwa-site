@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Faith and Climate Change
-

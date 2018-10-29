@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Brexiteers blast Irish PM Leo Varadkar for dodgy history after he said he felt 'sorry' for British war veterans going through Brexit because they 'fought in France for European values'   
-

@@ -10,6 +10,4 @@
   "start_date": "2005-02-08T00:00:00Z"
 }
 
-# Yorkshire Medical & Dental History Society
-
 The Yorkshire Medical and Dental History Society was set up in Autumn 1991 "to encourage the advancement of knowledge of the history of medicine and dentistry within its membership and the community." Membership of the Society is open to all who are interested in supporting its aims.

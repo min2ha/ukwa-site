@@ -10,5 +10,3 @@
   "start_date": "2004-11-23T00:00:00Z"
 }
 
-# Menna Elfyn
-

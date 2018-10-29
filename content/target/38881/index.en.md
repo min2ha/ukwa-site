@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Huntingdonshire District Council
-
 Website of Huntingdonshire District Council offers access to information about local services, events and news. You can also read committee papers and consultation documents and find out about budgets and financial performance.

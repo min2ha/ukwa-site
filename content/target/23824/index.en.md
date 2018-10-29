@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Penrhys Partnership
-
 A community based enterprise based in Rhondda Cynon Taff.

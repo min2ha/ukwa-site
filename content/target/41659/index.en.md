@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Being Catholic
-
 Site of the Catholic Church in Scotland supporting the faith development needs of Scotland's Catholic community.

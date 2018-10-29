@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The problems with preaching for Brexit
-
 Guardian, The

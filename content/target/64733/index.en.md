@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Lexiconnect - Internet Strategy Development
-
 Internet Strategy Development by Lexiconnect. Internet Business Consultancy for companies in both B2B & B2C sectors.

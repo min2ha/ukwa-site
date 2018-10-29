@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Athletics Northern Ireland
-
 Homepage for Athletics Northern Ireland, the governing body of the sport

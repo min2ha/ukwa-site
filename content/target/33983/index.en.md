@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: David Cameron confirms ministers can campaign for 'Brexit'
-

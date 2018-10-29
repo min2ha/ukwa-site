@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Society of Bookbinders
-
 The Society of Bookbinders is a UK-based educational charity dedicated to traditional and contemporary bookbinding and to the preservation and conservation of the printed and written word.

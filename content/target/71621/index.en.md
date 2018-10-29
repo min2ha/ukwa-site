@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour's conference '360'
-
 At its 2018 annual conference, Labour was inching towards the possibility of a second public vote on EU membership that might include staying in the European Union.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Christian Aid Scotland
-
 Site of the Scottish arm of an United Kingdom Christian organisation that insists the world can and must be swiftly change to one where everyone can live a full life, free from poverty.

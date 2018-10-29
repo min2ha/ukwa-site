@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Food Research Collaboration: Food, the UK and the EU: Brexit or Bremain?
-
 This briefing paper explores the food terrain exposed by the wider “Brexit versus Bremain” Referendum question to be decided by the voting UK public on June 23. It is written to raise issues; to invite academics and civil society working on food matters to consider how their work fits this momentous issue; and to aid informed decisions.

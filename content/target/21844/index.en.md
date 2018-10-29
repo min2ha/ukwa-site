@@ -10,6 +10,4 @@
   "start_date": "2015-04-15T09:00:00Z"
 }
 
-# Canterbury Christ Church University
-
 Official website of the Canterbury Christ Church University.

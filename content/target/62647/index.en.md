@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-#  Lavengro Press
-
 The Lavengro Press is a book publisher established in 2014 with the aim of promoting the life and work of George Borrow (1803-1881): autobiographer, traveller, linguist, ethnographer, passionate Gypsophile and formidable pedestrian.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Riddell (riddell07) on Twitter
-
 <p>The twitter profile of althete Scott Riddell, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

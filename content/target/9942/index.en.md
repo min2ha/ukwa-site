@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Contractor Calculator.co.uk: How UK contractors may benefit from the EFIP Manifesto for Freelancing
-
 None

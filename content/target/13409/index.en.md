@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Michael Matheson (MathesonMichael) on Twitter
-
 The twitter profile of Michael Matheson, the Scottish National Party Member of the Scottish Parliament for Falkirk West.

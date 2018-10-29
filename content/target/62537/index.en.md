@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kick It Out (@kickitout) on Twitter
-
 English football's equality and inclusion organisation.

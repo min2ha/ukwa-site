@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Sally James Thomas : Artist & Printmaker
-
 Sally James Thomas is an Artist & Printmaker from North Pembrokeshire and Senior Lecturer at Pembrokeshire College.

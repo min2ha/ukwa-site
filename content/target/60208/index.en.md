@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Narratives Of Transformation
-
 The project started as a collaboration between University Centre Blackburn College and Blackburn Museum and Art Gallery. The creative project was an opportunity for students on the Contemporary Textiles, Contemporary Fashion and Contemporary Interior Design programmes to work across disciplines and with museum curators to produce their own creative responses to the WW1 centenary.

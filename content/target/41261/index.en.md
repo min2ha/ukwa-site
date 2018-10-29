@@ -10,5 +10,3 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Cyngor Cymuned Dolgarrog | Dolgarrog Community Council
-

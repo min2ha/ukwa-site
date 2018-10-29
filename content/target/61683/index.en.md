@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shout Out UK: "I have clinical Depression and YouTube helped more than meds"
-
 Shout Out UK article about social media helping with depression 

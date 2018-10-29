@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Harini Iyengar (@Harini_Iyengar  ) on Twitter (Women's Equality Party Politician)
-
 Harini Iyengar stood as Women's Equality Party candidate for Vauxhall at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoke City F.C.
-
 Stoke City Football Club is a professional football club based in Stoke-on-Trent, Staffordshire, England, that plays in the Premier League, the top flight of English football. 

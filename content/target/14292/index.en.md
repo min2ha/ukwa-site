@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Modern British Gallery
-
 <p>Site of a gallery selling modern British art, especially paintings. Contains short biographical notes on the artists.</p>

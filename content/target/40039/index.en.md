@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Brexit would cause 'tax-like' burden on UK incomes, OECD warns
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# UUK Events (@UUKevents) on Twitter
-
 Universities UK is an advocacy organisation for universities in the United Kingdom. This is their official Twitter account for events.

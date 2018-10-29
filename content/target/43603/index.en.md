@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Res Publica and British Influence: A Manifesto for Britain Leading, Not Leaving, Europe Forging a British Vision for the EU
-
 A manifesto created by the think-tank Res Publica and the organisation British Influence to create a vision of British leadership in Europe. In contrast to the Leave campaigns assertion that leaving the EU would give Britain greater foreign influence and personal sovereignty, the manifesto claims the opposite and promotes a Britain stronger in Europe model.

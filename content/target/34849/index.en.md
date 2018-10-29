@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# British Association of Brain Injury Case Managers (BABICM)
-
 British Association of Brain Injury Case Managers is a professional association which was established in 1996 to promote the development of case management in the field of acquired brain injury.

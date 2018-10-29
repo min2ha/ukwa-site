@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# East Mains United Reformed Church
-
 Site of a Scottish United Reformed church located in East Kilbride, Lanarkshire.

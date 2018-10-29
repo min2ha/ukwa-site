@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100 : There's something you haven't noticed about this picture of David Cameron
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Libcom.org: Olympics 2012
-

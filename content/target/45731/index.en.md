@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# National Federation of Gypsy Liaison Groups
-
 The Federation was formed in May 2005 it originally put on conferences to highlight subjects that had been neglected including elders and those Gypsy and Traveller people who had been adopted or taken away into care away from their culture.

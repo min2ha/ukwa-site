@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: George Osborne attacks Boris Johnson's decision to back Out campaign
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: The Customs Bill threatens UK industry and jobs 
-
 The Customs  Bill will enable the UK, should we leave the EU Customs Union, to set our own customs tariffs (taxes on imported goods) and rules to prevent imported goods being sold at below market prices in the UK – known as ‘trade dumping’. The TUC believes the UK should keep membership of the EU Customs Union on the table in Brexit negotiations. Leaving the Customs Union would mean businesses faced VAT and other tariffs on imported components and goods, and customs checks that will add to their costs and risk job losses.

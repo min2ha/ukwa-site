@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-#  Côr Cei | New Quay Community Choir
-
 Cor Cei - New Quay Community Choir established in 2012. The website was last updated in 2013.

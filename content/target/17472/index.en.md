@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carers UK: Carers' Manifesto
-
 Carers UK is a support organisation helping carers across the UK.

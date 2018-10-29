@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# British Simmental Cattle Society Limited
-
 The Simmental originated in Switzerland and is among the oldest and most widely distributed of all the breeds of cattle in the world. This is the society for Simmentals in Wales. 

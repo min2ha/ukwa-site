@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wellpark Mid Kirk, Greenock on Facebook
-
 Facebook page of a Church of Scotland parish church at Greenock, Renfrewshire.

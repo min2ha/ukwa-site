@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Highland Cattle Club of Wales | Clwb Gwartheg yr Ucheldir Cymru
-
 The Highland Cattle Club of Wales is a group of enthusiasts and Highland Cattle breeders living in Wales and the borders.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Willie Bain MP
-
 The website of Willie Bain, Labour Member of Parliament for Glasgow North East.

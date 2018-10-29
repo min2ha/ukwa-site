@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Argyll Genealogical Interests
-
 Online portal for genealogical resources in Argyllshire, Scotland.

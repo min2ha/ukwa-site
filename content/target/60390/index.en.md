@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Wendy Yeo, Painter
-
 Wendy Yea was born in Hong Kong and is now based in Kingston upon Thames. She is also a member of Royal Watercolour Society of Wales. Many of her paintings is of Pembrokeshire.

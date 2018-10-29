@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Craigie and Moncreiffe Parish Church
-
 The website of Craigie and Moncreiffe Parish Church.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LSE IDEAS: A European Union without the United Kingdom: the geopolitics of a British exit from the EU
-
 A vote by the British people to withdraw from the EU – also known as a ‘Brexit’ – will have significant implications for the EU, the ideas and structures of European integration, and European geopolitics. Opinion polls show that a vote to withdraw is a distinct possibility.  This Strategic Update examines how likely a Brexit is and explores what it could mean for the EU, European integration, and Europe’s economics and security.

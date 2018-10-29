@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Tiu Makkonen
-
 A fine art photographer based in Edinburgh.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Crichton Carbon Centre
-
 Site of an environmental organisation providing advice on envornmental issues to individuals, communities and a wide range of organisations, including businesses, social enterprises, schools, colleges, universities and public institutions; based at University of Glasgow Crichton Campus in Dumfries.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Catholic Churches of Tredegar, Rhymney and Ebbw Vale
-

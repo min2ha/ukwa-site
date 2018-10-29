@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Magna Carta: Lasers help reveal clues behind King John's lost treasure
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dem candidate: there will not be another coalition with the Tories
-
 None

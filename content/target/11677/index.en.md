@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Murdoch (RossMurdoch_) on Twitter
-
 The twitter profile of athlete Ross Murdoch, swimmer.

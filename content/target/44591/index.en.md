@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Website for Mark Francois, Member of Parliament for Rayleigh and Wickford
-

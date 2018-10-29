@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethany Baptist Church, Rhiwbina
-

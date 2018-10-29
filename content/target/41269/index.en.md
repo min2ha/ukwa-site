@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# BBC News Magazine (@bbcnewsmagazine) on Twitter
-
 The Magazine goes behind the headlines on the BBC News website, offering features, quizzes and more. This is the Twitter profile for BBC News Magazine. 

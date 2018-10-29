@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Girlguiding joins in celebrations for The Queen’s very special birthday
-
 This year, Girlguiding - alongside hundreds of other charities across the UK - will be celebrating the 90th birthday of our patron, The Queen. 

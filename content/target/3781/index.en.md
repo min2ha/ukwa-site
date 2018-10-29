@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mid Week Herald
-
 None

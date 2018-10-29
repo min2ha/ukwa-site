@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Larkin25
-
 Larkin 24 Ltd is a company and charity set up in 2009 to oversee the 25th anniversary commemoration of Philip Larkin's death in 1985. This consisted of a 25-week programme of events in Hull, culminating in the unveiling of the Larkin Statue in Hull Paragon Station. 

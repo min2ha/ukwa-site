@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Edinburgh Architectural Association
-
 Site of an architectural society based in Edinburgh, and affiliated to the Royal Incorporation of Architects in Scotland.

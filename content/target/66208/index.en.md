@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Manchester Mega Mela
-
 Celebrating South Asian Culture

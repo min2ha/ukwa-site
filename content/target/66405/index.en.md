@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Czech Logistics Alliance (UK) Ltd
-
 The Pan European Freight Management Company. Operating Logistics platforms in the United Kingdom and Europe

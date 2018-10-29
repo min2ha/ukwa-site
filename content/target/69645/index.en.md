@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# Sevenoaks School
-
 Sevenoaks School, based in Kent, is a co-educational day and boarding school for students aged 11 to 18. This is their Website.

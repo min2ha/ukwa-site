@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Kings Cross Environment
-

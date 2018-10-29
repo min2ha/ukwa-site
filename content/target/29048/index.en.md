@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Berwick Liberal Democrats
-
 Website of Berwick Liberal Democrats, providing information on representatives and candidates, campaigns, local and national news updates and how to get involved.

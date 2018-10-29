@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Makers Academy
-
 Makers Academy is a web developer bootcamp. They help to learn the principles of software craftsmanship.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-22T09:00:00Z"
 }
 
-# Good Press
-
 Site of a n independent arts gallery, publisher and retailer for independent art books, comins and zines located in Glasgow.

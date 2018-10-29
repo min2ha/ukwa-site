@@ -10,5 +10,3 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Confederation of South Wales Law Societies, The
-

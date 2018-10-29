@@ -10,6 +10,4 @@
   "start_date": "2016-12-24T09:00:00Z"
 }
 
-# Purbeck Radar
-
 Information about the development of radar during world war 2 and the pioneer radar researchers involved.

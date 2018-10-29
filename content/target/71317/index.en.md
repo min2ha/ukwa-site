@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Ballynahinch RFC (@HinchRFC) on Twitter
-
 The official Twitter page for Ballynahinch Rugby Football Club

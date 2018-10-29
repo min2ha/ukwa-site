@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC: Gloom and hope for the future in UK tech
-
 A report on the results of a survey carried out by Tech City UK after the EU Referendum result.

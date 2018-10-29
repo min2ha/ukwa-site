@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Actors Touring Company
-
 Actors Touring Company produces scripts from abroad, often commissioning its own translations and creating work collaboratively with artists from the UK and overseas.

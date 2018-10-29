@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Old Plymouth Society
-
 The Old Plymouth Society were established in 1929, but in 1992 they restructured the organisation.

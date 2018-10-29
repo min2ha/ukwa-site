@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Amateur Judo Association (AJA), The
-
 The Amateur Judo Association (AJA) was established in 1955 and is a non-profit making organisation dedicated to the promotion of judo through a true spirit of sportsmanship and fairplay.

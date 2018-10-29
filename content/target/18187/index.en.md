@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP spring conference leads to clashes in Margate
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff News Room
-
 News from City of Cardiff Council.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Department of Energy and Climate Change:  Amber Rudd’s speech on the energy benefits of staying in the EU
-
 Secretary of State for Energy & Climate Change, Amber Rudd delivers a speech on the energy benefits of staying in the EU

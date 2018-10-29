@@ -10,6 +10,4 @@
   "start_date": "2017-01-31T09:00:00Z"
 }
 
-# daysofenergy
-
 art and film blog from member of sorryyoufeeluncomfortable collective

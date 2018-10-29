@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sheffield Feminist Archive
-
 Documenting Sheffield women's lives and activism, past and present.

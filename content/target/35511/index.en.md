@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anna Crow (@greenwithanger) on Twitter
-
 The Twitter profile of Anna Crow, Scottish Green Party candidate for Glasgow in the 2016 Scottish Parliament election.

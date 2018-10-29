@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Blood & Treasure
-
 None

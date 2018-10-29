@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# River, The
-
 <p>“The River” is a piece about the Clyde created and performed by Barrowland Ballet's professional ensemble, alongside a large community cast of dancers and choirs and professional musicians from across Scotland. Part of the Glasgow 2014 Cultural Programme it will be performed at the Briggait on the 20th and 21st of July 2014.</p>

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# RCCG (Redeemed Christian Church Of God) Vineyard Chapel, Newport
-
 Vineyard Chapel a member of Evangelical Alliance is one of the Parishes of The Redeemed Christian Church Of God  (popularly known as RCCG), a Church organisation established in Nigeria West Africa since 1952.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Outdoor and Woodland Learning Scotland
-
 OWL Scotland is dedicated to increasing the use of Scotland's outdoor environments for learning.

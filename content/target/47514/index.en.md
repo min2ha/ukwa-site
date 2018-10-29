@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Glencoe Folk Museum
-
 Site of a museum of local history and life located in Glencoe Village, Highland, Scotland.

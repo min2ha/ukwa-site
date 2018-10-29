@@ -10,5 +10,3 @@
   "start_date": "2012-07-05T00:00:00Z"
 }
 
-# Cywaith Cymru - Artworks Wales
-

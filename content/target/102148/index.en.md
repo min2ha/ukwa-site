@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Library
-
 Official website of the British Library, a national library of the United Kingdom and one of the largest libraries in the world. The holdings cover hundreds of languages and dozens of formats (printed, manuscripts, sound recordings, websites, official publications, stamps, etc.). It has a status of a legal deposit library. The main site in St. Pancras in London is a main research and culture hub. 

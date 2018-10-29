@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Lolfa, Y: Y Silff Llyfrau | the Welsh Bookshop
-
 Y Lolfa is a publishing company based in Ceredigion and established in the mid-sixties. This is their blog focusing on their latest books.

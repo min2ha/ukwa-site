@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Centre for Peaceful Solutions
-
 The Centre for Peaceful Solutions is spearheaded by Maria Arpa and David Ellis. Maria is the founder and visionary of the charity and David provides a keen business eye to the organisation.

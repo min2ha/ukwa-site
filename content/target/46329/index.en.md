@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: Foreign and Security Policy Cooperation
-
 On 20 October 2016, the House of Lords  debated the implications of the EU referendum for foreign and security policy cooperation with European countries. Theresa May and members of her Cabinet had stated that they intended for the UK to continue to cooperate closely with EU partners on areas such as security, defence, law enforcement and counter-terrorism after leaving the EU, although it was not clear exactly what form such cooperation might take.

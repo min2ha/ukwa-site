@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helena Windsor (@votepurple2015) on Twitter (UKIP Politician)
-
 Helena Windsor stood as UK Independence Party (UKIP) candidate for East Surrey in the 2017 General Election but was not elected. She is also a Surrey County Cllr for Godstone 2013-17.

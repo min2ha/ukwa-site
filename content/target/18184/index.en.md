@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP will back Conservative deficit plans, says Farage
-
 None

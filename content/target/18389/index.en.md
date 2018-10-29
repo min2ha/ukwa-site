@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: TV election debates 'will go ahead' as broadcasters threaten to empty chair David Cameron
-
 None

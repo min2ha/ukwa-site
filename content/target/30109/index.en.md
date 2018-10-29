@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T11:00:00Z"
 }
 
-# Comhairle nan Leabhraichean on Facebook
-
 Comhairle nan Leabhraichean, the Gaelic Books Council, is the lead organisation with responsibility for supporting Scottish Gaelic authors and publishers, and for raising the profile and reach of Scottish Gaelic books in Scotland and internationally. This is its official Facebook account.

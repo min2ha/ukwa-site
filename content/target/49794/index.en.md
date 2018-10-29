@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# CatStrand Arts & Visitor Centre
-
 Site of a theatre and arts venue in New Galloway, Castle Douglas, Dumfries & Galloway.

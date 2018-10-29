@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# The Hospital Club 
-
 The Hospital Club is a private members club in Covent Garden.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Reality check: Has there been a zero-hours explosion?
-
 None

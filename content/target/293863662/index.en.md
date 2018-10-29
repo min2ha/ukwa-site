@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Role of YMCAs in Wales During the Great War and Beyond, The 
-
 The project aims to enable the public to learn, through an exhibition of photographs, war memorabilia and historical information of the work undertaken by local YMCAs during the Great War and beyond.

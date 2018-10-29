@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# GOV.UK
-
 GOV.UK is a United Kingdom public sector information website, created by the Government Digital Service to provide a single point of access to HM Government services.

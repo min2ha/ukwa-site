@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK faces tough divorce from the EU
-
 It was clear that the UK would face a tough divorce from the European Union after European Council President Donald Tusk characterised the forthcoming talks as "difficult, complex" and possibly "confrontational".

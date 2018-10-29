@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# 3i Group plc
-
 3i is an investment company with three complementary businesses, Private Equity, Infrastructure and Debt Management, specialising in core investment markets in Northern Europe and North America.

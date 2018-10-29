@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Auchinleck Talbot Football Club
-
 Site for a Scottish junior football club based in Auchinleck, Ayrshire.

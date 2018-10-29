@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lets Rock the Moor
-
 Website for Lets Rock the Moor, a retro music festival.

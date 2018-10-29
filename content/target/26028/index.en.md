@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Telegraph is the Torygraph again with this Conservative propagandaTelegraph is the Torygraph again with this Conservative propaganda
-
 None

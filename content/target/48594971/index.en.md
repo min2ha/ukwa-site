@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Pro Wind Alliance (ProWA)
-
 None

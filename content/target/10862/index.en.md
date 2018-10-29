@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridge City Council: le Tour Cambridge
-
 Tour de France pages of Cambridge City Councilf

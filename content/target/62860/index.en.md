@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Happiful Magazine: Children's Mental Health 'A Huge Problem', Prime Minister Outlines Action Plan
-
 News article about the Prime Minister Thersea May and the Governments stance on young people's mental health 

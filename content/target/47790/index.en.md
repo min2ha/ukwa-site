@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Nuclear Information Service 
-
 
 
 

@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Where can you enjoy picnics and street parties for the Queen's birthday across Lincolnshire
-
 List of events in Lincolnshire to celebrate the Queen's birthday.

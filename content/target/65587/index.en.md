@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge St. Ebbe No. 70
-
 Site of a masonic lodge located in Eyemouth, Berwickshire, Scottish Borders and affiliated with the Grand Lodge of Scotland.

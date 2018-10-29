@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neal Stote (@Vote4Stote) on Twitter (National Health Action Party Politician)
-
 Neal Stote stood as National Health Action Party candidate for Redditch in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pars Rug Gallery
-
 Pars Rug Gallery are a UK’s company that specialise in European and Oriental rugs.

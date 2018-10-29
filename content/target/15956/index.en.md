@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Rainforest Foundation UK, The
-
 <p>The Rainforest Foundation UK promotes the establishment of community rights over rainforest lands. It was founded in 1989 by Sting and his wife Trudie Styler.</p>

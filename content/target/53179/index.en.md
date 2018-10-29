@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# droxford.com: doctor, author, NHS campaigner
-
 Blog of Rachel Clarke - a current NHS doctor and former television journalist who cares passionately about standing up for her patients and the NHS. She works as a specialist in palliative medicine, believing that helping patients at the end of life experience the best quality life possible is priceless. In 2016, she received the UK Medical Journalists’ Association award for blogger of the year.

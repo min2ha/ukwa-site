@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Games and Beyond, The
-

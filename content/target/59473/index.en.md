@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: One in 10 teenage girls referred to mental health and learning disability services in past year, finds NHS report
-
 News article about the growing number of young girls in England being referred to mental health services. The internet is discussed as one of the main factors and contributors to this growth in numbers

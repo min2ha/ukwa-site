@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Department of Health tells Vote Leave campaign to stop using official NHS logo in its Brexit literature
-

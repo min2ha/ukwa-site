@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Dot Dot Dash (@dotdot_dash) on Twitter 
-
 This is the twitter feed for the Exhibition 'Dot Dot Dash: Communicating in Wales' held at the National Library of Wales in 2013.

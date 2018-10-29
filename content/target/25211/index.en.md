@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Yvette Cooper vows Labour will be smart on immigration
-
 None

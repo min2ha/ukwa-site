@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# NÓS
-
 "NÓS is a contemporary culture magazine for Irish speakers."

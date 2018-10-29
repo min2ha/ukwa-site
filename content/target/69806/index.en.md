@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: NON MERCI Emmanuel Macron pours cold water on Theresa May’s plan to bypass EU boss Michel Barnier in Brexit talks
-
 The Prime Minister was set to cut her holiday short to visit the French President at his holiday home on the Riviera to try and make a fresh bid for her Chequers Brexit plans. But an Elysee Palace spokesperson said he would not be persuaded to bypass the EU's Michel Barnier, who was charge of talks.
 

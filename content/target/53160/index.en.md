@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Conservatives Against Fox Hunting: Manifesto 2017
-
 The manifesto aims to generate debate and encourage the public and politicians to consider how they can improve animal welfare within the Conservative Party.

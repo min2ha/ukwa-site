@@ -10,5 +10,3 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Ragged University – Inspired to do what the Ragged Schools did
-

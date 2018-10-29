@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Orkney.com
-
 Site providing information about all aspects of culture, history, businesses and amenities in Orkney - funded by Orkney Islands Council and Highlands and Islands Enterprise.

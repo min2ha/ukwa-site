@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibraltar Ornithological & Natural History Society (GONHS)  
-
 The Gibraltar Ornithological & Natural History Society (GONHS), founded in 1976, is a non-governmental, membership-based organisation committed to research into and conservation of nature in Gibraltar and the region of the Strait of Gibraltar.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nirj Deva () on Twitter (Conservative MEP for South East England)
-
 Nirj Deva stood as UKIP candidate for South East England at the 1999 European Parliament election and was elected to serve as MEP. He was subsequently re-elected in 2004, 2009 and 2014. 

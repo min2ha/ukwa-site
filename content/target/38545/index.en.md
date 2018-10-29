@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stuart Cooper (@StuartRISE) on Twitter
-
 Twitter profile of Stuart Cooper, the RISE: Scotland's Left Alliance list candidate for South Scotland region in the 2016 Scottish Parliamentary election.

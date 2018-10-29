@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Technology Will Save Us
-
 Technology Will Save Us is a design-led, technology start-up focused on learning. They provide families, educators and young people – of all ages, backgrounds and interests – new opportunities to learn and create using technology.

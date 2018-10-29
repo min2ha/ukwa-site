@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CS Rugby 1863
-
 Various levels of rugby in west London national 3 level 5 and second xv playing at level 8.

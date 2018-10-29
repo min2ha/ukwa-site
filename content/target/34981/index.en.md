@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Blue Badger
-
 A section of the Conservative Party set up a campaign along with leading  animal welfare organisations to protect badgers from the badger cull plans. Their campaign named Blue Badger fights against the imminent badger cull.

@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Christ Church Street French Nursery
-
 Christ Church Street French Nursery is a bilingual school (English and French) for pre-school children located in the area of Chelsea and Kensington.

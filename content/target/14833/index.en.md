@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Labour for Independence Official Statement I...
-
 Yes Scotland post an official statement from Labour for Independence at 2.03pm, on the 20th of September 2014.

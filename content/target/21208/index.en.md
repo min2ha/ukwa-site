@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Stewart-Clark (@stewartclark_) on Twitter
-
 This was the Twitter page of Alex Stewart-Clark, the Conservative Party candidate for Glenrothes during the UK General Election on the 7th May 2015.

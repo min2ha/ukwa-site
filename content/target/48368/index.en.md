@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food and Rural Affairs: Environment Secretary sets out ambition for food and farming industry
-
 Andrea Leadsom discusses the implications of Brexit for agriculture at the 2017 Oxford Farming Conference.

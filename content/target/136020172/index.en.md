@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancashire LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Scotsman, The 
-
 <p>The site of one of Scotland's oldest daily newspapers, incorporating also the Edinburgh Evening News and the weekly Scotland on Sunday.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Englemed Health News: Gaming addiction "serious"
-
 Article that suggests that those who are addicted to gaming are more likely to suffer from depression, social phobia or anxiety

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Dennis Bovell
-
 Bandcamp pages of Dennis Bovell, Dennis Bovell, reggae guitarist, bass player and record producer, formerly a member of the British reggae band Matumbi.

@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# National Childminding Association (NCMA)
-
 None

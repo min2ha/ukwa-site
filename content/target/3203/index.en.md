@@ -10,5 +10,3 @@
   "start_date": "2013-08-05T11:00:00Z"
 }
 
-# Women's Sport & Fitness Foundation
-

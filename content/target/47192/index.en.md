@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Uni of Glasgow (@UofGlasgow) on Twitter
-

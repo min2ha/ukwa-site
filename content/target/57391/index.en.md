@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Fly Club
-
 Site of a disco and house club located in central Edinburgh, and the parent organisation who stage these and other, outdoor events.

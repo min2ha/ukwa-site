@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Ardea
-
 Annual multilingual short-form poetry journal

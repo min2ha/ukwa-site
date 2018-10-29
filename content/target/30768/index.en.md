@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Wiltshire Family History Society
-
 Wiltshire Family History Society was founded in 1981. The Society's aim is to encourage the study of family history, including both Wiltshire ancestry of people world-wide and world-wide ancestry of Wiltshire residents. It aims to provide contacts between members by regular meetings and through the quarterly Journal.

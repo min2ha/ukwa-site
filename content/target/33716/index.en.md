@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Outline
-
 Outline is Surrey's Lesbian, Gay, Bisexual, Trans, questioning (LGB&T) helpline giving support, advice and information in confidence. 

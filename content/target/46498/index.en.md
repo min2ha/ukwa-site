@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Partneriaeth Ogwen Cyf
-
 Partneriaeth Ogwen is a social enterprise working for the benefit of the economy, society and communities of Dyffryn Ogwen in Gwynedd.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# North Wales Miners​ Association Trust Ltd
-
 North Wales Miners​ Association Trust Ltd aims to promote the preservation of remaining mine artefacts and record our mining heritage for future generations.

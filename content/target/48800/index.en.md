@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Nick Thomas-Symonds MP on Facebook
-
 Nick Thomas-Symonds is the Labour MP for Torfaen.

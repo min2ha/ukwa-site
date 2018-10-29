@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# MagBlog
-
 A discussion of magazines as a media form, from print through to digital technologies.

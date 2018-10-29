@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Friends of Greenwich Park: News - Olympics
-

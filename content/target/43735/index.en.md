@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Six big reasons for women to vote Remain in the EU referendum
-

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lib Dem Hame | Liberal Democrat commentary from Scotland
-

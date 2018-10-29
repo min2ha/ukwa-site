@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Carmakers fear rising trade barriers after Brexit
-
 Discusses the future of the UK car industry after Brexit. Argues that free trade within Europe and beyond is key to its future prosperity.

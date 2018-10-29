@@ -10,6 +10,4 @@
   "start_date": "2014-03-21T19:00:00Z"
 }
 
-# HM Treasury: Budget 2014
-
 None

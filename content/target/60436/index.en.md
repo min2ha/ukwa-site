@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# openDemocracy Russia
-
 openDemocracy is an independent global media platform publishing in English and Russian, and covering politics, civil society, human rights and culture in Russia and the former Soviet states.

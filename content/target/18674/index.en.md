@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Forgotten edition of the Magna Carta that could be worth £10million discovered in a scrapbook in a Kentish town's archive
-

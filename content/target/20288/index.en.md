@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Hostage UK
-
 Hostage UK is an independent charity that supports hostages and their families, during and after a kidnap. The team includes psychologists, psychiatrists, lawyers, financial advisors and communications experts who give their time free of charge.

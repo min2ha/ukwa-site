@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Cathedral Oban on Facebook
-
 Facebook page of a Roman Catholic church in Scotland located in Oban, Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband savaged for 'severe limitations and strategic weaknesses' by 'Bible of the Left'
-
 None

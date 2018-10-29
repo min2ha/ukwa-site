@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Celebrate Science Festival
-
 3 days of free children's events, activities, workshops and experiments celebrating science!

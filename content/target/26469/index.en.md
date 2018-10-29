@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The royal baby should give Labour a bounce, not the Conservatives 
-
 None

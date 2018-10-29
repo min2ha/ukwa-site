@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Legacies of War - Untold Otley Stories
-
 A project enabling young people to research the 5th Battalion Durham Light Infantry (Stockton Battalion) and other units/forces associated with the Borough such as the 225th , 227th and 234th Field Companies of the Royal Engineers.

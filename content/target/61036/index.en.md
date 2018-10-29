@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hugh O'Neills GAA Club Leeds
-
 Hugh O'Neills G.A.A club was founded in Leeds 68 years ago and is the most successful and longest established Gaelic football club in Leeds and Yorkshire. We play Gaelic Football in Leeds and around the surrounding areas. 

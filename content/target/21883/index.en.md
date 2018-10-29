@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# CANAL: ALT CAB or Where Did It Go Wrong?
-
 Web page for the exhibition 'ALT CAB or Where Did It Go Wrong?' at Canal gallery in February and March 2015. The material used in the exhibition, and more related to the Meccano Comedy Club, has been deposited at the British Stand-Up Comedy Archive at the University of Kent.

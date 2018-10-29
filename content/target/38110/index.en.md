@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Caroline Welsh (@caro4glasgow) on Twitter
-
 Twitter profile of Caroline Welsh, the Scottish National Party list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

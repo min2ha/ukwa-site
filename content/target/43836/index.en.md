@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit loophole? MPs must still vote in order for Britain to leave the EU, top lawyers say
-

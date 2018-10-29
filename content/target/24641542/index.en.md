@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Associated British Foods plc
-
 Associated British Foods is a diversified international food, ingredients and retail group with sales of £12.8bn, 124,000 employees and operations in 48 countries across Europe, southern Africa, the Americas, Asia and Australia.

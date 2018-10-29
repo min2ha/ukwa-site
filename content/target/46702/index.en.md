@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Your opinions: Brexit and expats, Mark Carney's fate and our estranged society
-

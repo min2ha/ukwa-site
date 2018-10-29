@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: David Cameron pledges to add £1,000 to pensioners' income within five years 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark’s, Kennington
-
 St Mark’s is a friendly, growing church with an amazing variety of people. It is on the site of the old Roman Road Stane Street, which ran all the way from the Roman London Bridge to Chichester, via the gap in the North Downs at Box Hill. Kennington Park Road still follows the route of the old Stane Street.

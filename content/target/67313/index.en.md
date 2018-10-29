@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Trend UK
-
 TREND-UK is a working group of diabetes nurses with different skills and backgrounds, set up in 2009 in response to a request by the diabetes tsar at that time for a collective voice that represented all diabetes nursing groups. 

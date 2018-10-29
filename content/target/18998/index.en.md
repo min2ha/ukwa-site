@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Brunel University London: David Davis MP delivers hard-hitting Magna Carta Institute annual lecture
-

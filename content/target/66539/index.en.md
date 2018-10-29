@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Nuclear Decommissioning Authority (@NDAgovuk) on Twitter
-
 Official Twitter channel of the UK Nuclear Decommissioning Authority (NDA). Dealing with the past, protecting the future

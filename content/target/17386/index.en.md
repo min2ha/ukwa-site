@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Mystery bidder pays £17,500 to go shoe shopping with Theresa May
-
 None

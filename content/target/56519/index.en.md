@@ -10,6 +10,4 @@
   "start_date": "2017-08-10T09:00:00Z"
 }
 
-# Criminal Justice Alliance
-
 The Criminal Justice Alliance (CJA), is a uniquely authoritative coalition of over 120 organisations working together to create a fairer and more effective criminal justice system.

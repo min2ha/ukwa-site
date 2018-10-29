@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jackson Carlaw MSP (@Carlaw4Eastwood) on Twitter
-
 The Twitter profile of Jackson Carlaw, Scottish Conservative and Unionist candidate for Eastwood in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Birmingham Live (@birmingham_live) on Twitter
-
 The latest Birmingham news, sport, weather and events.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Scotland (YesScotland) on Twitter
-
 <p>The twitter profile of the Yes campaign for an independent Scotland.</p>

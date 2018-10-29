@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Ives Rugby (@StIvesRugby) on Twitter
-
 The official Twitter account of St. Ives Rugby

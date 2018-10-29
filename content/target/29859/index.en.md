@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Leamington Spa Comedy Festival
-
 Website for the Leamington Spa Comedy Festival

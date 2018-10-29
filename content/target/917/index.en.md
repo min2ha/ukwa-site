@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health and Social Care Information Centre
-
 None

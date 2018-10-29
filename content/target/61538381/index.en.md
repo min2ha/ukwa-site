@@ -10,6 +10,4 @@
   "start_date": "2014-09-11T00:00:00Z"
 }
 
-# Gwlad
-
 Agricultural & Rural affairs

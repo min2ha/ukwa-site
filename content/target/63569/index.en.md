@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Newbattle Parish Church
-
 The website of Newbattle Parish Church. Newbattle Parish comprises the three churches of Mayfield and Easthouses, Newbattle, and Newtongrange.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Woodcock on Facebook (Labour candidate for Cumbria Barrow and Furness)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Retail NI
-
 Retail NI is the representative body for the independent retail sector in Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# openDemocracyUK: Ireland and Britain, a hundred years later
-
 Article by Mark Perryman about the meaning of the Easter Rising centenary for models of Britishness

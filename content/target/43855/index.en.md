@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Momentum
-
 Momentum organise across the country to secure the election of a progressive left Labour Party at every level, and to create a mass movement for real transformative change. As well as transform Labour into a more open, member-­led party, with socialist policies and the collective will to implement them in government.

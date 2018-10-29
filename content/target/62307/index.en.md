@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull City Association Football Club
-
 Hull City Association Football Club is a professional football club in Hull, East Riding of Yorkshire, England. Founded in 1904, the club plays in the Championship, the second tier of English football.

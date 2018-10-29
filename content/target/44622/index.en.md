@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# GMWatch
-
 GMWatch provides the public with the latest news and comment on genetically modified (GMO) foods and crops.

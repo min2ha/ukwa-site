@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Wasted Degrees
-
 Site of a brewer located at Pitlochry, Perth & Kinross.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# missing-episodes.com
-
 This website lists the episodes for popular shows that have no known existing copies and hopes to spread the word so that any episodes still out there may be returned to safety as the BBC and other broadcasters are keen to fill the gaps in their archives.

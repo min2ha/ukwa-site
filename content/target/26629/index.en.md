@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Losing badly takes a heavy personal toll on MPs – I should know
-
 None

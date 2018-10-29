@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Strabane Local & Family History Society
-
 The Strabane History Society was founded in December 1989 at the local Teachers’ Centre by a small group of local teachers to further their interest and knowledge of the history of Strabane and district. The group widened the circle of interest to include the general public as it was felt that there was a vast wealth of local expertise in the community.

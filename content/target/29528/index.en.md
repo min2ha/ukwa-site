@@ -10,5 +10,3 @@
   "start_date": "2015-07-30T09:00:00Z"
 }
 
-# Canolbarth Cymru Partneriaeth Gwiwerod Coch | Mid Wales Red Squirell Partnership
-

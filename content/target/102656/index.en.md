@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Parliament
-
 The official site of the Parliament of the United Kingdom.

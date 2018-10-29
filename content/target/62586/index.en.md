@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Sharia Watch UK Ltd.
-
 A far right Islamophobic campaign group. 

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Tollgate Farm Caravan and Camping Park
-
 None

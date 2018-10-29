@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Flynn MP on Facebook
-
 Paul Flynn MP for Newport West.

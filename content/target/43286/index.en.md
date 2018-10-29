@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London School of Economics and Political Science, The: Department of Government
-
 Blog from the LSE Department of Government

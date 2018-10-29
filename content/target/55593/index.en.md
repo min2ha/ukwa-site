@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Made In Hackney
-
 Providing Access To Healthy, Affordable Food That's Good For People And Planet

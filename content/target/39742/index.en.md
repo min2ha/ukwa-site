@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Pippa Bartolotti on Facebook (Green Party candidate for Newport West and South Wales East)
-
 Pippa Bartolotti is the Green Party candidate for Newport West and South Wales East at the 2016 National Assembly for Wales elections. 

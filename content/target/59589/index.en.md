@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Exiting the EU: sectoral impact assessments
-
 On 1 November 2017 the House of Commons resolved that the so-called "Brexit Impact Assessments" should be provided to the Committee on Exiting the EU. This short briefing paper sets out the background to the debate and the Government's response to the resolution.
 

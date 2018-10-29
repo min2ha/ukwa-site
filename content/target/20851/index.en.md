@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Melanie Ward on Facebook
-
 This is the Facebook page of Melanie Ward, the Labour Party candidate for Glenrothes in the UK General Election on the 7th May 2015.

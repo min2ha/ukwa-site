@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Merlins Lodge Pontypridd  No. 1578
-
 Merlins Lodge No. 1578 was consecrated in 1876 meet at Pontypridd. The website provides a short history and introduction to the Lodge.

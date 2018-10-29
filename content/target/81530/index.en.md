@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Newport Borough Brass Band
-
 Newport Borough Brass Band was founded in 1971 and rehearse at Rogerstone, Newport. 

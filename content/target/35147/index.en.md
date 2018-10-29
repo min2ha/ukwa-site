@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Cardiff Leader's Blog, Councillor Phil Bale
-
 Blog by Phil Bale, leader of Cardiff City Council.

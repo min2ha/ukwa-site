@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Cocaine Anonymous Scotland
-
 Site of an organisation bringing together people to share their experience, strength and hope with each other, so that they may solve their common problem and help others to recover from their addiction.

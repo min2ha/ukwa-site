@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sittingbourne & Sheppey Labour
-
 Website of Sittingbourne & Sheppey Labour, providing information on councillors, parliamentary candidates, meeting dates and local, national and party news.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# British Orthoptic Society Trade Union
-

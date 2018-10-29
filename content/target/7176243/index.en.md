@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Society of Authors, The
-
 The Society of Authors serves the interests of professional writers. It has more than 9,000 Members and Associates writing in all areas of the profession, i.e. novelists, textbook writers, broadcasters, academics, illustrators and translators. 

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ciaran Roarty for West of Scotland 2016 on Facebook
-

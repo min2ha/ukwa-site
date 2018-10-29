@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# More Canals than Venice
-
 <p>The website owner is highlighting under the radar arts and culture in Birmingham, UK.</p>

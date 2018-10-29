@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Cambridge University Russian Society
-
 A bi-lingual university society run and organised by Cambridge University students interested in Russia, Russian people, literature, culture and society.

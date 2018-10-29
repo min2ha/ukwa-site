@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cllr Yen Hongmei Jin (@Cllr_Yen) on Twitter
-
 Twitter profile of Yen Hongmei Jin, independent candidate for Dumfries and Galloway in the 2017 general election.

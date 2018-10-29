@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Obar Dheathain / Aberdeen Gaelic Choir
-

@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Cú Chulainns Senior Hurling Club and Intermediate Football Club
-
 Cú Chulainns Senior Hurling Club and Intermediate Football Club
 
 “Cú Chulainns is One of the Oldest London GAA Clubs With a Proud & Competitive Track Record So Join in on the Action Today!”

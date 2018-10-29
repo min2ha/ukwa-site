@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Get Britain Building
-
 The Modern Masonry Alliance, Builders Merchants Federation, Federation of Master Builders and Home Builders Federation represent the major players in the construction and housing industry from the manufacturers of bricks and blocks, to the suppliers of building materials, right through to both the large and small builders.
 
 Our organisations have come together to communicate our key recommendations for how the next Government can maximise the potential of the housing and construction industry to deliver jobs and growth through more quality and sustainable homes that also underpin our wider success as a nation.

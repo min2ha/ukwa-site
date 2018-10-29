@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Trudy Harrison (Conservative Politician)
-
 Trudy Harrison stood as Conservative candidate for Copeland at a by-election on February 23rd 2017 following the resignation of Jamie Reed and was elected MP. She subsequently stood for re-election at the 2017 General Election and was successful.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Curry
-
 A website with news for the Parish of North Curry.

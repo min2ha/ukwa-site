@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Minister Nkoana ‐ Mashabane pays tribute to former President Nelson Mandela
-
 None

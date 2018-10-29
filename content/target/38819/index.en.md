@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cospatric d'Inverno (@CosdInverno) on Twitter
-
 Twitter profile of Cospatric d'Inverno, the Scottish Liberal Democrat candidate for Edinburgh Eastern in the 2016 Scottish Parliamentary election.

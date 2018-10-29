@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Belfast Reds (@NBR1879) on Twitter
-
 The official Twitter account of North Belfast Reds. North Belfast Reds is a Cliftonville FC supporters club based at Cassidys.

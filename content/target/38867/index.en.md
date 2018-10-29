@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Susan Mackay (@suzmac_50) on Twitter
-
 Twitter profile of Susan Mackay, the Scottish Women's Equality list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

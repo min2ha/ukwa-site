@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Wales Green Build Marketplace
-
 This is Wales' premier conference and expo for green building sponsored by the Welsh Government.

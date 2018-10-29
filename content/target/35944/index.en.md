@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lewis Macdonald (@LewisMacdmsp) on Twitter
-
 The Twitter profile of Lewis Macdonald, the Scottish Labour candidate for Aberdeen Central in the 2016 Scottish Parliament election.

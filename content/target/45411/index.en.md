@@ -10,5 +10,3 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Severn Estuary Coastal Group 
-

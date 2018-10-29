@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire & the Humber Public Health Observatory
-
 None

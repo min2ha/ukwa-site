@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Journal of The Law Society of Scotland, The: Solicitor's guide to internet porn
-
 Article related to the issues of internet pornography addiction and employees accessing internet pornography at work

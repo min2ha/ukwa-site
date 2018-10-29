@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul O'Kane for Renfrewshire South | A campaigning candidate
-
 Paul O'Kane is the Scottish Labour candidate for Renfrewshire South in the 2016 Scottish Parliamentary election.

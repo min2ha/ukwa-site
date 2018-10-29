@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Balmerino linked with Wormit Parish Church
-
 The website of Balmerino linked with Wormit Parish Church. 

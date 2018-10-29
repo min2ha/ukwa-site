@@ -10,8 +10,6 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Worshipful Company of Cordwainers
-
 Cordwainers are shoemakers who practised their trade for centuries within the walls of the City of London.
 
 During the medieval period, craftsmen formed guilds to regulate their trades and to protect the quality of their wares. The guilds trained apprentices and supported their members through good times and bad.

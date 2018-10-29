@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Poll reveals scale of Tories' NHS problem
-
 None

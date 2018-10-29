@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Garton and King Ltd
-
 The Holladay family, who have been involved with the business of Garton & King from 1898 until 1990, have put together this History of the Company and hope you will find it of interest.

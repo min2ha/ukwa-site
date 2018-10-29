@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Grant Shapps – how to explain who he is to readers outside the UK
-
 None

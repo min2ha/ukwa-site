@@ -10,6 +10,4 @@
   "start_date": "2018-04-07T09:00:00Z"
 }
 
-# Patrick Kielty (@PatricKielty) on Twitter
-
 A comedian from Northern Ireland. 

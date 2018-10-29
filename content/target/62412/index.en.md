@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Lodge Earl Haig 1260
-
 Site of a masonic lodge located in Leven, Fife and affiliated with the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Cymdeithas y Dywysoges Gwenllian | Princess Gwenllian Society
-
 The Society was founded to commemorate Gwenllian, the daughter of Llywelyn the last ruling Prince of Wales ("Llywelyn The Last"). 

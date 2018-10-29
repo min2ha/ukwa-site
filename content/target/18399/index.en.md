@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: CBI chief takes swipe at Ed Miliband over 'misguided talk'
-
 None

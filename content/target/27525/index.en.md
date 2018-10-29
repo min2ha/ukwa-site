@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: How we got to voting day ... in a general election littered with gaffes, controversies and clangers
-
 None

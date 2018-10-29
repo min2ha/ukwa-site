@@ -10,8 +10,6 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# B E Jones Novelist
-
 B.E. Jones (Beverley Jones) is a former journalist from south Wales and now a freelance writer and novelist. She channels her experiences of ‘true 
 crime,’ and the murkier side of human nature, into her dark, 
 psychological thrillers set in and around South Wales. 

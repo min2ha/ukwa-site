@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The big lie of economic success may still not save the Tories
-
 None

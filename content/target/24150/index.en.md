@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Where is #EdStone? The monumental question facing Labour after Miliband's departure
-
 None

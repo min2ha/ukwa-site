@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Rolling Hills Folk Club
-
 Site of a traditional music club located in Darnick Scottish Borders, Scotland.

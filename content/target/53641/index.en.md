@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Coll Bunkhouse
-
 Site of a hostel and events venue located on the isle of Coll, Argyll & Bute (Inner Hebrides).

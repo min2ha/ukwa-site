@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southampton City Council
-
 The website of Southampton City Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

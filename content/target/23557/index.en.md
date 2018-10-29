@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geoff Garbett (@ggarbett) on Twitter (Green Party Politician)
-
 Geoff Garbett stood as Green Party candidate for Camborne and Redruth in the 2017 General Election but was not successful.

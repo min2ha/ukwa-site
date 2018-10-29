@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Edinburgh Ex Police Boxes 
-
 Site promoting the former police boxes in Edinburgh, highlighting their new uses including themed use during an annual festival.

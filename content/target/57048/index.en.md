@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'We NEED to get immigration down': Cabinet minister defends tough Brexit immigration blueprint insisting stopping free movement is key to controlling numbers   
-

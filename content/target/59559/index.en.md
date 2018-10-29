@@ -10,5 +10,3 @@
   "start_date": "2017-12-07T09:00:00Z"
 }
 
-# Pembrokeshire Craftsmen's Circle
-

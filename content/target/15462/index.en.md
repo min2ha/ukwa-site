@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Islamophobia Watch
-
 <p>Islamophobia Watch began in 2005 as a non-profit project to document material in the public domain which advocates a fear and hatred of the Muslim peoples of the world and Islam as a religion.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Better the devil you know’: two towns that refused to ride with Labour
-
 None

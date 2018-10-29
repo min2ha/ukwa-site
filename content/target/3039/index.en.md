@@ -10,6 +10,4 @@
   "start_date": "2015-05-28T09:00:00Z"
 }
 
-# Cultural Enterprise Office
-
 Cultural Enterprise Office supports Scotland’s creative businesses. Their services help creative micro-businesses and individuals build the skills and knowledge they need to succeed.

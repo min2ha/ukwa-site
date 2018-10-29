@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Aminatta Forna (@aminattaforna) on Twitter
-
 Twitter profile of the author Aminatta Forna.

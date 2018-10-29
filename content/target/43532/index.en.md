@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# WWF- World Wildlife Fund: EU Referendum: Think Environment
-
 WWF-UK custom artical on the EU referendum. Disucssing the consequences of both outcomes on the environment. 

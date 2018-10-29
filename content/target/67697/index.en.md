@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Tennent Caledonian Breweries
-
 Site of a large brewer and drinks distributor located in Glasgow, a subsiduary of C&C Group plc.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# National Geographic
-
 Explore National Geographic. A world leader in geography, cartography and exploration.

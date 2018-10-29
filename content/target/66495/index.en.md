@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Attorney General's Office (@attorneygeneral) on Twitter
-
 Making law and politics work together at the heart of the UK constitution.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# SUDEP Action | Making every epilepsy death count
-
 Our services include bereavement support, counselling, help with understanding the inquest process and in collaboration with UK research teams, the involvement of bereaved families and professionals in research through the Epilepsy Deaths Register.

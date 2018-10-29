@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Rooted in the Earth
-
 Rooted in the Earth focuses on Greenwich, Hackney, Newham, Tower Hamlets and Waltham Forest, the five host boroughs of the 2012 London Olympic and Paralympic Games. Each of these East and South East London boroughs contains many public parks and green spaces open to local communities and visitors. 

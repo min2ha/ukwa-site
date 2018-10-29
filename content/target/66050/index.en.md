@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library:  European Union (Withdrawal) Bill: Lords Report Stage
-
 This House of Lords Library Briefing was prepared in advance of third reading in the House of Lords of the European Union (Withdrawal) Bill, on 16 May 2018. The Briefing summarises amendments made to the Bill at report stage.

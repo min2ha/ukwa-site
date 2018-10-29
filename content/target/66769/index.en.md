@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff City Ladies Football Club, Wales
-
 The website of Cardiff City LFC who play in the FA Womens Premier League and in Ystrad Mynach.

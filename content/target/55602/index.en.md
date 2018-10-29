@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Is video gaming bad for you? The science for and against
-
 Article examining both positive and negative effects playing video games has on mental health

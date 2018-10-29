@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Literary Leicester  - University of Leicester
-
 Festival organised by the University of Leicester

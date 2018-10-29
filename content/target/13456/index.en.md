@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael McCann MP (MichaelMcCannMP) on Twitter
-
 The twitter profile of Michael McCann, Labour Party candidate for East Kilbride, Strathaven and Lesmahagow.

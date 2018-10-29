@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Full Fact: EU Referendum
-
 Full Fact ("factchecking charity") on the EU referendum.

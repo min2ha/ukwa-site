@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Looe Literary Festival
-
 Festival organised by Richard and Judy

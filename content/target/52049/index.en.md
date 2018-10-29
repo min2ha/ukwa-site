@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s [Islington]
-
 St Mary's is one of the Church of England's most historic parishes.

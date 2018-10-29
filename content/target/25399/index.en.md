@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband attacks SNP plan for Scottish fiscal autonomy
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Lawrences GAA Club
-
 St Lawrences GAA provide mens Senior, Junior, Underage & Ladies football.

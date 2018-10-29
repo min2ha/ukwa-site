@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKScrappers
-
 UKScrappers in an online community of over 30,000 scrapbook artists and enthusiasts. Discusses scrap booking techniques, pocket scrap booking, digi scrapping, ideas for inspiration and various other topics. 

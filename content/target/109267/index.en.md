@@ -10,6 +10,4 @@
   "start_date": "2005-06-13T00:00:00Z"
 }
 
-# Progress Education Trust
-
  The small charity Progress Educational Trust believes that balanced public and professional debate on these reproductive and genetic issues is crucial and we work to facilitate this. 

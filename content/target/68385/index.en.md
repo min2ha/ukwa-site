@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: The EU (Withdrawal) Bill receives Royal Assent
-
 On June 26th 2018 the EU (Withdrawal) Bill received Royal Assent from Her Majesty the Queen and became an Act of Parliament.

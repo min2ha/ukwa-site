@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women’s Elite Rugby
-
 Women’s Elite Rugby is a fan Twitter account and website to promote Women’s Elite Rugby in England.

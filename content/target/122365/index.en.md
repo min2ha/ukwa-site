@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Universities UK
-
 Universities UK is an advocacy organisation for universities in the United Kingdom. It was established as the Committee of Vice-Chancellors and Principals of the Universities of the United Kingdom (CVCP).

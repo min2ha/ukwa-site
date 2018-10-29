@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-#  Trump Baby (@TrumpBabyUK) on Twitter
-
 I am a six metre high inflatable orange baby with tiny hands. Help make me fly

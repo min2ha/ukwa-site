@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 'Real change can and will happen in May's election' says Nigel Farage 
-
 None

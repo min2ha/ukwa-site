@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Nathaniel Davies
-
 Thomas Nathaniel Davies was born in 1922 and is a Welsh artist from Dowlais, Merthyr Tydfil. Some of his work is now housed in public collections such as The Victoria and Albert Museum and The National Library of Wales. This website provides a complete work of this important Welsh artist.

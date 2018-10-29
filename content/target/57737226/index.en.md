@@ -10,5 +10,3 @@
   "start_date": "2011-03-29T00:00:00Z"
 }
 
-# BBC - Cymru Bitesize TGAU
-

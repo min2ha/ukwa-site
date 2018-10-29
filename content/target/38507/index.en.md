@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish Libertarians
-
 Scottish Libertarians are a registered political party standing candidates in the 2016 Scottish Parliamentary election.

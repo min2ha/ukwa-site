@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dumfries and Galloway Greens Scottish Greens
-

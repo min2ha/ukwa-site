@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Echoes of Wartime
-
 Echoes of Wartime seeks to inform the people of Crediton, Devon of the lives of ordinary people of their locality during World War 1 and the impact their experiences have had on our heritage today.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# G1 Group plc
-
 G1 Group plc is a Scottish hospitality and leisure operator based in Glasgow, Scotland. The company operates more than 45 venues including nightclubs, bars, restaurants and cinemas. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maybole, North Carrick and Coylton SNP (@mnccsnp) on Twitter
-
 Twitter profile of the Maybole, North Carrick and Coylton branch of the Scottish National Party (SNP).

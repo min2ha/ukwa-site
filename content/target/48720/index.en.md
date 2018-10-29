@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Metropolitan Community Church Edinburgh
-
 Site of an independent church and its community in Edinburgh.

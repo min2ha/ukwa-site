@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Ashford Borough Council
-
 Provides access to information on public services, and full text of consultations council committee minutes and agendas

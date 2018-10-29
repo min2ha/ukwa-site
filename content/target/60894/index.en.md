@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# StockTradingForum
-
 An online enthusiast community concerned with stock trading. Discusses trading videos, polls, trading tips, general chat and various other related topics.

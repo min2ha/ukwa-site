@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Haemophilia A Mutation Database (HADB)
-

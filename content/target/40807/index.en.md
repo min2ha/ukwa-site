@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Writers from the War
-
 Project to transform our school library into a World War One Writer's Workshop.

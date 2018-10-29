@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Canolfan Menywod Abertawe | Swansea Women’s Centre
-
 Swansea Women’s Centre was established in the mid 1970s by a feminist collective of local women. The Centre is a women only environment.

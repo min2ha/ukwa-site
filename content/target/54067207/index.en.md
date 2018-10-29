@@ -10,5 +10,3 @@
   "start_date": "2010-08-05T00:00:00Z"
 }
 
-# Raising Boys' Achievement (RBA)
-

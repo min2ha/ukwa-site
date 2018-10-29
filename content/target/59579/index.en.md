@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'We've met them MORE than half way': Boris says Britain has made enough concessions and demands the EU get on with trade talks despite Irish border deadlock as May scrambles for a deal with Dublin and the DUP  
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scot Football Museum (@SFootballMuseum) on Twitter
-
 The official Twitter account of the Scottish Football Museum. 

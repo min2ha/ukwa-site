@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour attacks 'extreme' Tory NHS spending plans
-
 None

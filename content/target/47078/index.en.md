@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bon Accord Bulls
-
 Pitch Hero site for a Rugby league football club based in Aberdeen.

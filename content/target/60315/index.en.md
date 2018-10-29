@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Absolutely James Bond Forum
-
 An online enthusiast community concerned with the films and books related to James Bond. Discusses films, books, events & screenings, trivia challenges and various other related topics.

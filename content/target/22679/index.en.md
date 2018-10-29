@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elizabeth Jones (@joneselizab) on Twitter (UKIP Politician)
-
 Elizabeth Jones stood as UK Independence (UKIP) candidate for Dartford at the 2015 General Election but was not elected. She stood again for the same seat in 2017 but was not elected.

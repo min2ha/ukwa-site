@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Web We Want Festival, Southbank Centre
-
 Website of a web festival, which took place in London in 2015.

@@ -10,5 +10,3 @@
   "start_date": "2016-06-09T11:00:00Z"
 }
 
-# Penyffordd Community Council
-

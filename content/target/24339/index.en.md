@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: SNP prepared to paralyse Armed Forces unless Trident is scrapped
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-06-08T09:00:00Z"
 }
 
-# Panel Diogelwch Cydenwadol | Interdenominational Protection Panel
-
 The role of the Panel is to support and advise the three denominations (Union of Welsh Independents, Baptist Union of Wales and Presbyterian Church of Wales) in relation to safeguarding practice in their work with children and young people and vulnerable adults.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Personal Trainer Forum
-
 An online enthusiast community concerned with personal training. The forum covers general discussions about personal training, personal trainer marketing, personal training courses, job listings  and various other related topics.

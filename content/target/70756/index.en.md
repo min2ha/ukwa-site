@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Big C Little Me: Putting the Can in Cancer
-
 Big C Little Me is a blog by BBC Radio 5 Live news presenter Rachael Bland who who was diagnosed with breast cancer in November 2016. Her podcast, You, Me and the Big C aims to take "a candid look at cancer".

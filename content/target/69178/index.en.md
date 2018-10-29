@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Colm's Parish Church
-
 Site of a Scottish Roman Catholic parish church located in Kilmacolm, Inverclyde.

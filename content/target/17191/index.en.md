@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 100 days to General Election: We asked 100 people how they'll vote and about their key concerns
-
 None

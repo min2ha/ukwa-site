@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: Scottish independence: referendum day newspaper front pages - in pictures
-
 <p>Gallery of images of front pages from 18 September 2014, of Scottish and British national newspapers.</p>

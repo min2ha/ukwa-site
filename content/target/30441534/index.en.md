@@ -10,5 +10,3 @@
   "start_date": "2009-06-16T23:00:00Z"
 }
 
-# Historical Medical Equipment Society
-

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bardd Plant Cymru (@BarddPlant) on Twitter 
-
 The twitter feed of the current Bardd Plant Cymru. The project ensures that every child in Wales has the opportunity to experiment with Welsh literature through workshops, performances and activities.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Vale Reds Disability Football Club
-
 Vale Reds Disability Football Club is a pan disability club based in the Vale of Glamorgan. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Matheson (@ChrisM4Chester) on Twitter (Labour Candidate Politician)
-
 Chris Matheson stood as Labour candidate for the City of Chester in the 2017 General Election but was not elected.

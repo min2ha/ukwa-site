@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Cheltenham Group, The
-
 None

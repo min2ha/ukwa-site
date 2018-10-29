@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ciara Horne (CiaraHorne1) on Twitter
-
 <p>The twitter profile of cyclist Ciara Horne, competing for Team Wales in the Glasgow 2014 Commonwealth Games.</p>

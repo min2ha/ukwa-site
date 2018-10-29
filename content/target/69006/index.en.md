@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jeremy Hunt (@Jeremy_Hunt) on Twitter (Conservative politician)
-
 Twitter Feed of Jeremy Humt, Conservative MP for South West Surrey.After a long stint as Health Secretary, Jeremy Hunt became Foreign Secretary in July 2018 following the resignation of Boris Johnson

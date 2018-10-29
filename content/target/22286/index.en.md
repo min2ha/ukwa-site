@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Graham Simpson
-
 This is the website of Graham Simpson, the Conservative Party candidate for East Kilbride, Strathaven and Lesmahagow in the UK General Election on the 7th May 2015 and East Kilbride in the 2016 Scottish Parliamentary election.

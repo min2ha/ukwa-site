@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Countess of Chester Hospital
-
 None

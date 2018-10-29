@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Outrage as Peter Mandelson attacks Brextremists as 'nationalists' who 'hate foreigners' and claims they are not 'patriots' like him
-
 Peter Mandelson provoked outrage by labelling extreme Brexiteers 'nationalists' who 'hate foreigners' and are not 'patriots' like him. The former EU trade commissioner said the people leading the charge for quitting the EU were 'Brextremists' not motivated by the best interests of the country.
 
 

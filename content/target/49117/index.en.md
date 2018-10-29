@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Health in Mind
-
 Site of a charitable organisation promoting positive mental health and wellbeing in Scotland, and based in Edinburgh.

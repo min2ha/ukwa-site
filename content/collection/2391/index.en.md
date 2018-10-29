@@ -67,7 +67,5 @@
   "endDateText": ""
 }
 
-# Children's Websites
-
 This collection of websites contains sites designed to be used by children as well as sites which deal with issues which affect children such as literacy and bullying.  
 

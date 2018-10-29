@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Yeats (@danyeats) on Twitter
-
 The Twitter profile of Daniel Yeats, Scottish Green Party candidate for North East Scotland in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Ponthafren Association: Promoting Positive Mental Health
-
 Ponthafren Association caters for people who experience mental health issues in north Powys.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotzine
-
 Site of an online Scottish football fanzine.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# William Ward (@galluses) on Twitter (Green Party candidate for Garston and Halewood)
-

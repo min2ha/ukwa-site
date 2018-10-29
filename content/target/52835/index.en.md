@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Building Societies Association (BSA): Building society: and proud of it
-
 Calls on the next government to: build a resilient and diverse economy; tackle housing affordability; and encourage saving

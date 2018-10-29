@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# '100 faces 100 stories'
-
 '100 faces 100 stories' is a Cornwall-wide partnership project that will benefit museums and archives and reach communities across Cornwall.

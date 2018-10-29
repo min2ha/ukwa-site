@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Dr David Kelly: 10 years on, death of scientist remains unresolved for some
-
 Reviewing the circumstances of the death of Dr David Kelly over ten years ago. Dr. Kelly was the government scientist who reported that Iraq had no weapons of mass destruction.

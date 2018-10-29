@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Resource Association: Manifesto for Resources 2017
-
 The Resource Association challenges all political parties vying for power in the 2017 General Election to respond to the potential of the circular economy and better resource efficiency in their election manifestos.

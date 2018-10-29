@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Oxford Business Law Blog: How Brexit will Fail
-
 If Brexit fails, it will do so because withdrawal happens suddenly and with no indication about the future arrangements that will replace membership in the EU and no transitional arrangements. 

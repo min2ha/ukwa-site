@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Rebecca Hanson (@hanson4copeland) on Twitter (Liberal Democrats Politician)
-
 Rebecca Hanson stood as Liberal Democrats candidate for Copeland at the 2017  General Election but was not elected.

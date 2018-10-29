@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband calls for press to report ‘issues not cynicism’ in general election
-
 None

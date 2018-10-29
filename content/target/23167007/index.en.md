@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Claremont Hotel, Polperro, The
-
 None

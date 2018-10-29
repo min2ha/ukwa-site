@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum polling day: last opinion poll shows four-point remain lead - live
-
 Guardian, The

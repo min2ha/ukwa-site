@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Lost Voice Guy
-
 Website for Lost Voice Guy (Lee Ridley), a comedian born with cerebral palsy who performs stand-up comedy using the help of a voice synthesizer.

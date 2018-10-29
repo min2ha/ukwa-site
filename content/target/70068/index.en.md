@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Mark Serwotka (@MarkSerwotka) on Twitter
-
 Mark Serwotka is General Secretary of the Public and Commercial Services Union, the trade union for British civil servants.

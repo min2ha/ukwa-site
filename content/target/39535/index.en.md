@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Christina McKelvie for Hamilton, Larkhall and Stonehouse on Facebook
-
 Facebook profile of Christina McKelvie who is the SNP candidate for Hamilton, Larkhall and Stonehouse in the 2016 Scottish Parliamentary election.

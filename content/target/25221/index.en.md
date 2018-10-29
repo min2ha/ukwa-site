@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Green Party secures the rabbit vote with promise of total ban on rabbit hutches 
-
 None

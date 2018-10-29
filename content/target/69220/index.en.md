@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Tell EU the Chequers plan is final offer, says Leadsom
-
 Brussels must be told that the prime minister's blueprint for future UK-EU relations is "the final offer", Commons leader Andrea Leadsom said. Mrs Leadsom told The House magazine the Chequers plan must be taken seriously or the EU risked a "no deal" Brexit.
 
 

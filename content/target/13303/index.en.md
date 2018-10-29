@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:08.335110", 
+  "date": "2018-10-29T13:22:15.349443", 
   "open_access": false, 
   "target_url": "http://resisting-violence.blogspot.co.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "ReSisters - Women Resisting Violence", 
-  "record_id": "20181029T125508/Gmk+x38ab308kJehmCVILA==", 
+  "record_id": "20181029T132215/Gmk+x38ab308kJehmCVILA==", 
   "publisher": "blogspot.co.uk", 
   "start_date": null
 }
-
-# ReSisters - Women Resisting Violence
 
 None

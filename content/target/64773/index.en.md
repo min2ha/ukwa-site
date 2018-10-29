@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Ysgol Corn Hir
-
 Ysgol Corn Hir is a Primary School located near Llangefni, Anglesey.

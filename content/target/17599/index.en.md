@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Young voters shunning major political parties as 70% say they wouldn't vote for any of them
-
 None

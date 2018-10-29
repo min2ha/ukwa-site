@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Church Times
-
 The Church Times, founded in 1863, is an international Anglican weekly newspaper. It has always been independent of the Church of England hierarchy.

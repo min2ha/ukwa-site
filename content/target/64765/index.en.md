@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Sirhowy Valley Woodlands
-
 This is a the website for Sirhowy Woodlands, a small group of volunteers who want to improve the appearance and usage of Sirhowy Woodlands near Tredegar.

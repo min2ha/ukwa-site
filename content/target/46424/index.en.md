@@ -10,5 +10,3 @@
   "start_date": "2016-10-22T12:00:00Z"
 }
 
-# Cymanfa Bedyddwyr Dwyrain Morgannwg | East Glamorgan Baptist Association
-

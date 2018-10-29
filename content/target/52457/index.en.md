@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Snowdonia Christian Fellowship Evangelical Church
-

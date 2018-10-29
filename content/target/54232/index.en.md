@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Gwent for Europe (@Gwentforeurope) on Twitter 
-
 According to the site, 'Seeking to create a progressive alliance in South East Wales to oppose Brexit madness'.

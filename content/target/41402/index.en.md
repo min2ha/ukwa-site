@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Deveronvale Football Club
-
 Site of a Scottish football club based in Banff, Aberdeenshire.

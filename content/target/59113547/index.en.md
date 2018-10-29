@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# British politics and policy at LSE
-
 <p>Research, comment and analysis from the London School of Economics.</p>

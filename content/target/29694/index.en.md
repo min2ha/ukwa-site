@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Battersea Literature Festival 
-
 The festival is organised by the Clapham Junction Town Centre Partnership and Waterstones, supported by Wandsworth Council. Battersea Literature Festival  was previously known as the SW11 Literary Festival - London.

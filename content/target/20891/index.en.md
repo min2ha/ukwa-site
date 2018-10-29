@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ryan Morrison on Facebook
-
 This is the Facebook page of Ryan Morrison, the Scottish Green Party candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

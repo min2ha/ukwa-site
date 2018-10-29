@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Lodge Robert King Stewart No. 919
-
 Site of a masonic lodge located in Motherwell, Lanarkshire and affiliated with the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Jane Corsellis
-
 Jane Corsellis is a contemporary British artist who has exhibited oil paintings and watercolours. She is a member of the New English Art Club, the Royal Cambrian Academy and the Royal Society of Painters in Watercolour and has a studio in Pembrokeshire.

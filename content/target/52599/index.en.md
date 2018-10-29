@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Mold RFC | CR Yr Wyddgrug
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Coracle Trust
-
 Site of a Scottish charity that provides people with a context to learn and explore the meaning of Christian life in the everyday world navigating the various transitions of faith and life.

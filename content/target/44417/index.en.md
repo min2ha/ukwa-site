@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Cancer, sea life, mental health: the UK research that will be hit by Brexi
-

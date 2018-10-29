@@ -10,5 +10,3 @@
   "start_date": "2011-08-10T00:00:00Z"
 }
 
-# Massive Big Words the poetry of Polly Atkin
-

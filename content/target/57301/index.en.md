@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Strong Room
-
 The Strong Rooms project is led by AWM (Archives West Midlands) and is made up of partners from the archive services of Warwickshire County Council, Worcestershire County Council, Dudley Metropolitan Borough Council and Culture Coventry.

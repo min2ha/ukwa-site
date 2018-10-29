@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Green Bay TV
-
 Green Bay TV is a media production company based in Cardiff producing programes in drama, documentary, specialist factual and the arts.

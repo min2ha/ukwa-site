@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Personnel Today: Why fatherhood holds the key to solving the gender pay gap by Duncan Fisher 
-
 An article about parental leave and the gender pay gap

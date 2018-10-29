@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Thanks to the V&A, Dundee will no longer be the butt of a nation’s jokes
-
  Article about the opening of the V&A Dundee. 

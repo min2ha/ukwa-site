@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Siri is my agony aunt – but is telling big tech my innermost feelings a bad idea?
-
 News article about tech firms using AI and the internet as conversational tools to help those suffering from mental health issues

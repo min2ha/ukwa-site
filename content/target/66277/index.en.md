@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Lodge St. John Operative No. 193
-
 Site of a masonic lodge located in Rothes, Moray and affiliated with the Grand Lodge of Scotland.

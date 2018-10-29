@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Assert, the Angelman Syndrome Support Education & Research Trust. 
-
 We help support families and carers of people with Angelman Syndrome. We also provide support to professionals who meet AS individuals, 

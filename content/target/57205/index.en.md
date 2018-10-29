@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Tim Rees, Author, Novelist & Scriptwriter
-
 Tim Rees is a Author, Novelist & Scriptwriter for the BBC.  He is a former soldier, and his military memoir titled, In Sights: The Story Of A Welsh Guardsman, was published by The History Press in 2013.

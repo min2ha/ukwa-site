@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Regent Street Motor Show
-
 Website for the Regent Street Motor Show festival

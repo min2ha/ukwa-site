@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richmond and Hounslow Methodist Circuit
-
 None

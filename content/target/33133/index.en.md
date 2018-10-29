@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Engender
-
 Engender has a vision for a Scotland in which women and men have equal opportunities in life, equal access to resources and power, and are equally safe and secure from harm. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bradford on Avon Community Site
-

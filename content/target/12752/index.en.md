@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Brockman | The official website of Martin Brockman, GB decathlete
-
 <p>The website of decathelete Martin Brockman, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Clegg says he won't work with the SNP or Ukip
-
 None

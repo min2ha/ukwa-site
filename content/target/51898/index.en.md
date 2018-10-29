@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Martin in the fields
-
 St Martin-in-the-Fields is a landmark church in the heart of London. It is a hospitable, vibrant and forward thinking community with worship at its heart. Located on the northeast corner of Trafalgar Square, St Martin-in-the-Fields is steeped in beautiful Georgian architecture which has been imitated across the world.

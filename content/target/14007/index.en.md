@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Economy Watch
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barry Edwards (UKIP) 
-
 Barry Edwards stood as UKIP candidate for Twickenham at the 2015 General Election but was not elected.

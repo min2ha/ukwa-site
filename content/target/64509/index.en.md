@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Studio22
-
 Studio 22 is a recording and rehearsal music studio for young people.Studio 22 It is based at the Howardian Centre off Colchester avenue, Penylan and is part of the Howardian Youth Centre’s youth provision. 

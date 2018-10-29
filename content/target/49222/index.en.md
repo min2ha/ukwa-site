@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stonehaven Junior Football Club
-
 Site for a Scottish junior football club based in Stonehaven, Aberdeenshire.

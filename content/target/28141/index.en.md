@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Manchester Cathedral
-
 Official website of the Manchester Cathedral.

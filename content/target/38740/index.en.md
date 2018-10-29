@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Barrie Cunning (@BarrieCunning) on Twitter
-
 Twitter profile of Barry Cunning, the Scottish Labour candidate for Ettrick, Roxburgh and Berwickshire in the 2016 Scottish Parliamentary election.

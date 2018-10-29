@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Glasgow Review of Books
-
 Cultural review including interviews, translations, fiction, poetry, and visual art.

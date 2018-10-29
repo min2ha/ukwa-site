@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Garnock Rugby Football Club
-
 Site of a Scottish rugby union football club based in Garnock, by Kilbirnie, Ayrshire.

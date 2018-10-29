@@ -10,6 +10,4 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# Zodiac Aerospace
-
 Zodiac Aerospace is a world leader in aerospace equipment and on-board systems including Zodiac Seats. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

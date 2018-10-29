@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# High Wycombe RUFC
-
 The official website of High Wycombe Rugby Union Football Club.

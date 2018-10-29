@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Richard Lyle MSP (RichardlyleSnp) on Twitter
-
 The twitter profile of Richard Lyle, the Scottish National Party Member of the Scottish Parliament for Central Scotland.

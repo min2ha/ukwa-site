@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Laurence Stassen, Independence From Europe Party 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RE-ELECT CHRISTINE GRAHAME AS YOUR SNP MSP FOR MIDLOTHIAN SOUTH, TWEEDDALE & LAUDERDALE 
-
 Christine Grahame was the Scottish National Party candidate for the Midlothian South, Tweeddale and Lauderdale constituency in the 2016 Scottish Parliamentary election.

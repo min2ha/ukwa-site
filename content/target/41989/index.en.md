@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Uncertainty in the property market gives rise to the Brexit clause 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Season
-
 Season is an independent platform that aims to champion female fashion and football fans. It was launched in London in 2016.

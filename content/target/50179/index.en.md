@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Forever Hounds Trust
-
 Forever Hounds Trust, formerly Greyhound Rescue West of England, is dedicated to the rescue, rehabilitation and homing of greyhounds and lurchers. We home around 500 of these special dogs every year.

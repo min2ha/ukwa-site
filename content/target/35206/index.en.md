@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Julie julster (@julieflemino) on Twitter
-
 The twitter profile of Julie	Silapasith, RISE Alliance list candidate for Central Scotland.

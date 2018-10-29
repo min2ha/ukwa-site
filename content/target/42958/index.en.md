@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: You won't 'get back your country' if you vote for a Brexit - you'll give it to the most right-wing UK government in recent history
-

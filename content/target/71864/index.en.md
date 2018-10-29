@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Trades Union Congress (TUC): A jobs and rights-first Brexit
-
 Crashing out of Europe without a plan risked many hard-won rights at work, and the thousands of good jobs that relied on trade. If we were to end up with a “no deal” Brexit, workers would be the ones who pick up the tab.

@@ -10,5 +10,3 @@
   "start_date": "2014-10-27T00:00:00Z"
 }
 
-# Association for Historical and Fine Art Photography (AHFAP)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Lost Lands Cinema 
-
 Lost Lands is a pop-up cinema, located in Cardiff.

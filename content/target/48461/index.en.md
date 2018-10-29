@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Tuff Love
-
 Site of a Glasgow based pop / rock music group.

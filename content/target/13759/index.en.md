@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Red Pepper: Train to Scotland in support of the radical case for independence
-
 None

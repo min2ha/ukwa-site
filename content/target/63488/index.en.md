@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Y Cyfryngau Cymraeg (@CCCymraeg) on Twitter
-
 Cynghrair Cyfryngau Cymraeg (translates as Welsh Media League) aim is to safeguard the future of Welsh language media.

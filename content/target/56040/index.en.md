@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Duckspeak - What can theatre do for you?
-
 Duckspeak is a comedy team based in Penarth.

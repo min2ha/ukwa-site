@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: George Osborne reveals his secret addiction to Poldark
-
 None

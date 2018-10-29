@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Scottish Engineering Hall of Fame
-
 The Scottish Engineering Hall of Fame celebrates the lives and achievements of inducted engineers.

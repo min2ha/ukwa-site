@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Dundee Museum of Transport 
-
 Site of a transport museum located in, and with an emphasis on, Dundee and its transport history.

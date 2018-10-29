@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cathcart Labour (@CathcartLabour) on Twitter
-
 Twitter profile of the Glasgow Cathcart branch of Scottish Labour.

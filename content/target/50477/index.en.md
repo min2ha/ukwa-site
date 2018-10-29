@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Bee Friendly Monmouthshire
-
 A Coalition of groups and organisations working to make Monmouthshire a pollinator-friendly place. 

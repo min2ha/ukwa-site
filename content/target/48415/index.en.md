@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Welsh Treasury (@WelshTreasury) on Twitter 
-
 Twitter account providing latest news from the Welsh Government Treasury.

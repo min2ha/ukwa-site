@@ -10,5 +10,3 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Scottish Child Abuse Inquiry
-

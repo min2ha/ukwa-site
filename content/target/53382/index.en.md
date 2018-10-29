@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Campaign to Protect Rural England: CPRE publishes manifesto for the 2017 General Election
-
 The manifesto calls on all parties to recognise the countryside’s huge contribution to the economy and our sense of who we are as individuals and communities, and to develop policies that will protect and enhance rural areas.

@@ -11,5 +11,3 @@
   "subject": "Children's Websites"
 }
 
-# Children's Investment Fund Foundation
-

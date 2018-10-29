@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Sage UK
-
 Sage develops software for the UK market that helps businesses to manage their finances, staff, customers and suppliers. It contains a blog.

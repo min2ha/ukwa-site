@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Richard Gwyn Communities of Chirk, Llangollen and Ruabon
-

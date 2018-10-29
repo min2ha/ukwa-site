@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Barnier: UK can change mind on single market until end of 2020
-
 The UK has until the end of 2020 to change its mind about leaving Europe's single market,according to the European Union's chief Brexit negotiator. Michel Barnier said that if the UK changed its "red lines" during the post-Brexit transition period, the EU would also change its position.
 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Teddy Rocks
-
 Website for the Teddy Rocks festival, for children with cancer. 

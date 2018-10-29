@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridgeshire Health and Wellbeing Board
-
 None

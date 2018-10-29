@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: UK-Irish Relations Follow-up
-
 The EU Committee wrote to Karen Bradley MP, Secretary of State for Northern Ireland, to raise concerns about the lack of clarity on how the Government will resolve the tensions between its aspirations to leave the customs union, avoid a hard border on the island of Ireland and ensure no new regulatory barriers between Northern Ireland and the rest of the UK.
 

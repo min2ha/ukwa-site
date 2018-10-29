@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# High Kirk Of Stranraer 
-
 Site of a Church of Scotland parish church in Stranraer, Dumfries and Galloway.

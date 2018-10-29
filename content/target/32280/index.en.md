@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Westminster Collection, The
-
 The Westminster Collection is a distributor of collectable stamps and coins, acting on behalf of Postal Administrations, Mints and Ministries of Finance across the globe.

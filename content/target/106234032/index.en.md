@@ -10,5 +10,3 @@
   "start_date": "2013-01-22T00:00:00Z"
 }
 
-# North Wales International Music Festival | Gwyl Gerdd Ryngwladol Gogledd Cymru
-

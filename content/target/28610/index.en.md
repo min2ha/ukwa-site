@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pits, Ponies, People and Stories on Facebook
-
 Pits, Ponies, People and Stories repost David Newman's tweet on working with schoolchildren to edit film as part of Digital Commonwealth project.

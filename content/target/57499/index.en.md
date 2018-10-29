@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Dunfermline Town Brass Band
-
 Site of a local brass band based in Dunfermline, Fife.

@@ -49,6 +49,4 @@
   "endDateText": "31-12-2016"
 }
 
-# Zika Virus Outbreak, South America 2015-16
-
 Special Collection of websites, curated by staff and graduate trainee digital archivists at the Bodleian Libraries, Oxford University concerning the UK perspective of the South American Zika virus outbreak in 2015-16. The outbreak began in April 2015 in Brazil, and spread to other countries in South America, Central America, North America, and the Caribbean. In January 2016, the World Health Organisation said the virus was likely to spread throughout most of the Americas by the end of the year; and in February 2016, the WHO declared the cluster of microcephaly and Guillain–Barré syndrome cases reported in Brazil – strongly suspected to be associated with the Zika outbreak – a Public Health Emergency of International Concern. It was estimated that 1.5 million people were infected by Zika in Brazil, with over 3,500 cases of microcephaly reported between October 2015 and January 2016. 

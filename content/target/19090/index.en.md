@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Magna Carta replica to be displayed in Guildford as part of 800th anniversary celebrations
-

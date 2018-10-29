@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# UK Venue Managers Association (UKVMA)
-
 The UK Venue Managers Association (UKVMA) provides a platform for members to share information, management styles, real project experiences and best practice whilst gaining private access to other members, networking opportunities and suppliers.

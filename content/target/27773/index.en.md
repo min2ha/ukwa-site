@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: The Magna Carta will return to Sandwich in autumn as part of the Visit Kent touring exhibition
-

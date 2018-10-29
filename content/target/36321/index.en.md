@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clare Adamson SNP | Stronger for Motherwell and Wishaw
-
 Clare Adamson is the Scottish National Party candidate for the Motherwell and Wishaw constituency in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Urban Knights
-
 Urban Knights is a programme of events, which aims to provoke and promote practical approaches to urban governance and city living. The programme brings together people who are actively producing alternatives to our given city infrastructures, norms and perceptions.

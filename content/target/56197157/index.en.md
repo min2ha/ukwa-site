@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Postgraduate Contemporary Women's Writing Network (PGCWWN)
-
 None

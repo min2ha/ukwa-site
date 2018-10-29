@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# OpenLibHums (@openlibhums) on Twitter
-
 The Open Library of Humanities is trying to build a sustainable, open access future for the humanities field. 

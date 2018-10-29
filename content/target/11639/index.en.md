@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Andy Murray on Twitter
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Kirknewton News
-
 Community website providing news and information about the village of Kirknewston, West Lothian, covering local news, history, activities, societies, businesses and amenities, as well as the local development trust and community council.

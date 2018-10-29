@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Wheels
-
 Website for Festival of Wheels, a Motor Show Event in Ipswich.

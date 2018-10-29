@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Crindau Community Church, Newport
-

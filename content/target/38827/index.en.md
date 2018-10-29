@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bryn Jones (@YesitsBryn) on Twitter
-
 Twitter profile of Bryan Jones, the Scottish Liberal Democrat candidate for Cowdenbeath in the 2016 Scottish Parliamentary election.

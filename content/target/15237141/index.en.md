@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire and Isle of Wight Local Government Association
-
 None

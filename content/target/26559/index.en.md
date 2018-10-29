@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election quake has opened chasms David Cameron will struggle to bridge
-
 None

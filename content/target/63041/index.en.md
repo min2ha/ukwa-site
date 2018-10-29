@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: What happens when the French go on strike – just as everyone needs their passports?
-
 Comments on the impact of the Government's decision to award the contract for producing the UK's new blue passports after Brexit.

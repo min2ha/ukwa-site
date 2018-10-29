@@ -10,6 +10,4 @@
   "start_date": "2016-08-06T10:00:00Z"
 }
 
-# Oliver Balch
-
 Oliver Balch is a Journalist, writer, researcher born in Essex and living on the Welsh Borders.

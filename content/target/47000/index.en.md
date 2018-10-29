@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nutmeg : the Scottish Football Periodical
-
 Site of a magazine dedicated to Scottish football and run by a collective of writers and designers.

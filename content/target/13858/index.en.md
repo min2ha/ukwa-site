@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Socialism First
-
 None

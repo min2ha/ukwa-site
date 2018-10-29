@@ -11,5 +11,3 @@
   "subject": "Britishness"
 }
 
-# Strange Britain
-

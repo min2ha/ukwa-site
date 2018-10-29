@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# John Wilson MSP | MSP for Central Scotland
-
 The website of John Wilson, Scottish National Party Member of the Scottish Parliament for Central Scotland.

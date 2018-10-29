@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Rhos Orpheus Male Choir
-
 The Rhos Orpheus Male Choir was formed in 1957 specifically to compete at the Llangollen International Eisteddfod.

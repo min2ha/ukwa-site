@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Saviour's Church Splott
-

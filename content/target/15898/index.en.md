@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# UK Chamber of Shipping, The
-
 The UK Chamber of Shipping is to champion and protect the UK shipping industry on behalf of its members.

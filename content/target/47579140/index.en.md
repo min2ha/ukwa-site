@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# National Organisation on Fetal Alcohol Syndrome UK (NOFAS-UK)
-
 None

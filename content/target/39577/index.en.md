@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Long Shop Museum, The 
-
 Working in partnership with local voluntary organisations and the Long Shop Museum, the museum received HLF funding to commemorate Leiston in the Great War.

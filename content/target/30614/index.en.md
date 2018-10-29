@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Royal Agricultural University (RAU)
-
 Official website of the Royal Agricultural University, Cirencester.

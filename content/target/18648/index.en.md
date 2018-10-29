@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# CEI Londres - Centre d'echanges internationaux
-
 CEI Londres is helping French speaking people to settle in London by providing English lessons, job or internships propositions, housing offers. 

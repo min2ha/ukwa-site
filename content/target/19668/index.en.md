@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hackney Conservatives
-
 Website of Hackney Conservatives, providing information on activists, councillors, and local and national news.

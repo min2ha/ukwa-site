@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Penicuik North Kirk
-
 Website of Penicuik North Kirk.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Profile: George Osborne, the man who could win the Tories the election on Wednesday
-
 None

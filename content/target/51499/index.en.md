@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Border Search and Rescue Unit
-
 Site of a Scottish voluntary and charitable organisation providing and mountain rescue / search and rescue service in the south east of Scotland.

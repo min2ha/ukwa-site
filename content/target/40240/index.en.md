@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Scottish Pottery Society
-
 Site of a society formed to encourage research into the history and products of the Scottish pottery industry.

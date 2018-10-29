@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Barnet and Chase Farm Hospitals NHS Trust
-

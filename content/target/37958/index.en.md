@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: To protect workers’ rights, the left should come out fighting for the EU
-
 Guardian, The

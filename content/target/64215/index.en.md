@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Lodge Montefiore 753
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

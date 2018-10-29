@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wigan Athletic Football Club
-
 Wigan Athletic Football Club is a professional football club in Wigan, Greater Manchester, England, which competes in League One, the third tier of English football. Founded in 1932, the club have played at the DW Stadium since 1999, before which they played at Springfield Park. Their colours are blue and white stripes, although all-blue shirts have been common throughout the club's history.

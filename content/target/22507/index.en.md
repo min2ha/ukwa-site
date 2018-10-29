@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 50,000? 30,000? Nothing? Ukip changes immigration target twice and then drops it altogether in 24 hours
-
 None

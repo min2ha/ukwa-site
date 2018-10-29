@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Alexa: Top Sites in United Kingdom
-
 Ranking of most popular websites in the UK run by Amazon.

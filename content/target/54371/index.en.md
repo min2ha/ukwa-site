@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Aston Martin Owners Club
-
 The Aston Martin Owners Club (AMOC) was formed in 1935 and is the world’s oldest, largest and only officially recognised, membership club for Aston Martin Owners and enthusiasts.

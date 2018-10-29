@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# AberdeenProtest Blog
-
  Features histories of individuals, organisations, community spaces and co-operatives in Aberdeen which have protested on issues – economic, military, political, religious or social.

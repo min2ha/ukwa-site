@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# The Grenfell Tower fire: the legal ramifications
-
 The website www.thelawyer.com; an article about the legal ramifications of Grenfell Tower.

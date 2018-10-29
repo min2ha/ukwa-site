@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Web We Want Festival (@webwewantfest) on Twitter
-
 Twitter feed of Web We Want Festival, which took place at the Southbank Centre, London in 2015.

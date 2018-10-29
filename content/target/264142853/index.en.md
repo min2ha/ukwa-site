@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Olympian | Eilidh Child
-
 <p>The website of athlete and hurdler Eilidh Child.</p>

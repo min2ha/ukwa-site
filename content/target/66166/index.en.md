@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Destiny Church Edinburgh
-
 Site of a Christian congregation located in Edinburgh.

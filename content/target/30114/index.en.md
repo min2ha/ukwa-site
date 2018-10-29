@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sabhal Mòr Ostaig (@SabhalMorOstaig) on Twitter
-
 Twitter profile for Sabhal Mòr Ostaig, the National Centre for Gaelic Language and Culture, a centre providing opportunities to learn Gaelic.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# British Longevity Society (BLS)
-
 The British Longevity Society (BLS) is a non-profit society founded in 1992 for people who want to live a longer, healthier life. BLS's aim is to further public education on issues connected with the means for counteracting the processes, causes and effects of ageing.

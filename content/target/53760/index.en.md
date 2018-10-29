@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Yorkshire Party (@Yorkshire_Party) on Twitter
-
 The Yorkshire Party is a progressive political party campaigning for Yorkshire devolution.

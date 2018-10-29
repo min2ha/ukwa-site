@@ -10,6 +10,4 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# Friends of Granton Castle Garden 
-
 WordPress site for a hyper local group interested in the history and preservation of the gardens of the demolished Granton Castle, Edinburgh, Scotland.

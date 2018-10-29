@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Georgia Ruth Music
-
 <p>Georgia Ruth is a bilingual singer, songwriter and harpist from Aberystwyth, Wales.</p>

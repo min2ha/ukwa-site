@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Nigel Farage is a bomb who could blow up in the Leave campaign's face
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: 15 million workers to get three days' paid volunteering leave each year
-
 None

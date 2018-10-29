@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cripps: Blog. Brexit
-
 Law firm

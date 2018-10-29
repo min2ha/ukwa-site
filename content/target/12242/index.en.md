@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Citizen, The: Mainstream media bias in Scottish Independence Referendum Campaign 
-

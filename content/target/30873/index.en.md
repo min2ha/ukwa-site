@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Education Quizzes: Learning KS2 ICT
-
 IT educational materials. 

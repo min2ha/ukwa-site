@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Implementing the UK’s Exit from the European Union: The Department for Environment, Food & Rural Affairs
-
 A  briefing on how the Department for Environment, Food & Rural Affairs (Defra) is preparing for the UK’s exit from the EU. With almost all of its areas of responsibility framed by EU legislation, Defra is a key player within government negotiations on the withdrawal agreement and the future partnership with the EU.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Sightsavers
-
 Sightsavers is an international organisation working in more than 30 countries to eliminate avoidable blindness and support people with visual impairments to live independently.

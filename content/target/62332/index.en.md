@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Havant & Waterlooville F.C.
-
 Havant & Waterlooville F.C.
 Havant & Waterlooville Football Club is an English football club based in Havant, Hampshire. The club participates in the National League South, the sixth tier of English football.

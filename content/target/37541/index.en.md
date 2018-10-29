@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Out vote 'could weaken Nato', says US general
-
 BBC News: EU referendum: Out vote 'could weaken Nato', says US general

@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Save Gaelic on Twitter
-
 Twitter page for English speakers interested in the preservation of Scottish Gaelic.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberdeen Jazz Festival
-
 Site of an annual jazz music festival located in and around Aberdeen.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'Fruitful' Brexit talks on Irish issues - Barnier
-
 There had been "fruitful" discussions on Irish issues at the August 2017 Brexit talks, the EU's chief negotiator said. Michel Barnier also said there had been "genuine progress' on the Common Travel Area (CTA). The CTA is a UK-Ireland arrangement allowing free movement of UK and Irish citizens between the Republic of Ireland, NI and the rest of the UK.

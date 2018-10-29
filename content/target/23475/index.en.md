@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Bercow (Conservative  Politician)
-
 John Bercow stood as Conservative  candidate for Buckingham  at the 2015 General Election. He was first elected to serve as MP for  Buckingham in 1997 and re-elected in 2001, 2005 , 2010 and 2015. He was elected as the 157th Speaker of the House of Commons on 22nd June 2009. He stood for re-election to Parliament at the 2017 general election and was successful.

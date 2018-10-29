@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Richard Elvin, Ukip on Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Auchterarder Parish Church
-
 Website of the Auchterarder Parish Church. 

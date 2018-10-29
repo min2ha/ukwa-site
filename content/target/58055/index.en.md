@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Business lobby groups call for transition deal clarity
-
 The UK risked losing jobs and investment without an urgent Brexit transition deal, Britain's five biggest business lobby groups warned on October 23rd 2017.

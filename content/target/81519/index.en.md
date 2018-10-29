@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Lilywhites
-
 As part of the creation of Proud Lilywhites, Tottenham Hotspur Football Club together with the GFSN and the founding members agreed a number of core principles which are fundamental to the success of the Association.

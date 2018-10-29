@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Calon Gron
-
 Calon Gron is a Woodworking and design blog by Rhodri Owen, the maker of the Bardic Chair at the 2017 National Eisteddfod held on Anglesey.

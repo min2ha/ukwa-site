@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Walters (Independent candidate for Gillingham and Rainham)
-
 Mike Walters stood as an independent candidate for Gillingham and Rainham at the 2015 General Election but was not elected.

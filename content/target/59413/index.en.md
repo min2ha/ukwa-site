@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Irish trade convergence 'not way forward' - Paisley
-
 A Times newspaper story said Britain was prepared to offer to avoid any divergence in trade rules between Northern Ireland and the Republic. The paper said it would devolve a package of powers to Northern Ireland to enable customs convergence on areas like agriculture and energy. Mr Paisley said matching "red tape" was not the way ahead.

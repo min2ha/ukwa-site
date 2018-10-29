@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Science Media Centre (SMC): Ebola outbreak
-
 <p>Pages dedicated to the Ebola virus and it's outbreak in West Africa in 2014.</p>

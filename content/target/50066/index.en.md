@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Are.na: Lozana Rossenova
-
 Lozana Rossenova's publication profile on Are.na.

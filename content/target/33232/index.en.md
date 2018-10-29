@@ -10,7 +10,5 @@
   "start_date": "2015-12-05T09:00:00Z"
 }
 
-# Action for Southern Africa (ACTSA Cymru)
-
 ACTSA is the successor organisation to the Wales Anti Apartheid Movement. 
 Its prime aim is to assist in 'alleviation of poverty, advancement of education , promotion of Health projects and raise funds for charities' in Southern Africa. 

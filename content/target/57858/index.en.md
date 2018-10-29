@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Excessive smartphone use can have a catastrophic effect on 14-year-old girls’ mental health
-
 News article about the effects of smart phones and 24/7 internet access on the mental health of teenage girls

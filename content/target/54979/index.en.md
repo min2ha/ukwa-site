@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Children In Crisis
-
 Children in Crisis was set up in 1993, and our focus from day one has been the well-being of children who have fallen through the cracks. Education is one of the best ways in which to help these children, to empower and give them independence.

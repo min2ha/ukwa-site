@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How Nigel Farage's Ukip victory party turned into a wake 
-
 None

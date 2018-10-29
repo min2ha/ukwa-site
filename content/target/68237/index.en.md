@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tristan Times
-
 The online newspaper of Tristan da Cunha

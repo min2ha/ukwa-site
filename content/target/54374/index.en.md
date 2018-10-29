@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Brown Club UK
-
 The Brown Club looks after the interests of Brown alumni, parents, students and friends in the UK. Our goal is to keep the Brown spirit thriving and to provide a connection to the wider Brown University community.

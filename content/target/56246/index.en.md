@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wealden Literary Festival
-

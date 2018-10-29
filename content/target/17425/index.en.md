@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Are Labour MPs trying to kill Ed Miliband with kindness?
-
 None

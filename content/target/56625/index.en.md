@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: At last, Hammond's on board with Brexit - and the Remoaners are dead and buried 
-
 Article welcomes apparent Cabinet unity over the approach to the Brexit negotiations

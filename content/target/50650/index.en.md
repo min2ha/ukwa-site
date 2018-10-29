@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Swansea Evangelical Reformed Church
-

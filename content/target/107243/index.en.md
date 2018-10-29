@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Socialist Labour Party
-
 The Socialist Labour Party (SLP) is a socialist political party in the United Kingdom. The party was established in 1996 and is led by Arthur Scargill, a former Labour Party member and the former leader of the National Union of Mineworkers. The party's name highlights its commitment to socialism and acknowledges Clause IV of the Labour Party's former constitution, as fundamental to the party's identity.

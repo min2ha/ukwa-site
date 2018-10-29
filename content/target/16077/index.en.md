@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Canals
-
 "The British Waterways Board, operating as Scottish Canals, continues in Scotland as a stand alone public body following the transfer of the functions of the British Waterways Board in England and Wales to the Canal & River Trust on 2nd July 2012."

@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Bill McLaren Foundation
-
 Site of a foundation named for the late television commentator on rugby union, Bill Maclaren, which aims to develop and promote the sport of rugby union and its values, encourage and provide sporting opportunities for young people and to create an educative centre which will include the Bill McLaren Archive.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Has Labour lost Glasgow? Jim Murphy's battle to woo back 'Glasgow Man'
-

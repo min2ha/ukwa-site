@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I asked David Cameron how he would help Britain’s disabled people. How did he do?
-
 None

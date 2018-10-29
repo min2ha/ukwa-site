@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Ifan Morgan Jones
-
 Ifan Morgan Jones is a lecturer in journalism at Bangor University. This is his blog on Welsh and global matters.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maree Todd (@MareeToddSNP) on Twitter
-
 Twitter profile of Maree Todd, the Scottish National Party list candidate for Highlands & Islands region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bruce Crawford MSP
-
 Bruce Crawford is the Scottish National Party Member of the Scottish Parliament for the Stirling.

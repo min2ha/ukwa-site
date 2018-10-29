@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# George Sharkey & Sons Limited
-
 The website of George Sharkey & Sons Limited, a construction development company that trades as Sharkey. The company is based in Edinburgh, Scotland and is part of the Sharkey Group. 

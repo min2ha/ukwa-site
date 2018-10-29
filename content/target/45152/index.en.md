@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Border Telegraph: Silver for Borders athlete!
-
 Article about Olympic silver medal taken by Melrose winger Mark Robertson.

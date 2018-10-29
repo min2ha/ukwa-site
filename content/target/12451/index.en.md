@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jon Mould (jonmould91) on Twitter
-
 <p>The twitter profile of cyclist Jon Mould, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

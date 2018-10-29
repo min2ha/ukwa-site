@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Statistics Authority: UK contributions to the European Union (EU)
-
 Letter to Dominic Cummings (Vote Leave) from Sir Andrew Dilnot (UK Statistics Authority) regarding statements used in campaign literature by Vote Leave

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Overview of the debate on Parliament's vote on the Withdrawal Agreement negotiated between the UK and the EU
-
 On 11 June 2018 there was a debate on e-petition 205169 relating to Parliament’s vote on the deal for the UK’s exit from the EU. The debate took place in Westminster Hall at 4:30pm. The Member opening the debate was Liz Twist MP.
 

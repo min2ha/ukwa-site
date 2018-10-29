@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# RCPsych in Scotland
-
 The Royal College of Psychiatrists in Scotland.

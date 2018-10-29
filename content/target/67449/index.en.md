@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# AB 2000 Limited
-
 Website of a plant hire company based in Glasgow, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# CtheFestival.com - C venues at the Edinburgh Festival Fringe
-
 C venues is the home of the biggest theatre and new writing programme at the Edinburgh Festival Fringe. The curated season, encompassing drama, musicals, music, dance, comedy, cabaret, circus and visual and performance art, features over 200 events taking place in our theatres, foyers and exhibition spaces, created by more than 2,000 participants from more than 150 companies.

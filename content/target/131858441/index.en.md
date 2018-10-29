@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Paddle Steamer Picture Gallery
-
 A directory and image gallery of British paddle steamers taken from historic photographs and postcards.

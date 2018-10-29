@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Braden Davy - Labour Party Candidate for Gordon
-
 This is the website of Braden Davy, the Labour Party candidate for Gordon in the UK General Election on the 7th May 2015.

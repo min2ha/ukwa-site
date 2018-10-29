@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Oriel Nwy | Gas Gallery
-
 Gas Gallery located in Aberystwyth

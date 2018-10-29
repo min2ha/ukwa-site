@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Gordon Brown warns of Brexit 'paralysis'
-
 Britain could be "paralysed" for years because Westminster parties had not "woken up" to the causes of Brexit, ex-prime minister Gordon Brown said. Speaking to BBC political editor Laura Kuenssberg, he said Parliament had not yet grasped the "drivers of the dissatisfaction" that led to the 2016 vote to leave the European Union.
 
 

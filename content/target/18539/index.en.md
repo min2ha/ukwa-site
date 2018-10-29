@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guto Bebb on Facebook
-
 Conservative candidate and MP for Aberconwy.

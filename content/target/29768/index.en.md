@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Big Sexy Circus City
-
 Big Sexy Circus Venue is an Edinburgh Fringe Festival venue specialising in circus acts and cabaret.

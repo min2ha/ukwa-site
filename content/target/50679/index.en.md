@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Soho Media Group
-
 Soho Media Group is a unique multi-award winning creative and media agency, which services the worldwide entertainment, sport and leisure industries, based in the heart of London’s West-End.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Female parliamentary candidates are on the rise - but why aren't women voting? 
-

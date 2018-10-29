@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Bearsden Choir
-
 Site of a choir based in Bearsden East Dunbartonshire and concentrating on classical music.

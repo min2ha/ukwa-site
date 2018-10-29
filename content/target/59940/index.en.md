@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Musicality
-
 Musicality is a music and theatre Academy based in Swansea.

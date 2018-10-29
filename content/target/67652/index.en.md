@@ -11,5 +11,3 @@
   "subject": "Gender Equality"
 }
 
-# Period Watch: Countdown to the axe of Tampon Tax
-

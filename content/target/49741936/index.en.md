@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Chroma - A Queer Literary and Arts Journal
-

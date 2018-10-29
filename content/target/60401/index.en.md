@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  #FBPE: what is the pro-EU hashtag spreading across social media?
-

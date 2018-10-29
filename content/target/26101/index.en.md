@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg says poll that suggests he will lose his seat is ‘utter bilge’
-
 None

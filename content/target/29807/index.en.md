@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edinburgh International Book Festival on Facebook
-
 Official Twitter account of the Edinburgh Book Festival, the largest book festival in Scotland and one of the Edinburgh Festivals. 

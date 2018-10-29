@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Food From Cornwall
-
 None

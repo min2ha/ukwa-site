@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Midsomer Norton RFC (@MN_RFC) on Twitter
-
 The official Twitter account of Midsomer Norton Rugby Club. Midsomer Norton Rugby Club Ltd was established in 1936 and is now in its 80th season.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-11T09:00:00Z"
 }
 
-# St. Mary of the Assumption Roman Catholic Church Bo'ness
-
 Site of a Scottish Roman Catholic parish church located in Bo'ness, Falkirk.

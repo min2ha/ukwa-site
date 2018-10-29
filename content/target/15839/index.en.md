@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Royal Free London: Ebola Patient Receiving Treatment
-
 <p>Royal Free London: Ebola Patient Receiving Treatment. News article from the Royal Free London NHS Foundation Trust about Pauline Cafferkey, nurse who contracted Ebola in Sierra Leone.</p>

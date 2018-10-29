@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Investors bet on remain as polling day trading lifts sterling and shares
-
 Guardian, The

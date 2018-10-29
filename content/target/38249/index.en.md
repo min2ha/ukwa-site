@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Proud To Be IN (@ProudtobeIN) on Twitter
-
  LGBT+ rights group campaigning to remain in the EU and shape the future.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vix Lowthion (Green Party Politician)
-
 Vix Lowthion stood as Green party candidate for the Isle of Wight in the 2017 General Election but was not elected.

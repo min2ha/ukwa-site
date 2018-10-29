@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: EU Commission's Juncker seeks 'fair deal' for UK
-
 None

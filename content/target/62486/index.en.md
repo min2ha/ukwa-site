@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TheWomensFootballMag (@womensfootiemag) on Twitter 
-
 A voice for Women's Football from grassroots to the Lionesses. 

@@ -10,5 +10,3 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Carnarvon Traders: The Repository of all Things Historical for the Ancient Welsh Town of Carnarvon
-

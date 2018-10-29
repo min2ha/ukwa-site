@@ -10,5 +10,3 @@
   "start_date": "2013-01-11T00:00:00Z"
 }
 
-# Developing Thinking and Assessment for Learning | Datblygu Meddwl a Asesu ar Gyfer Dysgu
-

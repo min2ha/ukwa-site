@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Ancient Society of Kilwinning Archers
-
 Site of an archery society based in Kilwinnning, Ayrshire, tracing its origins to the fifteenth century.

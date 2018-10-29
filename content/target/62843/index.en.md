@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Female Sports Forum
-
 The Female Sports Forum is committed to increasing female participation in sport & active recreation throughout Northern Ireland. 

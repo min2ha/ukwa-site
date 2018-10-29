@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# NYMR: North York Moors Historical Railway Trust - Harry Potter 20th Anniversary
-

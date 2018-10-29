@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BeLeave on Facebook
-
 A Facebook page for BeLeave, a pro-Brexit outreach group aimed at young people.

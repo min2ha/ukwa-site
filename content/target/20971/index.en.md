@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martyn Day (@MartynDay4MP) on Twitter
-
 The Twitter profile of Martyn Day, the Scottish National Party (SNP) candidate for Linlithgow and East Falkirk in the UK General Election on the 7th May 2015.

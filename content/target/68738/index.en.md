@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Oswestry & Border History & Archaeology Group
-
 OBHAG - Oswestry & Border History & Archaeology Group Oswestry & Border History & Archaeology Group or OBHAG is an active and friendly group which focuses on the rich heritage, archaeology and history of the area. 

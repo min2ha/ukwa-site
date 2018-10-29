@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Mundell (DavidMundellDCT) on Twitter
-
 Twitter profile of David Mundell, Scottish Conservative and Unionist Party candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2017 general election.

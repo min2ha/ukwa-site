@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories pumping £100,000 a month into Facebook advertising
-

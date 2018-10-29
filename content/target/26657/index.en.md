@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Pound hits two-month high after Tories are set win overall majority
-
 None

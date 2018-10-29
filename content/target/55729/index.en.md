@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: King Felipe VI: Spain and UK 'profoundly intertwined'
-
 Britain and Spain can overcome their differences and further maintain strong ties after Brexit the king of Spain said. King Felipe VI said he believed the UK and Spain could begin "the necessary dialogue" to form an arrangement over the rock of Gibraltar.

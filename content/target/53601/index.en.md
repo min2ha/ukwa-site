@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Adam Buick
-
 Adam Buick is a ceramic artist who has a studio situated at Llanferran.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# North Wales War Graves
-
 North Wales Graves is a project with the aim of tidying-up 700 of the 2000 war graves in North Wales.

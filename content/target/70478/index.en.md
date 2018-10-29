@@ -10,6 +10,4 @@
   "start_date": "2018-08-28T09:00:00Z"
 }
 
-# Kinneil Nature Reserve
-
 Site of a local nature reserve on the site of a former coal mine at Kinneil, near Bo'ness, Falkirk [formerly West Lothian], run bu the Falkirk Council and open to the public.

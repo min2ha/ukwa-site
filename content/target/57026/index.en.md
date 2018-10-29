@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Chineke! Foundation: Championing Change and Celebrating Diversity in Classical Music
-
 The Chineke! Foundation was established in 2015 to provide career opportunities to young Black and Minority Ethnic (BME) classical musicians in the UK and Europe. Chineke!’s motto is: ‘Championing change and celebrating diversity in classical music’. The organisation aims to be a catalyst for change, realising existing diversity targets within the industry by increasing the representation of BME musicians in British and European orchestras.

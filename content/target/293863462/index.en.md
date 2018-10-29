@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glasgow Games Monitor 2014
-

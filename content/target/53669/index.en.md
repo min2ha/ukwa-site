@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Flint (Green  Politician)
-
 David Flint stood as Green Party candidate for Enfield Southgate at the 2015] General Election and was not elected. He then stood for the same seat in 2017 but was not elected. 

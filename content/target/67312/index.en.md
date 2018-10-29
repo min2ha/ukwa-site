@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Jenny Gilruth MSP
-
 Jenny Gilruth, Scottish National Party constituency MSP for Mid Fife and Glenrothes.

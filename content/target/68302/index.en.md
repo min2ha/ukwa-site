@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bloxwich RFC
-
 Rugby club based within a sports club that also hosts cricket, hockey, bowls and snooker. Founded 1990.

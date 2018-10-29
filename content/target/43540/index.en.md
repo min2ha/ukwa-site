@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Foundation for Democracy and Sustainable Development (FDSD): The EU Referendum and the UK's Environment: What are the implications for democracy
-
 Article about the disregard for environmental issues in the EU referendum debate

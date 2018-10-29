@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Mendelssohn in Scotland
-
 This website is an online source of information on the German composer, Felix Mendelssohn's journey to Scotland in 1829 which inspired him to write his Hebrides Overture and Scottish Symphony. 

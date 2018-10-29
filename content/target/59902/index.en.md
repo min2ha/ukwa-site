@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jesus Loves Cardiff
-
 All Nations Church meet at the All Nations Centre, Gabalfa, Cardiff. and is part of Ministries Without Borders, an Evangelical neocharismatic Apostolic network of nearly 50 Christian churches, that forms part of the British New Church Movement.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ousted Ukip member tells of race ‘discomfort’ in TV appearance
-
 None

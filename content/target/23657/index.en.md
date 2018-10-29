@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Shwmae Su'mae
-
 Shwmae Su'mae is the day for Welsh learners and apeakers. The aim of the day is to show that Welsh belongs to everyone and we can all use Welsh all year round - in the shop, leisure centre, at work, in the community, with friends.

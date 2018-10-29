@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Russell Brand endorses Green MP Caroline Lucas
-
 None

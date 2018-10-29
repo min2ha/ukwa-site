@@ -10,6 +10,4 @@
   "start_date": "2014-01-08T17:00:00Z"
 }
 
-# Clubszone
-
 None

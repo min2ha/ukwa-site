@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU referendum campaigns are failing to provide Britons with hard facts
-

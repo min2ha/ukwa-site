@@ -11,8 +11,6 @@
   "subject": "British Overseas Territories"
 }
 
-# Saint Helena Audit Service  
-
 The Saint Helena Audit Service is the body that carries out financial and performance audits on behalf of the Chief Auditor.
 
 The Chief Auditor is a statutory position. It is required by the Constitution (Section 110). The Chief Auditor’s responsibilities are set out in the Constitution.

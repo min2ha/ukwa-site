@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Women for Britain
-
 An campaigning organisation for women who believe the UK should leave the European Union

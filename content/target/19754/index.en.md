@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Hansard Society: Britain Votes 2015
-

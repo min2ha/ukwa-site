@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Nidus Children's Choir
-
 Nidus Children's Choir was formed in the autumn of 2006 and are based in  Upper Cwmbran.

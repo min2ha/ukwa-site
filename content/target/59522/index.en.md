@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Welsh Gregorian Trust
-
 The Welsh Georgian Trust was formed in 2011 as a Building Preservation Trust Georgian and Pre-Georgian buildings in Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inside the Games: Sochi Paralympics 2014
-
 None

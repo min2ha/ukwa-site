@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Gogledd Ddwyrain Cymru | North East Wales
-
 The website is a tourist infomation guide to North East Wales covering the county boroughs of Flintshire, Denbighshire and Wrexham. 

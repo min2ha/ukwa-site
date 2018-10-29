@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Global Energy (Group) Limited
-
 Global Energy (Group) Limited provides integrity, construction, and manufacturing services for process and marine, oil and gas, utility, nuclear, and renewable energy industries worldwide.

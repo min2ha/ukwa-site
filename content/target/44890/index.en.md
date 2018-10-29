@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Future: Disbanding the tribes: What the referendum told us about Britain (and what it didn't)
-
 Three quarters (74%) of the public, including 84% of Leave voters and 69% of those who voted for Remain, agree that “Immigration brings pressures as well as gains and our decision to Leave the EU gives us a chance to change the system. What we need now is a sensible policy to manage immigration so we control who comes here but still keep the immigration that’s good for our economy and society, and maintains our tradition of offering sanctuary to refugees who need our protection”. Those on the losing side, the report argues, need to work through the grieving process to its final phase – acceptance – and become a strong voice in the debates we must now have about the kind of Britain we want to be after Brexit. 

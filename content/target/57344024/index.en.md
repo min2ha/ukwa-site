@@ -10,5 +10,3 @@
   "start_date": "2010-11-04T00:00:00Z"
 }
 
-# Alcohol Concern - Alcohol and Families
-

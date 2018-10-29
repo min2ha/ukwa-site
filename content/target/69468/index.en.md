@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# John Ieuan Jones Baritone and Harpist
-
 John Ieuan Jones is a Baritone and Harpist from Rhos-on-Sea, North Wales.

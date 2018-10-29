@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Palestinian Forum in Britain
-
 The Palestinian Forum in Britain (PFB) is an independent institution serving the Palestinian community in Britain and promoting the Palestinian issue.

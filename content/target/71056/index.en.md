@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Imaan LGBTQI (@ImaanLGBTQ)
-
 Twitter page of Imaan, a uk based charity for LGBTQI Muslims in the UK

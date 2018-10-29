@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Scotland's Churches Trust
-
 Site of an organisation aiming to advance the preservation, promotion and understanding of Scotland's rich architectural heritage represented in its churches and places of worship of all denominations. 

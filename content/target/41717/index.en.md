@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roundabout Parish Magazine
-
 "Roundabout" Magazine is the local community magazine for the four Mid Devon parishes of North Tawton, Sampford Courtenay, Honeychurch and Bondleigh as well as farms and dwellings in their outlying areas.

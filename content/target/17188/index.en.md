@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron accused of smears, bribes and lies in dirty tricks election campaign
-
 None

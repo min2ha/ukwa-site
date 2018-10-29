@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Treasury to guarantee post-Brexit funding for EU-backed projects
-

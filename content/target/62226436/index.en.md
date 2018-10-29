@@ -10,6 +10,4 @@
   "start_date": "2013-01-23T00:00:00Z"
 }
 
-# WHELF - Wales Higher Education Libraries Forum | Fforwm Llyfrgelloedd Addysg Uwch Cymru
-
 Libraries Forum - Fforwm Llyfrgelloedd

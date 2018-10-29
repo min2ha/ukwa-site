@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Welsh Museum of Fire
-
 Welsh Museum of Fire is based in Neath.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Clwb Pêl-droed Penrhyncoch | Penrhyncoch Football Club
-

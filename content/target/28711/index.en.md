@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Forth Bridge (Forth_R_Bridge) on Twitter
-

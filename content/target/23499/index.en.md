@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Amanda Pennington on Facebook (Green Party Candidate for North Cornwall)
-

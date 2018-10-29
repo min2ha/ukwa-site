@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black History Month North Wales
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Hands Across the Border
-
 <p>The website of Hands Across the Border, a project to build a stone cairn on the border to honour the Union.</p>

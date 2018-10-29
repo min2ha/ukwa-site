@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Northwich Welsh Society
-
 Welsh society based in Northwich, Cheshire.

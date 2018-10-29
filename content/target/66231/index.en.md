@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Irvine Seventh-day Adventist Church
-
 Site of a Seventh-day Adventist Church in Irvine, Ayrshire.

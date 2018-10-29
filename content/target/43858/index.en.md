@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: As Daily Mail and Sun readers complain they were misinformed about Brexit, how do we respond?
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Britain's deficit must be cut for future generations, David Cameron says
-
 None

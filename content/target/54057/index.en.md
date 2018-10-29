@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Martin Costello (@MartinPCostello) on Twitter (UKIP Politician)
-
 Martin Paul Costello stood as UK Independence Party (UKIP) candidate in the constituency of South Swindon in the 2017 General Election but was not elected.

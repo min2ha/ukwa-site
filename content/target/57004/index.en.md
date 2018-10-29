@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Gie ma regairds tae Jock Dhu
-
 WordPress site with a translation of a Japanese Manga graphic novel into Scots.

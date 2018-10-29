@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Voters are hearing the risks of remaining in the EU, and are concluding it's time for Brexit
-

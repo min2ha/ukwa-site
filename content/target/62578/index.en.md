@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# FootballLadsAlliance (@lads_alliance) on Twitter
-
 The official Football Lads Alliance (FLA) Twitter account. The FLA is a far right racist street movement in which fascists are organising. Despite its claims not to be racist.

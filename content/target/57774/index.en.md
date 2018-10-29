@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Association of University Chief Security Officers (AUCSO)
-
 The Association of University Chief Security Officers, AUCSO, is an association for Security Professionals working in Universities, Colleges and Institutions of Higher and Further Education in the UK and Europe.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Under Milk Wood
-
 Andrew Sinclair’s film of Under Milk Wood included actors Richard Burton, Elizabeth Taylor and Peter O’Toole and was released in 1972.

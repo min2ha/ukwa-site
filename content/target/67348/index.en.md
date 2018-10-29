@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Richard Lyle MSP | Member of the Scottish Parliament for Uddingston & Bellshill
-
 Richard Lyle is Scottish National Party Member of the Scottish Parliament for Uddingston & Bellshill.

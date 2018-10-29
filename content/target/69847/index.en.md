@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Save Graveney Marshes
-
 Campaign to prevent the proposed Cleve Hill Solar Park, which would be the UK's largest solar power station, being established across Graveney Marshes, near Faversham, in the north Kent coastal countryside.

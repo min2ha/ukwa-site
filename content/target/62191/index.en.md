@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Dingwall St. Clement’s Church
-
 Site of a Church of Scotland parish church at Dingwall, Highland [historically Ross and Cromarty].

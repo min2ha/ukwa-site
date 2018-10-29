@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bangor Aye
-
 The Bangor Aye is an online newspaper for Bangor in North Wales. The Bangor Aye social media network began on Twitter in 2012, to improve news coverage for the people of Bangor.

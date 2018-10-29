@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Softricks: Stephen Hawking
-
 No More Looking for trending tech,finance,tricks,global news anywhere softricks has got it all for you in one place. Articles related to Stephen Hawking

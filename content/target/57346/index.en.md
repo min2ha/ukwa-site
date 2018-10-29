@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Balraj Khanna
-
 Official site of author and artist Balraj Khanna.

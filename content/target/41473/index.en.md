@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sampford Peverell
-
 This site is by, for, and about the village of Sampford Peverell in Devon. 

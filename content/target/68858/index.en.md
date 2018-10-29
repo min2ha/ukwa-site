@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Strike A Light
-
 contemporary performance in Gloucester, alongside artist development programmes and participation projects within the community.

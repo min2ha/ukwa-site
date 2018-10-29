@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Support Our Paras
-
 SUPPORT OUR PARAS is a charity which supports The Parachute Regiment through the welfare of serving soldiers and families and those affected by recent operations, and through the maintenance of its regimental efficiency, ethos, spirit and heritage.

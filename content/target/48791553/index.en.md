@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Nemaline Myopathy Support Group
-

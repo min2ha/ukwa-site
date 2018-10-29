@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Boat of Garten
-

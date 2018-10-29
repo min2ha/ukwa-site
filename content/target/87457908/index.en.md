@@ -11,5 +11,3 @@
   "subject": "Video Games"
 }
 
-# Jagex Games Studio
-

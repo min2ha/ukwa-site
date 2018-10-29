@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DANIEL HANNAN: Oh dear! Does Brussels REALLY think we'll come crawling back?   
-

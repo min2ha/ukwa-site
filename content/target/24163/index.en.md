@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls to get £88,000 'golden goodbye' as former MPs are handed £11.5m taxpayer payout
-
 None

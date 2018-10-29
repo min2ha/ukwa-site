@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# CNES Facebook page
-
 CNES Facebook page

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Winning the Carbon War
-
 The chronicle covers the energy, climate, and financial crises, and issues pertinent to society’s response to climate change.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Theatre Sans Accents
-
 Site of an organisation based in Edinburgh, Scotland, providing education in French and English as a foreign language through theatre projects and workshops.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Birmingham East and North
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Migrant boat tragedies expose parochialism of UK election campaign
-
 None

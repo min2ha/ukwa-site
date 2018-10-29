@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour quizzes chancellor over knowledge of HSBC's Swiss subsidiary conduct
-
 None

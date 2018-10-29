@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Uplyme Village Noticeboard on Facebook
-
 This is an open group for people to post village notices - things happening at the school, church, horticultural society, village hall, pub, green and so on.

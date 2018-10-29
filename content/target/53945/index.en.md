@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Havard Hughes (@Havard_Hughes) on Twitter 
-
 Havard Hughes is the Conservative candidate for Carmarthen East & Dinefwr at the 2017 General Election.

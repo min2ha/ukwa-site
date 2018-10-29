@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: At last! Dave has seen sense on the Europe vote - but there will still be blood on the walls    
-

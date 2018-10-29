@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: STUFF EU! Top MPs Iain Duncan Smith and Priti Patel ask ‘What now?’ after the Prime Minister’s Salzburg Brexit humiliation
-
 However, nothing else showed the British people why we needed to leave the EU as soon as possible than the dictatorial, pompous and hectoring tone of the unelected EU Council president Donald Tusk and the “Polly Pocket” Napoleon, President Macron of France, as they gleefully stuck the boot into Theresa May at the Salzburg European Council meeting

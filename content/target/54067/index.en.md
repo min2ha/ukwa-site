@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Darryl Magher (@DarrylMagher) on Twitter (UKIP Politician)
-
 Darryl Magher stood as UK Independence Party (UKIP) candidate for Warley in the 2017 General Election but was not elected.

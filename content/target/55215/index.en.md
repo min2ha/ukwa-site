@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Financial Services Consumer Panel: The implications of Brexit for UK consumers of financial services: a think-piece
-
 The Financial Services Consumer Panel commissioned this "think piece" to
 inform and influence the debate, as seen from the consumer protection
 perspective, about the future framework of the UK’s financial services regulation following the UK's impending withdrawal from the European Union ("Brexit").

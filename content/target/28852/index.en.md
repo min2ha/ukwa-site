@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# National Centre for Product Design & Development Research, The (PDR)
-
 PDR is a world leading design consultancy and applied research centre based at Cardiff Metropolitan University.

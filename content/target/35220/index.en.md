@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Pinar.Aksu (@pinar_aksu5) on Twitter
-
 The twitter profile of Pinar Aksu, RISE Alliance candidate for Glasgow.

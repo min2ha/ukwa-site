@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Campbell's Prime Meat Limited
-
 The website of Campbell's Prime Meat Limited, a Linlithgow-based meat product producer.

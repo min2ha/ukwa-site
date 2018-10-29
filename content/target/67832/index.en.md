@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Verulamians RFC (@verulamiansrfc) on Twitter
-
 The official Twitter account of Verulamians Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T10:00:00Z"
 }
 
-# International Literature Showcase (ILS)
-
 A platform to discover British writers and organisations, discuss industry best practice and debate the latest trends in a growing online space designed for everyone who works in literature.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Home Front Museum
-
 Home Front Museum is in Llandudno and is a living history museum, take a self guided tour and explore 6 years of war on the home front captured in shops, room displays and tableux.

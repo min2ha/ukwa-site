@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Library Cat (@edinlibrarycat) on Twitter
-
 Library Cat is the official Twitter account to accompany the book Library Cat: The Observations of a Thinking Cat published in 2016.

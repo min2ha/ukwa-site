@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# James Cook (BBCJamesCook) on Twitter
-
 Twitter account of James Cook, Scotland Correspondent for BBC News. 

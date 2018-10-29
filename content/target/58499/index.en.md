@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Jon Tregenna Creative & Digital Writing
-
 Jon Tregenna is a writer and musician from Laugharne, Carmarthenshire. His TV drama credits include the BBC, ITV and S4C.

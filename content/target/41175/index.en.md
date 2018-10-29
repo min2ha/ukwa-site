@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Timberscombe
-
 This site has been created to provide a central source of information for anyone visiting or living in the Somerset village of Timberscombe.

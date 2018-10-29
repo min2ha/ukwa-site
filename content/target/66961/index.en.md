@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Lvdge of Dunfermling
-
 Site of a masonic lodge located in Dunfermline, Fife and affiliated with the Grand Lodge of Scotland.

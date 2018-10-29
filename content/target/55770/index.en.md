@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# House of Commons Hansard: 12th July 2017: UK Elections: Abuse and Intimidation 
-
 Westminster Hall debate on the abuse and intimidation experienced by candidates standing for election to the House of Commons.

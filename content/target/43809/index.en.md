@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# ForcesWatch
-
 ForcesWatch scrutinises the ethics of armed forces recruitment practices and challenges efforts to embed militarist values in civilian society.

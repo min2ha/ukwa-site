@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Fife Sees Syria
-
 The Facebook page of Fife Sees Syria, part of a series of vigils marking the deaths of Syrian refugees.

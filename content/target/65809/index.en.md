@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Crawick Multiverse
-
 Site of a artland, visitor attraction and events venue in Dumfries & Galloway, utilising landscape art to transform a former open cast coal mine into an outdoor space that can be enjoyed by future generations.

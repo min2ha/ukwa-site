@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Parkour Association: message boards
-
 An online enthusiast forum concerned with parkour. Discusses parkour techniques and various other topics. Contains localised boards for different sections of the UK including England, Scotland, Wales, Northern Ireland and the Channel Islands.

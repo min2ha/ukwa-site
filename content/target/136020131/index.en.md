@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bolton LINk
-
 None

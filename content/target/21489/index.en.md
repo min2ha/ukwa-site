@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Fury over Labour's election campaign poster on NHS
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: A bumper year at Salisbury Cathedral as Magna Carta 800 gets underway
-

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# National Alliance of Sport
-
 National Alliance of Sport works strategically with key stakeholders and provides leadership, coordination and evidence for the power of sport and the desistance of crime.

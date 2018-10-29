@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Graham Naismith (Independent candidate for Tunbridge Wells)
-

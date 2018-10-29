@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: How Putin could yet save Britain from Brexit
-

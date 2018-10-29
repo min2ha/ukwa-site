@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Annie Jane 1853
-
 Site recording and commemorating the wreck of the ship 'Annie Jane' off Barra in 1853.

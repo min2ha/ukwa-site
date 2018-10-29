@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Gower Gallery
-
 Gower Gallery was formerly Mumbles Fine Art, a long-established art gallery base in Mumbles.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: PETER OBORNE: So much for principles! The PM accuses Boris of self-interest. But what of the top Tories who once flaunted their anti-EU views but now put their careers first?    
-

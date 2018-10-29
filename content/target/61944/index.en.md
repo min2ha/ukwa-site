@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crystal Palace F.C.
-
 Crystal Palace Football Club is a professional football club based in Selhurst, London.

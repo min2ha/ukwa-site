@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Govan Remembers
-
 Project to commemorate the role of Govanites in the 1st World War.

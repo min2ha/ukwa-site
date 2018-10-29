@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus MacDonald MSP: Member of the Scottish Parliament for Falkirk East (SNP)
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Projected SNP landslide could see it form part of next UK government
-

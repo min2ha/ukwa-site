@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NIStrongerIN (@NIStrongerIN) on Twitter
-
 Northern Ireland regional campaign for the UK to stay in the EU

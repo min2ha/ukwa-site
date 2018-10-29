@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Get it wrong on Ivan Rogers’ successor, and Brexit disaster could follow
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Reggae Fraternity UK
-
 RFUK was born out of the need to highlight a higher standard of professionalism and opportunities for UK Reggae Artists and musicians.

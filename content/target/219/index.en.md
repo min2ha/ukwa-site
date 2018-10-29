@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University Hospital Of North Staffordshire
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  How dare these activist judges try to overturn our will?’ Fury as High Court ruling throws Brexit into chaos by forcing humiliated Theresa May to allow MPs to BLOCK referendum decision to leave the EU    
-

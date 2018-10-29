@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# British Dental Health Foundation, The
-
 <p>The British Dental Health Foundation is an independent charity dedicated to improving oral health in the UK and around the world.</p>

@@ -10,7 +10,5 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Dumfries Archival Mapping Project
-
 Site of a project to established to digitise pre-Ordnance Survey maps and
 estate plans of Nithsdale and Dumfriesshire and place them in the public domain for educational, cultural and general interest purposes.

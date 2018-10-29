@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Rhodes House Trust
-
 None

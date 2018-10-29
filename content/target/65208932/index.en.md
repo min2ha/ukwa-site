@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Library and Information Science Research Coalition
-
 The LIS Research Coalition was established in 2009 as a three-year project by its founding members. The broad mission of the LIS Research Coalition is to facilitate a co-ordinated and strategic approach to LIS research across the UK.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Lord Whisky Sanctuary Fund, The
-
 The Lord Whisky Sanctuary Fund provides sanctuary to animals who become homeless or who have been injured or abused, and vital veterinary care to those on low incomes. They also provide cattery and kennel facilities for pets. It is in Stelling Minnis, Kent.

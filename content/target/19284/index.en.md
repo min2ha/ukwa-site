@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: Magna Carta for sale
-

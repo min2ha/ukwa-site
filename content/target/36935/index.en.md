@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Stephen Hawking leads 150 top Royal Society scientists in arguing against Brexit – saying leaving the EU would be a 'disaster for science'   
-

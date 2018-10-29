@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Amid the mixed messages, there was a clear Tory mantra in George Osborne's Budget
-
 None

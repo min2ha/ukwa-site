@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T23:00:00Z"
 }
 
-# Acair Ltd - Gaelic, English and Bilingual books - Home
-
 Acair Books Limited, a publisher producing books in Gaelic and English.

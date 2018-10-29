@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# St Helena Online
-
 This site has been set up to fill a gap in media coverage of St Helena, a remote British island far to the west of Africa.

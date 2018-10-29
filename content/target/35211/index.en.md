@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Baillie (@SMBAILLIE) on Twitter
-
 The twitter profile of Sean Baillie, prospective RISE Alliance candidate for Central Scotland.

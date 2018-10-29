@@ -109,6 +109,4 @@
   "endDateText": ""
 }
 
-# Family History
-
 A collection aiming to gather genealogy online resources.

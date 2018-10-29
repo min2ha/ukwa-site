@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Fforwm Opto-Electronig Cymru | Welsh Opto-Electronics Forum
-
 The Forum is a consortium of Welsh companies, University research groups, users and support organisations and dedicated to the development and profitability of the opto-electronics sector in Wales and internationally.

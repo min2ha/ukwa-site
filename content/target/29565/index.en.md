@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# BREEAM
-
 BREEAM is an environmental assessment method and rating system for buildings. It sets the standard for best practice in sustainable building design, construction and operation and has become a popular measure of a building's environmental performance.

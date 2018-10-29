@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Towards Zero Carbon Bute
-
 Site of a local environmental orgaisation based and focusing on the island of Bute, Argyll & Bute, and aiming to reduce the island's impact on climate change.

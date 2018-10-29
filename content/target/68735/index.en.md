@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Let Clothes Be Clothes
-
 A UK parent led group challenging gender stereotypes in the design and marketing of childrenswear.

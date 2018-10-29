@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Crossbencher: Bets on Boris to back Brexit may have come from insider knowledge
-

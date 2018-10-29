@@ -11,5 +11,3 @@
   "subject": "Welsh devolution referendum 2011"
 }
 
-# Swyddfa Cymru - Wales Office
-

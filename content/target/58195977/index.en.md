@@ -10,5 +10,3 @@
   "start_date": "2010-12-06T00:00:00Z"
 }
 
-# Medical Mission Sisters UK
-

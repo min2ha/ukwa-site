@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Greenwich Phantom, The
-
 None

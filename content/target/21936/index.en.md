@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Old Bell Museum, The
-
 The Old Bell, a 16th century inn, is a local history museum by Montgomery Civic Society.   

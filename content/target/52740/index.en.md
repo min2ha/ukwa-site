@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Ryburgh Village Shop
-
 Ryburgh Village Shop is a community owned village shop and Post Office that showcases local food and drink from the Wensum Valley, in north Norfolk. 

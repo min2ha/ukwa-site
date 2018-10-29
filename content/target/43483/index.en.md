@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sérgio Tavares (@st_gla) on Twitter
-
 Member of the Council of the Portuguese Diaspora (UK and Ireland)

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Peter Varley (@PeterACVarley) on Twitter (Green Party candidate for Newport East)
-
 Peter Varley is Green Party candidate for Newport East at the 2016 National Assembly Elections. 

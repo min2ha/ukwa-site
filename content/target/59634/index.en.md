@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Prime Minister's commitments to Northern Ireland
-
 The Prime Minister sets out 6 key commitments to Northern Ireland that guided her during Brexit negotiations with the EU.
 

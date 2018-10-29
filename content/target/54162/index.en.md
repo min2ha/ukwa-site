@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Federation of Small Businesses (FSB): Keep Trade Easy: What Small Firms Want from Brexit
-
 A successful Brexit will rest on policymakers ensuring that the potential from small businesses is not lost in the uncertainty of future trade arrangements with the EU and other countries. This is why
 FSB is calling for a comprehensive free trade agreement (FTA) to be secured with the EU – one that provides the easiest and least costly access to the EU single market – alongside new FTAs with priority markets identified by small firms.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Cree Valley Community Woodlands Trust
-
 Site of a Scottish charitable organisation who manage the woodlands in the Cree valley of Dumfries & Galloway.

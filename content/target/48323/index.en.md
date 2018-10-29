@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC: 5 live Breakfast 10/01/2017
-
 5 live Breakfast aired on the 10/01/2017 had a call in discussion about immigration and freedom of movement for EU citizens in relation to the upcoming Brexit negotiations 

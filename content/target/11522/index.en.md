@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# England Athletics: Commonwealth Games
-
 None

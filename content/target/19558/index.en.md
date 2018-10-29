@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Moroccan visitors earn of UK’s democracy and Magna Carta in Trowbridge
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Volleyball Association
-
 Site of the governing and promotional body for the sports of volleyball and beach volleyball in Scotland.

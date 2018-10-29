@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Richard Chaloner on Facebook (Green Part candidate for Montgomeryshire)
-

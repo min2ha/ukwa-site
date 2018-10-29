@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Formby Blog, The
-

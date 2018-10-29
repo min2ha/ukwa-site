@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Publication of material directly relating to Horsforth: its community and serving foces in WWI
-
 Project to draw together material from newspapers, archives, personal memorabilia and private collections and make this available to the public.

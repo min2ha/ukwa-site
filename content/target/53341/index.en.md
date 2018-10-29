@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart Donaldson (@StuieDonaldson) on Twitter
-
 Twitter profile of Stuart Donaldson, Scottish National Party candidate for West Aberdeenshire and Kincardine in the 2017 general election.

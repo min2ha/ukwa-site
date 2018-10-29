@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives pledge annual report on Scottish government impact on UK
-
 None

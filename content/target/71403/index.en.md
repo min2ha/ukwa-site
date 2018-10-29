@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Robert Guy Conductor
-
 Robert Guy is a music conductor from north Wales and Artistic Director of the award winning NEW Sinfonia, a professional freelance orchestra based in North Wales. He is also Prin­cipal Con­ductor to the Hud­der­sfield Phil­har­monic Or­chestra and Or­chestra of Square Chapel, and Mu­sical Dir­ector of Can­torion Rhos Mixed Choir.

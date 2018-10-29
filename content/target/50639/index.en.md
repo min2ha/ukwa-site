@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Deanston
-
 Site of a whisky distillery and visitor centre, and its product, based at Deanston, near Doune, Perthshire.

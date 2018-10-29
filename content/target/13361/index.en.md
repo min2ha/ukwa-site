@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Salmond (@AlexSalmond) on Twitter
-
 Twitter profile of Alex Salmond, Scottish National Party candidate for Gordon in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tina Johnston (@tina4chippenham) on Twitter (Green Party candidate for Chippenham)
-

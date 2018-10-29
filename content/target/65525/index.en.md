@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 8th May 2018: European Union (Withdrawal) Bill
-
 The most eye-catching defeat in the Report stage of the EU Withdrawal Bill in the Lords came over the attempt by Labour backbencher Lord Alli (along with Tory backbencher Baroness Verma and virulently anti-Brexit Crossbencher Lord Bilimoria) to mandate the Government to negotiate continued membership of the European Economic Area – i.e. the Norway option, whereby the UK would have full access to the EU’s Single Market but without any influence over its rules and regulations. The Lords also voted to remove the fixed exit date from the face of the Bill. 

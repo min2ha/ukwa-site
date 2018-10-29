@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU migration rates are no problem for the UK – but you wouldn't know it by listening to the Brexiteers
-

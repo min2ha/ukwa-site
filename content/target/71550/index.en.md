@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Sun, The: NO CHEQUERS – NEW ELECTION Jeremy Corbyn says Labour will vote down Theresa May’s Chequers deal so they can push for another election
-

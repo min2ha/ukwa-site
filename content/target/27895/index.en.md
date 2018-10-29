@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# One Crown Office Row
-
 One Crown Office Row is a barristers’ chambers based in the UK.

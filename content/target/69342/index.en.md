@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anthony's Church
-
 Site of a Scottish Roman Catholic parish church located in Rutherglan, incorporating the parish church of St. Mark's.

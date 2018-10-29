@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Jazz Bar, The
-
 The Jazz Bar is based in Chambers Street in Edinburgh, operated by Edinburgh-based drummer and jazz organiser Bill Kyle.

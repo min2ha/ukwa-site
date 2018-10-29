@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Parliament UK: A Brief History of the Magna Carta - Lords Library Note
-

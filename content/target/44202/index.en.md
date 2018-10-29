@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Kay Swinburne (@KaySwinburneMEP) on Twitter (Conservative MEP for Wales)
-
 Kay Swinburne stood as Conservative candidate for Wales at the 2009 European Parliament election and was elected to serve as MEP.  She then stood for re-election in 2014 and was successful.

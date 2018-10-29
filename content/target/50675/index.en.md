@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff Adult Christian Education Centre | Y Ganolfan Addysg Gristnogol i Oedolion
-

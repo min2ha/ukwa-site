@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband is 'more of a toff' than David Cameron, Labour MP says
-
 None

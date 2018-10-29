@@ -3237,6 +3237,4 @@
   "endDateText": ""
 }
 
-# Sports Collection
-
 This sports collection covers most sports in the UK as well as the sports section of the mainstream news publishers.

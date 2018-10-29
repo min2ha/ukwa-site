@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Navy Gliding and Soaring Association (RNGSA)
-
 RNGSA website, promoting the sport and Adventurous Training activity of gliding within the Royal Navy. Includes information about events and getting involved with the association.

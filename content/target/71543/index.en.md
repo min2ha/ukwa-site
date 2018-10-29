@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit compromise still possible, Donald Tusk says
-
 European Council President Donald Tusk said a compromise with the UK over Brexit was "still possible", after Theresa May warned she was prepared to walk away from talks following her embarrassment at the Salzburg summit in September 2018. He defended the EU's approach and said it was in fact Mrs May who had been "tough" and "uncompromising".
 
 

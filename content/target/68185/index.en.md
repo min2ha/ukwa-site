@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Barton Under Needwood RUFC
-
 Barton under Needwood rugby club is located between Burton and Lichfield in the West Midlands, and play in Midlands 4 West (North).

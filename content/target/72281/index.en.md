@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Strathmore Christian Fellowship
-
 Site of an Elim Pentecostal church (Christian) located in Kirriemuir, Angus.

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Tim Osborne (@TimOsborneClim) on Twitter
-
 Twitter feed of Tim Osborne, Professor of Climate Science at the UNiversity of East Anglia.

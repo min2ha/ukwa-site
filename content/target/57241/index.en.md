@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson’s £350m claim is devious and bogus. Here’s why
-

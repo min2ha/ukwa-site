@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Cadbury
-
 The UK section of the chocolate company Cadbury. 

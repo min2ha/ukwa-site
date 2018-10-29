@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Euro Exchange Rate News (EERN): What Impact is EU Referendum News Having on GBP, EUR, USD Exchange Rates?
-
 An article about the effect 'Brexit' may have on the Pound, the Euro, and the US Dollar.

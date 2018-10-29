@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# West Highland Free Press
-

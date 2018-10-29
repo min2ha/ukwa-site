@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Parish of Roy Bridge
-
 Site of a Roman Catholic church in Scotland for the parish of Roy Bridge, Lochaber, Highland, covering the churches of Cille Choirill, near Roy Bridge, St. Finnan, Invergarry, St Joseph, Spean Bridge and St. Margaret's, Roy Bridge.
 

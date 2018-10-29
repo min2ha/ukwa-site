@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Corby Borough Council
-
 Website of Corby Borough Council offers information about services,  local news and events. There is also access to planning policy information material on budgets and spending, and agendas, reports and minutes of Council Meetings. 

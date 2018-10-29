@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# The St Albans Psalter Project
-
 This web site aims to display the St Albans psalter in such a way that readers may enjoy its beauty and contents. Commentaries on each page explain simply aspects of the iconography and codicology. These, together with the transcriptions and translations, provide a basic understanding of the book.

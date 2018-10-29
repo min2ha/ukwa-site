@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: scrutiny of secondary legislation (Schedule 7)
-
 This briefing paper reviews proposals to scrutinise delegated legislation made under the European Union (Withdrawal) Bill. It considers the Government's approach set out in the Bill and alternative proposals from the Procedure Committee and others.
 

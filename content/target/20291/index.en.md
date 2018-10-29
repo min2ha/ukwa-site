@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# British Barbers' Association
-
 The British Barbers’ Association is committed to raising professional standards, highlighting and celebrating talent and facilitating the professional and commercial development of barbers, male grooming salons and men’s hairdressers.

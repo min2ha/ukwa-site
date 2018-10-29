@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Neilson (@nodwhispers) on Twitter
-
 Twitter profile of Peter Neilson, UK Independence Party (UKIP) candidate for Berwickshire, Roxburgh and Selkirk in the 2015 UK General Election.

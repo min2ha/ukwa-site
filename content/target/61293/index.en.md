@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sophie Hitchon (@SophieHitchon) on Twitter
-
 The twitter profile of hammer thrower Sophie Hitchon, member of Team England for the Glasgow 2014 Comonwealth Games.

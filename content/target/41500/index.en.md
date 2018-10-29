@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Taylor, Cambridge Independent Blogger
-
 Richard Taylor is a Cambridge Independent Blogger.

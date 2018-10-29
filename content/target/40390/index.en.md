@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: John Major attacks Leave campaign and says those who 'want undiluted sovereignty' should 'go to North Korea'
-

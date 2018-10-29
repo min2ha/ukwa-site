@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# New York Stadium
-
 The New York Stadium, known as the AESSEAL New York Stadium for sponsorship purposes, is a football stadium in Rotherham, South Yorkshire, England. Opened in July 2012, it is the home ground of Rotherham United. 

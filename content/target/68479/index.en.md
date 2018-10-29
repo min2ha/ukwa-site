@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Eventbrite: A Woman's Place is Turning the Tide
-
 A public Meeting in Brighton on Monday 16 July 2018 about the proposed changes to the Gender Recognition Act 2004. This meeting was organised by Woman's Place UK.

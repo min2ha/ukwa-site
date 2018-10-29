@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Oliver Healey, English Democrats on Facebook
-

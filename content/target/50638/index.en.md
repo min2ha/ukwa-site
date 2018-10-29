@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Dalmeny Estates
-
 Site of a visitor attraction, conference and wedding venue, and working estate at Dalmeny, near South Queesferry, and in the Lothians and Borders.

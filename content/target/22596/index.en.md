@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Leaked documents show Tories next benefit cuts will strike carers, parents and the disabled 
-
 None

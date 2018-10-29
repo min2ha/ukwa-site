@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Marlborough
-
 St Peter's Church - the "not-so-redundant" church at the west end of Marlborough's High Street.

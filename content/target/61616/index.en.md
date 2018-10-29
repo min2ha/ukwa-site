@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Granite City Roller Derby
-
 Site of a skating roller deaby league located in Aberdeen.

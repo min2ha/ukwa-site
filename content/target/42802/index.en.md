@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Help Refugees
-
 Voluntary organisation raising money and working with charities to help refugees arriving in Europe and in camps in Calais

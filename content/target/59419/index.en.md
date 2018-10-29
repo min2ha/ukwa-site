@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Welsh Stroke Bulletin
-
 The bulletin helps to keep the Stroke workforce in Wales up to date with recent developments in Wales.

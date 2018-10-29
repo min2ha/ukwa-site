@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Central Asian Spring Festival
-
 Website for the Central Asian Spring Festival, who promote UK and Asian relations.

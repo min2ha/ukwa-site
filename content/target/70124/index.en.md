@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Hunt clarifies no-deal comments: UK 'would survive'
-
 Jeremy Hunt clarified his comments about a no-deal Brexit, saying Britain "would survive and prosper" - but it would be a "big mistake for Europe". He had previously told ITV News a "messy" no-deal Brexit "would be a mistake we would regret for generations".
 
 

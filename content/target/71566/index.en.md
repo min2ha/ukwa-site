@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Cyprian's Scottish Episcopal Church
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Lenzie, East Dunbartonshire.

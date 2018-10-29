@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Clean Air In London
-
 Quick guide to air pollution

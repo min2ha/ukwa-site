@@ -10,6 +10,4 @@
   "start_date": "2004-12-07T00:00:00Z"
 }
 
-# Theatre in Wales
-
 None

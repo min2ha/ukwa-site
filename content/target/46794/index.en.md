@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Brexit:can the EJC get involved?
-
 The November 3rd 2016  ruling by the High Court requires the government to obtain approval from Parliament if it wishes to trigger ‘Article 50’, ie the process of withdrawing from the European Union. This short post does not focus on the national constitutional law issues, but on the process of possible involvement of the EU courts in Brexit disputes. 

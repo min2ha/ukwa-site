@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Stroud Valleys Project
-
 The aim of Stroud Valleys Project (SVP) is to protect and enhance the local environment by working with local communities to embrace sustainable development and biodiversity, and so to make Stroud and its surrounding area a better, healthier place in which to live for both present and future generations.

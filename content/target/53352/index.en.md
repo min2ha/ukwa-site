@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# tweetyourMP.com (@tweet_your_MP) on Twitter
-
 The official Twitter account for the online platform tweetyourMP.com. This allows you to find your UK Member of Parliament using your postcode and send them a tweet. Open source script that uses the http://theyworkforyou.com  API. Tweets are written by @kimondo.

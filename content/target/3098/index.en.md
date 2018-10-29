@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# National Museums Scotland
-
 National Museums Scotland care for collections of national and international importance, preserve and make them accessible to as many people as possible. They work with museums and communities across Scotland and beyond, introducing the collections to a much wider audience through partnerships, research, touring exhibitions, community engagement, digital programmes and loans. In 2013-2014 they welcomed 2.5 million visitors to four museum sites: the National Museum of Scotland and National War Museum, in Edinburgh, the National Museum of Flight, in East Lothian and the National Museum of Rural Life in East Kilbride.

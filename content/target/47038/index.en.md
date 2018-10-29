@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Trump’s election reinforces the need for Britain to turn against Brexit
-

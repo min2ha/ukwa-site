@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Ruth Dawson - Journalist, editor, blogger
-
 Ruth Dawson is a journalist and digital content specialist based in South Wales and Wales editor for The Conversation.

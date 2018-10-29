@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# King's College London: Big issues for Britain: pressing policy challenges in need of solutions
-

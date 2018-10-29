@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Uproar 
-
 UPROAR is the new contemporary music ensemble for Wales. Led by conductor Michael Rafferty. The aim is to bring the most raw, adventurous and imaginative new music from Welsh and international composers to audiences in Wales and the UK.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marc Hope (@marchope) on Twitter
-
 Twitter profile of Marc Hope, Conservative Party candidate for Central Ayrshire in the 2015 UK General Election.

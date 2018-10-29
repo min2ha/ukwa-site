@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cyfeillion Y Cymro (@CyfeillionCymro) on Twitter
-
 'Cyfeillion y Cymro' is a campaign group who succesfully re-established the Welsh language newspaper, Y Cymro.

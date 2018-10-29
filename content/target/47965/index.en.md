@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chronicle World: After BREXIT – A blow to equality progress
-
 An article written from a Black rights activist.

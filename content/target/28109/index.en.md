@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan Gwent | Gwent Centre
-
 Y Bont is the Centre for Welsh Learners for the Gwent area. It ceased to exist in 2017.

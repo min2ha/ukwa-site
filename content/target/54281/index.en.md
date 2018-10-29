@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# King Creosote
-
 Site of a singer, songwriter and musician from Fife, Scotland.

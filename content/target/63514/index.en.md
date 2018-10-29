@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Education and Support Centre SLOVO
-
 Website for the Northeast of Scotland’s Russian Education and Support Centre (RESC) SLOVO. RESC SLOVO is a charity based organization that promotes Russian language and culture.

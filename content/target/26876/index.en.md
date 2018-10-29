@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Dar Ul-Isra (DUI) Muslim Educational & Welfare Centre
-
 Dar Ul-Isra (DUI) Muslim Educational & Welfare Centre is based in Cardiff.

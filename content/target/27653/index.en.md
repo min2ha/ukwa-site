@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip in open civil war as major donor Arron Banks describes its single MP Douglas Carswell as 'duplicitous'
-
 None

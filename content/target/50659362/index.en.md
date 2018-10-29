@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Julian Baggini
-
 None

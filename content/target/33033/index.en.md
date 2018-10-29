@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Mighty Gadget
-
 The Mighty Gadget blog contains posts regarding the latest technology news and reviews relating specifically to the UK. 

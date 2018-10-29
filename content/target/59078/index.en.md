@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Metadata (@BLMetadata) on Twitter
-
 Tweets from The British Library Metadata team

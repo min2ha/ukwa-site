@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Oliver Colvile ( Conservative  Politician)
-
 Oliver Colvile stood as Conservative candidate for Plymouth Sutton and Devonport at the 2017 General Election but was not elected.

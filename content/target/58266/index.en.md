@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Computer gaming turned my 14-year-old son into a monster and his addiction has torn our family apart
-
 News article about a teenager who was addicted to online gaming and had to have therapy to help/cure his addiction

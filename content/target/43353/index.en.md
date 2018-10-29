@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Clear Poetry
-
 Online magazine with a focus on clear, accessible poetry. 

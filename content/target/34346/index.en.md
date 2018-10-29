@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Canterbury City Council
-
 Website of Canterbury City Council offers information on services to residents, committee minutes and agendas, budget and financial information, and policy and strategy documents

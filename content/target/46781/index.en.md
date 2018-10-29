@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Carwyn Jones AM (@AMCarwyn) on Twitter 
-
 Carwyn is First Minister and AM for Bridgend.

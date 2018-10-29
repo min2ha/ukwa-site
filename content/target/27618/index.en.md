@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: Labour plot to oust David Cameron from Downing Street by Friday night
-
 None

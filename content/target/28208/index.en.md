@@ -10,6 +10,4 @@
   "start_date": "2015-07-07T09:00:00Z"
 }
 
-# Prahlad Bubbar
-
 Prahlad Bubbar is a dealer and consultant of Indian and Islamic art based in London.

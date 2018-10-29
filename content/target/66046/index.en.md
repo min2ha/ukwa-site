@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# British Rootzone and Top Dressing Manufacturers Association (BRTMA)
-
 The British Rootzone and Top Dressing Manufacturers Association (BRTMA) is the trade body representing manufacturers of Rootzones and/or Top Dressings, all of which must conform to a standard approved by the Association’s appointed Testing House i.e. USGA or UK guidelines. 

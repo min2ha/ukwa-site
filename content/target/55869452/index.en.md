@@ -10,5 +10,3 @@
   "start_date": "2010-09-01T00:00:00Z"
 }
 
-# International Cognition & Culture Institute (ICCI), The
-

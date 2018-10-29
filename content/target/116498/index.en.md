@@ -10,5 +10,3 @@
   "start_date": "2011-02-08T00:00:00Z"
 }
 
-# Mirimawr.com: Y Cysylltiad Cymreig
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Molly Scott Cato (Green Party MEP for the South West and Gibraltar)
-
 Molly Scott Cato stood as Green Party candidate for the South West and Gibraltar at the 2014 European Parliament election and was elected to serve as MEP.

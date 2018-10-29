@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Adrian Masters (@adrianmasters84) on Twitter
-
 Adrian Masters is Political Editor of ITV Cymru Wales.

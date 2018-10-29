@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Welsh Lavender Ltd.
-
 This is Wales’ first lavender farm, located in Builth Wells and established in 2002 and now distill lavender oil and are open for self-guided tours.

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Skelton-in-Cleveland in History
-
 Website dedicated to Skelton-in-Cleveland, a village in the North East of England, situated at the foot of the Cleveland Hills and about 16 kilometres east of Middlesbrough.

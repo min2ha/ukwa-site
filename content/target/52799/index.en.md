@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Scottish Alternative Music Awards
-
 Site of annual music awards, based in Glasgow and focusing on independent Scottish musicians and groups, in the rock, indie, and popular music genres.

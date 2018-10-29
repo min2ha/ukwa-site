@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Drinks Wales | Diodydd Cymru
-
 Drinks Wales is a new that association that supports and promotes the Welsh Drinks industry across the world.

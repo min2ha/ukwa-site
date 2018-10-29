@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Osian Lewis (@osianlewis) on Twitter
-
 Plaid Cymru Parliamentary candidate for Pontypridd 

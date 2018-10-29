@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 100 business chiefs: Labour threatens Britain's recovery
-
 None

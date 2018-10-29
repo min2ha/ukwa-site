@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# The American Civil War Society
-
 The American Civil War Society (ACWS) was formed in 1975 and has been going from strength to strength ever since. We have strong connections with American Civil War re-enactors from all over the world.

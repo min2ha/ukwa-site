@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: What next for Britain? Speech by Keir Starmer QC MP, Chatham House 27/03/17
-
 Sets out the six tests which the Lbour Party would apply to any Brexit deal negotiated by Theresa May.

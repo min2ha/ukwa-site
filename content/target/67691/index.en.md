@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Bryn Elltyd Eco Guest House, Snowdonia 
-
 Bryn Elltyd Eco Guest House is a carbon neutral and powered completely by renewable energy. It is located at Tanygrisiau, Blaenau Ffestiniog.

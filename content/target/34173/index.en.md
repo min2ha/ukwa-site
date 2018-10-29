@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Mirus
-
 Mirus is a Cardiff based charity providing 'specialist support to children and adults of all ages with disabilities, autism, physical disabilities, dementia, mental health, complex health and complex need associated with behaviours that challenge'.

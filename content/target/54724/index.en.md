@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Elstead Lighting
-
 Elstead Lighting is a British company that specialises in the manufacture and distribution of decorative lighting.

@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Parti Socialiste - Section de Londres
-

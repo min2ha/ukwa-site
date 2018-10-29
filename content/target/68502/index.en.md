@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Calligraphy & Lettering Arts Society
-
 The society promotes the study, practice and teaching of the calligraphy and generates awareness and appreciation among the public

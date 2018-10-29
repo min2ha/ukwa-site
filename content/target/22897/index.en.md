@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# TNS Polling March 2015 OnLineBus Survey (Voting Intention for 2015 General Election)
-
 Now operating out of offices in London and Edinburgh, TNS BMRB undertakes research that underpins decision-making by policy makers across national and local Government at the highest level, and provides knowledge which helps the private and third sectors plan and care for society. They offer market leading research expertise in public service delivery, public communication, public dialogue and engagement, and the collection and collation of national statistics. 

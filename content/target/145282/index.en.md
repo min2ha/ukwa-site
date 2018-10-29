@@ -10,6 +10,4 @@
   "start_date": "2007-06-22T00:00:00Z"
 }
 
-# ELWa: Dysgu ac Addysgu Cymru
-
 Website is a part of the National Assembly website.

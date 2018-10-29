@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sir Malcolm Rifkind to step down as MP and resigns from security committee
-
 None

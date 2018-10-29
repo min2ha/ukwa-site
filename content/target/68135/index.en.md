@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: ANDREW PIERCE: Meet the City spinmeister orchestrating the plot to reverse Brexit
-
 Biography of Roland Rudd, the shadowy multi-millionnaire allegedly behind the campaign to overturn the result of the 2016 referendum and keep Britain in the EU,

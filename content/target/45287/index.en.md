@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Sigrid Muller
-
 Sigrid Muller is an artist born in Germany but has lived in Swansea since 1996. Her work is in many collections including the National Museum of Wales. 

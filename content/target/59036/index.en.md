@@ -11,7 +11,5 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# The Eccles Centre (@BL_EcclesCentre) on Twitter
-
 Twitter account of the The Eccles Centre at the Britsh Library. 
 We work with @_Americas to promote the North American (US, Canada, Caribbean) collections of @britishlibrary. Tweets by the Eccles team.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# CodeBase
-
 Site of a technology hub offering office space and mentorship on a commerical basis for technology companies located in Edinburgh.

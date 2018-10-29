@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Society for the Environment (SocEnv): Special report - SocEnv and ENDS EU survey results
-
 Society for the Environment: Report on an insight from Environmental professionals on the EU. Provides overview of benefits and dis-benefits of EU membership.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# National Society of Hypnosis, Psychotherapy and Mindfulness
-
 This site provides hypnotherapy, psychotherapy and Mindfulness registers for the UK as well as throughout the world. 

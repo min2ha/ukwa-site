@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Witney Rugby Football Club on Pitchero
-
 Witney Rugby Club has 4 senior sides, plus Ladies, Vets, Colts, boys, girls' & SEN teams.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mo Farah's Official website
-
 Sir Mo Farah, CBE, is a multiple Olympic, World and European champion – the UK's greatest ever athlete. Mo recently became the first athlete to win three long-distance doubles at successive World Championship and Olympic Games – securing his place in the history books by winning yet another double gold at Rio 2016. 

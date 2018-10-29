@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Other Things - more new media, design and literature
-
 None

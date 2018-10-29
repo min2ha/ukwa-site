@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Julie Marson (Conservative) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Naidheachdan: AAA on Twitter
-
 Tweets short news items in Gaelic.

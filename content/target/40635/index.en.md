@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Active Inquiry
-
 Site of arts company based in Edinburgh committed to creating exciting new theatre and arts projects with and for communities.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Independent: European Parliament elections: 'Ukip' threat reduced' in new system
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Côr Cymysg Dyffryn Conwy | Conwy Valley Mixed Choir
-

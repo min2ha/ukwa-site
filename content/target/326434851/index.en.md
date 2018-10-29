@@ -10,5 +10,3 @@
   "start_date": "2015-09-09T00:00:00Z"
 }
 
-# Let's Talk Cancer
-

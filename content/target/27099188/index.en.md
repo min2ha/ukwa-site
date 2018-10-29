@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Mid Sussex District Council
-
 The website of Mid Sussex District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending. 

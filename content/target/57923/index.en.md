@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  Joint statement by Prime Minister Theresa May and EC President Jean-Claude Juncker
-
 This joint statement was issued by Prime Minister Theresa May and EC President Jean-Claude Juncker following their working dinner in Brussels on 16 October 2017. The Prime Minister and the President of the European Commission reviewed the progress made in the Article 50 negotiations and agreed that these efforts should accelerate over the months to come

@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Science Ceilidh
-
 An educational project using dance and music to engage people with science.

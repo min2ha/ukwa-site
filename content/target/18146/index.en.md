@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's plans for £3,000 cut in tuition fees criticised by business groups and experts
-
 None

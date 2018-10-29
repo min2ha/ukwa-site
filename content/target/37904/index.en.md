@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Delyth Jewell (@delythjewell) on Twitter (Plaid Cymru candidate for South Wales East)
-
 Delyth Jewell is the Plaid Cymru candidate for South Wales East at the 2016 National Assembly Elections. 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Cardiff St Mary the Virgin : Cardiff Bay and Butetown, The
-

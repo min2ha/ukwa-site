@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Haringey Health and Wellbeing Board
-
 None

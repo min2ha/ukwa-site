@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Digital, Culture, Media and Sport Committee:  Fake News Inquiry: Oral Evidence
-
 Evidence on cheating by the Leave campaign during the 2016 EU Referendum campaign in collusion with Cambridge Analytica. Argues that personal information processed by Cambridge Analytica enabled the Leave campaign to target voters.

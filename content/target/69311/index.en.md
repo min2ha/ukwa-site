@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Ein Gwlad 
-
 Ein Gwlad is a political party that is campaiging for an independent Wales.

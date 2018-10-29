@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Argyll and Bute Council: Scottish Independence Referendum
-
 None

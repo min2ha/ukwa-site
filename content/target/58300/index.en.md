@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Forge Wales on Facebook
-
 According to the account, Forge Wales 'advance common values, individual liberty, value for taxpayers, and free enterprise for a truly global Wales. A voice for the silent majority'. It is a pro Brexit social media account.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green Party manifesto: Bans on rabbit cages and grouse shooting
-
 None

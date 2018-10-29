@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Centre for Performance Research, The 
-
 The Centre for Performance Research (CPR) was established in Cardiff in 1988, the successor to Cardiff Laboratory Theatre, and is a multi-faceted arts organization based in Aberystwyth and Falmouth.

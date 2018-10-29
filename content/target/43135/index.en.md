@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Apocalypse now A vote for Brexit could trigger the end ‘of Western political civilisation’ claims EU chief Donald Tusk 
-
 Sun, The

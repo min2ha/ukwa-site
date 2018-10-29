@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dumbarton Football Club
-
 Site of a senior Scottish association football club based in Dumbarton, Dunbartonshire, Scotland.

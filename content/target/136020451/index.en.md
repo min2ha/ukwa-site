@@ -11,6 +11,4 @@
   "subject": "Offshore Islands Collection (Channel Islands and Isle of Man)"
 }
 
-# Tynwald - The Parliament of the Isle of Man
-
 The parliament of the Isle of Man official website.

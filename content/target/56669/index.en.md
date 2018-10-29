@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Paul Wearing Ceramics
-
 Paul Wearing is a Ceramics artist from Cardiff.

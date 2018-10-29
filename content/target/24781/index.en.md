@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bob Stewart (Conservative Politician)
-
 Bob Stewart stood as Conservative candidate for Beckenham at the 2015 General Election. He was first elected to serve as MP for Beckenham in 2010 and re-elected in 2015. He then stood for re-election at the 2017 general election and was successful.

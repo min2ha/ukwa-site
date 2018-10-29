@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Longlevens RFC on Pitchero
-
 The official website of Longlevens Rugby Club.

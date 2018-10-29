@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health and Safety Executive: Dealing with my mental health
-
 HSE Article about dealing with mental health 

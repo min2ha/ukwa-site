@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Euro 2016 groups: New 24-team Euros format explained
-
 There are 24 teams competing in Euro 2016, up from the traditional 16. This article explains the new format.

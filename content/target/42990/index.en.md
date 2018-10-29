@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Equal Rights Trust
-
 Website of Equal Rights Trust - international organisation working to document, expose and help eliminate discrimination within a human rights framework.

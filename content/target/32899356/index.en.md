@@ -11,6 +11,4 @@
   "subject": "English Language"
 }
 
-# EnglishClub
-
 None

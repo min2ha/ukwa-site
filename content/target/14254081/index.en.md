@@ -10,5 +10,3 @@
   "start_date": "2008-09-01T00:00:00Z"
 }
 
-# London Architecture Diary
-

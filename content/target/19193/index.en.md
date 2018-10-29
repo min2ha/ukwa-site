@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Law Society Gazette: Global law summit to celebrate Magna Carta’s 800 years
-

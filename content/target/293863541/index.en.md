@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Go Scotland!
-
 The official Team Scotland supporters’ website.

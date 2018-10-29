@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Scottish Polish Cultural Association Edinburgh
-
 Site of a Scottish-Polish cultural exchange organisation based in Edinburgh.

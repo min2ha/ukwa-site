@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Naval Christian Fellowship
-
 The prime concern of the Naval Christian Fellowship is to help and encourage Christians in the Royal Navy, Royal Marines and Royal Fleet Auxiliary to be able to live a Christian lifestyle within the harsh environment of a seagoing ship or shorebased establishment and subsequently bear witness to their messmates. 

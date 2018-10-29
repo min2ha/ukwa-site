@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Irish Tech News
-
  Irish Tech News is an award-winning online publication aimed at keeping you informed of all the latest news from the world of Technology. With the main focus on Irish based news, we cover a wide range of topics from social media and smartphones to start-ups and SMEs.

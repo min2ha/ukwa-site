@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Galloway Music Festival
-
 Site of an annual classical music competition and festival located at Stranraer and Newton Stewart, Galloway.

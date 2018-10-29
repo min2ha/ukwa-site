@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Below Another Sky
-
 <p>An international residency programme to support new work in print by artists from Scotland and Commonwealth countries, commissioned by the Scottish Print Network. Part of the Glasgow 2014 Cultural Programme.</p>

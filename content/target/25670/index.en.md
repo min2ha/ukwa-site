@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Now it’s official: voters are hurting, no matter how George Osborne spins it
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Army Children Archive, The (TACA)
-
 The website of the Army Children Archive dedicated to the children linked with the British Army. 

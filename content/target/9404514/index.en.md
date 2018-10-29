@@ -10,5 +10,3 @@
   "start_date": "2008-07-21T00:00:00Z"
 }
 
-# Institute of Contemporary Arts (ICA)
-

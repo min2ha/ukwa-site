@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy International Conference 
-
 Website for the Comedy International Conference created by, for and with the international Comedy Industry, with the aim to improve opportunities for the exchange of comedy between the UK, the rest of Europe and beyond.

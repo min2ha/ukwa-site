@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ESRC (ESRC) on Twitter
-
 <p>The twitter profile of the Economic and Social Research Council, the UK's main organisation for funding research and training in economic and social sciences.</p>

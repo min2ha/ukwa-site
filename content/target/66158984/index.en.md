@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Cumbria Police Authority
-
 None

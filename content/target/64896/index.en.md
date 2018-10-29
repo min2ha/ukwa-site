@@ -11,6 +11,4 @@
   "subject": "Caribbean Communities in the UK"
 }
 
-# Caribbean Intelligence (CI)
-
 A UK Caribbean and Diaspora news website.

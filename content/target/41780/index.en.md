@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mundesley Village Website
-
 Mundesley is a village situated on the coast of North Norfolk and has a resident population of around 2,500.

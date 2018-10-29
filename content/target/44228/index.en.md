@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brecon & Radnor Express, The
-

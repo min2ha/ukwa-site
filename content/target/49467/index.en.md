@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Bowes Park Community Choir
-
 The Bowes Park Community choir was formed in 2010. It was set up on the initiative of one member of the Bowes Park Community Association as an additional activity which would bring local people together.

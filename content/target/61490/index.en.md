@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Garthewin Hall
-
 The Garthewin house is a listed Grade II built in 1772 and has a eight acre garden which is part of the National Garden Scheme. The country house is located near Abergele.

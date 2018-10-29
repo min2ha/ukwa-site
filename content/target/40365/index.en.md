@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Clan Macrae in Scotland
-
 Site of an organisation promoting history and current events for the Clan Macrae, specifically those based in Scotland.

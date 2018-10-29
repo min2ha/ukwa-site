@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matthew Winnington (@mwinnington) on Twitter (Liberal Democrats Politician)
-
 Matthew Winnington stood as Liberal Democrate candidate in the 2017 General Election but was not elected.

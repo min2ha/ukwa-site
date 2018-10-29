@@ -10,6 +10,4 @@
   "start_date": "2006-05-04T00:00:00Z"
 }
 
-# Scottish Printing Archival Trust
-
 None

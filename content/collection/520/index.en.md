@@ -1119,6 +1119,4 @@
   "endDateText": ""
 }
 
-# IT Collection
-
 A collection covering a wide range of areas related to IT in the UK.

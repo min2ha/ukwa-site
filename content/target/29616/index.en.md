@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Pop Up Festival
-
 Pop Up Festival brings books & stories spectacularly to life through a packed programme of imaginative events, activities & art-works created especially for Pop Up by writers, illustrators, poets & storytellers. 

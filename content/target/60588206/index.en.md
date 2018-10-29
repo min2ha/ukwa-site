@@ -10,5 +10,3 @@
   "start_date": "2011-05-31T00:00:00Z"
 }
 
-# David Nutt's Blog: Evidence not Exaggeration
-

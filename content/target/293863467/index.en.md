@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Government Benchmarking of Corporate Services
-
 None

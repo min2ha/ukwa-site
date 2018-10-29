@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Br.u.ce (bgilmour) on Twitter
-

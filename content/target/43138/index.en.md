@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brussels 'high life' EU officials blasted for wasting taxpayers’ cash after blowing £30m fortune on private jets, cruises and chauffeurs
-
 Sun, The

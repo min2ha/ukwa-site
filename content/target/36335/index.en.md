@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kate Forbes
-
 Kate Forbes is the Scottish National Party Member of the Scottish Parliament for the Skye, Lochaber and Badenoch constituency.

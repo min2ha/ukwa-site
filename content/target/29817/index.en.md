@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Gilded Balloon (@Gildedballoon) on Twitter
-
 Twitter for the Gilded Balloon comedy venue and theatre, and annual Edinburgh Festival Fringe venue.

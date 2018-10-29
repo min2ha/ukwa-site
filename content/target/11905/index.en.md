@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beth Bingham (Beth_Bing) on Twitter
-
 The twitter profile of athlete Beth Bingham, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.

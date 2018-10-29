@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# Grwp Cymreig, Y | Welsh Group, The
-
 The Welsh Group is one of Wales' most established and respected group of artists and is based in Wales.

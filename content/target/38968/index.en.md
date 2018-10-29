@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Banff Preservation and Heritage Society and Museum of Banff 
-
 Site of group dedicated to preservation of the local built heritage in the town of Banff, Banffshire [now incorporated into Aberdeenshire] while also running a local museum.

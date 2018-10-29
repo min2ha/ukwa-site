@@ -10,6 +10,4 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Scottish History Online
-
 Site promoting amateur Scottish history

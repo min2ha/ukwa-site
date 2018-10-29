@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Royal Society for Tropical Medicine and Hygiene: Zika virus first described in Transactions!
-
 The Royal Society for Tropical Medicine and Hygiene makes early publications on Zika freely available for a limited period.

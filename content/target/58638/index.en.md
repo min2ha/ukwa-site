@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Kelso Writers' Workshop
-
 Blog page for a group of writers in various genres and of varying experience who meet together in Kelso, in the Scottish Borders.

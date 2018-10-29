@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Occupy Graphics - Archive of Visual Resistance
-
 Occupy Graphics represents Occupy Design’s UK graphics archive. The graphics on this website are sourced from their online feeds on Twitter and Facebook. This site collects and collates the visual culture arising from the 99%’s social and political movements against capitalism and the war, oppression and austerity that flow from it. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Falkirk Community Trust
-
 <p>Falkirk Community Trust is a company established by Falkirk Council with charitable status, responsibile for the management and operation of a range of community facing services, including sport. The website contains information about “Summer Sport Activities” run by the Trust as part of the Legacy 2014 strand of the Commonwealth Games.</p>

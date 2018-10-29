@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Transport Treasury
-
 Site of a private archive of transport photographs located in Aberdeenshire, and comprising images of railways, locomotives and other forms of transport and vehicles in the collection.

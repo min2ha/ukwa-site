@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: Working-class Tories are not just turkeys voting for Christmas
-
 None

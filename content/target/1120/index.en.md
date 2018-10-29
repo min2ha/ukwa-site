@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BMJ NHS Reforms
-
 None

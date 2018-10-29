@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Empty Walls Festival
-
 <p>Empty Walls is a street art festival based in Cardiff.</p>

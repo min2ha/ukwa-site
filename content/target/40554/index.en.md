@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Youth of Europe remembering World War One as inspired by Wilfred Owen
-
 Project to work with fifteen 16-19 year old students from three European based colleges to remember the impact of World War 1 as recorded in letters and poetry - with inspiration from the work of Wilfred Owen.

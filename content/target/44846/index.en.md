@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Good Life Experience, The
-
 The Good Life Experience is a music, food and cultural festival held in Hawarden, Flintshire.

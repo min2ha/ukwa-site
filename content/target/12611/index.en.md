@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# devoplus (devoplus) on Twitter
-
 <p>The twitter profile of Devo Plus, a cross-party and non-party grouping which has been set up by Reform Scotland to promote the idea of the Scottish Parliament, as far as possible, raising the money it spends.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# SFRS City of Glasgow (@scotfire_glasgo) on Twitter
-
 The official Twitter account of the Scottish Fire and Rescue Service in the City of Glasgow.

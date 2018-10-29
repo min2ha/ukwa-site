@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Institute of Ecology and Environmental Management
-

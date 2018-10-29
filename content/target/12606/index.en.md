@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# John Finnie MSP (JohnFinnieMSP) on Twitter
-
 The Twitter profile of John Finnie, Scottish Green Party candidate for Highlands and Islands in the 2016 Scottish Parliament election.

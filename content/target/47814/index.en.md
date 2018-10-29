@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Ponty YM Development
-
 The Pontypridd YMCA building is to be turned into culture and community hub for the town.

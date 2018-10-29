@@ -10,5 +10,3 @@
   "start_date": "2011-01-17T00:00:00Z"
 }
 
-# Townsend (Townshend) Family Records, The
-

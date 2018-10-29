@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# TheSouthAfrican.com
-
 TheSouthAfrican.com provides daily coverage of issues and events relevant to South Africans around the world from their editorial teams in Cape Town, London & Brisbane.

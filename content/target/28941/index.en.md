@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Leicester Green Party
-
 Website of Green Party in Leicester, providing information on Green party officers and committee members in Leicester, campaigns, local news and reaction.

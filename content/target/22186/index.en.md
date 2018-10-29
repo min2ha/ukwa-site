@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Aberdeen SNP | Independence For Scotland
-
 Website of Aberdeen SNP, providing information on the Scottish government, SNP representatives and candidates and how to get involved.

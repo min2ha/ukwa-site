@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Русский Ланкашир / Russkii Lankashir (Russian Lancashire)
-
 A blog for the Russian-speaking community of north west England.

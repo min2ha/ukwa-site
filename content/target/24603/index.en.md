@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegrph, The: General election: City backlash at Ed Miliband's non-dom pledge - as it happened
-
 None

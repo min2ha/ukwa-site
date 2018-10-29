@@ -10,6 +10,4 @@
   "start_date": "2017-01-31T09:00:00Z"
 }
 
-# RIG Arts
-
 A community arts charity based in Greenock in Inverclyde.

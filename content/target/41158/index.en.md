@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Virtually Dartmoor
-
 The idea for Virtually Dartmoor developed from the Dartmoor National Park Authority's "Moor Memories" oral history project which has been recording memories of the people of Dartmoor since the autumn of 2001 and has identified strong links between people and places on Dartmoor. 

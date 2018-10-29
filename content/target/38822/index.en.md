@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Out The EU (@WalesOutEU) on Twitter
-
 Volunteers working to promote and protect the interests of Wales and to deliver the best possible outcomes for our citizens by leaving the EU

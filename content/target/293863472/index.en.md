@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Historic Royal Palaces: Tower of London Remembers
-
 The website was created as part of the art installation project 'Blood Swept Lands and Seas of Red' by artists Paul Cummins and Tom Piper, where 888,246 ceramic poppies progressively filled the Tower’s moat. It  marked the centenary of the outbreak of the First World War (2014).

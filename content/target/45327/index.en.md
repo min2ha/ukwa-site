@@ -10,6 +10,4 @@
   "start_date": "2016-09-10T10:00:00Z"
 }
 
-# Coed Hirwaun Community Assocation
-
 Community website for Coed Hirwaun near Margam, Port Talbot. The site also has access to the Coed Hirwaun Community Assocation Newsletter.

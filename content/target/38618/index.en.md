@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Eurig Scandrett (@EurigS) on Twitter
-
 Twitter profile of Eurig Scandrett, the Scottish Green Party list candidate for South Scotland region in the 2016 Scottish Parliamentary election.

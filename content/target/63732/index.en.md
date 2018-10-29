@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Barnhill St. Margaret's Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Ulster Ancestry
-
 Ulster Ancestry gives information about genealogy, ancestry and family history research in Northern Ireland.

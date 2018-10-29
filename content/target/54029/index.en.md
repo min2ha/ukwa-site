@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Esher & Walton (@UKIPEsherWalton) on Twitter (UKIP)
-
 Promoted by Redvers Cunningham on behalf of UKIP Esher & Walton Constituency Association of 10 Jennings Close Long Ditton Surrey KT6 5RB.

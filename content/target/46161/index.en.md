@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Politics Home: JCB quits CBI after EU referendum divide
-
 Article about JCB and CBI divide

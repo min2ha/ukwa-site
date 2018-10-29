@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Information and Knowledge Exchange (LIKE)
-
 None

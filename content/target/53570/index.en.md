@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National AIDS Trust: HIV Manifesto for the General Election 2017
-
 Calls on the next government to maintain and improve services for people living with HIV.

@@ -10,5 +10,3 @@
   "start_date": "2012-05-15T00:00:00Z"
 }
 
-# Llanfyllin Workhouse
-

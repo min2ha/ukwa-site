@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# AB Agri
-
 AB Agri is a unique community of leading agricultural businesses operating across the entire food supply chain.

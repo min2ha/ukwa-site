@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kyle of Sutherland Heritage Society
-
 Site of a local history society located in Ardgay, in the historic county of Sutherland, Highland, Scotland.

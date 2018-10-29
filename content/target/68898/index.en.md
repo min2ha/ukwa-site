@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: Trump told me to sue the EU
-
 Donald Trump told Theresa May she should sue the EU rather than negotiate over Brexit, she told the BBC in an interview. The BBC's legal correspondent considers whether the UK could sue the EU in the middle of the negotiations.
 
 

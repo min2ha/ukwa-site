@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The Running Commentary Begins: Annotation of the proposed Withdrawal Agreement
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wembley Stadium (@wembleystadium) on Twitter
-
 Making memories since 1923, share yours with us by putting the #Wembley! 

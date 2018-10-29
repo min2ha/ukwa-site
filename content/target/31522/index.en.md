@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# MLF Blog
-
 Blog by Martha Lane Fox, Baroness Lane-Fox of Soho, CBE a British businesswoman, philanthropist, and public servant. Lane Fox co-founded Lastminute.com in the dotcom boom of the early 2000s and has subsequently served on public service digital projects.

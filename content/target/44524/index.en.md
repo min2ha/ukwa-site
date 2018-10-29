@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM statement in Berlin: 20 July 2016
-
 Prime Minister Theresa May held a press conference with the German Chancellor Merkel in Berlin following their meeting to discuss Britain's withdrawal from the EU.

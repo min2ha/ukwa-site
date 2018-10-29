@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Foreign Affairs Committee: Starved FCO urgently needs resources for Brexit challenge and opportunities
-
 The Government must commit to a substantial increase in funding and personnel for the FCO, as the department’s role evolves to meet the challenges and opportunities in leaving the EU.

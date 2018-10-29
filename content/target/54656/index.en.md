@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Facebook and Twitter 'harm young people's mental health'
-
 News article "Poll of 14- to 24-year-olds shows Instagram, Facebook, Snapchat and Twitter increased feelings of inadequacy and anxiety"

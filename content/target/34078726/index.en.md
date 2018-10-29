@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# BBC News: UK Economy
-

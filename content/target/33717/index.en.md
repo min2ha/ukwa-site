@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Open Science Prize
-
 The Open Science Prize is a partnership between the Wellcome Trust, the US National Institutes of Health (NIH) and the Howard Hughes Medical Institute to unleash the power of open content and data to advance biomedical research and its application for health benefit.

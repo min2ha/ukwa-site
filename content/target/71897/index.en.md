@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Poldrate Arts & Crafts Centre
-
 Site of an arts and crafts centre at Haddington, East Lothian.

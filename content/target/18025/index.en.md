@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Parisienne Londonienne
-
 Blog in French about everyday life in London

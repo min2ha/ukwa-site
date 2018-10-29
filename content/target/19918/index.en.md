@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Samuel Ellis Rees (@SamuelEllisRees) on Twitter
-
 Samuel Ellis Rees - Lib Dem candidate for Blaenau Gwent

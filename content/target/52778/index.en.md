@@ -10,5 +10,3 @@
   "start_date": "2017-05-04T00:00:00Z"
 }
 
-# Test to be deleted
-

@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Barr Castle
-
 Site of an historic castle located in Galston, Ayrshire, site of a museum and a Scottish masonic lodge, Lodge St. Peter 331.

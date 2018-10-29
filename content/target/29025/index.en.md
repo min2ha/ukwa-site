@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Folkestone & Hythe Labour
-
 Website of Folkestone & Hythe Labour, providing information on party officers, events and meetings, blogs, campaigns and local news.

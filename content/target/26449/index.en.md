@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Minority government will allow Ed Miliband to call Nicola Sturgeon’s bluff
-
 None

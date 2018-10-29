@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Zurich: Zurich unveils seven-point manifesto ahead of 2017 UK General Election
-
 Leading UK insurer and pension provider Zurich Insurance calls for the appointment of a new ‘savings minister’ and a fairer framework for setting the personal injury rate, as it sets out its manifesto for insurance and savings ahead of the 2017 UK General Election.

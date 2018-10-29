@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ben Quinn (BenQuinn75) on Twitter
-
 Ben Quinn, a reporter; posts include comment from Edinburgh during the Referendum.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# CIPD
-
 The CIPD acronym stands for the Chartered Institute of Personnel and Development, but today they are known simply as the CIPD. As an organisation, they stand for better work and working lives. 

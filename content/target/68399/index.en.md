@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# St.Helens R.F.C. (@Saints1890) on Twitter
-
 The official Twitter account of St. Helens Rugby
 Football Club.

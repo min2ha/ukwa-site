@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Professor Gwyn Alfred Williams: a people's remembrancer
-
 Professor Gwyn Alfred Williams was an authority on modern Socialism and Marxism and made a siginificant contribution to the history of Wales, especially to its urban and Radical traditions in the eighteenth and nineteenth centuries.

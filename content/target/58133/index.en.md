@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Lothian Deaf Counselling Service
-
 Site of an organisation providing counselling to people who are deaf, deafened, hard of hearing or deafblind and live in Edinburgh or Lothian.

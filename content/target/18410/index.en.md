@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband proposes 'Turing's Law' to 'pardon' convicted gay men
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK government: Scotland analysis papers - informing the referendum debate
-
 <p>Papers produced by the UK government Scotland Office, to discuss policy implications of Scottish independence. Themes include borders and citizenship; the EU; currency and monetary policy; defence; and research.</p>

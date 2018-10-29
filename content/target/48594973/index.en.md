@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Centre for Sustainable Energy
-
 None

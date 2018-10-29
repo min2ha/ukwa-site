@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kezia Dugdale (kdugdalemsp) on Twitter
-
 Twitter profile of Kezia Dugdale, leader of the Scottish Labour party and Scottish Labour and Co-operative candidate for Edinburgh Eastern in the 2016 Scottish Parliament election.

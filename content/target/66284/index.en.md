@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Oxford University Student Union
-
 The Student Union for Oxford University.

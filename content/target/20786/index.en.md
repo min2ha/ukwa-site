@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oluf Marshall (@marshtheman56) on Twitter
-
 The Twitter profile of Oluf Marshall, the UK Independence Party (UKIP) candidate for East Lothian in the UK General Election on the 7th May 2015 and list candidate for South Scotland region in the 2016 Scottish Palriamentary election.

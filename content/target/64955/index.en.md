@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Mason Advisory
-
 Services Mason Advisory's independent consultants solve complex business challenges through intelligent use of IT

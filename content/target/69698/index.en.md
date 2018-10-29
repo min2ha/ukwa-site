@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Francis of Assisi RC Church
-
 Site of a Roman Catholic church in Scotland for the parish of St. Francis of Assisi, Port Glasgow, Inverclyde.

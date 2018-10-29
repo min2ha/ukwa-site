@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# One World Week 
-
 People working together to build a just, peaceful and sustainable world.

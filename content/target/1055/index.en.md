@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Physical Activity Forum
-
 None

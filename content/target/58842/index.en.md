@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time To Change: Mental health stigma on internet forums
-
 Blog post on the Time to Change website, the online presence for a social movement

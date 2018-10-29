@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Bill Newton-Dunn, Liberal Democrat, on Twitter
-

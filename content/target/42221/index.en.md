@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Apostle Welsh International Football Forum
-
 A Welsh international football forum ran by fans.

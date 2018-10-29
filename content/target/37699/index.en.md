@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: My Brexit defeat fear, by Alan Johnson: Labour leader of the In campaign says he thinks referendum will be 'a tough battle'    
-

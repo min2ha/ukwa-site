@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Catholic Church
-
 Site of a Roman Catholic church in Aberdeen, Scotland, incorporating the churches of Dyce Parish Church, Dyce and the Holy Family, Mastrick, Aberdeen.

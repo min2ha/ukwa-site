@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# African Caribbean Cultures Glasgow
-
 <p>African Caribbean Cultures Glasgow are organising the inaugural Scottish celebration of Emancipation Day including a tour around Merchant City, Glasgow highlighting links to the slave trade on August 1st 2014.  They will also be organising workshops on the theme of emancipation.  Part of the Glasgow 2014 Cultural Programme.</p>

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Scottish Parliament election, The : the Scottish general election of 2007
-

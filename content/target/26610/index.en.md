@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour gets almost half as much positive press coverage as Tories
-
 None

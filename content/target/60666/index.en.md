@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Castle Park No. 520 Royal Arch Chapter
-
 Site of a Royal Arch Chapter masonic lodge located in Corstorphine, western Edinburgh.

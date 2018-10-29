@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jackson Carlaw MSP | Representing the people of West Scotland
-
 Jackson Carlaw is the Scottish Conservative and Unionist Party candidate for Eastwood constituency in the 2016 Scottish Parliament election.

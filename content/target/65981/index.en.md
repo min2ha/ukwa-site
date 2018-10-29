@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Robert Halfon 
-
 The Conservative Party MP for Harlow.

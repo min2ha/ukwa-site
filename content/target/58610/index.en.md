@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Peterborough Relationship Support
-
 Peterborough Relationship Support offers counselling services including relationship counselling, family counselling, young people's counselling or sex therapy.

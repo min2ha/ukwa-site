@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Engineer, The: The Forth Bridge, and mastering water power today
-

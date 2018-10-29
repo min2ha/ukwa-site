@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eilish Mccolgan (EilishMccolgan) on Twitter
-
 The official twitter profile of runner Eilish McColgan.

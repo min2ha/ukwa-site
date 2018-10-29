@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: EU timeline: from destruction to steelmaking - to meltdown
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# KIAN EMADI
-
 <p>The website of track cyclist Kian Emadi, member of Team England for the Glasgoe 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Amanda Forbes, Soprano
-
 Amanda Forbes is a Soprano, Actress and Singing Teacher based in London.

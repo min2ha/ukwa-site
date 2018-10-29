@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - My 'Letter to London' is on The World at One...
-
 Ewan Morrison's post of the 26th of August, 2014.

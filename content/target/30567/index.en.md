@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# St George's, University of London
-
 Official website of St George's, University of London.

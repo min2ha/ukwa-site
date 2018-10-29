@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The one good thing about Brexit? Leaving the EU's disgraceful farming system
-
 The Common Agricultural Policy is among the most powerful drivers of environmental destruction in the northern hemisphere. Because payments are made only for land that’s in “agricultural condition”, the system creates a perverse incentive to clear wildlife habitats, even in places unsuitable for farming, to produce the empty ground that qualifies for public money. These payments have led to the destruction of hundreds of thousands of hectares of magnificent wild places across Europe.
 

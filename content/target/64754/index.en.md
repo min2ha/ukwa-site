@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Provincial Grand Royal Arch Chapter of Dumbartonshire
-
 Site of a provincial chapter of the Scottish Royal Arch branch of freemasonry, covering the historic county of Dumbartonshire.

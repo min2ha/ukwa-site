@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T11:00:00Z"
 }
 
-# Black Kilt Tours of Scotland
-
 Site of an organisation offering tourist visits to Scotland LGBTI people in particular.

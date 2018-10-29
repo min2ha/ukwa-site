@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour must push what Miliband has got right on the economy in election runup
-
 None

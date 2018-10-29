@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fauldhouse St. Andrew's Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Fauldhouse, West Lothian.

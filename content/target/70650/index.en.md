@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lymington Seafood Festival
-
 Two days of fishy fun, food and drink stalls from local artisan producers

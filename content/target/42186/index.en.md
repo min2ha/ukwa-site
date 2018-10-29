@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Searchlight Magazine Arts
-
 Culture and arts section of anti-racist magazine Searchlight Magazine - features articles and interviews with a wide range of artists from around the UK and further afield, aiming "to tell the stories no one else is telling".

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Confederation of British Industry (CBI): Election 2015
-
 The CBI's mission is to promote the conditions in which businesses of all sizes and sectors in the UK can compete and prosper for the benefit of all. To achieve this, they campaign in the UK, the EU and internationally for a competitive policy landscape.

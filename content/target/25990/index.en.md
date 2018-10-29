@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: More than 100 business leaders sign letter backing Tories
-
 None

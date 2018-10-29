@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: March of the Tory women: Cameron to make third of his new Cabinet female as he bids to shake off party's 'pale, male and stale' image
-
 None

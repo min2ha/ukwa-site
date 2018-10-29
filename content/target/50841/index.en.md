@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bersham Church St Mary's Plas Power, Wrexham
-

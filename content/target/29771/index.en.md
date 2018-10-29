@@ -10,6 +10,4 @@
   "start_date": "2015-09-12T10:00:00Z"
 }
 
-# Momentum Venues
-
 A venue at the Edinburgh Fringe Festival based at St. Stephens Centre.

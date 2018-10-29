@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael Kelly (@Michael_Kelly_K) on Twitter
-
 Twitter profile of Michael Kelly, Labour and Co-operative Party candidate for Argyll and Bute in the 2017 general election.

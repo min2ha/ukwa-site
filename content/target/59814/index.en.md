@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Broughton Rugby Club
-
 Site of a Scottish rugby union football club based at Wardie, north Edinburgh.

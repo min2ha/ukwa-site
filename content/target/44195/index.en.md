@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Diane Dodds (Democratic Unionist Party) on Twitter
-

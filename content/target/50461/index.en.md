@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Catherine's Church Gorseinion
-

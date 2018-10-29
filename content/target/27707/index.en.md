@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip at war after sole MP Douglas Carswell hands back £3million taxpayers’ cash
-
 None

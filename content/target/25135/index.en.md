@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband will AXE stamp duty on homes worth up to £300,000 for first-time buyers 
-
 None

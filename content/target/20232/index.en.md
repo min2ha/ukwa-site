@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill Rees (@billvrees) on Twitter
-
 Conservative. Parliamentary Candidate for Merthyr Tydfil & Rhymney  in 2015 General Election and Cardiff South and Penarth in the 2017 General Election.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Alfa Romeo Owners Club, The (AROC)
-
 The Alfa Romeo Owners Club (AROC) Ltd. was formed in 1964 when Alfa Romeo cars had started to become more numerous in the UK. Since then, the popularity of the marque has increased and Club membership has grown to approximately 3000. The majority of our members live in the British Isles, but we do cater for overseas subscribers.

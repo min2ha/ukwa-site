@@ -10,6 +10,4 @@
   "start_date": "2015-12-12T09:00:00Z"
 }
 
-# Do not go gentle festival
-
 The festival is a 'celebration of the legendary Welsh poet in his home suburb of the Uplands in Swansea.' 

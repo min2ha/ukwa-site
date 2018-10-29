@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# John Buchan Story
-
 Site of a museum dedicated to the writer, historian and politician John Buchan, Lord Tweedsmuir.

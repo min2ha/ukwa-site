@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tarbert Loch Fyne Festivals
-
 Site of a series of festivals held at Tarbert, on Loch Fyne, Argyll & Bute - featuring separate book, film, sailing and seafood festivals.

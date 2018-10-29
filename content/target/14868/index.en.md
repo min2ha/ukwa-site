@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Timeline Photos
-
 Better Together post an image of the "No Thanks" logo, projected onto the Clyde Auditorium in Glasgow, 9.09pm on 17th September.

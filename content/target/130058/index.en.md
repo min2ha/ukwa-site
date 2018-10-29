@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# King's Consort, The (TKC)
-
 The King's Consort is a period instrument orchestra and choir. 

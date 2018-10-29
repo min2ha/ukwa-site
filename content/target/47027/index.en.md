@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter - Bloomsbury
-
 Bloomsbury Publishing is an independent publishing house established in 1986. It is the official publisher of Harry Potter in the UK.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Sugar Glider Forum
-
 An online enthusiast forum concerned with looking after sugar gliders. Discusses ethics and regulations, housing and toys, health, diet and various other topics. 

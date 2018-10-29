@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Wales Black History Teachers Forum
-

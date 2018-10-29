@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# 1st Marquess of Montrose Society
-
 Site of a historical society pursuing and promoting history of James Graham, 1st Marquis of Montrose.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Eviction Resistance
-
 Collective Action Against Eviction

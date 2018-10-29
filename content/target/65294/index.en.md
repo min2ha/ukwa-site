@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Lumsden
-
 Community website of the village of Lumsden, Abderdeenshire, providing information on amenities, businesses, activities and the community council for residents and visitors.

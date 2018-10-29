@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Edinburgh Archaeological Field Society
-

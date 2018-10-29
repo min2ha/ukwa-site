@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# South Wales Geologists Association | Cymdeithas y Daearegwyr Grwp De Cymru
-

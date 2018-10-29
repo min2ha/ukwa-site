@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Express: EHarmony boss says Theresa May being named as PM caused INCREASE in Brits looking for love
-

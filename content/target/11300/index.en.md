@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Westminster Abbey
-
 Every year Westminster Abbey welcomes over one million visitors who want to explore this 700-year-old building. 

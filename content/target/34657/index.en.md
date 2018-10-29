@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Dornan MSP
-
 James Dornan is Scottish National Party member of the Scottish Parliament for Glasgow Cathcart.

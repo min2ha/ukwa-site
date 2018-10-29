@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dover and Shepway Health and Wellbeing Board
-
 None

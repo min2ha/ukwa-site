@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoke City Ladies FC (@scfc_ladies) on Twitter
-
 The official Stoke City Ladies Twitter profile. 

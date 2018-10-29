@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Nicholas Parish Church
-
 The website of St. Nicholas Parish Church.

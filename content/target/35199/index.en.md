@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Eurosceptics claim victory over the In campaign 'scaremongers' as HSBC declares it will stay in Britain because of chaos in China   
-

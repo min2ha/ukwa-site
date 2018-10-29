@@ -10,5 +10,3 @@
   "start_date": "2014-02-14T00:00:00Z"
 }
 
-# Lisvane Community Council
-

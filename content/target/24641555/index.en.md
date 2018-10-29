@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scarborough Literature Festival
-

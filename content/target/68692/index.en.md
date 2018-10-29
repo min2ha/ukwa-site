@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stay Wild Festival
-
 family friendly festival of wilderness skills

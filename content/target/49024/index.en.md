@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# BBC News: Five take-outs from the Brexit Bill
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: EU citizens will not need visas to visit UK after Brexit, say sources
-

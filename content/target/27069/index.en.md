@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# Salmon & Trout Association
-
 The Salmon & Trout Association was formed in 1903 and it became a registered charity in 2008. It is a fisheries charity that campaigns for the conservation, protection and sustainable management of an aquatic environment capable of supporting an abundance of indigenous fish species, invertebrates, animals and plant life - from source to sea.

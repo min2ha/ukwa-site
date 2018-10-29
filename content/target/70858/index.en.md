@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Telford Hornets Rugby Club on Pitchero
-
 The official website of Telford Hornets Rugby Club

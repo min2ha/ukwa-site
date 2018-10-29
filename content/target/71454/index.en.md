@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Episcopal Church – Dornoch, Tain & Lairg
-
 Site of three Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in South East Sutherland and North East Ross-shire, Highlands, namely, St. Andrew, Tain; St. Maelrubha’s Mission, Lairg; St. Trolla's, The Crask, Lairg; St. Finnbarr's, Dornoch.

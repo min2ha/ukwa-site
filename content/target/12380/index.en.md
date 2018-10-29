@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lawrence Clarke (@lawrence_clarke) on Twitter
-
 The twitter profile of 100m hurdler Lawrence Clarke, member of Team England for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire Industrial Archaeology Society (HIAS)
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2005-10-20T00:00:00Z"
 }
 
-# Wellcome Trust: Hinxton Hall Ltd (HHL)
-

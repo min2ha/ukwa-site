@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Bank of England: The New Fiver 
-
 The New Fiver entered circulation on 13 September 2016.

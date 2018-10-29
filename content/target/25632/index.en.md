@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour plans for maths until 18 'best protection' against unemployment
-
 None

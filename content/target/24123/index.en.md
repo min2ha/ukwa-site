@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Value of British companies swells by £50bn on election result
-
 None

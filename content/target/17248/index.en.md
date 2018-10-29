@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne accused of buying votes with market-beating 'pensioner bonds'
-

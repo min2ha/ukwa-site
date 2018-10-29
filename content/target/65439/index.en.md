@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Woodford Town FC (@woodfordtownfc) on Twitter
-
 Official Twitter account for Woodford Town FC

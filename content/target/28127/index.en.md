@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Energy and Climate Intelligence Unit (ECIU)
-
 The Energy and Climate Intelligence Unit is a non-profit organisation that supports informed debate on energy and climate change issues in the UK.

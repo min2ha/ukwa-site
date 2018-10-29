@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Too few voters understand immigrants’ role in UK recovery
-
 None

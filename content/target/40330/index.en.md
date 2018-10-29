@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Gallery Ten
-
 Gallery Ten is an art gallery located in Cardiff.

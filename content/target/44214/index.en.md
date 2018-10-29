@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Ireland Rises
-
 Ireland Rises is an Irish production where the six days of the Easter Rising are condensed into one night. The cast is comprised of Irish musicians, dancers and singers. 

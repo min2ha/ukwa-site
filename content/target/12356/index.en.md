@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Farrell (farrell_osu) on Twitter
-
 <p>The twitter profile of athlete Tom Farell, competing in the 5000m for Team England at the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Oliver Frost
-
 Oliver Frost is trained in various fields of art and design, including drama, dance, performance, and fine art.

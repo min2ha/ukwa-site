@@ -10,6 +10,4 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# Konditor & Cook
-
 Website of a patisserie chain in London founded by Gerhard Jenne.

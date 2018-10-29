@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Can the SNP profit from its bittersweet win and stick it to a Tory government?
-
 None

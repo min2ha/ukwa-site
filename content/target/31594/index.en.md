@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Cymdeithas Cyfarwyddwyr Addysg Cymru | Association of Directors of Education in Wales (ADEW) 
-
 The Association of Directors of Education in Wales (ADEW) is the professional group of local authority officers accountable for statutory education functions in each of the Local Authorities in Wales.

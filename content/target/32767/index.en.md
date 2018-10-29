@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# Phoenix Works
-
 Phoenix Works, 500 King Street, Stoke-on-Trent, was built in 1881 by Thomas Forester to satisfy the tremendous demand for Majolica both at home and abroad. 

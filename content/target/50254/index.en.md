@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Belvoir Media Group
-
 Recognized and respected for its publications and partnerships, Belvoir Media Group is a leading provider of reader-focused, content-driven periodicals, books, and digital media.

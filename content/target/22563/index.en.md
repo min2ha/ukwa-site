@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: End mating signals and let's govern alone, Boris tells Tories
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Theracingforum.co.uk forums
-
 An online enthusiast forum concerned with horse racing. Discusses big races, racing competitions, tipping and research and various other related topics.

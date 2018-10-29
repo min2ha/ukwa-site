@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# PlayingPasts
-
 An online magazine for Sport and Leisure History.

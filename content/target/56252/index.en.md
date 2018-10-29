@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind.org: How to stay safe online
-
 Article on how to stay safe online

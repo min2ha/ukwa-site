@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Pentecostal Church, Pontypridd
-

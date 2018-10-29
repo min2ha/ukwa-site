@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Landscapes of Remembrance
-
 Part of the approach to understanding the past taken by archaeologists is to see things as part of a landscape. This landscape is inhabited and changed by people who live in it.  When we build memorials to those we have lost we create part of a landscape.  We create a memorial, a stone, a park, a hall, a window or maybe a plaque that we can look at, visit and sometimes march to or gather at.  This is a landscape of remembrance. 

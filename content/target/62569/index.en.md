@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Canvas Journal
-
 Site of a student journal run by the Edinburgh College of Art, at the University of Edinburgh, focusing on visual arts.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Daily Star: World Cup 2018
-
 World Cup 2018

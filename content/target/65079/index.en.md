@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bonhill Church
-
 Site of a Church of Scotland parish church at Bonhill, West Dunbartonshire.

@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Odiham’s 800th Anniversary Magna Carta Celebration
-
 Website presenting local events for the Magna Carta 800th anniversary.

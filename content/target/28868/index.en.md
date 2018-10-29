@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BeaconLit Festival of Books and Writing
-
 BeaconLit Festival of Books and Writing in association with Beacon Villages Community Library, Brookmead School, Ivinghoe and Chorleywood Bookshop

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Sir Malcolm Rifkind and Jack Straw have whip withdrawn over 'sting'
-
 None

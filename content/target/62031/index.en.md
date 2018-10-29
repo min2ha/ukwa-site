@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# WIC Birmingham 2018 (@WICBham2018) on Twitter
-
 The 2018 IAAF World Indoor Championships were hosted in Birmingham. This is the official Twitter account of the event.

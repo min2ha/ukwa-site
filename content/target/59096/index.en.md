@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Jaunty Spiv Blog, The 
-
 The Jaunty Spiv Blog is an online blog writing about the Music scene, music from bands both old and new including filmed interviews and photography. It is an independent blog run for and by music fanatics across Wales.

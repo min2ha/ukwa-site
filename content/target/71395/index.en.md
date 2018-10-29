@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Zero Waste Leith
-
 Site of a community-led project working with local partners and our and volunteers to engage residents, community groups, schools and businesses in Leith, engendering the vision to create a clean and vibrant Leith where nothing is wasted.

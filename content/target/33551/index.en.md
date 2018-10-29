@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Orkney Archaeology Society
-
 Site of charitable society for the promotion of existing and new archaeology projects in Orkney

@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T00:00:00Z"
 }
 
-# Lothian Ringing Group
-
 A group ringing and monitoring birds in the Lothians and Scottish Borders.

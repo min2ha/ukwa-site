@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Rehab Recovery
-
 Rehab Recovery is an organisation that provides addiction treatment and healthcare advice for a wide range of of different addiction and dependency problems. 

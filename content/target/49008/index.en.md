@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Knockhill Racing Circuit
-
 Site of a motor racing circuit and venue at Knockhill, by Dunfermline, Fife, Scotland.

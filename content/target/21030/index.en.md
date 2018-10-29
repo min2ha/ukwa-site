@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steven Paterson (@Steven4Stirling) on Twitter
-
 Twitter profile of Steven Paterson, Scottish National Party candidate for Stirling in the 2017 general election.

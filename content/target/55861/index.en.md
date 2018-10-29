@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Scared about your human rights after Brexit? You should be
-

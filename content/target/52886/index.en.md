@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nairn McDonald 🗣 (@NairnMcD) on Twitter
-
 Twitter profile of Nairn McDonald, Scottish Labour candidate for Central Ayrshire in the 2017 general election.

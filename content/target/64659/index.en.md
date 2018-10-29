@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Lodge Priory No. 1235
-
 Site of a masonic lodge located in Beauly, Highland and affiliated with the Grand Lodge of Scotland.

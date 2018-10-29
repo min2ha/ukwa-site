@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Geocaching Discussions by Country > United Kingdom and Ireland
-
 The UK section of a Geocaching forum,

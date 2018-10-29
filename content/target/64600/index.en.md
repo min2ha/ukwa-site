@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ardeer Parish Church
-
 Site of a Church of Scotland parish church at Stevenston, Ayrshire.

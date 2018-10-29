@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Change.org UK (@UKChange) on Twitter
-
 The official Twitter account of the UK section of change.org an online petition company founded in the USA.

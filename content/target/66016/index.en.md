@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# Dara Ó Briain
-
 Dara Ó Briain is an Irish comedian and television presenter in United Kingdom and Ireland.

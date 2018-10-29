@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Why Women?
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anne Thomas on Facebook
-
 This is the Facebook page of Anne Thomas, the Scottish Green Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

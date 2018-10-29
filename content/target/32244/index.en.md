@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Swibchat hashtag on Twitter
-
 Scottish Women in Business (SWIB) swibchat hashtag for those interested in business women's issues.

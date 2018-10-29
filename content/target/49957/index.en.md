@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Canongate Kirk
-
 Website of the Canongate Kirk parish, located in Edinburgh. 

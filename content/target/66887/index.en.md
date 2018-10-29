@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Edinburgh Assay Office
-
 Site of a company owned by the Incorporation of Goldsmiths of the City of Edinburgh providing precious metal hallmarking and assay services.

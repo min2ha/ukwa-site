@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London Review of Books: Nigels against the World
-
 Article by Ferdinand Mount

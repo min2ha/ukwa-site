@@ -10,5 +10,3 @@
   "start_date": "2017-04-27T09:00:00Z"
 }
 
-# Caroline Hynds (@carriehyndsld) on Twitter (Liberal Democrats candidate for Hove)
-

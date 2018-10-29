@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clydebank Rugby Football Club
-
 Site of a Scottish rugby union football club based at Clydebank,  West Dunbartonshire.

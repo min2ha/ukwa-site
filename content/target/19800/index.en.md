@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP success could divert money from Wales, Plaid warns
-

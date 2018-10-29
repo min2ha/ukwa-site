@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: From animal welfare to justice, arguments for and against the EU [letters]
-
 Guardian, The

@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Harlech House of Graphics, The
-
 The Harlech House of Graphics is a repository of all things graphical from ITV in Wales and the West.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish power Michael Gove promises new immigration controls to Scotland if UK votes to leave EU
-
 Sun, The

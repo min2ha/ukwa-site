@@ -10,5 +10,3 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Saundersfoot New Year's Day Swim
-

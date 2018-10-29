@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Captain JD Hills - Letters From the Front
-
 This blog presents an archive of letters written by JD Hills From 26 February 1915 to 26 November 1918. Captain J.D. Hills served the Leicestershire Regiment.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ely Cathedral
-
 Official website of the Ely Cathedral.

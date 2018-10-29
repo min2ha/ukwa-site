@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marchmont and Sciennes Community Council Blog
-
 <p>This blog contains the community council information, including meeting times, minutes and agenda.</p>

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Thirsk RUFC on Pitchero
-
 The official website of Thirsk Rugby Club.

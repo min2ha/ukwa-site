@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Farage humiliated by his only MP: Ukip leader backs down in row over taking £3m in public cash
-
 None

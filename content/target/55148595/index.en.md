@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# International Sailing Federation (ISAF)
-

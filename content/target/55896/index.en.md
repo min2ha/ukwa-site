@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# DJS Photography: the website of wildlife photographer David J Slater
-
 This is the website of wildlife photographer David J Slater from Chepstow.

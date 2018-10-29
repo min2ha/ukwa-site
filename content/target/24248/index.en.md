@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: I will cut tuition fees or quit, says Miliband
-
 None

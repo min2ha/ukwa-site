@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: One of the whiffy haddock was a dead ringer for Juncker: QUENTIN LETTS sees protesters against the Brexit fishing deal fall foul of the powers-that-be
-
 Sketchwriter Quentin Letts describes how a protest against the Brexit interim fishing deal descended into farce.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Wilsontown Ironworks Lodge St John, No 236
-
 Site of a masonic lodge located in Forth, Lanarkshire and affiliated with the Grand Lodge of Scotland.

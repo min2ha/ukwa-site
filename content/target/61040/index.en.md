@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Melrose Rugby
-
 Site of a Scottish rugby union football club based in Melrose, Scottish Borders.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill stages - Health and Social Care Act 2010-12
-
 None

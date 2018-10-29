@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland In Tarbert, Kilberry and Skipness on Facebook
-
 Facebook page of three Church of Scotland parish churches in Argyll & Bute.

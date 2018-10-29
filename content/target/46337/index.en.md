@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Spectator:, The: Theresa May’s ‘Great Repeal Bill’ is about continuity, not change
-
 Theresa May's Great Repeal Bill won’t repeal anything. On the contrary, it will ‘convert existing EU law into domestic law’ so it is about continuity, rather than annulment. It should really be called the Great EU Regulation Continuity Bill. Nothing wrong in that; it’s necessary legislation. But why spin it as radical change?

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# colin shaw (c_shawzy) on Twitter
-
 <p>The twitter profile of althete Colin Shaw, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zoe Gillings: Snowboard Athelete
-
 None

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Roadmap to avoid Brexit to be sent to MPs and peers
-
 George Soros-backed Best for Britain pushes for second referendum on Theresa May’s deal with EU
 

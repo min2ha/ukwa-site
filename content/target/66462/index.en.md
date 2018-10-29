@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# Q Radio News (@qnewsdesk) on Twitter
-
 A radio station based in Belfast, Northern Ireland.

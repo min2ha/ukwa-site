@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Eugene Fisk
-
 Eugene Fisk is an artist from Dagenham but now living in Hay-on-Wye, Wales.

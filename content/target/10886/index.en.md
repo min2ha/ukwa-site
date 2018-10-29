@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Internet Matters
-
 Internet Matters is a not-for-profit organisation working with online safety experts to bring you all the information you need to keep your children safe online.

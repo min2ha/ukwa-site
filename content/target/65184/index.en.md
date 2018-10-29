@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# charliesfight.org
-
 The Charlie Gard Foundation has been set up in memory of our beloved son, Charlie Gard. His legacy to the world is to help fund vital research in mitochondrial diseases, and to support families affected by a mito diagnosis.

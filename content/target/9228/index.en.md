@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Brewster Curling on Twitter
-
 None

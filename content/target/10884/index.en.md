@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds City Council: Tour de France Grand Depart 2014
-
 Tour de France web page for Leeds City Council

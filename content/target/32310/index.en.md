@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Manchester University Jazz Band
-
 This site documents information relating to the Manchester University Jazz Band from the 1950s. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael Swadling (@MikeSwadling) on Twitter (UKIP  Politician)
-
 Michael Swadling stood as UK Independence Party (UKIP) candidate for Croydon North in UK General Election 2017 but was not elected.

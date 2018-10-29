@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Scottish Ornithologists' Club
-
 Site of an organisation promoting the study, enjoyment and conservation of wild birds and their habitats across Scotland.

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Lonely Crowd, The: New Home of the Short Story
-
 The Lonely Crowd is a Welsh-based print and digital literary literary journal. Three print anthologies are published each year.

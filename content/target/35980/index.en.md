@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Europhiles mustn't sneer at immigration concerns
-

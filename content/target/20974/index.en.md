@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Baxter (@ianbaxter_green) on Twitter
-
 The Twitter profile of Ian Baxter, the Scottish Green Party candidate for Midlothian in the UK General Election on the 7th May 2015.

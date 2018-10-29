@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Nottinghamshire Police & Crime Commissioner
-
 None

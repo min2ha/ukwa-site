@@ -10,6 +10,4 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Mike Briscoe
-
 Mike Briscoe paintings revolve around his children, and the beach near his home in North Wales, where he was born in 1960. 

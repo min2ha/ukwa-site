@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Paths for All
-
 Paths for all is a charity which aims to significantly increase the number of people who choose to walk in Scotland.

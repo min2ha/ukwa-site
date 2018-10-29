@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Journal of Computing and Management Studies (JCMS)
-
 The Journal of Computing and Management Studies is an open access peer-reviewed international forum for scientists and engineers involved in computer science to publish refereed papers. 

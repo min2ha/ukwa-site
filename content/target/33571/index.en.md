@@ -10,6 +10,4 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Wool and Willow Festival 
-
 The Festival takes place at Llanidloes and features workshops and stalls covering a wide range of wool and willow based crafts. 

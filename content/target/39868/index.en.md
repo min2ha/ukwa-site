@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Western Isles Tories (@WiTories) on Twitter
-
 Twitter feed of the Western Isles Conservative and Unionist Association.

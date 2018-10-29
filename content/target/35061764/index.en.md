@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# BBC News Sport: Northern Ireland
-

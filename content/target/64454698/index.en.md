@@ -10,5 +10,3 @@
   "start_date": "2012-03-15T00:00:00Z"
 }
 
-# Small World Theatre | Theatr Byd Bychan
-

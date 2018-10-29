@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Anita Sethi
-
 None

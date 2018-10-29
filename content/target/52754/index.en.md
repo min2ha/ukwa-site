@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Evangelist, W. Sussex
-
 The mid Victorian parish church of St. John the Evangelist, Copthorne, was built in the 1870’s and was completed by 1877; services were held by special license until 4 August 1881, when the Bishop of Chichester formally consecrated the church. 

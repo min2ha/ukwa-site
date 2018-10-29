@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Pathological Society
-
 The Pathological Society has been in existence for more than a century with the object of advancing pathology and allied sciences.

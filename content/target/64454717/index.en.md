@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# LAC. Wallace Jackson in North Africa and Italy with 70 Squadron, RAF, 1941-1944
-
 None

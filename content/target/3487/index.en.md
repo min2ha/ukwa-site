@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Leighton Buzzard Online
-
 None

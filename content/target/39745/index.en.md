@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Unionist Party on Facebook
-
 Facebook page of A Better Britain - Unionist Party standing candidates in the 2016 Scottish Parliamentary election.

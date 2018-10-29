@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# St Austell & Newquay Conservatives
-
 Website for the St Austell and Newquay Conservative Association, providing information on the Conservative MP, local news and national news and reaction.

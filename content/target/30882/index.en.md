@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: CBBC: Stay Safe
-
 Tips for children how to be safe online.

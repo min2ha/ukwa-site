@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Richard Booth's Bookshop Cinema
-
 Richard Booth's Bookshop Cinema is a independent cinema in Hay-On-Wye.

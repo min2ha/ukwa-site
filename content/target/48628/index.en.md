@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lochar Thistle Football Club
-
 Site of a Scottish amateur football club based in Dumfries & Galloway, Scotland.

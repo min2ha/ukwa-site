@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bowls Cymru | BowlsWales
-
 BowlsWales is the co-ordinating body for the game across Wales.

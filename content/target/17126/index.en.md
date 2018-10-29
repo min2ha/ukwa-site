@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband says Ukip supporters' migration concerns are 'based on reality, not prejudice'
-

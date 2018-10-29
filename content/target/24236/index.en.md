@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: I won't be PM with SNP deal, says Miliband
-
 None

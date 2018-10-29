@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Pembroke Yeomanry Trust, The
-
 This is a resource covering the history of the Pembroke (Castlemartin) Yeomanry.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Old Ship Picture Galleries
-
 A selection of galleries containing photographs, postcards and paintings of old ships, habours and other maritime related images.

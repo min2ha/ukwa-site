@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Selaine Saxby (@SelaineSaxby) on Twitter
-
 Prospective Conservative Parliamentary Candidate Llanelli

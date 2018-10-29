@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# News for Scotland: Nelson Mandela
-
 None

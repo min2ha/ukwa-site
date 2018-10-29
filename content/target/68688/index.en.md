@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Festival of Nature
-
 festival exploring the creatures and plants that live in and around Oxford

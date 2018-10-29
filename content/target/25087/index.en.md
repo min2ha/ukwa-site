@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Miliband says he would rather NOT be in government than accept support of SNP
-
 None

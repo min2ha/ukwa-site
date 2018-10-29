@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Queen's Nursing Institute Scotland
-
 Site of an organisation promoting excellence in community nursing to improve the health and well-being of the people of Scotland.

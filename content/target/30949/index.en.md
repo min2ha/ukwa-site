@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Online Learning
-
 Jersey Online Learning offers a number of educational resources for all learners in the Island of Jersey.

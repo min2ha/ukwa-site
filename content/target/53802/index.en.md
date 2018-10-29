@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# British Mountaineering Council (BMC): BMC Manifesto: General Election 2017
-
 Ahead of the election on 8 June, the BMC challenges politicians to recognise the huge value of outdoor recreation in their manifestos and policies, while also understanding the need to protect the special qualities of the outdoors for the benefit of all.
 

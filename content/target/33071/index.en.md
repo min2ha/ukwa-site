@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Republic, The 
-
 ‘The Irish Republic’ blog aims to facilitate debate and discussion around the 1916 Rising and the Proclamation of the Irish Republic and their relevance to contemporary Ireland in the run-up to the centenary in 2016.

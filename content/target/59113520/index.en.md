@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# Over Wyre and Knott End
-
 Website dedicated to the area in Lancashire.

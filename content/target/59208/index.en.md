@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Lodge Dumfries Kilwinning No. 53
-
 Site of a masonic lodge located in Dumfries, Dumfries & Galloway and affiliated with the Grand Lodge of Scotland.

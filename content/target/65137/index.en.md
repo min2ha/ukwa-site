@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Canton RFC Male Voice Choir
-
 Canton RFC Male Voice Choir was formed in 1993 and is a choir based in Cardiff.

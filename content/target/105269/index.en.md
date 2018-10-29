@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Llanelli Conservatives
-
 Website of Llanelli Conservatives, providing information on community councillors, county council and parliamentary candidates, events, speeches, European, local, national and Westminster news.

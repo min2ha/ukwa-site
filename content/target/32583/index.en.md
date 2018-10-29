@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# droso4schools
-
 The droso4schools project is an approach to bring the fruit fly Drosophila back into biology lessons, based on the rationale that these little insects can be used as powerful, modern and engaging teaching tools.

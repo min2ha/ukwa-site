@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Incredible #activeYes scenes across Scotland today....
-
 <p>Yes Scotland post made at 3.28pm on the 13th of September, 2014.</p>

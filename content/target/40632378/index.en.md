@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# West Midlands Conservatives
-
 Website of West Midlands Conservative, providing information on news, events and Conservative MPs, MEPs and parliamentary candidates in the West Midlands.

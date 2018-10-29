@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Moorland Forum
-
 Site of a group of organisations acting as a forum for debate on the future of the Scottish uplands and its communities, issues affecting the uplands, and aiming to have a sustainable future for moorland through collaborative work.

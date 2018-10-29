@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Nick Clegg makes controversial election vow to decriminalise 'skunk' cannabis despite research linking it to mental illness 
-
 None

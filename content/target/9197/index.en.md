@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Charlotte Gilmartin Short Track Speed Skater on Twitter
-

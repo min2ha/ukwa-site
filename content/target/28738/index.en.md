@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Robert McSweeney (@rtmcswee) on Twitter
-
 Twitter feed of Robert McSweeney, science writer for Carbon Brief

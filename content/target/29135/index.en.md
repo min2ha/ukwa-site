@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Easter 1916 Centenary Committee
-
 Website of the London Easter 1916 Centenary Committee

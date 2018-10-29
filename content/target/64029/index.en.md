@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Change.org: Please create a legal exclusionary zone outside of abortion clinics
-
 An online petition to the Prime Minister Theresa May to create a legal exclusionary zone outside of abortion clinics. This would mean that prop life groups would not be able to approach people using the clinics services or hold vigils outside the clinic.

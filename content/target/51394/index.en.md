@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Visit Newcastleton
-
 Site of an organisation providing tourist information on businesses, amenities, accommodation and activities in the town of Newcastleton, Scottish Borders.

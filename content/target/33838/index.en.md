@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Fish Necropsy Manual
-
 A manual for the necropsy of ten important fish species in aquaculture or fisheries. 

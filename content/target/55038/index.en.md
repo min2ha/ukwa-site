@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jon Richardson
-
 Jon Richardson is a stand-up comedian from Lancaster. 

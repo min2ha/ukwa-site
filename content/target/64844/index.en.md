@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Andrew's Church Of Scotland, Liverpool on Facebook
-
 Site of a Church of Scotland parish church in Liverpool.

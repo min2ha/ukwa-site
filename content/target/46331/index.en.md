@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: employment law
-
 This short note discusses the interaction between UK and EU employment law; the potential consequences of Brexit; and the Government's position on the issue.

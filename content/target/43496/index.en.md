@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Kantar: Percentage of Scottish people who want to remain in EU decreases
-
 A poll on Scottish opinion in the EU Referendum, provided by Kantar, a research company that collects data.

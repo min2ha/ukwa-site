@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Public Record Office of Northern Ireland (PRONI)
-
 Official archive for Northern Ireland

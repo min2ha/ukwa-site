@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# Museums Association (MA)
-
 The Museums Association (MA) is a professional membership organisation based in London for museum, gallery and heritage professionals, organisations and companies that work in the sector.

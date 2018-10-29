@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Ubiquiti Store
-
 Ubiquitistore is IT solutions distributor.

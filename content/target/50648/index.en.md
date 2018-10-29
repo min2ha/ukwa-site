@@ -10,5 +10,3 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# University of Wales Trinity St David: Athrofa Llythrennedd Corfforol Cymru | Wales Institute of Physical Literacy
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gareth Derrick (@Gareth4Cornwall ) on Twitter (Labour Party Politician)
-
 Gareth Derrick stood as Labour Party candidate for South East Cornwall in the 2017 General Election but was not elected.

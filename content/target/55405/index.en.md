@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sheffield Political Economy Research Institute (SPERI)
-
 This interdisciplinary research institute at the University of Sheffield aims to bring together leading international researchers, policy-makers, journalists and opinion formers to develop new ways of thinking about the economic and political challenges posed for the whole world by the current combination of financial crisis, shifting economic power and environmental threat.

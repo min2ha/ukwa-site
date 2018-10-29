@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Annet House Museum and Gardens
-
 Site of a local museum for the town Linlithgow, West Lothian, with associated garden.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-22T10:00:00Z"
 }
 
-# Wales Air Forum: Home of Welsh Aviation, The
-

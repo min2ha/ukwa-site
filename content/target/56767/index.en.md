@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Jesus and Mo
-
 A weekly webcomic which deals in religious satire. Created under the pseudonym Mohammed Jones.

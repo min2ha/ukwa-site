@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# rhag: Rhieni Dros Addysg Gymraeg - Parents for Welsh Medium Education
-
 The Parents for Welsh Medium Education (RhAG) works to improve the provision of Welsh medium education for children throughout Wales. 

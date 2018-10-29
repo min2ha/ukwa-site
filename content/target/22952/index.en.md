@@ -10,6 +10,4 @@
   "start_date": "2015-04-29T09:00:00Z"
 }
 
-# ABCD Cymru
-
 ABCD Cymru is an ancronym for Access for Black and minority ethnic Children and young people with Disabilities and or chronic illnesses.

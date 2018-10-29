@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Is Britain ready to risk it with Brexit? Why everyone could be wrong about the EU referendum
-

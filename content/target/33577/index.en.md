@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cynghrair Undebol y Gogledd | Welsh Alliance Football League
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow City Council 
-
 None

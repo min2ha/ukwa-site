@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Health: "Free wi-fi to be available at 33 more acute and mental health trusts"
-
 Digital Health article about wi-fi at mental health trusts

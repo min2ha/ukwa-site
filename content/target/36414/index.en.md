@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Highlands and Islands Greens Scottish Greens
-
 Highlands and Islands branch of the Scottish Green Party.

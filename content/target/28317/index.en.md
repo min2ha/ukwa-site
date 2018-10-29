@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# British Legal Technology Forum
-
 British Legal Technology Forum is a legal technology conference and exhibition.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke-On-Trent Health and Wellbeing Board
-
 None

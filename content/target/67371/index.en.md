@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Provincial Booksellers Fairs Association
-
 Association of book dealers and organisers of book fairs.

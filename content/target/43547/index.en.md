@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit and Chill: the EU referendum in cartoons – gallery
-
 Brexit cartoons from The Guardian

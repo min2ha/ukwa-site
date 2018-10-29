@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: With Brexit we’re playing roulette with the UK’s future. But will we win?
-

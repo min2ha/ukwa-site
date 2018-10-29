@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Museums and Heritage
-
 Website dedicated to the museums and heritage sector. It has three parts: Show, Awards and Advisor.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint John Baptist
-
 Site of a Roman Catholic church in Scotland for the parish of Saint John the Baptist, Uddingston, Lanarkshire.

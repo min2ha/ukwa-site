@@ -10,5 +10,3 @@
   "start_date": "2011-09-05T00:00:00Z"
 }
 
-# Engaging Alumni Through PDP (EAT-PDP)
-

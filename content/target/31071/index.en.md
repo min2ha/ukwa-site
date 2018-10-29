@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Aberdeen Gaelic Choir / Còisir Ghàidhlig Obar Dheathain Facebook
-

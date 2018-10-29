@@ -10,5 +10,3 @@
   "start_date": "2013-06-25T00:00:00Z"
 }
 
-# Welsh Automotive Forum | Fforwm Modurol Cymru
-

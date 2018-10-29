@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Assembly: Northern Ireland’s environment - background and potential ‘Brexit’ considerations
-
 Research and Information Service Briefing Paper that considers some of the areas under environment that may be impacted by leaving the European Union.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# USA Today: Scotland's independence fever is contagious
-
 None

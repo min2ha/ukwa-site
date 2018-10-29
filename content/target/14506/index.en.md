@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Crucible
-
 <p>Welsh Crucible is about developing future research leaders for Wales and is led by Cardiff University in partnership with the universities of Aberystwyth, Bangor, South Wales and Swansea. It is supported by the Higher Education Funding Council for Wales.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Gareth Snell (@gareth_snell) on Twitter (Labour Candidate for Stoke-on-Trent By-election)
-
 Gareth Snell stood as Labour candidate for Stoke on Trent at the 2017 by-election and was elected to serve as MP, defeating the then UKIP leader Paul Nuttall. He then stood for re-election at the 2017 General Election and was successful. 

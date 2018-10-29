@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 7 things we learnt from the LBC Radio all-women General Election debate 
-
 None

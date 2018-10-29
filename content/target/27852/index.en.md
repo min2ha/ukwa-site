@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Edmundsbury Cathedral
-
 The official website of St Edmundsbury Cathedral, Suffolk.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Felixstowe Rugby Club
-
 Felixstowe Rugby Union Football Club are currently playing in Merit League 2. The first brick to the clubhouse was laid 75 years ago. 

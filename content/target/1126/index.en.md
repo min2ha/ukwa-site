@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Obesity, Physical Activity & Food in the West Midlands
-
 None

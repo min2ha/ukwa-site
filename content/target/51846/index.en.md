@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit negotiator Guy Verhofstadt attacks Theresa May's 'threat' to weaken EU security commitments
-
 The European Parliament's chief Brexit negotiator attacked Theresa May’s apparent threat to weaken security commitments to the EU if Britain is denied a trade deal.

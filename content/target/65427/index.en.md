@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Revival Live UK
-
 Revival Live UK is a provider of vintage style entertainment. With an array of offerings to suit every musical taste, our portfolio of exceptional vintage acts, artists, bands, musicians and theatre productions.

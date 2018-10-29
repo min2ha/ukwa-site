@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Tony Blair 'does NOT trust' the British public slams David Cameron amid EU referendum fury 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Kinlochshiel Shinty Club on Facebook
-
 Facebook page for a shinty club based at Balmacara, Wester Ross, Highland.

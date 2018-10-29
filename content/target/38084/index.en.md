@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OxfordForEurope (@OxfordForEurope) on Twitter
-
 Oxford local campaign for the UK to stay in the EU

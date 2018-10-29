@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# UCD Alumni London (@UCDAlumniLondon) on Twitter
-
 UCD Alumni in London, all are welcome. Chapter Representatives - David O'Reilly and Eoin Lyons.

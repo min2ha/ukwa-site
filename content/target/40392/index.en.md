@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# National Archives of Scotland
-
 Site of the National Archives of Scotland responsible for selection and preservation of and access to the national archives of Scotland, in whatever medium, to the highest standards while promoting the growth and maintenance of proper archive provision throughout the country and taking the lead in development of archival practice in Scotland.

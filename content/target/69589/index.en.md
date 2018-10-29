@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dundonald Elim Church | Pentecostal church
-

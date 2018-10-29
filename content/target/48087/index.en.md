@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Philip’s, Sheffield
-
 Official website of Saint Philip’s, Sheffield.

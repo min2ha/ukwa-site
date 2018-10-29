@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters: Britain's undecided voters may be persuaded for or against by more detail on the economic effect of Britain's decision in the EU Referendum
-
 Of undecided voters (~20%), many are middle-aged women who support Cameron's Conservatives and live outside London and Scotland, two of Britain's most pro-European areas, but are looking for more details on economic fallout of the decision to either remain or leave. 

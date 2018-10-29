@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Eurosceptics question motives for trade union bill climbdown
-
 Guardian, The

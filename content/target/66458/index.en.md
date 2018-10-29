@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Time is running out, big business warns May
-
 Reports that a  group of major European companies had warned the Prime Minister they might cut investment in the UK without more clarity over the terms of Britain's EU exit.

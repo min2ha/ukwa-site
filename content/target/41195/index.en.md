@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Railscot : a history of Britain's Railways
-
 Site dedicated to the history of UK railways, with an emphasis on Scottish lines and companies, and providing historic and modern photographs.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Tayside Tories : Perth & North Perthshire Conservative Association
-
 None

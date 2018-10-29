@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T10:00:00Z"
 }
 
-# Labour CfS (@LabourCfS) on Twitter:
-
 The twitter profile of the Labour Campaign for Socialism.

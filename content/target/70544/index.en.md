@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Warrington RUFC on Pitchero
-
 The official website of Warrington RUFC

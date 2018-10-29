@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Truth Scotland
-
 Site of an organisation that promotes Roman Catholicism and its ideas in Scotland.

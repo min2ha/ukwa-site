@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Methodist Youth Choir (BMYC)
-
 None

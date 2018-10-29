@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Campaign for Real Ale (CAMRA)
-
 CAMRA believes well-run pubs, whether in rural or urban areas, play a critical social role in UK culture as the centres of community life. CAMRA supports the traditional pub as the best place in which to enjoy real ale and to try one of the thousands of superb beverages now produced across the UK.
 

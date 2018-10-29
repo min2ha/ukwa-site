@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Ash Denham MSP
-
 Ash Denham is the Scottish National Party MSP for Edinburgh Eastern. 

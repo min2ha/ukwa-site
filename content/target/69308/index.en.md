@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of St Mary's Church at Caerau
-
 The medieval church of St Mary, sadly now a fragile ruin, stands on an Iron Age hill fort overlooking the ancient village of Caerau and the post-war housing estate of Ely. 

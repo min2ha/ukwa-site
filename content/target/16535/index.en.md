@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We all win when new trees are planted. Let's make it an election pledge 
-
 None

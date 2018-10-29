@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed still in denial on economy: Labour leader ‘proud’ of the profligacy that left Britain with giant deficit
-
 None

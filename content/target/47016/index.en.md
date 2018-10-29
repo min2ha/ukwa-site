@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen Warriors
-
 Site of a Rugby football league team based in Aberdeen.

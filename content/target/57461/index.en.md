@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Heavy Web Use Harms a Child's Mental Health 
-
 Daily Mail Article about mental health and web use with children

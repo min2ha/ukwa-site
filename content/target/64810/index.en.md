@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Bridgend Foodbank | Banc Bwyd Penybont ar Ogwr
-
 The foodbank network is part of The Trussell Trust. This is the foodbank for Bridgend.

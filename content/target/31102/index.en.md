@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# White Ice Cycle
-
 Maria Leijerstam became the first person in the world to cycle from the edge of the Antarctic continent to the South Pole.

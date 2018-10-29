@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# British Reformed Fellowship
-
 <p>British Reformed Fellowship was founded in 1990 by a group of Reformed Christians concerned for the defence of the Historic Reformed Faith in the British Isles. They publish 'The British Reformed Journal' and are involved in Christian education, benevolence and biblical ecumenism.</p>

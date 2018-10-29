@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# UK Polling Report: European Elections
-
 None

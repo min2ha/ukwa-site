@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Association of Deer Management Groups
-
 Site of a Scottish association committed to the welfare of deer and their habitat through sustainable management practices and protecting employment and rural communities where deer management is a major factor in economic land use.

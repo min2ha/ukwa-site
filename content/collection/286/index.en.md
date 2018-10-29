@@ -118,6 +118,4 @@
   "endDateText": ""
 }
 
-# Video Games
-
 This collection focusses on computer games in the UK and the surrounding culture and impact on society. Expected sub-themes include: games sites, forums, enthusiast sites and FAQs/walkthroughs, advertising, emulation, research/education. The collection will aim to capture games (eg. disk images, executables of remakes) or information about games (eg. maps, walkthroughs, FAQs) that is at risk of loss, as well as covering the cultural and societal impact of computer games (eg. research on impact of games on childrens development).

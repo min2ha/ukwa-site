@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Association of Corporate Treasurers : Brexit - keep calm and make a plan
-
 Regularly updated professional resources from the ACT for Brexit planning

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glasgow SDA Church
-
 Site of a Seventh-day Adventist church located in Glasgow.

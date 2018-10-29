@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Law Society of Scotland: Independence referendum 2014
-
 None

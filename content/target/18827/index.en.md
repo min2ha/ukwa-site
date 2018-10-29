@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Oxford Brookes University: On Liberty, Magna Carta and our future
-

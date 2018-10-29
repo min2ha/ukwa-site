@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Barnier: EU's Brexit negotiator seeks to clarify remarks
-
 Michel Barnier clarified remarks he was reported to have made about Brexit. The EU negotiator was quoted as saying he saw the process as an opportunity to "teach" the British people and others what leaving the single market means. Mr Barnier said he actually told a meeting it "was an occasion of great explanation for everyone in the EU". He was talking in Italy about explaining the benefits of the single market to a broad European audience, not just specifically the UK.

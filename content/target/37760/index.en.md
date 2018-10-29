@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Economic Performance: The consequences of Brexit for UK trade and living standards
-
 The economic consequences of leaving the EU will depend on what policies the UK adopts following Brexit. But lower trade due to reduced integration with EU countries is likely to cost the UK economy far more than is gained from lower contributions to the EU budget.

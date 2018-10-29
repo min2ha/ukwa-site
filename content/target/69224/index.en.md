@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Dublin threatens to BLOCK British planes from flying over its airspace if May does not meet EU's Brexit demands as PM visits Irish border
-
 Reports a threat by Leo Varadkar to stop British planes from flying over Irish air space in the event of a "no deal" Brexit

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories promise 'tax lock' in latest move to combat Labour
-
 None

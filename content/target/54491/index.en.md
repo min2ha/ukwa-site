@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Film Distributors' Association
-
 Film Distributors' Association Ltd. (FDA) is the trade body for theatrical film distributors in the UK - the companies that release films for UK  cinema audiences.

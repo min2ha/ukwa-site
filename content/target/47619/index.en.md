@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris blunders
-
 Argues that Boris Johnson's plan for an amnesty for illegal immigrants - amid claims that he supports for freedom of movement - is simply crackpot 
 

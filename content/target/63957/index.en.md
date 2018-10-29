@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ruchill Kelvinside Parish Church
-

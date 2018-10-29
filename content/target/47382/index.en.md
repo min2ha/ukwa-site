@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# paisley.org.uk
-
 Site promoting business, tourism and events in Paisley, Renfrewshire, Scotland.

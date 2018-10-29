@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Confederation of British Industry (CBI): Independence referendum
-
 <p>The latest on key issues for businesses in Scotland ahead of the referendum planned for 2014</p>

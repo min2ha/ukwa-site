@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Framework for the UK-EU Partnership Science, Research and Innovation
-
 This presentation is part of a series produced by the UK negotiating team for discussion with the EU, in order to inform the development of the future framework. It focuses on the UK’s proposals for continued cooperation on science, research and innovation.
 
 

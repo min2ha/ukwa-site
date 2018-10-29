@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ‘Scaremongers were wrong before and are wrong now’: Boris Johnson on why Britain must get out of EU
-
 Sun, The

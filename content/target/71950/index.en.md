@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The British Metal Detecting Forum
-
 A UK-based metal detecting forum

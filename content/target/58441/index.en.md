@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loopallu
-
 Site of an annual music festival in Ullapool, Highland. 

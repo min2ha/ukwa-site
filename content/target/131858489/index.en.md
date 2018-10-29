@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# North Wales Police & Crime Commissioner
-
 None

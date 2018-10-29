@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# BFI (@BFI) on Twitter
-
 The official Twitter account of the British Film Institute. 

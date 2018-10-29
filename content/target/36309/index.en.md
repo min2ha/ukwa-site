@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Cameron’s first EU referendum battle: shutting up his own MPs
-

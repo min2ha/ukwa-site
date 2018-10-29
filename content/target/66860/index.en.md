@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Incorporation of Bakers of Glasgow on Facebook
-
 Facebook page of a traditional trade and craft guild located in Glasgow - for bakers - now focusing on charitable work and promoting their trade.

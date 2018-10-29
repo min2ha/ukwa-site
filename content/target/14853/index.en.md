@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Timeline Photos: The SNP have now passed 50k members! 
-
 <p>Yes Scotland post a tweeted photograph made from Peter Murrell's profile: "The SNP have now passed 50k members!" at 11.53am on the 23rd of September, 2014.</p>

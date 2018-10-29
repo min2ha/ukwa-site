@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Bryde 
-
 Bryde is Welsh Londoner Sarah Howells, a singer, songwriter and guitarist.

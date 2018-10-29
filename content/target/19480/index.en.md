@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Surrey County Council: Magna Carta celebrations to showcase Surrey's stars of the future
-

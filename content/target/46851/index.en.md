@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After the Brexit vote, my pride in taking British citizenship is fading
-

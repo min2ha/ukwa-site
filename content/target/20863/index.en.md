@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cammy Day (@cllrcammyday) on Twitter
-
 The Twitter profile of Cammy Day, the Labour Party candidate for Edinburgh West in the UK General Election on the 7th May 2015.

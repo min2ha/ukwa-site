@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Cameron says 'not our policy to cut top rate of tax'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Synergy Singers
-
 Synergy is a close-harmony male voice choir singing a capella music in South Wales. 

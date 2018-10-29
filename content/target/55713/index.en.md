@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Wales National Lacrosse Team
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Disability Snowsport UK
-
 None

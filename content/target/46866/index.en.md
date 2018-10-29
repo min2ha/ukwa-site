@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: November 7th 2016: Exiting the EU and Workers’ Rights
-
 All the rights derived from membership of the EU will be imported into UK law through legislation in the Commons..

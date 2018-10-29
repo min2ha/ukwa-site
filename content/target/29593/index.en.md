@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Simon Weston
-
 Simon Weston is a Falkland's War Veteran, author, public speaker and charity supporter.

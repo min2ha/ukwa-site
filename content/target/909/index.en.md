@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sussex Community NHS Trust
-
 None

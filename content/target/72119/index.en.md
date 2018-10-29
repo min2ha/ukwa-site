@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Nasim Marie Jafry: Velo-gubbed Legs
-
 Blog written by author Nasim Marie Jafray.

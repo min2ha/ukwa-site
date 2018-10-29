@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Motherwell South Parish Church
-

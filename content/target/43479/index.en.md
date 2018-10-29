@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Impact: University of Nottingham Student Newspaper: EXCLUSIVE INTERVIEW WITH EDDIE IZZARD: “If You Want To Make Anything Different You Have To Be Inside Europe”
-
 An interview with comedian and Remain campaigner Eddie Izzard as part of his Stand Up for Europe tour, where he discusses reasons as to why university students should vote to Remain in Europe as well as his own personal motivations.  

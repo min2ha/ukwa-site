@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tapol: promoting human rights, peace and democracy in Indonesia 
-
 TAPOL works on a number of geographic and thematic issues in support of our mission to promote human rights, peace and democracy in Indonesia. 

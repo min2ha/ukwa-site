@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Dufftown
-
 Site providing local information and amenities for visitors to the town of Dufftown, Speyside, Moray, Scotland.

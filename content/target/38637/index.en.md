@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Chocolate Soldiers, The 
-
 The delivery of a participatory heritage project exploring the experiences of young recruits from Birmingham during WWI.

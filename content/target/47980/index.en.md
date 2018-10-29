@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# David South Consulting/Southern Innovator Magazine
-
 David South Consulting is a project management and communications service specialising in international development.

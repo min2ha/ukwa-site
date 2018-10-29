@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# National Service (Royal Air Force) Association
-
 The NS(RAF)A was formed in 2002 by a few ex RAF National Servicemen who thought that the era when National Service was common to all and was not only being forgotten but it was felt by so many that the recognised Veterans Associations did not cater for and were not interested in anything following WW2 ! - allied to that was the time factor which makes it necessary for this Association to be active now before it is too late for many of us.

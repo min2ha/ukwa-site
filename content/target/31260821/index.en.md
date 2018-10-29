@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# George Osborne [by R. Sobati]
-

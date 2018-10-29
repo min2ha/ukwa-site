@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# East Hampshire District Council
-
 The website of East Hampshire District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

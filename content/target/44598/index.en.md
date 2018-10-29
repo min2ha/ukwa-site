@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Royal College of Art Society (RCA Society)
-
 Royal College of Art Society was established in 1982 amalgamating with OSARCA (1912) for the benefit of graduates and associates of the Royal College of Art.

@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# eggbaconchipsandbeans
-
 Blog about cafes in London serving traditional English breakfast. It is run by Russell Davies.

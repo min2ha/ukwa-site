@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Amy Wadge
-
 Amy Wadge is a Wales-based singer-songwriter who won a Grammy Award for Song of the Year in 2016.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Canterbury Conservatives
-
 Website of Canterbury Conservatives, providing information on representatives and candidates for MP, District Councillors, County Councillors, events and local, national and Westminster news updates.

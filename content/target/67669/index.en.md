@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Round-A-Bouts of Great Britain
-
 Website of the UK Roundabout Appreciation Society

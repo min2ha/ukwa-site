@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Fine Art Society in Edinburgh
-
 Site of a commercial art gallery located in Edinburgh, Scotland.

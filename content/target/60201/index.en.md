@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Chedworth Remembers the Great War 
-
 The first stage of the project was the restoration of the Roll of Honour in the church porch. This was completed in November 2014 with the assistance of the Heritage Lottery Fund and village charities.

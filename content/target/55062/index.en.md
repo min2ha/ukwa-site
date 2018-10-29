@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Hollybank Trust
-
 Hollybank Trust support and educate over a hundred children and adults at their special school, residential homes and adult daytime activity programme.

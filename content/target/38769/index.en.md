@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservative donors to give £5m to Brexit campaign
-
 Guardian, The

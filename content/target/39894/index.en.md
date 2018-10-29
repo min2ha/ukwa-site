@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Scottish Diaspora Tapestry
-
 Site of a project to involve communities around the world in celebration of Scottish heritage and culture, the people and places which connect Scotland to its global diaspora through the creation of a graphic tapestry. Site in Gaelic and English.

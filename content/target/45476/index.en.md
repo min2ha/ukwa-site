@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Leighton Library
-
 Site of an historic library located in Dunblane, Stirling, Scotland.

@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire County Council: The Queen's Diamond Jubilee Celebrations
-

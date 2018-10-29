@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: MPs could be told to vote for a 'blind Brexit' as Brussels plots a vague offer on future trade to finalise the divorce bill
-
 MPs could be ordered to vote for a 'blind Brexit' as Brussels prepared to back a vague statement on future trade in a bid to finalise Britain's divorce deal and transition deal. EU officials said the 'priority was to get the withdrawal agreement done' to ensure Britain did not crash out without a deal. 

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# TimeTravel-Britain.com
-
 A detailed travel website with historical places to visit around Great Britain.

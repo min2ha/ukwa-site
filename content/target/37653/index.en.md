@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron must end 'sinister culture of spin and intimidation' at No10 over EU referendum, warns Brexit-backer John Longworth
-

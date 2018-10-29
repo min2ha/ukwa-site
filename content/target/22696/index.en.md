@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tracey Crouch (Conservative)
-
 Tracey Crouch stood as Conservative candidate for Chatham and Aylesford at the 2015 General Election. She was first elected to serve as MP for Chatham and Aylesford in 2010 and re-elected in 2015.

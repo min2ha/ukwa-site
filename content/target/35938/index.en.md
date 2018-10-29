@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Lennox Heritage Society
-
 Site for a local history group aiming to study and celebrate the rich culture, heritage and history of West Dunbartonshire, Scotland.

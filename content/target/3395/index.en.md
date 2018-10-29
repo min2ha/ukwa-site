@@ -11,7 +11,5 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Association of Britain
-
 The Muslim Association of Britain (MAB) is a UK organisation founded in 1997; we are dedicated to serving society by promoting the accepted understanding of Islam with its spiritual teachings, ideals, civil concepts and moral values, all directed towards serving humanity. MAB seeks to reach out to people using reasoned and logically grounded argument.
 An organisation encouraging Muslims to be pro-active in participating in British society.</p>

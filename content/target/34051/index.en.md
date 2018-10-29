@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# University Council of Modern Languages, The 
-
 Represents the views and opinions of scholars and professionals in modern languages to Government, the funding councils and other bodies at national level.

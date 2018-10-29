@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Mearns Community Web
-
 Site providing community news for the Mearns area of North East Scotland, focusing mainly on Auchenblae through the Auchenblae Messenger and St. Cyrus, but providing information for a wide range of communities.

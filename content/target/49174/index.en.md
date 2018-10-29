@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Express: 'GOOD NEWS!' Farage joyous as latest Brexit legal challenge BLOCKED by High Court
-
 THE High Court has blocked the latest legal bid to tie the UK to the European Single Market post-Brexit

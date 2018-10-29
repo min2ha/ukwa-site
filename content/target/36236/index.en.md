@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brand EU
-
 Brand EU is generating a people movement for the millions that believe in European unity’ and as part of its campaign to keep Britain in the EU, is tackling many of the myths that have built up around EU membership.

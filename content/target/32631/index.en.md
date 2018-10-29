@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# MediaWise
-
 An independent charity, supported by journalists, lawyers and politicians, to campaign for ethical behaviour by the media. Their website includes reports, articles and submissions to inquiries on a range of topics including press freedom and regulation.

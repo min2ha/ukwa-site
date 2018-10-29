@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lib Dem Dan | Dan Farthing-Sykes
-
 This is the website for Dan Farthing-Sykes, Liberal Democrat candidate for Edinburgh South West in the 7th may 2015 UK General Elections.

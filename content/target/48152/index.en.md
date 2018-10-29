@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Papurau Alun Lewis | Alun Lewis Papers
-
 Alun Lewis was a well known Anglo-Welsh poet, regarded by many as Britain’s finest Second World War poet. The Alun Lewis Papers are a collection of manuscripts and papers presented to the National Library by his widow. Manuscript 1 is a collection of papers relating to his first edition of poems Raiders' Dawn and other poems, published in 1942.

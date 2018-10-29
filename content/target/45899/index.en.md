@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Word Distillery, The - Poetry in Performance
-
 The Word Distillery is a group of poets based at Aberystwyth Arts Centre who perform their work and the work of celebrated poets.

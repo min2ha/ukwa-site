@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Rare rhino dies; Ebola re-emerges in Liberia; and Pfizer–Allergan in mega-merger.
-
 The week in science: 20–26 November 2015.

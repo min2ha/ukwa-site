@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saltcoats North Parish Church
-

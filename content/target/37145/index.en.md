@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: What if...? The consequences, challenges and opportunities facing Britain outside the EU
-
 A report about the consequences, challenges and opportunities facing Britain outside the EU

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holburn West Parish Church
-
 Holburn West Church is a Church of Scotland Parish located in Aberdeen. The original church building was completed in 1894. 

@@ -11,6 +11,4 @@
   "subject": "Pandemic Influenza"
 }
 
-# 24dash.com
-
 None

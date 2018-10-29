@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Institute of Credit Management
-

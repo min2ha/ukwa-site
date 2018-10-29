@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.595877", 
+  "date": "2018-10-29T13:22:21.863709", 
   "open_access": false, 
   "target_url": "http://www.bbc.co.uk/news/world-24899001", 
   "description": null, 
   "end_date": null, 
   "title": "BBC News: Typhoon Haiyan: Before and after the storm", 
-  "record_id": "20181029T125514/PTmVGicBhlhsPv72jB26OQ==", 
+  "record_id": "20181029T132221/PTmVGicBhlhsPv72jB26OQ==", 
   "publisher": "bbc.co.uk", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# BBC News: Typhoon Haiyan: Before and after the storm
 
 None

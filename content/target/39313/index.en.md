@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Пульс UK / Puls UK [Pulse UK]
-
 A Russian-language daily first published in September 2005. 

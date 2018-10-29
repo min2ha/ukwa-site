@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Jenkins (heljinx) on Twitter
-
 Twitter profile of triathlete Helen Jenkins, member of Team Wales at the Glasgow 2014 Commonwealth Games.

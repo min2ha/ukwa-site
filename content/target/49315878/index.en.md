@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Dad's Army Appreciation Society, The
-
 The website is dedicated to the hit BBC comedy series 'Dad's Army' which ran for nine years from 1968 until 1977. It spawned a full length feature film, a radio series and a musical stage show.

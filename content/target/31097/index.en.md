@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# This is Dairy Farming
-
 This is Dairy Farming is a website dedicated to dairy farmers and the cows they look after.

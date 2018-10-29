@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Ireland will be better off QUITTING the EU after Brexit because the country is likely to get a bad deal after Britain leaves, think tank claims   
-

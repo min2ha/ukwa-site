@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Economic Performance
-
 The CEP studies the determinants of economic performance at the level of the company, the nation and the global economy by focusing on the major links between globalisation, technology and institutions (above all the educational system and the labour market) and their impact on productivity, inequality, employment, stability and wellbeing

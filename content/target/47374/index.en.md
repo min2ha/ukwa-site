@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Buchanhaven Hearts Junior Football Club
-
 Site of a Scottish junior football club based in Peterhead, Aberdeenshire, Scotland.

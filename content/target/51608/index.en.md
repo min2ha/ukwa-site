@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Island House: Birthplace of the Welsh Revivalist, Evan Roberts
-
 Island House remained in the Roberts family, throughout the Revivalist period, until the 1950's. It is now a bed and breakfast.

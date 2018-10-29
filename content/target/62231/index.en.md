@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rochdale A.F.C.
-
 Rochdale Association Football Club is a professional football club based in the town of Rochdale, Greater Manchester, England, that competes in League One, the third-highest division overall in the English football league system. 

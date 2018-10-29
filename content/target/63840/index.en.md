@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Genealogy in Hertfordshire
-
 The Genealogy in Hertfordshire web site provides a free service for people whose family history research relates to Hertfordshire.

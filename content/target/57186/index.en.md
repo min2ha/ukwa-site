@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Glyncorrwg Ponds | Canolfan Ymwelwyr Payllau Glyncorrwg
-
 Glyncorrwg Ponds is a coal mining centre located within Afan Country Park near Port Talbot.

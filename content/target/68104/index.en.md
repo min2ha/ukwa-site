@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Association of Speech and Language Therapists in Independent Practice (ASLTIP))
-
 The Association of Speech and Language Therapists in Independent Practice (ASLTIP) provides information and a contact point for members of the public searching for an independent Speech and Language Therapist.

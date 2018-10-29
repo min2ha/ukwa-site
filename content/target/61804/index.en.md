@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Catbrook village
-
 A community website for the village of Catbrook, a small village in Monmouthshire.

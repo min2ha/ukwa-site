@@ -10,5 +10,3 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# 3 Valleys Birding - Exploring the north of Glamorgan
-

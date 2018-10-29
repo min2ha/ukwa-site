@@ -10,6 +10,4 @@
   "start_date": "2014-04-10T04:15:00Z"
 }
 
-# Archbishop of Canterbury, The, on Facebook
-
 None

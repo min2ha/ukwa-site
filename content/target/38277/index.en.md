@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# EU in or out
-

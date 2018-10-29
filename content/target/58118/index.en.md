@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Mhealbhaich / Melvich Gaelic Choir Blogspot
-
 Blogspot for a Gaelic language choir located in Melvich, Sutherland.

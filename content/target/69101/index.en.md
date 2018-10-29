@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# International Women in Engineering Day
-
 An international awareness campaign to raise the profile of women in engineering

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Public Health Observatory
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# Save Leith Walk
-
 Site of a grassroots public campaign to prevent the demolition of a building and protect the heritage of the Leith Walk.

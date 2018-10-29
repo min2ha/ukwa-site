@@ -10,6 +10,4 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Devolved Voices
-
 Devolved Voices is a three-year project based at Aberystwyth University and will investigate the state of Welsh poetry in English since Wales’s devolution ‘yes’ vote of 1997. 

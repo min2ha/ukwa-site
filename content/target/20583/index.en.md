@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish tactical voting campaigns launch over SNP landslide fears 
-

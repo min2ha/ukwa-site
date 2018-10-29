@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Gwernaffield and Pantymwyn
-
 <p>This is the community council site for the villages of Gwernaffield and Pantymwyn in Flintshire.</p>

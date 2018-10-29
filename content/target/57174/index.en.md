@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Our Chartist Heritage
-
 Our Chartist Heritage (OCH) promotes Chartist Heritage and Citizenship Education and  raises the profile of the Chartist heritage of the City of Newport.

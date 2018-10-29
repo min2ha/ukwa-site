@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Watch out for Liberal Democrat 'dirty tricks' campaign, Tories warn candidates
-
 None

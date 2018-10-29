@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Arsyllfa Economaidd Gogledd Cymru | North Wales Economic Observatory
-
 The North Wales Economic Observatory supports the work of the North Wales Economic Ambition Board and its single, joined up vision for economic and employment growth for North Wales.

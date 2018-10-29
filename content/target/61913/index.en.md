@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Bromwich Albion (@WBA ) on Twitter
-
 The official Twitter account of West Bromwich Albion Football Club.

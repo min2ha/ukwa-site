@@ -10,6 +10,4 @@
   "start_date": "2005-05-18T00:00:00Z"
 }
 
-# Edinburgh UNESCO City of Literature
-
 None

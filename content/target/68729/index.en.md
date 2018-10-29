@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Police Service of Northern Ireland (PSNI): Domestic Abuse
-
 Accessible Domestic Abuse advice and information from the Police Service of Northern Ireland (PSNI)

@@ -10,6 +10,4 @@
   "start_date": "2017-11-04T09:00:00Z"
 }
 
-# Kirsty Fife (@kirstyfife) on Medium
-
 Kirsty Fife is an archivist, writer, musician and cultural organiser based in Leeds. This is her Medium profile.  

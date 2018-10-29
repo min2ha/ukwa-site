@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joe FitzPatrick for Dundee City West on Facebook
-

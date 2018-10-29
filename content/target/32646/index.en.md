@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# South East London Meccano Club
-
 A London club for Meccano model builders, started by Chris Warrell in 1976. The the website includes an archive of model photos, articles from the club newsletter and reports from events the club attends.

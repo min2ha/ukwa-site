@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Caergwrle and Hope ‘War Stories’ – Community Education Project
-
 Project focussing on the men and women from Caergwrle and Hope villages who fought and died during the First World War.

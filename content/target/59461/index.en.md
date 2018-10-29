@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Fungi
-
 An online enthusiast community forum concerned with fungi. Discusses various types of fungus and other wildlife.

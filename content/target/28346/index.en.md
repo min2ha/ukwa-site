@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Gilded Balloon
-
 Website for the Gilded Balloon a comedy venue in Edinburgh established in 1986 and which is now one of the largest and well known venues at the Edinburgh Festival Fringe.

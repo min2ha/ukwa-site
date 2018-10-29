@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Epping Forest District Council: Tour de France
-
 Tour de France web page for Epping Forest District Council

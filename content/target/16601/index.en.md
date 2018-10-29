@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Labour party of my dreams would stand up for poorer people. Where is it?
-
 None

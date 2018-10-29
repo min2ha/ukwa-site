@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark’s, Hamilton Terrace
-
 St Marks’s Church was consecrated by the Bishop of London on 24th June 1847, and has enjoyed a history of education and literary associations and, for most of the time, moderate, non-partisan churchmanship ever since. As well as the cure of souls, finance and building have presented continuing challenges, as much in the heyday of the 19th-century pew-renting congregations as today.

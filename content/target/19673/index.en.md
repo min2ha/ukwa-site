@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Somerset Green Party
-
 Website of Somerset Green Party, providing information on candidates, representatives, party officers, campaigns and party news.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary For Argyll
-
 Mary Galbraith is the Labour Parliamentary candidate for Argyll and Bute in the 2015 General Election.

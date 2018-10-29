@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Gravity Enduro Series
-
 Enduro is a form of motorcycle sport run on extended cross-country and off-road courses.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Green party’s role is to put pressure on Labour, concedes Caroline Lucas
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 3rd July 2018: Leaving the EU: Implications for Scotland
-
 Report of a Westminster Hall debate secured by Patricia Gibson MP on the implications of leaving the EU for Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# Kincraig Shinty Club on Facebook
-
 Site of a shinty club based at Kincraig, Highland, Scotland.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: Defiant hoarder vows to fight council's clear-up order... using the Magna Carta!
-

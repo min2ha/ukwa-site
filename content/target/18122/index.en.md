@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Sir John Major warns Ed Miliband to rule out pact with SNP or risk UK break-up
-
 None

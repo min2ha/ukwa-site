@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# BRITDOC Foundation
-
 BRITDOC Foundation is a non-profit founded in 2005 committed to enabling great documentary films and connecting them to audiences globally.

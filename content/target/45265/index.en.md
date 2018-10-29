@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Clan Donald Centre
-
 Site of a visitor centre located in Skye focussing on the heritage and estate of the Clan Donald.

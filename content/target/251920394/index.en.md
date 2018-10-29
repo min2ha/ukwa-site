@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Claudia Beamish MSP | Standing up for South Scotland
-
 The website of Claudia Beamish, Scottish Labour Member of the Scottish Parliament for South Scotland.

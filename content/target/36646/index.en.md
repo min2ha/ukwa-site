@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Healthier in the EU
-
 Healthier IN the EU is a grassroots campaign set up to raise the voice of UK health professionals, carers, patients and researchers in the EU referendum debate.

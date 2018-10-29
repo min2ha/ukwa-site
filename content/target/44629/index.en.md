@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# M & G Investments: M&G Real Estate Perspectives Brexit: implications for real estate
-
 International asset manager

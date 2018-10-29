@@ -10,5 +10,3 @@
   "start_date": "2016-10-22T10:00:00Z"
 }
 
-# Sennybridge Show
-

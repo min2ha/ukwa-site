@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Bridge over troubled legal water? Legal issues of the Brexit transition period 
-
 Theresa May's speech in Florence in September 2017 gave a rough indication of the basic legal architecture that the UK government would like to govern its relationship with the EU for a transition period after Brexit Day. This blog post comments on this proposed framework

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bennochy Parish Church of Scotland, Kirkcaldy
-
 Site of a Church of Scotland parish church in Kirkcaldy, Fife incorporating the former parish churches of St. Andrew's and St. John's, Kirkcaldy.

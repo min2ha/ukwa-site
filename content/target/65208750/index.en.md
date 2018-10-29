@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# inside the games: London 2012
-

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Glens of Antrim Historical Society, The
-
 None

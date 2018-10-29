@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Llangefni Rugby Football Club
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julia Dobson (@Julia4Labour) on Twitter (Labour candidate for Ynys Mon)
-
 Julia Dobson is the Labour candidate for Ynys Mon at the 2016 National Assembly Election. 

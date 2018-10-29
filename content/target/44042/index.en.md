@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T11:00:00Z"
 }
 
-# Broadcasting Scotland
-
 Broadcasting Scotland is an independent new media service. Broadcasting Scotland evolved from Referendum TV which had been originally established to cover Scotland’s Independence Referendum.

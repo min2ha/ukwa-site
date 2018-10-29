@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Cyd Cymru/Wales Together collective energy switch
-
 Cyd Cymru is led by the City of Cardiff and the Vale of Glamorgan councils, and delivered in partnership with the Energy Saving Trust in Wales, and the energyhelpline and provides advice to households on how to reduce carbon emissions, reduce fuel bills, use water more sustainably at home.

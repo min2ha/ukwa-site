@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Gary Innes
-
 Gary Innes is an accordionist and broadcaster.

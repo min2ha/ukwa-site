@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shoppie, The
-
 A community forum serving Arbroath, Angus, Scotland, United Kingdom.

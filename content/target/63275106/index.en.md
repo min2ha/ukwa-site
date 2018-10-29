@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Freshfields Bruckhaus Deringer: London 2012
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University Hospitals Of Morecambe Bay
-
 None

@@ -10,8 +10,6 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Communications and Internet Services Adjudication Scheme (CISAS)
-
 CISAS is a free and independent ADR service approved by the UK communications regulator, Ofcom. 
 Individuals and small businesses (with 10 or fewer employees) can use CISAS to settle their disputes with 
 communication providers (CPs) registered with CISAS. CISAS is run by IDRS.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Dolen Cymru | Wales Lesotho Link
-
 Dolen Cymru is an independent charity which fosters links between Wales and Lesotho.  Since 1985 links between the two countries have been created by various communities, schools, health organisations and individuals.

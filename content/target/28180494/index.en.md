@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# jazz composer, the
-
 The owner of the site James Graham Collier OBE (1937-2011) was an English jazz bassist, bandleader and composer.

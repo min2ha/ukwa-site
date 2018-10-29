@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Wales Beach Guide
-
 This is a guide by Alistair Haire to all the beaches on the entire coast of Wales, Somerset and the Wirral (Cheshire). He has visited all Welsh beaches taking photographs and exploring each one in details. There are 468 beaches listed on his site.

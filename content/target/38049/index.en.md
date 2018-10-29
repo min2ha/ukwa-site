@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# greenwichstrongerin (@GreenwichInEU) on Twitter
-
 The Greenwich #strongerin Campaign Group.

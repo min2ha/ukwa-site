@@ -10,5 +10,3 @@
   "start_date": "2012-10-12T00:00:00Z"
 }
 
-# E-Book Acquisition as a Shared Service in M25 (E-BASS25)
-

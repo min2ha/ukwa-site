@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Mail: How British taxpayers fund 'Marxist' manifesto for European superstate
-
 None

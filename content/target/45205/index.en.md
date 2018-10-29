@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Let us sell in pounds and ounces, say post-Brexit grocers: Traders demand right to use imperial measures again after they were axed to comply with EU regulations    
-

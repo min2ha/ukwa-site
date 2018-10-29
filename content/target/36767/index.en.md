@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alexandra Phillips (@AlexUKIP) on Twitter (UKIP candidate for South Wales Central)
-
 Alexandra Phillips is the UKIP candidate for South Wales Central at the 2016 National Assembly for Wales Elections.

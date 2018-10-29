@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bedlam Fringe
-
 Bedlam is the University of Edinburgh's student theatre company. This is the website for its Edinburgh Fringe Festival programme.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-29T10:00:00Z"
 }
 
-# MoneyFarm
-
  MoneyFarm are an online investment advisor and are regulated by the FCA.

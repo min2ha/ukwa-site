@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Belfast FC (@EastBelfastFC) on Twitter
-
 The official Twitter account of East Belfast Football Club. Est in 1929.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Langside Community Heritage on Twiiter
-
 Twitter page of a community heritage group based in Langside, Glasgow.

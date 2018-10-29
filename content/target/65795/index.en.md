@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Dazed & Confused: Abortion
-
 All articles published on Dazed & Confused related to abortion. 

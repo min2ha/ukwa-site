@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Troops Out Movement 
-
 The Troops Out Movement continue to campaign for the removal of the British establishment from the north of Ireland and for self-determination for the Irish people as a whole.

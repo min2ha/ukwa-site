@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Pete Muswell (@UkipPete) on Twitter (UKIP Politician)
-
 Pete Muswell stood as UK Independence Party (UKIP) candidate for Islington South and Finsbury in the 2017 General Election but was not elected.

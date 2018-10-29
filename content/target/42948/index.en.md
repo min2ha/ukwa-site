@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# One New Change
-
 Website for events space near St Paul's, London offerint eating, drinking, entertainment, shopping

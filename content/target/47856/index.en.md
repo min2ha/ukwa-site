@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Active Travel portal | Teithio Llesol
-
 This system is designed for use by Welsh County and Unitary Authorities.  The system requires a user account and login which are supplied by the Welsh Government to authorised users.

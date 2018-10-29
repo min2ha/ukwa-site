@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Are LGBT people safe with the Tories?' asks Attitude magazine
-
 None

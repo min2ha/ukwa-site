@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tranent Juniors Football Club
-
 Site for a Scottish junior football club based in Tranent, East Lothian.

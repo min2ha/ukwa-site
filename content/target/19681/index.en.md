@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haltemprice and Howden Liberal Democrats
-
 Website of Haltemprice and Howden Liberal Democrats, providing information on candidates and representatives, how to get involved, local, national and party news.

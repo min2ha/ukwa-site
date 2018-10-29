@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lyn Hudson on Twitter (Conservative candidate for Cynon Valley)
-
 Lyn Hudson is the Conservative candidate for North Wales at the 2016 National Assembly Election. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Andrews Ales
-
 Site of a brewer located at Cummertrees, Annan, Dumfries & Galloway.

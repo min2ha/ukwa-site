@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Staffs Women's Aid (@StaffsWomensAid) on Twitter
-
 Standing Together Against Domestic and Sexual Violence in Staffs. 

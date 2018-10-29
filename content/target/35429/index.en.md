@@ -11,5 +11,3 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Royal College of Obstetricians and Gynaecologists: Interim clinical guidelines on Zika virus infection and pregnancy
-

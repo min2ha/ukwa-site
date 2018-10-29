@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hamilton Old Parish Church
-
 Site of a Church of Scotland parish church at Hamilton, Lanarkshire, incorporating Hamilton North church.

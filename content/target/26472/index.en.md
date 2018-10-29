@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish independence activists ambush Labour election rally
-
 None

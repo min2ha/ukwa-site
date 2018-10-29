@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Brown (Green Party)
-
 Ross Brown stood as Green Party candidate for Belfast East at the 2015 General Election but was not elected.

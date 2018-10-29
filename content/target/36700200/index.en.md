@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Northern Ireland Museums Council (NIMC)
-
 The Northern Ireland Museums Council supports local museums across Northern Ireland in maintaining and improving their standards of collections care and public services.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Upton Pyne
-
 The Upton Pyne Parish Council Website is a source of information for the communities of Cowley and Upton Pyne.

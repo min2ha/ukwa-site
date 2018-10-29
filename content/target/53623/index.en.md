@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Gwulo: Old Hong Kong
-
 Although based in Hong Kong, this English-language website documents Hong Kong's history under British rule, and receives regular contributions from members in the UK. 

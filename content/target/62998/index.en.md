@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Echt and Midmar Church of Scotland
-
 Site of two Church of Scotland parish churches at Echt and Midmar, Aberdeenshire.

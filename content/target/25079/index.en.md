@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband: The stakes at the General Election are the future of your family and the NHS 
-
 None

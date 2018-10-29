@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Glow : Digital Learning for Scotland
-
 Site of a nationally available digital environment and designed to support learning across the whole curriculum, funded by the Scottish Government and managed by Education Scotland, Glow provides a safe, online environment for educators, learners and parents to communicate and collaborate using services such as Glow Blogs, Microsoft Office 365, Glow RM Unify Launch Pad and Glow Meet.

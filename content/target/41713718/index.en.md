@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Elections in the News
-
 None

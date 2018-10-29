@@ -10,6 +10,4 @@
   "start_date": "2006-02-16T00:00:00Z"
 }
 
-# ERoSH, the national consortium for sheltered and retirement housing.
-
 None

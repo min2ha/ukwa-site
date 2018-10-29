@@ -10,6 +10,4 @@
   "start_date": "2016-08-02T10:00:00Z"
 }
 
-# Blake Theatre
-
 The Blake is a theatre in the town of Monmouth.

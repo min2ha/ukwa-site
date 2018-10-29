@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The 1916 Easter Rising in a global perspective: the revolution that succeeded?
-
 Announcement for conference at Churchill College ambridge

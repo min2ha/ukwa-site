@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Andium Homes
-
 Website for Andium Homes. In July 2014, the States of Jersey Housing Department became Andium Homes; a States owned company that operates outside of the States of Jersey organisation.

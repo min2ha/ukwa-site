@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Times: Social Media is bad for your Mental Health Facebook admits
-
 The Times: An article discussing the effect of social media on mental health

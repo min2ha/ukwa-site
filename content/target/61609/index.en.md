@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st February 2018: European Union (Withdrawal) Bill
-
 Lords Committee Stage debate on Amendments to clause 1 of the European Union (Withdrawal) Bill, repeal of the European Communities Act 1972

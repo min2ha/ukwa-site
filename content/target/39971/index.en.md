@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Matthew Kidner on Facebook (Liberal Democrats candidate for Islwyn)
-
 Matthew Kidner is the Liberal Democrats candidate for Islwyn at the 2016 National Assembly Election. 

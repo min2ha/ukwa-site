@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne: Families £350 worse off under Ed Miliband and the SNP
-
 None

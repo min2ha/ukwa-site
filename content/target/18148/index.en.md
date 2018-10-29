@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 'Humourless people tend to vote Labour'
-
 None

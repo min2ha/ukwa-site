@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: I will pass new law to guarantee TV election debates
-

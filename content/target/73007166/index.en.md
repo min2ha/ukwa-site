@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Dreamcast Junkyard
-
 <p>Blog dedicated to the community of gamers who continue to play Dreamcast games online, despite the fact they were officially discontinued in 2002.</p>

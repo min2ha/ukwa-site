@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM speech on science and modern Industrial Strategy: 21 May 2018
-
 In this speech, the Prime Minister made a strong commitment to "fully associate" the UK with the EU's £68bn research programme post-Brexit. She May said the UK would be willing to make "an appropriate contribution" and in return it would expect a "suitable level of influence".
 
 

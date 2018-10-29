@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Education Otherwise (EO)
-
 Education Otherwise is a membership-based organisation that provides support and information for families whose children are being educated outside school, and for those who wish to uphold the freedom of families to take proper responsibility for the education of their children.

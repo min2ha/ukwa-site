@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Lodge St. Andrew Livingston Station No. 1587
-
 Site of a masonic lodge located in Deans, Livingston, West Lothian and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Scottish Conservatives: Murray Tosh
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Old Monkland Parish Church
-
 Old Monkland Parish Church.

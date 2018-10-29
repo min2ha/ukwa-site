@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Stewartry Archaeological Trust
-
 Site of an archaeological society based and interested in the archaeology of Galloway, Scotland.

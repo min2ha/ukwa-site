@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# The FIA: Promoting professional fire safety
-
 The FIA is a not-for-profit trade association with the aim of promoting the professional status of the UK fire safety industry.

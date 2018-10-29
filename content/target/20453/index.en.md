@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron aims to woo voters with plan for 200,000 discounted homes
-
 None

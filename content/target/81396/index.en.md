@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gloucester Old Boys RFC on Pitchero
-
 The official website of  Gloucester Old Boys Rugby Football Club.

@@ -10,5 +10,3 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Joy Division Central
-

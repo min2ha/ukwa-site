@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Peterborough: where Labour is struggling to woo the left-behind
-
 None

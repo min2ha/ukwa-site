@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Literary London Society
-
 <p>Site of the London Literary Society, formed "to "foster interdisciplinary and historically wide-ranging research into London literature in its historical, social, and cultural contexts, to include all periods and genres of writing and representation about, set in, inspired by, or alluding to central and suburban London and its environs, from the city's roots in pre-Roman times to its imagined futures."</p>

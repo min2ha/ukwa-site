@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan Caerdydd a Bro Morgannwg | Cardiff and Vale Learning Centre
-
 Y Bont is the Centre for Welsh Learners for the Cardiff and the Vale of Glamorgan areas.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Highlands and Islands European Partnership, The (HIEP)
-
 A partnership between key public agencies in the Highlands and Islands who are involved in the economic development of the Highlands and Islands of Scotland and the delivery of the Structural Funds Programmes.

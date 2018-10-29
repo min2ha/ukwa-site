@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Friends of Pontardawe Arts Centre
-
 The Friends of Pontardawe Arts Centre is a community group established to support Pontardawe Arts Centre.

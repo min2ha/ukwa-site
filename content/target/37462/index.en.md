@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UCL European Institute: The EU deal- what does it mean for immigration and benefits?
-
 A closer look at David Cameron’s EU deal, and asks what impact it may have on immigration to the UK, free movement of EU citizens, and the contested issue of access to in work benefits in the UK.

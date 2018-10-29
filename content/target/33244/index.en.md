@@ -10,6 +10,4 @@
   "start_date": "2015-12-05T09:00:00Z"
 }
 
-# St John Cymru - Wales
-
 St John Cymru - Wales is the country's leading first aid charity. It is also known as St John Ambulance Wales and the Priory of Wales for the Most Venerable Order of the Hospital of St John of Jerusalem.

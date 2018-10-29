@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May's failure to mention Chequers 'gives Barnier hope'
-
 Michel Barnier, the EU’s chief negotiator, took Theresa May’s failure to namecheck Chequers in her 2018 Tory conference speech as a sign that she might be ready to dump the plan and get realistic, according to sources in Brussels.
 

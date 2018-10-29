@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Strathdearn Community Website
-
 Community website for the district if Strathdearn, Highlands (including Moy and Tomatin) providing residents and visitors with information about local events including church affairs.

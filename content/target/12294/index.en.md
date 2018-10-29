@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian, The: Top 10 facts you didn't know about the first world war
-
 None

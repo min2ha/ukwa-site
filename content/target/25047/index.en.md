@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I would rather not be PM than do a deal with the SNP, says Miliband
-
 None

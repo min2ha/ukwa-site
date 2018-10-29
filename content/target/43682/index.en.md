@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The Lake
-
 Monthly contemporary poetry webzine

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: No wonder the Tories are panicking David Cameron can't win the election
-

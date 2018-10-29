@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# Scottish Government, The: Scotland and the Slave Trade
-
 one off crawl

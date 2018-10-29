@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP MEPs in the EU Parliament
-
 Website of the UKIP MEPs

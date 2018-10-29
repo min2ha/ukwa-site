@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May sets collision course with Brussels vowing Britain WON'T be bound by EU fisheries and farming rules during Brexit transition as she demands 'bespoke' deal   
-

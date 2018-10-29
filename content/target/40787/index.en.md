@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Burntisland Parish Church on Facebook
-
 Facebook page of a Church of Scotland church and community located in Burntisland, Fife.

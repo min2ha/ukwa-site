@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Has he gone MAD?' Brexiteers round on Nigel Farage after former UKIP leader calls for ANOTHER EU referendum saying it is the only way to 'kill off' the issue for good   
-

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# UKIP in the Senedd (@UKIPinWales) on Twitter 
-
 Twitter account for the UKIP Group in the National Assembly for Wales.

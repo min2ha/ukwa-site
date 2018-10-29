@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yam Yam, The (Black Country)
-
 None

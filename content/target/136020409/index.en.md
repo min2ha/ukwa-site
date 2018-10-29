@@ -10,5 +10,3 @@
   "start_date": "2013-05-01T00:00:00Z"
 }
 
-# Gwaith Ieuenctid Cymru | Youth Work Wales
-

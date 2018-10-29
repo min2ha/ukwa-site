@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading Rugby Club (RRFC) on Pitchero
-
 The official website of Reading Rugby Club.

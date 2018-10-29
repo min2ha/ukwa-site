@@ -10,5 +10,3 @@
   "start_date": "2015-06-26T10:00:00Z"
 }
 
-# Forest of Dean and the Wye Valley
-

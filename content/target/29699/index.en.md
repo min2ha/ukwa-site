@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Let us ensure 2016 Easter Rising events do not become unnecessarily divisive
-

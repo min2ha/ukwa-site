@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Keele (@SfBKeele) on Twitter
-
 Keele branch of Students for Britain

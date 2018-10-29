@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunfermline United Reformed Church
-
 Site of a Scottish United Reformed church located in Dunfermline, Fife.

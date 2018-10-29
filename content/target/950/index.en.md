@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South West Specialised Commissioning Group (SWSCG)
-
 None

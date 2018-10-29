@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Dementia Services Development Centre (DSDC)
-
 DSDC Wales is a partnership between Bangor University and an NHS service development team in Cardiff. 

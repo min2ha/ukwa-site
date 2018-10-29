@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Policy Studies Institute: Will Brexit increase British wages?
-
 Research shows that the reduction in wages when using EEA workers (most of whom are from the EU) is quite small. Wage reductions are considerably greater where employers use workers from outside the European Economic Area (EEA), than when they use EEA workers.  Substitution of EEA workers by non-EEA workers, if allowed by future UK governments, could drive wages down.

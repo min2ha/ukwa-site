@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# International Celtic Congress, The
-
 The International Celtic Congress was established in 1902 in order to promote the knowledge, use, and appreciation of the languages and cultures of the six Celtic countries and meet at an International Congress each year in order to help further these aims.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Phillips Idowu Triplejumper
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mure Memorial Church on Facebook
-
 Facebook page for a Church of Scotland parish church at Garrowhill, Glasgow.

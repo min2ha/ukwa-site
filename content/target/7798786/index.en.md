@@ -10,5 +10,3 @@
   "start_date": "2008-06-05T00:00:00Z"
 }
 
-# Physiotherapy Pain Association (PPA)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Emerging Genre of Data Comics, The 
-
 Emerging Genre of Data Comics explores the potential of data comics and their unique ability to communicate both data and context via compelling visual storytelling.

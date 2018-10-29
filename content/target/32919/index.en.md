@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Marc Rees
-
 Marc Rees is a 'creator and curator of installation and performance, my work is an artistic response to place and community.'

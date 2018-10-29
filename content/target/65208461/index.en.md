@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Campaign for a Diamond Jubilee Medal
-
 additonal seeds to add to target http://home.btconnect.com/snca/tivnan and http://www.gopetition.com/petitions/diamond-jubilee-medal-petition.html

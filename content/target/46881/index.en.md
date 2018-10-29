@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# MJ, The: EU referendum
-
 Articles regarding the EU Referendum from a news resource targeted at UK local authorities.

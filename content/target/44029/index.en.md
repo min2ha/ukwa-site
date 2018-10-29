@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Statesman, The: I want my country back
-
 Article by Laurie Penny

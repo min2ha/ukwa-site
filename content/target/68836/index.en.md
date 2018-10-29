@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Book Industry Communication
-
 BIC is an independent organisation set up and sponsored by the Publishers Association, Booksellers Association, the Chartered Institute of Library and Information Professionals and the British Library to promote supply chain efficiency in all sectors of the book world through e-commerce and the application of standard processes and procedures.

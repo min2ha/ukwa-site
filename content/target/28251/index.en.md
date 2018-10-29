@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Greater Birmingham Chambers of Commerce
-
 Greater Birmingham Chambers of Commerce is an umbrella organisation promoting business in Birmingham and the West Midlands. The group now comprises of the Birmingham Chamber of Commerce, Burton & District Chamber of Commerce, Chase Chamber of Commerce, Lichfield & Tamworth Chamber of Commerce, Solihull Chamber of Commerce; British American Business Council, Institute of Asian Businesses and Future Faces.

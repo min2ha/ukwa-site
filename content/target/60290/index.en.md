@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# London Fire Relief Fund
-
 Fundraising efforts by the british Red Cross

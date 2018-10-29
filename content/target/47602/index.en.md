@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cronfa Cyfeithiadau Cymraeg
-
 The database is a catalog of books translated into the Welsh language from the beginning of the Twentieth Century in the humanities, arts and social sciences. 

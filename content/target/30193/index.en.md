@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# Cardiff Film Unit
-
 The film commission for the city of Cardiff.

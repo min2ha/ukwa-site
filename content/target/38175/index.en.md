@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Màiri McAllan (@MairiMcAllan) on Twitter
-
 Twitter profile of Màiri McAllan, Scottish National Party candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2017 general election.

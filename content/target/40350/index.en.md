@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# STREET OF BUGLES. A new Oratorio about Gloucestershire brass bands during WW1
-
 The project will research the musical activities of young people during WW1 ranging from military and brass band activities, civilian and educational music making, popular song and participation within the Stroud / Paimswick and Gloucester city areas

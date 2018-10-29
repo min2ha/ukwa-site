@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Xenia
-
 Xenia brings migrant, refugee, asylum-seeking & British women together for workshops that encourage English language practice & fun, meaningful two-way social integration.

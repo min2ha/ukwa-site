@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Kind2Women (@Kind2Women) on Twitter
-
 A documentary that brings to life the story of the 1967 Abortion Act legislation. This is the official Twitter account. 

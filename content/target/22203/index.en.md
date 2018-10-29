@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Afasic Cymru
-
 Afasic Cymru represents children and young people with specific language impairment (SLI) and speech, language and communication needs (SLCN) by raising awareness of this often hidden disability thus working for their inclusion in society and supporting their parents and carers.

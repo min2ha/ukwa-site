@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What could Brexit mean for the UK's creative talent?
-
 The creative industries are one of the UK's fastest growing sectors, growing at twice the rate of the overall economy. People in the arts are worried that Brexit will be bad news - including concerns about free movement of talent, funding and Britain's reputation around the world

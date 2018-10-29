@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guild of Professional Teachers of Dance, Movement to Music and Dramatic Arts
-

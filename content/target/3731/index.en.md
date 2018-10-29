@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Southern Daily Echo
-
 None

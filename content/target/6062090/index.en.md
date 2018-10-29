@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Lake District Osprey Project
-

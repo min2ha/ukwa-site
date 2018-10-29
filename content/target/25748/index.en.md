@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Boris Johnson primed to become Tory election weapon
-
 None

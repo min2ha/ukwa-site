@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What Greek politics teaches the Labour party: there is an alternative
-
 None

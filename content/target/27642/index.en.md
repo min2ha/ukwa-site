@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour in civil war: Jim Murphy quits as Scottish party leader, blaming union boss Len McCluskey
-
 None

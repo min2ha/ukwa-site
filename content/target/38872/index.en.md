@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lee Chalmers (@leechalmers) on Twitter:
-
 Twitter profile of Lee Chalmers, the Scottish Women's Equality list candidate for Lothian region in the 2016 Scottish Parliamentary election.

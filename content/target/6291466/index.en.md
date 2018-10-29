@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Guy Fox History Project
-
 None

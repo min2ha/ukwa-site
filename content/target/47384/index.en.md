@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Left Books
-
 Left Books (including Socialist Books) has over 700 new and secondhand political and socialist books to choose from. They also stock e-books, magazines, journals and various left-wing merchandise.

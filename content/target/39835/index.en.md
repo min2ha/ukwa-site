@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Eastwood SNP (@EastwoodSNP) on Twitter
-
 Twitter profile of the Eastwood branch of the Scottish National Party (SNP).

@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Patrick Jones | Poetry, Theatre, Spoken Word & Music
-
 Patrick Jones is a Welsh poet, playwright and brother of Nicky Wire of the Manic Street Preachers.

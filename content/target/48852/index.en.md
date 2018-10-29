@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Public Policy Institute for Wales PPIW (@PPIfW) on Twitter
-

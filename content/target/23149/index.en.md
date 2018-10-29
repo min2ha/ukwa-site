@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Social Democratic and Labour Party (SDLP) 
-
 The Social Democratic and Labour Party (SDLP; Irish: Páirtí Sóisialta Daonlathach an Lucht Oibre) is a social-democratic and Irish nationalist political party in Northern Ireland. 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  East Kilbride Old Parish Church
-

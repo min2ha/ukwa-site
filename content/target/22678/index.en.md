@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Simon Thomson (Labour candidate for Dartford)
-

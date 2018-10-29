@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Oxford Human Rights Hub (@OxHRH) on Twitter
-
 The Oxford Human Rights Hub's official Twitter feed. Bringing together human rights researchers, practitioners and policy-makers from across the globe.

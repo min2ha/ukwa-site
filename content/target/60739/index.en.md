@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Ben Johnson Artist
-
 Ben Johnson is artist born in Llandudno and elected member of the RCA (Royal Cambrian Academy) in 2017. His work is included in the permanent collections of the Victoria & Albert Museum, London; the Centre Georges Pompidou, Paris and the Museum of Modern Art, New York.

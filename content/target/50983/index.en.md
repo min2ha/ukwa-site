@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Wallich, The
-
 The Wallich was established in 1978 in Cardiff. Their aim is to get people off the streets and into accommodation as quickly as possible.

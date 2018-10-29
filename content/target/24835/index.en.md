@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Diane Abbott (@hackneyabbott) on Twitter (Labour Politician)
-
 Diane Abbott stood as Labour candidate for Hackney North and Stoke Newington at the 2017 General Election. She was first elected to serve as the MP for  in 1987 and has been a MP ever since.

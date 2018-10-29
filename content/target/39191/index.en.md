@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Transition Edinburgh South
-
 Site of a hyper local group in South Edinburgh, Scotland, aiming to decrease dependence on finite resources, develop local sustainability and shift to a low carbon lifestyle.

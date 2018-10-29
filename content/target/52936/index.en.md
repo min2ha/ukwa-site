@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# ASPEC: Association of Studio and Production Equipment Companies
-
 ASPEC – part of PLASA is an Association of Studio and Production Equipment Companies which consists of leading Film, Television and Broadcasting facilities companies. ASPEC exists to provide a collective voice within the industry. 

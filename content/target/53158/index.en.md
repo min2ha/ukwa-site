@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Ruane (@ChrisRuane2017) on Twitter 
-
 Chris Ruane is the Labour candidate for the Vale of Clwyd at the 2017 General Election.

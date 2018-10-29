@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Calonnau Cymru | Welsh Hearts
-
 This is the Heart charity for Wales. Their mission focuses on the prevention and management of heart disease, and to fund cardiovascular medical research based in Wales.

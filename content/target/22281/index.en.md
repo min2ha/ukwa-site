@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanda Kubie (@AmandaKubie) on Twitter
-
 This is the Twitter page of Amanda Kubie, the Liberal Democrats candidate for Dumfriesshire, Clydesdale and Tweeddale in the UK General Election on the 7th May 2015.

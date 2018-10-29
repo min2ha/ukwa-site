@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Commission for Architecture and the Built Environment (CABE): London 2012
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Not even Horace Rumpole had to practise walking: As Supreme Court do a dummy run of their entrance, RICHARD LITTLEJOHN says this attempt to sabotage will of the British people should never have got this far   
-

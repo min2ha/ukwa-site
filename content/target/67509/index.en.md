@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Chiltern 100 Cycling Festival
-
 Website for the Chiltern 100 Cycling Fesitval

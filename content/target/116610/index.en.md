@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Women and the Church (WATCH)
-
 None

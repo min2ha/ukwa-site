@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chartered Institute of Library and Information Professionals (CILIP): Facts Matter
-
 CILIP's Facts matter campaign for the General Election asks political parties and candidates to endorse the vital role of facts and evidence in public life. It is calling on parties and candidates and to take a public pledge that ‘Facts matter’ and to declare their commitment to running an evidence-based election campaign.

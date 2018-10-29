@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Moonpig
-
 <p>Moonpig.com is a business based in London and Guernsey which sells personalised greeting cards. The website was launched in July 2000, and in 2007 the company was responsible for 90 percent of the online greeting card market in the United Kingdom, with nearly six million cards shipped.</p>

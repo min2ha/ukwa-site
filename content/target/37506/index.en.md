@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Strathclyde Telegraph: Students affected by electoral changes
-
 After the new legislation was introduced surrounding the vote. It is thought that around 800,000 people have dropped off the Electoral Register, many of them thought to be students, after changes to voting registration were introduced at the end of the year.

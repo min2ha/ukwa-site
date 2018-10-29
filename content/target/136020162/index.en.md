@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HealthWatch Kingston Pathfinder (formaly Kingston Upon Thames LINk) 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Barnes and Mortlake History Society 
-
 The Barnes and Mortlake History Society was founded in 1955. The Society promotes interest in the local history of Barnes, Mortlake and East Sheen in the London Borough of Richmond upon Thames. Original research is encouraged and there are several new publications each year. 

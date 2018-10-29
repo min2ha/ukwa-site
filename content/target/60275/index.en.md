@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn: I'm not calling for second EU referendum
-
 Both Labour and the Conservatives have said the 2016 vote to leave the EU should be honoured. Both Labour and the Conservatives have said the 2016 vote to leave the EU should be honoured.
 
 

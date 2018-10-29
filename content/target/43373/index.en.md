@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Staffordshire University: EU Referendum Campaign 2016
-
 Information to inform the EU Referendum debate provided by Staffordshire University.

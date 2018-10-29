@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Polski Instytut Spraw Międzynarodowych
-
 The Polish Institute of International Affairs (PISM) is a leading Central European think tank that positions itself between the world of politics and independent analysis. PISM provides analytical support to decision-makers and diplomats, initiates public debate and disseminates expert knowledge about contemporary international relations. The work of PISM is guided by the conviction that the decision-making process in international relations should be based on knowledge that comes from reliable and valid research.

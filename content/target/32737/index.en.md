@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Irvine Welsh Official Website
-
 Official website of the author Irvine Welsh.

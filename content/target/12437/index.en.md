@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T08:00:00Z"
 }
 
-# Selfridges & Co
-
 Website of the department store established in 1906 by Harry Gordon Selfridge.

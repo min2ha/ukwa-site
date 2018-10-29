@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Simon Baynes (@baynes_simon) on Twitter
-
 Simon Baynes is the Conservative candidate for Clwyd South at the 2016 National Assembly Elections and 2017 General Election.

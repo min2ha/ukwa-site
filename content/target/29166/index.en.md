@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Burnham Market Book Festival, The
-
 The Burnham Market Book Festival 

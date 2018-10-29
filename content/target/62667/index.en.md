@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Maxwelltown West Church of Scotland, Dumfries
-
 Site of a Church of Scotland parish church in Dumfries, Dumfries and Galloway.

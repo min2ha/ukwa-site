@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Corbyn's tepid stance on EU may be best way to persuade UK to remain
-
 Guardian, The

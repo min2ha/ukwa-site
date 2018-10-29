@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# British Library, The: Sound and Vision Blog: Rescuing the Rivonia Trial recordings
-
 <p>A blog post by the British Library Sound Archive telling the story about resucing the recording of Nelson Mandela’s remarkable three-hour speech delivered during the Rivonia Trial of 1963-4.</p>

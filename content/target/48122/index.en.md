@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cymru Institute for Contemporary Christianity (CICC) | Athrofa Cristnogaeth Gyfoes Cymru
-
 The new Cymru Institute for Contemporary Christianity (CICC) was developed and launched by Evangelical Alliance Wales, as part of their twentieth anniversary celebrations. It has the support of the Bible Society, UCCF, CARE, the South Wales Baptist College,  the Aberystwyth Academy for Christian Discipleship and local churches across Wales and is based on the London Institute for Contemporary Christianity.

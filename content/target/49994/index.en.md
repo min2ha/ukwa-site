@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christchurch Christian Centre
-
 Christchurch Christian Centre is located in Dorset, just 10 minutes from Bournemouth.

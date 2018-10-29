@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Our Future Our Choice! (OFOC)
-
 Movement of angry, determined young people dedicated to opposing Brexit which they regard as a disaster that must be stopped.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Glasgow International
-
 Site for a biennial contemporary arts festival located in the city of Glasgow, Scotland.

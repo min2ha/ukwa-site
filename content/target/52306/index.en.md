@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Guardian, The: General election 2017
-
 The General Election 2017 splash page on The Guardian.

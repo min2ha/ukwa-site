@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Guns of Ireland
-
 Musical production at Tri-Cities Prep High School, Pasco, Washington

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# WEFO (@wefowales) on Twitter 
-
 The twitter account for Welsh European Funding Office (WEFO) – part of the Welsh Government – delivering EU Structural Funds in Wales.

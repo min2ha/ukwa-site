@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Parc Bryn Bach Outdoor Adventure Activities
-
 Parc Bryn Bach is an outdoor adventure activity centre located near Merthyr Tydfil.

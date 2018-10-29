@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP will propose new independence vote next year, former deputy leader says
-
 None

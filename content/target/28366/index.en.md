@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Fusilier Museum, The
-
 The Fusilier Museum is home to the collection of the 20th Lancashire Fusiliers and the Royal Regiment of Fusiliers, commemorating over 300 years of history and heritage.

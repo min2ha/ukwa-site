@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Animal Sentience and Brexit
-
 This  brief provides an overview of the debate over the recognition of animal sentience in UK law after Brexit

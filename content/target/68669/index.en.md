@@ -10,6 +10,4 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Bido Lito!
-
 Bido Lito! is a Liverpool based monthly magazine  writing about artists, musicians and independent makers. 

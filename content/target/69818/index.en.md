@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Casbar
-
 Casbar is a website by Cas Smith and provides details of Folk Music related gigs across South Wales.

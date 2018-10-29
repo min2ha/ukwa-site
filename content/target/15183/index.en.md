@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# North Bury Guide
-

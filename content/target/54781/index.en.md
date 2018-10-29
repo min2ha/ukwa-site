@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Middlethorpe Hall & Spa
-
 An essential part of a visit to Middlethorpe Hall is the opportunity to relax and enjoy the pleasures of the Spa. Swim in the warm clear water of the inviting pool lined with blue mosaic tiles, relax in the steam room, sauna and the bubbling waters of the indoor whirlpool bath.

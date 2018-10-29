@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# UK Chinese Journal, The
-
 Website of the UK Chinese Journal, a publication that aims to provide trusted news and information in Chines language for Chinese community living and working in Britain. 

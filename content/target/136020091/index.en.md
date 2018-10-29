@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lambeth LINk
-
 None

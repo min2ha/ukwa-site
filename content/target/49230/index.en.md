@@ -10,5 +10,3 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Policing Global Cities
-

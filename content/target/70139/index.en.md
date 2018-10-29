@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Association of British Insurers: ABI calls for ‘clear commitment’ to a transitional implementation period following Brexit
-
 The ABI sets out 'five key asks' for UK insurers: securing an appropriate regulatory environment; retaining the ability to passport out of and into the UK; closely mirroring the EU data protection regime; an improved future migration policy that enables the employment of high-skilled professionals from both within and outside the EU; a strong focus on regulatory dialogue and interantional agreements on financial services markets.

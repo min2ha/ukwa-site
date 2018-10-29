@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Law chief marks Magna Carta with fierce attack on Cameron
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Julie Ward (Labour MEP for the North West)
-
 Julie Ward stood as Labour candidate for North West England at the 2014 European Parliament election and was elected to serve as MEP.

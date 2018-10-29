@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Tech for UK
-
 Tech For UK will lobby for a meaningful vote by Parliament or the people on the actual terms of Brexit. Its objective is to strengthen Best for Britain’s digital campaign to fight Brexit, find more supporters and create content and tech solutions to help win the right to a public vote and final say on the terms of Brexit, with the option to Remain.
 

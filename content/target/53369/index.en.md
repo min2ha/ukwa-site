@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Sink Into Your Eyes
-
 Sink Into Your Eyes is a Harry Potter fan site composed of fanfictions and created in 2003.

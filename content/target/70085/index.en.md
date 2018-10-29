@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# DanceLive
-
 Scotland's most prolific and long running contemporary dance festival.

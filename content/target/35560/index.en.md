@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tim Clancey (@TimClancey) on Twitter
-
 The Twitter profile of Tim Clancey, Scottish Green Party candidate for South Scotland in the 2016 Scottish Parliament election.

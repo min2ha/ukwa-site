@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# Portsmouth City Council: London 2012
-

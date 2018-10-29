@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Lib Dems face election bruising in Scotland, poll predicts
-
 None

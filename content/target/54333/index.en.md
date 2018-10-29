@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# GPonline: General election 2017: party manifesto pledges on health and care
-
 GPonline looks at what the three main parties in England were promising for health at the 2017 general election.

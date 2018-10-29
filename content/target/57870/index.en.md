@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: What can the UK learn from Finland's approach to mental health?
-
 News article suggesting that the UK could learn from Finland's approach to mental health who use an online service for mental health therapy 

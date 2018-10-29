@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Lothian Buses Limited
-
 Lothian Buses Limited is a bus transportation provider in Edinburgh and the surrounding areas of Midlothian and East Lothian. 

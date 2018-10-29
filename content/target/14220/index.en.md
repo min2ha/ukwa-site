@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# British Academy
-
 The British Academy is the UK's expert body that supports and speaks for the humanities and social sciences. It funds research across the UK and in other parts of the world.

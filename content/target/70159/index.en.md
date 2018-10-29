@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Leonard's, East  Kilbride
-
 Site of a Scottish Roman Catholic parish church located in East Kilbride, Lanarkshire.

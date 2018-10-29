@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# American Air Museum in Britain
-
 The American Air Museum website records the stories of the men and women of the US Army Air Forces (USAAF) who served their country from the UK in the Second World War. It also records the memories of the British people who befriended them. It is located at IWM Duxford, part of Imperial War Museums, near Cambridge and opened in 1997.

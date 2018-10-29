@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Healthy n Happy Community Development Trust
-
 Site of the community development trust for Cambuslang and Rutherglen.  

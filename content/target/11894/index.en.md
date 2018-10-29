@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joey Cordina (JoeCordina_91) on Twitter
-
 <p>The twitter profile of althete Joey Cordina, boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

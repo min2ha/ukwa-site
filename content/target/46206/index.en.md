@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# BBC News: Wales and Brexit
-

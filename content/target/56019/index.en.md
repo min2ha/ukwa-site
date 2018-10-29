@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# PENfro Poets and Painters
-
 PENfro Poets and Painters are a collective of poets from Pembrokeshire. The group was conceived at the PENfro Book Fair 2012.

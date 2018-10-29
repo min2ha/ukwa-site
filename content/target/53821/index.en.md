@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Election Day Pledge
-
 People make a pledge to take some time off work on June 8th to do something to support the Labour election campaign.

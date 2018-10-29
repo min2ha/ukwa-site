@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibraltar.gi 
-
 Gibraltar.gi is the official Gibraltar tourism website  

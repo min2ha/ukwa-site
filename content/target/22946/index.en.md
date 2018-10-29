@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Damian Collins (Conservative)
-
 Damian Collins stood as Conservative candidate for Folkestone and Hythe at the 2015 General Election. He was first elected to serve as MP for Folkestone and Hythe in 2010 and re-elected in 2015.

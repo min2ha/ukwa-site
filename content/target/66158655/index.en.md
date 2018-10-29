@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rising to the Challenge East of England
-

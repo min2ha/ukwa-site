@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# The Lost Fox
-
 Leicester City and St Albans FC blog / online zine: One woman, two football teams. The trials & tribulations of divided loyalities between your life long team and your new local heroes.

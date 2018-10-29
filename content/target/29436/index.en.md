@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Macular Society
-
 The Macular Society is a national charity helping people suffering from macular conditions which affect the central part of the retina and cause loss of central vision. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# V3: Like playing computer games? WHO decides that you could be suffering from a mental health disorder
-
 News article about the World Health Organisation has included "gaming disorder" in a list of mental health conditions detailed in the draft of its latest International Classification of Diseases

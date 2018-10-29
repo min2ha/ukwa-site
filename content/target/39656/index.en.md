@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rona Mackay For Strathkelvin & Bearsden - SNP on Facebook
-

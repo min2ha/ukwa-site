@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Sutherland Design Ltd
-

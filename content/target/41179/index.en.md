@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Glasgow Tree Lovers' Society
-
 Site of a society concerned with conservation, recording and mapping of trees in the city of Glasgow.

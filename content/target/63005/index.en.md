@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CNET News UK
-
 CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events.

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# WW2 relics at Stainton Grove Military Camp, Barnard Castle, DL12 8UJ, UK
-
 This is an ongoing record of the history of a World War 2 training camp and post war regular army camp that was in use for another 30 plus years when it was closed and re-opened as a housing and industrial estate by the local council.  

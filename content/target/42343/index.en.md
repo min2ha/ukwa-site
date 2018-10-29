@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Letters of 1916, The
-
 The Letters of 1916 project is the first public humanities project in Ireland. It is creating a crowd-sourced digital collection of letters written around the time of the Easter Rising (1 November 1915 – 31 October 1916).

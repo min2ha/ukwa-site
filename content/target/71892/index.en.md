@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Memory Walk
-
 Site of a series of sponsored walks which rasing money for research into Alzheimer's disease, in Scotland. Charity.

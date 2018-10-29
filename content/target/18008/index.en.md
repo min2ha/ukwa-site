@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# All People's Party | Fighting for equality at the top
-
 All People's Party website providing information on local news, campaigns and policies.

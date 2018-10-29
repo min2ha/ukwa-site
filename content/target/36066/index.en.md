@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jen Dunn (@Jen4Ayr) on Twitter
-
 The Twitter profile of Jen Dunn, the Scottish National Party candidate for Ayr in the 2016 Scottish Parliament election.

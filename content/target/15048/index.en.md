@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Friends of Moseley Road Baths
-

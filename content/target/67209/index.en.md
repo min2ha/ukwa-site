@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# 7 West Studios
-
 Website of 7 West Studios, a music recording company based in Glasgow, Scotland. The company is the recording arm of the recording and rehearsal complex Lofi Studios. 

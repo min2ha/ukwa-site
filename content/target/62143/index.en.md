@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Keepmoat Stadium
-
 Keepmoat Stadium is a multi-purpose stadium in Doncaster, England, with a capacity of 15,231. 

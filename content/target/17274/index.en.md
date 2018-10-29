@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What happens if nobody wins the UK election? 1974 is a warning
-

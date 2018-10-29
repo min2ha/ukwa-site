@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London 2012 Olympic Park Masterplan, Design Build Network
-

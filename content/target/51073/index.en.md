@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Department of Health and Social Care Publications
-
 Reports, policy and guidance issued by the Department of Health

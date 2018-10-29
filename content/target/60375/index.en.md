@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Popty Ping Records
-
 Popty Ping Records is a North Wales DIY Record Label that release 7 inch singles only.

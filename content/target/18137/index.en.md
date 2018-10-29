@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Handicap International UK: Ebola: 'We mustn't let our guard down too soon'
-

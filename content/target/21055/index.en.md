@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ross Brown (@voterossbrown) on Twitter (Green Party candidate for Belfast East)
-

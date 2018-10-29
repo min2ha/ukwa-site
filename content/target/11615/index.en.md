@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Craigie
-
 Personal website for Lee Craigie

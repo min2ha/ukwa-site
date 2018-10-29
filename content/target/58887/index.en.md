@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Blackheath Books
-
 Blackheath Books is an independent small press for literary outsiders and mavericks located in Pembrokeshire.

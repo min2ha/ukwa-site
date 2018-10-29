@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Iain Duncan Smith interview - Tory veteran says vote to leave on June 23 will make Britain great again
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Senghenydd Community Centre
-
 Senghenydd Community Centre is a volunteer run facility located in the town of Senghenydd near Caerphilly. The Senghenydd Community Centre was originally built as the Park Hotel and Assembley Rooms in 1911.

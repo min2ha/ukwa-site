@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cloud of Data, The
-
 None

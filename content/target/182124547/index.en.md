@@ -10,5 +10,3 @@
   "start_date": "2013-07-25T00:00:00Z"
 }
 
-# W3C Incubator Group on LLD
-

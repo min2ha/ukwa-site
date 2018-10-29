@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Common sense or just scare tactics?
-
 Theresa May told Panorama that the alternative to the Chequers plan would be to leave the EU with no deal. Predicts that the government could successfully use scare tactics to push an amended version of the Chequers plan through Parliament

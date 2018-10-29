@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Has David Cameron really created 1,000 jobs a day?
-
 None

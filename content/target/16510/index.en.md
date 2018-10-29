@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: NHS major incidents guidelines spark political row
-
 None

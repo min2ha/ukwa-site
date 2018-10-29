@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Strict Baptist Historical Society
-
 None

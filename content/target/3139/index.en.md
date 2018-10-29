@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Scotlands People
-
 Scotlands People is an online source of original genealogical information. It contains more than 100 million family history records to look through (Scottish census records, Scottish wills, birth certificates and death certificates, etc.).

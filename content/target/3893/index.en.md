@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Y Cymro Arlein
-
 This is the website for 'Y Cymro' providing a selection of online articles. The web site is no longer live and came to an end in December 2016 following the decision to cease publication by Tindle newspapers.

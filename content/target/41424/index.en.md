@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Medical Association: The BMA in Europe
-
 Pamphlet provides information for doctors that should be useful in helping them to decide how to vote in the referendum on British membership of the EU.

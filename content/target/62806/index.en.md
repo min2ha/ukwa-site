@@ -10,6 +10,4 @@
   "start_date": "2018-03-18T09:00:00Z"
 }
 
-# Upper Garden, Vidlin, Shetland
-
 Upper Garden Holiday Accommodation in Vidlin, Shetland 

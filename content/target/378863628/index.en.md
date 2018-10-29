@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Deryn
-
 Deryn is a public affairs consultancy bringing together senior level, cross party experience in campaigning, government relations and politics in Wales. They are located in Cardiff.

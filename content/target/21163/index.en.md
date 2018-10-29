@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Natasha Asghar: Your prospective MP for Newport East
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Williscroft-Ferris (@Lee4Hexham) on Twitter (Green Party candidate for Hexham)
-

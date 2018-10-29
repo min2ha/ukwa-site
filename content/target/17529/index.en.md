@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Church of England calls for 'fresh moral vision' in British politics
-
 None

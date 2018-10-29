@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Ham News (@whufc_news) on Twitter 
-
 An independent West Ham supporter's account

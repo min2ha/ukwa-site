@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Syria Solidarity UK
-
 Site of UK poitical solidarity group Syria Solidarity Movement UK

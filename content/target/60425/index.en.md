@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Francesca Rhydderch
-
 Francesca is Associate Professor of Creative Writing at Swansea University and has been shortlisted for many national literature awards.

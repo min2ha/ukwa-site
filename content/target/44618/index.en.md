@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Welcome words on immigration, Mrs May - now for action on the issue voters desperately want dealt with after years of broken promises and lip service   
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Coastlands Family Church
-
 Coastlands Family Church is a New Wine Cymru Church located in the Colcot area of Barry. 

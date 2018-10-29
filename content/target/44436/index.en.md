@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# MCR Pathways
-
 Site of a charitable organisation providing mentoring support for disadvantaged young people in Scotland.

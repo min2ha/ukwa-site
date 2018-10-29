@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British Sugarcraft Guild (BSG)
-
 British Sugarcraft Guild (BSG) was established in 1981 and it promotes and improves standards of sugarcraft.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# Driftwood Designs
-
 Website of West Wales artist Lizzie Spikes.

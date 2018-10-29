@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Family History UK Genealogy Forums
-
  An online enthusiast community concerned with genealogy. Discussing family history research (Pro's & Amateurs)  and genealogy.

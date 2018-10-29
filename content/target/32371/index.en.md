@@ -11,5 +11,3 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library: Endangered Archives Programme
-

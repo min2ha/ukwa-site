@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sandown & Shanklin RFC on Pitchero
-
 The official Twitter account of Sandown & Shanklin Rugby Football Club. Established in 1961.

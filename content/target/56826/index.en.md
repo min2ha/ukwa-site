@@ -10,6 +10,4 @@
   "start_date": "2017-08-25T09:00:00Z"
 }
 
-# Kinlochard Village
-
 Community website for the town of Kinlochard, Stirlingshire, Scotland, providing details of amenities, businesses and events for residents and visitors.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory right lurk in the shadows, ready to pounce if David Cameron fails to prevail
-
 None

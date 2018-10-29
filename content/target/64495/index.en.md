@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Canolfan Beaumaris
-
 Canolfan Beaumaris is a community run Leisure Centre run as a not for profit organisation by a group of volunteers who came together to prevent its closure.

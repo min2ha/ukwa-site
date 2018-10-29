@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ealing Conservatives
-
 Website of Ealing Conservatives focusing heavily on local campaigns and issues

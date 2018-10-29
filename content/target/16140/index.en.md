@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T00:00:00Z"
 }
 
-# l'Artiste Muscle Bar a vin - Bistro
-
 <p>A website of a French restaurant and bistro in London.</p>

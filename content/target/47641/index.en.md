@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Highland Wildlife Park
-
 Site of a wildlife park and zoo based in Kincraig, Kingussie, Highland. 

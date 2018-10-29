@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chartered Institute of Public Finance and Accountancy (CIPFA): CIPFA Manifesto 2015
-
 CIPFA, the Chartered Institute of Public Finance and Accountancy, is the professional body for people in public finance. It's members work throughout the public services, in national audit agencies, in major accountancy firms, and in other bodies where public money needs to be effectively and efficiently managed.

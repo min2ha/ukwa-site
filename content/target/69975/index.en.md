@@ -10,7 +10,5 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Welsh Centre for Burns and Plastic Surgery
-
 The Welsh Centre for Burns and Plastic Surgery is the only centre in Wales and is  
 based in Morriston Hospital, Swansea.

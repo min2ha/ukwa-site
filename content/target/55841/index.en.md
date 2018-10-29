@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mirror:Mum's online gambling warning: '£10,000 jackpot scoop turned me into a suicidal betting addict'
-
 An article describing the effects of online gambling on 34-year-old, mum of two, Hayley Ringrose 

@@ -10,5 +10,3 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# East Renfrewshire Liberal Democrats
-

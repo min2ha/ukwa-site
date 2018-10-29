@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Is Parliament ready for Brexit?
-
 blog post discussing whether the UK Parliament is ready for Brexit

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nick Clegg set to resign after disastrous General Election results for Liberal Democrats
-
 None

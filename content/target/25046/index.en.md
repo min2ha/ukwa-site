@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Sturgeon gloats as SNP is set to win EVERY seat in Scotland
-
 None

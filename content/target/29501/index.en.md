@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Morley Literature Festival
-
 Morley Literature Festival

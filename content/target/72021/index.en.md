@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson slams Brexit plan as he sets out his Tory vision
-
 Crowds packed into a speech by former foreign secretary Boris Johnson at the Conservative Party conference in Birmingham in 2018. Mr Johnson renewed his attack on Theresa May's Brexit plan, describing it as a "cheat" that could lead to a boost for the far-right.
 
 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: What’s next for acquired rights of EU27 and UK citizens? Anticipating the draft Brexit withdrawal agreement
-
 Presents an overview of the points that the Brexit withdrawal agreement should cover in relation to the acquired rights of EU citizens in the UK and UK citizens in the EU. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - There is a deliberate untruth (lie) in the new Yes...
-
 Ewan Morrison's Facebook post of the 9th of September, 2014.

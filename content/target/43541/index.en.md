@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Charlie's Diary: The unspeakable truth
-
 Charles Stross, a full-time science fiction writer, on the insidious racism manifested in the Leave campaign

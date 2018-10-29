@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irish FA Foundation (@IFAFootballDev) on Twitter
-
 The official Twitter account of Irish FA Foundation.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: A problem but not a disaster
-
 Comments on the implications of the Government's narrow victory over an amendment to the Trade Bill that would have seen the UK remain in a customs union with the EU.

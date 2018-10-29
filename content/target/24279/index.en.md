@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Danny Alexander commissioned 'Tory cuts' paper he then leaked, George Osborne says
-
 None

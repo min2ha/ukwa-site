@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Commodore Cinema, Aberystwyth
-
 The Commodore Cinema is a family-owned independent cinema in Aberystwyth.

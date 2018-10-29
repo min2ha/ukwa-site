@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Port Glasgow Junior Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Port Glasgow, Inverclyde, Scotland.

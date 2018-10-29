@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: SNP 'to take 35 out of 41 Labour seats in Scotland'
-
 None

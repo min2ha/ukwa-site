@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inverallan Parish Church
-
 Site of a Church of Scotland parish church at Grantown-on-Spey, Highland and covering Cromdale and Advie (linked with Dulnain Bridge & Grantown-on-Spey).

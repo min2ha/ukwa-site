@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Scottish Music Hall & Variety Theatre Society
-
 Site of a society celebrating Scottish Music Hall and Variety Theatre.

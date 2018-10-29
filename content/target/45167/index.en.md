@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Storify: On Your Marks, Get Set, Go!
-
 A short Twitter chat about what’s involved in web archiving Rio 2016

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: Negotiations Update (March-June 2018)
-
 This briefing paper provides an update on the progress of the Article 50 TEU negotiations since March 2018, and what this leaves to be 'agreed' before a Withdrawal Agreement and attached Political Declaration on the Future Relationship can be concluded.

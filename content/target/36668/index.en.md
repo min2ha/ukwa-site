@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Business chief ousted for backing Brexit blasts David Cameron for peddling 'highly irresponsible' EU claims as No 10 is accused of 'having a hand' in his removal   
-

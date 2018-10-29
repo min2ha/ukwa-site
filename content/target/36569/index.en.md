@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU Inners will regret turning Project Fear into Project White Flag
-

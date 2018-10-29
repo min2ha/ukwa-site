@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# South East Wales Academic Health Science Partnership
-
 The South East Wales Academic Health Science Partnership (SEWAHSP) is an alliance between the NHS and Higher Education Institutions with the aim to 'integrate high quality research and education and enhance the Region’s outputs in developing and applying improvements, innovations and health technologies to benefit the health and wealth of the population of Wales'.

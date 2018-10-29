@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Moravian Orienteers
-
 Site of an orienteering club located in the north east of Scotland.

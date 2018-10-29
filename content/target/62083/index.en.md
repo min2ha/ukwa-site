@@ -10,5 +10,3 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Newtown Musical Theatre Company
-

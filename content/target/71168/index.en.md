@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Maelstrom
-
 Maelstrom started back in 2006 as a none profit portfolio, where the Proprietor, Jonathon Wild, wanted to highlight several campaigns within Liverpool to highlight the plight of local interest.

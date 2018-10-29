@@ -10,6 +10,4 @@
   "start_date": "2015-08-18T10:00:00Z"
 }
 
-# Dynamic Earth (@ourdynamicearth) on Twitter
-
 Twitter account for Dynamic Earth, a visitor centre and education service; also an Edinburgh Fringe Festival venue.

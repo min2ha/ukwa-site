@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Kirkton Old Church Burntisland Conservation Project
-
 Site of a hyper local architectural heritage conservation project based in Burntisland, Fife.

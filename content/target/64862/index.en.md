@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Mixed Race Irish (@MixedRaceIrish) on Twitter
-
 The Association of Mixed Race Irish (AMRI): working to raise awareness of Irish people with dual ethnicity/multi heritage Winner Gerry Ryan Community Award 2017

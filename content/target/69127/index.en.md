@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# More than Just Child’s Play?: An Experimental Investigation of the Impact of an Appearance-Focused Internet Game on Body Image and Career Aspirations of Young Girls
-
 A research paper on the impact of online games on body image

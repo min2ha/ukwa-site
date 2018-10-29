@@ -10,5 +10,3 @@
   "start_date": "2012-03-21T00:00:00Z"
 }
 
-# TRAFFIC: TRansforming Assessment + Feedback For Institutional Change
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for International Development (@dfid_uk) on Twitter
-
 We are the Department for International Development (DFID). We lead the UK’s work to end extreme poverty. 

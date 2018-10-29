@@ -10,7 +10,5 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Word Distillery, The
-
 The Word Distillery is a group of poets based at Aberystwyth Arts Centre who perform their work and the work of celebrated poets. The blog was updated between 2012 and 2015.
 

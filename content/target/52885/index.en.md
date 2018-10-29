@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Olivia Bell (@Invernessbelle) on Twitter
-
 Twitter profile of Olivia Bell, Scottish Labour candidate for Caithness, Sutherland and Easter Ross in the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Shiskine Valley
-
 The Shiskine Valley on the Isle of Arran  has a strong sense of community.

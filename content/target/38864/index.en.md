@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Irving-lewis (@irvinglew1) on Twitter
-
 Twitter profile of James Irving-Lewis, the Solidarity list candidate for North East Scotland in the 2016 Scottish Parliamentary election.

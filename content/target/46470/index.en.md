@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: After Brexit - Envisioning New British Landscapes
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

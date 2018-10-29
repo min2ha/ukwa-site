@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls: Tories have promised £25bn in unfunded spending commitments
-
 None

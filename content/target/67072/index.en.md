@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aretians Rugby Football Club
-
 Aretians Rugby Football Club is a community driven club providing mens, ladies and childrens rugby at all age group levels. Founded in 1961.

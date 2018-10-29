@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Gwalia
-
 Gwalia is a provider of housing, care and support services in south and mid Wales.

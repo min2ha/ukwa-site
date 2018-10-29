@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Muslims for Britain on Facebook
-
 A Facebook page for Muslims for Britain (a campaigning group).

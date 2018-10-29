@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Best for Britain (@BestForBritain  ) on Twitter
-
 Best for Britain is supporting youth voter registration & candidates who will campaign for a meaningful vote on our future relationship with Europe

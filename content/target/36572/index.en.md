@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Philip Hammond: Expat Britons could be forced to come home from Costa del Sol if Britain leaves EU
-

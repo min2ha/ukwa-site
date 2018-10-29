@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lord's Hansard: 29th March 2017: Brexit: Triggering Article 50
-
 The Lord Privy Seal reads the Prime Minister's statement on triggering article 50 to start the process of leaving the EU.

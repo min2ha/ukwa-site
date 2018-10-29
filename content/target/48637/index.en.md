@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Coupar Angus Junior Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Cupar Angus, Angus, Scotland.

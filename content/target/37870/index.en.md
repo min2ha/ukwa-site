@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# role of women in World War 1, The 
-
 Project to educate the children of Folkestone and to discover and understand the various roles and changes to society by the use of stories, poetry and discussion.

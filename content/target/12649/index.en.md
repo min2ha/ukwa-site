@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hugh Henry MSP for Renfrewshire South
-
 <p>The blog of Hugh Henry, Scottish Labour Member of the Scottish Parliament for West Scotland.</p>

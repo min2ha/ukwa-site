@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Psychothérapie en français à Londres - Magali Buhrer
-
 <p>French Psychotherapy in London run by Magali Buhrer.</p>

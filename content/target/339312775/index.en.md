@@ -10,5 +10,3 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Cyngor Cymuned Cwmbran | Cwmbran Community Council
-

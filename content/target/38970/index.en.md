@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Just how credible is the Treasury's Brexit forecast? The answer in two charts
-

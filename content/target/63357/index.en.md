@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Llandudno Football Club 
-
 Football in Llandudno dates back to 1878 when a club, probably known as Gloddaeth Rovers was in existence probably for around a decade.

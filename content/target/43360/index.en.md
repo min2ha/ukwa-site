@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Herts Advertiser, The: Latest EU Referendum News
-
 News and information about the EU Referendum from the Hertfordshire local newspaper, The Herts Advertiser

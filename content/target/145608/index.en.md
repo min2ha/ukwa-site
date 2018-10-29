@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# National Library of Scotland
-
 Official website of the National Library of Scotland.

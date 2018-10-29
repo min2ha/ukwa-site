@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Northern Bank - War Memorials / Roll of Honour
-
 None

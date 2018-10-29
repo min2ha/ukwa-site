@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Linda Stewart (@linda4slb) on Twitter
-
 Twitter profile of Linda Stewart, the Scottish Labour candidate for Skye, Lochaber and Badenoch in the 2016 Scottish Parliamentary election.

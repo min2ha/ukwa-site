@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Wellcome Trust Sanger Institute
-
 The Sanger Institute is a genome research institute primarily funded by the Wellcome Trust. We use large-scale sequencing, informatics and analysis of genetic variation to further our understanding of gene function in health and disease and to generate data and resources of lasting value to biomedical research.

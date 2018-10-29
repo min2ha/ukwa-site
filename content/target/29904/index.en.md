@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lowdham Book Festival 
-
 Lowdham Book Festival

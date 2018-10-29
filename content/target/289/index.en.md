@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North East Lincolnshire CCG
-
 None

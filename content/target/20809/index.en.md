@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kim Long on Facebook
-
 This is the Facebook page of Kim Long, the Scottish Green Party candidate for Glasgow East in the UK General Election on the 7th May 2015.

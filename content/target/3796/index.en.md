@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bath Chronicle, The
-
 None

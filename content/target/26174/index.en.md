@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British In Vitro Diagnostics Association (BIVDA): Manifesto 2015
-
 The British In Vitro Diagnostics Association (BIVDA) is the national industry association for companies with major involvement and interest in the in vitro diagnostics (IVD) industry. BIVDA represents both manufacturers and distributors who are active in the UK. It is not just an association of UK diagnostic companies; all IVD companies, irrespective of their national origin, are eligible to become members of BIVDA.

@@ -10,5 +10,3 @@
   "start_date": "2013-07-31T00:00:00Z"
 }
 
-# The Kilvert Society
-

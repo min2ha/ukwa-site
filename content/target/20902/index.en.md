@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alexander Stewart on Facebook
-
 This is the Facebook page of Alexander Stewart, the Conservative Party candidate for Perth and North Perthshire in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# George Jabbour (Conservative candidate for Bridgend)
-
 George Jabbour is the Conservative candidate for Bridgend at the 2016 National Assembly for Wales election.

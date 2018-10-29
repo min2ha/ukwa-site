@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Ruddy (@jruddy99) on Twitter
-
 Twitter profile of John Ruddy, the Scottish Labour candidate for Angus North and Mearns in the 2016 Scottish Parliamentary election.

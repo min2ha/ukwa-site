@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# Moray Firth Western Development Area Offshore Wind Farm
-
 Information about organisations active in the Moray Firth Western Development Area.

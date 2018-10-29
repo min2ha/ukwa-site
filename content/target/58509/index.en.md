@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Project 13 
-
 Project 13 is a website set up by Manon Gravell, the daughter of former Welsh Rugby International Ray Gravell, who died suddenly of a heart attack in 2007. It was established to help young people to cope with sudden loss of a parent.

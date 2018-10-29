@@ -10,5 +10,3 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Cyngor Cymuned Llandysul | Llandysul Community Council
-

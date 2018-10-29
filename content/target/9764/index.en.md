@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ben Houchen (Conservative) on Twitter/
-

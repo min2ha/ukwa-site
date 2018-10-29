@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron backs Telegraph undercover investigation of Sir Malcolm Rifkind
-
 None

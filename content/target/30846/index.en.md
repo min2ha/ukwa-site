@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Plant y Cymoedd | Valleys Kids
-
 Valleys Kids is a community regeneration charity based in the Rhondda Valley.

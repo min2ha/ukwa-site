@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# WOMAD The World's Festival
-
 Website for the WOMAD The World's Festival

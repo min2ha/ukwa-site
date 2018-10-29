@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Jeremy Corbyn could hold key to EU referendum vote, poll shows
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of God in Glasgow on Facebook
-
 Facebook page for a Church of God Christian church located in Glasgow.

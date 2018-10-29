@@ -10,5 +10,3 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Gwynedd Welsh Pony & Cob Breeders Association | Cymdeithas Bridwyr Merlod a Chobiau Cymreig Gwynedd
-

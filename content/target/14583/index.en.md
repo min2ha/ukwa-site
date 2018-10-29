@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Visit Llandeilo
-
 <p>A business directory and tourist information guide for Llandeilo.</p>

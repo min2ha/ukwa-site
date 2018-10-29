@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Patrick Vernon
-
 Patrick Vernon is a social commentator, film maker and publisher.

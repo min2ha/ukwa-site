@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Day in Hand, A
-

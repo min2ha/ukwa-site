@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Greens to make 'loud and proud' case for EU
-
 BBC News: EU referendum: Greens to make 'loud and proud' case for EU

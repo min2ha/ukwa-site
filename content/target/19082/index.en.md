@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Egham Museum: Magna Carta in Egham
-

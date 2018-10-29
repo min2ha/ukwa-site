@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Brian's Canals Website
-
 Blog about the restoration of the narrowboat Rumpus, other boats, and canals - Birmingham and Staffordshire.

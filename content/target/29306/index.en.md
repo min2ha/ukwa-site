@@ -10,5 +10,3 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Cymdeithas Merlod a'r Cobiau Cymreig | Welsh Pony and Cob Society
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Legislating for Brexit: Statutory Instruments implementing EU law
-
 How does the UK implement EU law and how many UK laws are there which implement EU law? This paper looks at how the majority of EU directives are implemented in the UK and lists EU-related UK Statutory Instruments.

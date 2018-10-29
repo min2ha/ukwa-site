@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ruthwell Kirk
-
 The website of Ruthwell Kirk, comprising the linked parishes of Cummertrees, Mouswald and Ruthwell.

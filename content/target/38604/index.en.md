@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Beverley Centenary Day 2014
-
 Project aiming to add to the Armed Forces Day which hosts Freedom Parades & the signing of the East Riding Covenant & literally showcase now & then.

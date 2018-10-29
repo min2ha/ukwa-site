@@ -10,6 +10,4 @@
   "start_date": "2017-10-04T09:00:00Z"
 }
 
-# Sian Trenberth Photography
-
 Siân Trenberth is one of the most respected people photographers in Wales. She is also a dance photographer and her credits include: English National Ballet, Channel Four, Ballet Cymru, English National Ballet School, Hello! and TV Times.

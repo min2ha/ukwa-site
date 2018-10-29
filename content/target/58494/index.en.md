@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Friends in Need
-
 Website for a mental health charity that lets users of the website connect online in support groups and also in their local areas

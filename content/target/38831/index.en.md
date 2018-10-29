@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Elisabeth Wilson (@elis_wilson) on Twitter
-
 Twitter profile of Elisabeth Mary Wilson, Scottish Liberal Democrat candidate for East Lothian in the 2017 general election.

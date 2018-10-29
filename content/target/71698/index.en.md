@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cursillo in Scotland
-
 Site of a movement of the Scottish Episcopal Church hoping to assist people on their spiritual journey through a greater longing to know and to serve their Lord more effectively within their congregation and the community in which they live and work.

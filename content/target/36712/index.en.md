@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: There is no conspiracy. The EU is completely open about its superstate plan
-

@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Ancient Penwith
-
 A public service site focusing on the prehistoric landscape and archaeology of West Penwith in West Cornwall.

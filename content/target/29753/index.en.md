@@ -10,6 +10,4 @@
   "start_date": "2015-08-13T10:00:00Z"
 }
 
-# Wenlock Poetry Festival
-
 The festival was founded by Anna Dreda, owner the independent bookshop Wenlock Books in 2010, and has since been described by its founding patron, the poet Laureate Carol Ann Duffy, as “the perfect place for poetry”.

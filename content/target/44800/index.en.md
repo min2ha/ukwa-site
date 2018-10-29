@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T11:00:00Z"
 }
 
-# Somerset House
-
 Somerset House Trust was established in July 1997 to conserve and develop Somerset House and the open spaces around it for the public.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn backs permanent customs union after Brexit
-
 Labour leader Jeremy Corbyn backed the UK being in a permanent customs union with the EU in a speech setting out his approach to Brexit.on February 26th 2018
 

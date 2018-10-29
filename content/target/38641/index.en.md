@@ -10,5 +10,3 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# Number 5 Cwmdonkin Drive: the birthplace of Dylan Thomas
-

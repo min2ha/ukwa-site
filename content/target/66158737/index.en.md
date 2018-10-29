@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Turner official website
-
 <p>The website of 110m hurdler Andy Turner, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

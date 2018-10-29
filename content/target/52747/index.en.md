@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK and EU at odds over size of 'divorce bill'
-
 The UK won't pay a 100bn-euro (£84bn) "divorce bill" to leave the EU, Brexit Secretary David Davis said, as the two sides clashed over the issue.

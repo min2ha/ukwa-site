@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Mac's Mouth Blog
-
 Blog by actor musician Alex McNamara featuring posts about the EU Referendum

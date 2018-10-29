@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Meghan Gallacher (@GallacherMeghan) on Twitter
-
 Twitter profile of Meghan Gallacher, Scottish Conservative and Unionist Party candidate for Motherwell and Wishaw in the 2017 general election.

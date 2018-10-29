@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM and Taoiseach Enda Kenny statements: 26 July 2016
-
 Prime Minister Theresa May and the Irish Taoiseach gave press statements after their meeting at 10 Downing Street on UK–Ireland relations in the context of Brexit.

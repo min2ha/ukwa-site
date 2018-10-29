@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Michael Russell (Feorlean) on Twitter
-
 The twitter profile of Michael Russell, Scottish National Party member of the Scottish Parliament for Argyll and Bute.

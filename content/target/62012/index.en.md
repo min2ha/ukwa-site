@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May urges EU to buy into 'ambitious' vision
-
 Theresa May urged the EU to get on with discussing her "ambitious but practical" vision for economic relations with the UK after Brexit. The prime minister told the BBC's Andrew Marr the "right deal for us will be the right deal for them too".
 
 

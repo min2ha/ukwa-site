@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Harborough District Council
-
 Website of Harborough District Council provides news and information about its services. It also gives access to consultations, council policy and strategy documents, committee papers, planning documentation, and council budgets and spending.

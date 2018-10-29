@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jenny Rathbone (Labour Assembly Member for Cardiff Central)
-

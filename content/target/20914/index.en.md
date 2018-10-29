@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steven Paterson on Facebook
-
 This is the Facebook page of Steven Paterson, the Scottish National Party (SNP) candidate for Stirling in the UK General Election on the 7th May 2015.

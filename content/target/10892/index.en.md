@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnsley Yorkshire: Tour de France
-
 Tour de France web page for Tourist Office promoting Barnsley

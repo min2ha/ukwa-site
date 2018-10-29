@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Bradley R.mer | Graffiti artist | Mural artist | Cardiff
-
 Bradley R.mer is a Cardiff based aerosol / graffiti mural artist. 

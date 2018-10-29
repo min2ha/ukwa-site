@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: The 40 genuine Tory triumphs you'd be mad to ignore (and 20 Labour disasters you WON'T see on Ed's stone)
-
 None

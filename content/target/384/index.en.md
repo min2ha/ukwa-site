@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kent Health and Wellbeing Board
-
 None

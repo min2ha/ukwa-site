@@ -10,6 +10,4 @@
   "start_date": "2017-01-01T12:00:00Z"
 }
 
-# Future Scot
-
 Information technology industry and consumer news; some content is reprinted and distrubted as a supplement to the Scottish edition of the Times newspaper.

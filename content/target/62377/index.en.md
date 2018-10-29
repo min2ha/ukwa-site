@@ -10,6 +10,4 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-# Upright Gallery
-
 Site of an independent art gallery in Edinburgh.

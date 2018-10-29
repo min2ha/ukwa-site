@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Steve Bell on the Tory-Lib Dem coalition – cartoon
-
 None

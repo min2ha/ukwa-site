@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Incredible Edible Network
-
 Launched in 2012, the Network aims to support members, inspire new groups and influence decision-makers

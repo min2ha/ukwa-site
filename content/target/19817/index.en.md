@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# La Chouette School
-
 La Chouette School is a bilingual (English French) pre-prep school in West London for childrenf from 2 to 6.

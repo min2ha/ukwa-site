@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Highlands & Islands Tourism Awards
-
 Site of an organisation issuing awards for tourism in the Highlands and Islands of Scotland.

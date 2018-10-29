@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Ceramic Art London 
-
 Annual exhibition and fair for artist-produced ceramic goods

@@ -10,6 +10,4 @@
   "start_date": "2016-07-22T10:00:00Z"
 }
 
-# Ceòlas Uibhist
-
 Site of an annual week-long music and dance school located in South Uist (Uibhist a Deas) promoting and teaching Gaelic culture, heritage and arts. Site is bilingual in Gàidhlig (Scottish Gaelic) and English.

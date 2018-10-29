@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Gambling Commission
-
 The Jersey Gambling Commission is responsible for the regulation of gambling in the Island.

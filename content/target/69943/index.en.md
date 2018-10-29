@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Writing Equipment Society
-
 A website concerned with encouraging the study of handwriting equipment and related artefacts of earlier times, and of associated ephemera To encourage the conservation of both utilitarian and fine items. Also to provide opportunities for collectors to meet and correspond in an informal way and to provide a forum for the expression of members views and questions about writing related equipment.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# For Britain (@ForBritainParty) on Twitter
-
 For Britain is a right wing political party.

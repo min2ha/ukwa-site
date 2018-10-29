@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Midlothian Council: Referendum on Scottish Independence
-
 None

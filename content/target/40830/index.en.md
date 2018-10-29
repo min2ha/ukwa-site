@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: If you’re voting for Brexit because you think British troops will be called up to an EU army, you’ve been horribly misled
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Saracens
-
 The official website of Saracens

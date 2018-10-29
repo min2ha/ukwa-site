@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Mazaika Duo
-
 Mazaika was formed in 1996 after Russian accordionist and singer, Igor Outkine, got together with English violinist, Sarah Harrison. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Kettle (DragonKettle) on Twitter
-
 Twitter profile of David Kettle, member of Team Wales' hockey team for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alison Waters - ''A Sport Professional's Blog''
-
 <p>Website of Alison Waters, squash player and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

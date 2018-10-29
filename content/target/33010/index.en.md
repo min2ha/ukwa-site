@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# V3.co.uk
-
 Website with IT news, reviews and anlysis. It contains a blog.

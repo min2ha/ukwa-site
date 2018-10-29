@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Association of Salmon Fishery Boards
-
 Site of an association representing Scotland’s forty-one District Salmon Fishery Boards.

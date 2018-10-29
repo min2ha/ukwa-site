@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford University Students' Union: Oxford Students' Disability Community
-
 Website detailing The Oxford Students’ Disability Community. It is the Oxford University Student Union’s official Disability Campaign. The page also details the campaign aims.

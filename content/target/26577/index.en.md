@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green vote increases four-fold, but Caroline Lucas remains party's only MP
-
 None

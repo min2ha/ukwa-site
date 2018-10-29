@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sefton Rugby Club on Pitchero
-
 The official website of Sefton Rugby Football Club.

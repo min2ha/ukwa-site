@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Valkyries
-
 Cardiff Valkyries is Wales' only women's American Football team.

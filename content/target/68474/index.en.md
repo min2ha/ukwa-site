@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bothwell Historical Society
-
 Site of a local history society located at Bothwell, Lanarkshire.

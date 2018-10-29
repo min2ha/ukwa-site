@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Guardian, The: Comment is Free: Nelson Mandela
-
 <p>Blog postings on The Guardian's Comment is Free web site, relating to the passing of Nelson Mandela, the memorial and funeral services, and the tributes and memorialisation of Nelson Mandela.</p>

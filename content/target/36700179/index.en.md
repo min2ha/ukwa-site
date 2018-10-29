@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# RenewableUK
-
 RenewableUK - The voice of wind and marine energy is a not-for-profit renewable energy trade association. Their vision is for renewable energy to play a leading role in powering the UK.

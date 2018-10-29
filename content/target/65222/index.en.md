@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Penpont Matters
-
 Community webiste for the village of Penpont, Dumfries & Galloway and its community council, providing information for visitors and residents about amenities and fact about the village.

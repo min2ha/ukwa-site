@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Women4Resources 
-
 Women4Resources main objective is the 'relief of financial hardship of women in Wales and in Sub-Saharan Africa through initiatives designed, run and managed by women'. 

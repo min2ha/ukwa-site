@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Internet Institute: Professor Andrew Przybylski
-
 Staff page of the director of research at the Oxford Internet Institute, professor Andrew Przybylski, who applies psychological models and motivational theory to study how people interact with virtual environments including video games and social media.

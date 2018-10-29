@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jesterval North East Comedy Festival
-
 Website for Jesterval, The North East's Comedy Festival, in Newcastle.

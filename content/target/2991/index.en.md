@@ -10,6 +10,4 @@
   "start_date": "2013-07-26T00:00:00Z"
 }
 
-# Christian News UK: Thousands converge on Holy Island to celebrate Lindisfarne Gospels
-
 None

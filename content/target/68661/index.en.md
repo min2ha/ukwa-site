@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: 'This is NOT Brexit' Rees-Mogg's fury as he calls for May to RIP UP leaked EU plan 
-
 Fury erupted among Eurosceptic Tory MPs after leaked details of Theresa May's new Brexit plan suggested Britain would stay tied into a swathe of EU rules and regulations after Brexit that could wreck hopes of a trade deal with the US..

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Park Street English Baptist Chapel
-
 New Park St Baptist Chapel was established in the mid nineteeth century.

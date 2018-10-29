@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church, Lewes
-
 Official website of the United Reformed Church and Methodist Church, Christ Church in Lewes.

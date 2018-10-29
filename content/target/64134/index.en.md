@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# IYF UK (@IYFUK) on Twitter
-
 Making a difference to the lives of disadvantaged young people in the UK and Northern Ireland

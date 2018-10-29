@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cliftonville Football Club
-
 The official website of Cliftonville Football Club. The Academy is committed to creating a positive enviroment with a professional approach to the development of well-rounded young players and dedicated staff.

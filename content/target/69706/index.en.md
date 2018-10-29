@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Home Affairs Committee: UK-EU security cooperation after Brexit: Follow-up report
-
 Lack of progress and political red lines on both the UK and EU sides are standing in the way of a security deal, and putting public safety at serious and unnecessary risk.

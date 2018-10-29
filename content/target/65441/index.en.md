@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Steph Houghton MBE (@stephhoughton2) on Twitter
-
 Official Twitter account of Steph Boughton, Manchester City and England player. 

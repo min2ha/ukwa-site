@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Preston Lodge Rugby Football Club
-
 Site of a Scottish rugby union football club based in Prestonpans, East Lothian.

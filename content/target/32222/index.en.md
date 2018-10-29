@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Grierson Trust, The
-
 The Grierson Trust commemorates the Scottish documentary maker John Grierson.

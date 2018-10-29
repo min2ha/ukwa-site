@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: We must not allow the Remainers to betray the people, says KATE HOEY
-
 Argues against holding a second referendum on Brexit.

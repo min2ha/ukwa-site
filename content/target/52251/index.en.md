@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Showroom Theatre
-
 Site of a theatre company based in Glasgow.

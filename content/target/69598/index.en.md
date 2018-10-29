@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A no-deal Brexit will not happen. Here’s why
-

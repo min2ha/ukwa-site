@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Great Trossachs Forest, The
-
 The Great Trossachs Forest project was launched in 2009 by the Scottish Forest Alliance.

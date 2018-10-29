@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Colour Clash Newport
-
 Colour Clash is a music festival held at Rodney Parade, Newport.

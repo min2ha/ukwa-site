@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: If Brexit means liberation, why does it feel so dull and joyless?
-

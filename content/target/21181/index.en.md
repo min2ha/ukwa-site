@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Máirtín Ó Muilleoir (Sinn Fein)
-
  Máirtín Ó Muilleoir stood as Sinn Fein candidate for Belfast South at the 2015 General Election but was not elected

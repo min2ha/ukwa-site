@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ‘Selfie’-objectification: The role of selfies in self-objectification and disordered eating in young women
-
 A journal article about the impact of selfies on body image

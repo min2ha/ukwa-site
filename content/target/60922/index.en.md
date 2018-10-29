@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Mail: Men who overuse internet damage their relationships - but women can use it to make relationships stronger
-
 News article about recent reserach that suggests using social media and the internet has different effects on male and females in relationships.

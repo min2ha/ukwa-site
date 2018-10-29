@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Cambridge Climate (@CambsClimate) on Twitter
-
 Twitter feed on climate change

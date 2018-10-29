@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Responsible Finance: Manifesto 2017
-
 Manifesto calls for the launch of an £150m responsible finance fund; the next government to maintain or replace access to EU funding and facilities; and to ensure proportionate regulation of the sector

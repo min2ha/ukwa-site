@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Telegraph, The: Scottish Independence
-
 <p>News stories and comment on the Scottish independence referendum from the website of the Daily Telegraph and Sunday Telegraph.</p>

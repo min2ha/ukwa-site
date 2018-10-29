@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Kirkwood Homes Limited
-
 The website of Kirkwood Homes Limited, an Aberdeenshire-based housebuilding company.

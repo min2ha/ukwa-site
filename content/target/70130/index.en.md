@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church in Renfrew, Renfrewshire.

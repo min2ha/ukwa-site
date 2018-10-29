@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Gloucestershire Farming Friends
-
 Gloucestershire Farming Friends was set up in 1991 by a small group of farming men and women, to give practical and emotional support to those working in agriculture or living within the rural community. The service is free and confidential and has the backing of the National Farmers Union, the Samaritans and Cotswold District Council.

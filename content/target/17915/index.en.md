@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Stop Suicide
-
 Stop Suicide is a suicide prevention campaign which reaches across Peterborough and Cambridgeshire. It is an NHS England-funded pilot campaign across the East of England. 

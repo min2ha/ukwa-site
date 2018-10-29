@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BSACP – British Society of Abortion Care
-
 The British Society of Abortion Care Providers (BSACP) has been formed to promote best practice, education, training and research in abortion care.

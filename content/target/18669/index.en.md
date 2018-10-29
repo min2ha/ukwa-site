@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Conversation, The: In defence of the European Convention on Human Rights
-

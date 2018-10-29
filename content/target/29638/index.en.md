@@ -10,6 +10,4 @@
   "start_date": "2015-11-23T09:00:00Z"
 }
 
-# Crescent Arts Centre
-
 Crescent Arts Centre is a multi-cultural arts centre serving all areas of the Belfast community.

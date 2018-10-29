@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Martin Rowson on the Nicola Sturgeon memo row – cartoon
-
 None

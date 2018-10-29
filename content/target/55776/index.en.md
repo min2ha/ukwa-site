@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Repeal bill published by the government
-
 MPs must "work together" on Brexit, the minister in charge of the UK's EU exit said, as he published a bill to convert EU law into British law. Brexit Secretary David Davis said he would "work with anyone" to make it a success, but he faces opposition. Liberal Democrat leader Tim Farron told the government: "This will be hell."  abour's shadow Brexit secretary Sir Keir Starmer made it clear his party would not support the Bill in its current form.

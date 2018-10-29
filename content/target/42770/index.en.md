@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Advisory Service for Squatters ASS
-
 Voluntary collective providing advice service for squatters and homeless people, based in East London

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Penninghame Parish Church, Newton Stewart on Facebook
-
 Facebook page of a Church of Scotland parish church at Newton Stewart, Dumfries and Galloway.

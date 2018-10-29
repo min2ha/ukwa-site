@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Swale Borough Council
-
 Provides information on public services, news about council activities, consultations, and committee meeting agendas and minutes.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Perspective: What influences gender equality in the home during the transition to parenthood in contemporary Britain? by Anna Hammond
-
 A research article on gender equality in the home during parenthood

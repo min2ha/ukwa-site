@@ -10,5 +10,3 @@
   "start_date": "2012-07-12T00:00:00Z"
 }
 
-# Portable Infrastructure for the Metafor Metadata System (PIMMS)
-

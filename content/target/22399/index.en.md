@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP 'will vote for Labour's 50p income tax rate'
-
 None

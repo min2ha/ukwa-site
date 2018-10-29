@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dancefest
-
 Website for Dancefest.

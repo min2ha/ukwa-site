@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Scotbeef Limited
-
 Scotbeef Limited is a subsidiary of J. W. Galloway Limited, and is based in Bridge of Allen, Scotland. The company is involved in the slaughter, processing and sale of meat products. 

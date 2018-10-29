@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The :  7 laws the Lib Dems stopped the Tories from passing
-
 None

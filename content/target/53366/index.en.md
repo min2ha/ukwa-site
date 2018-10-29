@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# DUFC Archive
-
 Archive and statistics website relating to Dundee United Football Club.

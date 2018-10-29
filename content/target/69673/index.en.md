@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# SO Festival
-
 Exciting, innovative and accessible outdoor arts festival

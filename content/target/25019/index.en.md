@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 'Second election by Christmas if Cameron or Miliband go it alone', says Clegg
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We knew we were behind in the polls a YEAR ago, admits Labour pollster who found Miliband was seven points down
-
 None

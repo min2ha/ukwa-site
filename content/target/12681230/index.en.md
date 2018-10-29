@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bracknell Forest Council
-
 The website of Bracknell Forest Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

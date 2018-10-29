@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hope and Emmanuel - Parish of Hope
-

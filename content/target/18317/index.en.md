@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Mark Thomas (@markthomasinfo) on Twitter
-
 The Twitter account for Mark Thomas, a UK comedian and political commentator.

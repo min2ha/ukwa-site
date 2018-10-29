@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Direct Democracy Ireland
-
 Direct Democracy Ireland believes that Direct Democracy provisions are a living Political and Social process of Governance of a Nation belonging to and giving the Sovereign Irish People the inalienable right of unfettered Political Accountability and Transparency with citizen deliberated decisions from their Elected Representatives / Politicians / Public Officials at Local, National and International Levels

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis:  Can an Article 50 notice of withdrawal from the EU be unilaterally revoked?
-
 Presents an argument from Professor Stephen Weatherill demonstrating that the Article 50 notice cannot be unilaterally revoked – with the contrary argument from Professor Steve Peers.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nature: Academics across Europe join Brexit debate
-
 The pros and especially the cons of leaving the UK for academia

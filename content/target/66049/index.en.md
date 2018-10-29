@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bearsden & Milngavie Highland Games
-
 Site of a highland games located at Milngavie, East Dunbartonshire.

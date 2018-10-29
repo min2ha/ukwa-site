@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Regional Infant Feeding
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# LK Network (@BL_LivingKnow) on Twitter
-
 A partnership between 3 national libraries & 22 major libraries in urban centres in the UK

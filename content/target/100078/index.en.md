@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Lambeth Palace Library
-
 Lambeth Palace Library is the historic library and record office of the Archbishops of Canterbury and the principal repository of the documentary history of the Church of England. Its collections have been freely available for research since 1610.

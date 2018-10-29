@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Buzzfeed: How The First 72 Hours Of The EU Referendum Unfolded
-
 Buzzfeed: How The First 72 Hours Of The EU Referendum Unfolded

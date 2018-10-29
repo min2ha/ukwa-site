@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Wired.co.uk: Artificial Intelligence
-
 List of articles on AI published in the online version of 'Wired' magazine.

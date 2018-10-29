@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Islam 21c: Would a Brexit shield us from the storm?
-
 Argues that Brexit might it be the best chance there is for Islām to maintain a foothold in Europe, when the European mainland appears lost to Islamophobia, and might offer a hope that the da’wah in Europe can continue

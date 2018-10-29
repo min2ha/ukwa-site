@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Fran Evans
-
 Fran Evans is a a children's illustrator from Pembrokeshire

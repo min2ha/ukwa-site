@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bolton Wanderers Football Club
-
 Bolton Wanderers Football Club is a professional association football club based in Bolton, Greater Manchester. The club currently competes in the Championship, the second tier of the English football league system.

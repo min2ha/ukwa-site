@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Finchley: few seats can boast such stark differences in wealth
-

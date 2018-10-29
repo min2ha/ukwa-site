@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Campbell 4 Angus (@Campbell4Angus) on Twitter
-
 Twitter profile of William Campbell, Scottish Labour candidate for Angus in the 2017 general election.

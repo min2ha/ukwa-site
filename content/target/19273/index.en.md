@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Barons
-
 The website of the Magna Carta Barons Association founded by 22 villages and towns in England to celebrate the 800th anniversary of Magna Carta in 2015. Contains information about the 24 Magna Carta barons and the villages and towns where they had their chief manors.

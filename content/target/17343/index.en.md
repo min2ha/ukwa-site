@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Miliband issues warning to UK-controlled 'tax havens'
-
 None

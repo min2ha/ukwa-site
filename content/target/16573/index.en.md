@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The general election could unleash a new wave of contempt for politics
-
 None

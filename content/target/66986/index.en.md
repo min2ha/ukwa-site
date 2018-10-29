@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# SWG3
-
 Website of SWG3, an events space in Glasgow, Scotland that hosts live music; provides exhibition and gallery spaces; and leases studio space within the building. 

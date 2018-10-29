@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Haha Hamilton
-
 Site of a comedy festival in Hamilton, Lanarkshire.

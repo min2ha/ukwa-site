@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jasper Gerard, Liberal Democrats candidate for Maidstone and the Weald
-
 Jasper Gerard stood as Liberal Democrats candidate for Maidstone and the Weald at the 2015 General Election but was not elected. 

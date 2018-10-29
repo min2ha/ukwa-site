@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Blaenau Gwent Heritage Forum | Fforum Treftadaeth Blaenau Gwent
-

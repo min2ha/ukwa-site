@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Welsh Life: Wales Premier Independent Lifestyle Magazine
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greater Midlands Cancer Network
-
 None

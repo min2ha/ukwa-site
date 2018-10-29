@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sunderland LINk
-
 None

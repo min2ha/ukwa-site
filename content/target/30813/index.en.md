@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Naace - National Association of Advisors for Computers in Education
-
 Naace is the ICT association and a community of educators, technologists and policy makers who share a vision for the role of technology in advancing education. The members include teachers, school leaders, advisors and consultants working within and across all phases of UK education.

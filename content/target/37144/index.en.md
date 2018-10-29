@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: BBC plans a massive EU referendum TV debate at WEMBLEY 
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mey Highland & Cultural Games on Facebook
-
 Site of a highland games at John O'Groats, Highland (formerly Caithness).

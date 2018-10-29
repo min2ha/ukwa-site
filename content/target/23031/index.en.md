@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanmanjit Singh Dhesi (Labour candidate for Gravesham)
-

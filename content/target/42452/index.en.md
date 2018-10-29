@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hoyland CAP (community access point)
-

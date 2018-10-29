@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Being Gay is OK
-
 It is a Surrey based charity that directs a lot of service users from the LGBT community to the site for support and information. 

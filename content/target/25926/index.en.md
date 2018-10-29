@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls: a vote for the SNP is a vote for the Tories
-
 None

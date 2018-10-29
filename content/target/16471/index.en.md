@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Why Ed Miliband should be careful talking about the NHS
-
 None

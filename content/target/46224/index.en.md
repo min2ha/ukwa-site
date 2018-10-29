@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Éireann Debate - Wednesday, 12 October 2016
-
 60 pages of parliamentary debate from Wednesday 12 October 2016. This was a continuation of the debate on the Budget 2017 Statement that was first discussed on the previous day. 

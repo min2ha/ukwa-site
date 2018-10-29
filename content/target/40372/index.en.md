@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Ulster Historical Foundation
-
 Site of an organisation providing help to people interested in Irish and Scots-Irish ancestry, and aiming to to encourage an interest in the history of the province of Ulster, whjile broadening access to historical documents and records for Irish and Scots-Irish genealogy.

@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Sliced Quarterly
-
 Sliced Quarterly is a platform for literary creators to experiment with the comic book narrative. 

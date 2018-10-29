@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kettering General Hospital
-
 None

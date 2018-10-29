@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Gazette: Festival looks to anniversary
-

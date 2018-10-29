@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glasgow and West of Scotland Green Party
-

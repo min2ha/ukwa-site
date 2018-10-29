@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Carolyn Caddick (@CarolynCaddick) on Twitter
-
 The Twitter profile of Carolyn Caddick, the Scottish Liberal Democrats candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

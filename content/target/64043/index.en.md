@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Sherwood Greenlaw Parish Church
-

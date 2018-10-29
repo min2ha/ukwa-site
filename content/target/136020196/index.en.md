@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Suffolk LINk
-
 None

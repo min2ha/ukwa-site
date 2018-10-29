@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T11:00:00Z"
 }
 
-# Ellen Davies Poetry
-
 Ellen Davies is a poet from the Rhondda. Her work has appeared in a variety of journals including Popshot Magazine, Envoi and Black Sheep Journal and her debut poetry collection, Accent, was published by Cinnamon Press in May 2015.

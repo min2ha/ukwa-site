@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mebyon Kernow - West Cornwall on Facebook
-
 Facebook page of Mebyon Kernow - West Cornwall

@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Skills Cymru
-
 Skills Cymru is a careers and skills events for Wales held annually at Llandudno and Cardiff. It is an event supported by the Welsh Government.

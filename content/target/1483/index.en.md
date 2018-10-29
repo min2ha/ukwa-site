@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Wellcome Library
-
 Official website of the Wellcome Library, London.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Falconry Forum
-
 An online enthusiast community concerned with falconry both worldwide and in the UK. Discusses falconry hunting & hawking, equipment & housing, medical & husbandry and various other related topics.

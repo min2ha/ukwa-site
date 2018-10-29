@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dafydd Meurig (@DafyddMeurig) on Twitter
-
 Ymgeisydd Seneddol Plaid Cymru, Aberconwy; Party of Wales Parliamentary Candidate, Aberconwy. Cynghorydd Sir, Gwynedd County Councillor

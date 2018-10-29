@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Town and Country Planning Association (TCPA)
-
 The Town and Country Planning Association campaigns for the reform of the UK’s planning system to make it more responsive to people’s needs and aspirations and to promote sustainable development.

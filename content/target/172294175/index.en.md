@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Newydd Housing Association
-
 Newydd is a charitable housing association offering affordable homes for rent and sale to people in greatest across Mid and South Wales.

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Delegation of Catalonia to the United Kingdom and Ireland. Secretaria d’Afers Exteriors. Generalitat de Catalunya
-

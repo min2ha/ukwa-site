@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Assembly Round Up: What is the Single Transferable Vote (STV) and how does it work?
-
 A blog post on the official Northern Ireland Assembly blog about the Single Transferable Vote (STV) and how it works. This was posted three days before the 2017 Assembly Elections.

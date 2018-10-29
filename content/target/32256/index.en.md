@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Deborah Meaden
-
 Official website of Deborah Meaden, a British entrepreneur and businesswoman. She participated in the BBC programme 'Dragon's Den'.

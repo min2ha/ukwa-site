@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian The: Martin Rowson on David Cameron's EU deal – cartoon
-

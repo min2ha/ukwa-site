@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# British Society of Clinical and Academic Hypnosis
-
 BSCAH is a Society for Health Care Professionals whose members are also trained in the medical use of hypnosis.

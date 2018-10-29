@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mr Ethical (Nicholas Wilson): Whistleblower and anti-corruption campaigner (Independent  Politician)
-
 Nicholas Wilson stood as Independent candidate for Hastings and Rye in the 2017 General Election but was not elected. 

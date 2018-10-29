@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Peace Museum, The
-
 The Peace Museum is a national resource that educates and inspires people for peace, using its collections of artefacts and narratives.

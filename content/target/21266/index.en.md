@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David munnerley (@david_munnerley) on Twitter 
-
 Green Party Candidate for Wrexham.

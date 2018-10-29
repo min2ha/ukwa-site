@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jason O'Neill (Alliance Party)
-
 Jason O'Neill stood as Alliance Party candidate for Belfast North at the 2015 General Election but was not elected.

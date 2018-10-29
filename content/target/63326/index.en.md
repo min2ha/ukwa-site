@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# St. Ninian's Parish Church Dunfermline
-
 Site of a Church of Scotland parish church at Dunfermline, Fife

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Webbs of Redditch
-
 This is the history of the Webb family of Redditch since 18th century.

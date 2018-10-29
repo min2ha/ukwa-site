@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Deeside.com
-
 Online news site from Deeside.

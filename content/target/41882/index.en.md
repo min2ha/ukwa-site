@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Leybourne Cricket Club
-
 Leybourne Cricket Club website with news and events hosted by the club.

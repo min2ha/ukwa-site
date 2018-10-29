@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Sound and Music (@soundandmusic) on Twitter
-
 Sound and Music is the national charity for new music in the UK. This is their official Twitter account.

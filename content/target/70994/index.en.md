@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Culloden Baptist Church
-
 Site of a Scottish Christian church and its congregation belonging to the Baptist denomination located in Balloch, Inverness.

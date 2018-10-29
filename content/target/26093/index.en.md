@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: IFS predicts £50bn spending cuts if Conservatives win election
-
 None

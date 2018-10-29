@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Assembly (@AssemblyFest) on Twitter
-
 Assembly run the Assembly Festival at the Edinburgh Festival Fringe and host theatre, music, comedy and events throughout the year in the Assembly Roxy.

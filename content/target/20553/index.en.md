@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems unsure whether to stick or twist with Tories in the budget
-

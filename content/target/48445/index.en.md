@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Europe sees UK set for 'hard' Brexit after May speech
-
 Prime Minister Theresa May's Brexit speech on January 17th 2017 was seen in Europe as the "hard" option of full UK withdrawal - and there was some relief that the British position was clearer now.

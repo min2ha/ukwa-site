@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archbishop of Canterbury, The
-
 Official website of the Archbishop of Canterbury.

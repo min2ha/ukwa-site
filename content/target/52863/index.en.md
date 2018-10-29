@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit will change millions of lives. Our leaders must do more than posture
-

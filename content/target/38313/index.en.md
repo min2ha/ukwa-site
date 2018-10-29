@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Jewish News Online: The Jewish role in the Easter Rising
-
 Article by Alex Goldberg

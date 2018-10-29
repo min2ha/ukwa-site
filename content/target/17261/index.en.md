@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg says poll suggesting he will lose his seat is 'utter bilge' — video
-

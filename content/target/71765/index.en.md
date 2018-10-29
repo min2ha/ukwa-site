@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Griff Lynch 
-
 Griff Lynch was formerly  the guitarist and front man of inventive psych alt. pop band, Yr Ods and is now a solo artist. He is also the presenter S4C's music programme, Ochr 1.

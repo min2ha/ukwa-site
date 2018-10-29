@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Students for Europe on Facebook
-
 A Facebook page of a pro-Remain group of Oxford students.

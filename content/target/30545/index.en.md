@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Birkbeck, University of London
-
 Official website of Birkbeck, University of London.

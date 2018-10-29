@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matt Kerr (@Cllr_Matt_Kerr) on Twitter
-
 Twitter profile of Matt Kerr, Labour and Co-operative Party candidate for Glasgow South West in the 2017 general election.

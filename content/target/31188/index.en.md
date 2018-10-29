@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Clyne Heritage Society
-

@@ -10,5 +10,3 @@
   "start_date": "2016-06-20T10:00:00Z"
 }
 
-# Visit Llanidloes
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Vault Festival
-
 platform for artists in London to present innovative and daring work

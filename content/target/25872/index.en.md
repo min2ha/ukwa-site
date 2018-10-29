@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories playing dangerous game in Scotland, says Conservative peer
-
 None

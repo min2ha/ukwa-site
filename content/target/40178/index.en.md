@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Keith Brown (@KeithBrownSNP) on Twitter
-
 The Twitter profile of Keith Brown, SNP candidate for Clackmannanshire and Dunblane constituency in the 2016 Scottish Parliamentary election.

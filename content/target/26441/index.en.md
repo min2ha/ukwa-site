@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems would give biggest party time to form coalition, says Clegg
-
 None

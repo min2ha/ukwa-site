@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour rules out National Insurance rise if it wins the General Election 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Frack Free Wales (@FrackFreeWales) on Twitter
-
 Frack Free Wales is a pressure group opposing unconventional fossil fuel extraction in Wales.

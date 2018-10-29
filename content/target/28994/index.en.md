@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Reading and Wokingham Green Party
-
 Website of Reading and Wokingham Green Party, providing information on campaigns, local and national news, councillors, candidates and officers.

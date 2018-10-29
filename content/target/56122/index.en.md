@@ -10,7 +10,5 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Troublemakers' Festival
-
 The Troublemakers’ Festival is a 'From the Station to the Sea' project and a partnership between Volcano Theatre and Coastal Housing Group, funded by the Arts Council of Wales.
 The festival is an arts-led regeneration programme focusing on Swansea High Street and held between the 13th and 16th of July, 2017.  The arts was used as a catalyst to provoke new ways of interaction with Swansea High Street.

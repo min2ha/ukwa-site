@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Mixed Up Records
-
 Website of an independent record shop in Glasgow, Scotland. 

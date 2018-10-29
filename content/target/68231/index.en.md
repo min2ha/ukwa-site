@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The St Helena Independent
-
 St Helena's 1St online newspaper

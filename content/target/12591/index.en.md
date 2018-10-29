@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# John Pentland (JohnPentlandMSP) on Twitter
-
 <p>The twitter profile of John Pentland, Scottish Labour Member of the Scottish Parliament for Motherwell and Wishaw.</p>

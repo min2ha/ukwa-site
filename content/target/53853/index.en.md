@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Amanda Solloway (Conservative Politician)
-
 Amanda Solloway stood as Conservative candidate for Derby North at the 2017 General Electionbut was not elected.

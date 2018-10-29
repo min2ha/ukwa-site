@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons European Scrutiny Committee: UK Government’s renegotiation of EU membership: Parliamentary sovereignty and scrutiny
-
 The process of renegotiating Britain's membership of the EU should be subject to the most careful scrutiny. Yet we have found the Government’s approach to Parliament during the renegotiation so far to be reactive and opaque. The onus has been placed on Parliament to guess when to request information and evidence from the Government and others. We regret this approach on a topic of such national importance. Dialogue between the Government and Parliament needs to improve substantially after the December European Council.

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Savage Messiah
-
 Laura Oldfield Ford (born 1973) is a British artist, writer and psychogeographer. She publishes a blog and zine, both of which are called Savage Messiah, about subculture and urban British life. 

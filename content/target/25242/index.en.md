@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Cameron laughs off claims Tories have had a 'sticky' week as he pins hopes of a poll boost on promise of a rail fares freeze which will save commuters £400 by 2020
-
 None

@@ -11,5 +11,3 @@
   "subject": "Pandemic Influenza"
 }
 
-# Vaccine Risk Awareness
-

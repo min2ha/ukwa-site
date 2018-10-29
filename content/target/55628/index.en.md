@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The:Why are so many of Britain's teen girls struggling with mental health problems? 
-
 News article regarding a new study that shows a worrying rise in mental health problems among teenagers in the UK. According to the Department of Education, which spoke to 30,000 pupils aged 14-15, more than one in three teen girls suffer from anxiety or depression. It's a rise of 10 per cent in the past decade, leading experts to call it a "slow-growing epidemic.

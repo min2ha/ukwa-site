@@ -10,5 +10,3 @@
   "start_date": "2013-06-20T00:00:00Z"
 }
 
-# Panel Annibynnol Cymru ar Gydnabyddiaeth Ariannol | The Independent Remuneration Panel for Wales
-

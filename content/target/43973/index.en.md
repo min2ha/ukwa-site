@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum (@eureferendum) on Twitter
-
 Twitter page of a UK Leave blog

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 20th June 2018: European Union (Withdrawal) Bill
-
 The Commons reject Viscount Hailsham and Dominic Grieve's crunch amendment to the European Union (Withdrawal) Bill which would have required the Government to allow MPs to vote on how it should proceed in the absence of a Brexit deal by 21st January 2019.

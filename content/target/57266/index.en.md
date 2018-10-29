@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Coleg Elidyr Camphill Communities
-
 Coleg Elidyr is a residential Camphill Community College near Llandovery providing further education and training for young people aged 18-25 with learning difficulties and disabilities.

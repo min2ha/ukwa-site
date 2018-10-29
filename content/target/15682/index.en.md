@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes East Lothian | Your local grassroots campaign for a Yes vote in 2014
-
 None

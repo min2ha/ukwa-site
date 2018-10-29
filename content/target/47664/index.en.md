@@ -10,7 +10,5 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Gwlad, Gwlad. Hyfforddi. Gweithio. Byw | This is Wales. Train. Work. Live
-
 This is Wales. Train. Work. Live is a major new campaign to promote Wales as an excellent place for doctors, including GPs, and their families, to train, work and live.
 It is part of The Welsh Government's commitment in its Programme for Government to continue to invest in primary care and to take action to attract and train more GPs, nurses and other health professionals to Wales.

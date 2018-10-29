@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Canisbay Parish Church of Scotland
-
 Site of a Church of Scotland parish church at canisby, Highland (formerly Caitness) and incorporating churches at Watten and Bower.

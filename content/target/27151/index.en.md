@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# Julia Griffiths Jones
-
 Welsh artist and creative wales ambassador for 2013.

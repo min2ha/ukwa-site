@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Eisteddfod y Fenni | Abergavenny Eisteddfod
-

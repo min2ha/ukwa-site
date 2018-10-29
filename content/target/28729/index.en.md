@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Citizen's Climate Lobby
-
 Citizens’ Climate Lobby UK is a non-profit, grassroots advocacy organization, one of over 250 chapters of the global movement begun in the US in 2007.

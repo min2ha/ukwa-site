@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron celebrates election victory with 'Spider-Man strut' 
-
 None

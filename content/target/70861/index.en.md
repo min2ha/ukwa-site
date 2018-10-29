@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Ysgol Gymunedol Beulah | Beulah Community School
-
 Ysgol Beulah is loctaed between Aberporth and Newcastle Emlyn in Cardiganshire.

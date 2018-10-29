@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queens Birthday Party Ideas
-
 Party ideas to celebrate the Queens Birthday.

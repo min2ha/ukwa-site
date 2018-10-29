@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Mail Online: Try as they might, legal chancers and arrogant mandarins WON'T stop Brexit
-
 It’s hard not to get the impression that many politicians and officials believe that the public’s choice in the June 23rd referendum to vote for Brexit was as a result of stupidity and therefore can be ignored — even though the only purpose of the referendum was to allow the public to decide whether or not the UK should remain in or leave the European Union.
 

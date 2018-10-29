@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris under fire from Tory MPs after launching scathing attack on Obama as he accuses US president of ‘blatant hypocrisy’ for telling British voters to stay in the EU
-
 Obama argues for Britain to stay in the EU and Boris Johnson accuses him of hypocrisy. 

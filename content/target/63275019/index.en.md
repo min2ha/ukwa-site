@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Buriton Heritage Bank Online
-
 None

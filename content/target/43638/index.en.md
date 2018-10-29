@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pitchero Blog: How Brexit might affect Grassroots Sport 
-
 Pitchero Blog post on the possible effect of Brexit on grassroots sport

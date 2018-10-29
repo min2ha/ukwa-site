@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election tipping points: the local factors that can swing a seat
-
 None

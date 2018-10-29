@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Phoenix Cinema
-
 The Phoenix Cinema is an independent cinema in East Finchley, London, England, that was built in 1910 and opened in 1912 as the East Finchley Picturedrome.

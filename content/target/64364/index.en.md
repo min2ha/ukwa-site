@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Anglo-Ethiopian Society
-
 The website allows you to find out about the history, aims and, most importantly, how to join the Anglo-Ethiopian Society

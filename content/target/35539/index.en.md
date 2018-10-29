@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Mumsnet: The Zika virus: what you need to know
-
 Mumsnet information page on the Zika virus

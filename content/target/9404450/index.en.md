@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Policy Exchange
-
 Read publications and view presentations given at events. Policy Exchange is an educational charity that specialises in applying localist and free market thinking to public policy questions.

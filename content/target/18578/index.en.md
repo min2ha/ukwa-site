@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruth Osner on Facebook
-
 Green Party Candidate at Cardiff Central.

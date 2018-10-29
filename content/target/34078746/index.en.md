@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Una White - Name in lights
-
 Name in Lights was a national competition with the prize of the name of your choice spelt out in a giant illuminated sign in the centre of Birmingham.

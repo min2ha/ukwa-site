@@ -10,5 +10,3 @@
   "start_date": "2008-07-16T23:00:00Z"
 }
 
-# Food Magazine, The - Food Commission, The
-

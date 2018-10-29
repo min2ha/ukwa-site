@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Woodiwiss on Facebook (Green Party candidate for Harborough)
-

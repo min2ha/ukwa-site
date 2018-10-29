@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU bank may not fully repay UK until 2054
-
 Billions of euros of British taxpayers' money could remain locked into an EU bank for more than thirty years after Brexit. Alexander Stubb, vice president of the European Investment Bank - in which the UK is a 16% shareholder - said it would not be fully repaid until 2054.

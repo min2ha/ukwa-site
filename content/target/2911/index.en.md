@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Glamping Holidays in the UK
-
 <p>Directory of glamping (luxury camping) venues.</p>

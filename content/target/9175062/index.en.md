@@ -10,5 +10,3 @@
   "start_date": "2008-07-02T00:00:00Z"
 }
 
-# Jazzcontinuum - The website of Graham Collier
-

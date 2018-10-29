@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Catrin Edwards
-
 Catrin Edwards is a producer, director and composer working in TV and theatre and one of the founder members of Theatr Bara Caws.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Will Ford
-
 Will Ford is a Cardiff based Writer, Poetry & Spoken Word Performer.

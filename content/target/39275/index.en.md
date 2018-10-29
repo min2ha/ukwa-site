@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Breathing new life into Welsh politics: Election Reform Society Cymru Manifesto
-

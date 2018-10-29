@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Better Together
-
 <p>The website of Better Together, the national campaign for Scotland in the United Kingdom.</p>

@@ -10,7 +10,5 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Invisible Ink Theatre
-
 Invisible Ink is a new writing theatre company based in Cardiff and Bristol.
 It’s a collaboration between co-artistic directors Sita Calvert-Ennals and Alan Harris.

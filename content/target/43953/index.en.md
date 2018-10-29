@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Why elections are bad for democracy
-
 An opinion piece in the guardian on why the state should consider an alternative to the traditional voting and referendum system in place.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alasdair Morrison (@Alasdair4MP) on Twitter
-
 The Twitter profile of Alasdair Morrison, the Labour Party candidate for Na h-Eileanan an Iar (Western Isles) in the UK General Election on the 7th May 2015.

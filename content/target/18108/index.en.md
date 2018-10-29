@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nick Clegg bets Ukip supporter SIX pints the Lib Dems will win more seats than Nigel Farage's party in May
-
 None

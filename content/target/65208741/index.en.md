@@ -10,5 +10,3 @@
   "start_date": "2012-05-31T00:00:00Z"
 }
 
-# Welsh Government (welshgovernment) Twitter
-

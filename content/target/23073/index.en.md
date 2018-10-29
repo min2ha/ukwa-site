@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kazimir Hubert (Independent candidate for Cardiff Central)
-

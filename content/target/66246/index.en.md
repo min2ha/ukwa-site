@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Community Security Trust (CST)
-
 Site of a United Kingdom charity that protects British Jews from antisemitism and related threats.

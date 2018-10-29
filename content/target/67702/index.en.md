@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Côr Llanpumsaint a'r Cylch
-
 Côr Llanpumsaint a’r Cylch is a mixed voice choir established in 1975.

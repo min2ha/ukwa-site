@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sophie Edwards (Sophie96Edwards) on Twitter
-
 Twitter profile of Sophie Edwards, wrestler for Team England at the Glasgow 2014 Commonwealth Games.

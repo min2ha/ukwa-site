@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hamilton, St. John’s Parish Church
-

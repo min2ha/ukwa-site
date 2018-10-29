@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Littlehampton RFC (@LA_RFC) on Twitter
-
 The official Twitter account of Littlehampton Rugby Club.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# World of Ghosts - Paranormal Forums
-
 An online enthusiast community concerned with ghost hunting. Includes sections for world of ghost general chat, UFO's, the occult, most haunted and various other related topics.

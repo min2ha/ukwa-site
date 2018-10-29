@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Catholic Association of Teachers, Schools and Colleges (CATSC)
-
  Formed in 1996 by the amalgamation of the Catholic Teachers Federation of England and Wales and the Association of Catholic Schools and Colleges (formerly the Conference of Catholic Secondary Schools), the Catholic Association of Teachers, Schools and Colleges (CATSC) brings together the best features of the long tradition of both organisations.

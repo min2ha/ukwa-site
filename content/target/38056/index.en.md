@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jil Murphy (@jil_murphy) on Twitter
-
 Twitter profile of Jil Murphy, the Scottish National Party list candidate for Lothian Region in the 2016 Scottish Parliamentary elections. 

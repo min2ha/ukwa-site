@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lesley Griffiths AM (@lesley4wrexham) on Twitter 
-
 Lesley Griffiths  is the Labour candidate for Wrexham at the 2016 National Assembly for Wales election. 

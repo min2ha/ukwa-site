@@ -10,7 +10,5 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Good Life, Good Death, Good Grief
-
 Site of an alliance of organisations and individuals that work together to raise public awareness of ways of dealing with death, dying and bereavement
 and promote community involvement in death, dying and bereavement in Scotland.

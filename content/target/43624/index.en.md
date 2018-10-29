@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Environmental Law Association (UKELA): EU Referendum
-
 UKELA on the EU referendum: provides both sides of debate about what will happen to environmental policy after the referendum

@@ -10,6 +10,4 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# Champollion Group
-
 Champollion Group are an independent communications consultancy comprising three fully integrated agencies, specialising in media relations, public affairs and digital communications. They help our clients to make public policy arguments across these disciplines to get their voice heard.

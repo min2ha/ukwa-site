@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# wrightyofficial (@wrightyofficial) on Instagram
-
 Ian Wright is a former professional footballer from England who is currently a football pundit with different UK TV stations. This is his official Instagram account.

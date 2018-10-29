@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror, The: Frequent internet users become ‘hooked’ on web surfing and receive same ‘high’ as gambling addicts
-
 News article referencing a study by clinicians from Swansea and Milan universities showing that frequent users of the internet experience psychological changes similar to gambling addicts or shopping addicts 

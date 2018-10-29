@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge St. David (Tarbolton) Mauchline No.133
-
 Site of a masonic lodge located in Mauchline, Ayrshire and affiliated with the Grand Lodge of Scotland.

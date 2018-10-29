@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU citizens in UK face Brexit uncertainty 
-
 Guardian, The

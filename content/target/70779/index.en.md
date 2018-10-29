@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hillview Community Church
-
 Site of a Scottish Christian church and its congregation of the Baptist denomination located in Aberdeen.

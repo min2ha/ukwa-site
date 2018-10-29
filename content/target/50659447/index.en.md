@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Joint European Torus (JET)
-

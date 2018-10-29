@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Freeschool Court Evangelical Church, Bridgend
-

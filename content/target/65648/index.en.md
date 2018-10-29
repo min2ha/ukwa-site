@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Menzies Aviation
-
 Menzies Aviation is a logistics company serving the global airline industry. It is a division of John Menzies plc.

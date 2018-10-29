@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Scottish Out of School Care Network
-
 Site of an organisation that is the national infrastructure umbrella organisation providing support, mentoring, training, information and resources to all childcare services in Scotland, which provide childcare, play and learning opportunities for school-age children.

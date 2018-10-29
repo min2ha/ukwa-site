@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Rural Development Trust
-
 Site of a development organisation based in South Lanarkshire, focusing on rural and market town development in the area.

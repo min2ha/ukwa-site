@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Shafted! Lord Mandelson warns Labour with Ed Miliband at helm cannot win general election
-
 None

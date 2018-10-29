@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# London Fencing Club
-
 London Fencing Club offer coaching and training facilities for more than 300 members, introductory courses for hundreds of beginners, adults and children, and employing 8 international Fencing Masters. 

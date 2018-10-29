@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Western Daily Press
-
 None

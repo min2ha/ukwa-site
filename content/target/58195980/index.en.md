@@ -10,5 +10,3 @@
   "start_date": "2015-02-09T00:00:00Z"
 }
 
-# Sedgebrook - Lincolnshire
-

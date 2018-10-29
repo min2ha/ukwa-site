@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sir Robert Smith - West Aberdeenshire and Kincardine
-
 This is the website of Robert Smith, the Liberal Democrats candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

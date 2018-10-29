@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# England Hockey
-
 England Hockey is the national governing body for the sport of field hockey in England. There are separate governing bodies for the sport in the other parts of the United Kingdom. 

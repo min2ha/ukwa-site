@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Corridor, The (a cricket blog)
-

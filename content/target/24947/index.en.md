@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Simon Wright on Facebook (Liberal Democrat candidate for Norwich South)
-
 None

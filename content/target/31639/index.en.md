@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# New Time Media
-
 New Time Media is a web design agency based in Leicester building and maintaining websites and developing web designs.

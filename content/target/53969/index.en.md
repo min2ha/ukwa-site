@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julian Reid (@JustJulian4MP) on Twitter (The Just Party  Politician)
-
 Julian Reid stood as The Just Political Party candidate for Maidenhead in the 2017 General Election but was not elected.

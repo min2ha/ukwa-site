@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bethania Church, St Mellons, Cardiff
-
 Bethania Church meet in St Mellons, Cardiff

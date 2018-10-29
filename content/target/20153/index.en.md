@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liz Saville Roberts - Plaid Cymru on Facebook
-
 Plaid Cymru Candidate for Dwyfor Meirionnydd-General Election 2015.

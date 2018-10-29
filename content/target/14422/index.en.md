@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Caerphilly Miners Centre for the Community
-
 <p>The Caerphilly Miners Centre for the Community has been established by a group of committed local people who have successfully campaigned to safeguard the Beeches building from demolition.</p>

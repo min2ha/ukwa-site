@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tibet Foundation
-
 Tibet Foundation is a UK based and Tibetan led charity that gives practical support to Tibetan communities in education, health care, social welfare and economic development, and helps Tibetan and Mongolian people to sustain their culture and spiritual traditions.

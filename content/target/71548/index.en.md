@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: MEDDLING MACRON France’s Emmanuel Macron launches extraordinary attack on Brexiteers and calls them ‘liars’
-
 President Macron launched a vicious attack on the leaders of the leave campaign in the 2016 referendum  - hours after the EU tore apart Theresa May's Chequers plans at the September 2018 European Council meeting
 

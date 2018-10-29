@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Guernsey Welsh Choir
-
 The Guernsey Welsh Male Voice Choir was established in 2003 as “Welsh Boys Aloud”, renamed the Guernsey Welsh Male Voice Choir in 2014.

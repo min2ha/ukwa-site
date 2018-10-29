@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman: Post-referendum Inverclyde: A savage journey into the heart of Labour’s darkness
-
 None

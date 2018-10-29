@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Scottish FC (@LSFCOfficial) on Twitter
-
 The official Twitter account of London Scottish Football Club.

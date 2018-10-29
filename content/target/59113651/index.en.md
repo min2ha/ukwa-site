@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# ATS Remembered - Auxiliary Territorial Service
-
 None

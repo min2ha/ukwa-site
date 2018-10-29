@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# York and Humber Green Party
-
 None

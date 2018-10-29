@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Comment Central
-
 Commentary hub

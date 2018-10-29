@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheryll Murray (Conservative)
-
 Sheryll Murray stood as Conservative candidate for South East Cornwall at the 2015 General Election. She was first elected to serve as MP for South East Cornwall in 2010 and re-elected in 2015.

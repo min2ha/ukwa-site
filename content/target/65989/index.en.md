@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Welsh Academy, The | Academi Gymreig, Yr
-
 Yr Academi Gymreig – The Welsh Academy is the national Society of Writers in Wales. The society represents the interests of Welsh writers and writing both inside Wales and beyond. Yr Academi Gymreig/The Welsh Academy was founded in 1959.

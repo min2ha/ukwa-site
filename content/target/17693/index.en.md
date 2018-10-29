@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bishops’ pastoral letter was labelled hard-left propaganda. I can see why … 
-
 None

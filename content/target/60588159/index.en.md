@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Galop
-
 Galop is a LGBT+ anti-violence charity. 

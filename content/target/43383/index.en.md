@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Student Newspaper, The: The EU Referendum: a “disaster” for British science?
-
 An article on the website The Student Newpaper considering the effects of a Brexit vote and its potentially negative impact upon science research in Britain.

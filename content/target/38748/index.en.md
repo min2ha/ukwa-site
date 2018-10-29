@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gail Casey: Scottish Labour Party Candidate
-
 Gail Casey is the Scottish Labour candidate for Clydebank and Milngavie in the 2016 Scottish Parliamentary election.

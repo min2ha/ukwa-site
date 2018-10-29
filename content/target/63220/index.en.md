@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Viewpark Parish Church
-
 Site of a Church of Scotland parish church Uddinston, Lanarkshire.

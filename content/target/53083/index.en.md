@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hexham Tories (@HexhamTories) on Twitter
-
 Tweets by the local Conservative Party team across Tynedale & Ponteland; about the locality & the Region.

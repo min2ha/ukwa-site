@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Royal Society of Tropical Medicine and Health (RSTMH), The
-
 The Royal Society of Tropical Medicine and Health (RSTMH) promotes and advances the study, control and prevention of disease in humans and animals in the tropics and plays a leading role in increasing awareness throughout the world of tropical medicine and international health issues.

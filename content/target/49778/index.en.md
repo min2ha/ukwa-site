@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Salem Baptist Church Barry
-

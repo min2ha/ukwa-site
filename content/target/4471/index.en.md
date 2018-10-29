@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Russian Beyond the Headlines: Sport
-
 None

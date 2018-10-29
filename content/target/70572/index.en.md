@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dora Jakab (@Dora55996715) on Twitter
-
 FA Level 1 Coach | Referee | BSc Sport Manager | MSc International Sport Management

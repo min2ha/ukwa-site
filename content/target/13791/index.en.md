@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alistair Darling (TogetherDarling) on Twitter
-
 The twitter profile of Alistair Darling, Labour Member of Parliament for Edinburgh South West and Chair of the Better Together Campaign.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Ysgol y Berwyn
-
 Comprehensive school in Bala earmarked for closure in 2015.

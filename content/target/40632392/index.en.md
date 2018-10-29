@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:16.284240", 
+  "date": "2018-10-29T13:21:15.892302", 
   "open_access": true, 
   "target_url": "http://www.wrp.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Workers' Revolutionary Party", 
-  "record_id": "20181029T125416/N0lboZXyGEUwucfwgKY0pA==", 
+  "record_id": "20181029T132115/N0lboZXyGEUwucfwgKY0pA==", 
   "publisher": "wrp.org.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# Workers' Revolutionary Party
 

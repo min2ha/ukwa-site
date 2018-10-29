@@ -11,5 +11,3 @@
   "subject": "Video Games"
 }
 
-# London Educational Games Meetup Group, The
-

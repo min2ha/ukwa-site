@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Magna Carta visit to the US is putting Lincolnshire on the map
-

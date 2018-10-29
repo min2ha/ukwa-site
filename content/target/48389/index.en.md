@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Saferworld 
-
 Saferworld is an independent international organisation working to prevent violent conflict and build safer lives.

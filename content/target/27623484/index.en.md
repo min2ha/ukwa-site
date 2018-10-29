@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Yara El-Sherbini
-
 Yara El-Sherbini is a British Council Artist Fellow.

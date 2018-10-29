@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Thomas McCurtains (@ThomasMcCurtain) on Twitter
-
 East London's only GAA Club and one of London's oldest active GAA clubs, with mens and ladies football, hurling and camoige teams from u-8 to adult.

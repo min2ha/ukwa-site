@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# St. David (University Lodge) No. 36
-
 Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.

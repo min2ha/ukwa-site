@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Welsh Conservatives, Ceidwadwyr Cymreig
-
 Website of Welsh Conservatives (Ceidwadwyr Cymreig), providing information on MPs, MEPs, Assembly Members, Welsh Board and Council Group Leaders, events, speeches and local, national, Assembly and Westminster news.

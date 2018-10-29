@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Building Centre, The
-
 Independent centre for the built environment, based in Store Street, Bloomsbury, London. Includes exhibition centre, research and information centre, training facilities, specialist bookshop and services for manufacturers. Also home to other associations and companies. 

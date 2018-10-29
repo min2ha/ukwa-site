@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  West Mearns Parish Church of Scotland
-
 Site of a group of Church of Scotland parish churches at Auchenblae, Fettercairn and Glenbervie.

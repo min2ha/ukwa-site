@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Westminster cuts could fuel demand for new independence vote – SNP
-
 None

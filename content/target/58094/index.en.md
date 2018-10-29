@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Swallow Theatre
-
 Site of a theatre located in Newton Stewart, Dumfries & Galloway.

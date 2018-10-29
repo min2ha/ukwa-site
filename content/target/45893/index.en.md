@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Joseph Thomson Group
-
 Site of a local history group and heritage centre focusing on the explorer Joseph Thomson and the area in and around Penpont, Dumfriesshire, Scotland.

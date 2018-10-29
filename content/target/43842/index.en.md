@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Labour’s traditional voters no longer share its progressive values 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Manufacturers call for Brexit strategy rethink
-
 The government should rethink its Brexit strategy, following the 2017 general election, according to the engineering industry organisation, the EEF.

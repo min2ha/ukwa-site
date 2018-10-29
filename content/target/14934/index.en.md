@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brentford Dock Right Now
-
 None

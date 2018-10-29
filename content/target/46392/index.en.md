@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 18th Oct. 2016: Brexit: Economic impact
-
 The House of Lords debates whether the Government stands behind the forecasts for the shortfall in the United Kingdom’s economic growth as a result of Brexit set out in HM Treasury Analysis: The long-term economic impact of EU membership and the alternatives, published in April 2016.

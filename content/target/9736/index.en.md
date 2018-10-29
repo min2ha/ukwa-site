@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guido Fawkes Blog: Full Tory MEP Candidate Rankings
-
 None

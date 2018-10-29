@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Nuneaton Muslim Society
-
 Nuneaton Muslim Society has been based at the current site since 1984. A number of respected individuals have been paramount to laying the foundations of the success the Society has been achieving in recent years from a social and religious perspective.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Emma Dent Coad (@emmadentcoad) on Twitter (Labour Politician)
-
 Emma Dent Coad stood as Labour Party candidate for Kensington in the 2017 General Election and was successful.

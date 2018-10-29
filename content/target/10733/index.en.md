@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ian Hudghton (@hudghtonmepSNP) on Twitter (Scottish Nationalist MEP for Scotland)
-
 Ian Hudghton stood as Scottish Nationalist candidate for Scotland at a European Parliament by-election in 1998 and was elected to serve as MEP. His ambition is to see Scotland develop politically, restoring its position as a normal independent country with the automatic right to be represented at the top table in Europe, and fully participating in the international community of nations.

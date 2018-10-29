@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Llunio ein Dyfodol | Shaping our Future
-
 Shaping out Future is an alliance of over 30 organisations, from environment and development charities to faith and belief, language, community and women’s groups who all share a commitment to shaping a sustainable future for Wales, fighting for social justice in Wales and around the world and doing so within the environmental limits of our one planet, using only our fair share of resources.

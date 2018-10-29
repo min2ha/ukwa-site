@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# National Small-bore Rifle Association (NSRA): London Olympics 2012
-

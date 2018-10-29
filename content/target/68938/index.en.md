@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May’s grand plan has left her stranded in no woman’s land
-

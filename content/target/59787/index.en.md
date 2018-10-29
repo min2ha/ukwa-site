@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Border Rugby Referees Society
-
 Site of a society of rugby union referees and match officials based in the Scottish Borders.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC  News: Theresa May and ministers hammer out Brexit positions
-
 Amid perceptions of continuing division, the Brexit Cabinet Committee met to sketch out what the future relationship between the UK and EU might look like.on February 7th 2018

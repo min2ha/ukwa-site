@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Royal Society of Medicine (RSM), The
-
 <p>The Royal Society of Medicine is one of the country's major providers of postgraduate medical education.  Independent and apolitical, the Society promotes an exchange of information and ideas on the science, practice and organisation of medicine.</p>

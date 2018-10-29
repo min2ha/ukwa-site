@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Williams (@Craig4CardiffN) on Twitter
-
 Prospective Conservative candidate for Cardiff North & Cardiff City Councillor.

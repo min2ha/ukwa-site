@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU 'tightens transition guidelines' on immigration, trade and fishing
-
 The UK's freedom to determine its own rules on immigration, trade and fishing in a transition period after Brexit could be further restricted, according to revised EU guidelines on a transition.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-16T09:00:00Z"
 }
 
-# Hafod Care Housing Association
-
 Hafod Care Housing Association provides housing, care and support services across South and West Wales to vulnerable people with a variety of needs.

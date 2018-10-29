@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# softopia: my public writing place 
-
 'softopia: my public writing place' contains the personal writings of the Welsh designer John Chris Jones. He was born in 1927, in Aberystwyth.

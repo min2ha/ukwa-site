@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit negotiations: Barnier rules out 'concessions'
-
 The EU's chief negotiator said there would be "substantial" consequences from Brexit after the first round of talks with the UK. UK Brexit Secretary David Davis said talks got off to a "promising start".

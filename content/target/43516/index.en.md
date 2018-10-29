@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chris Beetles Gallery: In or Out? The Cartoonist's View
-
 Chris Beetles is pleased to announce 'In or Out? The Cartoonist's View', a new exhibition of over 100 works inspired by the impending EU Referendum, as seen through the eyes of three of Britain's favourite cartoonists, Peter Brookes of The Times, Matt of the Telegraph and Kipper Williams of the Guardian.

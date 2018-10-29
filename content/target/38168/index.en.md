@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Hargreaves Landsdown: Brexit - our view
-

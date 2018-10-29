@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# University of Oxford: Oxford and Brexit
-

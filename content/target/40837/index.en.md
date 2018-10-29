@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Arad Goch
-
 Arad Goch is a theatre company based in Aberystwyth.

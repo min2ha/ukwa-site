@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Temple Church, London: International Conference: Magna Carta, Religion and the Rule of Law
-

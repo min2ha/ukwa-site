@@ -10,5 +10,3 @@
   "start_date": "2013-10-11T00:00:00Z"
 }
 
-# A Study of  the Phonology of Rhondda Valleys English (1995-9)
-

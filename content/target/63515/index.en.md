@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Verdict | Making the world easier to understand
-
 Verdict covers global business issues with speed, accuracy and intelligence. Powered by data and smart visualisation techniques, Verdict brings you all you need to know in an engaging, quick and a thought provoking way.

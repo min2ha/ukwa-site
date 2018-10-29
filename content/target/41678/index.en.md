@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Diocese of Aberdeen
-
 Site of the Roman Catholic Diocese of Aberdeen

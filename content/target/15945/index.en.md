@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Human Rights Commission (SHRC)
-
 The Scottish Human Rights Commission is an independent public body responsible for promoting human rights for everyone in Scotland.

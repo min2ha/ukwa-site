@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# J.K. Rowling (@jk_rowling) on Twitter
-
 Twitter profile of author J.K. Rowling.

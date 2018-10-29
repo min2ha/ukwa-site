@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Malehealth - formerly known as Men's Health Forum
-
 Malehealth is here to provide essential, accurate, easy to use information about the key health problems that affect men. Packed with tips, expert advice and details of how men can check their own health and use health professionals more effectively, malehealth provides the down-to-earth and practical rsources men need to lead healthier, happier lives.

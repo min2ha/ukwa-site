@@ -11,8 +11,6 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Edinburgh City of Literature: The Briggers: The story of the men who built the Forth Bridge
-
 Len Saunders and Tom Martin present the story of the Forth Rail Bridge and the men so intensely tied to its construction. An event held at the National Library of Scotland.
 
 Forth Rail Bridge achieved iconic status as one of the great feats of western civilisation when it opened in 1890.

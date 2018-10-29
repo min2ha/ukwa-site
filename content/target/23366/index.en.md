@@ -10,6 +10,4 @@
   "start_date": "2015-05-07T08:00:00Z"
 }
 
-# Abergavenny Market Futures
-
 The site is a campaign to stop Monmouthshire County Council closing Abergavenny Livestock Market and selling the site to Morrisons. 

@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Ar ôl Tri
-
 Ar ol Tri was established in the 1980's and is a choir based in Cardigan.

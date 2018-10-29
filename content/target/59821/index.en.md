@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Barnsley Birds Sightings Blog
-
 An online enthusiast blog concerned with bird sightings in the Barnsley area. Provides a hub for birdwatchers to submit sightings occasionally including photographs.

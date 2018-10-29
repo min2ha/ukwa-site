@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Adams Park Stadium
-
 Adams Park is an association football stadium in High Wycombe, Buckinghamshire. Built in 1990, it is the home ground of Wycombe Wanderers F.C. 

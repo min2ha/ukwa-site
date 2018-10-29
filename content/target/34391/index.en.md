@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kenneth Gibson MSP
-
 Kenneth Gibson is Scottish National Party member of the Scottish Parliament for Cunninghame North.

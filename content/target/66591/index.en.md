@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: IAIN DUNCAN SMITH: No new migrants to be allowed here without a job - and none to get welfare benefits for five years
-
 Presents proposals for UK immigration policy after Brexit

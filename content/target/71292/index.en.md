@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Dresden Trust, The
-
 The Dresden Trust was founded in 1993 in response to a call from Dresden for help rebuild the Frauenkirche (Church of Our Lady), one of Europe’s most magnificent churches. It had collapsed as a result of the British and American bombing of February 1945, in which up to 25,000 people died.

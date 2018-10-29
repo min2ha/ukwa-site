@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Brown Hijabi
-
 Suhaiymah Manzoor-Khan is a 23 year old Muslim woman and third-generation Pakistani in the UK. She was born in Bradford, raised and state-schooled in Leeds, graduated from a history degree at Cambridge University and master’s in Postcolonial Studies at SOAS. She writes and speaks about politics, race, gender, feminism, Islam, being visibly Muslim, Eurocentric academia, decolonising minds/bodies and more. The aim of this blog is to create space. Space for her voice and space to be able to think.

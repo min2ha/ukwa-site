@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swansea City A.F.C.
-
 Swansea City Association Football Club is a Welsh professional football club based in Swansea, Wales, that plays in the Premier League, the top tier of English football.

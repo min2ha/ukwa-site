@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# FloVibe
-
 Retreat meets festival, combining music and wellness

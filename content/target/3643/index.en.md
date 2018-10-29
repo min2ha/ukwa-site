@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Airdrie & Coatbridge Advertiser
-
 None

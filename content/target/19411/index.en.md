@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Society of Antiquaries of London: Magna Carta: The Context of Magna Carta
-

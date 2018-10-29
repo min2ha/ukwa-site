@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# WFC The Venue
-
 Bescot Stadium, also known as the Banks's Stadium for sponsorship purposes, is a football stadium in Walsall, England, and the current home ground of Walsall Football Club. It was built in 1989–90, by GMI Construction, with a reported build cost of £4.5m.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Angela Merkel warns UK it can't have access to single market without freedom of movement
-

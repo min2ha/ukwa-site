@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanya Jones (@decombustion) on Twitter (Green Party candidate for Fermanagh and South Tyrone)
-

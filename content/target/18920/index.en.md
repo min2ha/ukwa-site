@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Lincoln's original copy of the Magna Carta to tour USA
-

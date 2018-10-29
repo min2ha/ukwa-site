@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# NI Science Festival
-
 Festival with a wide range of events focusing on science, technology, engineering and mathematics.

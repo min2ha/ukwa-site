@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dance:Film
-
 Site of an annual film festival specialising in dance and based in Edinburgh.

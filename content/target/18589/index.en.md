@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Higgins on Facebook
-
 Calum Higgins is standing to be the Labour MP for Carmarthen East and Dinefwr.

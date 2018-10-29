@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC: UKIP denies producing 'jihadi' benefits leaflet
-

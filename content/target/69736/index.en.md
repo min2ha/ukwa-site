@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Clwb y Bont, Pontypridd
-
 Clwb y Bont is located in Pontypridd. It was established as a members co-operative with a unique purpose, a great opportunity for Welsh speakers at all levels to come along and speak in Welsh. Clwb y Bont continues to uphold the ethos of its founding members.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gŵyl Cybi | Cybi Festival
-
 Gŵyl Cybi/ Cybi Festival is a mini festival of poetry/ spoken word / bands in Ucheldre Centre, Holyhead. The 2018 festival is their first festival.

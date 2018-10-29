@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bez suffers dose of reality in his bid to become Salford MP 
-
 None

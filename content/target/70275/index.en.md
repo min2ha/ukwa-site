@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# JD Club NI (@OfficialClubNI) on Twitter
-
 Elite Player Development Programme run by the Irish FA & Supported by JD Sports

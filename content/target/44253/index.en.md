@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM David Cameron statement on Theresa May and next steps: 11 July 2016
-
 David Cameron made a statement in Downing Street on the timings of transition to the new Prime Minister Theresa May.

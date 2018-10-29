@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Cromarty Rising
-
 Cromarty Rising is a local pressure group petitioning against an application made by the Port of Cromarty Firth for a ship to ship oil transfer license.

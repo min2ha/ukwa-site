@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Weir Group plc
-
 The Weir Group plc is an engineering compancy focused on mining, oil and gas and power markets.

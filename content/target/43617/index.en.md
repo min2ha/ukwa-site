@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Diocese of Lincoln: Archbishop Justin Welby on the EU referendum
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Slade (@SteveSladeCWall ) on Twitter (Green Party candidate for St Austell and Newquay) 
-

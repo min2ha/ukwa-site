@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Does Budget 2017 protect the Irish economy from Brexit?
-
 Finance Minister Michael Noonan stressed the importance of putting “in place safety nets to protect us against future economic shocks” from Brexit.

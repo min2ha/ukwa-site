@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hugh Henry MSP (HughHenryMSP) on Twitter
-
 <p>The twitter profile of Hugh Henry, MSP for Renfrewshire South.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Media Reform Coalition
-
 The Media Reform Coalition was set up in September 2011 to coordinate the most effective contribution by civil society groups, academics and media campaigners to debates over media regulation, ownership and democracy in the context of the phone hacking crisis and proposed communications legislation.

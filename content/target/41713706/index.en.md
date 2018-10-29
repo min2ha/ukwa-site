@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luciana Berger (Labour  Politician)
-
 Luciana Berger stood as Labour candidate for Liverpool Wavertree in the 2017 General Election and was elected. She was first elected to Liverpool Wavertree in 2010 and has held the seat ever since.

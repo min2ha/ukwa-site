@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Cambridge Analytica: Leave.EU: Psychographic Targeting for Britain
-
 Cambridge Analytica proposes a multi-faceted approach to data collection and analysis, the end products of which will be a nationwide database of potential supporters divided by region, as well as a comprehensive strategic  communications plan and a Leave.EU-specifc version of Connect, CA’s communications data dashboard. Document provided to the Digital, Culture, Media ans Sport Committee as written evidence for their inquiry into fake news.
  
  

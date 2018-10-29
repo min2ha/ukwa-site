@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Independent Midwives UK (IM UK)
-
 None

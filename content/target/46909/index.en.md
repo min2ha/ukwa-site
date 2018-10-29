@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford University Department of Politics and International Relations Podcast: British Press Coverage of the EU Referendum
-
 Podcast discussing the press coverage of the EU referendum.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# One World
-
 OneWorld is a non-profit UK-based organisation which innovates new media, mobile and web technologies for social good, helping people across the world to improve their lives and become active citizens.

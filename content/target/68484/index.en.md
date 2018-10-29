@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# De Montfort University: International Centre for Sports History and Culture (ICSHC) 
-
 The International Centre for Sports History and Culture (ICSHC) based at De Montfort University, Leicester, UK.

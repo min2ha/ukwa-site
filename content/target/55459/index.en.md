@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Business Insider UK:Instagram and Snapchat were ranked the worst apps for children's mental health
-
 Article relating to a UK study on the effect of Instagram and Snapchat on the mental health of children in the UK

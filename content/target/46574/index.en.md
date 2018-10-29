@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# Hilary Mantel
-
 Author of Wolf Hall, Bring Up the Bodies, and The Assassination of Margaret Thatcher

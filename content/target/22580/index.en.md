@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories plan huge welfare squeeze after the election
-
 None

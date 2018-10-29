@@ -10,6 +10,4 @@
   "start_date": "2018-08-31T09:00:00Z"
 }
 
-# NHCarnival (@NHCarnivalLDN) on Twitter
-
 The New Official Organisers of Notting Hill Carnival for 2018

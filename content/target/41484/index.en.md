@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Kilfinan Community Forest
-
 Site of a community organisation established to work with and for the local community to manage and develop their forest, located in Kifinan, Argyll & Bute.

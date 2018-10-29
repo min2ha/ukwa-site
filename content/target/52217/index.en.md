@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bart's Church, Bath
-
 St. Bart's Church is an Evangelical Anglican church, based at 1 King Edward Road, Oldfield Park, Bath.

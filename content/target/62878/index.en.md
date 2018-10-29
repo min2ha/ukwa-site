@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Scottish Cot Death Trust
-
 Site of a Scottish charity funding research into cot deat / sudden infant death syndrome as well as providing support for bereaved families and educating the public and professionals about cot death and how to reduce the risks.

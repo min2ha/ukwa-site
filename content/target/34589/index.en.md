@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Iron Yard, The
-
 The Iron Yard is a code school with full-time courses in 20 cities. 

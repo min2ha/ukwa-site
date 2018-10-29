@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Prolific North
-
 Prolific North contains news, opinions and events for media in the North of England.

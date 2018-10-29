@@ -10,6 +10,4 @@
   "start_date": "2014-02-21T23:30:00Z"
 }
 
-# Foodbase: Food Standards Agency Report Repository
-
 <p>The Food Standards Agency's open access repository. This site intends to make the results of the Agency's science more accessible.</p>

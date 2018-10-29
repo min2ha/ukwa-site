@@ -10,6 +10,4 @@
   "start_date": "2017-10-04T09:00:00Z"
 }
 
-# Nicki Orton
-
 Nicky Orton is a Ceredigion based artist who specialises in portrait drawings. 

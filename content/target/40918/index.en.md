@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Winsford Village
-
 This website is designed to give visitors a glimpse of its history, its character and the many things to do and see in and around Winsford. It also provides visitors and locals alike with a single source of information about village life: its attractions, its local services, events, sports and voluntary activities.

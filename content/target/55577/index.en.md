@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Sea Rowing Association | Cymdeithas Rhwyfo Môr Cymru (WSRA)
-

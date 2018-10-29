@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Siôn Jones (@sionjones35) on Twitter (Labour candidate for Arfon) 
-
 Siôn Jones is the Labour candidate for Arfon in the 2016 National Assembly for Wales elections.

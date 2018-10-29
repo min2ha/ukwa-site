@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Angela Burns (Conservative Assembly Member for Carmarthen West and South Pembrokeshire))
-

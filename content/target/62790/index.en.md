@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scrumqueens #wrugby (@ScrumQueens) on Twitter
-
 A women's rugby Twitter account

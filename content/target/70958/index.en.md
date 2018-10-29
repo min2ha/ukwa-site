@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Weymouth Octoberfest
-
 Local beer festival

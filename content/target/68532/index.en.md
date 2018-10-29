@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kentigern's RC Church Edinburgh
-
 Site of a Roman Catholic parish church in Scotland, located at Barnton, Edinburgh.

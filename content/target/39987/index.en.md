@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ian James Johnson on Facebook (Plaid Cymru candidate for the Vale of Glamorgan
-
 Ian James Johnson is the Plaid Cymru candidate for Vale of Glamorgan at the 2016 National Assembly Election. 

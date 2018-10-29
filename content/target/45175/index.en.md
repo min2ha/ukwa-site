@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Spamdex - Spam Archive
-
 Spamdex are a non profit organisation formed from web designers, SEOs and web developers giving up there free time to create Spamdex. They offer permanent access for researchers, historians, scholars and the general public to historical junk email collections that exist in digital format.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : Boris Johnson to fight bigger Heathrow but will not resign
-
 None

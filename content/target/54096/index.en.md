@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Firth (@JamesFirth) on Twitter (Labour Politician)
-
 James Firth stood as Labour candidate for Bury North at the 2017 General Election  and was elected to serve as MP.

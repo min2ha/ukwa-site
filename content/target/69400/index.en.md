@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Barnier rules out key UK customs proposal
-
 Following discussions on July 26th 2018, the EU's chief negotiator ruled out allowing the UK to collect customs duties on its behalf, a key UK proposal for post-Brexit trade.
 

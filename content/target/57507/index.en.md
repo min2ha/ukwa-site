@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ballachulish Shinty Club on Facebook
-
 Facebook page for a shinty club based at Ballachulish, Highland [also known as Ballachulish Camanachd]

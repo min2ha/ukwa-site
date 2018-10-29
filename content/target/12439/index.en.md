@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Davies (@scottdavies95) on Twitter
-
 The twitter profile of cyclist Scott Davies, competing in road events for Team Wales in the Glasgow 2014 Commonwealth Games.

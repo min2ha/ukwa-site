@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ganolfan Dysgu Cymraeg Genedlaethol, Y | National Centre for Learning Welsh
-
 The Centre is a national body responsible for all aspects of the Welsh for Adults education programme and is based at University of Wales Trinity St David.

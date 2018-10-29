@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Royal Institution of Chartered Surveyors: Grenfell Tower
-
 This page contains advice for the public, building owners, landlords, corporate occupiers and RICS professionals on where to seek fire safety assistance and information following the Grenfell Tower fire.

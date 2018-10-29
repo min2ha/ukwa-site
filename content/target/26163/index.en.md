@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Action for Children: A Stitch in Time
-
 Action for Children is a UK children’s charity committed to helping vulnerable and neglected children and young people, and their families, throughout the UK.

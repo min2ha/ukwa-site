@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Unison Aneurin Bevan
-
 Aneurin Bevan Health UNISON Branch is for health workers in the Aneurin Bevan health Trust in south east Wales.

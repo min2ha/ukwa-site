@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Article 50: Brexit deal must meet six tests, says Labour
-
 Labour will not support any Brexit deal negotiated by the government unless it meets the party's "six tests", the shadow Brexit secretary said.  He stated that any deal must include a strong relationship with the EU and the same benefits the UK currently has from the single market,

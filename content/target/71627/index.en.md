@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: On the question of a second referendum, Labour’s easiest answer is yet more careful, deniable ambiguity
-
 Pro-EU campaigners pressing for the Labour Party to support a second referendum were up against two factors (aside, that is, from it being a fundamentally awful idea, and there being no time left to hold one): the opposition of the leadership, and the strategy of deliberate ambiguity.

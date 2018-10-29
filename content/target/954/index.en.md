@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nuffield Trust
-
 The Nuffield Trust is an independent health charity. They aim to improve the quality of health care in the UK by providing evidence-based research and policy analysis and informing and generating debate.

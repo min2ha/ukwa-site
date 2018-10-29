@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron says Labour will pick voters' pockets with taxes
-
 None

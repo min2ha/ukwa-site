@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SP16 Rolling Polling
-
 A blog reporting polling and predications for the 2016 Scottish Parliamentary election based on a  variety of sources of polling data.

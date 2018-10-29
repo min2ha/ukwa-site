@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Society of Black Lawyers (SBL)
-
 The Society of Black Lawyers (SBL) is an organisation of African, Asian and Caribbean lawyers in the UK.

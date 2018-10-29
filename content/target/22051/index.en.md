@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Sherriff (@MissleeCarlisle) on Twitter (Labour candidate for Carlisle)
-

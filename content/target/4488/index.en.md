@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Winter Olympic Games 2014
-
 None

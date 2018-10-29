@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cromarty Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Cromarty, HIghlands, linked with the church at Resolis & Urquhart.

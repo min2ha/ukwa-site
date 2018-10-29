@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Darren Hughes Labour and Co-operative
-
 None

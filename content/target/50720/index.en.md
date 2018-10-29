@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anabaptist Network
-
 The Anabaptist Network is a loose-knit network of individuals and churches in Britain and Ireland interested in the insights of the Anabaptist tradition.

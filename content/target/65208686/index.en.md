@@ -10,5 +10,3 @@
   "start_date": "2012-05-17T00:00:00Z"
 }
 
-# e-Feedback Evaluation Project (eFEP)
-

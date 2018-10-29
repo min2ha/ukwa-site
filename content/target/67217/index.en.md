@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Glassworks Studio Recording
-
 Website of a recording studio in Glasgow, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-04T09:00:00Z"
 }
 
-# Susan Phillips Sculpture
-
 Susan Phillips is a sculpturist and former Gold medal for Craft and Design at the National Eisteddfod of Wales.

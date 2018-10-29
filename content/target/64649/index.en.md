@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Russkaya Cappella
-
 Russkaya Cappella, Scotland’s Russian choir is one of the few choirs in the UK specializing in Russian choral music.

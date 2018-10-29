@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Soughton Hall
-
 Soughton Hall is a Georgian country house on the border of Cheshire and North Wales and was the home of the Wynne Bankes family for over 200 years and sold in the 1980's. The house is located in Northop, Flintshire.

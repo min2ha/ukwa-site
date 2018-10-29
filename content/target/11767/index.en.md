@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gareth Jones (JonesGareth93) on Twitter
-
 <p>The twitter profile of wrestler Gareth Jones, member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

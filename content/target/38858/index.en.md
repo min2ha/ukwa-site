@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Return to Sender!' As the Government's £9m pro-EU leaflet begins to land on our doormats today, many are being sent straight back to Downing Street   
-

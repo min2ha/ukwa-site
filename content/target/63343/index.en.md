@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Museum of Brands, Packaging and Advertising
-
 Museum and resource of brands and packaging including the Robert Opie Collection

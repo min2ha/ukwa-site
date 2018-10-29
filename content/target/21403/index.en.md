@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: It's an insult say families as SNP chief Nicola Sturgeon snubs Afghanistan war memorial service
-
 None

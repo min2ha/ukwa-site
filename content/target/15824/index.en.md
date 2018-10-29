@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Red Cross Health Blog, The 
-
 <p>The Red Cross Health Blog covers issues of health in the UK and all over the world.</p>

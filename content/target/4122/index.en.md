@@ -11,6 +11,4 @@
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
 
-# CARE International
-
 None

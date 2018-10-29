@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  PricewaterhouseCoopers (PwC): Beyond Brexit
-
 Professional services firm

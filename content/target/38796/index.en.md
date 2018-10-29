@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kaitey Blair (@KaiteyLewis) on Twitter
-
 Twitter profile of Kaitey Blair, the Scottish Liberal Democrat candidate for Uddingston and Bellshill in the 2016 Scottish Parliamentary elections.

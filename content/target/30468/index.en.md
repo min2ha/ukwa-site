@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Speak Up For Libraries
-
 Speak Up For Libraries is a coalition of organisations working to protect library services and staff, now and in the future.

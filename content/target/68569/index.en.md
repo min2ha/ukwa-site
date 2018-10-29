@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's & St. Dominic's 
-
 Site of two linked Roman Catholic parish churches in Scotland, namely St. Dominic's, Torrance and St. Paul's, Milton of Campsie, both East Dunbartonshire.
 

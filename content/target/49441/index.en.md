@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Calvary Chapel York
-
 Calvary Chapel York is a church and a Bible College on the outside of the historic city walls. The Church held its first service in 1997 and the Bible Church began in 2000 as an affiliate campus to the main campus of the Calvary Chapel Bible College in Murrietta, California.

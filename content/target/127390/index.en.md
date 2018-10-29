@@ -10,5 +10,3 @@
   "start_date": "2007-01-22T00:00:00Z"
 }
 
-# St John's College - Library - Medieval Manuscripts
-

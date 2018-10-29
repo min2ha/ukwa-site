@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Nae Pasaran (@naepasaran) on Twitter
-
 The official Twitter account to promote the feature documentary Nae Pasaran, out in Autumn 2018. The documentary is a true story of the Scottish anti-fascist workers who defied Pinochet.

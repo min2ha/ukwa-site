@@ -10,6 +10,4 @@
   "start_date": "2017-04-06T09:00:00Z"
 }
 
-# Julia Foster
-
 Author Julia Foster was born in the East Midlands now works for Literature Wales.

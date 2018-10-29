@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dylan Jones (@DylanAlexJones) on Twitter (Labour Politician)
-
 Dylan Jones stood as Labour Party candidate for Tonbridge and Malling in the 2017 General Election but was not elected.

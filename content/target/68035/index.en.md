@@ -10,6 +10,4 @@
   "start_date": "2018-06-24T09:00:00Z"
 }
 
-# Cornbury Music Festival
-
 Annual music festival that takes place in Great Tew Park in Oxfordshire.

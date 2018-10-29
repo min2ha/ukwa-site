@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# See Me: World’s First Emoji Powered Jukebox Created To Help Young People Talk About How They’re Feeling
-
 Blog post by See Me, the Scotland social movement, on creating an online emoji powered jukebox to help people in Scotland talk about how they are feeling. 

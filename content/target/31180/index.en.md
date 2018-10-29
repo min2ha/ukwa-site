@@ -10,5 +10,3 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# University of Oxford: Finance and Funding 
-

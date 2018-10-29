@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Fiona Hyslop on Facebook
-
 The Facebook profile fo Fiona Hyslop, Scottish National Party Member of the Scottish Parliament (MSP) for Linlithgow Constituency.

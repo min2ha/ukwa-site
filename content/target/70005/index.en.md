@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# CATHOLIC UNIVERSE (@ukcatholicpress) on Twitter
-
 Twitter feed of The Catholic Universe, the world's leading Catholic newspaper

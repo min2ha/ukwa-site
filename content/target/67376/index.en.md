@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ILLOGAN PARK RFC (@ILLOGANPARKRFC) on Twitter
-
 The official Twitter account of Illogan Park Rugby Football Club.

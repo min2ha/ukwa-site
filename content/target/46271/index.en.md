@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Click on Wales: Brexit Archives
-
 Click on Wales is the online magazine of the Welsh Affairs Institute, an independent think-tank based in Cardiff.

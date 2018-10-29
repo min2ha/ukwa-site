@@ -11,6 +11,4 @@
   "subject": "Offshore Islands Collection (Channel Islands and Isle of Man)"
 }
 
-# Pink Professor (TPP), The
-
 None

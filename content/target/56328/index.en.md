@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Lleuwen Steffan
-
 Lleuwen Steffan is a folk songwriter, guitarist and singer from the Ogwen Valley in Wales. She has also been nominated for the nominated for the Welsh Music Prize,

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Secondary school pupils 'ill-equipped to cope' with stress of social media
-
 News article about a recent report by the Children's Commissioner for Engalnd that details how children moving from primary school to secondary school are not well equipped to deal with the pressures of social media

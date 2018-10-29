@@ -10,6 +10,4 @@
   "start_date": "2015-07-27T10:00:00Z"
 }
 
-# History Points
-
 The HistoryPoints website gives tailored information about hundreds of places of interest in Wales, which you can read on your mobile by scanning the QR codes at each place. 

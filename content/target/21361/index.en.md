@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tommy Sheppard SNP Prospective Parliamentary Candidate for Edinburgh East
-
 Website of Tommy Sheppard, Scottish National Party (SNP) candidate for Edinburgh East in the 7th May 2015 UK General Elections.

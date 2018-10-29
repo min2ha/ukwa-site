@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ipsos Mori: Half believe the economy will get worse in the short term if Britain leaves the EU but more likely to think it will improve in the long term
-
 Ipsos MORI’s new Political Monitor published on May 18th 2016 shows that on balance Britons believe the economy would be better off in the long term if Britain left the European Union yet likely be worse off in the years immediately following Brexit.

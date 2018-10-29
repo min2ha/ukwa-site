@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Battersea Service Directory
-
 Members of BatterseaSW11.com can give feedback on local services helping you make your choice.

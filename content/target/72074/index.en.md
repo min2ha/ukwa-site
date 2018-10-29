@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Perth Cathedral St. Ninian's
-
 Site of a Christian cathedral church and its congregation belonging to the Scottish Episcopal denomination and located in Perth.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Eyewear
-
 Literary blog of poet Todd Swift. Features guest poets and reviews and claims to be the "most read British poetry blog-zine of all time".

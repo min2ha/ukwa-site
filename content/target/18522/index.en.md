@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Arlene Foster says DUP and UUP in election pact talks
-
 None

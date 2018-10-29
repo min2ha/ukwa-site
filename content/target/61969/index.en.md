@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Notts County FC (@Official_NCFC ) on Twitter
-
 Tweets from Notts County, the world's oldest Football League club. 

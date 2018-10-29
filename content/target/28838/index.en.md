@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Pride Cymru 
-
 This is the site for Cardiff's Mardi Gras.

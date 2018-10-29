@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Folk On The Lawn
-
 Folk on the lawn is a folk music festival held in Tintern.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# More About Thimbles
-
 The site documents 15 years of research relating to thimbles.

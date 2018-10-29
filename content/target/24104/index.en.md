@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron makes symbolic Scotland visit as 36-hour campaign tour comes to an end
-
 None

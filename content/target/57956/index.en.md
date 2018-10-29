@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# The 3 Million (@The3Million) on Twitter
-
 The3million is a not for profit group and support network which campaigns to safeguard and guarantee the rights of EU citizens in the UK and British citizens in Europe after Brexit.
  

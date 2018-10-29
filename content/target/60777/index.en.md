@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May to fight EU transition residency plan
-
 Theresa May indicated she would fight a proposal to give residency rights to EU citizens who arrived in the UK during the transition period after Brexit.

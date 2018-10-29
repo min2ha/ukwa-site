@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Norham Community Website
-
 Site for the community of Norham, Northumberland, providing information on community life, amenities and activities in the area.

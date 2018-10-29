@@ -10,6 +10,4 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# WeDigs in Wester Ross : a community archaeological project
-
 Community archaeology project website - the focus of the project is prehistoric roundhouses in Wester Ross, Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Arun Photay (Conservative)
-
 Arun Photay stood as Conservative candidate for Birmingham, Yardley at the 2015 General Election but was not elected.

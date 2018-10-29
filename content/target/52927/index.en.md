@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bristol Liberal Democrats
-
 The website of the Bristol Liberal Democrats providing information about MPs, councillors, events and campaigns

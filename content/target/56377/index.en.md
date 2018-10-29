@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sri Kalpaga Vinayagar Hindu Temple Wales
-
 The Sri Kalpaga Vinayagar Hindu Temple is located in Port Talbot.

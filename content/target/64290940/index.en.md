@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# North East Hampshire Historical & Archaeological Society (NEHHAS)
-
 None

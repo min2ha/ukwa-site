@@ -10,5 +10,3 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Ymweld â Chastell-nedd Port Talbot | Visit Neath Port Talbot
-

@@ -10,6 +10,4 @@
   "start_date": "2006-09-18T00:00:00Z"
 }
 
-# Ffotogallery
-
 None

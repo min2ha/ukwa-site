@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Tory MP Heidi Allen would back another referendum
-
 A Conservative MP said she saw no alternative other than backing another referendum on leaving the EU. Heidi Allen became the latest Tory to support a new vote, saying the "right-wing" of her party had made Theresa May's Chequers Brexit plan - "dead".
 
 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The:The tech giants operate like cars without brakes. They must be reined in
-
 An article that makes reference to a government green paper on the dangers to mental health from the internet

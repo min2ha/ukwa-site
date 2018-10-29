@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pontrhydyrun Baptist Church, Cwmbran
-

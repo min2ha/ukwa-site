@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh SNP (@EdinburghSNP) on Twitter
-
 Twitter profile of the Edinburgh branch of the Scottish National Party (SNP).

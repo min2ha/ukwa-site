@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Evening Standard: Grenfell Tower
-
 The subsection of the Evening Standard Newspaper related to Grenfell Tower.

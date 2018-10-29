@@ -10,5 +10,3 @@
   "start_date": "2008-09-18T00:00:00Z"
 }
 
-# Special Educational Needs, Northern Grid
-

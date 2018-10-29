@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Green Party in Northern Ireland
-
 The Green Party in Northern Ireland is a green party in Northern Ireland which works in co-operation with green parties across Britain and Ireland, Europe and globally. Like many green parties around the world, its origins lie in the anti-nuclear, labour and peace movements of the 1970s and early 1980s.

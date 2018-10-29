@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Libanus 1877: Boutique Cinema and Restaurant
-
 Libanus 1877 is a Boutique Cinema and Restaurant located in Borth. It was formerly a Welsh Chapel.

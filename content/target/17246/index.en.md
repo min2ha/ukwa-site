@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: I won't back down on tax avoidance
-

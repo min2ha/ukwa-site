@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Grieve now if you must – but prepare for the great challenges ahead
-

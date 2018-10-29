@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Middlesbrough LINk
-
 None

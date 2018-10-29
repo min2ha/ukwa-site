@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marion Turner Hawes Green Party candidate for Wellingborough and Rushden.
-
   Marion Turner Hawes:  Prospective Green Party  parliamentary candidate for Wellingborough and Rushden in the 2015 General Election but was not elected.

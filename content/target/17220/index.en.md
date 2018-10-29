@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed would turn UK into France by destroying investor confidence in the British economy, warns top bank
-
 None

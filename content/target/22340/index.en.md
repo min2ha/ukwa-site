@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Donald Cameron (@DAJCameron) on Twitter
-
 This is the Twitter page of Donald Cameron, the Conservative Party candidate for Orkney and Shetland in the UK General Election on the 7th May 2015.

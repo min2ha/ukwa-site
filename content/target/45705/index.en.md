@@ -10,5 +10,3 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Parc Cenedlaethol Eryri | Snowdonia National Park
-

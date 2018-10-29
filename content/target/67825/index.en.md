@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hertford RFC (@HertfordRFC) on Twitter
-
 The official Twitter account of Hertford Rugby Union Football Club.

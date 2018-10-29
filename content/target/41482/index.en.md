@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Isle of Gigha
-
 Site providing information for visitors about the Isle of Gigha, Argyll and Bute.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Andrew Adonis (@Andrew_Adonis) on Twitter (Labour Politician)
-
 Andrew Adonis, Baron Adonis is a former British Labour Party politician, academic and journalist who served in the Labour Government for five years. He is currently chairman of the National Infrastructure Commission.

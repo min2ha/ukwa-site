@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Hogan Lovells: Brexit Hub
-
 Aims to provide a holistic view of the risks and opportunities of Brexit from a legal viewpoint for business. 

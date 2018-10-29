@@ -11,7 +11,5 @@
   "subject": "News Sites"
 }
 
-# Co-operative News
-
 
 Established in 1871, Co-operative News and the Co-operative News website is published by Co-operative Press Ltd, an independent registered co-operative society.

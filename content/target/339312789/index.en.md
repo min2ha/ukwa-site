@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Paul Davies (Conservative Assembly Member for Preseli Pembrokeshire)
-

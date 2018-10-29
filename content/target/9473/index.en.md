@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Board of Deputies of British Jews: manifesto
-
 None

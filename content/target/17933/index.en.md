@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Hearing Voices Network (HVN)
-
 Hearing Voices Network (HVN) is committed to helping people who hear voices. Psychiatry refers to hearing voices as ‘auditory hallucinations’. They offer information, support and understanding to people who hear voices and those who support them.

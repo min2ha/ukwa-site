@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Practical Action: technology challenging poverty
-
 Practical Action is an international non-governmental organisation (NGO) that uses technology to challenge poverty in developing countries.

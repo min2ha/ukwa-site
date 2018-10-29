@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# We are The Reality Party on Facebook
-

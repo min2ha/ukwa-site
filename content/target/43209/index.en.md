@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OxPol: The Oxford University Politics Blog
-
 A blog sharing research and analysis from Oxford's Department of Politics and International Relations

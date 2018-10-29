@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Boxing Bocsio: The Magazine for all fights
-
 Bocsio is a fight magazine covering professional & amateur boxing & the MMA scene across Wales.

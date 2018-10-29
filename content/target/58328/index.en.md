@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Arthritis Care Wales – Manifesto 2016
-

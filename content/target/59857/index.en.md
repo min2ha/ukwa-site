@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Society of the Inner Light
-
 Site of a society and a Mystery School within the Western Esoteric Tradition, founded by Dion Fortune.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Redwood (Conservative)
-
 John Redwood stood as Conservative candidate for Wokingham at the 2015 General Election. He was first elected to serve as MP for Wokingham in 1987 and re-elected in 2015. 

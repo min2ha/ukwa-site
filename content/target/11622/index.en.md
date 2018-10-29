@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gary Coltman (@Gary_Coltman) Cyclist on Twitter
-

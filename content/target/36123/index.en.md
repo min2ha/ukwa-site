@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Old and St Andrew's Church, Montrose
-
 Site for Old and St. Andrews Church, of the Church of Scotland denomination, located in Montrose, Angus, Scotland.

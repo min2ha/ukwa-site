@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Aylesbury
-
 Website of UKIP Aylesbury, providing information on how to get involved and local, national and party news and opinion.

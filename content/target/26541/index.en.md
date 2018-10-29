@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Conservative win will chip away at Britain’s once-sturdy constitution
-
 None

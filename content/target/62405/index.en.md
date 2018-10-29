@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Lodge of Dunblane No IX on Facebook
-
 Facebook page for a masonic lodge located in Dunblane, Stirlingshire and affiliated with the Grand Lodge of Scotland.

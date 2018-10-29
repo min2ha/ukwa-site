@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Penicuik (@SNP_Penicuik) on Twitter 
-
 Twitter profile of the Penicuik branch of the Scottish National Party (SNP).

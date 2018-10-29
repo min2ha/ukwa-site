@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# GMI Partnership
-
 The GMI Partnership is a consortium of three charities, Positive East, Spectra and Metro. These charities provide local HIV Prevention and Support services in their own areas of East, West and South London, but they have joined together as the GMI Partnership to provide services for gay, bisexual and other men who have sex with men throughout London.

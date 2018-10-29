@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Coity Wallia Commons: Biodiversity Enhancement Project
-
 Coity Wallia Commons is a large area of land from Sarn to Pencoed and back to Blackmill and Glynogwr, north of Bridgend. The project is working with the local community to restore and reconnect habitats to increase wildlife in the area, especially two rare butterflies (marsh fritillary and high brown fritillary) and one rare bee (shrill carder bee).

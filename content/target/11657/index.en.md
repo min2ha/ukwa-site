@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Cremin (@MartinCrem) on Twitter
-
 The twitter profile of athlete Martin Cremin, a swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

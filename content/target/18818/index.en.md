@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Local Government Association (LGA): A New Magna Carta? The power of culture, tourism and sport to transform places and renew democracy 
-
 None

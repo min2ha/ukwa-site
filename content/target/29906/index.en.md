@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northwich River Weaver Literary Festival
-
 Northwich River Weaver Literary Festival

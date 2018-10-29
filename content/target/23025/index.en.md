@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anne-Marie Bunting (@buntinga) on Twitter (Liberal Democrats candidate for Gravesham)
-
 Anne-Marie Bunting stood as Liberal Democrats candidate for Gravesham at the 2015 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jackie Porter (@JackieLibDem) on Twitter (Liberal Democrats Politician)
-
 Jackie Porter stood as Liberal Democrats candidate for Liberal Democrats at the 2017 General Election but was not elected.

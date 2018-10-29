@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Tech CEO who PRAISED an employee for taking two mental health days earns viral fame, as he is hailed as an inspiration by stunned internet users 
-
 News article about a tweet that went viral after an employee took two mental health days off work

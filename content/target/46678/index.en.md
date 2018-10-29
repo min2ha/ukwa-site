@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Barratt Developments plc
-
 Barratt Developments plc is one of the largest residential property development companies in the UK.

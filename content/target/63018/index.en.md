@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Demos Quarterly
-
 Demos Quarterly is an online magazine of political and social affairs, published by the think tank Demos. The first issue was Winter 2013/14. Issues are edited by the Demos team or by guest editors. Thematic issues have covered identity in Britain, Bexit and Technology.

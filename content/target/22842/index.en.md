@@ -10,6 +10,4 @@
   "start_date": "2015-04-29T09:00:00Z"
 }
 
-# Blog Forever
-
 BlogForever, a collaborative European Commission funded project, developed an exciting new system to harvest, preserve, manage and reuse blog content. The system is performing an intelligent harvesting operation which retrieves and parses hypertext as well as all other associated content (images, linked files, etc) from blogs. 12 partners participated in BlogForever, including the University of Glasgow, the University of London Computer Centre and the University of Warwick.

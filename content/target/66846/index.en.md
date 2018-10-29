@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Trades House of Glasgow
-
 Site of a charity, supporting those in need throughout the West of Scotland by using the skills and commitment of craft bodies alongside new partnerships continually being created, based on the traditional trade guilds in the city of Glasgow.

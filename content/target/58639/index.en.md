@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Yarrow Ettrick and Selkirk Arts Festival
-
 Site of a multi-arts festival based in Yarrow, Ettrick and Selkirk in the Scottish Borders.

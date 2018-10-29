@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: In the EU referendum, there's no such thing as facts – only spin
-

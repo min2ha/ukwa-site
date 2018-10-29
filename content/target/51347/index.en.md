@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gabalfa Baptist Church, Cardiff 
-

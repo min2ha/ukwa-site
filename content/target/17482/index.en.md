@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage called Northern Ireland peace process 'utterly loathsome'
-
 None

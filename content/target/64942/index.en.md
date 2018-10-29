@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# The 11th Durham Light Infantry
-
 An accompanying blog and website for the book: The 11th Durham Light Infantry: In Their Own Names began. 

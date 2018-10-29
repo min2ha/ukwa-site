@@ -10,5 +10,3 @@
   "start_date": "2007-08-08T00:00:00Z"
 }
 
-# info NeoGnostics & IAL: Information Automation Limited
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Niall O'Gallagher - Naidheachdan a' BhBC
-
 Political blog in Gaelic by Niall O'Gallagher, British Broadcasting Corporation (BBC) politics in Gaelic correspondent.

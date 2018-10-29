@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons: Business, Energy and Industrial Strategy Committee: Leaving the EU: negotiation priorities for energy and climate change policy
-
 The Business, Energy and Industrial Strategy Committee warns that the Government has left the UK nuclear industry at risk and must act urgently to ensure its continued operation post-Brexit. The report recommends maintaining access to the Internal Energy Market and retaining membership of the Emissions Trading System until 2020 at least. Longer term, MPs are concerned that the UK will become a 'rule taker', complying with but unable to influence European rules and standards. The report cautions that Brexit must not distract Government from delivering essential climate change policies.

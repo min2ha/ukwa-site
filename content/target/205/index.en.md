@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hillingdon Hospitals Trust
-
 None

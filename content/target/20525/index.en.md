@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Forget the TV election rows - the BBC's future is the real debate 
-

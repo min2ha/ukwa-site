@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Septembayr
-
 Site of a multi-arts festival at Ayr, Ayrshire. 

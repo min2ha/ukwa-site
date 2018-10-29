@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gardner Memorial Church
-
 Parish website of the Gardner Memorial Church. The Gardner is one of two Church of Scotland congregations in Brechin.

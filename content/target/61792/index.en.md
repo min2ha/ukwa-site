@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: The UK’s trading partnership with Hungary
-
 Greg Hands, Minister of State for Trade Policy, spoke at the Széll Kálmán Foundation in Budapest on EU exit and the UK’s trading relationship with Hungary.
 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Planet of the Vapes Forum
-
 Planet of the Vapes Forum is an inline enthusiast community concerned with vaping. Discusses E-cigarettes, Tobacco Harm Reduction, Vape Challenges, Product Recalls and General Safety Notices and various other topics.

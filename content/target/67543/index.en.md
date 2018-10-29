@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Federation of European Screen Printers Associations (FESPA)
-
 FESPA is a federation of trade associations and an organiser of exhibitions and conferences for the screenprinting and digital printing industry. The name originally stood for Federation of European Screen Printers Associations, but, with the advent of digital technology, FESPA is now known by its acronym.

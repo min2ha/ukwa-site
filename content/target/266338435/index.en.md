@@ -10,5 +10,3 @@
   "start_date": "2014-10-29T00:00:00Z"
 }
 
-# Reading and District Welsh Society
-

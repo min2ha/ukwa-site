@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff Council Watch
-
 <p>This is a personal view highlighting the lack of scrutiny of decisions made by Cardiff City Council without listening to its citizens made by former members of the Wales Green Party.</p>

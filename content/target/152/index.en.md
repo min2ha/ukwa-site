@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Bristol NHS Trust
-
 None

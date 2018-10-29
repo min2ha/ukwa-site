@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hemel Hempstead (Camelot) RFC
-
 Hemel Hempstead RFC provide excellent coaching and playing of rugby for those aged form six to sixty, and have both boys and girls at the club.

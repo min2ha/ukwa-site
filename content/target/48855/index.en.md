@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop Hinkley 
-
 Stop Hinkley campaigns against nuclear power in the South West of England 

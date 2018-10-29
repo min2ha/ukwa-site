@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Parc Gwledig Cwm Dar | Dare Valley Country Park
-
 Country Park near Aberdare.

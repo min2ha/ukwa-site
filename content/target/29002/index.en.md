@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Thanet Conservatives
-
 Website of North Thanet Conservatives, providing information on MPs, association officers, city, county and district councillors, events and European, local, national and Westminster news.

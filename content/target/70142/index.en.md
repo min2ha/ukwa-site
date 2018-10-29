@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Government set to publish no-deal advice
-
 Reports that the government was set to publish a series of technical notices designed to prepare the UK for the possibility of a no-deal Brexit.between August and September 2018.
 

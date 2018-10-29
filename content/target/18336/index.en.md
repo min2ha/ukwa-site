@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Alternative Comedy Memorial Society, The 
-
 The website for the Alternative Comedy Memorial Society, a comedy night where comedians are invited to perform sets that might not work at more mainstream comedy nights.

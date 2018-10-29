@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Health Research Wales
-
 'Health Research Wales has been established to provide a one-stop source of information and support for companies wishing to undertake clinical research in Wales. Health Research Wales’ mission is to facilitate the successful delivery of commercial research in the NHS and promote Wales as an effective place to do research.'' homepage.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Economist, The: A background guide to “Brexit” from the European Union
-
 Website of 'The Economist' magazine

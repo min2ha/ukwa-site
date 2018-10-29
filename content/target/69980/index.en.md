@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jewish Tribune
-
 The Jewish Tribune is a privately owned Haredi weekly newspaper based in Stamford Hill with offices in Golders Green, London and Manchester.

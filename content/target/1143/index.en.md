@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Merseyside and Cheshire Cancer Network
-
 None

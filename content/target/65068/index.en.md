@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Walking Group Swansea | Teithwyr Tawe Trekkers
-
 Formed in 2005 the Tawe Trekkers are a hiking group for the younger (18+) and adventurous person in the South-West Wales area (Carmarthenshire, Swansea, Neath Port-Talbot and Bridgend).

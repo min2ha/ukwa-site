@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Newborough Forest Protection Group
-
 Newborough Forest is in Anglesey. The group was set up to oppose plans to the felling of trees as recommended by Countryside Council for Wales. The forest is undermining the conservation status of the adjoining dunes that are protected under the EU Habitat Directive.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# George Adam SNP on Facebook
-
 Facebook page of George Adam, Scottish National Party (SNP) candidate for Paisley in the 2016 Scottish Parliamentary election.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Allman (@John_Allman ) on Twitter (Candidate for  North Cornwall)
-

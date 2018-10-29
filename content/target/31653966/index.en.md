@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Eastleigh Southern Parishes Older People's Forum - ESPOPF
-
 None

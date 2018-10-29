@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Young XC Skier
-
 None

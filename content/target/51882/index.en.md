@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# British Library: Harry Potter
-
 Harry Potter: A History of Magic was an exhibition held at the British Library to celebrate the 20th anniversary of the publication of Harry Potter and the Philosopher’s Stone by showcasing a display of wizarding books, manuscripts and magic related objects. It combined British Library holdings with original material from Bloomsbury’s and J.K. Rowling’s own archives. The exhibition ran from 20 October 2017 – 28 February 2018. This was the British Library splash page with news articles about the exhibition and it's contents.

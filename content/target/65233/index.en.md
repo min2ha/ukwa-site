@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Kadija George (@SABLELitMag) on Twitter
-
 SABLE LitMag is a publication of new work from writers, artists and activists of colour.

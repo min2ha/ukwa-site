@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Paul, Prospective MP for Carmarthen East & Dinefwr
-
 Matthew Paul is the Conservative prospective parliamentary candidate for Carmarthen East & Dinefwr.

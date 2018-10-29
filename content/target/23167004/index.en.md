@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Rylands - self-catering holiday accommodation
-
 None

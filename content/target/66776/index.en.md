@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Myfootballbadge (@Myfootballbadg1) on Twitter
-
 A football badge seller account on Twitter.

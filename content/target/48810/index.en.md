@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# In ma fair toon
-
 Erin Farley's blog, for her project: “Poetry, song and community in the industrial city: Victorian Dundee”.

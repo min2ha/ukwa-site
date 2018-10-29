@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Subject Centre for Information and Computer Sciences (ICS), The Higher Education Academy
-
 The Higher Education Academy (HEA) is the national body which champions teaching quality. They provide value to the HE sector by focusing on the contribution of teaching as part of the wider student learning experience.

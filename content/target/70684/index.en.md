@@ -10,6 +10,4 @@
   "start_date": "2018-09-02T09:00:00Z"
 }
 
-# West Galloway University of the Third Age (U3A)
-
 Site of the West Galloway, Dumfries and Galloway branch of a national charity for lifelong learning into the 'third age', namely, after retirement.

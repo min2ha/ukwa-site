@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Elfyn Evans
-
 Elfyn Evans is a Welsh rally driver who competes in the World Rally Championship from Dolgellau.

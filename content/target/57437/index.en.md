@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Glasgow Improvisers Orchestra
-
 Site of a musical organisation based in Glasgow that specialises in group improvisation in musical performance.

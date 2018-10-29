@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# British Button Society
-
 On 14 January 1976, 18 avid button collectors met at 125 High Holborn, London, and resolved to form the society. The society went from strength to strength and now has over 180 members representing 13 countries.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: What’s the point of Brexit if we’re shacked to a customs union?
-
 Informed reporting from Brussels suggests the Chequers proposals are heading towards delivering a rebranded Customs Union. This will be couched in terms of a temporary and transitional nature, but with little to actually vouchsafe that future promised motion, and structurally everything to hinder it.
 

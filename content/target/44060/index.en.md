@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Plan,The: Roadmap Plan for UK Departure of the EU
-
 Spoof website

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Coedpoeth War Memorial
-
 The Coedpoeth War Memorial commemorates those men from the area who were killed in World War I and World War II.

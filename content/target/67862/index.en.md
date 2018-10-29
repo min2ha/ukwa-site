@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Welsh Ladies Choir Côr Merched Edeyrnion
-
 Côr Merched Edeyrnion is a Welsh Ladies Choir of around 50 members and was formed in 1979.

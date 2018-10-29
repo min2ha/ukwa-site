@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Voice for Choice
-
 Voice for Choice is a national coalition of organisations working alongside the All Party Parliamentary Pro-Choice and Sexual Health Group to campaign for a woman’s choice on abortion. Members include organisations and individuals whose everyday work relates to abortion in some way – as service providers, advocates, educators, trainers, academics or counsellors. 

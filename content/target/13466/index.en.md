@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Murphy (jimmurphymp) on Twitter
-
 <p>The twitter profile of Jim Murphy, Labour Member of Parliament for East Renfrewshire.</p>

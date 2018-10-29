@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Becky James (BecksJames) on Twitter
-
 <p>The twitter profile of cyclist Becky James member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

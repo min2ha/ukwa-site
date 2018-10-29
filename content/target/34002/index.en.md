@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Steve Bell on David Cameron and the EU referendum – cartoon
-

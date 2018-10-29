@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Palmerston (@DiploMog) on Twitter
-
 A satirical political account commenting on UK current affairs through a cat based at the Palmerston, London and is connected to the account https://twitter.com/PalmerstonFOCat/.

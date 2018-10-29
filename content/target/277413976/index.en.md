@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Port of Mostyn
-
 <p>Port of Mostyn Ltd is a Statutory Harbour  Authority and a privately owned and operated port located in the outer estuary of the River Dee.</p>

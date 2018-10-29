@@ -10,5 +10,3 @@
   "start_date": "2013-03-01T00:00:00Z"
 }
 
-# Skewen & District Historical Society
-

@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Paul Mellon Centre for Studies in British Art
-
 <p>An educational resource for the study and promotion of British art. Scholarly publishing, events programmes, materials and documents are available to the public through an Open Access license.</p>

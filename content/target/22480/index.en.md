@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron to warn voters of £3,000 Labour tax bombshell
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona Clark (@fionanurse15) on Twitter
-
 Twitter profile of Fiona Clark, the Scottish Green party list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The weather on the day of the Queen’s birth
-
 A weather report from the 21st of April 1926, the day the queen was born. 

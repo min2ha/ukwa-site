@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Skolars Rugby League Club
-
 The official website of London Skolars Rugby League Club.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Paul on Facebook (Conservative candidate for Carmarthen East & Dinefwr)
-
 Matthew Paul is Conservative parliamentary and assembly candidate for Carmarthen East & Dinefwr.

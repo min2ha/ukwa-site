@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Canterbury Cathedral: Remembering World War I
-
 <p>Canterbury Cathedral: Remembering World War I contains a set of articles reflecting research on World War I, relating to Canterbury Cathedral, Canterbury City and the surrounding area.</p>

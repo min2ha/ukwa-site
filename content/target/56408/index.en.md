@@ -10,8 +10,6 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Embrace the Middle East
-
 Embrace the Middle East is a Christian charity with over 160 years' experience helping people of all faiths and none to free themselves from a life of poverty and injustice.
 
 Together with local Christian communities we're bringing lasting change to the Middle East through healthcare, education and community development projects.

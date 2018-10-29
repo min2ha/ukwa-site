@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Scottish Junior Chess Association Educational Trust
-
 Site of a trust that supports the development and promotion of the game of chess among young people in Scotland.

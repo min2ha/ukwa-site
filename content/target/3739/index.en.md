@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# District Post, The: Horsham News
-
 None

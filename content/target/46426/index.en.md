@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T10:00:00Z"
 }
 
-# Eglwys y Tabernacl Caerdydd
-
 Tabernacl is the only Welsh language Baptist Church in Cardiff.

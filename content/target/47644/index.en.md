@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# King's Own Scottish Borderers
-
 Site of a regimental museum located in Berwick-upon-Tweed, dedicated to the history of the regiment The King's Own Scottish Borderers.

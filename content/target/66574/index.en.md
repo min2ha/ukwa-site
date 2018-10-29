@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BSSH Scotland (@BSSHScotland) on Twitter
-
 Scottish network of British Society of Sports History promotes the study of sport history and physical recreation.

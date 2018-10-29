@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Rachael Jolley (@londoninsider) on Twitter
-
 Twitter account of Rachel Jolley, editor of 'Drafting freedom to last: the Magna Carta's past and present influences'.

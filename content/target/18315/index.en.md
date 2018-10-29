@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# British Stand-Up Comedy Archive (@unikentstandup) on Twitter
-
 The Twitter account for the British Stand-Up Comedy Archive at the University of Kent

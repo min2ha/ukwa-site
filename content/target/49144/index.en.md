@@ -10,8 +10,6 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# York Guild of Building
-
 ​The York Guild of Building was established in 1954 under the guidance of Sir Peter Shepherd and a number of other leading citizens connected with the construction industry and professional organisations within the city to represent and provide a forum for all the skills which are required in the construction and maintenance of buildings, this representation inspired the Guild logo. 
 ​
 The builders of medieval York included masons, glaziers, plumbers, plasterers and tilers and the largest of the entire group who worked in wood, variously described as carpenters, sawyers, joiners and carvers. Of these only four crafts became organised into Guilds, the Carpenters, the Masons, the Tile Thatchers and the Plasterers. However these Guilds came to an end in York in the early nineteenth century. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# St Ives and the Isles of Scilly Conservatives
-
 Website of Conservatives in St Ives Constituency, providing information on events, local news and national news, Conservative MPs, MEPs and councillors.

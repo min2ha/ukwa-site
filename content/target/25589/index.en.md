@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election photo highlights: market stalls, a trampoline and a Game of Thrones moment
-
 None

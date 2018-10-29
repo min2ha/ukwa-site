@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Wetherby and District Foodbank
-
 Website of a foodbank serving Wetherby and the surrounding area in West Yorkshire.

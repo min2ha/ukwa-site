@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# British-German Environment Forum (BGEF)
-
 The British-German Environment Forum (BGEF) was launched in 1997, inspired by the tradition of Anglo-German ‘Königswinter’ conferences, which have made a contribution to political understanding and cooperation between Germany and Britain since the war. It has also a new focus: it acts as a catalyst for fresh thinking and action on the challenge of environmentally sustainable development. 

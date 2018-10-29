@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Bedford Beer and Cider Festival
-
 Local beer and cider festival

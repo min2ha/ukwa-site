@@ -10,6 +10,4 @@
   "start_date": "2015-10-30T09:00:00Z"
 }
 
-# Radbks hashtag on Twitter
-
 The hashtag for the Edinburgh Independent Radical Book Fair 2015.

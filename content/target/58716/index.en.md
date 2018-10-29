@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Strathspey Camanachd on Facebook
-
 Site of a shinty club based at Grantown, Highland.

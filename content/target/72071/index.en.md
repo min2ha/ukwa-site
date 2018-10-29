@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Celsa Steel UK
-
 Celsa Steel UK is the largest manufacturer of steel reinforcement in the UK producing long steel products from recycled scrap metal. Annually, they produce 1.2 million tonnes of steel. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Darwin and Gender: The Blog
-

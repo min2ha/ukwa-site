@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Canterbury Green Party
-
 Website of Canterbury Green Party, providing information on representative and candidates, campaigns, local manifesto and local news and opinion.

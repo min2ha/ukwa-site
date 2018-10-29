@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Albert Tapper: Researching the 2015 General Election
-

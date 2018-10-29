@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Larne Youth Football Club
-
 The official website of Larne Youth Football Club. Larne Youth is a cross community charity organisation helping children aged between 4 and 17 develop their footballing talent to the best of their ability.

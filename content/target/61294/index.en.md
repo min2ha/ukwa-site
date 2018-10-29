@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Smith (@alexhammersmith) on Twitter
-
 The twitter profile of hammer thrower Alex Smith, member of Team England for the Glasgow 2014 Comonwealth Games.

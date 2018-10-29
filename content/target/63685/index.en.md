@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# The Schaw Kirk
-
 The website of The Shaw Kirk, Drongan.

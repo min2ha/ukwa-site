@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Both sides in the EU referendum are alienating me with their relentless, petty nonsense
-

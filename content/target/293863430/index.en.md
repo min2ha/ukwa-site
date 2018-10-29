@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# World Fringe Congress
-
 <p>The World Fringe Congress is the only formal gathering of international Fringe representatives and aims to bring together and inspire the Fringe community through a mix of discussion and networking events, all taking place during the Edinburgh Festival Fringe. The World Fringe Congress is part of the Culture 2014 programme, which accompanies the Commonwealth Games taking place in Glasgow.</p>

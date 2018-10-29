@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Wemyss Ware
-
 Site of a ceramics manufacturer based in Fife, Scotland.

@@ -10,5 +10,3 @@
   "start_date": "2015-06-02T08:00:00Z"
 }
 
-# Clwyd Theatr Cymru Theatr ar gyfer Pobol Ifanc | Clwyd Theatr Cymru Theatre for Young People
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: Navigating the unknown
-
 An analysis of the EU Referendum result from an investors perspective  

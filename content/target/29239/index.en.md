@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Tyneside Irish Centre: 1916 Centenary Celebrations
-
 1916 centenary celebration organised by the Tyneside Irish Centre 

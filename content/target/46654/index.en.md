@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T00:00:00Z"
 }
 
-# Storlann Naiseanta na Gaidhlig Facebook
-
 Storlann Naiseanta na Gaidhlig's Facebook

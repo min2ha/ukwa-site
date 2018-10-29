@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Shetland Jazz Club
-
 Site of a jazz music club and annual festival located at Sandwick, Shetland.

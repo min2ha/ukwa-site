@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# About My Vote
-
 About my vote is a website run by the Electoral Commission.
 
 Voting is your democratic right as a citizen of the UK.

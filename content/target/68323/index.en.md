@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Trefriw Walking Festival
-
 Snowdonia walking festival

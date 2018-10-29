@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Brexit would be like putting a BOMB under our economy!' Cameron delivers latest instalment of Project Fear as he infuriates Tories by teaming up with Harriet Harman   
-

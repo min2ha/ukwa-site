@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Survival UK Forum
-
 An online enthusiast community concerned with wilderness survival in the UK. Discusses threats and risks, scenarios, bush-craft, food, hunting, navigation and various other related topics.

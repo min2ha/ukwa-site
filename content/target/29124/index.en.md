@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Daily Record: Gordon Brown tells of his love for the Forth Bridge after urging UNESCO to give the site World Heritage status
-

@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Hugh Gaffney MP (@HughGaffneyMP) on Twitter
-
 Hugh Gaffney is the Member of Parliament for Coatbridge, Chryston and Bellshill.

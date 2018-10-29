@@ -10,7 +10,5 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# The Business Confucius Institute at the University of Leeds
-
 The Business Confucius Institute at the University of Leeds.
 We promote the understanding of Chinese language and culture in the UK, with a business focus on helping companies to communicate with Chinese customers more effectively.

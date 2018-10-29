@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Vale of Clwyd Constituency Labour Party
-

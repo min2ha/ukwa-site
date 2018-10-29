@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories to anoint Boris Johnson as leader in waiting if David Cameron fails at election
-
 None

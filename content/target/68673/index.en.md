@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Keswick Mountain Festival
-
 Website for the Keswick Mountain Festival

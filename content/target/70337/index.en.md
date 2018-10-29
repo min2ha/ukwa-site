@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ITV Football (@itvfootball) on Twitter
-
 ITV Football's official Twitter account.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ryan Michael Bennett (Ryan_Bennett6) on Twitter
-
 The twitter profile of athlete Ryan Michael Bennet, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

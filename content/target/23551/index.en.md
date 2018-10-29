@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Eustice (Conservative)
-
 George Eustice stood as Conservative candidate for Camborne and Redruth at the 2015 General Election. He was first elected to serve as MP for Camborne and Redruth in 2010 and re-elected in 2015.

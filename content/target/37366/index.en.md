@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge News:  EU referendum: Legal 'red tape' won't disappear if Britain votes for Brexit  
-
 Local news for Cambridge 

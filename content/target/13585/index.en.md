@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Express
-
 <p>Website of the Scottish Daily and Sunday Express newspapers.</p>

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mark Pond (@mpondgreenparty) on Twitter (Green Party candidate for Blaenau Gwent)
-

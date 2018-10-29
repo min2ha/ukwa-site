@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7th Dec 2016: The Government's Plan for Brexit
-
 Opposition day debate in which Labour demanded more clarity about the Government's plans for Brexit.

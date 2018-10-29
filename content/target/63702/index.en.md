@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Maud and Savoch Church
-
 The website of Maud and Savoch Church.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visist Wiltshire: Magna Carta 2015
-

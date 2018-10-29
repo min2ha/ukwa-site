@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Politeia: How to leave the EU
-
  Proposes when and how Article 50 should be invoked to give the EU notice of departure. The author, a distinguished EU lawyer, explains that the focus should be on the UK’s trade deals globally, with third countries outside the EU. The aim should be to take over free trade deals with such countries to which we are already party, simply replacing the EU with the UK as co-signatory without further elaborate renegotiations. For other new global trade deals, independence from the EU and its remaining 27 Member States, will facilitate the forging of fast and rapid deals.

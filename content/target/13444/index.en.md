@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas Docherty (Thomas_Docherty) on Twitter
-
 The twitter profile of Thomas Docherty, Scottish Labour candidate, for Dunfermline and West Fife in the 2015 UK General election and list candidate for Lothian region in the 2016 Scottish Parliamentary election.

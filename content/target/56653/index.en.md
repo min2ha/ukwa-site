@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Plu
-
 Plu is a Welsh Alt Folk Band from north Wales.

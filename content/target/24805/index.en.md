@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Florence (UKIP)
-
 Peter Florence stood as UKIP candidate for Ealing Central & Acton at the 2015 General Election but was not elected.

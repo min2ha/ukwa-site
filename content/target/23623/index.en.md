@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lesley Grahame (Green candidate for Norwich South)
-
 Lesley Grahame Green candidate for Norwich South in the 2015 General Election but was not elected.

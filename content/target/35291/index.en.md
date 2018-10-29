@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of the Republic of Poland in London
-
 Website offers news about Poland and its relations with the UK, including Brexit, information on Polish culture and visiting Poland, and about investing in Poland

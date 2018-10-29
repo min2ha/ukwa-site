@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swaffham RUFC (@SwaffhamRUFC) on Twitter
-
 The official Twitter account of Swaffham Rugby Football Club.

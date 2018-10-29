@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Fillan's Catholic Church Crieff
-
 Site of a Scottish Roman Catholic parish church located in Crieff, Perth & Kinross.

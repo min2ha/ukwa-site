@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: What “mutual recognition” really entails: analysis of the Prime Minister's Mansion House Brexit policy speech
-
 Theresa May’s speech at Mansion House in London on 2 March 2018 attracted a torrent of comment. It was greeted as, on the one hand, shallow and unrealistic and, on the other, as the most thoughtful contribution to the debate offered so far by a member of the government. In truth both descriptions were accurate. This post focuses on Mrs May’s aspiration to promote “mutual recognition” as a means to manage the future economic partnership she envisages between the EU and the UK.

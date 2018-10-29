@@ -10,6 +10,4 @@
   "start_date": "2018-08-10T09:00:00Z"
 }
 
-# Canon Medical
-
 "Canon Medical Systems develops advanced visualization products and services for the medical imaging market."

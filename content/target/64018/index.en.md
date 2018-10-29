@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bethel Community Church
-
 Bethel Community Church began March 30th 2014. It came into existence to help the people of Port Talbot and surrounding areas explore the Christian faith and know God in a real way.

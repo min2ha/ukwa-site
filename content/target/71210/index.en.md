@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# All England Dance
-
 Website for All England Dance.

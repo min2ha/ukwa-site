@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Forest Hill Quakers
-

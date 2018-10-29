@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Devon Family History Society
-
 Devon Family History Society promotes the study of genealogy and history, especially of Devon families and places, to educate the public therein through advice and instruction, and, for the public benefit, to encourage the preservation and transcription of relevant documents and records, especially for the county of Devon. 

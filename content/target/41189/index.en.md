@@ -10,5 +10,3 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Cyngor Cymdeithas Rhoscolyn | Rhoscolyn Community Council
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage calls anti-Ukip protesters who forced him out of pub 'scum'
-
 None

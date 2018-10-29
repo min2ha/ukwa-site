@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Colyton Grammar School World War I Centenary 
-
 <p>First World War project at Colyton Grammar School.</p>

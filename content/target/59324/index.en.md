@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Solway Orienteers
-
 Site of an orienteering club based in Dumfries & Galloway.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FA Wales UEFA EURO 2016 News
-
 Offical news section of the FAW website.

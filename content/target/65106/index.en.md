@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Megri.co.uk
-
 UK blog covering latest news on business, technology, money, health, lifestyle, shopping, travel and trending British news.

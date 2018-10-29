@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Goodnight Press
-
 Goodnight Press organises the monthly spoken word event CAESURA, held in Edinburgh.

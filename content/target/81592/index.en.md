@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Old Cigarette Cards (@vintagecigcards) on Twitter
-
 Remembering the events of yesteryear through cigarette cards. Always follows back

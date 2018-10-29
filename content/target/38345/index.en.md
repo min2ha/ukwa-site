@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Council for the Curriculum, Examinations and Assessment: The Easter Rising
-
 Teaching resources for the Key Stage 3: Understanding 1916 curriculum

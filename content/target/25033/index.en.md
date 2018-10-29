@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Segregation row rumbles on: Labour defends rally where Muslim men and women sat apart
-
 None

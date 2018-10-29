@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Options for Scotland
-
 Scottish think tank researching and writing on Scottish economic issues.

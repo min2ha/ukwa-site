@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times, The: Blair calls for campaign of passion from EU Remain activists
-
 Website for The Times UK newspaper

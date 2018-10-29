@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May says EU must 'evolve' its Brexit position
-
 The European Union must "evolve" its position on Brexit and not fall back on unworkable proposals regarding the Irish border, Theresa May said during a two-day visit to Northern Ireland in July 2018. The UK and EU had agreed that there should be no hard border in Ireland, but were at odds over how to achieve it.
 
 

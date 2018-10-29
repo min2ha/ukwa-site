@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Your Vivacious Voice
-
 This site is the result of a Wellcome Trust/Arts Council art-making and pubic engagement project exploring the extra-normal voice for children. 

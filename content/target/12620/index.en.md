@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# reformscotland (reformscotland) on Twitter
-
 <p>The twitter profile of the public policy institute Reform Scotland.</p>

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Easter 1916
-
 This digital cultural heritage application (DCHA) on the 1916 Rising is the final project of a MSc in Applied Digital Media at Griffith College Dublin. It presents a redefined story of that revolution through rarely-seen pictures and witness statements.

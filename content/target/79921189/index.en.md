@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# TTP Venture Managers Ltd
-

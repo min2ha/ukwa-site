@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Steph Houghton
-
 Website of Steph Houghton, football player

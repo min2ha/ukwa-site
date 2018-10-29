@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Royal Bank of Scotland Group plc
-
 The Royal Bank of Scotland Group plc is a British banking and insurance holding company. The group operates a wide variety of banking brands offering personal and business banking, private banking, insurance and corporate finance through its offices located in Europe, North America and Asia. In the UK and Ireland, its main subsidiary companies are The Royal Bank of Scotland, NatWest, Ulster Bank and Coutts. The group issues banknotes in Scotland and Northern Ireland 

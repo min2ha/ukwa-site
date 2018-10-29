@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Davey reveals he would like to lead Lib Dems if Clegg steps down
-
 None

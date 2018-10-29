@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Facebook admits social media can be bad for your mental health – but claims the remedy is to post MORE often
-
 News article about Facebook addressing the impact it has on mental health both postive and negative

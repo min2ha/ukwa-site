@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Beer Village Remembers 
-
 Welcome to Beer Village Remembers - a website based around a local research project, that set out to find the men from Beer village in Devon who fought in WWI

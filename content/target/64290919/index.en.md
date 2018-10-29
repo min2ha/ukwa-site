@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Ginette's Orange Gate Journal
-
 None

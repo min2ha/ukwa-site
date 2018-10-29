@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Down Gaelic Athletic Association
-
 The Down County Board of the Gaelic Athletic Association or Down GAA 

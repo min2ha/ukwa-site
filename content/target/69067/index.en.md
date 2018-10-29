@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Tonyrefail Ladies Choir
-
 Tonyrefail Ladies Choir was first established in September 1989 by Rosemarie Ashman,

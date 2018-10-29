@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# London Growth Hub
-
 The London Growth Hub brings together the capital's vast business support offer into a single online resource. The site also brings you closer to other businesses through our online forum and case studies that show how businesses like you have been supported to start up and grow. 

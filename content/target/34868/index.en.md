@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Chartered Institute of Public Relations
-
 Membership of the Chartered Institute of Public Relations is on an individual basis. They offer it to PR practitioners at all levels in their careers and in all sectors.

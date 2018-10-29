@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Romance FC (romance.fc) on Instagram
-
 Romance FC (formerly Boiler Room Ladies FC) is a football collective based in Hackney and Tottenham, London. This is their official instagram account. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Consortium of European Research Libraries (CERL)
-
 None

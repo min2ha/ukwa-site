@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# County Youth Dance Company (CYDC)
-
 County Youth Dance Company, CYDC is a youth dance company that promotes contemporary dance for students aged 14-21 in Wales.

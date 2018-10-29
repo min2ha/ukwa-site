@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford May Music
-
 Website for Oxford May Music, a music, science and arts festival.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# South Yorkshire Times
-
 None

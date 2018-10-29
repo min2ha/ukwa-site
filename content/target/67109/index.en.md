@@ -10,5 +10,3 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Edinburgh Anarchist Feminist Bookfair 2018
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# National Archives, The: 100 years of women’s suffrage
-
 A subsection of the The National Archives website set up in 2018 to commemorate 100 years since some women were given the vote in parliamentary elections and 90 years since women got to vote on equal terms to men. 

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Northern Ireland Publications Resouce (NIPR) 
-
 None

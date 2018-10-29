@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The charm of Chadlington: home of country-boy Cameron
-
 None

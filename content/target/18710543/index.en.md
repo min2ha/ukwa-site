@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# London Review of Breakfasts
-
 None

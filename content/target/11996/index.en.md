@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Support for Labour drops six points as Tories take lead in latest ICM poll
-
 None

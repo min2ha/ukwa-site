@@ -10,6 +10,4 @@
   "start_date": "2015-10-30T09:00:00Z"
 }
 
-# Wild Wales
-
 The site for professional Welsh photographer Jeremy Moore.

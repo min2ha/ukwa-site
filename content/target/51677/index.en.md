@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# West Vale Catholics: The Catholic Parish of Our Lady & St Illtyd and St Cadoc
-
 The website for the Parish of Our Lady and St.Illtyd Llantwit Major with
 St.Cadoc, Cowbridge.

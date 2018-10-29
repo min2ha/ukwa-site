@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Adam Holloway (Conservative candidate for Gravesham)
-
 Adam Holloway stood as Conservative candidate for Gravesham at the 2015 General Election. He was first elected to serve as the MP for Gravesham in 2005 and re-elected in 2010 and 2015. He stood for re-election again in 2017 and was successful.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spiked: Articles tagged 'EU Referendum'
-
 Spiked (also written as sp!ked) is a British Internet magazine focusing on politics, culture and society from a humanist and libertarian viewpoint. They describe themselves as 'For Europe, against the EU'.

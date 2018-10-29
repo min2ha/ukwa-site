@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Peter Archer
-
 Peter Archer is a member of the RCA (Royal Cambrian Academy) and is based in Abertillery. His paintings are in the collections of the Royal Academy, the Arts Council, The University of Utrecht and corporate and private collections in Europe and America.

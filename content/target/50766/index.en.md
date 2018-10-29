@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Plan for Britain
-
 Explains how the Government's Plan for Britain will build a stronger, fairer Britain as the country leaves the European Union.

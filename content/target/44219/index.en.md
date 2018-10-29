@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Leith Theatre Trust
-
 Site of a trust established to facilitate the refurbishment of Leith Theatre, it’s reopening and ongoing management.

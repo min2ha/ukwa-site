@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Caer Studio
-
 CAER Studio is a 1 year AHRC funded project that will lead the development of a series of art objects and craft items inspired by the history and heritage of the community of Caerau and Ely in South West Cardiff. The CAER Collective is a cohort of local artists who will hold workshops and events over 2018. It is a follow-on from the success of the award-winning Caer Heritage Project which explored the history and archaeology of the Cardiff suburbs of Caerau and Ely from prehistory through to the modern day.

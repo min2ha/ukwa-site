@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Help Musicians UK
-
 Site of a UK-based charity for professional musicians of all genres.

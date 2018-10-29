@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Discover Dunblane
-
 Site of an online directory of businesses and other local organisations located in and around Dunblane, Stirlingshire, Scotland.

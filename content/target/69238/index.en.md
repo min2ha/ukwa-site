@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Martin's Tranent on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Martin's Tranent, East Lothian.

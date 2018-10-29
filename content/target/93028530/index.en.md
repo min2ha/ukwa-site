@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# 2020 Tax Commission
-
 The 2020 Tax Commission was established by the TaxPayers’ Alliance with the Institute of Directors. 

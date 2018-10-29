@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire Police & Crime Commissioner
-
 None

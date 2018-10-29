@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Killearn Kirk
-
 Parish website of Killearn Kirk, a Church of Scotland congregation in the village of Killearn to the north of Glasgow. 

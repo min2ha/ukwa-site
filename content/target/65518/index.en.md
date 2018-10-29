@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Corbyn condemns EU withdrawal plan as 'Whitehall power grab'
-
 Jeremy Corbyn condemned as a “power grab” the UK government’s plans to share powers between Whitehall and the devolved administrations after Brexit, despite Welsh Labour agreeing to the deal.

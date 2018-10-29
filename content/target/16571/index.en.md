@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Poll shows SNP could win all but four Scottish seats in general election
-
 None

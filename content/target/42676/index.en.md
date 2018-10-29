@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Boleyn Ground campaign
-
 When West Ham United FC moves to the Olympic Park, Galliards plan to develop the Boleyn site into a luxury “village”. 

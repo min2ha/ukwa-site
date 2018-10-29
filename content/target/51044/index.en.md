@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Old Mutual plc
-
 Old Mutual plc is an international investment, savings, insurance, and banking group established in 1845 in South Africa.

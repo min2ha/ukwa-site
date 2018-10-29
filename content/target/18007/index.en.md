@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Age UK: General Election 2015
-
 Age UK is the country's largest charity dedicated to helping everyone make the most of later life. They believe in a world where everyone can love later life.

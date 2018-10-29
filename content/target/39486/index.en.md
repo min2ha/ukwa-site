@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Glasgow Macintosh
-
 Site of an association of organisations based in Glasgow and the West of Scotland, with a curatorial interest in the artist Charles Rennie Macintosh and his work.

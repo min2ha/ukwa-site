@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# North Glamorgan Lodge No:4055
-
 A short introduction to North Glamorgan Lodge No: 4055. The site is no longer updated as of 2016.

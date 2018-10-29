@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# openDemocracy: Scotland's Future
-
 <p>News and debate on the Scottish independence referendum, hosted on the openDemocracy 'Our Kingdom' website.</p>

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Airdrieonians Football Club
-
 Website of a senior Scottish football club based in Airdire, North Lanarkshire, Scotland.

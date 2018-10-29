@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Murdo Fraser (@murdo_fraser) on Twitter
-
 The Twitter profile of Murdo Fraser, Scottish Conservative and Unionist member of the Scottish Parliament for Mid-Scotland & Fife.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Nicholls for Clwyd South on Facebook
-
 David Nicholls, Conservative candidate for Clwyd South

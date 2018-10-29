@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Socialist Party
-
 The Scottish Socialist Party (SSP; Scottish Gaelic: Pàrtaidh Sòisealach na h-Alba; Scots: Scots Socialist Pairtie) is a left-wing political party campaigning for the establishment of an independent, socialist Scotland.

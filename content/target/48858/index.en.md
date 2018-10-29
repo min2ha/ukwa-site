@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop the Arms Fair 
-
 About us
  
 

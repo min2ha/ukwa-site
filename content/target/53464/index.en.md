@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# BBC News: Election 2017: Poll tracker
-

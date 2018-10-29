@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Belfast Telegraph: Sport
-
 Sport - Latest Sport News, Results, Analysis & Comment - BelfastTelegraph.co.uk

@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Placement UK
-
 Website with information about graduate placements in the UK.

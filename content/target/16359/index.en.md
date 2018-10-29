@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute for Economic Affairs (IEA)
-
 The IEA is the UK's original free-market think-tank, founded in 1955. Its mission is to improve understanding of the fundamental institutions of a free society by analysing and expounding the role of markets in solving economic and social problems.

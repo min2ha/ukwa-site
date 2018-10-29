@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# Social Policy and Social Work Subject Centre (SWAP)
-
 Social Policy and Social Work Subject Centre (SWAP) was the UK wide subject centre funded by the Higher Education Academy that was based at the University of Southampton. It closed when funding stopped in 2012. 

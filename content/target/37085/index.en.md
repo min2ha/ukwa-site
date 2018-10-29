@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: Boris Johnson accuses Barack Obama of 'outrageous and exorbitant hypocrisy' over EU row
-
 Independent, The: Boris Johnson accuses Barack Obama of 'outrageous and exorbitant hypocrisy' over EU row

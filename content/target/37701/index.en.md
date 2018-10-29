@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: George Osborne insists the economy will be even WORSE than today's dismal forecasts if Britain backs Brexit as the referendum looms over the Budget    
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Elections Scotland: Total polling list broken down by local authority
-
 <p>Details of electorate totals, with numbers of postal and proxy votes by local authority.</p>

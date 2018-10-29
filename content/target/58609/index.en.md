@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Making Every Contact Count | Gwneud i bod cyswllt gyfrif
-
 The MECC empowers health services staff and partner organisations to recognise their role in promoting healthy lifestyles, supporting behaviour change and contributing to reducing the risk of chronic disease and tackling health harming behaviours, like drinking too much alcohol or smoking.

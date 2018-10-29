@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# London Radio Stations
-
 This site is a guide to stations in frequency order (within each waveband), so you can tune along the dial and instantly decode what you're listening to. 

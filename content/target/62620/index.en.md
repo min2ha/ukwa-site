@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# DANSA Intergrated Community Transport
-
 DANSA (Dulais, Afan, Neath, Swansea and Amman valleys) is a not for profit Community Transport organisation that aims to provide a Community Transport service to people who live within these areas who may not have easy access to conventional transport arrangements. DANSA is an amalgamation of the former DVPCT (Dulais Valley Community Transport) and BWSTLER (serving the Swansea area). 

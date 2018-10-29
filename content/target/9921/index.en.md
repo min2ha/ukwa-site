@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ESRC Research Centre for Population Change: Migration Scotland and the indepedence referendum
-
 None

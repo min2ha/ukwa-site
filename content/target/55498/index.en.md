@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: How to look after your mental health when you're always on the internet
-
 Metro: News article on mental health and internet use 

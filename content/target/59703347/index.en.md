@@ -10,5 +10,3 @@
   "start_date": "2011-02-15T00:00:00Z"
 }
 
-# Casbah: Caribbean Studies and the history of Black and Asian peoples in the UK
-

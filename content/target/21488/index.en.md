@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Caribbean Question Time to inspire voting in UK elections
-
 None

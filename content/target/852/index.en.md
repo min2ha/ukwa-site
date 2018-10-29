@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cumbria Partnership NHS Foundation Trust
-
 None

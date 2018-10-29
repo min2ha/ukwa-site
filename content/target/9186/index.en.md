@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matt Parr Figure Skater on Twitter 
-

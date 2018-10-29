@@ -10,6 +10,4 @@
   "start_date": "2014-12-16T06:00:00Z"
 }
 
-# Anglican Communion News Service
-
 None

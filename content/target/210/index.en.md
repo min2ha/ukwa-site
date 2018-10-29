@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Bournemouth and Christchurch Hospitals
-
 None

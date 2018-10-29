@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# CFBL Parents - Association des parents d'eleves du CFBL
-
 CFBL Parents is the parents association of the College Francais Bilingue de Londres (French bilingual secondary school of London)

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Click on Wales
-
 <p>Online news analysis magazine from the Institute of Welsh Affairs.</p>

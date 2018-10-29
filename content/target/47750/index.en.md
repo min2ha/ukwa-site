@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Social Housing Under Threat (SHOUT)
-
 The Campaign for Social Housing - SHOUT - Social Housing Under Threat, aims to drive policy to promote the building of more affordable social housing. 

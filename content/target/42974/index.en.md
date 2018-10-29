@@ -11,7 +11,5 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Republicans Rally As Queen Celebrates Birthday
-
 Republicans Rally As Queen Celebrates Birthday
 Anti-monarchists say they hope to highlight the "grotesquely unfair" nature of a hereditary monarchy.

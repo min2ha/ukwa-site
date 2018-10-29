@@ -10,6 +10,4 @@
   "start_date": "2006-03-22T00:00:00Z"
 }
 
-# Sgrîn Cymru Wales
-
 Site no longer exists.

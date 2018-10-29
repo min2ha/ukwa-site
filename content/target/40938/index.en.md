@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# South Wales Chamber of Commerce Manifesto
-
 This is the South Wales Chamber of Commerce Manifesto for the Welsh Assembly Elections entitled 'Campaign for Welsh Business 2015 - 2020'.

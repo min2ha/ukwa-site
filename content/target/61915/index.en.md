@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watford FC (@WatfordFC ) on Twitter
-
 Official Twitter account of The Hornets #watfordfc. Up-to-the minute messages delivered informally. News, info, and loads of other good 

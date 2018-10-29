@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Stirling and Bloody Scotland See Syria
-
 The Facebook page of Stirling and Bloody Scotland Sees Syria events, part of a series of vigils marking the deaths of Syrian refugees. Bloddy Scotland is an annual crime fiction festival held in Stirling.

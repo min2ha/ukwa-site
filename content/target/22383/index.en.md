@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: How each party compares on defence policy
-
 None

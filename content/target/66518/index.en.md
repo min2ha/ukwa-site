@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Albert Bartlett & Sons (Airdrie) Limited
-
 The website of Albert Bartlett & Sons (Airdrie) Limited, a Scotland-based potato producer.

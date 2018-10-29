@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Lost Treasures of the Black Heart
-
 The Lost Treasures of The Black Heart is a comedy club run every month at The Black Heart in Camden Town, London, curated by Josie Long. The events are recorded and released as podcasts via the website.

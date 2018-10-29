@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: My sister’s biggest fight’: the Lib Dem candidate campaigning with stage-three cancer
-
 None

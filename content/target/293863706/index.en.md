@@ -10,5 +10,3 @@
   "start_date": "2015-04-14T00:00:00Z"
 }
 
-# Churches Tourism Network Wales
-

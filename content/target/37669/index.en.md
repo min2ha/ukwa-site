@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Latvian Institute of International Affairs: the Brexit dilemma: a Baltic perspective
-
 Brexit would run directly contrary to the interests of the Baltic States. Albeit not cataclysmic in itself, UK secession from the EU would establish a dangerous precedent, challenging the very principles and ideological foundation of the union. Since regaining independence in 1991, Latvia has made an irreversible pro-European choice, and it would benefit tremendously should the United Kingdom do the same in 2017.

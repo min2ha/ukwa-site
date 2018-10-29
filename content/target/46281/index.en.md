@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paralympics: not everyone is game, The
-
 An opinion piece from a Disability Now author.

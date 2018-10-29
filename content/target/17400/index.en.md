@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Mid Staffs campaigners: Don't trust Labour on the NHS 
-
 None

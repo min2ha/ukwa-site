@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dove: Positive body confidence – how social media can affect body image
-
 Dove Campaign: Positive body confidence – how social media can affect body image

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Macphie of Glenbervie Limited
-
 The website of Macphie of Glenbervie Limited, a producer of food ingredients for the commercial food industry. The company was founded in 1928 and is based in Aberdeenshire, Scotland.

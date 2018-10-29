@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Law Society of Scotland: The Referendum on EU Membership 2016
-

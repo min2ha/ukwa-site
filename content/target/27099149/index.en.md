@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Colchester Arts Centre
-
 Colchester Arts Centre is based in a converted church in Essex, UK.

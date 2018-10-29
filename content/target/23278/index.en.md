@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lyn Hudson (@orbiscat) on Twitter (Conservative candidate for Rhondda, Conservative candidate for Cynon Valley)
-
 Lyn Hudson is the Conservative candidate for Cynon Valley at the 2016 National Assembly Elections and Pontypridd at the 2015 General Election.

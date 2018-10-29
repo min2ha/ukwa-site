@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inside Croydon
-
 <p>Inside Croydon is a website interested in everything related to life inside Croydon: music, theatre, education, football, crime and policing, traffic, housing and planning, cricket, etc.</p>

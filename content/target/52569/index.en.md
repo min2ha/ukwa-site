@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Vodafone Group plc
-
 Vodafone Group plc is a British multinational telecommunications company, It predominiantly operates services in the regions of Asia, Africa, Europe, and Oceania.

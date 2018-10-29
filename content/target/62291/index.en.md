@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Open Close Collective
-
 Site of an art installation across three Edinburgh closes [alleys/lanes] and the collecive that created the art. Based in Carrubbers, Chalmers and Trunks Closes, on the Royal Mile.

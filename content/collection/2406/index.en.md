@@ -38,6 +38,4 @@
   "endDateText": ""
 }
 
-# Italy UK
-
 Collection of websites relating to Italy, Italians and Italian culture intended to reflect a wide range of related issues such as typical Italian products, education, art and tourism. The archived sites include those about Italy and those which reflect the experience of Italians living in the UK. The collection is ongoing.

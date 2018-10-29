@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Future: Inquiry: EU nationals living in UK should be given permanent residence
-
 EU nationals already living in the UK at the point when Article 50 is triggered should be guaranteed the right to settle here permanently, according to the new report of an independent Inquiry into the status of EU nationals in the UK after Brexit, convened by British Future.

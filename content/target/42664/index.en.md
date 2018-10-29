@@ -11,7 +11,5 @@
   "subject": "Housing and Social Housing"
 }
 
-# Silchester Residents Association
-
 	
 Estate from Dixon HouseSilchester East and West form a housing estate in Notting Dale at the edge of Notting Hill, in the north of the Royal Borough of Kensington and Chelsea.  It is home to a well-established, diverse and multi-cultural community, many of whom have been here for decades.

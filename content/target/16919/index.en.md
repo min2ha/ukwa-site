@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Solar Power Portal: ‘Green agenda’ should be prioritised in UK 2015 election
-
 None

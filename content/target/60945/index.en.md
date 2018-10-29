@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Philippa Jacobs, Artist
-
 Philippa Jacobs has a studio in Llandderfel, Bala and is elected member of the RCA, Royal Cambrian Academy. 

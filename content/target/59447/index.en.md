@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Dees on Twitter
-
 Twitter page for a Dundee FC LGBT supporters group working to end anti-LGBT discrimination in football.

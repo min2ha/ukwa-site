@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hemel Hempstead Liberal Democrats
-
 Website of Hemel Hempstead Liberal Democrats, providing information on how to get involved, manifesto, election results and local and national news.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Eventbrite: International Football History Conference 7-8 June 2018
-
 The second annual International Football History Conference will take place at the City Football Academy, Manchester City Football Club.

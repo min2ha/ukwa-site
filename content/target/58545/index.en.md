@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Telstars Theatre Company
-
 Telstars Theatre Company was established in 1963 and is based in Cardiff.

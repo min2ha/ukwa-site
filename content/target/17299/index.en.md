@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: It is 'insulting' to say young Conservatives haven't got a heart
-
 None

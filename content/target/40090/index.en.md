@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lyn Ackerman on Facebook (Plaid Cymru candidate for Islwyn)
-
 Lyn Ackerman is the Plaid Cymru candidate for Islwyn at the 2016 National Assembly Election. 

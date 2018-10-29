@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# SACL : Scotland against crooked lawyers
-
 None

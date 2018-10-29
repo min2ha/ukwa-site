@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Old Spitalfields Market Ltd.
-
 Market and shopping centre in Tower Hamlets on the edge of the City.

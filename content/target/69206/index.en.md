@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Belfast International Arts Festival
-
 Website for the Belfast International Arts Festival

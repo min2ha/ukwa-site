@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Spalding RFC on Pitchero
-
 The official website of Spalding Rugby Football Club.

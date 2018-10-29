@@ -10,5 +10,3 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Diocese of Edinburgh, The | A diocese of the Scottish Episcopal Church:
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tab, The (Royal Holloway): Interviews of student political society members concerning their views on the EU Referendum
-
 The Tab interviewed several students from some of Royal Holloway’s political societies (Labour Club, Left Forum, Conservative Society, Brexit Campaign) as to how they will be voting and how it may affect Britain if they leave or stay. 

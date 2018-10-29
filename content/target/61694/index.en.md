@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# National Street Rod Association UK
-
 An online enthusiast community website for street rod enthusiasts in the UK. The website includes sections for news, events, membership information and a dedicated forum for users to discuss the hobby.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Moray SNP (@moraysnp) on Twitter
-
 Twitter profile of the Moray branch of the Scottish National Party (SNP).

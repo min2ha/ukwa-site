@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lynda Waltho, Labour, on Twitter
-
 None

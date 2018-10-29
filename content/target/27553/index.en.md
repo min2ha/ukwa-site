@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015 quiz : Round One - How much do you know about the current election?
-
 None

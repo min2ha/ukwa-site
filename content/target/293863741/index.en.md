@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Llandaff & Monmouth DACBR	
-
 Llandaff & Monmouth DACBR	 is the organisation for church bell and handbell ringers in South Wales.

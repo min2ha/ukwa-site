@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg targets female vote as Lib Dems launch election campaign
-
 None

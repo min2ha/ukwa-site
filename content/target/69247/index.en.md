@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's RC Church Benbecula on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St Mary's, Benbecula, and North Uist, Western Isles.

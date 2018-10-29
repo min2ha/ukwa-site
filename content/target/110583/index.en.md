@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute and Faculty of Actuaries
-
 The Institute and Faculty of Actuaries (IFoA) came into being on 1 August 2011. It is the UK's only chartered professional body dedicated to educating, developing and regulating actuaries based both in the UK and internationally 

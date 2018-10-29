@@ -10,5 +10,3 @@
   "start_date": "2015-06-24T00:00:00Z"
 }
 
-# Mentora | Mentoring
-

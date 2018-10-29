@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kay Park Parish Church
-
 Website of the Kay Park Parish Church, formerly known as Henderson Church. The name change came with the Union with the Old High Kirk in November, 2012

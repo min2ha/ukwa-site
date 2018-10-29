@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Lisa Eurgain Taylor
-
 Lisa Eurgain Taylor is a artist based in Anglesey who paints abstract landscapes inspired by Snowdonia.

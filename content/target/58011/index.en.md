@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# THE LAST BOTTLE OVEN FIRING in The POTTERIES 1978
-
 The Final Firing. Between 26th August and 3rd September 1978 one of Stoke-on-Trent's most significant cultural events of the 20th Century took place. It was the last firing in The Potteries of a traditional potters' bottle oven.

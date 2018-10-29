@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Angela Merkel is now silencing German satirists to please Erdogan. This is what the EU has wrought
-

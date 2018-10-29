@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anne's, Denniston
-
 Site of a Roman Catholic church in Scotland for the parish of, St. Anne's, Denniston, Glasgow

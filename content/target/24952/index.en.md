@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'It was an SNP set-up!' Labour claims ugly ambush on leader Jim Murphy by Scots nationalist thugs was staged after tip-off from Nicola's party
-
 None

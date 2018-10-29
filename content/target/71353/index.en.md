@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lucy Moon: The Importance Of Self-Care Online 
-
 Blog post by Lucy Moon reflecting and advising on the importance of applying self-care to social media use.

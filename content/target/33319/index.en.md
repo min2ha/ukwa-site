@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Tower House - fortified border house
-
 Tower is the only Welsh fortified border house still standing in Wales. It is a Grade 1 building of outstanding historical interest and located near Nercwys, near Mold.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Twechar Nazarene Church on Facebook
-
 Facebook page of a Chhurch of the Nazarene church and congregation at Twechar, East Dunbartonshire.

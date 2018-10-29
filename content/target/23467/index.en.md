@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mayor of London (@MayorofLondon) on Twitter
-
 This is the official Twitter account of the Mayor of London.

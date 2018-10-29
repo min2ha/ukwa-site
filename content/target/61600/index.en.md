@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tyne Valley Parish
-
 Site of three Church of Scotland churches, working together under the title Tyne Valley Parish, churches at Borthwick, Cranstoun and Fala in Midlothian.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T10:00:00Z"
 }
 
-# Family Heritage Company
-
 Site of a genealogy service based in Biggar, South Lanarkshire.

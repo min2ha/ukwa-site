@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bar Council, The: Brexit
-
 Bar Council campaign work and activities relating to Brexit.

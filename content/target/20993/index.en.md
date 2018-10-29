@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alliance Party of Northern Ireland
-
 The Alliance Party of Northern Ireland (APNI) (Irish: Páirtí Comhghuaillíochta Thuaisceart Éireann; Ulster Scots: Alliance Pairtie o Norlin Airlann) is a liberal and centrist political party in Northern Ireland. It is Northern Ireland's fifth-largest party overall, with eight seats in the Northern Ireland Assembly.

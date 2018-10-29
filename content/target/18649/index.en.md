@@ -11,8 +11,6 @@
   "subject": "SmashFest UK"
 }
 
-# Mute - We gladly feast on those who would subdue us
-
 Mute is an online magazine dedicated to exploring culture and politics after the net. Mute combines biannual issues dedicated to specific topics (Precarious Labour, The Knowledge Commons, etc) with regularly updated articles and reviews. The site also features ongoing coverage of relevant news and events contributed by ourselves and our readers.
 
 As well as the online magazine, Mute also publishes a biannual magazine in print (aka Mute Vol. 3), which features selections from current issues together with other online content, specially commissioned and co-published projects.

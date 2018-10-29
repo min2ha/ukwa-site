@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# The Line
-
 The Line is London's first dedicated modern and contemporary art walk. The route runs between the Queen Elizabeth Olympic Park and The O2, following the waterways and the line of the Meridian.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Woodlands Community Garden
-
 Site of a community garden and the development trust who run it, located in the Woodlands are of Glasgow.

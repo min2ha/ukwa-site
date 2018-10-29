@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: Rejection of Theresa May's Brexit plan could trigger second referendum, admits Treasury minister
-
 A Treasury minister admitted that Theresa May could be forced to bow to mounting pressure for a fresh Brexit referendum if the Chequers  plan was rejected – with the option to halt EU withdrawal “altogether”. Mel Stride delivered a huge boost to the campaign for a “People’s Vote” when he acknowledged: “There is a danger of that happening if Chequers doesn’t prevail”.
 
 

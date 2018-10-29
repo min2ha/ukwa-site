@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Britain's top civil servant is forced to deny dragging Prince William into the referendum after he told diplomats Britain's alliances were the 'bedrock of our security'   
-

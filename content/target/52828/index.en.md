@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Countryside Alliance: The Rural Charter – the Countryside Alliance General Election Manifesto 2017
-
 The Countryside Alliance has produced a manifesto for the countryside which highlights several key issues which truly matter to those who live and work in the countryside; from tackling rural crime and increasing the provision of affordable rural housing to ensuring universal access to high speed broadband and mobile phone signal.

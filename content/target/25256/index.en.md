@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nicola Sturgeon offers to "help make Ed Miliband Prime Minister" during Scottish TV debate 
-
 None

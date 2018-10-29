@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anne Grindlay (@annegrindlay) on Twitter
-
 Twitter profile of Anne Grindlay, Solidarity Scotland candidate for the Lothian regional list in the 2016 Scottish Parliament election.

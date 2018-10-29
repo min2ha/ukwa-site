@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Kelvin Nanotechnology 
-
 Website of Kelvin Nanotechnology, provider of nanotechnology fabrication solutions

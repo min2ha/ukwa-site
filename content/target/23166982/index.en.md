@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Badham Farm - holiday cottages, Looe and Polperro
-
 None

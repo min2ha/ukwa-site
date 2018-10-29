@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crossreach
-
 The website of Crossreach, the Church of Scotland's branch of social support services. It was formally known as  Church of Scotland Board of Social Responsibility. 

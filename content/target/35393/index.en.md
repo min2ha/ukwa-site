@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bromley First World War : Caring for the casualties of the First World War in Bromley
-
 A borough wide project exploring how the people of Bromley cared for both combatant and non combatant casualties of the Great War.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Liam Carr (@LiamRCarr) on Twitter (Labour candidate for Hexham)
-

@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Raiders: London's LGBT Softball Club
-

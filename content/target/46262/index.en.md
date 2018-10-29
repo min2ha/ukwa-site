@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guaridan, The: Most Britons do not see foreign students as immigrants, survey shows
-
 Poll show less than a quarter of adults think of foreign students as immigrants, while two thirds say overseas students are positive for the local economy.

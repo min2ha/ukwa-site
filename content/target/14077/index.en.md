@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Martin Kettle (martinkettle) on Twitter
-

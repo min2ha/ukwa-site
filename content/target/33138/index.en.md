@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Young Rewired State
-
 Young Rewired State is an initiative to encourage children and young people to develop skills in IT. It is a community of digital makers for under 18s.

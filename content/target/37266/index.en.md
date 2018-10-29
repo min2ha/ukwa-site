@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Why Britain should STAY in the EU -LSE blogs
-
 In an interview with EUROPP’s editor Stuart Brown, former Greek finance minister Yanis Varoufakis discusses the launch of his new ‘Democracy in Europe’ movement (DiEM25), the UK’s upcoming referendum on EU membership, and why a surge of democracy is needed to prevent the EU from sliding toward disintegration.

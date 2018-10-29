@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind.org: Rules of engagement, mental health and the internet
-
 Mind article on the Rules of engagement, mental health and the internet

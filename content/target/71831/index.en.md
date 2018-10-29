@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Welsh Fabians: The Fabian Society of Wales
-
 The Fabian Society is a socialist organisation whose purpose is to advance the principles of democratic socialism within the UK. This is the site for Welsh Fabians and contains articles from their Welsh members.

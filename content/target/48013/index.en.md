@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# British Medical Journal (BMJ): Brexit blog
-

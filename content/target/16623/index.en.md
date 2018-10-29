@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrats yet to select candidates in more than half of seats
-
 None

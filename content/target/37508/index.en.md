@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# British Youth Council, The (BYC) : BYC calls for votes at 16 in EU referendum
-

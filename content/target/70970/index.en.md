@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sundown Festival
-
 Website for the Sundown music festival. 

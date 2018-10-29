@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Downing Street DENIES putting the Army on standby for no deal in EU talks as Brexiteer chief Jacob Rees-Mogg slams 'fretful, weak and incompetent' ministers for failing to prepare
-
 Theresa May's official spokesman insisted there were 'no plans' to deploy troops after reports claimed contingency plans had been drawn up to have soldiers distribute food and medicine if the UK's ports collapse into chaos after Brexit.
 

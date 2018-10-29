@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Making Solutions: GCSE Chemistry Revision
-
 Welcome to a brand new FREE revision experience! Making Solutions offers a one-of-a-kind learning tool that pools together resources from across the web!

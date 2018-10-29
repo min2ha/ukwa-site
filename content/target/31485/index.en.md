@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# MCV
-
 MCV website offers games industry news, email digests, games industry research, official charts, release schedules, jobs board and access to digital editions of the magazine.

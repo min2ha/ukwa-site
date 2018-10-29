@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Duff for SNP North East List for 2016 on Facebook
-

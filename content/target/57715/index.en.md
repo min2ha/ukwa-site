@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tory leadership: 'Nothing has changed', or has it?
-
 Doubts among Conservatives about Theresa May's leadership came out into the open following her disastrous speech at the September 2017 Party conference.

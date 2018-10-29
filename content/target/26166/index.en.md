@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# All Party Parliamentary Group on Alcohol Misuse: Manifesto 2015
-
 They work to reduce alcohol-related harm.

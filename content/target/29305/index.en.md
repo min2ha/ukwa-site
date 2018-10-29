@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fowey Festival of Words and Music
-
 The Fowey Festival 2015 organised by the du Maurier Festival Society

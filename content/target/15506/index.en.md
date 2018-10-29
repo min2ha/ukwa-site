@@ -10,6 +10,4 @@
   "start_date": "2014-12-16T06:00:00Z"
 }
 
-# Institute of Biomedical Science (IBMS)
-
 The Institute of Biomedical Science (IBMS) is the professional body for biomedical scientists in the United Kingdom. It aims to promote and develop the role of biomedical science within healthcare to deliver the best possible service for patient care and safety. It does this by supporting biomedical scientists in their education and training, improving standards of practice, representing the profession and working with organisations to improve laboratory service.

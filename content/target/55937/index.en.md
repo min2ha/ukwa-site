@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Percussionist Harriet Riley
-
 Harriet Riley Percussionist is originally from Devon and studied Orchestral Percussion at The Royal Welsh College of Music and Drama.

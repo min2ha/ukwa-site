@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Frank Little (Liberal Democrats former Councillor for Cadoxton)
-
 Frank Little is the Liberal Democrat former Councillor for Cadoxton and candidate for Neath at the 2016 National Assembly for Wales elections. 

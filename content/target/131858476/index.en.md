@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Torbay and Southern Devon Health and Care Trust
-
 None

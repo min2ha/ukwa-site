@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Secular Medical Forum
-
 None

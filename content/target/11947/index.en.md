@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute for Government
-
 The Institute for Government is an independent charity with cross-party and Whitehall governance working to increase government effectiveness.</p>

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Save Withybush Save Lives (SWAT)
-
 <p>A pressure group campaining againgst the dowhgrading of Withybush Hospiral in Pembrokeshire.</p>

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Port Bannatyne Pétanque Club
-
 Site of a pétanque club based in Port Bannatyne, Bute, playing a form of bowls.

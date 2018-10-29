@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann McKechin on Facebook
-
 This is the Facebook page of Ann McKechin, the Labour Party candidate for Glasgow North in the UK General Election on the 7th May 2015.

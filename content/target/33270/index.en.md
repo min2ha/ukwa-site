@@ -10,6 +10,4 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Wales Co-operative Centre Blog
-
 Wales Co-operative Centre Blog ceased posting in January 2015.

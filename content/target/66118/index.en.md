@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Manchester Histories
-
 We're a charity that delivers projects, events and activities with communities that reveal, share and celebrate Greater Manchester's diverse histories and heritage.  

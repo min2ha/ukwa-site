@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Torrance Web
-
 Community website for the area in and arround the village of Torrance, East Dunbartonshire, Scotland.

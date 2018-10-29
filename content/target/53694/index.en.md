@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Geoffrey Bastin (@Geoffbastin) on Twitter (UKIP Politician)
-
 Geoffrey Bastin stood as UK Independence Party(UKIP) candidate for Bexhill and Battle at the 2017 General Election but was not elected.

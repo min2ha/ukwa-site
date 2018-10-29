@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Rugby
-
 The official website of the Ulster Branch of the Irish Rugby Football Union.

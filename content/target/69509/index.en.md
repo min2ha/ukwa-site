@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# North East Wales Badminton Association
-
 The North East Wales Badminton Association (NEWBA) is responsible for the promotion and development of badminton at all levels from grass roots to high performance in Flintshire, Denbighshire and Wrexham.

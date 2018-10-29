@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Church of Cupar Old & St Michael of Tarvit, The
-
 The website of the Cupar Old and St Michael of Tarvit Parish Church. 

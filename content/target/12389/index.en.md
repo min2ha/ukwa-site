@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MarkLewisFrancis MBE (mlewisfrancis) on Twitter
-
 <p>The twitter profile of Mark Lewis Francis MBE, member of the 100 metre relay for Team England at the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Daughter of a murderer is taking on George Galloway at the general election 
-
 None

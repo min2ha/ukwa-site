@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Julie Hepburn for Central Scotland
-
 Julie Hepburn is the Scottish National Party list candidate for Central Scotland region in the 2016 Scottish Parliament election.

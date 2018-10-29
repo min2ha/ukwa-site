@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh News Extra...good news from across Wales
-
 Welsh News Extra is a website run by Ceidiog PR, a public relations company from north Wales, to spread good news from across Wales.

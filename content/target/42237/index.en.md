@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stop the EU
-
 Makes the case for Britain to leave the EU

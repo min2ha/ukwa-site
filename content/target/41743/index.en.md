@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Communist Part of Great Britain Marxist-Leninist (CPBML): Brexit
-

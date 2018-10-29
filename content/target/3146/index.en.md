@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Courts
-
 The Scottish Courts and Tribunals Service (SCTS) is an independent body corporate established by the Judiciary and Courts (Scotland) Act 2008. Its function is to provide administrative support to Scottish courts and tribunals and to the judiciary of courts, including the High Court of Justiciary, Court of Session, sheriff courts and justice of the peace courts, and to the Office of the Public Guardian and Accountant of Court.

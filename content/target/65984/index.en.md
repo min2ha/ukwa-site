@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# CGU Blogs
-
 Site of the blooging service at Glasgow Caledonian University, opne to staff and students.

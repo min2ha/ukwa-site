@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lives of WW1 (@LivesOfWW1) on Twitter
-
 An online archive remembering the millions of people from Britain and the Commonwealth who served in World War I. This is the official Twitter account.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Scottish Fabians
-
 Scottish Fabians is a self-governing section of the Fabian Society.

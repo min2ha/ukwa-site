@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# North Petherton Carnival Official Website
-
 North Petherton Carnival celebrates its 67th year in 2016 and is one of seven illuminated carnivals annually held in the month of November, in the County of Somerset.

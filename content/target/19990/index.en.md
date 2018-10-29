@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sam Gould on Facebook
-
 Sam Gould is the UKIP Parliamentary Candidate for Caerphilly 

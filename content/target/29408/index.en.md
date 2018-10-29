@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Chris Gibson Art
-
 An artists professional website, an example of the way that artists represent and record their practice online.

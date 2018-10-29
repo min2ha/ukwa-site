@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derry City Football Club
-
 Derry City Football Club is based in Derry City, Northern Ireland but due to safety reasons they play in the League of Ireland not the Irish League.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Association of British Commuters
-
 From May 2016, a group of rail users and local campaigners came together to organise protests; initially at Brighton Station and London Victoria, and later the Department for Transport itself. With the success of these protests, the #SouthernFail campaign was born, along with our Facebook group the Association of British Commuters – now the most active place of online discussion about the Southern Rail crisis.

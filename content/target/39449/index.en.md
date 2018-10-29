@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Towards Transition Glasgow
-
 Site of a group based in Glasgow, Scotland, preparing for a low-carbon future by addressing climate change and peak oil through positive and local action.

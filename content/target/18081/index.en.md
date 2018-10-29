@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ditch promise to cut migration, senior Tories including Hunt and Osborne warn Cameron
-
 None

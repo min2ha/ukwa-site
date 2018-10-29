@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Unite donates £1million to Labour's General Election battle against the fatcat-funded Tories 
-
 None

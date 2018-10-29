@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Ian Duncan Smith: EU membership is destroying young people's dreams of getting on the housing ladder
-

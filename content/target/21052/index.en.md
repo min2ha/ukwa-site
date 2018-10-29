@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Wilson (Conservative and Unionist Party)
-
 Neil Wilson stood as Conservative and Unionist Party candidate for Belfast East at the 2015 General Election but was not elected

@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# European Association for Health Information and Libraries (EAHIL) Conference 2018, Cardiff
-
 EAHIL aims to improve health library services by cooperation across national boundaries. This is their site for the 2018 conference in Cardiff.

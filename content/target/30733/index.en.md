@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# SAE Institute
-
 Official website of the SAE Institute with campuses in London, Oxford, Liverpool and Glasgow.

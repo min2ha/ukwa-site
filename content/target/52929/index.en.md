@@ -10,5 +10,3 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Avril Rowlands Film & Television Training
-

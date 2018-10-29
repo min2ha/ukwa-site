@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tiverton Literary Festival
-
 Tiverton Literary Festival

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# The One in Five Campaign – Encourage and Empower
-
 The One in Five Campaign aims to encourage, empower and increase political participation amongst disabled people in Scotland.

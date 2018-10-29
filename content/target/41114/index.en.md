@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Central Scotland Regional Equality Council
-
 Site of an organisation based in Falkirk and serving Falkirk, Stirling and Clackmannanshire Council areas, working to  promote equality, fight hate crime and discrimination, foster good relations and build partnerships.

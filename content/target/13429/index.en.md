@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# William Bain (William_Bain) on Twitter
-
 <p>The twitter profile of William Bain, Labour Member of Parliament for Glasgow North East.</p>

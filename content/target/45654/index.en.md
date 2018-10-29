@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit means Brexit: the only thing that has changed is the arithmetic
-

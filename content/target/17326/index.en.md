@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The Natalie Bennett: I became a feminist aged five after being told girls shouldn't ride bikes
-
 None

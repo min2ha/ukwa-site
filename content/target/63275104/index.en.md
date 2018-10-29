@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Adecco: London 2012
-

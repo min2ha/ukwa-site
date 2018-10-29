@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Liverpool Arabic Centre
-
 LAC is a local charitable organisation developed by local people “to advocate the social and economic wellbeing, improve the health and advance the education of the Yemeni/Arabic community whilst strengthening the awareness of the community within wider society through the celebration and promotion of all aspects of Arabic history, language, cultural heritage and identity.”

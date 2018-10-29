@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: "How social media is fuelling the worrying rise in eating disorders"
-
 News article about social media fuelling rise in eating disorders

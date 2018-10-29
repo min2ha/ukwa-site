@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Auchinleck Parish Church of Scotland on Facebook
-
 Site of a Church of Scotland parish church at Auchinleck, Ayrshire.

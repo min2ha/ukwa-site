@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Socialism 2016
-
 Socialism 2016 is weekend of socialist discussion and debate, hosted by the Socialist Party.

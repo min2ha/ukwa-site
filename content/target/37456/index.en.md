@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Muslim News, The: Cameron seeks support for "Remain" vote in EU referendum
-
 British Prime Minister David Cameron has defended his EU deal and once again urged people to support staying in the bloc during a session at the House of Commons in London.

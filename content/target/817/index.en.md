@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Public Health Observatory (SEPHO)
-
 None

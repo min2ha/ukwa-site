@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Mental Health Foundation
-
 Mental Health Foundation is an organisation supporting people with mental health problems, living with learning disabilities or reduced mental capacity. It is a registered charity in England and Scotland.

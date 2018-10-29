@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Taking Flight Theatre Company 
-
 Taking Flight Theatre Company  is a theatre company based at Chapter Arts Centre, Cardiff.

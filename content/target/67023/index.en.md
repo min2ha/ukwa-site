@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The London Classic Car Show
-
 Website for The London Classic Car Show

@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Antiphon
-
 Quarterly online poetry magazine

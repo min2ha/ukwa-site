@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: Future UK-EU Relationship
-
 This House of Lords Library briefing has been prepared in advance of a debate that is scheduled to take place in the House on 1 December 2016 on the best options for the United Kingdom’s future relationship with the European Union following the referendum vote to leave.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoke City FC (@stokecity ) on Twitter
-
 Stoke City Football Club is a professional football club based in Stoke-on-Trent, Staffordshire, England, that plays in the Premier League, the top flight of English football. 

@@ -10,6 +10,4 @@
   "start_date": "2017-10-11T09:00:00Z"
 }
 
-# Catherine Fletcher
-
 Catherine Fletcher is a historian of Renaissance and early modern Europe and currently Associate Professor in History and Heritage at Swansea University.

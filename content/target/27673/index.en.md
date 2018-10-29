@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour had NO economic policy: Ex-Chancellor Alistair Darling blasts Miliband and Balls for 'rubbish' election strategy
-
 None

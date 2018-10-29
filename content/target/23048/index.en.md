@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gary Miller (@GaryMillerGP) on Twitter (Green Party candidate for Sittingbourne and Sheppey)
-

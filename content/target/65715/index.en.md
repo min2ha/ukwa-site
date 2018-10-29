@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# John Clark Motor Group
-
 John Clark Motor Group is a new and used auto dealer based in Aberdeen, Scotland. 

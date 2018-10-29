@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Beachcombing Art
-
 Beachcombing Art is the website of artist Richard Blacklaw-Jones who is based in Pembrokeshire. He is a modern pop artist whose work utilises beach salvaged and discarded plastics to make an environmental point regarding our society’s conflicted attitudes and behaviours.

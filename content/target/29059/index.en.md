@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Westmorland & Lonsdale Conservatives
-
 Website of Westmorland & Lonsdale Conservatives, providing information on association officers and staff, district and county councillors, events and local and national news.

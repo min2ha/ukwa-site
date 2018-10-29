@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Lodge Clydesdale No. 556
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

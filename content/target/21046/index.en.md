@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# East Belfast DUP (@EastBelfastDUP) on Twitter
-
 Twitter feed of East Belfast DUP.

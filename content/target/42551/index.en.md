@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Hello!
-
 HELLO! launched in 1988, creating a brand new sub-sector of weekly publishing. HELLO! is synonymous with celebrity, royalty, glamour, aspiration and indulgence. HELLO! Online launched in 2001 to satisfy the growing demand for regularly updated celebrity news stories, with the same brand values for which HELLO! Magazine has become famous.

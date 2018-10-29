@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sampford Brett
-
 This web site is about the West Somerset village of Sampford Brett.

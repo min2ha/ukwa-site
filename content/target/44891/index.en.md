@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jubilee Centre: Time for a post-Brexit jubilee?
-
 Looks to the jubilee lawa in Leviticus as a model for healing divisions in post-Brexit Britain

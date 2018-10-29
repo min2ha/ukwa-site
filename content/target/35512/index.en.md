@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fabio Villani (@cloverfabio) on Twitter
-
 The Twitter profile of Fabio Villani, Scottish Green Party candidate for Highlands and Islands in the 2016 Scottish Parliament election.

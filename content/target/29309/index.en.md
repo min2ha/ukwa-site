@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Dr Williams’ School Dolgellau 1878 - 1975
-
 Dr Williams' School, Dolgellau opened in 1878 and was a pioneer of secondary education for girls in Wales. 

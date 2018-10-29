@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Social Democratic and Labour Party (SDLP): Brexit
-
 A subsection of the Social Democratic and Labour Party (SDLP) website covering Brexit.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Has Scottish referendum debate changed English attitudes?
-
 None

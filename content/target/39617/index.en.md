@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Neale Hanvey for Mid Scotland and Fife 2016 on Facebook
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit looks bad on all fronts. That’s why we’re pushing for a people’s vote
-

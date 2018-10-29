@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Alliance Trust plc
-
 Alliance Trust plc is an investment management firm based in Dundee, Scotland.

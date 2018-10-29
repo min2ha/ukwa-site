@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UNICEF: Nelson Mandela 1918 - 2013
-
 None

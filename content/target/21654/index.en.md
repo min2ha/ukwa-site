@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron states the blindingly obvious and the Westminster village yokels are amazed
-
 None

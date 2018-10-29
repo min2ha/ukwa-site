@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Imam Khoei Islamic Centre Swansea on Facebook
-

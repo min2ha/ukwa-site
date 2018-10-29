@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Spirit Body Soul
-
 Christian revival, social and music/arts events and workshops.

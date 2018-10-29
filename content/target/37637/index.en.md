@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Whitehall pesters top firms for EU propaganda: Leaked emails show staff are infuriating company bosses with requests for glowing 'case studies' to pass on to ministers and Number Ten   
-

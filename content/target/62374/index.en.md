@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wycombe Wanderers Football Club
-
 Wycombe Wanderers Football Club is a professional association football club based in the town of High Wycombe, Buckinghamshire, England.

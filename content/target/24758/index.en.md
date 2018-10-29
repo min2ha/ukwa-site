@@ -10,5 +10,3 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Angus Dalgleish: One Of The Above (UKIP candidate for Sutton and Cheam)
-

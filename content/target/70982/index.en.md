@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Taxation (Cross-border Trade) Bill: Briefing for Lords Stages
-
 The Taxation (Cross-border Trade) Bill is a government bill introduced in the House of Commons on 20 November 2017. It passed third reading on 16 July 2018. Its introduction follows the publication of a white paper on 9 October 2017 on legislating for the UK’s future customs, VAT and excise regimes. All of the Bill’s stages in the House of Lords are scheduled to take place on 4 September 2018, and as a supply bill the Lords is ‘debarred’ from making amendments.
 

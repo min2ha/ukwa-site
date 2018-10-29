@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Even if David Cameron wins in May this exit talk will haunt him
-
 None

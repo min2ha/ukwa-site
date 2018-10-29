@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Audit Scotland
-
 Audit Scotland's blog.

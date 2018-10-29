@@ -10,7 +10,5 @@
   "start_date": "2013-07-29T10:00:00Z"
 }
 
-# Royal Society of Literature (RSL), The
-
 The Royal Society of Literature (RSL) supports authors both established and emerging with awards and grants, runs masterclasses, and manages a Schools Outreach programme to inspire the next generation of readers and writers. 
 It is a society of, and for, writers with membership open to all. It has a charitable status.

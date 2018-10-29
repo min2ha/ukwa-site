@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: No more coalitions: two-thirds of voters want one party in power
-
 None

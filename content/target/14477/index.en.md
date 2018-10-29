@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Bryncynon Strategy
-
 <p>Bryncynon Strategy, is a not for profit registered Charity based in Ynysboeth in the Cynon Valley established to improve the health and well-being of an ex-coal mining community’s population. The site also provides information on the Feel Good Factory and the Green Valley Centre.</p>

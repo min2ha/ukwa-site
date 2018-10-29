@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# NMI
-
 Industry Association which aims to support quality and quantity of electronic engineering and manufacturing in the UK.

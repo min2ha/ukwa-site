@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Friends of the 36th North Antrim
-
 Website listing men who enlisted to fight in the 36th Ulster division in the First World War.

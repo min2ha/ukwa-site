@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clair Hawkins (Labour candidate for Dover)
-

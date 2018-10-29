@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Association of Highland Clans & Societies
-
 Site of an association of societies of Scottish clans

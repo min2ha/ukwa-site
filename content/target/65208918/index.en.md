@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Greater Manchester Police Authority (GMPA)
-
 None

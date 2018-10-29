@@ -10,6 +10,4 @@
   "start_date": "2014-06-10T22:00:00Z"
 }
 
-# Performers Agency & Management
-
 None

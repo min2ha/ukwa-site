@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Dance Blast: arts development organisation for Monmouthshire
-
 Dance Blast is the arts development organisation for Monmouthshire. Dance Blast is funded by Monmouthshire County Council and receives project funding from Arts Council of Wales Lottery.

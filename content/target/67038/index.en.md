@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Queen’s Park Baptist Church
-
 Site of a Christian church of the Baptist denomination and its congregation located in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# National Coalition for Independent Action (NCIA)
-
 National Coalition for Independent Action (NCIA) is a network of individuals and groups acting to protect and keep the historic tradition of civil action. 

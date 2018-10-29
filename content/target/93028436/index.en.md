@@ -11,5 +11,3 @@
   "subject": "19th Century English Literature"
 }
 
-# 1000 Schools for 1000 Girls
-

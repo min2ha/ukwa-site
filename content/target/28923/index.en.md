@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Rational Optimist, The
-
 The website of Matt Ridley who posts columns, reviews, articles, blogs and links here.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Flight Delay Refunds
-
 Flight Delay Refunds is an initiative of Blueway Limited a UK incorporated company. Their purpose is to assist European passengers in claiming back compensation from airlines. 

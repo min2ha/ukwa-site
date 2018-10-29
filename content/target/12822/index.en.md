@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Books on a Bike
-
 <p>Free storytelling and songs for children across Scotland featuring the actor Tam Dean Burn reading works by Julia Donaldson. Part of Culture 2014.</p>

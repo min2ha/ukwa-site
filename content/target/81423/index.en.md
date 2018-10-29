@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Flag Football World (@FlagFootballW) on Twitter
-
 We aim to bring news from around the globe, with help from international correspondents, to keep everyone informed, educated and entertained about flag football

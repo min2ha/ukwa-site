@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Blue Fox (@BlueFoxCAFH) on Twitter
-
 The Conservatives Against Fox Hunting official Twitter account.

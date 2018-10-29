@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would drive high-achieving EU students away from UK, study shows
-
 Guardian, The

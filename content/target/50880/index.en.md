@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# nGendr
-
 A collection of contemporary writing from members of the UK transgender and non-binary community.

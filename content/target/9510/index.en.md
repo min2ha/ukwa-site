@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Green Party in Northern Ireland: Our European Candidate
-
 None

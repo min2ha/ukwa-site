@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Lodge Girvan St. Johns No. 237
-
 Site of a masonic lodge located in Girvan, Ayrshire and affiliated with the Grand Lodge of Scotland.

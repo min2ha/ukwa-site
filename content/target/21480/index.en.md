@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Half of private firms behind NHS privatisation have links to Tories 
-
 None

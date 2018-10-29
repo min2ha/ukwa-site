@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Commission on Strengthening Local Democracy in Scotland
-
 <p>The Commission on Strengthening Local Democracy brings senior councillors,  wider civic Scotland, and specific experts together with a common resolve to understand why local services and local accountability matter.</p>

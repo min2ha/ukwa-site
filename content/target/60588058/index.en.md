@@ -11,6 +11,4 @@
   "subject": "Independent Arts Organisations"
 }
 
-# No Fixed Abode
-
 None

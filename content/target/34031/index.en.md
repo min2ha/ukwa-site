@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Ross and Cromarty Heritage
-
 Site with historical accounts of thirty-six communities in the Ross and Cromarty, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Not the View
-
 Site of an association football fanzine for supporters of Glasgow Celtic Football Club.

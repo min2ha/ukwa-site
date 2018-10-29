@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Durham County Council
-
 Official website of Durham County Council.

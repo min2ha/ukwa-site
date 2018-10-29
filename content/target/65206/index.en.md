@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 2nd May 2018: European Union (Withdrawal) Bill
-
 the Government suffered a tenth defeat on the European Union (Withdrawal) Bill, over that amendment from former European Commissioner Lord Patten enshrining support for the Good Friday Agreement in the legislation while giving a veto to the Irish Government over post-Brexit border arrangements.

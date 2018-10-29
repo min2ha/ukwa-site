@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Pearson plc
-
 Pearson PLC is a British multinational publishing and education company.  It is the largest education company and the largest book publisher in the world.

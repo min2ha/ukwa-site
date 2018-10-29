@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# UK Prime Minister (@10DowningStreet) on Twitter
-
 Official channel for Prime Minister Theresa May's office, based at 10 Downing Street.

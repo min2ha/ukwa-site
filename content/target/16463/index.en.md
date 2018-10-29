@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: No coalition without 'snoopers' charter', Conservative sources say 
-
 None

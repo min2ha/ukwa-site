@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Alloa Elim Church
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Alloa, Clackmannanshire.

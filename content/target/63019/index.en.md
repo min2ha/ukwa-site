@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BusinessCloud: Social media 'drives mental health problems'
-
 Article refering to comments made by Social Chain co-founder Dominic McGregor. He commented that social media is one of the biggest drivers behind mental health problems.

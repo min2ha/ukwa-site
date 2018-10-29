@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lichfield Cathedral Choir
-
 The primary purpose of the choir is to lead the music for the opus dei, the daily worship in the Cathedral. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quendon and Rickling Parish
-
 The villages of  Quendon and Rickling lie between Newport and Stansted Mountfitchet in Essex on the old London to Cambridge Road.

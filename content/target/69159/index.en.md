@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade:  At the crossroads: Britain and global trade
-
 Speech delivered by Liam Fox, Secretary of State for International Trade, on future UK trading arrangements, in partnership with the Federation of Small Businesses.

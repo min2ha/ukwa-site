@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Calne Rugby Football Club
-

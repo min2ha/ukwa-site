@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Bournemouth Symphony Orchestra
-
 Bournemouth Symphony Orchestra brings world-class music to the South and South West of England. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Refinery29: What your Instagram posts could reveal about your Mental Health
-
 Refinery29 News article about Instagram and Mental health

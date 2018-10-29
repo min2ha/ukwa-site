@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BRUSSELS BLASTED Brexit Secretary Dominic Raab hits out at EU for having ‘no coherent’ explanation for why they rebuffed Chequers
-
 Reports UK politicians' reaction to the EU's rejection of Theresa May's Chequers plan at the Salzburg European Council meeting in September 2018.

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Classical Music (@BL_Classical/) on Twitter
-
 Recordings of classical music.125 years of commercial, broadcast and unpublished material.Tweets by Jonathan Summers, Curator, Classical Music, British Library.

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# La Petite Feministe Anglaise
-
 None

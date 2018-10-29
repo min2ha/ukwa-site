@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# National Museums Liverpool
-
 National Museums Liverpool is a group of free museums and galleries housing varied collections.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Wild About Britain Forum
-
 An online enthusiast community concerned with British wildlife, the environment and outdoor activities. Contains various more focused sub forums.

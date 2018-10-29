@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Outdoor Access Code
-

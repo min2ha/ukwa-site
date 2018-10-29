@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Why I am in: A vote to remain is a ballot against Gove and Johnson's repulsive politics
-

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Charities Management
-
 Charities Management magazine appears six times a year and the material in this magazine is aimed at UK readers.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Posessing any drug should not be criminal offence, says Clegg
-
 None

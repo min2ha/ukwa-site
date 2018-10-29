@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BeLeave (@BeLeaveBritain) on Twitter
-

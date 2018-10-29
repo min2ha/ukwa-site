@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Interlopers
-
 Site of an orienteering club based in Edinburgh and the Lothians.

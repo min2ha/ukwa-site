@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City of London: City of London Heritage Gallery
-

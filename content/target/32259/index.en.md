@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Matthew Jarvis
-
 Dr Matthew Jarvis is a Welsh writer and critic. 

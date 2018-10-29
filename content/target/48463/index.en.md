@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# West Highland Way
-
 Site providing comprehensive information about the route of of the walking path, the West Highland Way, from Milngavie to Fort William, Scotland.

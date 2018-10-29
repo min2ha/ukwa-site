@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Côr Hen Nodiant
-
 Côr Hen Nodiant is a choir specifically for older people from the Cardiff area.

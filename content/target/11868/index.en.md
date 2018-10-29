@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Champions in Schools
-
 <p>Champions in Schools is a role-model programme from Winning Scotland Foundation that places Scotland’s top international athletes in the classroom to deliver a series of inspirational workshops on the topics of goal-setting, fitness and nutrition, and winning attitudes. The website includes athelete profiles, interviews, advice and educational material for teachers.</p>

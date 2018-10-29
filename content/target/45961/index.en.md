@@ -10,5 +10,3 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Wales Autism Research Centre
-

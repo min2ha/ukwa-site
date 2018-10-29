@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Gigwise.com
-
 <p>Gigwise.com is a British online music news site that features music news, photos, album reviews, music festivals, concert tickets and video content. It was founded in June 2001 and the site is based in London.</p>

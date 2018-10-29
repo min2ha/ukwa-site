@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brits in Europe
-
 "In the run up to the EU referendum Charlie Clift photographed British people living in Europe."

@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Jenn Kirby, Musician and Composer
-
 Jenn Kirby is a composer based in Swansea. She is a Programme Director and Lecturer in Music in the University of Wales, Trinity Saint David.

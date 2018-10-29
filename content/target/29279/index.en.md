@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Irish Centre
-
 The London Irish Centre (LIC) is the heart of the Irish community in London. The LIC is both a Registered Charity and an Irish community centre in Camden Square, London NW1. The LIC supports Irish people in London and promoting Irish arts and culture.

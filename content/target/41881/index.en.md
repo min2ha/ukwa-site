@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: EU Referendum:  Guidance for UK government departments on activities during the period 27 May to 23 June
-
 The referendum on whether the UK should remain in the EU takes place on Thursday 23 June 2016. This guidance covers UK government activity in the last 28 days of the EU referendum campaign. It takes effect on 27 May 2016

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Formby
-
 St Peter's Church - or The Ancient Chapelry of Formby, its historic title - lies in the north east quarter of Formby, north of Liverpool, where it has been a centre of Christian worship and service within the community for centuries. A member of the world-wide Anglican communion, St Peter's enjoys a rich covenant with the other Christian denominations in the town. Its liturgies use both Common Worship and the BCP. The services are ordered, thoughtful, innovative and imaginative, and music plays an important part.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Anchoress, The
-
 The Anchoress is the stage name of Welsh multi-instrumentalist, songwriter and author Catherine Anne Davies.

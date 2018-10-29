@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Scottish Ensemble
-
 Site of a Scottish classical string ensemble based in Glasgow.

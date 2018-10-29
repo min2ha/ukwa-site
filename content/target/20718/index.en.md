@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alastair Graham (@AGrahamCSER) on Twitter
-
 The Twitter profile of Alastair Graham, the Conservative Party candidate for Caithness, Sutherland and Easter Ross in the UK General Election on the 7th May 2015.

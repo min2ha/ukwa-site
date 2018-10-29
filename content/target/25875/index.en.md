@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories strike election gold with warnings on Sturgeon and Miliband
-
 None

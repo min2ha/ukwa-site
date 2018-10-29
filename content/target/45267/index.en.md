@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cromarty History Society
-
 Site of a local history society focussing on the town of Cromarty, Highland, Scotland, and its locale.

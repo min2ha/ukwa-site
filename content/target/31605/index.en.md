@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CPC Game Reviews
-
 CPC Game Reviews is a website which contains reviews of games for the Amstrad CPC computer.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Alexei Sayle 
-
 Website for Alexei Sayle, stand-up comedian, actor and author.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Edinburgh College of Art, The University of Edinburgh
-
 Official website of the Edinburgh College of Art.

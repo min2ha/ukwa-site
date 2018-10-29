@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Royal Highland Show
-
 Site of an annual agricultural show held at Ingliston, western Edinburgh, each June.

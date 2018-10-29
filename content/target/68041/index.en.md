@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Ethical Ales
-
 Site of a brewer located in Mauchline, Ayrshire whose business practices are determined to be ethical.

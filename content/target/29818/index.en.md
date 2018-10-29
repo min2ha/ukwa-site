@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Ntl Museums Scotland (@NtlMuseumsScot) on Twitter
-
 Twitter profile of the National Museums Scotland.

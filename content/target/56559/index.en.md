@@ -10,6 +10,4 @@
   "start_date": "2017-08-11T09:00:00Z"
 }
 
-# Association of Commercial Attorneys
-
 The Association of Commercial Attorneys has been approved by the Lord President of Scotland, the Scottish Government and the Office of Fair Trading to represent parties in the Sheriff Courts in matters relating to construction and building law.

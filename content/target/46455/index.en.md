@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Imperial College Boat Club (ICBC)
-
 Located on the Putney Embankment, ICBC is one of the oldest and most successful rowing clubs in the country. They welcome all students who are interested in rowing - from those who've never set foot in a boat before, to experienced international athletes.

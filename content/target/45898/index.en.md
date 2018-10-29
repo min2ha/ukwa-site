@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Poetry Bookshelf
-
 According to the site, 'Wales is a fragmented publishing world of small presses and self-publishing filling the gaps between the established publishers like Seren Books, and Parthian Books. This website provides ordering information for anyone seeking to explore this diversity and richness' of the smaller presses in Wales. Authors currently included: Jackie Biggs, Tony Kendrew, Martin Locock, Kathy Miles, Sue Moules.

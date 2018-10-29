@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Frankie Locke
-
 Frankie Locke is a painter and cermaic artist from Barry, Vale of Glamorgan.

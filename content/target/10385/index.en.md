@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Matt J McLaren, Liberal Democrat on Facebook
-
 None

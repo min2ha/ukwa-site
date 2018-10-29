@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Derek Wall (@Anothergreen)  on Twitter (Green Party Politician)
-
 Derek Wall stood as Green Party candidate for Maidenhead against the Prime Minister Theresa May at the 2017 General Election but was not elected.

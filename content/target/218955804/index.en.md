@@ -10,6 +10,4 @@
   "start_date": "2014-09-08T19:00:00Z"
 }
 
-# Six Point Foundation
-
 None

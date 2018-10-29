@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: EU referendum outcome: PM statement, 24 June 2016
-
 Prime Minister David Cameron made a statement in Downing Street on the vote to leave the European Union, announcing his resignation.

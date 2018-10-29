@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joy Morrissey (@joymorrissey ) on Twitter (Conservative  Politician)
-
 Joy Morrissey stood as Conservative candidate for Ealing Central and Acton at the 2017 General Election but was not elected.

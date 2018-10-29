@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Institute (MCI), The, Brunel University London 
-

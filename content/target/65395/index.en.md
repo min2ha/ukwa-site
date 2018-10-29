@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Portstock
-
 Portstock is a celebration of live music from Newport and the surrounding areas.  The festival is held at Tredegar Park, Newport and is raising funds to support the work of St David’s Hospice Care.

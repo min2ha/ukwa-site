@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: BBC Question Time EU Referendum Debate Sees Young Woman Make Passionate Case For Brexit
-
 Pro-Brexit opinion of a young woman and the answer of Labour MP Diane Abbott

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Aid: Survival and beyond - The Domestic Abuse Report 2017
-
 This site hosts the findings of research into violence against women in the UK between 2010 and 2017. Includes a pdf of the report and it's summary. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Etsy: PaniniCheapskates
-
 A selection of hand drawn Panini Football Sticker style art for sale on Etsy, an online shopping platform.

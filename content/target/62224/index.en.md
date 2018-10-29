@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: Energy security
-
 Despite having played a leading role in developing the EU’s Internal Energy Market (IEM), the UK is now on course to leave it. This inquiry revealed strong support across the energy sector to continue to participate in the IEM, but this is unlikely to be possible if the Government pursues its policy of leaving the Single Market and the jurisdiction of the Court of Justice of the European Union. The UK will need to continue to trade energy with the EU in order to meet demand, but if such trade takes place outside the IEM it is likely to be less efficient, potentially raising costs for consumers.
 

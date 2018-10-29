@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T11:00:00Z"
 }
 
-# Pròiseact Thiriodh
-
 Promotion of a collection of Gaelic audio material made on Tiree 

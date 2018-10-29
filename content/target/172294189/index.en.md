@@ -10,5 +10,3 @@
   "start_date": "2013-07-16T00:00:00Z"
 }
 
-# UKOLN Informatics Research Group
-

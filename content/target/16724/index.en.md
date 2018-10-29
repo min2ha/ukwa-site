@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Local Government Political Restrictions Exemptions Adjudicator for Scotland
-
 None

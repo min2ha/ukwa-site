@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Argyllshire Gathering, The
-
 Site of an organisation who promote the county through a series of traditonal Highland events throughout the year - games, piping competition, and other events.

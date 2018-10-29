@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shindig
-
 Site of an annual festival of music, cinema and comedy staged at Stirling [and formerly known as the Stirling Fringe Festival]. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Play Poland Film Festival
-
 Site of an annual film festival based in Edinburgh, but taking place throughout the United Kingdom promoting Polish art and cinema - site is in Polish language and English

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Michelle Brown AM (@UKIPNorthWales)  on Twitter 
-
 Michelle Brown is the Regional Assembly Member for North Wales.

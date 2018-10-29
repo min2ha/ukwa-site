@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlotte Hodivala (Conservative)
-
 Charlotte Hodivala stood as Conservative candidate for Birmingham, Perry Bar at the 2015 General Election but was not elected.

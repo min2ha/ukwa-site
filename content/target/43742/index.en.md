@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The 10 best Euro myths – from custard creams to condoms 
-
 Guardian, The

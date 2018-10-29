@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Association of Italian Scientists in the UK
-
 A group of Italian scientists working in the United Kingdom, bringing together academics and other researchers in the three domains of Physical Sciences and Engineering, Social Sciences and Humanities, and Life Sciences. Their aim is to promote scientific collaborations between Italian and British scientific institutions, research centres, industries and foundations.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Royal Scots the Royal Regiment
-
 Site of the Royal Scots regiment of the British Army detailing its history, a space for personal recollections and a forum for old soldiers.

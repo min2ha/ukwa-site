@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Historypin
-
 <p>Historypin is a digital, user-generated archive of historical photos, videos, audio recordings and personal recollections. Users are able to use the location and date of their content to "pin" it to Google Maps. Historypin has been developed by the not-for-profit company We Are What We Do, in partnership with Google.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Renewable Energy Consumer Code 
-
 The Renewable Energy Consumer Code was set up by the Renewable Energy Association. Their aim is to guarantee a high quality experience for consumers wishing to buy or lease small-scale energy generation systems for their homes. 

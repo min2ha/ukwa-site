@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Willie Rennie on Facebook
-
 This is the Facebook page of Willie Rennie, former Member of the Scottish Parliament for Mid Scotland & Fife, Leader of the Scottish Liberal Democrats, and candidate for North East Fife in the 2016 Scottish Parliamentary election.

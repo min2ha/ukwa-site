@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scotland: What next?
-
 <p>News stories and analysis from the BBC relating to the Smith Commission and the devolution debate in Scotland following the referendum on 18 September 2014.</p>

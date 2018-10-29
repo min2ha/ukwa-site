@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lincolnshire County Council
-
 Official website of the Lincolnshire County Council.

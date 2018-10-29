@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Women for Brexit
-
 a non-partisan campaign dedicated to highlighting the reasons why women should vote to leave the EU

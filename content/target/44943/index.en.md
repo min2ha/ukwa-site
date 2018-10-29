@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pool, The: The women to root for at Rio
-
 Sportswriter Alison Kervin highlights some of the women performing well at the Olympics –not just for sporting prowess, but for overcoming all the odds to get where they are now.

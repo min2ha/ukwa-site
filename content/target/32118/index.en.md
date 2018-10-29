@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Friends of St. Cybi, The
-
 St. Cybi ia a church in Holyhead.

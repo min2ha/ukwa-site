@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Science Festival
-

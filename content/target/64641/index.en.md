@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Peter Thabit Jones
-
 Peter Thabit Jones is a poet born in Swansea and is the author of 16 books. He is also the founder and editor of 'The Seventh Quarry', a poetry magazine published in Swansea. This is his personal website focusing on his books, and poetry and prose collections.

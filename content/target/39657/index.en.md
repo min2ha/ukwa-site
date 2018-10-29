@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ian McDougall SNP on Facebook
-
 Facebook page of Ian McGougall, Scottish National Party (SNP) list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

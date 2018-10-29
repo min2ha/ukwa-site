@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Manchester Hardcourt Bike Polo
-
 An online enthusiast community website concerned with Bike Polo. The website covers schedules and locations for meetups. It is also home to a forum for the community which discusses how to play Bike Polo and gives advice on equipment for the sport.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Jon Ronson
-
 Jon Ronson is a Cardiff born journalist, author, documentary filmmaker and radio presenter. He has written many books including 'The Men Who Stare at Goats (2004)' and 'The Psychopath Test (2011)'. 

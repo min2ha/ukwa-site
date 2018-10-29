@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: BBC accused of 'anti-Tory bias' by Culture Secretary Sajid Javid who threatens review of how the Corporation is governed
-
 None

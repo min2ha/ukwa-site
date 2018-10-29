@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Sir Ivan Rogers’ sudden departure is a blow to Theresa May’s Brexit plans
-

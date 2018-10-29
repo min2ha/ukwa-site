@@ -10,6 +10,4 @@
   "start_date": "2018-06-24T09:00:00Z"
 }
 
-# Martin Millar (Author)
-
 Scottish author based in London. Writer of cult fantasy novels with urban hyper reality themes.

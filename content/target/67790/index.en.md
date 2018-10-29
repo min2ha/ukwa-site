@@ -11,5 +11,3 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# BBC - Grenfell Tower Wall
-

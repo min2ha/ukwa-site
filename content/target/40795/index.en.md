@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Doncaster is Okay on Facebook
-
 Bringing you updates, and entirely loving tributes to the fine town of Doncaster. 

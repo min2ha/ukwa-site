@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Garnwen Trust
-
 The Garnwen Trust was established in memory of the Alex Collins and his girlfriend Bethan Jones. Both were 22 and into a trip of a lifetime when the flight they took from Bangkok to Phuket in September 2007 failed to land successfully. They were amongst ninety people who lost their lives in the crash.

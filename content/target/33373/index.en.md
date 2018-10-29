@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Cwm Gwendraeth Elli
-
 Menter Cwm Gwendraeth Elliis a community-based organisation which works to raise the profile of the Welsh language.

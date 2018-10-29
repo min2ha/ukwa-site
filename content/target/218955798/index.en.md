@@ -10,5 +10,3 @@
   "start_date": "2014-08-11T00:00:00Z"
 }
 
-# UK's Changing Union | DG Undeb sy'n Newid
-

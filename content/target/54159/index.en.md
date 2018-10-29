@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research (IPPR): Striking the Right Deal: UK-EU Migration and the Brexit Negotiations
-
 It is in the nation’s interest for the government to seek a new agreement on UK–EU migration as part of the forthcoming Brexit negotiations. IPPR tests the options against its progressive settlement criteria, and proposes a negotiating strategy for the government as discussions begin.

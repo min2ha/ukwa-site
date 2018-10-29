@@ -10,6 +10,4 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Photographers' Gallery, The
-
 The Photographers' Gallery is a public gallery in London dedicated to photography.

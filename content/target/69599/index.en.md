@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Amaliah
-
 Amaliah is dedicated to representing Muslim women and led by an aim to empower individuals through their identity, seeking out many different voices within the muslim community.

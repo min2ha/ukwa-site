@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# O'Donovan brothers: These Irish rowers are giving the best interviews at the Olympics 
-
 Gary and Paul O'Donovan won Ireland's first medal of the Olympics. They won silver in the lightweight men's double sculls. They made history by winning Ireland’s first ever Olympic rowing medal.

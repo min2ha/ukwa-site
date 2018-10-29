@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Hull Comedy Festival
-
 Website for the Hull Comedy Festival which takes place annually in Kingston upon Hull, Yorkshire.

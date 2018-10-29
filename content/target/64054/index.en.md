@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Irish Network, UK (@winwomenuk) on Twitter
-
 The Women’s Irish Network in London: Empowering, educating, and enhancing the lives of women. 

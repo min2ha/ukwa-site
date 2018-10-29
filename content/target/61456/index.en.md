@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: UK-EU trade deal will not be agreed before Brexit day, EU negotiator warns
-
 Report of an interview with Guy Verhofstadt, the European Parliament's chief negotiator, on the Andrew Marr show on February 18th 2018. He argues that UK's Brexit trade deal with the EU will not be finalised before exit day. Instead there will be an "annex" inside the withdrawal agreement which will set out what a future relationship might look like, to be thrashed out during the transitional period while current rules remain in place.

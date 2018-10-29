@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pope Benedict XVI in the UK
-
 None

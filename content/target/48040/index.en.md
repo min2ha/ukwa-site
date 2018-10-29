@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# It’s My Shout Productions Ltd
-
 It’s My Shout Productions Ltd produce short films for television and screen including those for BBC Cymru Wales, S4C, UK Film Council and the Arts Council of Wales.

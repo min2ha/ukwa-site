@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Connected and Disaffected (@CandDPodcast) on Twitter
-
 A UK based political podcast.

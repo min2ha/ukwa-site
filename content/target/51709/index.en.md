@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# British Neuropsychological Society
-
 The British Neuropsychological Society (BNS) is a society which builds on a relationship between clinical investigations of patients with neuropsychological impairments and cognitive neuroscience.

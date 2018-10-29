@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg berates 'deceitful' Tories over revelations of planned £8bn welfare cuts
-
 None

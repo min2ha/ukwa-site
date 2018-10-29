@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: European army marches into sight, says NICK FERRARI
-
 Columns by Nick Ferrari

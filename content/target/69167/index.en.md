@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog:  Brexit must not bring a bonfire of workers’ rights
-
 Unions across Europe are arguing for the Brexit deal to guarantee a level playing field between the UK and EU on workers’ rights. The deal must protect all the hard-won rights that currently come through the EU. And the deal must be dynamic – when EU workplace rights improve, UK workers must not be left behind.

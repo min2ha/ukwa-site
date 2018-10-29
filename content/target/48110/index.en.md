@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and data protection
-
 This Library briefing paper discusses the current reform of EU data protection law, the interaction with UK law, and the potential consequences of Brexit in this area.

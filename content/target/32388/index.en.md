@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Dignity in Dying
-
 Dignity in Dying campaigns for a change in the law on assisted dying for terminally ill, mentally competent adults. Their website sets out the case for assisted dying, with information on rights for individuals and carers, and links to policy papers and campaigns material.

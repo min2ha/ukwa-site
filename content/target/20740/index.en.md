@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fin Carson (@fincarson) on Twitter
-
 The Twitter profile of Finlay Carson, Scottish Conservative and Unionist candidate for Galloway and West Dumfries in the 2016 Scottish Parliament election.

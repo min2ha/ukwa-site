@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Rivers Guidebook Forum
-
 An online enthusiast forum concerned with river based sporting activities. Discusses whitewater rafting, canoeing, sea kayaking, competitions and various other topics.

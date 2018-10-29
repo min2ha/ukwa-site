@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Macalla 1916
-
 This website outlines the 1916 programme of events organised by Comhaltas Ceoltóirí Éireann, a group involved in the preservation and promotion of Irish traditional music.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Royal Scottish Couontry Dance Society
-
 Site of an organisation dedicated to promoting Scottish Country Dance.

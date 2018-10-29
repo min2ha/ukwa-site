@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Chwarae Teg
-
 Chwarae Teg is a charity that help ensure that women in Wales can enter the workplace, develop their skills and build rewarding careers by working closely with the government, academics and industry to influence the development of policies.

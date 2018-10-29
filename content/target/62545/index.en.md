@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# MCFC Supporters Club (@mcfcsupportersc) on Twitter
-
 Official Manchester City FC Supporters Club.

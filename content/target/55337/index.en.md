@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 26th June 2017: Debate on the Address: Brexit and Foreign Affairs:
-
 Debate on negotiations for the UK's withdrawal from the EU and the legislation underpinning them announced in the Queen's Speech.

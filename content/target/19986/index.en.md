@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katy Beddoe on Facebook
-
 Katy Beddoe is the Green candidate for Caerphilly.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancashire and South Cumbria Cancer Network  
-
 None

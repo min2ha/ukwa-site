@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jewish Medical Association UK
-
 The Jewish Medical Association (UK) combines several previous Jewish Medical groups in the UK, including the former British Chapter of the Israel Medical Association and the London Jewish Medical Society.

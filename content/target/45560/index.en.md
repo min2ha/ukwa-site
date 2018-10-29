@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Morpeth Town Council
-
 This website provides information about the services, activities and other relevant information relating to Morpeth Town Council

@@ -10,5 +10,3 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Association of Teachers and Lecturers Cymru (ATL Cymru)
-

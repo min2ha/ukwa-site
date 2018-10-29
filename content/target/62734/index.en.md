@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BTO Solicitors: Brexit blogs
-
 Brechin Tindall Oats is an independent Scottish Law firm with offices in Glasgow and Edinburgh. Our experienced teams advise on corporate, commercial, personal matters and insurance-related litigation.

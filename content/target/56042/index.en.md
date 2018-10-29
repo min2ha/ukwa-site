@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Ross Leadbeater
-
 Ross Leadbeater is a musical director, conductor, pianist, vocal coach and producer from Wales.

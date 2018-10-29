@@ -10,6 +10,4 @@
   "start_date": "2016-06-23T10:00:00Z"
 }
 
-# the many-headed monster: the history of 'the unruly sort of clowns' and other early modern peculiarities
-
 The many-headed monster is a collaborative effort focusing on English society and culture in the early modern period, very broadly conceived. Includes 'History from below' and 'Voices of the people' online symposia.

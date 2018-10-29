@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: EU Referendum Briefing 2: How could Brexit affect young people? 
-
 If British voters decide to Leave the EU in the upcoming referendum, how would that affect young people? The author looks at that from three perspectives: education, travel and the economy.

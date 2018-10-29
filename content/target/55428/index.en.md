@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bridgend United Churches
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Would Brexit leave the UK better placed to tackle the EU crisis?
-
 The faults and benefits of EU managment of the migrant crisis and how it affects the UK

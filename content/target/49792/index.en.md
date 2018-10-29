@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Opera Scotland
-
 Site providing listings of opera performances in Scotland, and of an archive of Scottish opera performances and the history of opera in Scotland.

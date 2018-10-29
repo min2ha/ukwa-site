@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# British Music Hall Society
-
 The British Music Hall Society are fans of music hall and variety.

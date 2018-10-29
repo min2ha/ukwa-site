@@ -10,6 +10,4 @@
   "start_date": "2008-09-24T00:00:00Z"
 }
 
-# JISC CETIS : Centre for Educational Technology and Interoperability Standards
-
 Not to be confused with the old CETIS site

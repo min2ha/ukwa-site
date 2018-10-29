@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# The Stage (@TheStage) on Twitter
-
 The Stage is the world's oldest and best theatre publication. 

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC Cymru Fyw
-
 Daily news and articles from BBC Cymru.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Theresa May's new customs plan 'dead on arrival' in EU
-
 Warns that Theresa May's plan for the UK to be part of a single market on goods but not services was set to be rejected out of hand by the EU.

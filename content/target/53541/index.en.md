@@ -10,6 +10,4 @@
   "start_date": "2017-05-24T09:00:00Z"
 }
 
-# Wee Red Bar
-
 Site of a music venue and bar located in the grounds of Edinburgh College of Art.

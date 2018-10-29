@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: With the great Marmite war, the reality of Brexit has started to bite
-

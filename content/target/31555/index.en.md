@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Christopher Painter
-
 Christopher Painter is a Welsh composer.

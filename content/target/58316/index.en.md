@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# National Assembly Wales Elections 2016: A Freight Manifesto for Wales
-

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Kesson - Cornish Musicians Collaborative
-
 None

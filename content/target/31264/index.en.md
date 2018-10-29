@@ -10,6 +10,4 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# Helfa Gelf | Art Trail
-
 Helfa Gelf (Arts Trail) is the largest open studio event in north Wales, with more than 300 artists and is held every September since 2006. The Art Trail combines over 100 artists, Open Studios and Artists Open Houses.

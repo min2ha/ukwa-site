@@ -10,6 +10,4 @@
   "start_date": "2005-03-14T00:00:00Z"
 }
 
-# Child Accident Prevention Trust (CAPT)
-
 The Child Accident Prevention Trust is the UKs leading charity working to reduce the number of children and young people killed, disabled or seriously injured in accidents.

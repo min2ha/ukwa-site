@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Magna Carta Walk: Liberty, Justice & Power in Salisbury
-

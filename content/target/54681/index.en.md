@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Model Flying Forum
-
 The Model Flying Forum is a forum concerned with Model Flying Aircraft. Its website is also home to the R/C flying, Radio Control Models and Electronics Magazine (RCM&E) 

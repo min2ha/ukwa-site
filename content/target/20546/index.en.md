@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour should be thankful for Tony Blair - and not just for his money 
-

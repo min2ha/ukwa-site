@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour Remainers: Call for second EU referendum will be felt on all sides
-
 Argues that, in the final stages of the Brexit negotiations, all sides would seek to use the issue of a second referendum to their advantage. For example, Theresa May could use the threat to keep her restless Brexiteers on side. Some EU leaders said at the September 2018 summit that they would be happy to extend the article 50 negotiations to allow a further referendum to take place.

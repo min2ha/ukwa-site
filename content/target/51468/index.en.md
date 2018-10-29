@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Nick Clegg tells EU march there is a 'perpetual sense of anger' over Brexit
-

@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Chaz Davies
-
 Chaz Davies is a World Superbike Rider from Kinghton, Wales. He is 2011 Supersport World Champion and former 2011 Supersport World Champion.

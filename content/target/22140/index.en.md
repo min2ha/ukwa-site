@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maria Eagle (@meaglemp) on Twitter (Labour  Politician)
-
 Maria Eagle stood as Labour candidate for Garston and Halewood and was elected MP. She first stood for Garston and Halewood in 1997 and has held the seat ever since.

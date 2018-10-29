@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derby GAA St Joseph's G.A.C
-
 St. Joseph’s Gaelic Football team is based in Derby and plays in the Warwickshire GAA league.

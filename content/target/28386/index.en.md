@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Khayal House
-
 Khayaal is a multi-award-winning theatre and drama education company dedicated to the exploration of Muslim world literature and the experience of Muslims in the modern world for the stage, radio and screen.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Stronger In (@WalesStrongerIn) on Twitter
-
 Wales Stronger in Europe is part of the Britain Stronger in Europe (formally The In Campaign Ltd) and is a lobbying group campaigning for the United Kingdom to remain in the European Union. 

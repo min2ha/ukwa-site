@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Shared Regulatory Services
-
 SRS (Shared Regulatory Services) Wales is a regulatory partnership, bringing together the Environmental Health, Trading Standards and Licensing Teams from Bridgend, Cardiff and the Vale Councils.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Zoo Venues on Facebook
-
 Facebook for Zoo Venues, a recurring collection of venues at the Edinburgh Fringe Festival.

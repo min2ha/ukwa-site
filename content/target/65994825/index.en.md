@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Triathlon England
-
 None

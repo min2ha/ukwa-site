@@ -11,8 +11,6 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scooter Shack Forum
-
 An online enthusiast forum concerned with scooters. Discusses scooter related news, scooter projects, scooter tuning, bikes for sale and various other related topics. Contains a section for pictures of members scooters.
 
 

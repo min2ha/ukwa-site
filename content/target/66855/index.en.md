@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# First Milk Limited
-
 The website of First Milk Limited, foremerly known as Axis Milk Limited. The company produces and supplies dairy products and ingredients for retail, food service and milk markers. First Milk Limited is based in Paisley, Scotland. 

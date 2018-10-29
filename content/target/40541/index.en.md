@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Flodden 1513 Ecomuseum
-
 Site of a museum / ecomuseum based over forty locations connected with the Battle of Flodden, 1513, which took place in Northumberland.

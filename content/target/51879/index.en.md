@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Church, Hoole, Chester
-
 All Saints Church is an active, lively and growing parish church, made up of people of all ages, which seeks to serve the local community of Hoole.

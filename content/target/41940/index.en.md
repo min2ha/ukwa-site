@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cambridge & South East Cambs Branch of UK Independence Party
-
 Website of Cambridge & South East Cambs Branch of UK Independence Party.

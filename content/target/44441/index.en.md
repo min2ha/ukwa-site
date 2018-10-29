@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Brexit: What happens now?
-
 An article discussing the outcomes of the EU Referendum

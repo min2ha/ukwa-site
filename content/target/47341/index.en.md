@@ -10,6 +10,4 @@
   "start_date": "2016-12-24T09:00:00Z"
 }
 
-# Goethe-Institut - United Kingdom
-
 The Goethe-Institut is the Federal Republic of Germany’s cultural institute, active worldwide. They promote the study of German abroad and encourage international cultural exchange. This the UK section of the Goethe-Institut website.

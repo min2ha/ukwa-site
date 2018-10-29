@@ -10,6 +10,4 @@
   "start_date": "2017-01-10T09:00:00Z"
 }
 
-# National Library of Wales: Brut y Tywosogion | Chronicles of the Princes
-
 The Peniarth 20 manuscript includes several different texts, Y Bibl Ynghymraec, Brut y Tywysogion, Myrddin a Gwenddydd and Gramadeg Barddal. This is the Digital version of the 'Chronicle of the Princes (Peniarth MS 20)'.

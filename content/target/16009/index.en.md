@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Aubrey Powell
-
 <p>Official website co-founder of the art and design company Hipgnosis.</p>

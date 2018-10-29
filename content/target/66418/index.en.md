@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for Education Economics (CfEE)
-
 The Centre for Education Economics (CfEE) is an independent think tank working to improve policy and practice in education through impartial economic research.

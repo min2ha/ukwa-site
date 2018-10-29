@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Stephen Crabb on Facebook
-
 Stephen Crabb is the Conservative MP for Preseli Pembrokeshire.

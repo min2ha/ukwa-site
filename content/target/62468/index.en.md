@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Findochty and Portknockie Church
-
 Site of two linked Church of Scotland parish churches at Buckie, Moray (historically Banffshire).

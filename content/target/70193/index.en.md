@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newry City FC (@NewryCityFC) on Twitter
-
 Newry City Premier League Football Club Official Twitter Site.

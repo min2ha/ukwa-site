@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit meets Trumpism: the malign new force spanning the Atlantic
-

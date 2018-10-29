@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Mewn Swansea
-
 Mewn Swansea works towards establishing a network of black and ethnic minority women and women’s organisations, in the Swansea Bay area.

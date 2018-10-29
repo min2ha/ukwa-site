@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# De-Fence Records
-
 Site of a record label based in Fife, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Ports of Call: Walks of Art At The Royal Docks
-
 None

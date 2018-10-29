@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Marie Stopes UK (@MarieStopesUK) on Twitter
-
 UK Health Charity providing NHS & private abortion care, vasectomy, contraception & STI testing, plus support & counselling

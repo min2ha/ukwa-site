@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kingston Children's Literary Festival
-
 Festival entertaining and inspiring the growing imaginations of 3-8 year olds with a series of storytelling events

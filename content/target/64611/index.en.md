@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Archaeoleg Brython Archaeology
-
 Brython Archaeology, based in Bangor, provide archaeological consultancy and contract services throughout Wales. Brython was established in 2015.

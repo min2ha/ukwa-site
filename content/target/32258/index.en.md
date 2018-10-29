@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Scintilla: The Journal of the Vaughan Association
-
 A journal of literary criticism, prose and new poetry in the metaphysical tradition.

@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Stuart Rossiter Trust
-
 None

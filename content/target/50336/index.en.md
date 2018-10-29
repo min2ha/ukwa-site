@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Churchill College Cambridge
-
 Churchill College received its Royal Charter in 1960, it is the national and Commonwealth memorial to Sir Winston Churchill.

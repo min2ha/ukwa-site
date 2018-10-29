@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Kingston St Mary
-
 Kingston St Mary is a parish and village 3 miles north of Taunton lying under the southern extremity of the Quantock Hills (an Area of Outstanding Natural Beauty) in Somerset.
 Within the Parish are the communities of Kingston St Mary, Nailsbourne, Yarford, Fulford, Dodhill, Cushuish and Pickney.
 Kingston St Mary has a population of 921 persons and 391 households (2011 Census).

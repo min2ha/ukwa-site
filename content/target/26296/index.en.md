@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Peter's Chailey
-
 Official website of St Peter's Parish, Chailey, East Sussex. It includes a monthly newsletter Chailey News.

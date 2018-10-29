@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Gordon Brown: Higher Scottish benefits are 'Vow Plus'
-
 None

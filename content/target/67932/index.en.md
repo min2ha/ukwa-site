@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mill Hill Rugby Club (@MillHillRFC) on Twitter
-
 The official Twitter account of Mill Hill Rugby Football Club. Established 1937.

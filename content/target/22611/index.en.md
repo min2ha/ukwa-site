@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Blow for Miliband as Labour backer exposed as foreign benefits cheat who conned Britain out of £30,000
-
 None

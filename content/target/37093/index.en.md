@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Alastair Campbell slams ‘dishonesty’ of papers backing EU exit
-
 Alastair Campbell attacks rightwing newspapers for their coverage of the EU referendum saying that they have sunk to a new low. He states that newspapers have become propaganda sheets for various politicians rather than keeping voters informed. 

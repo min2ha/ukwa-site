@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 'Stop talking about hedgehogs!': Green Party leader Natalie Bennett given interview advice by media experts
-
 None

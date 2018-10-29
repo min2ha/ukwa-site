@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Freddy Greaves on Facebook
-
 Freddy Greaves is the Plaid Cymru candidate for Brecon and Radnorshire.

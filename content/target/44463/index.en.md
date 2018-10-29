@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: No EU exit for us, say Italy's on-the-rise Eurosceptics
-

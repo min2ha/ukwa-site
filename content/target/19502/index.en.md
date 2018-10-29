@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# University of Lincoln: Magna Carta Lecture Series: Dr Mark Goldie FRS: Magna Carta: The Ancient Constitution 
-

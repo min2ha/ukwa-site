@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Plaid Cymru: Leanne: First Minister should support "double majority" in EU referendum
-

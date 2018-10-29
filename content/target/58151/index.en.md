@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The patronising, elitist hysteria of universities over being asked about Brexit will harden the views of millions who voted for it
-
 Chris Heaton-Harris, an obscure Tory whip, wrote to universities asking for the names of professors ‘involved in the teaching of European affairs, with particular reference to Brexit’. Universities responded with a torrent of hysterical abuse.
 
 

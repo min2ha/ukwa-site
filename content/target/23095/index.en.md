@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Elizabeth Clark (@ElizabethCdf) on Twitter (Liberal Democrat candidate for Cardiff North)
-

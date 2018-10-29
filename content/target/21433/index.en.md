@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage hits back over claims he has 'outdated' views on race laws
-
 None

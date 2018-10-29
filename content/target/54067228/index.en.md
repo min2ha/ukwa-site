@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Small Creative Ideas
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2010-11-24T00:00:00Z"
 }
 
-# Kith and Kids
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's, Stonehaven
-
 Site of Roman Catholic churches in Scotland for the parish St. Mary's and the Immaculate Conception, Stonehaven.

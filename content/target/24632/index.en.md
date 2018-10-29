@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ruth Davidson: I'd rather see Tories rule as minority government
-
 None

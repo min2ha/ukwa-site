@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fiona Pennie (@FionaPennie) on Twitter
-
 The twitter profile of Fiona Pennie, canoe slalom athlete.

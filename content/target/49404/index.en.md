@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# British Library, The: Sound and Vision Blog: 2017 UK-India Year of Culture: Praise music of Rāṛh, India
-
 2017 is the UK-India Year of Culture. It marks the 70th anniversary of Indian independence and, through a varied programme of projects and events – led by the Ministry of Culture in India, the Nehru Centre and other Indian cultural organisations in the UK and the British Council – aims to highlight India-UK cultural relations. 

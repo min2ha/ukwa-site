@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Canadian Women's Club
-
 Canadian Women's Club has been active in London since 1932 organising events for the members.

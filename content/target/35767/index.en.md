@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: How Corbyn could make a virtue of his former EU doubts
-
 Guardian, The

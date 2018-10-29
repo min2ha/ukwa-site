@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford United WFC (@OfficialOUWFC ) on Twitter
-
 Official Twitter account of Oxford United Women. WSL 2.

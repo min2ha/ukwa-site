@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Pharmaceutical Journal: News
-
 <p>News from the Pharmaceutical Journal, a publication of the Royal Pharmaceutical Society.</p>

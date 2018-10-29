@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Centre of Excellence in Mobile and Emerging Technologies, The (CEMET)
-
 The Centre of Excellence in Mobile and Emerging Technologies (CEMET) is based at the University of South Wales and is part funded by the European Regional Development Fund (ERDF) through the Welsh Government. CEMET is a research and development center that provides funded support to eligible SMEs with their innovative emerging technology ideas.

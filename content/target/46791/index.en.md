@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Open Britain (@OpenBritain) on Twitter
-
 Twitter feed of group campaigning for a hard Brexit

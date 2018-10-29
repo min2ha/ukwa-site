@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Revolver Audio
-
 None

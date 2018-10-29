@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jamie Nicholls Snowboarder
-
 None

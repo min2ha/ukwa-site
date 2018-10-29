@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKFF
-
 The UK Fan Forum in an online enthusiast community concerned with the discussion of professional wrestling and mixed martial arts. The website is split into various sections covering wrestling and MMA.

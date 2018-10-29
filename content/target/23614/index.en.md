@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Karen Westbrook on Facebook  (Green Party candidate for Truro and Falmouth)
-

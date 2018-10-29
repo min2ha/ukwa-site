@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Slough Rugby Club (@Sloughrfc) on Twitter
-
 The official Twitter account of Slough Rugby Football Club.

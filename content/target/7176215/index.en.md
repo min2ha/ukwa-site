@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Peregrine's Bird Blog
-
 None

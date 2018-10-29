@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Venice in Peril
-
 The Venice in Peril disburses funds for the restoration of Venetian monuments, buildings and works of art.

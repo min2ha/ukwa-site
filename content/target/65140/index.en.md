@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Guardian, The: Grenfell Tower fire
-
 The subsection of The Guardian newspaper related to Grenfell Tower.

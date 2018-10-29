@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sianel 62
-
 Sianel 62 is the Welsh Language Society online television channel.

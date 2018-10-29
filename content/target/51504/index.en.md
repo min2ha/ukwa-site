@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Exiled Preacher: Displaced fragments, theology, ministry and reviews
-
 This is a blog by Guy Davies, a Reformed Baptist Welsh preacher living in South West of England and joint-pastor of Providence Baptist Church and Ebenezer Baptist Church.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Active Norfolk
-
 Welcome to Active Norfolk! Your window to Norfolk sport and physical activity. We are the County Sports Partnership (CSP) for Norfolk, one of 44 CSPs covering England.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# BBC Radio Scotland : The Quay Sessions
-
 Website publishing live musical performances recorded in front of an audience at BBC Radio Scotland's Pacific Quay.

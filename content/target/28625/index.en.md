@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Foundation, The
-
 The Foundation provides help and support for the young people in the UK and in the Sub-Saharan Africa. They run programmes supporting start-ups and work in partnership with tech companies.

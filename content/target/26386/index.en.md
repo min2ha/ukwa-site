@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband on the 'arrogance of power', junk food and fairness
-
 None

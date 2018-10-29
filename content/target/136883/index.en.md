@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Sustainable Energy Research Group at the University of Southampton, UK
-
 None

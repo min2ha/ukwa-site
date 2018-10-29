@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# MK Gallery
-
  MK Gallery opened in October 1999.  MK Gallery is a public gallery with free admission. They do not have a permanent collection. MK Gallery is a purpose-built venue for changing exhibitions of international contemporary visual art.

@@ -10,7 +10,5 @@
   "start_date": "2018-01-13T09:00:00Z"
 }
 
-# ProjectScotland
-
 Site of a Scottish charity that helps young people aged 16 to 30 to prepare for employability through volunteering.
  through volunteering.

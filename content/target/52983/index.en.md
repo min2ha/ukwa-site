@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kirstein Rummery (@KirsteinRummery) on Twitter
-
 Twitter profile of Kirstein Rummery, Women's Equality Party candidate for Stirling in the 2017 general election.

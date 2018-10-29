@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Easter Rising 1916: DUP criticise plan for Belfast parade
-

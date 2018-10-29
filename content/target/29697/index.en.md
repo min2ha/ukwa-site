@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Tarbet Book Festival
-
 Tarbet Book Festival

@@ -10,5 +10,3 @@
   "start_date": "2007-08-17T00:00:00Z"
 }
 
-# Iolo Morganwg (Edward Williams 1747 - 1826
-

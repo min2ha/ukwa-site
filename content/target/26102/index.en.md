@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain's most powerful students: 10 universities that could swing the election
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge for Europe
-
 Cambridge for Europe is the local campaign to ensure that people in Cambridge and its wider region fully understand the arguments for continued membership of the European Union and how important the issue is to them as individuals, their families, and their communities.

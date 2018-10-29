@@ -11,5 +11,3 @@
   "subject": "Men's Issues"
 }
 
-# Eating Disorders Resources
-

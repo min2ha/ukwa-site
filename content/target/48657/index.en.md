@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Creative Peebles Festival
-
 Site of a creative arts festival located in Peebles, Scottish Borders, Scotland.

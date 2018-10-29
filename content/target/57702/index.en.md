@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May battles a sore throat and prankster in conference speech
-
 Theresa May had to battle losing her voice and being interrupted on stage by a comedian as she sought to reassert her Conservative leadership at the 2017 Party conference.

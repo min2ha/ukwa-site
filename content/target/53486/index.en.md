@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nick Smith (@NickSmith4BG) on Twitter 
-
 Nick Smith is the Parliamentary Labour candidate for Blaenau Gwent at the 2017 General Election.

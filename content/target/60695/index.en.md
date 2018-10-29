@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Leaked Brexit impact report: key questions answered
-
 The analysis of the economic impact of Brexit leaked to BuzzFeed spells out that all varieties of Brexit on offer would make Britain poorer, significantly so in the case of anything other than staying very closely linked to the EU through single market membership.

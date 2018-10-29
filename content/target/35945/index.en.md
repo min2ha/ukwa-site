@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alison Evison (@Alison2812) on Twitter
-
 The Twitter profile of Alison Evison, the Scottish Labour candidate for Aberdeen South and North Kincardine in the 2016 Scottish Parliament election.

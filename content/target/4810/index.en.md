@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Liberal Democrat Voice: Nelson Mandela
-
 <p>Blog postings to the Liberal Democrat Voice website that include the tag Nelson Mandela.</p>

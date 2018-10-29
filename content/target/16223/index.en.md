@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Rockfield Music Group
-
 <p>Rockfield was acknowledged to be the first residential recording studio in the world and is located near Monmouth.</p>

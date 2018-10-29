@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Directory of Cancer Services
-
 This is a directory of Cancer services across Wales and created by the South Wales Cancer Network.

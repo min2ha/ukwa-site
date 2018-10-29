@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Queen Victoria Hospital
-
 None

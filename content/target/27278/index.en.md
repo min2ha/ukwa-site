@@ -10,5 +10,3 @@
   "start_date": "2015-06-05T09:00:00Z"
 }
 
-# Sioe Llanilar Show
-

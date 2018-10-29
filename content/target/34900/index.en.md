@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Solidarity (@SolidarityScot) on Twitter
-
 Official Twitter account of Solidarity Scotland.

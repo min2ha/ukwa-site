@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# West Wales Maritime Heritage Society Blog
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Business, Energy and Industrial Strategy Committee: The impact of Brexit on the pharmaceutical sector
-
 The Government must secure a post-Brexit deal for the pharmaceutical industry that ensures the closest possible regulatory alignment with the EU and the minimum border friction possible or risk harming patients and seeing the pharma sector losing its status as a world leader.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Jonathan Stanley (UKIP)
-
 [Candidate name] stood as [party] candidate for [constituency name] at the 2015 General Election but was not elected.

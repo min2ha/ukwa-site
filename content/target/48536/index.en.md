@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-#  Dunfermline Historical Society 
-
 Site of a history society located in Dunfermline, Scotland, with a particular interest in the history of Dunfermline, and of Scotland.

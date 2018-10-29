@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Morningside Masonic Association
-
 Site of a group of Masonic Lodges based in the Morningside area of Edinburgh, and affiliated to the Grand Lodge of Scotland.

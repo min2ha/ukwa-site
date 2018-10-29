@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Troop Aid
-
 Troop Aid was founded in November 2006 by three ex servicemen as a result of a visit to Selly Oak Hospital’s Alexandra Wing in Birmingham. This was the home of the Defence Medical Welfare Services who are responsible for the welfare of all Armed Forces Personnel, male and female who were injured during the conflict in Afghanistan and elsewhere.

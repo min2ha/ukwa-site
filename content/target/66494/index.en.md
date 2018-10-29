@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Business Link (@BusinessLinkGov) on Twitter
-
 Business Link has now been replaced by The Business Support Helpline, find us @BusinessGov

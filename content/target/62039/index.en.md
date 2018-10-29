@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# KCOM Stadium
-
 The KCOM Stadium (also known as the Hull City Stadium due to UEFA sponsorship regulations) is a multi-purpose facility in the city of Kingston upon Hull, England. The stadium was previously called the KC Stadium, but was renamed as part of a major rebrand by the stadium's sponsors, telecommunications provider KCOM, on 4 April 2016.

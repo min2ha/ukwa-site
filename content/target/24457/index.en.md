@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: How effective is the use of 'alternative' social media?
-
 None

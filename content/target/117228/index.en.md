@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# British Association of Women Entrepreneurs (BAWE)
-
 None

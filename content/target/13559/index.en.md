@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Jacobite Party, The
-
 <p>The website of the Scottish Jacobite Party, established by retired academic and businessman John Black in 2005.</p>

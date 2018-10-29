@@ -10,6 +10,4 @@
   "start_date": "2014-10-07T17:00:00Z"
 }
 
-# London Live
-
 None

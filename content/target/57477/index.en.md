@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Fife Brass Banding
-
 Site of a competitive festival of brass band music located in Fife, Scotland.

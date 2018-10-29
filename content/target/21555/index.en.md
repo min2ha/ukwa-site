@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Will tax cuts power the Conservatives to victory, or damn them as the party of the rich?
-
 None

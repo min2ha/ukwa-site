@@ -10,7 +10,5 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Foxtons
-
 Foxtons
 Foxtons Group plc is a British estate agency company dealing with both lettings and sales. 

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# All-Party Parliamentary Group on Agriculture and Food for Development
-
 <p>All-Party Parliamentary Group on Agriculture and Food for Development brings together UK Parliamentarians concerned with agriculture, nutrition and food security in the developing world.</p>

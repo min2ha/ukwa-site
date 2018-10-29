@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tron Theatre, The
-
 <p>Tron Theatre blog including information about the Home Nations Festival, part of the Glasgow 2014 Cultural Programme.</p>

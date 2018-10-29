@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Evans (Conservative)
-
 Luke Evans stood as Conservative candidate for Birmingham, Edgbaston at the 2015 General Election but was not elected.

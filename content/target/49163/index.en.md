@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Stand UP to UKIP Wales on Facebook
-

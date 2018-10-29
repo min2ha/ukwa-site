@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill Piper (UKIP)
-
 Bill Piper stood as UKIP candidate for Loughborough at the 2015 General Election but was not elected.

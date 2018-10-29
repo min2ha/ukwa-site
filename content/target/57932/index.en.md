@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Thaigh an Uillt (Taynuilt Gaelic Choir) on Facebook
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: It's Kinnock vs Scargill all over again - this time Neil Kinnock's son vs Arthur Scargill's deputy 
-

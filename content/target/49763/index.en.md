@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: My fightback starts here: He defied one PM over the Poll Tax and now MICHAEL HESELTINE says he's ready to do the same in the Lords over Brexit   
-

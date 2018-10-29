@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Socialist Resistance: Bernadette McAliskey and Ken Loach mark Easter 1916v Rising
-
 Report about en Easter Rising centenary event at Bloomsbury Central Baptist Church

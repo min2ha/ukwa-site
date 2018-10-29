@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Will the Brexit revolution be glorious or bloody? The fate of Mark Carney will tell
-
 The backlash against central bankers, now widely portrayed as part of a phalanx of discredited technocratic “experts“ who have been proved wrong about almost everything, is in full swing. Even our Prime Minister has joined in, complaining of “bad side-effects“ from low rates. In doing so, she promised; “a change has got to come and we are going to deliver it”.

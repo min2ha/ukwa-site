@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Department for Education Publications
-
 Reports, policy documents and guidance issued by the Department for Education.

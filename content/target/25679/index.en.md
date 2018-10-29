@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The politicians are wrong – skills, not funding, is the big election issue
-
 None

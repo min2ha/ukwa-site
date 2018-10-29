@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We voted for Brexit to keep parliament sovereign – we won’t be gagged
-

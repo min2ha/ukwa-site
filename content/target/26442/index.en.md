@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Little separates Tories and Labour in last Observer/Opinium poll before election
-
 None

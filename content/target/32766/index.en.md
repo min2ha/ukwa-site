@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# STORM 
-
 Website of the watchmakers STORM of London.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pauline Stewart (@pstewartscotgp) on Twitter
-
 The Twitter profile of Pauline Stewart, Scottish Green Party candidate for South Scotland in the 2016 Scottish Parliament election.

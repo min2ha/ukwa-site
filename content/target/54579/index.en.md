@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lord Buckethead (Independent  Politician)
-
 Lord Buckethead stood as Independent candidate for Maidenhead in the 2017 General Election but was not elected. He won 249 votes.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Trades Union Congress: EU Referendum
-
 The webpage consists of a list of articles and videos which support the assertion of the TUC that leaving the EU would put worker's rights under threat.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Nathan Gill Gweithio dros Gymru | Working for Wales
-
 Nathan Gill is a MEP and Assembly member for north Wales.

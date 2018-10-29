@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gurn From Nurn, A
-

@@ -10,6 +10,4 @@
   "start_date": "2018-02-27T09:00:00Z"
 }
 
-# Lodge Cadder Freestone No.1584
-
 Site of a masonic lodge located in Bishopbriggs, East Dunbartonshire and affiliated with the Grand Lodge of Scotland.

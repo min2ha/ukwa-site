@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Professional Footballers’ Association (PFA), The
-
 The Professional Footballers’ Association is a professional sportsperson’s union.

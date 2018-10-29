@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-#  Engineering student helps Stephen Hawking find his voice
-
 A student at the University of Huddersfield has had the responsibility of making sure that world famous scientist, Professor Stephen Hawking, keeps his equally famous synthesised voice plus the ability to communicate his influential ideas.

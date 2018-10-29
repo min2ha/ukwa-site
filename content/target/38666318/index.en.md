@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Duchess of Devonshire's Gossip Guide
-

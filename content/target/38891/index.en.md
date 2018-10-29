@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The end of British austerity starts with Brexit 
-
 Guardian, The

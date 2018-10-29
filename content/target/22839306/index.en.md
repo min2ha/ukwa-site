@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Broadband Guide
-
 None

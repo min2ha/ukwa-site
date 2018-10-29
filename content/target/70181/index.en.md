@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# Association of Independent Celebrants (AOIC)
-
 The AOIC is a non-profit making and friendly trade body that prides itself in supporting and representing independent Celebrants from all denominations and beliefs. It is run by Celebrants for the benefit of Celebrants.

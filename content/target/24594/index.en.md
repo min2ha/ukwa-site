@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip candidate defends his other job as a porn star called 'Johnny Rockard'
-
 None

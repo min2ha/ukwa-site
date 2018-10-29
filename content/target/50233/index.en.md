@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Lincoln Castle
-
 A historic city with a vibrant and contemporary edge.

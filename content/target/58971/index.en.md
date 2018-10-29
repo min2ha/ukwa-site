@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: David Davis 'is on the brink of resigning' over bombshell secret letter sent to PM by Boris and Gove as new details emerge about their 'desire to turn post-Brexit Britain into a Singapore in Europe' tax haven'   
-

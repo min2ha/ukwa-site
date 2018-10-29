@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Senior Labour figures turn on Ed Miliband over disastrous Scotland polls
-
 None

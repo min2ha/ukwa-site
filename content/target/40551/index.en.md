@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lusitania Commemoration Tall Ship and Govan Community Concert
-
 The project aims to bring together the communities associated with the Tall Ship and Lusitania Commemoration Committee and the people of Govan working with the Govan Fair Association, to explore, research and learn about the relationship of these communities with their individual and personal experiences of the First World War.

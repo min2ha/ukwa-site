@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# St James War Memorial Project 
-
 Projects commemorating the centenary of the First World War in ways that benefit the community. Our project was approved because it contained school visits, a community heritage day and this website which makes the information available to all.

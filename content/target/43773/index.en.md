@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Kintyre Way
-
 Site of a tourist walking route through the Kintyre peninsula in western Scotland.

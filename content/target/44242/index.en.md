@@ -10,5 +10,3 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Edinburgh.PL - Portal aktywnej Polonii w Szkocji
-

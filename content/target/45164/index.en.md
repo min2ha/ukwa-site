@@ -10,6 +10,4 @@
   "start_date": "2016-08-23T11:00:00Z"
 }
 
-# Vivir Edimburgo
-
 Spanish language guide to living in Edinburgh, from the perspective of Spanish nationals resident there.

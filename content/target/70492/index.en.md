@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brussels 'prepares a Brexit climbdown and is set to agree the UK can stay in the EU single market for goods without having to accept free movement'
-

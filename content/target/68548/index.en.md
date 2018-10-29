@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymunedau Cymraeg (@cynghrair) on Twitter
-

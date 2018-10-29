@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cycle the Yorkshire Dales: Tour de France in the Dales
-
 Web page for the Tour de France on the Cycle the Dales pages created by Yorkshire Dales National Park.

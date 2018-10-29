@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Run Wigan Festival
-
 Website for the Run Wigan Festival

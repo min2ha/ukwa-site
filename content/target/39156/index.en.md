@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Dictionary of the Scots Language - Dictionar o the Scots Leid
-
 Site providing an online and searchable dictionary of words in Scots.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# France in London: All French Brands in London
-
 <p>A list of French brands in London with description.</p>

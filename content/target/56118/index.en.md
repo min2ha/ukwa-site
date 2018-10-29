@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Math Roberts Photography
-
 Math Roberts is a street photographer from Wales.

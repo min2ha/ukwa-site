@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Fungi of the Outer Hebrides 
-
 Site of a local enthusiast who has listed and photographed fungi found in the Outer Hebrides, Western Isles, Scotland.

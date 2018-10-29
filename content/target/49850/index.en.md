@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Alliance For Choice
-
 A Northern Ireland pro-choice lobby group that campaigns fro free, safe and legal abortions.

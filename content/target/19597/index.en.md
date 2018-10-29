@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edward Yi He - Aberavon on Facebook
-
 Conservative Parliamentary Candidate (Aberavon)

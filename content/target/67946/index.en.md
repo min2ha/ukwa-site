@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: European Union (Withdrawal) Bill: Commons Consideration of Lords Amendments
-
 This House of Lords Library Briefing was prepared in advance of consideration of Commons amendments and reasons in the House of Lords of the European Union (Withdrawal) Bill, on 18 June 2018. 

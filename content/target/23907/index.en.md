@@ -10,6 +10,4 @@
   "start_date": "2015-05-15T09:00:00Z"
 }
 
-# Coedffranc Community Council
-
 Coedffranc is a county in Neath Port Talbot.

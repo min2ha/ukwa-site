@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: As Tories drowned out Jeremy Corbyn's EU speech with a football chant, British politics hit a new low
-

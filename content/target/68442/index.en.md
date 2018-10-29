@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Public Accounts Committee: Delivering STEM skills for the economy
-
 STEM skills (science, technology, engineering and maths) are crucial for the UK’s productivity, and a shortage of STEM skills in the workforce is one of our key economic problems. The Public Accounts Committee report warns of potential Brexit impact and calls for action on gender imbalances.
 
 

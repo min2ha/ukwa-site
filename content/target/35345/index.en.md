@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Alun Davies (@AlunDaviesAM) on Twitter (Labour Assembly Member for Blaenau Gwent) 
-
 Alun Davies is the Labour candidate for Blaenau Gwent  at the 2016 National Assembly for Wales elections.

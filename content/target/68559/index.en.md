@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Balancing act May must perform to create a clear Brexit plan
-
 Prime minister had a near impossible task in dealing with her cabinet’s divided opinion about post-Brexit customs and trade arrangements.
 

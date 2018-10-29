@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Mail leopard has changed its spots on Brexit. Shame if you’re a woman though...
-

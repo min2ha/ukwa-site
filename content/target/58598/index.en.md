@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Borders Heritage Festival 
-
 Site of an annual festival of the history of the Scottish Borders.

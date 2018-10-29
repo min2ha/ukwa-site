@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# A Universe Explodes
-
 Welcome to A Universe Explodes. A blockchain book. Originally written by T.L. Uglow. A book about a parent whose world gradually falls apart. Owned by a collective of people who progressively reduce the book to only one word per page.

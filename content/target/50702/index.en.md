@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Asialink
-
 AsiaLink is a Christian mission agency connecting churches with ministry among the unreached peoples of Asia. 

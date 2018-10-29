@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Molineux Stadium
-
 Molineux Stadium
 Molineux Stadium is a Championship football stadium situated in Wolverhampton, England. It has been the home ground of Wolverhampton Wanderers Football Club since 1889, and was the first stadium ever built for the Football League, one of the first grounds in the country to install floodlights, as well as hosting some of the first European club games in the 1950s.

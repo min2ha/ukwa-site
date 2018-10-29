@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Stardreams Musical Theatre Company
-
 Stardreams is a Musical Theatre Company based in Ystrad, Rhondda.

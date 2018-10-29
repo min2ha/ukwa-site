@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Kate Bush
-
 Official website of Kate Bush, an English singer-songwriter, musician, dancer and record producer.

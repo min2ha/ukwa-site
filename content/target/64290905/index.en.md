@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# West Yorkshire Lieutenancy: The Queen's Diamond Jubilee Celebrations
-

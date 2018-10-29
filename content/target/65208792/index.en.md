@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Get In The Back Of The Van
-
 Get In The Back Of The Van is a performance company making theatre, live art and installations.

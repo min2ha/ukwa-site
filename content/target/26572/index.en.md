@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Galloway to mount legal challenge over election defeat
-
 None

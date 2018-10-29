@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lord David Owen
-
 This site features Lord Owen's thinking on current issues 

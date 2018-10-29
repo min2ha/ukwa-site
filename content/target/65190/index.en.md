@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Baird Europe
-
 Baird Europe offers equity research, investment banking and private equity services to institutional clients around the world.

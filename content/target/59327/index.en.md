@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tinto Orienteering Club
-
 Site of an orienteering club based in South Lanarkshire.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Caerhun | Caerhun Community Council
-
 This page contains information in relation to Caerhun Community Council. You will be able to find the Councillors and minutes from meetings. You will also find links to other community group websites.

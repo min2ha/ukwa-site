@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swaffham Rugby Football Club on Pitchero
-
 The official website of Swaffham Rugby Football Club.

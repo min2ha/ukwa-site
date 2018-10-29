@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Britain outside the EU would stand tall as a free and prosperous nation
-

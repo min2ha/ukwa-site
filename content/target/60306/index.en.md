@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Machin Forum
-
 An online enthusiast community concerned with collecting Machin stamps. Discusses selling & buying Machin stamps, general discussion about Machin stamps and various other related topics.

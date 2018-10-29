@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Oban & Lorn Tourism Association on Facebook
-
 Oban and Lorn Tourism Association is a voluntary marketing group promoting Oban. This is its official Facebook page.

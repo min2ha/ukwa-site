@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T18:00:00Z"
 }
 
-# Bobby Smith on Twitter (@bobbysmth2765) on Twitter (Give me Back Elmo Party in the candidate in the constituency of Witney in the 2015 UK General Election & in the constituency of Maidenhead in the 2017 UK General Election)
-
 Bobby Elmo Smith was an independent candidate in the constituency of Maidenhead in the 2017 General Election. He Got 3 votes.

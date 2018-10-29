@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Museums Association (MA): Museums, Galleries and archives join forces at Pride 2016
-
 Members of the MA taking part in London Pride 2016.

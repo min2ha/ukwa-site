@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Ballot (#MagnaCartaBallot) on Twitter
-

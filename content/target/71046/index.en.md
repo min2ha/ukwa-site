@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southsea Nomads RFC on Pitchero
-
 The official website of Southsea Nomads Rugby Football Club. 

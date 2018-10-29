@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Clyde Cider
-
 Site of a cider brewer located in Glasgow.

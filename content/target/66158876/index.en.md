@@ -10,5 +10,3 @@
   "start_date": "2012-09-25T00:00:00Z"
 }
 
-# Arts Connection | Cyswllt Celf
-

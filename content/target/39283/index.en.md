@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Marine Le Pen could campaign for UK to leave EU 
-
 Guardian, The

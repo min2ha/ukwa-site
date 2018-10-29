@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Everyman Project 
-
 The Everyman Project was formed as a result of the closure of the Everyman Center, A Volunteer Organisation which was formed in 1989 offering support to Perpurtrators of domestic violence. After the center closed in 1996 due to lack of funding, some of the then volunteers decided to continue the work by forming what is now the Everyman Project. They are a Charitable organisation whose mission is to help society by reducing angry, abusive and violent behaviours.

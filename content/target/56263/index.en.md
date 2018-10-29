@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cartooning the First World War
-
 Cartooning the First World War is a selection of the pre-1914 newspaper cartoons of Joseph Morewood Staniforth (‘JMS’) which originally appeared in the News of the World, and the Western Mail. The cartoons document the cartoonist’s response to the the war’s changing fortunes and the ways in which the conflict was experienced and represented by one of the most popular visual artists of the time. The Cartooning the First World War is supported by the Heritage Lottery Fund and based at Cardiff University. 

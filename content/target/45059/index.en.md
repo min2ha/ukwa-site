@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Why have the Rio Olympic pools turned green? – video
-
 Rio 2016 officials came under criticism on the first Tuesday during the Olympics after a ‘decreased akalinity’ caused the Olympic diving and polo pools to turn green. 

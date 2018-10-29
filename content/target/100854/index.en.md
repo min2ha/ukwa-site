@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hindu Forum of Britain
-

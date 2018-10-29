@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Centre for Research into the Older Workforce (CROW)
-
 None

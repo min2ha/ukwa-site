@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# British Meditation Society
-
 British Meditation Society, is one of the longest established non-profit making meditation organisations in the UK. It's primary objective is for the Teaching of meditation, with a supporting philosophy and network of teachers across the UK.

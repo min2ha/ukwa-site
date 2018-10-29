@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Poor Side of Life, The
-
 A personal opinion blog about that reflects life outside Ashton Under Lyne Jobcentre and many other Jobcentres around the UK. This blog was created to help change the difficulties people face at the Jobcentre and to inform others.

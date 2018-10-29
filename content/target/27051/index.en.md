@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# European Network on Statelessness
-
 The European Network on Statelessness is a civil society alliance committed to address statelessness in Europe. They believe that all human beings have a right to a nationality and that those who lack nationality altogether are entitled to adequate protection.

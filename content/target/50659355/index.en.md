@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Rus in Urbis
-
 None

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# No Hot Air
-
 Blog site on fracking

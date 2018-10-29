@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Seren Morgan Jones
-
 Seren Morgan Jones is a Contemporary artist from Wales, living in London.

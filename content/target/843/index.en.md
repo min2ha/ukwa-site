@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 2gether Foundation Trust for Gloucester 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Change Step Wales
-
 Change Step is a service for military veterans in Wales with post traumatic stress disorder and a range of psychosocial problems.

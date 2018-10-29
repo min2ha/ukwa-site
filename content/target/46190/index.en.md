@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Doors Open Days
-
 Site of an annual free architectural event, where many of Scotland's hertitage buildings and collections are opened to the public.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South Edinburgh Cluster
-
 Site of three Roman Catholic parish churches in Scotland, located in Edinburgh.

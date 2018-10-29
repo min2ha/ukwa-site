@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andy Stamp (@CllrAndyStamp) on Twitter (Labour Party Politician)
-
 Andy Stamp stood as Labour candidate for Gillingham and Rainham at the 2017 General Election but was not elected.

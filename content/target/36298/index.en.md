@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Nigel Jarrett: Stories, poems, essays, reviews
-
 A Welsh author from Abergavenny and one-time winner of the Rhys Davies prize for short fiction.

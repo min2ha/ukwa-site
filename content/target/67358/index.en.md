@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Ruth Maguire MSP – SNP Member of the Scottish Parliament for Cunninghame South
-
 Ruth Maguire, Scottish National Party Member of the Scottish Parliament for Cunninghame South.

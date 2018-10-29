@@ -10,5 +10,3 @@
   "start_date": "2007-07-02T00:00:00Z"
 }
 
-# Technoleg Taliesin: Atebion TG proffesiynol i Gymru - Professional IT solutions for Wales
-

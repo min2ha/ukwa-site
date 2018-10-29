@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Natural History Museum
-
 Official website of the Natural History Museum based in South Kensington, London.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Evington War Memorial Project, The 
-
 This project was initiated by our It’s ‘Your Neighbourhood Evington Village Group’ because the war memorial site required renovation and our History and Heritage group were keen to explore the local history, local heroes and local stories.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# WWII, a British Focus
-
 A World War II website looking at England's involvement in the war.

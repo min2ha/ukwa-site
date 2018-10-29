@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Law Society Scotland (Lawscot) on Twitter
-
 The twitter profile of the Law Society of Scotland.

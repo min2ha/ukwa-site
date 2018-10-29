@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Farming Forum: Dame Helen Ghosh
-
 Dame Helen Ghosh, Director General of the National Trust, presents her vision of how farming should be funded to encourage nature conservation after Brexit.

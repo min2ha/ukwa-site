@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester United: News: Women
-
 The women's news section of Manchester United Football club.

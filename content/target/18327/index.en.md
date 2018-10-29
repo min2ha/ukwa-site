@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: As election nears, politicians of all parties must tell us how they would help medium-sized business
-

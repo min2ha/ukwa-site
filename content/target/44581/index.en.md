@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Edible School Garden
-
 Students who participate in London’s Edible School Garden comprehensive program learn how sustainable, organic food choices can taste good and make you feel good.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beci Newton Caerphilly on Facebook
-
 Beci Newton is Plaid Cymru candidate for Caerphilly.

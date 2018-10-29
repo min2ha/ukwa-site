@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Cyngor Iechyd Cymuned Aneurin Bevan | Aneurin Bevan Community Health Council
-

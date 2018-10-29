@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derek Hawkins (DelH1989) on Twitter
-
 The twitter profile of marathon runner Derek Hawkins.

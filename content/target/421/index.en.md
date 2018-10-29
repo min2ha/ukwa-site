@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southend on Sea Health and Wellbeing Board
-
 None

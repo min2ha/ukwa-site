@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Lucy Christopher
-
 Welsh author listed in Literature Wales' Writers of Wales database. 

@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T11:00:00Z"
 }
 
-# Let's Live Local (Moffat)
-
 WordPress site of an organisation promoting and encouraging use of local produce and expertise and based in Moffat, Dumfries & Galloway

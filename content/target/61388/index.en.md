@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Dr Sarah J. Young: Russian Literature, History and Culture
-
 Research blog of Dr Sarah J. Young on Russian literature, history and culture.

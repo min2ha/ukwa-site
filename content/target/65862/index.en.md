@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Pitlochry Dam Visitor Centre
-
 Site of a visitor centre at the dam at Pitlochry, showcasing its place in the history of hydro electricity in the north of Scotland and how it transformed lives.

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# helpoutofthehole.org
-
 <p>Provides information on the Scottish Governemnt's Debt Arrangement Scheme.</p>

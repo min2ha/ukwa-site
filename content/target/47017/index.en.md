@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Wales Online: Traffickers 'used black magic' to scare Nigerian women into working as prostitutes in South Wales, court told
-
 The women were shaved and forced to eat snakes and told their family would be killed if she did not keep plans secret, prosecutors allege.

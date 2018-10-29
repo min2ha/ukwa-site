@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visit London.com: 800th anniversary of Magna Carta at the City of London Heritage Gallery?
-

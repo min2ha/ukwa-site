@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Gamer Network
-
 Gamer Network is a games media business based in Brighton.

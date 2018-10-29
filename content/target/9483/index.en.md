@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: Tories to come third in Euro elections behind Labour and Ukip, poll warns
-
 None

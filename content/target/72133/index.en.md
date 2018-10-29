@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Central: Project Cheer 3
-
 Presents some pertinent facts that highlight the overall strength of the British economy, along with a variety of data, information and quotes that serve as a reminder of the exciting prospects that lie ahead for an independent UK post-Brexit. 

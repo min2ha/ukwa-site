@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Fallon (Conservative Politician)
-
 Michael Fallon stood as Conservative candidate for Sevenoaks and Swanley at the 2015 General Election. He was first elected to serve as MP for Sevenoaks and Swanley in 1997 and has held the seat ever since. He stood again for re-election in 2017 and was successful.

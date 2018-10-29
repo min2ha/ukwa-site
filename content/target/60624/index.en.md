@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge H.L.I. The Royal Highland Fusiliers No. 1459
-
 Site of a masonic lodge located in Glasgow, affiliated with the Grand Lodge of Scotland and associated with service in the Highland Light Infantry, the Royal Highland Fusiliers regiment of the British Army.

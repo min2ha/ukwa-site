@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour for a Republic
-
 Labour for a Republic is a voluntary group of Labour supporters who want a democratically elected head of state. 

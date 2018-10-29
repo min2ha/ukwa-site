@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Borough of Newham
-
 None

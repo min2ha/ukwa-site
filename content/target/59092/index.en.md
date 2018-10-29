@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Llechi Cymru | Welsh Slate
-
 Llechi Cymru | Welsh Slate is the official website promoting the bid to gain UNESCO WHS status for the Welsh slate industry. It is hoped that Welsh Slate will be recognised world-wide for their special cultural or physical significance. The bid is led by Gwynedd Council.

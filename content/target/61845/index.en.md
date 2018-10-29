@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Traprain including the churches of Prestonkirk, Stenton and Whittingehame
-
 Site of a group of Church of Scotland parish churches in East Lothian.

@@ -10,8 +10,6 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Barmouth Viaduct Access Group | Grwp Mynediad Draphont Abermaw
-
 "Barmouth - Viaduct Access Group was established to promote the idea of
 building a safe access from Barmouth, to the Viaduct across the
 Mawddach. The 700-yard Barmouth Bridge is the longest viaduct in Wales

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Operation Black Vote (@OpBlackVote) on Twitter
-
 Operation Black Vote exists to tackle the Black democratic deficit in the UK.

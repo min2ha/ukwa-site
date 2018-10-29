@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Glasgow Lib Dems (@GlasgowLibDems) on Twitter
-
 Twitter profile of the Glasgow branch of the Scottish Liberal Democrats.

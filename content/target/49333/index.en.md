@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Dover (Kent) History Pages
-
 A local history community page for the town of Dover, UK.

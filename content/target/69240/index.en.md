@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint. Patrick's, Anderston on Facebook
-
 Site of a Roman Catholic church in Scotland for the parish of Saint. Patrick's, Anderston, Glasgow.

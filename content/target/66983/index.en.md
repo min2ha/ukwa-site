@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Cathouse, The
-
 Website of The Cathouse, a live music venue and nightclub in Glasgow, Scotland. The venue is owned and run by Hold Fast Entertainment Limited. 

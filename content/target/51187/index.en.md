@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# David Leddy / Fire Exit
-
 Site of a theatre company based in Glasgow and its main writer / director, that present international theatre that aims to be innovative, invigorating and illuminating.

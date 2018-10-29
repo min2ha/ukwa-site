@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotland Office blog
-
 <p>A blog maintained by the UK government Scottish secretary Alistair Carmichael, on issues relating to the Scottish referendum on independence.</p>

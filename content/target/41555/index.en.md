@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forres Mechanics Football Club
-
 Site of a Scottish football club based in Forres, Moray.

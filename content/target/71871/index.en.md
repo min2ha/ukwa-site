@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Morning Star: TUC 2018: Backing ‘the people's vote’ could undermine the Corbyn project
-
 UNIONS could undermine Jeremy Corbyn’s agenda for change if they backed a referendum on the EU exit deal, Mick Cash warned at the 2018 TUC Congress. The RMT leader said the labour movement should refuse to “line up” with Blairites and Tories in backing a “people’s vote.”
 
 

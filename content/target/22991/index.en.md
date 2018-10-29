@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harriet Yeo (UKIP)
-
 Harriet Yeo stood as UKIP candidate for Folkestone & Hythe at the 2015 General Election but was not elected.

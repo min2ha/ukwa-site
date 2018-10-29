@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# RuskinParkRFC (@RuskinParkrfc) on Twitter
-
 The official Twitter account of Ruskin Park RFC.

@@ -10,5 +10,3 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# Visit Flat Holm Island
-

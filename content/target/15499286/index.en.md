@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Women in Games Blog
-

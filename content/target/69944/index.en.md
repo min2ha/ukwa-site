@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Dover Forum
-
 A website featuring ships that come and go and work at the Port of Dover with further coverage of the surrounding ports both sides of the Channel

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Patersons Quarries Limited
-
 The website of Patersons Quarries Limited, a quarry and landfill operator based in Coatbridge, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Machynlleth Loop
-
 The Mach Loop is situated between Dolgellau and Machynlleth and is an regularly used for low level flight training. The Mach Loop is located within LFA7.

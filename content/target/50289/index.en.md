@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Leeds Pride
-
 Established in 2007.

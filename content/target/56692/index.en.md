@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Counterflows
-
 Site of a Glasgow based annual music festival featuring 'underground' music, specifically artists from the Do-it-yourself / DIY music scene and geographically remote communities.

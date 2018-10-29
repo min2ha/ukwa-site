@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# National Farmers Union Cymru: Brexit blog
-

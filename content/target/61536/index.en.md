@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Edinburgh City Kickers
-
 Site of a linedancing club based in north central Edinburgh offering lessons and dancing.

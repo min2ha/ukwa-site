@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anne McTaggart MSP
-
 Anne McTaggart was a Member of the Scottish Parliament (MSP) for Glasgow region, elected from the Scottish Labour list (2011-2016).

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: £1,000 pension boost: Tories promise rise every year if they win the General Election
-
 None

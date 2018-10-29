@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# John Brace's blog about Wirral Council, its councillors & officers and matters involving Bidston & St. James ward
-
 <p>Blog owned by John Brace.</p>

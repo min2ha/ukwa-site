@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron: Labour-SNP threat 'as plain as the nose on your face'
-
 None

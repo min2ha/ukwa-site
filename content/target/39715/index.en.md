@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: Lothian on Facebook
-
 Facebook page of the Lothian branch of RISE: Scotland's Left Alliance.

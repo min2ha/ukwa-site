@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# BBC Scotland News (@BBCScotlandNews) on Twitter
-

@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Mynydd Llansadwrn Action Group (MLAG)
-
 MLAG was formed to successfully oppose a scheme to build three 91-metre-high wind turbines on Mynydd Llansadwrn. 

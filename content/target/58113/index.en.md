@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Sweet Tooth Tours
-
 Sweet Tooth Tours is a culinary tour agency based in London that focuses on desserts, chocolate and pastry. It was founded in 2017 by Lynne Staartjes while she was studying pastry at Le Cordon Bleu.

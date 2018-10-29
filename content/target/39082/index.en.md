@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee Labour
-
 The Dundee local branch of the Scottish Labour Party

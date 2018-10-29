@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Camu Eglwys Bresbyteraid Cymru
-
 Camu is a Presbyterian Church of Wales initative aiming to make their churches more effective in their local communities.

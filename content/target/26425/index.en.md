@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Is the Sun’s ‘save our bacon’ election front page antisemitic?
-
 None

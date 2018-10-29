@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Manchester Academic Health Science Centre (MAHSC)
-
 <p>Manchester Academic Health Science Centre (MAHSC) is a partnership between The University of Manchester and six NHS organisations, uniting leading healthcare providers with academics and researchers.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archer, The
-
 The Archer is an independent non-political and non-religious community-run newspaper, based in East Finchley, London, England. It is delivered free every month to 9,500 households in and around London N2. The paper is written, edited, designed, produced and delivered by volunteer members of the community.

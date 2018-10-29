@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glenavon FC (@Glenavon_FC) on Twitter
-
 The official Twitter account of Glenavon Football Club, Founded 1889. 

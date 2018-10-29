@@ -10,6 +10,4 @@
   "start_date": "2016-04-11T10:00:00Z"
 }
 
-# Coal Exchange, The 
-
 The Coal Exchange is a Grade II listed building located in Cardiff Bay. It was a live music venue in Cardiff originally used as a market floor for trading in coal.

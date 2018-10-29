@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# SSCUP : Scottish Senior Citizens Unity Party
-
 None

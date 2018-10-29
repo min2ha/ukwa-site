@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# British Fertility Society: Zika virus, fertility treatment, and gamete donation
-
 Discussion of the potential dangers of Zika virus infection in donated semen or ova.

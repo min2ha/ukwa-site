@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Éire Óg GAA (London) (@EireOgLDN) on Twitter
-
 London's most central Gaelic Football Club (GAA). Founded in 2011. Playing Intermediate Championship & Division 3. New members welcome.

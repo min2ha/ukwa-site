@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Holloway, University of London: Magna Carta: About the project
-

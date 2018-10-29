@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip urged to cut ties with Christian group over gay ‘depravity’ comments
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# When the Data hits the Fan!
-
 This is the blog of Professor Simon Tanner, a UK based academic.

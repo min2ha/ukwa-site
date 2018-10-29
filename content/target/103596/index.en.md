@@ -10,6 +10,4 @@
   "start_date": "2004-11-10T00:00:00Z"
 }
 
-# Chinese National Healthy Living Centre
-
 We aim to promote healthy living, and to provide access to health services, for the Chinese community in the UK. The Centre takes an holistic approach, tackling both the physical and psychological aspects of health.

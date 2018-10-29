@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Menter Mon
-
 Menter Môn was established in 1995 to deliver EU rural development programmes with the aim of facilitating rural economic regeneration on Ynys Môn.

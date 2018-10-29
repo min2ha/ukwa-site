@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Zoe Franklin (@zoefranklinld) on Twitter (Liberal Democrats Politician)
-
 Zoe Franklin stood as Liberal Democrats candidate for Guildford in the 2017 General Election but was not elected.

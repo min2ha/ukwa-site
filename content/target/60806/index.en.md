@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Amber Rudd hits back at Tory Brexiteers
-
 In February 2018 Home Secretary Amber Rudd hit back at Tory Brexiteers over attacks on the civil service and claims of disunity. Ms Rudd said backbencher Jacob Rees-Mogg was "wrong" to accuse the Treasury of "fiddling the figures" with forecasts showing the UK would be worse off outside the EU.
 
 

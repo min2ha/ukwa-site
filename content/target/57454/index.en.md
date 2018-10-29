@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Fireworks Forum
-
 The Fireworks forum is an online enthusiast community concerned with fireworks.Discusses firework reviews, fireworks events and display, firing systems and fusing fireworks and various related topics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: A warm welcome to the new 'minister for personal finance’
-
 None

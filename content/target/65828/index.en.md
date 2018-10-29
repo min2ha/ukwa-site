@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Brits Abroad (@BrExpatsEU) on Twitter
-
 BrExpats is a sociological study that questions what Brexit means for Britons resident in other European Union member states. This is the official Twitter account. 

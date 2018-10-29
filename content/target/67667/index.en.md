@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Drybrook Rugby Football Club
-
 Drybrook Rugby Football Club run ladies, mini, junior and senior rigby at their ground in Drybook.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tory candidate Afzal Amin denies 'fake EDL march' claim
-
 None

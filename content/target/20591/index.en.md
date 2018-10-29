@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Teachers' pay rise being blocked by Tories, say Lib Dems
-

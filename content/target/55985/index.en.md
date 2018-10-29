@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Pen y Cymoedd Community Fund | Cronfa Gymunedol Pen y Cymoedd
-
 This is the community fund from Pen y Cymoedd wind farm developmentlocated located between Neath and Aberdare.

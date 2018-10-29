@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Asda: Tourmakers
-
 <p>Volunteering site for the UK Tour de France stages sponsored by Asda</p>

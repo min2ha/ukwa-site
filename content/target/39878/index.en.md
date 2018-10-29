@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# South Lanarkshire Conservaitves (@SouthLanTories) on Twitter
-
 Twitter profile of South Lanarkshire Conservative & Unionist Association.

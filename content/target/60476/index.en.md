@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM’s speech at the UK-France Summit: 18 January 2018
-
 Prime Minister Theresa May and President Emmanuel Macron both spoke at the 2018 UK-France Summit at Sandhurst. M. Macron emphasised that financial services should be excluded from any future trading agreement with the EU.
 

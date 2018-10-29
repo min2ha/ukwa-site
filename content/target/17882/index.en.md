@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Atheism UK
-
 Atheism UK is an atheist organization. Their objective is the advancement of atheism and the end of religious faith and of religion, the social manifestation of faith.

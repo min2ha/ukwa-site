@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# BEP Group
-
 BEP group is a conglomeration of educational partnerships offering services across London and Essex, providing courses, work placements and training to both schoolchildren and older people. 

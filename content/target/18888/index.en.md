@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Faculty of Law, University of Cambridge: 'Magna Carta: Some Reflections': Sir Robert Rede’s Lecture, 10 February 2014
-

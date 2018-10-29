@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: Tories would open 500 new free schools if we win election
-

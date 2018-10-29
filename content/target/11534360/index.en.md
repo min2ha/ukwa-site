@@ -10,5 +10,3 @@
   "start_date": "2008-08-07T00:00:00Z"
 }
 
-# Centre for Integrative Systems Biology, Imperial College London
-

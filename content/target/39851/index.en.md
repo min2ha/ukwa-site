@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stirling Labour (@stirlinglabour) on Twitter
-
 Twitter profile of the Stirling branch of Scottish Labour.

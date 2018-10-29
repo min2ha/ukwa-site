@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Friends of the Earth: Our policy position on: the European Union membership
-

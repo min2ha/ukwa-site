@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Grammarians RFC (@OG_RFC) on Twitter
-
 The official Twitter account of Old Grammarians Rugby Football Club.

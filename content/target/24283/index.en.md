@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Alex Salmond accused of telling voters 'blatant untruths'
-
 None

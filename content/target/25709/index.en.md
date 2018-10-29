@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Top economist attacks Tory austerity – and Labour's limp response
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# BBC News: Brexit: Theresa May suggests free movement extension
-
 Theresa May suggested that free movement of people from the EU to the UK could be extended after Brexit. The prime minister said there would be an "implementation" phase once an exit deal had been struck, with business and governments needing a "period of time" to adjust to any new restrictions.

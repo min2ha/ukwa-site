@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron will take part in one TV debate with seven parties, says No 10
-

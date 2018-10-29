@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John's & Dairsie United Parish Church
-
 Site of a two Church of Scotland parish churches at Cupar and Dairsie in Fife.

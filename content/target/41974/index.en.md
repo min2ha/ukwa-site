@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: WTO head says leaving EU would cost UK consumers £9bn a year 
-
 Guardian, The

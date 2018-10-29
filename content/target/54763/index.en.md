@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Association of Charitable Organisations
-
 The Association of Charitable Organisations (formerly Association of Charity Officers) was founded in 1946 and is the national UK umbrella body for Trusts and Foundations that give grants and welfare support to individuals in need.

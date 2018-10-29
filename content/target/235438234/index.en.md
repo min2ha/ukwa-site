@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:09.381086", 
+  "date": "2018-10-29T13:22:16.495935", 
   "open_access": true, 
   "target_url": "http://www.plumtreeparishcouncil.org.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "Plumtree Parish Council", 
-  "record_id": "20181029T125509/0Gla0ruKtuxuWpUX7x0KmA==", 
+  "record_id": "20181029T132216/0Gla0ruKtuxuWpUX7x0KmA==", 
   "publisher": "plumtreeparishcouncil.org.uk", 
   "start_date": null
 }
-
-# Plumtree Parish Council
 
 None

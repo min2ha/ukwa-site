@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Martha Wardrop - Green Councillor for Hillhead
-
 Martha Wardrop is the Scottish Greens candidate for the Glasgow list in the 2016 Scottish Parliament election.

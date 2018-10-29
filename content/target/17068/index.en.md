@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brain Tumour Charity, The: Launch of The Brain Tumour Charity Manifesto
-
 The Brain Tumour Charity is the result of the merger of The Brain Tumour Charity (formerly Samantha Dickson Brain Tumour Trust), Brain Tumour UK and The Joseph Foote Trust. It funds research, raise awareness and provide support to patients and their families.

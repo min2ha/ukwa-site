@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# British Museum, The: Suffrage objects in the British Museum
-
 A blog about objects held at the British Museum related to the women's suffrage movement

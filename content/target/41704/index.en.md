@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Savills plc: The EU referendum Implications for commercial, rural and residential property markets
-

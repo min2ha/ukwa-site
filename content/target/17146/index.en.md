@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Lindsey German: If I were Prime Minister: I would order the arrest of Tony Blair for war crimes
-

@@ -10,5 +10,3 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Regenerate Neath Port Talbot | Adfywio Castell-nedd Port Talbot
-

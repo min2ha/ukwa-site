@@ -10,5 +10,3 @@
   "start_date": "2014-06-19T00:00:00Z"
 }
 
-# Cymdeithas Mudiadau Gwirfoddol Ceredigion Association of Voluntary Organisations
-

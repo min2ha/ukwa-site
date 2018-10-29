@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: St Albans Magna Carta Celebrations Attract Thousands
-

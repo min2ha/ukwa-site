@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: I fought heart and soul for Remain. But we Lords must NOT defy the people's will
-
 Lord Blunkett calls on the Lords not to block the Brexit bill. He argues that  any sign that an unelected second chamber is seeking to thwart the withdrawal of Britain from the EU would be seen as acting in defiance of the people.

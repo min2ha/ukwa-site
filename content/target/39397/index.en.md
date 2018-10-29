@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Story of Joe Clarke, The 
-
 The project will work with a team of volunteers to research and interpret Joe Clarkes life and produce exhibition materials and display his skull (which has never been shown before).

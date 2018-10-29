@@ -10,5 +10,3 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Journal, The - Sam Smith Original Plus books The Journal (once 'of Contemporary Anglo-Scandinavian Poetry')
-

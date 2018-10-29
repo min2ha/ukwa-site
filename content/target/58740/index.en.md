@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Home Office: Technical Note: Citizens’ Rights - Administrative Procedures in the UK
-
 Paper setting out further details on the administrative procedures underpinning the UK’s proposals for a streamlined application system for EU citizens living in the UK obtaining settled status

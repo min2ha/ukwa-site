@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Your Town Reigate
-
 Your Town Reigate is part of Your Town Online Limited and is a local online magazine aimed at residents of Reigate.

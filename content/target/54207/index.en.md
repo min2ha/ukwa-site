@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Worcestershire Beekeepers' Association
-
 "Worcestershire Beekeepers' Association is part of the British Beekeepers' Association and covers the county of Worcestershire."

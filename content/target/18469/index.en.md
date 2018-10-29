@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dem dodgy donations: rules that leave a cloud of suspicion
-
 None

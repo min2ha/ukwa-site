@@ -10,5 +10,3 @@
   "start_date": "2009-02-05T00:00:00Z"
 }
 
-# Undeb Credyd | Credit Union
-

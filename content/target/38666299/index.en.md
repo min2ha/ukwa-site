@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# North London Business: London 2012 Olympic and Paralympic Games
-

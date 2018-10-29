@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tim Farron says he wants to lead the Liberal Democrats
-
 None

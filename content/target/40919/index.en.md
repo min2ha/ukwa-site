@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ascot, Windsor & Eton Express
-
 A news site focusing on the Ascot, Windsor & Eton area.

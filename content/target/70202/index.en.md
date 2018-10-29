@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lisburn Distillery Football Club
-
 Distillery Football Club was formed in November 1880 with the club playing its first match on 20th November 1880 – a one-nil victory over Dundela – at Daisy Hill, Roden Street, Belfast.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Drudwen - dod â menywod coll hanes Cymru yn eu hôl
-
 Drudwen is a website created by Efa Lois providing biographies of Welsh women what have been largely forgotten by Welsh history.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pensioners Debout! Stand Up!
-
 This Blog discusses the problems of the British expatriate pensioner in France & Europe. Were the British Public to vote the UK out of the EU an abyss could open under expatriates in the European Union.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Brooksby Church:  First World War
-
 Brooksby village is undertaking a project to commemorate the centenary of the First World War, including restoring the Jutland Memorial and Admiral Beatty’s flag in Brooksby Church.

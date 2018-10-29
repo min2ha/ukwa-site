@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# DCC plc
-
 DCC plc is an Irish diversified investments group and holding company. DCC is organised and managed in four separate divisions - DCC Energy, DCC Technology, DCC Healthcare and DCC Environmental. Each of these businesses are focused on their specific market sectors.

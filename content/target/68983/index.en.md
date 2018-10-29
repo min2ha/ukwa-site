@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anna Freud National centre for Children and Families
-
 A children's mental health charity

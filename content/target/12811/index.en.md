@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Commonwealth Youth Circus on Tour
-
 <p>Blog of the Commonwealth Youth Circus who are on tour with the Queen’s Baton Rally. Part of the Glasgow 2014 Cultural Programme.</p>

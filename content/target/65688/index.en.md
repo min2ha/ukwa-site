@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Hayley Long
-
 Hayley Long is a English author from Felixtowe who studied at Aberystwyth University. She is also winner of the 2018 Tir na n-Og Children’s Literature Award.

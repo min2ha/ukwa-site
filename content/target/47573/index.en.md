@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Welsh Antifa (Anti Fascist Action)
-
 Welsh Antifa is a direct action group to tackle the rise of the far right in and around Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-28T09:00:00Z"
 }
 
-# Academy of Social Sciences
-
 The Academy of Social Sciences is the National Academy of Academics, Learned Societies and Practitioners in the Social Sciences. Its mission is to promote social sciences in the United Kingdom for the public benefit.

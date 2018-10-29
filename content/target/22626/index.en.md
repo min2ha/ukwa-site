@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Green Party's top target seats in the General Election if Natalie Bennett is to lead a breakthrough 
-
 None

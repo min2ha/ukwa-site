@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Friends of Newport Transporter Bridge (FONTB) 
-
 The Newport Transporter Bridge is a Grade 1 Listed Structure. Friends of Newport Transporter Bridge (FONTB) is a registered Charity founded in 1998 and dedicated to the promotion and preservation of the Bridge. 

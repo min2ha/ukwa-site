@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Block vulnerable children's social media, firms are told: Jeremy Hunt suggests sites should stop access if youngster mental health is at risk
-
 News article about the Health Secretary Jeremy Hunt and his comments on the links between social media, internet use and mental health and government action to tackle the problem.

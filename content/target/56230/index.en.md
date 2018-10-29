@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# David Emanuel
-
 David Emanuel is a Welsh fashion designer. His designs include the wedding dress worn by Diana, Princess of Wales, in 1981. 

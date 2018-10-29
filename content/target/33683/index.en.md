@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Now ministers can get on with rescuing Britain from the EU superstate
-

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Write Out Loud: Encouraging Poetry Performance
-
 <p>Directory of poetry events / gigs, with reviews, profiles of poetry magazines, and other poetry related information.</p>

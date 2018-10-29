@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron has landed an EU deal – but at a cost to his leadership
-

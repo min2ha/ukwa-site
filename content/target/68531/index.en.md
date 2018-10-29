@@ -10,5 +10,3 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Lyth Arts Centre | Centre for Arts, Music & Entertainment in Caithness, Scotland
-

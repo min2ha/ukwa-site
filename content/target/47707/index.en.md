@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Our Democracy
-
 A campaign to improve local democracy in Scotland.

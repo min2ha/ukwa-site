@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Stop HS2: Campaigners forced to break law to continue HS2 fight in election run-up
-
 Stop HS2 is the national grassroots campaign against HS2, the proposed new High Speed Two railway.

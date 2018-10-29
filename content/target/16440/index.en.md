@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# International Growth Centre (IGC), The
-
 The International Growth Centre (IGC) aims to promote sustainable growth in developing countries by providing demand-led policy advice based on frontier research. The IGC directs a global network of researchers and in-country teams in Africa and South Asia and works closely with partner governments to generate high quality research and policy advice on key growth challenges. Based at LSE and in partnership with the University of Oxford, the IGC is funded by the UK Department for International Development (DFID).

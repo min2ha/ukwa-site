@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Woruldhord Project, The 
-
 The Woruldhord project is based at the University of Oxford and presents a collection of freely reusable educational resources to help users study or teach the period of English history centred on the Anglo-Saxons, or Old English (literature and language). This equates to a period of history roughly covering the mid-fifth century until the eleventh century. All the material held here was donated by members of the public, museums and libraries, academics, teachers, and societies. This then is a community collection created by a community of people for others to use.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Revolving Words - the Festival of Railway Literature
-
 Revolving Words - the Festival of Railway Literature

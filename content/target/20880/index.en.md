@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jamie Greene on Facebook
-
 This is the Facebook page of Jamie Greene, the Conservative Party candidate for North Ayrshire and Arran in the UK General Election on the 7th May 2015.

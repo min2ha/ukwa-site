@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kirsten Robb (@krobbGreen) on Twitter
-
 The Twitter profile of Kirsten Robb, Scottish Green Party candidate for Central Scotland in the 2016 Scottish Parliament election.

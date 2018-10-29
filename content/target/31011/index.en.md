@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Law Commission, The 
-
 The Jersey Law Commission is an independent body set up by the States of Jersey in 1996 to identify and examine aspects of law with a view to their development and reform.

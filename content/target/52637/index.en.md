@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# British Medical Association (BMA) Northern Ireland blog: Brexit workshop Northern Ireland
-
 BMA Northern Ireland hosted a member workshop to discuss the implications of Brexit on doctors and medical students living in the country.

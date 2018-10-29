@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Scotland Athletes Parade
-
 <p>Map of the route for Team Scotland athletes’ parade held in Glasgow on the 15th of August 2014.</p>

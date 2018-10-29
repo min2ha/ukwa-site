@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: Ukip will be main challenger in nearly every English seat
-
 None

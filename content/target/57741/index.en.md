@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Royal Horticultural Society - My Garden Forums
-
 An online enthusiast community concerned with gardening. Discusses growing fruit and vegetables, pests and diseases, gardening equipment and tools, garden design, plant identification, shows and events and various other related topics.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 24th Jan. 2017: Article 50
-
 Debate on the government's response to the Supreme Court's judgment that the Government must seek Parliamentary approval before triggering Article 50 and starting the process of EU withdrawal.

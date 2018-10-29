@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Some MPs 'ready to vote against triggering Brexit'
-
 Liberal Democrat, some Labour and SDLP MPs have told the BBC they are prepared to vote against triggering Article 50.

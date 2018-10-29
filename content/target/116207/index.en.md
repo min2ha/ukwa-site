@@ -10,5 +10,3 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Institute of Conservation (Icon)
-

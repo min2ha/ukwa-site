@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Meeting House, Bury St Edmunds
-

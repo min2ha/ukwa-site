@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sean Kelly-Walsh (@sean4charnwood) on Twitter (Labour candidate for Charnwood)
-

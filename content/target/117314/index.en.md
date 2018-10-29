@@ -10,5 +10,3 @@
   "start_date": "2005-11-09T00:00:00Z"
 }
 
-# Sir Jules Thorn Charitable Trust
-

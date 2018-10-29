@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Harborough Tories (@HboroTories  ) on Twitter
-
 Twitter account of Harborough Conservative Association, covering their activities durin the 2017 general election campaign.

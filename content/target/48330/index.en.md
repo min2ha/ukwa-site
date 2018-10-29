@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# ChargePlace Scotland
-
 Information about electric vehicle charge points available in Scotland.

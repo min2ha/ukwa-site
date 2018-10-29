@@ -10,6 +10,4 @@
   "start_date": "2015-01-06T06:00:00Z"
 }
 
-# Communicable Diseases
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jamie Wallis on Facebook (Conservative candidate for Ogmore)
-
 Jamie Wallis is the Conservative candidate for Ogmore at the 2016 National Assembly Election. 

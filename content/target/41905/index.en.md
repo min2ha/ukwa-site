@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Newton Stewart & Minnigaff Traditional Music Festival
-
 Site of an annual Scottish traditional music festival taking place in Newton Stewart and Minnigaff in Dumfries & Galloway.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-03T09:00:00Z"
 }
 
-# Chelsea FC (@ChelseaFC) on Twitter
-
 Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the club's home ground since then has been Stamford Bridge.

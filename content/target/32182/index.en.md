@@ -10,5 +10,3 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Cardiff Arcade Project : Documenting Cardiff's historic arcades with photography
-

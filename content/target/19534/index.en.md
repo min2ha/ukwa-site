@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Magna Carta copy worth £10million found in Kent council's archives
-

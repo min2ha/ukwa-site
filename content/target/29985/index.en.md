@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Parc Howard Association
-
 Parc Howard is in Llanelli.The mansion and the grounds it resides in were gifted by Sir Stafford and Lady Howard Stepney to the town in January 1912.

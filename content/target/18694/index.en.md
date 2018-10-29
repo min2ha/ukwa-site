@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Surviving Magna Carta copies to be brought together for the first time
-

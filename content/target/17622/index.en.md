@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Scrap Trident, ditch Barnett, reverse the cuts – the price of power for Miliband and Cameron in a hung parliament
-
 None

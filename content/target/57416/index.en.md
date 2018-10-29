@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# John Howes
-
 John Howes is a visual artist and musician and currently an Advisor with Arts Council for Wales in Visual Arts and Traditional Music and former Programme Director for BA Fine Art and MA Visual Arts Enterprise at what was Swansea Metropolitan University. 

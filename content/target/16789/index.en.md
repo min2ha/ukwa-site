@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# City A.M.
-
 <p>CityAM.com is the online presence of City A.M., London's free daily business newspaper.</p>

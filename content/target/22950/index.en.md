@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claire Jeffrey (@MrsCJeffrey) on Twitter (Labour candidate for Folkestone and Hythe)
-

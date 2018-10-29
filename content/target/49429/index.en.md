@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Llanfair United FC | CPD Llanfair
-

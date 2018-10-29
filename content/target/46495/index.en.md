@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Wales Green Energy Awards
-
 The Wales Green Energy Awards is orginiased by Renewable UK Cymru and  and rewards achievement and excellence in the renewable energy sector.

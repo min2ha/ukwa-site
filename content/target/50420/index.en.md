@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Grayling Society
-
 The Grayling Society was formed in 1977 by a small group of enthusiastic game fishermen who wished to conserve and establish the Grayling as a true, wild, game fish. Its core aims have remain unchanged - to promote Awareness, Conservation and Angling for Grayling.

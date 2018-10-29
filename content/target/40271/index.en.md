@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# South West Ross Field Club
-
 Site of a club interested in the natural history, archaeology, ecology, geology and history of the areas of  Lochalsh, South Syke, Glenelg and Lochcarron, formerly Ross-shire, in Highland, Scotland.

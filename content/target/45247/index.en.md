@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Farming Futures
-
 Website for Farming Futures, a resource for farmers, land managers and their advisers on the issues of climate change and sustainability in agriculture. Farming Futures is a consortium initiative currently led by Aberystwyth University and Harper Adams University.

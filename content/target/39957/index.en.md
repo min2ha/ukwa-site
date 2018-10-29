@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Voluntary Action on the Homefront in Chester: The History and Legacy
-
 Project to record and conserve the hitherto untold history and legacy of Chester Council of Social Welfare established on 12 August 1914 as the City's response to the Prince of Wales' National Emergency Appeal following the outbreak of WW1.

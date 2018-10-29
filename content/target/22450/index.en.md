@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Cameron v Miliband: The debates begin
-
 None

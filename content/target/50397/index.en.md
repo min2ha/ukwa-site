@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Juncker: I hope post-Brexit Britain will join the EU
-
 European Commission President Jean-Claude Juncker said he hoped that the UK will rejoin the European Union at some point in future..

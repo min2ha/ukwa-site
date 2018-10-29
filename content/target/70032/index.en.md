@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Lloyd's List
-
 Lloyd’s List is the unrivalled source of news, analysis and insight for the global shipping industry.

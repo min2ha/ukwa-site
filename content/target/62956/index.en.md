@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News Pig
-
 UK News, World News, Celebrity, Lifestyle, Sport and Technology all rolled into one. Come and join our controversial pig.

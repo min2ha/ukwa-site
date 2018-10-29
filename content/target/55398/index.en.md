@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# International Regulatory Strategy Group: The Great Repeal Bill: Domesticating EU Law
-
 This report recommends government adopts a simple, principles-based approach to adopting and adapting EU and EU-derived law. Such an approach would largely remove the need to make extensive line-by-line amendments to the law.
 

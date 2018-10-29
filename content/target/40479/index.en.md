@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Reveille: re-awakening memories of local soldiers lost on Somme battlefields and commemorated near Peronne
-
 This project will evidence a poignant period in Blackburn and Darwen history, presenting enhanced data via an accessible digital archive.

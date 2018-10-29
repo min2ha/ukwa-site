@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: A curse on Branson and his plot to hijack Brexit with his cash and his Bremoaning chums
-
 Article attacks Richard Branson and his associates over their plans to campaign for a second referendum on EU withdrawal.

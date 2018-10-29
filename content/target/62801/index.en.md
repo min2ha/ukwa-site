@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Creative Tourist: Wonder Women 2018
-
 Wonder Women is a Manchester’s city-wide radical feminist festival. In 2018 the festival will celebrate the 100-year anniversary of the Representation of the People Act, in which some women first won the right to vote in Britain. 

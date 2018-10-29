@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Banipal
-
 Banipal magazine showcases contemporary Arab authors in English translation, from wherever they are writing and publishing. An independent magazine, founded 17 years ago, in 1998, by Margaret Obank and Iraqi author Samuel Shimon, Banipal's three issues a year present both established and emerging Arab writers through poems, short stories or excerpts of novels, plus the occasional features of LITERARY INFLUENCES, TRAVELLING TALE. The magazine  features interviews with authors, publishers and translators, book reviews and photo-reports of literary events.

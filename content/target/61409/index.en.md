@@ -11,5 +11,3 @@
   "subject": "Zines and Fanzines"
 }
 
-# Glasgow Zine Fest
-

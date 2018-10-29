@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# PML Architecture
-
 PML Architecture are a design led architecture and design practice with a wide spectrum of experience ranging from finely crafted bespoke residences with full leisure and subterranean facilities, domestic scale extensions and residential refurbishments, to multiple unit residential, hospitality and leisure developments.

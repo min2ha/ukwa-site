@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  How did YOUR MP vote in last night's crucial Brexit Bill? The politicians who voted to start the Article 50 talks... and the Remoaners who tried to block it   
-

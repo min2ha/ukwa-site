@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Cameron's children: New Tory MPs will almost all be lawyers or business people
-

@@ -10,7 +10,5 @@
   "start_date": "2015-08-13T10:00:00Z"
 }
 
-#  Wimbledon BookFest
-
 
 Wimbledon BookFest

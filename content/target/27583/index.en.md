@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Sugar resigns from Labour party in disgust at anti-business policies
-
 None

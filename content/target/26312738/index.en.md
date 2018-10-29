@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Eurogamer
-
 Eurogamer.net is a portal relating to all kinds of games.

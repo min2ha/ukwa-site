@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# International Well Control Forum (IWCF) 
-
 The International Well Control Forum (IWCF) is an independent body focused on oil and gas well training and accreditation.

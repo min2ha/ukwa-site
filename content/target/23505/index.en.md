@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Whitby (Labour Candidate for North Cornwall)
-

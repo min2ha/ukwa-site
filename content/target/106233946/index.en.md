@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Domino Printing Sciences PLC
-

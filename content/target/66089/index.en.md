@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# HaydnJames.org
-
 Dr Haydn James is a conductor/arranger and former musical director of London Welsh Male Voice Choir.

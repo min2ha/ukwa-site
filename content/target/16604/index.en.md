@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lord Ashdown: Cameron can't be allowed 'to hold democracy to ransom' over televised debates - video 
-
 None

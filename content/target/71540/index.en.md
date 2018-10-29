@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Judiciary of Scotland: Andy Wightman MSP and others v Secretary of State for Exiting the EU
-
 The Court of Session ruled that a question about whether the United Kingdom’s decision to leave the European Union could be revoked should be answered by the Court of Justice of the European Union.

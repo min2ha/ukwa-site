@@ -11,5 +11,3 @@
   "subject": "Gender Equality"
 }
 
-# Stonewall: LGBT in Britain - Trans report (2018)
-

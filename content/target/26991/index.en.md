@@ -10,6 +10,4 @@
   "start_date": "2015-05-28T08:00:00Z"
 }
 
-# Victoria Infirmary Radio
-
 Victoria Infirmary Radio is a voluntary-run organisation and a registered charity in Glasgow. Victoria Infirmary Radio is available in most wards. ViR extra is providing Sport (including live football), religious and specialist programmes.

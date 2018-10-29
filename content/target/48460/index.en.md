@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Strachur and District Community
-
 Community website providing information about amenities, events, heritage and businesses for locals and visitors to the village of Strachur, Cowal, Argyll & Bute, Scotland.

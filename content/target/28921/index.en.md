@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cynghrair Meddalwedd Cymru - Software Alliance Wales 
-
 From 2010 - June 2015 SAW worked to support the next phase of technical growth in Wales, striving to change the face of business – thanks to pioneering IT workshops, CPD courses, Student Development Projects and IT Accreditation. 

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Digital Cardiff | Caerdydd Digidol
-
 <p>'Digital Cardiff aims to revolutionise the way we work and live in the city through significant investment in digital infrastructure.'</p>

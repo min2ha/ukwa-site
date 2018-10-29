@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Leila Aboulela
-
 Leila Aboulela is an author whose faith and experience of moving from Sudan to Scotland in her twenties form major influences on her work.

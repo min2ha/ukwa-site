@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Colonsay Churches
-
 Site of cross-denominational / ecumenical churches of Christian worship on the island of Colonsay, Argyll & Bute, Scotland.

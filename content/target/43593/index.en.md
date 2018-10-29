@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Believe in Leave
-
 Eurosceptic Blog

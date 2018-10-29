@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graeme Cowie on Facebook
-
 This is the Facebook page of Graeme Cowie, the Liberal Democrats candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

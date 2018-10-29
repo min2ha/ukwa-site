@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Museums in the Highlands / Taighean-tasgaidh sa Ghàidhealtachd
-
 Site of a consortium of museums located in the Highlands of Scotland established to ustain, develop and promote Highland museums while sharing support resources and experiences.

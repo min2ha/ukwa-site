@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: European courts to maintain power over Britain throughout Brexit transition
-
 European Court of Justice will still be 'dishing out judgments' well into 2020s, predicts Maltese Prime Minister.

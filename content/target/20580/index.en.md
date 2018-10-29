@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Queen to miss VE Day anniversary events over election protocol fears
-

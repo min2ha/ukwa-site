@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Scottish Crime and Drug Enforcement Agency (SCDEA)
-
 None

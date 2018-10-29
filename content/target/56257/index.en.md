@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Users feel social media is making them ill but they still can't stop
-
 Article regarding the effect that social media and technology is having on mental health and stress levels

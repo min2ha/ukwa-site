@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# 38 Degrees: A Vote Of Confidence In Jeremy Corbyn After Brexit
-
 This petition was started by a member of public in order to show their support for the Labour Party leader after many of the Labour parliamentary party called for his resignation.

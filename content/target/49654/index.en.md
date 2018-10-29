@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Paris, Frankfurt, Vilnius: how EU cities are vying for London's bankers
-

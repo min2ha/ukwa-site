@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pembrokeshire Life Online
-
 Online magazine featuring news and features on Pembrokeshire.

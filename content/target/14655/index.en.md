@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# gov.uk: Health protection - Collection: Ebola virus disease: clinical management and guidance
-
 None

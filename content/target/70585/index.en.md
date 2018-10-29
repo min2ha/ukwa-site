@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crystal Palace L.F.C (@PalaceLadiesFC) on Twitter
-
 Official account of Crystal Palace Ladies F.C, current members of the FA Women's Championship.

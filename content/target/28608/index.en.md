@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Transport Scotland (transcotland) on Twitter
-
 Transport Scotland comments on the 125th anniversary ceelbrations of the Forth Bridge.

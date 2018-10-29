@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gil Paterson MSP (@GilMPaterson) on Twitter
-
 The Twitter profile of Gil Paterson, the Scottish National Party candidate for Clydebank and Milngavie in the 2016 Scottish Parliament election.

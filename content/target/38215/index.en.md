@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Millenials Out (@MillenialsOut) on Twitter
-
 Independent group of millenials campaigning for the UK to leave the EU

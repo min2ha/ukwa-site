@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow International Jazz Festival
-
 Site of an annual jazz music festival based in Glasgow, Scotland.

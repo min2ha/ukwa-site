@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# lliodustybooks
-
 lliodustybooks is a blog containing book reviews and library visits, written by a Welsh student, Llio Maddocks, living in Leeds. The blog contains a review of libraries and book shops she has visited, mainly in Wales. The blog is no longer updated and was written from 2012 to 2014.

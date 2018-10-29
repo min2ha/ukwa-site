@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# National Hairdressers’ Federation (NHF)
-
 The National Hairdressers' Federation is the UK’s largest trade association for hairdressing, barbering and beauty salon owners. 

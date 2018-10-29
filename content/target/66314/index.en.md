@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Broomhill Nazarene on Facebook
-
 Facebook page for a Church of the Nazarene church and congregation in Broomhill, Glasgow.

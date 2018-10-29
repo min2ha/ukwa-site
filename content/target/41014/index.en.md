@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Leith Folk Club
-
 Site of a traditional music club based in Leith, Edinburgh, and focusing on Scottish traditional music.

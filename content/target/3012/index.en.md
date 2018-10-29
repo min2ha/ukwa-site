@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# British Geological Survey (BGS)
-
 The British Geological Survey (BGS) is a world-leading geological survey. It focuses on public-good science for government, and research to understand earth and environmental processes. It is the UK's provider of objective and authoritative geoscientific data, information and knowledge.

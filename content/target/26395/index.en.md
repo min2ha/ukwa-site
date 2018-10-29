@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election day panel: the undecided on how the campaign shaped their vote
-
 None

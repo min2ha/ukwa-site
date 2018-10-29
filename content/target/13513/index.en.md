@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Farming for Yes
-
 <p>The website of Farming for Yes, a farmer-led organisation campaiging for a Yes vote in the Scottish Independence Referendum.</p>

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cristnogaeth 21 | Christianity 21
-
 Christianity 21 interpret the basics of a radical Christianity for the present day believing there has been a lack of opportunity in recent years for Welsh-speakers to discuss the nature of Christianity in our age.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Developing the National Football Museum's art collection
-
 Art collections at the National Football Museum, Manchester. 

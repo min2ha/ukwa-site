@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKweatherworld Forum
-
 An online enthusiast community concerned with UK weather. Discusses forecasts and warnings, UK and Irish weather, funnel cloud and tornado reports, international weather and various other related topics.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Robb on Facebook
-
 This is the Facebook page of Mike Robb, the Labour Party candidate for Inverness, Nairn, Badenoch and Strathspey in the UK General Election on the 7th May 2015.

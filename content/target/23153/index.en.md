@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Communities United Party (@KAMRANMALIK5) on Twitter
-

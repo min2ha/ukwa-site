@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Who Do You Think You Are? Live
-
 A yearly family history event based on the BBC programme 'Who Do You Think You Are?'.

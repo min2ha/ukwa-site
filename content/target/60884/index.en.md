@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Royal Dick Veterinary College Rugby Football Club
-
 Site of a Scottish rugby union football club based in Edinburgh and attached to the former Royal Dick Veterinary College, now part of the University of Edinburgh.

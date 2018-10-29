@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shelley Rees-Owen (@shelleyreesowen) on Twitter 
-
 Plaid Cymru candidate for Rhondda.

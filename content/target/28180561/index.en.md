@@ -11,5 +11,3 @@
   "subject": "Darwin 200"
 }
 
-# Charles Darwin of Gower Street, University College London (UCL)
-

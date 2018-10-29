@@ -10,5 +10,3 @@
   "start_date": "2008-07-03T00:00:00Z"
 }
 
-# Geology of the Wessex Coast of Southern England
-

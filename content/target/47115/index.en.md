@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Octavo Partnership
-
 Octavo partnership is a mutual trading company co-owned by headteachers. This means that headteachers get to directly shape their services to schools, ensuring their offer is responsive and value for money. They are committed to operating on a not-for-profit basis whereby any profits are reinvested into developing services or into educational research to benefit the learning community. 

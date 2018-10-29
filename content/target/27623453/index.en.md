@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Duckie
-
 Duckie are a post-queer performance and events collective that create Good Nights Out.  They are purveyors of progressive working class entertainment who mix live art and light entertainment. They see themselves in the tradition of British illegitimate theatre that spans centuries. Duckie have long-term relationships with a few major venues including Barbican Centre, Southbank Centre and the Brighton Dome. They are a National Portfolio Organisation of Arts Council England and revenue funded by the Big Lottery Fund. 

@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Bonhams
-
 Bonhams is a privately owned British auction house and one of the world's oldest and largest auctioneers of fine art and antiques. 

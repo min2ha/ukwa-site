@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: First applications from EU nationals for settled status
-
 The first applications from EU nationals wanting to stay in the UK after Brexit were submitted in August 2018. A group of university students and NHS workers in the north-west of England took part in a trial to test the system.
 
 .

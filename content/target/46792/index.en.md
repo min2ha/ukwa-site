@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Open Britain (@Open_Britain) on Twitter
-
 Twitter feed of group campaigning for the closest possible relationship with the European Union after Brexit.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Letter from the Chief Secretary to the Secretary of State for Exiting the European Union regarding EU funding commitments
-
 This is correspondence between David Gauke, Chief Secretary to the Treasury, and David Davis, Secretary of State for Exiting the European Union, regarding EU funding commitments. It sets out steps the Treasury is taking to address the uncertainty for recipients of all these funding streams.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Doonhame Roller Derby on Facebook
-
 Facebook page for a skating roller derby team based in Dumfries, Dumfries and Galloway.

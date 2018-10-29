@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Hard Brexit not backed by most MPs, remain campaigners say
-
 Most of the MPs elected at the 2017 general election want to avoid a so-called "hard Brexit", pro-EU politicians claim.

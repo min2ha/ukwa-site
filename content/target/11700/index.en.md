@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Susan McKelvie (@subomckelvie) on Twitter
-
 The twitter profile of althete Susan McKelvie, hammer thrower and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

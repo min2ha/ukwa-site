@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# GoCrea8 Hockey League, The
-
 Provides links and menus to all of the information on the The GoCrea8 Hockey League site.

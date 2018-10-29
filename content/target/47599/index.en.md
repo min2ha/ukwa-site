@@ -10,7 +10,5 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# High Hurstwood - Its History
-
 A website detailing the history of High Hurstwood from the Stone Age to the 21st century. Detailing its buildings and lands, the families that occupied them and the activities that went on there.
  

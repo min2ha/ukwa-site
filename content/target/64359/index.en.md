@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Saffery Champness
-
 Saffery Champness is a UK accountancy practice, with offices in London, Manchester, Peterborough, High Wycombe, Bristol, Inverness, Bournemouth, Edinburgh and Harrogate, plus Guernsey, Geneva and Zurich.

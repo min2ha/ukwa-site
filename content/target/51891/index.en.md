@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wellington Church 
-
 Wellington Church is a Church of Scotland parish located in Glasgow. 

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Could Nick Clegg lose his Sheffield seat in May general election?
-

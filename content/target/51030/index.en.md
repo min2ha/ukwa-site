@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Wide Days : Scotland's Music Convention
-
 Site of an annual music convention, for musicians and people working in the Scottish music industry, based in Edinburgh.

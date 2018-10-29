@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Lloyds Banking Group plc
-
 Lloyds Banking Group plc is a major British financial institution formed through the acquisition of HBOS by Lloyds TSB in 2009. Lloyds Banking Group's activities are organised into: Retail Banking (including Mortgages and Sole Traders); Commercial; Life, Pensions & Insurance; and Wealth & International. Lloyds' has extensive overseas operations in the US, Europe, the Middle East and Asia.

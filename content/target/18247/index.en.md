@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Co-operative in Wales, The / Gweithredol Cymru Blaid, Y
-
 Website of The Welsh Cooperative party, providing information on the Co-operative Party in Wales, policies, Welsh Assembly members, Members of the Westminster Group in Wales and latest news.

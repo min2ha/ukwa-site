@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwys y Bedyddwyr Carmel Baptist Church, Pontlliw
-

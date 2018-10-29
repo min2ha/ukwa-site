@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Church of England: House of Bishops' Pastoral letter on the 2015 General Election
-
 The Church of England is the established Christian church[2][3][4] in England and the mother church of the worldwide Anglican Communion.

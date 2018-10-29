@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dennistoun New Parish Church
-

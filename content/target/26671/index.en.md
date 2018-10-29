@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A spin room stuck for opinions – the biggest shock of election night so far
-
 None

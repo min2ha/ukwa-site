@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Falkland Traditional Music Festival
-
 Site of an annual Scottish traditional music festival based in the village of Falkland, Fife.

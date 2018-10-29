@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# NLW Education (@NLWEducation) on Twitter
-
 This is the twitter feed for the National Library of Wales Education Service.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Court of Session: OPINION OF LORD CARLOWAY, the LORD PRESIDENT in the reclaiming motion by ANDY WIGHTMAN MSP AND OTHERS against SECRETARY OF STATE FOR EXITING THE EUROPEAN UNION
-
 Judgment refers the question of whether MPs can vote to stop Brexit without the consent of the remaining member states to the European Court of Justice.

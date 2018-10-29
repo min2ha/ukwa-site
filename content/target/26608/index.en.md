@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy faces mounting calls to resign as Scottish Labour leader
-
 None

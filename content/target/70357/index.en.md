@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Star of the Sea, Leith
-
 Site of a Scottish Roman Catholic parish church in Leith.

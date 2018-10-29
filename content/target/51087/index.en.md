@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Borras Park Evangelical Church
-

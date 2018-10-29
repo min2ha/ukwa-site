@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Miliband's picture deliberately left off general election leaflets
-
 None

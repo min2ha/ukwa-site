@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Mindchakra: Specialist Indian Bookshop
-
 Mind Chakra is a unique shop offering Books, Art, Music, Instruments, Pashmina scarves and more. Mind Chakra is a rich ensemble of products reflecting the Indian ethos, culture and traditions. It is a fresh and a unique concept focusing on the fascinating world of Art and culture, Music and dance, Meditation and spirituality.

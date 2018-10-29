@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Michael Pinchbeck
-
 Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University.

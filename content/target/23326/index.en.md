@@ -10,6 +10,4 @@
   "start_date": "2015-05-07T09:00:00Z"
 }
 
-# Cardiff Healthy City | Her Iechyd Caerdydd
-
 From 2003 the Cardiff Health Alliance has provided the strategic health partnership lead to develop, implement and monitor the Health, Social Care and Well Being Strategy for Cardiff. It is run by Cardiff City Council. 

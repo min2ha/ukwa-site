@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Body Positive Instagrammer Writes Inspirational Response to Shamers
-
 Independent, The: News Article on Instagram body positivity

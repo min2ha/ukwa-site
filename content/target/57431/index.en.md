@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Party at The Palace
-
 Site of an annual music festival at Linlithgow Palace, Linlithgow, West Lothian.

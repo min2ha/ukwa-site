@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: The future of financial regulation and supervision
-
 Open and globalised capital markets are in the interests of both the UK and the EU. Operating against the backdrop of a robust regulatory framework, they promote financial stability and give businesses and consumers access to the products and services they need. The Government has stated that the UK will leave the EU Single Market, which allows for the free flow of financial services across the borders of 28 Member States, when it exits the EU. It is imperative that doing so does not undermine the benefits of participation in a globalised financial system.
 

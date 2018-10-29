@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Liberal Democrats: Nick Clegg statement on the passing of Nelson Mandela
-
 <p>Statement made by the Deputy Prime Minister and leader of Liberal Democrats, Nick Clegg, on Thursday 5 December.</p>

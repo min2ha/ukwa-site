@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba’s Scottish Episcopal Church, Nairn
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Nairn, Moray.

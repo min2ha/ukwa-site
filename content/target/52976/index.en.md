@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Miriam Brett (@MiriamBrett) on Twitter
-
 Twitter profile of Miriam Brett, Scottish National Party candidate for Orkney and Shetland in the 2017 general election.

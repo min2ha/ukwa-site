@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Edgeley Park Stadium
-
 Edgeley Park
 Edgeley Park is a football stadium in Edgeley, Stockport, England. It was initially built for rugby league club Stockport in 1901. By 1902, the rugby club was defunct and Stockport County Football Club moved in.

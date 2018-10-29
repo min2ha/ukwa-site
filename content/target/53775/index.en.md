@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Charlotte Leslie (@CharlotteLeslie) on Twitter (Conservative Politician)
-
 Charlotte Leslie stood as Conservative candidate for Bristol North West at the 2017 General Election but was not elected.

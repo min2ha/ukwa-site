@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# TV Licensing 
-
 The official TV Licensing website for the UK.

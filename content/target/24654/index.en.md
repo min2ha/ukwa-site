@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chamali Fernando on Facebook (Conservative candidate for Cambridge)
-

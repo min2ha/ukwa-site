@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cardiff Anarchists Black Cross (ABC)
-
 Cardiff Anarchists Black Cross (ABC) supporting anarchist and class struggle prisoners and build and organise resistance to the prison system.

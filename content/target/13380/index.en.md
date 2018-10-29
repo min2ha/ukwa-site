@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Margaret Burgess (MgtBurgessMSP) on Twitter
-
 <p>The twitter profile of Margaret Burgess, Scottish National Party Member of the Scottish Parliament for Cunninghame South.</p>

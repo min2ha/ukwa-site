@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Blas: Folk Radio Cymru | Welsh Folk Music
-
 Blas: Folk Radio Cymru | Welsh Folk Music is a radio station funded by Trac Cymru that plays Welsh folk music.

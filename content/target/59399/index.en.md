@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Colliery Spoil Biodiversity Initiative
-
 The Colliery Spoil Biodiversity Initiative was established to raise awareness of the biological importance of colliery spoil tips and change negative public perception and aid the conservation of these sites. This project also aims to increase our scientific understanding of the invertebrates found in these habitats across the south Wales valleys.

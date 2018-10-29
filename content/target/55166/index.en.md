@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LSE Growth Commission: UK Growth: A New Chapter
-
 SE Growth Commission's 2017 report sets out a new blueprint for inclusive and sustainable growth in the UK that deals with the challenges facing the UK, old and new. Drawing on the latest research, analysis and evidence from leading practitioners and scholars, the Commission outlines the top priorities in four key areas: jobs and skills; industrial strategy; openness; and finance and growth

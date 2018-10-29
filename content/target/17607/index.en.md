@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Even Tories can't stomach smear tactics used by party against Labour
-
 None

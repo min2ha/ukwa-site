@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Home Brewing UK Forum
-
 An online enthusiast forum concerned with home brewing beer, cider, wine and mead. Discusses brewing ingredients, the brewing process, equipment discussions, beer styles and various other topics.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leicestershire Partnership NHS Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Ars Technica UK
-
 Website with original news and reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech, with a focus on the UK and Europe.

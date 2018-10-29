@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daniel Woolf (@DanielWoolfUKIP) on Twitter (UKIP Politician)
-
 Daniel Woolf was the UK Independence Party (UKIP) candidate in the constituency of Gloucester in the 2017 General Election but was not elected.

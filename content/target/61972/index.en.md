@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Arsenal W.F.C.
-
 Arsenal Women Football Club, formerly known as Arsenal Ladies Football Club, is an English women's association football club affiliated with Arsenal Football Club.

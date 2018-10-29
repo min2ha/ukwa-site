@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chard and Ilminster News
-
 None

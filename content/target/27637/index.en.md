@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lynton Crosby: Betrayal of British voters 
-
 None

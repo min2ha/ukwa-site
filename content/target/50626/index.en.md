@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# CairnGorm Mountain
-
 Site of a ski and snowboarding centre at Cairn Gorm mountain, near Aviemore, in the Scottish Highlands.

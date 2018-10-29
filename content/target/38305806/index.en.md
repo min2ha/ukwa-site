@@ -10,5 +10,3 @@
   "start_date": "2010-03-19T00:00:00Z"
 }
 
-# Gower - Discover The Gower Peninsula
-

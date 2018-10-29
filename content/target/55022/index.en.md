@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# POSEIDON
-
 The POSEIDON project develops personalised and smart technology solutions to help people with Down syndrome become more independent and more included in society.

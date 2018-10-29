@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Patient.co.uk: Lass Fever, Marburg and Ebola Virus
-
 None

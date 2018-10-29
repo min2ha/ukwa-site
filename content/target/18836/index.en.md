@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Holloway, University of London: New Magna Carta Doctoral School to open in 2015 
-

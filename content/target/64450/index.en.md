@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Feminist Fightback | Anti-Capitalism Feminist Collective
-
 Feminist Fightback FC football team open to all self-defining women of all sporting abilities.

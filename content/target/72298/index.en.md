@@ -10,6 +10,4 @@
   "start_date": "2018-10-07T09:00:00Z"
 }
 
-# Liverpool's Dream: Giant Spectacular
-
 Site to mark the third and final visit of The Giants to Liverpool, 4-7 October 2018

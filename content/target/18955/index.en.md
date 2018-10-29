@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: New plans to house Magna Carta inside Lincoln Castle
-

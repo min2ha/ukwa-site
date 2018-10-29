@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# International Association for Religious Freedom (IARF)
-
 The International Association for Religious Freedom (IARF) is an international inter-religious organisation with a charitable status. It works for freedom of religion and belief at a global level. They encourage tolerance and interfaith encounter through dialogue and social justice projects. It was founded in 1900.

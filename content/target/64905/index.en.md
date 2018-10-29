@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Lodge Scotia 178
-
 Site of a masonic lodge located in Dennistoun, Glasgow and affiliated with the Grand Lodge of Scotland.

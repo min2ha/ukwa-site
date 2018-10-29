@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Revival Christian Church of Enfield
-
 The Revival Christian Church of Enfield is a Charity registered in England.

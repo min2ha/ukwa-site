@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Viaje a la Nada
-
 A Spanish-language blog that documents the experiences of a Spanish radiophysicist working in an oncology based in a hospital in the Scottish Highlands. There is also some advice sections of the website that focus on studying and traveling in Scotland. 

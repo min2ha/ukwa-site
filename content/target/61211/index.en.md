@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Julie Morgan 4 Deputy Leader
-
 Julie Morgan is Assembly Member for Cardiff North and former MP. This is her campaign website or the deputy leadership of Welsh Labour.

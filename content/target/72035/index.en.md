@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hullensians RUFC
-
 The official website of Hullensians Rugby Union Football Club. Established 1924.

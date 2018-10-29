@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Aireborough Historic Society  
-
 The Society was founded in 1957 to record and preserve the history of Aireborough. Aireborough consists of Yeadon, Guiseley, Rawdon, Carlton, Hawksworth and the area which was covered by Menston Hospital.

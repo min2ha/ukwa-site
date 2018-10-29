@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Democracy: I'll be voting Leave: a "reformed EU" isn't on the ballot paper 
-
 Oliver Huitson, a press officer for Labour Leave, and former co-editor of openDemocracyUK, on the failures of the EU

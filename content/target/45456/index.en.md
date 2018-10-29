@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, the: Russian hackers expected to leak names of another 48 British Olympians with TUEs
-
 British Olympic Association bracing itself as UK Anti-Doping confirms hack.

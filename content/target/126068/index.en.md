@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# SeeSaw Magazine
-
 SeeSaw is an online photography magazine. It is run by Aaron Schuman.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greg Munro (Conservative)
-
 Greg Munro stood as Conservative candidate for Blyth Valley at the 2015 General Election but was not elected.

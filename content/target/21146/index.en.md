@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hornsey and Wood Green Conservatives
-
 Website of Hornsey and Wood Green Conservatives, which takes in the western part of the London Borough of Haringey, stretching from Highgate in the south west of the seat, through Muswell Hill, Crouch End and on to Wood Green in the north east corner of the seat. The website provides information on events, MEPs, parliamentary candidates and representatives, and local and national news.

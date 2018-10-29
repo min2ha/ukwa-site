@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Brahma Kumaris Scotland on Facebook
-
 Facebook page of the Scottish branch of a religious movement founded in  Hyderabad, Sindh, India in the 1930s, and related to the Hindu faith.

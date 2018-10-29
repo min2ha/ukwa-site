@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Marit and Rona
-
 Site of a traditional / folk music duo based in Edinburgh.

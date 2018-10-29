@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Cllr Jolene Bunting (@CllrBunting) on Twitter
-
 Official Twitter account of Cllr Jolene Bunting Independent Unionist Councillor, whao was elected to represent Court DEA (Greater Shankill Area) of Belfast, UK.  

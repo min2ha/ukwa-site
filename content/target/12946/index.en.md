@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Project Ability : Exhibitions
-
 <p>Project Ability is a Glasgow-based visual arts organisation, developing local, national and international  arts projects in partnership with people with disabilities and their support agencies. </p>
 <p>Cameron’s Way: Coast to Coast is part of GENERATION, a major nationwide exhibition programme showcasing some of the best and most significant artists to have emerged from Scotland over the last 25 years years to mark the Commonwealth Games in Glasgow.</p>

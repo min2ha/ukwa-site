@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Wrexham Public Services Board (PSB) | Bwrdd Gwasanaethau Cyhoeddus Wrecsam (BGC)
-
 Wrexham Public Services Board (PSB) is a statutory body established in 2016 to improve the economic, social, environmental and cultural well-being of Wrexham County Borough as per the Well-being of Future Generations (Wales) Act.

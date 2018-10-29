@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hanzala Malik- Candidate for Glasgow Regional List on Facebook
-

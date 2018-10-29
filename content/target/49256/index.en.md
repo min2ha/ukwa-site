@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Welsh Government: Gwlad
-
 Gwald is the Welsh Government's newsletter for farm and forestry businesses and all those involved in agriculture in Wales. 

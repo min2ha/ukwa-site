@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ann McKechin - Labour MP for Glasgow North
-
 None

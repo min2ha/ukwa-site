@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Gateshead F.C.
-
 Gateshead Football Club is a professional football club based in Gateshead, Tyne and Wear, England. Established in 1977 after Gateshead United folded, they are currently members of the National League, the fifth tier of English football, and play at the International Stadium.

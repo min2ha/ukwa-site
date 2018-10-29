@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# South Seeds
-
 Site of a community organisation based in Govanhill, Glasgow aiming to work with the local community to help improve the look and feel of the area, increase energy awareness and helping people learn more about growing food and reducing waste.

@@ -7550,8 +7550,6 @@
   "endDateText": "31-01-2018"
 }
 
-# EU Referendum
-
 Following the announcement in May 2015 that there would be a referendum on the UK’s EU membership; curators at the Bodleian Libraries, Oxford, started a collection of websites to capture the debate.
 The collection captures debates around ‘Brexit’  as well as the wider context of UK/EU relations, including:
     Media coverage,

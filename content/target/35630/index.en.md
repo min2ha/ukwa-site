@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mark Drakeford (@MarkDrakeford) on Twitter (Labour AM for Cardiff West)
-
 Mark Drakeford is the Labour candidate for Cardiff West at the 2016 National Assembly Elections.

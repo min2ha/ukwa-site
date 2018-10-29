@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Royal Yachting Association (RYA) Cymru Wales Events
-

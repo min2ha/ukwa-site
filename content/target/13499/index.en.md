@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# St Helena Government
-
 The St Helena Government official website.

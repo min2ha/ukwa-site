@@ -10,5 +10,3 @@
   "start_date": "2014-05-01T23:00:00Z"
 }
 
-# Jo Crotty @ProfJoCrotty on Twitter Liberal Democrats North West
-

@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Groundwork Pro
-
 Groundwork Pro is a Cardiff based artist-led collective providing professional development opportunities to professional dance artists. The collective are Beth Powlesland, Chloe Loftus, Jessie Brett, Joanna Young and Deborah Light.

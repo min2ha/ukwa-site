@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shout Festival 
-
 Website for the Shout Festival, a festival in Birmingham for queer arts and culture.

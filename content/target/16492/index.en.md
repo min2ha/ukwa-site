@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: PM: I refuse to be 'bounced' into TV debates
-
 None

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Precious Online Magazine and Network
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Jukebox Collective
-
 Jukebox Creative is a leading creative company for street dance education, performance and consultancy in the UK and is based in Cardiff.

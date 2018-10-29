@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: The final UK/EU renegotiation deal: legal status and legal effect 
-
 Argues that that the deal reached in February 2016 to reform Britain's relationship with the EU is  binding – and anyone who says otherwise (without clarification) is just not telling the truth. But there are two significant caveats to that: (a) parts of the deal, concerning the details of the changes to free movement law and Treaty amendments, still have to be implemented separately; and (b) there are limits to the enforceability of the deal. 
 

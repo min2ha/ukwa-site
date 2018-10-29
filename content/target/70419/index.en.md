@@ -10,6 +10,4 @@
   "start_date": "2018-08-25T09:00:00Z"
 }
 
-# Guru Nanak Sikh Temple Glasgow on Facebook
-
 Facebook page of a Sikh temple located in the west end of Glasgow.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Legislative Consent and the European Union (Withdrawal) Bill (2017-19): the Joint Ministerial Committee, proposed amendments, and the "Continuity Bills"
-
 An overview of the attempts of the Joint Ministerial Committee on European Negotiations to agree changes to the European Union (Withdrawal) Bill to gain legislative consent from the Scottish Parliament and National Assembly for Wales.
 

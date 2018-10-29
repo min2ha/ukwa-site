@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Michael Gove bounces back from demotion to lead Tory justice changes
-
 None

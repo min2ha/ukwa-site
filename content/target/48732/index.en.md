@@ -10,5 +10,3 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Llandrindod and District U3A
-

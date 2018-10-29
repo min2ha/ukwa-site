@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kirkintilloch Canal Festival
-
 Site of a community festival in the town of Kirkintilloch, East Dunbartonshire, featuring entertainment and events, many focused around the Forth and Clyde canal.

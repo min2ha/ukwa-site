@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Tory election pledge to crack down on illegal traveller camps
-
 None

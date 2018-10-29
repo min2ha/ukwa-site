@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# British Society of Dental Hygiene & Therapy (BSDHT)
-
 The British Society of Dental Hygiene & Therapy, BSDHT (formerly British Dental Hygienists' Association, BDHA) was set up in 1949 by a group of 12 dental hygienists who felt the time was right to organise a professional association to represent the interests of their profession.

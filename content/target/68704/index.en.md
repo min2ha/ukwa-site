@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: The deal is done
-
 Downing Street claimed that following a crucial cabinet meeting on July 6th 2018 the UK had a new offer to put to the EU, an evolved and credible set of proposals to put to the rest of the continent. It was not the clean break that many Brexiteers had argued for.
 
 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sarah Lesiter-Burgess on Facebook (Liberal Democrat candidate for Clwyd West)
-

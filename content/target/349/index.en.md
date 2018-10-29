@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderdale Health and Wellbeing Board
-
 None

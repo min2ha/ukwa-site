@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Wales Puja Committee 
-
 Wales Puja Committee is a charitable organisation established in 1973 and located in South Wales

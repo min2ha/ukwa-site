@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# ScoTpress
-
 An archive of the hundreds of zines devoted to Star Trek fanfiction, with the material mostly dating from 1975 and 1996. All stories were originally published either by ScoTpress or STAG and IDIC, both Star Trek fan clubs.

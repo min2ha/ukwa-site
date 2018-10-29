@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Barnet Football Club
-
 Barnet Football Club is an English professional football club based in Edgware, north-west London. The club currently participates in League Two, the fourth tier of English football. The club was founded in Chipping Barnet, then part of Hertfordshire, in 1888.

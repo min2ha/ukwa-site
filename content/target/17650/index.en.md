@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: '10% fewer women than men' to vote in general election
-
 None

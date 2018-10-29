@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Gunn (@gunnyluke) on Twitter
-
 Twitter profile of Luke Gunn, competitor in 3000 metre steeplechase events for Team England at the Glasgow 2014 Commonwealth Games.

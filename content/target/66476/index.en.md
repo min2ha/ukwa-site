@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# William Tracey Limited
-
 The website of William Tracey Limited, a recycling and resource management company. 

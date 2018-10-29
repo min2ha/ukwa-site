@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Lives of the First World War: British Military Casualties of the Easter Rising 1916
-
 Website remembering the members of the British Military who lost their lives in the Easter Rising, maintained by the Fife Military Project

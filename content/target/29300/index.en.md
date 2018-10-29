@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Flamstead Book Festival
-
 Flamstead Book Festival

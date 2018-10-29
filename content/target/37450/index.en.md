@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jewish Chronicle Online, The: In support of Brexit
-
 Urges readers to vote leave in favour of economic power and independence. 

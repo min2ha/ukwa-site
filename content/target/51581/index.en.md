@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Parish Church, Stirling 
-
 The website of North Parish Church, located in Stirling, Scotland. 

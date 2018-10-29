@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Calder United Football Club on Facebook
-
 Facebook page for a Scottish amateur football club based in West Calder, West Lothian, Scotland.

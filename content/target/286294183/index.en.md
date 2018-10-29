@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# ResPublica
-
 <p>ResPublica is an independent, non-partisan think tank based in Westminster that seeks to establish a new economic, social and cultural settlement for the United Kingdom. They believe in the common good and the development of real wealth that promotes both social and economic flourishing. To combat the concentration of wealth and power in the UK, they work for the greater distribution of agency and ownership.</p>

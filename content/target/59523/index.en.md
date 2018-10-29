@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Y Felin | The Mill 
-
 Y Felin is one of the last working water mills in Wales producing traditional stoneground flour and is located adjacent to the 12th Century Abbey of St Dogmaels.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Kingsley Napley: Brexit blog
-
 Law firm based in London

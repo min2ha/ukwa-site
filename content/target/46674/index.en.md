@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Barclays plc
-
 Barclays plc is a British multinational banking and financial services company with operations in retail, wholesale, investment banking, wealth management, mortgage lending and credit cards. It has operations in over 50 countries and territories and has around 48 million customers.

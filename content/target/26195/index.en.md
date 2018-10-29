@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Career Development Institute: A Manifesto for the General Election 2015
-
 The CDI is a UK-wide professional organisation for everyone working in the fields of career education; career information, advice and guidance; career coaching and career management. They were established on 2 April 2013.

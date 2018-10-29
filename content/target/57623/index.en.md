@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Boards Windsurfing Magazine Forum
-
 An online enthusiast community concerned with windsurfing. Discusses freestyle, racing, locations, techniques, equipment, tips for beginners and various other related topics.

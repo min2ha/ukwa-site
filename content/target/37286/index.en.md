@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Mark Easton asks undecided voters what will sway them in the EU referendum
-
 Mark Easton interviews undecided voters in Lichfield, Staffordshire about what would sway them to vote in or out (video). 

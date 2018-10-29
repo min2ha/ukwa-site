@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gary James (@GaryJamesWriter) on Twitter
-
 A sports historian with a specific interest in the history of women's football at Manchester City FC.

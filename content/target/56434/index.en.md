@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Borough Council of Wellingborough
-
 The website of Wellingborough Council provides news and information on its services. There are also committee papers and minutes, finance and performance reports, consultations, and planning policies and local plans.

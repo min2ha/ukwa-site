@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Daily Record: Who are the Scottish stars at the Olympics?
-

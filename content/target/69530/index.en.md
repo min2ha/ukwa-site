@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Holy Cross
-
 Site of a Scottish Roman Catholic parish church located in Glasgow.

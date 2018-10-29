@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# RCCC Curling (@rccccurling) on Twitter
-
 Royal Caledonian Curling Club Twitter feed

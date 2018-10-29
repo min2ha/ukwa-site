@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Oxford Shinty Club on Facebook
-
 Facebook page for a shinty club based in Oxford.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gunnersaurus (@Gunnersaurus) on Twitter
-
 The Twitter account of Arsenal's official club mascot. 

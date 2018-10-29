@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Communist Party of Great Britain (CPGB): Their Europe - and ours
-
 An overview of the EU referendum by the Communist Party of Great Britain.

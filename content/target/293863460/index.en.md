@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Legacy 2014 XX Commonwealth Games Glasgow
-
 The official site of the legacy of the Games.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ilfracombe RFC on Pitchero
-
 The official website of Ilfracombe Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wake Up Europe!
-
 Website of the Wake up Foundation aiming to provide a forum for cross-border bottom-up debate about Europe and the EU

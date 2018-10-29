@@ -11,8 +11,6 @@
   "subject": "SmashFest UK"
 }
 
-# Education City
-
 Since its founding in 1999, EducationCity has remained faithful to its commitment to produce unparalleled educational experiences based on highly engaging content and exceptional quality.
 
 Dedicated to creating new ways of delivering curriculum content, recognised with awards by educationalists and adored by children everywhere, EducationCity pioneers the evolution of teaching with technology in the new digital learning era.

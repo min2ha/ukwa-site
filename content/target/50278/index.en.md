@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ashfield Football Club
-
 Site for a Scottish junior football club based in Glasgow.

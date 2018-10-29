@@ -10,5 +10,3 @@
   "start_date": "2008-06-02T00:00:00Z"
 }
 
-# Research Laboratory for Archaeology and the History of Art, University of Oxford (RLAHA)
-

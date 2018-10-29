@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Socialist Equality Party
-
 The Socialist Equality Party is a Trotskyist political party in Britain. It is one of several Socialist Equality Parties affiliated with the International Committee of the Fourth International. The ICFI publishes daily news articles, perspectives and commentaries on the World Socialist Web Site.

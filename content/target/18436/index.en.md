@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election debates row: Broadcasters 'playing politics' - Lord Grade
-
 None

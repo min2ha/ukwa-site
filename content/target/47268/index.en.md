@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Oxford Business Law Blog: How Brexit Will Happen: A Brief Primer on EU Law and Constitutional Law Questions Raised by Brexit
-
 This article is intended as a primer on questions that Brexit raises with respect to EU law and UK constitutional law

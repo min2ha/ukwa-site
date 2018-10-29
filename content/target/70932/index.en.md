@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# No Man's Land Festival
-
 Website for the No Man's Land Music Festival.

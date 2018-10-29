@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Universities Federation for Animal Welfare
-
 The Universities Federation for Animal Welfare (UFAW) is an independent registered charity that works to develop and promote improvements in the welfare of all animals through scientific and educational activity worldwide. 

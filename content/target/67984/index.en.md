@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spurn Migration Festival 2018
-
 celebrating the spectacle of bird migration on the Spurn Peninsula

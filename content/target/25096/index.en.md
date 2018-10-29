@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: UKIP's Nigel Farage: We'll keep on fighting – even if Britain votes to stay in EU
-
 None

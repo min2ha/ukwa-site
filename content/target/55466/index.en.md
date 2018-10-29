@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Northern Cricket Union
-
 The Northern Cricket Union (NCU) is the governing body for league and cup cricket for both Senior and Junior cricketers throughout Northern Ireland.

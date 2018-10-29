@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: BBC Election Debate 2015: Absent David Cameron biggest loser as Ed Miliband rules TV showdown 
-
 None

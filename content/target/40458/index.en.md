@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Research and remembrance of the Great War casualties of Brigg and surrounding area.
-
 Project working with North Lincolnshire Museums Service on a pupil-led project to unite our school, town and local history groups and produce a permanent record of the local men and women who fought and died in the Great War.

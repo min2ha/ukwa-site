@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Blue Idol Quaker Meeting, West Sussex
-

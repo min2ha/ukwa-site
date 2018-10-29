@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Singleton Lodge No.8399 Masonic Province of South Wales
-
 Singleton Lodge No. 8399 meet at Swansea Masonic Hall and was established in 1971.

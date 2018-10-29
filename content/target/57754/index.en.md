@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cambridge Independent
-
 News, sport, what’s on, entertainment, lifestyle, traffic, weather and community information for Cambridge and South Cambridgeshire from the Cambridge Independent.

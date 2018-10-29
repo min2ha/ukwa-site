@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Chequers deal could be undone after Britain leaves EU, claims Gove
-
 Michael Gove claimed that MPs could undo the Chequers deal once the UK had left the EU, saying the prime minister’s proposal was the “right one for now”. The environment secretary, a prominent Brexiter, regularly made a similar case in private to MPs, urging them to back May to see through Britain’s exit rather than risk an impasse in parliament or a general election.
 
 

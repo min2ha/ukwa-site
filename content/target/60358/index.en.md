@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# justice4grenfell on Facebook
-
 Facebook account for the justice4grenfell group

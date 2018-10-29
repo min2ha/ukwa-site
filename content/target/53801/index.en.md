@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Career Development Institute (CDI): Manifesto for General Election 2017
-
 Just ahead of the Conservative Party, the Career Development Institute (CDI) launched its own manifesto comprising eight major proposals which, when implemented, will promote a step change in careers advice and guidance for young people and adults. The CDI has always lobbied on the position that the National Careers Service should be reconstituted as a truly all-age, lifelong career development service but this manifesto takes these ideas to the next level.
 

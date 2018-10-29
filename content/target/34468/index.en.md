@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Clare County Library: Memoirs of Andrew O'Donoghue
-
 This is the website of Clare County Library. It contains a transcript of the memoirs of Andrew O'Donoghue, Commandant of the 5th Batallion, Mid-Clare Brigade, including his recollections of the activities in Clare during the Easter Rising, 1916. 

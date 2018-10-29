@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Governors' Association: NGA Manifesto May 2014
-
 The National Governors’ Association aims to represent all school governors and trustees in England; there are over 300,000 governors/trustees, one of the largest volunteer groups in the UK. They are an independent charity that aims to support and promote good governance in our schools; we do this through lobbying, via a range of contacts with ministers, policy makers and education organisations. They also run national conferences, and a number of regional events.

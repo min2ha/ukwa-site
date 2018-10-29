@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Gazette: Langport's Bagehot Memorial Fund to host debate on Magna Carta next year
-

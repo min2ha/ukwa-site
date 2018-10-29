@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# musalla.org
-
 Site of a group of Islamic places of worship and community centres in Central Scotland; Alloa, Stirling, Falkirk and West Lothian.

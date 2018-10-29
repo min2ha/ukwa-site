@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Pensions' World: SPP report: would BREXIT benefit or be to the detriment of UK pensions?
-

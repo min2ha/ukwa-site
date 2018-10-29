@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Standard Chartered chief warning over Brexit staff moves
-
 A Standard Chartered bank executive said tough demands by EU regulators could mean more jobs being moved from the UK overseas than first  thought.
 

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Indymam
-
 The blog of Sandra Clubb, Chair of Yes Caerdydd. 

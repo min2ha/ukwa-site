@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Government fears trade deal 'havoc', EU diplomats say
-
 A number of EU diplomats believe the UK government is having second thoughts about its threat to leave the bloc without a trade deal should negotiations break down, the BBC understands.

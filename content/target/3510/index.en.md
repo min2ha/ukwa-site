@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bexley Times
-
 None

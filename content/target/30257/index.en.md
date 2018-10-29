@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Family History Society of Cheshire (FHSC), The
-
 The Family History Society of Cheshire (FHSC) was founded in 1969 to advance the study of family history and genealogy.

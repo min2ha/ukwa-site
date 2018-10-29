@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Europeana 1914-1918
-
 <p>Europeana 1914-1918 is a pan-European crowdsourcing project, based on a UK initiative and including many UK and  UK related contributions, all previously unpublished letters, photographs and keepsakes from World War 1.</p>

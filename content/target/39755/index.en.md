@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow Pollok SNP on Google+
-
 Google+ profile of the Glasgow Pollock branch of the Scottish National Party (SNP).

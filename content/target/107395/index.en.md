@@ -10,6 +10,4 @@
   "start_date": "2005-05-06T00:00:00Z"
 }
 
-# Neil Munro Society
-
 None

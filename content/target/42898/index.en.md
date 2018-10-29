@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Comann na Mara / Society of the Sea
-
 Site of an organisation providing aquatic education and marine research facility at Loch Maddy, North Uist in the Western Isles (Loch nam Madadh, Uibhist a Tuath, Na h-Eileanan Siar)

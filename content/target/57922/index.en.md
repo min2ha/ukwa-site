@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 17th October 2017: Update on EU Exit Negotiations
-
 Baroness Goldie repeats a Statement made in the Commons David Davis, the Secretary of State for Exiting the European Union, on the progress of the negotiations, followed by questions

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's plot to become Prime Minister - even if he does not win the election
-
 None

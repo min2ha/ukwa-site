@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irish Football Association (IFA)
-
 Irish Football Association is the governing body for soccer in Northern Ireland.

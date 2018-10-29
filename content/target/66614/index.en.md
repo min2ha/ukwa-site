@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Radio Glangwili
-
 This is the website for Glangwili Hospital Radio established in 1972.

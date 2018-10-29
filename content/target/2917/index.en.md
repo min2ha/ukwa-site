@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# eFestivals UK
-
 <p>Website listing of UK festivals ranging from the small to the large-scale since 2000.</p>

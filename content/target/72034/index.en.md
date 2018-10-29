@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull FC
-
 The official website of Hull Football Club. One of the oldest clubs in the league, Hull Football Club was formed in 1865 by a group of ex-public schoolboys. 

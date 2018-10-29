@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leeds Trinity Saints (@LTUSaintsRU) on Twitter
-
 The official website of Leeds Trinity All Saints Rugby Club. Based in Horsforth. 

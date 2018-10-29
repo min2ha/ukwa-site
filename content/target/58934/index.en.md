@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Hilary Benn (@hilarybennmp) on Twitter (Labour politician)
-
 Twitter feed of Hilary Benn, Labour MP for Leeds Central. Previously, he served as International Development Secretary, as a Minister in the Home Office, as Secretary of State at the Department for the Environment, Food and Rural Affairs, as the Shadow Leader of the House of Commons, the Shadow Secretary of State for Communities and Local Government and the Shadow Foreign Secretary. He was elected Chair of the Exiting the European Union Select Committee in October 2016 and is a supporter of the EU
 

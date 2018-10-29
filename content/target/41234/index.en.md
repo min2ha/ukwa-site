@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Remain camp accused of 'personal attacks and petty tabloid smears' by senior Brexit campaigner
-

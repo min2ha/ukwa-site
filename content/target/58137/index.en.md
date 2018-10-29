@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Healthy Respect
-
 Site of an organisation providing sexual health and relationships information for young people in Lothian.

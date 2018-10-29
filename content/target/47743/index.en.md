@@ -11,5 +11,3 @@
   "subject": "Parliamentary Archives"
 }
 
-# MP's Allowances
-

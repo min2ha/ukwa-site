@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Institute of Information Security Professionals
-
 The Institute of Information Security Professionals is an independent not-for-profit organisation, which aims to advance the professionalism of the information security industry and become the voice of the profession.

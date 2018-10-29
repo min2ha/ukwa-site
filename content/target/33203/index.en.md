@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Uprising
-
 This company was established to commemorate the centenary of the Easter Rising in 2016. They have produced Easter Rising centenary commemorative coins to mark the event.

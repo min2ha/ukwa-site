@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# OpenPlant
-
 OpenPlant is a joint initiative between the University of Cambridge, John Innes Centre and the Earlham Institute, funded by the BBSRC and EPSRC as part of the UK Synthetic Biology for Growth programme

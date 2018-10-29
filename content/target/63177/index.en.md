@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Astronomy Now – The UK's biggest & best stargazing magazine
-
 Astronomy Now is a monthly British magazine on astronomy and space; this is their website and online version.

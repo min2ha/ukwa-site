@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ludlow Spring Festival
-
 Ludlow Spring Festival 

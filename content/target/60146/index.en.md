@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Student Newspaper: Is Instagram bad for our mental health?
-
 Student Newspaper article about Instagram and mental health

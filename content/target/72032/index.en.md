@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Childish Boris in a wheat field, ministers on manoeuvres ...and the madness of this orgy of Tory in-fighting
-
 Laments the disunity shown at the 2018 Conservative Party conference as ministers openly paraded their credentials as potential successors to Theresa May.

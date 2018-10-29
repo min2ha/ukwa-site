@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Off the Wall Contemporary Art Gallery
-
 A contemporary art gallery based in Llandaff, Cardiff.

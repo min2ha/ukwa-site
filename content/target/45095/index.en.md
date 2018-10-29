@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# How to talk about female Olympians without being a regressive creep – a handy guide
-
 Analysis of the way female athletes are being reported on at the Olympics in Rio. 

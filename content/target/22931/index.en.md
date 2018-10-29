@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gary Butler on Facebook (English Democrats candidate for Faversham and Mid Kent)
-

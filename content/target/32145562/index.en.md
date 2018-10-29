@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Nanteos Country House Hotel 
-
 Nanteos Mansion is a grade one listed Georgian Mansion, regarded as one of the most important estates in the county of Ceredigion. The estate covered most of what is today Aberystwyth and is now a hotel.

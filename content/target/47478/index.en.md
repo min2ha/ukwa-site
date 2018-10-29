@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymraeg i Oedolion Canolbarth Cymru | Learn Welsh in Mid Wales
-

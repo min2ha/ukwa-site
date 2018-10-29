@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Sturgeon says Cameron must go further on devolution
-
 None

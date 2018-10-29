@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's, Fulham Fields
-
 St Andrew’s is the Church of England parish church in North Fulham. The church building lies between the end of Star Road/start of Greyhound Road and St Andrew’s Road at W14 9SA.

@@ -10,5 +10,3 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Abergavenny Writing Festival
-

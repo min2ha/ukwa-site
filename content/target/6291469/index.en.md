@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic Lottery Distributor
-
 None

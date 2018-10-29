@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: New Asian eSports leader seeks Olympic promised land
-
 Article regarding gaming becoming an Olympic sport. It highlights some of the challenges its image must overcome including gaming addiction.

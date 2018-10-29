@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swindon Viewpoint
-
 <p>Swindon Viewpoint celebrating 40 years of community television is a website dedicated to the visual life and times of Swindon. It contains information on what's happening now, but also what the town once looked like and how it has developed, what its people have thought and cared about; and the diversity of lifestyles and entertainments of the past as well as the present.</p>

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Okwu ID: Okwu Ndi Igbo na Ala Beke (Igbo Diaspora Media)
-
 Okwu ID: Okwu Ndi Igbo na Ala Beke (Igbo Diaspora Media) aims: To celebrate and explore Igbo heritage • To be positively and progressively promote Igbo culture and indigenous people • To protect the core interests of the Igbo community  • To create a sense of Igbo identity and pride within those living in the diaspora.

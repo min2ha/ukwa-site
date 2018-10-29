@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# UAF (United Against Facism) Wales on Facebook
-

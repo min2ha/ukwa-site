@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Wordcatcher Publishing
-
 Wordcatcher Publishing is a hybrid book published based in Cardiff. It was formerly operating as Onion Custard but has been using Wordcatcher brand since 2016.

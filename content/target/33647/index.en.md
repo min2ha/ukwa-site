@@ -10,5 +10,3 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Cyngor Bwdaidd Cymru | Buddhist Council of Wales
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Swansea Music Hub
-
 The Swansea Music Hub is a collective aiming to revitalise and support Swansea's live, original music scene. The website provides a directory of music services, a blog and a gig guide to Swansea.

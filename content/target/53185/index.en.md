@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# South Lakes Labour (@slakeslabour ) on Twitter
-
 Official Twitter account of Westmorland and Lonsdale Constituency Labour Party. Covers 18-year-old Eli Aldridge's campaign for election as an MP in 2017.

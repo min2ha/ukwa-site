@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Centrum Kultury i Edukacji im. F. Chopina
-
 Site of a Polish language and cultural centre located in Leith, Edinburgh.

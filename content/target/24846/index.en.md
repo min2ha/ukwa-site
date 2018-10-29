@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jon Homan on Facebook (Animal Welfare candidate for Hackney North and Stoke Newington)
-

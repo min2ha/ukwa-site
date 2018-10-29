@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Wales Arts Review: Gary Raymond in India
-
 This is a blog post from Wales Arts Review editor Gary Raymond from his March 2016 British Council expedition to India.

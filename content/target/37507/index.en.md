@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Buildingstandards.scot
-
 The eBuilding Standards portal is for submission of applications for building warrants and other related forms to local authorities in Scotland.

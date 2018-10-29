@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stewart Weston (@BristolLU) on Twitter (Candidate for the Left Unity Party)
-

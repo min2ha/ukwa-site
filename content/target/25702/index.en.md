@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sumatra Road: what it's like to live on the UK's most canvassed street
-
 None

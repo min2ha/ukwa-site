@@ -10,5 +10,3 @@
   "start_date": "2012-10-04T00:00:00Z"
 }
 
-# Association for Learning Development in Higher Education: Digital Literacies in Learning Development
-

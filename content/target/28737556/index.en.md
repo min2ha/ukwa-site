@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women's Health Concern
-
 Womens Health Concern (WHC) provides an independent service to advise, reassure and educate women about their health concerns, to enable them to work in partnership with their own medical practitioners and health advisers.

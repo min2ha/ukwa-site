@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tarland & Cromar Community website
-
 Site for the local community of Tarland & Cromar, Aberdeenshire, Scotland, promoting businesses providing information and local history.

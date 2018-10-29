@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Morning Star, The: A 'Brexit' would put workers in danger
-
 An argument that employment rights are on the line in the EU referendum, and the importance of not letting businesses dominate the discussion

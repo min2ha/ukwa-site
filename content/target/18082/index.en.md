@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We'll build 200,000 homes to help first-time buyers vows Cameron 
-
 None

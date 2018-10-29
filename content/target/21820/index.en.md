@@ -10,7 +10,5 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# New Wine Cymru : local churches changing nations
-
 New Wine Cymru works with leaders and churches,  to see Wales once again transformed by the person, message and power of Jesus Christ.
 

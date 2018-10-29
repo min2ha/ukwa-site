@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Cemvo Scotland
-
 Site of a Scottish national intermediary organisation and strategic partner of the Scottish Government Equality Unit aiming for a secure and sustainable base for Scotland’s ethnic minority voluntary sector and its communities.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Love Food Hate Waste Wales | Hoffi Bwyd Casau Gwastraff Cymru
-
 Love Food Hate Waste is a WRAP project and aims to raise awareness of the need to reduce food waste and help us take action. 

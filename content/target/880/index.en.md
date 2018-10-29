@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southern Health NHS Foundation Trust
-
 None

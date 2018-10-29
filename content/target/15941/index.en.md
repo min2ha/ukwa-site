@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Registers of Scotland (RoS)
-
 Registers of Scotland is responsible for compiling and maintaining registers relating to land and property in Scotland.

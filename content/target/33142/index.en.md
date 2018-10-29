@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Penny D. Jones
-
 Welsh visual artist.

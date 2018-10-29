@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bishops Stortford Rugby Football Club
-
 Bishops Stortford Rugby Football Club is a community rugby club in Hertfordshire with 5 senior sides.

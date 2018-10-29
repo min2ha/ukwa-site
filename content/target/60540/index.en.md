@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  ews:  David Cameron: Brexit's turned out 'less badly than first thought'
-
 Former prime minister David Cameron was recorded at the 2018 World Economic Forum in Davos saying the Leave vote was "a mistake not a disaster".

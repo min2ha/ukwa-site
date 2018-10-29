@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Freethinker, The
-
 <p>The Freethinker - The voice of atheism is a magazine, which was launched in Britain in 1881 and has continued publishing without a break until May 2014, when it became an Internet only publication.</p>

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bi Community News (BCN)
-
 Bi Community News is a magazine serving the bisexual population in the UK. It is published bimonthly and includes many articles reflecting bisexual life and media representation as well as news from the bisexual community. This is their official website. 

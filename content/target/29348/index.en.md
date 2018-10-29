@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Havant Literary Festival 
-
 Havant Literary Festival 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ardler, Kettins and Meigle Parish Church
-

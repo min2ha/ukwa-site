@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Elections Scotland: Polling Place and Station Facts and Figures
-
 <p>Details, by local authority, of number of polling stations, officers, clerks, inspectors, enumerators and other information.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: EU membership and the Bank of England
-

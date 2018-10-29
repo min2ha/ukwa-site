@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Fury as meddling Vicar uses OPENING PRAYERS to warn Brits against leaving the EU
-
 Article by Charlie Peat

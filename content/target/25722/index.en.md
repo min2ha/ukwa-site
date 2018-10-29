@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Vince Cable eyes 'substantial role' in event of future coalition government
-
 None

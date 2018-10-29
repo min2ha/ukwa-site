@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Tom Watson (@tom_watson ) on Twitter (Deputy Labour leader and MP for East Bromwich) 
-
 Tom Watson has been MP for West Bromwich East since 2001 and was elected deputy leader of the Labour Party in September 2015.

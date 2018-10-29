@@ -10,7 +10,5 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# House of Commons Business, Energy and Industrial Strategy Committee: The impact of Brexit on the aerospace sector
-
 The best way for the aerospace sector to take advantage of global growth opportunities post-Brexit is to maintain harmonisation and not diverge from international standards, the Business, Energy and Industrial Strategy Committee concludes.
 

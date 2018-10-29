@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eddy Blanche for Merthyr Tydfil & Rhymney on Facebook
-
 Independent candidate - Merthyr Tydfil & Rhymney

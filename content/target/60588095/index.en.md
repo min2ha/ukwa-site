@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# View from Rural Wales, A - Glyn Davies
-

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Tynecastle Pride on Facebook
-
 Site of a group of Heart of Midlothian FC LGBT supporters promoting equality & respect in football.

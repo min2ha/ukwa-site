@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Dyfed-Powys Police & Crime Commissioner
-
 None

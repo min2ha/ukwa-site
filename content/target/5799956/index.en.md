@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# The TLS Blog (Times Literary Supplement Blog)
-
 <p>The blog of the London-based literary and cultural review, The Times Literary Supplement.</p>

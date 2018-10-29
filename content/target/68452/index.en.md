@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anyone's child: families for safer drug control
-
 Launched by Transform Drug Policy Foundation, Anyone's Child: Families for Safer Drug Control seeks to put a human face on the costs of the war on drugs and show the public that it is the current approach which is endangering their children, and that legal regulation would help keep them safe.

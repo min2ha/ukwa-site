@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wales Online : 2016 Rio Olympics
-

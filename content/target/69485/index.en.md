@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Margaret’s and St. Serf’s
-
 Site of a Scottish Roman Catholic parish church located in Airdrie, Lanarkshire.

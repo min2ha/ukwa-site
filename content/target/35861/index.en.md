@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Pauline McNeill (@Pauline_McNeill) on Twitter
-
 The Twitter profile of Pauline McNeill, the Scottish Labour candidate for the Glasgow list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Tory backbenchers tip rising star Andrea Leadson as successor to David Cameron as party leader
-
 None

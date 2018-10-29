@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Rowe (UKIP)
-
 Keith Rowe stood as UKIP candidate for Birmingham Northfield at the 2015 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Pump Aid
-
 Pump Aid is an international non-profit organisation that was set up in 1998. It is headquartered in London and delivers all its services in Africa, mostly in Malawi. 

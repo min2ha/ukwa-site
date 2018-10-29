@@ -10,6 +10,4 @@
   "start_date": "2015-03-31T09:00:00Z"
 }
 
-# International Association for Evidence Based Psychotherapy (IAEBP)
-
 International Association for Evidence Based Psychotherapy (IAEBP) is an organisation promoting psychotherapy by setting professional standards, providing professional development and support to its members.

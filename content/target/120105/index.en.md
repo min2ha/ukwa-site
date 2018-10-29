@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Health and Care Professions Council (HCPC)
-
 Health and Care Professions Council (HCPC) is a regulatory body set up to protect the public. To do this, they keep a Register of health and care professionals who meet our standards for their training, professional skills, behaviour and health.

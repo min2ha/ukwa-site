@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Angela Crawley (@AngelaCrawley30) on Twitter
-
 Twitter profile of Angela Crawley, Scottish National Party candidate for Lanark and Hamilton East in the 2017 general election.

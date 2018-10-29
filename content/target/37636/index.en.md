@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Peter Mandelson denies he ever supported British membership of the euro – despite warning in 2003 staying out of the single currency would be a 'disaster'   
-

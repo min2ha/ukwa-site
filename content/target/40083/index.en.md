@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Plaid Lafur Dwyfor Meironnydd Labour Party
-

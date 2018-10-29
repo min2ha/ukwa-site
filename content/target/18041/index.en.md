@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Stevens
-
 Jo Stevens is the Labour prospective parliamentary candidate for Cardiff Central.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# McLaren Rugby Football Club
-
 Site of a Scottish rugby union football club based in Callander, Stirlingshire.

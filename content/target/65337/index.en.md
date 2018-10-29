@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Tynedale Green Party
-
 Tynedale Green Party is the party of hope and radical change

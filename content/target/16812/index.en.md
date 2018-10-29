@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Prowess: General Election 2015 – Why Women in Business Need to be on the Agenda
-
 Prowess was the National Association for the Promotion of Women’s Enterprise from 2002 to 2011, with member organizations, supporting over 100,000 women business owners. It is an independent non-profit organisation.

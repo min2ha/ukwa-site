@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Resource Association: Manifesto for Resources 2015
-
 The Resource Association is a new professional advocacy body for the reprocessing and recycling industries.

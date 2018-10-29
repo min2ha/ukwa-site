@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Nail Patella Syndrome UK
-
 The nail patella syndrome UK was formed in 2003 to raise awareness about the condition.

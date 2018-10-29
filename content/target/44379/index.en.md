@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Falkirk Folk Club
-
 Site of a traditional music club based in Falkirk, Scotland

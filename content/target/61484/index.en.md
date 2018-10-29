@@ -10,5 +10,3 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Welshpool Transport Festival 2018
-

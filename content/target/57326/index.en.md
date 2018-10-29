@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Tideway  
-
 Tideway are upgrading London's sewerage system to cope with the demands of the city well into the 22nd century.

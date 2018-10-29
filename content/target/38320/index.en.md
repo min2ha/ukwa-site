@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would mean less money for the NHS
-
 Guardian, The

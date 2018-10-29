@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Allia
-
 Allia is a charity that supports social ventures. They provide business support, work space and finance solutions to help social ventures start up, grow and create social benefit.

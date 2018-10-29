@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Campaign Series Caerphilly and Blackwood
-
 None

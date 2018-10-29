@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fairmilehead Parish Church
-
 Site of a Church of Scotland parish church at Fairmilehead, Edinburgh.

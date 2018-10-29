@@ -10,5 +10,3 @@
   "start_date": "2012-11-20T00:00:00Z"
 }
 
-# Inspires (Innovative Networks Supporting People Who Investigate Research Environments and Spaces)
-

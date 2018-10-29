@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# C.G.Allan - Official Site
-
 None

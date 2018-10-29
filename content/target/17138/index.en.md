@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Steve Richards. Do not adjust your TV. This election will be decided on the doorstep
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taylor Muir (@TaylorMuirRHW) on Twitter
-
 Twitter profile of Taylor Muir, Conservative Party candidate for Rutherglen and Hamilton West in 2015 UK General Election.

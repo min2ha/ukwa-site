@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# Airport Technology
-
 Airport-technology.com is a site focused on bringing the latest news about airport projects, trends, products and services for the airport sector. It covers new construction projects, rules, regulations and technology innovation.

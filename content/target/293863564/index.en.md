@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Byron Davies 
-
 Byron Davies, Conservative candidate for Gower. 

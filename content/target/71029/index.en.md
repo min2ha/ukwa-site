@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Race Council Cymru (@rcccymru) on Twitter
-
 This is the twitter feed of Race Council Cymru (RCC), an overarching/umbrella body established in Wales to bring together key organisations which work to combat prejudice, race discrimination, harassment, abuse and violence. 

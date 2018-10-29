@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Herefordshire History
-
 Herefordshire History is a new project run by Herefordshire Libraries to digitise local material from Herefordshire's libraries, archives and museum collections and other sources.

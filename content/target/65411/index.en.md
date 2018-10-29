@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Arisaig and District Community Council
-
 Site of a community council for the village of Arisaig, Lochaber, Highland.

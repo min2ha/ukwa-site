@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Norvic Philatelics Blog
-
 The blog captures the development of British philately through the relaying of formal information from Royal Mail and informal information from readers of the blog, and is a valuable source of information for collectors. The blog covers information on new issues, varieties and errors. 

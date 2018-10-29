@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Eastern and Coastal Kent
-
 None

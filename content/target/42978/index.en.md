@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Hillswick Wildlife Sanctuary
-
 Site of a voluntary group caring for injured wildlife in the Hillswick area of Sheltland.

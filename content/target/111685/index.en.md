@@ -10,6 +10,4 @@
   "start_date": "2005-07-22T00:00:00Z"
 }
 
-# British Society for the History of Radiology
-
 This organisation was formed in January 2006, replacing the Radiology History and Heritage Charitable Trust.

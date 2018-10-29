@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May wants a Brexiteer’s Brexit. She won’t get it without a fight
-

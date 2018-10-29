@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Bessant (Conservative)
-
 Paul Bessant stood as Conservative candidate for Leicester West at the 2015 General Election but was not elected.

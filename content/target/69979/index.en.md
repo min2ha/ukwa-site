@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Jewish Telegraph (@JewishTelegraph) on Twitter
-
 Britain's regional Jewish weekly. Separate editions for Manchester, Leeds, Liverpool and Scotland. Available from newsagents. 

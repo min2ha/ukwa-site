@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Till the Boys Come Home - intergenerational community project to mark centenary of WW1
-
 Project enabling community groups to research the history of Livesey Memorial Hall and its war memorial.

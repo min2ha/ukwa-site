@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Nottinghamshire's Queer Bulletin (QB)
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Refinery29: Meet The Men Behind The Male Body Positive Movement
-
 Refinery29: Article on male body positivity

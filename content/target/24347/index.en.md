@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Has no one bothered to explain the basic rules of politics to Nicola Sturgeon?
-
 None

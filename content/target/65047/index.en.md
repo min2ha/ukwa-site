@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Brecon Jazz 2016 Cathedral Event 
-
 Brecon Jazz 2016 provides details of events that were held in Brecon Cathedral during Brecon Jazz weekend in 2016.

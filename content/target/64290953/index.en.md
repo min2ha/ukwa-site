@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Museums, Libraries and Archives Council: Cultural Olympiad 2012
-

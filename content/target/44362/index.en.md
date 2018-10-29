@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Cranford House
-
 Cranford House is a non-selective independent day school, for boys aged three to seven and girls aged three to sixteen. 

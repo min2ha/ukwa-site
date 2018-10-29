@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# International Presbytery, The 
-
 The website of the International Presbytery of the Church of Scotland. There are 15 congregations included in this presbytery, located in Amsterdam, Bermuda, Bochum, Brussels, Budapest, Columbo, Fuengirola, Geneva, Gibraltar, Lausanne, Lisbon, Malta, Paris, Rome, Rotterdam, and Trinidad. 

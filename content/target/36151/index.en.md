@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John for Glasgow- A New Voice for Glasgow
-
 John Anderson is the Scottish Conservative and Unionist candidate for the Glasgow Maryhill and Springburn constituency in the 2016 Scottish Parliament elections.

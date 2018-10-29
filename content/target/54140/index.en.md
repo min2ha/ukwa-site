@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Gigrin Farm: Red Kite Feeding Centre
-
 Gigrin Farm is a Red Kite Feeding Centre near the market town of Rhayader.

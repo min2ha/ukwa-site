@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Gregory Barbarigo Glasgow
-
 Site of a Scottish Roman Catholic parish church in Glasgow.

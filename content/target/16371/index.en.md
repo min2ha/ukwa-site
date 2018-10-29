@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Born Free
-
 <p>The Born Free Foundation is an international wildlife charity, founded in 1984 by the actors Bill Travers MBE and Virginia McKenna OBE, and their son, Will Travers OBE, the charity’s President.  Born Free takes action worldwide to save lives, stop suffering and protect species in the wild.</p>

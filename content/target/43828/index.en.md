@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Stop CBM Drilling in Llangyfelach, Swansea
-
 Campaign set up to oppose exploratory drilling for Coal Bed Methane in Llangyfelach.

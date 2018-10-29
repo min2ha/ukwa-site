@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Tecstiliau Meirionnydd Textiles
-
 Meirionnydd Textiles meet once a month in order to advance the Art and Craft of Textile Embellishment. The site was ongoing since 2009 to 2015.

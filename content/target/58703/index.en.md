@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Wild Media Foundation
-
 Site of a group of photographers and visual media specialists who have formed a company that specialises in creating narratives featuring pictures, video, sound and text centred on wild life.

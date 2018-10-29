@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Infoism
-
 A blog written by librarian Ian Clark. He is interested in communication technology, the digital divide and co-operative models of service provision. Ian is a co-founder of the public library advocacy campaign Voices for the Library, the Radical Librarians Collective and Informed, he has also written articles for The Guardian, Open Rights Group, Library Journal and InfoToday EU.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# St. Andrews Musical Society
-
 Site of an amateur musical theatre and operatic society based in St. Andrews, Fife.

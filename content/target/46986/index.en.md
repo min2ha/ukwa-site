@@ -10,6 +10,4 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# Acadamaidh na Gàidhlig sa‘ Ghearmailt / Deutsches Zentrum für Gälische Sprache und Kultur
-
 Gaelic and Culture centre in Germany.

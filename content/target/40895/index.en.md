@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Maximized
-
 Site of a Scottish graphic artist creating comics and graphic novels with Scots themes.

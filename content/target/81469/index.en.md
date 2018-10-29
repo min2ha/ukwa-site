@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Future trade with the EU: Mutual recognition
-
 This paper examines the different ways in which the term 'mutual recognition' is used in the context of the UK's future relationship with the EU.
 

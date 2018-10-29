@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Art in Scotland TV
-
 Arts channel, reporting contemporary Art in Scotland.

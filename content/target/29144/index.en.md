@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T10:00:00Z"
 }
 
-# ARKive
-
 ARKive is a not-for-profit initiative of the charity Wildscreen. Their mission is to use the power of wildlife imagery to inspire the global community to discover, value and protect the natural world.

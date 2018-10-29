@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Scottish Basketmakers' Circle 
-
 Site of a group set up to promote basketmaking and its allied crafts in Scotland.

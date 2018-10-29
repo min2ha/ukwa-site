@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Into the Wild
-
 festival celebrating nature, life and beauty

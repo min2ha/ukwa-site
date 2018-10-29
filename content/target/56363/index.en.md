@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Catfish and the Bottlemen
-
 Catfish and the Bottlemen are a rock band that were formed in Llandudno, north Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ealing Green Party Candidate Launch 2012
-
 Website of Ealing Green Party, providing information on MEPs and London Assembly members, campaigns, local issues and local and national news.

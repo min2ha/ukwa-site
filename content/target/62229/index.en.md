@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sincil Bank Stadium
-
 Sincil Bank is a football stadium in Lincoln, England which has been the home of Lincoln City since 1895. Previously, Lincoln City had played at the nearby John O'Gaunts ground since the club's 1884 inception. 

@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Mapa Scotland
-
 Site of a Scottish charity consisting of volunteers dedicated to preserving, publicising and restoring The Great Polish Map of Scotland, known colloquially as “Mapa Scotland”, a monument consisting of a large concrete relief map of Scotland, at Eddlestone, Scottish Borders. Site in Polish and English.

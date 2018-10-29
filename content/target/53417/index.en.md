@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Society for the Protection of Unborn Children: 2017 General Election Campaign
-
 The aim of SPUC's campaign is to help elect MPs who will defend the right to life of unborn children and other vulnerable people.
 

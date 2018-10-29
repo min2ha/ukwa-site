@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrat activists say leaders took them down a centrist blind alley
-
 None

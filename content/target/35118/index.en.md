@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institut francais des relations internationales
-
 Specialized in the rational study of international relations in all their aspects, Ifri works on both regional and crosscutting problems affecting the world today and helps to structure the debate on such subjects. Its policy-oriented research focuses primarily on medium-term trends and engages with actors in four major public spheres: politics, economics, the media, and academia. Over time, its relationships with the corporate sector have taken on ever-greater importance.

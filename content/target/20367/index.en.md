@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hanzala Malik MSP on Facebook
-
 The Facebook page of Hanzala Malik, Labour Member of the Scottish Parliament for Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# BBC News: Great British Bake Off: Mary Berry leaves but Paul Hollywood stays
-
 Mary Berry will not be a judge on The Great British Bake Off when it moves to Channel 4, but Paul Hollywood has said he will remain.

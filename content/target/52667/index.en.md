@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Up Projects
-
 UP Projects curates, commissions and produces contemporary art that explores heritage, identity and place, engaging citizens of London, the UK and across the globe. They work with artists to extend their practice, challenge convention and make space for discussion. They believe in working collaboratively with others to do this.

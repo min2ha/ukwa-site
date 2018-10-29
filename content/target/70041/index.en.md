@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# WNF: Wales Nuclear Forum
-
 The Wales Nuclear Forum is the leading pan-Wales forum, which provides a platform for strategic engagement between the nuclear industry and Welsh-based suppliers. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shetland Folk Festival
-
 Website of an annual folk / traditional music festival taking place throughout the islands of Shetland, featuring local, national and international music.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Nursing and Midwifery Council
-
 The website of the NMC contains information on standards, education and training for nurses and midwives in the UK.

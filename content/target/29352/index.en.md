@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hebden Bridge Arts Festival
-
 Hosts a mixture of internationally acclaimed artists, emergent artists, and fantastic artists

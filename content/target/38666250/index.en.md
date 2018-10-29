@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association (FA), The
-
 Official website of the football governing body in England.

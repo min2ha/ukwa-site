@@ -10,5 +10,3 @@
   "start_date": "2014-01-22T06:00:00Z"
 }
 
-# NHS Health Scotland
-

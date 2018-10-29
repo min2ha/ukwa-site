@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Cameron ends tour of marginals by saying public service defines him
-
 None

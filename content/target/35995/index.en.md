@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Morningside Heritage Association
-
 Site of a hyper local society promoting study into the history of Morningside, south west Edinburgh. 

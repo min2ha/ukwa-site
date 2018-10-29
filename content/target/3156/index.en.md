@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scottish Music Centre (SMC)
-
 Scottish Music Centre (SMC) promotes Scotland's musical culture, tending its history and providing resources for the present and coming generations of Caledonian musicians. 

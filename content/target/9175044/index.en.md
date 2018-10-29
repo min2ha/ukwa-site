@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Truro Cathedral
-
 None

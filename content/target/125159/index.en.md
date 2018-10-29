@@ -10,5 +10,3 @@
   "start_date": "2006-11-21T00:00:00Z"
 }
 
-# Cyfrwng: Media Wales Journal - Cyfnodolyn Cyfryngau Cymru
-

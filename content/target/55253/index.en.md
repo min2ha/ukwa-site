@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gŵyl Hen Linell Bell | Far Old Line Festival
-
 Far Old Line Festival is run by Cwmni Arad Goch. The aim is to hold a big community arts festival in Ceredigion during the summer of 2017. According to the site, 'The festival is about bringing communities and groups together to celebrate the culture of Ceredigion through an exciting series of performances, arts events and workshops.'

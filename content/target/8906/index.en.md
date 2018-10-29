@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Friends of the Earth South Africa reflects on the life of Nelson Mandela
-
 None

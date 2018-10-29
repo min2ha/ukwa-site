@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary's Parish Church
-
 Website of St Mary's Parish Church. 

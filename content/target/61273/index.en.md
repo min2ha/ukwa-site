@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Farming Forum
-
 An online enthusiast community concerned with farming in the UK. Discusses agriculture, weather, cropping, livestock & forage, dairy farming and various other related topics.

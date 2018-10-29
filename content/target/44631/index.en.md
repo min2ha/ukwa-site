@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Jordan Publishing: Competition Law Journal: Brexit special online edition
-

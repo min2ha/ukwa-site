@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Record: David Cameron makes decision on EU referendum: 'If it ain't broke don't Brexit' 
-

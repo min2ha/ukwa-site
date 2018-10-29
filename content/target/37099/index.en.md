@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for Britain- About
-
 The about page of Business for Britain, a group of business people engaged in finding a new EU solution for businessess.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: David Cameron makes another gaffe, 'This election is all about my career … sorry, I mean country'
-
 None

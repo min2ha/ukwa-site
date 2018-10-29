@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Slaves & Highlanders
-
 Spanglefish website dedicated to research of the role of Highland Scots in the slave plantations of Guyana before emancipation.

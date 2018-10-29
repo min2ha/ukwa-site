@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Girls Rock Glasgow
-
 Site of Girls Rock Glasgow, a volunteer run week-long summer school for girls aged 8-16 years old living in Glasgow and the surrounding areas. Part of a franchise of world-wide feminist rock camps, Girls Rock Glasgow consists of music, art, social justice and self-care based workshops.

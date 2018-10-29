@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# NBN Atlas
-
 NBN Atlas is a free online tool hosting the UK's largest collection of biodiversity information enabling data to be shared, analysed and researched.

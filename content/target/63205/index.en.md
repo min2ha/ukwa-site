@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 22nd March 2018: Leaving the EU: NHS
-
 Westminster Hall debate on the impact of Brexit on the NHS.

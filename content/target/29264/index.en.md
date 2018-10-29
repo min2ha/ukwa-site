@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Swn Festival
-
 Cardiff Music Festival.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Côr Meibion Colwyn
-
 Côr Meibion Colwyn is proud of its long history recognising that there has been a choir in its home village of Colwyn since the 1890′s.

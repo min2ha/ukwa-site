@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Edinburgh Sees Syria on Facebook
-
 This is a Facebook event page for a candlelight vigil held outside the Scottish Parliament, for people who have died fleeing the Syrian war.

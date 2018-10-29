@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Team Badger
-
 Coalition of national, local and grassroots animal and wildlife welfare organisations opposed to the government's policy of culling badgers.

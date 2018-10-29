@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Daran Hill (@DaranHill) on Twitter
-
 Daran Hill is a Welsh Poliical lobbyist and commentator.

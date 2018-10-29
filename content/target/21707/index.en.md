@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Many Scots will vote SNP hoping to help Labour rediscover its soul
-
 None

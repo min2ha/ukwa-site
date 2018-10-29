@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Never mind Labour, where do the Liberal Democrats go from here?
-
 None

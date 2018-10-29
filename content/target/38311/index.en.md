@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Counterfire: A revolt against Empire: the 1916 Easter Rising
-
 Article by Chris Bamberry, attempting a socialist portrayal of the Easter Rising.

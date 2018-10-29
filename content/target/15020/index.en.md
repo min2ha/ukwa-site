@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ein Caerdydd
-
 <p>Ein Caerdydd (Our Cardiff) is a blog focusing on local issues. In Welsh.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Don’t let Ed Miliband sink this country with his commie slab of rock
-
 None

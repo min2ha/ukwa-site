@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Election 2015: David Cameron launches dirty tricks campaign against Ed Miliband 
-
 None

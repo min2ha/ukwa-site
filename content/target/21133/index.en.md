@@ -10,6 +10,4 @@
   "start_date": "2015-04-11T09:00:00Z"
 }
 
-# E-TARD The LifeCaster 
-
 Website is a blog, live webcam feed and IRC chat room.

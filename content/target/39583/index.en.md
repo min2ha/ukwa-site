@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jeremy Miles on Facebook (Labour candidate for Neath)
-
 Jeremy Miles is the Labour Assembly candidate for Neath at the 2016 National Assembly for Wales election. 

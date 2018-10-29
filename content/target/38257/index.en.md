@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LSE Campaign UK in EU (@LSE_UKinEU) on Twitter
-
 Official Political Campaign of LSE students for the UK's continued membership of the EU. 

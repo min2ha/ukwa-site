@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Showtime
-
 SHOW TiME is an artist-led weekend of experimental performance. During 2011 and 2012 they presented the work of more than 30 artists at three events in London. 

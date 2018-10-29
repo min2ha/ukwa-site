@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Tower Benefit Concert
-
 A listing for the gala of opera, song and choral music presented by Petroc Trelawny, an event to help raise funds for the Grenfell Tower disaster.

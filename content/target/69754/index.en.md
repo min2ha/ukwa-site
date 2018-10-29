@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Rich, reckless Brexit zealots are fighting a new class war
-

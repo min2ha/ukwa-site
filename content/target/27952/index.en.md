@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Joint Information Systems Committee (JISC)
-
 Official website of a registered charity which champions the use of digital technologies in UK education and research.

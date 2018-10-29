@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Green Building Council (UK-GBC): UK-GBC Announces Key Manifesto Recommendations
-
 In the run-up to the 2017 general election, the UK Green Building Council (UK-GBC) announced its key policy recommendations for the next UK Government.
 

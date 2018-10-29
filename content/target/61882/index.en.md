@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on the EU draft withdrawal agreement: exposing Theresa May’s leadership void
-

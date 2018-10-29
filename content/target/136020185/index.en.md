@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wigan Borough LINk
-
 None

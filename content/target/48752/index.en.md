@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Association for Nutrition
-
 The Association for Nutrition (AfN) defines and advances standards of evidence-based practice across the field of nutrition and at all levels within the workforce. They protect and benefit the public by:
 
 •Championing Registrants (ANutrs/RNutrs) whose entry onto the UK Voluntary Register of Nutritionists (UKVRN) is an assurance that they meet our rigorous standards of competence and professionalism.

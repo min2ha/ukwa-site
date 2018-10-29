@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Focus on Forestry First
-
 Focus on Forestry First is funded by Welsh Assembly Government and the European Union and offers the Welsh Forestry, Trees and Timber sector the opportunity to develop their businesses. 

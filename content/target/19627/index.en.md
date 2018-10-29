@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brighton & Hove Conservatives
-
 Website of Brighton & Hove Conservatives, providing information on representatives and candidates for parliament and local council, local and national news updates.

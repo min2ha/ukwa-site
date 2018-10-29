@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Chuka Umunna: I would not buy Labour's immigration controls mug
-
 None

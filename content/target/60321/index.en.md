@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joe: New laws are being introduced that will change how people watch porn
-
 News article about new laws being introduced for age verification when viewing porn

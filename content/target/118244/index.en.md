@@ -10,5 +10,3 @@
   "start_date": "2006-03-09T00:00:00Z"
 }
 
-# www.pynci.tv: Hyrwyddo Rhwydweithiau Ieuenctid yn y Diwydiannau Diwylliannol - Promoting Youth Networks in the Cultural Industries
-

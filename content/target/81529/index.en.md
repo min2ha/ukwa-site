@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# London School of Economics (LSE) Blog: Changing parenting roles for transforming gender
-
 A blog on the LSE department of gender studies site about changing parenting roles for transforming gender

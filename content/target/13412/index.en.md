@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mark McDonald (@markmcdsnp) on Twitter
-
 <p>The twitter profile of Stewart Maxwell, the Scottish National Party Member of the Scottish Parliament for West Scotland and candidate for Aberdeen Donside in the 2016 Scottish Parliamentary election.</p>

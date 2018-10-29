@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# British Allied Trades Federation 
-
 Federation covering associations for giftware, jewellery and travel goods trades. 

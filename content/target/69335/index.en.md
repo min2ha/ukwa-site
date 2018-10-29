@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary of the Assumption
-
 Site of a Scottish Roman Catholic parish church located in Calton, Glasgow.

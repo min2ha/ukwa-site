@@ -10,6 +10,4 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Sgwrs Caerdydd | Cardiff Debate
-
 The Cardiff Debate is a 3 year consultation about planning, prioritising and providing public services in Cardiff.  It will involve local people and communities in shaping the future of public services in the city. 

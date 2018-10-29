@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Gizmodo UK
-
 Gizmodo is a design, technology, science and science fiction website that also features articles on politics.

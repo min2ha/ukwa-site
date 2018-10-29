@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Universities deplore ‘McCarthyism’ as MP demands list of tutors lecturing on Brexit
-

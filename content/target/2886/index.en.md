@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# LSE Impact of Social Sciences blog
-
 <p>The London School of Economics Impact of Social Sciences blog discusses pressing issues of policy, pedagogy and research.</p>

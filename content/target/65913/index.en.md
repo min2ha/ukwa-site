@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Arts Connection
-
 An independent arts charity working in all art forms with all ages and abilities 

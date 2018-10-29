@@ -10,8 +10,6 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-#  Wye Catchment Partnership
-
 Wye Catchment Partnership was established in 2014 and brings together
 organizations, initiatives and individuals who have a common interest in
 the river Wye and facilitates collaborative working.

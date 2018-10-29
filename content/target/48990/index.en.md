@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Purple and quavery, Clarke let out a pitiful harrumph - and was clapped by Labour: QUENTIN LETTS watches the parliamentary Brexit process get under way  
-

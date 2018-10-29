@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Bromwich Albion Women (@WBAWomen) on Twitter
-
 Official Twitter account of @WBA Football Club Women’s 1st Team.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit: Implications for UK Pension Schemes
-
 Once the UK has left the EU, all its obligations under the various EU treaties will cease to apply. However, in relation to occupational pension schemes, the legal and practical day to day operation of such schemes will remain largely unchanged.

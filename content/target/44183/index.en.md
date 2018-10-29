@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Museum of Islay Life / Taigh-tasgaidh Muinntir Ile
-
 Site of a museum located in Port Charlotte, Islay, Argyll & Bute.

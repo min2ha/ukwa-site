@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: CBI president Paul Drechsler says business leaders 'should' go on the record on where they stand
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Curb your cynicism: politicians do keep their manifesto promises
-
 None

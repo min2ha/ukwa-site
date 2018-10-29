@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln's Magna Carta to go on display at the House of Lords in London
-

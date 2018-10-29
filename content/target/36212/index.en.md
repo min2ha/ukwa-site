@@ -10,6 +10,4 @@
   "start_date": "2016-03-01T09:00:00Z"
 }
 
-# Just Trading Scotland
-
 Site for a fair trade organisation based in Paisley promoting produce from Malawi, Sri Lanka, Swaziland, South Africa, Kenya, Ecuador and India.

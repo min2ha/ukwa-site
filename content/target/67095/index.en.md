@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Detour
-
 Site of Detour, a Glasgow-based music blog, podcast producer and live event promoter.

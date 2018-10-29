@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Tain Through Time
-
 Site of a museum of the area in and around Tain, Highland, Scotland.

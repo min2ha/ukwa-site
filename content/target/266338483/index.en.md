@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Hendrecoed North Wales Mining History
-
 <p>'The Hendrecoed north Wales mining history website is a project to document and make public some aspects of the mining history and associated industrial archaeology of north Wales. ' - website.</p>

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# New Statesman: Mark Thomas articles
-
 Mark Thomas' articles written for the New Statesman

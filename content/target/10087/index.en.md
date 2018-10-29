@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Lord Ashcroft Polls
-
 Website of Conservative peer Michael Ashcroft KCMG, providing details and analysis of political polling. The website also provides access to reports written by Lord Ashcroft, including 'Smell the Coffee: A wake-up call for the Conservative party' (written following the 2005 general election) and 'Minority Verdict' (following the 2010 election).

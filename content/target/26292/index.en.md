@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Newyddion Addysg Grefyddol | Religious Education News
-
 This website which incorporates the former journal RE News is a joint venture between the University of Wales Trinity Saint David and Bangor University.  

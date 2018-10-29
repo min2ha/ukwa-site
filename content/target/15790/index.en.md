@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Sam Smith 
-
 <p>'Sam Smith books plus Original Plus publications and The Journal' website gives details of the publications, links for other writers, and an occasional blog called Hate Mail.</p>

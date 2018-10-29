@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# International Growth Centre (IGC): Population-Based Surveys to Inform Ebola Recovery
-
 <p>Information about research project run by the International Growth Centre (IGC).</p>

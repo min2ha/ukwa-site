@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: The UK and Ireland
-
 This House of Lords Library briefing provides background to two key areas identified as being potentially affected by the UK’s withdrawal from the EU. The first area is peace and security, which encompasses the peace process signed following the 30 year conflict in Northern Ireland (commonly referred to as ‘the Troubles’), border controls and the Common Travel Area. The second area is trade, particularly the bilateral trade relationship between UK and Ireland. This briefing examines the current peace and security, and trade situation, and discusses the potential implications of the UK leaving the EU, drawing upon commentary from UK and Irish heads of governments, political parties, think tanks and organisations

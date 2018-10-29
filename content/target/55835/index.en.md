@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tony Blair says EU could compromise on freedom of movement
-
 Ex-Prime Minister Tony Blair told the Today programme that  option for Britain to stay within a reformed EU could be open. The ex-PM said he would not disclose conversations he had had in Europe - but insisted he was not speaking "on a whim".
 

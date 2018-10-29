@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Kelly – Standing up for Rutherglen, Cambuslang, Halfway and Blantyre
-
 James Kelly is the Scottish Labour and Co-operative candidate for Rutherglen in the 2016 Scottish Parliamentary election.

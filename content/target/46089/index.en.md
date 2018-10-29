@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Grŵp Cydweithredol Gofal Iechyd y Canolbarth | Mid Wales Healthcare Collaborative 
-
 The Mid Wales Healthcare Collaborative is responsible for delivering a single integrated change programme, with full public and professional participation, which addresses the delivery of social care, primary care and specialist care as an integrated continuum, provided as close to home as possible. 

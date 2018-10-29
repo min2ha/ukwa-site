@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Cambridge Econometrics: Preparing for Brexit
-
 Cambridge Econometrics’ study ‘Preparing for Brexit’ for London Mayor Sadiq Khan gives unique insight into the local economic impacts of the UK’s exit from the European Union.  The report, which is the first comprehensive assessment of Brexit across key indicators and sectors at a sub-national level reveals a spread of impacts under five different scenarios, ranging from a status quo (where the UK remains in the single market and customs union) to an extreme no-deal (WTO rules) outcome.
 
 

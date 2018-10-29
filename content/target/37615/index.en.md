@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The Sun argues Queen 'statistically likely' to back Brexit amid calls for inquiry into contested report
-

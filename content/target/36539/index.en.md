@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The EU is a political project founded by a former communist, Iain Duncan Smith says
-

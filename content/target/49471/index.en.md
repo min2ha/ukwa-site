@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tibet Society 
-
 The Tibet Society was founded in 1959, within weeks of the flight of the Dalai Lama from Tibet following the uprising against China's occupation, Tibet Society became the world’s first ever Tibet support group.

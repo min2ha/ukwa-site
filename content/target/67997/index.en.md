@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Motor Show Events
-
 Website for the Motor Show Events

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Zero chance EU citizens in UK will keep same rights post-Brexit, says expert
-

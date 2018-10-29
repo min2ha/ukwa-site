@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sandyhills Parish Church
-
 Site of a Church of Scotland parish church at Ballieston, Glasgow.

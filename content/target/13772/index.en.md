@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Informed Scots
-
 <p>A Referendum information site created by members of the Scottish business community, dedicated to taking a non-political approach to informing businesses and the public.</p>

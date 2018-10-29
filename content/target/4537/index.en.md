@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Celebrating the life of Nelson Mandela and saying goodbye (Facebook)
-
 <p>Facebook event page set up by Action for South Africa for a vigil to mark the passing of Nelson Mandela. The vigil was held outside South Africa House, Trafalgar Square, London at 6pm on Friday 6 December 2013. The page also includes messages of support and condolence.</p>

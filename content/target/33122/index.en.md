@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Canolfan Hyfforddi Ddoethurol Cymru | Wales Doctoral Training Centre (DTC) 
-
 The Wales Doctoral Training Centre (DTC) trains social scientists across Wales on a range of issues affecting society today and is a collaboration between Aberystwyth, Bangor, Cardiff (lead institution), and Swansea Universities. 

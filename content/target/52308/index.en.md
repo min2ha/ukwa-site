@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Women2Win
-
 Women2Win is a broad cross section of men and women from the Conservative Party who came together in recognition that the Party needed to be more representative of the British People. Their mission is to ensure the Conservative Party fairly represents women at all levels of politics.

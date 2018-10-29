@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rory Daniels Llanell (@RoryDanielsLD) on Twitter
-
 Rory Daniels is the Liberal Democrat Parliamentary Candidate for Llanelli at the 2017 General Election.

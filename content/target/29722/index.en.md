@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Warwick: BookFest 
-
 The Festival is held at Warwick Arts Centre, on the University of Warwick campus and is supported by the University of Warwick Bookshop. The Festival is run by the Institute of Advanced Study.

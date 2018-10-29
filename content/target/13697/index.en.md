@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Highland Council, The: The Scottish Independence Referendum
-
 None

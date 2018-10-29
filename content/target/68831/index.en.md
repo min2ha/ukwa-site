@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Metro: World Cup 2018
-
 World Cup - Latest news on Metro UK

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Orange Order (@OrangeOrder) on Twitter
-
 The official Twitter feed of the Grand Orange Lodge of Ireland.

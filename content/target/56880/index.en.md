@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South St. Nicholas Church
-
 Site of a Church of Scotland parish church located in South Aberdeen.

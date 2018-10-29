@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Politics Home: Law Society and Bar Council welcome Global Law Summit 2015
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband pledges 80,000 extra apprenticeships a year in England
-
 None

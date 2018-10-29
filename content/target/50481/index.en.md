@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Hope in the Valley: Riding for the Disabled Group
-
 Hope in the Valley was founded in 1968 by Mary Gethen, a night nurse at Chailey Heritage who also ran her own riding school. Her experiences as a nurse gave her the vision of what could be achieved by encouraging disabled children to ride a horse.

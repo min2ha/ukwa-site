@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# MS Society Cymru: 2016 Election Manifesto
-

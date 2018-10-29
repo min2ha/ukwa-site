@@ -10,5 +10,3 @@
   "start_date": "2018-08-31T09:00:00Z"
 }
 
-# Forward As One
-

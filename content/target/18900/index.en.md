@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Appeal for return of Magna Carta to Runnymede
-

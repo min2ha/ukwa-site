@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Church of England: The General Election, June 8th 2017
-
 The Archbishops of Canterbury and York  raise concerns about housing, the NHS and poverty in a general election letter to Anglican churchgoers.
 

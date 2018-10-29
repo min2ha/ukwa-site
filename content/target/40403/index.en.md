@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Jordan Rees
-
 Jordan Rees is a Welsh composer whose music is used in blockbuster film trailers and by major UK television broadcasters including BBC, ITV, SKY, Channel 4 and Channel 5.

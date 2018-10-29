@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg to decry prison numbers as Lib Dems lay out justice policy
-
 None

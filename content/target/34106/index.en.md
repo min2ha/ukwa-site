@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: DOMINIC LAWSON: Britain less secure outside the EU? How does the PM keep a straight face?  
-

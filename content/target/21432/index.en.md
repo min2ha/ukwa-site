@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage blames Muslim 'fifth column that want to kill us' for immigration fears in UK
-
 None

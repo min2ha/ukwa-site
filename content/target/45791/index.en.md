@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# British Library Catalogue of Illuminated Manuscripts
-
 A proposed generous interface for the British Library's catalogue of illuminated manuscripts, created as a final project for a Computer Science degree.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# UK Tech News (UKTN)
-
 About the tech industry, for the tech industry, UKTN is a resource for the latest UK tech news, views, information, data and events.

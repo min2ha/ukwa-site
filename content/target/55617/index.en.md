@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Full-Bore UK Forum
-
 An online enthusiast forum concerned with shooting and gun ownership in the UK. Discusses emergency planning, hunting and fishing, lists of vendors and various other topics.

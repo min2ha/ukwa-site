@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Faclan – Hebridean Book Festival
-

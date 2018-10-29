@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Taylor
-
 The site contains many first hand reports of local events in Cambridge. It provides a historical record of events in the city over the last decade or so. It is also a personal website, it presents material from the author's perspective. 

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Norwich City Council
-
 Website of Norwich City Council provides local news, information on council activities and services, planning and policy documents, and committee agendas and papers

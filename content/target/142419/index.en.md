@@ -10,6 +10,4 @@
   "start_date": "2009-05-18T00:00:00Z"
 }
 
-# Food Dudes
-
 Increasing children's consumption of fruit and vegetables.

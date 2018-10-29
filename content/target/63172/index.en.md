@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Wired UK: Stephen Hawking
-
 Wired UK, articles relating to Stephen Hawking

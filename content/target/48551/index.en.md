@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Ascension Island Travel Agency  
-
 Ascension Island Travel Agency website, they offer the only available flight bookings to Ascension Island.

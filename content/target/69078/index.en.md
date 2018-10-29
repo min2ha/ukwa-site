@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Globe, The: Football
-
 An alternative commentary to the England vs. Colombia World Cup match on 3 July 2018.

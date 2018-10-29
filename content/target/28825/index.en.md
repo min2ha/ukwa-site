@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Transition Heathrow
-
 Transition Heathrow is a grassroots action group working to build resilient Heathrow communities, capable of collectively coping with the injustices and threats of the economic, ecological and democratic crises

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wells Festival of Literature 
-
 The Festival was set up in 1992 with help from a number of public bodies (including Wells, Mendip, and Somerset Councils, and Clarks Shoes) and private individuals.

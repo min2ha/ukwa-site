@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderstones Foundation Trust 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Subrosa
-
 "A Dundee Wifey's view of Scottish Politics."

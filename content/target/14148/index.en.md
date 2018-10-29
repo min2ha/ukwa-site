@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Centre for Policy Studies: Oil, Finance and Pensions: Why Scots should say no
-
 <p>Report from the centre-right think tank Centre for Policy studies, written by Tim Morgan and published in September 2014. The report describes four economic risks that would arise as a result of Scottish independence.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Royal Glasgow Institute of the Fine Arts
-
 Site of an organisation promoting and encouraging Scotland’s contemporary art and artists.

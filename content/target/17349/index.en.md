@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Balls: Mansion tax won't be 'crude'
-
 None

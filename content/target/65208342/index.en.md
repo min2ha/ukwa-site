@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Digital Botanic Garden, A
-
 None

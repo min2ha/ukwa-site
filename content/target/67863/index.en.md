@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Persain
-
 Persain is a ladies’ choir based in Carmarthenshire. It was formed in  2000 and has around 26 singers. 

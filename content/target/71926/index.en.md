@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Keynsham Rugby Football Club
-
 The official website of Keynsham Rugby Football Club.

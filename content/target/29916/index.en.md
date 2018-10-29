@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Angry Microwave, The: Comedy
-
 Comedy section of 'The Angry Microwave' website, which offers reviews, interviews and news relating to comedy, as well as gaming, film, music and theatre.

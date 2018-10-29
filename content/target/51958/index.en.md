@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Enfield Evangelical Free Church
-
 Enfield Evangelical Free Church is a Jesus-centred, Bible-teaching church in Enfield Town.

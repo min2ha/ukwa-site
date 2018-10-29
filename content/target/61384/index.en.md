@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Cultural Centre
-
 The Russian Cultural Centre opened in Glasgow 1998 with the aim of bringing Russian culture to Glasgow and Scotland. 

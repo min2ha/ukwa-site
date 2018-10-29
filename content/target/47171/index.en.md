@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Network for Peace
-
 Network for Peace was set up to continue the work of the National Peace Council, one of the oldest peace organisations in the UK.

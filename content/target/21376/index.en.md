@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zara Kitson | Website and blog of Zara Kitson
-
 Zara Kitson is the Scottish Greens candidate for the Glasgow list in the 2016 Scottish Parliament election.

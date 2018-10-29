@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blandford Evangelical Church
-
 Blandford Evangelical Church is a vibrant family church in the heart of Blandford Forum.

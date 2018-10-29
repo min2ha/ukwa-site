@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Green Party (@islingtongreens  ) on Twitter
-
 Official Twitter account of the Islingtom Green Party, working for better housing, a fairer society and a greener Islington. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institut für Europäische Politik 
-
 Since its foundation in 1959, the Institute for European Politics (IEP) has been a non-profit organization dedicated to the study of European integration. It is one of the leading foreign and European policy research centres in the Federal Republic of Germany and serves as a forum for exchange between academia, politics, administration and political education.

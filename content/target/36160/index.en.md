@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Greene | for Cunninghame North
-
 Jamie Greene is the Scottish Conservative and Unionist Party candidate for Cunninghame North constituency in the 2016 Scottish Parliament election.

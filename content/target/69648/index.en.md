@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# South Stack Lighthouse
-
 South Stack Lighthouse was built by Trinity House in 1809, marking a tiny islet off Anglesey. It was newly reopened for 2017 and is now a visitor centre.

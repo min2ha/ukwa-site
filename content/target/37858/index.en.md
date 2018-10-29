@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Felix Aubel (Dr @AubelFelix) on Twitter (Conservative candidate for Ceredigion)
-
 Dr Felix Aubel is the Conservative candidate for Ceredigion at the 2016 National Assembly Elections. 

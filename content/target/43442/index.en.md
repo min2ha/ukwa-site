@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# РБК - РосБизнес Консалтинг: Уйти по-английски: чего ждать от референдума о выходе Британии из ЕС
-
 Article on Russian news site about exit of the UK from EU: "English style leave: what to expect from the referendum on Britain leaving EU "

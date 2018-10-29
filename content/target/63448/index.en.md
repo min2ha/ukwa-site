@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 28th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on securing continuing EU citizenship for British citizens, the role of the European Court during the transitional period, government powers to modify retained EU law, and the repeal of the European Union Act 2011.

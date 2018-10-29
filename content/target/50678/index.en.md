@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# IPS Group Services
-
 Industrial Pipefreezing Services Limited (IPS) is one of the UK’s premier providers of on-site and on-line pipeline maintenance.

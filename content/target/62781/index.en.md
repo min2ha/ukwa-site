@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Cardiff Community Learning Network (CCLN) 
-
 The Cardiff Community Learning Network (CCLN) was established in 2005 to oversee the development of the Adult Community Learning (ACL) Partnership across Cardiff.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 2017 UK General Election, The
-
 News, Insight and Analysis on the 2017 UK General Election

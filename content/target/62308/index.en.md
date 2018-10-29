@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ipswich Town Football Club
-
 Ipswich Town Football Club also known as Ipswich, The Blues, Town, or The Tractor Boys) is a professional association football club based in Ipswich, Suffolk, England.

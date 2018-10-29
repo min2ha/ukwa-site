@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Quaker Service
-

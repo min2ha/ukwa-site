@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steven Winstone (@steven_winstone) on Twitter (Social Democratic Politician)
-
 Steven Winstone stood as the Social Democratic Party candidate for Sheffield, Hallam in the 2017 General Election but was not elected.

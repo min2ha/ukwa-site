@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Beyond Brexit: Britain and the global economy
-
 Liam Fox speech at the Graduate Institute in Geneva highlights the importance of free trade to the global economy. For the UK, departure from the European Union is about setting our sights wider, and embracing the realities, and opportunities, of globalisation.

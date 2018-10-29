@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Patrick Grady (@GradySNP) on Twitter
-
 Twitter profile of Patrick Grady, Scottish National Party candidate for Glasgow North in the 2017 general election.

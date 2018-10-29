@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Melin Tregwynt
-
 Melin Tregwynt is a Grade II listed woollen mill located in Granston, Pembrokeshire The mill today makes a line of upmarket blankets, cushions, clothing and accessories.

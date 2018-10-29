@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Disability News Service: Disabled people’s manifesto calls for ‘drastic change of EU policy’
-
 None

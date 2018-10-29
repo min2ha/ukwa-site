@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Agincourt 600 Wales - Cymru
-
 Agincourt 600 Wales - Cymru commemorates Wales’s role in the Battle of Agincourt.

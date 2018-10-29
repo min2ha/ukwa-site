@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mari Arthur (@MariArthur) on Twitter
-
 Mari Arthur is the Plaid Cymru candidate for Llanelli at the 2015 General Election.

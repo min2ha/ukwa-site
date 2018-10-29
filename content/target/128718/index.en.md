@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Ulster Folk and Transport Museum
-

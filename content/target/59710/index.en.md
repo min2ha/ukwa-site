@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Just seven words are keeping a Brexit deal afloat for all sides
-

@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Ospreys Supporters Choir
-
 The Ospreys Supporters Choir was originally formed as part of the 2006 ‘Codi Canu’ television programme, which brought rugby supporters from across Wales together in a singing competition.

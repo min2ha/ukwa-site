@@ -10,5 +10,3 @@
   "start_date": "2012-12-10T00:00:00Z"
 }
 
-# Assessment Careers: enhancing learning pathways through assessment
-

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computer Science Schools Support
-
 The School of Computer Science Teacher Support  at the University of Manchester provides courses designed to enable teachers of ICT and Computing to access support and advice from the University academics.

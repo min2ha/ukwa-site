@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robert Malyn (@RobertMalyn) on Twitter
-
 Twitter profile of Robert Malyn, the United Kingdom Independence Party (UKIP) list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

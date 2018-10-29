@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Kilsyth Church of God
-

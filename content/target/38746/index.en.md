@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona Dugdale (@FionaDugdale1) on Twitter
-
 Twitter profile of Fiona Dugdale, the Scottish Labour candidate for Midlothian South, Tweeddale and Lauderdale in the 2016 Scottish Parliamentary election.

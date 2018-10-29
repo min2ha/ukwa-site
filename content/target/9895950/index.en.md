@@ -11,5 +11,3 @@
   "subject": "Britishness"
 }
 
-# Banksy
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# John Lawrie Group Limited
-
 The website of John Lawrie Group Limited, a scrap metal reprocessing and decommissioning company based in Aberdeen, Scotland. 

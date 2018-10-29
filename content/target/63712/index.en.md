@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Monkton and Prestwick North Church
-

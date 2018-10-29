@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The British Psychological Society (BPS): Children, young people and mental health: communicating in an online world
-
 Blog post covering an event at the House of Commons, on Children, Young People and Mental Health: Communicating in an Online World. This event marked the collaboration between the British Psychology Society (BPS) and the Mental Health Foundation (MHF) and aimed to bring together parliamentarians, practitioners and policy makers interested in children and young people and the impact of social media and digital technology, on their mental health

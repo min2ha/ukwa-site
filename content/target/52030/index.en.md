@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Lab of Insurrectionary Imagination
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Conservative Home: Selection results published for European election regional lists
-
 None

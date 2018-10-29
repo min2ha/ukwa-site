@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Literateur, The
-
 An online magazine publishing original short fiction and poetry, alongside interviews, reviews and articles on contemporary literature.

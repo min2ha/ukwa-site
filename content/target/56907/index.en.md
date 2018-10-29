@@ -10,5 +10,3 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# North Wales Association of Male Voice Choirs | Cymdeithas Corau Meibion Gogledd Cymru
-

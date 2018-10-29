@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chelmsford Borough Council: Chelmsford and the London 2012 Games
-

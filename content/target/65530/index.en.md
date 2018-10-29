@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Heritage Trust Network
-
 Site of a network of heritage organisations operating throughout the United Kingdom, drawing together and supporting the work of local heritage groups, whether constituted as building preservation trusts, community trusts or social enterprises.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Atmospheric Dispersion Modelling Methods
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Morriston Big Band
-
 Morriston Big Band (MBB) was established in 1995. Its main ethos is to ensure 'Big Band' music and traditions live on.

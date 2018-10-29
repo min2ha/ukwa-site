@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# bloc
-
 bloc is a Wales-based organisation and international hub of creators, producers, makers and thinkers supporting creative uses of technology.

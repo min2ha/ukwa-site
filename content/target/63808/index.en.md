@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dull and Weem Parish Church
-

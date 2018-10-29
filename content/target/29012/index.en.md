@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Canterbury & Coastal Liberal Democrats
-
 Website of Canterbury & Coastal Liberal Democrats, providing information on representatives. candidates and Local Focus Teams and Canterbury and Coastal, Kent and National news.

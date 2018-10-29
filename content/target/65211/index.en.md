@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Dragondaze
-
 Dragondaze is a Convention & Mini Comic Con based in the town of Newport. 

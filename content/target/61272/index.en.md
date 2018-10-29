@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Curious Edinburgh
-
 Blog outlining walking tours of Edinburgh which highlight its scientific, medical and technological heritage.

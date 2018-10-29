@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Big 'end state' Brexit discussion looming for PM
-
 Theresa May's Cabinet is split between proponents of soft and hard Brexit. They will very soon have to decide finally which route to take.

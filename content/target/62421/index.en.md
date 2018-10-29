@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Pall Mall Barbers
-
 Established in 1896, Pall Mall Barbers’ four London barbershops offer a traditional men’s grooming service in a modern manner.

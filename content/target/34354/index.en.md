@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Cameronians Scottish Rifles museum collection
-
 Site of the museum dedicated to the Cameronians (Scottish Rifles) former rifle regiment of the British Army, associated with Lanarkshire Scotland.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Ateb Group, The
-
 The Ateb Group is a Pembrokeshire Housing Association and the parent company to Mill Bay Homes, West Wales Care and Repair and Effective Building Solutions. It is a registered social landlord and member of Community Housing Cymru.

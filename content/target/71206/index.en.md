@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bucs UK Fan Club, The
-
 The Bucs UK Fan Club was formed in December 1984 with an initial six members. Since that date, we have been officially recognised by the Buccaneer franchise and have enjoyed huge support and a fantastic working relationship with them for which we continue to be grateful.

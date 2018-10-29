@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Government Web Archive
-
 UK Government Web Archive run by the National Archives is preserving UK government information published on the web.

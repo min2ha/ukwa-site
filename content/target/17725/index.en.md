@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: DUP: BBC has done nothing to break election debate deadlock
-
 None

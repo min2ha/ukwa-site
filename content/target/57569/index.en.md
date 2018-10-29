@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Create at NEST
-
 Site of an organisation providing affordable work studios plus workshop, teaching and meeting space for artists, crafters and makers within our local community, all within an open plan environment.

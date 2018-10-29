@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Shetland Family History Society
-
 Site of a genealogy society based in Lerwick, Shetland, providing information and advice to members on their Shetland family history.

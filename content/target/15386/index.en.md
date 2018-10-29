@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Wye Valley Arts Society
-
 <p>They are a society of amateur and professional artists in the Wye Valley area whose roots go back to 1906.</p>

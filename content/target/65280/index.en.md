@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tranmere Rovers Trust
-
 The Trust was formally brought into existence as an Industrial and Provident Society in May 2002. This is a similar model to the other supporters’ trusts round the UK that have been set up under a structure developed by Supporters Direct.

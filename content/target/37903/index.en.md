@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# British Ecological Society: EU referendum
-

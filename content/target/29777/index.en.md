@@ -10,6 +10,4 @@
   "start_date": "2015-08-13T10:00:00Z"
 }
 
-# Read On, Get On
-
 Read On, Get On is a UK charity promoting reading among children. Their mission is to make sure that by 2025, every child is a confident reader by age 11.

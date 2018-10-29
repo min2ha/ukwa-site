@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Bungling Tories leak list of seats they expect to lose in General Election
-
 None

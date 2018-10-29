@@ -10,5 +10,3 @@
   "start_date": "2006-05-22T00:00:00Z"
 }
 
-# Coalition for Networked Information
-

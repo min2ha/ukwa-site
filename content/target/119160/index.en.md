@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Live Life Then Give Life
-
 The charity exists to improve education and awareness of organ donation and to fund projects that increase the numbers of successful transplants in the UK.

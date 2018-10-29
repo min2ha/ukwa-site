@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Artmap Argyll
-
 Directory of artists working in Argyllshire Scotland.

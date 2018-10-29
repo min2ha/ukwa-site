@@ -10,5 +10,3 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Meliden | Gallt Melyd
-

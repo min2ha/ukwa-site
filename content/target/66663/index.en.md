@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Roslin BioCentre
-
 Roslin BioCentre is a group of life sciences companies and organisations based with in the Midlothian Science Zone outside Edinburgh.

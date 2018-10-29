@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Live at Leeds
-
 Website for the Live at Leeds festival.

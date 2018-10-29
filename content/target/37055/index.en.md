@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: No regret over EU comments, says former BCC chief
-
 BBC News: No regret over EU comments, says former BCC chief

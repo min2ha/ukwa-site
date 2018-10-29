@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Durham in Time
-
 None

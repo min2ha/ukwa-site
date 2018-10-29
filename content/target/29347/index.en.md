@@ -10,6 +10,4 @@
   "start_date": "2015-07-27T10:00:00Z"
 }
 
-# Harrogate Literature Festival
-
 Raworths Literature Series

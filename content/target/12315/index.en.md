@@ -10,6 +10,4 @@
   "start_date": "2014-07-04T07:00:00Z"
 }
 
-# Secret Leeds
-
 None

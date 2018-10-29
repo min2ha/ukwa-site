@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equality Network: Parenting
-
 A subsection of the Equality Networking that outlines the legal situation around parents and children 

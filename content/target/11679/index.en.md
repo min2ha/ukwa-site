@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jak Scott (jak_scott) on Twitter
-
 <p>The twitter profile of althete Jak Scott, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

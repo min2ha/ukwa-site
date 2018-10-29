@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# George Trubody on Facebook (Independent Candidate for South East Cornwall) 
-

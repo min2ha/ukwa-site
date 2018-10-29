@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# HM Government: Why the Government believes that voting to remain in the European Union is the best decision for the UK
-

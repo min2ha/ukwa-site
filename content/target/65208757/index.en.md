@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gorgs4Gold - Georgina Geikie
-

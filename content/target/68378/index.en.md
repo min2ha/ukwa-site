@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Artists for Brexit (@artists4brexit ) on Twitter
-
 Twitter feed of a nonpartisan voluntary association and network of artists, arts workers and arts enthusiasts who support the process of securing independence for the UK

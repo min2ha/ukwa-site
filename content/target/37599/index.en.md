@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Study UK
-
 Study UK is the national association for independent providers of higher education, further education and professional training

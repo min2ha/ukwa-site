@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Unlock Democracy: Event: Unlock Magna Carta Launch
-

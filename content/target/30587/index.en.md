@@ -10,5 +10,3 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Institute of Neurology, University College London
-

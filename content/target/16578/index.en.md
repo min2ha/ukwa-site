@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Parties warned over repercussions of hung parliament after general election
-
 None

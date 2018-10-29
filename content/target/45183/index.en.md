@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Farage at Trump rally: 'I wouldn't vote for Clinton if you paid me'
-
 Trump described Brexit as a bid for autonomy and drew parallels to his own campaign, declaring a Trump presidency would bring ‘American independence’

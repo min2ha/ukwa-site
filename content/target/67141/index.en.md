@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Scotsman, The: Brian Monteith:  Poor strategy leaves May scrambling over genuine Brexit 
-
 The Prime Minister’s strategy of going out of her way to seek a trade deal, rather than starting from the position of how we could be economically successful without one (like many other prosperous trading nations) and focusing on transitional arrangements towards relying upon WTO rules, has left her at the mercy of the EU negotiators who have dictated her agenda and extracted compromises when none should have been necessary.

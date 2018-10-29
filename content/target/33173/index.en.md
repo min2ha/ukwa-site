@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Joint Improvement Team, The (JIT)
-
 A strategic improvement partnership between the Scottish Government, NHSScotland, COSLA (Convention of Scottish Local Authorities) and the Third, Independent and Housing Sectors.

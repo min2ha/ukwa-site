@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter McColl's Blog
-
 Blog of Peter McColl, Scottish Green Party list candidate for Lothian region in the 2016 Scottish Parliamentary election.

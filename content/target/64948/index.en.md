@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Charlton Morris
-
 Charlton Morris is a new breed of global executive search and selection consultancy.

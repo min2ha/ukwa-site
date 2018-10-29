@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC Scotlandshire
-
 <p>Site satirising the BBC and its role in the Scottish referendum, as well as others in the No Thanks / Beter Together campaign.</p>

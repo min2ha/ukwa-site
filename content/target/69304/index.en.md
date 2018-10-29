@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Angling Advisory Service, the
-
 Angling advisory service for Skye and Wester Ross.

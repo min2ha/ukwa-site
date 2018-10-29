@@ -10,5 +10,3 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Perthshire & Angus Provincial Mod - Aberfeldy Mod
-

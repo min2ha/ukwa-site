@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# York Vision: Arguing why York is better off in the EU
-
 No issue looks set to unite people across the political spectrum more than Britain’s EU Membership Referendum. 

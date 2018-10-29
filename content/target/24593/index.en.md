@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Samantha Cameron is twice as popular as other leaders' wives, says poll
-
 None

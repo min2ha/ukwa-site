@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron joins forces with former union leader Brendan Barber urging UK to vote remain
-

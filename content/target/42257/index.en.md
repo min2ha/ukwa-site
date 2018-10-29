@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC: Euro 2016 on BBC TV, Radio and Online
-
 BBC press release on their coverage for Euro 2016.

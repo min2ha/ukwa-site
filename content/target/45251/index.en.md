@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# VisitAberdeenshire
-
 Site of an organisation promoting tourism in Aberdeen and Aberdeenshire.

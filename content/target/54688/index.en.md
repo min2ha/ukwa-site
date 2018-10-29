@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After this result, a Tory cabal cannot be allowed to negotiate Brexit alone
-

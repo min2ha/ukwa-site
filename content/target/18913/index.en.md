@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Hereford Cathedral displays copy of 1217 Magna Carta
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mactaggart & Mickel Homes: Swimmers
-
 A pair of short blogs, written by swimmers sponsored by Mactaggart & Mickel Homes, Mark Deans and Andrew Mullen.

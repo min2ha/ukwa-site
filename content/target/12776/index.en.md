@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# North East Folklore Archive (NEFA)
-
 The North East Folklore Archive (NEFA), is a cultural resource created for the study and appreciation of the traditions and social history of Aberdeenshire, Scotland. 

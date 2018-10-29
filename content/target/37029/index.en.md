@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Prestoungrange Online
-
 Site of a community portal based in Preston Pans, East Lothian Scotland

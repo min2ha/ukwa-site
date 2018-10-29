@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE (@rise_scotland) • Instagram photos and videos
-
 The Instagram acount belonging to RISE Scotland's Left Alliance.

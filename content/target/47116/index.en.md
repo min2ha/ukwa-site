@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# The HUGE Partnership
-
 the HUGE partnership (Help UGanda Educate) supports the creation of sustainable development within Nabugabo and the surrounding Msaka District. They strive to improve education and healthcare in this remote region in Uganda.

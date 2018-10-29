@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Donald Tusk says UK must settle 'people, money and Ireland' first during EU talks
-

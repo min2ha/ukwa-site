@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UNISON Scotland on Facebook
-
 Facebook profile for Scotland's biggest public service trade union, representing members delivering public and related services. 

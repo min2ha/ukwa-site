@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Stewed Rhubarb Press
-
 Website of the Edinburgh-based poetry publisher Stewed Rhubarb

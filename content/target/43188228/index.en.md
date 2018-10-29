@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Smith MP, working for you in Blaenau Gwent
-
 Nick Smith is the Labour prospective parliamentary candidate for Blaenau Gwent. He is also the current MP.

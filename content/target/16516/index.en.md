@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Plaid Cymru asks Welsh voters in England to support Green party
-
 None

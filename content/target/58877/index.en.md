@@ -10,5 +10,3 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Welsh Association of Male Choirs | Cymdeithas Corau Meibion Cymru
-

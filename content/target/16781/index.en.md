@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Countryside Alliance: Our General Election Manifesto - rural priorities for 2015 and beyond
-
 The Countryside Alliance is a politically non-aligned campaigning and membership organisation.

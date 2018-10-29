@@ -10,6 +10,4 @@
   "start_date": "2015-01-01T00:00:00Z"
 }
 
-# Cetis Publications
-
 <p>Cetis Publications produce a range of publications including briefing papers, white papers, reports, books and journal articles.</p>

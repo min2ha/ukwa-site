@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Ceri Evans Internet Archive
-
 Ceri Evans was a Welsh revolutionary Marxist , who died in August 2002. This website provides materials relating to Ceri, a comprehensive selection of his writings and links to other relevent materials.

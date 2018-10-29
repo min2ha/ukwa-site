@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Surrey Artists Network
-
 Surrey Artists Network is a social networking website for artists of all abilities in and around Surrey and is a service provided by UK Artists Networks.

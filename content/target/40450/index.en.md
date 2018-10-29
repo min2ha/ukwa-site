@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War and it's impact on Worksop, Nottinghamshire, The 
-
 A project that focuses on exploring the heritage of Worksop and it's surrounding villages during the First World War.

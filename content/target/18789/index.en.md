@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Magna Carta will be 800 years old next year – the perfect reminder of the rights and freedoms we must hold dear
-

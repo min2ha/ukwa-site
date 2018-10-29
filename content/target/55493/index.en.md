@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# C A Mayer Memorial, The
-
 The C A Mayer Memorial Trust promoted fourteen annual lectures by leading experts in their fields. The commissioning, organisation and promotion of the entire lecture series was undertaken by Professor Pauline Smith of the University of Hull.

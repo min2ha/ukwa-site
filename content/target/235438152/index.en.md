@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Regards de Femmes
-

@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Last Tuesday Society, The
-
 The Last Tuesday Society was founded in 1873 at Harvard by William James & brought to London as a ‘pataphysical organisation in autumn 2006 by Viktor Wynd and David Piper. The society is dedicated to subverting life, the universe and everything bored of the life to create a new world filled with beauty, wonder and the imagination. The organisation also runs a Literary Salon.

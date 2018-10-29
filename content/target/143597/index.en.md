@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Janet Granger Designs
-
 None

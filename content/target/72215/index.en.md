@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Community Church Hawick
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Hawick, Scottish Borders.

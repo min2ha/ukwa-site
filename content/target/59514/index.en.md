@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Valeways
-
 Valeways is a volunteer based project for the maintenance, protection, preservation and promotion of public rights of way in the Vale of Glamorgan.

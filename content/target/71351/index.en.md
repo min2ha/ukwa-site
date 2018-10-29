@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Metro: How is the gender pay gap calculated in the UK?
-
 An article about how the gender pay gap is calculated in the UK

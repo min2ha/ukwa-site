@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tories plan to cut tax for millionaires further - while average families are £1,100 worse off 
-
 None

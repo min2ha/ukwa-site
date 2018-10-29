@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Rebellion
-
 <p>Rebellion is a game development company based in Oxford.</p>

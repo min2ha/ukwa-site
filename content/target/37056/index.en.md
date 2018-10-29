@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Community Page on Facebook
-
 Brexit Community page on Facebook

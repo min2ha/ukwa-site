@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Meisai - Lee Basford
-
 None

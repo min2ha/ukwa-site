@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# MillionPlus: A manifesto for teacher education
-
 Modern universities have a long history of delivering high quality teacher education. This manifesto sets out the steps that they believe the next government should take to improve teacher education and professional development in England and retain high quality teachers in the profession. 
 

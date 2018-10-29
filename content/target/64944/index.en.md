@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# IN PROFILE ~ A WINSTON GRAHAM READER
-
 Between  1934  and  2003,  Winston  Graham  published  twelve  Poldark  novels, but 38 other books too. Learn here about his work, his life, his press, his past. 78 files, 1822 pages; more than 850 images.

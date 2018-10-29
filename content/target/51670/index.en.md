@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Cryptic
-
 Site of an organisation based in Glasgow producing multi-media arts events.

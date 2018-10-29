@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# BBC Radio 4 - Brexit: A guide for the Perplexed
-

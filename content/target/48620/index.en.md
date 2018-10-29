@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: If Remoaners don't stop their wild hyperbole (and vilification) they will end up damaging Britain
-
 Maybe we should be happy that some opponents of Brexit are prone to exaggeration, name-calling and vituperation since they weaken their case. Yet the great danger is that such unreasoning divisiveness in the face of what is now inevitable may end up by weakening the country they claim to care so much about

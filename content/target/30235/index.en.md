@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Sound and Vision Blog
-
 The blog presents the British Library's 6 million sound recordings and the access provided to thousands of moving images; about digitisation projects, new acquisitions, and other news concerning the Library’s unique sound and moving image collections. 

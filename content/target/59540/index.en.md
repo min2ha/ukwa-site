@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# OCD UK: OCD Forums - Discussion Forums, A Place to Share Solutions Towards OCD Recovery
-
 Online discussion forum for people with OCD to talk, get help and advice from others with OCD

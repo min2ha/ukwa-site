@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Leaders debate: Highs, lows and highlights of the seven-way ITV clash 
-
 None

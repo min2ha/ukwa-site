@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# CILIP Cataloguing and Indexing Group
-
 Cataloguing and Indexing Group is a forum for CILIP members interested in the organisation of knowledge to enable resource discovery and collection management. 

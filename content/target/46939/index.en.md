@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Scottish Business Awards
-
 Site of an annual awards ceremony for Scottish businesses.

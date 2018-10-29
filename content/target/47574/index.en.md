@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Cardiff Folk Against Fascism 
-
 Cardiff Folk Against Fascism  was set up in 2011 and held anti-fascist music events in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How the Conservatives orchestrated the letter from business leaders - and got it wrong
-
 None

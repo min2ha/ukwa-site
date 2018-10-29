@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Appin Historical Society
-
 Site for local and family history in the area of Appin, Argyll and Bute

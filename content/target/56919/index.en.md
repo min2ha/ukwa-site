@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The EU is not the enemy of the state. Time to think again on Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dungannon Rugby Club
-
 Playing in Ulster Bank All Ireland League Division 2B. Four senior teams, youth, ladies and mini rugby. 

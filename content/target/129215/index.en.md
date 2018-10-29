@@ -10,5 +10,3 @@
   "start_date": "2011-03-23T00:00:00Z"
 }
 
-# Ysgol Tal-y-bont
-

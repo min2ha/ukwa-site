@@ -10,6 +10,4 @@
   "start_date": "2015-03-17T09:00:00Z"
 }
 
-# Ladies’ Golf Union (LGU), The
-
 The Ladies’ Golf Union (LGU) is an organisation representing ladies' amateur golf throughout Great Britain and Ireland since 1893. 

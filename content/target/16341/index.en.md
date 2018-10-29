@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Party (@UKLabour) on Twitter  
-
 Twitter feed of the UK Labour Party, keeping you up-to-date with news, speeches, events & videos

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Innerleithen Music Festival
-
 Site of an annual Scottish traditional music festival based in Innerleithen, Scottish Borders.

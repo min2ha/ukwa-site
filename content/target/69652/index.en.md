@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# Orchid
-
 Orchid is a charity dedicated to fighting cancer that effects men. 

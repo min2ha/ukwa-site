@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Developing Mountain Biking in Scotland
-
 Site of an organisation established to develop the sport of mountain biking in Scotland, and providing information and resources for people wishing to cycle in Scotland.

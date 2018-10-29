@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of Ystrad Mynachand Llanbradach Holy Trinity Church
-

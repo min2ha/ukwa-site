@@ -10,5 +10,3 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Royal Army Veterinary Corps Association
-

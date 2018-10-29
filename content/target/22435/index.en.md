@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP conference: Minority Labour government 'would have to talk to SNP'
-
 None

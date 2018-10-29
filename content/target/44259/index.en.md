@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Rectorial Benefice of Whitchurch, Cardiff
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford University Politics Blog, The: The Brexit Campaigns
-
 Discussion of how Party Policy will effect MP's positions in the EU referendum. 

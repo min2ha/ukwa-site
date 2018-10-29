@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rhu and Shandon Church
-
 Site of a Church of Scotland parish church at Rhu, Argyll & Bute.

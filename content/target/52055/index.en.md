@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St. George’s, Deal
-
 St George's is a vibrant friendly church made up of people of
 all ages, based in the High Street of our delightful coastal town.

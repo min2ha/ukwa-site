@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Fox, Scottish Socialist Party candidate for Edinburgh South
-
 This is the blog of Colin Fox, the Scottish Socialist Party candidate for Edinburgh South in the UK General Election on the 7th May 2015.

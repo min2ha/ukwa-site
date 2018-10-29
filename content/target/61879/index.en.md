@@ -10,6 +10,4 @@
   "start_date": "2018-03-02T09:00:00Z"
 }
 
-#  Royal Burgh of Wigtown & District Community Council
-
 Site of a community council in Wigtown, Dumfries and Galloway. 

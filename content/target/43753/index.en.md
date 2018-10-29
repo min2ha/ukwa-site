@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Sun dares to use the Queen again in Brexit front page 
-
 Guardian, The

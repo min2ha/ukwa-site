@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Spenrail
-
 Personal website for John Parsons, a locamotive enthusiast.

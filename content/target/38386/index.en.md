@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Police Professional: 1916 Easter Rising remembered: PSNI officers hurt in attacks from petrol bombs and stones
-
 Article about Police Service of Northern Ireland (PSNI) in the Easter Rising in UK professional journal for police and policing issues

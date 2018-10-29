@@ -10,5 +10,3 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Treborth Botanical Garden
-

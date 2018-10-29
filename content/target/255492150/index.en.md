@@ -10,5 +10,3 @@
   "start_date": "2014-07-18T00:00:00Z"
 }
 
-# Menter Iaith Sir Y Fflint
-

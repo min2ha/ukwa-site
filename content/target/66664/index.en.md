@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Newport People First
-
 Newport People First is an organisation for, and led by men and women with a learning disability. The organisation represents the voice of men and women with a learning disability across Newport.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-22T09:00:00Z"
 }
 
-# Craft Scotland
-
 Site of the national development agency supporting makers and promoting craft in Scotland.

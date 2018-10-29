@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Oswestry LitFest, The 
-
 The Oswestry LitFest, celebration of the written, spoken and sung.

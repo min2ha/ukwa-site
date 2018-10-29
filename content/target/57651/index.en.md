@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  In a Tory party torn apart by Brexit, the fever of schism burns
-

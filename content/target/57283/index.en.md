@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Julia Brooker Paintings
-
 Julia Brooker is a British fine artist who has been commissioned by art collectors around the world. She has a studio in Cardiff.

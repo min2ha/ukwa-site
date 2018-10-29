@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mildenhall&RedLodge (@MRL_RUFC) on Twitter
-
 The official Twitter account of Mildenhall & Red Lodge Rugby Football Club. The Eagles are a newly formed club (2007) bringing social rugby to the local community. 

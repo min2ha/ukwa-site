@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Barack Obama's election wizard says he is still on board Labour team
-
 None

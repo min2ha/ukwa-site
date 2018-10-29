@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Black Revolutionaries: fighting injustice at any cost
-
 London Black Revs is a self-determined urban and strictly working class revolutionary organisation.

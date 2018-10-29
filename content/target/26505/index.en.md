@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Which Star Wars character does each UK party leader want to be?
-
 None

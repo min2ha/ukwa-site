@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# One Body One Faith
-

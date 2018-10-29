@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Risk-Capital Research and Technology (RCRT)
-

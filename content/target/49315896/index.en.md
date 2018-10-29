@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T08:00:00Z"
 }
 
-# Peter Ghiringhelli's Weborama
-
 The website is a list of various links that are of interest to the owner.

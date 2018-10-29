@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave
-
 Vote Leave is the campaign for a ‘leave’ vote in the EU referendum that will happen before the end of 2017.

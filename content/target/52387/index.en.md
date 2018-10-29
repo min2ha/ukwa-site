@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sustain: General Election 2017: Manifesto for a Better Food Britain
-
 The General Election to be held on June 8th 2017 will set government priorities for the next five years, with huge implications for the future of the UK’s food, farming and fishing.

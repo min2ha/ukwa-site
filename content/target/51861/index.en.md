@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Scottish Care Rescue Organisation
-
 Site of a voluntary and charitable organisation that train for and carry our cave rescues in Scotland, and throughout the United Kingdom.

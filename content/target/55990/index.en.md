@@ -10,5 +10,3 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Mumbles Pier
-

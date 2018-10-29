@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Justice for Carl (@justice4carl) on Twitter
-
 Justice for Carl is a twitter account fighting for justice for former Labour Minister and Assembly member, Carl Sargeant who died on the 7th of November, 2017.

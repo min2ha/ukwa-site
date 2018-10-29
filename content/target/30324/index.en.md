@@ -10,6 +10,4 @@
   "start_date": "2015-09-10T10:00:00Z"
 }
 
-# Liberty 
-
 Website of a department store in London.

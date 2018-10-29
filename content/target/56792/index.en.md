@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# North Hop Festivals
-
 Site of a festivals and events stages in the north east of Scotland featuring craft beer, spirits and music.

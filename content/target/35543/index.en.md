@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# The Lancet: Zika virus resource centre
-
 The Lancet main page on Zika virus with free resources

@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Polish Ex-Combatants' Association in Great Britain Trust Fund - Fundacja Stowarzyszenia Polskich Kombatantów w Wielkiej Brytanii
-
 Polish association based in London for the former members of the Polish Armed Forces in the UK.

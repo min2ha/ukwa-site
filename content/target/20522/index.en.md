@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage to propose new immigration watchdog and five-year ban on unskilled migrants 
-

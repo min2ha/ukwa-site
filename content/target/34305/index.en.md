@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Sompting Estate
-
 250 years of engagement with community and business and environment life of the parish of Sompting are being added in to this website.

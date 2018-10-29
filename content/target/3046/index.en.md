@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Edinburgh Festival Fringe
-
 The Edinburgh Festival Fringe is a large arts festival and it takes place every August for three weeks in Edinburgh, Scotland.The Fringe story dates back to 1947, when eight theatre groups turned up uninvited to perform at the (then newly formed) Edinburgh International Festival.

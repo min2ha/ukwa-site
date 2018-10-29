@@ -10,7 +10,5 @@
   "start_date": "2018-08-20T09:00:00Z"
 }
 
-# Association of British Insurers (ABI)
-
 The ABI is the voice of the UK’s world leading insurance and long-term savings industry. A productive, inclusive and thriving sector, we are an industry that provides peace of mind to households and businesses across the UK and powers the growth of local and regional economies by enabling trade, risk taking, investment and innovation.
 

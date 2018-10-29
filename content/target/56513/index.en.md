@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Catholic Parish of Newport
-

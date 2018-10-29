@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Niall Griffiths
-
 Niall Griffiths is an author who was born in Liverpool to a Welsh/Irish/Romany lineage.

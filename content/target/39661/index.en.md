@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Shetland Heritage
-
 Site advertising the cultural and natural heritage attractions Sheltland

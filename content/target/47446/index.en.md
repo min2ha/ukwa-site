@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Bridgend Regeneration Funding Team
-
 The Regeneration Funding Team (RFT) of Bridgend County Borough Council offers support, advice and guidance to council departments, private or third sector organisations and also individuals carrying out projects funded by European Structural Funds under the 2014-2020 European Funding Programme.

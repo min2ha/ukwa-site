@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Muslim group with links to extremists boasts of influencing election
-
 None

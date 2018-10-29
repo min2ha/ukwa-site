@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Forté Project | Prosiect Forté
-
 The Forté Project is a new music development scheme. Forté Project aims to take ten emerging artists from regions which span across the areas of Rhondda Cynon Taff, Caerphilly, Merthyr Tydfil, Bridgend and the Vale of Glamorgan, collectively known as Arts Connect. The ten chosen artists will work alongside industry mentors who will provide advice and support for the artists.

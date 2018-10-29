@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Gower Cycling Festival
-

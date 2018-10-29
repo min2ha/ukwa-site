@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Malta makes a strong case to host the EU outposts of British companies after Brexit
-
 Argues that that Malta represents the best destination for ambitious UK firms that must have a post-Brexit presence in the European Union.

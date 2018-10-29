@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Military at war with David Cameron as top brass threaten to quit over defence budget cuts
-
 None

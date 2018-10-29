@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# IPSOS-Mori: Latest on public attitudes to Brexit
-
 Ipsos MORI research commissioned by social entrepreneur Hugh Davidson, MBE, shows that Britain remains split on key Brexit issues and to date neither Remainers nor Leavers show signs of changing their minds.

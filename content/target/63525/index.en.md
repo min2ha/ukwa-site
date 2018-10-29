@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# UMCA (Undeb Myfyrwyr Cymraeg Aberystwyth) (@UMCA) on Twitter
-
 This is the twitter account for UMCA (Undeb Myfyrwyr Cymraeg Aberystwyth), the Aberystwyth Welsh Students' Union.

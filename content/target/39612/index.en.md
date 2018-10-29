@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Roderick Campbell for North East Fife on Facebook
-

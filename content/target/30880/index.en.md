@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC News: Click
-
 Website of a BBC TV programme 'Click'.

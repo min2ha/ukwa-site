@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Llanover Garden
-
 Llanover is a private, listed garden, set in Lanover, Usk valley. Eight generations of the family have lived at Llanover, caring for the garden and its plants since 1792 when it was created by Benjamin Waddington, the father of Lady Llanover.

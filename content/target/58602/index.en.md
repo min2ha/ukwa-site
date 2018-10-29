@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Coldstream Community Trust
-
 Site of a community website for the town of Coldstream, Scottish Borders (Berwickshire), providing information on history and amenities for visitors and an online space for local businesses and the community interest.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# Susie Wild
-
 Susie Wild is a poet, writer, journalist, critic, lecturer, festival organiser and editor born in Tooting and now based in Cardiff. 

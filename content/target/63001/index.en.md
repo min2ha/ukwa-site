@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkurd and Newlands Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Romano Bridge near West Linton, Scottish Borders.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo Peruvian Society, The  
-
 The Anglo Peruvian Society is a registered charity, founded in 1961 to foster in the United Kingdom knowledge of Peru and Peruvian culture, in doing so contribute to the mission of poverty alleviation among the people of Peru.

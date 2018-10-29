@@ -10,6 +10,4 @@
   "start_date": "2016-11-08T09:00:00Z"
 }
 
-# COBWEB: Citizen Observatory Web project
-
 COBWEB is a citizen science project that relies on ordinary members of the public to supply data that can be used by scientists. Currently it is focused on the UNESCO World Network of Biosphere Reserves, and is working in 4 of these areas to collect information.

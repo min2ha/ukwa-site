@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Vintage Festival
-
 Website for the Vintage festival, who are collectors and scholars of the history of music, fashion, film, art and design to food

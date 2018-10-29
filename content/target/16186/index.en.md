@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MIMAS
-
 <p>MIMAS - Powering Knowledge is a part of the Digital Resources Division at JISC and their purpose is to develop technology that makes information accessible to those who need it for education and research.</p>

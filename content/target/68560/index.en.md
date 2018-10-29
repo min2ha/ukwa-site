@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May is right - there should be no hard border with the EU when it comes to security, writes former Home Secretary AMBER RUDD
-
 "The UK played a leading role in originating data programmes that allow countries to know more about who is coming into and moving within the EU. We should have no borders in data and intelligence sharing in protecting citizens. It would be madness if intransigence in Brussels led to this shared law enforcement being diluted as the UK leaves the EU, leading potentially to fatal events. Other EU home secretaries agree. I know a little about resignations – that would be the least of their problems. The UK is not threatening the EU Commission. Our offer to them on security co-operation is unconditional. Strong security is not a competition, it is a partnership."

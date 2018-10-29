@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# XpoNorth
-
 Site of an annual creative arts festival taking place in Inverness, Highland, Scotland.

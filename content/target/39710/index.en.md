@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE Scotland's Left Alliance on Facebook
-
 Facebook page of RISE: Scotland's Left Alliance.

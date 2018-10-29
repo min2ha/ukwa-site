@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Lodge Kirkliston Maitland 482
-
 Site of a masonic lodge located in Broxburn, West Lothian and affiliated with the Grand Lodge of Scotland.

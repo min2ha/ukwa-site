@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# thinkuknow: online bullying: speak out
-
 National Crime Agency strategy to tackle the exploitation of children and to protect children from abuse. 

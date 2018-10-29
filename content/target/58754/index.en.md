@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Catalan Defence Committee Scotland
-
 Site of a Catalan independence solidarity group based in Scotland.

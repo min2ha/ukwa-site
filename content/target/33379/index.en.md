@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Outlandia
-
 Outlandia is a treehouse artist studio and fieldstation in Glen Nevis, Lochaber, Scotland.

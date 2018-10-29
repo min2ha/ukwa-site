@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Conservative Grant Shapps admits he 'held a second job while MP' 
-
 None

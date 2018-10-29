@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson says 'uncontrolled' immigration from EU is driving down wages and putting pressure on NHS
-

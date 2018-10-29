@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Anne Lauppe-Dunbar
-
 Anne Lauppe-Dunbar is a fiction writer and lecturer in Creative Writing at Swansea University. She is also co-editor of Swansea Review, and my writing work includes short stories and poetry featured in collections with Seren, Cinnamon Press and Seventh Quarry. 

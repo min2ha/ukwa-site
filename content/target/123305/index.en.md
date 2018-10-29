@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Noel Coward Society
-
 The Noël Coward Society is an international society founded with the agreement of Coward's literary agent and Estate to celebrate the life and work of Sir Noël Coward. Sir Noël Peirce Coward was an English playwright, composer, director, actor and singer. The Noël Coward Society was founded in 1999 to study and promote and enjoy different aspects of Cowards achievements.

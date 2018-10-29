@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Devizes Rugby Club
-
 Home of the Saddlebacks. Senior, Ladies and Junior rugby in Devizes, Wiltshire.

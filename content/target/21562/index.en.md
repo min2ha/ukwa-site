@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Senior Tories play down Cameron's 'no third term' vow
-
 None

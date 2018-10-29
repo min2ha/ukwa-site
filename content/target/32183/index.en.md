@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Dyfodol i'r Iaith
-
 Dyfodol i'r Iaith is a Welsh language pressure group.

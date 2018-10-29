@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Merfyn Parry on Facebook (Welsh Local Independents on Facebook)
-
 Merfyn Parry is a Welsh Local Independents candidate for North Wales at the 2016 National Assembly Election. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Premier League, The
-
 The Premier League is the organising body of the Barclays Premier League with responsibility for the competition, its Rule Book and the centralised broadcast and other commercial rights.

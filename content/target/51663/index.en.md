@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Edinburgh Community Cafes
-
 Site of a network of cafes in Edinburgh run for and by the communities they serve, with a particular concern for sustainability, community cohesion and inclusion.

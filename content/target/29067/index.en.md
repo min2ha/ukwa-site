@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liverpool Labour
-
 Website of Liverpool Labour, providing information on campaigns, representatives and candidates, Labour mayor for Liverpool and cabinet members and local, national and party news.

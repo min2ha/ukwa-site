@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Operation Black Vote (OBV): Official: Huge increase in post Brexit race hate crime
-
 Home Office figures on race and religious hate crime directly after the Brexit vote show an alarming rise right across the country

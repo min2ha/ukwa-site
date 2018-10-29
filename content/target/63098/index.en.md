@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'They should be supporting British business': UK firm condemns ministers after the contract to produce post-Brexit blue passports is handed to a FRENCH company   
-

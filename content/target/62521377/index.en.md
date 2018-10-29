@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire Constabulary History Society
-
 None

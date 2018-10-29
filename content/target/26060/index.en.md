@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband suffers ferocious press onslaught - and it will get worse
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Writtle College
-
 Official website of the Writtle College, Chelmsford.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ecologist, The: Brexit could spell disaster for the UK's fishing industry
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

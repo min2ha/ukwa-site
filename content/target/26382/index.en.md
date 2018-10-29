@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Divisions run deep on Lough Erne's banks, in the UK's most marginal seat
-
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Flat Holm Society
-
 The Flat Holm Society protects the wildlife, and historic environment, of Flat Holm Island, a Site of Special Scientific Interest (SSSI) located in the Bristol Channel.

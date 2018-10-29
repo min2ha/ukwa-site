@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Ann Quin
-
 Website dedicated to Ann Quin, a 1960s novelist. It is run by Nonnie Williams Korteling, who is an academic at the University of East Anglia.

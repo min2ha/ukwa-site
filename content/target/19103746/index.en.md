@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Write Here, Write Now
-
 None

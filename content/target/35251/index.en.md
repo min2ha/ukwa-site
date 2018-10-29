@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sophia Lycouris (@sophia_lyc) on Twitter
-
 The Twitter profile of Sophia Lycouris, RISE Alliance candidate for Lothian in the 2016 Scottish parliament election.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Thorne and District Gazette
-
 None

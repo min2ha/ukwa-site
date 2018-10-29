@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# ASTONish Leadership
-
 ASTONish is dedicated to developing a diverse group of cultural, creative leaders and entrepreneurs who want to create high quality art within their community. We share skills, knowledge and information that helps shapes the dynamic cultural leader who can support the development of the arts in Aston and Newtown. 

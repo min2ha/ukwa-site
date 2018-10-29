@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T08:00:00Z"
 }
 
-# Comunn na Gàidhlig (CnaG)
-
  Comunn na Gàidhlig (CnaG) is a social enterprise which provides Gaelic services throughout Scotland. 

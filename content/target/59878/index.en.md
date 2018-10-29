@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Halma plc
-
 Halma plc is a group of technology companies that makes products for hazard detection and life protection. 

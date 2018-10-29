@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alex Rowley | Labour Member of the Scottish Parliament for Cowdenbeath
-
 The website of Alex Rowley, Scottish Labour Member of the Scottish Parliament for Cowdenbeath.

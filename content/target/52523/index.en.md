@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# New Life Church, Cardiff 
-

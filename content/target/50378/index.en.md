@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Lari Don
-
 Site of a Scottish children's author.

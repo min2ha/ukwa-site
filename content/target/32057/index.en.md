@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Our Lady & St. Patrick's Church
-
 Our Lady & St. Patrick's is a parish within the Deanery of Bridgend, the Roman Catholic Archdiocese of Cardiff.

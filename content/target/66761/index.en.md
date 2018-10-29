@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The World Poohsticks Championships
-
 A website about the World Poohsticks Championships, containing information about the game and past and future events

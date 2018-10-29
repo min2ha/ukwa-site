@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# VICE United Kingdom: Why Independence Will Be Hell for Scotland
-
 None

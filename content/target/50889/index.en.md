@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Playwrights Publishing Company
-
 Since 1990 this website has been acting as a agent to connect playwrights and theatre groups who are looking for new plays to perform. They receive scripts from around the world, upload the first half onto the net and the second half can be purchased online or by post.

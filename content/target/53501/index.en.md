@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark4CardiffCentral (@votemarkjhooper) on Twitter 
-
 Mark Hooper is the Plaid Cymru parliamentary candidate for Cardiff Central at the 2017 General Election.

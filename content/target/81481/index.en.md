@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Hope not Hate (@hopenothate) on Twitter
-
 The official Twitter account of the national Hope not Hate campaign.

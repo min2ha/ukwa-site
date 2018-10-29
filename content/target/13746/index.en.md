@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Press and Journal: Scottish Independence: Twitter goes mad for #YesBecause project
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: What does the EU Brexit draft reveal?
-
 Comments on key phrases in the draft EU withdrawal agreement unveiled on February 28th 2018.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Shomrim NW London
-
 Shomrim NW London is a non profit voluntary organisation, established in 2008 following a large spate of burglaries and crime in the area.

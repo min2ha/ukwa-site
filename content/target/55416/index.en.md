@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of Llanegryn Church
-

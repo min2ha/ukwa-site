@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Abbeygreen Church
-
 Site of a Church of Scotland parish church at Lesmahagow, Lanarkshire.

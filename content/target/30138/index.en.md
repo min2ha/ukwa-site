@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Leicester Comedy Scene
-
 Website about comedy in Leicester.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Anderson Orr Architects
-
 As architects in Oxford, we recognise the need to adopt a flexible working approach in order to deliver quality architecture in the most economical and efficient manner. Our services are tailored to suit the individual needs of our clients and can be adapted to suit the diverse and often changing requirements of each project. 

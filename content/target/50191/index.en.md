@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cults Parish Church 
-
 The website of the Cults Parish Church. 

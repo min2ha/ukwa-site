@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading Women (@ReadingFCWomen) on Twitter
-
 The official Twitter account of Reading Women Football Club.

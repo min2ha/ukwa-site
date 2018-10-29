@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Island Retreats
-
 Site of two commercially retreats connected to the Scottish Episcopal church and the Cathedral College on Cumbrae, and the Abbey on Iona.

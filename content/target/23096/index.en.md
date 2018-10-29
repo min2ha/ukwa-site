@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ben Foday (@PlaidDC_CS) on Twitter
-

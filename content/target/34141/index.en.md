@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Chartered Association of Business Schools (CABS)
-
 The Chartered Association of Business Schools (CABS) is the voice for the UK’s Business Schools and independent Management Colleges and sets the agenda for business and management education in the UK within an increasingly international environment. It develops policies and promotes, communicates and lobbies on these at local, regional, national and international levels as appropriate. 

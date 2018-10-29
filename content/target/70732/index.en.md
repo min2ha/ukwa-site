@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Friends of the Holy Father, The
-
 The Friends of the Holy Father is a Roman Catholic organization founded in 1980 to offer practical support for the Pope's universal ministry.

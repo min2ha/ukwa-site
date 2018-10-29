@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Poetry NI
-
 Poetry NI seeks to promote Northern Irish poetry on a grassroots level. They run FourXFour, a quarterly online journal that exclusively focuses on poets either born in, or currently residing long-term in, Northern Ireland. They also have a print publishing wing, Pen Points Press, which issues broadsides and chapbooks. 

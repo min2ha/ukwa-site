@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Academy of St Martin in the Fields
-
 Academy of St Martin in the Fields is a touring and recording chamber orchestra founded by Sir Neville Marriner in 1958. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxfordshire Health and Wellbeing Board
-
 None

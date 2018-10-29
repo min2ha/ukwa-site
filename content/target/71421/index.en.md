@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Challoch, with St. Ninian's Fellowship, Whithorn
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Dumfries & Galloway

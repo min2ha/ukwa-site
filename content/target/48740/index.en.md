@@ -11,7 +11,5 @@
   "subject": "Food Archive"
 }
 
-# Sound Bites Derby
-
 Sound Bites is an independent ethical wholefood shop and not-for-profit workers co-op, specialising in a wide range of vegetarian, vegan foods and free from foods – many of which are Fairtrade and/or organic.
 They began in 2005 to increase availability of ethical food and support positive social change in our local community.

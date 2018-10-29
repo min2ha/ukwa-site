@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brighton and Sussex University Hospitals
-
 None

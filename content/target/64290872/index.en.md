@@ -10,5 +10,3 @@
   "start_date": "2012-02-13T00:00:00Z"
 }
 
-# Dafydd Ap Gwyilym
-

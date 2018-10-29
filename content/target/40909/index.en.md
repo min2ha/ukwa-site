@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yealmpton Parish Council
-
 Yealmpton Parish Council comprises 10 councillors and a clerk.  The Council has an annual budget of about £27,000 wihch is spent on parish projects.

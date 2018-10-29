@@ -10,5 +10,3 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Dr Lisa Cameron MP - for East Kilbride, Strathaven and Lesmahagow constituency
-

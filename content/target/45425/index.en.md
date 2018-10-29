@@ -10,5 +10,3 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# Rhosllannerchrugog Community Council
-

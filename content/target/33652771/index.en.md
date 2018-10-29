@@ -10,5 +10,3 @@
   "start_date": "2011-07-27T00:00:00Z"
 }
 
-# Rheilffordd Talyllyn | Talyllyn Railway
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Haralsden (Conservative)
-
 Stephen Haralsden stood as Conservative candidate for Copeland at the 2015 General Election but was not elected.

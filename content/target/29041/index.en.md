@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Morpeth & Wansbeck Conservatives
-
 Website of Morpeth & Wansbeck Conservatives, providing information on association officers, county and parish councillors, parliamentary and county council candidates, local, national and written questions news.

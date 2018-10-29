@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Christ Church University: University historian to work on major new Magna Carta project
-

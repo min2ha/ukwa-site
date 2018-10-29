@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huck Magazine
-
 London based 'radical culture' and arts magazine

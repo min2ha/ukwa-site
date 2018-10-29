@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inverleith St. Serf's Parish Church
-
 Site of a Church of Scotland parish church at Inverleith, North Edinburgh.

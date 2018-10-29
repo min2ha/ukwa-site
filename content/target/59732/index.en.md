@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: Draft Animal Welfare (Sentencing and Recognition of Sentience) Bill 2017
-
 Sets out the detail of laws the government plans to make, introducing new penalties for animal cruelty, and covering other animal welfare issues. The draft bill would do two things. It would increase the maximum penalty for animal cruelty offences from 6 months to 5 years imprisonment, and it would ensure that animals are defined in UK law as sentient beings.

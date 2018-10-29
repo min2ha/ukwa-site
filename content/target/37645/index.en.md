@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: President Barack Obama will use feelgood factor from Queen's birthday to boost pro-EU message during UK visit
-

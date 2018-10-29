@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News:  'Internet addiction' linked to depression, says study
-
 BBC News Article: Internet and Depression

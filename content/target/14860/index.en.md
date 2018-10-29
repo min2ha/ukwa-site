@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - PLEASE SHARE: We can have faster, better,...
-
 <p>Better Together post graphics about jobs, employment, prices and the NHS at 5.59pm, 15th September 2014.</p>

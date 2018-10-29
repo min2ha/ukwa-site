@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: This may keep the Cabinet together but where was the beef, Theresa?
-
 Argues that Theresa May's key speech on Brexit in Florence in September 2017 was crafted to keep her mutinous Cabinet together.

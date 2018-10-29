@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The WW1 Memorial Trail 
-
 The life stories of the men on the war memorial plaque were first published on our “Barrow Hill and Hollingwood”

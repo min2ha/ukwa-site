@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU Referendum: Rival Brexit activists Vote Leave and Grassroots Out to swarm UK high streets  
-
 Online news site focusing on business news. 

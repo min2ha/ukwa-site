@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rebecca Bee (@RebeccaBee1994) on Twitter
-
 The twitter profile of althete Rebecca Bee, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

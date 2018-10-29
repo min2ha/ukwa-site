@@ -10,6 +10,4 @@
   "start_date": "2018-09-21T09:00:00Z"
 }
 
-# Steall
-
 Gaelic language magazine.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Adam Ford (@neon_black1871) on Twitter (Class War candidate for Liverpool Riverside)
-

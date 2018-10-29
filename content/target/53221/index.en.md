@@ -10,6 +10,4 @@
   "start_date": "2017-05-16T09:00:00Z"
 }
 
-# Culture24
-
 Culture24 is an independent charity that brings arts and heritage organisations together to support extra activities such as the Museums at Night event. 

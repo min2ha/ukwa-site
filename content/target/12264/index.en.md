@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Dounreay Site Restoration
-
 "Dounreay Site Restoration Limited (DSRL) is the site licence company responsible for the clean-up and demolition of Britain’s former centre of fast reactor research and development."

@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T10:00:00Z"
 }
 
-# Lost Voice Guy (@LostVoiceGuy) on Twitter
-
 Twitter account for Lost Voice Guy (Lee Ridley), a comedian who has cerebral palsy who performs stand-up comedy using the help of a voice synthesizer. 

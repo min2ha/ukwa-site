@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Weston (Conservative  Politician)
-
 Mark Weston stood as Conservative candidate for Bristol South at the 2017 General Election but was not elected.

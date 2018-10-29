@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# John Moloney
-
 John Moloney is an Irish artist based in Drogheda, Co. Louth, Ireland. 

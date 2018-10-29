@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Recordiau Afiach
-
 Recordiau Afiach is a DIY record label, gigs & distro based in Cardiff.

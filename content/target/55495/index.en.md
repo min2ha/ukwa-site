@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: British children are online more than almost any other developed nation - and are more unhappy as a result
-
 Telegraph news article on children and internet use

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-#  Women's Camanachd Association
-
 Site of an organisation established to develop and promote women's shinty. 

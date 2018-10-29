@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Legasee the Veteran's Video Archive
-
 This project will work with students from Colchester Academy who following a visit to a WWI battlefield and Cemeteries will use interviews for further study of the conditions and hardships faced by soldiers in the front-line.

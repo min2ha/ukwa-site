@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# What WDDTY Don't Tell You
-
 A site dedicated to contradicting some information published in the magazine "What Doctors Don't Tell You".

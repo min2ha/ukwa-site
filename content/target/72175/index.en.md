@@ -10,7 +10,5 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Glandwr Cymru | Canal and River Trust in Wales
-
 The Canal & River Trust website provides information about Welsh canals, leisure and how the Trust protect and improve them for future generations.
 

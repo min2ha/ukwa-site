@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Lulu
-
 Official website of Lulu (Lulu Kennedy-Cairns, born Marie McDonald McLaughlin Lawrie), a Scottish singer.

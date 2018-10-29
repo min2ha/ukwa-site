@@ -10,7 +10,5 @@
   "start_date": "2018-09-03T09:00:00Z"
 }
 
-# Guardian, The: Scallop wars show British seas exposed after Brexit – Lord West
-
 Former first sea lord and Labour peer Lord West said that the UK had ‘insufficient ships’ to patrol its waters after Brexit
 

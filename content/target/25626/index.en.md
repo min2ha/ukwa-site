@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Is it West Ham? Or is it Villa? Cameron mocked on Twitter as he forgets which team he backs
-
 None

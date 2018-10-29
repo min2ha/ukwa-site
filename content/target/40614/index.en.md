@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cross Keys RFC
-

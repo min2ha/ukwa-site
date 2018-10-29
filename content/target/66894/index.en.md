@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Morris Leslie Plant Limited
-
 The website of Morris Leslie Plant Limited, a Perth-based equipment rental company.

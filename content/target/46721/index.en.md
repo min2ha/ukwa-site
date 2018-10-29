@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# UHI (@ThinkUHI) on Twitter
-
 The Twitter profile of University of the Highlands and Islands.

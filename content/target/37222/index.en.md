@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reimagining Europe blog
-
 A blog about the EU Referendum from a Christian perspective that is hosted by the Church of England, the Church of Scotland and Crucible, The Christian Journal of Social Ethics

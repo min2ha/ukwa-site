@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Astronomy Forum - UK Astronomy
-
 An online enthusiast forum concerned with Astronomy in the UK. Discusses various astronomy related topics.

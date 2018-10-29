@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ken Macintosh (KenMacintoshMSP) on Twitter
-
 The twitter profile of Ken Macintosh, Labour MSP for Eastwood.

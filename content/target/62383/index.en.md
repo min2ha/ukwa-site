@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons International Trade Committee: Continuing application of EU trade agreements after Brexit
-
 Trade with 70 nations risks falling off a cliff edge if the Government does not act quickly to roll over EU trade deals. This report calls on the Department for International Trade to produce "a legally watertight and practically viable strategy" to achieve "transitional adoption" of trade agreements the UK is currently party to through its membership of the European Union.
 

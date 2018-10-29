@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rhun ap Iorwerth on Facebook (Plaid Cymru candidate for Ynys Mon)
-
 Rhun ap Iorwerth is the Plaid Cymru Assembly candidate for Ynys Mon at the 2016 National Assembly for Wales election. 

@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# History of George Street, Brighton and surrounding streets, The
-
 The website gives a picture of life on a Brighton street. It contains snapshots from 1861 and 1911.

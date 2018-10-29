@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Wallball 
-
 The UK Wallball Association is the National Governing Body for Wallball.

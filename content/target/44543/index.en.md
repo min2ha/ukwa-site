@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OTS Solicitors: Business after Brexit: Trade and Immigration Analysis
-
 Article discussing the effects of Britain leaving the EU on industry and trade.

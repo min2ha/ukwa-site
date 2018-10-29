@@ -10,5 +10,3 @@
   "start_date": "2015-03-10T15:00:00Z"
 }
 
-# Magna Carta 800 - Bury St Edmunds
-

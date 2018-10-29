@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kate Watson (@Katewatson67) on Twitter
-
 Twitter profile of Kate Watson, Scottish Labour candidate for Glasgow East in the 2017 general election.

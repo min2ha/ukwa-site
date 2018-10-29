@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liz Evans on Facebook
-
 Labour Parliamentary candidate for Gower.

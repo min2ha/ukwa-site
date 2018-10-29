@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scotland Stronger IN (@scotstrongerin) on Twitter
-
 Scotland regional campaign for the UK to stay in the EU

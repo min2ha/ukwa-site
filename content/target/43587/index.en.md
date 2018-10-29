@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Unleashed blog
-
 Eurosceptic blog

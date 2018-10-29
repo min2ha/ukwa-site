@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Europe is out to shaft Brexit Britain. Here's how Theresa May can prevent it
-

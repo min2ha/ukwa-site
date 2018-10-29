@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# London Irish LGBT (@LILGBT) on Twitter
-
 The London Irish LGBT aims to build links between the Irish and LGBTQ communities in London and with the LGBTQ community in Ireland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: The Eu Referendum 
-
 Huffington Post, The: The Eu Referendum 

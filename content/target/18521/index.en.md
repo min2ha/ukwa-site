@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Trimble says DUP may back Labour if hung parliament
-
 None

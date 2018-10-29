@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  City of Armagh RFC (@CityOfArmaghRFC) on Twitter
-
 The official Twitter page for City of Armagh Rugby Football Club. Established 1875. Community Sports club developing Rugby for all ages.

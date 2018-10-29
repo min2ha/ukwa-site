@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martyn Rooney
-
 <p>The website of 400m runner Martin Rooney, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

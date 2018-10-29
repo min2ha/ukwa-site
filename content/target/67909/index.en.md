@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Belsize Park RFC
-
 Belsize Park RFC is London`s most central Rugby club and plays out of Regents Park.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Record: 'Tidal wave' of porn addiction as experts warn action is needed to save the next 'lost generation'
-
 News article about the negative impact online pornography is having 

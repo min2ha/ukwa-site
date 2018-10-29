@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Matt's best Brexit cartoons
-
 Collection of Matt Brexit cartoons

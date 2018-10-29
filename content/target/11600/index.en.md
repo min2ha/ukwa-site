@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SSE Hydro: Glasgow Commonwealth Games 2014
-
 None

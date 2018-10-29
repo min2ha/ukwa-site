@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Leaked EU deal text reveals no progress from Cameron in Brussels
-

@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Yelp
-
 <p>Yelp is an online directory founded in 2004 to help people find local businesses. The adverts contain reviews.</p>

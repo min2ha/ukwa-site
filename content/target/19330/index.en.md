@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Award received for Magna Carta ‘Flowers for Freedom’ Project
-

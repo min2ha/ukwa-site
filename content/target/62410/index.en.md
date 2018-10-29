@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Rural Office for Architecture
-
 Rural Office for Architecture is a multi-award winning architectural practice based in Carmarthen.

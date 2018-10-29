@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Bechgyn Bro Taf
-
 Bechgyn Bro Taf is a Welsh male voice choir situated in the centre of Cardiff. 

@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Edward Doylerush
-
 Edward Doylerush is an author & aeronautical Historian. His books cover air crashes across Wales.

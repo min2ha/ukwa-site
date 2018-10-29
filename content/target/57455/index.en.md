@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Counselling directory: Exploring pornography addiction
-

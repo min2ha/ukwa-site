@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# The Charity Commission for England and Wales (@chtycommission) on Twitter
-
 We regulate 167,000 charities in England & Wales. If you have a query, please contact us via our website.

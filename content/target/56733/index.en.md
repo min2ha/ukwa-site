@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Kate Haywood
-
 Kate Haywood is an artist based in Cardiff. Her 'work explores our relationship with objects and how they can allow us to form and trigger memories'. 

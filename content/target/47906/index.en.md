@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Old English Course Pack
-
 This site is designed to help students study several of the primary texts that have been included in many Old English Courses. A range of resources are available including primary texts with a running glossary and notes, reading lists, translations, contextual information and sources of the poem.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Alzheimer’s Research UK blog 
-
 Alzheimer’s Research UK is the UK’s leading dementia research charity.

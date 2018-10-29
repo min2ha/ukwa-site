@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# National Assembly for Wales Research Service (@SeneddResearch) on Twitter
-
 The National Assembly for Wales Research Service provide expert & impartial research, analysis & information to Assembly Members & Assembly committees. This is their twitter account.

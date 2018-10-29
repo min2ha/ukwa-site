@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Boles in climbdown after claiming benefit sanctions are 'inhuman'
-
 None

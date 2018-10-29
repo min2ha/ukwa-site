@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Scotland election results: SNP celebrates 'electoral tsunami' as Labour obliterated
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Coalition of Aid and Development Agencies in Northern Ireland: CADA manifesto for the UK general election
-
 The Coalition of Aid and Development Agencies in Northern Ireland (CADA) is an umbrella organisation of those overseas aid agencies with an active presence in Northern Ireland. CADA’s main objectives are to promote sustainable development, social justice and a fairer society in both local and global contexts. 

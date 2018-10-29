@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Festival Alchemy
-
 celebrates the exchange of ideas and cultural connections between South Asia and the UK with a programme of dance, comedy, music and literature.

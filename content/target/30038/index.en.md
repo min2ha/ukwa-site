@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Neuadd Gwyn Hall
-
 Gwyn Hall is a theatre in Neath and is part owned by Neath Port Talbot County Borough Council.

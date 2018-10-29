@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Broughton Wrexham Community Council
-
 Access the latest news and information about Council meetings, Broughton's amenities and find the relevant contact information to get in touch with the council.

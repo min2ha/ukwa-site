@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Ivy Benson
-
 Website contains the memories of the women who played in the big bands during the World War 2.

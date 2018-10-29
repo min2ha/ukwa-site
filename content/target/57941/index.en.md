@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# North Wales 4 Europe (@Gogs4Europe) on Twitter
-
 This is a grass-roots, cross-party and no-party campaign covering north Wales to secure the best deal for Wales.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Janet Finch-Saunders AM for Aberconwy
-
 Janet Finch-Saunders is the Conservative candidate for Aberconwy at the 2016 National Assembly Election. 

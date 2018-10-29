@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Red Button Theatre and Film Workers' Co-operative
-
 The Red Button Theatre and Film Workers' Co-operative is a theatre company established at the University of Glamorgan.

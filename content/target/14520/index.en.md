@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Healthcare Improvement Scotland
-
 Healthcare Improvement Scotland is the national healthcare improvement organisation for Scotland and part of NHSScotland.

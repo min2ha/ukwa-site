@@ -11,5 +11,3 @@
   "subject": "E-publishing Trends/Emerging Formats"
 }
 
-# Digital Artists' Handbook
-

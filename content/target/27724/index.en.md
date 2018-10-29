@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Teeth extracted from King John to be displayed at British Library
-

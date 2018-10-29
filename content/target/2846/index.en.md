@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Wallace Collection, The 
-
 The Wallace Collection is a national museum in an historic London town house. In 25 galleries are displays of French 18th-century painting, furniture and porcelain with Old Master paintings and a world class armoury.

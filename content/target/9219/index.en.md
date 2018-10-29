@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Nordic Ski Team on Facebook
-
 None

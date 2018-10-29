@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lawyers-In for Britain
-
 Lawyers-In for Britain is a group of lawyers who consider that the UK’s interests are best served by remaining in the EU.

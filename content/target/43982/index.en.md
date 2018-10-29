@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters UK: Two MPs start push for second Brexit referendum
-
 Article discussing actions of two MPS in support of a second Brexit referendum.

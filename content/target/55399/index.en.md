@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: The legal impact of Brexit on the UK-based financial services sector
-
 The report suggests that while the UK-based financial services sector as a whole aims to keep as many activities as possible in the UK, the key for business is to maintain an uninterrupted service to clients throughout the Brexit process.
 

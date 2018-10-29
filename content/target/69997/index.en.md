@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Blog Llyfrgell Genedlaethol Cymru
-
 This is the Welsh language blog about the work and collections of the National Library of Wales.

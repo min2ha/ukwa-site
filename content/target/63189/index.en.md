@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Revealed: Brexit insider claims Vote Leave team may have breached spending limits
-
 Whistleblower Shahir Sanni alleged that electoral spending rules could have been manipulated over a controversial donation to campaign group BeLeave and that Vote Leave ‘tried to delete’ key evidence

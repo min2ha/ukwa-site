@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jonathan Arnott (UKIP MEP for the North East)
-
 John Arnott stood as UKIP candidate for the North East at the 2014 European Parliament election and was elected to serve as MEP

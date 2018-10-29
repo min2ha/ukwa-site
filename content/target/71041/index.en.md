@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# LGBTQA+, Scouts
-
 The LBGTQA+  section of the Scouts website. Providing information and support for young people and adult volunteers.

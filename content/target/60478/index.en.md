@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 8th January 2018: Taxation (Cross Border Trade) Bill
-
 Second reading debate on the Taxation (Cross Border Trade) Bill.

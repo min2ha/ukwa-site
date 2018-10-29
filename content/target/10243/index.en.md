@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Steve Carter, Labour on Twitter
-
 None

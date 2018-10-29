@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scottish Swimming: 12 year old Abby Kane Secures Qualifying Standard for Rio
-

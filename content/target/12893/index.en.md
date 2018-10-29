@@ -10,6 +10,4 @@
   "start_date": "2014-07-26T07:00:00Z"
 }
 
-# Lloyd's List Daily Briefing
-
 None

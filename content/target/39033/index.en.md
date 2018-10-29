@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Hippodrome Cinema, Bo'ness
-
 Website of the oldest purpose built cinema in Scotland, located in Bo'ness, West Lothian, run by Falkirk local authority, and home an annual Festival of Silent Film taking place each March.

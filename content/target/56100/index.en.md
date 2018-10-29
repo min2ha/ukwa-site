@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Royal Hospital School
-
 Website for the Royal Hospital School, an independent school founded in 1712 with close ties to the British Navy. The website contains information on both the history of the school and current activities, including a prospectus.

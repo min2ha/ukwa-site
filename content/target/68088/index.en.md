@@ -10,5 +10,3 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# JustGiving: Crowdfunding to place a memorial for Scott Hutchison in one of Glasgow’s beautiful parks. A place to remember, celebrate or just gather your thoughts.
-

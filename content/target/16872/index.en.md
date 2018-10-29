@@ -10,6 +10,4 @@
   "start_date": "2015-04-19T01:00:00Z"
 }
 
-# Giving Voice
-
 None

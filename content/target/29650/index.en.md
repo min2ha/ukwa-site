@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ryedale Book Festival
-
 Book Festival

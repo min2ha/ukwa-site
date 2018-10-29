@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# DASH Ceredigion
-
 DASH Ceredigion provide a variety of leisure schemes for disabled children and young people within the county of Ceredigion.

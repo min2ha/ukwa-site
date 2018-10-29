@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent Community & Health Concern
-
 None

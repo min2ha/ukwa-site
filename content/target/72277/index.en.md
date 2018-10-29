@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Scottish Government, The
-
 An interim location for the Scottish Government website, during redevelopment.

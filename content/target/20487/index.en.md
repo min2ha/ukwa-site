@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: This descent into cash-and-carry politics will make us all feel cheap
-
 None

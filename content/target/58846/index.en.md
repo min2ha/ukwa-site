@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 13th November 2017: EU Exit Negotiations
-
 A statement by David Davis is read, updating the House on negotiations between the UK and the European Union in November 2017, reflecting the UK's actions since the October Council

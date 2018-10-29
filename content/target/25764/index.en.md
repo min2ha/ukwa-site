@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Do any of us have a clue what we're actually voting for? – video
-
 None

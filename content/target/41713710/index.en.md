@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cranmer
-
 <p>Widely-read conservative blogger on many general issues.</p>

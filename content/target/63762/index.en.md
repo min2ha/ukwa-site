@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Cannock Chase District Council
-
 Website of Cannock Chase District Council, providing access to news, council committee papers and minutes, planning policy and local plans, consultations and financial information. 

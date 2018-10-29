@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tain Highland Gathering on Facebook
-
 Facebook page of a highland gatheing at Tain, Highland.

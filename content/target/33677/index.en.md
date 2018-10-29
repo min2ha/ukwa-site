@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boardroom backing for staying in the EU is falling: Number who support membership down by 12% since the summer    
-

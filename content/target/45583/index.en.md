@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T11:00:00Z"
 }
 
-# Gronyn, Gofalaeth Fro'r Llechen Las
-
 News from the Pastorate of Fro'r Llechen Las (Llanberis), Presbyterian Church of Wales.

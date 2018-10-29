@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# South Edinburgh Arts Fair Association
-
 Site of an annual arts fair aimed at participants over 50 years of age, and located in Edinburgh, Scotland.

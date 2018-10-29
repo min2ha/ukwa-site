@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LondonStrongerIn (@LdnStrongerIn) on Twitter
-
 London local campaign for the UK to stay in the EU

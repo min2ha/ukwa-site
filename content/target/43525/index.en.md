@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Nottingham Local News: EU referendum week: remain wins landslide victory in school vote
-

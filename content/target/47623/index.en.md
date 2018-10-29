@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# West Highland Museum
-
 Site of a museum  established to collect, conserve and present items of significance and historical and cultural interest related to the West Highland area.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Friends of Europe
-
 Friends of Europe, a part of Europe’s World Group, is a leading think-tank that aims to stimulate new thinking on global and European issues.

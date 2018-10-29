@@ -108,6 +108,4 @@
   "endDateText": ""
 }
 
-# 19th Century English Literature
-
 Resources relating to 19th century English literature and literary figures curated by staff at the British Library in the early 2000's. The collection includes websites devoted to author societies, themed events, anniversary and other news coverage, adaptations, interpretations, museums and fan sites, as well as academic sites. 

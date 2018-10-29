@@ -10,6 +10,4 @@
   "start_date": "2007-03-28T00:00:00Z"
 }
 
-# Myasthenia Gravis Association, The
-
 The Myasthenia Gravis Association (MGA) has as its objective the promotion of the welfare of sufferers from Mysathenia Gravis  in the United Kingdom and the Republic of Ireland.

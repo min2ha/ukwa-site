@@ -10,6 +10,4 @@
   "start_date": "2011-09-28T00:00:00Z"
 }
 
-# Kenfig Times
-
 A History of Kenfig

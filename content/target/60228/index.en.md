@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Cornelius the Mouse (@Number10Mouse) on Twitter
-
 A satirical political account commenting on UK current affairs through a mouse based at 10 Downing Street, London

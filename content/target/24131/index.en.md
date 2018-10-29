@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Welcome to mortified Britain: Full of young Torys who secretly hate themselves
-
 None

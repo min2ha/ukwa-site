@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Hindu Mandir Glasgow
-
 Site of a Hindu temple [Mandir] located in Glasgow.

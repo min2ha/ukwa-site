@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Green Party in Northern Ireland: Brexit
-
 A subsection of the Green Party in Northern Ireland website related to Brexit.

@@ -10,5 +10,3 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# North Wales Women’s Football League 
-

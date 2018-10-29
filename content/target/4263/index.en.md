@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Political Archive (SPA)
-
 The Scottish Political Archive (SPA) was launched at the University of Stirling in October 2010. SPA aims to collect political material and archives from Scottish politicians and political organisations to chronicle the political history of Scotland in the twentieth and twenty-first centuries.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Social Economy Alliance: Manifesto General Election 2015
-
 Social Enterprise are the national body for social enterprise. They represent there members and want to help grow the social enterprise movement.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# All Party Parliamentary Group on Dementia: Five Dementia Priorities for the Next Government
-
 They develop, deliver and promote improvements to the quality of care and support received by those who may be marganilised through ill-health, or social circumstance, by working closely with care providers, carers, housing associations, transport providers, schools and advocacy groups.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ski Famille: The 2018 Winter Olympics – Everything You Need to Know
-
 Ski Famille is dedicated to making family skiing holidays hassle free and great value in some of the best locations in the French Alps. Our sole focus is on families, meaning no compromises for parents or children. Choose from 15 high quality chalets all with in-chalet childcare. 

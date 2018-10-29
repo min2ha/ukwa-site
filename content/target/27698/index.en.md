@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Police close investigation into alleged election fraud at Thanet South where Farage stood
-
 None

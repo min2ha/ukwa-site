@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Foreign and Commonwealth Office: Government Response to the House of Commons Foreign Affairs Committee Report HC 87 of Session 2013-14 The future of the European Union: UK Government policy 
-
 Command paper 8693 2013-14

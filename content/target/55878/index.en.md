@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Anna Lewis 
-
 Anna Lewis is a Welsh poet and short story writer. Her work has been published by Parthian and Rack Press.

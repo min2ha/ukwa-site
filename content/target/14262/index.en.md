@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Labour's Submission to the Smith Commission
-
 <p>Statement to the Smith Commission, on the future devolution of powers to Scottish Parliament, from Scottish Labour, October 2014.</p>

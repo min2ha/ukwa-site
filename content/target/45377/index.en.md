@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Ken Clarke tells constituents: 'EU referendum is not binding'
-

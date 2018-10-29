@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BOJO'S BREXIT PLAN Boris Johnson to delay Brexit by six months if he topples Theresa May to become PM
-
 Boris Johnson told senior Tories he would delay Brexit by at least six months if he could topple Theresa May to become PM. The former Foreign Secretary wanted to use the pause to reset stalled negotiations with the EU. The mop haired Tory’s plan surfaced after he began privately setting out his leadership stall to some Cabinet ministers in a bid to win them over

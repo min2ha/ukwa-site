@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Rural Urban Synthesis Society (RUSS)
-
 The Rural Urban Synthesis Society (RUSS) is a members-led Community Land Trust based in South London, founded in 2009 with the aim of creating sustainable community-led neighbourhoods and truly affordable homes right across London. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Sikhs study finds 40% undecided about election vote
-
 None

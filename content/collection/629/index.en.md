@@ -388,6 +388,4 @@
   "endDateText": ""
 }
 
-# District Councils
-
 Websites offering information about the services provided by Borough Councils together with minutes and papers presented to Committees. This collection forms part of the Landing Page Pilot Project.

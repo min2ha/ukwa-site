@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# New Adventure Travel Group Ltd (NAT Group)
-
 New Adventure Travel Group Ltd cater for numerous bus services routes across Rhondda Cynon Taf and the Vale of Glamorgan. They are based in Cardiff.

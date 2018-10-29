@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tim Aker (UKIP Politician)
-
 Tim Aker stoof as UK Independence Party (UKIP) candidatefor Thurrock in the 2017 General Election but was not elected. He was head of UKIP's Policy Unit from August 2013 to January 2015, and was UKIP's candidate for the Thurrock constituency in the 2015 general election where he finished third. He is also an MEP for  East of England.

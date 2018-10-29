@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Farage forced to abandon Rotherham event amid protests
-
 None

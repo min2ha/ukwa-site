@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# GlitterCymru (@GlitterCymru) on Twitter
-
 Glitter Cymru is a monthly meetup group in Cardiff for people who identify as Black, Asian & Minority Ethnic (BAME) and LGBT+.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Bridgend For Europe / Penybont Dros Ewrop (@Bridgend4Europe) on Twitter 
-
 Bridgend is a Pro-EU grassroots campaign group based in Bridgend and local branch of Wales For Europe.

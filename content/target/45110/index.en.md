@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# E.F. Benson Society
-
 The Society formed in 1985 to develop the interest in E.F.Benson; his famous characters Mapp and Lucia; his life and work; the work of his writing brothers, Arthur and Hugh Benson; his archaeologist sister, Maggie and his parents, Archbishop Edward White Benson and Mary Benson.

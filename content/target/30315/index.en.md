@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Bag Credit Union
-
 Membership for the credit union is for anyone who resides in or are employed in the Upper Rhymney Valleyor or who are attached to the following employers:- Caerphilly County Borough Council, Aneurin Beven Health Authority and Welsh Govrnment.

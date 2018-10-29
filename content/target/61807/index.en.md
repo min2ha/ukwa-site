@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Hawarden Airport
-
 Hawarden Airport (also known as Chester Airport) is owned and operated by Airbus UK and is primarily used by Airbus to transport the wings built for the Airbus fleet in the surrounding factory buildings.

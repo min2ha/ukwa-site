@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May's election U-turn
-
 Comment on why UK prime minister Theresa May decided to call a snap general election on June 8th 2017.

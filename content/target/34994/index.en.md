@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Clyro Community website
-
 Clyro is a small village on the Powys/ Hereford border. The site has been 'written by residents of the community & village, with the cooperation of the Community Council.'

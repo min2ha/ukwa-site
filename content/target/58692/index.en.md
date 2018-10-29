@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Bute School of Art
-
 Site of a small art school based on the Isle of Bute, Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Rugby Union (@WelshRugbyUnion) on Twitter
-
 The official Twitter account of the Welsh Rugby Union.

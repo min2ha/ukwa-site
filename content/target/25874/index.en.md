@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories still ahead of Labour in latest Guardian/ICM poll
-
 None

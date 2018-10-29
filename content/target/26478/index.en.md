@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Steve Bell on ‘pumped-up’ David Cameron – cartoon
-
 None

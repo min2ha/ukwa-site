@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Bwlch y Geuffordd Gardens
-
 Bwlch y Geuffordd Garden is Bronant, Aberystwyth and contains a number of sub gardens- from bog to Mediterranean , jungle to Japanese, from formal to wild, and cottage to woodland.  

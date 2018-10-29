@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Nicholson (@scott993) on Twitter
-
 The Twitter profile of Scott Nicholson, the Labour Party candidate for Perth and North Perthshire in the UK General Election on the 7th May 2015.

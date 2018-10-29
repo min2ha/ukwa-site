@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# British Association of Paediatricians in Audiology (BAPA)
-
 The British Association of Paediatricians in Audiology (BAPA) was inaugurated in 2007 as an association of paediatricians practising audio-vestibular medicine.

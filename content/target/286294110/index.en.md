@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Community Channels Scotland
-

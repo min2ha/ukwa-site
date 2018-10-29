@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# East London Business Alliance (ELBA)
-

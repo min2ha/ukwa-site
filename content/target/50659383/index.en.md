@@ -10,5 +10,3 @@
   "start_date": "2010-07-15T00:00:00Z"
 }
 
-# Fishing Trips in Wales
-

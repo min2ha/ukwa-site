@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# See Me: End mental health discrimination 
-
 See Me is Scotland's Programme to tackle mental health stigma and discrimination. 

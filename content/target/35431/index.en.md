@@ -11,5 +11,3 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Royal College of Obstetricians and Gynaecologists: RCOG statement and Q&A: Zika virus infection and pregnancy
-

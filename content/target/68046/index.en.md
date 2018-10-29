@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# MedenValeRFC (@MedenValeRFC) on Twitter
-
 The official Twitter account of Meden Vale Rugby Club.

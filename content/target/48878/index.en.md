@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Capoeira Academy UK
-
 Capoeira Academy UK is run by Professor Bombril and is part of Capoeira Muzenza, one of the world’s largest Capoeira organisations.  On this website you can find information about the work of our Charity and its educational projects with children and young people. The site also includes details of our classes for adult in various part of London.

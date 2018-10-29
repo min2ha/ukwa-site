@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Canolfan Peniarth
-
 Canolfan Peniarth is a publishing house for the University of Wales: Trinity Saint David, producing and publishing mainly Welsh medium and bilingual educational resources. 

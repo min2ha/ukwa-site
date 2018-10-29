@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Up The Creek Comedy Club
-
 Website for Up The Creek Comedy Club, Greenwich, London

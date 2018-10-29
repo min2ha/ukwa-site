@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robina Barton Shetland Labour on Facebook
-

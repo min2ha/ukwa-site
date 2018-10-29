@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Derek MackayMSP (DerekMackayMSP) on Twitter
-
 <p>The twitter profile of Derek Mackay, the Scottish National Party Member of the Scottish Parliament for Renfrewshire North and West.</p>

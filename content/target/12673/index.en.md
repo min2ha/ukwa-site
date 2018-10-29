@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jamie McGrigor MSP
-
 <p>The website of jamie McGrigor, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Highlands and Islands.</p>

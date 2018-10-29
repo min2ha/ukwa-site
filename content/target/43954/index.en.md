@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Why should you care about Brexit?
-
 A financial investment blog give their take on the EU Referendum result.

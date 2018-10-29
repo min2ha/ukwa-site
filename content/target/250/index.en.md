@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North and West Reading CCG
-
 None

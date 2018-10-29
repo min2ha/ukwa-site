@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Richard Austin Alloys Limited
-
 Richard Austin Alloys Limited provides aluminium and stainless steel products and services. The compnay is based in Glasgow, Scotland. 

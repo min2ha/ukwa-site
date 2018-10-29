@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Rifle Association
-
 <p>The website of the governing body for full-bore target rifle shooting in Scotland, including information about events, competitors and rifle clubs.</p>

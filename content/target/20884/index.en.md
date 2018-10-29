@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alison Thewliss (@alisonthewliss) on Twitter
-
 Twitter profile of Alison Thewliss, Scottish National Party candidate for Glasgow Central in the 2017 general election.

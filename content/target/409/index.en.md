@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redbridge Health and Wellbeing Board
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Historic England: Sites of Suffragette Protest and Sabotage Officially Recognised in Nation’s Heritage List
-
 Website showing sites of women's suffrage along with an interactive map

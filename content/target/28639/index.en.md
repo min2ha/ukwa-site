@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Association of Polish Knights of Malta UK (APKM UK)
-
 Official website of the he Polish Association of the Sovereign Military Hospitaller Order of St. John of Jerusalem of Rhodes and of Malta in the United Kingdom (in short the Association of Polish Knights of Malta UK). It is a UK registered charity.

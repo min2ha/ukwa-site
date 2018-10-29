@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: MPs reject bid to stay in EEA amid Labour revolt
-
 Attempts to keep the UK in the European Economic Area after Brexit were defeated in the House of Commons on June 13th 2018 despite dozens of Labour MPs defying the leader's instructions on the issue.

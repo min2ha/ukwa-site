@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Giles and St. Columba’s South Parish Church
-

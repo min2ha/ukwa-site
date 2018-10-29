@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IT PRO
-
 Website with IT analysis relating to business.

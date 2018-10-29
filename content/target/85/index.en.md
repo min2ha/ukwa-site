@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnsley Hospital
-
 None

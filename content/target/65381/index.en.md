@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Aber Valley Male Voice Choir
-
 The Aber Valley Male Voice Choir was established in 1959 and are based in the Senghennydd.

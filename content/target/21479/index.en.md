@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: TV debates: David Cameron says he's not scared of Ed Miliband, but still won't agree to clash 
-
 None

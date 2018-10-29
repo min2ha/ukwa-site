@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Law Commission, The
-

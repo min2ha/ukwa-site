@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Embroiderers' Guild Guisborough and District Branch 
-
 A group of people from the Guisborough and District area who enjoy all aspects of sewing and sharing our knowledge in friendly surroundings.

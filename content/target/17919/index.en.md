@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British BBQ Society
-
 British BBQ Society is a barbecue forum in the UK. It covers all aspects of barbecue, from grilling to low and slow, competitions to classes and also incorporates “The Outdoor Foodie Forum. It was established in 2008.

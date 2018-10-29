@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Witterpedia (@witterpedia_net) on Twitter
-
 The official Witterpedia Twitter account for the Kermode and Mayo's Film Review show, which broadcasts on Fridays on BBC Radio 5 Live.

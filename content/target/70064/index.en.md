@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Tim Burgess (@Tim_Burgess) on Twitter
-
 English singer-songwriter and record label owner, best known as the lead singer of the alternative rock band Charlatans.

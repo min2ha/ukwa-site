@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Asian and African Studies Blog
-
 The Asian and African Studies blog is written largely by curators in Asia and African Studies, but also includes contributions from colleagues across the Library, with occasional guest contributions. The blog focuses on the extraordinarily diverse collections in Asian and African Studies.

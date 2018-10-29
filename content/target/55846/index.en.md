@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News:Does social media impact on body image?
-
 A news article discussing social medias effect on body image, particularly in teenagers

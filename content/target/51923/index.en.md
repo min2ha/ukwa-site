@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwys y Santes Fair, Cilcain | St Mary the Virgin, Cilcain
-

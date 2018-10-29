@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North West Labour
-
 Website of North West Labour, providing information on how to get involved, testimonials of existing members and a news blog.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-#  Autonomatic
-
 They do research that explores the use of digital manufacturing technologies in the creative process of designing and making three dimensional objects.

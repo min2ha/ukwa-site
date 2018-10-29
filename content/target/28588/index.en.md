@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Commonwealth (DigCW2014) on Twitter
-
 Digital Commonwealth comment on an internet safety and social media lesson with a Primary 7 class in Kirkintilloch.

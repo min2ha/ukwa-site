@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Following Theresa May’s great escape, Brexiters plan their final battle for Britain
-

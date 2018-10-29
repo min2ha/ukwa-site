@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ministry of Justice: Lord Chancellor response to Supreme Court judgment
-
 Lord Chancellor Elizabeth Truss's statement following the Supreme Court judgment on triggering Article 50.

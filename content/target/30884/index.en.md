@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Arts Alive Wales
-
 Arts Alive Wales is an educational arts charity based in Crickhowell, Powys.

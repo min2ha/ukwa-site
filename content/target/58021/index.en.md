@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Tim Bowen Antiques, Carmarthenshire
-
 Tim Bowen Antiques are based at Ferryside, Carmarthenshire. They sell country furniture, folk art, Welsh contemporary art.

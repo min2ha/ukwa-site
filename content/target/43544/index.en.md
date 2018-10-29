@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Reporter: Civil servants 'told David Cameron immigration targets were impossible'
-

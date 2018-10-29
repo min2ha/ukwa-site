@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Llais y Goedwig | Voice of Community Woodlands in Wales, The
-
 Llais y Goedwig is the voice of community woodlands in Wales. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# RGC Women (@RGCWomen) on Twitter
-
 OFFICIAL Twitter for RGC Women

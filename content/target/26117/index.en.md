@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# PwC: 2015 and beyond: the big election debates
-
 UK website of a global accountancy and consultancy company.

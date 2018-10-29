@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# CamGlen Radio
-
 Site of ahyper-local radio station offering tailored programming for the communities of Cambusland and Rutherglen in Glasgow, and offering volunteering and training opportunities to local residents.

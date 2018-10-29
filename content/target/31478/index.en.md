@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CJE Micro’s
-
 CJE Micro’s is a supplier of Acorn Computers and their accessories. It is based in Worthing, West Sussex.

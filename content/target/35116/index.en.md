@@ -10,6 +10,4 @@
   "start_date": "2016-02-11T09:00:00Z"
 }
 
-# Beth Robinson Gallery
-
 Beth Robinson is a Pembrokeshire based artist.

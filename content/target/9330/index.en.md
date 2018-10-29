@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Financial Times: Future of the Union
-
 <p>News, commentary and analysis on the referendum on Scottish independence, from the website of the Financial Times.</p>

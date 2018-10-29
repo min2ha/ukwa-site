@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# techUK:  techUK manifesto for growth and jobs 2015 - 2020
-
 techUK represents the companies, champions the issues and the ongoing areas of interest of the tech sector.

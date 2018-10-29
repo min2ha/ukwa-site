@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Louise Payne RCA
-
 Louise Payne RCA is an elected member of the Royal Cambrian Academy of Art (RCA) and has a studio in Tywyn, Gwynedd. Her work involves permeating the paper with linseed oil, and drawing onto this surface embodying a sense of the sacred and the visionary. Her work has been widely exhibited across Wales.

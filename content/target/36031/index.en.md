@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# John Osmond's Pembrokeshire (Plaid Cymru candidate for Preseli Pembrokeshire)
-
 John Osmond is Plaid Cymru's candidate for Preseli Pembrokeshire in the May 2016 Assembly election.

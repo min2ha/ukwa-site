@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How Ukip helped David Cameron win in the Midlands
-
 None

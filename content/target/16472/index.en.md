@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General election debates: Will David Cameron and Ed Miliband turn up?
-
 None

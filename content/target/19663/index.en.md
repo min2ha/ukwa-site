@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Green Party
-
 Website of Haringey Green Party, providing information on candidates, representatives, policies, and local, national and party news.

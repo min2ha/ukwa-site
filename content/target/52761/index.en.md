@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Records of Early English Drama North-East
-
 An international project to assemble a complete survey of medieval and early modern performance in Britain.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# North Bradley Peace Memorial Hall
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Mothers at Home: What does ‘Equality’ in Parenting and Caregiving actually mean?
-
 A blog entry about equality’ in parenting and caregiving

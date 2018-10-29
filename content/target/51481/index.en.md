@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Support for Romania: Helping the people of Romania
-
 Support for Romania is a Cardiff based charity established in 1990.

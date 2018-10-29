@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Yrsa Daley-Ward: The model who turned her pain into poetry By Taylor-Dior Rumble
-
 BBC News article about poetry, mental health and Instagram 

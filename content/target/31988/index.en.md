@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# National Records of Scotland
-
 National Records of Scotland (NRS) is a non-ministerial department of the Scottish Government.

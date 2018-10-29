@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# National Glass Centre
-
 National Glass Centre aims to celebrate Sunderland’s glass making and industrial heritage by supporting the research, teaching, production, exhibition and enjoyment of contemporary glass.

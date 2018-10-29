@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Jelly & Gin
-
 Site of a company providing besposke food events in Scotland.

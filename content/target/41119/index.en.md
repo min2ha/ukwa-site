@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Living Tradition
-
 Site of a magazine based in Kilmarnock, Ayrshire, Scotland, focusing mainly on traditonal music in the United Kingdom and Ireland, but also international tradtional music.

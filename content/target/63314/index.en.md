@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Wellwynd Parish Church of Scotland Airdrie
-
 Site of a Church of Scotland parish church at Airdrie, Lanarkshire.

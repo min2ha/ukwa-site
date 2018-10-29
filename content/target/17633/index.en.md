@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Privatisation of energy industry was a mistake, Ed Miliband suggests
-
 None

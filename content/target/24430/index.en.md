@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Rarely has an election campaign seen so many economically silly ideas
-
 None

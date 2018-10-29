@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Anthony Nolan
-
 Anthony Nolan is a charity aiming to save the lives of people with blood cancer and blood disorders.

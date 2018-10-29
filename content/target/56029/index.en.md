@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Amy Howerska
-
 Amy Howerska is a Comedian, Actress and Writer who was born and raised in Wales. 

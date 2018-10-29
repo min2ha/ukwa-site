@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maureen Watt (@maureenSNP) on Twitter
-
 Twitter profile of Maureen Watt, Scottish National Party (SNP) candidate for Aberdeen South and North Kincardine in the 2016 Scottish Parliamentary election.

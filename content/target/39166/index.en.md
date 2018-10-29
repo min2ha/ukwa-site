@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr Dai Lloyd (@DaiLloydSwansea) on Twitter (Plaid Cymru candidate for Swansea West) 
-
 Dr. Dai Lloyd is the Plaid Cymru candidate for Swansea West and South Wales West at the 2016 National Assembly Election. 

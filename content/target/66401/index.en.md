@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# British Turned Parts Manufacturers Association (BTMA)
-
 BTMA is ‘THE’ Trade Association for UK Manufacturing Companies producing Precision Turned Parts and Machined Components.

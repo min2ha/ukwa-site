@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Eisteddfod (@eisteddfod) on Twitter
-
 This is the twitter account for Eisteddfod Genedlaethol Cymru. 

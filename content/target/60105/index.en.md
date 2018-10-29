@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Visit Orkney
-
 Site providing leisure and general information for visitors to Orkney.

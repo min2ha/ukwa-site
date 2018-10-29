@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clare Campion-West Liberal Democrats candidate for Bristol West 
-
 Clare Campion-West stood as Liberal Democrats candidate for Bristol West at the 2015 General Election but was not elected. 

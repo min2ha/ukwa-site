@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Great Get Together
-
 The Great Get Together is inspired by Jo Cox, who was killed on 16 June 2016. The organisers believe there is a groundswell of people who reject divisive politics and simply want to bring our communities together and celebrate all that unites us after the 2017 General Election. 

@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Llandre Llanfihangel Genau'r Glyn
-

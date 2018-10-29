@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Legal Cheek
-
 Legal Cheek was founded in 2011 by Alex Aldridge. It has grown to become a source of social media news for the UK legal profession.

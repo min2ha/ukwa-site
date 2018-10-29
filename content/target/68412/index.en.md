@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burntwood Rugby Club
-
 Staffordshire rugby league club known as The Burntwood Barbarians. Great for function rooms, weddings and events in Burntwood.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Coldside Parish Church of Scotland
-
 Site of a Church of Scotland parish church in Dundee.

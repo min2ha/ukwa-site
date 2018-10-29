@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Manchester Evening News: EU Referendum
-
 a series of news articles on the EU Referendum

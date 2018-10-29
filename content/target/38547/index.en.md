@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# lisa rapado (@l_rapado) on Twitter (Green party candidate for Neath and South Wales West) 
-
 Lisa Rapado is the Green party candidate for Neath and South Wales West at the 2016 National Assembly Elections. 

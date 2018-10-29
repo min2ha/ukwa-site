@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Cambridgeshire & Peterborough Domestic Abuse and Sexual Violence Partnership
-
 The Partnership brings together key agencies across Cambridgeshire and Peterborough with the aim of reducing the harm, risks and costs associated with domestic abuse and sexual violence and to prevent these crimes occurring across Cambridgeshire.

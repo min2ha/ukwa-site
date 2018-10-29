@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Future
-
 <p>British Future is a think tank that encourages debate on issues relating to British identity and migration. It was founded in advance of the London 2012 Olympic Games, with Sunder Katwala as its first Director.</p>

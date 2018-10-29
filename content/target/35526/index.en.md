@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# British Medical Journal: Patient information: Zika virus
-
 BMJ information for members of the public on Zika virus

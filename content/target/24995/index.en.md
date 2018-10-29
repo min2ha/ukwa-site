@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tories and David Cameron savaged by former Prime Minister John Major in huge election blow
-
 None

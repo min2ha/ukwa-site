@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Braemar Gathering
-
 Site of a highland games gathering at Braemar Aberdeenshire.

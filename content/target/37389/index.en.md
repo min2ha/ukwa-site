@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail: Syed Kamall says backing Brexit is 'only way of creating a fair immigration system'
-
 David Cameron's most senior MEP argues that the EU creates an unfair immigration system

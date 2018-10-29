@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC executive negotiating over TV debates under fire over Labour links 
-
 None

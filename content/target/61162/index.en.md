@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# ARA Scotland on Storify
-
 Storify account which gathers compiled #archivehour chats, hosted by the Archives and Records Association Scotland.

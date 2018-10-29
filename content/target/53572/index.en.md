@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Canterbury Christchurch University: Election 2017: Manifestos and Manifestations of Childhood
-
 The authors review the Conservative, Labour and Liberal Democrat parties’ manifestos in relation to children, arguing they should be perceived by their contribution to society.

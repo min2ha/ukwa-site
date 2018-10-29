@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Jewish Women's Aid
-
 Site of an organisation in the UK supporting Jewish women affected by domestic violence and abuse.

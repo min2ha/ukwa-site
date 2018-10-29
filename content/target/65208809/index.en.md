@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Cyswllt Amgylchedd Cymru | Wales Environmental Link (WEL)
-
 Wales Environment Link (WEL) is the umbrella body for environmental and countryside non-governmental organisations in Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Paul Martin (PaulMartinMSP) on Twitter
-
 <p>The twitter profile of Paul Martin, MSP for Glasgow Provan and the Labour Party's Business Manager in the Scottish Parliament.</p>

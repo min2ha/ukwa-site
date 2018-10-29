@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# BMJ Blogs: Evidence-based medicine blog: Zika virus
-
 BMJ blog post on Zika virus for general practitioners

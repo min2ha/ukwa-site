@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alasdair McDonnell (@AlasdairMcD_MP) on Twitter (SDLP candidate for Belfast South)
-

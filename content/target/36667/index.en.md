@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UK Parliament: Background to the UK’s EU referendum 2016
-

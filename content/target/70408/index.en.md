@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen Hindu Association
-
 Site of a Hiundu temple and assocition located in Aberdeen.

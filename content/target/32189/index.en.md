@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Parents In Performing Arts (PIPA)
-
 Parents In Performing Arts' (PIPA) aim is to work with partner organisations to find sustainable solutions, ensuring that being a parent is no longer a barrier to working in the creative industries.

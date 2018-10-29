@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thurrock LINk
-
 None

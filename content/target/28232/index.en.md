@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Project Hiraeth
-
 Project Hiraeth explores, documents and celebrates the stories of the Welsh colony in Patagonia, Argentina.

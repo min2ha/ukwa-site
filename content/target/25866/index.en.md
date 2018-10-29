@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Three-minute election: Why are the Tories stirring English nationalism? – video
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Northampton Balloon Festival 
-
 Website for the Northampton Hot Air Balloon Festival 

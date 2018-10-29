@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Blond bombshell: Cameron rocked as Boris backs Brexit from EU.. telling PM by text just 9mins before going public
-
 Sun, The

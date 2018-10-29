@@ -10,6 +10,4 @@
   "start_date": "2018-02-27T09:00:00Z"
 }
 
-# Lodge Burns Dundonald No. 1759
-
 Site of a masonic lodge located in Dundonald, Ayrshire and affiliated with the Grand Lodge of Scotland.

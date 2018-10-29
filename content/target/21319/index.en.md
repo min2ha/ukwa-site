@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T08:00:00Z"
 }
 
-# OAText - Open Access Text
-
 OA Text is an independent open-access scientific publisher showcases innovative research and ideas aimed at improving health by linking research and practice to the benefit of society. 

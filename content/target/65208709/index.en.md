@@ -10,5 +10,3 @@
   "start_date": "2012-05-22T00:00:00Z"
 }
 
-# iTEAM: Integrating Technology-Enhanced Assessment Methods
-

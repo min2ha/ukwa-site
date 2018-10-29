@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Euro 2016: fans already preparing for tournament in France
-
 Results of a survey conducted by he Foreign and Commonwealth Office (FCO).

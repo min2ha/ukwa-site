@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Liverpool Arab Arts Festival
-
 Founded in 1998, Liverpool Arab Arts Festival is a registered charity delivering arts and community programmes that bring diverse cultures together, increasing appreciation and awareness of Arab culture and arts at a local, national and international level.

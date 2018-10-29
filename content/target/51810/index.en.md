@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Glasgow
-
 The website of the Presbytery of Glasgow. 

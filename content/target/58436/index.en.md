@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: Transitional Arrangements
-
 In this summary paper on transitional arrangements, TheCityUK clearly sets out what is at stake for both the UK and the EU if a credible political agreement on transition, supported by all the relevant regulators, cannot be urgently reached.

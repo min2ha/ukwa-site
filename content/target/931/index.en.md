@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Improving Access to Psychological Therapies
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duncan Higgitt (@DuncanHiggitt) on Twitter (Plaid Cymru candidate for Aberavon)
-
 Duncan Higgitt is the Plaid Cymru candidate for South Wales West at the 2016 National Assembly Elections and Aberavon at the 2015 General Election.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Leeds (@SfBLeeds) on Twitter
-
 Leeds branch of Students for Britain, campaigning for the UK to leave the EU

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Kitchen (@skitchen82 ) on Twitter (Conservative Politician)
-
 Simon Kitchen stood as Conservative candidate for Newcastle upon Tyne Central at the 2015 General Election but was not elected. He then stood for Newcastle East at the 2017 General Election and again was not elected.

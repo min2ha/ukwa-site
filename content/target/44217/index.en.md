@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Statement from the Chancellor and international investment banks on London as a world leading financial centre
-
 Joint statement from the Chancellor of the Exchequer, George Osborne, and leaders of international investment banks released on 7 July 2016 about the implications of Britain's decision to leave the EU for London as a financial centre

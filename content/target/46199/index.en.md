@@ -10,5 +10,3 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Seindorf Press Porth Tywyn | Burry Port Town Band
-

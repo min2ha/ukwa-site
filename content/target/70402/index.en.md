@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Greenbelt
-
 festival of arts, faith and justice

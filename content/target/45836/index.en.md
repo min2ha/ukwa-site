@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Llys y Frân Country Park and Reservoir
-
 Llys y Frân Country Park and Reservoir is managed by Dŵr Cymru Welsh Water and located in the Preseli Hills.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institution of Mechanical Engineers (IMechE): Manifesto 2015
-
 The Institution of Mechanical Engineers (IMechE) is an independent engineering society, headquartered in central London, that represents mechanical engineers. 

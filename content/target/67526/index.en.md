@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ivybridge Rugby Club (@IRFCRugby) on Twitter
-
 The official Twitter account of Ivybridge Rugby Club.

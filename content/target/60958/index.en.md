@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Spaceguard Centre, The
-
 The Spaceguard Centre is located near Knighton in Powys and is a working observatory, and the main source of information about near Earth objects in the UK.

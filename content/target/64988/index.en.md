@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Kind To Women
-
 A documentary that brings to life the story of the 1967 Abortion Act legislation. 

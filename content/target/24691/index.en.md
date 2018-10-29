@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huw Jones (@HuwSECambLabour) on Twitter (Labour candidate for South East Cambridgeshire)
-

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Operation Brock 'lorry park' on M20 'could last years'
-
 An assessment by Dover Council expressed concern over how ports would cope with a "no deal" Brexit. The Dover council report stated: "A 13-mile stretch of the coast-bound section of the M20, between junction eight near Maidstone and junction nine near Ashford, will be earmarked to hold heavy goods vehicles, in what will effectively become a giant temporary lorry park holding around 2,000 lorries." The council feared there would be no permanent solution for years.
 
 

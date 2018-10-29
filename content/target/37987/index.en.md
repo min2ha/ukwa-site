@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Anne Main, Conservative
-
 Website of Anne Main, eurosceptic Conservative MP for St Albans, providing a biography, news and information about her involvement in local campaigns and Parliamentary activities.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# West Church Bangor
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T11:00:00Z"
 }
 
-# Lancaster University
-
 Official website of Lancaster University.

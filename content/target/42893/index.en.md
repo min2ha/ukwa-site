@@ -10,5 +10,3 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Ynysybwl & Coed-y-Cwm Community Council
-

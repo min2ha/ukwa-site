@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Conservatives
-
 Latest news, events and campaigns from Islington Conservative Association, the Conservative Party in Islington

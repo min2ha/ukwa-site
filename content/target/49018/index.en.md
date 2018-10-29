@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 2nd Feb. 2017: Brexit: New Partnership
-
 Statement on the Government’s plans for exiting the European Union, following publication of a White paper

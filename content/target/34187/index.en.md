@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave EU
-
 Leave.EU played a decisive role in the British public’s historic vote to leave the EU on June 23rd 2016. The campaign is remaining active throughout the UK’s exit negotiations to make sure that those in power get the best deal possible for the UK.

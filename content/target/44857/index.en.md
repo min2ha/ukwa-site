@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Lanz Group
-
 Lanz Group is a family-owned business established in 1943, providing waste management and skip hire services in Berkshire. It also produces customised waste reports for regional businesses. 

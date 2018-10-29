@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Mono
-
 The website of Mono, a vegan cafe bar and live music venue in Glasgow, Scotland. The building also houses Monorail Music

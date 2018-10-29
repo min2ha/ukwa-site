@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Worksop RUFC (@WorksopRUFC) on Twitter
-
 The official Twitter account of Worksop RUFC

@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Gofal a Thrwsio Gwynedd a Môn | Care and Repair Gwynedd a Môn
-
 Care & Repair is a not for profit charitable organisation dedicated to assist older and or disabled people to remain in their own homes in comfort, safety and security.

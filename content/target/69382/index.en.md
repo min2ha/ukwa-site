@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Irish Deputy PM says UK can't afford a no-deal Brexit 
-
 Irish Foreign Minister Simon Coveney warned that the UK "cannot afford" to leave the EU without a deal. Speaking to the Today programme Mr Coveney described talk of the UK "crashing out of the EU" as "bravado".

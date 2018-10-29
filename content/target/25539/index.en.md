@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron isn’t wobbling. He knows victory is within reach
-
 None

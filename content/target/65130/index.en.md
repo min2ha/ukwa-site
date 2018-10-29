@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# ePrescribing Toolkit
-
 A website presenting tools "designed to support NHS hospitals in the planning, implementation and use of ePrescribing and Medicines Administration systems."

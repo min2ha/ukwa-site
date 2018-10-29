@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Jin Eui Kim Ceramics
-
 Jin Eui Kim is an internationally renowned ceramic artist based in Cardiff.

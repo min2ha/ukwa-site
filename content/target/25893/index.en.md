@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: With Labour’s ropey record, the Tories can win on the NHS
-
 None

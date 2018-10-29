@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Policy Centre
-
 The European Policy Centre (EPC) is an independent, not-for-profit think tank dedicated to fostering European integration through analysis and debate, supporting and challenging European decision-makers at all levels to make informed decisions based on evidence and analysis, and providing a platform for engaging partners, stakeholders and citizens in EU policy-making and in the debate about the future of Europe.

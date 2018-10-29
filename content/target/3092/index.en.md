@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Centre for Social Research (NatCen)
-
 NatCen is Britain’s independent social research agency. They work on behalf of government and charities to find out what people think about important social issues and how Britain is run.

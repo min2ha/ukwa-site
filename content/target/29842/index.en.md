@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Literature Festival
-
 Festival

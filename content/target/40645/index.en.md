@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Clan Grant Society, UK
-
 Site of a society interested in the history, famlily history and traditions of the Clan Grant.

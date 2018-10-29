@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Irish border won't be resolved until EU-UK trade deal struck - Fox
-
 International Trade Secretary Liam Fox argues that there can be no final decisions on the future of the Irish border until the UK and the EU have reached a trade agreement.

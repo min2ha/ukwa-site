@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# PolicyBristol Hub: What do Bristol women want from the 2015 General Election?
-

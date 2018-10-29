@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Backbencher, The
-
 Libertarian leaning blog

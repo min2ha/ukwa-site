@@ -10,5 +10,3 @@
   "start_date": "2010-07-19T00:00:00Z"
 }
 
-# Manchester Mule
-

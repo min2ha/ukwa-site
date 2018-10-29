@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Scottish Episcopal Church, Inveraray on Facebook
-
 Facebook page of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Inveraray, Argyll & Bute.

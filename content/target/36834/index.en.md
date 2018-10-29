@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# RNIB Cymru: Manifesto 2016 National Assembly Election
-

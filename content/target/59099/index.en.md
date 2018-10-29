@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Cadair Idris Wales
-
 Cadair Idris is a mountain near the town of Dolgellau and one of the most popular in Wales for walkers and hikers. This is a tourist information guide to the local area.

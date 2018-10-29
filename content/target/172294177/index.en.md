@@ -10,5 +10,3 @@
   "start_date": "2013-07-10T00:00:00Z"
 }
 
-# Flintshire Business Awards | Gwobrau Busnes Sir y Fflint
-

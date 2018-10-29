@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock Scotland Latter-Day Saints on Facebook
-
 Facebook page of a branch of the Church of Jesus Christ of Latter-Day Saints located in Greenock, Renfrewshire.

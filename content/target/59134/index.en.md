@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: EURATOM
-
 The UK became a member of the European Atomic Energy Community, better known as Euratom on 1 January 1973. In March 2017, the UK Government gave notice of its intention to leave Euratom as part of the Article 50 notification process. On 11 October 2017, the Government introduced the Nuclear Safeguards Bill 2017-19 to make provision for nuclear safeguards after the UK leaves Euratom.

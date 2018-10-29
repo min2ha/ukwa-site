@@ -10,5 +10,3 @@
   "start_date": "2014-12-10T00:00:00Z"
 }
 
-# Boomslang Poetry
-

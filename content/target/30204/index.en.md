@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Distillery Blog, The | VisitScotland
-
 The Distillery Blog, a blog run by Visit Scotland, Scotland's tourist board.

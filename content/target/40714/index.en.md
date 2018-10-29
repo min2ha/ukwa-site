@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Pattenmakers in WW1:a creative journey through army boots,pattens and mud
-
 This project focuses on WW1 army boots - who made them, who wore them and the role they play in our heritage.

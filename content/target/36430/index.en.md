@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Stop the bullying, Dave, says Nick Ferrari
-
 Column by Nick Ferrari

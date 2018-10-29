@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lerwick Celtic Football Club
-
 Weebly site for an amateur football club based in Lerwick, Shetland.

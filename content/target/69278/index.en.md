@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Roy Moxham
-
 Roy Moxham is a British writer, the author of historical books highlighting little-known historical facts

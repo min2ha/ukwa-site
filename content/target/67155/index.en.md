@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Abertawe Bro Morgannwg University Health Board Library Service
-
 Abertawe Bro Morgannwg University Health Board Library Service provide access to quality library & information resources for all staff and students of Abertawe Bro Morgannwg University Health Board to support patient care, education, research and life long learning.

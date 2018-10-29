@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Much Loved
-
 Much Loved is an online memorial website. Much Loved is the working name of the MuchLoved Charitable Trust which was awarded registered charity status in 2007. 

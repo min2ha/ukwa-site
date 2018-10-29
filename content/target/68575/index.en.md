@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Parishes of Ss John & Columba and St Peter in Chains
-
 Site of two Roman Catholic parish churches in Scotland, located at Rosyth and Inverkeithing, Fife.

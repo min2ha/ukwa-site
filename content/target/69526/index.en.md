@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Craig Lodge Family House of Prayer
-
 Site of a Roman Catholic prayer retreat located at Dalmally, Argyll & Bute.

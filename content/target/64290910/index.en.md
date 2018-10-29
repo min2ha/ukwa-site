@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Visit London: The Queen's Diamond Jubilee in London
-

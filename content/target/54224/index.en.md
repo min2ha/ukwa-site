@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Borders Folk 
-
 Site providing information on Scottish folk music in the Scottish Borders, and of the annual Denholm Folk Festival.

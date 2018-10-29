@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: "Jeremy Hunt blames social media giants for allowing cyber bullying to push teenagers into depression and self harm"
-
 The Sun news article about social media, self harm and cyberbullying

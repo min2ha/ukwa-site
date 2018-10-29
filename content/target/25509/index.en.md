@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory manifesto turns this campaign into the Stalingrad of empty words
-
 None

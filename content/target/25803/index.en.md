@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: John Major: Tory election campaign lacks passion
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colchester Hospital
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Ensuring expats vote in the EU referendum could guarantee Brexit
-

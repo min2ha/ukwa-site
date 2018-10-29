@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Eastern Daily Press
-
 News, sport, entertainment and community information for Norfolk, north Suffolk and north-east Cambridgeshire from the Eastern Daily Press.

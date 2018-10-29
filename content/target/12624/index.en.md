@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Parliament: Scottish Referendum 2014
-
 <p>This page links to articles that explore the potential impact on the UK of Scottish independence. They are produced by the House of Commons Library and aim to inform the debate from an impartial viewpoint.</p>

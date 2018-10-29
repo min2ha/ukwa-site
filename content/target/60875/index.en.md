@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Langholm Rugby Club on Pitchero
-
 The official website of Langholm Rugby Football Club.

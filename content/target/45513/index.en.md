@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: OECD in Brexit warning U-turn as it revises UK growth forecast
-

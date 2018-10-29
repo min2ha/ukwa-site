@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The Ed Miliband hits Ibiza after standing down as Labour Party leader
-
 None

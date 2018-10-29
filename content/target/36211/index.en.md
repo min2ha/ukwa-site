@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Eluned Morgan (@Eluned_Morgan) on Twitter 
-
 Eluned Morgan is the Labour candidate for Mid and West Wales at the 2016 National Assembly Elections. 

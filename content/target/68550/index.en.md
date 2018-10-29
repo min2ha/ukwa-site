@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith FFaW (@fflintawrecsam) on Twitter 
-
 A Menter Iaith/ Welsh language initiative for the Welsh Language in Wrexham and Flintshire.

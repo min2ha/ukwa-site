@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# The British Pearl Association
-
 A trade association to promote support, and advice for designers working with pearls.

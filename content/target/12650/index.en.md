@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cara Hilton MSP
-
 Cara Hilton was Scottish Labour member of the Scottish Parliament for Dunfermline from 2013 to 2016.

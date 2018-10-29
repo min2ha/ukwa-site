@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Plaid Cymru Gwynedd (@Plaid_Gwynedd) on Twitter
-

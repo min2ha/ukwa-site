@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# 'ABSOLUTE NONSENSE' George Osborne slammed for claims that defence spending will plummet if Britain leaves EU 
-
 Sun, The

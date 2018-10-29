@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Llanilid with Pencoed and Heol-Y-Cyw
-

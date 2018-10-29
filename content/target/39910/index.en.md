@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE Young Team (@RISEyoungteam) on Twitter
-
 Twitter profile of the youth wing of RISE: Scotland's Left Alliance.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: European Court to rule on whether UK can halt Brexit
-
 A cross-party group of politicians were arguing that Article 50 could be revoked if MPs voted to do so without the agreement of the other member states. The Court of Session in Edinburgh had previously rejected their bid to have the case referred to European judges. However, they won an appeal, and the European Court of Justice was to be asked to give a definitive ruling.
 
 

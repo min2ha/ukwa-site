@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Business
-
 Jersey Business provides free, independent, confidential advice and support to businesses in Jersey. They work with businesses at all stages of their commercial journey, from start-up through improvement, growth and exit.

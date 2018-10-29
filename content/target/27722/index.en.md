@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Surrey and Berkshire Magna Carta bearers join pageant
-

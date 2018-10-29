@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crewe Alexandra F.C.
-
 Crewe Alexandra Football Club is a professional association football club based in the town of Crewe, Cheshire, England. Nicknamed The Railwaymen because of the town's links with the rail industry, they play at Gresty Road.

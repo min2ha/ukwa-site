@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# North/South Inter-Parliamentary Association: Impact of Brexit on Cross-Border Activity
-
 Briefing paper on the impact of Brexit on cross-border activity, prepared by the NIA Research and Information Service and the Oireachtas Library and Research Service for the eighth meeting of the North/South Inter-Parliamentary Association.

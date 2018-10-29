@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Elaine Smith MSP (@elainesmithmsp) on Twitter
-
 The Twitter profile of Elaine Smith, the Scottish Labour candidate for the Central Scotland list in the 2016 Scottish Parliament election.

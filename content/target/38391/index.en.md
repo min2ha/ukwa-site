@@ -10,6 +10,4 @@
   "start_date": "2016-04-07T11:00:00Z"
 }
 
-# Clive Arrowsmith
-
 Clive Arrowsmith is a London based, celebrated international photographer from north Wales.

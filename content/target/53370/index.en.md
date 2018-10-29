@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Your Vote Matters (@YourVote_UK) on Twitter
-
 Information on voting in the UK. Your vote matters, is run by @ElectoralCommUK, the UK’s independent elections body. Welsh tweeting is done by @DyBleidlaisDi.

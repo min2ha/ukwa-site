@@ -10,5 +10,3 @@
   "start_date": "2017-04-27T09:00:00Z"
 }
 
-# Kelly Marie Blundell (@KellyMarieLD) on Twitter (Liberal Democrats candidate for Lewes)
-

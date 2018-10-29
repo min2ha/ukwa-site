@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Stratford Circus Arts Centre
-
 Stratford Circus Arts Centre aim to bring accessible, world-class performances and creative learning to the doorsteps of people and communities in Newham and East London.

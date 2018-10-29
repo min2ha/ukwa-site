@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Magic Wand Shop
-
 Site of purveyors of magic wands and other magic related products.

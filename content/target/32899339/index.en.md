@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Andrew Rosindell's website
-
 Andrew Rosindell's (Labour MP for Romford) website

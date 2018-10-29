@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Barry Town United Football Club
-

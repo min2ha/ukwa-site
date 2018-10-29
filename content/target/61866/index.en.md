@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK's offer to EU nationals arriving during Brexit transition
-
 EU nationals who arrive in the UK during the transition period after Brexit will be eligible for indefinite leave to remain. It means free movement of people is effectively set to continue until the end of the two year or so transition. But the UK says new arrivals should not expect all the same rights as now.
 
 

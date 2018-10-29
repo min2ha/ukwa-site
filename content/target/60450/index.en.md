@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Beyond Blue Passports: UK/EU immigration after Brexit
-
 Reviews the rules on visits and long-term immigration to the EU that will likely apply to UK citizens after Brexit

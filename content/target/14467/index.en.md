@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Deganwy History Group
-
 <p>Deganwy History Group website provides details on the history of Deganwy , Llanrhos and Tywyn.</p>

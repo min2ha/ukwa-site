@@ -10,5 +10,3 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# Woodlesford: the Story of a Station
-

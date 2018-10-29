@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Scottish Labour Party
-
 The Scottish Labour Party (Scottish Gaelic: Pàrtaidh Làbarach na h-Alba, Scots: Scots Labour Pairty; (branded Scottish Labour) is the sub-national section of the UK Labour Party that covers Scotland.

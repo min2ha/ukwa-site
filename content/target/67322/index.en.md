@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-#   Hungarian Medical Association  of the United Kingdom (HMA-UK)
-
 The Hungarian Medical Association of the United Kingdom is a professional, non-profit, voluntary organisation to support doctors in Britain of Hungarian origin.

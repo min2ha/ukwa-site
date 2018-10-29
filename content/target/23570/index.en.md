@@ -10,6 +10,4 @@
   "start_date": "2015-05-07T00:00:00Z"
 }
 
-# Public health information on Ebola needs urgent improvement
-
 Article on Public health information on Ebola

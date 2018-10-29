@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St-Keverne.com  
-
 St Keverne is a civil parish and village on the Lizard Peninsula in Cornwall, England, United Kingdom. This website covers a variety of topics such as, Local History Society, Parish Records, Old Photographs, The Parish Hall, Local Businesses, Music, Talks, Old News etc.

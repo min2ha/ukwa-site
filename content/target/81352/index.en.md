@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Trail West
-
 Glasgow-based band recording in English and Gaelic.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Hopethruhorses: Equine Involvement Therapy
-
 Hopethruhorses is based in Oxfordshire and offers a successful and alternative route to recovery from mental health and behavioural disorders.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with Chancellor Merkel: 29 September 2017 
-
 Prime Minister Theresa May met with German Chancellor Angela Merkel in Estonia. The Prime Minister re-iterated her position on Brexit at the meeting.

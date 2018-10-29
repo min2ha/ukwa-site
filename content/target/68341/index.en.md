@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swindon Rugby Club (@SwindonRFC_) on Twitter
-
 The official website of Swindon Rugby Football Club.

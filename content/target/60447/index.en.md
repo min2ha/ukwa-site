@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 17th January 2018: European Union (Withdrawal) Bill
-
 The European Union (Withdrawal) Bill, as amended in Committee, is passed by the House of Commons.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T11:00:00Z"
 }
 
-# Skelton-In-Cleveland In History
-
 A local history site

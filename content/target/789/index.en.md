@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# NHS England
-
 The NHS Commissioning Board (NHS CB) was established on 1 October 2012 as an executive non-departmental public body. Since 1 April 2013, the NHS Commissioning Board has used the name NHS England for operational purposes.

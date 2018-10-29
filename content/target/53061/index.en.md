@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Eluned Parrott (@Eluned_Parrott) on Twitter
-
 Liberal Democrat Candidate for Cardiff Central at the 2017 General Election.

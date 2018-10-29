@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-#  Democracy Movement
-
  The Democracy Movement was founded in 1998 through a merger of the Referendum Movement - the non-party 'Keep the Pound' campaign which came out of Sir James Goldsmith's Referendum Party - and the Euro Information Campaign established by the Yorkshire businessman Paul Sykes.

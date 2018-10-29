@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Open Dialogues
-
 Open Dialogues is a writing collaboration that produces writing on and as performance. It was founded by Rachel Lois Clapham and Mary Paterson in 2008.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Ivor Cutler
-
 Site dedicated to the life of the Scottish poet, teacher and musician, Ivor Cutler.

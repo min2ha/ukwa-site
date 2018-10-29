@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# NiceCupOfTeaAndASitDown
-
 None

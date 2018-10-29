@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Auto Express: General election 2015
-
 Auto Express is a weekly motoring magazine known for its spy shots and speculative illustrations of forthcoming cars. It also covers news, road tests, first drives, readers' letters and feedback, product tests, long-term tests, used cars, prices, motorsport and comment columns.

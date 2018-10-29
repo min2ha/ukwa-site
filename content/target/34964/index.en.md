@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Copyright Hub
-
 Copyright Hub helps people finding the rights holders and negotiating the terms of re-use.

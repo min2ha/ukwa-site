@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Departing Welsh MPs clear their Westminster desks
-

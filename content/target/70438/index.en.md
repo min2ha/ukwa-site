@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Conservative anger at Philip Hammond's 'dodgy project fear'
-
 Brexiteers attacked Philip Hammond for reiterating a warning that a "no-deal" Brexit could damage the economy. The chancellor's warning was published in a letter, hours after the government laid out plans for a "no-deal" Brexit.
 
 

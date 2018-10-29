@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Colvend, Southwick and Kirkbean Parish Church
-

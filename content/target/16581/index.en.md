@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mr Farage, you are not the only Nigel standing in South Thanet
-
 None

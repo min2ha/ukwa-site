@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Altnaharra and Farr
-
 The website of the Church of Scotland Parish of Altnaharra and Farr.

@@ -10,5 +10,3 @@
   "start_date": "2015-06-05T09:00:00Z"
 }
 
-# Change.org: Petition · Ban all sectarian marches from Glasgow
-

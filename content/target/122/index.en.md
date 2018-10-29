@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Great Ormond Street Hospital
-
 None

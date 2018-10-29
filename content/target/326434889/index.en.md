@@ -10,5 +10,3 @@
   "start_date": "2015-10-13T00:00:00Z"
 }
 
-# Railfuture Wales | Railfuture Cymru
-

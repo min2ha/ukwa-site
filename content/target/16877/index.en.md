@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Colleges (AoC): General Election 2015
-
 The Association of Colleges (AoC) is a not-for-profit membership organisation set up in 1996 by colleges to act as their collective voice. In 2015, AoC represents and promotes the interests of more than 320 further education, sixth form, tertiary and specialist colleges across the UK.

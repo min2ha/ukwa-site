@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New polls on April 9: Who will win the General Election?
-
 None

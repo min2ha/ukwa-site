@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Finlay Carson for MSP - Finlay Carson for MSP for Galloway and West Dumfries
-
 Finlay Carson is the Scottish Conservative and Unionist Party candidate for Galloway and West Dumfries constituency in the 2016 Scottish Parliament election.

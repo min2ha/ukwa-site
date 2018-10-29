@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# La Boulangerie
-
 La Boulangerie is a French bakery.

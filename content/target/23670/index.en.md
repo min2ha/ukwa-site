@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T08:00:00Z"
 }
 
-# Witnesses in Scotland
-
 A Scottish Government information site for potential witnesses.

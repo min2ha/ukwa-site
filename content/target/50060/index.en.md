@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Lozana Rossenova
-
 Lozana Rossenova is a London-based communications designer & researcher with interests in publishing and digital cultures.

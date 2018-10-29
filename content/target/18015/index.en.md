@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Association of British Travel Agents
-
 ABTA is the UK’s largest travel association, representing travel agents and tour operators. 

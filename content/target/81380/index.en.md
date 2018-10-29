@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: PM's compromises a 'concern' for cabinet ministers
-
 Cabinet ministers raised concerns about potential compromises with the EU over Brexit at a No 10 meeting on October 11th 2018. They were thought to fear the UK would stay in a form of customs union with the EU for an unlimited period, if a trade deal cannot be done in time.
 
 .

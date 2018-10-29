@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Seb Rodger
-
 Seb Rodger is an international 400 metre hurdler who has his sights firmly set on a place in the Great Britain team for the 2016 Olympic Games in Rio, Brazil.

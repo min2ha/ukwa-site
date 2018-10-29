@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Cambridge City Council
-
 Website provides information on local services, news releases, and access to consultations and council committee meeting papers. You can also find policy, strategy and planning documents and information on council expenditure.

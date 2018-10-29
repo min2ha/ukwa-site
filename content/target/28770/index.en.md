@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Andy Musicals
-
 Website created by Andy Edward (d. 28th April 2015) containing theatre plays and the youth work in Bedfordshire. He also ran the Leighton Buzzard Youth Theatre tour of all  towns and villages along the Oxford - Bedford railway in September 1994, which through his play  Beeching's Folly,  indirectly resulted in the formation of the East-West Rail Consortium in 1995.  

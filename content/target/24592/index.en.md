@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 'Green Belt is safe under us until 2020', Conservative manifesto will say 
-
 None

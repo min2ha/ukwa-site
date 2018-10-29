@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Gwent Bach Choir
-
 The Gwent Bach Choir, Previously named the Gwent Bach Society was formed in October 1951 following the bi-centenary of the death of Johann Sebastian Bach.

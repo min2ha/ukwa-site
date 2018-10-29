@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Annie Giles Hobbs
-
 Annie Giles Hobbs is a Welsh artist based in the Butetown Artist studio and gallery Complex in Cardiff Bay.

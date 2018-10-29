@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# It's BRAW : Blairgowrie & Rattray Arts Week
-
 Site of an annual festival of crafts, arts, music and drama in the burgh of Blairgowrie and Rattray, Perth & Kinross.

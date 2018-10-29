@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# GanesFest
-
 Website for GamesFest, a one day tabletop gaming convention based in Hertfordshire.

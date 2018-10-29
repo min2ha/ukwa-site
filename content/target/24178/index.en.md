@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: An Indian woman just made British history - maybe I can be Prime Minister after all?
-
 None

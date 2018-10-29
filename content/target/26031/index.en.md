@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories and Labour are neck and neck in last poll before parliament is dissolved
-
 None

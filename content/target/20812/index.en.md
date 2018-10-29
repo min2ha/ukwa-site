@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Veart (@Martin_Veart) on Twitter
-
 Twitter profile of Martin Veart, Scottish Liberal Democrat candidate for Edinburgh North and Leith in the 2017 general election.

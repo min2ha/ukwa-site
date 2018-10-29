@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pool, The: Boris, the Brexit and what the EU referendum will do to relationships 
-
 The referendum on Europe has the potential to rip apart political allegiances and previously cosy friendships

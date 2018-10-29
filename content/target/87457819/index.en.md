@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Rhombus Systems Ltd
-

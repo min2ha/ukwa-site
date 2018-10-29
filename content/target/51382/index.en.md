@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# United Kingdom Petroleum Industry Association
-
 UKPIA represents the interests of eight member companies engaged in the UK downstream oil industry on a range of common issues relating to refining, distribution and marketing of oil products, in non-competitive areas.

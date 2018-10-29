@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip supporters prefer to see Nigel Farage drinking tea rather than beer
-
 None

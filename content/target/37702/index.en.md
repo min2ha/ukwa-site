@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit campaigners hail decision by cosmetics firm Avon to relocate to the UK as proof Britain can thrive outside the EU  
-

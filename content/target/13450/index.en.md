@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Hood MP (JimHood_MP) on Twitter
-
 <p>The twitter profile of Jim Hood, Labour Member of Parliament for Lanark and Hamilton East.</p>

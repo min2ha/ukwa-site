@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris's bid to heal EU divide FAILS as Remainers brand him a 'charlatan' and businesses savage the lack of detail - but Brexiteers praise his 'excellent' vision to restore Britain's 'global identity'   
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Anglo Pacific
-
 Anglo Pacific is a company listed on the London Stock Exchange focused on royalties connected with the mining of natural resources. It is an objective of the company to pay a substantial portion of its royalty revenues to shareholders as dividends.

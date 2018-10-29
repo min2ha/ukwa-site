@@ -10,6 +10,4 @@
   "start_date": "2014-03-27T03:00:00Z"
 }
 
-# British Post Office Buildings and Their Architects
-
 None

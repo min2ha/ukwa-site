@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Electric Frog
-
 Site of a music festival located in Scotland.

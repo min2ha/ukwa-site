@@ -10,5 +10,3 @@
   "start_date": "2015-07-04T10:00:00Z"
 }
 
-# Coleg Ceredigion
-

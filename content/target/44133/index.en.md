@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# The Quarterly Review
-
 The site contains a mixture of in-depth political essays on important and controversial subjects.

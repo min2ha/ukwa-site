@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Nick Clegg RESIGNS as Lib Dems face wipeout in 'cruel' night
-
 None

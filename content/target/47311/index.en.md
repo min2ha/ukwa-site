@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# West Wales Women & Girls League
-

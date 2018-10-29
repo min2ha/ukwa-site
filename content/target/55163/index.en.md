@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'Dreamer' Tusk says UK may yet stay in the EU
-
 European Council President Donald Tusk quoted lyrics from John Lennon's Imagine to suggest the door remains open to the UK staying in the EU.

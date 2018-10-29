@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Sikorski Polish Club, The: Concerns about the EU referendum result:
-

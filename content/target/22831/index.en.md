@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Sansome on Facebook (Liberal Democrats candidate for Charnwood)
-
 Simon Sansome stood as Liberal Democrats Candidate for Charnwood at the 2015 General Election but was not elected. 

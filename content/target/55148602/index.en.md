@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alistair Brownlee
-
 None

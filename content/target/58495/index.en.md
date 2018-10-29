@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Scotcoin
-
 Site of a project and live site to introduce a digital currency as an alternative to UK currency.

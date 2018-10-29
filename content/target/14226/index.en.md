@@ -10,6 +10,4 @@
   "start_date": "2014-10-10T07:00:00Z"
 }
 
-# University of Manchester Library
-
 None

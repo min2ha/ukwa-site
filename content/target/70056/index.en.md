@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# YorMedia Solutions
-
 YorMedia Solutions is a media business founded by industry experts, offering a full service agency solution to digital publishers.

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# National Theatre of Scotland
-
 Site of the National Theatre Company of Scotland, working in partnership with theatres in Scotland, UK and abroad to stage theatrical productions in theatres in the UK, as well as in small community spaces.

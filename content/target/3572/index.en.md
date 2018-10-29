@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Fleetwood Weekly News
-
 None

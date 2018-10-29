@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Parliament UK: A new Magna Carta?
-

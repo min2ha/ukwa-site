@@ -10,5 +10,3 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Philanthropy Wales
-

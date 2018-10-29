@@ -10,5 +10,3 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# North East Wales Search And Rescue | Chwilio Ac Achub Gogledd Ddwyrain Cymru
-

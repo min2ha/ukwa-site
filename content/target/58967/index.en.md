@@ -10,6 +10,4 @@
   "start_date": "2017-11-19T09:00:00Z"
 }
 
-# Love Hate Social Club
-
 A website written by Ami James who has hand picked what they believe to be the best in the world of tattoo artistry from the US, Europe and the rest of the world.

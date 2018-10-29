@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Library and Learning Services Conference 2012, University of Northampton
-
 None

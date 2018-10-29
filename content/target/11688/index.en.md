@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Libby Clegg | Eyes Wide Shut, Running Blind
-
 <p>The website of Libby Clegg, a Paralympic silver medalist, world champion sprinter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

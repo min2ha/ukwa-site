@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Katelan Consulting Ltd
-

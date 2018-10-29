@@ -10,5 +10,3 @@
   "start_date": "2018-04-04T09:00:00Z"
 }
 
-# Rosalind Hibbins: Stone carving and other activities
-

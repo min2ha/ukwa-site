@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: EU referendum
-
 Page give links to government information on the EU referendum.

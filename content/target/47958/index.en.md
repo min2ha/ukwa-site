@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Thy Kingdom Come (@thykingdom_come) on Twitter 
-
 The Twitter profile that accompanies the website http://www.thykingdom.co.uk/ 

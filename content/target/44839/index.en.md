@@ -10,5 +10,3 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Banc Bwyd Blaenau Gwent | Blaenau Gwent Foodbank
-

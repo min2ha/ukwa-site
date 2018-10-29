@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Thornlie Boys
-
 Site of a Scottish musical duo whose songs focus on Glasgow Rangers Football Club, Loyalism in a UK and Northern Irish context, and the Orange Order.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Welsh Green Pride
-
 This is the LGBTIQA+ Group within the Green Party in Wales.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Castle Bromwich Community Website
-

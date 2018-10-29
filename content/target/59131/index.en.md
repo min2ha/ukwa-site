@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and Medicines Regulation
-
 his briefing paper provides an overview of current medicines regulation in the UK and the relationship with the EMA and regulatory agencies in EU Member States. . It will consider what the options may be in this area following Brexit, and present comment on these from stakeholders.

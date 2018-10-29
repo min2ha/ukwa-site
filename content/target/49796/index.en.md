@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# What's On Scotland
-
 Site of an organisation providing events listings for theatre, sport, music, exhibitions and so on.

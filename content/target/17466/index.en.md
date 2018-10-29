@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Federation of Master Builders: FMB Programme for Government 2015-2020
-
 The Federation of Master Builders (FMB) is a UK trade association established in 1941 to protect the interests of small and medium-sized building firms. The FMB is independent and non-profit-making, lobbying for members' interests at both national and local levels.

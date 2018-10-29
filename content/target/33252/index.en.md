@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Local History from North Kildare
-
 This website features local history from North Kildare and contains information on the Volunteers from the area that fought in the Easter Rising, 1916.

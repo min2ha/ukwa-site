@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Parasport
-
 Parasport is a web-based signposting tool run by the British Paralympic Association (BPA) with support from the professional services firm Deloitte.

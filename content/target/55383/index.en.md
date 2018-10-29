@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Cumbria Farm Watch
-
 ‘Farmwatch’ is an extension of the Neighbourhood Watch movement aimed specifically at the farming community. The objectives of Farmwatch mirror that of Neighbourhood Watch. This is the official site of the Cumbria branch of Farm Watch in the UK.

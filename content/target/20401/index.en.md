@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian McKenzie on Facebook
-
 The facebook page of Ian McKenzie, Labour parliamentary Candidate for Inverclyde in the 2015 General Election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour leader Ed Miliband’s lack of red ties
-
 None

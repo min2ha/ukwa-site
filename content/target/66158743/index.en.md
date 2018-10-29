@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Goldie Sayers Professional Athlete
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Patsy King (@PatsyKingEdEast) on Twitter
-
 Twitter profile of Patsy King, Scottish Labour candidate for Edinburgh East in the 2017 general election.

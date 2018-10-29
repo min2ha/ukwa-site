@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Out & Proud
-
 LGBT group campaigning for the UK to leave the EU

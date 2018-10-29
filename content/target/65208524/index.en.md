@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# LUX - Artist's Moving Image
-

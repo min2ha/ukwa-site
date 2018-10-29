@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Northern Film & Media
-
 Northern Film & Media is the North East's creative agency, nurturing talent, supporting media businesses and driving commercial film and television production within the region.

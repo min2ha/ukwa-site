@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Katy Beddoe (@KatyBeddoe) on Twitter (Green Party candidate for Islwyn)
-
 Green Party candidate for Caerphilly at the 2015 General Election and Islwyn at the 2016 National Assembly for Wales Elections.

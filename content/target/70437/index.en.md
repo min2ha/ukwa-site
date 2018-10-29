@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Finishers and Interiors Sector Ltd. (FIS)
-
 Trade association representing the fit-out and finishes sector, Formed from the merger of the Association of Interior Specialists and the Federation of Plastering and Drywall Contractors in 2015.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Voluntary Action North Lanarkshire 
-
 Site of an organisation based in Wishaw aiming to foster dynamic, inclusive communities by promoting and supporting volunteering and the development of the voluntary and community sectors, improving the quality of life for all North Lanarkshire’s citizens.

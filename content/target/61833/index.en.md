@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Killyclogher GAC
-
 Killyclogher GAC is a handball team from Omagh, Co Tyrone, Northern Ireland.

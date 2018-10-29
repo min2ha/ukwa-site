@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Mads
-
 The Elizabethan Madrigal Singers is a choir that was founded by Walter Ryan in 1950 at Aberystwyth University. This online archive has been created paying homage to the past 60 years. This Mads archive brings together pictures, newspaper articles and sound files that have been found in both private collections and at the National Library of Wales.

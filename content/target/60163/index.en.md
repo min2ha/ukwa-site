@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# ukCaving.com
-
 An online enthusiast community concerned with caving in the UK. Discusses events, caving locations in the UK, trip reports, organisations and various other related topics.

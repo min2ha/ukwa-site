@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Theatrics
-
 A graphic novel by Neil Gibson, Leonardo Gonzales and Jan Wijngaard. Follows the story of Rudy, one time king of Broadway in 1920s New York.

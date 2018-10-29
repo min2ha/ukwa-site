@@ -10,8 +10,6 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Things By Dan
-
 Dan Berry is an illustrator, designer, cartoonist and lecturer based at
 the School of Creative Arts, Wrexham Glyndwr University. He has worked
 with Image Comics, Blank Slate Books, Great Beast Books, Fanfare books

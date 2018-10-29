@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Basford & Cliffe Vale Residents Association
-

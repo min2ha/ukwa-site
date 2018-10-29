@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Department of Computer Science and Information Systems, Birkbeck, University of London
-
 Official website of the computing department.

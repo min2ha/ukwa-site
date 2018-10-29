@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Billionaire inventor James Dyson slams the EU for demanding ‘billions and billions’ in a divorce bill and says Britain should WALK AWAY from Brexit talks to get the best deal  
-

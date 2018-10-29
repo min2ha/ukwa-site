@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian, The: If we care about Britain's future, we must not forget our past
-
 None

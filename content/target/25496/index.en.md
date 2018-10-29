@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Text message suggests Tories plan to outflank Labour on minimum wage
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I'll help Labour lock out the Tories, says Sturgeon
-
 None

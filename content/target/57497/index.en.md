@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# New Sinfonia, North East Wales Sinfonia 
-
 NEW Sinfonia is an orchestra based in North Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: First Minister's Questions: On the road to indyref two?
-
 None

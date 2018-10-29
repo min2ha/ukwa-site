@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Car Insurance Guide
-
 None

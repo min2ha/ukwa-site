@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: Revealed: Secret plot to oust Theresa May in Brexiteer putsch and install David Davis as 'interim' PM with Boris Johnson urged to delay his leadership bid until after Brexit
-
 Boris Johnson is being urged to anoint David Davis as ‘interim’ Prime Minister as part of a Brexiteer putsch to oust Theresa May as early as October.

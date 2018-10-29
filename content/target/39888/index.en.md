@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Ayrshire Liberal Democrats (@ayrshirelibdems) on Twitter
-
 Twitter profile of the Ayrshire and Arran branch of the Scottish Liberal Democrats.

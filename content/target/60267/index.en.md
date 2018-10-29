@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# SwanseaForEurope (@Swansea4Europe) on Twitter 
-
 The group are campaigning in Swansea against a Hard Brexit.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Black Country Festival
-
 Website for the Black Country Festival, which promotes black (West Midland) culture. 

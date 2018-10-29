@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# British Show Horse Association (BSHA), The
-
 The British Show Horse Association (formerly known as The British Show Hack, Cob and Riding Horse Association - BSHC&RHA) was founded in 1935 by owners and supporters of show Hacks and Cobs. Today the Association is the governing body for the Showing of Hacks, Cobs, Maxi Cobs and Riding Horses.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Manifestos are dul- all the more reason to chack the small-print
-
 None

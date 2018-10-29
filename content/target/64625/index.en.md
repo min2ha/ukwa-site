@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# ASFA Cardiff
-
 ASFA cardiff contributes ideas and opinions to help inform local commissioners of substance misuse services and highlights to the service providers where there might be a need for another service, or alterations to a current service.

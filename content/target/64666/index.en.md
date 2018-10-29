@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Leven Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Leven in Fife.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# We Are Cardiff
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Friends of Glasgow University Library
-
 Site of a society dedicated to support of the University of Glasgow Library.

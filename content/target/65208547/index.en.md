@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# South London Women Artists (SLWA)
-
 None

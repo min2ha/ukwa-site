@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# From Scotland With Love
-
 <p>Made entirely of Scottish film archive, a journey into our collective past, the film explores universal themes of love, loss, resistance, migration, work and play. Part of the Glasgow 2014 Cultural programme.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Oldest Scottish Companies
-
 Wiki for a project established to identify the remaining one hundred oldest companies in Scotland and their archives.

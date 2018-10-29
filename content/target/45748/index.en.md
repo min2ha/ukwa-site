@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Triongl Theatre
-
 TRIONGL is a Cardiff-based theatre company that works collaboratively to devise new pieces of theatre that engage with socially relevant themes.

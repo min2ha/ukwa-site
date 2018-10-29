@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Man Deletes His 18 Terabyte Porn Collection To Help Overcome Addiction
-
 News article about a man who downloaded a 18 terabytes of porn due to his porn addiction and deleted it to help overcome his addiction 

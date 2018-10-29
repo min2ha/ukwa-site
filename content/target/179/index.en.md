@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Surrey County Hospital
-
 None

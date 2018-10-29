@@ -10,5 +10,3 @@
   "start_date": "2009-10-20T00:00:00Z"
 }
 
-# Health Education Trust
-

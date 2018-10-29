@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Stephen West
-
 Stephen West is an artist, drawyer, sculptor, lecturer, curator and writer working at Dolypebyll in Montgomeryshire.

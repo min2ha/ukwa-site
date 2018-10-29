@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Gorllewin Sir Gar
-
 A community-based organisation which works to raise the profile of the Welsh language in Carmarthenshire.

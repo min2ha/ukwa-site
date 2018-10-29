@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# LUX Scotland
-
 Site of an agency that supports and promotes artists' moving image practices in Scotland

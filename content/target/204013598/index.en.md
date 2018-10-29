@@ -10,6 +10,4 @@
   "start_date": "2013-12-15T15:00:00Z"
 }
 
-# University of Edinburgh: Institute of Advanced Studies in the Humanities, The
-
 None

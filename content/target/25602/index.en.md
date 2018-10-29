@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: General election 2015: why is Labour dominating polls in London?
-
 None

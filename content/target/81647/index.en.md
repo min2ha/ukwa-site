@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Brexit. It’s time for an end to illusions. May must choose between the backstop and her country.
-
 The first law of the Brexit negotiations is that if Theresa May can put off a difficult decision, she will.  It is clear that the options she is mulling include staying in the Customs Union in all but name.  This would suggest an end to her confidence and supply arrangement with the DUP, the loss of the Government’s majority and the resignation of Cabinet Ministers. So she will postpone the decision.
 

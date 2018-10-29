@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Food For Thought (Think_Scotland) on Twitter
-
 <p>The twitter profile of ThinkScotland, founded as a virtual think tank reflecting the perspective of Scottish Conservative authors; now relaunched as an independent not-for-profit debating forum with a cross section of topical, political and cultural writing.</p>

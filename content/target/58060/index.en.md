@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Rhys Bevan Jones
-
 Rhys works in the field of psychiatry in Cardiff, but is alo an artist. Rhys Bevan Jones is interested in the relationship between psychology/psychiatry and the visual world, and much of his work is based on themes such as mental states and disorders and identity. 

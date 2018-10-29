@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Folk at the Salmon Bothy
-
 Site of a traditonal music venue in Portsoy, Aberdeenshire, Scotland.

@@ -10,5 +10,3 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Education Effectiveness Service: Supporting schools in the county of Swansea
-

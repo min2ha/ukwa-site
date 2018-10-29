@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UK flags to be flown at half-mast for the funeral of Nelson Mandela
-
 <p>Guidance from the Department for Culture Media and Sport to local authorities on the flying of flags on the day of Nelson Mandela's funeral.</p>

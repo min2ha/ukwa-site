@@ -10,5 +10,3 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Heritage Group for the Chartered Institution of Building Service Engineers
-

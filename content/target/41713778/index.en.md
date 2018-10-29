@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Cinnamon Trust, The
-
 None

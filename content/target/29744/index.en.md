@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Pleasance Times on Tumblr
-
 Tumblr for the Pleasance Theatre which opened in Edinburgh as part of the 1985 Festival Fringe, and which now has venues in Edinburgh and London. Features interviews with artists.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gemma Doyle (GemmaWDMP) on Twitter
-
 <p>The twitter profile of Gemma Doyle, Labour Shadow Minister for Defence Personnel, Welfare &amp; Veterans and Labour (Co-op) Member of Parliament for West Dunbartonshire.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Five things we’ve learned about David Cameron from his kitchen interview
-
 None

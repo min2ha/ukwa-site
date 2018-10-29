@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Michael Gove raises question of 'quickie divorce' for UK from EU
-

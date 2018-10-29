@@ -10,5 +10,3 @@
   "start_date": "2015-08-24T10:00:00Z"
 }
 
-# Cymdeithas Cefnogi ME a CFS Cymru | Welsh Association of ME & CFS Support
-

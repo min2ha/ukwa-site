@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's Church Paisley
-

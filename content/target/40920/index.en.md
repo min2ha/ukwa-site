@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Dumfries and Galloway Environmental Resources Centre
-
 Site on an organisation aiming to further the appreciation, understanding and protection of the natural environment of Dumfries and Galloway by collecting, collating, managing and safeguarding relevant data and providing a focal point through which anyone may access the information.

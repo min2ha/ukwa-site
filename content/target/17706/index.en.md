@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Far-right group orchestrated email campaign over Ukip TV drama
-
 None

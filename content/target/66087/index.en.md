@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Cornhill Scotland
-
 Site of a training course and the people who deliver it based in Glasgow, designed to train Christian men [sic] to preach, emphasising accurate biblical understanding, teaching the bible effectively and applying the bible appropriately.

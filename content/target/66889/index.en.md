@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# John R Adam & Sons Limited
-
 The website of John R Adam & Sons Limited, a Glasgow-based company that processes ferrous and non-ferrous metals. 

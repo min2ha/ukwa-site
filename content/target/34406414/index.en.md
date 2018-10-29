@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# BBC Blogs: The Devenport Diaries
-

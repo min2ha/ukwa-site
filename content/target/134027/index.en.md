@@ -10,5 +10,3 @@
   "start_date": "2006-09-25T00:00:00Z"
 }
 
-# Coleg Harlech WEA: Adult Education with a difference - CAG Coleg Harlech: Addysg unigryw i oedolion
-

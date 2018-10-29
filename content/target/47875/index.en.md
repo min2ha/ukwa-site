@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dr James Davies MP (@jamesdaviesmp) on Twitter
-
 Dr James Davies is the MP for the Vale of Clwyd.

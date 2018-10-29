@@ -10,5 +10,3 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Reading Wales: Promoting Welsh Writing in English
-

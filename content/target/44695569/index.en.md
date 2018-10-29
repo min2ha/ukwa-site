@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Highland and Islands Greens
-
 Website for the Highland and Islands branch of the Scottish Green Party during the 7th May 2015 UK General Elections.

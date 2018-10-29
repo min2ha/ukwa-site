@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Becky Downie (Bdownie) on Twitter
-
 The twitter profile of gymnast Rebecca Downie, member of England's Women's Artistic Team for the Glasgow 2014 Commonwealth Games.

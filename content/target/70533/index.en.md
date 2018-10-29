@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Westoe Rugby Union Football Club on Pitchero
-

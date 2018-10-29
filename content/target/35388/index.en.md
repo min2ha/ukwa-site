@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Hospital for Tropical Diseases: Zika virus outbreak in South America
-
 Document on Zika virus and related health issues

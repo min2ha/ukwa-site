@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron should enjoy his ‘sweet victory’ – before it turns sour
-
 None

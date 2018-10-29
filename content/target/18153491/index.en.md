@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Plasma Physics and Fusion, The University of York
-

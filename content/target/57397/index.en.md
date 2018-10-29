@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Cardiff Open Air Theatre Festival
-
 The Cardiff Open Air Theatre Festival, formerly known as the Everyman Open Air Theatre Festival was established in 1983. The festival is held in Sophia Gardens.

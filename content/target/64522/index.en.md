@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-#  Daniel M Goodbrey (@merlism) on Twitter
-
 Comics creator and new media lecturer (Daniel Merlin Goodbrey)

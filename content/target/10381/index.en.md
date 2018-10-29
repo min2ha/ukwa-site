@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Linda McAvan (Labour MEP for Yorkshire and the Humber)
-
 Linda McAvan stood as Labour candidate for Yorkshire and Humberside at a European Parliament by-election in 1998 and was elected to serve as MEP. She was then re-elected in 1999,  2004, 2009 and 2014 and is one of the longest serving Labour MEPs.

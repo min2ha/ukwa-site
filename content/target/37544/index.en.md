@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gazette: Rednock School sixth form hosts EU referendum debate
-
 Two local councillors and a researcher for an organisation supporting the exit of the UK from the EU made up the panel which discussed the arguments surrounding the upcoming referendum. 

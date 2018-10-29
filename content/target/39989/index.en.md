@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SSP Edinburgh North and East Lothian Branch on Facebook
-
 Facebook page of the Edinburgh North and East Lothian branch of the Scottish Socialist Party (SSP).

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Neil Fachie MBE (@neilfachie) on Twitter
-

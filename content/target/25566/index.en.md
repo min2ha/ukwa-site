@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron's dishonest and foolish tax pledge is an insult to voters
-
 None

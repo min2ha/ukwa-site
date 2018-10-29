@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron ridicules 'desperate attention seeker' Nick Clegg
-
 None

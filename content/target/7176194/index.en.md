@@ -10,5 +10,3 @@
   "start_date": "2008-05-19T00:00:00Z"
 }
 
-# National Pig Association (NPA)
-

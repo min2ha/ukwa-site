@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Westray Heritage Trust
-
 Site of a local heritage centre and the trust that operates the centre, located on the isle of Westray, Orkney.

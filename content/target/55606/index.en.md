@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Socialist Health Association:Bingo and Your Brain: How Online Gaming Can Aid Your Mental Health
-
 Article regarding the benefits of online gaming to mental health

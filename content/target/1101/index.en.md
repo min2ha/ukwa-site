@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Coast Cervical Screening QA Reference Centre
-
 None

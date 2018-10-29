@@ -10,6 +10,4 @@
   "start_date": "2016-09-03T11:00:00Z"
 }
 
-# British Writers In Support of Palestine
-
 BWISP exists to support the Palestinian call for an academic and cultural boycott of Israel, and to promote Palestinian literature and literary events. BWISP members pledge not to attend state-sponsored literary events in Israel, including university conferences.

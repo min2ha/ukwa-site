@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Barclay & Mathieson Limited
-
 Website of a steel stockholder and supplier based in Scotland. The company is also known as B+M Steel.

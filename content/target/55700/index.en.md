@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Arvans Church, Monmouth
-

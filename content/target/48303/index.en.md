@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: New post-Brexit landscape could squeeze Labour out, warns new report
-
 An article based on a think tanks report six months after the EU Referendum result.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Worthing Rugby Football Club
-
 The premier rugby club in Sussex for all ages and abilities.

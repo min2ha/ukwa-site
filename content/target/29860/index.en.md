@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Derby Comedy Festival
-
 Website for the Derby Comedy Festival, which began in 2014.

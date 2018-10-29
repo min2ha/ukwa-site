@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cen Phillips (@CenLD) on Twitter
-
 Cen Phillips is the Welsh Liberal Democrat Candidate for Aberavon at the 2017 General Election.

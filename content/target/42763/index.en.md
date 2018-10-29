@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Tarbert.info
-
 Site providing information on amenities, accommodation and cultural attractions in the village of Tarbert in Argyll and Bute, Scotland.

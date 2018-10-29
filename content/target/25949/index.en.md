@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Give zero-hours workers regular contracts after 3 months – Miliband
-
 None

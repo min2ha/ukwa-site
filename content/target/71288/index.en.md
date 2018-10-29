@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Anglo Asian Friendship Society, The
-
 The Anglo Asian Friendship Society is the largest multi-faith registered charity in Britain and operates across three continents with particular focus in India, Pakistan, Canada and Greece. It has almost 3000 members in Britain, members of every race, religion and community.

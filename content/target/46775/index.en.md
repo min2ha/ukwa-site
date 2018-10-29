@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Jayne Bryant AM on Facebook
-
 Welsh Labour Assembly Member for Newport West.

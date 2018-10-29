@@ -10,5 +10,3 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Cardiff Independent Film Festival
-

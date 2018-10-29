@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# British Chambers of Commerce: Brexit and Beyond
-
 Chamber business communities across the UK will judge the next
 government against five key criteria: 1) Business Environment: Lower costs, higher skills; 2)  Local Growth: Unlock business growth across all regions and nations; 3)  Infrastructure: Revolutionise physical and digital connectivity; 4) Trade:  Stronger practical support alongside trade deals; 5)  Brexit: The best possible deal between the UK and the EU

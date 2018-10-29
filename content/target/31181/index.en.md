@@ -10,6 +10,4 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# Caithness Horizons
-
 Caithness Horizons is a museum containing collections relating to the Picts, the Vikings and Dounreay Nuclear Research Establishment.

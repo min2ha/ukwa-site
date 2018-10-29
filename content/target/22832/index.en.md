@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sean Kelly-Walsh on Facebook (Labour candidate for Charnwood)
-

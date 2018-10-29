@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Ardrishaig Village
-
 Advertising site for amenities and businesses in the village of Ardrishaig in Argyll and Bute, Scotland.

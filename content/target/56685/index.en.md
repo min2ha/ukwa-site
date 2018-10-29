@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# YMCA Cardiff
-
 YMCA Cardiff works across South East Wales. They aim to make a positive difference in the communities in which they work in. YMCA Cardiff work in two distinct areas, youth and community and housing and homelessness.

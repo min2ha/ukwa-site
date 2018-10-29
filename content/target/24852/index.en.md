@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stefan Mrozinski (Conservative)
-
 Stefan Mrozinski stood as Conservative candidate for Tottenham at the 2015 General Election but was not elected.

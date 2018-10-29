@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Irish Catholic Bishops' Conference
-
 The Irish Catholic Bishops’ Conference (also known as the Irish Episcopal Conference) is the assembly of the Bishops of Ireland exercising together certain pastoral offices for Christ’s faithful on the whole island of Ireland.

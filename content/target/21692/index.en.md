@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour brands Cameron a coward for refusing head-to-head TV debate
-
 None

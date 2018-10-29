@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron 'passionate' about armed forces says Philip Hammond
-
 None

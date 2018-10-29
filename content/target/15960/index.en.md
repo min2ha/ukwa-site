@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sports Leaders UK
-
 <p>Sports Leaders UK is an independent charity, funded by income from sales of educational materials, grants for project delivery, commercial partnerships and individual generosity. Through the range of over 20 awards and qualifications - all based on fun, physical activity and volunteering - they reach out to those most in need in society.</p>

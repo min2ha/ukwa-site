@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Enemies of the people: Fury over 'out of touch' judges who have 'declared war on democracy' by defying 17.4m Brexit voters and who could trigger constitutional crisis
-
 A row exploded on November 3rd 2016 when a panel led by the Lord Chief Justice, Lord Thomas, ruled that Mrs May cannot trigger Article 50 – the formal two-year process for leaving the EU.

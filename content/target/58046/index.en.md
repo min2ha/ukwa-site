@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# David Rees Davies
-
 David Rees Davies is a Welsh artist currently living in Hove, East Sussex.

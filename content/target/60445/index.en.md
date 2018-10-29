@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Donald Tusk: EU's 'heart still open to UK' over Brexit
-
 The European Council President told MEPs in a speech in January 2018 that the UK would leave the bloc unless it had a "change of heart", but would be welcome to stay. 

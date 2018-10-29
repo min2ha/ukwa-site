@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Will Theresa May now have to change Brexit plans?
-
 Enthusiastic Remainers were quick to jump on the 2017 general election result as their latest opportunity to mould the UK's departure from the EU.

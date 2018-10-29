@@ -10,6 +10,4 @@
   "start_date": "2005-05-17T00:00:00Z"
 }
 
-# Scottish politics : the almanac of Scottish elections and politics
-
 None

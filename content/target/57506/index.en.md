@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Aberdour Shinty Club / Comann Camanachd Obar Dobhair
-
 Site of a shinty club based in Aberdour, Fife.

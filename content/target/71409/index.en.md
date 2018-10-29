@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Parliament has a ‘golden moment’ to halt Brexit before it’s too late
-

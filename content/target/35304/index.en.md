@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Go Movement: Campaigners form coalition aiming to become official Brexit group
-

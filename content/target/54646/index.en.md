@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Heart of England Forest
-
 It’s a simple vision: to plant, protect and preserve a huge broadleaf forest – a place of tranquility and natural beauty that’s open to anyone and planted with the help and support of everyone.

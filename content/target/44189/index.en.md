@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sayed Kamall (@SyedKamall) on Twitter (Conservative MEP for London)
-
 Syed Kamall stood as a Conservative candidate for London at the 2004 European Parliament election and came fourth on the Conservative list. He became an MEP in 2005 when Theresa Villiers stood down and was re-elected in 2009 and 2014. He has been the leader of the Conservatives in the European Parliament since 2013.

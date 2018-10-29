@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Big Retreat Wales
-
 Feel good festival focused on relaxation discovery and fun

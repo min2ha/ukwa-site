@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rochdale Herald: Politics
-
 A satirical look at UK politics from April to July 2017

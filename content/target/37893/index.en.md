@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Britain could lose access to vital crime and terrorism databases if it leaves the EU, bloc's top police officer says
-

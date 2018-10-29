@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Progress online: Better together
-
 <p>News and opinion on the Scottish Independence referendum posted to the Progress online website. Progress describes itself as a New Labour pressure group, and supports the Better Together campaign.</p>

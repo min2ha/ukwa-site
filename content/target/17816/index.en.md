@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP pledges pay rises and extra cash for NHS
-
 None

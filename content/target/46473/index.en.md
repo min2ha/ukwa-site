@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Post-Brexit Britain cannot afford the badger cull!
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

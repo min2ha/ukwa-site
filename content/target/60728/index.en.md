@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Swansea & Brecon - Gathering, growing, going
-

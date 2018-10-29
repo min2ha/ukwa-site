@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Geograph British Isles
-
 The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.

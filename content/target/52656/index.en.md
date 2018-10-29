@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cardiff University Special Collections and Archives: Edward Thomas 100
-
 Cardiff University is the holder of the world's largest archive of Edward Thomas' letters, diaries, notebooks, poems, photographs, and personal belongings. In 2017, it will will host a major centenary conference and exhibition celebrating his life and work.

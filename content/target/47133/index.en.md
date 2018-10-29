@@ -10,8 +10,6 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# The Cambridge Union
-
 From its small beginnings as a debating society, the Cambridge Union now has over 70,000 life members worldwide. Now the oldest debating society in the world, and the largest student society in Cambridge, the Union remains a unique forum for the free exchange of ideas and the art of public debate.
 
 In the past the Society has hosted such great figures as Winston Churchill, Theodore Roosevelt and the current Dalai Lama, and it continues to provide Cambridge students with the opportunity to meet and question the people that shape our world, and has grown into the central forum for student discussion in Cambridge.

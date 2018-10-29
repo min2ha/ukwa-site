@@ -10,5 +10,3 @@
   "start_date": "2016-08-17T10:00:00Z"
 }
 
-# East Lothian Courier: County swimmer Dan Wallace selected for the Olympic Games in Rio de Janeiro
-

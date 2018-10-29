@@ -10,5 +10,3 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Find a Fishing Boat (FAFB)
-

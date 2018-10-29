@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Hyslop (UKIP) 
-
 John Hyslop stood as UKIP candidate for Truro & Falmouth at the 2015 General Election but was not elected.

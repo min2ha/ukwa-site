@@ -10,6 +10,4 @@
   "start_date": "2015-11-24T09:00:00Z"
 }
 
-# Only Men Aloud!
-
 Welsh male voice choir formed in 2000.

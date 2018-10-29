@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Picture Stockton Archive
-
 The website is administered by the Stockton Library Service and was officially launched in June 2004. Originally intended to make the images held by both the Stockton Library Service and Museum Service more accessible to the general public, the site has developed into a pictorial record of the social history of the area.  

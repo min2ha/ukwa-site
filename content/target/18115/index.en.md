@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: UKIP immigration policy in tatters as Nigel Farage insists no cap on numbers 
-
 None

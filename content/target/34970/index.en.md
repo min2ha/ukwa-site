@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Cecile Johnson Soliz
-
 Cecile Johnson Soliz is a german born artist and recipient of a Major Creative Wales Award from the Arts Council of Wales in 2013-14. Cecile Johnson Soliz now lives in Cardiff.

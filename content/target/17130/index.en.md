@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election 2015: Harriet Harman revives the battle bus - but this time the target is female voters 
-

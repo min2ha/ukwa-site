@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Deeside Rugby Football Club
-
 Site of a rugby union football club based at Banchory, Aberdeenshire.

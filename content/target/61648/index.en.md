@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Общение в Лондоне / Obshchenie v Londone [Community in London] RuTalk.co.uk
-
 Online Russian-language forum for the Russian-speaking community in the UK.

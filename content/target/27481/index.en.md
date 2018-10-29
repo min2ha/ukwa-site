@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Union bosses tell Ed Milliband to offer Lib Dems electoral reform to shut Tories out
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May wants early deal on Britons in EU
-
 The PM attended a summit of EU leaders in Brussels before leaving while they discussed their approach to Brexit. She told them that she wants an early deal in Brexit negotiations on the status of Britons in Europe and EU citizens in the UK 

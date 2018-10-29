@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tayport Football Club
-
 Site for a Scottish junior football club based in Tayport, Fife.

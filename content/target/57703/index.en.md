@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tories rally round PM after speech woes
-
 Tory MPs rallied round Theresa May after her 2017 conference speech was marred by mishaps

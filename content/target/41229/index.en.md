@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Clan Macfie
-
 Site of the Clan Macfie, interested in the history, traditions, geneaology and current holders of the name Macfie and its septs.

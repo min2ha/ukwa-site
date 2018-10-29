@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T11:00:00Z"
 }
 
-# St Davids Church Aberystwyth
-
 St Davids Church Aberystwyth is part of the Presbyterian Church of Wales/ Eglwys Bresbyteraidd Cymru denomination.

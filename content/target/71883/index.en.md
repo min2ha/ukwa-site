@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson’s ‘super-Canada’ plan could never work. Here’s why
-

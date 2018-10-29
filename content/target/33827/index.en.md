@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Tory Cabinet ministers 'censored' in new referendum row
-

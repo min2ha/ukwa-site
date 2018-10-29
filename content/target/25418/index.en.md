@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Given time Ed Milliband's new found self belief could turn into charisma
-

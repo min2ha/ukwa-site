@@ -10,6 +10,4 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Stray Bullet Ltd.
-
 Design and Digital Marketing Agency

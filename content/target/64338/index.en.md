@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Castle Street Church of Scotland
-
 Site of a Church of Scotland parish church at Dingwall, Highland.

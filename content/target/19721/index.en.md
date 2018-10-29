@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Crabb MP (@SCrabb2015) on Twitter
-
 Secretary of State for Wales + Conservative MP for Preseli Pembrokeshire

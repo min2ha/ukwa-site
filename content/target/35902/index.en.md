@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bernard Harkins (@harkins4holyrd) on Twitter
-
 The Twitter profile of Bernard Harkins, the Scottish Labour candidate for Midlothian North and Musselburgh in the 2016 Scottish Parliament election.

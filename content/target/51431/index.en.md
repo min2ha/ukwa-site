@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Noddfa Baptist Church, Torfaen
-

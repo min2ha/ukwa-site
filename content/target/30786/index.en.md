@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Basingstoke, Thatcham, Newbury Observer Group
-

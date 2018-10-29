@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Students for Europe (@Students4Europe) on Twitter
-
 Grassroots campaign to mobilise students in the lead up to the EU referendum

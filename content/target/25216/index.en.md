@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: OBV's election bus rolls into Birmingham 
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# South Terrace Blog, Darlington
-

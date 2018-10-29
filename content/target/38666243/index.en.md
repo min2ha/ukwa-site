@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Swimming - Amateur Swimming Association (ASA)
-

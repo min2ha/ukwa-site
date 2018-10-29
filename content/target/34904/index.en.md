@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Draiocht and 1916
-
 This website outlines the 1916 programme of events organised by ‘Draíocht’, a multi-purpose arts & entertainment centre in the heart of Dublin’s Blanchardstown

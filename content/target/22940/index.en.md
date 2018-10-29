@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lynne Beaumont (@LynneBeaumont) on Twitter (Liberal Democrats candidate for Folkestone and Hythe)
-
 Lynne Beaumont stood as Liberal Democrats candidate for Folkestone and Hythe at the 2015 General Election but was not elected. 

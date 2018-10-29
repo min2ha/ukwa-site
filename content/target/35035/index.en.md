@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centrum für Europäische Politik 
-
 The CEP provides the wider public with up-to-date information and comprehensive background knowledge about policy proposals of the EU; evaluates EU proposals on the basis of modern, liberal, market-based economics – before they are adopted;highlights economic and legal consequences; drafts practicable policy options for Europe; and contributes to greater transparency of the democratic decision-making process in the EU.

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Gerturde Bell Archive
-
 None

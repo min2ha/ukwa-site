@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Reform Jersey
-
 Website of Reform Jersey, a social-democratic political party in Jersey.

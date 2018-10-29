@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Tourism Northern Ireland (Tourism NI)
-
 Tourism NI's mission is to build the value of tourism to the local economy. They champion the development and promotion of the Northern Ireland experience. Tourism Northern Ireland (Tourism NI) is the trading name of the Northern Ireland Tourist Board.

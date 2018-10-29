@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# University of Bedfordshire
-
 Official website of the University of Bedfordshire.

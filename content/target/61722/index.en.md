@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Corbyn is a man of principle no more. Why the Labour leader's cynical gamble to topple May could blow up in his face   
-

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Foodies Festival
-
 Site of a series of festivals held throughout the UK celebrating food and drink.

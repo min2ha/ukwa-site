@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: It's just possible that the Sun's 'Queen backs Brexit' story is true 
-
 Guardian, The

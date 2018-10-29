@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Colchester Community Stadium
-
 Colchester Community Stadium, known for sponsorship reasons as the Weston Homes Community Stadium, is a football stadium in Colchester, England. It is the home of Colchester United Football Club. It has a capacity of 10,105 and opened in August 2008 in time for the 2008–09 season.

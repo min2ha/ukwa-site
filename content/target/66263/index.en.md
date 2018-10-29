@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mun's & The Good Shepherd Churches
-
 Site of two Roman Catholic churches in Scotland, covering Ballachulish and Kinlochleven, Highland.

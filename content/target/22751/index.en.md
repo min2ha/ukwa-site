@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Argent (Liberal Democrats candidate for North West Leicestershire)
-
 Mark Agrent stood as Liberal Democrat candidate for North West Leicestershire at the 2015 General Election but was not elected

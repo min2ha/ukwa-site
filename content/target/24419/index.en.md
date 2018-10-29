@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: White van man is at the wheel in this general election. But which way will he turn?
-
 None

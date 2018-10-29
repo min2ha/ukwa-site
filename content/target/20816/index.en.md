@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Annie Wells on Facebook
-
 This is the Facebook page of Annie Wells, the Conservative Party candidate for Glasgow North East in the UK General Election on the 7th May 2015.

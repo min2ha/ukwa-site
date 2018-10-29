@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Otto Putland (@OttoPutland) on Twitter
-
 The twitter profile of swimmer Otto Putland, competing in the 100 metre freestyle and 100 metre medley relay for Team Wales at the Glasgow 2014 Commonwealth Games.

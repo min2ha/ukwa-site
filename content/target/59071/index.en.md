@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL European (@BL_European) on Twitter
-
 We collect, curate and promote printed and electronic material from all European countries and in European languages and answer questions about our collections

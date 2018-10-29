@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The granny state: how a female-dominated 'grey vote' could swing it
-
 None

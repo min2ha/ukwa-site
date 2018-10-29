@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Mid Wales Tourism (MWT) Cymru
-
 Membership group and trade organisation for those involved with the visitor economy and tourism in Mid, South and West Wales.

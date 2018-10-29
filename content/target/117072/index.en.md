@@ -10,6 +10,4 @@
   "start_date": "2006-02-14T00:00:00Z"
 }
 
-# Scottish Storytelling Centre
-
 None

@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Duke of Edinburgh's Award, The
-
 None

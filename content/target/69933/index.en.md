@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Benevolent Confraternity of Dissectologists
-
 A website for followers of Jigsaw Puzzles, whether for enjoyment or from a more research-based interest.

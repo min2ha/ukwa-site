@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Information Commissioner's Office blog
-
 The Information Commissioner is appointed by HM The Queen and has independent status, reporting directly to Parliament, with a range of responsibilities under the Freedom of Information Act 2000, the Data Protection Act 1998 and related laws.

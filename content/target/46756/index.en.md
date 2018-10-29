@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Ann Jones AM on Facebook
-
 Ann Jones is the Assembly Member for the Vale of Clwyd at National Assembly for Wales.

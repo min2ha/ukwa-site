@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# The Mill
-
 Mill Gaming creates artfully crafted cinematics, in-game design and exceptional advertising that draws players in

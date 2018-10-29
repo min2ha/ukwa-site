@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# openDemocracyUK:On OpenDemocracy's Brexit Coverage 
-
 Article discussing openDemocracyUK's commentary and news coverage on the Brexit referendum and aftermath. 

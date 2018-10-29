@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# notowar - Cynthia Cockburn's Weblog
-
 None

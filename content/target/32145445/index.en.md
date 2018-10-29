@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# St Albans City and District Council
-

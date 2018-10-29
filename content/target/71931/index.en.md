@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kendal Rugby Union Football Club on Pitchero
-
 The official website of Kendal Rugby Union Football Club.

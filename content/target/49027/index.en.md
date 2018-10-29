@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Corbyn warns shadow cabinet on Brexit vote rebellion
-
 Jeremy Corbyn warned shadow cabinet ministers not to expect to stay in their jobs if they voted against starting the process of leaving the EU.

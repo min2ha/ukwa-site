@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Tamsin Edwards (@flimsin) on Twitter
-
 Twitter account of Tamsin Edwards, climate scientist at the Open University

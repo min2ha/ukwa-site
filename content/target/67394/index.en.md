@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Granfit Holdings Limited
-
 Website of a group of businesses focused on the manufacture and supply of specialist products and services to the building fit out industry.

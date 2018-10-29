@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Lib Dems’ defence of the 48% is starting to look like rubbish politics
-

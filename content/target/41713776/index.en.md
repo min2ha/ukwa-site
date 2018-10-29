@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Hall for Cornwall
-
 None

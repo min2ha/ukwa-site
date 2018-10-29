@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Digital Student Ambassador Group (DSAG)
-
 DSAG is the first student-led group of its kind across the University of Lincoln. It’s aim is to help research, inform, present and implement ideas from across the Lincoln International Business School and beyond, assisting students with the transition from studying to life in ‘digital’ industry.

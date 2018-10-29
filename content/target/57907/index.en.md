@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Brandon, Bretford & Wolston History Group.
-
 The village of Wolston in Warwickshire, is roughly half way between Coventry and Rugby. The river Avon runs through the village and is close to the Fosse Way.  At the east of the village, you will find the Wolston Priory. 

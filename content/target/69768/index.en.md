@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Forever Gaming Forum
-
 An online enthusiast community concerned with console and computer gaming.

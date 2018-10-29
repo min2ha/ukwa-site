@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Tietze website, The 
-
 The site offers biographical details, examples of work and a listing of exhibitions by Boris and Margaret Tietz, two artists from North Wales.

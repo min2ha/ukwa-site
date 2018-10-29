@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Disabled Ski Team on Facebook
-
 None

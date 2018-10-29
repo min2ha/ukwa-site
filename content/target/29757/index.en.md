@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Wessex Children’s Book Festival
-
 Festival organised by the Hampshire County Council

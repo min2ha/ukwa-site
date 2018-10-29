@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Linlithgow Scotch Hop
-
 Site of an annual series of Scottish country / Highland dancing events taking place in Linlithgow Palace, Linlithgow, West Lothian.

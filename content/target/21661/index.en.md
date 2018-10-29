@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband wins coin toss before Jeremy Paxman election grilling
-
 None

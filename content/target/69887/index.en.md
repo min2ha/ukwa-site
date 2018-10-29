@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Farnham Festival of Cycling
-
 Website for the Farnham Festival of Cycling.

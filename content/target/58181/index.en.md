@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tarbert Traditional Boat Festival
-
 Site of a festival of boats at Tarbert on Loch Fyne, Argyll & Bute.

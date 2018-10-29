@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Kidney Patients Guide
-
 An experiment in online patient information. The Kidney patient Guide, for kidney patients and those who care for them

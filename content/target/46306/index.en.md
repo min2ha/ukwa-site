@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# ITV Wales News: Brexit
-

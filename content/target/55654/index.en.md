@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# RCT Theatres, Rhondda Cynon taf County Borough Council
-
 RCT Theatres are the Coliseum, Aberdare and the Park and Dare in Treorchy.

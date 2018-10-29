@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Edwards Analytical
-
 Set up in 1987 by father and son David and John Edwards, Edwards' Analytical is an independent consultancy used primarily for bespoke analysis and evaluation of packaging materials, particularly for the pharmaceutical, healthcare and food industries. 

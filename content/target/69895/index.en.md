@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Those pressing for a second referendum have no idea of the damage it would do
-
 Argues that holding a second referendum on leaving the EU would lead to a total collapse of trust in the political class and a possible rise of extremist parties.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Irish, The (@55McCallum) on Twitter
-
 The official Twitter account of The Celtic, Glasgow Irish and the Great War. A series of books authored by Ian McCallum.

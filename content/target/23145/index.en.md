@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Nicholson (UKIP)
-
 Colin Nicholson stood as UKIP candidate for Tunbridge Wells at the 2015 General Election but was not elected.

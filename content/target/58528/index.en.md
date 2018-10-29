@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Save Lives: Ending Domestic Abuse
-
 We are a national charity dedicated to ending domestic abuse, for good. We combine insight from services, survivors and statistics to support people to become safe, well and rebuild their lives. Since 2005, SafeLives has worked with organisations across the country to transform the response to domestic abuse, with over 60,000 victims at highest risk of murder or serious harm now receiving co-ordinated support annually.

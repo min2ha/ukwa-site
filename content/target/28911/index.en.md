@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# International Netball Federation
-
 The International Netball Federation (INF), formerly the International Federation of Netball Associations (IFNA), is the worldwide governing body for netball. The INF was created in 1960 and is responsible for world rankings, maintaining the rules for netball and organising the World Netball Championships. 

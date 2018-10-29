@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Speech Development Records
-
 A UK based music label founded by Scroobius Pip in 2006.

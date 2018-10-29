@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Thame Remembers 
-
 To commemorate the centenary of World War One by researching all the names on Thame War Memorials, for all conflicts, to discover more about their lives. To identify the location of their grave or memorial and place a "Thame Remembers" cross on each resting place; wherever in the world that may be.

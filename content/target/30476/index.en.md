@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T13:00:00Z"
 }
 
-# Jisc RSC Wales Moodle
-
 Moodle contains a number of courses and resources for technology related topics affecting post-16 education providers in Wales from 2005-2014.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed's 'secret' visit to a Sikh temple
-
 None

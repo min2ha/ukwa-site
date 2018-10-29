@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Lytham Lives: A Community in Writing
-
 The Festival of Stories is a brand new family arts event being planned for Lytham in 2014.

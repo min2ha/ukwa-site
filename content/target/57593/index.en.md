@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' closing remarks at the end of the fourth round of EU exit negotiations in Brussels
-

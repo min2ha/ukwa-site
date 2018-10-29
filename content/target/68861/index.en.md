@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12th July 2018: EU: Future Relationship White Paper
-
 Statement by Dominic Raab on the White Paper on the UK's future relationship with the European Union, followed by a debate highly critical of its content.

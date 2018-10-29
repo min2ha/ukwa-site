@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gofalaeth Helen Wyn Jones
-
 Helen Wyn Jones is the minister for the following chapels: Capel Bethel (Melin Y Coed), Capel Cefn Coch (Llangernyw), Capel Y Cwm (Llangernyw), Capel Padog (Padog), Capel Pandy Tudur (Pandy Tudur), Salem Efail Uchaf (Llanddoged), Seion Capel Garmon, Seion Ro-wen, Seion Ysbyty Ifan, Capel Tal Y Bont, Capel Ty'n Y Groes.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Web Archive: Shine
-
 The tool allowing the big data search of the UK Web Archive.

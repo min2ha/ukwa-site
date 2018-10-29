@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Portsmouth Hospitals
-
 None

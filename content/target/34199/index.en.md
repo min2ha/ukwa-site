@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Association of School and College Leaders (ASCL)
-
 The Association of School and College Leaders (ASCL) is a professional body representing more than 18,000 school, college and system leaders across the UK.

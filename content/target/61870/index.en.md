@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Williamwood Parish Church
-
 Site of a Church of Scotland parish church in Clarkston, Glasgow.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Hawick Archaeological Society
-
 Site of a local history society located at Hawick, Scottish Borders.

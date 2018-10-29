@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Folkestone and Hythe Labour Party
-
 Folkestone and Hythe Labour Party website during the 2017 General Election campaign

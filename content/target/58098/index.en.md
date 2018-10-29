@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Tower Online
-
 Site of a cinema, theatre and performance venue with associated learning facililties in a 'digital hub' located in Helensburgh, Argyll & Bute.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Unlock Democracy: #UnlockMagnaCarta Quiz
-

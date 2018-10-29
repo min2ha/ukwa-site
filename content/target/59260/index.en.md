@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Black Country Nostalgia
-
  Award Winning Photographs & Poems From Englands Very Own Heart Of Darkness, The Black Country.  Decaying vistas, time-worn monuments, or simply sublime snapshots in time - this selection of imagery and verse is history with a heart & a romantic view of the Black Country & Birmingham in the 1960's by the late Peter Donnelly, Photographer.​ 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FC United of Manchester (@FCUnitedMcr) on Twitter
-
 Official feed of non-league, supporter-owned FC United of Manchester.

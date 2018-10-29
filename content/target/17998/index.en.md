@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Environmental Indistries Commission: Priorities for the next government
-
 The Environmental Industries Commission (EIC), founded in 1995, represents the businesses which provide the technology and services that deliver environmental performance across the economy. Their member companies come from all parts of the environmental technology and services sector.

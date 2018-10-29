@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: If Peter Mandelson wants to keep Britain in the EU, he should stick to the shadows
-

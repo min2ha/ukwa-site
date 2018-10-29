@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# British Library on Twitter
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for International Trade (@tradegovuk) on Twitter
-
 Department for International Trade – helping businesses export, driving investment, opening up markets and championing free trade

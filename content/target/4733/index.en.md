@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# National Assembly for Wales: Presiding Officer pays tribute to Nelson Mandela
-
 <p>Statement given on 6 December by Rosemary Butler, the Presiding Officer of the National Assembly for Wales.</p>

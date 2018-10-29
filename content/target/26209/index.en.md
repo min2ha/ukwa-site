@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Marine Federation: BMF Manifesto 2015
-
 British Marine is the membership organisation for the leisure, superyacht and small commercial marine industry.

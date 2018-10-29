@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Brexit 'will force rates up to 3.5pc within 18 months', says newest MPC member
-

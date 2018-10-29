@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour struggles to gain backing of business leaders after Ed Balls gaffe
-
 None

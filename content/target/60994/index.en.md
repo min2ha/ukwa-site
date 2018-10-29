@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Ishbel McWhirter 
-
 Ishbel McWhirter is a Welsh artist and elected member of the Royal Cambrian Academy of Art (RCA). Her work has been widely exhibited across Wales and placed in the National Portrait Gallery, Victoria & Albert Museum, the Scottish National Portrait Gallery and the National Library of Wales. She is best known for her portraits which include: Melvyn Bragg, Monsignor Gilby, Sir Kyffin Williams, Tom Conti, Germaine Greer and Lord Longford.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ankst Music
-
 Ankst Music is Welsh independent record label formed in 1988.

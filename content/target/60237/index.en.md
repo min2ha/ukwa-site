@@ -10,5 +10,3 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Visit Denbigh | Ymwelwch a Dinbych
-

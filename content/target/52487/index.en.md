@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Taylor Wimpey plc
-
 Taylor Wimpey plc is one of the largest British based housebuilding companies.  They are experts in land acquisition, home and community design, urban regeneration and the development of supporting infrastructure.

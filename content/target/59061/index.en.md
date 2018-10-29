@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Collection Care (@BL_CollCare) on Twitter
-
 We are responsible for protecting & preserving the BL’s vast collections & their assets, & enabling use, experience & interpretation.

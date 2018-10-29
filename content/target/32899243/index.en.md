@@ -10,5 +10,3 @@
   "start_date": "2009-12-10T00:00:00Z"
 }
 
-# Caws Celtica - Pure, unpasteurised ewe's milk cheese
-

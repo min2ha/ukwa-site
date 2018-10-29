@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Bovill (@jackbov) on Twitter (UKIP  Politician)
-
 Jack Bovill stood as UK independance (UKIP) candidate for Kensington at the 2015 General Election but was not elected. He then stood as UK Independence Party (UKIP) candidate in the constituency of Hammersmith in the 2017 General Election. 

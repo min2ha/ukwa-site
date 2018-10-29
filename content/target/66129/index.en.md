@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Lodge Saint Andrew Glasgow 465
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

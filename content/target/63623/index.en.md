@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Scottish Reformed Conference
-
 Site of an annual conference of evangelical Scottish churches across Christian denominations.

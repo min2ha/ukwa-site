@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Islwyn Junior League, Blainia  South Wales
-
 The Islwyn League was established to provide organized football for children in the Islwyn area.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: Petition for second EU referendum so popular the government site's crashing
-
  A parliamentary petition calling for a second referendum has been set up.

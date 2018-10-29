@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Abbotsford House
-
 Site of a museum in the former home of dedicated to the life of Scottish author Sir Walter Scott.

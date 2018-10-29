@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Peter Vardy Holdings Limited
-
 Peter Vardy Holdings Limited is a new and used auto dealer based in Glasgow, Scotland.

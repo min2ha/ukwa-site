@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# Contemporary Christianity
-
 Contemporary Christianity exists to help Christians and churches in Northern Ireland.

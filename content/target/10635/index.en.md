@@ -10,6 +10,4 @@
   "start_date": "2014-08-15T08:00:00Z"
 }
 
-# London Evening Standard .London
-
 None

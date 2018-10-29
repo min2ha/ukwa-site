@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Geni: 1916 Easter Rising in Ireland
-
 Project website of the genealogy website Geni.com

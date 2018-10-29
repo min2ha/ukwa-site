@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Claire Eastham (@ClaireyLove) on Twitter
-
 Personal Twitter account of Claire Eastham, mental health blogger,  author of 'We're all mad here' blog and book and MQ ambassador.

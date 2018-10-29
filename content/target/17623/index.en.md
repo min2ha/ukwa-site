@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC rejects demands by the Democratic Unionist Party to be included in election debates
-
 None

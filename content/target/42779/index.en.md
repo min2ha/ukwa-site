@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# my name is Weed - i live in England - this is my homepage
-
 Homepage of social activist Weed including content on road protests, squatting and other community campaigns and direct action in London and UK

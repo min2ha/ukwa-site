@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# CTLFC (@CTLadies) on Twitter
-

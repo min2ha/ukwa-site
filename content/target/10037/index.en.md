@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# South Yorkshire Conservatives
-
 Website offers information and contact details of Conservative Associations throughout Barnsley, Doncaster, Rotherham and Sheffield. It includes background information on General Election 2017 candidates.

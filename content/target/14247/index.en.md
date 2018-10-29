@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman
-
 <p>A news site focussing on Scotland and Scottish issues.</p>

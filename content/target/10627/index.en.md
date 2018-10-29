@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# NHA Party, The (@NHAparty) on Twitter
-
 The National Health Action Party (NHA) is a political party in the United Kingdom.

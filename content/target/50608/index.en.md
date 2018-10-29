@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Change for Bridgend Independent Councillors
-
 Many councillors are standing under the Change for Bridgend banner for the local elections in May 2017. 

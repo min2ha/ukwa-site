@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Lincolnshire's Great Exhibition to welcome arts and manuscripts from private collections
-

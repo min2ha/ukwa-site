@@ -10,5 +10,3 @@
   "start_date": "2011-01-11T00:00:00Z"
 }
 
-# Falkland Palace Royal Tennis Court
-

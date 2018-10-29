@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Spectator: Watch and read: Nigel Farage launches Ukip’s 2010 election manifesto
-
 None

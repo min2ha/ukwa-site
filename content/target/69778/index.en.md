@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Red Pill Factory /// Make Britain Great Again (@RedPillMBGA) on Twitter
-
 The official Twitter account for the Red Pill Factory: Make Britain Great Again website. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Capel y Morfa, Aberystwyth: Eglwys Bresbyteraidd Cymru
-

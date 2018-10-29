@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: Future Proof: Britain in the 2020s
-
 Brexit is the firing gun on a decade of disruption. As the UK negotiates its new place in the world, an accelerating wave of economic, social and technological change will reshape the country, in often quite radical ways. In this report, we set out five powerful trends that will drive change in the 2020s.

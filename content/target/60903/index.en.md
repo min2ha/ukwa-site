@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Edinburgh - Usher Institute of Population Health Sciences and Informatics: Social media studies need tighter controls
-
 University news page featuring an article about the need for stricter controls on research thats contains socal media data and information

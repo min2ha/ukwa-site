@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Burberry Group plc
-
 Burberry Group plc is an English luxury fashion house, its business focuses on and distributes ready-to-wear outerwear, fashion accessories, fragrances, sunglasses, and cosmetics, with more than 500 stores in over 50 countries.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP landslide 'means second referendum is inevitable'
-
 None

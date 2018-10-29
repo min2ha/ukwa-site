@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jake Lambert (@JakeyLambert) on Twitter (Labour candidate Politician)
-
 Jake Lambert stood as Labour candidate for Eastbourne at the 2017 General Election but was not elected.

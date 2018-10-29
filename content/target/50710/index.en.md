@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# National Youth Orchestras of Scotland
-
 Site of an organisation providing a complete orchestral experience for Scottish resident students aged between 8 and 25, through its comprehensive pathway of orchestras, jazz bands, training ensembles and outreach programme.

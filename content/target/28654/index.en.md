@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# UK Gout Society 
-
 The UK Gout Society is a registered charity and was established in 2002 to provide basic information to people living with gout, their families, friends and carers - and increase public awareness about this painful, potentially disabling, but very treatable, disorder. 

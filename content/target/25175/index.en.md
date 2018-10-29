@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: They really DO have their snouts in the trough! Pig race to predict the election sees David HAM-eron bring home the bacon 
-
 None

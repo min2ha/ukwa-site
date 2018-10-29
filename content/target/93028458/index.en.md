@@ -11,5 +11,3 @@
   "subject": "Governing the Police"
 }
 
-# Sussex Police & Crime Commissioner
-

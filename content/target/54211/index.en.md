@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael Rolfe (@MicalmusRolfe) on Twitter (Labour Party  Politician)
-
 Michael Rolfe stood as the Labour Party candidate for Sittingbourne and Sheppey in the 2017 General Election but was not elected.

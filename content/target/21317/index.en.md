@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Coyle (@johncoyleSDLP) on Twitter (SDLP candidate for Fermanagh and South Tyrone)
-

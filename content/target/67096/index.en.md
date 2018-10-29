@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Inveralmond Brewery Limited
-
 Site of a brewer located in Perth. 

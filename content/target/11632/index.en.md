@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Disability Sports Northern Ireland 
-
 Disability Sport NI is the main charity in Northern Ireland working with children, young people and adults with a disability who would like to get involved and take part in recreational and performance sport.

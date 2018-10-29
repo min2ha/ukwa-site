@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Young Republicans group 'very much appreciated' as Tory campaigners
-
 None

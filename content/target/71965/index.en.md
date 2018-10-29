@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Scotland's Improvement Districts
-
 Scotland’s Improvement Districts is part of the Scotland’s Towns Partnership project.

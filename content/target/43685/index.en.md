@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Regional Screen Scotland
-
 Site of an organisation supporting individuals and organisations seeking either to start or to develop opportunities for cinema going in their communities.

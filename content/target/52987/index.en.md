@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jean Anne Mitchell (@JamOutdoor) on Twitter
-
 Twitter profile of Jean Anne Mitchell, Scottish Labour candidate for West Dunbartonshire in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Federal Trust for Education and Research, The: I am their leader. I must follow them
-
 Comments on Conservative Party leader Theresa May's speech to the 2016 Party conference from the point of view of Brexit

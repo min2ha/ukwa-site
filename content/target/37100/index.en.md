@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: The EU fought cosmetic tests on animals, battery hens and elephant poaching gangs. Brexit could end that
-
 Independent, The: The EU fought cosmetic tests on animals, battery hens and elephant poaching gangs. Brexit could end that

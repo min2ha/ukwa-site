@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rugby Football Union (RFU)
-

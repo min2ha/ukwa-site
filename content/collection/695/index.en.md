@@ -1785,6 +1785,4 @@
   "endDateText": "31-07-2016"
 }
 
-# National Assembly for Wales Election, 2016 
-
 Website collection curated by the National Library of Wales about the National Assembly for Wales election, 2016. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: One blunt heckler has revealed just how much the UK economy is failing us
-

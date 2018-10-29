@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: How do newspapers like ours report on the EU referendum when debate is often more rhetoric than fact?
-

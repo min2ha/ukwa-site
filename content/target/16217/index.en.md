@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Bridgend Bites
-
 <p>The site is run by Bridgend County Borough Council and provides tourist information for the county borough of Bridgend.</p>

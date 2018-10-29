@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Maidstone Borough Council
-
 Maidstone Borough Council website offers information about local services.

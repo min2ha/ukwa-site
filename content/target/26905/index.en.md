@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# European Powder Metallurgy Association (EPMA) 
-
 The European Powder Metallurgy Association (EPMA) website contains a wealth of knowledge on the Powder Metallurgy manufacturing process, as well as case studies, publications and details on industry related projects and events.

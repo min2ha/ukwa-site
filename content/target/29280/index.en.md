@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Writers' Workshop, The: Festival of Writing 2014
-
 Festival of Writing organised by the Writers' Workshop

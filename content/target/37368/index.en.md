@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SEP (Socialist Equality Party): For an active boycott of the Brexit referendum!
-
 Statement of the Socialist Equality Party criticizing both the In and the Out campaign

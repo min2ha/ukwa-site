@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Amgueddfa Gwefr Heb Wifrau - Wireless in Wales Museum
-
 The Gwefr Heb Wifrau - Wireless in Wales is a small radio museum based in Denbigh and based around the collection of the late David Evan Jones and was opened just a few weeks after his death in 2008. 

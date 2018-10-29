@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband and Labour receive a huge boost in opinion polls putting them as largest party 
-
 None

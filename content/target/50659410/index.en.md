@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Britain Yearly Meeting 2007
-

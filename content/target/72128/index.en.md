@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# CILIP InfoLit Group (@infolitgroup) on Twitter
-
 The CILIP Information Literacy Group aims to provide a forum across all sectors, which encourages debate & allows knowledge exchange in all aspects of information literacy. This is the official Twitter account.

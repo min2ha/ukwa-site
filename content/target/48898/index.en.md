@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Guardian, The: Theresa May to warn devolved nations: you have no vote on Brexit
-

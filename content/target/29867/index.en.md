@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Greenside Venues (@GreensideVenue) on Twitter
-
 Twitter profile of Greenside Venues, which operates three venues at the Edinburgh Fringe Festival.

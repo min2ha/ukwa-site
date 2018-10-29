@@ -10,6 +10,4 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Bido Lito! (@BidoLito) on Twitter
-
 A Liverpool based magazine writing about artists, musicians and independent makers. This is their official Twitter account.

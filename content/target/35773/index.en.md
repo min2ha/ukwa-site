@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Electoral Commission: Guidance for campaigners for the referendum on the United Kingdom’s membership of the European Union
-

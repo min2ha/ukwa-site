@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# WMD Awareness  
-
 WMD Awareness give young adults in Britain a voice in the debate on nuclear weapons and other weapons of mass destruction.

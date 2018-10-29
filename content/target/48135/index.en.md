@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# National Library of Wales: Roger Tilley - Owned by the Miners Trust, Tower
-
 Roger Tiley photographed the coal mines and the pit communities in south Wales. This is an online exhibition of his photographs relating to the Tower Colliery.

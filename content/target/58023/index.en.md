@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Visit Cairngorms
-
 Site of a tourist information organisation providing detials of activities, attractions and businesses in the Cairngorms area of the Scottish highlands.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Neil Gray - SNP for Airdrie & Shotts on Facebook
-

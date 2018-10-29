@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Arts and Business Cymru
-
 A&B Cymru’s role is to promote, enable and develop mutually beneficial partnerships between business and the arts.

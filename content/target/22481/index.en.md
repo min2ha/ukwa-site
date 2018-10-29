@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Dannatt: Ignoring defence spending issue is 'complacent and dangerous'
-
 None

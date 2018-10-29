@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# #Brexit: Brexit does matter to Italy
-
 The possibility of Brexit and the discussion being held on 18-19 February 2016 at the European Council in Brussels was not a hot topic in Italy. However, many Italians and also Italian Prime Minister Matteo Renzi were certainly paying attention to the situation

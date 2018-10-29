@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Treftadaeth Bae Colwyn | Colwyn Bay Heritage 
-

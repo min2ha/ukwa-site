@@ -10,6 +10,4 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Film Africa
-
 Film Africa is the Royal African Society’s annual London film festival celebrating the African cinema from across the continent and diaspora. It was established in 2011.

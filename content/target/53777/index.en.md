@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rob Wilson (Conservative Politician)
-
 Rob Wilson stood as Conservative candidate for Reading East at the 2017 General Election but was not elected. He was first elected as MP for Reading East in 2005 and held his seat until 2017.

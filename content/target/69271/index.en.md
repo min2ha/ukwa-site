@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Lisvane Historical Society
-
 Lisvane Historical Society was established in January 2006 with the aim of undertaking research into the history of the village and to preserve current information. 

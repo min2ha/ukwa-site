@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Unite the Union
-
 Unite is a democratic and campaigning union which fights back for employees in the workplace, stands up for equality for all and advances its members interests politically.

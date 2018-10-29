@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# E-Sgire
-
 A hub for community information and opinion across the Western Isles

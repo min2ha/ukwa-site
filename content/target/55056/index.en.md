@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# ITVAdrian: The blog of ITV Wales' Political Editor
-
 Adrian Masters is the Political Editor for ITV Wales and reports on Welsh politics from the Assembly and from Parliament. This blog was written between 2010 and 2011.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Magnus' Lerwick and St. Colman, Burravoe
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Shetland.

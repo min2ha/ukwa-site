@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lower League Ramblings
-
 Blog written by a Scottish footballer about his experiences in the lower leagues of Scottish senior football.

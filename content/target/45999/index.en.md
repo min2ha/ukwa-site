@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Monument Building, The
-
 A new development near The Monument in central London. This new building has office and retail accommodation. It is 94,000sqft over 10 floors with four feature terraces.

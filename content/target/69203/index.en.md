@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Open House Festival
-
 Website for the Open House Festival, in Bangor Court House an iconic Victorian listed building.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: New referendum must exclude any option to remain in EU, says Len McCluskey
-
 The leader of Unite, the union that is Labour’s biggest financial backer said remaining in the EU must not be an option in any new referendum on Brexit.

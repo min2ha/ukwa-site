@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Parliament UK; Parliament 2015-16 Public Bills European Union Referendum Act 2015 Bill stages Bill documents European Union Referendum Act 2015. Progress of the Bill
-

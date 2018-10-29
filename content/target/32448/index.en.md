@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Stamp Out Poverty
-
 A UK-based campaign to introduce a Financial Transactions Tax. The website includes a blog and an online library of reports (produced by Stamp Out Poverty and other organisations) on the FTT.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sunday Times, The: Brexit will signal to America that we’ve given up being a global player
-
 Website of The Sunday Times UK newspaper

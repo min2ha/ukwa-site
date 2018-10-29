@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Glengarry Life
-
 Community website detailing life, activities amenities and local information in the area of Glengarry and Invergarry. Incorporates the Community Council.

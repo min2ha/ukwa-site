@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Euan Davidson for Angus North and Mearns on Facebook
-
 Facebook page of Euan Davidson, Scottish Liberal Democrats candidate for Angus North and Mearns in the 2016 Scottish Parliamentary election.

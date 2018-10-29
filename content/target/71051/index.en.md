@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The remainers’ biggest problem? Voters have switched off
-

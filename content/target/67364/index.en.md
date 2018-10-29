@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Hit The Fan Records
-
 Website of a record label based in Glasgow, Scotland. 

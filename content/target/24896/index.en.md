@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jim Wild  (@stopthefiasco) on Twitter Independent candidate for Sheffield Hallam
-

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Embassy of Ireland - Great Britain: Ambassador's Blog
-

@@ -10,6 +10,4 @@
   "start_date": "2018-07-11T09:00:00Z"
 }
 
-# British Summer Time Hyde Park
-
 Summer music and entertainment events at Hyde Park, London.

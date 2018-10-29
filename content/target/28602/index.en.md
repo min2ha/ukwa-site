@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Re-enacting Ancient Times Society (RATS)
-
 Re-enacting Ancient Times Society (RATS) is an organisation specialising in the historical re-encatment. It was established in 2010.

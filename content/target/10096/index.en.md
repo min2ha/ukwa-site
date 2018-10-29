@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Caroline Allen Green London on Facebook
-
 None

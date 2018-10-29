@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Greaves (DiscusDan) on Twitter
-
 <p>The twitter profile of discus thrower Dan Greaves member of Team England for the Glasgow 2014 Commonwealth Games.</p>

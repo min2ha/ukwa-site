@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kerr for Stirling 2017
-
 Stephen Kerr, Scottish Conservative and Unionist Party candidate for Stirling in the 2017 general election.

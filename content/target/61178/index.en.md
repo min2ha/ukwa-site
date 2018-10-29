@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# C4WS HOMELESS PROJECT
-
 C4WS Homeless Project is a project of CARIS Camden and exists to support those without a home to rebuild their lives.

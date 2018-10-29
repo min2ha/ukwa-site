@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip's immigration launch descends into chaos over 50,000 cap and banning terminally ill migrants
-
 None

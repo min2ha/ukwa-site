@@ -10,6 +10,4 @@
   "start_date": "2017-05-19T09:00:00Z"
 }
 
-# Kimondo
-
 A blog about Art, Technology and Activism by Pete Taylor

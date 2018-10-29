@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# IPSOS Mori: Counting the cost of Brexit
-
 Reviewing, refining and improving customer service and investing in customer-centric products and services need to remain at the heart of what any financial services provider does if it is to weather the tough times ahead. 

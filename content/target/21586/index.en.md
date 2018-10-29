@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# General Election 2015: Manifesto for the Horse
-
 A short term campaign set up by the Equine Sector Council for Health and Welfare and the British Horse Industry Confederation have produced a Manifesto for the Horse for the 2015 General Election, setting out measures needed to better protect the welfare and health of horses, and safeguard and expand this important rural industry.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Davies on Facebook
-
 Conservative Parliamentary Candidate for the Vale of Clwyd.

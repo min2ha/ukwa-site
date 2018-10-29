@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderdale and Huddersfield NHS Foundation Trust
-
 None

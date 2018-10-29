@@ -10,5 +10,3 @@
   "start_date": "2013-02-20T00:00:00Z"
 }
 
-# The Lumen Prize Exhibition
-

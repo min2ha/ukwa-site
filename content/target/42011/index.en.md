@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# The Comedy Carpet
-
 Website for The Comedy Carpet in Blackpool, public art designed by Gordon Young and made from concrete and granite, with catchphrases and jokes by comedians and writers.

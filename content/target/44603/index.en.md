@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Bethany W. Pope
-
 Bethany W. Pope is a LBA winning poet, author and graduate of Aberystwyth University's Creative Writing PhD.

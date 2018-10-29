@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Denbigh Deanery News
-

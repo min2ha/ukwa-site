@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# A. McCall Smith (@McCallSmith) on Twitter
-
 The twitter profile of the author Alexander McCall Smith.

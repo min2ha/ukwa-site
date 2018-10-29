@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Women's Equality Party (WEP) Glasgow (@WEP_Glasgow) on Twitter
-
 Twitter profile of the Glasgow branch of the Women's Equality party who are standing candidate sin the 2016 Scottish Parliamentary election.

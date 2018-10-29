@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Website of Sheffield Hallam Labour Party
-
 News and local party information from Sheffield Hallam Labour Party

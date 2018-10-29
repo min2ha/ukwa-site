@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Glasgow City Council
-
 None

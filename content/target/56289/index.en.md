@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union:  Guidance for businesses and organisations on the Repeal Bill
-
 The European Union (Withdrawal) Bill, also known as the Repeal Bill, was introduced to Parliament on Thursday 13 July 2017. It represents a significant milestone in the country’s journey towards leaving the EU. It is designed to provide as much certainty and continuity as possible for businesses, workers and consumers, regardless of the outcome of the negotiations.

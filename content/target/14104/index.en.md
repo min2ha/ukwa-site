@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Cornishman, The: Implications of Scottish independence debate will have "massive impact" on Cornwall
-
 None

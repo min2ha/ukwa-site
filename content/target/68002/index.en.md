@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bathscape Walking Festival
-
 celebrating and reconnecting people with the unique natural setting of Bath and the surrounding area

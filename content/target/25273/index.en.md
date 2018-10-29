@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip man probed over SAUSAGE ROLL 'bribe' quips he's glad they did not find JAFFA CAKES
-
 None

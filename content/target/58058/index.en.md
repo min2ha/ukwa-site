@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Hannah Downing 
-
 Hannah Downing is a visual artist currently living and working in Swansea.

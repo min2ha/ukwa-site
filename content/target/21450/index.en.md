@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: David Cameron and Ed Miliband WILL face each other in election debates - but only during discussion with five other party leaders
-
 None

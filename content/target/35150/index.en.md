@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Flat Holm Island
-
 ½ a mile wide, Flat Holm is an island located in the Bristol Channel. 

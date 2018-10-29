@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Port Talbot Adventist Church, Wales
-

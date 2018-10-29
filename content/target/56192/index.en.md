@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Michael Gove: UK won't accept US chlorinated chickens
-
 The UK should not accept imports of chlorinated chickens as part of any future trade deal with the US, Michael Gove has said. The environment secretary told the BBC that the UK would not "compromise" on or "dilute" its animal welfare standards in the interests of trade.

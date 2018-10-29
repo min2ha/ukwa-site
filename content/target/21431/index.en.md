@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nick Clegg defends Danny Alexander in Lib Dem fundraising 'sting'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Battles ahead for EU bill
-
 Most Westminster observers expected the Commons to embark on eight days of detailed debate on the EU Withdrawal Bill, in Committee of the Whole House, pretty much as soon as their conference recess was over. Challenged in Commons business questions by the SNP's Pete Wishart, Leader of the House Andrea Leadsom noted that MPs had proposed more than 300 amendments and 54 new clauses to the Bill and these were being studied by ministers.

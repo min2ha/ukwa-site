@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Mine Exploration & History Forum
-
 An online enthusiast community concerned with mine exploration in the UK. Discusses equipment & training, methods & techniques, spots in the UK and various other topics.

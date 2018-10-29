@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dorchester & Weymouth Quaker Meetings
-

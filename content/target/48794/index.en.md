@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Gina's no martyr: She's a pushy Posh Mum just like Catherine Tate's comic creation 
-

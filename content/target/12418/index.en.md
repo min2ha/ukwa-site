@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# KJT (JohnsonThompson) on Twitter
-
 The twitter profile of heptathlete Katarina Johnson-Thompson, member of Team England for the Glasgow 2014 Commonwealth Games.

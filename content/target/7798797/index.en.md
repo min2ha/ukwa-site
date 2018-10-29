@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds Quakers
-
 None

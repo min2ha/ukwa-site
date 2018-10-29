@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour has failed but it’s the low-paid and hard-pressed who will suffer
-
 None

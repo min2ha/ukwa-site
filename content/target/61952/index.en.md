@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Arsenal FC (@Arsenal ) on Twitter
-
 Arsenal Football Club is a professional football club based in Highbury, London,

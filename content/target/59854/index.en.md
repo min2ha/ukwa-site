@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Here's to us! The moment Tory rebels celebrated Theresa May's humiliating Brexit Bill defeat with wine in Commons bar 
-

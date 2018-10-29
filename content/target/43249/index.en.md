@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# City University: EU Referendum
-
 Explanation and analysis of the EU Referendum from academics at City University.

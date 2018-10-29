@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# It's All About the Adventure - the web log of first time novelist C.G.Allan
-
 None

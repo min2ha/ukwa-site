@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Petty criminals face two nights in the cells under Conservative justice plans
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP has almost doubled lead over Labour in Scotland, poll shows
-
 None

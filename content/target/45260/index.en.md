@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: G20 Summit, China: Prime Minister's press conference – 5 September 2016
-
 Prime Minister Theresa May spoke about free trade, creating an economy for everyone and the global challenges of terrorism and migration at the September G20 Summit following the vote to leave the EU.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Project Pentland: Edinburgh - Pentland Studios
-
 The website for a planned film studio at Straiton, Midlothian, on the edge of the City of Edinburgh.

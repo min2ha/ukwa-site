@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# How Brits Would Throw a Party to Celebrate the Queen’s 90th Birthday
-
 Eventbrite polled 2,000 people in the UK to see how they would celebrate the Queens birthday.

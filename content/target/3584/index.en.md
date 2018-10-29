@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Liverpool Daily Post
-
 None

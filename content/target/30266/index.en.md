@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bookmark on Facebook
-
 Facebook page for Bookmark, a book festival based in Blairgowrie, Rattray and the Glens.

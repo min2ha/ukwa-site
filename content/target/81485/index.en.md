@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British Democrats
-
 British Democrats are a a British far-right political party.

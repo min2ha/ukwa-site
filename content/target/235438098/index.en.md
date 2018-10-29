@@ -10,5 +10,3 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Gavaghan Communications
-

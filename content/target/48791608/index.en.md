@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# World Renewable Energy Congress/Network (WREC/WREN)
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-08-20T10:00:00Z"
 }
 
-# Scottish Rowing: Swann and Bennett add two more Scottish medals
-

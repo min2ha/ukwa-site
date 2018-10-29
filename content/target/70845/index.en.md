@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Traditional Arts in the Community | Traddodiadau a Syniadau Celf
-
 TASC (Tradition Arts Support Cymru) was established in 1994 and have been organising Events & Workshops to encourage the use and enjoyment of Folk Music in Mid Wales and the Borders 

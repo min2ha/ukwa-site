@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# African Stories in Hull & East Yorkshire
-
 African Stories in Hull and East Yorkshire is a Heritage Lottery Funded project organised by the William Wilberforce Monument Fund.  Thanks to National Lottery funding we are now able to begin exploring the stories of people of African descent in Hull and East Yorkshire from the Wilberforce era of the 1750s until 2007.

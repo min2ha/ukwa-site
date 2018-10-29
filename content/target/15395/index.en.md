@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Tregynon Community Council
-
 <p>This is the community council site for Tregynon in Powys.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inside the Games: Sochi 2014
-
 None

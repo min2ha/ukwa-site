@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Liberal England
-
 Liberal England is a blog run by Jonathan Calder, who lives in Market Harborough, East Midlands.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Weybridge Vandals RFC on Pitchero
-
 The official website of Weybridge Vandals Rugby Football Club.

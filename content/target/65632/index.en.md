@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Mount Blair archive
-
 Site of a community archive project that seeks to gather and make accessible material and information relating to the history of the Mount Blair area, mainly Strathardle and Glenshee.

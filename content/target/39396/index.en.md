@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Training and Trenches
-
 Training and Trenches is a project designed to mark the First World War centenary in a way that is relevant to a Yorkshire Dales community with a strong historical links to the Great War.

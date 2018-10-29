@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Last Ditch, The
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Talking openly about my mental health is the best thing I’ve ever done
-
 News article about the authors struggles with mental health and how talking openly about them helped her.

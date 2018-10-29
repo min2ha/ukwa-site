@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keeping an Eye on The Czar of Russia: Assembly Election 2017: East Antrim
-
 A personal opinion on the Assembly Election 2017 in the East Antrim constituency. 

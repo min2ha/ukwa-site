@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Nicaragua Solidarity Campaign (NSC)
-
 None

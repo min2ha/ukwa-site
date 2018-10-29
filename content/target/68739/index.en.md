@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Tregaroc - Gŵyl Gerddoriaeth Gymraeg Tregaron
-
 TregaRoc is held in the village of Tregaron in Ceredigion and is a Welsh language music festival.

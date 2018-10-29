@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Borderline Theatre Company
-
 Site of a Scottish touring theatre company based in Ayr, Ayrshire.

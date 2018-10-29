@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Local Government Association (LGA): Councils to mark Magna Carta anniversary
-

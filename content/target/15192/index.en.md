@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# onlineFOCUS - News and Stuff For Rochford District since 2003
-

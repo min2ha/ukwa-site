@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tartan Day Scotland
-
 Site of an annual celebration of Scottish cultural heritage.

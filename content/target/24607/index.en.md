@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour candidate: People who fly England flags are 'simpletons and casual racists'
-
 None

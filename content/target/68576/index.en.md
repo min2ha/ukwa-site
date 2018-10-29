@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Churches of Immaculate Conception, Jedburgh and Immaculate Conception, Kelso
-
 Site of two Roman Catholic parish churches in Scotland, located in the Scottish Borders.

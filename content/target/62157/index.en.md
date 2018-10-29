@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: "Charity issues warning after children as young as 13 buy anti-anxiety pills on Facebook, Instagram and Snapchat"
-
 Web article about young people buying anxiety pills on social media 

@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Windmill 2009: NHS Response to the Financial Storm
-
 In 2009, the Kings Fund commissioned a planning exercise which tested how participants (drawn from Department of Health, patient groups, and a variety of local health care providers) would respond to demands for improved quality of service and the need to make savings. 

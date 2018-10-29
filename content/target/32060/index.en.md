@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# HP UK
-
 UK webpages of the multinational IT company HP.

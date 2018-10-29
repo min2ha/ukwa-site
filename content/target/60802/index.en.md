@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European defence: where is it heading?
-
 In light of Brexit, an increasingly assertive Russia and the unpredictable attitude of the current US administration toward European security, there is, at present. a political appetite for progress in the development of the EU's Common Security and Defence Policy. Much has been achieved in the last few years and without the UK, which has historically opposed deeper defence integration, Brexit undoubtedly offers opportunities. The question is: how far will the EU at 27 be willing to go? 

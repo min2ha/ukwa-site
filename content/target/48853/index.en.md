@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Shut Down H&K
-
 After more than six years of campaigning against H&K in Nottingham (2007-2013), Shut Down H&K is no longer active. This website remains as a source of information about the arms company and a record of the campaign’s activities. If you would like to organise a campaign against H&K in Nottingham.

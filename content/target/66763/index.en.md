@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Fdn (@mentalhealth) on Twitter 
-
 The UK's charity for everyone's mental health, promoting good mental health for all

@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Calon TV
-
 Calon TV is the trading name of Mount Stuart Media Ltd, a tv and digital media production company based in Cardiff.  

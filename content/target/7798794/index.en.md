@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# ElBlogador.com - The Voice of Irish Nationalism
-
 None

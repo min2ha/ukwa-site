@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chi Onwurah (Labour Party Politician)
-
 Chi Onwurah Stood as labour candidate for Member for Newcastle upon Tyne Central  in teh 2017 General Election and was electe. She was first elected in 2010 and has held the seat ever since.

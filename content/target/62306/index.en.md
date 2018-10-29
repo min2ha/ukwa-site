@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cysgliad
-
 Cysgliad is a software package for your PC. The package includes Cysill, a program that identifies and corrects language errors in your Welsh-language documents. The package was created by Language Technologies Unit, Canolfan Bedwyr, Bangor University.

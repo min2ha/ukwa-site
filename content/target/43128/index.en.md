@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T11:00:00Z"
 }
 
-# Cymrugyfan | Waleswide
-
 Cymrugyfan was established in 2005. The aim is to help in church-planting and in the strengthening of existing churches across Wales.

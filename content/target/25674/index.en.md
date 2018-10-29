@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Playing the anti-Scotland card is Cameron’s desperate last resort
-
 None

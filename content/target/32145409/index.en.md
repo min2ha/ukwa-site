@@ -10,5 +10,3 @@
   "start_date": "2009-10-14T00:00:00Z"
 }
 
-# Oncom Archive
-

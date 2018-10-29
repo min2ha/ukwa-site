@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ash Denham (@ashtenRD) on Twitter
-
 The Twitter profile of Ash Denham, the Scottish National Party MSP for Edinburgh Eastern.

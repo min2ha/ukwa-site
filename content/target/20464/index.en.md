@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'I'm fit as a flea' insists Nigel Farage as poll shows Ukip has lost ground
-
 None

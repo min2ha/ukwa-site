@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Neil Kinnock's rallying call to voters: Don't believe Tory tax cut lies 
-
 None

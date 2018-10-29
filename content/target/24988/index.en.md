@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election 2015 RECAP on our live updates after the UK went to the polls
-
 None

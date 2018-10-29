@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Massive Analytic
-
 Massive Analytic's data scientists and software engineers are developing the next-generation technologies which are changing how people interact with, make accessible and use the information in big data.

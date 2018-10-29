@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour forced to remove suspected benefits cheat from letter of support
-
 None

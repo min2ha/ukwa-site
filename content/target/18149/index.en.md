@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Most £2m homes hit by mansion tax 'are in Home Counties and London suburbs'
-
 None

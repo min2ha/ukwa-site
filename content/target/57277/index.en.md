@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Mòd Loch Abar 2017 on Twitter
-

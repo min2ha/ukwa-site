@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Stornoway Reformed Presbyterian Church
-

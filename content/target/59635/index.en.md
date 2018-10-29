@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# http://www.bipolarscotland.org.uk/
-
 Website that provides information, support and advice for people affected by bipolar disorder / manic depression and those who care for them.
 It also promotes self-help throughout Scotland, and informs and educates about the condition.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lanark St. Nicholas Church
-
 Site of a Church of Scotland parish church at Lanark, Lanarkshire.

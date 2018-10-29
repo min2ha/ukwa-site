@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Pembs4EU (@Pembs4EU) on Twitter
-
 This is the twitter feed for a group opposing Brexit in Pembrokeshire.

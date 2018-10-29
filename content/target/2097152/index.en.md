@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# library.wales.org - llyfrgell.cymru.org
-

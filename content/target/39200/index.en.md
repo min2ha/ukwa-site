@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Stories of Conflict: exploring how the First World War is understood and remembered
-
 Project enabling 90 participants to visit Imperial War Museum North and be introduced to ‘Stories of Conflict’ from the First World War.

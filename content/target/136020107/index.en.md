@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Mental Health and Social Care Trust
-
 None

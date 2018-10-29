@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Food and Drink Federation (FDF): FDF Manifesto 2017
-
 The Food and Drink Federation (FDF) sets out the five key policies it believes the next Government should implement in order for the food and farming sectors to thrive on a global scale.  Priorities are to: secure a good Brexit deal; to tackle obesity; to encourage exports; and to train up the UK workforce.
 

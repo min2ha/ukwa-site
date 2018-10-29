@@ -10,5 +10,3 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Tyddewi Art Gallery
-

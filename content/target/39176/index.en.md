@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gyda'n gilydd dros Gymru | Togethor for Wales 
-
 Welsh Labour 2016 Manifesto for the National Assembly for Wales Election.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Stemettes
-
 A social enterprise working across the UK and Ireland to inspire and support young women into Science, Technology, Engineering and Maths careers (STEM)

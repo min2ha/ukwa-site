@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael's Moodiesburn on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Michael, Moodiesburn, Lanarkshire.

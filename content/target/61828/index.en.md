@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Perth Riverside Church of Scotland
-
 Site of a Church of Scotland parish church in Perth.

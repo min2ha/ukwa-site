@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Abingdon Quakers
-

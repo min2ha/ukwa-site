@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Loveday Jenkin on Facebook (Mebyon Kernow candidate for Camborne and Redruth)
-

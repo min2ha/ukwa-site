@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset Police and Crime Commissioner
-
 <p>Dorset Police and Crime Commissioner website gives information about the activities of the local force.</p>

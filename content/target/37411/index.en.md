@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKtoStay in the EU on Facebook
-
 Facebook page for UKtoStay.Eu

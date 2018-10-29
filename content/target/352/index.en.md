@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central Bedfordshire Health and Wellbeing Board
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Scapa Flow
-

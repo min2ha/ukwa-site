@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Yasmin Alibhai Brown. Political satire is funny, but it also causes cynicism and apathy
-

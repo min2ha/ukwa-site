@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Friends of the Earth
-
 Friends of the Earth is an international network of environmental organizations in 74 countries. It was founded in 1969.

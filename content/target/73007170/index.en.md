@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Royal National Institute of Blind People - RNIB
-

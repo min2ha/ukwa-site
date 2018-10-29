@@ -10,5 +10,3 @@
   "start_date": "2005-03-23T00:00:00Z"
 }
 
-# National Library of Scotland
-

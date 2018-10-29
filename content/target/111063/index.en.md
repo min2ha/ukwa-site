@@ -10,5 +10,3 @@
   "start_date": "2005-07-15T00:00:00Z"
 }
 
-# Worth Abbey (including The Monastery)
-

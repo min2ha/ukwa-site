@@ -10,6 +10,4 @@
   "start_date": "2006-10-04T00:00:00Z"
 }
 
-# Caledonian Thebans RFC
-
 None

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Belfast Waterfront
-
 None

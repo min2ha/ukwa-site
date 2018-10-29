@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Nuttall (Conservative Politician)
-
 David Nuttall stood as Conservative candidate for Bury North at the 2017 General Election and was not elected to serve as MP. He was MP for Bury North from 2010 to 2015.

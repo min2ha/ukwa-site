@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: On defence, the silence from Cameron, Miliband and co is deafening
-
 None

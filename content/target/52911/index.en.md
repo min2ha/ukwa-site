@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Breast Cancer UK: General Election 2017: A manifesto for the prevention of breast cancer
-
 Breast Cancer UK calls on all the political parties and candidates in this election to think of the health of current and future generations, and show their commitment to preventing breast cancer.

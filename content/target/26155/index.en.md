@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Working Families: A ‘families & work’ manifesto for 2015
-
 Working Families is the UK’s leading work-life balance organisation. The charity helps working parents and carers and their employers find a better balance between responsibilities at home and work.

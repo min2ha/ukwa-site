@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Embassy of Brazil in London: Zika virus: q&a
-
 Information for British people from the Brazilian government on Zika virus and its risks

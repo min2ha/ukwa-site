@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Greg Smith (@gregsmith_uk) on Twitter ( Conservative Politician)
-
 Greg Smith stood as Conservative candidate for Hayes and Harlington at the 2017 General Election but was not successful. 

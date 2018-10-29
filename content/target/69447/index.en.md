@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# AltNewsMedia
-
 An online news site that global news, politics and commentary which aims to offer an alternative to the mainstream publishers in the UK.

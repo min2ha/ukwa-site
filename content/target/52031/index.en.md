@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# LANWest (Live Art North West)
-
 LANWest came about in 2003 as an informal gathering of regional promoters and producers with an interest in live art and contemporary performance. 

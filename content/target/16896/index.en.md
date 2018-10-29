@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Operation Black Vote (OBV)
-
 Operation Black Vote (OBV) exists to ensure there is racial justice and equality throughout the UK. OBV seeks to inspire Black and Minority Ethnic (BME) communities to engage with public institutions in order to address the race inequalities in areas such as: education, health and employment.

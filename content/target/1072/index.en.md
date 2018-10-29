@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Injury Prevention Website
-
 None

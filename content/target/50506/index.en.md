@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Alive Network
-
 Established in 1999, Alive Network is a supplier of live entertainment for weddings, corporate events and private parties in the UK. 

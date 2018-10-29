@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Parliament UK: House of Lords Magna Carta baron statue lent to Tate Britain 
-

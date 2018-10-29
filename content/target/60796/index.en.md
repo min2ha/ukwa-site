@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: Leaving the EU: Chemicals Regulation
-
 Debate on the implications of leaving the EU for the chemicals industry. The Government's decision to leave the Single Market and the Customs Union will take the UK out of the existing Europe-wide system for chemicals regulation. Setting up a successor system for the UK would be difficult and very costly for the industry and the taxpayer

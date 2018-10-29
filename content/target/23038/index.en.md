@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Marriott (UKIP)
-
 Sean Marriott stood as UKIP candidate for Gravesham at the 2015 General Election but was not elected.

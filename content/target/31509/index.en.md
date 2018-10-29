@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Talk Indie Games
-
 Talk Indie Games is a website for programmers, artists, publishers, journalists and players of indie games.

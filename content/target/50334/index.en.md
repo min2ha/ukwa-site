@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Collab Group
-
 The Collab Group is a membership organisation which represents 35 UK colleges and college groups.

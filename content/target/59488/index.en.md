@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Newsbeat: Mental Health
-
 Webpage featuring numerous stories relating to mental health

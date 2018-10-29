@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Official forecasts suggest economies throughout UK will be hit
-
 Parts of the UK that backed a Leave vote would face the heaviest hit as a result of Brexit, according to estimates by government officials. The forecasts, seen by MPs, modeled the 15-year impact of the UK staying in the single market, doing a trade deal with the EU or leaving without a deal. They suggested that in England, the North East and West Midlands would see the biggest slowdown in growth. The government said the document did not represent its policy.

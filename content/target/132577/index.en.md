@@ -10,5 +10,3 @@
   "start_date": "2006-07-19T00:00:00Z"
 }
 
-# Community University of the Valleys Partnership - Partneriaeth Prifysgol Gymunedol y Cymoedd: bringing learning closer to home - dod â dysg yn agos i'ch cartref
-

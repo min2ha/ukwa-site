@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris will NEVER be Prime Minister: Hammond mocks Johnson's plummy voice and failure to grasp detail - and claims his biggest achievement is 'Boris Bikes', in searing attack
-
 Philip Hammond launched a blistering personal attack on Boris Johnson.on the eve of the 2018 Tory Party conference. He said the former foreign secretary was incapable of 'grown-up' politics and did not have a clue how his own proposal for a Brexit deal would work.
 
 

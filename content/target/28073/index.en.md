@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# PBH's Free Fringe
-
 Website for The Free Fringe, which was started on the Edinburgh Festival Fringe in 1996 by Peter Buckley Hill.

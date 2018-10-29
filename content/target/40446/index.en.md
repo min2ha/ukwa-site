@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Cruck Cottage
-
 Website of a heritage centre and association aiming to maintain the Cruck Cottage in its present condition, raise funds, and promote and encourage access by both the local, and wider, community.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "Water fasting diet sparks concerns amongst eating disorder specialists"
-
 News article about eating disorders and online social media trends

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ministers flood marginal seats to announce £1 billion of extra funding amid claims of partisanship
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Two-minute guide to history of Magna Carta and Runnymede
-

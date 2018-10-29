@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Daily Mail, The
-
 MailOnline - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from MailOnline, Daily Mail and Mail on Sunday newspapers

@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Glamorgan Archives - Archifau Morgannwg
-
 Glamorgan Archives serves the County Borough Councils of Bridgend, Caerphilly, Merthyr Tydfil, Rhondda Cynon Taf, Vale of Glamorgan and the City and County of Cardiff.

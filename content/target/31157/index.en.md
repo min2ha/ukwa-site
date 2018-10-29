@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# School of Computer Science, University of Manchester
-
 Official website of the department.

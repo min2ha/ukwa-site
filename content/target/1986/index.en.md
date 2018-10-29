@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brighton and Hove LINk: facebook
-
 None

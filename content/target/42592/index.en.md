@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Peter Hain (@PeterHain) on Twitter
-
 Peter Hain is a Labour peer and former MP and campaigner and chair for LabourInforWales.

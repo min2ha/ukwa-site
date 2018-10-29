@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Foveran Parish Church
-
 Site of a Church of Scotland parish church at Foveran, Aberdeenshire.

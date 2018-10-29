@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# NLW Reading (@NLWReading) on Twitter
-
 This is the twitter feed of Access to Collections at National Library of Wales.

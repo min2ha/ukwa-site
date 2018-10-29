@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brechin City Football Club
-
 Site of a senior Scottish association football club based in Brechin, Angus Scotland.

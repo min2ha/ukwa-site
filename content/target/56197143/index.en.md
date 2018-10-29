@@ -10,5 +10,3 @@
   "start_date": "2012-06-01T00:00:00Z"
 }
 
-# North and Mid Wales Trunk Road Agency
-

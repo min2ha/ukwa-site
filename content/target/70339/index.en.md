@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Women's Sports UK (@WomensSportsUK) on Twitter
-
 The home of women's sports on the internet

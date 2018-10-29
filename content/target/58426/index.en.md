@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 1st November 2017: Exiting the EU: Sectoral Impact Assessments
-
 The Commons resolved that hat an humble Address be presented to Her Majesty, That she will be graciously pleased to give directions that the list of sectors analysed under the instruction of Her Majesty’s Ministers, and referred to in the Answer of 26 June 2017 to Question 239, be laid before this House and that the impact assessments arising from those analyses be provided to the Committee on Exiting the European Union.

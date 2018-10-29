@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ruth Bailey on Facebook (Manston Airport Independent Party candidate for South Thanet)
-

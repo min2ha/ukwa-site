@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Theme Park Tourist
-
 Theme Park Tourist is your essential source for news, reviews and money-saving tips from theme parks in Orlando, Florida and beyond. We offer a unique perspective on all the latest news from Walt Disney World, Universal Orlando and other parks and resorts, and are proud to deliver some of the most in-depth, well-researched articles about theme parks available anywhere on the web.

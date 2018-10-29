@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Wales Centre for Pharmacy Professional Education, The (WCPPE) | Canolfan Addysg Fferylliaeth Broffesiynol Cymru
-
 WCPPE. funded by the Welsh Government, under the guidance of the Training and Education Sub Committee (TESC) of the Welsh Pharmaceutical Committee (WPhC), is an operational unit of the School of Pharmacy and Pharmaceutical Sciences, Cardiff University and has three main areas of activity: The main programme – live events, a range of distance learning packs and e-Learning resources.

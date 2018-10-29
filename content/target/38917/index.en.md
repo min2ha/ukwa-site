@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fans Against Criminalisation
-
 Fans Against Criminalisation campaigns against the Offensive Behaviour at Football and Threatening Communications (Scotland) Act 2012.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Turriff
-
 The website of St. Andrew's Turriff. 

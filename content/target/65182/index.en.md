@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Think GDPR
-
 A website providing guidance and resources for the GDPR in the Channel Islands.

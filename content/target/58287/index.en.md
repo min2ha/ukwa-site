@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Post: Gwynedd man stole to feed gaming addiction
-
 News article about a salesman who stole from his employer to fund his internet gambling addiction

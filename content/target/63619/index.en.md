@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Lodge Lord Bruce 1601
-
 Site of a masonic lodge located in Blackburn, West Lothian and affiliated with the Grand Lodge of Scotland.

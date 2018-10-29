@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Scottish Bible Society
-
 Site of an organisation whose mission is to provide access to the Bible to all people in a language they can understand in a format they can use and at a price they can afford.

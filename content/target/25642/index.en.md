@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A letter of support for the Tories – from the Tories
-
 None

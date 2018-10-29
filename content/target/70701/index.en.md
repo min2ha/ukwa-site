@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Back May's Brexit plan or risk no deal, David Lidington tells EU
-
 The EU must back Theresa May's Brexit plan or risk the UK leaving without a deal, David Lidington,the most senior member of the UK PM's cabinet, said at a French business conference. He said the European Commission's proposals remained unacceptable, and appealed for compromise.
 
 

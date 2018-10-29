@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lasswade and Rosewell Parish Church
-
 Site of two Church of Scotland parish churches located at Lasswade and Rosewell, Midlothian.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chloe Palmer (@TheChloePalmer) on Twitter (UK Independence Party (UKIP) Politician)
-
 Chloe Marie Palmer stood as the UK Independence Party (UKIP) candidate for Gosport at the 2017 General Election but was not elected.

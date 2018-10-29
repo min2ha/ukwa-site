@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South Holburn Parish Church
-
 South Holburn Parish Church is a congregation of the Church of Scotland in the City of Aberdeen.

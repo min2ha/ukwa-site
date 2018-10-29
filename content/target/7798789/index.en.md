@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# KNIFEPAINTER
-
 None

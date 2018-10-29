@@ -10,6 +10,4 @@
   "start_date": "2014-01-20T11:00:00Z"
 }
 
-# Amnesty International
-
 None

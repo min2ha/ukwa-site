@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Pancreatitis Supporters Network
-
 The Pancreatitis Supporters' Network provides medical information and support for sufferers of the condition called pancreatitis.

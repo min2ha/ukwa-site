@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Undy Athletic Football Club
-

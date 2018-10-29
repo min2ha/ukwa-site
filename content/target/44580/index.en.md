@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Teifi Festival, The
-
 Caught By The River Teifi is a week-long celebration of all things outdoors. The event is hosted at Fforest Camp, a 200-acre site above the Teifi.

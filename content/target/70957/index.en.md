@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: New pilot scheme to bring 2,500 seasonal workers to UK farms
-
 A nationwide pilot to bring migrant workers to UK farms was announced by the Home Secretary and Environment Secretary on Thursday 6 September 2018 in response to farmers' concerns

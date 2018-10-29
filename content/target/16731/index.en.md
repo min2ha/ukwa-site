@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T00:00:00Z"
 }
 
-# Ian Young's Bulb Log
-
 <p>This plant based diary has been written each week since 2003 and is a resource on plant cultivation. The site is run by Ian Young.</p>

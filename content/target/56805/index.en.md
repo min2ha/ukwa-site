@@ -10,5 +10,3 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Glanusk Welsh Stallion Show 
-

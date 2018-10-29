@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Cadoc's Parish
-
 Site of a Scottish Roman Catholic parish church located in Halfway, Lanarkshire.

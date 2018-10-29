@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Audley and District Family History Society 
-
 Since 1986 the Audley and District Family History Society has been working to make records available for Audley and its adjoining parishes.

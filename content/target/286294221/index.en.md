@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Anne Watts
-
 <p>Anne Watts is from Snowdonia and has travelled the world as a nurse, experiences of working in remote spots and warzones. She has written of her experience in anumber of books.</p>

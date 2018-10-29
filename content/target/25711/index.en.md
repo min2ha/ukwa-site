@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories have yet to reap reward of putting economy at heart of election strategy
-
 None

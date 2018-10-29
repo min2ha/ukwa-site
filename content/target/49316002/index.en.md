@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Man Who Captured Washington, The
-
 None

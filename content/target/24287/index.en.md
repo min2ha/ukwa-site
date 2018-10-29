@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Five things we have learned about the election campaign trail this week
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Welcome to Sheffield: Tour de France Grand Depart
-

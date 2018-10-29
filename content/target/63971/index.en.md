@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Stepps Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Monkland and Greengairs Parish Churches
-
 Site of two Church of Scotland parish churches in Lanarkshire.

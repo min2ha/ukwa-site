@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC News: Audio slideshow: Nelson Mandela at 90
-
 None

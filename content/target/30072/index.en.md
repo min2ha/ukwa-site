@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# UK Digital Currency Association (UKDCA)
-
 The UK Digital Currency Association (UKDCA) is a non profit organisation established by a diverse range of individuals and businesses who are united by a vision that digital currencies ultimately represent an opportunity for profound improvement within society as a whole.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Y Bont
-
 Y BONT is an independent not-for-profit organisation, based in Bridgend. Our mission statement is ‘Enabling children with a disability to fulfill their potential.

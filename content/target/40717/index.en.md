@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 - The Southall Allotment Link
-
 Project working with disadvantaged young people on a landlocked, disused and abandoned Southall allotment in the London Borough of Ealing to get the site back into production.

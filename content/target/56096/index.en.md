@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Squash Rackets Association
-
 The website of the Army Squash Rackets Association with information about competitions, tours and leagues.

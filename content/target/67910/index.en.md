@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brockleians RFC
-
 Brockleians is a thriving rugby club based in Eltham South East London.

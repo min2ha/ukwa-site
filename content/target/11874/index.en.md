@@ -10,6 +10,4 @@
   "start_date": "2014-11-07T01:30:00Z"
 }
 
-# Royal Mail
-
 An official website of the Royal Mail.

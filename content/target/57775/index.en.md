@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Association of University Language Centres in the UK and Ireland (AULC)
-
 AULC is a membership organisation for all staff working in HE language departments and centres in the UK and Ireland. 

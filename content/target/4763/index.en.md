@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Press Release from Magdalene College, Cambridge on the death of Dr Nelson Rolihlahla Mandela
-
 None

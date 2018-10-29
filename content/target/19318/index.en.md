@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Canterbury Panel commemorating 800th anniversary of the sealing of Magna Carta completed
-

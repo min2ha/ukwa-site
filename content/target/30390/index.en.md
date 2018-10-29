@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T01:00:00Z"
 }
 
-# Scotland Sees Syria
-
 A Facebook page encouraging Scots without access to an organised event, to share a photograph of their own candlelit vigil.

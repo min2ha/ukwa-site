@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Museum of Lead Mining
-
 Site of a museum of lead mining located at Wanlockhead, Dumfries & Galloway, Scotland.

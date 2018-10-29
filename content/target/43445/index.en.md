@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Woodland Trust: The EU Refernedum: What about the woods and trees?
-
 Woodland Trust blog discussing how the EU referendum debate has not regarded environmental issues and discusses the Institute for European Environmental Policy's (IEEP) report on the implications of the referendum for the environment.

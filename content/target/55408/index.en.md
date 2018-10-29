@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Politeia: Trading on the Future: Brexit Trade Options and the UK Economy
-
 Leading trade economist Patrick Minford, explains the economic context of different options for trade after Brexit and assesses the relative costs and benefits of the principal routes.

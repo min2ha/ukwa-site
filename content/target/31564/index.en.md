@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Lynne Plowman
-
 Lynne Plowman is a composer and flautist based in Wales. 

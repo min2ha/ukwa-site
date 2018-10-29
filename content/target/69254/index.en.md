@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Huck Magazine
-
 Huck celebrates independent culture: people and movements that challenge the status quo. Combining award-winning photography and original journalism, Huck roams the globe seeking out artists, activists and creative renegades who are breaking down the old world to build something new.

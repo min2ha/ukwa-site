@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Russell Brand meeting was to make election interesting - Miliband
-
 None

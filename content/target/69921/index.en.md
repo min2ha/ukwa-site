@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Medical and Dental Defence Union of Scotland (MDDUS)
-
 Founded in 1902, MDDUS is a mutual defence organisation offering access to expert medico-legal and dento-legal advice and professional indemnity for doctors, dentists and other healthcare professionals across the UK. The links below provide more information about the principal activities, corporate governance and history of MDDUS. 

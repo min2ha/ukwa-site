@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Peter Cushing Appreciation Society 
-
 The official website of the Peter Cushing Appreciation Society.

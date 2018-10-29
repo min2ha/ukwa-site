@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Clarsach Society, The / Comunn na Clarsaich
-
 The Clarsach Society’s aim is to promote, encourage and develop the playing of the clarsach, nationally and internationally, through tuition, performance and publication.

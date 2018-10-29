@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Attack is the best form of defence: the golden rules of political campaigning
-

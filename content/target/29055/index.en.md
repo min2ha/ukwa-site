@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carlisle Conservatives
-
 Website of Carlisle Conservatives, providing information on association officers, city and county councillors and MPs, events and local and national news and opinion.

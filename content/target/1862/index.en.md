@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southend on Sea Borough Council
-
 The website of Southend on Sea Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

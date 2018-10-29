@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Barry Island 10k
-
 The Brecon Garreg 10k run is held in Barryu during the month of August.

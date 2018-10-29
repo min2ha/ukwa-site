@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: James Cracknell leads list for Sir Malcolm Rifkind's Kensington seat
-
 None

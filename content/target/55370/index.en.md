@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Cardiff Film Office
-
 Cardiff Film Office is a division of the City of Cardiff Council and is dedicated to attracting, promoting and cultivating film, television and commercial production throughout the Welsh capital city.

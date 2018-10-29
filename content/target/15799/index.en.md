@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Recruitment & Employment Confederation (REC), The
-
 The Recruitment &amp; Employment Confederation (REC) is a trade body within the recruitment industry and the key activities are lobbying and meeting government, campaigning, business training and advice to members.

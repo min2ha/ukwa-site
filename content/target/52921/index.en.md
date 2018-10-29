@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Housing Federation: General Election 2017
-
 The National Housing Federation's plan for this election is to build on the progress they have already made - to get on the front foot with the next round of MPs, cabinet members and influencers and show that housing associations are central to fixing the broken housing market, and that they are ready to work with the next government.

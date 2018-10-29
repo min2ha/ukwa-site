@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Federal Trust for Education and Research, The: We have seen the future and it doesn't work
-
 Comments on the political chaos and instability that followed the UK's vote to leave the European Union at the June 23rd 2016 referendum

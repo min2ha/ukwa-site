@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mayfield Salisbury Parish Church
-
 The website of Mayfield Salisbury Parish Church, located in Edinburgh 

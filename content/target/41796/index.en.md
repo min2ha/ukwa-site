@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Midsomer Norton Community Trust
-

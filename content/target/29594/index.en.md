@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Gwili Vintage Carriage Group
-
 The Gwili Vintage Carriage Group was set up to safeguard the Victorian carriages on the Gwili Railway.

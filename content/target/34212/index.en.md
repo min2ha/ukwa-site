@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Broadcasting Entertainment Cinematograph and Theatre Union
-

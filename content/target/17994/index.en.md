@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Tredegar Community Archive Group
-
 The archive group was formed in 2002 has a collection of photos, documents, books, programmes, sound and film.  The History society was formed in 1961 and has a Museum.

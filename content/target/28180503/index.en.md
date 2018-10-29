@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Blast Theory
-
 Blast Theory is an artists’ group that uses interactive media, creating new forms of performance and interactive art that mixes audiences across the internet, live performance and digital broadcasting. 

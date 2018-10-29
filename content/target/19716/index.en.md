@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr. Aladdin Ayesh (@DrAladdinAyesh) on Twitter 
-
 Liberal Democrats PPC for Caerphilly.

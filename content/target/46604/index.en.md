@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T10:00:00Z"
 }
 
-# Lews Castle College UHI Facebook
-
 Lews Castle College UHI Facebook

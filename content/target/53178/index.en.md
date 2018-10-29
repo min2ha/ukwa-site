@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# SDP Scotland (@SDPScot) on Twitter
-
 The Social Democratic Party of Scotland set up in 2016.
 Affiliated to Social Democratic Party which is a minor political party in the United Kingdom, established in 1990. It traces its origin to the Social Democratic Party that was formed in 1981 by a group of dissident Labour Party Members of Parliament (MPs) and former MPs: Roy Jenkins, David Owen, Bill Rodgers and Shirley Williams, who became known as the "Gang of Four"

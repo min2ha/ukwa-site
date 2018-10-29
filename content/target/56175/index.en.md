@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Tidal Lagoon Power
-
 Tidal Lagoon Power was formed to develop tidal lagoon power plants in the UK and have recently secured permission to build the world’s first tidal lagoon power plant in Swansea Bay.

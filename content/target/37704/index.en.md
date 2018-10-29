@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron interview: Prime Minister urges people to vote in EU referendum 'or you'll find we're out'
-

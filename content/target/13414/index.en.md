@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Christina McKelvie (ChristinaSNP) on Twitter
-
 The twitter profile of Christina McKelvie, the Scottish National Party Member of the Scottish Parliament for Hamilton, Larkhall and Stonehouse.

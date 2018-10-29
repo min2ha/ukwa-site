@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Environmental Audit Committee : The Future of Chemicals Regulation after the EU Referendum
-
 This inquiry examined the implications of leaving the EU for chemicals regulation using the REACH (Registration, Evaluation and Authorisation of Chemicals) regulation as a case study. REACH came into force in June 2007. Its aims include providing a high level of protection of human health and the environment from the use of chemicals.

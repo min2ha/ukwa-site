@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Hawk Hill Brewery on Facebook
-
 Facebook page of a brewer based in Dundee.

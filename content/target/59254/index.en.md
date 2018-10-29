@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Brynford Community Council
-
 Brynford is a village located near Holywell in Flintshire.

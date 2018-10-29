@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# CST Global
-
 CST Global are a company specialising in compound semiconductor technologies, based outside Glasgow.

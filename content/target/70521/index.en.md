@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Livingston United Parish Church
-
 Site of a Scottish a parish church located in Livingston, West Lothian, where Church of Scotland, Scottish Episcopal Church, Methodist Church and United Reformed Church worship together.

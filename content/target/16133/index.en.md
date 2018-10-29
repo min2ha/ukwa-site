@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British Friends of Vanuatu, The
-
 <p>The British Friends of Vanuatu was formed in 1986 with the objective of helping to bridge the gap between the United Kingdom and the newly independent Republic of Vanuatu.</p>

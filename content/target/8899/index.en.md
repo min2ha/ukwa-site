@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UNICEF joins millions of people around the world who mourn the loss of Nelson Mandela, former President of South Africa
-
 None

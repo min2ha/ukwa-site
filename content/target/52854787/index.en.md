@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# West Kent Quakers
-

@@ -10,6 +10,4 @@
   "start_date": "2013-09-27T23:00:00Z"
 }
 
-# Getting ready for 2013 - Department of Health
-
 None

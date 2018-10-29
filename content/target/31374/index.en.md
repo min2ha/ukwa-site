@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Meat Loaf UK Fanclub
-
 A website for fans of Meat Loaf (Michael Lee Aday), an American musician and actor.

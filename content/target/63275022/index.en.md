@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Rookesbury Park School
-
 None

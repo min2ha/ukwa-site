@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Swansea Gambia Link
-
 Swansea Gambia Link is apartnership between Swansea College of Medicine and the School of Medicine, The Gambia.

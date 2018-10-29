@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Friends of Israel
-
 <p>Northern Ireland Friends of Israel stands for strong cultural, economic and political ties between Northern Ireland and Israel and to build a better understanding between the peoples of Northern Ireland and of Israel.</p>

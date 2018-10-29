@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Oxford: Central, South and West Neighbourhood Forum
-

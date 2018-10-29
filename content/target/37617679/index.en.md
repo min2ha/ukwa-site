@@ -10,5 +10,3 @@
   "start_date": "2010-03-11T00:00:00Z"
 }
 
-# Welsh Artist Gwynfor Roberts
-

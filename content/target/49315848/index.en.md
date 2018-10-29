@@ -10,5 +10,3 @@
   "start_date": "2010-05-27T00:00:00Z"
 }
 
-# SUSANNE RYDER PHOTOGRAPHY
-

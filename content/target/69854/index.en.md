@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Steve Cutts
-
 UK based illustrator and animator 

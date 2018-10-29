@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Centre for European Reform : Britain & the EU
-

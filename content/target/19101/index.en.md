@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Magna Carta Anthem delivered to Parliament
-

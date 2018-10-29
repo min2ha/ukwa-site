@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Independent Doctors Federation UK
-
 The Independent Doctors Federation (IDF) is the most innovative, forward thinking and active independent medical practitioner organisation in Great Britain.  

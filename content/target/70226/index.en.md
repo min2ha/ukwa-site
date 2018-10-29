@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cliftonville FC (@cliftonvillefc) on Twitter
-
 The Official Twitter account of Cliftonville FC, Ireland's Oldest Football Club.

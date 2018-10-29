@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# FfotoAber
-
 FfotoAber is an annual photomarathon held at Aberystwyth. The aim of the photomarathon is to take six pictures in six hours on six different themes and anyone can take part. 

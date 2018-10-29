@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Labour gets £250,000 General Election boost from green energy firm as Tory anti-business jibes are exposed
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Human Fertilisation and Embryology Authority
-
 The Human Fertilisation and Embryology Authority is the UK's independent regulator overseeing the use of gametes and embryos in fertility treatment and research. The HFEA licenses fertility clinics and centres carrying out in vitro fertilisation (IVF), other assisted conception procedures and human embryo research.

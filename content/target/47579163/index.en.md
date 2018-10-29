@@ -10,5 +10,3 @@
   "start_date": "2010-05-10T00:00:00Z"
 }
 
-# Brighton Cross
-

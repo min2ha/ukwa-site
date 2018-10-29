@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: There is a plan: Brexit means good riddance to austerity
-

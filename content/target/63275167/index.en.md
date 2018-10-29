@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sophie Wells - Dressage Rider
-

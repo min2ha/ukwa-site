@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# East Lindsey District Council
-
 Website of East Lindsey District Council offers access to council services and news, consultations, committee papers and agenda, local plans, and financial statements

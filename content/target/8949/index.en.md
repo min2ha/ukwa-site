@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Machon Skier
-
 None

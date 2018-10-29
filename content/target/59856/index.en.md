@@ -10,5 +10,3 @@
   "start_date": "2017-12-20T09:00:00Z"
 }
 
-# Gerddi Bluog Herd | Pedigree Welsh Black Cattle
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Yes 2 Women Bishops
-
 None

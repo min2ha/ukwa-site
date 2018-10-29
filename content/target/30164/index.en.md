@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Mull Provincial Mòd - Mòd Ionadach na Dreòlluinn on Facebook
-
 The Mull Provincial Mòd encourages the use and development of the Gaelic language and music through vocal, choral, oral and instrumental competitions. This is its official Facebook page.

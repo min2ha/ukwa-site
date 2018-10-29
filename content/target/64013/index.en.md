@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# My Racecourse
-
 This is the site for the Racecourse Ground, the home of Wrexham AFC.

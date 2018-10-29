@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Duke of Edinburgh reveals black eye as he joins The Queen at event in Buckingham Palace to commemorate the Magna Carta
-

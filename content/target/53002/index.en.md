@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Soil Association: Food and farming manifesto priorities for the June 2017 general election
-
 The Soil Association calls on all parties to give food and farming a higher priority than ever in their manifestos. As the UK prepares to leave the EU, the next Government will have an opportunity to produce an agricultural policy for the first time in decades. This must fully recognise the importance of food and farming to public health, our environment, and the economy.

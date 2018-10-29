@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Llais
-
 Llais is a public affairs consultancy body run by Anna McMorrin former specialist Adviser to the Welsh Government.

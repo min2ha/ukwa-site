@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jen McIntosh (JenMac600) on Twitter
-
 The official twitter profile of rifle shooter Jen McIntosh.

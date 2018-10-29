@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Grace Notes Scotland
-
 Site of a group and projects dedicated to identifying and handing on traditions to new generations, conserving, nurturing and promoting Scotland’s languages and dialects, traditions and skills, oral history, songs, tunes and stories by documenting these orally or in writing.

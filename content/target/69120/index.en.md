@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Vincent de Paul
-
 Site of a Scottish Roman Catholic parish church located in Thornliebank, Glasgow incorporating the linked parish church of St. Louise's, Deaconsbank.

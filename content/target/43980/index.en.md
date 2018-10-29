@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Anti Brexit March on Facebook
-
 Facebook page for an Anti-Brexit demonstration organised for the 2nd July in London

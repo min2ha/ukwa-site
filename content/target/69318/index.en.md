@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Match of the Day mag (@MOTDmag) on Twitter
-
 Official Twitter account of the Match of the Day Magazine.

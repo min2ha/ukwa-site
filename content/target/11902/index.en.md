@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leah Wilkinson (@Leahwilkinson17) on Twitter
-
 The twitter profile of althete Leah Wilkinson, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.

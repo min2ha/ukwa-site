@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Adjacent Pineapple
-
 Site of online spaces for writing, discussion and performance established in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# gotateenager.org.uk
-
 None

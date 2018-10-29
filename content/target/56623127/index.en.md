@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# ESRC Genomics Network (EGN)
-

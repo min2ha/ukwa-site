@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland Epistles Football Magazine
-
 Site of a football fanzine focusing on the Scottish national teams.

@@ -11,6 +11,4 @@
   "subject": "Government Websites 2007 "
 }
 
-# Community Development Foundation
-
 Community Development Foundation is a national organisation in community development and engagement.

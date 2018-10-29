@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# tes: 'The election result suggests that the education funding cuts genie is out of the political bottle'
-
 The unlikely Conservative victory in 2015 proved that pretty much everyone had become used to the idea of austerity – and the near-constant background noise of NHS funding problems. But what was new about election 2017 was the story of school cuts due to the new national funding formula. The issue climbed incredibly quickly from relative obscurity to become the joint-third most important issue to voters.

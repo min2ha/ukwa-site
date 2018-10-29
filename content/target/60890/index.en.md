@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain’s imperial fantasies have given us Brexit
-

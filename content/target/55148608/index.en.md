@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T10:00:00Z"
 }
 
-# Young People's Trust for the Environment
-
 The Young People's Trust for the Environment is a charity set up to encourage young people's understanding of the environment. Founded back in 1982, it aims to give young people a real awareness of environmental issues such as climate change, pollution, deforestation and endangered flora and fauna. 

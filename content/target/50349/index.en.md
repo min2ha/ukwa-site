@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Kilbride Thistle Football Club
-
 Site for a Scottish junior football club based in East Kilbride, Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK's EU Referendum (@EUrefMOOC) on Twitter
-
 UK's 2016 EU Referendum MOOC. Organised by @AMSalamone with @EUidentity, @CharlieJeffery4 and team @EdinburghUni.

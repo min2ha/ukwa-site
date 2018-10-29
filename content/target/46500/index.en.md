@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Ynni Ogwen
-
 Ynni Ogwen is a community benefit society operating for the environmental and social benefit of Dyffryn Ogwen.

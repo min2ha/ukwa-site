@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Trench, The 
-
 2Faced Dance will work with the students of St Mary’s RC High School in Lugwardine to create a piece of dance theatre which interprets their WW1 heritage. 

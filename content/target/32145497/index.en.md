@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Lizzie Siddal.com 
-
 Website dedicated to Elizabeth Eleanor Siddal, an English artists' model, poet and artist. She was painted and drawn extensively by artists of the Pre-Raphaelite Brotherhood.

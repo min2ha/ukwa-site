@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Chàrlabhaigh on Facebook
-
 The Facebook page of Còisir Ghàidhlig Chàrlabhaigh, the Carloway Gaelic Choir.

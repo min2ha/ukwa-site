@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Marys GAA Wolves (@StMarysGAA1960) on Twitter
-
 St. Mary's Gaelic Football Club of Wolverhampton. Est. 1960 Mens and Underage Teams. Instagram: stmarysgaawolves, Facebook: St. Mary's GAA Wolverhampton.

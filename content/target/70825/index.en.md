@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Old Theatres Magazine
-
 Old Theatres Magazine is an unique magazine covering theatre nostalgia, halls of entertainment and theatre artistes across the UK. The magazine was published from 2009 until 2018.

@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Hywel Williams, Aelod Seneddol Arfon/ Member of Parliament for Arfon
-
 Hywel Williams is the Plaid Cymru Prospective parliamentary candidate for Arfon. He is also the sitting MP.
 He is also the current MP.

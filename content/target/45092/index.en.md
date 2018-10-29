@@ -10,6 +10,4 @@
   "start_date": "2016-08-18T10:00:00Z"
 }
 
-# Outspoken Arts Scotland
-
 Site of a Glasgow based arts organisation focussing on equality, arts and communities of interest and primarily aimed at LGBT people.

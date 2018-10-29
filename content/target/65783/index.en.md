@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Urban&Civic plc
-
 Urban&Civic plc is an investor and developer of real estate. The company also provides property management and project coordination and management services. 

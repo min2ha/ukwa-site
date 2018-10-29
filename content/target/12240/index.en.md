@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Tennant - Professional Cyclist for Madison Genesis and Great Britain Track Team
-
 <p>Website of Andy Tennant, cyclist and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

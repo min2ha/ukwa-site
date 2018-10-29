@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-#  Parliament Publications and Records
-
 See what is happening in both Houses, read previous debates in Hansard and get the latest select committee reports. Explore research from the parliamentary libraries and find out how to access the archives.

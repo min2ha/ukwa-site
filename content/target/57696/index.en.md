@@ -10,6 +10,4 @@
   "start_date": "2017-10-06T09:00:00Z"
 }
 
-# Chris & Xand Van Tulleken
-
 The official website of twin doctors Chris and Xand Van Tulleken. They both present a number of medical related TV shows in the UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron admits he faced first TV 'debate' without any rehearsal
-
 None

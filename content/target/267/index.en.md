@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East Lancashire CCG
-
 None

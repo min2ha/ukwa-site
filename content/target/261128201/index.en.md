@@ -10,6 +10,4 @@
   "start_date": "2014-08-21T21:00:00Z"
 }
 
-# Sustainable Energy Across the Common Space (SEACS)
-
 None

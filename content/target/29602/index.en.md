@@ -10,6 +10,4 @@
   "start_date": "2015-08-04T10:00:00Z"
 }
 
-# Morley Arts Festival
-
 Arts festival taking place in Morley, a market town and civil parish within the City of Leeds metropolitan borough, in West Yorkshire.

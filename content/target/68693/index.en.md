@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Wild and Well
-

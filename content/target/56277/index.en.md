@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Trystan Owain Hughes: Finding Hope, Meaning, Faith, and Compassion
-
 The Revd Dr Trystan Owain Hughes is a Christian theologian, historian and author and chaplain at Cardiff University. This is his blog, runner-up for the Up-and-Coming Award at the Christian New Media Awards in 2013.

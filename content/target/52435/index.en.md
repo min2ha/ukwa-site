@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Wright (Liberal Democrats  Politician)
-
 James Wright stood as Liberal Democrats candidate for Norwich South at the 2017 General Election but was not elected.

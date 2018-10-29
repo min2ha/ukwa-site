@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ‘They want to bypass telling you.’ Voters want straight answers on where the welfare axe will fall
-
 None

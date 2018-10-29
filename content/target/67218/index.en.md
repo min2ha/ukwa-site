@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Thistly Cross Cider
-
 Site of a cider brewer located in West Barns East Lothian.

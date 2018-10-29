@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Man Booker Prize, The
-
 The Man Booker Prize promotes the finest in fiction by rewarding the very best book of the year. The prize is an important literary award.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: VINCE CABLE: Now Gove the smiling assassin is trying to skewer Theresa (Her crime? To have made the best of a bad job on Brexit)   
-

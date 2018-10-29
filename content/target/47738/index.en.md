@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Edinburgh Printmakers
-
 Site of a printmakers studio and gallery aiming to support artistic excellence in the medium of print through inspiration, education, innovation and facilitation.

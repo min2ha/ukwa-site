@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Commonwealth Games Scotland
-
 Team Scotland represents Scotland at the Commonwealth Games & Commonwealth Youth Games.

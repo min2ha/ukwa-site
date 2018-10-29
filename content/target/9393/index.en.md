@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anna Turney Paralympic Skier on Facebook
-
 None

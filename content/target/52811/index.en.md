@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Jo Spikes
-
 Jo Spikes is a Artist living in Ceredigion.

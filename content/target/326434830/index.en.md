@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Parc Cenedlaethol Eryri | Snowdonia National Park
-

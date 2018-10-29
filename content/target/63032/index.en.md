@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Rugby Museum
-
 The Cardiff Rugby Digital Archive went live in 2018 and is a collection of memories, mementoes, reminiscences and records. Archive will contain a record of rugby memorabilia owned by Cardiff RFC and Cardiff Blues, a summary of results and reports from each season from 1876, and copies of programmes from famous and lesser-known matches. 

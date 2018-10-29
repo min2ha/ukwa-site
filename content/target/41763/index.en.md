@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Transition UWS
-
 WordPress site of a project supporting the transition to a low carbon university through promoting sustainable living to members of the University of the West of Scotland community.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory election ‘war games’ under way to reach 284 seats for minority rule
-
 None

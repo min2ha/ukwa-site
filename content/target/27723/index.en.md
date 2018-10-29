@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Surrey County Council's Magna Carta event costs soar by 400%
-

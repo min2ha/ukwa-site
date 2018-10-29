@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# City & Guilds of London Art School
-
 Official website of the City & Guilds of London Art School.

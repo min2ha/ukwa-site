@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Civitas: Myth and paradox of the single market
-
 This timely study looks behind the claims that are frequently made in support of the EU and finds a very different reality. Examining the research used by not only ministers but big business and many other pro-EU lobbyists to support their stance, it finds that there is no empirical basis for the supposed advantages that the Single Market confers on the British economy. It is a devastating conclusion that should fundamentally shift the terms of the debate surrounding Britain’s relationship with the EU.

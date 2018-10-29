@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Islamic Relief UK: £6.1 million pledged to support Nelson Mandela Children's Hospital
-
 None

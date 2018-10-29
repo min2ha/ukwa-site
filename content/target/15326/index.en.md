@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wake Green Park Blog
-

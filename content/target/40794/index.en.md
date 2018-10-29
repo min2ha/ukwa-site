@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Alchemy Film and Moving Image Festival
-
 Site of an annual film festival which takes place in Hawick, Scottish Borders, Scotland

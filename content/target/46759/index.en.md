@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Celtic and Gaelic at the University of Glasgow
-
 Celtic and Gaelic at the University of Glasgow

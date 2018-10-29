@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Britain paid at least £650m in penalties to EU over last decade due to misspent funds by Government departments
-

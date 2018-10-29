@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irvine Meadow X1 Football Club
-
 Site for a Scottish junior football club based in Irvine, Ayrshire.

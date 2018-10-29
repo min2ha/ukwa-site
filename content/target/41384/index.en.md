@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Scottish Seabird Centre
-
 Site of a learning centre, visitor centre and source of online information regarding bird life around Scotland's coast in general, with an emphasis on that in the Forth and North Sea, near the centre's location in North Berwick, East Lothian.

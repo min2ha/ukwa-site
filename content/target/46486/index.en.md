@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Gwent Energy CIC
-
 Gwent Energy CIC provide advice and support to community groups who wish to benefit from renewable energy and who are trying to reduce their carbon emissions. They operate an investors club where people local to a community building invest in the scheme. This funds the scheme and gives local involvement and ownership.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Picture Postcard Magazine 
-
 Website of the magazine Picture Postcard Monthly 

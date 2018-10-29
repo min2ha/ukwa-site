@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: United at home, stronger abroad
-
 David Liddington's speech on the implications for Brexit and the strength of the union and devolution.

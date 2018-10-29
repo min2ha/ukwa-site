@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Kezia Dugdale (@kezdugdale) on Twitter
-
 Leader of Scottish Labour.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# University of Warwick
-
 Official website of the University of Warwick.

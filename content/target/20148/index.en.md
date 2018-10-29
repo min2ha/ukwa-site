@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Isherwood (@MarkIsherwoodAM) on Twitter 
-
 Conservative candidate for Delyn.

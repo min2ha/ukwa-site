@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mike Weir MP: Parliament UK
-

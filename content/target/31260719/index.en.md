@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cruwys News - The day-to-day activities of the Cruwys/Cruse one-name study
-
 None

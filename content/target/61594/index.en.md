@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: Britain's Brexit options: What would they mean for working people? 
-
 As the Brexit negotiations move towards the next stage, the government should be rethinking its strategy. Britain needs a jobs-first, rights-first deal that puts the needs of working people ahead of the hard-Brexit ideology of the Tory fringe. 

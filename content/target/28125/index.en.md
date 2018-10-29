@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Bob Ward (@ret_ward) on Twitter
-
 Twitter feed of Bob Ward, the Policy and Communications Director at the Grantham Institute on climate change and the environment.

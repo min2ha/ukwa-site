@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Animal Research: Anatomy of a Conflict (Nature news special)
-
 Reporting on anti-animal-research activism, its impact on researcher opinions, and current debate on the use of animals in research.

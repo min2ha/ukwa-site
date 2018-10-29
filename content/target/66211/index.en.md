@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Abingdon Food & Drink Festival
-

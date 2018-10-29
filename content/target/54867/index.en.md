@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Studio E
-
 An architecture firm that was involved in the Grenfell Tower refurbishment project that took place in 2015-2016.

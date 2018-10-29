@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Atlantic Islands Festival
-
 Site of an arts festival on the island of Luing Argyll & Bute.

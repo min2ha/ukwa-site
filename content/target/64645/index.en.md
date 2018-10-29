@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Uicipeid
-
 Wikipedia in Scottish Gaelic.

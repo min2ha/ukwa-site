@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who is Ed Miliband, the man who could be Britain's next prime minister?
-
 None

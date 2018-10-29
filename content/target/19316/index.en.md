@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: 5 Moments That Defined The British Monarchy: #1 – The Magna Carta
-

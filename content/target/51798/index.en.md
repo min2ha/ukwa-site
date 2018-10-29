@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Alban's Church and Presbytery, Pontypool
-

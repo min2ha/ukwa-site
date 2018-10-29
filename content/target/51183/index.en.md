@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: justice for families, individuals and businesses
-
 This report considers the ramifications of Brexit for the EU’s programme of civil justice cooperation introduced by the three Regulations—the Brussels I (recast), the Brussels IIa and the Maintenance Regulations—which collectively form the so-called Brussels regime. Our inquiry was also shaped by the Government’s view that once we leave the EU there can be no jurisdiction for the Court of Justice of the EU.

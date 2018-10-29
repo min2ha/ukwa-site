@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Conservatives Abroad
-
 Conservatives Abroad was established more than 20 years ago, although some branches have been in existence since the late 1970's. Being a member of Conservatives Abroad provides a forum for like-minded people to socialise and gives a platform for political discussion on matters of mutual interest.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Leicestershire Conservatives
-
 Website of the North West Leicestershire Conservatives, which includes local news and information about party officials and local councillors and Andrew Bridgen MP.

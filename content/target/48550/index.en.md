@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Ascension Island Government  
-
 Ascension Island Government official website.

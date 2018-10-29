@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# Sue Doggett
-
 Showcases the work of Sue Doggett, an artist and teacher whose practice is primarily in book arts.

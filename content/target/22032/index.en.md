@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlotte Hodivala (@ch4pb ) on Twitter (Conservative Politician)
-
 Charlotte Hodivala stood as Conservative candidate for Birmingham, Perry Bar at the 2015 General Election but was not elected. She stood again at the 2017 general election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Dixons Carphone plc
-
 Dixons Carphone plc is a multinational electrical and telecommunications retailer and services company. It was formed in 2014 by the merger of Dixons Retail and Carphone Warehouse Group. It operates under a number of brands across the United Kingdom, Ireland and mainland Europe. These include Currys, PC World and Carphone Warehouse in the UK; Elkjøp in the Nordic countries and Kotsovolos in Greece.

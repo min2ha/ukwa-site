@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Catholic Church, Paisley on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Mary's, Paisley.

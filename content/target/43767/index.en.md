@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Breastfeeding Network
-
 Site of an organisation based in Scotland established to promote breastfeeding, provide support and information, and set standards for such support.

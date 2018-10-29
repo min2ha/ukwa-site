@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Derry Sinn Fein (@DerrySinnFein) on Twitter
-
 Twitter feed of Derry Sinn Fein

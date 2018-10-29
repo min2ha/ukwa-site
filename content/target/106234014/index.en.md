@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# CRAC - The Career Development Organisation
-

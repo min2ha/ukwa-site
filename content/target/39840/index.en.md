@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# United Kingdom Independence Party (UKIP) Lanarkshire Branch on Facebook
-
 Facebook page of the Lanarkshire branch of the United Kingdom Independence Party (UKIP).

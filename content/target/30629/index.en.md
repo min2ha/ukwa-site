@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Police
-
 Website for the States of Jersey Police.

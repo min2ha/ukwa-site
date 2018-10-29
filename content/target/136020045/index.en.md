@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Strategic Health Authority
-
 None

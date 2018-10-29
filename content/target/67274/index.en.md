@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Windsor Rugby Club (@Windsor_RFC) on Twitter
-
 Amateur Rugby Club in Berkshire. This page is to bring you team updates for the 1st and 2nd teams during their seasons.

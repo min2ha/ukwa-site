@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Parti Ponty - Gwyl Gymraeg ardal Pontypridd
-
 This is an event organised by Menter Iaith Rhondda Cynon Taff in partnership with Rhondda Cynon Taf County Borough Council and is a Welsh language for the Rhondda Valley.

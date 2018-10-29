@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Aberdeen.

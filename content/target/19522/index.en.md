@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visit Canterbury: Canterbury in the Age of the Magna Carta
-

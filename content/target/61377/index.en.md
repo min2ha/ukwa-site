@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Opinion The Guardian view of Boris Johnson’s Brexit vision: all about me
-

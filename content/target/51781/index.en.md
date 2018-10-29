@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Benedict and Swansea University Chaplaincy, Swansea
-

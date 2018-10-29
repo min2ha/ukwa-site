@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Made in Lochaber
-
 Site of a group of artists and food and craft producers living and working in the Lochaber area, aiming to support all of their efforts, promote their work, help them to find new outlets for their produce, and provide new routes-to-market for them.

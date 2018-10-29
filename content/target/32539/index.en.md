@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# The Macaulay Land Use Research Institute
-
 The Macaulay Land Use Research Institute is an international centre for research and consultancy on the environmental and social consequences of rural land uses.

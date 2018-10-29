@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative party ‘bankrolled by hedge fund managers’
-
 None

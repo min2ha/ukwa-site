@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Main Point Farm  
-
 Located on the north coast of West Falkland, Main Point Farm is over 17,000 acres and runs around 5000 sheep bred for wool, which provides the main income for the farm. 

@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Sinfini Music
-
 Sinfini Music is a classical music website presenting the contemporary classical music scene in Britain.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: NHS could be saved by increasing national insurance, Labour MP says
-
 None

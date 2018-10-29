@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richmond Upon Thames LINk
-
 None

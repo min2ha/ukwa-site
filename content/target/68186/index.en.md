@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Headspace (@headspace) on instagram
-
 A Instagram site promoting meditation and mindfulness

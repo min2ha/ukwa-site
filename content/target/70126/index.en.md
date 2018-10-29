@@ -10,6 +10,4 @@
   "start_date": "2018-08-20T09:00:00Z"
 }
 
-# War Through Other Stuff
-
 Site of a society created to bring together those with an interest in the non-military history of war and conflict, 

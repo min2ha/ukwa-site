@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huddersfield Town (@htafcdotcom ) on Twitter
-
 Huddersfield Town Football Club's official Twitter account. Follow for breaking news, in-game coverage and updates.

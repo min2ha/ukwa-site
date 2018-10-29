@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Long-Distance Walks with Mark Moxon
-
 Includes over 150 pages of trail writing and advice from seven countries and four continents.

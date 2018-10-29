@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Shetland Football
-
 Site of the organisers and governing body for various football competitions in Shetland, as well as the Shetland representative squad.

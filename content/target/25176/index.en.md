@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Thousands could lose right to vote after botched reforms
-
 None

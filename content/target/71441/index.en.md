@@ -10,8 +10,6 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Sian Fiddle
-
 Sian Phillips is a fifth generation professional fiddle player and has played with The Constitution Hillbillies,
 Meic Stevens, Wild Welsh Women, Celtish
 and more recently, MoonDance. 

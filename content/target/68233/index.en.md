@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# St Helena Local
-
 St Helena -  News, blog, forum

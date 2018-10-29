@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mount Ballan Horse Trials
-
 Mount Ballan Horse Trials was established in 2001 and is held at the David Broome Equestrian Centre, an international show jumping establishment near Chepstow. 

@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Dawnswyr Tawerin
-
 Dawnswyr Tawerin was established in 1975 and are a Folk dancing team from Swansea. 

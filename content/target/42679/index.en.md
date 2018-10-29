@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Tavistock and Portman NHS Foundation Trust
-
 The Tavistock Clinic Foundation was established in 1982 to support the work of the Tavistock Clinic and its innovative approaches to improving mental health and preventing ill-health. Formerly the website URL was http://www.tavistockandportman.nhs.uk/ 

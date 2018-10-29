@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: I will back Tory-led Coalition if we have an EU referendum this year
-
 None

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Videogamer
-
 Videogamer is a website with news and reviews about the games for the PC and consoles.

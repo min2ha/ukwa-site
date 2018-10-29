@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Julians Methodist Church, Newport
-

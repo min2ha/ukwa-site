@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Mosaic Rooms: Contemporary Culture from the Arab World
-
 The Mosaic Rooms are a non-profit art gallery and bookshop dedicated to supporting and promoting contemporary Arab culture in London.

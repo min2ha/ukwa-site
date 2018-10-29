@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast NewsLetter: ‘No Royal invite’ to 2016 Easter Rising commemorations
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crieff Adventist Church
-
 Site of a Seventh-day Adventist Church in Crieff, Perthshire.

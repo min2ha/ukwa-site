@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Freddie Van Mierlo (@fivanmierlo) on Twitter (Liberal Democrats Politician)
-
 Freddie Van Mierlo stood as Liberal Democrat candidate for Fylde at the 2017 General Election but was not elected.

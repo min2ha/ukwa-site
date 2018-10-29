@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Saint Luke's
-
 Site of Saint Luke's, a bar, restaurant, live entertainment space and function venue in Glasgow, Scotland. 

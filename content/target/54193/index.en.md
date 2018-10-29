@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Luke Pollard (Labour  Politician)
-
 Luke Pollard stood as Labour' candidate in Plymouth Sutton and Devonport at the 2017 General Election and was elected MP.

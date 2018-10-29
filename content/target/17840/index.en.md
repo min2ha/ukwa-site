@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: This Aussie blonde's just not up to the job
-
 None

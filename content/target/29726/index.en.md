@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# PRS for Music Foundation
-
 PRS for Music Foundation is a funder of new music across all genres. It was established in 2000.

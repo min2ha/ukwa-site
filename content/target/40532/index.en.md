@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liam Fox (Secretary of State for International Trade and Conservative MP for North Somerset)
-
 Website of Dr Liam Fox, Conservative MP for North Somerset, provides a biography and information about his priorities, local and Parliamentary activities, and his campaign to be elected as leader of the Conservative Party following the resignation of David Cameron in June 2016. He was subsequently appointed Secretary of State for International Trade by Theresa May in 2016

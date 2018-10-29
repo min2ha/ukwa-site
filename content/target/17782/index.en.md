@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour 'infantilised' millions with welfare state, David Cameron says
-
 None

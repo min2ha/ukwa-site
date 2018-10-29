@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Canal Festival
-
 Site of a local festival based around the Lochrin basin of the Union canal at Fountainbridge in Edinburgh.

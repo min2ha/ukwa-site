@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Wildlife Trust for Lancashire, Manchester & North Merseyside, The
-
 None

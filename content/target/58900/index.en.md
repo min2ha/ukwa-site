@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Oakwood Press & Oakwood Visual
-
 Oakwood Press is a publisher od railway books and is based in usk, Monmouthshire.

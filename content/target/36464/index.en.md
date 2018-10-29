@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron's EU deal 'will lead to MORE meddling from Brussels' Senior Tory warns 
-
 Article by Macer Hall

@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Richmond Upon Thames Literature Festival
-
 The Richmond upon Thames Literature Festival is run by Richmond Council Arts Service, based at 
 
 Orleans House Gallery, Twickenham.

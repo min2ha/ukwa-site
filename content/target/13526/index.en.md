@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Kitsch and Kylie – but one surprise at the Glasgow closing ceremony
-
 <p>Article by David Rowe about the closing ceremony of the XX Commonwealth Games and what it says about Scotland. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

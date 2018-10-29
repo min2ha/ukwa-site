@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Caroline Russell (Green Party Politician)
-
 Caroline Russel stood as Green Party candidate for Islington North at the 2017 General Election but was not elected. 

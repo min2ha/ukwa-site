@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Dartford Gravesham and Swanley CCG
-
 None

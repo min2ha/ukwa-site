@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Environmentalists For Europe (@Env4Eur) on Twitter
-
 Grassroots environmentalists campaigning for a Remain vote.

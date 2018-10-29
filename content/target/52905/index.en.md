@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jim Eadie (@JimEadieSNP) on Twitter
-
 Twitter profile of Jim Eadie, Scottish National Party candidate for Edinburgh South in the 2017 general election.

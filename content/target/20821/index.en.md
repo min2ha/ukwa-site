@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Harris on Facebook
-
 This is the Facebook page of Tom Harris, the Labour Party candidate for Glasgow South in the UK General Election on the 7th May 2015.

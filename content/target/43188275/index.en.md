@@ -11,5 +11,3 @@
   "subject": "Italy UK"
 }
 
-# British Embassy, Rome
-

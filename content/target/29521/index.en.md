@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Theatrau Sir Gar | Carmarthenshire Theatres
-
 Site covers events held at Ffwrness (Llanelli), the Lyric (Carmarthen) and the Miners (Ammanford).

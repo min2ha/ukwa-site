@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip briefing note suggests scrapping VAT on tampons and sanitary towels
-

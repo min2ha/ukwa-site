@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bootiful Game, The 
-
 The Bootiful Game is a magazine dedicated to the Northern Counties East League (NCEL). The league was founded in 1982 with the merger of what were the Yorkshire League and Midland League. 

@@ -10,8 +10,6 @@
   "start_date": "2011-03-23T00:00:00Z"
 }
 
-# Scottish Drugs Forum
-
 Scottish Drugs Forum (SDF) is the national non-government drugs policy and information agency working in partnership with others to co-ordinate effective responses to drug use in Scotland.
 
 SDF aims to support and represent, at both local and national levels, a wide range of interests, promoting collaborative, evidence-based responses to drug use.

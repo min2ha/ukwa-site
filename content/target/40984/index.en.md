@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Kesteven District Council
-
 Website of South Kesteven District council gives information about council services, local planning policy and plans, news and events. You can also see committee papers and minutes and the annual performance reports in full text

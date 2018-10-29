@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Season Zine
-
 SEASON is an independent platform that aims to champion female fashion and football fans first.

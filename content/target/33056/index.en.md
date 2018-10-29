@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Lions RFC
-
 Cardiff Lions RFC is Wales' first gay inclusive rugby club. 

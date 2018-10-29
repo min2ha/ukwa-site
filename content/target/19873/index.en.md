@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Borthlas
-
 Blog by John Dixon, the former Chairman of Plaid Cymru.

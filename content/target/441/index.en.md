@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Windsor and Maidenhead Health and Wellbeing Board
-
 None

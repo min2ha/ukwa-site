@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-#  Matthew Jones Music
-
 Matthew Jones is a Welsh violinist and composer.

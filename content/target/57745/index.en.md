@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# WWIIReenacting.co.uk Forums
-
 An online enthusiast community concerned with WW2 reenactments in the UK. Discusses photos, videos of reenactments, events, kit & equipment. British and Commonwealth, American and German & Axis based reenactment and various other related topics.

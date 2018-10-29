@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huw Thomas (@huwthomas_Wales) on Twitter
-
 Ceredigion Labour Parliamentary Candidate. 

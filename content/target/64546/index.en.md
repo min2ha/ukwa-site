@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Swansea Community Boat Trust
-
 The Swansea Community Boat Trust is a registered charity set up to operate a community boat on the Tawe River navigation in Swansea.

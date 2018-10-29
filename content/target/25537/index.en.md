@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: British politics – the calm before the constitutional storm?
-
 None

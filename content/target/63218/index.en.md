@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Troqueer Parish Church
-
 Site of a Church of Scotland parish church in Dumfries, Dumfries and Galloway.

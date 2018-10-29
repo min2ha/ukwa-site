@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanmanjit Singh Dhesi on Facebook (Labour candidate for Gravesham)
-

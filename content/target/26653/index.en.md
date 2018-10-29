@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Our democracy has been shown up. We must now work to change it
-
 None

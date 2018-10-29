@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Syrian Observatory for Human Rights
-
 The Syrian Observatory for Human Rights was founded in May of 2006. It is a group of people who believe in human rights, documenting the human rights situation in Syria and reporting the violations, filing reports and spreading it across a media range. 

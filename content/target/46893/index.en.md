@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Oxford University Poetry Society (OUPS)
-
 The Oxford University Poetry Society (OUPS) aims to be the centre of poetic life within the University of Oxford. Established in 1946. 

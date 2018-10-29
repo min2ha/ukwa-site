@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Local voting figures shed new light on EU referendum
-
 The BBC obtained a more localised breakdown of votes from nearly half of the local authorities which counted EU referendum ballots in June 2016

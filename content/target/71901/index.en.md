@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Lamp of Lothian Trust, The
-
 Site of a trust charges with restoring and maintaining buildings for community use in East Lothian.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# NHS England (@nhsengland) on Twitter
-
 Health and high quality care for all, now and for future generations.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archie Dryburgh (@DryburghArchie) on Twitter
-
 The Twitter profile of Archie Dryburgh, the Labour Party candidate for Dumfriesshire, Clydesdale and Tweeddale in the UK General Election on the 7th May 2015.

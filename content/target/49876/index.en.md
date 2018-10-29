@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Shakti Women’s Aid
-
 Site of a charitable organisation based in Edinburgh helping black minority ethnic (BME) women, children and young people experiencing, or who have experienced, domestic abuse from a partner, ex-partner and/or other members of the household. They also work closely with the Scottish Government, Police Scotland, NHS Scotland and other statutory and voluntary services and provide training and consultancy for agencies working with BME women, children and young people.

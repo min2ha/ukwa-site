@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: George Osborne to highlight dangers around EU referendum in anti-austerity Budget
-

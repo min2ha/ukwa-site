@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeenshire Rugby Football Club
-
 Site of a Scottish rugby club based in Aberdeen

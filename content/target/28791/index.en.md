@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# 10:10uk
-
 10:10 is about doing practical stuff that helps solve climate change.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# World Stone Skimming Championships
-
 Site of the World Stone Skimming Championships which take place on Easdale Island, Argyllshire, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Denys Church, Lisvane, Cardiff
-
 St Denys is part of the Anglican Church in Wales and is located in Lisvane, Cardiff.

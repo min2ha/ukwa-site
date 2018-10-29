@@ -10,5 +10,3 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Looking Glass Books (@Lookingglassbks) on Twitter
-

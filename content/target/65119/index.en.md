@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Peers in bid to block 'no deal': Vote on proposed changes to Brexit legislation could open the door to a second referendum, warn Eurosceptics   
-

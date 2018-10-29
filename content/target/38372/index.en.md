@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The City of Lost Books: The Political Imagination: Irish Fantasy Writers and the Easter Rising
-
 Post by Rob Maslen on the Glasgow University Fantasy MLitt blog

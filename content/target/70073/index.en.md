@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Eurythmics 
-
 Eurythmics has been in music for nearly three decades, formed by Annie Lennox and Dave Stewart in 1982.

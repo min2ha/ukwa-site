@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Ammba Digital
-
 Based in Birmingham, Ammba Digital provides digital strategies and content curation for archives, libraries, museums and other cultural organisations.

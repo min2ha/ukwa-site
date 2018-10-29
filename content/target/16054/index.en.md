@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Bury Magna Carta 800 (@BuryMC800) on Twitter
-

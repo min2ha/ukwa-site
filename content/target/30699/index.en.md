@@ -10,7 +10,5 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# London College of Business Management and Computing Studies (LCBMCS)
-
 Official website of the London College of
 Business Management and Computing Studies.

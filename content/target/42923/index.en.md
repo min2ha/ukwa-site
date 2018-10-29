@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Happy Days
-
 A popular Northern Ireland fanzine is being relaunched today ahead of the international friendly against Slovenia at Windsor Park  June 2016. It was relaunched ahead of Northern Ireland's Euro 2016 Campaign.

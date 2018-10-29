@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pro 14
-
 Site of a professional rugby union competition featuring teams from Scotland, Ireland, Wales, Italy and South Africa.

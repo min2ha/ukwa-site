@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Evening Standard: World Cup 2018
-
 World Cup | Sport | London Evening Standard

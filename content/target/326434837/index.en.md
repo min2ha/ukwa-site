@@ -10,5 +10,3 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# City of Cardiff Melingriffith Brass Band, The | Band Pres Dinas Caerdydd Melingriffith
-

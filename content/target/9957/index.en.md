@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# GMB: Labour Candidates for the 2014 European Elections
-
 None

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Barry Woods (@BarryJWoods) on Twitter
-
 Twitter feed of Barry Woods: 'Lukewarm thoughts on the politics, policies, economics & science of Climate Change (Man Made)'.

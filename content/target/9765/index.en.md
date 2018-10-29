@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sajjad Karim (@SHKMEP) on Twitter (Conservative MEP for the North West)
-
 Sajjad Karim stood as Conservative candidate for the North West at the 2004 European Parliament election and was elected to serve as MEP. He was then re-elected in 2009 and 2014. 

@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Cancer Genetics StoryBank
-
 The StoryBank is simply an online collection of stories about cancer genetics. It was developed in direct response to feedback from patients at the Cancer Genetics Service for Wales (CGSW), an all-Wales service for anyone with a family history of cancer. 

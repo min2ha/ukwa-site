@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Rock Action Records
-
 Rock Action Records is a Glasgow-based record label. The label was founded and is run by the band Mogwai.

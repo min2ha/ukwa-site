@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Youth Music (@youthmusic) on Twitter
-
 Music-making is life-changing. Help us give every child the chance to make music. 

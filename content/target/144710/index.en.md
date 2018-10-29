@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Elaine Smith MSP - Coatbridge & Chryston
-
 Elaine Smith is Scottish Labour Member of the Scottish Parliament for Coatbridge and Chryston.

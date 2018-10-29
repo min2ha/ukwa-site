@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: STEPHEN GLOVER: I predict Brexit won't ground a single plane and Ryanair's bumptious Irish boss will have egg on his face
-
 Comments on Ryanair boss Michael O'Leary's threat to ruin family holidays by grounding his aircraft in an attempt to thwart Brexit.

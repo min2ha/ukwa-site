@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Cambridge Students For Life
-
 A pro life student group based at the University of Cambridge.

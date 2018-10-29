@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Target Ovarian Cancer: Loving Linda comedy gala
-
 Web page from the Target Ovarian Cancer website about the 'Loving Linda' comedy gala, which raise funds for Target Ovarian Cancer in memory of comedian and broadcaster Linda Smith.

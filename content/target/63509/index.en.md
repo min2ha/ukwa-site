@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Twinkl Educational Publishing
-
 Twinkl Educational Publishing is an online educational publishing house, producing teaching materials. Headquartered in Sheffield, United Kingdom, Twinkl was founded by Jonathan Seaton and Susie Seaton.

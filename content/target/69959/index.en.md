@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# THE BAPTIST TIMES
-
 The online newspaper of the Baptist Union of Great Britain

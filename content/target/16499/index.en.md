@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Another hung parliament? Four scenarios that could follow
-
 None

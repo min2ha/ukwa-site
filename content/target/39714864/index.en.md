@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Adam Price MP
-

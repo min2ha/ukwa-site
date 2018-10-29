@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Kirsty Williams on Facebook (Liberal Democrats Assembly Member for Brecon and Radnorshire)
-
 Kirsty Williams is the Liberal Democrats candidate for Brecon and Radnorshire at the 2016 National Assembly for Wales elections. 

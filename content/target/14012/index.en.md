@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Tatler: The Future of Scotland
-
 None

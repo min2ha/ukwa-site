@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Linden Singers,  Torfaen
-
 Linden Singers is a ladies choir located in Pontypool, formed in 2004.

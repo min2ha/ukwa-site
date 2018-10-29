@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Elliw Gwawr (@elliwsan) on Twitter
-
 Elliw Gwawr is the BBC Cymru Political Correspondent at Westminster. 

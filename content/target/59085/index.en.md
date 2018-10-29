@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Barnier challenges UK on post-Brexit border proposals
-
 EU Chief Negotiator Michel Barnier  demanded that the UK  come forward with proposals aimed at avoiding a hard border between Northern Ireland and Eire before trade talks could start.

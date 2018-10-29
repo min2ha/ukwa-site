@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bassetlaw For Europe
-
 Blog of Bassetlaw local group campaigning for the UK to stay in the EU

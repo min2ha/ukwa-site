@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Facebook admits social media can pose threat to mental health
-
 News article about employees and former employees of Facebook that admit the social media platform can have a negative impact on mental health

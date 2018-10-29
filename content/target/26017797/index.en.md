@@ -11,5 +11,3 @@
   "subject": "Celtic Studies"
 }
 
-# IrishinBritain.com
-

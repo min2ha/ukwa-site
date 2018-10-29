@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Migrants should be banned from NHS care for FIVE years, declare Ukip
-
 None

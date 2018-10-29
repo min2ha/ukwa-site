@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Simeon Care for the Elderly
-
 Site of a a Scottish charity, part of the Cmphill movelemt, providing a care home with nursing to older people, supporting them to live an active, meaningful and purposeful life in a community of care.

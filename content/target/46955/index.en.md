@@ -10,6 +10,4 @@
   "start_date": "2016-11-11T00:00:00Z"
 }
 
-# E-Storas
-
 Western Isles Gaelic educational resource 

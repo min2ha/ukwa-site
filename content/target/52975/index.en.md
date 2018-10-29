@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Christopher Rimicans (@crimicans98) on Twitter
-
 Twitter profile of Christopher Rimicans, Scottish Labour candidate for North Ayrshire and Arran in the 2017 general election.

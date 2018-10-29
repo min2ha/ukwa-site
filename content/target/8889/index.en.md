@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Venezuela Solidarity Campaign:President Maduro Declares 3 Days of National Mourning for Nelson Mandela
-
 None

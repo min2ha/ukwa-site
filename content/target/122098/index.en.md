@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Council of Women Great Britain 
-
 The National Council of Women Great Britain wants to ensure that women play a full role in society. Their aim is to make women more interested in local, regional and national affairs and to get them more involved in decision-making.

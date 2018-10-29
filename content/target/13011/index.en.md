@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maryhill Burgh Halls: News & Events
-
 <p>Maryhill Burgh Halls celebrate Glasgow’s ties with the Commonwealth in a number of interactive initiatives and events including participation in Glasgow’s Wee Doors Open Day.</p>

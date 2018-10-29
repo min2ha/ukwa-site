@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Matthew Algie & Company Limited
-
 Website of a supplier of tea and coffee to the catering and retail trades. 

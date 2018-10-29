@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Hove
-
 A Living Christian Community in Central Hove.

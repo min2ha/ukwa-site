@@ -10,5 +10,3 @@
   "start_date": "2015-02-28T00:00:00Z"
 }
 
-# Dundee City Council
-

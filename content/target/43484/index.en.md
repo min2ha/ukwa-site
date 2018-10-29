@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute for European Environmental Policy: The potential policy and environmental consequences for the UK of a departure from the European Union
-
 A report by the Institute for European Environmental Policy commissioned by The Wildlife Trusts, The Royal Society for the Protection of Birds (RSPB) and WWF - The World Wide Fund for Nature on the potential policy and environmental consequences for the UK of a departure from the European Union

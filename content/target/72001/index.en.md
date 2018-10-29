@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Swansea Indoor Bowls Club
-
 Swansea Indoor Bowls Club was founded in 1976 and is primary indoor bowls stadium in south west Wales.

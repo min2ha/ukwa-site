@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T11:00:00Z"
 }
 
-# Welsh Fermentation Festival, The
-
 This is the first Welsh Fermentation Festival and is held at Welsh Mountain Cider, Llanidloes.

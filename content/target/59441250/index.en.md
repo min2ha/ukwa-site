@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Miserable Old Fart | Hen Rech Flin
-
 <p>The personal blog of Welsh Nationalist Alwyn ap Huw; he writes about his political and general interests.</p>

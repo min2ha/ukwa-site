@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Signposts for Global Citizenship
-
 Site providing online resources for Scottish educators in and learners of global citizenship.

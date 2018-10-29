@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Crown Agents
-
 <p>Crown Agents is an international development company that partners with governments, aid agencies, NGOs and companies. It is a limited company owned by a non-profit-making foundation.</p>

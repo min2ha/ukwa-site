@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Dalian Atkinson dead: Former Aston Villa footballer dies after being shot by police Taser
-
 Former Aston Villa footballer died after being shot by police using a Taser.

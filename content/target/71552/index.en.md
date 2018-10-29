@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Tick tock tick tock – time for a second EU referendum is running out
-
 Labour had the opportunity to execute a risky manoeuvre at its 2018 conference.  It could pledge to seek a referendum in the event of No Deal – on No Deal or Staying In.  It would propose both to honour the due date of Brexit and to push for such a referendum if No Deal happened, knowing full well that the timetable made this combination almost impossible. It would not commit to a referendum on any deal the Government struck, but would gamble on voting such a deal down in the Commons and forcing a general election.
 
 

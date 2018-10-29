@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Piers Morgan declares political endorsement ahead of the General Election
-
 None

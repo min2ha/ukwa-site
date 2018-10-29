@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fellowship and Sacrifice: Hampstead and the First World War
-
 Project to explore the ways the First World War impacted Hampstead life.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Howard Jones
-
 Howard Jones is a modern impressionist artist from Cardiff. 

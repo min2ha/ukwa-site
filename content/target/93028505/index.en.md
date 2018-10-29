@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Clinical & Biomedical Computing Ltd
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: As addictive as gardening': how dangerous is video gaming?
-
 Article related to gaming and addiction, it takes a balanced approach offering different opinions.

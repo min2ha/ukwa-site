@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Foster + Partners
-
 Foster + Partners is a British international studio for architecture and integrated design, with headquarters in London.

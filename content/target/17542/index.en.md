@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Senior Tory Esther McVey says she would like to be prime minister
-
 None

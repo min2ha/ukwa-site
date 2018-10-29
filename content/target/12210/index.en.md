@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Adcock (ChrisAdcock1) on Twitter
-
 The twitter profile of Chris Adcock, badminton player and member of Team England for the Glasgow 2014 Commonwealth Games.

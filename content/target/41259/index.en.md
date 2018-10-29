@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# BBC: BBC Online to be a high-quality, distinctive service
-
 The BBC Press statement announcing the closure of the BBC Recipes section of their website. This is one of many sites that will be cut when the BBC website is redeveloped. 

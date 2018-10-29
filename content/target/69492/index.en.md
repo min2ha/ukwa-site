@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# My Genderation
-
 A film project focusing on trans lives and trans experiences. Content is created by trans people, about trans people, for a much wider audience.

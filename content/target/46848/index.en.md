@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Leanne Rhondda on Facebook (Plaid Cymru AM for Rhondda)
-
 Constituency page for Leanne Wood, AM for the Rhondda.

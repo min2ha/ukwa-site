@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Commemoration: Local Impact, Awareness & Learning for All
-
 The Aston History Group will deliver an interactive exhibition, produce a booklet, DVD, audio CD, deliver a concert of WW1 songs, drama and readings etc.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# sandra (@gallusgirl) on Twitter
-
 The Twitter profile of Sandra Webster, RISE Alliance candidate for West Scotland in the 2016 Scottish parliament election.

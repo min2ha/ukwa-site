@@ -10,5 +10,3 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Save a Life Scotland | Starting CPR saves lives. Let's be ready.
-

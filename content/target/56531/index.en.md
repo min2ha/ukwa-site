@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Benet’s Abbey
-
 The origins of St Benet’s Abbey are shrouded in uncertainty and coloured by myth. Nothing in this tidal, marshy landscape lasts forever. 

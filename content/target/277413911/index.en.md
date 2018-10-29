@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Sea Trust
-
 <p>Sea Trust is based in Fishguard, Pembrokeshire. All kinds of marine life are surveyed, monitored and recorded by Sea Trust volunteers in Pembrokeshire - Common, Bottlenose, and Risso’s Dolphins, Harbour Porpoises, Whales, Seals, Sharks, Fish, Jelly Fish, Turtles and Plankton.</p>

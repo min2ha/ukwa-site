@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage: Ukip is the main opposition for every party in every seat in England
-
 None

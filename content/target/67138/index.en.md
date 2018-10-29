@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: ALEX BRUMMER: Philip Hammond is acting as a one-man road-block against Brexit but he ought to be straining every sinew in his body to ensure UK is in best position economically
-
 Criticises Chancellor Philip Hammond for failing to provide government departments and agencies with the funds they need to prepare for Brexit.

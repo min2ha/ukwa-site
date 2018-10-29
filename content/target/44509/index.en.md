@@ -10,5 +10,3 @@
   "start_date": "2016-07-22T10:00:00Z"
 }
 
-# University of South Wales Blogs
-

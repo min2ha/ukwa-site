@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office:  Implementing the UK’s Exit from the European Union: The Department for Exiting the European Union and the centre of government
-
 A  briefing describing how the centre of government is overseeing and taking forward implementation of the UK’s exit from the European Union. The briefing focuses in particular on the coordination role of the Department for Exiting the European Union (DExEU).

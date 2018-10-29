@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Dunbar Film
-
 Site of a member led fim society based in Dunbar, East Lothian, who screen commerical films and also run a short film competition.

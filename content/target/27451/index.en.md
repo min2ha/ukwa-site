@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: The great TV debate debacle: 'Unseemly squabble' over debates 'embrarrasses British democracy'
-
 None

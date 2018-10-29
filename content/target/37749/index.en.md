@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: British companies 'could be forced out of business' by Brexit, says Oxford University
-

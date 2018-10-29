@@ -10,6 +10,4 @@
   "start_date": "2018-07-17T09:00:00Z"
 }
 
-# Communication Group plc (The)
-
 Public relations company

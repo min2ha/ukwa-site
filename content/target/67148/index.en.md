@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kingswood RFC (@kingswoodrfc) on Twitter
-
 The official Twitter account of Kingswood Rugby Football Club.

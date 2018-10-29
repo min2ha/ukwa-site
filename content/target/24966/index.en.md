@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Best man Farage and a bad taste joke that left Rod Stewart squirming
-
 None

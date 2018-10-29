@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equality Challenge Unit(ECU)'s Athena Swan Charter
-
 Equality Challenge Unit (ECU) establishment of the Athena SWAN charter for recognising advancement of gender equality

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Women4Europe  #WomenAgainstBrexit #PeoplesVote (@Women_4_Europe) on Twitter
-
 Women For Europe is a cross-party group of activists working together to keep Britain in the EU.

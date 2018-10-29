@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Vote Leave pushed to reveal plans for second UK vote on European membership
-

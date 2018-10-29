@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Venables Llewelyn Lodge No.3756
-
 The Venables Llywellyn Lodge No. 3756 is the largest Lodge in Porthcawl and was consecrated in 1916. The website provides a short introduction and history to the Lodge.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunfermline Presbytery
-
 Site of the Church of Scotland Presbytery of Dunfermline.

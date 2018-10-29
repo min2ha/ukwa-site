@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Caledonian Mercury: RIP Nelson Mandela - Freeman of Glasgow
-
 None

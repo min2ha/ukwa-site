@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Belfast Book Festival
-
 Belfast Book Festival

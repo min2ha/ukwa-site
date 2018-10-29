@@ -10,5 +10,3 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Community archives at Hampshire Record Office
-

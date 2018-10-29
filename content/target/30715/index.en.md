@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Plymouth College of Art
-
 Official website of Plymouth College of Art.

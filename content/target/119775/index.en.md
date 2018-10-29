@@ -10,6 +10,4 @@
   "start_date": "2006-05-10T00:00:00Z"
 }
 
-# UK Clinical Ethics Network
-
 Established in 2001, the UK Clinical Ethics Network provides information and support to both developing and existing clinical ethics committees within the UK health service.

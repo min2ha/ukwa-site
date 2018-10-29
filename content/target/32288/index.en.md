@@ -10,5 +10,3 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Diogelwch Ffyrdd Gwynedd-Môn | Gwynedd-Môn Road Safety
-

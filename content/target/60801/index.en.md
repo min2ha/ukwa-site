@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Foreign Affairs Committee: The future of UK diplomacy in Europe
-
 Close relations with our friends and allies in Europe, with whom we share values and interests, must be a necessary element of ‘Global Britain’ but the Government must clarify what level of access to EU foreign, security and defence policy decision-making it aims to secure, and it must increase its diplomatic presence in the 27 EU capitals. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Nick Clegg: parliament must vote on terms of deal to leave EU
-
 Guardian, The

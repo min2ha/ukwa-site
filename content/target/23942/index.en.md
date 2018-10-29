@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: DUP leader Peter Robinson says party could work with Conservatives or Labour
-
 None

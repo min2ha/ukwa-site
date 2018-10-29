@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Lone Twin
-
 They work in all kinds of forms and spaces, from narrative theatre to large-scale community events. 

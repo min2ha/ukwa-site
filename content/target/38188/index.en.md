@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Choose Michelle Rodger for Renfrewshire South
-
 Michelle Rodger is a potential Scottish National Party list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

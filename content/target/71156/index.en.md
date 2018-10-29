@@ -10,6 +10,4 @@
   "start_date": "2018-09-14T09:00:00Z"
 }
 
-# Terry Setch
-
 Terry Setch is a contemporary British Painter and was elected in 2009. He lives in Penarth.

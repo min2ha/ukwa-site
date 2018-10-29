@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Paul Morgan (@DavyPaul) on Twitter (Liberal Democrat candidate for Vale of Glamorgan)
-

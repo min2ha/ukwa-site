@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Crufts
-
 None

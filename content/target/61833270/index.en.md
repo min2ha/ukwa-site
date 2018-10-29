@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liberal Conspiracy
-
 <p>Liberal Conspiracy is a politics blog run by Sunny Hundal.</p>

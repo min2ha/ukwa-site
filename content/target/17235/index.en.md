@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour's pink Barbie bus criticised by women as 'silly' and 'sexist'
-
 None

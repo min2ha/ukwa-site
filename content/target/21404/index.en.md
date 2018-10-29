@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Embarrassment for 'tax cutter' Cameron after it's revealed Coalition has raised our taxes by £255 each
-
 None

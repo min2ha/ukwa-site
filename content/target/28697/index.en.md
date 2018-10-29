@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Meddal: Meddalwedd Cymraeg
-
 Explores Welsh language computer programmes/ browsers which operate through the medium of Welsh.

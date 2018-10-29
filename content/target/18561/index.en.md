@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Davies (@ChrisDavies4MP) on Twitter
-
 2015 Conservative Parliamentary Candidate for Brecon and Radnorshire. Powys County Councillor.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Archwilio: The Historic Environment Records of the Welsh Archaeological Trusts
-
 Archwilio is the Welsh Archaeological Trusts searchable Historic Environment Record site. There are over 100,000 archaeological sites to be found on Archwilio.

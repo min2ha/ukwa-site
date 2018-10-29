@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Eastern Western Fleet Services
-
 Eastern Western Fleet Services, a subsidiary of Eastern Holdings Limited, is a fleet management company based in Broxburn, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# National Trainers Federation
-
 National Trainers Federation - the Voice of Britain's Racehorse Trainers represents and protect trainers interests and is a source of information, advice and support.

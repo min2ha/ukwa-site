@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Nawr yr Arwr | Now The Hero is
-
 Nawr yr Arwr / Now the Hero is 'an immersive theatrical experience by
 Marc Rees held in September, 2018 across the city of Swansea. It will be
 an extraordinary journey through three intertwining narratives of war;

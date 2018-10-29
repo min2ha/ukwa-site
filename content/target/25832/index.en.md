@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon challenged on spending plans as SNP backs Labour on tax
-
 None

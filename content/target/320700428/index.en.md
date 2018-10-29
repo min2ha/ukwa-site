@@ -10,5 +10,3 @@
   "start_date": "2015-07-07T00:00:00Z"
 }
 
-# Myrddyn Phillips Mapping mountains
-

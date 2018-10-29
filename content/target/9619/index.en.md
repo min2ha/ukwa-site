@@ -10,6 +10,4 @@
   "start_date": "2014-03-21T07:00:00Z"
 }
 
-# Pen Pusher
-
 None

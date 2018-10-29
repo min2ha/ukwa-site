@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# PlayTalkRead
-
 Information site encouraging adults to use educational play in the upbringing of pre-school children.

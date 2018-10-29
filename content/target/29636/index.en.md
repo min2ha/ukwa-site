@@ -10,6 +10,4 @@
   "start_date": "2015-08-06T10:00:00Z"
 }
 
-# Runnymede International Literary Festival 2016
-
 Festival organised by the Royal Holloway University of London.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-10T09:00:00Z"
 }
 
-# Royal Green Jackets Regimental Association, The
-
 Website contains information on the history of the regiment.

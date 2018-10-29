@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Bearsden Muslim Association Community Centre
-
 Site of a community and language education centre based in Bearsden, East Dunbartonshire.

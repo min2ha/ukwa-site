@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons European Scrutiny Committee: Oral evidence: EU withdrawal, Wednesday 5 September 2018
-
 The Prime Minister's Europe Adviser Oliver Robbins and Brexit Secretary Dominic Raab are questioned on the Chequers plan, which the chair says "should be put out of its misery"

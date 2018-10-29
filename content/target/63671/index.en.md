@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lochmaben Church
-
 Lochmaben Parish Church

@@ -10,5 +10,3 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Milford Fish Docks
-

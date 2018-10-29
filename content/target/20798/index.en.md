@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# kirstenoswald (@kirstenoswald) on Twitter
-
 Twitter profile of Kirsten Oswald, Scottish National Party candidate for East Renfrewshire in the 2017 general election.

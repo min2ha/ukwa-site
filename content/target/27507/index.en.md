@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Mancunian union: George Osborne's vision for the North is admirable, impressive - and much too focused on Manchester
-
 None

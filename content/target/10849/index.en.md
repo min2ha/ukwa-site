@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire Dales National Park: Tour de France in the Dales
-
 Yorkshire Dales National Park web page for the Tour de France

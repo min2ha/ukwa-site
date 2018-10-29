@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# North West Green party Website
-
 North West Green Party website providing information on local news, campaigns and policies.

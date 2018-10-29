@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 14 heart-gladdening silver linings in last week's General Election results 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Convergence Cornwall
-
 None

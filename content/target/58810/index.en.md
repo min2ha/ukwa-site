@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Strengthening Communities Conference
-
 Site of a conference on community led development in Scotland, held at the Macdonald Aviemore Highland Resort on 21 and 22 September.

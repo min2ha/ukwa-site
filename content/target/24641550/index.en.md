@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# BP plc
-
 BP plc is one of the world's leading integrated oil and gas companies. Operating in all areas of the oil and gas industry, including exploration and production, refining, distribution and marketing, petrochemicals, power generation and trading. It also has renewable energy interests in biofuels and wind power.

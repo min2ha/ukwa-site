@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Green MSPs, The
-
 Blog about the activity of Alison Johnstone and Patrick Harvie, Scottish Green Party MSPs.

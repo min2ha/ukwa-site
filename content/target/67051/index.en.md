@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson calls for more 'guts' in Brexit talks
-
 Boris Johnson criticised the UK government's Brexit talks strategy at a private dinner, saying it lacked "guts" and suggested Donald Trump could do a better job. The foreign secretary also took a swipe at Chancellor Philip Hammond, calling the Treasury "the heart of Remain".

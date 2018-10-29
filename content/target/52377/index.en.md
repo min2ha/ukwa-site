@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Kirkcudbright Working Print Studio
-
 Site of a printer based in Kirkcudbright, Dumfries and Galloway, with a main focus on traditional hand printing (letterpress and lino) as well as a printing service.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Moulsecoomb in the First World War
-
 Project enabling pupils at Moulsecoomb Primary School to research the experiences of people in Brighton during the First World War.

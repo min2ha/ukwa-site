@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Provincial Priory of Cheshire and North Wales
-
 This is a website of the Provincial Prioiry of Cheshire and North Wales. It is overview of the Province and provides online access to the Province newsletter, KT Newsletter. 

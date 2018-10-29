@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Foysol Choudhury MBE (@FoysolChoudhury) on Twitter
-
 Twitter profile of Foysol Choudhury, Scottish Labour candidate for Edinburgh South West in the 2017 general election.

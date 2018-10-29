@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Theatr Ardudwy
-
 Theatr Ardudwy is located in Harlech, Gwynedd.

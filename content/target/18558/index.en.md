@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Darran Thomas (UKIP candidate for Brecon and Radnor)
-
 UKIP candidate for Brecon and Radnorshire.

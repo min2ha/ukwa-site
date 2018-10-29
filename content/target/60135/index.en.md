@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# University of Dundee: Fibromyalgia and Us
-
 Fibromyalgia and us is a comic book that appeared in both print and online. It was published by the University of Dundee.

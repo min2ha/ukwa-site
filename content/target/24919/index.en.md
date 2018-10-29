@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wessex Regionalist Party - the Party for Wessex 
-

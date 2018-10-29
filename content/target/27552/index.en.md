@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Nigel Farage is on course to lose in South Thanet, and Ukip faces wipeout, experts predict
-
 None

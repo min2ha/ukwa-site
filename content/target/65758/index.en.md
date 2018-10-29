@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Osian Pryce - Rally Driver
-
 Osian Pryce is a Welsh Rally Driver from Machynlleth. He made his rally competition debut in 2009 and has twice finished runner-up in the British Rally Championship (2013 and 2014) Championship.

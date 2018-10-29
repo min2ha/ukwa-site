@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ESF 2019 
-
 Website advertising the ESF 2019 Youth Footballing Festival

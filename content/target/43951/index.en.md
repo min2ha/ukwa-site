@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit fallout: Six practical ways to help fix this mess
-
 An article with suggestions on how those who supported the remain vote could make the current mood in society better in the wake of the EU Referendum result. 

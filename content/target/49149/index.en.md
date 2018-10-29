@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Spartans Football Club
-
 Site for a Scottish amateur football club based in Edinburgh.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Blair Drummond Safari & Adventure Park
-
 Site of a zoological garden and collection, and children's adventure park located at Blair Drummond, Stirlingshire, Scotland.

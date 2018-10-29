@@ -10,5 +10,3 @@
   "start_date": "2012-07-04T00:00:00Z"
 }
 
-# Gwesty'r Marine Hotel
-

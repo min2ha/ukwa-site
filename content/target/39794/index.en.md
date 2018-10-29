@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) North East Fife
-
 The North East Fife branch of the Scottish National Party (SNP).

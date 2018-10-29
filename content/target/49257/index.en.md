@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Pennant Walters
-
 Pennant Walters is a Welsh renewable energy development company with its head office in Hirwaun, Rhondda Cynon Taff.

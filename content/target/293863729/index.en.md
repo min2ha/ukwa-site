@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Green Dragon, The - Wales and the wider world from a green left perspective
-

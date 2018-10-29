@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# City of Cardiff Swimming Club | Clwb Nofio Dinas Caerdydd
-

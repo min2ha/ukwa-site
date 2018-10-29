@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Buddug Verona James: Opera singer, Actress and Butcher
-
 Buddug Verona James is a Welsh Mezzo-soprano and former Welsh Singers Competition winner.

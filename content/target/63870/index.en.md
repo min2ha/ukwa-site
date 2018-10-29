@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# The Chartered Society of Forensic Sciences
-
 Forensic Science is the application of all sciences to the law, both civil and criminal.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nigel Farage says an EU defeat wouldn't kill UKIP
-
 None

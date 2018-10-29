@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's R.C Church Shieldmuir, Wishaw on Facebook
-
 Facebook page of a Scottish Roman Catholic cparish church located in Wishaw, Lanarkshire.

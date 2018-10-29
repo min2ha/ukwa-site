@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Little Children Weak - Burnley and the First World War on Facebook
-
 August 4th 2014 is the 100th anniversary of the start of the Great War. Of the millions who served from Britain nearly 1 million died. In Burnley about 4,000 died during or as a result of the war. We are planning a number of events to commemorate the war.

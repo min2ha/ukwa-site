@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Fraserburgh Lodge of Freemasons No. 1055, The
-
 Site of a masonic lodge located in Fraserburgh, Aberdeenshire and affiliated with the Grand Lodge of Scotland.

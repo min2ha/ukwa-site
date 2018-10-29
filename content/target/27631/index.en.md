@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The backbenchers will be calling the electoral shots
-
 None

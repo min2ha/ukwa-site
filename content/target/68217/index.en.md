@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The BVI Beacon
-
 The BVI Beacon is a weekly newspaper founded in 1984 and published on the island of Tortola in the British Virgin Islands.

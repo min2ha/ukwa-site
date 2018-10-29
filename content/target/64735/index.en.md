@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Coburg House
-
 Site of an artists studios, gallery and commercial space located in Leith, Edinburgh.

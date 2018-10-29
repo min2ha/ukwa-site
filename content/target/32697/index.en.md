@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shetland Noir
-
 Shetland Noir is a crime writing festival held in association with the Iceland Noir festival.

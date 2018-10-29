@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain might NOT leave the EU, David Davis 'privately admits': Brexit Secretary 'secretly says decision could be reversed' - undermining PM's New Year message promising to 'get on and deliver'   
-

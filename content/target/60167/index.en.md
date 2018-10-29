@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU's Juncker: Don't believe Brexit won't happen
-
 European Commission chief Jean-Claude Juncker sees Brexit posing a budget dilemma for the EU.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# British Hypertension Society (BHT), The
-
 The British Hypertension Society (BHS) is the forum for professionals working in the field of hypertension and cardiovascular disease in the UK and Ireland. The Society provides a broad spectrum of scientific and educational activities.

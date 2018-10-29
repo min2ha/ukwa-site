@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Forum for Research on the Languages of Scotland and Ulster
-
 Site of a research organisation focusing on language used in Scotland and the north of Ireland.

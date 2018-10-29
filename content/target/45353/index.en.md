@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Anne Bennett
-
 Anne Bennett is a writer who lives and is a Member of Academi.

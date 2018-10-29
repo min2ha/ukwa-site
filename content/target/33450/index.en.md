@@ -10,6 +10,4 @@
   "start_date": "2015-12-15T09:00:00Z"
 }
 
-# Cysylltiad Gogledd Cymru | North Wales Connection
-
 Connecting North Wales is a National Grid initiative and list projects that are connecting low carbon energy across north Wales.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-06T10:00:00Z"
 }
 
-# Parent Network Caerphilly County Borough, The
-
 The Parent Network Caerphilly County Borough provides ways to bring parents together and involve them in giving their views and influence services for children and families across the borough. 

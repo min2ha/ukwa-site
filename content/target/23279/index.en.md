@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lisa Rapado (Green Party candidate for Rhondda)
-

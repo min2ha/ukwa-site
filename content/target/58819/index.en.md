@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Dunadd Camanachd on Facebook
-
 Site of a women's shinty club based at Kilmory, Argyll & Bute.

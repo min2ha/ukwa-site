@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Streetcake
-
 Online bimonthly magazine, focusing on "innovative, experimental and visual" writing.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TowersTimes / SouthParks Forum
-
 An online enthusiast unofficial community forum concerned with Alton Towers and other theme parks in the UK and Europe. Discusses Alton Towers, Thorpe Park, Chessington World of Adventures Resort, Legoland and various related topics.

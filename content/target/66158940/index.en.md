@@ -10,5 +10,3 @@
   "start_date": "2012-10-12T00:00:00Z"
 }
 
-# Course Data Stage 2 University of Exeter: CRIATE - Course Related Information AT Exeter
-

@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Gay History and Literature
-

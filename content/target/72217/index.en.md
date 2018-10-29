@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Hampstead RFC on Pitchero
-
 The official website of Hampstead Rugby Club.

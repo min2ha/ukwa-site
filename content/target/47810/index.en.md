@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Wales FSB Cymru (@FSB_Wales) on Twitter 
-

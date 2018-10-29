@@ -475,6 +475,4 @@
   "endDateText": ""
 }
 
-# Jersey Collection
-
 Jersey Archive is responsible for preserving and providing access to the Island’s unique written cultural heritage. Increasingly this means that archivists need to start looking at ways in which we can archive digital information including websites and social media. This collection of websites curated by staff at Jersey Archive will become  a part of Jersey’s evolving history. 

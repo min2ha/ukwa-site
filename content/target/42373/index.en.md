@@ -10,6 +10,4 @@
   "start_date": "2016-06-04T10:00:00Z"
 }
 
-# Flip Chart Fairy Tales
-
 Detailed and long-running blog reflecting on business, the world of work, UK economics and economic debate.

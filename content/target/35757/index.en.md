@@ -10,6 +10,4 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# Gutter Magazine
-
 Gutter is a magazine dedicated to the best in new Scottish creative writing. Featuring fiction, poetry and reviews from writers born or living in Scotland.

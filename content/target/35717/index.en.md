@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Rising Candle
-
 The 1916 Rising Candle is a candle that was designed to commemorate the centenary of the Easter Rising, 1916 in Ireland.

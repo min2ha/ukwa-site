@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Sonics RLFC
-
 Open age team playing in the Midlands Premier Division of the Rugby League Conference. 

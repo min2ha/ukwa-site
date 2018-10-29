@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ipsos Mori: Half of people in nine European countries believe UK will vote to leave the EU 
-
 With the British referendum on European Union (EU) membership on 23 June rapidly approaching, a new poll from Ipsos reveals that half (49%) of Europeans in eight other EU countries believe that Britain will vote to leave the EU

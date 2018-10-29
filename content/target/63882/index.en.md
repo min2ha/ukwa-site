@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Kilsyth Burns and Old Church
-

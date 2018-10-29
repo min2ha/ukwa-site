@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Story of the Welsh Country House, The 
-
 Dr. Mark Baker is an architectural historian based in Wales and co-author of the book '50 Buildings that Built Wales'. The site also includes a complete list of Lost Welsh Country Houses. 

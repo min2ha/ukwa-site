@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Scottish Local Government Partnership
-
 Site of a group set up across several Scottish local councils providing  representation for member Councils on priority issues that affect local Government.

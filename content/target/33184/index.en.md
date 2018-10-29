@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Cardiff Destitution Network
-
 Cardiff Destitution Network aims to tackle destitution in Cardiff, Newport and the Vale of Glamorgan.

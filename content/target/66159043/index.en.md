@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# UK Human Rights Blog
-
 The UK Human Rights Blog aims to provide a free, comprehensive and balanced legal update service. Our intention is not to campaign on any particular issue, but rather to present both sides of the argument on issues which are often highly controversial. Adam Wagner is the blog’s General Editor, Rosalind English and Angus McCullough are co-editors. The blog was launched on 31 March 2010.

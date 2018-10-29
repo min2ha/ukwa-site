@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlotte Carey (charlcareytt) on Twitter
-
 Twitter profile of table tennis player Charlotte Carey, member of Team Wales for the Glasgow 2014 Commonwealth Games.

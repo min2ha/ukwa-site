@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. Roch's Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Garngad/Royston, Glasgow.

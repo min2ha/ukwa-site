@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pippa Bartolotti
-
 Pippa Bartolotti is the Green Party leader for Wales. She is also standing in Newport West.

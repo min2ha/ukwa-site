@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Shailesh Vara MP: Make the Magna Carta celebrations a springboard to a stronger legal market
-

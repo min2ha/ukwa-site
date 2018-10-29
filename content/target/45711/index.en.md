@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rugby League
-
 rugby-league.com is the online portal for news on Rugby League in the UK including First Utility Super League and England RL as well as news, fixtures and results from all leagues and competitions. In addition to the ways to play, watch and support the sport.

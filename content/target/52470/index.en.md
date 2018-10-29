@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Canolfan Antioch Centre, Llanelli 
-

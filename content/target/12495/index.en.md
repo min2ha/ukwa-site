@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Denny (JamesRDenny) on Twitter
-
 <p>The twitter profile of diver James Denny, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

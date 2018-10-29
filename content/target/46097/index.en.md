@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The crash in the pound punctures the delusion that Brexit Britain will flourish
-

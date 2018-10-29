@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen's 90th Birthday Celebration
-
 Official information about the event to celebrate the Queens birthday at Windsor Castle.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Theatr Gybolfa
-
 Theatr Gybolfa is a community theatr grouop established by Rebecca Phasey and Lowri Wynn.

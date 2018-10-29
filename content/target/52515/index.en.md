@@ -10,5 +10,3 @@
   "start_date": "2017-04-27T09:00:00Z"
 }
 
-# Carl Quilliam (@carlquilliam) on Twitter (Liberal Democrats candidate for Wimbledon)
-

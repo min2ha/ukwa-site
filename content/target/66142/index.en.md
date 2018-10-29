@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Healthcare Communications Association (HCA)
-
 The HCA proactively represents and champions on behalf of the healthcare communications sector. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave (@EURefNO) on Twitter
-
 Promoting rational and measured arguments for Brexit, challenging federalist alarmism.

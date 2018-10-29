@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Self Directed Support in Scotland
-
 Self-directed support allows people control over the individual budget spent on their support by social care services.

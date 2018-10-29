@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Policy Studies: eutopia Romantic and Right
-
 A study by Maurice Saatchi, chairman of the Centre for Policy Studies, which seeks to negotiate a middle-way between Brexit and Remain - concluding with the assertion that Britain shall vote to Remain within the EU but will renegotiate the terms of leadership to a more advantageous position for itself.

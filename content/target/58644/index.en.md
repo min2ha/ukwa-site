@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Heritage Paths
-
 Site of a project established to is to collect as much knowledge of old paths in Scotland as possible and to promote the existence and the heritage of these paths.

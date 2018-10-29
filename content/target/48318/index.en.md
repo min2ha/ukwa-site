@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Business: Hate crime and its violent consequences inquiry
-
 Hate crime and its violent consequences inquiry details.

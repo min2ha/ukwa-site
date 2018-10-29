@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Sikh Sanjog
-
 "Sikh Sanjog was set up in 1989, under the name ‘Leith Sikh Community Group.’ Its aim was to provide support for women in the Sikh community who had been settling in Edinburgh since the 1950’s."

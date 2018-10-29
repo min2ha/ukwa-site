@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cymru 2016 | Wales 2016 
-
 An introduction to the work of the National Assembly for Wales for voters in the 2016 Election.

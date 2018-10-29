@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaked Tory plans to cap child benefit have the whiff of eugenics about them
-
 None

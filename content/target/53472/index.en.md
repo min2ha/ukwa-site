@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alastair Binnie-Lubbock (Green Party Politician)
-
 Alastair Binnie-Lubbock stood as The Green Party candidate for Hackney North and Stoke Newington at the 2017 General Election but was not elected.

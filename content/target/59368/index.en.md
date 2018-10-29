@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Gorffennol: Swansea University Online Student Research Journal for History
-
 Gorffennol is the History department journal at Swansea University. 

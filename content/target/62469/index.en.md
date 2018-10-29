@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fraserburgh Old Parish Church
-
 Site of a Church of Scotland parish church at Fraserburgh, Aberdeenshire.

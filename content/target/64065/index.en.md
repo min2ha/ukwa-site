@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cambusnethan Old and Morningside Parish Church
-

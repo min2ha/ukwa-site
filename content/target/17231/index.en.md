@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron goes back to the 1950s and claims "we've never had it so good" 
-
 None

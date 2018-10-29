@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pontlottyn Elim Community Church
-

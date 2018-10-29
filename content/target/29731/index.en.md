@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 19162016: Never Forget
-
 Website selling commemorative gifts

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Radical Independence Campaign (@Radical_Indy) on Twitter
-
 The Twitter account for a grassroots Scottish Independence campaign on anti-austerity, anti-war, environmental and republican platforms. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Side Cromer 
-
 This Website has been created and is maintained by Artyfax.

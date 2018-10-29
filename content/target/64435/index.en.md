@@ -11,6 +11,4 @@
   "subject": "Caribbean Communities in the UK"
 }
 
-# Guardian, The: Caribbean
-
 The subsection of the Guardian newspaper with everything related to the Caribbean.

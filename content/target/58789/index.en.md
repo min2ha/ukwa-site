@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The History of the Oldham Pals 
-
 This trail is designed to guide you on a walk through Oldham town centre. By following this trail you will find out more about Oldham during the First World War. 

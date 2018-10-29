@@ -10,6 +10,4 @@
   "start_date": "2006-02-14T00:00:00Z"
 }
 
-# Wellcome Trust: Malaria
-
 The Wellcome Trust is one of the world's leading supporters of research in tropical medicine. Over the last ten years it has funded £150 million of research on malaria, and has supported a number of initiatives that aim to tackle the huge burden of malaria in the developing world. 

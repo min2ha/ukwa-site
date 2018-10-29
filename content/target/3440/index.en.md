@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Northampton Chronicle & Echo
-
 None

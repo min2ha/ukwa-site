@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Politics and Parasites [by] Syzygysue
-
 <p>UK politics blog, including about UK mainstream media</p>

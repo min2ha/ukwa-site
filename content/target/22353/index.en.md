@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T06:00:00Z"
 }
 
-# Jack Neill (@Mowggs95) on Twitter
-
 Twitter profile of Jack Neill, UK Independence Party (UKIP) candidate for Kirkcaldy and Cowdenbeath in the 2015 UK General Election.

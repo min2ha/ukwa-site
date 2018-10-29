@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# South Yorkshire Joint Secretariat (SYJS)
-
 None

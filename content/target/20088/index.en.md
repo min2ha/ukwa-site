@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: Better off in Wales more likely to think Tories will win election, while the less prosperous think Labour will do it 
-

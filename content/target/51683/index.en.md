@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Legislating for the United Kingdom's Withdrawal from the European Union
-
 The Great Repeal Bill White Paper sets out the government’s proposals for ensuring a functioning statute book once the UK has left the European Union.
 It provides the detail about: the repeal of the European Communities Act 1972; how EU law will be converted into UK law; and how corrections will be made to the statute book, to ensure the law continues to function once we have left the EU

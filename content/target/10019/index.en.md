@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Royal College of Nursing: Nursing Counts
-
 None

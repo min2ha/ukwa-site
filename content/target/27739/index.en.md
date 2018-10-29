@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: How Churchill planned to give the US priceless copy of the Magna Carta in 1941 in attempt to gain their support in Second World War
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12 Sept 2017: UK Nationals in the EU: Rights 
-
 Debate considering the negotiations on the future rights of UK nationals in the European Union 

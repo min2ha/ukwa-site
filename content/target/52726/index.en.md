@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Prospect: Election manifestos – the devil in the detail
-
 Discusses how Prospect members should analyse and critique party election manifestos

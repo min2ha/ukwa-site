@@ -10,5 +10,3 @@
   "start_date": "2010-10-14T00:00:00Z"
 }
 
-# Porthmadog Golf Club
-

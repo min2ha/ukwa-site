@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Friends Southern Summer Events
-

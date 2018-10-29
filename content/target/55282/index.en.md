@@ -10,7 +10,5 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Cardiff Independent Comic Expo
-
 Cardiff Independent Comic Expo (CICE) was established in 2011 and
 ia an annual show dedicated to providing a platform for independent and small press publishers / sequential art creators from South Wales and beyond.

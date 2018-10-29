@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband calls David Cameron 'chicken' over refusal to take part in pre-election TV debates
-
 None

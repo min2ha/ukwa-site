@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tottonians Rugby (@Tottonians) on Twitter
-
 The official Twitter account of Tottonians Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# University Museums in Scotland (UMIS)
-
 UMIS is a collaborative organisation comprising all the Accredited university museums in Scotland. It acts as a support network to help these organisations work effectively and collaboratively. The University Museums Group (UMG) is the sister group that represents the rest of the UK.

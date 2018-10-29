@@ -10,6 +10,4 @@
   "start_date": "2017-04-05T09:00:00Z"
 }
 
-# Swansea News Network
-
 Swansea News Network is a community journalism start-up project that enables people to empower their communities by sharing positive news and progressive stories.

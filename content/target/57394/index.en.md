@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Kintyre Songwriters Festival
-
 Site of an annual music festival based in Campbeltown on the Mull of Kintyre, showcasing local song writing talent as well as staging performances for musicians from other parts of Scotland.

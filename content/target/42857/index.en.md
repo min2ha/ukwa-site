@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Even if it has the momentum, Leave needs to up its game
-

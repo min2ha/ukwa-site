@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Robert Gordon University
-
 Official website of the Robert Gordon University, Aberdeen.

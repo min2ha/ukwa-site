@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's, Ilkley
-
 St. Margaret's is a Church of England Parish Church set on the edge of Ilkley Moor.
 
 Our worship is in the Anglican Catholic tradition, with diverse services for all age groups.

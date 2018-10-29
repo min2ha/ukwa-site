@@ -10,5 +10,3 @@
   "start_date": "2008-06-19T00:00:00Z"
 }
 
-# Traffig Cymru - Traffic Wales
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour and customs union: Evolution not revolution
-
 Labour is moving towards supporting the UK remaining in a customs union with the EU after Brexit to protect jobs. It is also opens the way for Labour voting down any other deal the Mrs May might bring back from Brussels and forcing a general election.

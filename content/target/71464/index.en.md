@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Strathearn Churches
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Strathearn, in Perth & Kinross and Stirlingshire, namely, St. Serf, Comrie; St. Colomba, Crieff; St. Fillan, Killin; St. Angus, Lochearnhead.

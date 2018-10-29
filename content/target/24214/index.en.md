@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: ‘Ed Miliband almost insulted our intelligence’: the Leaders' BBC Question Time audience speaks out
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Gorseinon Development Trust
-
 Gorseinon Development Trust took over the responsibilties of Gorseinon Regeneration Forum and is led by representatives from the public, voluntary and private sectors.

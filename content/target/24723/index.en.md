@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mark Chapman (Pirate Party UK candidate for Vauxhall) (@Pirate_Lennon) on Twitter
-

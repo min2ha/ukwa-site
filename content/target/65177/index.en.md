@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DANIEL HANNAN: Brexit's still on track - just. But it'll take a lot more steel to see off this latest ruse to keep us in the EU   
-

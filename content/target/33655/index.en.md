@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Unity in Diversity Swansea
-
 The Unity in Diversity Swansea group provides friendship, support and learning opportunities to asylum seekers and refugees in the Swansea area.

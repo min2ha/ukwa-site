@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archbishop of York, The
-
 <p>Official site of the Archbishop of York, the second most senior cleric in the Church of England.</p>

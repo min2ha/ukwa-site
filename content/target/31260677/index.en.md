@@ -10,5 +10,3 @@
   "start_date": "2009-06-26T00:00:00Z"
 }
 
-# Wales.com
-

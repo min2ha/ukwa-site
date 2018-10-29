@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telford & Wrekin Health and Wellbeing Board
-
 None

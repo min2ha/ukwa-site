@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Love Loch Lomond
-
 Site of a tourist marketing organisation focusing and based in the area of Loch Lomond in west central Scotland, and led by the industries it serves.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Family Arts Campaign in Wales | Ymgyrch Celfyddydau i’r Teulu yng Nghymru, Yr 
-
 The Family Arts Campaign is run by the Fieldwork and is a national collaborative programme led by the visual and performing arts sectors to increase levels of arts engagement by families. 

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - An emotive image of a newborn hand in a mother's...
-

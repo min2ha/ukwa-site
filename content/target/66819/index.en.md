@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Green Infrastructure Scotland
-
 "The Green Infrastructure Strategic Intervention aims to improve Scotland’s urban environment by increasing and enhancing greenspace in our towns and cities, especially close to areas of multiple deprivation."

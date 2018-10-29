@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Why would Tristram Hunt make Magna Carta compulsory?
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: This Brexit plan will divide Britain and Ireland once more
-
 The proposal to move the UK’s border to Irish ports and airports risks undoing the hard-won gains of the peace process

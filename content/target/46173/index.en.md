@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T11:00:00Z"
 }
 
-# Mod Nan Eilean Siar on Facebook
-
 Facebook site of Royal National Mod 2016

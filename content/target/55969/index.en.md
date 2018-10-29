@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Amdram
-
 Amdram is a website which aims to publicise amateur dramatics and contains an online community for amateur dramatics. 

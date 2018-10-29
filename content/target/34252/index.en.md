@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Selkirkshire Antiquarian Society
-
 Site dedicated to preservation of historical artefacts in the old Scottish county of Selkirkshire.

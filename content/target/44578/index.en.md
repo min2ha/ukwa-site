@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Walled Kitchen Gardens Network
-
 The Walled Kitchen Gardens Network is an informal group of national organisations and individual experts. It was created in order to provide an integrated approach to restoring walled gardens. 

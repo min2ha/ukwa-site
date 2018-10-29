@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Sculpture Heavan
-
 Sculpture Heavan is a small sculpture workshop located in Rhydlewis, Cardiganshire.

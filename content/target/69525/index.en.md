@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# MRC Centre for Regenerative Medicine (CRM)
-
 The MRC Centre for Regenerative Medicine (CRM) is a research institute based at the University of Edinburgh.

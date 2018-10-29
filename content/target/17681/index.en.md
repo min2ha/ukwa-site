@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Spot the difference - are Tories taking lessons from 2004 Australian election?
-
 None

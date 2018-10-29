@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Gerry Loves Records
-
 Website of an Edinburgh-based DIY record label.

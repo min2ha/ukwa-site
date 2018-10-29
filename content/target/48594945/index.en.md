@@ -10,5 +10,3 @@
   "start_date": "2010-05-13T00:00:00Z"
 }
 
-# The Wales Trekking and Riding Association
-

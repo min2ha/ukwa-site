@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Irish News, The: Theresa May vows to protect 'special relationship' with Republic
-

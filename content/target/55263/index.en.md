@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# LEAF: Linking Environment And Farming
-
 LEAF (Linking Environment And Farming) is the leading organisation promoting sustainable agriculture, food and farming. We help farmers produce good food, with care and to high environmental standards, identified in-store by the LEAF Marque logo

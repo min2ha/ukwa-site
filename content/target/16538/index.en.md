@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: can the underdog beat the top dog in the UK's tightest race for years
-
 None

@@ -11,7 +11,5 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# MPT Modern Poetry in Translation Magazine
-
 Founded in 1965 by Ted Hughes and Daniel Weissbort, MPT is the magazine of the international Republic of Letters. "We publish the best of world poetry, from Siberia to Chile, from Wales to Japan.".  Based in Oxford.
 •MPT seeks to widen and vary the whole idea and practice of translation. There are essays, discussions, and any number of examples.

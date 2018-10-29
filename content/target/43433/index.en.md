@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Free Online Course: Towards Brexit? The UK's EU Referendum
-
 Learn why the UK is holding an EU referendum, the issues at stake and what the result means, with this free online course.

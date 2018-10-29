@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Cameron will fight for 'stable government' in face of any Labour bid to oust him
-
 None

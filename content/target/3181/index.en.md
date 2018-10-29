@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# UK Hydrographic Office
-
 The UK Hydrographic Office (UKHO) produces nautical publications and services for the Royal Navy and merchant shipping, to protect lives at sea. UKHO is an executive agency, sponsored by the Ministry of Defence. 

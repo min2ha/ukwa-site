@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# English Colleges FA (@ECFA12) on Twitter
-
 The official twitter account of the English Colleges Football Association (part of AoC Sport). The governing body for college football in England.

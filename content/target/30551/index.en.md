@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Airport
-
 Website for Jersey Airport including flight information, news and commercial information.

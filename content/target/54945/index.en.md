@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Emma Press, The
-
 The Emma Press is an independent poetry publisher based in Birmingham, UK, and dedicated to producing beautiful, thought-provoking books. It was founded in Winnersh in 2012 by Emma Wright, formerly of Orion Books, and run by Emma, with Rachel Piercey as a regular co-editor. 

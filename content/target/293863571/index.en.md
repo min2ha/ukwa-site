@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Phoenix from the flames: Musings from a Rhondda Cynon Taff Welsh Liberal Democrat
-
 Musings from Karen Roberts, a Liberal Democrat from Rhondda Cynon Taff.

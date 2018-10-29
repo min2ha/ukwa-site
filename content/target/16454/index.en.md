@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron unlikely to take part in leaders' debates after Greens' snub
-
 None

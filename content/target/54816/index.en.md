@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Grenadier Guards
-
 The Grenadier Guards  is a modern, forward-thinking infantry regiment, despite being one of the oldest in the British Army and the most senior of the five Regiments of Foot Guards. 

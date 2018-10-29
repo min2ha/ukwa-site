@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# East of England Conservatives on Facebook
-
 None

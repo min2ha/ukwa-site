@@ -10,6 +10,4 @@
   "start_date": "2015-07-04T10:00:00Z"
 }
 
-# Cambridge Centre for Climate Science
-
 The Cambridge Centre for Climate Science (CCfCS) was established to promote research and other activities in Climate Science going on at several Departments of the University of Cambridge.

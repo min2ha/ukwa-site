@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church, Lewes
-
 TRINITY is a vibrant and outward-looking Anglican church meeting across 3 locations and 6 congregations throughout Lewes, East Sussex with a vision to see lives transformed by the love of Christ.

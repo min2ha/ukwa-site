@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Anne McGuire MP (AnneMcGuireMP) on Twitter
-
 The twitter profile of Anne McGuire, who was Scottish Labour Member of Parliament for Stirling.

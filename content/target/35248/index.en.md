@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Janet and Stephen's Family Heritage
-
 Family history of the Ward, Foster, Hamer and Shannon families. It also contains information about the Todmorden Family History Group.

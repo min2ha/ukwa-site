@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM statement in Northern Ireland: 25 July 2016
-
 Prime Minister Theresa May gave a statement following discussions with the First Minister and deputy First Minister of Northern Ireland on the implications of Brexit. 

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Making Brexit work for Wales' smaller businesses
-

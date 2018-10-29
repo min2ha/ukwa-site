@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May seeks grassroots backing for Chequers plan
-
 Letters from Theresa May have been landing on the doormats of Conservative Party members across the country - trying to win them over to her vision for Brexit. The mailshot, seeking their backing for the proposals agreed at Chequers last month, also features positive messages from ministers and other big hitters in the party endorsing the package.
 
 

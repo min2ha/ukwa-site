@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The wooing of the DUP: how Paisley’s party may hold the keys to No 10
-
 None

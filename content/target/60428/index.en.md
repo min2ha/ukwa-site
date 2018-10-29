@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# The Connected Seeds Library
-
 This website is part of a research project calld Connected Seeds and Sensors, that came out of Queen Mary University of London. It collects stories, images, and audio from food growers in east London, and who documented the growth of their crops over the 2016 growing season. It tells the stories of migration, cultural diversity, as well as practical information about growing crops not typically grown in the UK. It also documents the ways in which we used networked, digital sensing technologies in the project.

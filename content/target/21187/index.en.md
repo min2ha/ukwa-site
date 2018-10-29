@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Marra (@michaeljmarra) on Twitter
-
 The twitter profile of Michael Marra, Labour candidate for Dundee West in the UK General Elections on 7th May 2015.

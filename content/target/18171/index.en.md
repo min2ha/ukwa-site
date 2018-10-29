@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls: Sturgeon election demands are irrelevant
-
 None

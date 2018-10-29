@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Khadija Saye Photography
-
 Khadija Saye was a young artist that focused on photography. She lived in Grenfell Tower, London with her mother and they both died in the fire on 14/06/2017. She was 24 years old.

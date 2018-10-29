@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Pilgrims Way & River Way Community Website
-

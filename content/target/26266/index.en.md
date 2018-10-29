@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Swansea oh Swansea: Independent Swansea City Fanzine
-

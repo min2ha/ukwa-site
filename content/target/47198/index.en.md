@@ -10,6 +10,4 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# VC41 Dragonfiles and Damselfies
-
 The blog provides share sightings of Dragonflies and Damselflies within the recording area of VC41 (Glamorgan)

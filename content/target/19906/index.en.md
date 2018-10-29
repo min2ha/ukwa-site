@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blair Smillie (@blairsmillie) on Twitter
-
 UKIP PPC for Alyn and Deeside

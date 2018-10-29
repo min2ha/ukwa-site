@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Hooray for the Milifans. They can change the world for the better
-
 None

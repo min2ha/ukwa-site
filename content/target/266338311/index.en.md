@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Soldier's Burden, The
-
 This site serves as a monument to all soldiers who fought and all casualties of World War 1 and the Colonial Wars in the period leading up to World War 2. It intends to honor soldiers of all nationalities and all races.

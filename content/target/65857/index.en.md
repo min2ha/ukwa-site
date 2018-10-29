@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Isle of Arran Heritage Museum
-
 Site of a museum of the history, science and family history of the Isle of Arran, Argyll & Bute.

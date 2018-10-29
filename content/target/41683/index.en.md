@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bishops Lydeard
-
 This website provides news and updates about the Parish of Bishops Lydeard and Cothelstone.

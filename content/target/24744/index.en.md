@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Victoria Borwick (Conservative) on Facebook 
-
 Victoria Borwick stood as Conservative candidate for Kensington at the 2015 General Election and was elected to serve as MP.

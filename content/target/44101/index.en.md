@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Castle Menzies
-
 Site of a trust established to run Castle Menzies, near Aberfeldy, Perth & Kinross, Scotland.

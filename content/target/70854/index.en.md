@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Chinese In Wales Association (CIWA)
-
 Chinese In Wales Association (CIWA) is a charitable organisation which aims to deliver services that will make a positive difference to the lives of ethnic Chinese residents in Wales.

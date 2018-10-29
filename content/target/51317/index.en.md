@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hope Church, Bangor
-

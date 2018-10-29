@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Communities of Our Lady's (Beith), St. Brigid's (Kilbirnie) and St. Palladius (Dalry), The
-
 Site of a group of Roman Catholic parish churches in Ayrshire.

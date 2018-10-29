@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# This is Money
-
 This is Money is a website with news about finances.

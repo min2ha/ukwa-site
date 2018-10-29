@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shambla
-
 Website for the Shambla music festival.

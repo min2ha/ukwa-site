@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Ayrshire Central Mosque 
-
 Site of an Islamic place of worship and education located in Kilmarnock, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# #FIFAeWorldCup (@FIFAeWorldCup) on Twitter
-
 The official twitter feed for the FIFA eWorld Cup.

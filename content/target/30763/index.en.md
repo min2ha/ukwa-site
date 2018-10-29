@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Woolf Institute
-
 The Woolf Institute is an institute specialising in the academic study of relations between Jews, Christians and Muslims. It was established in Cambridge (UK) in 1998.

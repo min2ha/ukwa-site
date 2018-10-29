@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Norman McBeath / Easel Press
-
 Site of an artistic photographer and a book publisher, including artists' books, based in Edinburgh. 

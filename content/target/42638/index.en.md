@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Whiteinch & Scotstoun Housing Association Ltd
-
 Site of a charitable company providing social housing in the areas of Whiteinch and Scotstoun in Glasgow, Scotland.

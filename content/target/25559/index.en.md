@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron boosted by 5,000 small businesses backing Conservatives
-
 None

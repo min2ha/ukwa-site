@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# UK Liquefied Petroleum Gas (UKLPG)
-
 UKLPG is the trade association representing companies that operate in the Liquefied Petroleum Gas (LPG) industry in the UK. Members include LPG producers, distributors, equipment and service providers, and vehicle converters. 

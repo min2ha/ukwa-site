@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Aberystwyth Innovation and Enterprise Campus (AIEC) | Campws Arloesi a Menter Aberystwyth
-
 Aberystwyth Innovation and Enterprise Campus (AIEC) is based at Aberystwyth University and will provide 'world leading facilities and expertise for the agri-tech industry and the bio-science sector'. The campus is supported by Aberystwyth University, the European Regional Development Fund through the Welsh Government, and by the Biotechnology and Biological Sciences Research Council (BBSRC).

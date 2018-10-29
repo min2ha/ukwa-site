@@ -162,6 +162,4 @@
   "endDateText": "01-03-2016"
 }
 
-# Climate Change Debates
-
 This collection was curated by a science policy intern at the British Library in 2015 and consists of websites from different societal groups that have an active interest in the area of Climate Change. It includes websites of academics; the energy sector; policy makers; special interest groups; the media and members of the public. 

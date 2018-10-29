@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T12:00:00Z"
 }
 
-# National Library of Wales
-
 Official website of the Llyfrgell Genedlaethol Cymru - National Library of Wales.

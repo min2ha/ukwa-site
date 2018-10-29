@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T12:00:00Z"
 }
 
-# Devon Birds
-
 Devon Birds is a county bird society which started in 1928. Originally known as Devon Birdwatching & Preservation Society, the name was shortened to “Devon Birds” in 2005.

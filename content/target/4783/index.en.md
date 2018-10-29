@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# National Union of Students: Student movement pays tribute to Nelson Mandela
-
 <p>Nelson Mandela had first been elected honorary president of the NUS in 1969. On this web page, the NUS and Toni Pearce, NUS president, pay tribute to Nelson Mandela.</p>

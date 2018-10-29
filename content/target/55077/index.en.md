@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Data lessons/data intro archives on Github
-
 Data introduction for archivists. Library Carpentry is software skills training aimed at the needs and requirements of library professionals.

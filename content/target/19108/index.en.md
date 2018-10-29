@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guildford Cathedral: News: Magna Carta at Guildford Cathedral
-

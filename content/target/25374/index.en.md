@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Boris Johnson isn’t the magic bullet the Tories imagine
-
 None

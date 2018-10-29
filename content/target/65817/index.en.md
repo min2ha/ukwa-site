@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Eventbrite: 1968 RRA @ 50: Exploring Race Laws, History And Practice
-
 A roundtable discussion celebrating the 50th anniversary of the 1968 Race Relations Act in the UK. 

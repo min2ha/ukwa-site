@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Election choice: 1,000 shocking reasons why you can't trust the Tories with the NHS 
-
 None

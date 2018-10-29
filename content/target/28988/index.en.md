@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cambridgeshire Green Party
-
 Website of Cambridgeshire Green Party, providing information on campaigns, events, news and local councillors.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What Brexit should have taught us about voter manipulation
-

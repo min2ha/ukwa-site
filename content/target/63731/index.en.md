@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Broughty Ferry New Kirk Church
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Kapil's Khichadi: BREXIT: the people's verdict
-
 Blog post argues that David Cameron's negotiation for a new deal for Britain in the EU was successful. However the author argues in favour of BREXIT because the EU cannot be trusted to keepits word.

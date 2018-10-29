@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Skye in Focus : a guide to the flora and fauna of Skye 
-
 Site with photogrpahs and listings of flora and faun on the Isle of Skye, Highland, Scotland, with monthly updates.

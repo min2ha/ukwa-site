@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Irish Republican News (by subscription)
-

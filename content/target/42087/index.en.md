@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chester le Live
-

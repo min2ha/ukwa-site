@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# UK Overseas Territories Association (UKOTA)  
-
 UKOTA was constituted on the 2nd of November 1994 by the Governments of the UK’s Overseas Territories who have a permanent Representative in London. Membership is equal, regardless of the size, or the GDP of any Territory. Exceptionally for the smallest of Territories, who may not have a Representative in the United Kingdom, special efforts are made to ensure that these Governments are consulted and that their views and interests are always fully taken into account in all of UKOTA’s deliberations and representations.

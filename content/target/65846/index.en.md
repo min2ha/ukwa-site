@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ATOM: Festival of Science and Technology
-
 The annual Science and Technology Festival for Abingdon-on-Thames.

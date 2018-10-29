@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Blandford Forum People
-

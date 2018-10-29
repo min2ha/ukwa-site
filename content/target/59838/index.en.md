@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cley Bird Club
-
 An online enthusiast community website for the Cley Bird Club. Includes sections of the website for club activities, bird records, photographs submitted by club members and club reports. Includes a forum section where users discuss various bird watching related topics.

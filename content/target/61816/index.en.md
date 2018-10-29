@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fraserburgh West and Rathen West Parish Churches
-
 Site of two Church of Scotland parish churches in Aberdeenshire.

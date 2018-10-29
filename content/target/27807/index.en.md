@@ -10,7 +10,5 @@
   "start_date": "2015-06-10T08:00:00Z"
 }
 
-# Gaia Education 
-
 Gaia Education promotes a holistic approach to education for sustainable development.  It develops curricula for sustainable community design drawing from good practice within ecovillages worldwide.  It works in partnership with urban and rural communities, universities, ecovillages, government and non-government agencies and the United Nations.
 

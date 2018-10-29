@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Enfield Stronger In (@ENStrongerin) on Twitter
-
 Enfield branch of the #StrongerIn campaign.

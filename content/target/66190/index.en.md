@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# SportFest
-
 Website for the SportFest sports festival

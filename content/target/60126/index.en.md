@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Tony Blair’s a flawed messenger – but he’s worth listening to on Brexit
-

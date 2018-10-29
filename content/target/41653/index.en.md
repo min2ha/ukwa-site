@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Maunsel House
-
 Maunsel House is a magnificent 13th Century Manor set in 100 acres of stunning parkland at the heart of sprawling 2,000 acre estate, compromising of farms, lakes, woodlands, walnut groves, orchards, Somerset Levels and Moors, cottages and ancient barn.

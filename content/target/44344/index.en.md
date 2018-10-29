@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Edinburgh Quartet
-
 Site of a classical music performing, touring and academic teaching ensemble based in Edinburgh, Scotland.

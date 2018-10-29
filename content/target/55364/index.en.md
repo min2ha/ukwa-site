@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Filmuphigh
-
 Filmuphigh is a creative video production team based in Snowdonia, North Wales.

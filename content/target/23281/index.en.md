@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martyn Ford (@MartynUkip) on Twitter (UKIP candidate for Swansea West)
-

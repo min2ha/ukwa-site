@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 'I know I voted for me': Angry socialist who got NO votes at General Election demands recount  
-
 None

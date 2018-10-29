@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women in Music (WiM)
-
 None

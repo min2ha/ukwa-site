@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newham LINk
-
 None

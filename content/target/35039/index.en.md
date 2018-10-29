@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Konrad-Adenauer-Stiftung
-
 The Konrad-Adenauer-Stiftung (KAS) is a political foundation. It focuses on consolidating democracy, the unification of Europe and the strengthening of transatlantic relations, as well as on development cooperation. 

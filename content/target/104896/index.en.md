@@ -10,6 +10,4 @@
   "start_date": "2005-05-23T00:00:00Z"
 }
 
-# Purple Sage
-
 This website is provided as an information resource for those interested in medicinal herbs and their applications. 

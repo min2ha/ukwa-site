@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# One Workplace Equal Rights
-
 The Scottish Trades Union Congress' One Workplace Equal Rights project.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Rhod Gilbert
-
 Welsh sensation Rhod Gilbert is one of the UK's leading stand-up comedy talents. He has enjoyed many successful years as a star of television and radio and continues to uphold his esteemed reputation as a prolific writer and first-class live performer.

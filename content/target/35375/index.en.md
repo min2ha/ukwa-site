@@ -10,8 +10,6 @@
   "start_date": "2016-02-17T09:00:00Z"
 }
 
-# Federation of Master Builders, The (FMB)
-
 The Federation of Master Builders (FMB) is a UK trade association established in 1941 to protect the interests of small and medium-sized building firms.
 
 The FMB is independent and non-profit-making, lobbying for members' interests at both national and local levels.

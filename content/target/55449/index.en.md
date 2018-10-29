@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: How does the Irish border affect the Brexit talks?
-

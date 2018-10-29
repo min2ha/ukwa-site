@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol Branch UKIP
-
 Website of Bristol Branch of UKIP, providing information on UKIP, UKIP representatives and candidates in Bristol, and latest UKIP news.

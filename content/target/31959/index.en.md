@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Broxbourne Borough Council
-
 Provides information about the services, activities and policies of Broxbourne Borough Council

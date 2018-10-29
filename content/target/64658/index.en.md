@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Inverness-shire Provincial Grand Lodge
-
 Site of the provincial grand lodge of freemasonry, affiliated to the Grand Lodge of Scotland, in the historic county of Inverness (Highland).

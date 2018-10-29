@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# North East Fife Liberal Democrats
-
 North East Fife Liberal Democrats site also contains information about Willie Rennie, the leader of the Scottish party, and member of the Scottish Pariament for Mid Scotland and Fife.

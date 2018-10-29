@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Davies on Facebook
-
 Conservative candidate for Monmouth

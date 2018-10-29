@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Policing Insight
-
 Policing Insight is published by CoPaCC, an independent organisation established shortly after the first Police and Crime Commissioner (PCC) elections in November 2012 to monitor policing governance in England and Wales.

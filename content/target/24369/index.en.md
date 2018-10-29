@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Climate change ignored by politicians, say experts
-
 None

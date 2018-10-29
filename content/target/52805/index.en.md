@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# English Geodiversity Forum
-
 The English Geodiversity Forum is a collective voice for England’s geodiversity and is open to all. 

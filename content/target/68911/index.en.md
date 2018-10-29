@@ -10,6 +10,4 @@
   "start_date": "2018-07-17T09:00:00Z"
 }
 
-# Nigel Pugh Photography
-
 Nigel Pugh is a Cardiff based photograoher originally from mid Wales. He has also campaigned for, promoted and supported many environmental organisations and much of his work reflect the causes he supports.

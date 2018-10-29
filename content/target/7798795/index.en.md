@@ -10,5 +10,3 @@
   "start_date": "2008-06-04T00:00:00Z"
 }
 
-# Intra-governmental Group on Geographic Information (IGGI)
-

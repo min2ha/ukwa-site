@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Caneuon Gwerin: Archwilio ac arddangos caneuon Gwerin o Gymru / Exploring and showcasing folk songs from Wales 
-
 Blog on Welsh Folk Music by Ffion Mair Thomas, a young folk singer originally from Wales who has won several singing awards including third prize in the 2012 Trad to Mad competition and Best Celtic Folk Singer at Llangollen Eisteddfod 2011.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# 38 Degrees: Continue the review into abortion clinic harassment
-
 A petition published in 2018 to Home Secretary Sajid Javid  to publicly confirm that he will continue with the Home Office review into abortion clinic harassment and publish the findings of the initial review as soon as possible , listen to the voices and experiences of women who have gone through this abuse and act on the review’s findings.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside Politics: Out campaign hunts for leader
-
 Column by Macer Hall

@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# UK Cards Association
-
 The UK Cards Association is the trade body for the card payments industry in the UK, representing financial institutions which act as card issuers and acquirers. Members of the Association account for the vast majority of debit and credit cards issued in the UK - issuing in excess of 56 million credit cards and 95 million debit cards - and cover the whole of the payment card acquiring market.

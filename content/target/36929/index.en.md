@@ -10,6 +10,4 @@
   "start_date": "2016-03-10T09:00:00Z"
 }
 
-# Oxford Union, The
-
 A website for the Oxford Union Society, commonly referred to simply as the Oxford Union, it is a debating society in the city of Oxford, England, whose membership is drawn primarily from the University of Oxford.

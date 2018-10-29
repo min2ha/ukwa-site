@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Museums Association: Forth Bridge becomes World Heritage Site
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Josie Russell
-
 Josie Russell is a freelance textile artist based in Gwynedd.

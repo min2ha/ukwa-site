@@ -11,6 +11,4 @@
   "subject": "SmashFest UK"
 }
 
-# maths.com
-
 Primary school Mathematics site. Nominated by a Smashfest 2015 visitor, who commented: I like playing the fun games and learning too.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Community Foundation for Surrey
-
 The Community Foundation for Surrey is an independent charitable trust established in 2005 to inspire local giving for local needs. They work with donors who want to give something back to their local communities and voluntary groups providing vital services for local people and disadvantaged individuals.

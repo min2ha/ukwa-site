@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady and St Joseph's, Glenboig on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of Our Lady and St Joseph's, Glenboig, Lanarkshire.

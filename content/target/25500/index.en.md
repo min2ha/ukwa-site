@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories are becoming the party of ethnic diversity – Labour has to respond
-
 None

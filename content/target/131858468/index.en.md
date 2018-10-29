@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Bath and North East Somerset
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Salisbury is the only UK city in Lonely Planet top 10 must-see places in the world
-

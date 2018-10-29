@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Doing Well, Doing Better – Standards for Health Services in Wales
-
 ‘Doing Well, Doing Better – Standards for Health Services in Wales’ set out the Welsh Assembly Government's common framework of standards to support the NHS and partner organisations in providing effective, timely and quality services across all healthcare settings. The revised standards came into force the 1st April 2010. 

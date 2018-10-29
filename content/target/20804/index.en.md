@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tommy Sheppard (@TommySheppard) on Twitter
-
 Twitter profile of Tommy Sheppard, Scottish National Party candidate for Edinburgh East in the 2017 general election.

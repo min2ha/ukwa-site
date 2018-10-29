@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Louche Theatre
-
 Louche Theatre is a theatre company based in Aberystwyth.

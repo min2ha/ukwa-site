@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Love Scotland, Vote No (Clare)
-
 Better Together post a video at 7.38pm on 17th September, 2014.

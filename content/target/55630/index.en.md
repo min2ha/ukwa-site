@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The:Too much time on web 'gives children mental health problems'
-
 News article regarding Public Health England said children who spend too long on the internet face social problems such as loneliness, depression and anxiety

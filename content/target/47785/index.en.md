@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# FSB (Federation of Small Business) Wales 
-

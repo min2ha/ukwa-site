@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Chris Baugh
-
 The official website of Chris Baugh, a PCS (the Public and Commercial Services Union) representative.

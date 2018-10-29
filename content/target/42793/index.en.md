@@ -10,5 +10,3 @@
   "start_date": "2016-06-11T10:00:00Z"
 }
 
-# Hillsborough Justice Campaign
-

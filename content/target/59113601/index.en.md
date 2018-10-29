@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Spitafileds Life
-
 Blog about London.

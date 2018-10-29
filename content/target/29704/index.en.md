@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish News: Austerity measures 'at odds with ideals of Rising'
-

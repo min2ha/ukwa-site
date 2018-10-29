@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Dealing with Cancer - OIAS - Omagh Independent Advice Service
-

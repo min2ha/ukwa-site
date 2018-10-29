@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Roald Dahl 100 in Wales
-
 A Literature Wales website commemorating the life of Roald Dahl, in particular his links with Wales. 

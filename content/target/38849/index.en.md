@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Caz Paul (@RebelWithACoz) on Twitter
-
 Twitter profile of Caz Paul, the Scottish Libertarians list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

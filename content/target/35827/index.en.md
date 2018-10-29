@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson and David Cameron: How a rivalry that began at Eton spilled out on to the main stage of British politics
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Southside Fringe Festival
-
 Site of an annual music and arts festival taking place throughout the south of the city of Glasgow, the Southside.

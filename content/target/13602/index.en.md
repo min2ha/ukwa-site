@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Reform Scotland
-
 Reform Scotland is a public policy institute. Its objective is to set out policies in Scotland that deliver increased economic prosperity and more effective public services based on the traditional Scottish principles of limited government, diversity and personal responsibility.

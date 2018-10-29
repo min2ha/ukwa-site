@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Asian Enterprise
-
 The UK's Leading Free Asian Enterprise Magazine. Interviews with some of the most influential Asian business people around the world. Started by Karim Ullah in 2007.

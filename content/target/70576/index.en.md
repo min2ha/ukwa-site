@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wallasey Rugby Union Football Club on Pitchero
-
 The official website of Wallasey Rugby Union Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Tayforth Camanachd on Facebook
-
 Facebook page for a shinty club based in Perth.

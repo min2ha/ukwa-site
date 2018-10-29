@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ARENA Senter for europaforskning
-
 ARENA conducts theoretically founded and empirically informed research on the emerging European political order.

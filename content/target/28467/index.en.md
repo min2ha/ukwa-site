@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Assessing Institutional Digital Assets (AIDA)
-
 Assessing Institutional Digital Assets (AIDA) is a self-assessment tool for describing institutional readiness and capabilities for digital asset management and digital preservation. The tool takes into account different states of institutional preparedness when recommending options or highlighting threats to assets. 

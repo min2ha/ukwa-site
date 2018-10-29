@@ -10,7 +10,5 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Arddangosfeydd LLGC (@ArddangosfaLLGC) on Twitter 
-
 
 The Welsh language twitter feed provides the latest news on exhibitions at the National Library of Wales.

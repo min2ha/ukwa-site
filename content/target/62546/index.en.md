@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Irish Film Festival London
-
 Irish Film London runs events through the year, including the film section of the St. Patrick's Day Festival with the Mayor of London and the annual Irish Film London Awards. Its activities then culminate in the 5 day Irish Film Festival London in November each year.

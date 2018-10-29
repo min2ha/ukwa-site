@@ -10,6 +10,4 @@
   "start_date": "2017-05-12T09:00:00Z"
 }
 
-# Manchester High School for Girls (MHSG)
-
 Manchester High was founded in 1874 and has always focused on education for girls.

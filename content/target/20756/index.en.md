@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanjit Jhund on Facebook
-
 This is the Facebook page of Amanjit Jhund, the Labour Party candidate for East Dunbartonshire in the UK General Election on the 7th May 2015.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Coyle on Facebook (SDLP candidate for Fermanagh and South Tyrone)
-

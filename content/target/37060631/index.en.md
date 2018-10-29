@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Bray's Duckhouse Blog
-

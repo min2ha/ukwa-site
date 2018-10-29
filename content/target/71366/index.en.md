@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# First look inside new V&A Dundee ahead of public opening
-
  Article about the opening of the V&A Dundee. 

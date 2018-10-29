@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Worcester Music Festival
-
 Website for the Worcester Music Festival.

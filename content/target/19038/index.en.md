@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City of London: Magna Carta takes centre stage at City of London Heritage Gallery
-

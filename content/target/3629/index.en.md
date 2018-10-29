@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Impartial Reporter (Enniskillen)
-
 None

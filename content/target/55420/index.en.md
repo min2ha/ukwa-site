@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Horeb United Reformed Church, Dyserth
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Friends of Lincoln's Inn Fields
-

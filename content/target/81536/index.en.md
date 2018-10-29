@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Make Me Up Film - Rachel Maclean
-
 Website to promote the film "Make Me Up", directed by Rachel Maclean. "Make Me Up was co-commissioned by 14-18 NOW, a major cultural programme taking place across the United Kingdom to mark the centenary of the First World War."

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South London and Maudsley NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Cameron sets June date for UK vote
-
 Website for the BBC News service 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Shetland Roller Skating
-
 Site of a roller derby club based in Shetland.

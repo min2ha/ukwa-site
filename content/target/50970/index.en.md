@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wellspring Christian Centre, Rhyl
-
 Wellspring Christian Centre, Rhyl was established in 1993 and are now based at the former Welsh Presbyterian Church.

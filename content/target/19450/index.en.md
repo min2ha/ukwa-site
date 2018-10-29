@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: History buffs' rare chance to see 'Magna Carta'
-

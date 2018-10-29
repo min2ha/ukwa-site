@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jil Murphy SNP: Lothian Regional List Candidate
-
 Jil Murphy is the Scottish National Party list candidate for the Lothian Region in the 2016 Scottish Parliamentary elections.

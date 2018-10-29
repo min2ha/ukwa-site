@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Stephen Page Sculpture
-
 Stephen Page is a sculpturist aking contemporary minimalist sculptures of animals in bronze.

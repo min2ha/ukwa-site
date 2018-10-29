@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Liberal Democrats on Facebook
-
 Facebook page of Haringey Liberal Democrats

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Muslim Council of Britain (MCB):British Muslims and the European Union Referendum: The Muslim Council of Britain’s Position
-
 Statement presenting The Muslim Council of Britain’s Position on the EU referendum

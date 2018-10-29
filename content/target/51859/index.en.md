@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Ochils Mountain Rescue Team 
-
 Site of a voluntary and charitable organisation that operates as a mountain rescue service in the Ochil hills in Stirlingshire and Perthshire.

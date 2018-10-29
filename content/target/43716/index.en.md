@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# James Davies (Conservative Member of Parliament for the Vale of Clwyd)
-

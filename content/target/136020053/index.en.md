@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Bury
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Berkshire NHS Foundation
-
 None

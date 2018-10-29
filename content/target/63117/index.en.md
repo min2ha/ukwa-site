@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Buff Natural Body Care
-
 BUFF Nautral Body Care have blended an exquisite range of natural body oils, Bath Soaks, Candles and body scrubs to uplift, entice and awaken your senses.

@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# BVI Abroad - Hurricane Irma on Facebook
-

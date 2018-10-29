@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Russian Revolution: 1917-2017 on Facebook
-
  This page, set up by supporters of the Socialist Party and the Committee for a Workers' International (CWI) will publish articles and information relating to the Russian Revolution and it's significance today.

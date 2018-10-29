@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Fletcher (bf130392) on Twitter
-
 Twitter profile of Benjamin Fletcher, judo player for Team England at the Glasgow 2014 Commonwealth Games.

@@ -10,7 +10,5 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Gerddi Plas Brondanw Gardens
-
 Plas Brondanw was given to Sir Clough Williams-Ellis by his father in 1902. 
 The gardens at Plas Brondanw, near Penrhyndeudraeth, are a fine example of Sir Clough Williams-Ellis talent for creative landscape design.

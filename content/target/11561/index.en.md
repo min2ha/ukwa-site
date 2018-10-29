@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scottish Target Shooting
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Lawyers for Britain: [Letter from Geoffrey Cox on legal aspects of the EU-UK Common Rule Book]
-
 Letter written to clarify the issues of law that affect the proposal contained in the White Paper for a “common rule book” relating to trade in goods between the EU and the United Kingdom.

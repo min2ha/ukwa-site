@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Science Blog
-
 The blog publishes relevant updates about the latest scientific developments in areas such as environmental and biomedical science, as well as the impact of policy on these areas. It also gives scientific information, up-to-date developments in publishing, the use of research data, how researchers use information and the role of libraries. Some posts describe both the events the curators attend and those that they host, including the TalkScience series. 

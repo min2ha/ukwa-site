@@ -10,5 +10,3 @@
   "start_date": "2014-01-20T06:00:00Z"
 }
 
-# NHS Lanarkshire
-

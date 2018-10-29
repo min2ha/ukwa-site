@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Financial Times, The: A shambles marks the centenary of the Rising that divided Ireland
-

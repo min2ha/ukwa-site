@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Modena Group
-
 The Modena Group comprises of a diverse group of companies involved in motorsport and specialist automotive services.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Balls: Labour has fairer plan than Tories who plot to cut top rate of tax AGAIN 
-
 None

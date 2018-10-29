@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Cox (Socialist Labour candidate for Torfaen)
-

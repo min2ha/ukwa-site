@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kishan Devani (Conservative)
-
 Kishan Devani stood as Conservative candidate for Leicester East at the 2015 General Election but was not elected.

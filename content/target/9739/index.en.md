@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Annesley George Abercorn (Conservative) on Facebook
-
 None

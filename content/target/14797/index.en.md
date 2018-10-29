@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alston Moor Community Website 
-
 None

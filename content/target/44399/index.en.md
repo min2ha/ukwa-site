@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Scottish Greyhound Sanctuary
-
 Site of a Scottish charity set up to rescue and rehome greyhounds and lurchers.

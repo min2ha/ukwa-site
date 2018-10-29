@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Get Britain Out (@GetBritainOut) on Twitter
-
 Campaign favouring leaving the European Union

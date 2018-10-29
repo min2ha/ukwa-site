@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T08:00:00Z"
 }
 
-# Nutshell Magazine
-
 Nutshell is an independent literary magazine. It is a small, sturdy space for poetry, short stories, interviews, illustration, art, and photography to meet and work together. The hard copy is published half yearly.

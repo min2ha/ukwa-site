@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christine Ohuruogu (chrissyohuruogu) on Twitter
-
 <p>The twitter profile of athlete Christine Ohuruogu, member of the women's 400 metre relay for Team England in the Glasgow 2014 Commonwealth Games.</p>

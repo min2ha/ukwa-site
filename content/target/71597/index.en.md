@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millom Rugby Union Football Club on Pitchero
-
 The official website of Millom Rugby Union Football Club.

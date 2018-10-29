@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Finally, nothing is holding David Cameron back. So what will he do?
-
 None

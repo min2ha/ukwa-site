@@ -10,6 +10,4 @@
   "start_date": "2015-06-15T05:00:00Z"
 }
 
-# Sean McP Blogfeast
-
 Sean McPartlin, a teacher and writer, blogs on the subjects of faith, education, arts, sports and travel.

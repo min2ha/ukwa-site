@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Cancer Survivorship
-
 Website giving information regarding medical treatments for post cancer survivors with highlights on treatment obtainable in European cancer centres.

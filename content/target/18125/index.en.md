@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron supports repeal of hunting ban in bid for countryside voters in election
-
 None

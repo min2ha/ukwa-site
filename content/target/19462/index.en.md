@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Mayor joins city clean-up ahead of Magna Carta celebrations
-

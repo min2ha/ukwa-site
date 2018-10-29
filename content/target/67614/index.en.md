@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Pages of Hackney
-
 Opened in 2008, Pages of Hackney is a small bookshop on the Lower Clapton Road, Hackney, London.

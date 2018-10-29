@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Mold Mission Area, Church in Wales
-

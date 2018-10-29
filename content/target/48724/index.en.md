@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Rio 2016: amid the politics Olympics were a kaleidoscopic fortnight of sport
-
 An article written by Andy Bull on Tuesday 27 December 2016.

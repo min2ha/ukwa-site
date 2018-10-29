@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harlequin Amateurs Rugby Club on Pitchero
-
 The official website of Harlequin Amateurs Rugby Club.

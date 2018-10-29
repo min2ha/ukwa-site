@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: We're sick of the Brussels bully-boys! German bosses' thundering message to EU leaders as they demand job take priority over ideology in the battle over Brexit
-
 Based on discussions with business leaders in Bavaria, argues that German firms are anxious to avoid a "no deal" Btexit, which would be catastrophic for trade and jobs. They are keen for the EU to show more flexibility and respect for Britain.

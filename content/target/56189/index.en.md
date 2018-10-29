@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Jazz Carlin
-
 Jazz Carlin is a double Olympic Silver medallist and a Gold medal winner for Wales at the Glasgow Commonwealth Games. 

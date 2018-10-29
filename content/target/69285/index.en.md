@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# WorldSkills UK
-
 WorldSkills UK is all about helping young people go further, faster in their careers, gaining the skills that employers need most. We help young people from all backgrounds get the best start in work and life.

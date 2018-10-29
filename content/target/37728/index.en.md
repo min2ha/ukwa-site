@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Global Britain: A global Britain: the recommended 'Brexit' option
-

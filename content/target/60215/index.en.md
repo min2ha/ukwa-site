@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Aberdeen and the Great War
-
 Welcome to Aberdeen and the Great War. This blog is an archive of the work carried out by staff and pupils at St Machar Academy Aberdeen to explore the experiences of people from Aberdeen and the North East of Scotland as part of the 100 years commemoration of the Great War.

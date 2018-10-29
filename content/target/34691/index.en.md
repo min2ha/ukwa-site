@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aileen McLeod MSP
-
 Aileen McLeod is Scottish National Party member of the Scottish Parliament for South Scotland and Minister for Environment, Climate Change and Land Reform.

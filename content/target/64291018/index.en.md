@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Amputee & Me
-
 None

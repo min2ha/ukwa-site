@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornish Witchcraft by Gemma Gary
-
 None

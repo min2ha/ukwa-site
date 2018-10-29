@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# MTP2001.co.uk
-
 Website for the Mark Thomas Product 2001, focusing on data protection and subject access requests.

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Prinde in Football
-
 Site of an alliance of LGBT football supporters groups in England and Wales established to share good practice, help new groups form and represent needs and views to football administrators and others.

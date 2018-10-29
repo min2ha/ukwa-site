@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Green Alliance
-
 Environmental thinktank that works "to ensure UK political leaders deliver ambitious solutions to global environmental issues".

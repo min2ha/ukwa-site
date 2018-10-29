@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Crabb (Conservative candidate for Preseli Pembrokeshire)
-
 Stephen Crabb stood as Conservative candidate for Preseli Pembrokeshire at the 2005 general election and was elected to serve as MP. He was subsequently re-elected in 2010, 2015 and 2017.  He made an unsuccessful bid for the Conservative leadership after the resignation of David Cameron in 2016

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# European Movement Sc (@euromovescot) on Twitter
-

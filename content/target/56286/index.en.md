@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: If our chest-puffing Chancellor doesn't believe in a glorious future after Brexit, he should quit and join the Lib Dems
-
 Argues that politicians and civic leaders, including Chancellor Philip Hammond and the Archbishop of Canterbury, are doing all they can to make Brexit fail

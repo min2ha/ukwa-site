@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Church in Wales  St Peter, Dinas Powys  St Andrew, St Andrews Major
-

@@ -10,6 +10,4 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Red Road Flats
-
 A site recording local history and artisitic responses to the Red Road flats in Glasgow, created as part of a project Glasgow Housing Association and Glasgow Life project.

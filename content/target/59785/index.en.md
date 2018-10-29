@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Borders Rugby
-
 Site of a fan of rugby union football, and the clubs playing in the Scottish Borders.

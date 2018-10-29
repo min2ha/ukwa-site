@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret McDougall (Margmsp) on Twitter
-
 Margaret MacDougall was Labour Member of the Scottish Parliament for West Scotland  (2011-2016).

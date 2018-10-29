@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kenilworthrfc (@kenilworthrugby) on Twitter
-
 The official Twitter account of Kenilworth Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# WithBannersHeldHigh (@BannersHeldHigh) on Twitter
-
 A trade union event based in Wakefield, Yorkshire.This is the event official Twitter account.

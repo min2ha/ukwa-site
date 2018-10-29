@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Ireland 2016 
-
 This is primary 2016 commemorative website. It contains the major programme of events for the year as well as the programmes of local government authorities. It also contains historical reflections on the aims and aspirations of the 1916 Easter Rising and the approaches to engagement and consultation undertaken to inform the commemorations.

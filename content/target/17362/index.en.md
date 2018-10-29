@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Young People with ME (AYME)
-
 The Association of Young People with ME (AYME) is a UK charity that provides support for children and young people aged up to 26 who have M.E./CFS. AYME is also here to help and support parents, carers and professionals in health, education and social care.

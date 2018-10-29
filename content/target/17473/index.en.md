@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Music: the UK Music Manifesto
-
 UK Music promotes the interests of record labels, songwriters, musicians, managers, publishers, producers, promoters and collecting societies through campaigns and events. It also draws up policy to deal with issues impacting the industry, engages in political lobbying to ensure any new legislation benefits its members and undertakes research to track market trends and forecast future business opportunities. 

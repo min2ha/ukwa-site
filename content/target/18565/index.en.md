@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Pollard (@Martin_Pollard) on Twitter
-
 Martin Pollard is Party of Wales Prospective Parliamentary Candidate for Cardiff Central

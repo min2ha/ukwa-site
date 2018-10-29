@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# John Green Fine Art at glasgowgallery.com
-
 John Green Fine Art in Glasgow runs its gallery alongside continuous exhibitions of traditional and contemporary fine art.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stop the EU
-
 Campaigning for the UK to leave the EU

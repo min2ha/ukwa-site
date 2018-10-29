@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michael Desmond (Labour candidate for Faversham and Mid Kent)
-

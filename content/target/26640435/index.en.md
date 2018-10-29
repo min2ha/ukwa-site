@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:16.042169", 
+  "date": "2018-10-29T13:22:23.307287", 
   "open_access": true, 
   "target_url": "http://www.manchester.gov.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "Manchester City Council", 
-  "record_id": "20181029T125516/gvAyEITu8Ww7ZZBLBWL5AA==", 
+  "record_id": "20181029T132223/gvAyEITu8Ww7ZZBLBWL5AA==", 
   "publisher": "manchester.gov.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# Manchester City Council
 
 None

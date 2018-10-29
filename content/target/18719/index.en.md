@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Declaration of Independence and Bill of Rights to go on show in UK 
-

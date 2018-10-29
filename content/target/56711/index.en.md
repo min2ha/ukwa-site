@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gay News Archive Project
-
 Gay News was a fortnightly newspaper in the United Kingdom founded in June 1972. This project aims to digitise the newspapers as they were presented at the time, while allowing for making them accessible to screen readers and other accessibility tools.

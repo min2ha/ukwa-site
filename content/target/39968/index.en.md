@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hammersmith and Fulham in World War One
-
 Project working with a primary school in the borough on a project to research the impact of the First World War on Hammersmith and Fulham.

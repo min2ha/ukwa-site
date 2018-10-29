@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Huffington Post: Scotland's Referendum
-
 None

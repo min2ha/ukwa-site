@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Royal College of Chiropractors, The
-
 The Royal College of Chiropractors (RCC) is an apolitical professional membership body. 

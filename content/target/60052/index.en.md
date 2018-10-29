@@ -10,6 +10,4 @@
   "start_date": "2018-01-05T09:00:00Z"
 }
 
-# Lodge St. Clair of Dysart 520
-
 Site of a masonic lodge located in Dysart, Fife and affiliated with the Grand Lodge of Scotland.

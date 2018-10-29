@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Sir Robert Worcester: The Magna Carta is 'the foundation of liberty'
-

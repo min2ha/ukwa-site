@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Moors for the Future
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Working Class Movement Library (WCML): Men's League for Opposing Woman Suffrage
-
 A blog post about the Men's League for Opposing Woman Suffrage

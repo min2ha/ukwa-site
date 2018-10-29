@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Korean UK Medical Association (KUMA)
-
 KUMA is a non-profit organisation committed to supporting the community of Korean doctors practising in the UK.

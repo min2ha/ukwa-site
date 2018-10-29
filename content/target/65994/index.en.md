@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Scots in the Great War Living History Society on Facebook
-
 Site of a society researching and informing on the military, social and economic impact of the Great War on Scotland.

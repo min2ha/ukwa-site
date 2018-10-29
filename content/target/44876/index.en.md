@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Tom Anderson Books
-
 Tom Anderson is a novelist, surf and travel writer and listed in the Literature Wales' Writers of Wales database.

@@ -10,5 +10,3 @@
   "start_date": "2013-02-18T00:00:00Z"
 }
 
-# St John The Baptist Church Glyncorrwg
-

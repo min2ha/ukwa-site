@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Scientific and Medical Network (SMN), The
-
 The Scientific and Medical Network (SMN) is a membership organization offering a platform for the exploration of themes and subjects beyond mainstream understanding of the intersection of science, spirituality, consciousness and human experience.

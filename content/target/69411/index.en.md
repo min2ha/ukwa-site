@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Intelligent Growth Solutions
-
 Argricultural technology company selling vertical farming design and equiment to support indoor farming techniques.

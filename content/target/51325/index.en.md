@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Church of England Record Society
-
 The Church of England Record Society was founded in 1991 and aims to promote interest in and knowledge of the Church of England from the 16th century onwards.  Since 1994, the Society has published volumes illustrating all periods of church history since the Reformation.

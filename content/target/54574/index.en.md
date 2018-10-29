@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llandaff Cathedral Guild of Ringers
-

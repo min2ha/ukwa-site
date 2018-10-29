@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: EU Referendum Question Time specials and youth debate panellists
-
 BBC Press Release.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Llanelli Railway Goods Shed Trust | Ymddiriedolaeth Sied Nwyddau Rheilffordd Llanelli
-
 The former Llanelli Railway Goods Shed is a Grade II listed building. It was built in 1875 and is one of the few surviving examples in Wales. 

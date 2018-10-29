@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Penllyn Community Council website
-
 Pennllyn Community Council is located north of Cowbridge and comprises three Community Wards - Penllyn, Llansannor and Ystradowen.

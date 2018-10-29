@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Annan Old Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Annan, Dumfries and Galloway.

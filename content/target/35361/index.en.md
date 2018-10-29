@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ochil and South Perthshire: Annabelle Ewing
-

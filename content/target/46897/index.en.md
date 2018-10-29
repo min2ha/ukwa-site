@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Banbury Guardian: Deadline to register to vote in EU Referendum
-
 Article about those who can register to vote for the EU Referendum.

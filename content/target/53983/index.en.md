@@ -10,5 +10,3 @@
   "start_date": "2017-06-01T09:00:00Z"
 }
 
-# Keep Cardiff Tidy | Cadw Caerdydd Daclus
-

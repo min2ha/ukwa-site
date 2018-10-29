@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop The War Coalition 
-
 Stop the War was founded in September 2001 in the weeks following 9/11, when George W. Bush announced the "war on terror". Stop the War has since been dedicated to preventing and ending the wars in Afghanistan, Iraq, Libya and elsewhere.

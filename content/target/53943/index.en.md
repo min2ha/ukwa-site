@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jonathan Edwards (@JonathanPlaid) on Twitter
-
 Jonathan Edwards is the Plaid Cymru candidate for Carmarthen East and Dinefwr at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# FalkirkDigCW2014 (FalkirkDigCW201) on Twitter
-
 A Falkirk area Digital Commonwealth twitter account.

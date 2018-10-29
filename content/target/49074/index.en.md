@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Victoria Infirmary Radio (VIR)
-
 Victoria Infirmary Radio broadcast to the staff and patients of the Victoria Infirmary from 1995 until the closure of the hospital in 2015.

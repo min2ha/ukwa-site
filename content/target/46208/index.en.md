@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Jessica Lloyd-Jones
-
 Jessica Lloyd-Jones is north Wales based visual artist 'working at the intersection of art, science, technology and nature'.

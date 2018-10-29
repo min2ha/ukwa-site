@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Grant (Conservative)
-
 Helen Grant stood as Conservative candidate for Maidstone and the Weald at the 2015 General Election. She was first elected to serve as MP for Maidstone and the Weald in 2010 and re-elected in 2015.

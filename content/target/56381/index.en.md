@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Foreign and Commonwealth Office: New powers to introduce tough sanctions against individuals, organisations and foreign governments
-
 The government unveils new plans on sanctions for post-Brexit Britain. The Sanctions Bill would ensure the UK has the necessary legal powers to implement sanctions after Brexit, as well as greater flexibility in choosing when and how to introduce new measures. The UK will also continue to play a central role in negotiating global sanctions as a member of the UN Security Council.

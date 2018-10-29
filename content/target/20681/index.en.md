@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Mumford on Facebook
-
 The Facebook page of David Mumford, Scottish Green Party Parliamentary candidate for Angus in the 2015 UK General Election.

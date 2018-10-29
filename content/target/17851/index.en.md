@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip's election manifesto is still a mystery but here are 8 of their policies you need to know
-
 None

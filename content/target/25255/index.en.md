@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Voters deserting Ukip in marginal seats as the general election campaign hots up
-
 None

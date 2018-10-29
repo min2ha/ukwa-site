@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The bishops have a point: our politics is stale and unambitious
-
 None

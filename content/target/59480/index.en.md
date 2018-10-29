@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Agri-Food and Biosciences Institute:  Impacts of Alternative Post-Brexit Trade Agreements on UK Agriculture: Sector Analyses using the FAPRI-UK Model
-
 Brexit will have important implications on UK agricultural commodity markets due to potentially significant changes to trade flows. Analysis undertaken by economists within the Agri-Food and Biosciences Institute (AFBI, Professor John Davis, Dr Siyi Feng and Dr. Myles Patton) in conjunction with the University of Missouri (Dr. Julian Binfield) has quantified the sectoral impacts on UK agriculture of alternative trade agreements following Brexit using the widely-respected FAPRI-UK economic modelling system. 

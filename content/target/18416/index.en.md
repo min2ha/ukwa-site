@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour candidate rejects Tony Blair's £1,000 donation
-
 None

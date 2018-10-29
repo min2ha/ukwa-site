@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Fyne Ales
-
 Site of a brewer based in Argyll & Bute.

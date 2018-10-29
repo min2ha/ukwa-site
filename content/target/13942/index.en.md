@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# West Dunbartonshire Council
-

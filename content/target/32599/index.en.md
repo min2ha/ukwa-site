@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Future of Cyber Security, The
-
 The Future of Cyber Security is a conference taking place in London.

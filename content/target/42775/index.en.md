@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Squatters Network of Brighton (and Hove actually)  SNOB(AHA)
-
 Network supporting squatting and recording history of squatting in Brighton and Hove

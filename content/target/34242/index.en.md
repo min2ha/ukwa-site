@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Trinity College London
-
 Trinity College London is an international exam board providing qualifications across a spectrum of communicative skills.

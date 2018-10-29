@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sajid Javid (@sajidjavid) on Twitter (Conservative politician)
-
 Twitter feed of Sajid Javid, Conservative MP for Bromsgrove, appointed to succeed Amber Rudd as Home Secretary in May 2018.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Jeremy Corbyn has sold out and joined the Europhile elite
-

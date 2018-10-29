@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Geocaching Association of Great Britain
-
 The GAGB strives to be at the heart of the geocaching community in the UK. They organise events to keep in touch with cachers and encourage folk to participate in the GAGB.

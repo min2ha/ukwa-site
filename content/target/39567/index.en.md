@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mike MacKenzie on Facebook
-
 Facebook profile of Mike MacKenzie, Scottish National Party list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

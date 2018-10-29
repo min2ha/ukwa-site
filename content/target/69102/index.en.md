@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: Tomorrow's World: What's it really like to be transgender?
-
 A BBc page on the experiences of transgender people

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Walking Britain
-
 None

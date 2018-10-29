@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Layers of London
-
 Layers of London brings together, for the first time, a significant collection of digitised historic maps, photos and other information provided by key partners across London.

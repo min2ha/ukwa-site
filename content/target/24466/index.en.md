@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Tory pledge over English laws veto condemned in Scotland
-
 None

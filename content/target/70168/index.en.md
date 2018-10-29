@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chimney Corner Ladies (@ccl_fc) on Twitter
-
 The official Twitter Account of Chimney Corner Ladies Football Club.

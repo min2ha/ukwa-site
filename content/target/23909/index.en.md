@@ -10,5 +10,3 @@
   "start_date": "2015-05-16T09:00:00Z"
 }
 
-# In brief : National Assembly for Wales Research Service Blog | Pigion : Blog Gwasanaeth Cynulliad Cenedlethol Cymru
-

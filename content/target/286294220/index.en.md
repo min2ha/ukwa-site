@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scokendia
-
 <p>The Scokendia Ensemble brings young musicians from Scotland, Kenya and India together to connect, collaborate and perform during Culture 2014. The ensemble will perform three world premieres at the Royal Conservatoire of Scotland, as well as at Glasgow Green, Kelvingrove Bandstand, Merchant City Festival, community venues with Live Music Now, and at the Aberdeen International Youth Festival.</p>

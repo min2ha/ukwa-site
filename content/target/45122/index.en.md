@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Daily Record: Andy Murray's stunning tennis gold helps boost Scotland's record breaking Olympics medal haul
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lets love life charity festival 2018
-
 Eventbride page advertising the lets love life charity festival 2018

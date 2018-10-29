@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Bemromach Distillery Co. Ltd
-
 Site of a whisky distiller and visitor attraction near Forres, Moray, Scotland.

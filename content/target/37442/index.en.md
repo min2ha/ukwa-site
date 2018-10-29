@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit fears in readers' words: 'Will I be deported after 40 years?
-
 The opinions and experience of Birtish migrants in the EU and and EU migrants to the UK

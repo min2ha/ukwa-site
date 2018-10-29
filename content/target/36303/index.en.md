@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# 10 points to consider about Brexit and the EU Referendum
-
 Blog post by Dr Andy Williamson

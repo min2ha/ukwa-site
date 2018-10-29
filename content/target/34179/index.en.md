@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Fishguard Arts Society
-
 Fishguard Arts Society supports all forms of the Arts with the aim of bringing the Arts to the wider public.

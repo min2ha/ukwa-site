@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T10:00:00Z"
 }
 
-# UK Bet Tips
-
 An online forum with tips for betting in sporting events with links to third party betting sites.

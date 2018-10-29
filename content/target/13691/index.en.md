@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Dumfries and Galloway Council : The Scottish Independence Referendum 2014
-
 None

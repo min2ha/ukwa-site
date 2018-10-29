@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Chisholm Hunter Limited
-
 Website of a Glasgow-based diamond merchant and jewellers.

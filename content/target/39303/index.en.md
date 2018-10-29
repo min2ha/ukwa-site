@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# A major street photography exhibition serving as a gateway to the centenary of WW1
-
 An easily-accessed and free street photography exhibition bringing sixty-six large-scale photographs of major WW1 battlefields to St James’s Park.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Cancer Genetics Group
-
 Cancer Genetics Group

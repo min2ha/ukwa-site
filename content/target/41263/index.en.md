@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clachnacuddin Football Club
-
 Site of Scottish football club based in Inverness, Highland, Scotland.

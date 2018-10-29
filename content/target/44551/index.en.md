@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Institute for Government keynote speech (21 July)
-
 Sir Amyas Morse, the Comptroller and Auditor General, argues that the civil service routinely fails to deliver major projects due to being over-committed. Brexit will add significantly to civil servants' workloads as they put new systems in place to fill the gap left by the EU. Brexit will have to be prioritised across government

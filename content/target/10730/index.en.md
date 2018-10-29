@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Dog's B'logs (Rufus Hound)
-
 None

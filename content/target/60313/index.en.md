@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Discuss Fossils
-
 An online enthusiast community forum concerned with fossils collecting in the UK. Discusses British fossils, recent finds, British fossil locations and various other related topics.

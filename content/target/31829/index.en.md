@@ -10,6 +10,4 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Plwm : Treftadaeth Ddiwydiannol Ucheldir Ceredigion | Plwm : The Heritage of Ceredigion' Upland 
-
 Heritage of Ceredigion' Upland 

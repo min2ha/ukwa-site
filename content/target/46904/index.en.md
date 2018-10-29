@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Liberation 
-
 Liberation is a small volunteer led organisation run predominantly by students and young professionals.

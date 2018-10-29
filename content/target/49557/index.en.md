@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'Record hate crimes' after EU referendum
-
 A majority of police forces in England and Wales saw record levels of hate crimes in the first full three months following the EU referendum, according to analysis by the Press Association.

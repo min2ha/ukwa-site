@@ -10,6 +10,4 @@
   "start_date": "2017-08-12T09:00:00Z"
 }
 
-# IAAF World Championships
-
 The IAAF World Championships, commonly referred to as the World Championships in Athletics, is a biennial athletics event organized by the International Association of Athletics Federations. Originally held every four years, first in 1983, the current two-year cycle began in 1991.

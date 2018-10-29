@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: New political party wants to make cannabis an election issue
-
 None

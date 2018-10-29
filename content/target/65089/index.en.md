@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Irish government hosts fourth all-island forum on Brexit
-
 The Irish government held an all-island forum examining the implications of Brexit on Monday April 30th 2018
 

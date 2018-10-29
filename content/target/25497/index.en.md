@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Three-minute election: The moment Ed Miliband grew up – video
-
 None

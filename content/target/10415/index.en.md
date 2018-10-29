@@ -10,6 +10,4 @@
   "start_date": "2014-05-02T00:00:00Z"
 }
 
-# Alexandra Phillips, Green Party on Facebook
-
 None

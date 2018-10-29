@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Conniff for Ross, Skye & Lochaber
-
 This is the website of Chris Conniff, the Labour Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

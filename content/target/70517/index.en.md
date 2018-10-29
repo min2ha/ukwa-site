@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Morison Memorial United Reformed Church
-
 Site of a Scottish United Reformed church located in Clydebank, Dumbartonshire.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Charity Retail Association
-
 Association for charities operating in the retail sector

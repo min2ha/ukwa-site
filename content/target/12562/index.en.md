@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scotland unveil lurid parade uniforms for Commonwealth Games opening ceremony | Mail Online
-
 <p>Article on the launch of Team Scotland’s parade uniforms for the opening cermony of Commonwealth XX from the Daily Mail 7/7/2014 featuring a number of photographs of the uniforms.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Margaret Greenwood (@MGreenwoodWW) on Twitter (Labour Politician)
-
 Margaret Greenwood stood as Labour candidate for Wirral West at the 2015 General Election and was elected as MP. She stood again for re-election in 2017 and was successful.

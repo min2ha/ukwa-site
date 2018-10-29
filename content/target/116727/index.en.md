@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Wigtown Scotland's National Book Town
-
 Site providing tourist and heritage information about the town of Wigtown, particularly focusing on the annual book festival.

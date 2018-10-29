@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equal Parenting Alliance
-
 The Equal Parenting Alliance is a UK political party, formed in February 2006. The aim is to promote a system of family justice in the UK that puts the needs and interests of children first.

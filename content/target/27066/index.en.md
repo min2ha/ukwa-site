@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Eventful: Forth Bridge 125: A view from the top in Inverkeithing, FIF - Mar 4, 2015 9:30 AM
-

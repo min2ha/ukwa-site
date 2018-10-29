@@ -10,5 +10,3 @@
   "start_date": "2012-02-16T00:00:00Z"
 }
 
-# Evaluation of Assessment Diaries and GradeMark at the University of Glamorgan
-

@@ -10,5 +10,3 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Suzie Ferguson on Facebook (Independent candidate for Reading West)
-

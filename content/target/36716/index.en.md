@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Occupy Design
-

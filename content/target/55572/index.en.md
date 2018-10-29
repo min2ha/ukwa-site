@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Eu Law Analysis: The Brexit talks: opening positions on the status of UK and EU citizens 
-
 One of the most high-profile issues relating to Brexit, which could potentially have the biggest direct impact on the lives of the greatest number of people, is the issue of what happens to UK citizens in the EU and EU citizens in UK after Brexit. This is one of the first issues to be addressed in Brexit talks, and both sides have now adopted their positions: the EU in the form of a Council decision on the mandate for the Commission negotiators, back on May 22, and the UK in the form of a UK government proposal, released on June 26.

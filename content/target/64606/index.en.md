@@ -10,7 +10,5 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Osian Gwent, modern • contemporary • expressionist • art
-
 "
 Osian Gwent is a contemporary artist who draws and paints figurative portraits and everyday life in an expressionist style. His main passion is to paint landscapes. "

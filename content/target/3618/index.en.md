@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Belfast NewsLetter
-
 A Belfast perspective on news, sport, what's on, lifestyle and more. Look for news and comment on Brexit from the point of view for Northern Ireland under the politics tab.

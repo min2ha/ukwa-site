@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# British Association for Music Therapy (BAMT), The
-
 The British Association for Music Therapy (BAMT) is the professional body for music therapists and a source of information, support and involvement for the general public.

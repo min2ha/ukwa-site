@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fallen Sons of Gainsborough
-
 Project to produce a cemetery trail leaflet, hold a re-dedication ceremony, and to mount a display about the soldiers and the restoration in the Cemetery Chapel and the local Heritage Centre.

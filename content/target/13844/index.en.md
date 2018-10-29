@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Council for Voluntary Organisations (SCVO)
-
 <p>The Scottish Council for Voluntary Organisations works to support third sector organisations in Scotland.</p>

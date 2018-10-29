@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# International Steam Pages
-
 A website publicising steam engine trains from around the world.

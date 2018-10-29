@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Movement for Justice by Any Means Necessary (@followMFJ) on Twitter
-
 Twitter account of Independent, integrated, youth-led civil & immigrant rights movement with extreme left wing views.

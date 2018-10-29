@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wise Words Festival
-
 Festival

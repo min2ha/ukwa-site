@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Festival of Museums
-
 Site of an annual three-day celebration of history, culture and arts during which museums of all shapes and sizes across Scotland host special events to showcase their unique collections and programmes. 

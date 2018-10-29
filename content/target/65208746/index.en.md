@@ -10,5 +10,3 @@
   "start_date": "2012-08-07T00:00:00Z"
 }
 
-# Ceredigion Art Trail
-

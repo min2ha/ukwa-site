@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# LSE British Politics and Policy: Scottish referendum live-blog
-
 <p>Live referendum blog from the London School of Economics, maintained by Joel Suss and Stuart Brown.</p>

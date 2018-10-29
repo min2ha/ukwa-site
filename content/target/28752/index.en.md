@@ -10,6 +10,4 @@
   "start_date": "2015-07-04T10:00:00Z"
 }
 
-# Soundworks
-
 Bafta award winning audio post production studios in Cardiff Bay.

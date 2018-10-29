@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Homeless Film Festival
-
 Website for the Homeless Film Festival

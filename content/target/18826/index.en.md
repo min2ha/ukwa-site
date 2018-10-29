@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: No, Prime Minister, Magna Carta is nothing like fish and chips: here's what it really says
-

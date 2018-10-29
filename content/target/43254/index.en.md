@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BiP Solutions: EU Referendum Procurement Legislation Implications
-

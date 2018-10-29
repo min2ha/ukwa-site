@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sanjoy Sen (@SenAbnorth) on Twitter
-
 The Facebook page of Sanjoy Sen, the Conservative Parliamentary Candidate for Aberdeen North.

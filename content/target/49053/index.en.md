@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Orkney Library & Archive
-
 Site of the local libraries and archives for Orkney, Scotland.

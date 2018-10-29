@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Joseph's and St Mary's, Penarth and Dinas Powys
-

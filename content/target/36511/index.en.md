@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris claims he is like James Bond fighting EU 'baddies' but Osborne slaps him down saying Brexit 'isn't an amusing adventure'    
-

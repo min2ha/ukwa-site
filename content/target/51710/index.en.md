@@ -10,6 +10,4 @@
   "start_date": "2017-06-18T09:00:00Z"
 }
 
-# Association of Corporate Treasurers
-
 The Association of Corporate Treasurers (ACT) is the chartered professional body for treasury. We set the global benchmark for treasury excellence and lead the profession through our internationally-recognised treasury qualifications, by defining standards and championing continuous professional development.

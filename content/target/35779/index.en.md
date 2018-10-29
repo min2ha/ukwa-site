@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Iain Duncan Smith: UK risks Paris-style attacks by staying in the EU 
-
 Guardian, the

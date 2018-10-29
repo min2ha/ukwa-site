@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Dannyshine
-
 A personal blog by street performer and Social Experimentalist co-founder Danny Shine.

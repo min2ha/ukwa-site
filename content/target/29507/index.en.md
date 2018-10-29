@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# English in Action
-
 English in Action delivers English language project weeks in schools abroad.

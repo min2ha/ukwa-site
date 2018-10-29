@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Barry and District News 
-
 None

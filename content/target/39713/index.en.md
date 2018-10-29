@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fields Unsown
-
 The project will explore life at Morden Hall Auxiliary Hospital and Morden Hall Farm during the First World War.

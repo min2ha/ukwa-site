@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Home Office: Hate Crime, England and Wales, 2016/17
-
 The increase in hate crime in 2016/17 is thought to reflect both a genuine rise around the time of the EU referendum and following the Westminster Bridge terrorist attack, as well as ongoing improvements in crime recording by the police. 

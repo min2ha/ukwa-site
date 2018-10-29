@@ -10,8 +10,6 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# Shakespeare 400
-
 Shakespeare400 is a consortium of leading cultural, creative and educational organisations, coordinated by King’s College London, which will mark the 400th anniversary of Shakespeare’s death in 2016. Through a connected series of public performances, programmes, exhibitions and creative activities in the capital and beyond, partners will celebrate the legacy of Shakespeare during the quatercentenary year.
 
 Shakespeare400 is a season of cultural and artistic events across 2016, celebrating four hundred years of Shakespeare, his creative achievement and his profound influence on creative culture across the centuries. It is the collective endeavour of a consortium of leading cultural, creative and educational institutions in and around London, working closely together to express the impact of Shakespearean creativity on the widest range of artistic forms.

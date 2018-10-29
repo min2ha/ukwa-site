@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Design Council - Our response to the EU referendum
-
 A statement on the result of the EU Referendum by the Design Council.

@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Cymdeithas Golfwyr Anabl Cymru | Welsh Disabled Golf Association
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Fundraising row after party leaders met businessman posing as donor
-
 None

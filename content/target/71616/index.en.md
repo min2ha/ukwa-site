@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T09:00:00Z"
 }
 
-# National University of Ireland, Galway
-
 The National University of Ireland Galway is located in the city of Galway in Ireland. A tertiary-level teaching and research institution.

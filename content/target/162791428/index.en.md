@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coventry 2012: Our Journey - How Coventry celebrated London 2012
-
 None

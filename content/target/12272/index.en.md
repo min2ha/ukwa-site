@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Third Sector Yes
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Côr Meibion Ardudwy
-
 Côr Meibion Ardudwy was formed in 1953 and its members are drawn from the Harlech area.

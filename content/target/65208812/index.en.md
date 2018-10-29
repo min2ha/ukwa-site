@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# RCT Homes
-
 RCT Homes is a housing Association located in Rhondda Cynon Taff borough.

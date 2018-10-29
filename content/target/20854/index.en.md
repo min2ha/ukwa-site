@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pramod Subbaraman (@briteeth) on Twitter
-
 The Twitter profile of Pramod Subbaraman, the Liberal Democrats candidate for Edinburgh South in the UK General Election on the 7th May 2015 and Edinburgh Southern in the 2016 Scottish Parliamentary election.

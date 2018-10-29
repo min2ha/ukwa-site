@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Linklaters
-
 Website of a global law firm Linklaters, which has offices in London.

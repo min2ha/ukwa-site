@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PortyBookFest on Twitter
-
 The twitter profile of the Portobello Book Festival.

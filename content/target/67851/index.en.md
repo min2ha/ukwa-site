@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clitheroe RUFC
-
 A great rugby club in the heart of the Ribble Valley.

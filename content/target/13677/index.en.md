@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Greatrex
-
 This is the website of Tom Greatrex, the Labour Party candidate for Rutherglen and Hamilton West in the UK General Election on the 7th May 2015.

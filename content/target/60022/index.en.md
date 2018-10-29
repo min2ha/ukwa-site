@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Collective (@FB_Collective) on Twitter
-
 The Football Collective is dedicated network of people who wish to bring critical debate to football. This is their official Twitter account.

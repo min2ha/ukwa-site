@@ -10,5 +10,3 @@
   "start_date": "2013-10-25T00:00:00Z"
 }
 
-# St David's Catholic College | Coleg Catholig Dewi San
-

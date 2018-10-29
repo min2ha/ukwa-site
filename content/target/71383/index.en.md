@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Gender pay gap, closing it together
-
 HM government website containing information about reporting and publishing gender pay gaps

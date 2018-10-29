@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hounslow and Richmond Community Healthcare
-
 None

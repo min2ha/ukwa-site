@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Sainsbury Institute for the Study of Japanese Arts and Culture
-
 The Sainsbury Institute was founded in 1999 through the generosity of Sir Robert and Lady Sainsbury to promote knowledge and understanding of Japanese arts and cultures. In its second decade the Institute has formulated a renewed mission statement, which not only reflects the benefactors’ intentions and is grounded in their original vision, but aims to expand its intellectual horizons. The mission of the Sainsbury Institute for the Study of Japanese Arts and Cultures is to promote world class research and be a leader in the study of Japanese arts and cultures from the past to the present.

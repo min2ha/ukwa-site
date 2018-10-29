@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Ed Miliband says ban on non-doms are coalition deal 'red line' - as it happened
-
 None

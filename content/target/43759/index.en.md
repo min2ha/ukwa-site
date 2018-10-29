@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Why Brexit makes a visceral appeal to the older generation’s psyche
-
 Guardian, The

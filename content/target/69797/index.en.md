@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Sikh Empowerment Voluntary Association
-
 Sikh Empowerment Voluntary Association (S.E.V.A) is a newly formed charitable organisation aiming to reach out and provide support and aid to individuals who are in conditions of need, hardship or distress as a result of local or national disaster or by reason of their social and economic circumstances.

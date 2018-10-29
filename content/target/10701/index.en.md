@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Bill Etheridge (UK Independence Party Politician)
-
 Bill Etheridge stood as the UK Independence Party (UKIP) candidate for Dudley North at the 2017 General Election but was not elected. He also stood for the UK Independence Party (UKIP) MEP for West Midlands in 2014 and was elected. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# SRFC (@sherborne_rugby) on Twitter
-
  The official website of Sherborne Rugby Football Club.

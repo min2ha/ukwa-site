@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Banks on Facebook
-
 This is the Facebook page of Gordon Banks, the Labour Party candidate for Ochil and South Perthshire in the UK General Election on the 7th May 2015.

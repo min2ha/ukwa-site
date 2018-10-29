@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Shepherd + Wedderburn: Brexit advisors
-
 UK law firm. Sector specific articles on the EU referendum

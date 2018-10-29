@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Great St. Bartholomew
-
 St Bartholomew the Great is the oldest church in London, founded in 1123 as an Augustinian monastery. Now a parish church, it is home to a thriving congregation as well as being a destination for visitors from all over the world, and is used extensively by film and TV companies.

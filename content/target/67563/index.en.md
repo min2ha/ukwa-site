@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ayr RFC (@OfficialAyrRFC) on Twitter
-
 The official Twitter account of Ayr Rugby Football Club.

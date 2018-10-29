@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Woodrush RFC on Pitchero
-
 Founded in 1966 and has developed a passionate and successful club -supporting 2 Senior Sides, a fantastic Mini & Junior Section and a growing Ladies Team.

@@ -10,5 +10,3 @@
   "start_date": "2011-08-04T00:00:00Z"
 }
 
-# National Childbirth Trust
-

@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Vox Scotland : Voices of Experience
-
 Site of an organisation lobbying Scotland’s politicians and health professionals to make sure Scotland’s laws and mental health services reflect service user needs and interests.

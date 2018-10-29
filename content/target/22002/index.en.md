@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Dargue (@leedargue) on Twitter (Liberal Democrats candidate for Birmingham Edgbaston)
-
 Lee Dargue stood as Liberal Democrats candidate for Birmingham Edgbaston at the 2015 General Election but was not elected. 

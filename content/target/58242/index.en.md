@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Cove Burgh Hall
-
 Site of a community venue serving the communities of Cove and Kilcreggan, Argyll & Bute.

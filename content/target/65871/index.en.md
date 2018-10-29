@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Turing Festival
-
 Brings leaders in tech to Scotland, for two days of insight and inspiration.

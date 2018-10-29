@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tory resit plan for pupils with poor Sats results
-
 None

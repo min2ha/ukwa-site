@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# William Powell on Facebook (Liberal Democrat candidate for Carmarthen East and Dinefwr and South Wales West)
-
 William Powell is the Liberal Democrats candidate for Carmarthen East and Dinefwr and South Wales West at the 2016 National Assembly for Wales elections. 

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Cyber Security Forum
-
 The UK Cyber Security Forum represents small companies who are actively working in cyber security across the UK.

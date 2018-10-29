@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Warwickshire Wildlife Trust: EU Referendum 2016
-
 Warwickshire Wildlife Trust article concerning the environmental impacts of the EU Referendum

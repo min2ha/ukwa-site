@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Gaelic Athletic Association (Londain GAA)
-
 The official website of the London Gaelic Athletic Association known as the CLG Contae Londain GAA in the Irish Language.

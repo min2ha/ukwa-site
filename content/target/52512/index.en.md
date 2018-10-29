@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Elaine Bagshaw (Liberal Democrats Politician)
-
 Elaine Bagshaw stood as Libreral Democrats candidate for Poplar and Limehouse at the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# The Queen Elizabeth 2 (QE2) Story
-
 The QE2 story contains the story of the ship and attempts to keep QE2's memory alive through stories, memories and photographs.

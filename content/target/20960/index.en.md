@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Drew Hendry (@drewhendrySNP) on Twitter
-
 Twitter profile of Drew Hendry, Scottish National Party candidate for Inverness, Nairn, Badenoch and Strathspey in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Some see 'physiological changes' after using internet
-
 News article that references recent studies that show some people spending excessive time on the internet can show physiological changes similar to drug withdrawal, researchers in Swansea and Milan found.

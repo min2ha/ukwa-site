@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Fife Historic Buildings Trust
-
 Site of a trust which works with others to find new uses for buildings at risk throughout Fife.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Video: Magna Carta goes on display in St Albans 
-

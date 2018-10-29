@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Come clean about raising taxes, voters tell Ed Balls
-
 None

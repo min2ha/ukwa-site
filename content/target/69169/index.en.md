@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog:  A bad Brexit would threaten workers’ hard‑earned rights
-
 Calls on Theresa May to protect workers' rights in Brexit negotiations and slap down the idea of regulatory divergence from the EU that would threaten them.

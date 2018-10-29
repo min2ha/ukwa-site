@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Guardian, The: Technology
-
 Technology articles from the Guardian. The section also includes a blog.

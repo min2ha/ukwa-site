@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Darren Williams: Labour Party NEC and WEC member
-
 Darren Williams was elected to Labour’s National Executive Committee (NEC) by its members in 2016. He is also member of the WEC (Welsh Executive Committee) and a prominent figure in Welsh Labour and Trade Unions quarters. This is his blog and related to internal Labour party matters in Wales.

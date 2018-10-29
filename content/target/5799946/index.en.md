@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Cheese Rolling in Gloucestershire
-
 None

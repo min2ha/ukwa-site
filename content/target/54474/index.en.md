@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Economists for Free Trade
-
 Economists for Free Trade (EFT) is a group of leading economists, formerly known as Economists for Brexit (EfB), who believe the UK’s optimal Brexit path is outside the Single Market and Customs Union, moving towards an ultimate position of global free trade as a full member of the World Trade Organisation.

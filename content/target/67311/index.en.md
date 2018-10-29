@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Visit Scotland: Lift the lid on Glasgow's music scene
-
 Blog post within the Visit Scotland website providing discussion of the music scene in Glasgow.

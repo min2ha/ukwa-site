@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# In the mind of a contemporary composer - ramblings of a music man
-
 The blog for Welsh composer Benjamin Frank Vaughan.

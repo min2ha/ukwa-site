@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dunstable Baptist Chapel
-
 None

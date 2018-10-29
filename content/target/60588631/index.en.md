@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Market Harborough Methodist Circuit
-
 None

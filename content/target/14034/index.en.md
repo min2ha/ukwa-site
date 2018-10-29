@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# 10.01 Campaign
-
 None

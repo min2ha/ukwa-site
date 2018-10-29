@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Anna Soubry (Conservative MP for Broxtowe)
-
 Anna Soubry stood as Conservative candidate for Broxtowe at the 2010 General Election and was elected. She was re-elected in 2015 and 2017. She is strongly in favour of remaining in the EU.

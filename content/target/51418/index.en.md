@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Article 50: Is Whitehall ready for Brexit?
-
 Discusses challenges faced by the civil service in negotiating and implementing Brexit.

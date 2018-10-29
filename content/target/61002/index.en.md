@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Malcolm Ryan Paintings
-
 Malcolm Ryan was born in London in 1934 and has lived in Ceredigion since 1998. He is figurative painter, book illustrator and elected member of the Royal Cambrian Academy of Art (RCA).

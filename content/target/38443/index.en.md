@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Democrats
-
 The British Democratic Party is a minor party strongly opposed to immigration and to continued membership of the EU

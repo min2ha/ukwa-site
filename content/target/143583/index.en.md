@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Small-shoes.co.uk
-
 None

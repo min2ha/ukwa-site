@@ -10,5 +10,3 @@
   "start_date": "2015-04-30T08:00:00Z"
 }
 
-# Là na #Gàidhlig | a` sgaoileadh an fhacail – spreading the word
-

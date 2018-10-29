@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola Private Sector Mobilisation Group
-
 <p>A group established to facilitate a mobilised and coordinated private sector response to the Ebola virus disease in West Africa.</p>

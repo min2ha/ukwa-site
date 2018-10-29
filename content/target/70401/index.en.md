@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Raindance
-
 Website for the Raindance festival.

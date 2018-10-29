@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Edinburgh Review
-
 WordPress site of an academic literary magazine based in Edinburgh.

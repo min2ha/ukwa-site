@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Creative Scotland
-
 Creative Scotland is the public body that supports the arts, screen and creative industries across all parts of Scotland, distributing funding from the Scottish Governemnt and the National Lottery.

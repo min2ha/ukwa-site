@@ -10,6 +10,4 @@
   "start_date": "2016-02-11T09:00:00Z"
 }
 
-# Ferne Animal Sanctuary
-
 Ferne Animal Sanctuary provides care and refuge for unwanted domestic and farm animals. The Sanctuary rehomes dogs and cats within a 40 mile radius of Ferne, Somerset.

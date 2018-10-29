@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: The Iron Lady’s views are definitely not for turning
-

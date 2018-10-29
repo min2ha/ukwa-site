@@ -10,5 +10,3 @@
   "start_date": "2008-10-16T00:00:00Z"
 }
 
-# Sam Messenger
-

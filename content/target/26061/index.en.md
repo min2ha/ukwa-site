@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Douglas Alexander slams ‘anti-Miliband press agenda’ and says Labour will win
-
 None

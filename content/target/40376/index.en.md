@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Scottish Battlefields Trust
-
 Site of an organisation promoting and protecting Scotland's historic battlefields.

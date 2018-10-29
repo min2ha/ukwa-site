@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Reading East Conservatives
-
 Website of Reading East Conservatives, providing information on events, MPs, MEPs, borough and town councillors, local, European, national and Westminster news.

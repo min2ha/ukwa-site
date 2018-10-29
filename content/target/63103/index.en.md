@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# DogDaddies - Dog Walking & Luxury Dog Boarding
-
 DogDaddies is a highly professional and reliable company with over 13 years of experience of providing exceptional dog care to Notting Hill, West London

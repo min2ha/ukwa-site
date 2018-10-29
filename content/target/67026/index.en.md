@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Provincial Grand Royal Arch Chapter of Aberdeenshire
-
 Site of a provincial chapter of the Scottish Royal Arch branch of freemasonry locate din aberdeenshire.

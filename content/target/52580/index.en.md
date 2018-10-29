@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Ferguson plc
-
 Ferguson plc (formerly know as Wolseley plc) is a multinational building materials distribution company, It is the world's largest heating and plumbing distributor to the professional market. Wolseley PLC changed the company name to Ferguson PLC on the 31/07/2017 and its headquartered in Switzeland.

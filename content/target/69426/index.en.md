@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Atomic Festival
-
 Website for the Atomic Festival, a 1950s themed festival.

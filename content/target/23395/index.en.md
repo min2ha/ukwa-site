@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Claire Hiscott (Conservative)
-
 Claire Hiscott stood as Conservative candidate for Bristol West at the 2015 General Election but was not elected.

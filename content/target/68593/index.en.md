@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Glasgow School of Art is much more than just an art college
-
 Blog post about the second fire at Glasgow School of Art on 15 June 2018.

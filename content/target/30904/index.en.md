@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# InterNations: London expat Community for London expats
-
 London page of the site InterNations for the expats living in London.

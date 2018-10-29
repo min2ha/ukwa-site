@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff Student Media: Gair Rhydd
-
 Gair Rhydd is Cardiff University's independent weekly student newspaper.

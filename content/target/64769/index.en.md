@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Chimene Suleyman (@chimenesuleyman) on Twitter
-
 Chimene Suleyman is a writer. This is her official Twitter account.

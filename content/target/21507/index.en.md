@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Five million pensioners can cash in their annuities from April 2016, says George Osborne
-
 None

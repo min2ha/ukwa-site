@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Stevens on Facebook
-
 Jo Stevens - Welsh Labour's Parliamentary Candidate for Cardiff Central. 

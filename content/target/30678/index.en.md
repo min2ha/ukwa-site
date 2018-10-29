@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Rambert School of Ballet and Contemporary Dance
-
 Official website of the Rambert School of Ballet and Contemporary Dance, Twickenham.

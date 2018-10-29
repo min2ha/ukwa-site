@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Grinagog Theatre
-
 <p>Grinagog Theatre is a Scottish touring theatre company for children and young people. Website includes information about the play “The pokey hat”, part of the Glasgow 2014 Cultural Programme.</p>

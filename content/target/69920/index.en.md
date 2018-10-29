@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# National Sikh Heritage Centre & Holocaust Museum
-
 A modern, packed, multi-channel museum with real artefacts that allow the visitor to appreciate the rich and complex heritage of the Sikhs in a story of courage, sacrifice and bloody genocide.

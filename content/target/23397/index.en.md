@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bristol Left Unity Party on Facebook
-

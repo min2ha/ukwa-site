@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Gymru a Garem, Y | Wales we Want, The
-
 The Wales We Want is a Welsh Government initiative delivered through Peter Davies, commissioner for Sustainable Futures, and managed by Cynnal Cymru - Sustain Wales.

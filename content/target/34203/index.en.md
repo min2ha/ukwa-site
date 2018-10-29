@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Association Of the British Pharmaceutical Industry
-
 The Association of the British Pharmaceutical Industry (ABPI) represents innovative research-based biopharmaceutical companies, large, medium and small, leading an exciting new era of biosciences in the UK.

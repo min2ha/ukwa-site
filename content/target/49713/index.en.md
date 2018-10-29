@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carnoustie Panbride Church
-
 Website of the Carnoutsie Panbride Church. Carnoustie Panbride is a joint charge consisting of two churches, Newton Church and Panbride Church. 

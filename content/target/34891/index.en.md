@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# European Piano Teachers Association UK (EPTA-UK)
-
 European Piano Teachers Association UK was founded in 1978 by Carola Grindea. It aims to promote excellence in piano teaching and performance to bring teachers and performers together and to raise standards within the profession.

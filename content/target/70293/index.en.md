@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Garston Ladies FC (@GarstonLadiesFC) on Twitter
-
 Garston Ladies FC is a Charter Standard football club for girls and women aged 4 and upwards.

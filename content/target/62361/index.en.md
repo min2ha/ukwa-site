@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stevenage F.C.
-
 Stevenage Football Club is a professional association football club based in the town of Stevenage, Hertfordshire, England. The team play in League Two, the fourth tier of the English football league system. They play their home games at Broadhall Way in Stevenage.

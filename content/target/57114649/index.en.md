@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Do you remember Olive Morris?
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Amateur Boxing Association of England (ABAE)
-

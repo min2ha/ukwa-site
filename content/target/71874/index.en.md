@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'I do believe in Brexit,' says Theresa May
-
 Ahead of the Conservative Party 2018 conference, Theresa May rejected claims she did not believe in Brexit - and insisted she would make a success of it "regardless of the outcome" of talks. She told the BBC's Andrew Marr Show her plan for post-Brexit trade with the EU was not dead, despite it having been rejected by EU leaders.
 
 

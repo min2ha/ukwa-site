@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Household Cavalry Foundation
-
 The Household Cavalry Foundation (HCF) cares for the soldiers, casualties, veterans, horses and heritage of the British Army’s most senior regiments.

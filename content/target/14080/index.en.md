@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Esther Addley (estheraddley) on Twitter
-

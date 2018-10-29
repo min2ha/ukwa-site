@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Enders Analysis
-
 Enders Analysis provides a subscription research service covering the media, entertainment, mobile and fixed telecommunications industries in Europe, with a special focus on new technologies and media

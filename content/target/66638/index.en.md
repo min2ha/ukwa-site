@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Serious Fraud Office (@UKSFO) on Twitter
-
 The SFO leads the UK’s fight against serious and complex fraud, bribery and corruption 

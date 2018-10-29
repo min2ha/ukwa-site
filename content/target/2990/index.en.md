@@ -10,6 +10,4 @@
   "start_date": "2013-07-26T00:00:00Z"
 }
 
-# CatholicHerald.co.uk: Thousands buy tickets for rare chance to view Lindisfarne Gospels
-
 None

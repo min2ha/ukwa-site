@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Geronimo Festival
-
 Family festival aimed at children under 13 and their families, focused on quality family time and imaginative play.

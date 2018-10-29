@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Summers (@chris4uxbridge) on Twitter (Labour Candidate for Uxbridge & South Ruislip)
-

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Health Friends
-
 HealthFriends was created by healthcare professionals who recognise the challenges facing people when it comes to improving their health, maintaining a healthy lifestyle and ensuring their emotional wellbeing.

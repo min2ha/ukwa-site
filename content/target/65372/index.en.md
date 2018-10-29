@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# FOR Cardiff 
-
 For Cardiff is a business improvement district, a defined area within the city which works with businesses to agree to a range of projects that will help improve the environment. FOR Cardiff was previously called Cardiff’s Business Improvement District (BID). 

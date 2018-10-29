@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln Magna Carta tour puts city on the map in Washington's Library of Congress
-

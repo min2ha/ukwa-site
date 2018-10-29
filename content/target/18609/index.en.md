@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Kids en cuisine
-
 Kids en cuisine proposes cooking workshops for children at home. 

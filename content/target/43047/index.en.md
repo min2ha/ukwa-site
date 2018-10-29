@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# Cardiff University : Blogs
-
 The page contains over 50 blogs written by various departments within Cardiff University.

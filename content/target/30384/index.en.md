@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rick O'Shea
-
 Rick O'Shea is a Welsh Rugby TV Pundit.

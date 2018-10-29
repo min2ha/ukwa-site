@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Midstock Festival
-
 Site of an annual music festival staged at Dalkeith Country Park, Dalkieth, Midlothian.

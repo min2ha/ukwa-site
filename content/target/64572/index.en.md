@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Lodge Possilpark 1330
-
 Site of a masonic lodge located in Possilpark, Glasgow and affiliated with the Grand Lodge of Scotland.

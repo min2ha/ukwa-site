@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Highland Rugby Football Club
-
 Site of Scottish rugby union football club based in Inverness.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peterborough United Football Club
-
 Peterborough United Football Club is a professional football club based in Peterborough, Cambridgeshire, England.

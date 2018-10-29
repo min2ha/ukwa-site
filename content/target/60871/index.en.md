@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Isle of Mull Rugby Football Club
-
 Site of a Scottish rugby union football club based in Tobermory, the isle of Mull.

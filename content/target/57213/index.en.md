@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Miles Productions
-
 Miles productions is a theatre company based in Swansea, Wales which specializes in solo shows.

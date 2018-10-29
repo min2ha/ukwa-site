@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# LocalGov
-
 LocalGov is a dedicated local government news website. The team of specialist reporters update the website every day with breaking news and analysis, providing the sector with the latest developments and stories. LocalGov is published by Hemming Information Services.

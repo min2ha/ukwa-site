@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Clegg on Facebook (Liberal Democrats candidate for Sheffield Hallam)
-
 Nick Clegg stood as Liberal Democrats candidate for Sheffield Hallam at the 2015 General Election. He was first elected to serve as MP for Sheffield Hallam in 2005 and re-elected in 2015.

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Tower Inquiry
-
 The Grenfell Tower Inquiry is an independent public inquiry, set up to examine the circumstances leading up to and surrounding the fire at Grenfell Tower on 14 June 2017.

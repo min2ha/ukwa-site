@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Caerlaverock Community Association
-
 Site of a community association located at Caerlaverock Dumfries and Galloway, Scotland.

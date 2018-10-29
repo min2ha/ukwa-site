@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# EE
-
 <p>EE, formerly Everything Everywhere, is a United Kingdom mobile network operator and internet service provider. The company was formed in 2010 as a 50:50 joint venture between Deutsche Telekom and Orange S.A. (formerly France Télécom) through the merger of their respective T-Mobile and Orange businesses in the UK. It is the largest mobile network operator in the UK, with around 28 million customers in 2014.</p>

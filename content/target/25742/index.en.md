@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Anxious, atomised… and not in it together: the state of Britain in 2015
-
 None

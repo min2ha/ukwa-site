@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joanna Cherry QC (@joannaccherry) on Twitter
-
 Twitter profile of Joanna Cherry QC, Scottish National Party candidate for Edinburgh South West in the 2017 general election.

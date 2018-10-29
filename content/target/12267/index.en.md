@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# So I Guess I'm Non Stanford...
-
 <p>The blog of triathlete Non Stanford, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Suzanne Carpenter Illustrator
-
 Welsh author/illustrator listed in Literature Wales' Writers of Wales database. 

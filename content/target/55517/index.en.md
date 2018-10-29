@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Gentle Good, The
-
 This is the website for Gentle Good, a Cardiff based songwriter and multi-instrumentalist called Gareth Bonello. His influence cover traditional music and folklore of Wales in both English and Welsh.

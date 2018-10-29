@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Boat Project, The
-
 The Boat Project is a 30ft vessel made from donated wooden items.

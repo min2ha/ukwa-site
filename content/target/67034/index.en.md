@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# St. Thomas Kilwinning Dalmellington, No. 433
-
 Site of a masonic lodge located in Dalmellington, Ayrshire and affiliated with the Grand Lodge of Scotland.

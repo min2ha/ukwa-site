@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bexley Historical Society
-
 Bexley Historical Society was established by history-loving citizens, as part of our Constitution states, "as a non profit organization to encourage an interest in both local, general historical and archaeological matters particularly those relating to the area within the boundaries of the Borough of Bexley".

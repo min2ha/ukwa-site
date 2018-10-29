@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bay Church, Cardiff, The
-

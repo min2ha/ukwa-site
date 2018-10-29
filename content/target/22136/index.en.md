@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leo Evans (@LeoEvans94) on Twitter (Liberal Democrats candidate for Liverpool Wavertree)
-
 Leo Evans stood as Liberal Democrats candidate for Liverpool Wavertree at the 2015 General Election but was not elected. 

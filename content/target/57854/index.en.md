@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Comic Kingdom Forums
-
 An online enthusiast community concerned with comics. Discusses various comic publishers, Manga, Web comics and various other topics.

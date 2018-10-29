@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Edinburgh Sportsters Bar
-
 Edinburgh sports bar, acts as Edinburgh Fringe Festival venue for the Free Fringe.

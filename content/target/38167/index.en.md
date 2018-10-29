@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cllr Vari McDonald (@VariMcDonald) on Twitter
-
 Twitter profile of Vari MacDonald, the Scottish National Party list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

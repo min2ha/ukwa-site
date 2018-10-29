@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Lowland Deer Network Scotland
-
 Site of a collaborative group offering a co-ordinated approach to management of wild deer on Scotland’s low ground and on the urban fringe.

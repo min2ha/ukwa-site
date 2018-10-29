@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gibraltar Panorama 
-
 Gibraltar's Online Daily newspaper.

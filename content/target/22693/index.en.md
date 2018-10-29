@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tristan Osborne on Facebook (Labour candidate for Chatham and Aylesford)
-

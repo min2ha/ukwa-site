@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilbarchan Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Kilbarchan, Renfrewshire.

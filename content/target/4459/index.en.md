@@ -10,6 +10,4 @@
   "start_date": "2013-12-13T06:00:00Z"
 }
 
-# Towards a Unified Theory - a Changing Mass, Charge, Distance and Time and the Underlying Structure of Space
-
 None

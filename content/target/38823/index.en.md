@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# YI Wales (@YIWales) on Twitter 
-
 The twitter account for the Youth Wing of @UKIPWales (Under 30). Young Independenceis the the Youth Wing of the United Kingdom Independence Party (UKIP). 

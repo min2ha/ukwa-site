@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Brecon & Radnor Express
-
 None

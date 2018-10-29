@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: "We have to invest in good work," – Theresa May's speech at Taylor Review launch
-
 The Prime Minister spoke at the launch of the Matthew Taylor review of modern working practices in the UK. n her speech she called on Labour for their support in delivering Brexit and other legislation following the loss of her Parliamentary majority at the 2017 general election.

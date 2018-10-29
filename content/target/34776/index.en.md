@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cupar Heritage
-
 Site for a local heritage museum in Cupar, Fife, Scotland, dealing in local history in the area.

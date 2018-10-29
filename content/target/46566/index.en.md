@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T11:00:00Z"
 }
 
-# Glendale Trust Twitter page
-
 Twitter site of the Glendale Trust

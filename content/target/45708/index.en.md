@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T11:00:00Z"
 }
 
-# Rural Matters Scotland on Facebook
-
 Facebook account of Rural Matters Scotland.

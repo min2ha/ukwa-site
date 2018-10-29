@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Mark Carney: EU exit is 'biggest domestic risk'
-

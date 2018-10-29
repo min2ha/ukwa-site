@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Right Words, The: Website of playwright/lyricist Robert Gould
-
 The Right Words is the website of playwright, lyricist, musical theatre, librettist and pop songwriter Robert Gould.

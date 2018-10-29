@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# DeSmog UK: UK Election 2017: Climate Change and Energy
-
 Summarises the parties’ main positions on climate change, energy and the environment at the time of the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Scene Better Days
-
 Scene Better Days is a new site dedicated to posting honest music reviews and interesting articles – both music- and non-music-related. The scope of material covered is pretty wide right now but we may hone it in eventually. Our music tastes are, broadly speaking, ‘alternative’, and the site content will reflect that.

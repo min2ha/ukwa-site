@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# BBC: Stephen Hawking
-
 The sub section of the BBC website related to Stephen Hawking.

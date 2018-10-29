@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Craig Gwladus Country Park
-
 Friends of Craig Gwaldus Country Park is a voluntary organisation formed in January 2007 with the help of Neath Port Talbot Council for Voluntary Services. 

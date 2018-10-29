@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sour end to Parliament for Tories as 'plot' against Bercow is routed
-
 None

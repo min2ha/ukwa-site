@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Johann Lamont (JohannLamont) on Twitter
-
 The Twitter profile of Johann Lamont, the Scottish Labour and Co-operative candidate for the Glasgow list in the 2016 Scottish Parliament election.

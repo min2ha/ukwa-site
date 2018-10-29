@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# After the referendum, the ugly scourge of ageism 
-
 Analysis of the reaction of the EU referendum result towards older people.

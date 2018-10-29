@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Old Inn, Gairloch
-
 Site of a public house, and inn with in house brewery, located at Gairloch, Highland.

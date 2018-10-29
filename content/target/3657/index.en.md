@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Evening Times Glasgow
-
 None

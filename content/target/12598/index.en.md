@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ruth Davidson MSP (RuthDavidsonMSP) on Twitter
-
 The twitter profile of Ruth Davidson, leader of the Scottish Conservative and Unionist Party and Member of the Scottish Parliament for Glasgow.

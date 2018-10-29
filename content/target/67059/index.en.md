@@ -10,7 +10,5 @@
   "start_date": "2018-06-11T09:00:00Z"
 }
 
-# Comment Central: Brexit and a pig's ear
-
 As the May Government’s vision of Brexit emerges it’s clear for all to see what a ham fisted betrayal of the electorate’s decision it really is.
 

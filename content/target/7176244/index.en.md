@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Postal Museum & Archive, The (BPMA)
-
 <p>Website dedicated to British Postal Heritage. Includes a full catalogue, digitised images and learning    materials.</p>

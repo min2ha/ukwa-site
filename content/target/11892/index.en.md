@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marco A Loughran (@MarcoL89) on Twitter
-
 The twitter profile of althete Marco Loughran, swimmer and member of Team Wales for the Glasgow 2014 Commonwealth Games.f

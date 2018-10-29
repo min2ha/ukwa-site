@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Some WW1 Photographs…
-
 A private collection of postcards and photographs taken during the First World War conflict.

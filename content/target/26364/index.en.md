@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Breathtaking' surge of Tory tactical votes to save Nick Clegg in Hallam – poll
-
 None

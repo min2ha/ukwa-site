@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Call Up: The effect of the First World War on rural life in Hampshire
-
 Project is to erect 2 self-guide direction boards to the 37 WW1 Graves in the 9 acre St Peter's Churchyard, Broadstairs, Kent.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: QUENTIN LETTS: How Penka the cow, sentenced to death by Brussels for straying from Bulgaria into Serbia, sums up all that’s wrong with the EU
-
 Does the tale of Penka the cow which strayed from Bulgaria into Serbia present the EU as a reservoir of practical and amiable administration, or a realm of hectoring, more-than-my-job’s-worth martinets determined above all else to follow the small-print of rules written by remote Brussels legislators?
 

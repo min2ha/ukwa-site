@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dawn Parry (Independent candidate for Bristol West)
-
 Dawn Parry stood as an independent candidate for Bristol West at the 2015 General Election but was not elected.

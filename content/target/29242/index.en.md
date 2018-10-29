@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Selkirk FC The Archive
-
 Selkirk Football Club's community engagement website.

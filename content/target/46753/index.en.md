@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Siân Gwenllian AM on Facebook 
-
 Siân Gwenllian is the Assembly Member for Arfon.

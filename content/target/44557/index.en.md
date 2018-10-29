@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jeremy for Labour
-
 Campaign website of Jeremy Corbyn for his bid to be re-elected as Labour Party leader in 2016

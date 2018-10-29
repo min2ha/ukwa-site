@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Galbraith on Facebook
-
 The Facebook page of Mary Galbraith, the Labour candidate for Argyll & Bute at the 2015 General Election. 

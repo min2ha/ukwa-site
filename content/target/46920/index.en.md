@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sadiq Khan on Facebook
-
 Mayor of London Sadiq Khan's Facebook account (Labour)

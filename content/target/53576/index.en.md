@@ -10,7 +10,5 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Braemar : Heart of the Park
-
 Community website for the village of Braemar, Aberdeenshire, Scotland, providing details of amenities, businesses and events for residents and visitors.
 

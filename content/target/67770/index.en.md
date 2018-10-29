@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Lymington RFC (@lymingtonrfc) on Twitter
-
 The official Twitter account of Lymington Mariners Rugby Football Club. 
 Lymington Mariners RFC is a local inclusive rugby club for players of all ages and abilities.

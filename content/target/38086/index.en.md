@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# North West Stronger In Europe (@NWStrongerIn)
-
 North West regional campaign for the UK to stay in the EU

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Jean-Claude Juncker: UK faces hefty Brexit bill
-
 European Commission President Jean-Claude Juncker  warned the UK it faced a "very hefty" bill for Brexit. He promised two years of "tough negotiation", when discussions on leaving terms got under way between the government and the European Union

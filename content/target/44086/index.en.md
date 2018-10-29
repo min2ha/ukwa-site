@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Local Energy Scotland
-
 Site of a consortium of five regional organisations promoting and facilitating access to renewable energy throughout Scotland

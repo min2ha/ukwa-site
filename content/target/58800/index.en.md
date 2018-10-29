@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Kensington Creatives, The
-
 The Year 5 class of St Thomas’ CE Primary School in collaboration with Digital Works.  North Kensington is the place where we live and go to school. It is an area where creative things happen, an area famed for its music, the arts, Notting Hill Carnival and – a sometimes rebellious – community spirit. The project, The Kensington Creatives, was not just an exploration of the arts, but also an exploration of migration. Through participation in specialist workshops, talks and fieldtrips, all of which were run by local people and groups, we learnt how North Kensington has been shaped by migration. The project resulted in this blog, a documentary called, Standing at the Crossroads and the children getting to respond creatively to what they had learnt.

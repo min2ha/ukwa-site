@@ -10,5 +10,3 @@
   "start_date": "2006-03-15T00:00:00Z"
 }
 
-# Old Operating Theatre Museum & Herb Garret
-

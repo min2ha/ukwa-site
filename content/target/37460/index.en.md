@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UCL European Institute: The implications of Brexit on Iriish higher education
-
 An argument that a UK exit from the European Union would likely have a significant negative impact on Irish students in the UK, British students in Ireland, and the Irish Higher Education sector in general.

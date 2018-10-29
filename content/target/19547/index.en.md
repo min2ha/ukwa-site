@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: 'Little’ Henry arrives at Trowbridge for Magna Carta run
-
 Trowbridge Museum has welcomed a 6ft tall statue of Henry de Bohun ahead of the start of its exhibition for the 800th anniversary of the signing of the Magna Carta. 

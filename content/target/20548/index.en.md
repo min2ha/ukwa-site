@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour will cap 'rip-off' pension charges, says Miliband
-

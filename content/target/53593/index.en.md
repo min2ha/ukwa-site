@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ruth M. Johnson (Green Party Politician)
-
 Ruth M. Johnson stood as Green Party candidate for Fenland, North East Cambridgeshire in the 2017 General Election but was not elected.

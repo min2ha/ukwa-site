@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Vanessa Woolf: Storyteller 
-
 Vanessa Woolf, is a professional storyteller based in London.She tell's traditional and non-traditional tales of all kinds, and is particularly inspired by the history, geography and folklore of London. 

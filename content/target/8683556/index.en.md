@@ -10,5 +10,3 @@
   "start_date": "2008-06-27T00:00:00Z"
 }
 
-# Matthew's RSA Blog
-

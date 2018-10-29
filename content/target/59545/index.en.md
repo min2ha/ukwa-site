@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Kildare Street: Dail Debates: 5th December 2017: Leaders' Questions
-
 The Irish Parliament discusses progress in the negotiations between the EU and the UK on the issue of the border between the Republic and Northern Ireland after Brexit. Leo Varadkar, the Taoiseach, commented that the ball was back in London's court to make proposals.

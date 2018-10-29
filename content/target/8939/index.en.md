@@ -10,6 +10,4 @@
   "start_date": "2014-01-07T20:00:00Z"
 }
 
-# Jay Singers, The
-
 None

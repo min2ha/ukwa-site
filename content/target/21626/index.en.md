@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: Nigel Farage's bid to capture Tory-held seat of South Thanet
-
 None

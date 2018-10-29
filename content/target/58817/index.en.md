@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Destination Lochcarron
-
 Site providing local news, leisure and general information for visitors to and residents of Lochcarron, Highland, Scotland.

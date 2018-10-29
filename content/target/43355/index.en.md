@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Royal Society for the Protection of Birds (RSPB)
-
 RSPB on what the EU does for nature and the official campaign's statements on how their stance would protect the environment

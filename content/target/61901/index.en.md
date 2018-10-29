@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Inverness City Roller Derby
-
 Site of a skating roller derby team based in Inverness.

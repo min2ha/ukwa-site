@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wokingham LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "London Mayoral Election 2008"
 }
 
-# MayorWatch
-
 None

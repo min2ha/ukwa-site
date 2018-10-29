@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Scotland : the Big Picture
-
 Site of an organisation that promotes Scottish wild life through photography.

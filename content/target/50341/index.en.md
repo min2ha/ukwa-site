@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Roy Castle Lung Cancer Foundation
-
 We are funding a Lung Health Check and Lung Cancer screening project to identify potential lung cancer patients before any symptoms appear.

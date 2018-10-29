@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7th February 2018: Prime Minister's Questions
-
 Prime Minister Theresa May states categorically that the UK will be leaving the customs union when it leave the EU in answer to a question from Hilary Benn

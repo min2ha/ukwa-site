@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Kirkcaldy Gilbert & Sullivan Society
-
 Site of an amateur operatic society focusing on the works of W S Gilbert and Arthur Sullivan.

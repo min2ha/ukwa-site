@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Roderick Campbell MSP - SNP MSP for North East Fife
-

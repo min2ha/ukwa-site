@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Gender Equity Network (@TheGENetwork) on Twitter
-
 Twitter account for the Gender Equity Network, a group of people interested in having a discussion about what gender equality means today

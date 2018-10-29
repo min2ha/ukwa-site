@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jeane Freeman
-
 Jeane Freeman is the Scottish National Party candidate for the Carrick, Cumnock and Doon Valley constituency in the 2016 Scottish Parliament election.

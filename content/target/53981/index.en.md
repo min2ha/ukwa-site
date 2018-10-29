@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Bailey - UKIP New Forest West Area (UKIP Politician)
-
 Paul Bailey stood as UK Independence Party (UKIP) candidate in the constituency of Meon Valley in the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Carmarthen Free Books
-
 Carmarthen Free Books is a community-focused bookstore. Caramrthen Free Books believe that everyone should have access to books, and we do this by allowing anyone to walk into our store and choose three books for free. 

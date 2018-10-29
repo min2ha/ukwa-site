@@ -10,6 +10,4 @@
   "start_date": "2007-10-02T00:00:00Z"
 }
 
-# Bangor City FC unofficial
-
 Website no longer available.

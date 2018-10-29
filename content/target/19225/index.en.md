@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Lincoln Castle closes for three months until 1 April for £22m Lincoln Castle Revealed project
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Arts Council, The: Guidance on the EU referendum
-

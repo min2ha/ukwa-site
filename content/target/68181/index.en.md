@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Headspace 
-
 Headspace provides guided meditation sessions and mindfulness training

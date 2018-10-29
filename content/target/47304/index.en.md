@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Imperial Brands plc
-
 Imperial Brands plc is a British multinational tobacco company, its products include: cigarettes, cigars, fine-cut rolling tobacco, snuff, rolling papers and tubes.

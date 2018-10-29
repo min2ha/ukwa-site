@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Tories pledge 'Tell Sid' sale of Lloyds Bank shares
-
 None

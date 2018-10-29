@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Parties clash over Welsh economy at election debate
-
 None

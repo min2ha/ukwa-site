@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Amazing Gracies FC
-
 Site of a women's 5-a-side football club, emphasising friendly football, and fitness, and based in Bellvue, Edinburgh.

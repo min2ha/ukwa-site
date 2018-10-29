@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: With some sadness, I’ll vote to Leave an undemocratic and decaying institution that stopped helping Europe some time ago
-

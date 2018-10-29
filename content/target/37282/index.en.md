@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: EU referendum: Welsh Tory leader Davies backs UK exit
-
 Andrew RT Davies says that the UK's future will be better if they are part of a looser, economic relationship with the European Union. Other Welsh politicians also express their opinions in regards to leaving the EU. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Von Hügel Institute
-
 The Von Hügel Institute (VHI) is an academic research institute based at St Edmund’s College, Cambridge, a constituent part of the University of Cambridge in England.

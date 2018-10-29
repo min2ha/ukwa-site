@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kelso Rugby Football Club
-
 Site for a Scottish rugby football union club based at Kelso in the Scottish Borders.

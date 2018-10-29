@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Munitionettes, 1914-1918
-
 Project to research and record the women in munitions factories and the role, impact and danger that was involved in their work.

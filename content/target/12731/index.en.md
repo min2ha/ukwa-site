@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emelia Gorecka | Endurance Athlete
-
 <p>The website of athlete Emelia Gorecka, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

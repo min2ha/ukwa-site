@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# The Westminister Society
-
 The Westminster Society is an award winning charity providing services for people with a range of learning disabilities and their families. We operate in Westminster and other London Boroughs

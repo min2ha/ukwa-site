@@ -10,5 +10,3 @@
   "start_date": "2006-09-05T00:00:00Z"
 }
 
-# Universities and Colleges Information Services Association (UCISA)
-

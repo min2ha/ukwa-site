@@ -10,5 +10,3 @@
   "start_date": "2018-04-20T10:12:00Z"
 }
 
-# #GaelicTwitterDay hashtag on Twitter
-

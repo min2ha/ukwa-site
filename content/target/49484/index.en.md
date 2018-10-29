@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Union Theatre
-
 The Union Theatre is a fringe theatre situated in the borough of Southwark in London, England. It was established in 1998 by Sasha Regan, and has a reputation for staging musicals.

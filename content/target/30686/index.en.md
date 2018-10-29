@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Grafton College of Management Sciences
-
 Official website of the Grafton College of Management Sciences, London.

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# British Women Pilots' Association (BWPA)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Hypatia Trust
-
 None

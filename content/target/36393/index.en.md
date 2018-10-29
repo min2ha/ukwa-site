@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: 'Eurocrat typical of everything that is rotten in Brussels' says Leo McKinstry
-
 Column by Leo McKinstry

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Scottish EDGE
-
 A competition which awards business grants to Scottish entrepreneurs.

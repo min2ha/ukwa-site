@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dulwich Literary Festival
-
 Dulwich Literary Festival

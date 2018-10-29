@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Commonwealth Games opening ceremony review – no lack of heart but a lack of oomph
-
 <p>Review of the opening ceremony from the Guardian 24/7/2014 by Lynn Gardner.</p>

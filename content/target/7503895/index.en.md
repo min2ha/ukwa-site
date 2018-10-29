@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Royal Astronomical Society (RAS)
-
 The Royal Astronomical Society (RAS), founded in 1820, encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.

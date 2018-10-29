@@ -10,6 +10,4 @@
   "start_date": "2018-03-10T09:00:00Z"
 }
 
-# South West Wales Classical Association
-
 South West Wales Classical Association organize events relating to ancient Greek and Roman cultures in the South West Wales area. The branch first came into existence in 1928.

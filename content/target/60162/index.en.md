@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Out&AboutLive - forum 
-
 An online enthusiast community concerned with motor homes, caravans and camping.

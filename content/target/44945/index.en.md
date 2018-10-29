@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pool, The: The Egyptian team are changing the face of beach volleyball
-
 Recent changes to rules for women's uniforms has made the game more accessible for women from all countries.

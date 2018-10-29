@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Special Magna Carta scene in world premier of Horrible Histories show at Trowbridge
-

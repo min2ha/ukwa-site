@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 30th April 2018: European Union (Withdrawal) Bill
-
 House of Lords debate on Viscount Hailsham’s amendment to the European Union (Withdrawal) Bill to give Parliament unprecedented power to instruct the Government what to do in the event of Parliament voting down whatever Brexit deal is agreed between the UK and the EU. As expected, the amendment was passed. Possibly the most outrageous intervention of the day came from Lib Dem peer Lord Roberts of Llandudno. He compared the Government’s refusal to give Parliament the power to block Brexit to the events of “Berlin in March 1933 when the enabling Bill was passed in the Reichstag, which transferred the democratic right from the Parliament into the hands of one man — that was the Chancellor, and his name was Adolf Hitler.” 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Calum MacDonald MP : your Labour candidate in Western Isles
-
 None

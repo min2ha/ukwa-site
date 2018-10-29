@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Caddonfoot Church With Galashiels Trinity
-
 Site of two Church of Scotland parish churches at Clovenfords and Galashiels, Scottish Borders.

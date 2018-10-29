@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cyprus Mail: Expats in Cyprus could lose out if UK exits EU
-
 British expats in Cyprus could lose a host of privileges if Britain withdraws from the EU.

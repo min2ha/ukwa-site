@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Public don't know what Labour stands for on the EU, Harriet Harman says
-

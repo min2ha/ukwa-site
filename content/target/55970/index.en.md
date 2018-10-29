@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Warhammer Forum 
-
 An online enthusiast forum concerned with collecting Warhammer models. Discusses Warhammer fantasy, War of the ring, Warhammer 40,000 and various other topics. 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Freediving Association (BFA)
-
 The British Freediving Association (BFA) is the UK governing body of the international freediving organization AIDA. They promote recreational and competitive freediving, ratify freediving records, and sponsor events for members. 

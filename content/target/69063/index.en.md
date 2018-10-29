@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cafe Football
-
 Cafe Football is a chain of restaurants based in popular footballing venues. The UK chain is based at the National Football Museum, Manchester.

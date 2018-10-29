@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Channel Light Vessel
-
 Blog revisiting underrated, forgotten, or obscure fiction, film, and TV drama. Also examining less obvious aspects of more familiar examples of literature and art.  

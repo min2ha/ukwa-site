@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# WellChild: WellChild Manifesto
-
 WellChild’s vision is for all seriously ill children and young people in the UK to have the best quality of care whatever their diagnosis, situation or location. 

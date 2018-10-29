@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sheffield Food Festival
-
 Website for the Sheffield Food Festival.

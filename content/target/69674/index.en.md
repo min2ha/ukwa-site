@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# GLITCH
-
 Website for GLITCH, a games and youtube festival.

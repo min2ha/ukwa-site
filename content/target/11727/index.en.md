@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Van Rietvelde (paul_van_r) on Twitter
-
 <p>The twitter profile of althete Paul van Rietvelde, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

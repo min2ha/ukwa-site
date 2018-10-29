@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Teck Khong UKIP (@DrTeckKhong) on Twitter (UKIP Politician)
-
 Teck Khong stood as UK Independence Party (UKIP) candidate for Harborough in the 2017 General Election but was not elected.

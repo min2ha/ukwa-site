@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Tories' fury as Sir Cover-Up freezes out anti-EU ministers: Jeremy Heywood orders civil servants to produce reams of propaganda on why UK must remain - and bans Eurosceptics from receiving any assistance  
-

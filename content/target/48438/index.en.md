@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Pupil Inclusion Network Scotland
-
 Site of an organisation supporting the voluntary sector and partners in work with learners who are vulnerable or excluded. 

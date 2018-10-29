@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Portcullis
-
 Portcullis is an IT security company based in Watford.

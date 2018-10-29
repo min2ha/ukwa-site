@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: "Prince William and Professor Green warn west London school pupils over dangers of cyberbullying"
-
 Evening Standard article about cyberbullying

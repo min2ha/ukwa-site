@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-#  BBC News: De la Rue given more time to challenge passport decision
-
 On April 3rd 2018, the government granted a two-week extension in the process to decide who would make UK passports after Brexit. British company De La Rue - which had lost the £490m contract to French-Dutch Gemalto in March - had requested the longer "standstill period", which was agreed by the Home Office.
 
 

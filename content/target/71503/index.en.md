@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Music Festival
-
 Website for the Oxford Music Festival.

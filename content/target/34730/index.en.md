@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Culture NL: North Lanarkshire's War - The People's Story of the First World War
-

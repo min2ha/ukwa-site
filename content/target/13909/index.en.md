@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Orkney Islands Council: Independence Referendum 2014
-
 None

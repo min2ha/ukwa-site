@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Martial Arts Alliance (UKMAA)
-
 The UK Martial Arts Alliance (UKMAA) is a network of martial arts instructors and personal safety trainers.

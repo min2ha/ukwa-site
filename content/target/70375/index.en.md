@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  COGs-CrawleyOldGirls (@CrawleyCOGs) on Twitter
-
 Multi Award winning initiative for “Old Girls” to learn to play football. Fun, recreational football for women who just want to play. 

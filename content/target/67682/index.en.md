@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# WES (Women's Engineering Society)
-
 The Women's Engineering Society is a charity and a professional network of women engineers, scientists and technologists, offering support and professional development. 

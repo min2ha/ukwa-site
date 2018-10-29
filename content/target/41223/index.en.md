@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Radio Times: What exactly is happening to BBC online recipes?
-
 An article discussing the BBC Recipes news story

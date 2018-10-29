@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Oh My Edinburgh
-
 Site of an Edinburgh based independent review magazine.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-11T09:00:00Z"
 }
 
-# Merkinch Local Nature Reserve
-
 Merkinch Local Nature Reserve was declared on 28 November 2007 as the result of a formal agreement between the Highland Council and British Waterways.

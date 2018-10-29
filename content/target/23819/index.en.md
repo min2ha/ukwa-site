@@ -10,5 +10,3 @@
   "start_date": "2015-05-13T10:00:00Z"
 }
 
-# Pontypridd Town Council
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We have kept our promises, David Cameron insists, repeatedly 
-

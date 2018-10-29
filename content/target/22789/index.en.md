@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bella Caledonia (@bellacaledonia) on Twitter
-
 Twitter profile belonging to Bella Caledonia, a political news site supporting Scottish independence.

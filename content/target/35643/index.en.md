@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: EU referendum: impact of an EU exit in key UK policy areas
-
 Research briefing

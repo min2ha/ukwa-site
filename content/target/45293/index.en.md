@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Maldon District Council
-
 The website of Maldon District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Landscape Institute: The EU Referendum
-
 Report briefing about issues surrounding the EU referendum, especially environment and landscape

@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Students' Union, Queen Margaret University
-
 Site of the students' union at Queen Margaret University, Edinburgh, dealing with welfare, social and sporting life at the university.

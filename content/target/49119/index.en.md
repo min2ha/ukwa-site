@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitehill Welfare Football Club
-
 Site for a Scottish amateur football club based in Rosewell, Midlothian, Scotland.

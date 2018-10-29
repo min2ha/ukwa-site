@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Llanbedr Parishes
-
 The five parishes of the Llanbedr area are situated near Ruthin, Denbighshire.

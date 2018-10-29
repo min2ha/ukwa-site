@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Scottish Borders LGBT Forum on Facebook
-
 Facebook page for a support group for LGBT people in the Scottish Borders.

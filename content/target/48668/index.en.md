@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Royal Academy of Arts: Revolution: Russian Art 1917-1932
-
 Exhibition at the Royal Academy

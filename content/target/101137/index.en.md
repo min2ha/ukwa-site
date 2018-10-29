@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Health Observatory
-
 None

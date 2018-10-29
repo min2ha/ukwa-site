@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Pensioners' Convention: A pensioners' manifesto
-
 Manifesto calls on all candidates in the 2017 general election to support a manifesto that will put the concerns of today’s and tomorrow’s pensioners at the heart of the political process.

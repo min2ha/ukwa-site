@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Saga: A manifesto for Britain's over 50s 
-
 Saga is a British company focused on serving the needs of those aged 50 and over. Saga Holidays provides package holidays and tours across the globe. Saga Services provides a wide range of Insurance products - Motor, Home, Travel, Caravan, Commercial Van, Pet, Private Medical, Life Insurance, Motorhome and legal services. Saga Personal Finance provides savings accounts, credit cards, travel money, financial advice, equity release, share dealing, annuities, life assurance & long term care funding advice.

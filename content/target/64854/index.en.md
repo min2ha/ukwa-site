@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Who do you think you are?: Caribbean ancestors
-
 The subsection of the genealogy magazine related to Caribbean ancestors.

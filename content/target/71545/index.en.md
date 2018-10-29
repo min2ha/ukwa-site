@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Migration Advisory Committee: EEA Migration in the UK: final report
-
 The report provides the MAC’s conclusions and recommendations for the UK’s post-Brexit work immigration system, after the implementation period.
 

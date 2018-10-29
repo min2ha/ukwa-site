@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Week UK, The: How to find out your company’s gender pay gap
-
 An article about finding out the pay gap in your company

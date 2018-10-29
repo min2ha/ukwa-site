@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Herefordshire LINk
-
 None

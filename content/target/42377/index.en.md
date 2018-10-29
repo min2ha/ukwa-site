@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# Cafe Royal Books
-
 Showcases weekly photographic publications focussing broadly on aspects of change, usually within the UK. Café Royal Books (founded 2005) is an independent publisher based in the North West of England.

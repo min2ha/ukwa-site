@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Derbyshire Lives through the First World War 
-
 Derbyshire Lives through the First World War is funded by the Heritage Lottery Fund and Derbyshire County Council. The project aims to help Derbyshire communities to mark the centenary of the outbreak of the First World War in 2014 and to recognise the ongoing contribution of Derbyshire people throughout the War.

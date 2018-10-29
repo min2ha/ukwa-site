@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Agricultural Land Tribunal for Wales | Tribiwnlys Tir Amaethyddol Cymru
-
 The Agricultural Land Tribunal for Wales (ALT Wales) is an independent tribunal that has been set up to resolve certain disputes relating to agricultural holdings. 

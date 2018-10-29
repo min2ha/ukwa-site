@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Labour West Midlands
-
 Website of West Midlands Labour - providing information on Labour MPs and MEPs in the West Midlands, events, and how to get involved.

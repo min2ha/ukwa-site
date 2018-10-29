@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Fears over funding for Surrey's Magna Carta celebrations
-

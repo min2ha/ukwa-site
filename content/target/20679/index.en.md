@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gerard McMahon (@gerardmcmahon86) on Twitter
-
 The Twitter profile of Gerard McMahon, Scottish Labour candidate for  Angus in the May 2015 General Election.

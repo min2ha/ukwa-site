@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Prince's Lodge No. 607
-
 Site of a masonic lodge located in Ibrox, Glasgow and affiliated with the Grand Lodge of Scotland.

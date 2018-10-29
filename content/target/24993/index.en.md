@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 52 minutes that shook Britain: Miliband, Clegg and Farage all resign in election bloodbath 
-
 None

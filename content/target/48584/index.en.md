@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Learning, Skills and Innovation Partnership for South East Wales | Partneriaeth dysgu, medrau ac Arloesi i De Ddwyrain Cymru
-
 The Learning, Skills and Innovation Partnership for South East Wales was established in September 2014 and is one of three regional skills partnerships in Wales.

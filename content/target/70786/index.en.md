@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# St David's City and the Peninsula
-
 This is a tourist information guide to St David's City and the Peninsula in Pembrokeshire. It is a Coast & Country Holidays of Wales website.

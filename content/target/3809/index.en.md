@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wiltshire Gazette and Herald
-
 None

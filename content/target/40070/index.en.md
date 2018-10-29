@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Elin Jones on Facebook (Plaid Cymru candidate for Ceredigion)
-
 Elin Jones is the Plaid Cymru candidate for Ceredigion at the 2016 National Assembly Election. 

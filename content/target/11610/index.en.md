@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eileen Roe (@eileenroe1) on Twitter
-
 2016 British Criterium Champion & Scottish Road Race Champion, Represented @britishcycling @UCIDoha2016 & @team_scotland @glasgow2014

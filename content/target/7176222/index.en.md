@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Ellee Seymour, ProActive PR
-
 None

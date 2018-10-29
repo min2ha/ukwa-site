@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Boston Borough Council
-
 Website of Boston Borough Council offers news, information about council services, access to consultations, policy documents and financial information, and full text of committee papers and agendas

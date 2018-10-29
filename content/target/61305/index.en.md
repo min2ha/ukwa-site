@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Gwent Central Football League
-

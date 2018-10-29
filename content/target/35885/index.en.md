@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# TheCityUK
-
 TheCityUK promotes UK-based financial and related professional services.   

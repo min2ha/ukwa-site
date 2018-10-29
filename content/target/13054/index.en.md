@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Ashmolean Museum, The
-
 The Ashmolean is the University of Oxford’s museum of art and archaeology, founded in 1683. 

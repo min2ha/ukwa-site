@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Spalding RFC (@SpaldingRFC0 on Twitter
-
 The official Twitter account of Spalding Rugby Football Club.

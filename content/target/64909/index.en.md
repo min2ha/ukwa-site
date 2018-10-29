@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Trent Park
-
 The Equestrian Centre at Trent Park is a vibrant, professional riding school for London and the Home Counties as well as a British Horse Society Equestrian Centre of Excellence.

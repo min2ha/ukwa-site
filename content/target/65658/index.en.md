@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Côr Meibion Mynydd Mawr Male Voice Choir
-
 Mynydd Mawr Male Voice Party was founded in the Tumble area in 1913. They rehearse at Capel Bethesda, Tumble.

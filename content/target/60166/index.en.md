@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit will make Jeremy Corbyn's job harder - Tony Blair
-
 Speaking to the BBC's John Pienaar, Tony Blair defended his call for a second EU referendum. One member of Labour's shadow cabinet told the BBC Mr Blair's intervention was "utterly unhelpful".

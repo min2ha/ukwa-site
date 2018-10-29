@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Shakespeare’s Globe to stage King John for 800th anniversary of Magna Carta 
-

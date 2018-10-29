@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# National Civil War Centre, Newark Museum
-
 National Civil War Centre at the Newark Museum is a new centre focused on the brutal seventeenth-century conflicts that tore a nation apart.

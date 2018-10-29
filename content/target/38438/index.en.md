@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# One in Five (@oneinfivescot) on Twitter
-
 Twitter profile of One in Five, a campaign to encourage, empower and increase political participation amongst disabled people in Scotland. 

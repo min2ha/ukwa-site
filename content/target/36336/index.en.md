@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU directives on dredging made this crisis worse, says Stephen Pollard
-
 Comment by Stephen Pollard

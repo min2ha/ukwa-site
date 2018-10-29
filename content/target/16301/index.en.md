@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T00:00:00Z"
 }
 
-# Lost City of Trellech Project, The
-
 <p>The site records the excavation of Trellech in Monmouthshire that was once the largest settlement in medieval Wales.</p>

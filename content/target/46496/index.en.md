@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Renewable Wales Conference
-
 Renewable Wales is the annual conference of RenewableUK Cymru, the trade body for sustainable energy & infrastructure in Wales.

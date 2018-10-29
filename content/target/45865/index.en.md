@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brace yourself for the post-Brexit 'rollercoaster' ride: Hammond warns of 'turbulence' and hints at tax cuts but says Britain IS strong enough to thrive outside EU  
-

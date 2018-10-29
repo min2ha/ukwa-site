@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Rebecca F. Hardy
-
 Rebecca F. Hardy works in mixed media collage, sculpture, installations and photography and co-owns a makers business called DyfalDonc with her husband and visual artist Morgan Griffith. The blog was updated between 2010 and 2015.

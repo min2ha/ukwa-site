@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: We need a new Magna Carta, fit for our modern democracy
-

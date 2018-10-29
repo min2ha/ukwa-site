@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Marie Claire: This anti-domestic violence campaign has gone viral
-
 An article in Marie Claire about an anti-domestic violence campaign that went viral before England's 2018 World Cup opening game.  

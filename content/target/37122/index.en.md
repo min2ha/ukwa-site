@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EuU referendum: Foxtons warns on Brexit as profits slip
-
 Independent, The: EuU referendum: Foxtons warns on Brexit as profits slip

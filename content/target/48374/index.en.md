@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 1st Dec. 2016: Brexit: UK-EU Relationship
-
 The Lords debate the best options for the United Kingdom’s future relationship with the European Union following the referendum vote to leave.

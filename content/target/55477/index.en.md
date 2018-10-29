@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Official Home of Ricky 'The Hitman' Hatton
-
 A website for the British boxer Ricky hatton, comprising of a personal profile/blog and an online shop selling his merchandise.

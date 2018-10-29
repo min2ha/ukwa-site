@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Non League Magazine, The
-
 TheNonLeague is a monthly football magazine for supporters of non-league football across England.

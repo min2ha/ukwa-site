@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Inverness Caledonian Thistle Football Club
-
 Site of a senior Scottish association football club bases in the city if Inverness, Scotland.

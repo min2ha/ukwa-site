@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bellie and Speymouth Parish Church
-

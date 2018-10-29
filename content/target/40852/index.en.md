@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# pool in wharfedale news
-
 Topical news, views and contacts for the local area.

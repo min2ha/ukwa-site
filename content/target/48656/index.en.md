@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# CoastWord
-
 Site of a feastival of poetry, stories and song based in Dunbar, East Lothian, Scotland.

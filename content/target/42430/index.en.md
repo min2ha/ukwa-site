@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glenuig Community Association and Glenuig Hall
-

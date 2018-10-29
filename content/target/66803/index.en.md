@@ -10,5 +10,3 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Royal Statistical Society - Glasgow Local Group
-

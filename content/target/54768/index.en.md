@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Pharmacy Research UK
-
 Pharmacy Research UK is the principal research charity supporting pharmacists and pharmacy to improve healthcare for the benefit of patients and the public.

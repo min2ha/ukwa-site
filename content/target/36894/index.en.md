@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# University and College Union Wales Manifesto: Making education work for all
-

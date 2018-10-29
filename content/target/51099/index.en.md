@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mellons Baptist Church, Cardiff
-

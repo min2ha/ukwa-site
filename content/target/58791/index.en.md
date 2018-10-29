@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Lochaber Cinema Group
-
 Site of a project to establish a cinema in Fort William.

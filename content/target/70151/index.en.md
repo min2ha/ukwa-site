@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# Karine Polwart
-
 Website of the Scottish folk singer, musician and writer Karine Polwart.

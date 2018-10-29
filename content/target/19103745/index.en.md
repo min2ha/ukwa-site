@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London City Mission (LCM)
-
 None

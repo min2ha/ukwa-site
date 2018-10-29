@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Political Betting: So Nick vs Nigel is on but it should be on national TV not LBC
-
 None

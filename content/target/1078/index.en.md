@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Violence Indicator Profiles for England resource
-
 None

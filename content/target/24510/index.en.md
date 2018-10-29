@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory crackdown on mortgage 'age discrimination'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# National Museums Northern Ireland
-
 National Museums Northern Ireland runs three sites (Ulster Museum, Ulster Folk and Transport Museum, Ulster American Folk Park) to present collections that reflect the creativity, innovation, history, culture and people of Northern Ireland.

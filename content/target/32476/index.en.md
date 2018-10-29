@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Love Patchwork and Quilting
-
 Online version of the Love Patchwork and Quilting magazine.

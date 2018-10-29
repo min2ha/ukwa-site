@@ -10,6 +10,4 @@
   "start_date": "2015-05-27T09:00:00Z"
 }
 
-# European Aviation Group
-
 European Aviation was founded in 1989 and has grown into a multi national group of specialist companies providing services to the aviation industry.

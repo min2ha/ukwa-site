@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chacha (ChaJoiner) on Twitter
-

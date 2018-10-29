@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cautionary Tales and WW1 Explorations at the Literary & Philosophical Society
-
 Project working with year 5 students (8-9 years) from Walkergate Primary school to investigate the heritage of World War One as it relates to them, through the use of the Lit & Phil children’s library and archives.

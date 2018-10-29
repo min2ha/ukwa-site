@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: UK would have to pay EU another £2.4bn if we vote to stay in, warn Boris and Gove as they write LETTER to Cameron and Osborne saying public 'cannot trust' their pledges   
-

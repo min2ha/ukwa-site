@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# British Friends of the Hebrew University
-
 The British Friends of the Hebrew University (BFHU) is a national charity dedicated to supporting and promoting the Hebrew University of Jerusalem.

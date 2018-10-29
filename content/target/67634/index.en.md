@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Change.org: Stop taxing periods. Period
-
 A public petition asking the UK treasury to end tax on womens' sanitary products.

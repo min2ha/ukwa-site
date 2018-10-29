@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Lodge St. Andrew No. 25
-
 Site of a masonic lodge located in St. Andrews, Fife, and affiliated with the Grand Lodge of Scotland. 

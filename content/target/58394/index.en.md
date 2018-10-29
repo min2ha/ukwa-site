@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Islay Book Festival
-
 Site of an annual literary festival on the island of Islay, Argyll & Bute.

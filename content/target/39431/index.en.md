@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# How WW1 affected a small island community
-
 Project to preserve, document and disseminate the impact and the legacy of WW1 on a Shetland island. 

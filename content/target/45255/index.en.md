@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Barcaldine Castle
-
 Site of a guest house located in a historic castle at Barcaldine, Argyll & Bute.

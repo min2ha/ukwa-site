@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Eléonore Pironneau
-
 <p>Eléonore Pironneau is a French artist living in London.</p>

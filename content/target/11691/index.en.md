@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark dry (Markdry) on Twitter
-
 <p>The twitter profile of althete Mark Dry, hammer thrower and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

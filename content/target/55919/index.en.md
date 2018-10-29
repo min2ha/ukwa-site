@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Mess Up The Mess
-
 Mess Up The Mess Theatre Company Ltd is a theatre company based in Ammanford, Carmarthenshire.

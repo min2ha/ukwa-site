@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Saltire Thistle Football Club
-
 Site of an LGBT friendly football club located in Glasgow.

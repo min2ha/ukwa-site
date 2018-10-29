@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Resource Solutions Group
-
 Resource Solutions Group, or RSG is an experienced and well established recruitment partner.

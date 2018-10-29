@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: The Ulster Fry on the 'Ash for Cash' scandal
-
 A satirical look at the 'Ash for Cash' scandal at Stormont.

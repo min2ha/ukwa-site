@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# IMAAN
-
 The website of a volunteer-led charity for and by LGBTQI Muslims.

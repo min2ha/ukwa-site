@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: MPs can stop no-deal Brexit, says Labour's McDonnell
-
 Parliament can stop the UK leaving the EU without negotiating a deal, shadow chancellor John McDonnell said. There was not a Commons majority for such an outcome, he told the BBC, and Labour would work with other parties to stop the "damage" it would cause.
 

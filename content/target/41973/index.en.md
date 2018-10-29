@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Alex Salmond says Scotland would leave UK in event of Brexit 
-
 Guardian, The

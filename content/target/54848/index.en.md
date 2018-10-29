@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# MirrorWeb
-
 A British web archiving company.

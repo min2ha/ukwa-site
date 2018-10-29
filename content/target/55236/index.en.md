@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Penny Hallas 
-
 Penny Hallas is an artist based in Powys, working in various media: drawing, painting, printmaking, video, sculpture. 

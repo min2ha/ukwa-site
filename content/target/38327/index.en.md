@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Racecard: The Easter Rising was an inspiration for anti-colonial struggles
-
 Article by Michael Silvestri about the influence of the Easter Rising on Asian and African anti-imperial liberation movements.

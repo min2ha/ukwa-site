@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Chambers of Commerce: BCC open letter to PM: Businesses need clarity on Brexit
-
 Written in February 2018, this open letter to Prime Minister Theresa May, made an urgent appeal for clarity on the government’s objectives.

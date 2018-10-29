@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Scottish Dance Theatre
-
 Site of Scotland’s national contemporary dance company, part of Dundee Rep Theatre and based in Dundee.

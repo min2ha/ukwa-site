@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Blackburn Society of Friends
-

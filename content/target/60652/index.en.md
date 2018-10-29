@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Anfield Wrap, The
-
 The Anfield Wrap is a podcast and website all about Liverpool FC. 

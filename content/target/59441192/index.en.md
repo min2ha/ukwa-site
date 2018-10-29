@@ -10,5 +10,3 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Royal Navy Research Archive
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-#  Propel Cymru Wales
-
 Propel Wales is a grassroots movement that campaigns for individual, community and national sovereignty for Wales. The movement was established by Neil McEvoy, Assembly Member for South Wales Central.

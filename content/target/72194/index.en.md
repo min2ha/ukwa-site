@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Helen Muspratt Photographer
-
 Helen Margaret Muspratt (1907 – 2001) was a pioneering British photographer, and many of her photographs are held at the National Portrait Gallery, London.  Commissioned by the Left Book Club in 1937, she photographed miners and unemployed laborers in the Rhondda valley in south Wales with a series of memorable images.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: May and Davis 'agree customs backstop wording
-
 The UK's proposed "backstop" plan for trade with the EU after Brexit was published after an "expected" end date - of 2021 - was included in it. It followed crunch meetings between Prime Minister Theresa May and Brexit Secretary David Davis, who insisted a cut-off date be included. The proposal would see the UK match EU trade tariffs temporarily in order to avoid a hard Irish border post-Brexit.
 
 

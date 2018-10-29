@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# The Northern Ireland Childminding Association
-
 NICMA works to promote quality childcare within home-based settings throughout Northern Ireland. 

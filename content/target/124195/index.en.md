@@ -10,5 +10,3 @@
   "start_date": "2006-01-03T00:00:00Z"
 }
 
-# That Roundhouse
-

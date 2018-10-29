@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: Magna Carta: Four Copies To Be United In 2015
-

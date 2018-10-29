@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Aberdeen Artists Society
-
 Site of an artists-led membership organisation, which aims to raise awareness of contemporary visual arts in Aberdeen and Scotland and provides a forum for visual artists and makers to exhibit and promote their work.

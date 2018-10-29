@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Swansea Uni Labour (@swanlabstudents) on Twitter
-
 Twitter account of Swansea Uni Labour.

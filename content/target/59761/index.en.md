@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of York-Health, Econometrics and Data Group: Not for everyone: Personality, mental health, and the use of online social networks
-
 Research paper about the online social networking - mental health relationship by examining to what extent the relationship between these variables is personality-specific

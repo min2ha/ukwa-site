@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Young Ballet
-
 Young Ballet was created in 2002 by Marina O’Neill in Golders Green, North London, on the foundations of the Russian Studio of Art, which was owned by German Zamuel (RAD) and Valentina Muekhanova (Bolshoi Theatre) in 1998. Young Ballet Academy was registered in 2009.

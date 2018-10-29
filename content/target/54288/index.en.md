@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# GuildHE: Higher education 2022: priorities for government
-
  GuildHE sets out its priorities for whichever party ends up in government after the 2017 general election. These priorities aim to ensure that Britain's higher education sector continues to offer students world leading education, excellent support and real choice.

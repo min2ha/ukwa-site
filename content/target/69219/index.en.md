@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London Literature Festival
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roy Beggs
-
 Roy Beggs is a Northern Ireland Unionist politician in the East Antrim constituency.

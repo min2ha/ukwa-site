@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Times: EC expert’s advice on Scotland’s EU membership dismissed by Miliband
-
 None

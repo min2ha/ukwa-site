@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# SANDS Cymru
-
 SANDS Cymru provides a range of services for drug users, their families and friends. It was formerly known as the Swansea Drug Project.

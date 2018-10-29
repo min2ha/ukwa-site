@@ -10,5 +10,3 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Manic Street Preachers
-

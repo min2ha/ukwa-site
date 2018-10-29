@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Miss Thrifty Blog, The
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2014-04-10T00:00:00Z"
 }
 
-# Wales Employment and Skills Board | Bwrdd Cyflogaeth a Sgiliau Cymru
-

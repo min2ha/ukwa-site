@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dawn Bowden (@Dawn_Bowden) on Twitter (Labour candidate for Merthyr Tydfil and Rhymney) 
-
 Dawn Bowden is the Labour candidate for Merthyr Tydfil and Rhymney at the 2016 National Assembly Elections. 

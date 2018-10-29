@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 500 new free schools to be created if Conservatives win election
-
 None

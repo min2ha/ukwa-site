@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Scottish Records Association
-
 Site of an association formed to promote, preserve and use the historical records of and in Scotland.

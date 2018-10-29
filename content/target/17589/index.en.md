@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I've cleaned Ed Balls's windows for 17 years but he's never asked me to give him a receipt
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Pauline Jorgensen (@CllrPauline) on Twitter
-
 Pauline Jorgensen is the Conservative candidate for Merthyr Tydfil and Rhymney at the 2017 General Election.

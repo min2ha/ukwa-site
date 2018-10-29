@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Be honest: did you know there's an election this year? 
-
 None

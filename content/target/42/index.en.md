@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Charles Rennie Mackintosh Society
-
 The Charles Rennie Mackintosh Society is an independent, non-profit making charity, established in 1973 to promote and encourage awareness of the Scottish architect and designer, Charles Rennie Mackintosh.

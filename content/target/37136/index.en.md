@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Campaign Political organisation on Facebook
-
 A facebook page for the EU Referendum Campaign, an organisation campaigning for a referendum

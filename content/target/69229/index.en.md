@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sunday Express: 'RIP IT UP and START AGAIN!' Davis breaks silence with STUNNING Brexit advice for May
-
 He called on Theresa May to accelerate no-deal preparations, insisting leaving on World Trade Organisation terms was “not the end of the world”. With unprecedented candour, the former leadership contender laid bare the details of his short telephone conversation with the Prime Minister after his resignation and revealed how Doreen, his wife of 45 years, persuaded him to leave. Describing the Chequers compromise as “trapping Britain’s fingers in the mangle”, he claimed the EU would agree to a better deal as it came under increasing pressure from the other 27 member states in the autumn of 2018.
 

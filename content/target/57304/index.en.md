@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Loch Ard History Group on Facebook
-
 Facebook page for a local history group located at Kinlochard Stirlingshire.

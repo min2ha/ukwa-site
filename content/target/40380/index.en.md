@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Scottish Oral History Group
-
 Site of a forum for news, information and discussion, training, workshops and advice about Scottish Oral History.

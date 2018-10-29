@@ -10,6 +10,4 @@
   "start_date": "2015-05-11T09:00:00Z"
 }
 
-# Eglwysi Bro Aled
-
 Bro Aled is in Denbighshire. This is the site for the Presbyterian and Independent churches of the area.

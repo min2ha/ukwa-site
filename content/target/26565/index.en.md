@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Exit polls make Conservatives largest party in hung parliament
-
 None

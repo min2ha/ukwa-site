@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Warwickshire Amphibian and Reptile Team (WART)
-
 None

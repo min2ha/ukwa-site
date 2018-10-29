@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Curzon Cinemas
-
 <p>Independent England-based cinema chain, showing art film.</p>

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Met Office: UK Climate Projections
-
 UKCP09 is the name given to the UK Climate Projections. The UKCP09 website allow users to access information on plausible changes in 21st century climate for the United Kingdom. UKCP09 provides future climate projections for land and marine regions as well as observed (past) climate data for the UK.

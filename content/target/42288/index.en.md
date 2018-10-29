@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EatSleepFootyRepeat (@eatsleep_footy) on Twitter
-
 podcast all about Welsh football Twitter account.

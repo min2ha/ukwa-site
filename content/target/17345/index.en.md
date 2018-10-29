@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Balls red-faced after forgetting name of Labour business supporter
-
 None

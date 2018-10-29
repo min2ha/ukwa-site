@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# StrongerInCambs (@StrongerInCambs) on Twitter
-
 Cambridge local campaign for the UK to stay in the EU.

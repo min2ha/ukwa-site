@@ -10,7 +10,5 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# St Paul's Winchmore Hill 
-
  St Paul's Church Winchmore Hill
 A Church of England Parish Church serving London N21​

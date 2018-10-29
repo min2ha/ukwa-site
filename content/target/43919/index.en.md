@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ireland, Brexit and why the EU must be opposed
-
 Analysis of the impact of the EU Referendum result on Ireland and why the Socialist Party in Ireland supported the leave vote.

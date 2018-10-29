@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Transparency International
-
 Transparency International Defence & Security is a global programme of Transparency International based within Transparency International UK.

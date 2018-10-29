@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# BSRIA: Blog
-
 <p>This is a blog about building services, by staff and guest writers at BSRIA.</p>

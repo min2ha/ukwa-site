@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Clatt Village
-
 Community website of the village of Clatt, Aberdeenshire, providing information about the village, its history and its amenities.

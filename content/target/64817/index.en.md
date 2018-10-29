@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Welsh and UK governments agree Brexit bill deal
-
 After months of negotiation, the UK and the Welsh government reached agreement on transfer of powers currently operated by EU officials back to Wales when the UK leaves the EU.

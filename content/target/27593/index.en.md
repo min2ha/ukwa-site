@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Who is Liz Kendall, the Labour leadership contender? 
-
 None

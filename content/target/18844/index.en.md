@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Odiham cyclist completes 1,188m journey to commemorate 800th anniversary of the Magna Carta
-

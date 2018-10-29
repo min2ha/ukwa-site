@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Mirror, The: Premier League stars 'using black magic in bid to transform themselves into world beaters'
-
 Players are spending thousands of pounds on witchdoctors to learn new skills and to try and break the curse of injury.

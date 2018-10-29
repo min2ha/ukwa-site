@@ -10,5 +10,3 @@
   "start_date": "2011-02-28T00:00:00Z"
 }
 
-# NHS Clinical Knowledge Summaries (CKS)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Glasgow Caledonian Fiddle Orchestra
-
 Site of an orchestra playing traditional Scottish reels, jigs, strathspeys, waltzes, polkas, two-steps, slow airs and folk tunes and based in Glasgow - formerly known as Glasgow Caledonian Strathspey & Reel Society.

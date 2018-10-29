@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kent Green Party
-
 Website of Kent Green Party, providing information on Green candidates in Kent constituencies, campaigns, manifesto and local, national and party news.

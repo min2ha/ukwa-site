@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# John Avon Art
-
 John Avon is a fantasy and science fiction illustrator born in Cardiff. John Avon Art is a partnership between John Avon and his friend Guy Coulson.

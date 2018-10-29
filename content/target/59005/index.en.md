@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Irish Voice
-
 Site of a newspaper by and for the Irish community and diaspora in Scotland.

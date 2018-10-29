@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chinese for Labour (@Chinese4Labour) on Twitter
-
 Twitter feed of Chinese for Labour, documenting their activities during the 2017 general election campaign

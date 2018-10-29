@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# John Stewart : fighting for a fair deal for Aberdeen!
-
 None

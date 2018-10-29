@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'It doesn't feel credible': the political parties' pledges rated and slated
-
 None

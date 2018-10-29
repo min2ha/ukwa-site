@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Bude Art Society
-
 None

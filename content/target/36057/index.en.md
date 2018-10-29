@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ross England (@RossEngland) on Twitter (Conservative candidate for Vale of Glamorgan)
-
 Ross England is the Conservative candidate for Vale of Glamorgan at the 2016 National Assembly for Wales election. 

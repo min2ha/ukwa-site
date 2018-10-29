@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Argos.co.uk
-
 <p>Argos is a catalogue merchant based in the United Kingdom and Ireland.</p>

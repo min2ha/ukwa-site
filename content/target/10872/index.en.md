@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Tour de France Diary
-
 BBC news website. Tour de France diaryf

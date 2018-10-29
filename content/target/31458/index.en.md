@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Trusted Reviews
-
 Trusted Reviews is a website with news and reviews from the world of technology and IT.

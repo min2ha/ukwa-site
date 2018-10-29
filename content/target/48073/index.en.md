@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas’ Church, Greetland & West Vale
-
 ST Thomas' Church Greetland and West Vale official website.

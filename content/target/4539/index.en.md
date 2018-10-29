@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Centre of African Studies, University of London
-
 None

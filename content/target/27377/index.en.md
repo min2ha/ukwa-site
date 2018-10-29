@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# St David's Medical Foundation (SDMF)
-
 St David's Medical Foundation is an independent charity raising funds to support Medical Research and Education at the College of Medicine in Swansea. St David's Medical Foundation supports the advance of the health of people in Wales and across the world. 

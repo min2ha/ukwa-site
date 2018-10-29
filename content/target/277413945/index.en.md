@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Velocity Digital: Who’s Winning the #indyref Social Media Battle Now?
-
 None

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: Policies not personalities will matter most when it comes to what will make a difference in our lives 
-

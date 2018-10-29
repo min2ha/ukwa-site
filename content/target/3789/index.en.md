@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Shepton Mallet Journal
-
 None

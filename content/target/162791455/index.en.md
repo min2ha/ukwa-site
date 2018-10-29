@@ -11,5 +11,3 @@
   "subject": "London Terrorist Attack 7th July 2005"
 }
 
-# July 7th People's Independent Inquiry Forum
-

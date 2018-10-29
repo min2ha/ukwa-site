@@ -11,6 +11,4 @@
   "subject": "E-publishing Trends/Emerging Formats"
 }
 
-# UK Wiki Lulu
-
 This is a wiki for the UK based writers, publishers, artists and musicians.

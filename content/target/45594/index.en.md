@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Presbyterian Church Wrexham
-
 Trinity Presbyterian Church Wrexham is part of the Presbyterian Church of Wales/ Eglwys Bresbyteraidd Cymru denomination.

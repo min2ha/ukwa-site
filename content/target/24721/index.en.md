@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tulip Siddiq (Labour candidate for Hampstead & Kilburn) on Facebook
-

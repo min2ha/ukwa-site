@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Fan Dance Race Series, The
-
 The Fan Dance is a gruelling 24km non-navigational race over two sides of Pen Y Fan, the highest mountain in the Brecon Beacons. The Fan Dance has historically been an integral part of the British SAS Selection course.

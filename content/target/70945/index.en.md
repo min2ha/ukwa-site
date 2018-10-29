@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Witney Music Festival
-
 Website for the Witney music festival.

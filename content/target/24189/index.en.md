@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Knives out for Jim Murphy as poll suggests wipeout for Scottish Labour
-
 None

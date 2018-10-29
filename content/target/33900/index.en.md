@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Royal Ocean Racing Club, The 
-
 The Royal Ocean Racing Club is the principal organiser of offshore yacht races in the UK.

@@ -10,5 +10,3 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Lena the Hyena's Blog
-

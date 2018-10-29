@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Big brother's REVENGE: David Miliband slams kid brother Ed who stabbed him in the back to win leadership, for a 'backwards' Labour campaign which failed to woo middle classes
-
 None

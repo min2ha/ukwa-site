@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Anneleise Dodds (Labour MEP for the South East)
-
 Anneliese Dodds was elected as Labour MEP for South East England in 2014.  She then stood for election as Labour candidate for Oxford East at the 2017 general election and was successful.

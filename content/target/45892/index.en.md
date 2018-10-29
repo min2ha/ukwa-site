@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Clyde River Steamer Club
-
 Site of a club of enthusiasts interested in Clyde and United Kingdom coastal steamers and ferries.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron revives right to buy and says Tories are the 'party of working people'
-
 None

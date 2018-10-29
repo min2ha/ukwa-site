@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Burton Hospitals
-
 None

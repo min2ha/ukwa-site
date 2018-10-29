@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Deloitte: London 2012 - Success is in the detail
-

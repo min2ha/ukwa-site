@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Comunn Gàidhealach, An
-
 Founded in Oban in 1891, An Comunn Gàidhealach work towards the preservation and development of the Gaelic language. They organise the annual Royal National Mòd, as well as a network of provincial Mòds across Scotland.

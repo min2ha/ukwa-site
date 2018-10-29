@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron v Miliband: everything you need to know about the leaders' interviews
-
 None

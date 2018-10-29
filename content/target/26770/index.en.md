@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Ruth Harries
-
 Welsh contemporary stitch artist - former Welsh Artist of the Year.

@@ -10,6 +10,4 @@
   "start_date": "2008-09-04T00:00:00Z"
 }
 
-# Five Areas Resources
-
 The website for self-help resources using the popular five areas model

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rebekka Findlay (rebekkafindlay) on Twitter
-
 <p>The twitter profile of althete Rebekka Findlay, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

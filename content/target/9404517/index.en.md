@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Tales from the Reading Room
-
 None

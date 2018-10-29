@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hebdenbridgeweb: the Tour de France in Hebden Bridge
-
 Tour de france pages on Hebdenbridge website

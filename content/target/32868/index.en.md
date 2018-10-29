@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# R.W. Stevens
-
 R.W. Stevens & Company in Deanston Drive, Shawlands is a family tailoring firm specialising in school uniforms for the area.

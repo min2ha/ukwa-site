@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Stargazing Scotland
-
 Site of a visitor attraction offering opportunities to view constellations in the dark; located in Dumfries & Galloway

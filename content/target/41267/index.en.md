@@ -10,6 +10,4 @@
   "start_date": "2017-02-27T10:00:00Z"
 }
 
-# BBC Newsbeat (@BBCNewsbeat) on Twitter
-
 BBC Newsbeat provides news for 16 to 25-year-olds, showbiz stories and funny stuff. This is their Twitter profile.

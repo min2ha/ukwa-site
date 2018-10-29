@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Gambling websites must stop appealing to children, regulators warn
-
 News article about the recent action took by the Gambling Commission and the Advertising Standards Authority ordering online gambling sites to remove ads that would appeal to under-18s. 

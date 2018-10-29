@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Rhiannon Hooson
-
 Dr. Rhiannon Hooson is a Welsh poet and author. 

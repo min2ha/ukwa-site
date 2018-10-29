@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Doubtfire Gallery
-
 Site of a commercial art gallery located in Edinburgh, Scotland

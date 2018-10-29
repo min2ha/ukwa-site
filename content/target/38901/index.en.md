@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Dunoon Presents
-
 Site of the Business improvement District of Dunoon, Argyllshire, Scotland, showcasing businesses and events in the area.

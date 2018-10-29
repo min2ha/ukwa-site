@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hull City Council
-
 Official website of the Hull City Council.

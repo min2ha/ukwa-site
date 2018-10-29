@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# East Lothian News
-
 None

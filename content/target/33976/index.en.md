@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo French Medical Society, The 
-
 The Anglo French Medical Society is a professional organisation fostering interaction between UK and French doctors and medical students.

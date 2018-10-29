@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Mirror: Bank of England offers billions of pounds amid fears of a Brexit financial crisis
-

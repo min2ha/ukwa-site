@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ayr Academy Digital Commonwealth Project
-

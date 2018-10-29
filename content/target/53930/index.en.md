@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lindsay Whittle (@Lindsay_Whittle) on Twitter
-
 Lindsay Whittle is the Plaid Cymru candidate for Caerphilly at the 2017 General Election.

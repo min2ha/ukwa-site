@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes Blaenpennal | Historical Society of Blaenpennal
-

@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Crouch End Players (@crouchendplayrs) on Twitter
-
 A friendly, creative, community theatre group in London N8.

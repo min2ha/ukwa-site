@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Church Heritage Cymru
-
 Church Heritage Cymru is an online database containing over 1,350 records of church buildings in Wales. 

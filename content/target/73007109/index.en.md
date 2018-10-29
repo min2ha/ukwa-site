@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Artek Design House Ltd
-

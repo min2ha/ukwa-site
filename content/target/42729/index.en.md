@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Paths for All
-
 Site of a Scottish charity promoting walking as a activity for health.

@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# National South Asian Youth Dance Competition
-

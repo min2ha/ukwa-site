@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Post-election 'shambles' looms as 70 per cent of voters say SNP 'should not be able to veto UK government policies'
-
 None

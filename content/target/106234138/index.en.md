@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cooper Lomaz Recruitment
-

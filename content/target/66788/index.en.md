@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Luddon Construction Limited
-
 The website of Luddon Construction Limited, a civil engineering and building contracting company based in Glasgow, Scotland. 

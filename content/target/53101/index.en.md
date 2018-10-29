@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Iwan Wyn Jones (@Iwan_Wyn_Llafur) on Twitter
-
 Iwan Wyn Jones is the Labour Party Candidate for Montgomeryshire for the 2017 General Election.

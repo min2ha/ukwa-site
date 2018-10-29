@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Renewable Energy Foundation
-

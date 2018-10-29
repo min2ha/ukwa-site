@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Animator Ami Eiko Ishii Meredith
-
 Ami Eiko Ishii Meredith is a Japanese Animator who is living in Cardiff. She is also festival director for Kotatsu Animation festival.

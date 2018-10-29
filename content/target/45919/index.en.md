@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T11:00:00Z"
 }
 
-# Scottish History Society
-
 Site of a society and publisher of original sources relating to the history of Scotland. 

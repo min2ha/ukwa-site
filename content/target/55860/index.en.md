@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Glens and Kirrieuir Old Parish Church, The
-

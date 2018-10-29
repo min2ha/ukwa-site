@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scotland poll shows a nation on the verge of abandoning Labour
-
 None

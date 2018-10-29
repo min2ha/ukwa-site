@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fort William Football Club
-
 Site of a Scottish football club located in Fort William, Highland

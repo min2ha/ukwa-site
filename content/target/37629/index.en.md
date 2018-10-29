@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Now scaremonger Bank of England offers loans 'in case of Brexit': Bank says it will take extra precautions to ensure vote does not trigger another crisis   
-

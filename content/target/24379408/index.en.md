@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# British Gas
-
 British Gas is the nation’s largest energy provider.

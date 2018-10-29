@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Care and Repair Cymru
-
 Care & Repair Cymru are a national charitable body and actively work to ensure that all older people have homes that are safe, secure and appropriate to their needs. 

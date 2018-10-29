@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Black People Don't Vote
-
 Urges the Black community to register to vote and use their power to influence the result in marginal constituencies at the 2017 general election.

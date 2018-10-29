@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Basic state pension will rise to £7,000 a year by 2020 under Tories
-
 None

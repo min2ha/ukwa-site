@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Shakespear in St Dogmaels Abbey
-
 <p>The Abbey Shakespeare Players are a largely amateur company of actors and musicians drawn from all over Britain to St Dogmaels Abbey in Pembrokeshire. They have presented a different Shakespeare play in the Abbey each summer for more than two decades.</p>

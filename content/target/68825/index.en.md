@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotsman, The: Football
-
 Football News - The Scotsman - Scottish Sport

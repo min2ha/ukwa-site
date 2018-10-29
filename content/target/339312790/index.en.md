@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Movement Council of Wales (EuroMove Wales)
-
 European Movement Council of Wales (EuroMove Wales) is part of European Movement UK and is Britain’s longest standing pro-European organisation. 

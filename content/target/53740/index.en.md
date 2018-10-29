@@ -10,6 +10,4 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# David Kurten AM (UKIP candidate for Castle Point)
-
 Standing stood as UK Independence Party (UKIP) candidate for Castle Point in the 2017 General Election. He has been a UK Independence Party Member of the London Assembly since the London Assembly election, 2016.

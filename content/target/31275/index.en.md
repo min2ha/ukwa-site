@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# East Neuk of Fife Preservation Society
-

@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Christians on the Left
-
 Christians on the Left is a movement of Christians with a radical commitment to social justice, to protecting the environment and to fostering peace and reconciliation.
 

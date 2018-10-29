@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Labour MPs urge Jeremy Corbyn to show more fire over EU campaign
-
 Guardian, The

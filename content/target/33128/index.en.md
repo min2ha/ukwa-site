@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Cardiff Science Café
-
 Cardiff Science Café started in September 2004 and is the first one established in Wales.

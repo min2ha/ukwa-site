@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# B14 News
-

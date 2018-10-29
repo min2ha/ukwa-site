@@ -10,5 +10,3 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# St. Mary & St. Abaskhyron’s Coptic Orthodox Church, Llandudno
-

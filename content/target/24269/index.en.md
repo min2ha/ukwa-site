@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour writes off three quarters of Scottish seats after SNP surge
-
 None

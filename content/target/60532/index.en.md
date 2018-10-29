@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Mid-Wales Refugee Action | Y Canolbarth dros Ffoaduriaid
-
 Mid-Wales Refugee Action aims to support refugees by providing volunteers to work in camps and distribution centre, fundraise and collect donations.

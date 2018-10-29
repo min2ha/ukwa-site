@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Salisbury Cathedral and the Magna Carta's 800th anniversary by Tristan Cork
-

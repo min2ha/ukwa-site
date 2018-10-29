@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# Sussex Wildlife Trust
-
 Sussex Wildlife Trust has over 30,000 members who are helping to protect the natural heritage of East and West Sussex, and Brighton and Hove. 

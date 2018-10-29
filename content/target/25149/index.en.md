@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband: David Cameron helped cause Med refugee crisis by not supporting Libya
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridge University Hospitals
-
 None

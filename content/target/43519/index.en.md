@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Adam Smith Institute: The case for the EEA option: EVOLUTION NOT REVOLUTION
-
 A long presentation provided by the Adam Smith Institute advocating Brexit in favour of British membership of the European Economic Area and European Free Trade Association. 

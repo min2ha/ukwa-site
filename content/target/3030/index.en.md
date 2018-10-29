@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T08:00:00Z"
 }
 
-# Chris Watson
-
 A website and blog of Chris Watson, a sound recordist and President of the Wildlife Sound Recording Society.

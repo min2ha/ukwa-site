@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: No Scots Brexit powers deal despite UK-Welsh agreement
-
 The UK government was to publish changes to the EU Withdrawal Bill in an effort to end the long-running row with the devolved administrations. Welsh ministers reached an agreement with their UK counterparts on April 24th 2018. But the Scottish government said there was still a "key sticking point" and called for further changes to be made.

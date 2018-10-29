@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bicester Advertiser and Review 
-
 None

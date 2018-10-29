@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sain Records - Music from Wales
-
 <p>Welsh language music publishers based in Gwynedd.</p>

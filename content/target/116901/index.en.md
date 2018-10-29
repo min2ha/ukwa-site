@@ -10,5 +10,3 @@
   "start_date": "2006-02-07T00:00:00Z"
 }
 
-# PORES - an avant-gardist journal of poetics research
-

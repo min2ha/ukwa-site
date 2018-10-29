@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Liam Fox says there can be NO decision on the Irish border until a Brexit trade deal is thrashed out as row over the issue threatens to derail bid to start trade talks by the New Year   
-

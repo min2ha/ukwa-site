@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Wildlife Trust for Birmingham & the Black Country, The
-
 None

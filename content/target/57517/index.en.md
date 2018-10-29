@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Sophie Southgate
-
 Sophie Southgate is a ceramic artist, a recent graduate from Cardiff school of art and design with a studio in Orpington, Kent.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Workers' Educational Association Scotland
-
 Site of a organisation providing educational opportunities for workers throughout Scotland.

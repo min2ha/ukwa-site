@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stone Rugby on Pitchero
-
 The official website of Stone Rugby Union Football Club.

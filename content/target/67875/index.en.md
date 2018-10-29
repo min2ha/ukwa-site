@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  EU 'shooting itself in foot' by excluding UK from Galileo - David Davis
-
 David Davis hit out at the EU over its decision to exclude the UK from the Galileo satellite navigation system. He said throwing the UK out of Galileo would delay it by three years and cost the EU £1bn more.

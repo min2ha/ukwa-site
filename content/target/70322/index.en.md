@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Batticaloa Underprivileged Development Society (BUDS)
-
 BUDS is a non-governmental, non-religious and non-profitable organisation committed to actively enhance the dignity and quality of life of individuals, families and communities by eliminating barriers to opportunity and helping people in need reach their fullest potential through the power of work and education.

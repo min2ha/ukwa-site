@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Pembroke and Monkton Local History Society Blog
-
 This is the blog, began in 2010, for Pembroke and Monkton local history society.

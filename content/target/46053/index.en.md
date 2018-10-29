@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Aram Gallery, The
-
 The Aram Gallery is an independently curated space that encourages and promotes understanding of contemporary design. They do this by exhibiting the work of designers in their early careers.

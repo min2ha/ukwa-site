@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leading Britain's Conversation (LBC)
-
 LBC (originally the London Broadcasting Company) is a London-based national talk and phone-in radio station. It was one of the UK's first licensed commercial radio station, beginning broadcasting on 8 October 1973. LBC is owned by Global Radio and has a like-branded sister station – LBC London News – which is dedicated to rolling news, travel and weather, and is broadcast in London on medium-wave and DAB.

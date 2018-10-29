@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Media Manifesto 2015
-
 None

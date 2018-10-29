@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ipsos Mori: Reactions to Brexit across 16 countries
-
 A major new Ipsos survey across 16 countries provides an insight into how major countries have reacted to Brexit, and what comes next for Britain and the EU. The survey, among online adults aged under 65 in in Belgium, France, Britain, Germany, Hungary, Italy, Poland, Spain, Sweden and seven non-European countries (Canada, US, Japan, Russia, India, Australia and South Africa) provides our first measure of international public opinion.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health Impact Assessment Gateway
-
 None

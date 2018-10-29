@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Somerset Art Works (@SAW_Somerset) on Twitter
-
 Somerset Art Works exists to promote the visual arts and create opportunities for artists, designers & makers in Somerset by advocacy, promotion & development.

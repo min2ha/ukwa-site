@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tyranny of the minority: How the most sinister trend of our age is a poisonous conviction taking root on the Left and among the elite that ordinary people are too stupid to be trusted with voting
-
 Argues that remainers are convinced that anyone who voted to leave the EU is too stupid to have the vote. The response was the same in America when voters failed to elect Hilary Clinton.

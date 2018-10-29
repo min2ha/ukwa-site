@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Welcome to No 10 … but do prime ministers really move the stock market?
-
 None

@@ -11,5 +11,3 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queen's 90th Birthday Book
-

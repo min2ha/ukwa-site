@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: EU has brainwashed children with colouring books, claims Ukip MEP Patrick O'Flynn 
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Community Practitioners and Health Visitors Association - CPHVA Facebook
-
 None

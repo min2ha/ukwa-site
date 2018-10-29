@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Engineering Employers' Federation (EEF): Making the Future, Making Britain Great – a manifesto for manufacturing
-
 EEF's manifesto urges a new Government to use the opportunity to fully commit to a comprehensive industrial strategy, building on the momentum created by the surge in recent manufacturing performance in recent data including GDP and PMI figures.

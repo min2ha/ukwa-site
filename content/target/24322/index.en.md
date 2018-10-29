@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Iain Watson: What sort of deal would Miliband do?
-
 None

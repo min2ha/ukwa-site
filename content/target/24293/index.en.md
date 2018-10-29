@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Take more migrants or they will 'come through the window' says EU chief Jean-Claude Juncker
-
 None

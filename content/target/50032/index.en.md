@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Edinburgh Elim Church
-
 Site of an Elim Pentecostal church (Christian) located in Edinburgh.

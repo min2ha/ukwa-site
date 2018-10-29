@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Lace Guild
-
 A website for Lace enthusiasts. Their aims are to provide information about the craft of lacemaking, its history and use; to promote a high standard of lacemaking; and to encourage the design, development and professional presentation of lace

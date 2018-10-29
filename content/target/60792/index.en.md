@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Official Twitter account of British Ski & Snowboard (@TeamBSS) on Twitter
-
 Official Twitter account of British Ski & Snowboard (BSS) - the National Governing Body for Skiing & Snowboarding in the UK.

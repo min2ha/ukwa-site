@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Network
-
 Cambridge Network is a membership organisation based in the high technology cluster of Cambridge, UK. They bring people together - from business and academia - to meet each other and share ideas, encouraging collaboration and partnership for shared success.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-# Chester and North Wales Cyclists' Touring Club | CTC Caer a Gogledd Cymru
-
 This is Chester and North Wales CTC, part of the national network of the UK's largest and oldest Cyclists' Touring Club. 

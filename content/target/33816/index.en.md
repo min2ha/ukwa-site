@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Gravesham Borough Council
-
 Provides information on public services, news about council activities, and access to committee agendas and minutes

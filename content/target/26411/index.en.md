@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Former civil service chief questions Cameron's claim of Miliband 'con trick'
-
 None

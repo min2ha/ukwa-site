@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicola Benedetti (NickyBenedetti) on Twitter
-
 <p>The twitter profile of international classical violinist Nicola Benedetti.</p>

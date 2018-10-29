@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Jean Bonnin
-
 Jean Bonnin is a writer who listed in 'The Writers of Wales Database'. He lives and writes in South Pembrokeshire.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) Dunblane
-
 The Dunblane branch of the Scottish National Party (SNP).

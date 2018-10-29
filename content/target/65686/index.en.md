@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Eventbrite: Black Genealogy: Secrets of the 1817 Slave Registers Uncovered
-
 Trailblazing author and family historian Paul Crooks captivates his audience with an account of how he traced his African forebears enslaved on a sugar plantation in Jamaica, 200 years ago.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Conservative candidate Jesse Norman investigated over muffins
-
 None

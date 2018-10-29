@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: December 20th 2017: European Union (Withdrawal) Bill
-
 The government's key EU Withdrawal Bill cleared the latest stage of its Parliamentary journey after ministers avoided a defeat on the date of Brexit. MPs voted in favour of setting Brexit at 23:00 GMT on 29 March 2019 - with the caveat that ministers can change it if necessary.
 
 

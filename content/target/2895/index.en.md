@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Public Domain Review
-
 <p>A not-for-profit project dedicated to showcasing the most interesting and unusual out-of-copyright works available online.</p>

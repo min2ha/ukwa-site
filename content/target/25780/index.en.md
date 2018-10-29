@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election debate: Guardian columnists' verdict on how the challengers fared
-
 None

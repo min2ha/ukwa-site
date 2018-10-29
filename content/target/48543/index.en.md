@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# David Williamson (@dp_williamson) on Twitter 
-
 Political Editor of http://WalesOnline.co.uk , the Western Mail, Wales on Sunday, South Wales Echo and Daily Post and lobby correspondent for Liverpool Echo.

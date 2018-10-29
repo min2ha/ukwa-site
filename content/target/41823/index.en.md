@@ -10,5 +10,3 @@
   "start_date": "2016-05-26T12:00:00Z"
 }
 
-# Llangurig Community Council
-

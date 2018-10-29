@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Runnymede Trust: Racism and xenophobia are resurgent in the UK, and the centre-left is partly to blame 
-
 Post-Brexit, rather than engaging with the prejudice and misplaced fears of EU migration among one section of the working class, the Left has given validation to forms of bigotry that have deep roots in society.

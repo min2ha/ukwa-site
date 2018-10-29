@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Hainault Forest Website
-
 Website with information about history and wildlife Hainault Forest, in the London Borough of Redbridge. It is run by Brian Ecott.

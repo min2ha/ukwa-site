@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Daniel Burn (@DanielBurn4MP) on Twitter (candidate for Rochester and Strood)
-

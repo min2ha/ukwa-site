@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John's & King's Park Church
-
 Site of a Church of Scotland parish church in Dalkieth, Midlothian.

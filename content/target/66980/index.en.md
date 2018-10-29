@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Garage, The
-
 Website of The Garage, a live music venue and nightclub in Glasgow, Scotland. 

@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Mark Bowden
-
 Mark Bowden is a Welsh composer of chamber, orchestral and vocal music.

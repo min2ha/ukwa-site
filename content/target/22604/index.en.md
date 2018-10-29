@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Nigel Farage vows to make St George's Day a Bank Holiday
-
 None

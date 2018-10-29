@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Business for Scotland
-
 Business for Scotland is a campaigning business network and think tank, who support Scottish independence. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Royal Society for the Protection of Birds (RSPB), The
-
 The RSPB is a member of BirdLife International, a partnership of conservation organisations working to give nature a home around the world.

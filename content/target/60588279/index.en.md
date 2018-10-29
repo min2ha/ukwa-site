@@ -10,5 +10,3 @@
   "start_date": "2011-06-09T00:00:00Z"
 }
 
-# TPAS Cymru
-

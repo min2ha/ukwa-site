@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dawud Islam (@libdemhame) on Twitter
-
 Twitter profile of Dawud Islam, the Scottish Liberal Democrat candidate for Carrick, Cumnock and Doon Valley in the 2016 Scottish Parliamentary election.

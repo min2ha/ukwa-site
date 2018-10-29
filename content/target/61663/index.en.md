@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Express: "School, and not social media, is 'by far the biggest concern' for stressed children"
-
 Express article about social media and stress on children

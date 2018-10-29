@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Venerable Margaret Sinclair, The 
-
 Site dedicated to a venerated Roman Catholic nun born in The Cowgate, Edinburgh, and the focus of an annual pilgrimage at St. Patrick's Church, The Cowgate, Edinburgh.

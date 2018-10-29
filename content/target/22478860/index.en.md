@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Lifeline Expedition, The
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# New Words 
-
 The New Words festival is part of North-East Scotland's autumn season of performing arts festivals. 

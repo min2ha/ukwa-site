@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Job Hack Scotland
-
 An event aimed at young people aged from eighteen to thirty with experience of being out of work, in December 2015.

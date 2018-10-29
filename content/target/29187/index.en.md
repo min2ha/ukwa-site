@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Chalke Valley History Festival 
-
 The Chalke Valley History Festival

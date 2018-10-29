@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# SEALL
-
 Site of an arts events promoter based in Sleat, Isle of Skye, Scotland.

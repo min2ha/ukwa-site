@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Glass: General Election
-
 British Glass act as the UK industry’s focal point, playing the principal role in communicating the concerns and aspirations of our Members to the Government, the European Union and other external interest groups and trade bodies.

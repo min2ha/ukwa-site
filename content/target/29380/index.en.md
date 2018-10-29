@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Spectator: Ireland’s getting ready to forget the real Easter Rising
-

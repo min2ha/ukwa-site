@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Union of Students (NUS): New deal for the next generation
-
 The National Union of Students (NUS) is a voluntary membership organisation which makes a real difference to the lives of students and its member students' unions. NUS champions students to shape the future of education – and create a better world. We promote, defend and extend student rights.

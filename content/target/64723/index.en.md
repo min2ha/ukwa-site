@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Tepilo
-
 Tepilo is a UK-based online estate agent founded in 2009 by Sarah Beeny, a TV presenter on Channel 4 and digital product design studio, Codegent. Initially a free For Sale By Owner service, Tepilo re-launched in October 2013 as an online-only estate agent.

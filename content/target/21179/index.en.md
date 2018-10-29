@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jonathan Bell (@jonathanfbell) on Twitter (DUP candidate for Belfast South)
-

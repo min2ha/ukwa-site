@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Perth and Kinross Heritage Trust
-
 Conserving and promoting archaeology and architectural heritage in Perth and Kinross, for the benefit of residents, visitors and future generations.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Liberal Democrats: 2014 European Elections Manifesto
-
 None

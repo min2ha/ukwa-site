@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Catherine Stihler  (Labour MEP for Scotland)
-
 Catherine Stihler was first elected as a Labour MEP for Scotland in 1999. She was re-elected in 2004, 2009 and 2014. She has performed in the role of Deputy Leader of the European Parliamentary Labour Party (EPLP) from 2004 to 2006 and EPLP health spokesperson in the previous Parliament.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit talks resume: Get down to business, David Davis urges
-
 Mr Davis was in Brussels to launch the second round of formal talks. He said his priority was to "lift the uncertainty" for EU citizens living in the UK and Britons living in the EU.
 

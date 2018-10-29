@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Defeat of Ed Balls gives Tories their 'Portillo moment'
-
 None

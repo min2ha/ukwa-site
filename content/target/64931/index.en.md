@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Britain set to offer EU immigration deal 'very similar' to free movement
-
 Britain is set to make an offer to the EU on future immigration which would see arrangements “very similar” to current free movement rules put in place after Brexit. UK negotiators would like to put the proposal forward to coincide with a European Council summit in June, in a bid to break a deadlock in Brexit talks. The plan would see a high level of access to the UK for EU citizens in the future, but would leave the British government power to halt it in certain circumstances.
 

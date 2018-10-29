@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Scottish National Blood Transfusion Service
-
 Site of an national Scottish organisation responsible for collection and storage of emergency human blood supplies, and who campaign for donors.

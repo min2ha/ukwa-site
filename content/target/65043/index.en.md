@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# London Vision Clinic
-
 Personalised Laser Eye Surgery to world-class standards

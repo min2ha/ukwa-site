@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gay Men's Health
-
 Site of an organisation existing to improve the physical, mental, emotional, social and sexual health of all gay and bisexual men living in Edinburgh and the Lothians.

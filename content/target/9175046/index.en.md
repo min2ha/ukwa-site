@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Artists in Cornwall
-
 None

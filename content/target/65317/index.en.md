@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Jeremy Corbyn: both of May's customs union plans are implausible
-

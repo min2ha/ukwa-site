@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Dorset Moths
-
 The purpose of Dorset Moths is to bring together all those interested in moths in Dorset, and to promote the importance of moths as an indicator of biodiversity and habitat health.

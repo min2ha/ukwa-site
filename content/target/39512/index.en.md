@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Andrew RT Davies on Facebook (Conservative AM for South Wales Central)
-
 Andrew RT Davies is the Conservative AM for South Wales Central at the 2016 National Assembly for Wales elections.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# 911uk.com - Porsche Forum
-
 An online enthuiast community concerned with Porsche cars. Discusses meets & events, trackdays, road trips, driver training, information for newcomers and various other topics.

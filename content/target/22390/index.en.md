@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: The first sketches by the official artist of the 2015 general election campaign
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Neurological Alliance
-
 A membership organisation that aims to raise awareness and understanding of neurological conditions to ensure that every person diagnosed with a neurological condition has access to high quality, joined up services and information from their first symptoms, throughout their life.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Faifley Seventh-day Adventist Church
-
 Site of a Seventh-day Adventist Church located in Clydebank, West Dunbartonshire.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Puppet Animation Festival
-
 Site of a festival of puppetry and theatre, featuring a diverse range of events for children between the ages of 0-12 including puppet making and animation workshops, puppet theatre and animated films.

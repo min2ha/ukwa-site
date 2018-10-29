@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# UK Power Networks
-
 Large UK Electricity Distribution Company

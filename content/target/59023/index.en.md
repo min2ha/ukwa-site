@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Irish PM 'choreographed' threat to veto Brexit trade talks with EU chief negotiator to flush out British position on Ireland's border by mid December   
-

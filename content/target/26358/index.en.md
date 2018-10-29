@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Anger, apathy and hope: the great British election diary
-
 None

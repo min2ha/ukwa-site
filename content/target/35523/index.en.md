@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cllr Steve Burgess (@SteveAMBurgess) on Twitter
-
 The Twitter profile of Steve Burgess, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

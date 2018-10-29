@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Leaving EU would fuel Argentine aggression towards Falkland Islands, official claims
-

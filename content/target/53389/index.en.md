@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Traveller Movement, The: General Election June 2017
-
 The Traveller Movement is campaigning to ensure Gypsies, Travellers and Roma have their voices heard and are not used as a political football by those wanting to be elected.

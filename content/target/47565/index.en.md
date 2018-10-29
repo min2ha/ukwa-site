@@ -10,5 +10,3 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Wee Windaes – A Continuum o the Scots Leid
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 80 leading headteachers warn against Labour plan to reverse reforms to give schools freedom from councils
-
 None

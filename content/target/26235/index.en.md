@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# London First
-
 London First is a not-for-profit organisation, entirely funded by its members. Their agenda is developed independent of party political motives or affiliations. They represent the capital’s employers in key sectors such as financial and business services, property, transport, ICT, creative industries, hospitality and retail. Their membership also includes higher education institutions and further education colleges.

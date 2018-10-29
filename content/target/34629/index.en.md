@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# National Museum of Scotland: Next of Kin touring project
-
 The Next of Kin touring programme is commemorating the centenary of the First World War across Scotland through a touring exhibition, learning programme and online resources.

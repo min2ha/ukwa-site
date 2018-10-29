@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Birmingham Mail: A Harry Potter film marathon is happening in Birmingham
-

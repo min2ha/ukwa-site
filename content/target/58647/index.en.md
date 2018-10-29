@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Scotland Outdoors
-
 Site of a magazine based in Coldstream, Scottish Borders, which focuses on outdoor pursuits in Scotland, walking, running, climbing, camping, sailing, cycling, photography and wildlife.

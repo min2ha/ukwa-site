@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Boston United F.C.
-
 Boston United Football Club is an English football club based in Boston, Lincolnshire. The club participates in the National League North, the sixth tier of English football. 

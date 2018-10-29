@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Niall Flannery (@nyloflannaz) on Twitter
-
 The twitter profile of 400 metre hurdler Niall Flannery, member of Team England at the Glasgow 2014 Commonwealth Games.

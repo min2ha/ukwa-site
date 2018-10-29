@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times Higher Education: EU referendum: University of Oxford backs membership of union
-
 An article regarding the University of Oxford's public statement of support for remaining in the EU.

@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Lord Mayor's Diamond Jubilee Big Curry, The
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# GIVEMESPORT
-
 GiveMeSport is the home of exclusive player and manager interviews, providing fans with up-to-date features, match previews and match reviews to go alongside all the other great stuff on the site.

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Isle of Purbeck Walking Festival
-

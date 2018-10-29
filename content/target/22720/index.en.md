@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barry Mahoney (UKIP)
-
 Barry Mahoney stood as UKIP candidate for Leicestershire South at the 2015 General Election but was not elected.

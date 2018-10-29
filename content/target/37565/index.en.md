@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Global Counsel: Brexit: the impact on the UK and the EU
-
 This report examines the impact Brexit would have not only on the UK, but also on other countries in the EU.  •Brexit would mean years of uncertainty and wrangling to establish a new relationship between Britain and the EU, which would be damaging for businesses trading with and invested in the UK.  •All member states will feel the impact of Brexit as Europe will lose international esteem and foreign policy influence and have less leverage in trade negotiations

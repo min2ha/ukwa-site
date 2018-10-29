@@ -10,6 +10,4 @@
   "start_date": "2017-09-02T09:00:00Z"
 }
 
-# Paxton House
-
 Site of an historic house and visitor attraction, boasting a significant art collection and links to the National Galleries of Scotland, and located in Berwickshire, Scotland [Scottish Borders].

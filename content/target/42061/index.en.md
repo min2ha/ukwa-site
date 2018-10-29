@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Live for this music
-
 Blog about music covering hardcore, punk and related genres.

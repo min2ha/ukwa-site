@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Big Big Sing - The Big Big Singing Project
-
 <p>Big Big Sing aims to inspire thousands of people across the UK to sing to celebrate the Glasgow 2014 Commonwealth Games. Part of the Glasgow 2014 Cultural Programme.</p>

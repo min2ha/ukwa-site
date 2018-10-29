@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Early British Kingdoms
-
 Early British Kingdoms Website is a website covering Iron Age, Roman, Post-Roman, Anglo-Saxon & Viking British History. 

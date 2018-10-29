@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Off The Kerb Productions
-
 Website for Off The Kerb Productions, an agency representing and promoting comedians.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: My traumatised Liberal Democrat party must rediscover its radical heart
-
 None

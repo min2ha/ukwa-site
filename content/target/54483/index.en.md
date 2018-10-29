@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Interactive Selection
-
 Interactive Selection is the market leading search and recruitment company specialising in games and entertainment.

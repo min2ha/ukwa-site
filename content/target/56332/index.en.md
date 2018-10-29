@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Animal Interfaith Alliance (AIA)
-
 The Animal Interfaith Alliance held its inaugural meeting on 7th January 2014 at Golders Green Unitarian Church where there were representatives from the Anglican, Buddhist, Catholic, Hindu, Jain, Jewish, Quaker and Unitarian faiths.

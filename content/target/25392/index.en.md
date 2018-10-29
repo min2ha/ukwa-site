@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Daily Mail weaves a tangled web over Ed Miliband's love life
-
 None

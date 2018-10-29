@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Toxteth.TV
-
 Toxteth TV is a multi-use creative community hub,  based in the heart of Toxteth, close to Liverpool City Centre. Together with our charitable arm – Splendid Things

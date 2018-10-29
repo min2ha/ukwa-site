@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  People Before Profit Alliance: North News
-
 The section of the People Before Profit Alliance website focused on Northern Ireland issues.

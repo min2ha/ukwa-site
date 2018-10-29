@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Stephanie Shirley, Dame
-
 Official website of Dame Stephanie Shirley, a British IT pioneer.

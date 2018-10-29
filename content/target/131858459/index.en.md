@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Kent and Medway
-
 None

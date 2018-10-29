@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Llenyddiaeth De Cymru | South Wales Literature
-
 The project by Literature Wales is a three year initiative to create new opportunities to write for everyone and anyone in the authorities of Blaenau Gwent, Bridgend, Caerphilly, Merthyr Tydfil, Monmouthshire, Rhondda Cynon Taff and Torfaen. Literature Wales work with groups and individuals who have traditionally not been part of the mainstream writing world even if they are actively engaged in blogging, texting, writing letters to newspapers, or creating poems in response to national and international celebrations and tragedies.

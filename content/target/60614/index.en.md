@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge Loudoun Kilwinning No.51
-
 Site of a masonic lodge located in Newmilns, Ayrshire and affiliated with the Grand Lodge of Scotland.

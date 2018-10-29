@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Turcan Connell: EU Referendum 2016
-
 Discussion of the EU referendum by a legal services firm 

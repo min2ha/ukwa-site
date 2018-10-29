@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Leamington Food & Drink Festival
-
 Food and drink festival

@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Gwynedd Business Network
-
 Gwynedd Business Network (GBN) are an association of business owners and operators in Gwynedd, formed to provide a forum for all businesses in the County.

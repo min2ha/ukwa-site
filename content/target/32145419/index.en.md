@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Biblioteko Butler
-
 Blog about Esperanto.

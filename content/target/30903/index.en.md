@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# InterNations: UK expat Community for expatriates in the UK
-
 UK page of the site InterNations helping expats all over the world.

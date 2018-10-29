@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Michael Gove's attack on OBR forecast for 'missing £200m-a-week dividend' dismissed by watchdog
-
 Michael Gove was left red-faced after the Office for Budget Responsibility. dismissed his claim that its gloomy economic forecast missed a £200m-a-year "Brexit dividend". The quango pointed out that, in its gloomy economic forecast in November 2016, the so-called ‘Brexit dividend’ had already been spent.

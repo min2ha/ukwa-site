@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Staffordshire Moorlands District Council
-
 Website gives access to council news, committee meeting papers and agendas, financial plans and forecasts, council spending documentation, and local planning documentation and consultations

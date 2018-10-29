@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Blissfields
-
 Musical festival with a different theme every year

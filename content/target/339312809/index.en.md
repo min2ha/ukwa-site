@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Reservoir Action Group Blog 
-
 RAG was a succesful fight against the threat of housing development at Llanishen reservoir in Cardiff. 

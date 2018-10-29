@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oban Mod 2015 / Mòd An Òbain 2015
-
 Website for the National Royal Mod, held in Oban in 2015.

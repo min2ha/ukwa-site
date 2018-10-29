@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Plas Gunter Mansion. 
-
 Plas Gunter Mansion is a 16th century Grade 2* listed building located in Abergavenny. It has been in neglect for a number of years but is now owned by the Welsh Georgian Trust. The Friends of Plas Gunter Mansion are supporting them in their bid to Heritage Lottery Fund for funds to restore the Mansion.

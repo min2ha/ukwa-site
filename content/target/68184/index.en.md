@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Headspace (@headspace) on twitter
-
 A twitter site promoting meditation and mindfulness

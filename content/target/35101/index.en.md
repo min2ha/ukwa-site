@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent :EU referendum: Think-tanks conducting 'independent' research to support Brexit have close links to Vote Leave
-

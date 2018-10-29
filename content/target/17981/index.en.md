@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Populus: Voting Intention
-
 Populus is a full service research and strategy consultancy. They are part of the Populus group which also includes Populus Data Solutions, the MRS award winning fieldwork and data collection agency.

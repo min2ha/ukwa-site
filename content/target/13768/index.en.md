@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Times Higher Education: Features | Scottish independence essay winners
-
 None

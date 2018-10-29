@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Reece Winstone Archive
-
 Reece Winstone FRPS (1909–1991) was an English photographer from Bristol. His archive consists of Reece’s 40,000 shots of Britain’s landscape, buildings and genre. 

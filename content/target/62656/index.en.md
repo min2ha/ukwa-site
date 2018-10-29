@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lamlash and Kilmory Parish Churches
-
 Site of two Church of Scotland parish churches on the Isle of Arran, Argyll and Bute.

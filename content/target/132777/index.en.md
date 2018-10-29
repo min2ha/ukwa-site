@@ -10,5 +10,3 @@
   "start_date": "2007-07-10T00:00:00Z"
 }
 
-# MysteryMag.com
-

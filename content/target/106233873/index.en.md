@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Coal Research Forum (CRF)
-
 The Coal Research Forum acts as a focal point, providing a means of communication between industry, universities and policy-makers. Their main aims are to provide a forum for the exchange of information between technology providers and key stakeholders; to support the utilisation of coal in the UK as a secure primary source of energy and to promote UK research and expertise on the utilisation of coal, biomass and other fossil fuels in the UK and to a worldwide audience.

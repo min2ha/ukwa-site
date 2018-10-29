@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Fife & Coast Countryside Trust
-
 Site of a local independent charity dedicated to giving everyone the opportunity to experience Fife’s great outdoors, managing maintaining and preserving wide areas of the countryside of Fife, and promoting responsible access; managing the Coastal Visitor Centre at the Harbourmaster’s House in Dysart.

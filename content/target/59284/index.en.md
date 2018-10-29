@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Bubblewrap Collective
-
 Bubblewrap Collective was established in 2009 and is a Cardiff Based Independent Record Label.

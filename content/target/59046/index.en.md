@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Popular Music (@BL_PopMusic/) onTwitter
-
 Bits and pieces from Andy Linehan, British Library Sound Archive's Curator of Popular Music. Comments my own.

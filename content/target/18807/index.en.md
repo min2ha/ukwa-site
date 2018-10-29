@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: "Lost" Magna Carta found in Kent archive
-

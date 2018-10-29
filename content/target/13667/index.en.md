@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Comhairle nan Eilean Siar: 2012 Press Releases: "Strong voice" from the Islands in Referendum Debate
-
 <p>Press release made by Scotland’s three Islands Councils; Shetland, Orkney and Comhairle nan Eilean Siar, on the launch of the Our Islands-Our Future campaign.</p>

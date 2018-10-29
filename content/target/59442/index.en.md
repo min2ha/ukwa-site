@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gay Football Supporters’ Network
-
 Site of a voluntary organisation, that is a social, playing and campaigning network for Lesbian, Gay, Bisexual & Transgender (LGBT) football fans and their friends, who organise regular events, match visits, and tournaments, and campaign on issues relating to homophobia in football.

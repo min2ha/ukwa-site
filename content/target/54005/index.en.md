@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kerryanne Wilde (@opgiftbox)  on Twitter (UKIP  Politician)
-
 Kerryanne McKay Wilde is the UK Independence Party (UKIP) candidate for Penrith and The Border in the 2017 General Election but was not elected.

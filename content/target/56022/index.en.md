@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Queer Media UK
-
 Queer Media UK is the blog for the Queer Media Festival founded in 2014 and held in Manchester/Salford every November.

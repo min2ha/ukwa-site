@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Newport (@UKIPNewport_) on Twitter
-

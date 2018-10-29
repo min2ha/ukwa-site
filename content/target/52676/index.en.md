@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Zoo Indigo
-
 Zoo Indigo are Ildikó Rippel and Rosie Garton. They are a two-woman Anglo-German performance company. 

@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Bettsifield Village
-
 Bettisfield is a small village on the Welsh Marches.

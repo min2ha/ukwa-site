@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'Gone but not forgotten' - remembering those from Petersfield affected by the First World War
-
 Project to commemorate the impact of the First World War on Petersfield and its people.

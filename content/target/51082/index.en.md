@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Restart Project
-
 The Restart Project is a people-powered platform for change, helping demand emerge for more sustainable, better electronics.

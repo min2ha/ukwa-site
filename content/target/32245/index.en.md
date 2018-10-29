@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# RCCC Ladies Tour of Canada - Blog
-
 Royal Caledonian Curling Club women's tour blog

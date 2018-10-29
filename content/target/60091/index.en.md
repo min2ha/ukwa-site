@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Lodge Latheron  No. 1424
-
 Site of a masonic lodge located in Latheron, Highland [Caithness] and affiliated with the Grand Lodge of Scotland.

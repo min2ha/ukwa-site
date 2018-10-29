@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote TUSC Glasgow Shettleston - Jamie Cocozza on Facebook
-
 Facebook page of Jamie Cocozza, Scottish Trade Unionist and Socialist Coalition (TUSC) candidate for Glasgow Shettleston in the 2016 Scottish Parliamentary election.

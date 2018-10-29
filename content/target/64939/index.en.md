@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-#  Stuart Burne Welsh Artist from Holyhead
-
 Stuart Byrne is a Welsh artist from Holyhead. His works are influenced by influenced by Holyhead, its port, structures, buildings and people.

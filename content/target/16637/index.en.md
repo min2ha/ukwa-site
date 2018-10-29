@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: There's a vacuum now in British politics. And it's Blair-shaped
-
 None

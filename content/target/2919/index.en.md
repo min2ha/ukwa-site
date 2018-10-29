@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Getting Married
-
 <p>Website allowing couples to create their own wedding website for friends and family.</p>

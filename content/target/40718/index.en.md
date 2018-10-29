@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# From Flanders Field
-
 The project will involve students in conjunction with the Bounce Theatre using research to create a drama piece and exhibition 'From Flanders Fields' to share Richmond's heritage with the wider community.

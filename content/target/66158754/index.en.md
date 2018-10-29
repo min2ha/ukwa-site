@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# St. Helier Memories: A Community History of St Helier Estate, London
-
 None

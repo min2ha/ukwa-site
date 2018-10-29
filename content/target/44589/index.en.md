@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Therapy Garden, The
-
 The Therapy Garden is a charity set up in 1998 to create an attractive and supportive environment for some of the most vulnerable members of our community.

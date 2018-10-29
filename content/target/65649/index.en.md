@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Menzies Distribution Limited
-
 Menzies Distribution Limited is a major logistics supplier. The company is a division of John Menzies plc.

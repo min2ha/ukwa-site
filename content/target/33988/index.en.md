@@ -10,5 +10,3 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Canolfan Gelfyddydau'r Eglwys Norwyaidd | Norwegian Church Arts Centre
-

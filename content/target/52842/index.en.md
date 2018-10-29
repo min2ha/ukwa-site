@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Industrial Christian Fellowship (ICF); 12 questions you might want to ask yourself during an election campaign
-
 As voters wade through the various claims and counter-claims of the election campaign, ICF offers 12 basic questions that might help Christians to work out what is fair and what is genuine.

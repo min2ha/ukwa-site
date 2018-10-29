@@ -10,5 +10,3 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Capeli Cymraeg Llundain | London Welsh Chapels
-

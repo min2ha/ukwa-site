@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Martha L Healy
-
 Site of a Scottish songwriter working in the Americana genre.

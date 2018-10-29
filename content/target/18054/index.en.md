@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Jonathan Edwards AS/MP, Member of Parliament for Carmarthen East and Dinefwr
-
 Jonathan Edwards is the Plaid Cymru prospective parliamentary candidate for Carmarthen East and Dinefwr.
 He is also the current MP.

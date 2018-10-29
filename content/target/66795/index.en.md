@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Di Maggio's Group Limited
-
 The website of Di Maggio's Group Limited, a restaurant group based in Glasgow, Scotland. Brands within the Group include Di Maggio’s, Café Andaluz, Amarone, Barolo, The Anchor Line, Atlantic, The Citizen and Cadiz.

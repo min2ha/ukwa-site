@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Ex-youth advisor to PM contests Rifkind's Kensington seat
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# British Helicopter Association, The (BHA)
-
 The British Helicopter Association (BHA) is a non-profit trade organisation that represents the UK’s civil helicopter industry to government departments and international bodies. Its main aim it is to promote the safe, efficient and environmentally responsible operation of rotorcraft throughout the UK.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# yscolan. Ceri Rhys Matthews.
-
 Ceri Rhys Matthews is a folk musician  and plays traditional and newly created dance melodies and song airs from south and west Wales.

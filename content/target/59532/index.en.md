@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Torqued Up Forum
-
 An online enthusiast community concerned with Hot Rods and Muscle Cars. The forum is divided into community, tech & features, projects & rides, classifieds sections. 

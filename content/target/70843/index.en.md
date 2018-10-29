@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland qualify for the Women's World Cup for the first time
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

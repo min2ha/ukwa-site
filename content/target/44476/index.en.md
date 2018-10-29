@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Polling Report: What we can learn from the referendum polling
-
 blog post on what could have affected the results of opinion polls on the EU Referendum

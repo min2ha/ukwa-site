@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# AltNewsMedia (@AltNewsMedia) on Twitter
-
 An online news site that global news, politics and commentary which aims to offer an alternative to the mainstream publishers in the UK. This is their official Twitter account.

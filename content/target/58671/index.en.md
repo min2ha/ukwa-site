@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# An Sithean Press
-
 Site of a publisher based in the Western Highlands of Scotland.

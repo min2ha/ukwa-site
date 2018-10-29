@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National University of Ireland Galway: A Nation Rising
-
 This website outlines the programme of events and activities being undertaken by NUI Galway as part of the commemoration of the Easter Rising, 1916.

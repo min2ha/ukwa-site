@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dalriada Festival
-
 Website for the Dalriada Cultural Festival 

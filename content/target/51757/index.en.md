@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Flint Catholic Parish, Flintshire
-

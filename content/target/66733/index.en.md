@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Veg Gardeners
-
 UK Veg Gardeners is here to help vegetable gardeners meet each other, share ideas, and gain inspiration.

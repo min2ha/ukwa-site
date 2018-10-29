@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Llwybr Arfordir Ceredigion | Ceredigion Coast Path
-

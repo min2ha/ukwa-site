@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Mason Cross
-
 The website of Mason Cross, author of the Carter Blake thriller series.

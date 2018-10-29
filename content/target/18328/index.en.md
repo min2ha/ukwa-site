@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Skinny, The: Comedy
-
 The Comedy section of The Skinny, an online magazine with guides, listings and interviews relating to comedy shows in Scotland and North West England. 

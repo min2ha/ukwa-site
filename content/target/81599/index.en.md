@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# The Line (@TheLineLondon) on Twitter
-
 London's modern and contemporary art walk - linking the Queen Elizabeth Olympic Park and The O2 along the waterways and Meridian in East London.

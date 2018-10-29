@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Moray & Nairn Family History Society
-
 Site of a family history society focusing on genealogy in the historic counties of Morayshire and Nairnshire [in 2016, part of or Moray and Highland council areas].

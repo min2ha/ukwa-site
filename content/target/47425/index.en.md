@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May must fight the hard Brexiters or Britain will be ruined
-

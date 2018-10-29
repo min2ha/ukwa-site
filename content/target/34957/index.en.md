@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lesley Brennan MSP
-
 Lesley Brennan is Scottish Labour member of the Scottish Parliament for North East Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Yes Cymru
-
 Yes Cymru promotes independence for Wales through a range of activities, including educational ones, to make the case that Wales, like so many other nations throughout the world, would be better running its own affairs, as part of a wider European and international family. Their organisation is open to all who believe in independence for Wales.

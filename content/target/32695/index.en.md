@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Staffordshire Great War
-
 A community project exploring the impact of WWI on local people, including a touring exhibition which will tour community venues in the Borough of Newcastle-under-Lyme.

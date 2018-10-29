@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# National Deaf Children's Society (NDCS)
-
 None

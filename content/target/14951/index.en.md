@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caerphilly Observer
-
 None

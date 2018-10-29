@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Loughborough Conservatives
-
 Website of Loughborough Conservatives, providing information on Loughborough and Leicestershire County Councillors, local and national news updates and events.

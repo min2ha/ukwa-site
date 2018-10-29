@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Lallands Peat Worrier on Facebook
-
 Facebook profile for Political blog of Andrew Tickell, supporter of the Scottish National Party (SNP). 

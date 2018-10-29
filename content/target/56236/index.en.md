@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Academic Book of the Future BOOC (Books as Open Online Content)
-
 Published by the Academic Book of the Future; this project published a rather unconventional book (BOOC) with the UCL Press - https://ucldigitalpress.co.uk/BOOC  

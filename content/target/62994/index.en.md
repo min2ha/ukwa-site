@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Eastern Daily Press - Stephen Hawking
-
 News, sport, entertainment and community information for Norfolk, north Suffolk and north-east Cambridgeshire from the Eastern Daily Press. This is an article relating to the death of Professor Stephen Hawking.

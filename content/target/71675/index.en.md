@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# blackchampions_ (@blackchampions_) on Instagram
-
 Black Cycling Champions is the official Instagram account to accompany the exhibition entitled 'Made in Britain' which uncovered the life-histories of Black-British Champions in Cycling by Dr Marlon Moncrieffe of the University of Brighton. The exhibition ran in Brighton from the 10th-20th December 2018.

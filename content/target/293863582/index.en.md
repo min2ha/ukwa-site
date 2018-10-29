@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# On Common Ground
-
 <p>On Common Ground is a community performance for all the family taking place in the Gorbals area of Glasgow 25-31 July 2014 in the Gorbals Rose Garden. First Nation storytellers from Manitoulin Island, Canada, will come together with a cast of over 150 Glaswegians to tell a story of community, family and the natural world.</p>

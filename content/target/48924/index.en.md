@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Archaeology Orkney
-
 Blog belonging to the Archaeology Institute, University of the Highlands and Islands in Orkney.

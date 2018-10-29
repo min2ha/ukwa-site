@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Petersfield Dance Festival
-
 Website for the Petersfield Dance Festival.

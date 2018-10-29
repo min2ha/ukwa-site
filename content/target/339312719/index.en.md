@@ -10,5 +10,3 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Diffusion : Gŵyl Ffotograffiaeth Ryngwladol Caerdydd | Diffusion : Cardiff International Festival of Photography 
-

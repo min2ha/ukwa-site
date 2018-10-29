@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Young Minds (@YoungMindsUK) on Twitter
-
 A young people's mental health charity

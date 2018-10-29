@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: David Miliband calls for second referendum on Brexit deal to stop UK being 'driven off a cliff'
-
 David Miliband issued a call for politicians on all sides to fight back against the “worst consequences” of last year’s vote for Britain to leave the EU. The former Labour Foreign Secretary described the outcome of the 2016 referendum as an “unparalleled act of economic self-harm”. Writing in The Observer, he said the country should have the chance to vote on any Brexit deal in a second referendum, with a straight choice between remaining in the EU and the negotiated alternative.

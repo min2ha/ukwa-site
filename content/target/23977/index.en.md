@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: 'Major risk' of second election this year, says Nick Clegg
-
 None

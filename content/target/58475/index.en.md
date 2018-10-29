@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# International Choral Festival Wales | Gŵyl Gorawl Ryngwladol Cymru
-
 The International Choral Festival Wales (ICFW) was launched in 2017 and is held at the Wales Millennium Centre.

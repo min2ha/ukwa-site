@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Not me (not anymore) but there are people out...
-
 Ewan Morrison's Facebook post of 9th September, 2014.

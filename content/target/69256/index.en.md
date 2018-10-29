@@ -10,6 +10,4 @@
   "start_date": "2018-07-24T09:00:00Z"
 }
 
-# Commsworld
-
 Commsworld is a business-only telecom provider.

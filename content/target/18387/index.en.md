@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# eifa - L'Ecole Internationale Franco-Anglaise
-
 L'Ecole Internationale Franco-Anglaise is a bilingual English-French school for children aged from three to eleven years. It is located in the Marylebone Village in London. 

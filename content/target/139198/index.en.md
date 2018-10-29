@@ -10,6 +10,4 @@
   "start_date": "2015-02-24T00:00:00Z"
 }
 
-# Jeremy Purvis
-
 The website of Lord Purvis of Tweed.

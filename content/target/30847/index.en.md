@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Cyfnewid UNA Exchange
-
 UNA Exchange also offers placements on European Voluntary Service (EVS) projects and fully funded volunteering opportunities for 18-30 year olds in Wales.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bubble festival
-
 Eventbride page advertising a bubble festival in Brighton to raise awareness of bullying and violence in schools

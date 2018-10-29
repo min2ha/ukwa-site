@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# City United Reformed Church, Cardiff
-

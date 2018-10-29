@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: European Union (Withdrawal) Bill
-
 The inquiry focussed on the Bill’s provisions for converting the acquis communautaire into British law, the implications for the devolution settlements and the power to implement the withdrawal agreement. 

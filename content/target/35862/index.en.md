@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Butler (@Labour_Bill) on Twitter
-
 Twitter profile of Bill Butler, Scottish Labour and Co-operative candidate for the Glasgow list in the 2016 Scottish Parliament election.

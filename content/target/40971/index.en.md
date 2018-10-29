@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Burgh Buzz
-
 Site of a community newspaper located in Burntisland, Fife, Scotland.

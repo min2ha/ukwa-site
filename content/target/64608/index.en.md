@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Archaeological Building Recording Services
-
 Archaeological Building Recording Services is an independent archaeological contractor based in the Midlands and in Presteigne, Powys.

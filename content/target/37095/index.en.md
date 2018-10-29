@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: What does Gibraltar think about Brexit?
-

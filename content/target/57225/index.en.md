@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris Johnson is slapped down TWICE in one day by official statistics watchdog as BBC accuses him of lying over claims Brexit could mean £350m a week for the NHS  
-

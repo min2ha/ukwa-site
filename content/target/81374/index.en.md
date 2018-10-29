@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gordano RFC on Pitchero
-
 The official website of  Gordano Rugby Football Club.

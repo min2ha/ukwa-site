@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Eastbourne Borough Council
-
 Eastbourne Borough Council website offers information about local services, news, consultations, committee meeting minutes and agendas and information on the budget and spending 

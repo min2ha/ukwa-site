@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip puts pressure on David Cameron with defence spending pledge
-
 None

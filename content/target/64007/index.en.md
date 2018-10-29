@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Amity Underground
-
 An online news site that in their words reports on "radical western terrorism".

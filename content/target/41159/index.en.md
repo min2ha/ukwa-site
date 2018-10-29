@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# PageSuite
-
 PageSuite is a privately owned and self-funded company with both UK and US based operations. In 2006 PageSuite launched its first digital page-turning software product.

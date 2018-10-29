@@ -11,6 +11,4 @@
   "subject": "UK relations with the Low Countries"
 }
 
-# Centre for Molecular Informatics, The, University of Cambridge
-
 <p>The Centre for Molecular Informatics within the Department of Chemistry at the University of Cambridge devises new methods of creating, manipulating and describing molecular data and new laboratory experiments to confirm our findings.</p>

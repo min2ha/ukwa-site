@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Tg Green Teas
-
 Tg Green Teas is a London based company selling green tea, drinks, etc.

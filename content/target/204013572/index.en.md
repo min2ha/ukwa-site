@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Commonwealth Games Wales
-
 None

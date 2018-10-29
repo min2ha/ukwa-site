@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Autumn Statement: Hammond defends post-Brexit economy forecasts
-
 Chancellor Philip Hammond called economic forecasts in the Autumn Statement one of a "range of outcomes" after some pro-Brexit MPs criticised them for being too pessimistic

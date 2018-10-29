@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Victoria Clow (VictoriaClow) on Twitter
-
 <p>The twitter profile of althete Victoria Clow, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

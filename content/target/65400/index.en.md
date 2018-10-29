@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Côr Meibion Dyffryn Aman
-
 Côr Meibion Dyffryn Aman was established in 1990, its choristers drawn from the many towns and villages of the Amman Valley. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Seren
-
 Seren is Bangor University Students’ Union’s English Language Newspaper.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC News: NI #Eurofans Euro 2016 diary
-
 A live news feed of Northern Ireland and Republic of Ireland fans' stories, pictures and videos.

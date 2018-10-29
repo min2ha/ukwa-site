@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Torry St. Fittick's Parish Church of Scotland
-
 Site of a Church of Scotland parish church in Aberdeen.

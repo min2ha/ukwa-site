@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Science Museum: How might this suitcase stop Ebola spreading?
-
 Science Museum website.

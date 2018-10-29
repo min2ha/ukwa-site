@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Agenda
-
 <p>Website of the poetry journal 'Agenda', which is one of the best known poetry journals in the world and was founded in 1959 by Ezra Pound and William Cookson. It is edited by Patricia McCarthy.</p>

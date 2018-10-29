@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tom Cave Rallying 
-
 Tom Cave is a rally driver from Aberdyfi, Wales.

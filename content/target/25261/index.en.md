@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Millions of families could lose child benefit under Tory plans to slash welfare
-
 None

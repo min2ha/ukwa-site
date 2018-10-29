@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Modern Fitba
-
 Statistical and tactical analysis site focusing on Scottish football.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Heroism & Heartbreak: True Tales from the Hartlepools at War
-
 In this section you will find a selection of information, photographs and memories relating to Hartlepool’s role in the First World War.

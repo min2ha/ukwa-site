@@ -11,6 +11,4 @@
   "subject": "Film in the UK"
 }
 
-# British Academy of Film & Television Arts (BAFTA)
-
 The British Academy of Film and Television Arts (BAFTA) is an independent charity that supports, develops and promotes the art forms of the moving image by identifying and rewarding excellence, inspiring practitioners and benefiting the public. In addition to its Awards ceremonies, BAFTA has a year-round, international programme of learning events and initiatives that offers unique access to some of the world’s most inspiring talent through workshops, masterclasses, scholarships, lectures and mentoring schemes, connecting with audiences of all ages and backgrounds across the UK, Los Angeles and New York.

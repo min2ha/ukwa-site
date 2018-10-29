@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Balsall Heath Is Our Planet
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# APECS Press
-
 Apecs Press is a Welsh publisher from Torfaen that publish books of Welsh interest.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Scottish Green Party on Facebook
-
 None

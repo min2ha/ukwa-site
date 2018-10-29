@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Quality Meat Scotland (QMS)
-

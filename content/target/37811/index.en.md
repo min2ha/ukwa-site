@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rebecca Evans dros Gwyr | Rebecca Evans for Gower (Labour candidate for Gower)
-

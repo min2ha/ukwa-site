@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After Brexit, a game plan for the EU: unleash Project Pain
-

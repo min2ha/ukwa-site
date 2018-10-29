@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Charity Digital News
-
 Charity Digital News is the news intelligence and analysis tool for a network of professionals involved in technology and its use within the UK’s third sector.

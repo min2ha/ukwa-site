@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Joy Collective, The
-
 The Joy Collective is music site that covers Cardiff, Newport and Bristol and contains full gig listings, previews and reviews. 

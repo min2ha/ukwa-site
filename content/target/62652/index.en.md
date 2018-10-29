@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Creating a Parliament for Wales | Creu Senedd i Gymru
-
 The Wales Act 2017 gives the Assembly powers over its own electoral and internal arrangements. The 'Creating a Parliament for Wales' is an attempt to engage the public and to hear their views on the Expert Panel’s recommendations and other potential changes to the Assembly such as who can vote, the size of the Assembly and the electoral system.

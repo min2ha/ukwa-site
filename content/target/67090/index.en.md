@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Caledonian Brewery
-
 Site of a brewery located in Edinburgh.

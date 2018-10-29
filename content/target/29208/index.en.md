@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chipping Norton Literary Festival
-
 Chipping Norton Literary Festival

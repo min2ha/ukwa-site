@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Harlow Council: London 2012 Olympic and Paralympic Games
-

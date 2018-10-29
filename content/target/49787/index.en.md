@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Calvary Chapel Twickenham
-
 Calvary Chapel Twickenham was founded at the Etna Centre in Twickenham, South West London in April 2001. The main work of the ministry is the teaching of the Bible, with regular Sunday services and weekly meetings. Other work consists of teaching at Calvary Chapel Bible Colleges and Church Retreats around the world, and their radio ministry Line upon Line. In 2007 they moved to Whitton School (now Twickenham Academy) before moving to Whitton Methodist Church in 2016.
 

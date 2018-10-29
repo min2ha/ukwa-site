@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Geoff Love Appreciation Website, The
-
 This website was created to show appreciation for Geoff Love and his musicians. It was created by Steven Johnson, this website is for entertainment purposes only and any infringement of copyright was not intended.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cornish Pirates
-
 The official website of Cornish Pirates

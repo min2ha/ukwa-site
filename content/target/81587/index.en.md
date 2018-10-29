@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Foxes Pride
-
 A new network for LGBT supporters of Leicester City FC and their friends.

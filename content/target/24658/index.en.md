@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Zeichner (@DanielZeichner) on Twitter (Labour Politician)
-
 Daniel Zeichner  stood as Labour candidate for Cambridge at the 2015 General Election and was elected to serve as MP. He then stood for re-election in 2017 and was successful.

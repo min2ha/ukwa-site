@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Chapman (@DougChapmanSNP) on Twitter
-
 Twitter profile of Douglas Chapman, Scottish National Party candidate for Dunfermline and West Fife in the 2017 general election.

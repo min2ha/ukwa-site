@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# OTSC (@OTSClub) on Twitter
-
 Old Trafford Supporters Club  is based at Hotel Football in Old Trafford.

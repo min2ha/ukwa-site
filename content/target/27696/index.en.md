@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nigel Farage wants to fight for a Labour held seat in a by-election 
-
 None

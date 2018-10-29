@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The EU Referendum on Facebook
-
 A facebook page concerning the EU Referendum in support of the OUT campaign.

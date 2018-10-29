@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Mandy Nash: Jewellery and Textile Design Maker
-
 Mandy Nash is a Jewellery and Textile Design Maker who has a studio in Llanishen.

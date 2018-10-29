@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Brycchan Carey
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lessons Labour must learn as the rebuilding process begins
-
 None

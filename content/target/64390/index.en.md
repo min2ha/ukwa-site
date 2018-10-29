@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Care Farming UK
-
 Young people often benefit from the care farming environment, learning new skills such as taking on responsibility for animal welfare.

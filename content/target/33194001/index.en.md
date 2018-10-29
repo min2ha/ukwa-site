@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Committee for European Affairs: British Committee
-

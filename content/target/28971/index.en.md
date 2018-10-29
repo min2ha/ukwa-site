@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South Cambridgeshire Conservatives
-
 Website of South Cambridgeshire Conservatives, providing information on MP, MEPs, Council and District councillors, events and local and national news updates.

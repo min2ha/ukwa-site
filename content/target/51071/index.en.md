@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexitland: People can’t find homes. No wonder they were angry
-

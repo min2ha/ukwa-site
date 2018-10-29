@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# South Bradford Local History Alliance (SBLHA)
-
 South Bradford Local History Alliance is made up of Low Moor Local History Group, Wibsey Local History Group and Wyke Local History Group. It contains transcriptions of the parish and other records relating to the areas.

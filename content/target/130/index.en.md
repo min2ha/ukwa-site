@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Homerton University Hospital  
-
 None

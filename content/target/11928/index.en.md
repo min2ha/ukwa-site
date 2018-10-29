@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Neil Bibby MSP (NeilBibby) on Twitter
-
 Twitter profile of Neil Bibby, Labour MSP for West Scotland.

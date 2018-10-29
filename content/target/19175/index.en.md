@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Isle of Thanet Gazette: Ukip MEP Janice Atkinson on: the Sandwich Magna Carta
-

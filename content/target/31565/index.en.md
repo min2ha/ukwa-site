@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Andrew Lewis
-
 Andrew Lewis, a professor at Bangor University, is known mainly for his acousmatic music, that is, electroacoustic music heard only over loudspeakers.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Halton LINk: facebook
-
 None

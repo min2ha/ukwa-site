@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Speyside Cooperage
-
 Site of a working barrel making organisation, and their visitor centre.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Marine Life Information Network for Britain & Ireland - MarLIN
-
 MarLIN is a source of information about the marine environment of the British Isles. It is the largest review of the effects of human activities and natural events on marine species and habitats yet undertaken.

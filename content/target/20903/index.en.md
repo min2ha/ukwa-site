@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Blackford on Facebook
-
 This is the Facebook page of Ian Blackford, the Scottish National Party (SNP) candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

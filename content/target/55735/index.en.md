@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cadw Swn
-
 Cadw Sŵn is a Welsh course which uses music and stories to ease and speed the learning process. 

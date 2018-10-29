@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T11:00:00Z"
 }
 
-# Association for Environment Conscious Building (AECB)
-
 The AECB (The Association for Environment Conscious Building) is a network of individuals and companies with a common aim of promoting sustainable building.

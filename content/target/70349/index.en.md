@@ -10,5 +10,3 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Education in England: the history of our schools
-

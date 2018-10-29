@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Drama & Lit Sound (@) on Twitter
-
 AV recordings of poetry, prose, drama, live art, and sound made by artists: 100 years of commercial, broadcast and unique unpublished material.

@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Study Group on the Russian Revolution - SGRR on Facebook
-
 Study Group on the Russian Revolution - SGRR on Facebook; one of the BASEES (British Association for Slavonic and East European Studies) study groups

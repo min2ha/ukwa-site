@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12th June 2018: European Union (Withdrawal) Bill
-
 Commons consideration of the Lords amendments to the EU Withdrawal Bill.

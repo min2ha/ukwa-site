@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Lluniau Llwyfan
-
 Lluniau Llwyfan provides specialist photography of stage events such as Eisteddfod Genedlaethol, Eisteddfod yr Urdd and Gwyl Cerdd Dant.

@@ -10,7 +10,5 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# UK-Japan Music Society
-
 The UK-Japan Music Society was created by Jonathan Gregory in 1992 as a result of cultural interaction with Japanese musicians he experienced during the Japan Festival 1991. 
 It organises concerts and activities to promote friendship and mutual understanding of Japanese and British people and culture through music.

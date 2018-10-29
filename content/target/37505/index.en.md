@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times, The: Outers don’t care about lost jobs, says Cameron
-
 Website for The Times newspaper

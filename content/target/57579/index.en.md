@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Moray Chamber of Commerce
-
 Site of an organisation promoting the interests of businesses in Moray.

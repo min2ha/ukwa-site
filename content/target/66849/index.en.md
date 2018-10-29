@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Lodge Union & Crown No. 307
-
 Site of a masonic lodge located in Barrhead, East Renfrewshire and affiliated with the Grand Lodge of Scotland.

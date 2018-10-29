@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Tigh a’Chomainn Camphill
-
 Site of a community based in Peterculter, Aberdeenshire, including adults with special needs, where mutual respect and concern for the dignity of each person are actively fostered through ensuring a stable and secure home and work environment, in line with the ethos of the Camphill movement.

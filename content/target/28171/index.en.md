@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Emily Shuckburgh (@emilyshuckburgh) on Twitter
-
 Twitter feed of Dr. Emily Shuckburgh, climate scientist at the British Antarctic Survey.

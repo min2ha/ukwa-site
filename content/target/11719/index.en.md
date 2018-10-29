@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Campbell (MartinCam90) on Twitter
-
 <p>The twitter profile of althete Martin Campbell, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

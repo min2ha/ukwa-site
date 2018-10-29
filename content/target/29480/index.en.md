@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Ffilm Cymru Wales
-
 Ffilm Cymru Wales help develop the film sector in Wales and maximise the economic, educational and cultural benefits of film and support Welsh or Wales-based writers, directors and producers with development and production funding, industry assistance and mentoring opportunities. 

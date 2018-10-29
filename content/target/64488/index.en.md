@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Otter Bookbinding Ltd.
-
 Bookbinding company established in 1993 in Midhurst

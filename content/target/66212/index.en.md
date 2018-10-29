@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Clitheroe Food Festival
-
 Local food and drink festival

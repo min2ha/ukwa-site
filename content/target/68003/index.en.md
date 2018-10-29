@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Magnificent motors 
-
 Website for Magnificent Motors, which is a free motoring event in the South Coast

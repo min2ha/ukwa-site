@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Carter Jonas
-
 Carter Jonas is a multi-disciplinary property consultants, charted surveyors and estates agents. I

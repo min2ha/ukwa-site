@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Senior MPs to force customs union vote
-
 The Liaison Committee, made up of Labour, Conservative and SNP committee chairmen, has tabled a debate calling for "an effective customs union. The news about the Commons vote comes the day after the House of Lords inflicted a defeat on the government over the customs union issue.

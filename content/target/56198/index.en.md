@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Borderline Events
-
 Website of the events management team that promotes downhill and enduro mountain biking events across the North West of England and Wales.

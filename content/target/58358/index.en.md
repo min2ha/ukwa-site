@@ -10,5 +10,3 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# BBC 4 - Desert Island Discs
-

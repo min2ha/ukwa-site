@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Surfing
-
 The Army Surfing website, which aims to promote and encourage the sport of surfing, and to provide a focal point for all forms of competitive surfing within the Army.

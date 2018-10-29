@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sisters n Sport
-
 Sisters n Sport Netball Camps and Classes provide netball coaching from 3 years old with the NetballTots Programmes to 14 years with the Netball Development Programme. Their aim is to empower young girls through netball. 

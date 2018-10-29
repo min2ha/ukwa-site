@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Culsalmond and Rayne and Daviot Church of Scotland
-
 Site of Church of Scotland churches at Daviot and Rayne, Aberdeenshire, serving congregations at Daviot, Rayne and Culsalmond.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Institute of Latin American Studies: School of Advanced Studies, University of London
-
 Official website of the Institute of Latin American Studies, part of the School of Advanced Study, University of London.

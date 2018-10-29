@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Harthill: St Andrew's Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Harthill, Lanarkshire.

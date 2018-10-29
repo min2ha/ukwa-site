@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The BEARR Trust
-
 The BEARR Trust is a UK-based organisation set up to help children and other vulnerable and disadvantaged groups in Russia, Eastern Europe, Central Asia and the South Caucasus. We help small NGOs working in health and social welfare to build know-how, skills and contacts.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlie Elphicke (Conservative)
-
 Charlie Elphicke stood as Conservative candidate for Dover and Deal at the 2015 General Election. He was first elected to serve as MP for Dover and Deal in 2010 and re-elected in 2015. 

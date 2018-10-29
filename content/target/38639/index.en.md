@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael McMahon (@M_McMahon_Lab) on Twitter
-
 Twitter profile of Michael McMahon, the Scottish Labour Member of Parliament for Uddingston and Bellshill and candidate for Uddingston and Bellshill in the 2016 Scottish Parliamentary election.

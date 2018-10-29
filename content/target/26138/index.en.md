@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Study UK: Study UK launches manifesto of recommendations to the next Government
-
 Study UK is the national association for independent providers of higher education, further education and professional training

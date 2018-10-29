@@ -11,5 +11,3 @@
   "subject": "Philately"
 }
 
-# UK Philately
-

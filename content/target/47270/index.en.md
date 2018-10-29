@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Policy Studies Institute: Revenge in retirement?
-
 Older people – the over-65s – played a massive part in the EU referendum outcome.  Without their votes, Leave would have come in a poor second. Many commentators, and many young people, have berated the pro-Brexit older contingent for having taken the economic benefits of the growth years and now denying a similar opportunity to the next generation. But this is to ignore the bitter late-career disappointments that so many of the post-retirement group have experienced. Once the reasons for their bitterness come into focus, their response at the ballot box also can be understood.

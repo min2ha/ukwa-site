@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Council on Foreign Relations (ecfr.eu): Britain in Europe
-
 A news website with a focus on Britain's place in Europe.

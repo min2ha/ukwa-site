@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Andy Murray slaps down John Inverdale's claim he was first with two tennis golds
-
 BBC host was criticised after he praised Scot for becoming the first person to win two tennis golds – forgetting the Williams sisters’ four medals each.

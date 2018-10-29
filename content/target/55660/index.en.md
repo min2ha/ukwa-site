@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Swansea Vegfest
-
 Swansea Vegfest is held at Brangwyn Hall, Swansea.

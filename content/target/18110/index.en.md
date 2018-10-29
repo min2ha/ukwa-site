@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: It's not just about the Greens for Brighton's young voters 
-
 None

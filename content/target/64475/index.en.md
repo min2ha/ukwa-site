@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Gwasanaeth Cerdd Ceredigion | Ceredigion Music Services
-
 Ceredigion Music Service provides the opportunity for young musicians to participate in music activities across Ceredigion. It is a local authority run music service supporting schools to deliver high quality music education.

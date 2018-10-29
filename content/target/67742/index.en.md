@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Office for National Statistics: Domestic abuse: findings from the Crime Survey for England and Wales: year ending March 2017
-
 An article published by the Office for National Statistics on domestic abuse findings from the year ending March 2017 Crime Survey for England and Wales, using statistics to tell us about victims and long-term trends.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Movement UK (@euromove) on Twitter
-
 Campaigning for Britain's future in Europe.

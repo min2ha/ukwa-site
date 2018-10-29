@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# WriteWords Writers Forum
-
 WriteWords Writers Forum is an online enthusiast community concerned with creative writing. Discusses writing exercises, techniques, inspiration and ideas, getting published, competitions and various other related topics.

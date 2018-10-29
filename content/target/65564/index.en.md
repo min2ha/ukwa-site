@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Al-Jabal Bakery
-
 Making traditional Lebanese cuisine.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Royal Deeside
-
 Site providing information for residents and visitors to the area of Deeside, Aberdeenshire, listing businesses, activities, visitor attractions and community information.

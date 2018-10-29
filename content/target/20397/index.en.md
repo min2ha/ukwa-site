@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charles Kennedy on Twitter
-
 The twitter profile of Charles Kennedy, who was Liberal Democrat candidate for Ross, Skye & Lochaber.

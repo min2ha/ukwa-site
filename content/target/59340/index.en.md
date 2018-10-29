@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Real Ale Trail Company
-
 The Real Ale Trail Co started in Flintshire in 2010 and has now extended to Snowdonia, Conwy, Wrexham and the Wirral. Real Ale Trails organise the route, the pubs and the buses. It is a Bus based Real Ale Festival. 

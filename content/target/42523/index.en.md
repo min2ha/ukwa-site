@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron is no Europhile – and that's why his opponents tell a more convincing story
-

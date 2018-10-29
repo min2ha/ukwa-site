@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Blackbird Ceramics
-
 The owner of Blackbird Ceramics is Richard Prentice, a Ceramic Artist based in Saundersfoot, Pembrokeshire.

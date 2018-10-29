@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glasgow St. Paul's Church
-
 Site of a Church of Scotland parish church in Glasgow.

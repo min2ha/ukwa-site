@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Telling their Stories - Barton and the Great War
-
 The project will work with young people aged 11-25 from the small estuary town of Barton-Upon-Humber and surrounding villages, drawing comparisons between the youth of the men entering service and the young people we have in our town today.

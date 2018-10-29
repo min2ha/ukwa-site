@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Percy Park RFC
-
 The official website of Percy Park Rugby Club. Established 1872

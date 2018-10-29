@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Federation of Cocoa Commerce
-
 The FCC was established to serve the growing trade in physical cocoa. 

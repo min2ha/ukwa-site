@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK Treasury rejects OECD's call for second Brexit referendum
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Jen O'Neill (@SheKicksdotnet) on Twitter
-
 Jen O'Neill is Editor of women's/girls' football website & bi-monthly print magazine based in UK. 

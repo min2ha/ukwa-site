@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equal Parenting (@_EqualParenting) on Twitter
-
 Twitter account for the Equal Parenting Project run by University of Birmingham

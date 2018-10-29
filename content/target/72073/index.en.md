@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-#  Swansea and Gower Liberal Democrats
-
 When the Welsh Liberal Democrats took control of Swansea Council in 2004, in partnership with other parties, they were faced with putting right 24 years of neglect.

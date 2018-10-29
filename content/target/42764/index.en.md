@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Taynuilt Community Website
-
 Site of a community council providing local amenity, business, community council and events information for locals and visitors to the village of Taynuilt, Argyll and Bute, Scotland. 

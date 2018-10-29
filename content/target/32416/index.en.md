@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# SeatPlan
-
 SeatPlan is a seating guide to London's most popular theatres. It features information about London's theatres, with interactive seating plans for over 50 venues. 

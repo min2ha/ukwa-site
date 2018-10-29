@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Bike Chat Forums
-
 An online enthusiast forum concerned with motor biking.The forum discusses biking news, tips for new bikers, technical & mechanical advice, racing & track days, off road & supermoto and other related topics. It also includes a photo section for members bikes.

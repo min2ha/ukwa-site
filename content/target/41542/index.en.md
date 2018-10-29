@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Community Resources Network Scotland / CRNS
-
 Site of a national Scottish charity promoting reuse, recycling and repair while promoting awareness of climate change issues.

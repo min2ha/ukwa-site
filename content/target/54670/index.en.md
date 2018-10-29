@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Dunbar Harbour Trust
-
 Site of a an organisation who run and maintain the harbours of Dunbar, East Lothian.

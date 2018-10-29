@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Society of Asian Lawyers (SAL)
-
 SAL represents the interests of all Asian Lawyers and the communities that they serve.

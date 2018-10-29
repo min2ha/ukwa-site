@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Abertay University Rugby
-
 Site of a rugby union club based in Dundee, and associated with Abertay University students.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Rowan Alba
-
 Site of an organisation that works with people whose lives are chaotic often, but not exclusively, due to domestic abuse, drug or alcohol dependency or mental health issues, who are as a consequence homeless or risk becoming homeless - in Edinburgh, Perth and Kinross.

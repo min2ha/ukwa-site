@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emmett Jenner (@Emmett_Jenner) on Twitter (UKIP Politician)
-
 Emmett Jenner stood as UKIP candidate for Bromley & Chislehurst at the 2015 General Election but was not elected. He stood again for the same seat in 2017 but was not elected.

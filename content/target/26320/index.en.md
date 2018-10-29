@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T08:00:00Z"
 }
 
-# Dylan Weekends, The
-
 Weekend festivals in Laugharne to coincide with the centenary of Dylan Thomas' birth.

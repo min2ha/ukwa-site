@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Warriors of Warrington Swimming Club
-

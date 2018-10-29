@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Sinn Fein: Brexit
-
 Articles related to Brexit on the Sinn Fein website

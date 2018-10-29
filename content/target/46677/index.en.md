@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Alex Thomson Racing
-
 Alex Thomson is a British yachtsman from Bangor, north Wales.

@@ -10,8 +10,6 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Japanese Railway Society
-
 The Japanese Railway Society (JRS) was founded in 1991 in London to promote the knowledge of the 
 railways of Japan in the UK & other non-Japanese-speaking parts of the world. Since 1991, there have 
 been several activities like exhibitions (also of railway models), a TV-show (on Naruhodo The World, Fuji TV), 

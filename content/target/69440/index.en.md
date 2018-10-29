@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: European Union (Information, etc.) Bill [HL]: Briefing for Lords Stages
-
 The European Union (Information, etc.) Bill [HL] is a private member’s bill introduced by Lord Dykes (Crossbench). The Bill had its first reading in the House of Lords on 4 July 2017 and was scheduled to receive its second reading on 20 July 2018.
 

@@ -10,5 +10,3 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Anglesey Poultry Society | Cymdeithas Dofednod Môn
-

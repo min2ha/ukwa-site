@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T09:00:00Z"
 }
 
-# National Museum of Ireland
-
 The National Museum of Ireland is Ireland's leading museum institution, with a strong emphasis on national and some international archaeology, Irish history, Irish art, culture, and natural history. It has three branches in Dublin and one in County Mayo.

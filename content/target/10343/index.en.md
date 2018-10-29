@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Afzal Khan, Labour on Facebook
-
 None

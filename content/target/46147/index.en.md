@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Scottish Corpus of Text and Speech
-
 Site of an academic project to collect, arrange and maintain a body of Scots language through texts and and spoken word.

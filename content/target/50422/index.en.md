@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Wirral Society
-
 The Wirral Society was formed in May 1928, following a public meeting at St Michael’s Church Hall, Claughton in Birkenhead. ... A Constitution was drawn up with its objectives being to protect the Wirral Peninsula’s natural beauty, architecture, flora and fauna and its sea coast.

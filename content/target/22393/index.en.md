@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Who is Charles Walker? Tearful Tory MP 'played as a fool' over botched Bercow plot
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Cwrt Sart Community Comprehensive
-
 Cwrt Sart Community Comprehensive is due to close in July 2016.

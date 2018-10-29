@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's frustration at Ed Miliband's 'weak' defence of Brown's deficit
-
 None

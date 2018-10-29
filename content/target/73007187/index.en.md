@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Merseyside Police Authority
-
 None

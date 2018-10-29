@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Law Society of Scotland, The
-
 The Law Society of Scotland was established in 1949 and is financed by members. The society regulates and represents all practising solicitors in Scotland.

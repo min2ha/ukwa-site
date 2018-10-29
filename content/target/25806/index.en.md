@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour accuses Tories of secret plan to cut number of NHS nurses after election
-
 None

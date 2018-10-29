@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sochi 2014 | Team Bath
-
 None

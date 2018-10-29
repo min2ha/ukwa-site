@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Furious Tory Remainers say Brexiteer Jacob Rees-Mogg is now running Britain amid calls for wartime-style all-party government to tackle EU chaos
-

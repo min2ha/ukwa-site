@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit Countdown: Why is the Northern Ireland border question so hard?
-
 Discusses the implications of Brexit for the border between Northern Ireland and the Irish Republic.

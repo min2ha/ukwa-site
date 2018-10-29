@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Guardian, The: World Cup 2018
-
 World Cup 2018 | The Guardian

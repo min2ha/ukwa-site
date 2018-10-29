@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# County Antrim & District Football Association
-
 The County Antrim & District Football Association is the largest of the four regional football associations within Northern Ireland and is affiliated to the Irish FA.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Len McCluskey says prime minister Ed Miliband would work with SNP
-
 None

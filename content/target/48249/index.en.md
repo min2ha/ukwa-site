@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Hopetoun House
-
 Site of a stately home, wedding and conference venue, estate and preservation trust, located in West Lothian, Scotland.

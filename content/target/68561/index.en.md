@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: If Cabinet Ministers aren’t prepared to listen to business, they should consider their position
-
 Calls on cabinet ministers to listen to business in delivering a Brexit deal with the EU.

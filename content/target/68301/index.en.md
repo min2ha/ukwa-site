@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Mark Avery
-
 Mark Avery is a scientist by training and a naturalist by inclination.  He writes about and comments on environmental issues. Mark worked for the RSPB for 25 years until standing down in April 2011 to go freelance.  He was the RSPB’s Conservation Director for nearly 13 years.  Site includes blog, petitions and information.

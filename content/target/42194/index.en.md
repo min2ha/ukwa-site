@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Statesman: The left wing case for leaving the EU
-
 Artice by John King

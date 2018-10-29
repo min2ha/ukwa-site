@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# For Every Year
-
 For Every Year publishes poetry or short prose pieces, each themed around a year since 1400. The project runs chronologically, publishing one piece by a different author for each year.

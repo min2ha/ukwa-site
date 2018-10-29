@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Loughbrickland Reformed Presbyterian church
-
 We are a Bible-believing Christian Church in Northern Ireland. We aim to worship God in the way that he requires and to follow his word in our beliefs and practice.

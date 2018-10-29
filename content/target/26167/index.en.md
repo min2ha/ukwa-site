@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Allia: Manifesto for 2015: Helping Social Ventures Flourish
-
 Allia is a charity that supports individuals and organisations who create social benefit

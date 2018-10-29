@@ -10,5 +10,3 @@
   "start_date": "2015-04-07T08:00:00Z"
 }
 
-# James Bartosik Photographic Journal
-

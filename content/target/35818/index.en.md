@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Say Yes to Europe
-
 Say Yes 2 Europe is an alliance of grassroots campaigns working to ensure that there is a decisive majority in favour of the UK remaining in the EU in the 2016 referendum.

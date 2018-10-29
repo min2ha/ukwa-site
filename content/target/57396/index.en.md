@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Thorne Island 
-
 Thorn island is located off the coast of Pembrokeshire and is dominated by a coastal artillery fort that was built to defend Milford Haven in the mid-19th century.

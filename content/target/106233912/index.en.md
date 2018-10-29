@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Serious Games Institute (SGI)
-
 None

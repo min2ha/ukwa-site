@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Flower and Food Festival
-
 Site of an annual festival that offers a programme including free cookery and gardening demonstrations, children's activities, a craft fair, live music and guests.

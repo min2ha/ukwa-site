@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The self-styled Disruptor-in-Chief speaks out. Truss says higher taxes would be “a complete contradiction” of the Brexit vote. Her speech.
-

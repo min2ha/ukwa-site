@@ -10,5 +10,3 @@
   "start_date": "2011-05-26T00:00:00Z"
 }
 
-# Musings from the Anglesey Photo Artist
-

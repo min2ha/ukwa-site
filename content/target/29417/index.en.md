@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Inverness Book Festival 2014
-
 The 2014 festival is in association with Sandstone Press.

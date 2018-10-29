@@ -10,5 +10,3 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Z-fids: Halley Bay, 1956-present
-

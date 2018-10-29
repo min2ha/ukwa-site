@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# London Evening Standard
-
 Latest London news, business, sport, showbiz and entertainment from the London Evening Standard.

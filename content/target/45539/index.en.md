@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T11:00:00Z"
 }
 
-# Pension Review Service, The
-
 The Pension Review Service is a trading style of County Capital Wealth Management ltd. County Capital Wealth Management are an independent financial adviser firm based in the north east of England. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# London School of Economics Politics & Policy (LSEpoliticsblog) on Twitter
-
 <p>The twitter profile associated with the London School of Economics Politics &amp; Policy blog.</p>

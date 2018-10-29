@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock Baptist Church
-
 Site of a Scottish Christian church and its congregation belonging to the Baptist denomination located in Greenock, Renfrewshire.

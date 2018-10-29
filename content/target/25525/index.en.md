@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Young people aren’t apathetic about politics, they just need a helping hand
-
 None

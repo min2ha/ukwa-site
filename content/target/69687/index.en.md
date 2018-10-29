@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Carney: No-deal Brexit risk 'uncomfortably high'
-
 Bank of England Governor Mark Carney warned in an interview with the BBC that the possibility of a no-deal Brexit was "uncomfortably high" and "highly undesirable". The pound declined on the currency markets in the wake of Mr Carney's comments, falling below the $1.30 mark, but had recovered by early afternoon.
 

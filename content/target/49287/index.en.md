@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister’s Office: PM press conference with Italian Prime Minister Gentiloni: 9 February 2017
-
 Theresa May and Prime Minister Paolo Gentiloni of Italy gave statements at a joint press conference following their Downing Street meeting, covering future relations once Britain has left the EU.

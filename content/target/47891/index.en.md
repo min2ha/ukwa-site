@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Medfrench
-
 A software package created to prepare students for the study of medieval texts in Old French.

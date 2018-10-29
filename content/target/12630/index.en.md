@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow 2014 Commonwealth Games: Development & regeneration Glasgow - article
-
 <p>In this article Councillor Archie Graham, Executive Member for the Commonwealth Games at Glasgow City Council, explores the development benefits of the Commonwealth Games.</p>

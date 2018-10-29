@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Gull Magazine, The
-
 The Gull is an online cultural magazine showcasing the best creative writing, commentary, criticism and interviews. The Gull is published in Swansea.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# Health Sciences Records and Archives Association, The (HSRAA)
-
 The Health Sciences Records and Archives Assoc (HSAA) is for archivists and records managers working in pharma and other scientific sectors.

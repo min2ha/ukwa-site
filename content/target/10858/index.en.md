@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Traditional Unionist Voice Manifesto 2014
-

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Heritage Lottery grant for cathedral's Magna Carta project
-

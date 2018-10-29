@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# National Children’s Charities Manifesto for the National Assembly for Wales Elections 2016
-

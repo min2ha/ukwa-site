@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Barnetts Motor Group Limited
-
 Website of an automobile retailer based in Dundee, Scotland.

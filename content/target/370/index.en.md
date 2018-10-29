@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hackney Health and Wellbeing Board
-
 None

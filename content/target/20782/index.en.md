@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Deidre Brock on Facebook
-
 This is the Facebook page of Deidre Brock, the Scottish National Party (SNP) candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

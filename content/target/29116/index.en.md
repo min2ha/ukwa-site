@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Rising Centenary Committee 
-
 Focuses on role played by the Irish diaspora in Scotland

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband issues call to moderate Tories: I’ll be your champion
-
 None

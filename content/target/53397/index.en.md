@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steve Clapcote (@ClapcoteS) on Twitter (Labour Politician)
-
 Steve Clapcote stood as Labour candidate for Shipley at the 2017 General Election but was not elected.

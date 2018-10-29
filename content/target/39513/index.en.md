@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Barack Obama accused of double standards by anti-EU campaigners 
-
 Guardian, The

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alan Armstrong on Facebook (Green party candidate for Vale of Glamorgan)
-

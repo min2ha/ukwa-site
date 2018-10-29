@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-#  LGiU
-
 LGiU is a think tank and local authority membership organisation as well as a registered charity.

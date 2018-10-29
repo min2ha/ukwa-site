@@ -10,6 +10,4 @@
   "start_date": "2012-06-12T00:00:00Z"
 }
 
-# Stained Glass in Wales
-
 stained glass

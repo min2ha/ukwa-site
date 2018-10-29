@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymraeg Grangetown a Threbiwt (@ymgyrchtag) on Twitter 
-
 Cymraeg Grangetown a Threbiwt is a campaign promoting Welsh in Butetown and Grangetown in Cardiff.

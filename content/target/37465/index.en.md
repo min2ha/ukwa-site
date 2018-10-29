@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Student Voices: The EU Referendum is about more than the Tories
-

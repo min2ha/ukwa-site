@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Unity Festival
-
 festival showcasing a range of international inclusive and disability performances

@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Friends of Hailey Park, Cardiff
-
 Hailey Park is in the Llandaff North district of Cardiff.

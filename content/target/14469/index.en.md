@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Karen Dell'armi
-
 <p>Karen Dell'Armi is Contemporary Jeweller from Wales.</p>

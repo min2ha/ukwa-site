@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sun, The: Don’t feel sorry for that mutton-headed old mugwump Jeremy Corbyn – he poses an enormous threat to our country if he gets into No10
-
 BORIS Johnson urges voters not to feel sorry for “mutton-headed old mugwump” Jeremy Corbyn — because the Labour leader poses an extreme danger to the country.

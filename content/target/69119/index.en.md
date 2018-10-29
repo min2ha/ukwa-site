@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# The National Museum of the Royal Navy
-
 The National Museum of the Royal Navy has 11 amazing heritage attractions across the UK that reflect the fact that the Royal Navy operates on the sea, under the sea, on the land and in the air. 

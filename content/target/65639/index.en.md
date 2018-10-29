@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Alex Vearey-Roberts, tenor 
-
 Alex Vearey-Roberts is a Welsh tenor and a graduate of the Royal College of Music’s International Opera School. He has toured with the English Touring Opera and has been a finalist in the Lez Azuriales Singers competition in Nice, Towyn Roberts Scholarship, MOCSA Young Welsh Singer Competition and Llangollen International Eisteddfod.

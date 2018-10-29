@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margaret McCulloch MSP
-
 Margaret McCulloch was a Scottish Labour member of the Scottish Parliament for Central Scotland from 2011 to 2016.

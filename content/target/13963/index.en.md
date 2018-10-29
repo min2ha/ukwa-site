@@ -10,5 +10,3 @@
   "start_date": "2014-09-10T07:00:00Z"
 }
 
-# #NTHouseProud on Twitter
-

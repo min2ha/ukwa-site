@@ -10,6 +10,4 @@
   "start_date": "2017-08-12T09:00:00Z"
 }
 
-# Zee-3
-
 Zee-3 is an independent online publisher specialising in video games and comics by The Pickford Bros.

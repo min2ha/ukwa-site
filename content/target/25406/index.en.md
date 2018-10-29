@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election coverage: how the parties and leaders are faring on television
-
 None

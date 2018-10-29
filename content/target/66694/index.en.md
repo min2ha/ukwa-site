@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Mutuo
-
 Mutuo is a British advocacy organisation and think tank that advocates mutuals and cooperatives. In anticipation of the 2010 general election, it published the Mutuals Manifesto, which was the subject of an early day motion in the House of Commons.

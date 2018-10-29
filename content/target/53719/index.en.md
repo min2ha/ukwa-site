@@ -10,5 +10,3 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# Cymdeithas Frenhinol Dyfrlliw Cymru | Royal Watercolour Society of Wales
-

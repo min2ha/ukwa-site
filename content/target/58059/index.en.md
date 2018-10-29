@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Nathanford
-
 Nathan Ford is originally from London but now lives in Nant-y-Moel. He is an artist and landscape painter.

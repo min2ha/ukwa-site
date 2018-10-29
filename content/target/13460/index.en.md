@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann McKechin (AnnMcKechinMP) on Twitter
-
 The twitter profile of Anne McKechin, Labour Member of Parliament for Glasgow North from 2001 to 2015.

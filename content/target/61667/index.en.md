@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heart: "What Age Should Kids Be On Social Media? Holly Willoughby Worries For Her Own"
-
 Heart Radio online article about children and social media 

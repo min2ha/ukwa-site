@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Electoral Reform Society, The
-
 The Electoral Reform Society (ERS) is a political pressure group based in the United Kingdom which promotes electoral reform. It seeks to replace the first-past-the-post voting system with one of proportional representation, advocating the single transferable vote. It is the world's oldest operating organisation concerned with political and electoral reform.

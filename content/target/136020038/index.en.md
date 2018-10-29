@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South of Tyne and Wear
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Autonomous London
-
 Up to September 2015 Autonomous London website  provided a portal to various radical social centres and autonomous spaces in London. New spaces come and go in a seemingly constant cycle of occupations and eviction. The site aimed to make it easier to find out about the spaces and what activities are taking place.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# SCFC2 - Premier Information Site for Swansea FC
-

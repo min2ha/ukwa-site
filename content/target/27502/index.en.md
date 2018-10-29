@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Forget about the Referendum and back the SNP, says Sturgeon
-
 None

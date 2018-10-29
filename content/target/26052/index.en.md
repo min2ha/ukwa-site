@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg: next Cameron will ask the ‘tea lady’ to join debates
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why the fate of the Tories hinges on the survival of Nick Clegg
-
 None

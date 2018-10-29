@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Health NHS Foundation Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Jan Fortune
-
 Jan Fortune is novelist, poet and editor and proprietor of Cinnamon Press. 

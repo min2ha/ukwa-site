@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Tamworth Beer Festival
-
 Local beer festival

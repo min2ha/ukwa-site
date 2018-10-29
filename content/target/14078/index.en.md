@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Odds Checker: Scottish Independence Referendum Outcome Betting Odds
-
 <p>Compares odds from a variety of online betting sites on the outcome of the Scottish independence referendum.</p>

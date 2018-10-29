@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Messianic Jewish Alliance (BMJA), The
-
 British Messianic Jewish Alliance is an association of Jewish people who have found the Messiah Yeshua (Jesus) as Saviour and Lord.

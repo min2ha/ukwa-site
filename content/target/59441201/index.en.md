@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Carer Watch
-
 Carer Watch is a UK campaign fighting for a better quality care for sick and disabled people.

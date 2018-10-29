@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Auto Express 
-
 Auto Express is a weekly motoring magazine known for its spy shots and speculative illustrations of forthcoming cars. It also covers news, road tests, first drives, readers' letters and feedback, product tests, long-term tests, used cars, prices, motorsport and comment columns. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Davis stands firm on Irish border issue
-
 After the EU tabled a paper which suggested Northern Ireland will have to continue to follow many EU rules after Brexit if a hard border is to be avoided, David Davis said that any solution for the border could not be at the expense of the constitutional integrity of the UK. 

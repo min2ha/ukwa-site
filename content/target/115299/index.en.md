@@ -10,5 +10,3 @@
   "start_date": "2006-02-21T00:00:00Z"
 }
 
-# Cape Farewell
-

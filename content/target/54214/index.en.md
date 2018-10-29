@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jackie Doyle-Price (Conservative Politician)
-
 Jackie Doyle-Price stood as Conservative candidate for Thurrock  at the 2017 General Election and was successful. She was first elected to serve as the MP for Thurrock  in 2010 and re-elected in 2015.

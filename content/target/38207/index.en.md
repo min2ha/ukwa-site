@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave SouthWest (@VoteLeaveSW) on Twitter
-
 The South West campaign to #LEAVE the EU.

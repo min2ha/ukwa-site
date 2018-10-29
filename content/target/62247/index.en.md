@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cambusbarron Parish Church, The Bruce Memorial
-
 Site of a Church of Scotland parish church Stirling.

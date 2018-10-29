@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Science O3
-
 Site of a charity based in Caithness, Scotland, which promotes Science, Technology, Engineering and Maths (STEM) to local schools and the general public through the Caithness International Science Festival.

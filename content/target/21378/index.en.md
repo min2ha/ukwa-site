@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Anniesland Labour
-
 Website of Labour in Anniesland, providing information on Labour representatives and candidates, local and national news updates, and how to get involved.

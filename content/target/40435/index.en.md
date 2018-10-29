@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Robert Burns Birthplace Museum
-
 Site for a museum dedicated to the life and work of the Scottish poet Robert Burns, located in house in which he was born in Alloway, Ayrshire, Scotland.

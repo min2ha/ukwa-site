@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Jeremy Corbyn is loved for his principles. So what happens when he has to play politics over Europe?
-

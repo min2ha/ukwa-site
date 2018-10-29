@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Tiger Two Tiger - the online reputation management blog of Tiger Two
-
 None

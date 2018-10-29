@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Youth Agency: Delivering Positive Futures for Young People
-
 Political parties need to invest in young people and put them at the core of their manifestos. The NYA says that young people need: youth work; apprenticeships; financial skills; and the vote at 16

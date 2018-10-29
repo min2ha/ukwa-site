@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Cyfeillion Cadw Tremadog | Friends of Tremadog
-
 Friends of Tremadog is a Historic Buildings Preservation Trust established to protect and preserve the architectural, historical and structural heritage of Tremadog. 

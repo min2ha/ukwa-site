@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Services Sound and Vision Corporation (SSVC)
-
 The Services Sound and Vision Corporation is a registered charity set up to entertain and inform Britain's Armed Forces around the world. Its mission is to be the preferred provider of entertainment and information to Service personnel and their families worldwide. 

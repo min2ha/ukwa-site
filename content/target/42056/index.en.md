@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Fact
-
 FACT was founded in 2003 as a British bi-monthly music and youth culture magazine. In 2005, FACT went digital, and in 2009 it became exclusively online, after the website’s status overtook that of the print magazine. In 2016, FACT is one of the Internet’s most popular and influential music publications.

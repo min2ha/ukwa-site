@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexitland: Pessimism is toxic in Britain’s coastal towns. But decline isn’t inevitable
-

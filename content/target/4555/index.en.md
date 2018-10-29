@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Westminster Abbey: Statement on the death of Nelson Mandela
-
 <p>Statement by the Dean and Chapter of Westminster, reporting a message of condolence sent to the South African High Commissioner on December 5th.</p>

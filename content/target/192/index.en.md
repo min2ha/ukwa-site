@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Tyneside NHS Foundation Trust
-
 None

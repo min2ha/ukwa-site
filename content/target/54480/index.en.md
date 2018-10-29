@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# World Fringe Day
-
 Site established by the Edinburgh Festival Fringe Society to celebrate the seventieth anniversary of the Edinburgh Festival Fringe in particular and generally the concept of fringe events.

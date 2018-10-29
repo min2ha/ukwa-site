@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheila Gilmore on Facebook
-
 The Facebook page of Sheila Gilmore, standing for re-election at the General Election on 7 May 2015 for Edinburgh East.

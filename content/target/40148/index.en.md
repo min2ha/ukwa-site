@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey National Park
-
 Website for Jersey's National Park

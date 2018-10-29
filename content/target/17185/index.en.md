@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Labour: we will not fight a dirty election campaign like PM David Cameron
-
 None

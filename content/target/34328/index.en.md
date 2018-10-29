@@ -10,5 +10,3 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Women’s Aid Monmouthshire Ltd. (WAIMON)
-

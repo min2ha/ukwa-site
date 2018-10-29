@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Conservative candidate makes vile Jewish racist slur against Ed Miliband
-
 None

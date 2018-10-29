@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BrexitCentral
-
 BrexitCentral was established to provide an online news platform for pro-Brexit supporters to track news about the UK leaving the EU and lobby the government to carrying through with the EU exit along their terms. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Vigeans Church
-
 Site of a Church of Scotland parish church at Arbroath, Angus.

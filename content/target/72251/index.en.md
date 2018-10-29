@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# NLW Graphic (@NLWGraphic) on Twitter 
-
 This is the twitter feed of Graphics at the National Library of Wales.

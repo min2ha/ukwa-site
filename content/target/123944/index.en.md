@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Birth Choice UK
-
 Website giving links to other websites containing information about giving birth in the UK.

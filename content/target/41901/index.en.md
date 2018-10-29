@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Reigate and Banstead Borough Council
-
 The website of Reigate and Banstead Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# British Field Target Association (BFTA)
-
 Field target shooting first became popular in the early eighties. It is a discipline of shooting targets outdoors in woodland or open fields, as opposed to the popular indoor 10 and 25 metre disciplines, and hence the reason it became known as “field target”.

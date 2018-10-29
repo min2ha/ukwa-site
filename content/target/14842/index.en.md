@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# NewsnetScotland: The referendum is over but the energy persists
-
 None

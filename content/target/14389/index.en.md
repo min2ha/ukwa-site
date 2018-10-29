@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison - The great Yes campaign "GDP per capita" myth. The...: Facebook
-

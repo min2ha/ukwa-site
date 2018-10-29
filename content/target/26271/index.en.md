@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sgwadiau `Sgwennu'r Ifainc | Young People's Writing Squads
-
 The Young People's Writing Squads is a Welsh Literature initiative. The aim is to locate gifted young writers in each local authority and introduce them to some of Wales' leading writers, and teachers of writing.

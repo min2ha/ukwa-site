@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# David Davies and Theresa May: Brexit and employment law
-
 David Davies has suggested that there may not be significant changes to employment law as a result of Brexit.

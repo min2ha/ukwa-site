@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Britain's tech sector overwhelmingly opposed to Brexit
-
 Guardian, The

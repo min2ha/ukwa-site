@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Geiriadur Welsh-English / English-Welsh On-line Dictionary
-
 Geiriadur is an online Welsh-English / English-Welsh On-line Dictionary provided by University of Wales Trinity Saint David.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Roisin Robertson (Green party candidate for Bromley and Chislehurst) on Facebook
-
 None

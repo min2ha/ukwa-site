@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cambridge United Football Club
-
 Cambridge United Football Club is a professional association football club based in the city of Cambridge, Cambridgeshire. The club was founded in 1912 as Abbey United, and took the name Cambridge United in 1951

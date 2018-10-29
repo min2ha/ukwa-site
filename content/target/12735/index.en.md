@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sonia Samuels – Running to the top
-
 <p>The website of runner Sonia Samuels, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

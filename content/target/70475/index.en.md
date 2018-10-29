@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# International Society for Krishna Consciousness (ISKCON) Scotland
-
 Site of the Scottish section of the International Society for Krishna Consciousness, linked to the Hindu faith, located in Lesmahagow, Lanarkshire.

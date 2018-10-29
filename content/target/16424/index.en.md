@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Y Care International 
-
 <p>Y Care International is the international relief and development agency of the YMCA movement in the UK and Ireland.</p>

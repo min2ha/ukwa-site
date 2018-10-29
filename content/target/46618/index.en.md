@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Brexit has reversed the long decline of post-imperial Britain. Even Tony Blair can't spoil that 
-
 Argues that Britain can flourish as an independent state promoting free trade. 

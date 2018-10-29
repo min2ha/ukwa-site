@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Coity Church Bells & Bellringers
-

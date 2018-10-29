@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Marginal prospects: why 7 May could be Esther McVey's longest day
-
 None

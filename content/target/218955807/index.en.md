@@ -10,6 +10,4 @@
   "start_date": "2014-01-30T20:00:00Z"
 }
 
-# West London Working
-
 None

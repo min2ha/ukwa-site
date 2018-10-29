@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Goldman Sachs: Brexit the uncertainty shock of leaving the EU
-

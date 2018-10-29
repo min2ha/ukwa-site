@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Clarets GFC (@StClaretsGAA) on Twitter
-
 St Clarets are a long established Gaelic football club based in West London. We're always keen to hear from new players. 

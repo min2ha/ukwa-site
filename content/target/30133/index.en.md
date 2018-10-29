@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# MG ALBA (@gaelicmedia) on Twitter
-
 Twitter profile of MG ALBA, a production company funded by Scottish Government and regulated by Ofcom, which broadcasts Gaelic language entertainment on BBC ALBA.

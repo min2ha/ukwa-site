@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Lodge St. Andrew Kilmarnock Number 126
-
 Site of a masonic lodge located in Kilmarnock, Ayrshire and affiliated with the Grand Lodge of Scotland.

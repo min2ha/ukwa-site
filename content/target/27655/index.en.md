@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lynton Crosby: 'the so-called experts have lost touch with ordinary people'
-
 None

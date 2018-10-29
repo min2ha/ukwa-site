@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrats propose extra bank charge to help eliminate deficit
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-08-11T09:00:00Z"
 }
 
-# Special Kids in the UK
-
 Charity for families who have children of any age with special needs. Organises large annual camp in Wem, Shropshire called Speshfest.

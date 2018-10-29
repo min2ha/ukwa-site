@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Amina Jamal (@pentreuk) on Twitter (Liberal Democrate candidate for Swansea East)
-

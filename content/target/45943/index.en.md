@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Bank of England was too pessimistic about Brexit vote – deputy governor
-

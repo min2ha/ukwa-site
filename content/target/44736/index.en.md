@@ -10,6 +10,4 @@
   "start_date": "2016-07-30T10:00:00Z"
 }
 
-# Frock Magazine
-
 Online-only, free, bi-monthly transgender magazine

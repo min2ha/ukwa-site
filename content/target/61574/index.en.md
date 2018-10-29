@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Ayr and Renfrew Militia St Paul No. 271
-
 Site of a masonic lodge located in Ayr, Ayrshire and affiliated with the Grand Lodge of Scotland.

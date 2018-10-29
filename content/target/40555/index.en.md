@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# West Cornwall Communities during World War I
-
 Project to engage with children in 4 schools in exploring how families from Cornwall were affected by the First World War, and to bring the conflict alive for young people and the community.

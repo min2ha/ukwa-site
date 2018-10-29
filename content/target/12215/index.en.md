@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Baggaley (ABaggaley) on Twitter
-
 Twitter profile of table tennis player, Andrew Baggaley. A member of Team England for the Glasgow 2014 Commonwealth Games.

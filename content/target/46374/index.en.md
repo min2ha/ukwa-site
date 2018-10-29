@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# News-watch blog 
-
 Blog monitoring public service broadcast programmes to examine whether they deliver impartiality and political balance.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Leanne Wood (Plaid Cymru candidate for Rhondda)
-
 Leanne Wood is the Plaid Cymru candidate for Rhondda in the 2016 National Assembly for Wales elections.

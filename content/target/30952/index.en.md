@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Taxes Office
-
 The States of Jersey Taxes Office 'Business-to-Business' site designed for employers, agents and I.T. professionals.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hexham Book Festival 
-
 A collaborative venture working with Woodhorn Museum and Archive, the Schools’ Library Service & Northumberland Public Libraries.

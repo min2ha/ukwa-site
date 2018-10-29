@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Who will replace Nick Clegg as Liberal Democrat leader?
-
 None

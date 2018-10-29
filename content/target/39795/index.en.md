@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  SNP Blairgowrie (@snpblairgowrie) on Twitter
-
 Twitter profile of the Blairgowrie branch of the Scottish National Party (SNP).

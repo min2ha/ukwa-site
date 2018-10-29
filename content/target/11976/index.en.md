@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eloise Laity (EllieLaity) on Twitter
-
 <p>The twitter profile of althete Eloise Laity, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

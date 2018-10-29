@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Absent but not Forgotten
-
 Absent But Not Forgotten is an ongoing, experimental art project formed in 2010 by west Wales artists, Kathryn Campbell Dodd and Jacob Whittaker.  According to the site, 'We use video and sound experiments, textiles and objects to create installations and experiences which explore and allude to ideas of the paranormal, ghost hunting and the propensity to search for supernatural explanations to unexpected and unexplained phenomena.'

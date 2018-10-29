@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T08:00:00Z"
 }
 
-# Neuaddau Cymunedol Sir Benfro | Pembrokeshire Community Halls
-
 Directory of Pembrokeshire Halls.

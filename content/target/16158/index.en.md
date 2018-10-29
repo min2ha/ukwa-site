@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# Transition Free Press (TFP)
-
 <p>Transition Free Press (TFP) is a 24-page quarterly newspaper which grew out of the Transition Town movement. It reports on anyone who is helping to build a more sustainable, relocalised and fairer society. TFP was launched in 2013 and is run as a non-for-profit co-operative.</p>

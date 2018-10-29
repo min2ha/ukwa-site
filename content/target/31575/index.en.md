@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# philosovariant: critical essays, articles, poems and other musings by steph power
-
 Steph Power is a Welsh-based composer, poet, critic, essayist and writes polemical essays and music reviews for many publications.

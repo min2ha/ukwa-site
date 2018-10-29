@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Riversimple
-
 Riversimple is a Llandrindod Wells based transportation company and hydrogen car manufacture focused on producing environmentally conscious automobiles. 

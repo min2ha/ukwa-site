@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# SAA
-
 Forum focused on art, painting, drawing, materials and composition

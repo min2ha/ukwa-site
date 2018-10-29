@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Post, The: Britain to mark 1916 centenary with more than 87 events nationwide
-
 An article about the 1916 Rising being commemorated in buildings of cultural significance across Britain next year.

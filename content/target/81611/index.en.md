@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# GS Yuasa UK
-
 GS Yuasa are one of the world’s largest global manufacturers of Lead-Acid and Lithium-ion (Li-ion) batteries and is based in Ebbw Vale. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

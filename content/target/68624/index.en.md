@@ -10,6 +10,4 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# Fèis Thiriodh
-
 A week-long festival of traditional culture held annually on Tiree.

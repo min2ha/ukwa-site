@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# British Science Association (BSA)
-
 The British Science Association (BSA) is a charity, founded in 1831. Their mission is to support, grow and diversify the community of people interested and involved in science; and to strengthen their influence over science's direction and place in society.

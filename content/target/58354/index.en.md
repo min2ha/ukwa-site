@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cifas (Leaders in Fraud Prevention) Welsh Assembly Election Manifesto
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harry Leitch (HGLeitch) on Twitter
-
 <p>The twitter profile of althete harry Leitch, squash  player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

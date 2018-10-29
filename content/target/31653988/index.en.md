@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Brave New World
-
 None

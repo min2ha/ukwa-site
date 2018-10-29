@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# BulliesOut
-
 BulliesOut is a anti bullying charity based in Cardiff.

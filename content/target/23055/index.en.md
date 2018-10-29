@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Guy Nicholson (@Guy_SittShepp) on Twitter (Labour candidate for Sittingbourne and Sheppey)
-

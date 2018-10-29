@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Demos Quarterly: Issue 9, European Referendum Special
-
 A group of MPs and MEPs argue for and against Brexit

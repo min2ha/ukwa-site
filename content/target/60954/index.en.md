@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Peter Kettle
-
 Peter Kettle is a Welsh artist who creates paintings by immersing himself in landscape. He is a Fellow for the Royal Society of Arts (FRSA) and member of the RCA (Royal Cambrian Academy).

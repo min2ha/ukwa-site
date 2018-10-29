@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Government's Queen's Speech clears Commons
-
 The minority Conservative government survived its first major Parliamentary test after its Queen's Speech cleared the House of Commons on June 29th 2017. MPs voted in favour of the package of legislation - which was stripped back after the Tories lost their majority - by 323 to 309.

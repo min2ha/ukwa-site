@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Welsh Stroke Conference, The
-
 The Welsh Stroke Conference is organised on behalf of the Welsh Association of Stroke Physicians and the Welsh Stroke Alliance.

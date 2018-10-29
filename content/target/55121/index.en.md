@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Independent Photography Forum
-
 An online enthusiast forum concerned with photography. Discusses equipment, settings advice, image software tutorials and various other topics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage attacks 'bankrupt' electoral system that saw 4m voters elect 1 Ukip MP
-
 None

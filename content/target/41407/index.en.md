@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Sdim curo Plant! | Children are unbeatable
-
 This is a Children in Wales campaign to change the law for children to have the same protection from being hit that all adults have, and also to promote non-violent ways of managing children’s behaviour. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# SABRE Forum
-
 Society for All British and Irish Road Enthusiasts (SABRE) is an online road enthusiast community. The SABRE forums discuss British and Irish roads, street furniture, road quizzes and international roads

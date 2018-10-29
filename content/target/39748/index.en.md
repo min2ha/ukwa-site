@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cumbernauld SNP (@CumbernauldSNP) on Twitter
-
 Twitter profile of the Cumbernauld and Kilsyth constituency association of the Scottish National Party (SNP).

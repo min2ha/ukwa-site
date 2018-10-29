@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Porth United Reform Church
-

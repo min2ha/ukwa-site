@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mentoring Network
-
 Intentional Mentoring, by Paul Wilcox, founder of The Mentoring Network, is an honest, practical guide to mentoring and a call to radical, grace-filled, ‘discipleship with a kick!’

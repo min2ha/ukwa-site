@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: TV news focuses on election race at expense of policy issues
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# tnr
-
 We help brands large and small to connect and engage with their audiences through strategy, creative and editorial content production, distribution and training.

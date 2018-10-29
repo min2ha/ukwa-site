@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Eli Aldridge (@EliAldridge ) on Twitter (Labour Party Politician)
-
 Eli Aldridge stood as Labour Party candidate for Westmorland and Lonsdale in the General Election 2017 but was not elected.

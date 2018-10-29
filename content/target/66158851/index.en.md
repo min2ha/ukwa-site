@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Durham and Deerness Valley Circuit
-
 None

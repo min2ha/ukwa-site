@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Hashtag/VEDay70 on Twitter 
-
 Tweets Relating to VE-Day 70 Anniversary  

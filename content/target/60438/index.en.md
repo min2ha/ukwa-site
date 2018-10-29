@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Cambridge Russian-speaking Society [CamRuSS)
-
 A Cambridge-based cultural organization holding events in English and Russian, focused on Russian history and culture.

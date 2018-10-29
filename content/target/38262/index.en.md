@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit is Batshit (@iWokig) on Twitter
-
 Proud Brit, using the final few months of this account to highlight to the good citizens of Woking (and beyond) why Brexit is a seriously bad idea.

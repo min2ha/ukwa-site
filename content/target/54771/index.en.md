@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Mindtours
-
 Mindtours is an electronic music record label from north Wales.

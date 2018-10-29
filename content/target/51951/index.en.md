@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John’s & St. Andrew’s at Waterloo
-
 The Church of England parish of St John with St Andrew, Waterloo is in an exciting, changing part of London that also contains communities which have been here since the church was built in 1824. 

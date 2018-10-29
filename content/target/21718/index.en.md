@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: NSW election: Newtown is a Greens v Labor clash for state's 'most progressive seat' - video
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent Workers Union of Great Britain
-

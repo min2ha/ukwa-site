@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glyn Davies MP for Sir Montgomeryshire | Sir Drefaldwyn
-
 Glyn Davies is the MP for Montgomeryshire.

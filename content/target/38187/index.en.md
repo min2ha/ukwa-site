@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Students for Britain
-
 Student group campaigning for the UK to stay in the EU

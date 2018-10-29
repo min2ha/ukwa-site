@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: I will quit as Ukip leader if I am not MP in two months' time
-
 None

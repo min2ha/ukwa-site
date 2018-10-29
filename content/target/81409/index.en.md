@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Winter Festival
-
 Local winter festival with Christmas markets and other special events

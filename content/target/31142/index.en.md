@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Develop
-
 Develop is a website and magazine focused on the games development sector.

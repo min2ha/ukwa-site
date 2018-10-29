@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Backlash at spin doctors, brassy broads and the 'Man who sold Britain' who support PM's campaign to stay in the EU while raking in £94m of handouts from Brussels   
-

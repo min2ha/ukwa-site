@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Early Years Scotland
-
 Site of a Scottish charity and company working with children from birth to age five, delivering services working with children and families together; services for providers of Early Learning and Childcare; high quality, relevant professional learning services for the workforce; advocacy and advisory services relating to legislation, policy and practice.

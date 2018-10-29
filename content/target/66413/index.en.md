@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# iomart Group plc
-
 iomart Group plc is a Scottish information technology and cloud computing company. The company was formed in 1998 and is based in Glasgow.

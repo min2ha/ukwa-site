@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Liverpool Institute for Performing Arts (LIPA), The
-
 Official website of the Liverpool Institute for Performing Arts.

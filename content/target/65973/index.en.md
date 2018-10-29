@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Register of Chartered Security Professionals
-
 The Register of Chartered Security Professionals was established under a Royal Charter issued to the Worshipful Company of Security Professionals in the UK and launched in 2011.  

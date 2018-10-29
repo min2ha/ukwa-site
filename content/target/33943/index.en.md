@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo Chilean Society, The 
-
 They aim to increase the awareness of Chile among the people of the UK and to advance the knowledge and understanding of its people history, language, literature, institutions, folklore, culture and current way of life.

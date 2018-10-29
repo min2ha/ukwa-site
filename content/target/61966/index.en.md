@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol City WFC (@bristolcitywfc ) Ton Twitter
-
 Official Twitter account for Bristol City Women's Football Club. 

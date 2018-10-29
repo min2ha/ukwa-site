@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Epsom Methodist Church
-
 None

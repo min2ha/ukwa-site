@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Over Here Zine Fest
-
 Over Here Zine Fest is organised by a group of POC / Black / Asian / BAME working class artists and activists from the North of England, to build self-sustaining alternative models for publishing, art, activism and collaboration in our communities.

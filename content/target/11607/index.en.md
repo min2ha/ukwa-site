@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Laura Cluxton (@pixielaurac) on Twitter
-

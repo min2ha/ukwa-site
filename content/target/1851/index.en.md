@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedford Borough Council
-
 Website of Bedford Borough Council offering information about services for residents and the activities of the council.

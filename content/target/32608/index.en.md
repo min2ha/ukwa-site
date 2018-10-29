@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Making Histories: developing young community historians
-
 Developed by the Runnymede Trust, in collaboration with the LSE and University of Cambridge, this website brings together family histories and migration stories from young people in Cardiff, Leicester and Sheffield. 

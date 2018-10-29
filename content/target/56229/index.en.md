@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Lynne Barrett-Lee
-
 Lynne Barrett-Lee is a ghostwriter and novelist.

@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Cyfraith Hywel
-
 This is an University of Wales website covering Cyfraith Hywel, or the legal system in Wales in the middle ages.

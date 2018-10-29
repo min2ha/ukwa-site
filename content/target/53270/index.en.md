@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vijay Rana (@vijay_rana) on Twitter (Green Party  Politician)
-
 Vijay Rana stood as Green Party candidate for Birmingham, Perry Barr at the 2017 General Election but was not elected.

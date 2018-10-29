@@ -11,7 +11,5 @@
   "subject": "SmashFest UK"
 }
 
-# GwladRugby - The unofficial world of Welsh rugby and stuff
-
 Gwladrugby.com is a completely unofficial website dedicated to fans of Welsh rugby and much more.
 Nominated by a Smashfest 2015 visitor, who commented: Its the best.

@@ -10,5 +10,3 @@
   "start_date": "2015-09-22T00:00:00Z"
 }
 
-# Cymdeithas Cyfieithwyr Cymru | Assocation of Welsh Translators and Interpreters
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# The Isle of Thanet News
-

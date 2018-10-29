@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# First News
-
 First News provides young people, their parents and teachers with up to date, factual information about breaking news stories and current affairs.

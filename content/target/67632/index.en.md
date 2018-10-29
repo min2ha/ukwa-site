@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Crop Circle Connector
-
 A website about Crop circles

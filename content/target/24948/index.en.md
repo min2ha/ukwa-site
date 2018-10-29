@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour can't finish second then grab power, warns Cameron amid rising fears about an illegitimate government
-
 None

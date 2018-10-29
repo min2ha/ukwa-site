@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# BE Festival
-
 Festival crossing borders, creative disciplines and blurring the boundary between audience and artist

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gerry 4 Orkney Shetland
-
 This is the website of Gerry McGarvey, the Labour Party candidate for Orkney and Shetland in the UK General Election on the 7th May 2015.

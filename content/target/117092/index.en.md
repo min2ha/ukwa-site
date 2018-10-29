@@ -10,6 +10,4 @@
   "start_date": "2006-02-13T00:00:00Z"
 }
 
-# Tartan Hen Publications
-
 None

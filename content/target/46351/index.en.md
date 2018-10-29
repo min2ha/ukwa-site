@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# OpenDemocracy: Scotland has four EU options - but which are realistic?
-

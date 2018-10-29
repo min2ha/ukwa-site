@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# North East Arts Touring (NEAT)
-
 Site of an organisation established to develop and support a thriving network of voluntary promoters, enabling them to promote high quality professional theatre and dance performances and community cinema screenings in rural venues.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Migrants Organise: Migrants and refugees acting for justice.
-
 Formerly the Migrant and Refugee Communities Forum, Migrants Organise Migrants Organise is a platform where refugees and migrants organise for power, dignity and justice. 

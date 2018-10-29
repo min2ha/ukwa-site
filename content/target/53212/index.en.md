@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Society of Editors: Letter to the Prime Minister
-
 Letter seeks confirmation of the Conservative Party’s ongoing commitment to 
 press freedom in the UK ahead of the 2017 General Election.

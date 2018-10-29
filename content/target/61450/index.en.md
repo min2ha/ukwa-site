@@ -10,6 +10,4 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# Border Marches Early Music Forum
-
 Border Marches Early Music Forum is a regional forums created for the study and enjoyment of a historically informed approach to the performance of mostly pre classical music. 

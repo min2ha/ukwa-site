@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T09:00:00Z"
 }
 
-# Lampeter Review, The
-
 Journal of the Lampeter Creative Writing Centre (University of Wales, Trinity St David).

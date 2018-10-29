@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alun Davies on Facebook (Labour candidate for Blaenau Gwent)
-
 Alun Davies is the Labour candidate for Blaenau Gwent at the 2016 National Assembly for Wales elections. 

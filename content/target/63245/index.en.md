@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian-British Cultural Centre
-
 The Russian-British Cultural Centre RUBRIC organizes cultural and educational activities for the Russian-British population in Birmingham. It compromises several different groups bringing together the Russian-speaking, East European and British communities.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour Leave
-
 Campaign for Britain to leave an unreformed EU

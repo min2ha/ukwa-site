@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Gorsedh Kernow
-
 Gorsedh Kernow, which means Cornish Gorsedh, exists to maintain the national spirit of Cornwall as a Celtic country.

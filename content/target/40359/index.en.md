@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Chronicles of War: Edinburgh's Experiences of World War I on the Home Front
-
 Project enabling WEA adult education groups to investigate Edinburgh's experiences of World War and create a play based on their research findings.

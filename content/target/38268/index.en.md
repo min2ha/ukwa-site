@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Academics for Europe (@academicsforeu) on Twitter
-
 Group of academics campaigning for the UK to stay in the EU

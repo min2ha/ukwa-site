@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Oban Library | Argyll and Bute Council
-
 Oban Library information hub on the Argyll and Bute Council homepage.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# FestivalHighlights.com
-
 Site advertising and reviewing shows at the Edinburgh Festival Fringe, from 2003-2014 inclusive. The site was wound up in 2014, but the archive remains.

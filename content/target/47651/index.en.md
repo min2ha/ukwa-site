@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Disabled Supporters Association
-
 Site of an organisation representing the needs of disabled football supporters in Scotland

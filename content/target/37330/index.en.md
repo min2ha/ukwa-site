@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Law Society Gazette, The: EU withdrawal: at what price for lawyers?
-
 News relating to the legal profession

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Omnibus Press (@OmnibusPress) on Twitter
-
 Omnibus Press is a large publisher of music related books including artist/band biographies, photo books and collectables. This is their official Twitter account.

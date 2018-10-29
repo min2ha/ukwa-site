@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# OfficialNIFL (@OfficialNIFL) on Twitter
-
 The official Twitter account of the NI Football League inc. Danske Bank Premiership, Bluefin Sport Championship/Premier Intermediate & Danske Bank Women's Premiership.

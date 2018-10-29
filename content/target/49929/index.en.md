@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilmore & Oban : Church of Scotland
-
 Parish website of Kilmore and Oban. 

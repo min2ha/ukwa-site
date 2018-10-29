@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Nick Clegg, Ken Clarke and Lord Adonis visit Barnier
-
 Nick Clegg, Ken Clarke and Lord Adonis (pro-EU politicians) jokingly branded themselves "the rebels" before holding talks with the European Commission's chief negotiator Michel Barnier on October 30th 2017.

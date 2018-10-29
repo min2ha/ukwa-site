@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Christopher Salmon (@ChrisTRSalmon) on Twitter (Conservative candidate for Dyfed Powys Police and Crime Commissioner) 
-
 Christopher Salmon is the Conservative candidate at the 2016 Police and Crime Commissioner Elections.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beyond Borders Scotland
-
 Books, Borders and Bikes organised by the Beyond Borders Scotland

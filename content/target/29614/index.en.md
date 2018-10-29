@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Petworth Festival
-
 Petworth Literary Weekend 

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Fowey to Mevagissey Ferries
-
 None

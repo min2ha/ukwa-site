@@ -10,5 +10,3 @@
   "start_date": "2012-10-04T00:00:00Z"
 }
 
-# Course Data Stage 2 Bath Spa University
-

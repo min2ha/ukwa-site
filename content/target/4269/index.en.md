@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Think Scotland
-
 ThinkScotland was established as a virtual think tank in 2006 to encourage discussion about economic, social and constitutional policies – mainly Scottish Conservative authors. The site relaunched in July 2012 seeking a far broader constituency as an independent not-for-profit debating forum with a cross section of topical, political and cultural writing.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: The Movie (@BrexitTheMovie) on Twitter
-
 A Twitter account for Brexit:The Movie (a pro-Leave documentary).

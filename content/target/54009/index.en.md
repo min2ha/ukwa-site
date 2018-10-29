@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jess Phillips (Labour  Politician)
-
 Jess Phillips stood as Labour Party candidate for Birmingham Yardley in the 2017 General Election. She was first elected to serve as MP for Birmingham Yardley in 2015 and was re-elected in 2017

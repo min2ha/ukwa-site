@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC Three: What it's like being a modern-day female football fan by Ciaran Varley
-
 An article about female football supporters

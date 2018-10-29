@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# WestBerksIN (@WestBerksIN) on Twitter
-
 The West Berkshire campaign for Britain Stronger IN the EU

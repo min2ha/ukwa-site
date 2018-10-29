@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jax Thoirs (JaxThoirs) on Twitter
-
 <p>The twitter profile of althete Jax Thoirs, pole vaulter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

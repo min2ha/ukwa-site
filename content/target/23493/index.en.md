@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Julie Lingard (UKIP)
-
 Julie Lingard stood as UKIP candidate for Cornwall North at the 2015 General Election but was not elected.

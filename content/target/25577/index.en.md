@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband is on 'Mission Statesman' – and he is close to pulling it off
-
 None

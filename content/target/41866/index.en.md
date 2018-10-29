@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Scottish Printing Archival Trust
-
 Site of a trust aiming to conserve knowledge and examples of Scotland’s printing heritage for the benefit of the public and print/media education and promoting interest in the history of the Scottish printing industry.

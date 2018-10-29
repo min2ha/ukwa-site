@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Thomas Kerr for Shettleston on Facebook
-
 Facebook page of Thomas Kerr, Conservative candidate for Glasgow Shettleston in the 2016 Scottish Parliamentary election.

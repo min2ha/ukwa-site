@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron draws up new Cabinet as he comes under fire from SNP - as it happened, May 9, 2015
-
 None

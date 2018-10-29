@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Birmingham City Football Club
-
 Birmingham City Football Club is a professional association football club based in the city of Birmingham, England. Formed in 1875 as Small Heath Alliance, they became Small Heath in 1888, then Birmingham in 1905, finally becoming Birmingham City in 1943.

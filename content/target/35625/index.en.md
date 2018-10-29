@@ -10,6 +10,4 @@
   "start_date": "2016-02-22T09:00:00Z"
 }
 
-# Home-Start: Support and Friendship for Families
-
 Home-Start helps families with young children deal with whatever life throws at them. They support parents as they learn to cope, improve their confidence and build better lives for their children.

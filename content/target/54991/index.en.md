@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Change.org: My vote for Labour is not a vote for Brexit
-
 An online petition directed at the Leader of Labour Party Jeremy Corbyn MP.

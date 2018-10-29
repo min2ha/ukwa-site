@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Shetland Lighthouse Holidays
-
 Site of an organisation promoting holiday accommodation in former keepers' quarters in automated lighthouses throughout Shetland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Charlton Athletic WFC (@CAFCWomen) on Twitter
-
 Official Twitter account of Charlton Athletic WFC. FA Women's Premier League champions.

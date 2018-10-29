@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Duncan McNeil MSP
-
 <p>The website of Duncan McNeil Scottish Labour Member of the Scottish Parliament for Greenock and Inverclyde.</p>

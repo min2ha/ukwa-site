@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Aldridge Brownhills Liberal Democrats
-
 Aldridge Brownhills Liberal Democrats, a web portal for six wards: Aldridge Central & South, Aldridge North and Walsall Wood, Brownhillls, Pelsall, Rushall/Shelfield & High Heath, Streetly.

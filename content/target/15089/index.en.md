@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heptonstall
-
 <p>This website has been developed by the Communications Group of Heptonstall Forward, and contains news and information about the Parish of Heptonstall, high above Hebden Bridge in West Yorkshire.</p>

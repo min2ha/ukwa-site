@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Judo Association
-
 None

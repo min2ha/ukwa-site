@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: So can Theresa May now survive the Brexit course?
-
 Comments on the challenges and obstacles confronting the UK  as its begins to negotiate its future trading relationship with the EU.

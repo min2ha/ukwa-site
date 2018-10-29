@@ -32,6 +32,4 @@
   "endDateText": ""
 }
 
-# Fashion
-
 Websites selected around the theme of fashion including the history of fashion, the fashion business and style blogs.

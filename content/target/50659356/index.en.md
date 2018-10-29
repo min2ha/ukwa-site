@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# East End WI
-
 None

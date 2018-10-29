@@ -10,5 +10,3 @@
   "start_date": "2015-02-24T00:00:00Z"
 }
 
-# shirleymckie.com
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dennis Kefentse (@KefentseDennis) on Twitter (Green party Politician) 
-
 Dennis Kefentse stood as Green party candidate for Birmingham Ladywood at the 2017 General Election but was not elected.

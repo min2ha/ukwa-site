@@ -10,5 +10,3 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Cyngor Cymuned Llysfaen | Llysfaen Community Council 
-

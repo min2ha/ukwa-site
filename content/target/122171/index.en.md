@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Government - Llywodraeth Cymru
-
 The official website of the Government of Wales.

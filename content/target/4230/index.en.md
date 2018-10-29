@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Document Scotland
-
 Colin McPherson, Jeremy Sutton-Hibbert, Sophie Gerrard and Stephen McLaren are four Scottish documentary photographers.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# British Record Shop Archive
-
 This site aims to record the history of the record shop in an accessible archive, to hold intrinsic details that could get lost in the mix, and to celebrate the role that the record shop played.

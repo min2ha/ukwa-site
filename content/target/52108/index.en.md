@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church and St. George's, Normanby
-
 Christ Church, Eston with Saint George's, Normanby is a joint parish of two churches on the South-east edge of Middlesbrough.

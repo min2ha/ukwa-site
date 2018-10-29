@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport Wales - Chwaraeon Cymru
-
 Sport Wales is the national organisation responsible for developing and promoting sport and physical activity in Wales. They are an adviser on sporting matters to the Welsh Government and are responsible for distributing National Lottery funds to both elite and grassroots sport in Wales.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Church of the Resurrection, Parish of Glan Ely
-

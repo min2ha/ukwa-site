@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Tinderbox Alley
-
 Tinderbox Alley is a Welsh theatre company.

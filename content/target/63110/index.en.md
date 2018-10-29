@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Zia Lucia
-
 Zia Lucia for painstakingly-prepared pizzas, made with high-quality, Italian produce.

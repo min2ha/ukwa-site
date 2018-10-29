@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I fear this election is turning me into an English nationalist
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Williams, Standing up for Cardiff North
-
 Craig Williams is the Conservative prospective parliamentary candidate for Cardiff North.

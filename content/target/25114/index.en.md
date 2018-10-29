@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Homeowners could face early rise in interest rates if Ed Miliband is propped up by the SNP, warn Morgan Stanley
-
 None

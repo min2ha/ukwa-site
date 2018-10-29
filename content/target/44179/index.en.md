@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Islay Natural History Trust
-
 Site of a wildlife trust based and natural history centre at Port Charlotte, Islay, Argyll & Bute, recording and making available information about the wildlife of the island.

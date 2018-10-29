@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Pequod, The
-
 None

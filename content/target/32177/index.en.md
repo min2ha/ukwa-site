@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Ulster Gazette and Armagh Herald
-

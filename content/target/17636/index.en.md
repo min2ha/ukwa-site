@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron says he's 'fired up' with 100 days to go until the election
-
 None

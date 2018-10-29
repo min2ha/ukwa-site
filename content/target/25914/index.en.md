@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron’s workers v shirkers scam has at last exposed the Tory law of benefit cuts
-
 None

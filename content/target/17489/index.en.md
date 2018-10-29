@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BMA tells politicians not to 'play games' with NHS
-
 None

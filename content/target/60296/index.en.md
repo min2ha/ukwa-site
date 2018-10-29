@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Arconic knowingly supplied flammable panels for use in tower
-
 Reuters piece on the Grenfell Tower: "Arconic knowingly supplied flammable panels for use in tower"

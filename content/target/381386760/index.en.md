@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cysgu'n Brysur
-
 Cysgu'n Brysur is an Arad Goch, Wales Millenium Centre and Aberystwyth Arts Centre theatre production about being a young Welsh person in the twenty first century.

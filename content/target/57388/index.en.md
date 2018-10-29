@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK needs to clarify issues - Macron
-
 Following Theresa May's Florence speech, French President Emmanuel Macron said the issues of EU citizens' rights, the exit bill and the Irish border question must be settled before talks could be held on trade.

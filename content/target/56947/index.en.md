@@ -10,6 +10,4 @@
   "start_date": "2017-09-02T09:00:00Z"
 }
 
-# Music at Paxton
-
 Site of an annual Summer chamber music festival at Paxton House, Berwickshire.

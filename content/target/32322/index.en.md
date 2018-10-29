@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Nuffield Council on Bioethics: The ethics of research involving animals
-
 This website contains summaries, news and teacher resources related to their 2005 report on the ethics of research involving animals.

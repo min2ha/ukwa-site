@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Cardiff Partnership
-
 Cardiff Partnership involves public, private and third sector organisations, all jointly undertaking to move Cardiff forward.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories use Treasury to attack Labour as election battle begins
-
 None

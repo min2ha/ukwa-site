@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hall Russell United Football Club
-
 Site for a Scottish junior football club based in Bridge of Don, Aberdeen, Scotland

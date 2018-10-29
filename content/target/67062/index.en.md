@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The Brexit negotiation and the Government’s position. There is a glimmer of light.
-
 Calls on Theresa May to support her Brexit secretary David Davis 100%

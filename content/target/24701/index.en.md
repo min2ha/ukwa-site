@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Bullen (@pbullenUKIP) on Twitter (UKIP Politician)
-
 Paul Bullen stood as UKIP candidate for Huntingdon at the 2015 General Election but was not elected. He was the UK Independence Party (UKIP) candidate in the constituency of Huntingdon in the 2017 General Election and was not elected.

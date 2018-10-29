@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wembury Parish Council
-
 The Civil Parish is known as Wembury and is divided into two Wards, the eastern ward of Wembury and the western ward of Down Thomas. The Parish Council comprises of twelve councillors.

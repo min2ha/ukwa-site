@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News :  Farage stays as UKIP leader after resignation rejected
-
 None

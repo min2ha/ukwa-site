@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) Hamilton, Larkhall & Stonehouse
-
 The website of the Hamilton, Larkhall & Stonehouse branch of the Scottish National Party (SNP)

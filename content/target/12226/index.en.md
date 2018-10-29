@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Doran - International Athlete
-
 <p>The website of athlete Lee Doran, javelin thrower and Team Wales for the Glasgow 2014 Commonwealth Games.</p>

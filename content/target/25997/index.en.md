@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Newspapers that lambasted the coalition are rewriting history
-
 None

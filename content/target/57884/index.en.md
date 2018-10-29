@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The British Cactus & Succulent Society Forum
-
 An online enthusiast forum concerned with keeping cactus. Discusses news & events, monthly photo competitions and various other related topics. 

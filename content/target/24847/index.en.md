@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Lammy Labour candidate For Tottenham 
-

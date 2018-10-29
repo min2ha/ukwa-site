@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Fy Ysgol Leol | My Local School
-
 My Local School is Welsh Government website designed to open up access to schools data for parents and all others with an interest in their local school. 

@@ -10,5 +10,3 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Ged Killen MP – Working Hard for Rutherglen & Hamilton West
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Futureheads
-
 Futureheads is a digital recruitment agency in London specialising in a range of digital expertise. We match great digital talent to great digital jobs.

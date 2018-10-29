@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# MutatioN Press - Rocket Science
-
 An Edinburgh based micro-press, publishing works of science fiction and fantasy.

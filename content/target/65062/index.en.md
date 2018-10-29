@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Horrific Tales Publishing 
-
 Horror Tales publishing is a book publisher based in Crickhowell.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Olympic sailing in Weymouth & Portland: London 2012 Olympic Games
-

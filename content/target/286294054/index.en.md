@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Romsey & District Society, The
-
 <p>The Romsey &amp; District Society was founded in 1974 and it focuses on local planning, environment and countryside issues.</p>

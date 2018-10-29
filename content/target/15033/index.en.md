@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Farsley Village Community Website
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Robertson Group plc
-
 Robertson Group plc is a large construction, infrastructrure and support services company, established in 1966 in Elgin, Scotland.

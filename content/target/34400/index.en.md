@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cambridge Big Data, University of Cambridge
-
 The Cambridge Big Data Strategic Research Initiative brings together researchers from across the University to address challenges presented by access to unprecedented volumes of data.

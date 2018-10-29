@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Hanan Issa - Writer. Poet. Spoken Word Artist
-
 Hanan Issa is a UK-based spoken word artist, poet, and writer. She's a Welsh/ Iraqi Feminist Muslim.

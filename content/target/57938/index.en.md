@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Llanelli Talking Newspaper
-
 The Llanelli Talking Newspaper provides a news service for partially sighted and blind people in Llanelli. As well as a CD, which is sent out fortnightly to subscribers the newspaper is also available online.

@@ -10,5 +10,3 @@
   "start_date": "2009-02-13T00:00:00Z"
 }
 
-# JISC Digital Media
-

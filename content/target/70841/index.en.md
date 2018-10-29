@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Cardiff West Community High School
-
 Cardiff West Community High School is a brand new secondary school serving the West of Cardiff. 

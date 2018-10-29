@@ -10,5 +10,3 @@
   "start_date": "2014-12-17T00:00:00Z"
 }
 
-# Jazz in Wales
-

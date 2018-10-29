@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zoe Gillings - Professional Snowboard Athlete Facebook
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Islay Energy Trust
-
 Site of a community owned organisation that aims to develop renewable energy projects for the benefit of the community whilst reducing Islay’s carbon footprint.

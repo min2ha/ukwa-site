@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Outdoor Access Code
-
 Information about access rights and responsibilities in Scotland’s outdoors.

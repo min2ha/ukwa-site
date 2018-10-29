@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Five more years of the Conservatives will reduce the arts to a national joke
-
 None

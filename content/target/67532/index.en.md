@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Keswick Rugby Club (@KeswickRugby) on Twitter
-
 The official Twitter account of Keswick Rugby Club.

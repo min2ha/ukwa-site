@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Amy Boulden
-
 Amy Boulden is a Welsh Professional golfer from St Asaph.

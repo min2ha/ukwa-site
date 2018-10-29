@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Bob Gelsthorpe
-
 Bob Gelsthorpe is an artist from Blackwood, south Wales.

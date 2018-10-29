@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Buzz Bournemouth University: World Health Organisation list gaming addiction as an official mental health concern
-
 Blog post covering the recent inclusion of gaming addiction as a recognised mental health condition by The World Health Organisation

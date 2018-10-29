@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Kate Osamor’s mum 'happy' political past didn’t put her off
-
 None

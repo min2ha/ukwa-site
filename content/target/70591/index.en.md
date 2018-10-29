@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lewes FC Women (@LewesFCWomen) on Twitter
-
 Lewes FC Women, FA Women’s Championship team and the only women’s team in the world to be paid the same as the men.

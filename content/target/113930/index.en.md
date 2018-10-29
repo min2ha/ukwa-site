@@ -10,5 +10,3 @@
   "start_date": "2005-06-26T23:00:00Z"
 }
 
-# BA - British Association for the Advancement of Science
-

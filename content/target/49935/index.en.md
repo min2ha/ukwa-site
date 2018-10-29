@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cairns Church Milngavie
-
 Parish website of Cairns Church Milngavie. 

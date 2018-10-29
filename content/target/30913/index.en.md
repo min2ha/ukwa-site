@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Active Jersey
-
 Website for the 3 Sports and Leisure Centres in Jersey, including details of class timetables, events and concerts, membership and venues.

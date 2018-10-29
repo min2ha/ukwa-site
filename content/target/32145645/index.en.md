@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cheltenham Quakers
-

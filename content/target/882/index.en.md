@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sussex Partnership NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Childline: Transgender Identity
-
 An information and advice page from Childline on transgender identity

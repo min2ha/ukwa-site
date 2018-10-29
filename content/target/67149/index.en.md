@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Bristolians RFC (@OBsRugby) on Twitter
-
 The official Twitter account of Old Bristolians Rugby Club.

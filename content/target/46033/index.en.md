@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# British Society for Paediatric and Adolescent Gynaecology, The (BritSPAG)
-
 The British Society for Paediatric and Adolescent Gynaecology is a multidisciplinary society aimed at bringing together professionals interested in the study and practice of paediatric and adolescent gynaecology.

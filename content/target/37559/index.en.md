@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU summit: What Europe's reporters make of Brexit talks
-

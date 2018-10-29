@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# IPCC Report, The - Looking into the 5th IPCC report and other aspects of the climate debate
-
 Blog site initially started to discuss the 5th IPCC report, but which has since moved on to discussing the climate debate more generally.

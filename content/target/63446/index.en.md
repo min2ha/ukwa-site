@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-#  Pavane Early Music Consort 
-
 Pavane Early Music Consort are based in Cardiff and have been performing and recording instrumental and vocal music from the medieval to the early baroque periods (about 1100 to 1650) since 1992. 

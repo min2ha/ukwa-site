@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Could Facebook be a factor in the next election? 
-
 None

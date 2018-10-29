@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Theresa May’s Munich speech: partnership should be indivisible
-

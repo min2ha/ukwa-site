@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Action for Children
-
 Action for Children is a UK children’s charity committed to helping vulnerable and neglected children and young people, and their families, throughout the UK.

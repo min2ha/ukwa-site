@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boom or gloom? The economic verdict on Brexit … so far
-

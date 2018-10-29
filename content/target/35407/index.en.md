@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# London Co-Investment Fund
-
 LCIF funds high-growth tech, science and digital startups in London. Founded and managed by Funding London and Capital Enterprise, the London Co-Investment Fund has raised £25m from the Mayor of London's Growing Places Fund to co-invest in seed rounds between £250,000 - £1,000,000. 

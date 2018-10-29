@@ -10,5 +10,3 @@
   "start_date": "2014-03-18T00:00:00Z"
 }
 
-# Cynnal y Cardi
-

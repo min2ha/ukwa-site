@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Guitar Forum
-
 An online enthusiast community concerned with guitars. Discusses guitar equipment, guitar playing, guitar reviews and other related topics.

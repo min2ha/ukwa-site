@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Songbirds Choir
-
 We are Songbirds, a community choir for LBT+ people based in Cardiff. We were set up in 2012 and currently have around 35 members.

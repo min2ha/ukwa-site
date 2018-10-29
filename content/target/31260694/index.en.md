@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Legacy Trust UK
-
 None

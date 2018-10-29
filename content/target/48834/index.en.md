@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The judgment in Miller: Representative Democracy Strikes Back 
-
 This post summarises the key elements of the judgment, and puts it into the broader context of the Brexit process and the role of Parliament

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Berkeley Castle
-
 Website of Berkeley Castle - traditional rural Estate in Gloucestershire’s Berkeley Vale, open to visitors and event hire.

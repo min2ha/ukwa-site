@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Polish Housing Society Ltd
-
 Polish Housing Society Ltd are a charity based in Gwynedd and own Penrhos Polish Home. They provide accommodation and support to Polish ex-service men and women who remained in the UK following World War II near Pwllheli, Gwynedd.

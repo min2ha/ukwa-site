@@ -10,6 +10,4 @@
   "start_date": "2018-08-22T09:00:00Z"
 }
 
-# About Aberlour
-
 Site providing information about amenities, businesses and activities in the town of Aberlour, Moray.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Sidney E Parker Archive
-
 Archive of the work of Sidney E Parker. Sid Parker (November 9th, 1929-[December] 2012) edited a series of anarchist and egoist journals from 1963-1994: Minus One and Ego. He shifted from being a teenage member of the Communist Youth League in 1946 into Anarchism and then ultimately “to emerge as his own man”, and unhyphenated Egoist, in 1982. Through his journey he remained en marge, the outsider.

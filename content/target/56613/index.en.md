@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Chisholme Institute
-
 Site of a Scottish charity whose main focus is to provide a residential retreat and study facility, offering non-denominational courses in spiritual education which are available to all.

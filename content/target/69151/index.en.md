@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: The battle over the gender price gap
-
 A news article on the gender price gap

@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Pub
-
 Website of a pub in Lincoln.

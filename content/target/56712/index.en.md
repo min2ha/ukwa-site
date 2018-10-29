@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Thrilling Adventures of Lovelace and Babbage, The
-
 Alternative history webcomic created by Sydney Padua. Tells fictional stories of Ada Lovelace and Charles Babbage, alongside historical notes.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Grimsby Chums, The
-
 The aim of this website is to allow us to co-ordinate the efforts of those wishing to commemorate the story of the Chums - he men of North East Lincolnshire who answered Lord Kitchener's call for a thousand volunteers locally to take up arms and to fight for their King and Country during World War 1. This website is owned and maintained by Andy Evans.

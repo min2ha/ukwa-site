@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tom Sharman (Green party candidate for Ealing Central and Acton) on Facebook
-

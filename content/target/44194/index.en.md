@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wales Online: Football
-
 The latest football news and analysis on Cardiff City, Swansea City, Wrexham, Merthyr Tydfil and Newport County from Wales Online.

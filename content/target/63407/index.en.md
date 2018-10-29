@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Recruitment Grapevine
-
 Recruitment & Talent Acquisition news provided by the leading magazine for Recruitment Consultants and In-House Resourcing professionals.

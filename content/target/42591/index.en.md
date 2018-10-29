@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-#  Systo
-
 This blog documents the authors experiences and thoughts while developing Systo, an open web-based toolkit for viewing, building and simulating the behaviour of systems models. Systo supports System Dynamics (stock-and-flow) modelling, as well as other modelling notations based on node-and-arc diagrams.

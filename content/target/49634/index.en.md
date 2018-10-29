@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lliswerry Baptist Church
-

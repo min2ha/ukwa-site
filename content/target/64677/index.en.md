@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Exiting the EU: The financial settlement
-
 The total amount the UK will pay in the financial settlement on leaving the EU remains uncertain and could differ to the £35 billion to £39 billion that government has estimated. The total cost of the settlement cannot be defined until there is greater certainty around future events such as: the UK’s economic performance in 2019 and 2020; how much EU funding UK organisations will continue to receive after the UK leaves; the future cost of the EU pension liability; and potential changes to the exchange rate, as the UK will settle its payments in euros.

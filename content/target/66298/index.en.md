@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# STV Group plc
-
 STV Group plc is a Scottish media company headquartered in Glasgow.

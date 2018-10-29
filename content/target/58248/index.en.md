@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# On the Rocks : Student Arts Festival
-
 Site of an annual arts festival, entirely student-run, incorporating art, photography, film, theatre, dance, fashion, music and comedy and staged in St. Andrews, Fife.

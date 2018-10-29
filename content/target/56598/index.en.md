@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Gwendraeth Magazine, The
-
 Gwendraeth Magazine has been published since 2015 and is a resource of local business and community information for the people of the Gwendraeth Valley.

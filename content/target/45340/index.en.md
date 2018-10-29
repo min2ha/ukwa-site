@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T11:00:00Z"
 }
 
-# Bettws Community 
-
 Community site for Bettws in Newport.

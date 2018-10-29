@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Huddersfield Daily Examiner: Tour de France 2014
-

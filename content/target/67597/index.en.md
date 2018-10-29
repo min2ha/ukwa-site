@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scottish Beer and Pub Association
-
 Site of an association representing Scotland’s brewers and pub companies, existing to promote and protect an important Scottish industry.

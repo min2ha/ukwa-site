@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Fretboard Forum
-
 An online enthusiast forum concerned with guitars. Discusses amps, FX, other instruments, making and modding and various other topics. 

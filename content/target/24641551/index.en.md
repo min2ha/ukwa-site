@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# British American Tobacco plc
-
 British American Tobacco plc is a British multinational tobacco company and one of the world’s largest tobacco companies. With a market-leading position in over 50 countries and operations in around 180 countries. Its four largest-selling brands are Dunhill, Lucky Strike, Kent and Pall Mall, also Kool, Benson & Hedges and Rothmans.

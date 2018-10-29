@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tees, Esk and Wear Valleys NHS Foundation Trust
-
 None

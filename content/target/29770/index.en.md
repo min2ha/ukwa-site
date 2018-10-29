@@ -10,6 +10,4 @@
   "start_date": "2015-09-12T10:00:00Z"
 }
 
-# Belle Angele, La
-
 La Belle Angele is the relaunch of an Edinburgh Cowgate venue founded in the early 1990s. It was a venue in the 2015 Edinburgh Free Fringe.

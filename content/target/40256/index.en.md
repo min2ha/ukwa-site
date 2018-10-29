@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Poll boost for Remain campaign
-
 Guardian, The

@@ -10,5 +10,3 @@
   "start_date": "2011-06-03T00:00:00Z"
 }
 
-# Independent Cancer Patients' Voice
-

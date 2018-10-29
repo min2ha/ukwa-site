@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conservative Woman, The: Why Pornography Screws up our Mental Health
-
 Article about the effects of online pornography on mental health

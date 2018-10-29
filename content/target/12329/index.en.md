@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ScottishYoungGreens (scotyounggreens) on Twitter
-
 <p>The official twitter profile of Scottish Young Greens, the youth movement of the Scottish Green Party.</p>

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Economics in Action
-
 None

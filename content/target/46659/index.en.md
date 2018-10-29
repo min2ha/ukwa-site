@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Scottish Parliament, The on Facebook
-
 The Scottish Parliament

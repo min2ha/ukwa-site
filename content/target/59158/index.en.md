@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Corbyn has seen the light on Brexit. Now he’s taking the fight to the Tories
-

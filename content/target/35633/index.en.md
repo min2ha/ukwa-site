@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Pound suffers biggest one-day loss since 2010 after Boris's Brexit bombshell and Cameron's 'troubling' EU deal   
-

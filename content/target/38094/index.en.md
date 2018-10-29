@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Women For Brexit (@Women4Brexit) on Twitter
-

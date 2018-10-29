@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# We are Cycling: Wales
-

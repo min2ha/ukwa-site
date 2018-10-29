@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Artificial Womb
-
 WordPress site acting as an extension to the magazine 'Artificial Womb', a feminist magazine providing space for emerging writers, artists, poets and comic creators to explore issues such as sex, gender, sexuality, parenthood, & eco-feminism.

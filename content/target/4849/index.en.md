@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Bright Green: Remembering Mandela
-
 <p>Blog post of 8 December 2013, by Innes MacLeod. The post reflects on the changing ways that Mandela was represented during his life, by the political right and others. The post challenges the "man of peace" interpretation that Mandela attracted during his later life, arguing that he also knew that violent oppression required a forceful response.</p>

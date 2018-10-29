@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# St. Giles’ Cathedral
-
 Site of the historic City Church of Edinburgh, a working church and congregation, and a visitor attraction.

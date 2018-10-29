@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron could be ousted as Prime Minister whether he wins or loses EU vote as MPs pledge to a force a coup if he fails to stop Tory civil war    
-

@@ -10,5 +10,3 @@
   "start_date": "2008-09-03T00:00:00Z"
 }
 
-# Florence Nightingale Foundation, The
-

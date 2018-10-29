@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Red Kite Credit Union
-
 Red Kite Credit Union was formerly Builth and Llanwrtyd Credit Union Ltd. and Heart of Wales Credit Union Ltd. It is a project part-financed by the European Regional Development Fund. The credit union operates in central Powys.

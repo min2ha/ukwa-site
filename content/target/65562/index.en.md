@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Edinburgh Butterfly & Insect World
-
 Indoor tropical environment with habitats for creatures including snakes, insects and spiders.

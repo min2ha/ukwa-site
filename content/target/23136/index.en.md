@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Graham Naismith on Facebook (Independent candidate for Tunbridge Wells)
-

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Solihull Observer
-
 None

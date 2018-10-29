@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Orlando shooting: world pays tribute to victims with vigils and rainbow flags
-
 Vigils have been held around the world in solidarity with the victims of the Orlando nightclub shooting.

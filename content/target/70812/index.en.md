@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Football Media Podcast (@FootyMediaPod) on Twitter
-
 The Football Media Podcast is part of the A Team of John O’Sheas network, an online initiative which aims to promote a high standard of football journalism. 

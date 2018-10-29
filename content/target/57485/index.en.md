@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Harris Arts
-
 Site of an organisation bringing a showcase of professional performances and local artistry to visitors and residents of Harris durring the summer months.

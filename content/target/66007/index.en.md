@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Make Works Scotland
-
 This is the Scottish Make Works source manufacturers, makers, material suppliers and workshops

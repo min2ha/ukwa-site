@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Every vote counts – to waste yours would be near-criminal
-
 None

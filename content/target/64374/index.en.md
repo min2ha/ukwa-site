@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Northern Fiction Alliance
-
 The Northern Fiction Alliance is a new publishing collective led by Comma Press, alongside core members Leeds’s Peepal Tree Press, Liverpool’s Dead Ink, and Sheffield’s And Other Stories. Bringing together the best new titles on offer, the project is devised to showcase the diversity, creativity and spirit of risk-taking that sets Northern publishers apart.

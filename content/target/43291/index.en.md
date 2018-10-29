@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Zero Geography on Brexit
-
 Blog by Mark Graham, Senior Research Fellow and Associate Professor at the Oxford Internet Institute.

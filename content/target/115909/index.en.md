@@ -10,6 +10,4 @@
   "start_date": "2006-01-17T00:00:00Z"
 }
 
-# Society for Research in Rehabilitation
-
 The SRR is the major multidisciplinary rehabilitation research society in the UK.

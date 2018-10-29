@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Littlewood Land Care
-
 A conservation and environmental land management consultancy based in Angus.

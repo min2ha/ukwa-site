@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tweet The Vote
-
 A list of 2017 UK general election candidates on Twitter.

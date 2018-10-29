@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Great Works
-
 Twice yearly poetry publication, a "deliberately heterogeneous assemblage, varying between intriguingly innovative practices, and effective and direct modernist annotations on our world". Now defunct.

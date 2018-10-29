@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Sun hasn't decided which side to back in EU referendum, claims its editor
-
 Guardian, The

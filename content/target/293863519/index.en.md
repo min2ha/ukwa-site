@@ -10,5 +10,3 @@
   "start_date": "2015-02-16T00:00:00Z"
 }
 
-# Lan Memorial Project Film
-

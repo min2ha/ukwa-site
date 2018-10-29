@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Innovative Libraries
-
 <p>Andrew Walsh's site about innovative practice within libraries covering topics such as information literacy, mobile technology and libraries, games based learning, active learning and more.</p>

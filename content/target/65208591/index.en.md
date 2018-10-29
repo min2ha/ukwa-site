@@ -11,5 +11,3 @@
   "subject": "Dickens Bicentenary"
 }
 
-# Illumini
-

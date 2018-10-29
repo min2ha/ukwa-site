@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Arwain Sir Benfo | Leader Pembrokeshire
-
 The LEADER programme is part of the Welsh Government Rural Communities – Rural Development Programme (RDP) 2014 – 2020, which is financed by the Welsh Government and European Agricultural Fund for Rural Development (EAFRD). This is the programme for Pembrokeshire.

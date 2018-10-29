@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Valhalla Brewery
-
 Site of a brewer located on the island of Unst, Shetland.

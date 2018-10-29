@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# London Feminist Film Festival
-
 The London Feminist Film Festival is an independent festival set up in 2012, which celebrates international feminist films past and present.

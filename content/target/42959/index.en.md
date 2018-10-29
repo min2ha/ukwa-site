@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Britain is betting more on Brexit, but I'm punting on Remain
-

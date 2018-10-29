@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Association Sportive de l'Ambassade de France
-
 <p>Sport Association of the French Embassy in London, England.</p>

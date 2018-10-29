@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Jermyn Street Theatre: Easter Rising and Thereafter
-
 Theatre production, written by Christopher Bland

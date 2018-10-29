@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Jason Braham 
-
 Jason Braham is a potter who has a studio in Radnorshire.

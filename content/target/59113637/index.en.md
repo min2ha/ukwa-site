@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Newlyn Harbour
-
 None

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# BBC News: Next EU Commission president depends on 2014 elections
-
 None

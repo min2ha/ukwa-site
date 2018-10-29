@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC: Jeremy Paxman on the EU
-

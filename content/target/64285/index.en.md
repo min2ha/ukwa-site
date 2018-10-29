@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Matthew's Church
-

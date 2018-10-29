@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Swansea Way, The
-
 News, opinion and history of Swansea city football club.

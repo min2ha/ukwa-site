@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sŵnami
-
 Sŵnami is an indie band who sing in the Welsh language and are from Dolgellau.

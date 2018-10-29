@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband faces 'vicious' election attacks, says wife
-

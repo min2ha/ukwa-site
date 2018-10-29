@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# St Albans Review
-
 St Albans and Harpenden Review, Welwyn and Hatfield Review

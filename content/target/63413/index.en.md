@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Irish Post
-
 The Irish Post - latest news for the Irish in Britain plus sport, business, entertainment and analysis. The voice of the Irish in Britain.

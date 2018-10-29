@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: Why should we care if the Queen backs Brexit? As Kate and Will's mishap showed, the royals are irrelevant
-
 Independent, The: Why should we care if the Queen backs Brexit? As Kate and Will's mishap showed, the royals are irrelevant

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jessica Varnish (JessVarnish) on Twitter
-
 The twitter profile of cyclist Jess Varnish, member of Team England in the Glasgow 2014 Commonwealth Games.

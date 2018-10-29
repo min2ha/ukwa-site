@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Motherwell
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Motherwell, Lanarkshire.

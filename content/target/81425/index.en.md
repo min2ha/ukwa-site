@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leeds Samurai (@SamuraiFlagball) on Twitter
-
 Leeds Samurai are a Flag American Football Team based in Leeds. Founded in Oct 2013

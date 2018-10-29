@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rutherglen United Reformed Church
-
 Site of a Scottish United Reformed church located in Rutherglen, Lanarkshire.

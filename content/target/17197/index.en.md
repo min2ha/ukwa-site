@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Anti-immigration views 'alienating' voters from main parties
-
 None

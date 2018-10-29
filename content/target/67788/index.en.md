@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Islay Ales Company Limited
-
 Site of a brewer on the island of Islay, Argyll & Bute.

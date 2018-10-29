@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# British Neurotoxin Network (BNN), The
-
 The British Neurotoxin Network (BNN) was founded on the 14th October 2011 to gather together British clinicians who use Botulinum toxin (BoNT-A) injections for the treatment of focal dystonia, spasticity and other neurological disorders.

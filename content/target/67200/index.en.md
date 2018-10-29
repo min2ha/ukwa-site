@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: MPs accuse Corbyn of KILLING bid to keep Britain in the EU single market after Labour tables its own 'cake and eat it' amendment to Brexit Bill instead of backing cross-party effort
-

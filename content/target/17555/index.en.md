@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: First Dog: It's time to play #spill the Liberal party leadership democracy deathmatch
-
 None

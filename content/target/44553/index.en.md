@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: The liberal hysteria over Brexit shows exactly why we need to leave
-
  If Theresa May does not hold her nerve, and gives in by diluting the mandate for a clear break, the current period of political stalemate and economic limbo will continue. The rift between the establishment and the people will not be healed, which means a British version of Trumpism is finally likely to gain ground also in Westminster. However, if she does stay the course mandated by voters, she can lead not only the UK but Europe out of its current period of idealist megaproject misery.

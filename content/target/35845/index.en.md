@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Friends of Dundee City Archives
-
 Site of a an organisation set up to support the work Dundee archivists, raising public awareness of archivists' work and of the importance of preserving documents which may be of value to historians in future. Also includes online access to many records transcribed by the organisation.

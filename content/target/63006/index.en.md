@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# IFLScience
-
 We're here for the science - the funny side of science. Quotes, jokes, memes and more. We're dedicated to bringing the amazing world of science to you!

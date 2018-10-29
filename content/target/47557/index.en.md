@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM and Prime Minister Beata Szydło statements: 28 November 2016
-
 Prime Minister Theresa May met with the Polish Prime Minister Beata Szydło to discuss issues including Brexit, trade and bilateral relations.

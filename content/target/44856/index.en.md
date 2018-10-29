@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Aztec Group
-
 Aztec Group is a manufacturer of custom-created corporate branding products, high-impact digital graphics and bespoke signage for commercial organisations throughout UK and Europe.

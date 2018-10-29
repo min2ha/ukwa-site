@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Left Leave
-
 Scottish Left Leave is a group of organisations and individuals on the Left in Scotland, campaigning for a Leave vote in the 2016 EU Referendum.

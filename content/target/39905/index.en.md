@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Young Socialists (@SLYSocialists) on Twitter
-
 Twitter profile of the Young Socialists group within Scottish Labour.

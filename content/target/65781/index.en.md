@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Peoples Limited
-
 Peoples Limited was founded in 1986. The company's line of business includes the retail sale of new and used automobiles.

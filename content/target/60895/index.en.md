@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Tattoo-People Forum
-
 An online enthusiast community concerned with tattoos and body modification. Discusses coventions listings, tattoos, piercings, tongue splitting, implants, scarification and various other related topics.

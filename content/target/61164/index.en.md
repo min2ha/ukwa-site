@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Marsh Christian Trust
-
 The Marsh Christian Trust was founded in 1981 with the sum of £75,000 by its current Chairman, Mr Brian Marsh OBE.  His aim was to create a sustainable way to give something back to society, by supporting the organisations and people who are making a difference, as best he could.

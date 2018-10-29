@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Robert Owen Communities (ROC)
-
 Robert Owen Communities (ROC) is a charity working with people with learning difficulties.

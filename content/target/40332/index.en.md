@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War I : Bournville Remembers
-
 Project providing an opportunity for the children of Bournville Village, along with their families, Cadbury employees and other local businesses, to take part in a unique opportunity to explore and research the Bournville/Cadbury legacy.

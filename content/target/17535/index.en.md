@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour candidate: we face 'existential threat' from Ukip in south
-
 None

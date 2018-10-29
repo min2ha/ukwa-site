@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# German Missions in the United Kingdom
-
 The website of the German embassy in London offers news, information on foreign policy, culture, travel and work and training opportunities. 

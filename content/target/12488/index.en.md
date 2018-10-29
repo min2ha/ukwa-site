@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenny Duncalf (JennyDuncalf) on Twitter
-
 Twitter profile of squash player Jenny Duncalf, member of Team England at the 2014 Commonwealth Games.

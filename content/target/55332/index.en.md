@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wales Full & Half Marathon
-
 The Wales Full & Half Marathon are held in Pembrokeshire.

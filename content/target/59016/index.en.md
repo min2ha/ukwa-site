@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: Electoral Commission launches inquiry into leave campaign funding
-

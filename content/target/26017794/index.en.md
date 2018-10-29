@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# National Nuclear Laboratory (NNL)
-
 None

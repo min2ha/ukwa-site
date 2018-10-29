@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: This is a coup, a victory for enemies of democracy. If the roles were reversed there would be riots in the street, so we CAN'T let Brexit be derailed by this City slicker and a Brazilian crimper, writes RICHARD LITTLEJOHN
-
 Argues that the decision by three High Court judges to side with the sore losers who want to scupper Britain’s departure from the European Union is a constitutional outrage.

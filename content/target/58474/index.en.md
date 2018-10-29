@@ -10,5 +10,3 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Rhyl Town Council | Cyngor Tref y Rhyl
-

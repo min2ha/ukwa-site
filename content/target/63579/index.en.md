@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Prime Minister vows to deliver a Brexit that unites the UK
-
 To mark one year to go until Brexit, the Prime Minister is embarked on a day long tour across the United Kingdom.on March 29th 2018
 

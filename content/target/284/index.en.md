@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Leeds West CCG
-
 None

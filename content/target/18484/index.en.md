@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Danny Alexander: I will block George Osborne's 'potty' tax cut plans
-
 None

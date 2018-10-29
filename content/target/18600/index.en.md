@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elwyn Williams Plaid on Facebook
-
 Plaid Cymru MP Candidate for Carmarthen West and South Pembrokeshire.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# British Video Association (BVA)
-
 The BVA was established in 1980 to represent the interests of publishers and rights owners of pre-recorded video entertainment.

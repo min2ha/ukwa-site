@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: John Sviokla: We need a Magna Carta for the digital age
-

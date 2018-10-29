@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Molly Scott Cato (@MollyMEP) on Twitter (Green Party MEP for the South West and Gibraltar)
-
 Molly Scott Cato stood as Green Party candidate for Bristol West at the 2017 General Election but was not elected. She also stood for South West and Gibraltar at the 2014 European Parliament election and was elected to serve as MEP. 

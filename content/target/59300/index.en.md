@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# VoxEU: Brexit, the four freedoms, and the indivisibility dogma 
-
 The EU’s position in the Brexit negotiations is based on the premise that the four freedoms of the single market – goods, capital, services, and labour – are indivisible. This column argues that this indivisibility claim has no economic foundations, and that negotiating on this premise risks unnecessary harm. Reintroducing trade barriers will inflict damage on both sides of the Channel. The possibility that abandoning indivisibility may cause harm through cherry picking, or through potential further exits, doesn’t justify a hard Brexit scenario

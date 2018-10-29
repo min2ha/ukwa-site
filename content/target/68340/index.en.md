@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sutton Benger RFC (@SuttonBengerRFC) on Twitter
-
 The official Twitter account of Sutton Benger Rugby Football Club.

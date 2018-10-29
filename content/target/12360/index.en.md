@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Clitheroe (clitherbot) on Twitter
-
 Twitter profile of Helen Clitheroe, competitor in the women's 5000 metres event for Team England at the Glasgow 2014 Commonwealth Games.

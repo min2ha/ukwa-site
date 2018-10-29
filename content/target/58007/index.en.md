@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Muni Arts Centre
-
 The New Muni is an arts centre located in Pontypridd and reopened in September.

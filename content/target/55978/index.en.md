@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Radio Scanning Forum
-
 An online enthusiast forum concerned with UK radio scanning. Discusses radio and scanning chat, amateur radio, English  frequencies by area and various other topics. 

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain's missing voters: why individual registration has been a disaster
-

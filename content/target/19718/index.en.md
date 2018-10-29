@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Altaf Hussain on Facebook
-
 Dr Altaf Hussain is the Welsh Conservative Parliamentary Candidate for Swansea East.

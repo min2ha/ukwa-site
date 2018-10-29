@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joseph Rowntree Foundation: Press Releases
-
 The Joseph Rowntree Foundation is an independent organisation working to inspire social change through research, policy and practice. This is the press release section of their website which has comments on the 2017 UK General Election. 

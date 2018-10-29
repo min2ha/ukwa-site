@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Redress
-
 Redress is a human rights organisation that helps torture survivors obtain justice and reparation. Redress works with survivors to help restore their dignity and to make torturers accountable.

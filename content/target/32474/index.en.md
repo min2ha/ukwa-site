@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Homes and Antiques
-
 Online version of the Homes and Antiques magazine.

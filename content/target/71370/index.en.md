@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Close the Gap
-
 Close the Gap works in Scotland on women's participation in the labour market, and has been operating since 2001. They work with policymakers, employers and employees to influence and enable action to address the causes of women's inequality at work. 

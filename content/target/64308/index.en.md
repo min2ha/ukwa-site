@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bridge of Allan Parish Church​
-
 Site of a Church of Scotland parish church at Bridge of Allan, Stirlingshire.

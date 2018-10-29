@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Leadership... the big price to gain
-
 Comment by Marco Giannangeli

@@ -11,5 +11,3 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Foundation for the Study of Infant Deaths (FSID)
-

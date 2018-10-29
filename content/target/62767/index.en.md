@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michaels and South Parish Church, Dumfries
-
 Site of a Church of Scotland parish church at Dumfries, Dumfries and Galloway.

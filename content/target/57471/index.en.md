@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Bottledigging UK Forum
-
 Bottledigging UK Forum is an online enthusiast community concerned with antique bottle collecting. Includes a general discussion area and separate section for upload of user pictures.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Flynn (@PaulFlynnMP) on Twitter
-
 MP for Newport West since 1987.

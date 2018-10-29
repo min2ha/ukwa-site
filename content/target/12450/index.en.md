@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachel James (@rachyjames1) on Twitter
-
 The twitter profile of cyclist Rachel James, tandem pilot for Team Wales in the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Musselburgh Racecourse
-
 Site of a horse racing course and facilties at Musselburgh, East Lothian, which also offers its non-equine facilities for events and conferences 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Selfie addict, 22, admits he snaps 200 Instagram pics of himself a day
-
 News article about a man who is addicted to posting selfies on socila media

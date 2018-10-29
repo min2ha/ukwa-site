@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# GreenHouse Gas Online
-
 GreenHouse Gas Online was set up to promote scientific information on greenhouse gases on the web.

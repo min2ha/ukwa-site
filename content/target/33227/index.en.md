@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Arts Council, The: Ireland 2016 programme
-
 This is the programme of projects and activities being undertaken by The Arts Council as part of the centenary of the Easter Rising, 1916.

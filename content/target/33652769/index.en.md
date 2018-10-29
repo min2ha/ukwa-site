@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Falconry Welsh Birds of Prey Centre
-

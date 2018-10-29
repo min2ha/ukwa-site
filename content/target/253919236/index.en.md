@@ -10,5 +10,3 @@
   "start_date": "2014-07-03T00:00:00Z"
 }
 
-# Penarth Parks
-

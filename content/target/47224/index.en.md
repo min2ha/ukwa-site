@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Scottish Atlantic Maritime Past: Heritage, Investigation, Research & Education [SAMPHIRE]
-
 Blog site of a heritage group focusing on Scotland's maritime past.

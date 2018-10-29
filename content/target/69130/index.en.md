@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wired: Instagram's pro-anorexia ban made the problem worse
-
 An article on the impact of instagram trends on mental health 

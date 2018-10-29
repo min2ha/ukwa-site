@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP TV Wales (@UKIPTVWales) on Twitter
-
 UKIP TV Wales is run by UKIPWales volunteers sharing video content from UKIP Welsh candidates. 

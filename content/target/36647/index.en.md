@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stay in Europe
-
  A campaign dedicated to promoting the benefits to the UK of EU membership and why it is better to stay ‘in’. A key point is the common problems we share that can be better addressed if we unite with our European neighbours.

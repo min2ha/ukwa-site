@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Nations Church, Cardiff
-
 Ministries Without Borders (MWB) is an Evangelical neocharismatic All Nations Church, Cardiff is part of the Apostolic network of Christian churches, that forms part of the British New Church Movement.

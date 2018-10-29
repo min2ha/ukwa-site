@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Angliya
-
 Weekly Russian newspaper published in the UK.

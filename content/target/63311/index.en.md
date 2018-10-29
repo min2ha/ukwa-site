@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Reuters UK
-
 Reuters UK for the latest news, business, financial and investing news, including personal finance.

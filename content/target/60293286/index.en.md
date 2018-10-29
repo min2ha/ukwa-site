@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Mennonite Centre
-
 Rooted in the Anabaptist tradition, cultivating Christian discipleship as a way of life

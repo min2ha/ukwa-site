@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Blairs Museum
-
 Site of Scotland's museum of Catholic heritage and its associated college and chapel, located in the city of Aberdeen.

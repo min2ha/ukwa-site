@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Mint: The: 800th Anniversary of Magna Carta 2015 £2 BU Coin
-

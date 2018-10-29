@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Loch Ness Marathon and Festival of Running
-
 Site of an annual athletics event based around Loch Ness.

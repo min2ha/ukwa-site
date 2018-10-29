@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Miliband heads to Ibiza after election loss - internet reacts with hilarious memes
-
 None

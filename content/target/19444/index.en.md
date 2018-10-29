@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: EPPING: MP proposes Magna Carta anniversary holiday
-

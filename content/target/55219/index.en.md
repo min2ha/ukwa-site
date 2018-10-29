@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# //Buzzcut//
-
 Site of a performance arts festival based in Glasgow.

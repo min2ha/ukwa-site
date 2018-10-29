@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The British Society of Master Glass Painters Forum
-
 An online enthusiast community concerned with glass painting. Discussing events, exhibitions, lectures/conferences/classes, workshops and other related topics. 

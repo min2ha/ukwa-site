@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ClacksWeb: Scottish Independence Referendum
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Lysaght Institute, Newport
-
 Lysaght Institute was built in 1923 for the Orb Steelworkers in Newport and recently brought and transformed by Linc-Cymru into a new meeting, conference and events venue. 

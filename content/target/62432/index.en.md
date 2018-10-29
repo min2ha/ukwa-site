@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Friends of Peebles Old Church
-
 Site of a charitable trust established to raise funds and oversee the maintenance of Peebles Old Church, High Street, Peebles.

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Jewish Voices: Memories of Leicester in the 1940s and 50s
-
 None

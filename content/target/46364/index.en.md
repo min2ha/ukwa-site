@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Menter a Busnes: Marchnata Bwyd Cyfan | Total Food Marketing 
-
 Menter a Busnes helps individuals, businesses and organisations in Wales contribute towards developing the economy. This strand, Total Food Marketing, is brings together a group of highly recommended food and drink specialists to grow Welsh food and drink businesses.  

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: It takes two to tango over Brexit, Hammond tells EU
-
 In a speech to business leaders in Berlin, the chancellor called on the EU to engage more positively with the Brexit negotiations.

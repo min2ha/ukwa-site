@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: The best Adams cartoons on Brexit
-
 Collection of Brexit cartoons by Adams

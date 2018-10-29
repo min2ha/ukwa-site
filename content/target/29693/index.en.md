@@ -10,6 +10,4 @@
   "start_date": "2015-08-11T10:00:00Z"
 }
 
-# Kids Company
-
 Kids Company was founded by Camila Batmanghelidjh in 1996. They provide practical, emotional and educational support to vulnerable inner-city children, young people and families. Their services reach 36,000 across London, Bristol and Liverpool. The charity was closed down in August 2015.

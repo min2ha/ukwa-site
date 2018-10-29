@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Forge Wales (@ForgeWales) on Twitter
-
 According to its social media account, Forge Wales 'advance common values, individual liberty, value for taxpayers, and free enterprise for a truly global Wales. A voice for the silent majority'. 

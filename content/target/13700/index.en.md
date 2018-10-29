@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Moray Council, The: Scottish Independence Referendum 2014
-
 None

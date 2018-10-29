@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# Universal Arts on Facebook
-
 Official Facebook for Universal Arts, an Edinburgh-based company which has been running Fringe venues since 1990.

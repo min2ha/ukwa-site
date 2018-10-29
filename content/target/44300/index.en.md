@@ -10,6 +10,4 @@
   "start_date": "2016-07-15T10:00:00Z"
 }
 
-# GHA Coaches
-
 GHA Coaches is a Bus and Coach Operator in North Wales & Cheshire that went into administration in July 2016.

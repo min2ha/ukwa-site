@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dalziel Rugby Football Club
-
 Site of a Scottish rugby union football club located at Motherwell, and Belshill, Lanarkshire.

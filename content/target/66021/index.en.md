@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Framework for the UK-EU Security Partnership
-
 As the UK leaves the EU it is unconditionally committed to European security and wants to work closely with European partners to keep all  citizens safe. It wishes to develop a new partnership with the EU which builds on the breadth and depth of shared interests and values, and goes beyond any existing third country arrangements.
 
 

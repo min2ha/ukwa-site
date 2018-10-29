@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HuffingtonPost, The: "Cyberbullying Advice For Parents: 7 Signs Your Child Is Being Bullied Online"
-
 Huffington Post article about cyberbullying

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# India Business Group
-
 The India Business Group is a business advisory consultancy based in the UK, with a team of consultants in India. It provides expertise, connections and cultural awareness to help organisations reach new markets and make deals, across a range of sectors.

@@ -10,8 +10,6 @@
   "start_date": "2017-01-31T09:00:00Z"
 }
 
-# Archaeology North of the River Blackwater, Essex, United Kingdom -  Patrick Adkins
-
 Excavations by Patrick Adkins, including an early Anglo Saxon iron smelting and working site at Rook Hall Farm, Little Totham, Essex, United Kingdom.
 
 Content was transferred to this site: http://www.angelfire.com/pa5/arch/

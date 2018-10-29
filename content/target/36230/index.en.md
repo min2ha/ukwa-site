@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Equality For Workers Union (EFWU)
-

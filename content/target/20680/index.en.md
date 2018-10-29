@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gerard McMahon for Angus on Facebook
-
 The Facebook page of Gerard McMahon, the Scottish Labour Party candidate for Angus in the May 2015 General Election. 

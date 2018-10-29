@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: British voters have shifted to the left since last general election, study says
-
 None

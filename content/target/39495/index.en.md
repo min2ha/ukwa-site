@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Gravestone Photographic Resource
-
 Site of a project run by volunteers to photographically record gravestones in cemeteries thoughout the United Kingdom, as well as in France, Australia, Canada and New Zealand.

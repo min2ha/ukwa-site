@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Sarah Gilford Soprano
-
 Sarah Gilford is a Welsh soprano born in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas the Apostle Riddrie
-
 Site of a Scottish Roman Catholic parish church located in Riddrie, Glasgow incorporating the church of St. Bernadette's, Carntyne.

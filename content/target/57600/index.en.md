@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Free Trade
-
 IFT makes the intellectual and moral case for free trade, and sees Britain’s withdrawal from the European Union as a unique opportunity to revitalise the world trading system.

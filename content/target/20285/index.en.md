@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Enterprise Network
-
 National Enterprise Network is a membership body representing those working in the enterprise support sector across England. The membership is traditionally, but not exclusively, made up of not-for-profit enterprise support organisations providing independent and impartial advice, training and mentoring to new and emerging businesses. 

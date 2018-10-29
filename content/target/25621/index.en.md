@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: IFS: no magic money tree for politicians to shake
-
 None

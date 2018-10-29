@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit deal will be done TOMORROW before UK government approves it on Monday, German newspaper reports
-
 Leaked documents seen by the Suddeutsche Zeitung indicated that a Brexit deal would by agreed by the EU on October 14th and presented to the British on the Monday.

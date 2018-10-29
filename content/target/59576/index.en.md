@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit will be a success story – but for now, our leaders have lost the plot
-

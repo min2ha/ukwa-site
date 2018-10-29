@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Edinburgh Ceilidhs
-
 Site of group of Edinburgh ceilidh bands and information on their venue, Lauriston Halls, and the events that have been staged there, including Edinburgh Festival Fringe shows.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Columba's (Old Parish) Church, Stornoway on Facebook
-
 Facebook page of a Church of Scotland parish church at Stornowy, Isle of Lewis.

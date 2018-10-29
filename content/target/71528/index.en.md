@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Gravity Fields
-
 5 days of world class science, arts, talks, workshops, exhibitions and a stunning outdoor spectacular

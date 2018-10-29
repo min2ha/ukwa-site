@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Thirsk RUFC (@thirskrufc) on Twitter
-
 The official Twitter account of Thirsk Rugby Club.

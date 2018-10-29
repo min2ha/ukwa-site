@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Croeso i'r Bala a Phenllyn | Visit Bala and Penllyn
-

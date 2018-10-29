@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Hiraeth Hope
-
 Hiraeth Hope is an informal collective who offer refugees a warm welcome amongst our families and in our homes in West Wales. By the end of 2016 it has grown to support a network of autonomous groups in different towns in Wales who are offering to host refugee families under the community settlement scheme. 

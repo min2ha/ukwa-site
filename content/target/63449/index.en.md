@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 27th March 2018: EU Referendum: Electoral law
-
 Emergency debate on alleged breaches of spending limits by Vote Leave during the EU Referendum campaign, which could have led tothe public being misled into voting to exit the EU

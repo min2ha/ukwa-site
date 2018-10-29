@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# French and Saunders
-
 Features news items, details of specials and regular programmes, a message board and photographs.

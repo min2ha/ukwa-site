@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Tips for Travellers
-
 Tips for Travellers has advice, tips and tricks on finding and having a good travel experience.

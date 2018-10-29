@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# DataShine: Scotland
-
 The 2011 Census mapped with context for Scotland.

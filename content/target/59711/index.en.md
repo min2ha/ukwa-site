@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Dear EU citizens, I want you to STAY': Theresa May writes an open letter to the three million EU nationals living in Britain urging them not to leave the UK after Brexit   
-

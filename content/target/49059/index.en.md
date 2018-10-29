@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Generation Rent
-
 Generation Rent campaigns with private renters for professionally managed, secure, decent and affordable privately rented homes. Generation Rent is the operating name of the National Private Tenants Organisation Ltd, a not-for-profit company limited by guarantee

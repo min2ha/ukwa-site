@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Safe gigs for women (@safegigs4women) on Twitter
-
 twitter account for an initiative working to create a safer environment for women at gigs

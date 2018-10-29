@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FA Women's Super League, The (FAWSL)
-
 The FA Women's Super League is the highest level of women's football in England. 

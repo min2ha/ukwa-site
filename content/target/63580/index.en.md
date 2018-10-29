@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Channelkirk and Lauder Church
-

@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Chard RFC
-
 Chard RFC was formed in 1876 and is one of the oldest established clubs in Somerset. 
 
 Since the introduction of League Rugby the Club 1st XV won the Somerset Division 3 title in season 1991/2, The Somerset Division 1 title in 1995/6 and again in 2002/03.

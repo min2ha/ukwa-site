@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What will happen to UK trade post-Brexit?
-
 With Theresa May's end of March 2017 deadline for triggering the UK's exit from the EU fast approaching, much remains undecided, not least what will happen to British trade.

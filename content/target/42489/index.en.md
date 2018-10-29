@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Why does the Queen Elizabeth II have two birthdays?
-
 QUEEN Elizabeth II celebrates her 90th birthday today, but will also have a second in the summer. Here is why the Queen has two birthdays a year.

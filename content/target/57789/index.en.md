@@ -10,6 +10,4 @@
   "start_date": "2017-10-13T09:00:00Z"
 }
 
-# Martyn Lloyd-Jones Online
-
 Martyn Lloyd-Jones Online is a site administered by Sean Richardson on the Welsh evangelist, Martyn Lloyd-Jones.

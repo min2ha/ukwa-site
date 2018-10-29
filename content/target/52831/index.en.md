@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of Nursing (RCN): Nursing Counts
-
 The RCN has published its own independent manifesto which calls on candidates across the political spectrum to pledge support to ‘improving patient care, valuing nursing and investing in health and social care’.
 

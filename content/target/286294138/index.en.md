@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nottingham Festival of Words, The
-
 <p>The official website of the Nottingham Festival of Words.</p>

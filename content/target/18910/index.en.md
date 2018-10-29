@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Fresh clues to King John's lost treasure in East Anglia
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Think that if you are liberal you should vote to stay in the EU? Think again
-

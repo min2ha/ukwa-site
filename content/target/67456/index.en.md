@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: The Tory psychodrama over Brexit bill
-
 The author explains the political infighting between remain-supporting Tory MPs and the government overan amendment to the m"meaningful vote" clauses in the EU Withdrawal Bill.

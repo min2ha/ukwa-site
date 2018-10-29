@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Ham United F.C.
-
 West Ham United Football Club is a professional football club based in Stratford, East London, England. They compete in the Premier League, the top tier of English football.

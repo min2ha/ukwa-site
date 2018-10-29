@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kilburn Cosmos RFC (@KilburnCosmos) on Twitter
-
 The official Twitter account of Kilburn Cosmos rugby club. Kilburn Cosmos RFC is currently the most exciting Rugby Union club in North West London thanks to its community and wish to grow stronger.

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Forest Heath District Council
-
 Joint website of Forest Heath District Council and St Edmundsbury Borough Council gives information about council services and activities, finance and budget, policies and planning, and full text council committee minutes and agendas

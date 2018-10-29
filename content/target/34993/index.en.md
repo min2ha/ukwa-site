@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Crwth | Chamber Music in Wales
-
 Crwth is a charitable organisation that promotes chamber music, particularly in South and West Wales.

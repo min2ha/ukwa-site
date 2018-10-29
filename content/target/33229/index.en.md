@@ -10,6 +10,4 @@
   "start_date": "2015-12-05T09:00:00Z"
 }
 
-# Ringland Community Association
-
 Ringland is an estate in Newport. Ringland Community Association was established in 2000 to create a vision for the estate and work alongside other agencies such as Newport City Council and Gwent Police, to make improve prosperity of the area.

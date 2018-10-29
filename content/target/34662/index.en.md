@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mark Griffin MSP | Labour Member of the Scottish Parliament for Central Scotland
-
 Mark Griffin is Scottish Labour member of the Scottish Parliament for Central Scotland.

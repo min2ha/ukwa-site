@@ -10,5 +10,3 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Aber Old Students' Association Annual (OSA Annual)
-

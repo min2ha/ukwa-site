@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Orkney Library (@OrkneyLibrary) on Twitter
-
 The official Twitter account of Orkney Library. 

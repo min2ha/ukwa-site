@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Central Council of Church Bell Ringers: The Queen's Diamond Jubilee
-

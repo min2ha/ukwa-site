@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Scottish Episcopal Church, Comely Bank, Edinburgh
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Comely Bank, Edinburgh.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shaugh Prior Parish Council
-
 The Parish of Shaugh Prior lies about 8 miles north-east of Plymouth, on the southwest slopes of Dartmoor.

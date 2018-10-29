@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Deidre Brock, Scottish National Party candidate for Edinburgh North and Leith
-
 Website of Deidre Brock, Scottish National Party candidate for Edinburgh North and Leith in the 7th May 2015 UK General Elections.

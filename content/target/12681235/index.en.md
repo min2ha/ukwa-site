@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Council of Ex-Muslims of Britain (CEMB)
-
 None

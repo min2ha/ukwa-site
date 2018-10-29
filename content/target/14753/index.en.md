@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Network of International Development Organisations in Scotland NIDOS: Ebola 
-
 None

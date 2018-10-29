@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Carmarthen East and Dinefwr Labour Party (@CEandDLabour) on Twitter 
-

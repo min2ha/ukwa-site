@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Cambridge Impronauts
-
 The Impronauts are the biggest, oldest and best-loved improvised comedy troupe in Cambridge, made up of a mixture of students and locals.

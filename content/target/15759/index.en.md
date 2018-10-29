@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Mediatonic
-
 <p>Mediatonic creates games that connect millions of players across the world. The studios are based in central London and Brighton are craft games for mobile, console and PC platforms.</p>

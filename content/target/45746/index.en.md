@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Colour Blind Awareness
-
 Colour Blind Awareness is a Community Interest Company, formed for non-profit making purposes, to raise awareness of the needs of the colour blind in the community. All profits from the company will be used to provide free colour vision testing in schools and provide educational supplies suitable for colour blind students. The Company is striving to convert to a registered charity shortly.

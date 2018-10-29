@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# MrPhormula
-
 Ed Holden, aka Mr Phormula is a beat-boxer and live looping artist from Wales.

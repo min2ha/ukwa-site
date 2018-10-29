@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Great Welsh Beer and Cider Festival 
-
 The Great Welsh Beer and Cider Festival is held in Cardiff and organised by CAMRA, the Campaign of Real Ale on behalf of Cardiff CAMRA.

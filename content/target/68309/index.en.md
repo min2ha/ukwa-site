@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bognor Rugby Club
-
 Rugby for under 6's through to over 60's. 

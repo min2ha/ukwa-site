@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# North Briton: Vote no -  the postive choice
-
 None

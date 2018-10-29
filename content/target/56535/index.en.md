@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Walsingham Abbey
-
 The garden and grounds surrounding Walsingham Abbey are famous for the spectacular ruins of the mediaeval Priory and place of pilgrimage, together with an unrivalled display of massed snowdrops in February. 

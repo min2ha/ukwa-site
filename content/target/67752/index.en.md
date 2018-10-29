@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fordingbridge RFC
-
 A friendly, family orientated and progressive club where new players and members of any age and ability are always welcome.

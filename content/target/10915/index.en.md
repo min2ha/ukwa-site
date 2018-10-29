@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Maggie Chapman, Scottish Green party
-
 None

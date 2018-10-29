@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# 157 Group: Future colleges – rising to the skills challenge
-
 The 157 Group is a membership organisation which represents 26 UK colleges and college groups.

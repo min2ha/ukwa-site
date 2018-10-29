@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Luke Balnave (@lukebaln) on Twitter (Green Party candidate for Chatham and Aylesford)
-

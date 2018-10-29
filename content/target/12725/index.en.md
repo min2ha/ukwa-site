@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harry AA - Sprinter
-
 <p>The website of sprinter Harry Aikines-Aryeetey, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

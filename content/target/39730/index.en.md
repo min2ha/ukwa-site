@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish Libertarians on Facebook
-
 Facebook page of the Scottish Libertarians, a UK registered political party.

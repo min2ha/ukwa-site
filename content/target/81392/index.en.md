@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Natural Church Development - UK and Ireland 
-
 NCD started and continues as the largest biblical and empirical research project into the principles of healthy church growth in the world. It is about the non-negotiables of church development when all else is stripped away.

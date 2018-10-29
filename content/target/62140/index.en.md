@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# London Road Stadium
-
 London Road, currently known as the ABAX Stadium for sponsorship reasons, is a multi-purpose stadium in Peterborough, England. It is currently used mostly for football matches and is the home ground of Peterborough United.

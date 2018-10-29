@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Chris Tinsley Photographer
-
 This is the the website of South Wales Argus photograper Chris Tinsley.

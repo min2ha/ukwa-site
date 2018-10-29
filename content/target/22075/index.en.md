@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Bateson (@ja_bateson) on Twitter (Labour candidate for Westmorland and Lonsdale)
-

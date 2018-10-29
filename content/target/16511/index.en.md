@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband promises Scotland home rule bill if Labour win the election
-
 None

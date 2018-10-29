@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Theresa May’s search for a Brexit solution: a long and winding road
-

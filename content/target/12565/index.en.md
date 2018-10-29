@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# New Team Scotland Tartan Revealed for Glasgow 2014
-
 <p>Article from the Team Scotland website on the Team Scotland Tartan.</p>

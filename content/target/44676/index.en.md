@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Campaign to Remain
-
 "Our mission is to inform, entertain and motivate our fellow supporters of Britain in the EU."

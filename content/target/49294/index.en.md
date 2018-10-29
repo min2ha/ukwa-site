@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Bank of England on Facebook
-
 The official Facebook account of the Bank of England.

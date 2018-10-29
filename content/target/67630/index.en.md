@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stanfordrugby (@Stanford_1975) on Twitter
-
 The official Twitter account of Stanford Rugby Football Club.

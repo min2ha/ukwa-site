@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit: opportunities and threats for information and ICT professionals in the UK 2016
-
 This survey aims to capture perspectives on the opportunities and threats that face those delivering information agendas across the UK. The researchers hope to identify ideas that information professionals can harness to support the UK changing landscape and also flag areas of information management/ICT weakness in the light of Brexit.

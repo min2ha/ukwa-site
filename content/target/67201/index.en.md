@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Beith Community Development Trust
-
 Site of acommunity development trust for Beith, Ayrshire.

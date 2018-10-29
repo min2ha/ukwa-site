@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Age UK
-
 Age UK is a charity dedicated to helping people make the most of later life. They run a chain of shops and the profits are spent on helping the elderly all over the UK.

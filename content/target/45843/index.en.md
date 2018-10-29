@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Mail Online: No 10 spin doctor who scribbled notes for his memoirs in meetings and a cry of rage from Brexit losers 
-
 Sir Craig Oliver, the man Cameron recruited from the higher echelons of the BBC to become his spin-doctor-in-chief has published an instant account of the recent EU referendum campaign — from the losers’ perspective. 
 
 

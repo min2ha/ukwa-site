@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Brexiteers’ immigration promises are unravelling fast
-

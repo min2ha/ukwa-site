@@ -10,6 +10,4 @@
   "start_date": "2009-10-21T00:00:00Z"
 }
 
-# Lifeblood - The Thrombosis Charity
-
 Lifeblood promotes awareness about thrombosis and seeks to increase understanding of its causes, effects and the treatment available.

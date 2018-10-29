@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Looe and Polperro Holidays
-
 None

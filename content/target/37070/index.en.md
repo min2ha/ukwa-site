@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Boris Johnson: EU referendum gag email was 'cock-up'
-
 BBC News: Boris Johnson: EU referendum gag email was 'cock-up'
