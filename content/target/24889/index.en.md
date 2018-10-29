@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Carlton Reeve (Independent candidate for Sheffield Hallam)
-
 Carlton Reeve stood as an independent candidate for Sheffield Hallam at the 2015 General Election but was not elected.

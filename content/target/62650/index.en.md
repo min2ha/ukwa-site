@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Swasnea Carers Centre
-
 Swansea Carers Centre is an independent charity intent on providing a holistic service for all adult carers across the City & County of Swansea. 

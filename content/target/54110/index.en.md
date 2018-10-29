@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Coyne (@Green_JohnCoyne) on Twitter (Green  Politician)
-
 John Coyne stood as Green Party candidate for Wirral West at the 2017 General Election but was not elected.

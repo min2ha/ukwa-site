@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Bit player' Britain risks being stuck on foreign policy sidelines
-

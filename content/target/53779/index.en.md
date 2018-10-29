@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Grace (@DisgruntledRad) on Twitter (Liberal Democrat Politician)
-
 David Grace stood as Liberal Democratic candidate for Clacton at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Aldermaston Women's Peace Camp and Campaign
-
 Campaigning for an end to nuclear weapons, patriarchy and war.  Established in 1985, the camp remains a symbol of resistance to nuclear proliferation and British manufactured weapons of mass destruction.

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Titbits Catering
-
 Titbits specialises in gourmet vegan and raw living cuisine. Their mission is to provide healthy, creative and delicious plant based foods with high quality, ethically sourced ingredients. Brighton-based catering business, who also do cookery classes.

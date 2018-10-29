@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Doctors for a Woman's Choice on Abortion
-
 DWCA is a group of doctors who believe that the law should be changed to allow the woman herself to decide whether or not to have an abortion

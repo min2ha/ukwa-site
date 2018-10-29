@@ -11,7 +11,5 @@
   "subject": "UK General Election 2015"
 }
 
-# Your Vote Matters
-
 There are 3.8m social housing tenants in England and more than 36,000 people living in homelessness accommodation projects. This group has the power to influence society on both a local and national scale.    
 Your Vote Matters provides all you need to educate your clients about democracy and prepare them to have their say.

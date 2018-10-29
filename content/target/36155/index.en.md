@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Christians for Britain
-
 Chistians For Britain is a new campaign group set up and run by Christians for Christians to address the fundamental political and moral issue of 'Who governs Britain?'. This site explains the who, why and how of the coming campaign, which is both cross-party and ecumenical. It seeks to offer a platform to represent British Christians of all denominations who believe that Britain would be better off leaving the European Union.

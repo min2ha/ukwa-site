@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Radical Routes
-
 Radical Routes is a network of radical co-ops whose members are committed to working for positive social change.

@@ -10,5 +10,3 @@
   "start_date": "2017-05-12T09:00:00Z"
 }
 
-# The Gathering Cloud: J.R. Carpenter
-

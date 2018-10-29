@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Dr. Dai Lloyd AM (@DaiLloydAM) on Twitter
-
 Plaid Cymru Assembly Member for South Wales West.

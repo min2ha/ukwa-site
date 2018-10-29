@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Hobday (@NHAPKent) on Twitter (Candidate for National Health Action Maidstone and the Weald)
-

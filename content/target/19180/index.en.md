@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: Promoting 'British values': Why is Magna Carta important?
-

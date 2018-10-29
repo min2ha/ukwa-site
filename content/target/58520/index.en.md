@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sane
-
 Website for mental health charity Sane that offers support for anyone affected by mental health issues, also features a blog 

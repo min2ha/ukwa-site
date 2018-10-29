@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Nicky Arscott
-
 Nicky Arscott is an artist who lives and works near Machynlleth, Powys. 

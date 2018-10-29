@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Nigel farage trapped in Ukip's Rotherham office for two hours to avoid breastfeeding protesters outside
-
 None

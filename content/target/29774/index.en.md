@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Sweet Venues
-
 Sweet Venues organises venues for the arts in Edinburgh, Brighton and Dundee

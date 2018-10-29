@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: So, did 'soft Brexit' just win?
-
 Argues that the deal struck by Theresa May to clear the way for trade talks to begin with the EU implies that the UK will have to closely mirror EU regulations and customs arrangements post Brexit in order to avoid a hard border between Northern Ireland and the Irish Republic. That is, the UK will leave the EU in name only 

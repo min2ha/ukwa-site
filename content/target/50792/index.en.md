@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Norman Road Gospel Hall, Wrexham
-

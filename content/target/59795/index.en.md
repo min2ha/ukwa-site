@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I have received death threats, and I blame the vitriol of the pro-Brexit media
-

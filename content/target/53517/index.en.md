@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tottenham Tories (@TottenhamCCA  ) on Twitter
-
 Twitter account of the Tottenham Conservatives, covering their 2017 General election campaign

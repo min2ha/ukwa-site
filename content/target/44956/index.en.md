@@ -10,6 +10,4 @@
   "start_date": "2016-08-11T10:00:00Z"
 }
 
-# PeoplePlus Cymru | Wales
-
 People Plus Cymru | Wales 'are a leading employment support and training services company helping people to transform their lives and businesses through employment, training, education and financial advice'. People Plus Cymru | Wales is a 'Apprenticeship, Traineeship and Jobs Growth Wales Programmes', led by the Welsh Government and supported by the European Social Fund.

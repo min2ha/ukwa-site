@@ -10,5 +10,3 @@
   "start_date": "2008-11-10T00:00:00Z"
 }
 
-# Natural Health Answers
-

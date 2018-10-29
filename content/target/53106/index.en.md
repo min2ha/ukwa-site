@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Another Angry Voice: 30 things you should know about the Tory record
-
 An opinion piece stating why people shouldn't vote for the conservatives in GE 2017.

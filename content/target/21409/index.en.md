@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron accuses TV bosses of 'cocking up' the controversial election debates 
-
 None

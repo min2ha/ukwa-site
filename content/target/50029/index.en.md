@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ivy Pentecostal Church
-
 Ivy Pentecostal Church is located  at the bottom of Ashley Hill, Montpelier in Bristol.

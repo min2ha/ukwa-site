@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# Hounslow Green Party
-
 Hounslow Green Party is a group of local activitists who care about the environment and social justice.

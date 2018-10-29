@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: 800 Dorset and Wiltshire children in Magna Carta concerts
-

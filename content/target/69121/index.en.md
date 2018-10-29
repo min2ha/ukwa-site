@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# #DontPanicButton case study
-
 A video on the #DontPanicButton movement

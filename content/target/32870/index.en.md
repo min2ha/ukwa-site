@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Zath UK Tech Blog
-
 Zath is updated by Simon Baker. Its primary aim is to review the latest technology products, software applications, websites and hi-tech gadgets as well as providing ‘how to’ guides.

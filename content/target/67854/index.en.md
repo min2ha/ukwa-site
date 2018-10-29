@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Vale of Lune RUFC (@ValeofLuneRUFC) on Twitter
-
 The official Twitter account of Vale of Lune Rugby Union Football Club. Founded in 1900 and it has played at various grounds in the Lancaster area. 

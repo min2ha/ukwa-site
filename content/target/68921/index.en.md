@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anne's, St. Bride's and St. Thomas of Canterbury
-
 Site of three Roman Catholic parish churches St. Anne’s, Carnoustie,
 St. Bride’s, Monifieth and St. Thomas of Canterbury, Arbroath all Angus.

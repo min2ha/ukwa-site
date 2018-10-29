@@ -10,5 +10,3 @@
   "start_date": "2009-06-09T00:00:00Z"
 }
 
-# Cystic Fibrosis Trust
-

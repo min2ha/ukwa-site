@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rothes Football Club
-
 Site of a Scottish football club based in Rothes, Moray, Scotland.

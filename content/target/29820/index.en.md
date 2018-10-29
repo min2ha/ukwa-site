@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# EdTheatres
-
 Representing shows at Edinburgh's Kings and Festival Theatres.

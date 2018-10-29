@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Julians Baptist Church, Newport (JSBC)
-

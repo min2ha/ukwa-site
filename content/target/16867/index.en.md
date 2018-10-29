@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Residential Landlords Association (RLA): RLA Election Manifesto 2015
-
 The Residential Landlords Association (RLA) represents over 17,000 landlords with a combined portfolio of more than quarter of a million properties in England and Wales.

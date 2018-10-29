@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sunderland Association Football Club
-
 Sunderland Association Football Club is an English professional football club based in the city of Sunderland, Tyne and Wear.

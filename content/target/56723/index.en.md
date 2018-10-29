@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Emptage Hallett Talent Agency Cardiff
-
 Emptage Hallett represents an exclusive list of actors, writers, directors, production crew and composers working in film, television and theatre. Thsi is the site for their Cardiff base.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Commonwealth Games - Dundee Dimension
-
 <p>Dundee city centre is the site of the athletes village for athletes participating in events at the nearby Barry Budden Shooting Centre.</p>

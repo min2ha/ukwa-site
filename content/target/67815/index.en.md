@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Amazon Integrated Carbon Analysis (AMAZONICA)
-
 AMAZONICA is an UK-Brasil Consortium funded by NERC (National Environmental Reasearch Council, UK).

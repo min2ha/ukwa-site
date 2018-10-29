@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron accused of releasing 'dodgy dossier' in support of EU membership
-

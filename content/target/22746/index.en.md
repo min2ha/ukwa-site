@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Benjamin Gravestock (@GravestockGreen) on Twitter (Green Party candidate for North West Leicestershire)
-

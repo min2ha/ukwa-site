@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Baljaffray Parish Church
-

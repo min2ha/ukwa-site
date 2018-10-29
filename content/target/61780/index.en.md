@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Dolwyddelan War Memorial
-
 The memorial commemorates the residents of Dolwyddelan, Gwynedd who were killed or missing in the First World War (13 names) and the Second World War (6 names). The website provides a history of each individual on the memorial.

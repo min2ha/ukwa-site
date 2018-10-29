@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wigan Leisure & Culture Trust (WLCL): Wigan and Leigh Words Festival
-
 Festival organised by WLCT

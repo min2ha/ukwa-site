@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Canoe and Kayak UK online forum
-
 Canoe and Kayak UK online forum

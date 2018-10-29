@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bedford Blues Rugby Club
-

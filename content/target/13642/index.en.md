@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Burdz Eye View, A
-
 Kate Higgins' blog on political and topical subjects.

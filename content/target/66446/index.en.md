@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# 8th Referendum Bot (@8threfbot) on Twitter
-
 This account is a Twitter robot that followed the discussion about the 8th Amendment Referendum in the Republic of Ireland. The referendum was held on the 25/05/2018.

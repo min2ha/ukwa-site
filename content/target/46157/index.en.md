@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Dundee Rep Theatre
-
 Site of a repertory theatre and dance company and their theatre, located in Dundee, Scotland.

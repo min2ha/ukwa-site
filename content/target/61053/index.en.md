@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Nicole Wakefield
-
 Nicole Wakefield is an elected member of the Royal Cambrian Academy of Art (RCA). She lives in Llanfairfechan, Gwynedd. The inspiration for her work comes from this area of Snowdonia. She works mainly in pastel which she prefers as a medium to capture the change of light.

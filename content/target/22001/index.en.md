@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gisela Stuart on Facebook (Labour candidate for Birmingham Edgbaston)
-

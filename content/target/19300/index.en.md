@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: The hypocrites have jumped aboard the Magna Carta bandwagon
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fort Walney Uncovered
-
 Fort Walney Uncovered is an art, archaeology and community engagement project, co-created with local people.

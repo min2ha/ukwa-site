@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British&Irish Lions (@lionsofficial) on Twitter
-
 Official account for The British & Irish Lions. 

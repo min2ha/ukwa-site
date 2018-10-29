@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jenny Rathbone (@JennyRathbone) on Twitter (Labour AM for Cardiff Central)
-
 Jenny Rathbone is Labour candidate for Cardiff Central at at the 2016 National Assembly for Wales election.

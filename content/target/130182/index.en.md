@@ -10,5 +10,3 @@
   "start_date": "2006-05-05T00:00:00Z"
 }
 
-# Brendan Soul's Family Trees
-

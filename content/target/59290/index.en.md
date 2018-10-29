@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Martina Anderson (@M_AndersonSF) on Twitter (Sinn Fein Politician)
-
 Twitter feed of Martina Anderson, Sinn Fein MEP for Northern Ireland

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Vince Cable defies Nick Clegg over demoted election role
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# White Ribbon UK
-
 A campaign to end male violence against women

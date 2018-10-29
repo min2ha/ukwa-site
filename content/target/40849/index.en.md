@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Sheffield
-
 This blog is all about the South East Sheffield area covering the wards of Beighton, Birley, Mosborough and Woodhouse. The blog is managed by the Sheffield City Councils’ South East Locality Officer. The blog has information about events and activities happening in the area and news that may be of interest to people living and working in the area.

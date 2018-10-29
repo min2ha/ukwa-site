@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# eLearning Alliance
-
 The eLearning Alliance project aims to encourage the growth of e-Learning across all sections of our communities.

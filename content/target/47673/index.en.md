@@ -10,6 +10,4 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Telesgop
-
 Telesgop is a leading multimedia production company operating mainly in TV and Film.

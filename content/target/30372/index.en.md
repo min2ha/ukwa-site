@@ -10,6 +10,4 @@
   "start_date": "2015-09-10T10:00:00Z"
 }
 
-# Goat
-
 Goat is an independent production company specialising in multidisciplinery arts projects, documentary film and dance on screen.

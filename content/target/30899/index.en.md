@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jack Whitehall
-
 Official website of an actor and stand up comedian Jack Whitehall.

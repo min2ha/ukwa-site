@@ -10,5 +10,3 @@
   "start_date": "2015-04-03T06:00:00Z"
 }
 
-# Tavish Scott MSP on Facebook
-

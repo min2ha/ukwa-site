@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Gottwood Festival
-
 Gottwood is an independent, boutique, underground electronic festival hled in Anglesey.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Our Chartist Heritage
-
 Community group established in and around Newport to bring forward projects and initiatives celebrating Newport's Chartist history.

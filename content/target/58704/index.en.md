@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Orienteering Association
-
 Site of the regulatory and organising body for the sport of orienteering in Scotland.

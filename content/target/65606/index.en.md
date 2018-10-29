@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Campaigning for Repeal: Belfast - Newry - Dublin Buses
-
 ROSA (for Reproductive rights, against Oppression, Sexism & Austerity) is a socialist feminist movement. ROSA Northern Ireland organised buses in solidarity with with the ROSA repeal the 8th amendment events taking place in Dublin before the 25th of May 2018 referendum.  

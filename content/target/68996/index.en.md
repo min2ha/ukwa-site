@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Hogia'r Ddwylan
-
 The choir which was formed 48 years ago is based in Menai Bridge on Anglesey and has over 40 members with Ilid Anne Jones as Musical Director since 1995.

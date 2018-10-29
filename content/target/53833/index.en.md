@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tactical2017
-
 Tactical2017 is a progressive grassroots campaign that encourages the British electorate to vote tactically in the 2017 election in order to kick the Tories out of government. 

@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Commission on Assisted Dying
-
 None

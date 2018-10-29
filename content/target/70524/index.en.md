@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Newburgh United Reformed Church on Facebook
-
 Facebook page of a Scottish United Reformed church located in Newburgh, Fife.

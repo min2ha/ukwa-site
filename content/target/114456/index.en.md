@@ -10,6 +10,4 @@
   "start_date": "2005-06-15T00:00:00Z"
 }
 
-# Profound Piercing - British Body Piercing Association; British School of Body Piercing, The
-
 see also Target 8159236 British Body Piercing Association

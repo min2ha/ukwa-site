@@ -10,6 +10,4 @@
   "start_date": "2016-08-18T10:00:00Z"
 }
 
-# Bethany Christian Trust
-
 Site of an Edinburgh based charity addressing homelessness and homelessness prevention.

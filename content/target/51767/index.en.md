@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Danescourt Christian Fellowship Church
-

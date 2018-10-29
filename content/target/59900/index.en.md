@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Read Swansea
-
 This is the ReadNetwork’s Swansea website and provides news, views, images and videos from the football club.

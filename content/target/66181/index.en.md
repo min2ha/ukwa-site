@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Disability Advice Project
-
 The Disability Advice Project is a charity based in Cwmbran and provides information and advice to disabled people, their families and carers in our community across South Wales. The Disability Advice Service support welfare benefits advice for disabled people their families and carers.

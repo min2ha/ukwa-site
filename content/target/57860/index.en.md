@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Schools fear impact of budget cuts amid girls' mental health crisis
-
 News article about the challenges faced by schools due to the increased number of girls suffering from mental health issues and the issues caused by the internet

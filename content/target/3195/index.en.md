@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Visit Scotland
-
 Visit Scotland is the website of the Scotland’s National Tourism Organisation. It markets Scotland to attract visitors; provides information and inspiration to visitors and potential visitors and provides quality assurance to visitors and quality advice to the industry partners to help meeting visitors' expectations.

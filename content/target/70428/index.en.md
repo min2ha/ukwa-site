@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# St Richard's Canal Festival. 
-
 Website for the St Richard's Canal Festival. 

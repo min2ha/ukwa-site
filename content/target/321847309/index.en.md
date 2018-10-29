@@ -10,5 +10,3 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Chartered Institute of Library and Information Professionals in Scotland, The (CILIPS)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Browns Food Group Limited
-
 Browns Food Group Limited produces and supplies cooked, chilled and sliced meats. The company is based in Kirkconnel, Scotland. 

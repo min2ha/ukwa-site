@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Brexit: EU's Juncker urges Belgian citizenship for UK staff
-
 The EU Commission President, Jean-Claude Juncker, has urged Belgium to grant citizenship to British EU staff worried about their post-Brexit status. About 1,100 UK citizens work for the EU in Brussels and Luxembourg. 

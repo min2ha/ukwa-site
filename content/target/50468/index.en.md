@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Fleur de Lys RFC
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Bryncoch Male Voice Choir
-
 The Bryncoch Male Voice Choir was formed in 1982 and rehearse in the village of Bryncoch, near Neath.

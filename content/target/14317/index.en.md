@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison on Facebook
-
 The Facebook page of the author, Ewan Morrison.

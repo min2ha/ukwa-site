@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# CEFN: Cefnogi Ffoaduriaid | Supporting Refugees
-
 CEFN was established in August 2015 to enable our local communities in Wales to support refugees.

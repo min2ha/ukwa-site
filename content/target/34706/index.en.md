@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Liam Stevenson (@_liamstevenson) on Twitter
-
 This is the offical twitter profile of Liam Stevenson, RISE candidate for Central Scotland in the 2016 Scottish Parliamentary election.

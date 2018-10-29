@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# The Friends of Lowestoft Library
-
 Lowestoft Library Literary Festival

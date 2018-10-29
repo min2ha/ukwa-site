@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Darwin Centre for Biology and Medicine, The
-
 The Darwin Centre for Biology and Medicine is is based in Haverfordwest and aims to engage and enthuse young people, families, and communities in Science, Technology, Engineering, and Mathematics (STEM).

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Nick Clegg sets out Lib Dem deficit plan
-
 None

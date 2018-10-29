@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Gerard Batten (UKIP  Politician)
-
 Gerard Batten stood as UKIP candidate for Maidenhead at the 2017 General Election but was not elected. He was elected to serve as MEP for London in 2004 and we re-elected in 2009 and 2014.

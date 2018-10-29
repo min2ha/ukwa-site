@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Hugh Bryden
-
 Site of a printmaker, poet and publisher based in Scotland.

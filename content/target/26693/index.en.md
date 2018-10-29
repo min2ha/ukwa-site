@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What does Cameron's election win mean for the environment?
-
 None

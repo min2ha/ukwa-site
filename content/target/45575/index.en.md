@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Rhydian Roberts
-
 Rhydian Roberts is a classically trained singer and musical theatre actor. 

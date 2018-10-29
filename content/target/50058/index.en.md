@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bedfordshire Local History Association 
-
 The BLHA has been the successful umbrella organisation for local history in the county for over thirty years. Members include: almost all of Bedfordshire’s local history societies, institutions such as the Bedfordshire Archives, and an increasing number of individuals.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Royal Zoological Society of Scotland
-
 Site of a society located in Edinburgh established to promote, facilitate and encourage the study of zoology and associated subjects and to foster and develop amongst the people with an interest in and knowledge of animal life

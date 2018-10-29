@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Halkyn Mountain Community Cinema
-
 Halkyn Mountain Community Cinema was established 2015. They received help and guidance of Cinema For All to bring the big screen cinema experience to the villages of Halkyn Mountain.

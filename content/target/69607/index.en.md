@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sister Magazine
-
 A bi-annual, independent and feminist publication. Their core value is that all issues are women’s issues, and that by providing a platform for them to be discussed, together we will achieve concrete change. 

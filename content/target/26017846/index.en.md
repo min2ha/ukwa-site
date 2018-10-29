@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London Development Agency (LDA)
-

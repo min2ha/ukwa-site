@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Tim Harries: Cartoons, Comic Strips and Illustrations
-
 Tim Harries is a UK based freelance professional cartoonist producing Cartoons, Comic Strips and Humorous Illustration for a variety of magazines and newspapers.

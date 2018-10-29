@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Chivas Brothers Limited
-
 Chivas Brothers is the Scotch whisky businness of Pernod Ricard. Brands owned include Chivas Regal, Glenlivet and Aberlour. 

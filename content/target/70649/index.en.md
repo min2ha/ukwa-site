@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Chinese Food Festival
-
 Festival celebrating Chinese food.

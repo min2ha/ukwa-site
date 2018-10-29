@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: is it graduates v non-graduates?
-
 John Morgan finds pro-EU stance of (most) graduates will be a key factor on 23 June, but also reveals much about current divisions in UK society. 

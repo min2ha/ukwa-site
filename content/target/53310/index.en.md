@@ -10,6 +10,4 @@
   "start_date": "2017-05-18T09:00:00Z"
 }
 
-# Jobcentre Online NI
-
 Search for jobs in Northern Ireland with Jobcentre Online. Universal Jobmatch has replaced the Jobcentre Plus job search tool.

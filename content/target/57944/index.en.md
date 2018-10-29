@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Bombardier’s vulnerability is a bad omen for post-Brexit Britain
-

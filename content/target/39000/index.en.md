@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: My research proves that Brexit would cut foreign investment in the UK – and that really does matter
-

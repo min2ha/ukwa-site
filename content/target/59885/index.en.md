@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Fòram na Gàidhlig
-
 Site of an international forum on Scottish Gaelic, with resources, discussions and information on software aimed at Gaelic speakers.

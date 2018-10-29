@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband 'sorry' as he resigns as Labour leader after General Election disaster
-
 None

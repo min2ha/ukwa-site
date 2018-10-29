@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Swiss in Wales
-
 A resource for the Swiss Community living and working in Wales.

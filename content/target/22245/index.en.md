@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guy Opperman (Conservative  Politician)
-
 Guy Opperman stood as Conservative candidate for Hexham at the 2015 General Election. He was first elected to serve as MP for Hexham in 2010 and re-elected in 2015. He stood again at the 2017 general election and was successful.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron's EU reforms are not legally binding, Michael Gove says
-

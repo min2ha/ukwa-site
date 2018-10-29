@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Missio Scotland
-
 Site of the Scottish branch of the Pontifical Mission Societies and is the official mission aid agency of the Catholic Church.

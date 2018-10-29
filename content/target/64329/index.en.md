@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'People's vote' campaign group launched
-
 In April 2018, MPs, celebrities and business leaders launched a campaign calling for a public vote on the final Brexit deal between the UK and the EU. The People's Vote aimed to unite anti-Brexit groups, with a rally being held in Camden, north London, on Sunday April 15th.
 

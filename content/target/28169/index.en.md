@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Responding to Climate Change (RTCC)
-
 Responding to Climate Change (RTCC) is a news and analysis website focused on providing the latest updates and insight into global low carbon developments.

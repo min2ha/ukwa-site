@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Lancashire Local History Federation
-
 The Federation was founded in 1973 so that individuals and societies could work together and could share their ideas and knowledge. These aims have remained central to its work ever since. Today the Federation has a large membership of eighty societies and many more individuals and is one of the biggest such organisations in Britain .

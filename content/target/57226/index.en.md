@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Tywyn, the Magic Lantern Cinema
-
 The Magic Lantern has been here since 1893. 

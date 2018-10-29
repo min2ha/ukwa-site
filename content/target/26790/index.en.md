@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Equatorial Palm Oil First-Half Loss Narrows As Ebola Hits Operations
-
 Article on Palm Oil losses due to Ebola

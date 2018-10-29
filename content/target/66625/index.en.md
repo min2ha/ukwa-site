@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Walker Holdings (Scotland) Limited
-
 The website of Walker Holdings (Scotland) Limited, also known as Walker Group. The company builds new homes and communities and is based in Livingston, Scotland.

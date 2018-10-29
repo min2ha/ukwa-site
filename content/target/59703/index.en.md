@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# Research Database, The University of York
-
 Welcome to the York Research Database, where you can find all our research staff, projects, publications and organisational units, and explore the connections between them all.

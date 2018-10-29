@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# Ash to Art
-
 A joint project between Glasgow School of Art and creative agency, J. Walter Thompson London, which asked artists to turn ash from the fire which destroyed the Mackintosh Building into art. Their work was auctioned to raise funds for the restoration.

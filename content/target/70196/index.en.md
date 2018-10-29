@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glenavon Football Club
-
 The official website of Glenavon Football Club, Founded 1889.

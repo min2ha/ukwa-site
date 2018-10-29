@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# English Table Tennis Association, The (ETTA)
-

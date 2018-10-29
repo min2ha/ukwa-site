@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pan African Arts Scotland
-
 <p>A centre of excellence for African arts and culture in Scotland Pan African Arts Scotland will putting a number of events including the PAAS Fest 2014 as part of Culture 2014.</p>

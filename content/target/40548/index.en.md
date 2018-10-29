@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Borenich Burial Ground
-
 Site detailing family history resources in the parish of Blair Atholl in Perthshire, Scotland [anonymously produced].

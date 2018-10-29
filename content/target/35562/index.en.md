@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Steen Parish (@steenparish) on Twitter
-
 The Twitter profile of Steen Parish, former Scottish Green Party candidate for West Scotland in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# CBRE: Scottish real estate referendum watch
-
 <p>Property related updates from commercial property consultants CBRE Ltd</p>

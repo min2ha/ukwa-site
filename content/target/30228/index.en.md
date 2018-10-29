@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Maps and Views Blog
-
 The aim of the blog is to communicate the work of the department, to provide insight into the national map collection of Great Britain, and to engage with wider discussions of maps and mapping in research and culture. 

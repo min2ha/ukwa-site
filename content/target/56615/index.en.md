@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Improve Marketing
-
 Improve Marketing is a marketing and communications agency.

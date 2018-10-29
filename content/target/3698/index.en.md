@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bromely Borough News
-
 None

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Blogwyr Bro: Papur bro digidol o faes Eisteddfod Sir Ddinbych 2013
-
 Online blog written during the Denbigh National Eisteddfod in 2014.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Next Step Initiative
-
 Site of an African-Focused Scottish charitable organisation working in partnership with the African Communities/other partners in Scotland to build healthy, productive and sustainable African Communities and lives.

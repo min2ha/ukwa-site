@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Manifesto launch: Scottish Green Party unveils 'bold vision'
-
 None

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Celtic Fans for Scottish Independence on Facebook
-

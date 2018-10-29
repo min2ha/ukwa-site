@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of School and College Leaders: ASCL 2017 General Election Manifesto
-
 Manifesto calls for fair funding, improved teacher recruitment and retention, evidence-based education policy, and curriculum stability.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Red Heron Poetry from Lampeter
-
 Red Heron is a group of poets with links to Lampeter who share a passion for reading their work to audiences. 

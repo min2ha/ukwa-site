@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Ardent Gallery
-
 Ardent Gallery is an art gallery located in Brecon.

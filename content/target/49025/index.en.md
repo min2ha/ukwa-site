@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Sir Ivan Rogers: Brexit talks to be on humongous scale
-
 Brexit talks would be on a "humongous scale" involving "difficult trade-offs", the UK's ex-EU ambassador said. Sir Ivan Rogers predicted much of the talks would be "conducted very publicly" with "name-calling" and an "extremely feisty atmosphere. He added that EU Commission chiefs were saying the UK should pay 40-60bn euros to leave and thought a trade deal could take until the mid-2020s to agree.

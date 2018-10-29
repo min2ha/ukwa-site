@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Brian McGinley : Scottish Labour for Ayr
-
 Brian McGinley is the Scottish Labour candidate for Ayr in the 2016 Scottish Parliamentary election.

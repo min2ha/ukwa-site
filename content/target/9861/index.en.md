@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War in County Durham
-
 <p>Project about Durham during the First World War.</p>

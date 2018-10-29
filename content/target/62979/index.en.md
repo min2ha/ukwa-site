@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Bournemouth Daily Echo: Stephen Hawkings
-
 The Bournemouth Daily Echo, commonly known as the Daily Echo, is a local newspaper that covers the area of southeast Dorset, England, including the towns of Poole, Bournemouth, Christchurch. These are the articles related to Stephen Hawking

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol Green Party
-
 Website of Green Party in Bristol, providing information on local news and campaigns and Green local councillors.

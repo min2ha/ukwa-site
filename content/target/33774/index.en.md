@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# British Embassy Dublin
-
 Information on the services of the British Embassy in the Republic of Ireland

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peterborough City Council
-
 Website of Peterborough City Council provides information on local services and events, news releases, and policies, strategies and plans. You can also find out about council budgets and expenditure and read committee papers and minutes.

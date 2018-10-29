@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Imperial Festival
-
 Free weekend event dedicated to sharing the best science and arts on offer from Imperial

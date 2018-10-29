@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Drum’n’bass duo cancel gig after finding out it is organised by Brexit campaigners
-
 Guardian, The

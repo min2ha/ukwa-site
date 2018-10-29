@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Lib Dems’ crushed pigeon isn’t an omen of doom
-
 None

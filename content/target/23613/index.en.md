@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Karen Westbrook (Green Party candidate for Truro and Falmouth)
-
 Karen Westbrook Green Party candidate for Truro and Falmouth in the 2015 General Election but was not elected. 

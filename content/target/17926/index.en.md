@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Association of British Fungus Groups
-
 The Association of British Fungus Groups is committed to bringing more people into amateur mycology. The ABFG was founded in 1996 by Michael Jordan, the writer and presenter of the Channel 4 TV series, 'Mushroom Magic', who is also author of books on fungi including the 'Encyclopedia of Fungi of Britain and Europe'. 

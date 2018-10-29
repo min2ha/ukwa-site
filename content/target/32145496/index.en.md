@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Girls' Travel Club
-
 None

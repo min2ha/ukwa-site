@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# New Philanthropy Capital (NPC): Blog
-
 New Philanthropy Capital (NPC) is a charitable organisation based in London. It states its mission is to direct more funding to effective charities and help donors make more informed decisions on how to give. NCP produces reports on issues of social welfare and analyses the workings of charities, primarily in the United Kingdom; it also works with charities, developing tools to help them measure their own effectiveness. NPC produces a quarterly newsletter, Giving Insights, which, along with their reports are free to download from their website.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Hume Castle Preservation Trust
-
 Site of a trust established to preserve and promote the remains and history of Hume Castle, near Kelso, Scottish Borders.

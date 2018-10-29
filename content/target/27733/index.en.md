@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Britain’s legal sector is world-beating – but the Tories are putting it all at risk 
-

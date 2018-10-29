@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# UK's Faculty of Public Health, The
-
 <p>Professional Bodies and trade unions</p>

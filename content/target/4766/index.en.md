@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Oxford: Nelson Mandela Podcasts
-
 None

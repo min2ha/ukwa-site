@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Royal Central School of Speech and Drama
-
 Official website of the Royal Central School of Speech and Drama.

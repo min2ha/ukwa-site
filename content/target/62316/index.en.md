@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Guiseley A.F.C.
-
 Guiseley Association Football Club is a professional football club based in Guiseley, West Yorkshire, England. They are currently members of the National League, the fifth tier of English football, and play at Nethermoor Park.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# GooseyGoo
-
 The aim of GooseyGoo is to engage a new audience into industrial heritage in UK & Ireland and to inspire the next generation of conservation architects, industrial archaeologists and custodians of these important sites.

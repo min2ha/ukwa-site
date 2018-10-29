@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln Cathedral most talked about local attraction on Twitter according to new data
-

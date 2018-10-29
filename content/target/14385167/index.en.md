@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# innocent drinks - a blog about our smoothies and some other stuff
-

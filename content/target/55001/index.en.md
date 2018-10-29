@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ffrwti
-
 A site where many Welsh bloggers blogged between 2014-16. 

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Cefyn Burgess Studio
-
 <p>Cefyn Burgess is a Welsh Textile Artist from Bethesda.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cornwall Labour Party
-
 Website of Labour Party in Cornwall, providing information on events and meetings, contact details of Labour in each constituency, and local and national news updates.

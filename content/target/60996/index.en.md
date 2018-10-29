@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Roger Casements GAA Coventry
-
 Welcome to the web site for Roger Casements GAA Coventry. We are a Gaelic Athletics Association based in Coventry in the West Midlands.

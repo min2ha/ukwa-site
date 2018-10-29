@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Double (Conservative Politician)
-
 Steve Double stood as Conservative candidate for St Austell and Newquay at the 2015 General Election and was elected to serve as MP. He subsequently stood for re-election in 2017 and was successful.

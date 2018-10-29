@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Banchory Devenick and Maryculter-Cookney Parish Church
-

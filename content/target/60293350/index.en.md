@@ -10,5 +10,3 @@
   "start_date": "2011-04-11T00:00:00Z"
 }
 
-# Down's Heart Group
-

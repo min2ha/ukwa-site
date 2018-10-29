@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Northern Ireland Assembly: The EU referendum and potential implications for Northern Ireland
-
 Research and Information Service Research Paper

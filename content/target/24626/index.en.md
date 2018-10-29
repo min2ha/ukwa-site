@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liberal Democrat battle bus: Five things we have learnt
-
 None

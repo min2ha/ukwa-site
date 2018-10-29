@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Article 50 ruling allows MPs a meaningful role in Brexit – if they want it
-

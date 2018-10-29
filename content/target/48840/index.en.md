@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Daily Mail, The: MPs' new plot to thwart Brexit: Cross-party group plan to defeat Theresa May if she does not formally detail her plans in a white paper
-
 A cross-party alliance was demanding that Theresa May detailed her plans for leaving the EU in a formal white paper. They were threatening to defeat her in a vote if she failed to do so. 

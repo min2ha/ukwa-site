@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Guardian, The: Harry Potter's 20th birthday to be marked with British Library show
-

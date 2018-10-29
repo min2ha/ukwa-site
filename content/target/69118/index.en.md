@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind: Zoella becomes first Digital Ambassador for Mind
-
 A Mind charity news article on their first digital ambassador 

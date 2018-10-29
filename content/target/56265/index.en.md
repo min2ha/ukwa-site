@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# PetForums
-
 An online enthusiast community forum concerned with pets. Discusses pet health & nutrition, breeding and other topics for dogs, cats, birds, horse, reptiles, poultry and waterfowl, and fish.

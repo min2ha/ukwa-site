@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# One hundred weeks of Scotland
-
 None

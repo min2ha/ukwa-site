@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East Midlands Specialised Commissioning Group (EMSCG)
-
 None

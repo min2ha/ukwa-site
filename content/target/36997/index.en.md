@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Caol Ruadh Scottish Sculpture Park
-
 Site of a sculpture park providing an outdoor landscape for artists to show their work.

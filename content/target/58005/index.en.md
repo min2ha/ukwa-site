@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Former International Players Association
-

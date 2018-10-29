@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T08:00:00Z"
 }
 
-# Centre for Languages, Linguistics and Area Studies (LLAS)
-
 Centre for Languages, linguistics and Area Studies (LLAS) is a research and enterprise group specialising in educational projects and professional development in the area of languages and related studies. They provide high quality professional development, resources and information to the higher education sector since 2000, first as part of the Higher Education Academy Subject Network and since 2011 as an independent group. 

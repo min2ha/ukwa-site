@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Pilgrims of Great Britain Society, The 
-
 The Pilgrims of Great Britain are a society that works with other Anglo-American organisations to improve relations between the two countries.

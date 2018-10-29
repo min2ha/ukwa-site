@@ -10,5 +10,3 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Cymraeg for Oedolion Morgannwg | Welsh for Adults Glamorgan 
-

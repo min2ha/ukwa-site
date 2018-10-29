@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: it's time for Tory campaign to let rip in final week
-
 None

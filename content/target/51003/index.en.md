@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# British Forces in Palestine
-
 This site is dedicated to the Veterans of a vicious war which is largely ignored. The focus is on the last years of the Mandate but also included are memories of Egypt and some war service, as well as experiences of non-British participants and a little background to give context.

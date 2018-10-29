@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: The murderer's daughter bidding to become a Labour MP
-
 None

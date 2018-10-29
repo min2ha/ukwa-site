@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Surrey and Sussex NHS Healthcare Trust
-
 None

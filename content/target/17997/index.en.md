@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UKGA
-
 UKGA is a free online service for the UK's general aviation community, aimed at trainees and qualified pilots of light planes, microlights, helicopters and other aircraft, as well as non-flying enthusiasts. It was established in 2003.

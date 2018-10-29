@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Connor Beaton's Blog
-
 Connor Beaton is the RISE: Scotland's Left Alliance list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

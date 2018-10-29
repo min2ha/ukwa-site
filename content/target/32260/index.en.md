@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Unity Group Wales
-
 The Unity LGBT Centre is a LGBT organisation, delivering support for those who relate to being lesbian, gay, bisexual and transgender.

@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# Research Explorer | The University of Manchester
-
 The University of Manchester's research has real-world impact beyond academia. We are at the forefront of the search for solutions to some of the world's most pressing problems, seeking to be a global force for positive change.

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Dover District Council
-
 Website of Dover District Council offers information on its services, news, consultations, committee meeting minutes and agendas, and policy documents

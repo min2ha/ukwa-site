@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Suzy Davies on Facebook (Conservative candidate for South Wales West)
-
 Suzy Davies is the Conservative candidate for South Wales West at the 2016 National Assembly Election. 

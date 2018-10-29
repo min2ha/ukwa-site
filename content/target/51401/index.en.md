@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Boswell Society
-
 WordPress blog site for a society dedicated to the work of the Scottish biographer and diarist James Boswell.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Josie Long (@JosieLong) on Twitter
-
 Josie Long's Twitter account

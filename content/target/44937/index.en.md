@@ -10,6 +10,4 @@
   "start_date": "2016-08-10T10:00:00Z"
 }
 
-# Something Rhymed: celebrating female literary friendship
-
 Since 2014, Something Rhymed has been profiling different pairs of female writer pals – adding a celebratory note to today’s resurgent feminist conversation.

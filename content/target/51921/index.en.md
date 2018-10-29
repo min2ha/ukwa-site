@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St. Magnus International Festival
-
 Site of an annual festival of the arts, mainly music, in Orkney, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Solicitors' Journal: Sailing in circles
-
 This post dissects the constitutional legitimacy of the government triggering article 50 TEU without an Act of Parliament.

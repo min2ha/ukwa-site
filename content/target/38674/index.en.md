@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Neil Findlay (@voteNeilFindlay) on Twitter
-
 Twitter profile of Neil Findlay, the Scottish Labour candidate for Almond Valley in the 2016 Scotish Parliamentary election.

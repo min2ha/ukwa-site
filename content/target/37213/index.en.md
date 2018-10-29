@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford International Relations Society: Britain's Exit from the EU and what it could mean (Podcast)
-
 Podcast interviewing a variety of academics, politicians and journalists on the EU referendum regions of support for Britain's renegotiation within the EU and whether a Brexit could prompt a wider disintegration, the effect of a Brexit upon calls for a new referendum on Scottish independence, and the wider impact upon Britain's relation with the US and China

@@ -10,6 +10,4 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Pàrlamaid na h-Alba (@ParlAlba) on Twitter
-
 The Gaelic language Twitter of teh Scottish Parliament.

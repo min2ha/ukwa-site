@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Presteigne Screen
-
 Presteigne Screen is an independent cinema run by volunteers. It was formerly Presteigne Film Society.

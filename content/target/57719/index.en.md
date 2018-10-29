@@ -10,6 +10,4 @@
   "start_date": "2017-10-10T09:00:00Z"
 }
 
-# Kathryn Campbell Dodd
-
 Kathryn Campbell Dodd is an artist living and working in West Wales. She is interested in the ‘object’ within visual art and craft contexts.

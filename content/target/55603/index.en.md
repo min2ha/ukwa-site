@@ -11,7 +11,5 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Tropical Fish Forums UK
-
 The Tropical Fish Forum UK is an online enthusiast forum concerned with tropical fish keeping in the UK. It discusses fish feeding, aquarium decor and equipment, information on keeping different types of tropical and various other topics.
 It includes a photo section where users share photos of their fish.

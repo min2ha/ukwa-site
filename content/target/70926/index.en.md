@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tennis Wales | Tennis Cymru
-
 This is the Wales Tennis web pages of the Lawn Tennis Association website.

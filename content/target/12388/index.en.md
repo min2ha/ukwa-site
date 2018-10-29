@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Robertson (arobertson100) on Twitter
-
 The twitter profile of Andrew Robertson, member of the 400 metre men's relay for Team England at the Glasgow 2014 Commonwealth Games.

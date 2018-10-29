@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# BMJ Best Practice
-
 <p>BMJ Best Practice - Your instant second opinion is a tool for medical professionals provided by the British Medical Journal.</p>

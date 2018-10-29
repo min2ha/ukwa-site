@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The:  Labour I’m now backing a second referendum – Jeremy Corbyn should too
-

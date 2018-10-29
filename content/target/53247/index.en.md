@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Scotch Whisky Association: SWA General Election Manifesto 2017
-
 The Association asks political parties and candidates standing in the 2017 General Election to #SupportScotch by signing up to six commitments to boost Scotch Whisky and its UK supply chain.

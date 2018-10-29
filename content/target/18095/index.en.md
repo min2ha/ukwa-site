@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Osborne considers raising tax free allowance to £11,000 in election cash give-away
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May’s Brexit plan is here, and it’s a dead duck already
-

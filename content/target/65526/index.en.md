@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 9th May 2018: Prime Minister's Questions
-
  Prime Minister's Questions on May 8th 2018 saw Jeremy Corbyn tackle Theresa May about Brexit policy - a relative rarity. He took the opportunity to highlight the Government's failure yet to agree its preferred customs arrangements to put to the EU: undeniably a weak spot for the PM to have to deal with and many observers reckoned that, unusually, the Leader of the Opposition was able to get the better of her. 

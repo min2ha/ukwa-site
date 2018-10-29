@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Darbar
-
 Festival for Indian classical music and dance

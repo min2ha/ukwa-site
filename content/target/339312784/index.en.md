@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Reformission Wales
-
 ReformissionWales is a Ministry of the Associating Evangelical Churches of Wales (AECW).

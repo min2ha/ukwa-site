@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# AlanCowan4DundeeWest (@CowanDundeeWest) on Twitter
-
 Twitter profile of Alan Cowan, Scottish Labour candidate for Dundee West in the 2017 general election.

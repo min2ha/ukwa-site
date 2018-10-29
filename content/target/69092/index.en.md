@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 18th July 2018: Prime Minister's Questions
-
 A testy encounter in the final PMQs before the 2018 summer recess, with Jeremy Corbyn attacking the PM's Brexit troubles and Mrs May accusing him of reading from a script he had written on Tuesday and not listening to her answers.
 

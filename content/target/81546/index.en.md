@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Penningtons Manches: Shared parenting - equality and division
-
 An article about shared parenting

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kate Forbes SNP (@kate4SLB) on Twitter
-
 The Twitter profile of Kate Forbes, the Scottish National Party candidate for Skye, Lochaber and Badenoch in the 2016 Scottish Parliament election.

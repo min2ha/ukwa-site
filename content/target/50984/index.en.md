@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Philosophy of Education Society of Great Britain
-
 PESGB is a learned society that promotes the study, teaching and application of philosophy of education. Now celebrating its 50th anniversary, the Society organises and supports conference and seminars, many organised by its network of over 20 regional branches in the UK and beyond.  The Society also supports research and scholarship in the field through its grants scheme.

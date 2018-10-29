@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Albert Park in Salford
-

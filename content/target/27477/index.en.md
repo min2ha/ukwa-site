@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: The Independent policy checker - do you know what each party actually stands for?
-
 None

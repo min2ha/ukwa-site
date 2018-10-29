@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Cooperians RFC (@OldCoopersRFC) on Twitter
-
 The official Twitter account of Old Cooperians Rugby Football Club.

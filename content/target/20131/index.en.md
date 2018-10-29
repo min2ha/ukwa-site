@@ -10,6 +10,4 @@
   "start_date": "2015-03-31T09:00:00Z"
 }
 
-# Theatre for Young Audiences UK (TYA-UK)
-
 Theatre for Young Audiences UK (TYA-UK) is the UK Centre of the International Association of Theatre for Children and Young People, known worldwide as ASSITEJ, a network for makers and promoters of professional theatre for young audiences in over 80 countries.

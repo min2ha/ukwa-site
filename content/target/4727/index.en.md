@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Velvet Glove, Iron Fist: Mandela: the self-serving, bitchy tributes pour in
-
 <p>Blog posting by Christopher Snowdon, taking a critical (and personal) overview of comments on Twitter immediately follwoing the announcement of Nelson Mandela's death.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog:  The Withdrawal Bill is a chance for the prime minister to show she's serious about protecting workers’ rights
-
 Calls for guarantees from the government  that rights at work in Britain will not fall behind rights in the rest of Europe.

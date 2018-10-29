@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scots Fiddle Festival
-
 Site of a festival whose aim is to promote and sustain traditional fiddle music from Scotland and around the world.

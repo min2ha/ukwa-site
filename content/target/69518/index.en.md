@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Forget the Irish Sea border. If we must have a backstop, how about a Celtic Sea border instead?
-
 We ought not to require any more Ireland – Northern Ireland border “backstop” than the undertaking that all sides have already made that, even in the event of no deal, there will be a soft border. But if some further “backstop” is required, a more natural and less problematic one would be a “Celtic Sea border”, where checks on persons already occur (apparently without threatening the integrity of the Single Market in Services), combined with cooperative away-from-the-border enforcement mechanisms on the island of Ireland.
 

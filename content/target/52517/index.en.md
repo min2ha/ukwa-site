@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Edgeworth (@pauledgeworth) on Twitter (Liberal Democrats Politician)
-
 Paul Edgeworth stood as Liberal Democrats candidate for Houghton and Sunderland South at the 2017 General Election but was not elected.

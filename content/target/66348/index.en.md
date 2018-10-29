@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Turner & Company Limited
-
 Turner & Company Limited is involved in the supply and servicing of equipment for, and provides support services to, the automotive industry. 

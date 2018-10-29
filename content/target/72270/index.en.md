@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# NLW Visitors Services (@NLWVisitors) on Twitter
-
 This is the twitter feed of National Library of Wales Visitors Services.

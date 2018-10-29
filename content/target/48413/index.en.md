@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Marine Turtle Research Group (MTRG)
-
 The Marine Turtle Research Group (MTRG) is a group of professional scientists and student volunteers dedicated to undertaking fundamental and applied research on marine turtles whilst supporting local capacity building and environmental awareness efforts necessary for successful conservation. The Group are now permanently based at the School of Biological Sciences, University of Exeter.

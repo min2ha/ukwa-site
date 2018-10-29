@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# New Leveller: the radical i-pamphlet
-
 i-pamphlet : "I take inspiration from the radical and visionary Leveller movement which flourished predominantly between the English Civil Wars of the mid 17th Century. In a series of brilliant leaflets and pamphlets the Levellers articulated their commitment to civil rights and a tolerant social settlement. I consider the ideals of justice and accountability expressed by this movement to be of continuing importance and their proposed solutions provide valuable lessons for meeting contemporary challenges."

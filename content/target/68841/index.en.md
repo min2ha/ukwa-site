@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Independent, The: World Cup 2018
-
 World Cup 2018 – start date, groups, teams, fixtures, squads, latest news, live blogs | The Independent

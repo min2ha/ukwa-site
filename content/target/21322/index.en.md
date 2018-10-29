@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michelle Gildernew (@gildernewmp) on Twitter (Sinn Fein candidate for Fermanagh and South Tyrone)
-

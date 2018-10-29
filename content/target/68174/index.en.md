@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barclays: This is Me campaign 
-
 Barclays' campaign, This is Me aims to challenge the stigma around mental health

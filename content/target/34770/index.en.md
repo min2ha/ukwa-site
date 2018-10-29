@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Richard Roderick Jones
-
 Richard Roderick Jones is a composer from Newport, Wales.

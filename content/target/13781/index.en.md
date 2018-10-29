@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Harris Rush Associates: Research
-
 <p>The blog of Anthony Rush, a Fellow of the Institute of Directors with 48 years experience in the construction industry.</p>

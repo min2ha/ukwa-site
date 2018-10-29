@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mike FitzGerald (@Mike4Portsmouth)  on Twitter (UKIP  Politician)
-
 Mike Fitzgerald stood as UK Independence Party (UKIP) candidate for  Portsmouth North in the 2017 General Election but was not elected.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paralympics GB on Facebook
-

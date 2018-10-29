@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Norton View, The: The EU Withdrawal Bill: not our finest hour!
-
 Lord Norton points out the valuable and constructive work done by the Lords outside the Chamber to improve the EU Withdrawal Bill

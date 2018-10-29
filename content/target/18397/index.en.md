@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory minister says some benefit sanctions are 'inhuman'
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK election candidates: Independents fight to bring their issues to the fore
-
 None

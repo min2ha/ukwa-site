@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Jones Lang LaSalle (JLL) 
-
 Global property consultants with offices in the UK. UK site includes free market surveys of the property industry.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Fiona Hyslop (FionaHyslop) on Twitter
-
 The Twitter profile of Fiona Hyslop, the Scottish National Party candidate for Linlithgow in the 2016 Scottish Parliament election.

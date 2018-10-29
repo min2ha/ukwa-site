@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Hunt Saboteurs Association
-
 Organisation that works directly in the field to protect wildlife from the hunter, founded in 1963

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Magna Carta copy arrives in Houston for exhibit
-

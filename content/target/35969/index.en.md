@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Siobhan McCready (@SiobhanMcCready) on Twitter
-
 The Twitter profile of Siobhan McCready, the Scottish Labour and Co-operative candidate for Greenock and Inverclyde in the 2016 Scottish Parliament election.

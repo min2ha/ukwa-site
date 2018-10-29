@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Cabaret (@ClimateCabaret) on Twitter
-
 Twitter feed highlighting climate-related stories

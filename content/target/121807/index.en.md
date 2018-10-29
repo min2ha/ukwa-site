@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Fawcett Society
-
 The Fawcett Society is an organisation in the United Kingdom that campaigns for women's rights. The organisation's roots date back to 1866, when Millicent Garrett Fawcett dedicated her life to the peaceful campaign for women's suffrage. It is a charity registered with the Charity Commission. 

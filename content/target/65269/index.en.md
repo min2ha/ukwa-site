@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stwo Brae Kirk
-
 Site of a Church of Scotland parish church at Paisley, Renfreshire.

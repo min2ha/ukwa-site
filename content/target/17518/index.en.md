@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ken Clarke says Tory party must shun wealthy donors to avoid scandal
-
 None

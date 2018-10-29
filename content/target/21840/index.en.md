@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# Llantilio Pertholey Community Council
-
 Village in Monmouthshire

@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Scottish Wider Access Programme
-
 Site of a partnership between colleges and universities in Scotland that work together to support access to higher education for adult learners.

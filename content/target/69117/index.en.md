@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Stephen’s RC Church, Blairgowrie
-
 Site of a Scottish Roman Catholic parish church located in Blairgowrie, Perth & Kinross, and two associated parish churches, St. Luan’s, Alyth and St. Mary’s, Coupar Angus.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Potters House, The
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eric Joyce (@ericjoyce) on Twitter
-
 <p>The twitter profile of Eric Joyce, Independent Member of Parliament for Falkirk.</p>

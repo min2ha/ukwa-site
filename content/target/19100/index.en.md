@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Keynote Address by The Rt Hon Justine Greening MP
-

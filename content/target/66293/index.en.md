@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parkhead Nazarene
-
 Site of a Church of the Nazarene church and congregation in Parkhead, Glasgow.

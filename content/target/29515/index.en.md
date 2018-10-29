@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Southside House
-
 Southside House provides an eccentric backdrop to the lives and loves of generations of the Pennington Mellor Munthe families. Maintained in traditional style without intrusive refurbishment and crowded with family possessions of centuries, Southside offers a wealth of fascinating family stories. Southside has associations with Queen Natalie of Serbia and her son Alexander, and the family also have mementos from the Duke of Wharton, Lady Hamilton and others. It is situated in the Wimbledon area, south-west London.

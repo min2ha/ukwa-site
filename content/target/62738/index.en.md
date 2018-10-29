@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Universities UK (@UniversitiesUK) on Twitter
-
 Universities UK is the representative organisation for the UK's universities.

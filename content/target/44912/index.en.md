@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# Tank Museum
-
 The museum tell the story of armoured warfare from World War One to the present day. The collection includes over 300 vehicles.

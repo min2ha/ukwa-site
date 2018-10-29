@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Roger Casement and the Irish Brigade 
-
 This website is focused on the history of the ‘Irish Brigade’, the attempt by Sir Roger Casement to recruit Irishmen serving in the British Army who had become prisoners of war during World War I to fight for Irish independence. It contains digital reproductions of numerous primary documents. 

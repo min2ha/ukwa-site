@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tonia Couch (@toniacouch) on Twitter
-
 <p>The twitter profile of diver Tonia Couch, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

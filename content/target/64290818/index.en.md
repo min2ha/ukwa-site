@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Architectural Association School of Architecture
-
 Official website of the Architectural Association School of Architecture, London.

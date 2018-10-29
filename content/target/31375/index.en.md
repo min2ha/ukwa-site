@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Schalke FanClub UK 
-
 UK fanclub of a German football club Schalke 04.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Stornoway Trust
-
 Site of a publicly owned trust set up to administer the estate surrounding Lews Castle, Stornoway, Isle of Lewis in the Western Isles / Na h-Eileanan Siar.

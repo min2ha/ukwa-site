@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Havering LINk: facebook
-
 None

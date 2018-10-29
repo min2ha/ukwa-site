@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Episcopal Church, Portree, Isle of Skye on Facebook
-
 Facebook page of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Portree, Skye, Highland.

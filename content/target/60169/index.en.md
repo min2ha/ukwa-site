@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food &  Rural Affairs: Farming for the next generation
-
 Secretary of State Michael Gove sets out his vision on the future of the farming industry after Brexit at the Oxford Farming Conference 2018 

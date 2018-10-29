@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Scarborough Council
-
 The website of Scarborough Council offers information on its services and activities, news and events, and access to its planning portal. You can also read committee papers and minutes.

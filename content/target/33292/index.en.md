@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Labour Party 
-
 This is the website of the Irish Labour Party. It contains an article recounting the role that seven women of the Labour Movement played in the Easter Rising,1916

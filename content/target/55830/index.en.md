@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Michael Tomlinson (Conservative MP for Mid Dorset and North Poole)
-
 Website of Michael Tomlinson, Conservative MP for Mid Dorset and North Poole. Involved in open letter to Donald Tusk calling for protection of rights of British expatriates and EU nationals resident in Britain when the UK leaves the European Union.

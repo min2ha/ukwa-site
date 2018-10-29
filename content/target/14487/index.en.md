@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Aberdare High School
-
 <p>Aberdare High School closed in 2014.</p>

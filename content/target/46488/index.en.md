@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T11:00:00Z"
 }
 
-# Carmarthenshire Energy
-
 Carmarthenshire Energy is a social enterprise, working with communities to reduce energy costs, tackle fuel poverty and generate clean renewable energy.

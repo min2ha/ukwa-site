@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# National Federation of Retail Newsagents (NFRN)
-
 The National Federation of Retail Newsagents (NFRN) was founded in 1919 and is one of Europe’s largest retail trade associations with over 16,000 independent news and convenience retailers in membership throughout the UK and Ireland.

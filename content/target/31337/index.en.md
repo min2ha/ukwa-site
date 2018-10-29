@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# John Knapp-Fisher
-
 John Knapp-Fisher is a Pembrokeshire based artist.

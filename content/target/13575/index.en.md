@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Holyrood: Referendum
-
 <p>News stories and analysis from the website of Holyrood magazine.</p>

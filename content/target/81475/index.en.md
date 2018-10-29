@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EK Pirates (@EKPirates) on Twitter
-
 Scotland's number one American Football club.

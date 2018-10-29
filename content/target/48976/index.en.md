@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Learning, Evaluation and Planning
-
 Site of an learning, evaluation and planning programme and tool run by the Scottish Community Development Centre featuring user-friendly software encouraging users to ask critical questions about their work,  supporting joint working and ensuring project participants are involved and are working to a shared agenda.

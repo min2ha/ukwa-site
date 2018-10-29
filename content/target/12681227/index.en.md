@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Lookaround Cornwall
-
 None

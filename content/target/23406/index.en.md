@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anne Lemon on Facebook (Trade Unionist and Socialist Coalition candidate for Bristol North West)
-

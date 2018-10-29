@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Open Democracy
-
 E-zine and discussion forum offering news and opinion articles from established academics and journalists covering current issues in world affairs.

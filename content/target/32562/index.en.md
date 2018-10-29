@@ -10,5 +10,3 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# French Institute in Scotland
-

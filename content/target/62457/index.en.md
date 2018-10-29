@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Callie Thorpe
-
 Callie Thorpe is a fashion model and blogger from Newport who speaks out to promote positive body confidence and tackles beauty standards.

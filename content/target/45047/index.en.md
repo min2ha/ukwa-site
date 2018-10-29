@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Cromarty Arts Trust
-
 Site of a trust established to promote the arts, education, environment, history of the Highlands, and the conservation of buildings of historical or architectural importance.

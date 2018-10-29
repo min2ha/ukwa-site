@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# John Hedley, Artist
-
 John Hedley is a practicing artist and member of the RCA (Royal Cambrian Academy) who moved from London to North Wales in 1985. He lectures in art at Bangor University and Coleg Llandrillo. Much of his works has a special reference to the geology of Anglesey.

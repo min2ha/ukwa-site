@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Plympton Victoria (@PlymvicRFC) on Twitter
-
 The official Twitter account of Plympton Victoria RFC. 

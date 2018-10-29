@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Rhondda Cynon Taff Welsh Liberal Democrats
-

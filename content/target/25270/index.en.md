@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband pledges to axe non dom tax rule that benefits the rich and save £1billion a year
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Atkinson (@andrew4wrexham) on Twitter 
-
 Andrew Atkinson is the Conservative candidate for Wrexham at the 2015 and 2017 General Election 2016 National Assembly for Wales election.

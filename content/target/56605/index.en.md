@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwyneth Glyn
-
 Gwyneth Glyn is a writer, playwright and singer. She was appointed Wales’ Poet Laureate for Children 2006 – 2007. 

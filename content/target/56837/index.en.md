@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: The exchange and protection of personal data
-
 As the UK and the EU build a new, deep and special partnership, it is essential that we agree a UK-EU model for protecting and exchanging personal data which allows free flows of data to continue between the EU and UK, and provides for ongoing regulatory cooperation and certainty for businesses and other stakeholders. This should reflect the unprecedented alignment between British and European law and recognise the high data protection standards that will be in place at the point of exit.
 
 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Express: World Cup 2018
-
 World Cup 2018

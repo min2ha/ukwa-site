@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Ty Solar
-
 Western Solar are a company 'dedicated to manufacturing ultra low energy affordable homes built on sustainable principles and the desire to alleviate energy poverty in housing'. Ty Solar have a factory in North Pembrokeshire and are responsible for  Wales' first "solar villages" - Glanrhyd near Cardigan.

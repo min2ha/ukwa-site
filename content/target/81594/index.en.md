@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Windmill-kids
-
 Established in 2013, we are a child friendly independent shop selling everything for little (and not so little feet). Realising there was nowhere local to buy good quality, fashionable shoes we have given up our day jobs and cherry picked the best shoes, boots, wellies, socks, tights and accessories we could find.

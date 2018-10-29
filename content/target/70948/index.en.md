@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Love Supreme Jazz Festival
-
 Website for the Love Supreme Jazz Festival.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Watch (@BrexitWatch) on Twitter
-
 The twitter account of Brexit Watch, that claim to provide news and analysis on Brexit and the EU referendum

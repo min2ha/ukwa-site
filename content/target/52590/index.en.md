@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Presteigne St Andrews FC
-

@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Swansea Materials Research & Testing Ltd (SMaRT)
-
 SMaRT was established to combine two areas of expertise at Swansea University; world class mechanical characterisation of advanced structural materials alongside the academic interpretation of the mechanisms controlling material deformation and fracture. Swansea Materials Research & Testing Ltd (SMaRT) is a wholly owned subsidiary of Swansea University

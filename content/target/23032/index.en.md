@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanmanjit Singh Dhesi (@tan4mp) on Twitter (Labour candidate for Gravesham)
-

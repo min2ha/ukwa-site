@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The reinvention of Iain Duncan Smith: is he the man to save the Tories?
-
 None

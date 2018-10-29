@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: We CAN'T have our cake and eat it! May admits Brexit will hit trade with EU as she bids to break talks deadlock - but slams Brussels for 'cherry picking' demands and Irish border ultimatum   
-

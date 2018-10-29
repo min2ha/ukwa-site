@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Supreme Council for Scotland of the Ancient and Accepted Scottish Rite
-
 Site of a Scottish masonic organisation located in Edinburgh.

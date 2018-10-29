@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lucy Powell, Ed Miliband's election guru: 'You've just got to get on with the job'
-
 None

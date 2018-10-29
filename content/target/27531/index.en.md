@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Nicola Sturgeon dismisses Miliband claim of no Labour-SNP alliance as 'Westminster hitting the panic button'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# GC Gibson Charitable Trust
-
 The GC Gibson Charitable trust was established in 1968 by George Gibson by a grant of shares in his shipping business, based in Cardiff, called Atlantic Shipping. The fund today is worth £12 million.

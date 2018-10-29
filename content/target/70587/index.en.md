@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crystal Palace Ladies Football Club
-
 Crystal Palace Ladies Football Club, a volunteer run football club for over 300 female players from U9 to Senior Teams. 

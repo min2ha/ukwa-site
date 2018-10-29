@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ocd action: Welcome to OCD action
-
 Website for OCD Action a national charity focusing on Obsessive Compulsive Disorder (OCD).

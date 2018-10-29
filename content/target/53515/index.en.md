@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hackney Green Party (@hackneygreens ) on Twitter
-
 Twitter feed of Hackney Green Party, covering the general election campaign of 2017.

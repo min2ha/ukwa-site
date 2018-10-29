@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May's general election statement in full
-
 Prime Minister Theresa May announced a plan to call a snap general election on 8 June 2017. Here is the statement she made outside Number 10 in full:

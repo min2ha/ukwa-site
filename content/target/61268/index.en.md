@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Suffrage Centenary - Cross Gov (@XgovCentenary)
-
 This account was set up to share events by Government Departments and Agencies to celebrate the centenary of some women and all men getting the vote in 1918.  

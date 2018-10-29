@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Wales Deaf Rugby Union
-

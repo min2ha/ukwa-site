@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prospect Magazine: The lesson of Tuesday’s government climbdown: we’re likely heading for soft Brexit
-
 The real lesson of the government's climbdown over the "meaningful vote" amendment to the EU Withdrawal Bill is that there is now no chance of anything other than the softest of Brexits being approved by parliament. This prospect will strengthen the hopes of a deal that will be as good (or un-bad) as possible for British business, and will also keep the Irish border open.
 

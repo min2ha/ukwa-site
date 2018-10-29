@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Business West
-
 Business West is an independent business leadership organisations in the UK, representing and working with over 18,000 businesses across the South West.

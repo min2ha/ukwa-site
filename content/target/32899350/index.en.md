@@ -10,5 +10,3 @@
   "start_date": "2010-03-15T00:00:00Z"
 }
 
-# Alistair Burt MP
-

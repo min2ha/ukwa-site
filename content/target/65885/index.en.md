@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# 1 Shilling
-
 This website was set up by designer Matthew Caldwell in 2018. He decided to begin his own collection of classic matchday memorabilia with the hopes of developing an online museum.

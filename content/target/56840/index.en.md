@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Confidentiality and Access to Documents
-
 This paper states that the UK recognises the importance of continuing to respect obligations of confidentiality and to protect information exchanged while it was a Member State, and that arrangements agreed with respect to confidentiality and the handling of information produced while it was a Member State should be reciprocal, affording an equivalent level of protection to the UK and the EU after the UK’s withdrawal.
 

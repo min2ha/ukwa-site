@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Atkins 2012
-

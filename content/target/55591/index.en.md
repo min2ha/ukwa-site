@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Belfast Food Network
-
 The Belfast Food Network is a project managed by Sustainable NI. It has established a cross-sector partnership of public sector organisations, NGOs and businesses working together to foster the development of Belfast as a Sustainable Food City.

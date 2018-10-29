@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Little Troopers
-
 Little Troopers (formally My Daddy is a Soldier Adventures) is a registered charity supporting children with parent(s) in the British Armed Forces, these children face unique daily challenges due to their parents career choice especially when they experience repeated separation of varying lengths of time from their serving parent(s) due to exercises, training, operations and other service commitments.

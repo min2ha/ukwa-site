@@ -10,5 +10,3 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Cynon Valley Crime Prevention Association Ltd, The (CVCPA)
-

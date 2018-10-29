@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Fernhill
-
 Fernhill is a Welsh folk band.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-19T09:00:00Z"
 }
 
-# Swansea Innovations
-
 Swansea Innovations is an Intellectual Property (IP) Group responsible for the capture and management of technologies developed at Swansea University. 

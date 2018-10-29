@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: George Osborne's welfare cuts are 'spine chilling' if Tories win election warns his OWN deputy 
-
 None

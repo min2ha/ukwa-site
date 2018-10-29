@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: May to form 'government of certainty' with DUP backing
-
 Theresa May said she will put together a government with the support of the Democratic Unionists that could provide "certainty" for the future.

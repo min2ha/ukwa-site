@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  The EU oligarchs will despise us even more if we Leave. That's reason enough
-

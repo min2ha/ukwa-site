@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conservative Future Scotland
-
 The website of Conservative Future Scotland, the youth wing of the Scottish Conservative and Unionist Party.

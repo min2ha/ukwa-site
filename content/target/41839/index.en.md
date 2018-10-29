@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords: Science and Technology Committee: Relationship between EU membership and UK science inquiry
-
 UK businesses are lagging behind competitor nations seeking EU funding, while UK universities are reaping rewards. In addition to EU funding, the report looks at other aspects of EU membership, such as freedom of movement of researchers and the ability to collaborate on major projects, concluding that these in particular are significant aspects of membership. It also highlights some negative aspects of the UK’s EU membership, such as restrictive EU regulations that could prohibit innovative research.

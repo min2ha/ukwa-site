@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Zoological Society of London (ZSL)
-
 The Zoological Society of London (ZSL) is an international scientific, conservation and educational charity whose mission is to promote and achieve the worldwide conservation of animals and their habitats.

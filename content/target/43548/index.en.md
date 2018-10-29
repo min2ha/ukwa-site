@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# mySociety: See how your MP voted on Europe
-
 Easy-read/ plain English Information about EU-UK matters by the not-for-profit social enterprise mySociety

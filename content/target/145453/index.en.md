@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Leighton Andrews (Labour Assembly Member for Rhondda)
-

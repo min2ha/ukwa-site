@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Crown Green Bowling Association
-

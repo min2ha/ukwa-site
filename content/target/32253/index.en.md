@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Scotland's War
-
 The Scotland's War Project has its origins in Edinburgh's War 1914-1919, a University of Edinburgh funded initiative which ran from 2008-20014. The content from Edinburgh's War has now been integrated into this website.

@@ -10,5 +10,3 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# South Wales Long Distance Walkers Association
-

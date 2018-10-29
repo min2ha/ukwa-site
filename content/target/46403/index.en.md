@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T11:00:00Z"
 }
 
-# Ynysowen Community Primary School
-
 Ynysowen Primary School is located in Aberfan.

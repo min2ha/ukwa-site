@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage says image of ‘half-black’ spokesman shows manifesto's diversity
-
 None

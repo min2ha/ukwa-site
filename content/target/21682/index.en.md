@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gavin Newlands for Paisley and Renfrewshire North
-
 Gavin Newlands, Scottish National Party (SNP) candidate for Paisley and Renfrewshire North in the 2015 UK General Election.

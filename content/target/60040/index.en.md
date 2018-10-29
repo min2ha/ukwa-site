@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Parliament View The Blog
-
 Political commentary with interest in social housing, transport matters & ending rough sleeping by a Labour Party member who would like the UK to stay in the EU.

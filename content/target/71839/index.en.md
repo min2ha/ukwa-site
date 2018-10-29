@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret’s, Rosyth Scottish Episcopal Church
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Rosyth, Fife.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lewisham and Greenwich NHS Trust
-
 None

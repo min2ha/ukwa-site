@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# People's Vote Campaign
-
 Campaign group calling for a referendum on the final Brexit deal negotiated by the government

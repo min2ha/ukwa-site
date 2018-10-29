@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Association of Nanny Agencies (ANAUK)
-
 Supporting families and childcare workers, we are the only UK not-for-profit trade association for nanny agencies who demonstrate the highest standards of care and professional excellence within the nanny industry.

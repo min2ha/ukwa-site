@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# It could have been me....
-
 This project involves and engages young people in heritage, and enhances appreciation and understanding of World War One particularly focussing on Glasgow communities.

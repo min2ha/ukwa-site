@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Panel Session – A digital Magna Carta and a state of exception
-

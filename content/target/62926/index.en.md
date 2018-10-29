@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# 6ed Llwybr | 6th Trail, Portmeirion
-
 "The 6th Trail is a 6km race route in the designated Conservation area, of the “Gwyllt” woods within the village of Portmeirion in the Snowdonia National Park. The race will be limited to a small number of athletes.

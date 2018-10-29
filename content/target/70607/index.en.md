@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Trades Union Congress (TUC): TUC London, East & South East Race Relations Committee in Association with Go London Tours: Piggeries to Potteries: Notting Hill
-
 The TUC section LESE Race Relations Committee organised a Black history walk on the 20th September 2018. 

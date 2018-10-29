@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Schoolma’am May has offered a gift to Sturgeon
-

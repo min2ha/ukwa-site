@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Ffotogallery: Kanu's Ghandi
-
 Kanu’s Gandhi is a exhibition of rare and intimate photographs of Mahatma Gandhi by his grandnephew and personal chronicler, Kanu Gandhi. It is part of India-Wales collaboration marking the 70thanniversary of Indian Independence and was held at Turner House Gallery, Penarth.

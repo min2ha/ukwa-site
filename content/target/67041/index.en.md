@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# SiarterIaithGymraeg (@Siarteriaith) Gwynedd 
-
 The Welsh Government  have introduced ‘Siarter Iaith Gymraeg/ Welsh Language Charter’ to further promote and develop the children’s use of Welsh in social activities beyond the classroom.  This is the twitter feed for ‘Siarter Iaith Gymraeg/ Welsh Language Charter’  Gymraeg Gwynedd, 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Online: EU Referendum
-
 Collection of articles relating to the EU Referendum

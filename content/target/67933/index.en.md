@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Brewed in Scotland
-
 Site of an informal directory of breweries and brewers lacated in Scotland (created by a real ale enthusiast). 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum debate dominated by 'white men in suits'
-
 Guardian, The

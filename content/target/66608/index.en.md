@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Viking International
-
 The website of Viking International, a company that provides access to the wholesale supply channel for tyres and tyre fitting equipment. Viking International is part of Axle Group Holdings Limited.

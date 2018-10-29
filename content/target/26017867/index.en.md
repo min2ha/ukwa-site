@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# DC's Improbable Science
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mary Wimbury on Facebook (Labour candidate for North Wales)
-
 Mary Wimbury is the Labour candidate for North Wales at the 2016 National Assembly Election 2016.

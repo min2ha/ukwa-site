@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband 'only fourth most influential person in Doncaster', local newspaper concludes
-
 None

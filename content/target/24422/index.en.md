@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Juncker blocks EU treaty negotiations until after 2019 
-
 None

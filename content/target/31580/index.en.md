@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Charlie Barber
-
 Charlie Barber is a Welsh composer. He covers a wide variety of musical genres: orchestral and chamber works, film, video, music-theatre and dance.

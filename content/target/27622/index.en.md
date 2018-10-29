@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Natalie Bennett: I am being 'demonised' because I am an immigrant says Green Party leader
-
 None

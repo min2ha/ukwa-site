@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Longton Rugby
-
 The official website of Longton Rugby Club.

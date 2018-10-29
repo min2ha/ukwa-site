@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Holmes Chapel Community website
-

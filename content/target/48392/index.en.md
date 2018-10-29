@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Jacob Whittaker
-
 Jacob Whittaker is an Installation, video and sound artist living and working in West Wales.

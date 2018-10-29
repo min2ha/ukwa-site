@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Obesity Observatory
-
 None

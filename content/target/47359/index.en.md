@@ -10,5 +10,3 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Cymunedau yn Gyntaf Môn | Community First Môn
-

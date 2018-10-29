@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK to be 'educated' about consequences, says Barnier
-
 The EU's Brexit negotiatorsaid he sees the process as an opportunity to "teach" the British people and others what leaving the single market means. Michel Barnier said: "There are extremely serious consequences of leaving the single market and it hasn't been explained to the British people."

@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Tori Brancher
-
 Originally from Oslo Norway, Toril Brancher (b.1955) lives and works in South Wales. Toril’s work is in the collections of the V&A London and National Museum and Galleries of Wales Cardiff as well as private collections worldwide. Toril is also a tutor at Ffotogallery, Cardiff.

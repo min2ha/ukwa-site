@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems will have to rely on tactical voting to hold off SNP, says Ashdown
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Museum Crush
-
 Museum Crush is dedicated to sharing the many curious and compelling objects found in museum collections.

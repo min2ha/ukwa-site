@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Islamic Relief
-
 Islamic Relief is an independent humanitarian and development organisation with a presence in over 40 countries around the globe. We have been fighting poverty and injustice for 30 years, in a world in which over three billion people still live in poverty. 

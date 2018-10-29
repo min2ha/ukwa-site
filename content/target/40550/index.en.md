@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Deepings Roll of Honour, The 
-
 Project to commemorate the contribution made by the people of the Deepings to the First World War.

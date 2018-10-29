@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# LeoTel Software Systems Limited
-

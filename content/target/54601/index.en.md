@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Centre for Policy Studies: A pensions and savings manifesto
-
 Michael Johnson outlines some pensions- and savings-related policy proposals for political parties to consider for their 2017 General Election manifestos. The policy proposals embrace the pursuit of simplification, transparency, and fairness, both intra- and inter-generational.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Pensions' World: FTSE350 pension liabilities reach a record £747bn high amid Brexit uncertainty
-

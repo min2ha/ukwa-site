@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dhan Dhan Baba Deep Singh Ji Shaheed Gurudwara
-
 Site of the Sikh community in Aberdeen and the North East of Scotland.

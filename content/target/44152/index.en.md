@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Tartan Kicks: The Magazine For Scottish Women's Football
-

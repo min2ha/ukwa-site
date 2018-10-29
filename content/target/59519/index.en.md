@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Y Dref Werdd
-
 Y Dref Werdd is a social enterprise funded by the Lottery working to benefit the local environment and community in the Vale of Ffestiniog.

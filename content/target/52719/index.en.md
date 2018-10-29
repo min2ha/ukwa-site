@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: May says Juncker row claim is 'Brussels gossip' 
-
 Theresa May dismissed as "Brussels gossip" an account of a fractious dinner with EC President Jean-Claude Juncker, published in a German newspaper

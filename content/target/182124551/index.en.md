@@ -10,5 +10,3 @@
   "start_date": "2013-07-29T00:00:00Z"
 }
 
-# St Mary's Brecon
-

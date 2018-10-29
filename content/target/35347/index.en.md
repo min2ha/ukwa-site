@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gren Ham (@GrenvilleHam) on Twitter 
-
 Grenville Ham is the Green candidate for Brecon & Radnor at the 2016 National Assembly for Wales election and Ceredigion at the 2017 General Election.

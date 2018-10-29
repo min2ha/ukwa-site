@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Frances Perraudin (fperraudin) on Twitter
-

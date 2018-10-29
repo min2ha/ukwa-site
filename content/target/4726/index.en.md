@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Alastair Campbell: Memories of Mandela: uniquely inspiring, a good man responsible for great things
-
 Posted on 6 December, a tribute and personal memories of Nelson Mandela.

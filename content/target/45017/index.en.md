@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Rudy Loewe
-
 Personal site of artist and zinester Rudy Loewe: Rudy Loewe’s practice includes drawing comics, illustrations, zines and prints. These mediums are befitting to their work as they allow for greater visibility to a wider audience.  

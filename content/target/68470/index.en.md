@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Church of the Sacred Heart, Edinburgh
-
 Site of a Roman Catholic parish church in Scotland, located at Lauristion Street, Edinburgh.

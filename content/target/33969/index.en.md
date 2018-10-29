@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo Nubian Goat Society, The
-
 The Anglo Nubian Goat Society is a not for profit organisation dedicated to the promotion and welfare of Anglo Nubian goats.

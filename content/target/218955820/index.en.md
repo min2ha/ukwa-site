@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Bobath Children's Therapy Centre Wales
-
 Bobath Children’s Therapy Centre Wales provides specialist physiotherapy, occupational therapy and speech and language therapy to children all over Wales.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wild About Gairloch
-
 Site of a festival of wild life in the Gairloch area of Wester Ross, Highland, Scotland.

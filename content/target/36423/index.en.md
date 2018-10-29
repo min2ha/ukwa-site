@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) (@thesnp) • Instagram photos and video
-

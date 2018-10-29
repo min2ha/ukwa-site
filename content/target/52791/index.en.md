@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Headteachers' Roundtable: HTRT Doorstep Manifesto for General Election 2017
-
 HTRT believes sufficient school funding, the supply of enough great teachers and maintaining school buildings to a high standard must be the direct responsibility of any elected Government.  The Secretary of State for Education should be held accountable for these three key areas.

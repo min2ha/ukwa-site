@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hayle and the Great War
-
 A year long project looking at Hayle during the war and it’s after effects on the town.

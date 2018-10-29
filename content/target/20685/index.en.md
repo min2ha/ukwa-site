@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derek Wann (@wannforangus) on Twitter
-
 The twitter profile of Derek Wann, Conservative Parliamentary Candidate for Angus in the 2015 General Election.

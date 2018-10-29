@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Luke's Broughty Ferry
-
 Site of a Church of Scotland parish church at Broughty Ferry, Dundee.

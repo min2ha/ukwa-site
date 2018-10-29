@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sussex Cancer Network 
-
 None

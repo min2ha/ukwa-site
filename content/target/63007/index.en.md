@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chirk AAA Football Club 
-

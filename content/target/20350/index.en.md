@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dulwich and West Norward UKIP Action Group on Facebook
-

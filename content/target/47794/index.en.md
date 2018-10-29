@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Wales Council for Voluntary Action (WCVA): The EU referendum and the third sector in Wales
-

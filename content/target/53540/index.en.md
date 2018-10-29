@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Colm Feeley (@Colm4Walton) on Twitter (Green Party  Politician)
-
 Colm Feeley stood as Green Party candidate for Liverpool, Walton in the General Election 2017 but was not elected.

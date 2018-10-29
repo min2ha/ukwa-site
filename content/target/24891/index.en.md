@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mark Carlton Reeve on Facebook, Independent candidate for Sheffield Hallam
-
 None

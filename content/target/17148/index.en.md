@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Rosie Millard: If I were Prime Minister: I would halt the charitable status enjoyed by private schools
-

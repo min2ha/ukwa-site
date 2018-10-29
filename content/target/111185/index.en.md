@@ -10,5 +10,3 @@
   "start_date": "2005-07-18T00:00:00Z"
 }
 
-# Health Food Manufacturers Association
-

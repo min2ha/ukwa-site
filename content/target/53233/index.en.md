@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Progressive Pulse
-
 Progressive Pulse is a centre left blog and are not affiliated to any political party but are willing to support like minded people in the Green, Labour, Lib Dem, Plaid Cymru and SNP parties, and even some on the left of the Tory party.

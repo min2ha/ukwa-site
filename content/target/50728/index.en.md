@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# The Fox Fanzine Blog
-
 Blog of the long running Leicester City Football Club fanzine, The Fox, including archive.

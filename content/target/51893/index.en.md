@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Abbotsford Church 
-
 Abbotsford Church of Scotland, located in Clydebank in Glasgow, Scotland. 

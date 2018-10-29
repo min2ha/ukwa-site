@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Sevenoaks District Council
-
 The website of Sevenoaks District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

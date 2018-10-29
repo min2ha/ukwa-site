@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Unity in the UK
-
 Unity is an open minded, accepting spiritual community that honours all paths to God and can help you discover and connect with the Divine in you.

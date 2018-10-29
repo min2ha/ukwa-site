@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dundee Liberal Democrats
-
 Website of the Dundee Liberal Democrats.

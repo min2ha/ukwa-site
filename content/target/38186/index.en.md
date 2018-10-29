@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# AfricansForBritain (@Africa4Britain) on Twitter
-
 Non partisan platform bringing British citizens of African/Caribbean origin backing #Voteleave 

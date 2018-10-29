@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The EU has its flaws – but calling it anti-democratic is falsifying reality 
-
 Guardian, The

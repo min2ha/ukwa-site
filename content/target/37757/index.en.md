@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Migration Pulse: Death of a citizen: Britain’s referendum and EU nationals living in the UK
-
 With the exception of individuals from Ireland, Malta and Cyprus, non-British EU nationals living in the UK will not be able to vote in the country’s referendum on EU membership. These eligibility rules are similar to the rules applying to the 2015 UK general election. Veerle Heyvaert writes that although it would have been counter-productive for the ‘remain’ campaign to have relied on the support of foreign citizens in the referendum, more attention should nevertheless be paid to the potential impact of a ‘leave’ vote on those EU nationals currently residing in the UK.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Meetings in the Hertford and Hitchin Area
-

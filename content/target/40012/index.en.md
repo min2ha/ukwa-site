@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Great Yarmouth Borough Council
-
 Website provides access to information on Great Yarmouth Borough Council's services and activities, local news, consultations, policy and strategy documents, and committee papers and minutes

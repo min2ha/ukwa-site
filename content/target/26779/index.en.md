@@ -10,5 +10,3 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Friends of Newport Museum and Art Gallery (FoNMAG)
-

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Men's Project, The
-
 This site is one of the ways in which The Men's Project (an initiative within the Parents Advice Centre, Northern Ireland) is seeking to meet its aim of tackling the issues facing local men and boys.

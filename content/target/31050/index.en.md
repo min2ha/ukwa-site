@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Oban Gaelic Choir (@obangaelicchoir) on Twitter
-

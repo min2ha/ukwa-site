@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage to join Sarah Palin at CPAC conference for US conservatives
-
 None

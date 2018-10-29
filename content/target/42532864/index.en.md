@@ -10,5 +10,3 @@
   "start_date": "2010-04-19T00:00:00Z"
 }
 
-# Cyngor Tref Llanelli Town Council
-

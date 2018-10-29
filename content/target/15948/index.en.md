@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Audit Scotland
-
 Audit Scotland carries out audits for the Auditor General and the Accounts Commission.

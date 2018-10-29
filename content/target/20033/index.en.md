@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anthony Slaughter on Facebook
-
 Green Party candidate for Cardiff South and Penarth.

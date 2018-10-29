@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Office of Rail and Road (formerly Office of Rail Regulation)
-
 The Office of Rail and Road is the independent safety and economic regulator for Britain's railways and monitor of Highways England.

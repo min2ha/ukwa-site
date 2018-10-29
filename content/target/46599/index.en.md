@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Colmcille
-
 Partnership programme between the Gaelic bodies of Scotland and Ireland

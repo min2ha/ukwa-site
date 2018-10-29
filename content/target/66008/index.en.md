@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Good Counsel Network (@GoodCounselNet) on Twitter
-
 The Good Counsel Network is a Catholic pro-life group based in London.

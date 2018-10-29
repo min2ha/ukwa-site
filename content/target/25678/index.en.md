@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: PM does not rule out more tax credit cuts after Labour claim of 'secret plan'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Poetry of Robert Gurney, The
-
 Robert Gurney is former Honorary Lecturer, University of Swansea, 2002-2010 and is a contemporary English poet.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# TWT Logistics
-
 From its inception in the late 1980s, TWT Logistics Group developed a reputation for handling time-critical consignments in the print industry. Supplier of Transport, Logistics and warehousing services delivering cost effective solutions for consignments from a single item to multiple loads.

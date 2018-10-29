@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George North
-
 George North is Welsh Rugby Union Player.

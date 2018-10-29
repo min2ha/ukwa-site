@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amy Roberts (AmyRoberts94) on Twitter
-
 The twitter profile of cyclist Amy Roberts, member of Team Wales for the Glasgow 2014 Commonwealth Games.

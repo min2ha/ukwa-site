@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Bill Kidd MSP for Glasgow Anniesland
-
 The website of Bill Kidd, the Scottish National Party Member of the Scottish Parliament for Glasgow Anniesland.

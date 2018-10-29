@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# German Embassy London (@GermanEmbassy) on Twitter
-
 An account run by the German Embassy press team. 

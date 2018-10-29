@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Inveraray Castle
-
 Site of Inverary Castle and Argyll Estates, the stately home of the Dukes of Argyll, providing information on the castle, grounds and estate, and events taking place there.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Stride Treglown
-
 Stride Treglown is an employee-owned architecture company registered in Cardiff.

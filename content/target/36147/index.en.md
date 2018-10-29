@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Basia Mindewicz
-
 Basia Mindewicz is an icon painter and tutor of iconography in Poland and UK.

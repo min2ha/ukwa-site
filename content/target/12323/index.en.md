@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Friends of the Union (friendsofunion) on Twitter
-
 <p>The twitter profile of Conservative Friends of the Union.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mobile Telecommunications and Health Research
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Spoc's View | The world as seen by one Scottish loser
-
 Sean O'Connor is the RISE: Scotland's left Alliance list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

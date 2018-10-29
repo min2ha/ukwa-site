@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Alba Orbital Limited
-
 Site of a company based in Glasgow, who build and launch PocketQube satellites / picosat satellites.

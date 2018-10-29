@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Liverpool Geological Society
-
 Society was formulated "to investigate the structure of the Earth, the character of its past inhabitants, and the changes now in progress upon its surface".

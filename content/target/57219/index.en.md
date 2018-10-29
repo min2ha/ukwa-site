@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Geoff Wedge Photographer
-
 Geoff Wedge is an independent Documentary Photographer who teaches at Llandrillo College and has exhibited at the Eye Festival at the National Library of Wales.

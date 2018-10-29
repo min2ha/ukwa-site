@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The campaign for a second referendum isn’t really a campaign for a second referendum
-
 Argues that the campaign for a second referendum is in reality a campaign to stop Brexit.

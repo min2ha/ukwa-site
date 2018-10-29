@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UK Government: Shared Parental Leave and Pay: Employer Guide
-
 UK government issued employer guide with information regarding parental leave and pay of the employee.

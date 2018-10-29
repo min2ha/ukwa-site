@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Urgent Health UK 
-
 We operate as a federation of social enterprise healthcare providers enabling members to benefit by working together and effectively being part of a much larger organisation.

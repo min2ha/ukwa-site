@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Riding FA
-
 Founded in 1881, The North Riding Football Association is the governing body for soccer in the county of Riding.

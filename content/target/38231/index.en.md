@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Influence (@britinfluence) on Twitter
-
 Think tank that advocates a more active role for Britain in Europe and in the world.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# World Land Trust
-
 None

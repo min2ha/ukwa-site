@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# Newbattle Abbey College
-
 Site of an adult education residential college offerin adults with few or no qualifications the opportunity to experience a high quality transformative learning experience, and located at Dalkeith, Midlothian, Scotland.

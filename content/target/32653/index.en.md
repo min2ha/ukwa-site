@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Docklands Light Railway (DLR) - Development Projects
-
 Sub-pages of the Transport for London website relating to the DLR development projects.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Inverleith Pétanque Club
-
 Site of a pétanque club based in Edinburgh, playing a form of bowls.

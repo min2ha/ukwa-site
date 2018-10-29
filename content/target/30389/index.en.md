@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Auld Reekie Roller Girls (ARRG)
-
 The site of Auld Reekie Roller Girls, the first Women’s Flat Track Derby Association (WFTDA) member in Scotland. 

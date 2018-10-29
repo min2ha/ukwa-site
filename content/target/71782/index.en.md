@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Donnan's Church, Nostie on Facebook
-
 Facebook page of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Nostie, Highland.

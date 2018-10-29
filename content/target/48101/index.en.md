@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sir Tim Barrow: UK's new ambassador to EU 'tough negotiator'
-
 Sir Tim Barrow takes on the role of UK ambassador to the EU with discussions about Brexit expected to start soon and promised to work for the "right outcome". He replaces Sir Ivan Rogers, who quit accusing ministers of "muddled thinking".

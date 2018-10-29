@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Phil Eckersley (@phileckersley) on Twitter (UKIP Politician)
-
 Phil Eckersley stood as UK Independence Party (UKIP) candidate for  Manchester, Gorton in the 2017 General Election but was not elected.

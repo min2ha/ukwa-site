@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Five things we learned about Ukip and Nigel Farage today 07 Apr 2015
-

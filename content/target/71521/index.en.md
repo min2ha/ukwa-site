@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Deer Shed Festival
-
 Family friendly music, arts and science festival

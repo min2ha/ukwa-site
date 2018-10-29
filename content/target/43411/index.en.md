@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Environmental Investigation Agency (EIA)
-
 The Environmental Investigation Agency (EIA) is an independent campaigning organisation committed to bringing about change that protects the natural world from environmental crime and abuse.

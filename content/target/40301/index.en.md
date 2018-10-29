@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hamilton Academical Football Club
-
 Site of a senior Scottish professional football club based in Hamilton, Lanarkshhire, Scotland.

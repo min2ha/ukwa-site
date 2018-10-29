@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# World Pipe Championship
-
 Site of an international competition (World Championship) for pipe bands and taking place annually in Glasgow, Scotland.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Barnsley Art On Your Doorstep
-

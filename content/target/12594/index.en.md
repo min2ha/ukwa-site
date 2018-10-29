@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Drew Smith (DrewSm1th) on Twitter
-
 <p>The twitter profile of Drew Smith, Scottish Labour Member of the Scottish Parliment for Glasgow.</p>

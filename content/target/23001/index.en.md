@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Captain Beany (@CaptainBeany) on Twitter (Independent candidate for Aberavon)
-

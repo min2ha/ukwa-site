@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Bo'ness and Kinneil Railway
-
 Website of a museum and working preserved railway in Bo'ness, West Lothian, Scotland.

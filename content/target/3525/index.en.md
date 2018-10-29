@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Hendon and Finchley Press
-
 None

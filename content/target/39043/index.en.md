@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour Press: Jeremy Corbyn, Leader of the Labour Party: Speech to Senate House
-
 Jeremy Corbyn, Leader of the Labour Party, makes the case for the UK remaining in the European Union.

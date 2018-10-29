@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Glamorgan Rarities Committee
-
 This blog provides details on Glamorgan’s scarcer birds.

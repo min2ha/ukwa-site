@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Speak Up for Libraries: General Election 2015 Manifesto
-
 Speak Up For Libraries is a coalition of organisations working to protect library services and staff, now and in the future.

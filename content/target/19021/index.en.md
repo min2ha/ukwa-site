@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Magna Carta discovered in Kent: Pictures revealed of historic 1300 document found in Maidstone
-

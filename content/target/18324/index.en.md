@@ -10,6 +10,4 @@
   "start_date": "2015-03-20T09:00:00Z"
 }
 
-# Shape Your Place
-
 Shape Your Place is a set of online community information and engagement run by the Cambridgeshire County Council.

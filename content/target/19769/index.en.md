@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Camden Green Party (@camdengp) on Twitter
-

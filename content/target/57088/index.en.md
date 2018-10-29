@@ -10,6 +10,4 @@
   "start_date": "2017-09-09T09:00:00Z"
 }
 
-# Andrew Cooper
-
 Andrew Cooper is a Multi media artist based in Cardiff.

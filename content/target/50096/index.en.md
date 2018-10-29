@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kelty Hearts Junior Football Club
-
 Site for a Scottish junior football club based in Kelty, Fife.

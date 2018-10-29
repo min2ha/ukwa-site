@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: SNP wins 56 of 59 seats in Scots landslide
-
 None

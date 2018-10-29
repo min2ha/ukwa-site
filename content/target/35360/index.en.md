@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Europeans overwhelmingly want Britain to stay in the EU, continent-wide poll finds
-

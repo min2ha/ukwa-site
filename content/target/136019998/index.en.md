@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Strategic Health Authority
-
 None

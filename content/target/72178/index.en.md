@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Swansea University: PATROLS Physiologically Anchored Tools for Realistic nanOmateriaL hazard aSsessment
-
 PATROLS (Physiologically Anchored Tools for Realistic nanOmateriaL hazard aSsessment) is based at Swansea University and is an international project combining a team of academics, industrial scientists, government officials and risk assessors to deliver advanced and realistic tools and methods for nanomaterial safety assessment.

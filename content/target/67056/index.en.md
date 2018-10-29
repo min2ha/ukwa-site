@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit trade proposals will not be published until after EU summit
-
 Theresa May announced that detailed plans on the UK's post-Brexit future would not be published until after the June 2018 EU summit.
 

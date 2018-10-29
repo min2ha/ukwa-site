@@ -10,6 +10,4 @@
   "start_date": "2014-06-20T02:15:00Z"
 }
 
-# Convention of Scottish Local Authorities: Strategic Migration Partnership
-
 None

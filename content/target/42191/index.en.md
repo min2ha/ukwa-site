@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kathryn & Nick.  London writing team - unsuccessful since 2007
-
 Website of writers who edit Searchlight Magazine Arts, with some content from the magazine, and additional content - "co-written fun songs, fictional articles, op-ed and other nonsense, which tackle some of the things we feel strongly about." 

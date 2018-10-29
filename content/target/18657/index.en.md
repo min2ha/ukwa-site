@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Hampshire man's 1,100-mile Magna Carta bike ride
-
 A cyclist has completed a 1,100-mile journey which connects cathedrals, churches, towns and villages associated with the sealing of Magna Carta.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Town and Country Broadcasting
-
 Town and Country Broadcasting operates six local radio stations and one regional station in South and West Wales. Radio stations managed include Radio Ceredigion,  	Radio Pembrokeshire, Radio Carmarthenshire, Scarlet FM, Nation Hits, Bridge FM and Nation Radio Wales.

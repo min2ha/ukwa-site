@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election night guide: the vital signs to look out for as the counts roll in
-
 None

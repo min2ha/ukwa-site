@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Open Preservation Foundation
-
 The Open Preservation Foundation sustains technology and knowledge for the long-term management of digital cultural heritage. It provides solutions to the challenges of digital preservation. 

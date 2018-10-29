@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Renfrew Football Club
-
 Site for a Scottish junior football club based in Renfrew, Renfrewshire.

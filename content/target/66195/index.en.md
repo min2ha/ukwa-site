@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Creation Fest
-
 music festival with faith talks and family friendly events

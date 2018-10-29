@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Eich llais yn y Cynulliad | Your voice in the Assembly
-
 This is a Welsh Conservative platform for debate in Wales and the Welsh Assembly.

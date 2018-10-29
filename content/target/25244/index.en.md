@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now Labour recruits doctors for new war on the NHS with letter claiming hospitals will not be safe if Cameron wins
-
 None

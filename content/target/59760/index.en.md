@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Internet Institute: Is internet gaming as addictive as gambling? (no, suggests a new study)
-
 Blog regarding a joint research paper into internet gaming addiction. Research by Andrew Przybylski (OII, Oxford University), Netta Weinstein (Cardiff University), and Kou Murayama (Reading University).

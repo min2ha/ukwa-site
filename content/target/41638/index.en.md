@@ -10,5 +10,3 @@
   "start_date": "2016-05-25T11:00:00Z"
 }
 
-# Llandow Community Council
-

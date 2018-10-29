@@ -10,6 +10,4 @@
   "start_date": "2016-08-06T10:00:00Z"
 }
 
-# Valerie-Anne Baglietto
-
 Valerie-Anne Baglietto books are set in Flintshire. Although born in Gibraltar, and has lived in Britain since the age of three. She is listed in Welsh Literature's 'Writers of Wales Database'.

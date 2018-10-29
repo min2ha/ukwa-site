@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Great North of Scotland Railway Association
-
 Site of an association established to research the stations, lines, history and artefacts of the former railway in the North East of Scotland, the Great North of Scotland Railway.

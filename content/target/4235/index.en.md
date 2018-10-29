@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Five Million Questions (University of Dundee)
-
 None

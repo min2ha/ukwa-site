@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dems sink to worst poll rating for 25 years
-
 None

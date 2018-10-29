@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Analytix 
-
 Analytix Ltd supplies sample preparation and analytical instrumentation for the chemical and life science markets. Products include pyrolysis systems, nitric oxide analysers, microwave digestion and synthesis systems, mercury analysers, supercritical fluid extraction systems, micro GC gas analysers, and Labtech general laboratory apparatus.

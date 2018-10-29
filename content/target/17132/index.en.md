@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General election 2015 key dates: 13 days for your calendar ahead of the big event in May
-

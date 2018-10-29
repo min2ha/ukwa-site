@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Bronwyn Williams-Ellis – Ceramic Artist
-
 Bronwyn Williams-Ellis is a Ceramic Artist nopw based in Bath. She is also an an elected member of the Royal Cambrian Academy of Art (RCA).

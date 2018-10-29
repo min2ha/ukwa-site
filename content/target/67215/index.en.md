@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Williams Bros. Brewing Co
-
 Website of a brewer, their beers and their brewery.

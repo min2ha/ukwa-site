@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Nice-Pak
-
 Nice-Pak is an innovative wet wipe manufacturer based in Flint. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

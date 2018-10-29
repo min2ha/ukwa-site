@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Expats blog: EU Brexit fears stalk UK expat communities
-
 Fears of a massive shake-up for expat Brits in the EU’s favourite destinations are dominating discussions about the political and personal ramifications of a Brexit ‘yes’ vote.

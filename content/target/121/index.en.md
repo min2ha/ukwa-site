@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gloucestershire Hospitals
-
 None

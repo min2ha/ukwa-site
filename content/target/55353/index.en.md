@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Scifi Wales
-
 Scifi Wales is North Wales' premier science fiction event, held each year in Llandudno.

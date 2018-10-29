@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# St James War Memorial Project, The
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Browns, Laugharne
-
 Browns is a pub in Laugharne associated with the writer Dylan Thomas.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK residents have until midnight on Monday to register to vote
-
 None

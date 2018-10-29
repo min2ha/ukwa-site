@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Carreghofa | Carreghofa Community Council
-
 Provide more detailed information on what your Council is dealing with.

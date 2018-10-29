@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: John Major: Voting to leave will poison Europe and divide West
-

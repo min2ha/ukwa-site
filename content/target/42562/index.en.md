@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Prima
-
 A magazine set up in 1986 featuring articles on well being, recipes, fashion, beauty, recipes, crafts & real life stories.

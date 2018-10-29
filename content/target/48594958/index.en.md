@@ -10,5 +10,3 @@
   "start_date": "2010-05-14T00:00:00Z"
 }
 
-# Cyngor Tref Llanbedr Pont Steffan | Lampeter Town Council
-

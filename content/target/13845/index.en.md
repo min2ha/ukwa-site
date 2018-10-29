@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Government (ScotTecStrategy) on Twitter
-
 The twitter profile of Scottish Government'sTechnologies for Learning Strategy for Scotland Consultation.

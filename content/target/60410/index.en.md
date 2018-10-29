@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Scottish Motor Racing Club
-
 Site of a motor racing club based in Scotland.

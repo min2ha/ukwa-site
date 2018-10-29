@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael McCann
-
 Michael McCann was Labour candidate for East Kilbride, Strathaven and Lesmahagow, 2010-2015.

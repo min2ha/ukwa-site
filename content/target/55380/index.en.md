@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Eluned Gramich
-
 Eluned Gramich is a Welsh-German writer and translator. She was short listed for the Wales Book of the Year 2016.

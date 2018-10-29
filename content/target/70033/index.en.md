@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mature Times
-
 The UK’s only free, campaigning newspaper for the older generation.

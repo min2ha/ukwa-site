@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Julian Huppert (Liberal Democrats candidate for Cambridge)
-
 Julian Huppert stood as Liberal Democrats candidate for Cambridge at the 2015 General Election but was not elected. 

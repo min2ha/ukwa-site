@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Buzz Magazine
-
 WordPress site of a cultural and arts magazine based in and focusing on Edinburgh, and produced by post-graduate publishing students from Edinburgh Napier University.

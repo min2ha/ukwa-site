@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dunoon Film Festival
-
 Site of an annual film festival stages in Dunoon, Argyll & Bute.

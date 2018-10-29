@@ -10,6 +10,4 @@
   "start_date": "2015-06-03T08:00:00Z"
 }
 
-# Nil by Mouth
-
 Nil by Mouth is a charity which works to challenge sectarianism in Scotland.

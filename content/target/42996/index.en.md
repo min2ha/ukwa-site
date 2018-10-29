@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Gôl!
-
 Gôl was a charity was established in 2002 by Welsh football supporters who were travelling to Azerbaijan. The aim was to raise money to help those in need in the countires they were visiting as Welsh football fans.

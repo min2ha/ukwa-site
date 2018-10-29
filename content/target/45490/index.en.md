@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T11:00:00Z"
 }
 
-# Nigel Crowle
-
 Nigel Crowle is an UK-based writer for stage, screen, print and TV. 

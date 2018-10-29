@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Conversation, The: From fascism to parking tickets – some odd Magna Carta moments
-

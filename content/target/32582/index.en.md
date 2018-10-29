@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Manchester Fly Facility, University of Manchester
-
 Manchester Fly Facility supports scientific research using the genetic invertebrate model organisms Drosophila melanogaster, also known as fruit fly or vinegar fly.

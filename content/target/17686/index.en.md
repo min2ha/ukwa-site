@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Meet the Ukippers: beware people who own porcelain clowns 
-
 None

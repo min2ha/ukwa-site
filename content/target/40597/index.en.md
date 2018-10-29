@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Yes, David Cameron is scaremongering about war after Brexit – but that doesn't mean he's wrong
-

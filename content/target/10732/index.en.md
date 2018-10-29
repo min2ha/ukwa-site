@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ian Hudghton, Scottish National Party 
-
 None

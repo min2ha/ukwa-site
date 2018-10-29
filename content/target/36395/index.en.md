@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: What a FARCE these negotiations have been, says STEPHEN POLLARD
-
 Comment by Stephen Pollard

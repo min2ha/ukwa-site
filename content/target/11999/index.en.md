@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Can Nick Clegg survive another meltdown for the Lib Dems?
-
 None

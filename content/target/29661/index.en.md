@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sevenoaks Literary Celebration
-
 Festival organised by the Sevenoaks Community Arts & Theatre

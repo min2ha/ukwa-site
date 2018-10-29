@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Banchory Community Website
-

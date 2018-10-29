@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Who wins from inheritance tax giveaway?
-
 None

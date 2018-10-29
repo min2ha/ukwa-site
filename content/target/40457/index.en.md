@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Partick Thistle Football Club
-
 Site of a senior Scottish professional football club based in Glasgow.

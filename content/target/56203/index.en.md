@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Rhys Owain Williams
-
 Rhys Owain Williams is a writer of poetry, fiction and non-fiction from Swansea. 

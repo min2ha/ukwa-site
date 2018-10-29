@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Workers face £10BILLION in tax hikes to pay for £25bn boost for the NHS: PM says health service needs more than a 'sticking plaster' but admits 'Brexit dividend' won't cover the bill
-

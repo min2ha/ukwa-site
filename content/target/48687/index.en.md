@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Supreme Court, The: Judgment: R (on the application of Miller and another) (Respondents) v Secretary of State for Exiting the European Union (Appellant)
-
 The Supreme Court ruled that Parliament must vote on whether the government can start the Brexit process. However, it also decided that the Scottish Parliament and Welsh and Northern Ireland Assemblies did not need a say. 

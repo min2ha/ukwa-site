@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit rebellion avoided after 'meaningful vote' offer
-
 The government saw off an attempt to add conditions to its Brexit bill as a Conservative rebellion was avoided. MPs rejected a bid by Labour's Chris Leslie to force the government to consult Parliament on the deal struck with the EU before it is finalised. It came after ministers pledged that a "meaningful" vote would be offered.

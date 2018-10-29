@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnet London Borough: The Network
-
 Website advertising The Network a service offered by the London borough of Barnet that provides short-term support to people with mental health problems in Barnet, providing the opportunity to gain/regain skills and confidence to enable individuals to participate fully in the community.

@@ -10,5 +10,3 @@
   "start_date": "2011-05-06T00:00:00Z"
 }
 
-# Brain Bank for Autism & Related Developmental Research
-

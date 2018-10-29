@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Cheek by Jowl
-
 Cheek by Jowl is an international theatre company founded in the United Kingdom by director Declan Donnellan and designer Nick Ormerod in 1981. 

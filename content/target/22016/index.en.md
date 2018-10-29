@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Roger Godsiff on Facebook (Labour candidate for Birmingham Hall Green)
-

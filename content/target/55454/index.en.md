@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Painters Online Forum
-
 An online enthusiast forum concerned with art. Discusses techniques for drawing, water colour painting, acrylic and oil painting, pastels and various other topics. Is linked with the 'The Artist' and 'Leisure Painter' magazines.

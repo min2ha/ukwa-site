@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Bleddfa Centre for the Creative Spirit, The
-
 The Bleddfa Centre for the Creative Spirit was founded in 1974 bu James Roose-Evans in Knighton, mid-Wales and aims to provide ‘a Centre for those exploring the relationship between creativity and spirituality and how the two can lead to a richer and fuller life for each of us'.

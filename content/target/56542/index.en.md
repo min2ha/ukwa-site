@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jewish Historical Society of England
-
 The Society, based in London, has active branches in a number of centres and meets regularly with lectures on a wide range of subjects relating to Anglo-Jewish history

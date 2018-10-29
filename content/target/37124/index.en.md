@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: David Cameron: EU referendum is the 'people's choice'
-
 David Cameron says that it is down to the British people as to whether they leave the EU or not. He says that it is the people choice but emphasizes the advantages of remaining within the EU. 

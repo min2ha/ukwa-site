@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swansea Rugby Club (@swansearfc) on Twitter
-
 Swansea Rugby Club’s history is renowned the World over for its many achievements.Formed in 1872, 1st Club side to beat the All Blacks. 

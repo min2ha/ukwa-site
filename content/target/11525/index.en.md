@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Badminton Wales
-
 None

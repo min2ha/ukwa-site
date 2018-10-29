@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Muslim Council of Scotland
-
 The Muslim Council of Scotland (MCS) is an umbrella organisation of Islamic organisations in Scotland. Founded in 2007, the registered charity is based in Glasgow. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Just Giving: Weʼre raising £5,000 to Fund Bill Etheridge's Campaign to get elected in Dudley North #GE17
-
 A crowdfunding campaign to support UKIP's Bill Etheridge's Campaign to get elected in Dudley North in the 2017 General Election.

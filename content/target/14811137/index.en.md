@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Nostalgie Ya Mboka
-
 None

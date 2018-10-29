@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watford Rugby Club (@WatfordRFC) on Twitter
-
 Watford Rugby Club are located at Knustford Playing Fields in Watford.

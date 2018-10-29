@@ -10,6 +10,4 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Peter Prendergast
-
 Peter Prendergast (1946 – 2007) was a Welsh landscape painter. 

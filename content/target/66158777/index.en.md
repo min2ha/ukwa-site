@@ -10,5 +10,3 @@
   "start_date": "2012-09-07T00:00:00Z"
 }
 
-# Course Data Stage 2 Loughborough College
-

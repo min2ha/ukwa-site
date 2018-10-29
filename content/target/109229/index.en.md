@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# just-drinks
-
 None

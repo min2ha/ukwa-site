@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Northern Ireland War Memorial, The
-
 Site of a war memorial for the people of Northern Ireland, with a museum of the experiences of the people of the province during World War I and World War II.

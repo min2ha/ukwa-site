@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Find Me A Player (@findmeaplayer0) on Twitter
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sir Martin Sorrell warns of uncertainty over Tory policy on Europe
-

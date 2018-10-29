@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Wales Pen Cymru
-
 <p>'PEN promotes literature and defends freedom of expression. It campaigns on behalf of writers around the world who are persecuted, imprisoned, harassed and attacked for what they have written. It has committees representing writers in prison, translation and linguistic rights, women writers and a peace committee.' This is the body that represent Welsh writers.</p>

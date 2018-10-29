@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Thoroughbred Breeders’ Association, The (TBA)
-
 The TBA exists to support the breeding of quality bloodstock and is the only British association to represent breeders’ interests both within Great Britain and the European Commission.

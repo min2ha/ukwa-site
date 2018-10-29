@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Staffordshire Health and Wellbeing Board
-
 None

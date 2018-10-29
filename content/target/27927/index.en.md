@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T08:00:00Z"
 }
 
-# University of Lincoln
-
 Official website of the University of Lincoln.

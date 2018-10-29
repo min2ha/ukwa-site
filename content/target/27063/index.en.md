@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Giggle Beats - Comedy in the North
-
 Giggle Beats, a website for comedy in Yorkshire, the north west, and north east of England, with comedy news, reviews, features, videos and podcasts

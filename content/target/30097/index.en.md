@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Angel Comedy
-
 Wesbite for Angel Comedy in Camden.

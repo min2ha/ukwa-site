@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit court case: Who is Gina Miller?
-
 Gina Miller has been the lead claimant in the legal fight to get Parliament to vote on whether the UK can start the process of leaving the EU. Ms Miller, 51, is an investment manager and philanthropist who was born in Guyana but grew up in Britain.

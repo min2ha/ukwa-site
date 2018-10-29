@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Sorrows & St. Pius X
-
 Site of two Scottish Roman Catholic parish churches located in Fintry (Our Lady of Sorrows) and Douglas (St. Pius X), Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# UK Federation of Chinese Schools, The (UKFCS)
-
 The UK Federation of Chinese Schools (UKFCS), founded in July 1994, is a charity that aims to promote, through its member schools, Chinese language education and Chinese culture. Since its formation, its membership has continued to increase. Today it has about 80 member schools, representing over 10,000 pupils.

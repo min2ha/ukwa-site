@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Glenalmond Group Limited
-
 The website of Glenalmond Group Limited, a group of companies that provides clad piping and pipe fabrication for the oil industry. The company is based in Glasgow, Scotland. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Brockman (Martin_Brockman) on Twitter
-
 The twitter profile of decathlete Martin Brockman, member of Team England in the Glasgow 2014 Commonwealth Games.

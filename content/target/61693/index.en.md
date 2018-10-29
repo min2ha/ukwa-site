@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Writers of the World Unite
-
 Literary festival, London, Picadilly, April 2017. Writers of the World Unite brings the world to Waterstones Piccadilly. Over four days, we’ll talk Russian revolutionary poetry, debate identity politics in the age of globalisation, discover how Caribbean literature makes its own rules and look at the radical potential of graphic novels. 

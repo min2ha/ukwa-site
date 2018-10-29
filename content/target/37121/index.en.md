@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Economist, The: Let the campaigners begin
-

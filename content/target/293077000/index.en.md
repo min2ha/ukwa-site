@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Parliament: Voting in the general election 
-
 None

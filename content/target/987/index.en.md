@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of General Practitioners
-
 The RCGP is the professional membership body for family doctors in the UK and overseas. They are committed to improving patient care, clinical standards and GP training.

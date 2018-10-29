@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Labour and Tories launch their general election campaigns in Wales 
-

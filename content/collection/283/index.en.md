@@ -519,6 +519,4 @@
   "endDateText": "31-01-2014"
 }
 
-# UK response to Typhoon Haiyan (Philippines) 2013
-
 On the 8th November 2013 Typhoon Haiyan (also known as Yolanda), the strongest storm ever recorded at landfall, hit the Philippines, causing at least 6,200 fatalities. With more than 25,000 people injured, an estimated 4 million people homeless and the infrastructure of whole regions destroyed, the Philippines faced a humanitarian crisis. This collection captures internet sites with content about the UK response to Typhoon Haiyan, including news and commentary from national and regional news sites, information and appeals from charity and aid organisations’ websites, Government pages, community group websites and blogs from immediately after the typhoon in November 2013 until January 2014. The websites in this collection have been selected by staff at the Bodleian Libraries, Oxford to reflect the diversity of the UK’s humanitarian aid response to Typhoon Haiyan, but also the political response, and emerging debates such as climate change and its impact on severe weather events, or the structures and efficiency of foreign aid in general. 

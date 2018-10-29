@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# John O'Groats Brewery
-
 Site of a brewer located in John O'Groats, Caithness, Highland.

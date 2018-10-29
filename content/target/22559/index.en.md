@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Hunt promises to give 'respect' to teachers
-
 None

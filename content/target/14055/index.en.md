@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scottish Independence Referendum: Yes Scotland campaign broadcast 1 September
-
 <p>Yes Scotland campaign broadcast, first shown 1 September 2014, for the Scottish Independence Referendum.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Bluestone National Park Resort
-
 A resort in the middle of Pembrokeshire

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Charlotte Fairbanks (@lottifairbanks) on Twitter
-
 Twitter profile of Charlotte Fairbanks, Scottish Conservative and Unionist Party candidate for Glasgow Central in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Local Government Association (LGA): Chair's latest report – January 2015
-

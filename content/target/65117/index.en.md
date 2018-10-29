@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: QUENTIN LETTS: The Brexit 17.4million voted for is being mugged by the very people meant to implement it. When the masses lost faith in democracy, bad things happen   
-

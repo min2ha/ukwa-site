@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# International Alert
-
 International Alert was founded in 1986 to help people find peaceful solutions to conflict.

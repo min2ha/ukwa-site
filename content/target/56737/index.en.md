@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# HeartsMuseum (@HeartsMuseum) on Twitter
-
 Official twitter account of the Heart of Midlothian Museum. 

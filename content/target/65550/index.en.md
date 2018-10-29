@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Scottish Widows
-
 Scottish Widows is a life, pensions and investment company located in Edinburgh, Scotland. Founded in 1815, in 2000 Scottish Widows was demutualised and became part of the Lloyds TSB Marketing Group, and from 2009 it became part of Lloyds Banking Group.

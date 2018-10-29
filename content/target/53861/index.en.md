@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Corbyn Run 
-
 CorbynRun is a game for the people, by the people.

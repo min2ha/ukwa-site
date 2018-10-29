@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 20th November 2017: Duties of Customs
-
 The House of Commons debates legislation to allow a new customs regime to be in place by the time the UK leaves the EU and its customs union and, in doing so, allow the UK to respond to the outcome of the negotiations

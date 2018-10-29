@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CERT-UK - The UK National Computer Emergency Response Team
-
 CERT-UK is the UK National Computer Emergency Response Team, formed in March 2014 in response to the National Cyber Security Strategy. The National Cyber Security Strategy, published in 2011, sets out the importance of strengthening the UK’s response to cyber incidents.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Show Racism the Red Card Wales
-
 Show Racism the Red Card is the UK’s anti-racism educational charity.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Wales in Bloom
-
 Wales in Bloom is the regional element of the National Britain in Bloom Competition supported by the Royal Horticultural Society.

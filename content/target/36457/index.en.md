@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: BREXIT BOMBSHELL: Map shows how people will vote in EU poll and it's bad news for Cameron
-
 Article by Oli Smith

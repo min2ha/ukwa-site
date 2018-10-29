@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Royal Caledonian Curling Club, The
-

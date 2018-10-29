@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Will Brexit Bill face trouble in the Lords?
-
 It will be up to the government to decide whether to tweak the bill slightly as they did in the Commons or risk some defeats. Insiders predict it is likely the Lords may end up sending back the bill to the Commons once, as "ping pong" to force the government to make a change or two. But even senior Lib Dem sources don't expect hostile stand-offs for weeks on end.

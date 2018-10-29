@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southampton FC (@SouthamptonFC ) on Twitter
-
 Southampton Football Club's official Twitter account. Follow us for breaking news, in-game coverage and behind-the-scenes updates.

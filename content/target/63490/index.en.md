@@ -10,6 +10,4 @@
   "start_date": "2018-04-30T00:00:00Z"
 }
 
-# Retro Dundee
-
 Blog site focussing on events, life and activities in Dundee in the 1960s, 1970s and 1980s, through the personal recollections of the author [not named].

@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Red Book of Scotland
-
 Site of a project to collate and publish commercially online evidence-based genealogical resources relating to Scotland.

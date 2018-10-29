@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Rio 2016 on the BBC
-
 BBC press release of what coverage to expect during the Rio Olympics 2016.

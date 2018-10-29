@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Royal family won't get invite to Easter Rising centenary celebrations
-

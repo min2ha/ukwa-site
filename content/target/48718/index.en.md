@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Digital Entertainment Festival
-
 Site of a festival bringing together the worlds of arts, entertainment and technology – to showcase the digital entertainment provoke the conversation about digital entertainment's future.

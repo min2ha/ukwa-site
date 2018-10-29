@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# More to the Vale
-
 More to the Vale is a events listing site to the Vale of Glamorgan.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Christopher Tomson (@Chris4Witney) on Twitter  Independent candidate for Witney 
-

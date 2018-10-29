@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter’s Church, Carmarthen
-

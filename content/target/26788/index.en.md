@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Sierra Leone Ebola Deployment: Lab diagnostics and the public health implications of Ebola 
-
 Description of Seminar being held at Sheffield University on Ebola

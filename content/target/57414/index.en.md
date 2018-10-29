@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Gwasg Gwydyr | Gwydir Press 
-
 The Gwydir Press was established in 2012 to produce fine, limited edition books using traditional letterpress techniques. They are located within Gwydir Castle.

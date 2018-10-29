@@ -10,6 +10,4 @@
   "start_date": "2018-04-29T09:00:00Z"
 }
 
-# Chatsworth Road E5
-
 Local information and news for the Chatsworth Road area of Hackney, London.

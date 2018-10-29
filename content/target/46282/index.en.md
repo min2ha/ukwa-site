@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit drives change for disabled motorists
-
 As Theresa May’s new government gets to grips with Britain’s exit from the European Union, Helen Dolphin reports on how disabled motorists are likely to be affected.

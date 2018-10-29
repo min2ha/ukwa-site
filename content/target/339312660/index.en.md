@@ -10,6 +10,4 @@
   "start_date": "2015-10-30T00:00:00Z"
 }
 
-# Memoir of William Sutherland, great Highland dancer
-
 Memoir of William Sutherland and a history of relations between the Scottish Official Board of Highland Dancing and New Zealand Academy of Highland and National Dancing.

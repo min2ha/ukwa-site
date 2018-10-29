@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Ruth Rikowski News Updates Progression
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Portland Communications: Road to the Manifestos
-
 None

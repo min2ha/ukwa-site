@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# A Force for Good: The United Kingdom
-
 Website created by Alistair McConnachie to campaign in favour of a 'No' vote in the Scottish Independence Referendum. The website focuses on celebrating Scottish influence on UK culture and society, and contains regular blog posts and campaign graphics.

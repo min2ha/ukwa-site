@@ -10,6 +10,4 @@
   "start_date": "2015-11-23T09:00:00Z"
 }
 
-# Aureus Publishing
-
 Welsh based music publisher.

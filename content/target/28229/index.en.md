@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Guardian, The: Brian Logan
-
 Articles written by Brian Logan for The Guardian, of which he is comedy critic and art writer, mainly relating to comedy and stand-up comedy.

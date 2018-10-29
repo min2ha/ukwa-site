@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Another coalition might not be the worst result in the UK general election
-
 None

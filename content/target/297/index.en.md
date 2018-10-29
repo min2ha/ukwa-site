@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Northumberland CCG
-
 None

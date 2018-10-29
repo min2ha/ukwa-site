@@ -10,5 +10,3 @@
   "start_date": "2017-07-18T09:00:00Z"
 }
 
-#  North East Scotland Biodiversity Partnership
-

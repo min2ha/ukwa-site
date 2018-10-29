@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Royal Institution of South Wales, The
-
 Originally called the Swansea Philosophical & Literary Society, the RISW was founded in 1835 with the purpose of making Swansea a centre of culture and scientific research.

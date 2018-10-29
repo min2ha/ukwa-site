@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Mandelson urges Lords not to 'throw in towel'
-
 Former Labour minister Lord Mandelson urged peers not to "throw in the towel" when they debated legislation paving the way for Brexit. He said the Lords should amend the Brexit bill to protect the rights of EU citizens and to ensure a "meaningful" vote on the final deal before Britain leaves the EU. 

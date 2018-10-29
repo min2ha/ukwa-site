@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Call me Tom Cruise says David Cameron as he vows to reform EU
-
 None

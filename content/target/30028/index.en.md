@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Mace
-
 Mace is an international consultancy and construction company, offering integrated services across the full property and infrastructure lifecycle.

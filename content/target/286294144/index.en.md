@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Sunderland in the First World War
-
 <p>Project exploring the history of Sunderland during the First World War.</p>

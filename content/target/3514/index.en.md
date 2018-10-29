@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# East London and West Essex Guardian Series
-

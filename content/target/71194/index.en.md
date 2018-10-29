@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Charlotte Baptist Chapel
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Edinburgh.

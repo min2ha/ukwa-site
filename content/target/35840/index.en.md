@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: What’s good for big business isn’t always good for Britain when it comes to the EU
-

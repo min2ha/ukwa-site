@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU border force: EU using free movement chaos to push federal Europe, says LEO MCKINSTRY
-
 Column by Leo McKinstry

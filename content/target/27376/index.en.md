@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Rawlins White Memorial Loyal Orange Lodge 803, Cardiff 
-
 Rawlins White Memorial L.O.L. 803, Cardiff was formed on St. Patrick's Day 2012 and is the first Orange Lodge to sit in South Wales since 1920.

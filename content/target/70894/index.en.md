@@ -10,6 +10,4 @@
   "start_date": "2018-09-07T09:00:00Z"
 }
 
-# qLegal (Queen Mary University of London)
-
 Free legal advice service from the School of Law at Queen Mary University of London.

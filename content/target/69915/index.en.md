@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Grange Theatre, The
-
 Local Interest / Historical / Journalistic site dedicated to a unique amateur theatre built within a home in North Oxfordshire.  

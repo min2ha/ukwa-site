@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Creative Scotland Locations
-
 Site of a sub-group of Creative Scotland marketing Scotland as film locations as well as providing intermediary activities for people wishing to film in Scotland.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson says David Cameron hasn't yet convinced him to support staying in the EU
-

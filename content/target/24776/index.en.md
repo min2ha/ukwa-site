@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Siobhan Tate (Labour) on Facebook
-
 Siobhan Tate stood as Labour party candidate for Carshalton and Wallington at the 2015 General Election but was not elected.

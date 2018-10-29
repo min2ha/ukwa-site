@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Royal Edward
-
 History of a troopship lost in World War 1.

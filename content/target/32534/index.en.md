@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Welsh Short Story Network (WSSN)
-
 The Welsh Short Story Network is a writer led initiative to promote the reading and writing of short fiction in Wales.

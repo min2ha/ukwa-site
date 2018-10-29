@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Plas-Helyg
-
 Plas Helyg is situated in the Eco-village of Tir-y-Gafel (Lammas) in the Preseli hills. and is a smallholding where the Lishman family live. At Tir-y-Gafel, our planning permission requires that we provide 75% of our basic needs from our land within 5 years. 

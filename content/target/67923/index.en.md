@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hampstead Rugby Club (@hampsteadrugby) on Twitter
-
 The official Twitter account of Hampstead Rugby Club.

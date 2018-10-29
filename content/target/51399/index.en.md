@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# BBO Dance
-
 bbodance is an international awarding organisation, delivering a world-renowned training and qualification programme. 

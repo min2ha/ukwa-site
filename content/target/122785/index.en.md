@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Biathlon Union (BBU)
-
 None

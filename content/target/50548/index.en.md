@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forfar Farmington Football Club
-
 Site of a women's football club based in Forfar, Angus.

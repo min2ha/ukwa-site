@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Arbuthnott, Bervie and Kinneff Church
-

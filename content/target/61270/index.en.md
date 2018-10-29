@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sport Directorship (@MSD_MMU) on Twitter
-
 The official Twitter account for the Master of Sport Directorship (MSD) at Manchester Metropolitan University.

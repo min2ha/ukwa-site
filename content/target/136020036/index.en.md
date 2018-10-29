@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northumberland Care Trust
-
 None

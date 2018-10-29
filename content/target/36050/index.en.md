@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jenny Gilruth (@JennyGilruthSNP) on Twitter
-
 The Twitter profile of Jenny Gilruth, the Scottish National Party candidate for Mid Fife and Glenrothes in the 2016 Scottish Parliament election.

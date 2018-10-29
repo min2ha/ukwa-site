@@ -11,5 +11,3 @@
   "subject": "FTSE 100"
 }
 
-# Randgold Resources Limited
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UK Tamil News: Obama to visit London in bid to keep UK in the EU
-

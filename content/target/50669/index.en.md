@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kenmure Church
-
 The website of Kenmure Church, Bishopbriggs, located in Glasgow. 

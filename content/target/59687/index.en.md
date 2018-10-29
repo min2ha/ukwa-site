@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Onefootball forum
-
 An online enthusiast community concerned with football. Discusses football by region, tech & gaming and various related topics. 

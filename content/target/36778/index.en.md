@@ -10,5 +10,3 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Amgueddfa am Blentyndod Gorllewin Cymru | West Wales Museum of Childhood
-

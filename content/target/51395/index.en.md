@@ -11,6 +11,4 @@
   "subject": "Health Regulation"
 }
 
-# IMS Health Real World Evidence Solutions
-
 IMS Health Real World Evidence Solutions serves the world’s leading pharmaceutical companies and medical research organisations, providing electronic pseudonymised primary care patient data. IMS Health Real World Evidence Solutions supports, trains and advises on patient data in the UK and worldwide.

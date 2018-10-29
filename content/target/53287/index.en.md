@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Labour (@IslingtonLabour ) on Twitter
-
 Official Twitter account of Islington Labour, campaigning for Jeremy Corbyn in the 2017 general election.

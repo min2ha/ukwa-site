@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Blairite rebels ordered to keep shtum in private meeting of Labour MPs
-
 None

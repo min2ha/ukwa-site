@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# CC4 Museum of Welsh Cricket
-
 The CC4 Museum of Welsh Cricket is based at Sophia Gardens and is the first sports-specific Museum in Wales and celebrates the heritage of cricket in Wales.

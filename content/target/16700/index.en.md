@@ -10,6 +10,4 @@
   "start_date": "2015-02-05T00:00:00Z"
 }
 
-# National Institute of Adult Continuing Learning (NIACE)
-
 <p>The National Institute of Adult Continuing Education (NIACE) campaigns for the personal, social and economic benefits from lifelong learning, work to improve peoples’ experience of the adult learning and skills system, and fight for all adults to have opportunities throughout their lives to participate in and benefit from learning.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Kathleen Jamie
-
 Site of the Scottish poet, author and Professor of Poetry Kathleen Jamie.

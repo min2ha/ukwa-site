@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Ask Cardiff
-
 Ask Cardiff provides access a wealth of information about consultation and community engagement that takes place in Cardiff.

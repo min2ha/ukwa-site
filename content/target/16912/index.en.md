@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Living Streets
-
 Living Streets is the national charity that stands up for pedestrians. They work to create safe, attractive, enjoyable streets where it’s great to walk.

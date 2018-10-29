@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bont Elim Community Church, Pontarddulais
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Aberfeldy Parish Church
-
 Site of a Church of Scotland parish church in Aberfeldy, Perth and Kinross.

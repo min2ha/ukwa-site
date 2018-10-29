@@ -10,5 +10,3 @@
   "start_date": "2015-10-21T10:00:00Z"
 }
 
-#  Sheffield and District Cambrian Society 
-

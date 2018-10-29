@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JOHN NICOLSON (@MrJohnNicolson) on Twitter
-
 Twitter profile of John Nicolson, Scottish National Party candidate for East Dunbartonshire in the 2017 general election.

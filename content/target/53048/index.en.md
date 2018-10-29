@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Bousa, Sharmila (@sharmilabousa) on Twitter (Green Party candidate for Candidate Bristol NW)
-
 Sharmila Bousa stood as Green Party candidate for Bristol North West at the 2017 General Election but was not elected.

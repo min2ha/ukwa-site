@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Farmers' Union (NFU)
-
 The National Farmers' Union (NFU) is a member organisation/industry association for farmers in England and Wales. It is the largest farmers' organisation in England and Wales, and has over 300 branch offices.

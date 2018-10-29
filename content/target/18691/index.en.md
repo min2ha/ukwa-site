@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Princess Anne opens Magna Carta exhibition in Washington
-

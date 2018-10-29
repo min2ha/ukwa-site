@@ -10,6 +10,4 @@
   "start_date": "2018-08-31T00:00:00Z"
 }
 
-# Modern Materials in Collections Scotland (MMiC:S)
-
 Modern Materials in Collections Scotland members "are interested in, or working with modern materials in collections."

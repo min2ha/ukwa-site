@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jason O'Neill on Facebook (Alliance Party candidate for Belfast North)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Carmarthenshire Meadows Group | Grŵp Dolydd Sir Gaerfyrddin
-
 Carmarthenshire Meadows Group was established in 2005 in order to support the restoration and enhancement of flower-rich grasslands in Carmarthenshire.

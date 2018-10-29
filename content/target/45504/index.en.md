@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the EU: David Davis visits Ireland to strengthen commercial ties ahead of EU exit negotiations
-
 Secretary of State David Davis and Minister Robin Walker met with Irish government and business leaders as the UK prepares to leave the EU.

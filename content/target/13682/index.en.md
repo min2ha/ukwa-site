@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gregg McClymont MP | MP for Cumbernauld, Kilsyth and Kirkintilloch East
-
 Website for Gregg McClymont, Scottish Labour candidate for Cumbernauld, Kilsyth and Kirkintilloch East in the May 2015 UK General Elections.

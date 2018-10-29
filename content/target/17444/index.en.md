@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Conservative auction: Shoe shopping, Boris lunch and 'iron man'
-
 None

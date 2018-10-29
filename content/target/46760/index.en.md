@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Eluned Morgan AM on Facebook
-
 Mair Eluned Morgan is the Labour Assembly Member for the Mid & West Wales region.

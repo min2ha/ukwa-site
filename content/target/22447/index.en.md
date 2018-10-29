@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Reality Check: Will taxes rise £3,028 under Labour?
-
 None

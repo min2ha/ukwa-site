@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dr Charlotte Cooper
-
 None

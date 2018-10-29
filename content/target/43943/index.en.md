@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dáil Éireann debates: Monday, 27 June 2016: United Kingdom Referendum on European Union Membership: Statements
-
 Statements on implications for the Irish Republic of the decision by UK voters to leave the European Union at the June 23rd referendum

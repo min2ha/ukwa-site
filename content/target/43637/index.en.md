@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# IOE London Blog: Why I believe Brexit from the EU would harm UK higher education
-
 Expert opinion from the UK's leading centre for education research

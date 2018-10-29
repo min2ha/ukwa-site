@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Brake (Liberal Democrats candidate for Carshalton and Wallington) on Facebook
-
 Tom Brake stood as Liberal Democrats candidate for Carsholton and Wallington at the 2015 General Election. He was first elected to serve as MP for Carshalton and Wallington in 1997 and re-elected in 2015.

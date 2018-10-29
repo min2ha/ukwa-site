@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T11:00:00Z"
 }
 
-# Sabhal Mor Ostaig
-
 Sabhal Mòr Ostaig is the College is a National Centre for Gaelic Language and Culture. It provides onsite and distance learning opportunities.

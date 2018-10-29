@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bob's Football Progr (@bobsprogrammes) on Twitter
-
 Bob's Football Programmes is a dealer in football memorabilia. This is the official Twitter account.

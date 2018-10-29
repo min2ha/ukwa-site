@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# OLSMJ (@OLSMJ) on Twitter
-
 The official Twitter account for Old Laurentian Mini and Juniors Rugby Football Teams (OLSMJ). Old Laurentian Mini and juniors is a community rugby club that is run for the children by the parents of the children.

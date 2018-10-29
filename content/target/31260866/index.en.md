@@ -10,6 +10,4 @@
   "start_date": "2009-09-09T00:00:00Z"
 }
 
-# UK Rehabilitation Council
-
 The UKRC exists to provide an authoritative voice and focal point for anyone with a stake in medical and vocational rehabilitation and to support those who are working to help sick and injured people regain their independence.

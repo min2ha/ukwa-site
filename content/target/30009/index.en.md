@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Paws for Progress
-
 Rebecca Leonardi (a PhD student at the University of Stirling) has developed Paws for Progress, the UK’s first prison-based dog training programme, in collaboration with the Scottish Prison Service (SPS) and the University of Stirling. Development began in July 2009 and, after extensive research, consultation and training, the project got underway in HM YOI Polmont in August 2011.

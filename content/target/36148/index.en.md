@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Rhondda Can
-
 Rhondda Can promotes the work of social and charitable entrepreneurs in the Rhondda Valleys. It is run by Labour Assembly Member, leighton Andrews.

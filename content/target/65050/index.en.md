@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Sigma Leisure
-
 An independent publisher of regional walking and cycling guides and local interest books located in Ammanford.

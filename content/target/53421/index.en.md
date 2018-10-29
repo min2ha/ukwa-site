@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# Churches Together in Britain and Ireland: General Election 2017
-
 The official website from Churches Together in Britain and Ireland for the 2017 General Election with news, information on events, and links to useful resources.
 
 The official website from Churches Together in Britain and Ireland for the 2017 General Election

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northern Ireland Women's Football Association (NIWFA)
-
 The official website of the Northern Ireland Women's Football Association (NIWFA). The NIWFA was formed in 1976.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#   St. Columba's Parish Church, Largs
-
 Site of a Church of Scotland parish church at Largs, Ayrshire.

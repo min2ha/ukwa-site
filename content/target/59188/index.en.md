@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Loch Eck Orienteers
-
 Site of an orienteering club based in Argyll, but mainly focused in the Lorn / Oban area.

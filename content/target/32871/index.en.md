@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Sports Hall of Fame
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Anwen Roberts
-
 Anwen Roberts is a member of the North Wales Society of Fine Art and a committee member for the Anglesey Arts Forum. Her work is inspired by rural living and my background in farming, contrasting the beauty surrounding you with the reality of rural life.

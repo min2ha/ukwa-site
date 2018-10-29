@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrews Parish Church, Bo'ness
-
 The website of St. Andrews Parish Church, located in Bo'ness.

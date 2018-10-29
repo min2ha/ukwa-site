@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit threat to sandwiches
-
 Sandwiches would be one of the first victims of a breakdown in the food supply chain in the event of a disorderly no-deal Brexit, according to a senior grocery executive.
 

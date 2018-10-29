@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Early Days of a Better Nation, The
-
 <p>Posts on Independence from the blog of Scottish author, Kenneth MacLeod.</p>

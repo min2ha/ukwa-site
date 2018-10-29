@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Parent Work Thrive: Why flexible working shouldn’t be instead of a pay rise
-
 An article about equal pay and the gender pay gap

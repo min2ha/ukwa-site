@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Papurau newydd Cymru Arlein | Welsh Newspapers Online
-
 Welsh Newspapers Online is a National Library of Wales digitisation project providing online access to nineteenth century and early twentieth century Welsh newspapers. This is the introduction page for the project which changed in July 2015.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Barry Morris Visual Artist
-
 Barry Morris is a visual artists from North Wales and elected member of the Royal Cambrian Academy of Art (RCA). He explores the superstitions, fears and symbolism associated with birds, humans and death.

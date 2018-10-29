@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Epidemiology, Population health and Infectious disease Control (EPIC)
-
 An animal heath consortium project intended to prepare Scotland's livestock industry for Animal Disease Outbreaks.

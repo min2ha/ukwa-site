@@ -10,5 +10,3 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Scottish Field
-

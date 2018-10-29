@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# re: place
-
 Information about site specific contemporary art in Derbyshire. It contains an interactive map.

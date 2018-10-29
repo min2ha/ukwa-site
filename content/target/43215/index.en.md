@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BeLeave Blog
-
 A blog of BeLeave, a campaigning group trying to provide an "optimistic" Brexit case, primarily for young people.

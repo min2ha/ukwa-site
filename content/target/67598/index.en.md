@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Secularism UK (@NatSecSoc) on Twitter
-
 Secularist General The National Secular Society campaigns for the separation of religion and state.

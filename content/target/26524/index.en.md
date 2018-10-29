@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bombard England with Scottish books to save the UK
-
 None

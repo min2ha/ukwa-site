@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# The Chews and Spews of Wallis Eates
-
 Chews and Spews is a collection of articles, lists, drawn snapshots and portraits in an attempt to expunge the memory sponge - created by zinester Wallis Eates.

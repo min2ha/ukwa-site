@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Methodist Church in Britain: Statement on the death of Nelson Mandela
-
 <p>Statement by the Revd Ruth Gee, president of the Methodist Conference, released 5 December 2013.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alliance of Mental Health Research Funders: Our work (Manifesto)
-
 AMHRF are a group of charities and foundations that support mental health research. They meet regularly to share progress and generate new ideas for improving mental health research in the UK.

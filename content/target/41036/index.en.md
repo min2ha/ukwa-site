@@ -11,8 +11,6 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: Inflation report, May 2016
-
 The report argues that Brexit could cause the value of the pound to dip 'sharply'. It warns that uncertainty would likely slow household and business spending. Outcomes could include the UK formally going into recession.
 
 

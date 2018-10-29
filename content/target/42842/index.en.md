@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cord : Peace through Partnership 
-
 Cord is an international organisation inspired by the Christian message of fairness and peace. 

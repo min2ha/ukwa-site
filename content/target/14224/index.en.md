@@ -10,6 +10,4 @@
   "start_date": "2014-10-10T07:00:00Z"
 }
 
-# Institute of English Studies: School of Advanced Studies, University of London
-
 The Institute of English Studies is part of the School of Advanced Study, University of London.

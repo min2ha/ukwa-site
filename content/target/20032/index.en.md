@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Trade Unionist and Socialist Coalition Wales (TUSC) on Facebook
-
 Trade Unionist and Socialist Coalition Wales (TUSC) on Facebook

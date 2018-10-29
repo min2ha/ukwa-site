@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Conniff on Facebook
-
 This is the Facebook page of Chris Conniff, the Labour Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

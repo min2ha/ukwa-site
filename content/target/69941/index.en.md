@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Water Tower Appreciation Society on Facebook
-
 Facebook page of the British Water Tower Appreciation Society

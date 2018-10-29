@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Freedom from fistula
-
 Site of a charity fighting the affects of the child birth related condition, fistula, in Kenya, Sierra Leone and Malawi.

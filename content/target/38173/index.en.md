@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Campaign for Science and Engineering: The role of the European membership in UK science and engineering reearch
-

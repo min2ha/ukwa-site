@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Labour Irish Society (@labourirish) on Twitter
-
 Labour Party Irish Society membership is open to all members of the UK Labour Party. This is their official Twitter account.

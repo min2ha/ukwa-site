@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geraint Thomas (GeraintThomas86) on Twitter
-
 <p>The twitter profile of the cyclist Geraint Thomas MBE, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,8 +11,6 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Independent: Theresa May abandons pledge for 'time limit' on UK's stay in customs union as part of Brexit deal
-
 Reports that Theresa May had abandoned her pledge that a deal to keep the UK in the EU customs territory must be “time-limited”, paving the way for likely cabinet resignations. The prime minister’s spokeswoman refused – four times – to say the “backstop” agreement, to avoid a hard border in Ireland, would have a strict end date, the assurance she set out four months ago.
 
 

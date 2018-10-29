@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Artis
-
 Artis makes sourcing of tableware, glassware, cutlery and barware from around the world and is a supplier to the UK foodservice industry, including restaurants, bars and hotels.

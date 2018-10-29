@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# The Gap Partnership
-
 The Gap Partnership is an expert negotiation company. Specialising in negotiation training, skills workshops, consulting, strategy and planning.

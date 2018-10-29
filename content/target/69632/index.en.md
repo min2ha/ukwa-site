@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# 4theRegion
-
 4theRegion is a new Regional Engagement Project for South West Wales covering Neath Port Talbot, Pembrokeshire, Carmarthenshire and Swansea. It is bringing together individuals, businesses and organisations across South West Wales to shape a vision of the future for the region.

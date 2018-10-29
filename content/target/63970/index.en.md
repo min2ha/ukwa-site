@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Enoch’s Hogganfield Parish Church
-

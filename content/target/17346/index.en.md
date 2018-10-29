@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Yo! Sushi founder Simon Woodroffe 'scared' by Labour approach
-
 None

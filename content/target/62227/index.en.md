@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lincoln City F.C.
-
 Lincoln City Football Club is a professional association football club based in the city of Lincoln, Lincolnshire. 

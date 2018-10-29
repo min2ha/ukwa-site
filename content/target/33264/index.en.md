@@ -10,5 +10,3 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# South Asia Archive & Library Group (SAALG)
-

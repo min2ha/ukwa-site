@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# virtualdesigncloud
-
 virtualdesigncloud is an online design agency, offering you the creatives and job management, delivering the value for your marketing budget. We create, produce and deliver design solutions across the full spectrum of digital and traditional media

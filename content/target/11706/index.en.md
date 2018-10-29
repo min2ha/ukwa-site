@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Nuttall (EmmaNuttall5) on Twitter
-
 <p>The twitter profile of althete Emma Nuttall, high jumper and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

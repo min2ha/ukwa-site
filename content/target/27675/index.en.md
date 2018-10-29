@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Awkward smiles all round! New Labour MPs elected in worst result for 30 years pose for photos with Harman as they arrive at Parliament
-
 None

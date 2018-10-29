@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# Kyoto2
-
 Kyoto2: a framework for an effective, efficient, equitable Climate Agreement.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Dar alHikma Publishing and Distribution
-
 Arabic publisher and bookshop based in Chalton Street, Kings Cross, London.

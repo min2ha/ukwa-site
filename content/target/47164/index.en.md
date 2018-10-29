@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Lib Dems 'could force Theresa May to reveal Brexit plans before article 50'
-

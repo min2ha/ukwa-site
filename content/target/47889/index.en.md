@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Tired and weary : following the Blues
-
 Blog of long running, independent Birmingham City Football Club fanzine. Online archive covers September 2011 to June 2015.

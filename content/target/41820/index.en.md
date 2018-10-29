@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Vote against the EU - vote against the Tories!
-

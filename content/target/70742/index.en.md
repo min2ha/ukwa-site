@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson’s latest Brexit outburst combines madness and mendacity
-

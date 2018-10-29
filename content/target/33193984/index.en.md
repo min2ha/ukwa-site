@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Korfball
-
 Korfball is a ball sport, with similarities to netball and basketball, and has Dutch origins.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Frank Bowles (@fbowles) on Twitter
-
 Twitter profile of Frank Bowles, the Scottish Liberal Democrat candidate for Clydebank and Milngavie in the 2016 Scottish Parliamentary election.

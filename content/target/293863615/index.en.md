@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Leaders Forum
-
 The Scottish Leaders Forum (SLF) is drawn from public services in Scotland, meeting to discuss Scottish policy issues.

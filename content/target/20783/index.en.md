@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graham Simpson (@cllrgsimpson) on Twitter
-
 The Twitter profile of Graham Simpson, Scottish Conservative and Unionist candidate for East Kilbride in the 2016 Scottish Parliament election.

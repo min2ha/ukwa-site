@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# TUC: All together for the NHS
-
 None

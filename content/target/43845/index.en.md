@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Mark Carney says Brexit contingency plans under way 
-
 Guardian, The

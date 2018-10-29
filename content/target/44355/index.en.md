@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Julia’s House
-
 Julia’s House is a children’s hospice charity in Dorset dedicated to helping life-limited children and their families across Dorset and Wiltshire.

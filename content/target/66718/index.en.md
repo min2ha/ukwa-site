@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Ninian's 66
-
 Site of a masonic lodge located in Brechin, Angus and affiliated with the Grand Lodge of Scotland.

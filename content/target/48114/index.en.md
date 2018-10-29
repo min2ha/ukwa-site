@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Stamp, Y
-
 Y Stamp is a new literary Welsh language magazine launched in 2017. 

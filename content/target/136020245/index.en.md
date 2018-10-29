@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Yorkshire and the Humber Specialised Commissioning Group (Y&H SCG)
-
 None

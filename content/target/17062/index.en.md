@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Horse Society: General Election 2015 Manifesto for the Horse: The BHS Needs You
-
 They provide welfare services to horses and advice for owners. We campaign and lobby for key equestrian issues on behalf of all horses and riders and offer the world's leading equestrian qualifications and approvals system.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit: Government rejects second EU referendum petition signed by 4.1 million
-
 An article about the government's refusal to accept the call for a second referendum after a petition was signed by 4.1 million people in Britain.

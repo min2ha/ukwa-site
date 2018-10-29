@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Cathedral to welcome original 1213 Magna Carta
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: PM speech at O2 on the EU referendum: 23 February 2016
-

@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Backs Against The Wall Fanzine
-
 Backs Against the Wall was a skinhead fanzine that came out of Cardiff  in the mid-80s which took a strong anti-fascist stance. It was published by Dudley Somers in Roath.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# FRIENDSFEST
-
 Website for Friendsfest, a festival celebrating the television show friends. 

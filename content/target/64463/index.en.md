@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Côr Meibion Dyfnant | Dunvant Male Choir
-
 Dunvant Male Choir, Dunvant is a small village situated some five miles west of Swansea on the South coast of Wales.

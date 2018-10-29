@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Bar Council, The: The value of justice
-
 The quality of any system of justice depends not only on the fairness of the law itself, but also on its accessibility. In 2017 the accessibility of our Law is under threat at home and abroad. This manifesto is addressed to all who
 take an interest in the future of our justice system. It explains, in the public interest, what we need from our next elected government, and why. 

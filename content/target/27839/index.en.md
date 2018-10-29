@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Outreach and Information Network (COIN)
-
 COIN is a ‘think and do’ tank focused on connecting people to climate change and climate change to people.

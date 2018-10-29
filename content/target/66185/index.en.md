@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Age of Creativity Festival
-
 Celebrating art and creativity for older people in order to help them experience better health, wellbeing and quality of life

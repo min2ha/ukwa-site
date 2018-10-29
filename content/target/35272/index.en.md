@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Ihsaan Social Support Association (ISSA Wales)
-
 ISSA Wales are based in Cardiff and supports the social, emotional and spiritual wellbeing of BME and Muslim communities in Wales. 

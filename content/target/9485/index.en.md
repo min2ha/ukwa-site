@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: Ukip chances of 2014 euro election win 'strengthened by polling date change'
-
 None

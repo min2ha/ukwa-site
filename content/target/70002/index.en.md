@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Peter Morgan Artist
-
 Peter Morgan is a Pembrokeshire based artist who is best known for his colourful landscape paintings with vernacular buildings.

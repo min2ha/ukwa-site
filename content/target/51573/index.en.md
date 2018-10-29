@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Menstrie Parish Church
-
 The website of Menstie Parish Church of Scotland. 

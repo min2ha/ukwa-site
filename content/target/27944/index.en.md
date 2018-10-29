@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wear Valley Advertiser
-
 An online newspaper published in Bishop Auckland, Co. Durham.

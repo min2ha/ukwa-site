@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Hawick Lodge No. 111
-
 Site of a masonic lodge located in Hawick, Scottish Borders and affiliated with the Grand Lodge of Scotland.

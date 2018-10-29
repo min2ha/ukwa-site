@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Kite Society of Great Britain
-
 None

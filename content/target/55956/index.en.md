@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Knitting and Crochet Guild 
-
 A national educational charity dedicated to UK domestic knitting and crochet

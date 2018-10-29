@@ -10,6 +10,4 @@
   "start_date": "2018-04-04T09:00:00Z"
 }
 
-# Scottish Environment News
-
 Site of an independent Scottish newspaper concentrating on environmental issues.

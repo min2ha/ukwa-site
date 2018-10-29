@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg on Lib Dem plans to plug NHS black hole - video
-
 None

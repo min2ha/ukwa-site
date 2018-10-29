@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bryan Quinn (@bryanquinn86) on Twitter
-
 Twitter profile of Bryan Quinn, the RISE: Scotland's Left Ailliance list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

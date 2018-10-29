@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conservative Friends of the Union
-
 None

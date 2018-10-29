@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Penny Appeal
-
 Penny Appeal was set up in 2009 to provide poverty relief across Asia, the Middle East, and Africa by offering water solutions, organising mass feedings, supporting orphan care and providing emergency food and medical aid.
 
 Since then we have transformed lives and empowered communities around the world, helping to break the poverty cycle and build brighter futures.

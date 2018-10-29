@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Fossil Collecting
-
 UK Fossils features hundreds of fossil collecting locations in the UK, with geological guides, and advice.

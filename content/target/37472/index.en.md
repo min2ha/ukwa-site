@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Blog Menai: EU Referendum search results 
-
 Welsh-language blog on Welsh politics

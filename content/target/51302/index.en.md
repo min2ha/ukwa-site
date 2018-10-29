@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Stirling Castle
-
 Site of an historic castle and visitor attraction in Stirling, Scotland.

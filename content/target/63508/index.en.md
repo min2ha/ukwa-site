@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Sun, The: Stephen Hawking
-
 Articles related to Stephen Hawking

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# FC United of Manchester
-

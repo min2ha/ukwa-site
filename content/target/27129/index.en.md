@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T08:00:00Z"
 }
 
-# Cathedral Innovation Centre
-
 The Cathedral Innovation Centre comprises a national cause, social enterprise and international charitable trust. They support launching an enterprise, working on an innovation project and backing the creation of new jobs.

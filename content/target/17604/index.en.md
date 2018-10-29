@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour MP says party would win in Grimsby even with a 'raving alcoholic sex paedophile' candidate
-
 None

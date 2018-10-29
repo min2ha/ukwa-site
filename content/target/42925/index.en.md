@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Happy Days Fanzine (@NotBrazil) on Twitter
-
 Happy Days Northern Ireland Football Fanzine brings you player interviews, match reports and general supporter ramblings two or three times a year. This is their Twitter profile.

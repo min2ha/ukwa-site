@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of Obstetricians and Gynaecologists: The RCOG and FSRH General Election Manifesto, 2017
-
 The manifesto calls for initiatives and interventions to help improve the health of girls and women to enable them to lead healthy lives.
 

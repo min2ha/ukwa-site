@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luton LINk
-
 None

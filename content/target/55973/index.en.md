@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Eden Valley Scribes 
-
 A local calligraphy group that meet once a month in Penrith. 

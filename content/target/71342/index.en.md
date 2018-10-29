@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Esports Association: British Esports Association joins Sport and Recreation Alliance and signs Mental Health Charter
-
 A press release by the British Esports Association with information on how they have joined the Sport and Recreation Alliance and signed the Mental Health Charter.

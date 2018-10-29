@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-#  Crypto Mainframe
-
 The latest news, prices, charts, guides and analysis, Investment focused on Innovation and cryptocurrency

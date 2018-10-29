@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour4Norfolk
-
 Website of Labour party in Norfolk, providing contact details of the Labour party in each constituency and the Women's Page at Labour4Norfolk and links to Labour organisations and networks.

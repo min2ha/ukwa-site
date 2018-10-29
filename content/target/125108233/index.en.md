@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Ribble Estuary Against Fracking
-
 None

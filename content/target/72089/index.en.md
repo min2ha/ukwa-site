@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# Biz Bize London (We together in London)
-
 A website run by Turkish people for the Turkish community living in London. 

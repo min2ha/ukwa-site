@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Spectator Blogs
-
 Comment on domestic and international political issues, including Brexit.

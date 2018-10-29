@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Will this Brexit offer get the Lib Dems back in the game?
-

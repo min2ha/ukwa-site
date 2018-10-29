@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Willow Tea Rooms Trust
-
 Site of a trust aiming to acquire, restore and maintain Mrs. Cranston's Willow Tea Rooms, Sauchiehall Street, Glasgow, as designed by Charles Rennie Mackintosh.

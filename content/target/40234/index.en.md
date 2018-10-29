@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Lochaber Family History Group
-
 Genealogy site for Loachaber and North Argyllshire, Scotland

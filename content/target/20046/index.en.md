@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# LBC Radio: Iain Dale's Election Predictions: Final Analysis
-

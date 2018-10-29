@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Obstetricians and Gynaecologists Twitter
-
 None

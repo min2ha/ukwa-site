@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Northfield - by sea -then and now
-
 The project will work in partnership with Arts 50 Alive Network and Northfield Business Improvement district to promote and deliver a range of projects and activities to commemorate the First World War.

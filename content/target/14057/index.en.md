@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scottish independence referendum: Better Together campaign broadcast 26 August 2014
-
 <p>Broadcast for the Better Together campaign, first aired 26 August 2014.</p>

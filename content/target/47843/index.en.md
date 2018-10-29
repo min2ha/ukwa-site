@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Treasures at Christ's College, Cambridge
-
 Blog on the special collections at the library of Christ's College, Cambridge.

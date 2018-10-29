@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Project: WW1 Lydiate
-
  A project involving local schools to explore what life was like 100 years ago in Lydiate village and what role the canal played in the FWW.

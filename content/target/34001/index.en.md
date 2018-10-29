@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Putin will be rubbing his hands at the prospect of Brexit
-

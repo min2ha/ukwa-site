@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tech Advisor
-
 Tech Advisor is a website with news, reviews and blogs about technology and IT.

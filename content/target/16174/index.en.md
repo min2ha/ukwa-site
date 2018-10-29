@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Tell Me Project, The
-
 <p>The project gives older residents of the Isle of Man the opportunity to share their memories of times past with school children through recorded interviews. These interviews are published and archived to form a unique record of social history.</p>

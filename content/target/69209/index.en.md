@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Reading Festival
-
 Website for Reading Music Festival.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Southend World War 1: Remember Us
-
 PinpointCreate, worked with  Southend Borough Council and Southend Museums and with funding from the Heritage Lottery Fund have created a year long commemoration of the First World War in Southend.

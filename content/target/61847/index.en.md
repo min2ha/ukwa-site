@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Life and Work
-
 Site of the official magazine of the Church of Scotland.

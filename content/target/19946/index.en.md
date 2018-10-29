@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anita Davies: Your Lib-Dem Parliamentary Candidate for Bridgend
-
 Lib-Dem Parliamentary Candidate for Bridgend

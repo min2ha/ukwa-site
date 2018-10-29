@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Union Referendum Act 2015
-
 Legislation

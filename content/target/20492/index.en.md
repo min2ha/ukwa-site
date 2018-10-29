@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: University ideals and Labour's tuition fee policy
-
 None

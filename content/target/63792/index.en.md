@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# OSFL (@OSFLife) on Twitter
-
 Oxford Students for Life is a student society at the University of Oxford. They seek to promote a culture of life at the University & beyond. This is their official Twitter page.

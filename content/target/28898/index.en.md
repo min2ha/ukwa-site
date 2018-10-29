@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Ysgol Y Parchedig Thomas Ellis
-
 School located in Holyhead which is set to close.

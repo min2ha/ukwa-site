@@ -10,6 +10,4 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# National Research Network for Low Carbon Energy and Environment (NRN-LCEE)
-
 The National Research Network for Low Carbon, Energy and the Environment (NRN-LCEE) is based at Environment Centre Wales and funded by Higher Education Funding Council Wales. The aim is to integrate research at different spatial scales across air-land-water domains, thereby substantially improving the Welsh research capacity. 

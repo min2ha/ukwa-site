@@ -10,6 +10,4 @@
   "start_date": "2013-04-20T02:15:00Z"
 }
 
-# STV: Scotland and Scottish News
-
 <p>Website of STV News.</p>

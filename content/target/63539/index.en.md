@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dornoch Cathedral
-
 The website of Dornoch Cathedral.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# BBC Sport: Winter Paralympics 2014
-

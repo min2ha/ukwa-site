@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Truc vert
-
 Truc vert is a French restaurant and food shop located near Oxford Street.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Anglo-American Charity Limited, The 
-
 The Anglo-American Charity Limited is an UK registered charity designed to serve the needs of both philanthropists and charities in either the UK or the US. 

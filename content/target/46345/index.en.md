@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# The Programming Historian
-
 The Programming Historian offers novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Fèisean nan Gàidheal
-
 Fèisean nan Gàidheal is the National Association of Scottish Gaelic Arts Youth Tuition Festivals. Established in 1988, it is the support organisation for the Fèisean (Scottish Gaelic for Festivals) which are local Gaelic Arts tuition festivals.

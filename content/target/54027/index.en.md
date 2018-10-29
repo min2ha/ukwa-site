@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mick Bower (@MickBower1) on Twitter (The Yorkshire Party  Politician)
-
 Mick Bower stood as The Yorkshire Party candidate for Rotherham in the 2017 General Election but was not eleected.

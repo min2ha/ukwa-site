@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Giffnock & Newlands Hewbrew Community
-
 Site of a Jewish congregation and synagogue located in Giffnock, Glasgow.

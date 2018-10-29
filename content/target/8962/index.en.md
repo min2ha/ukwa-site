@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dougie Crawford Alpine Ski Racer
-
 None

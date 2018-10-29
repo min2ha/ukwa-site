@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# TIGA: Reinforcing Success
-
 As we negotiate a new course following Brexit in favour of a ‘global UK’, it will be vitally important to support those industries where the UK already has a competitive advantage, which provide high skilled employment and which are export focused. The UK video games sector is one such industry. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic Archives
-
 Site of the national archives of the Catholic Church in Scotland, an agency of the Roman Catholic Bishops' Conference of Scotland, responsible for providing archive and records management services to the Church at national, diocesan and parish level.

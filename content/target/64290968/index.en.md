@@ -10,5 +10,3 @@
   "start_date": "2012-02-16T00:00:00Z"
 }
 
-# Exeter CASCADE Project - Cascading Research-like digital Literacy Skills at Exeter
-

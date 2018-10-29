@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Repairs to a Lychgate
-
 The project is to make repairs to the Grade II listed Carlton Le Moorland Lychgate War Memorial.

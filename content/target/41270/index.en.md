@@ -10,6 +10,4 @@
   "start_date": "2017-02-27T10:00:00Z"
 }
 
-# BBC iWonder on Facebook
-
 The Facebook profile of BBC iWonder. They post stories that make you think, from across BBC TV, radio, online and beyond.

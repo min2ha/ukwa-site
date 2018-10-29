@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Alasdair Gray: as things happen
-
 Blog belonging to Alastair Gray, painter, illustrator, writer, book designer.

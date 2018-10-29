@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Perthyn | Belonging
-
 Perthyn is a registered charity that provides support primarily to people with a learning disability, across both Wales and England. 

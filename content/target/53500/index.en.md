@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# NHS Roadshow (@NHS_RoadShow) on Twitter
-

@@ -10,5 +10,3 @@
   "start_date": "2005-09-13T00:00:00Z"
 }
 
-# Textualities : online literary magazine
-

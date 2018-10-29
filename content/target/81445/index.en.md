@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British Sociological Association (BSA): New research agendas for the study of sports media (re)presentation(s) of sportswomen and femininity
-
 New research agendas for the study of sports media (re)presentation(s) of sportswomen and femininity was a one day event organised as a A BSA early career forum.

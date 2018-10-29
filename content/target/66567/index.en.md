@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# UK Statistics Authority (@UKStatsAuth) on Twitter
-
 We promote and safeguard official statistics to serve the public good. 

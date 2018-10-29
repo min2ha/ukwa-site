@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# Association of Business Executives (ABE) 
-
 The Association of Business Executives (ABE) is a professional membership body and an examination board. They develop business and management Diploma qualifications.

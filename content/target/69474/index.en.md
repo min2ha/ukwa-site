@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# London On Board
-
 London on Board is a board game club that meets in central London to play board and card games.

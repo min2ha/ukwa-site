@@ -10,6 +10,4 @@
   "start_date": "2017-05-24T09:00:00Z"
 }
 
-# The Torridon
-
 Site of a hotel in Wester Ross in the Highlands of Scotland.

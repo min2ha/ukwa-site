@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# UK Human Rights Blog: Art. 9 Thought/Conscience/Religion Category
-
 Main site being being archived.

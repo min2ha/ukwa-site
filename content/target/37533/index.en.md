@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Doyle Clayton: Preparing for the Brexit—the dual nationality trend - as published on LexisPSL
-
 Legal Firm. 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Whats On: Magna Carta Celebration: Quiz Night - The Alexander Centre, Faversham
-

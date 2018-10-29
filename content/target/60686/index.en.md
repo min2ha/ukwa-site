@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glenrothes Rugby Club
-
 Site of a Scottish rugby union football club based in Glenrothes, Fife.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Longfield
-
 Website of Glasgow based theatre maker Sarah Longfield. “3, 6 & 36” is a play about one family's experience of the Commonwealth Games arriving on their doorstep. Created by Sarah Longfield and extended family.

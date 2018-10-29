@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southport and Ormskirk NHS Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# British Radio Car Associatio (BRCA)
-
 The British Radio Car Association is the UK's governing body for radio controlled model car racing. 

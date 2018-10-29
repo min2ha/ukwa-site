@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Argyll & The Isles Coast & Countryside Trust
-
 Site of an partnership organisation based in Lochgilphead, established to maintain, manage, promote and enhance our biodiversity and historic environment; encourage, facilitate and promote access to local natural areas ; maximise external funding opportunities; create demonstrable social benefits; deliver a co-ordinated advisory service and education.

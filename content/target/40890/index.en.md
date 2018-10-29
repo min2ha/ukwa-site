@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Scottish National Jazz Orchestra
-
 Site of a Scottish orchestra comprising musicians based in Scotland, and maintaing the forms of jazz music.

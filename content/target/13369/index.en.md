@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Government (scotgov) on Twitter
-
 The twitter profile of the devolved government for Scotland.

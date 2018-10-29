@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Glenurquhart
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located at Glen Glenurquhart near , Drumnadrochit, Highland.

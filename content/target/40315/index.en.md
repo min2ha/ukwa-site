@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Bo'ness Pottery
-
 Site created by an enthusiast for Bo'ness Pottery, providing information on the history of and people people who made Bo'ness ceramics.

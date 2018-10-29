@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory hits out at 'bigots' targeting candidates who supported same-sex marriage
-
 None

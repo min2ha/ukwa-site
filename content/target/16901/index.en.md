@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Action with Communities in Rural England (ACRE)
-
 <p>Action with Communities in Rural England (ACRE) is the national body for the 38 rural community councils who make up the ACRE Network.</p>

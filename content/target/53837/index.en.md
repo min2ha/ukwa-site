@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Nobody likes a Tory (@N_L_A_T) on Twitter
-

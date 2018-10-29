@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cathays Methodist Church
-

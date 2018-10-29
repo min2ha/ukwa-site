@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Confederation of British Industry:EU referendum member information pack. How to prepare your organisation for the EU referendum
-
 Independent employers' organisation

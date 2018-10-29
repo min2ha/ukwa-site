@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# British Lebanese Association
-
 The British Lebanese Association was established in 1984 to encourage friendship and understanding between the people of Great Britain and Lebanon and to advance and encourage cultural development between the two countries.

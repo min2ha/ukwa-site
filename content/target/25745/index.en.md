@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Austerity and the arts: the hidden cuts that are bad for our cultural health
-
 None

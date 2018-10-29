@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Grey pride: why the heckling pensioners were right
-
 None

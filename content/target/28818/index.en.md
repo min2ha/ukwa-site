@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Aldeburgh Bookshop, The
-
 Website of a bookshop in Aldeburgh, Suffolk, which annually organises the Aldeburgh Literary Festival.

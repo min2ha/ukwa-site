@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# This Is Cromer
-
 This site is presented by the Cromer Chamber of Trade, an association of nearly one hundred shops and businesses in the town. 

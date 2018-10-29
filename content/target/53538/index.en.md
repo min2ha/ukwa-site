@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Outline Surrey
-
 Outline provides support to people with their sexuality and gender identity, including but not limited to the lesbian, gay, bi-sexual and trans community of surrey, primarily through a helpline, website and support groups.

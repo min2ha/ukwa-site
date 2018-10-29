@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Leicester
-
 Holy Trinity, Norwich is a vibrant community of people who love God and each other, based in Leicester City Centre. 

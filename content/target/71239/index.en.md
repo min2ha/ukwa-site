@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# BAME into Leadership
-
 Annual BAME (black, asian, minority ethnic) into Leadership conference has established itself as the key event for those interested in enhancing the capabilities & leadership opportunities for BAME civil servants. 

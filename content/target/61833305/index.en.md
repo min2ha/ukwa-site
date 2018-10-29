@@ -10,6 +10,4 @@
   "start_date": "2013-01-15T00:00:00Z"
 }
 
-# South Wales Sea Fisheries Committee
-
 Joint Committees of local authorities

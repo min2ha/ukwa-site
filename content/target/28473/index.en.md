@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# NATA (Network for the Advancement of Patient Blood Management, Haemostasis and Thrombosis)
-
 NATA, the Network for the Advancement of Patient Blood Management, Haemostasis and Thrombosis (formerly the Network for the Advancement of Transfusion Alternatives), was formed in 1998 by a group anaesthesiologists, intensive care specialists, surgeons, haematologists and transfusion medicine specialists concerned with blood conservation techniques.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: With Labour in disarray, the SNP is the de facto opposition of the UK parliament
-
 None

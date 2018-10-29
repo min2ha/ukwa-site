@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Royal Arch Chapter Dundee No. 503
-
 Site of a chapter of the Scottish Royal Arch branch of freemasonry located at Dundee.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HuffingtonPost, The: "Safer Internet Day: Parents Urged To Think About Kids' Online Safety From Moment They Start Using Phones"
-
 Huffington Post article about children's online safety and phone use

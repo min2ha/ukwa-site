@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# moveGB
-
 Dance, dive, climb, crunch, lift, lunge, box, bend.
 Be sweaty, be happy, be free!

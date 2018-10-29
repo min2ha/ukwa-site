@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stockton-on-Tees LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Grant Shapps embroiled in row over claims he edited pages of Tory rivals
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# bit-tech
-
 bit-tech is the UK's online destination for tech enthusiasts, early adopters, modders and gamers. They cover computer hardware, modding and technology, as well as games. The site was founded in 2000.

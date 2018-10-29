@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clydebank SNP (@clydebank_snp) on Twitter 
-
 Twitter profile of the Clydebank branch of the Scottish National Party (SNP).

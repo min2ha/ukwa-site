@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May calls on Corbyn to condemn the 'bullying and harassment' of MPs after politicians come forward to tell of the death threats and abuse they received during the election campaign
-
 Theresa May called on Jeremy Corbyn to condemn the 'bullying and harassment' MPs and candidates had been receiving.The Labour leader has been criticised for failing to do enough to try and stop the abuse after politicians received death threats, were assaulted and hounded on social media.

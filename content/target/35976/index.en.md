@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph: The: This EU debate isn't as bad as the dark days of Maastricht
-

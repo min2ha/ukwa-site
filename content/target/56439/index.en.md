@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Colonel Unthank's Norwich
-
 A personal website that discusses the English Arts and Crafts Movement, Art Nouveau, the Aesthetic Movement, church architecture and medieval history using their home-town of Norwich, England as a starting point.

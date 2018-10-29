@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jasper Carrott
-
 Jasper Carrott, is an English comedian, actor and television presenter.

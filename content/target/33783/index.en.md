@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Bloody Irish!, The 
-
 Musical production based on the Easter Rising events

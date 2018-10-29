@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Implementing the UK’s exit from the European Union: The Foreign and Commonwealth Office
-
 This publication sets out how the FCO is preparing to deliver an effective exit from the EU. It focuses primarily on the 11 work streams on which the FCO reports to the Department for Exiting the EU.
 

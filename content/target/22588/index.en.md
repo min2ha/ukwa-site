@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ex-Labour NEC chair replaces shamed Janice Atkinson as Ukip's General Election candidate
-
 None

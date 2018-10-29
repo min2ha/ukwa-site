@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Orkney Blues Festival
-
 Site of an annual blues music festival in Orkney.

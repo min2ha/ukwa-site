@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Belinda Bauer
-
 Belinda Bauer is a author living in Wales and a Member of The Welsh Academy.

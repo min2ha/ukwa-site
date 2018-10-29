@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Dylan Thomas: A True Childhood 
-
 According to the site, 'A True Childhood: Dylan's Peninsularity, was published in September 2014 in a book edited by Hannah Ellis, Dylan Thomas: A Centenary Celebration (Bloomsbury). This extended version includes notes, sources, reading and family trees. If you have any queries, information or corrections, please contact me at one of the addresses below'. It is written by David N. Thomas.

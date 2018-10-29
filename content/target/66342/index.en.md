@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Association for Colon Hydrotherapists (ARCH)
-
 ARCH is the UK’s oldest and largest association for colon hydrotherapists, setting standards, promoting the industry and offering support for over 200 therapists nationwide.

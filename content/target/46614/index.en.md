@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The:  Remainers seem to think it's a scandal that Theresa May listened to the British people over the EU 
-
 This article dissects the argument that Theresa May should not have succeeded David Cameron as prime minister and be in charge of the Brexit negotiations because she supported remaining in the EU before the referendum.

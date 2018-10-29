@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Morgan Hill (@pcwizz) on Twitter (Pirate Party  Politician)
-
 Morgan Hill stood as Pirate Party UK candidate for Eddisbury in the 2017 General Election but was not elected.

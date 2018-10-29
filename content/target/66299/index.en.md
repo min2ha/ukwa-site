@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sexuality and Abortion Stigma: a secondary qualitative analysis study (SASS) Project (@SASS_project) on Twitter
-
 Twitter account for a research project examining abortion stigma in the UK

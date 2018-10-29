@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Friends World Committee for Consultation
-

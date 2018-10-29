@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Lord Mandelson: Labour will not win overall majority in the General Election 
-
 None

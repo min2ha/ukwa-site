@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Finally we see the Ed Miliband we hoped for
-
 None

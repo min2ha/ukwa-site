@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Let us vote on a new coalition, say Tory MPs
-
 None

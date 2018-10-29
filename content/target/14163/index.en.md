@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alastair Stewart (alstewitn) on Twitter
-

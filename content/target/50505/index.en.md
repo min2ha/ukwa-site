@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Troon Football Club
-
 Site for a Scottish junior football club based in Troon, Ayrshire.

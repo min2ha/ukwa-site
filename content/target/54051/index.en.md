@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Terry Durrance (@durrance_terry) on Twitter (UKIP Politician)
-
 Terry Durrance stood as UK Independence Party (UKIP) candidate for Southport in the 2017 General Election but was not elected.

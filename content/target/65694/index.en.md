@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Sully Hospital, South Wales 
-
 The blog provides postings on Sully Hospital, the TB and heart hospital, which closed in 2001. The blog often provides memories from ex- patients or former members of staff. The blog was set up in 2009.

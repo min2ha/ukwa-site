@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harry Gillam aerialist Facebook
-
 None

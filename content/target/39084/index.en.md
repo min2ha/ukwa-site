@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Dark Clouds are Smouldering into Red
-
 “Dark Clouds are Smouldering into Red” is a new commission by Derby based orchestra Sinfonia Viva that will explore the shifting dimensions of personal relationships during World War 1.

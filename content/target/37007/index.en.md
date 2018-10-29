@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Southside Film Festival
-
 Site of a hyper local film festival based the South Side of Glasgow and promoting and showing films of local interest.

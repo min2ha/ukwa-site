@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Shooting
-
 None

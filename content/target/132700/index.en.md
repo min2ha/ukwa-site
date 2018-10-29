@@ -10,5 +10,3 @@
   "start_date": "2006-07-19T00:00:00Z"
 }
 
-# Smotyn: Dylunio Smotyn Design
-

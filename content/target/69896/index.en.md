@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  The ticking Brexit clock demands clarity from both sides, but also adds to the risk of No Deal
-
 Overall although it’s almost certain that the UK will leave the UK next spring, the range of possible outcomes for Brexit remains quite wide open.
 

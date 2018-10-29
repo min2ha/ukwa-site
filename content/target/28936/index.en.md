@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Birmingham Liberal Democrats
-
 Website of Birmingham Liberal Democrats, providing updates on party positions on issues, contact details of Liberal Democrat councillors in Birmingham and how to get involved. 

@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# An Talla Solais Gallery
-
 Site of a visual arts centre and gallery in Ullapool, hosting a wide range of exhibitions of contemporary art.

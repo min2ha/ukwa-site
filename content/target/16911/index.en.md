@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Living Streets: A Manifesto for Living Streets
-
 Living Streets is the national charity that stands up for pedestrians. They work to create safe, attractive, enjoyable streets where it’s great to walk.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What on earth happened?
-
 Comments on the breakdown of Brexit talks between the UK  and the EU on December 4th 2017 over the Irish border issue.

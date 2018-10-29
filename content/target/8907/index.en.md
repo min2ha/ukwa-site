@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Greenpeace: Nelson Mandela
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anum Qaisar (@anum_qaisar) on Twitter
-
 Twitter profile of Anum Qaisar, Scottish National Party list candidate for Central Scotland region in the 2016 Scottish Parliamentary election.

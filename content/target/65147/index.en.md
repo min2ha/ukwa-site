@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Association of Women Barristers, The (AWB)
-
 The Association of Women Barristers was founded in 1991 and seeks to monitor and represent the interests of women at the English Bar.

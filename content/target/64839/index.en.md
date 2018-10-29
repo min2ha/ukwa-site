@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Joanna Skelt - Birmingham poet laureate 2013 to 2014
-
 Birmingham City Council page celebrating the 2013 to 2014 poet luareate, Joanna Skelt.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Orcadians, Shetlanders and Hebrideans for Scottish Independence on Facebook.
-
 A Facebook group for supporters of Scottish independence residing in the Orkney Isles, Shetland Isles and the Hebrides.

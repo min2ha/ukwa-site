@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Matthew's-Rosslyn Chapel
-
 Site of a Scottish Episcopal church and church community located in Roslin, Midlothian, Scotland; the spriritiual community of Rosslyn Chapel.

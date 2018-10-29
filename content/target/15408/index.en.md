@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penarth View
-
 <p>This is the website for Penarth View, a quarterly free publication that is delivered to the homes and businesses in Penarth.</p>

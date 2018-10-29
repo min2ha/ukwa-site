@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Assembly Wales (@AssemblyWales) on Twitter
-
 This is the official twitter account of the National Assembly for Wales.

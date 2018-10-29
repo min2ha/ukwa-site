@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# School for Social Entrepreneurs
-
 None

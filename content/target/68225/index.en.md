@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# British Council: India Wales - building relationships through art
-
 India Wales is a joint initiative between Wales Arts International and the British Council that supports artistic collaboration and exchange between creative professionals and arts organisations in Wales and India.

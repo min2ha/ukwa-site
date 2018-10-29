@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PC Darren Burnett (ArbroathWestPC) on Twitter
-
 <p>The twitter profile of althete Darren Burnett, lawn bowls player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

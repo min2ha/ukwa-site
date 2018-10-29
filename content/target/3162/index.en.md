@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Rugby Union
-
 Scottish Rugby is the governing body for rugby union in Scotland. Their role is to support the game and players, and help it flourish.

@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Teapots made by Andy Titcomb
-
 None

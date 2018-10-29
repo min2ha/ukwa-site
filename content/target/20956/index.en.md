@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Jabbour (@JGJabbour) on Twitter
-
 The Twitter profile of George Jabbour, the Conservative Party candidate for Inverclyde in the UK General Election on the 7th May 2015 and Bridgend at the National Assembly Election 2016.

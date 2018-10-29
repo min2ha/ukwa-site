@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Loch Ness Catholic Parishes
-
 Site of two Scottish Roman Catholic parish churches located around Loch Ness, Highland, Immaculate Conception, Stratherrick and St. Peter & St. Benedict’s, Fort Augustus.

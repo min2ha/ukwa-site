@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Jones on Facebook (Labour Candidate for Bristol North West)
-

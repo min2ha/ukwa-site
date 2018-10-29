@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Staffordshire Combined Healthcare
-
 None

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# ПУШКИНвБРИТАНИИ / PUSHKINvBRITANII (PUSHKINinBritain)
-
 An international festival of Russian poetry.

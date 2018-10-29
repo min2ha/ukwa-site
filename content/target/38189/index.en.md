@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Students for Britain Swansea (@SfBSwanseaUWTSD) on Twitter
-
 The SwanseaUWTSD branch of Students for Britain, campaigning to vote to leave the EU 

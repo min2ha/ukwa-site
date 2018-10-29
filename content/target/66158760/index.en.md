@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Leicestershire Police Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Elizabeth Evans (@liz4ceredigion) on Twitter (Liberal Democrats candidate for Ceredigon)
-
 Elizabeth Evans is the Liberal Democrats candidate for Ceredigion at the 2016 National Assembly Elections.

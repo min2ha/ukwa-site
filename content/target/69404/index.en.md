@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Strathaven
-
 Site of a Scottish Roman Catholic parish church located in Strahaven, Lanarkshire.

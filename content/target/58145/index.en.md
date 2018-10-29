@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tweed Valley Forest Festival
-
 Site of an annual festival celebrating the connections with the area’s Halloween customs and growing forest culture, based around the Tweed Valley Forest Park and Peebles.

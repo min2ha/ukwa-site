@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Roman Catholic Church Greenock, Scotland
-
 Site of a Scottish Roman Catholic parish church located in Greenock, Renfrewshire.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Country & Town House Magazine
-
 The stylish monthly magazine for those who love town and country life, featuring fashion, interiors, food, property and luxury travel.

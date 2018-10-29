@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Rumis Cave
-
 Inspired by the legacy of Rumi, we aim to provide the cultural, social and spiritual foundations; to nurture individuals, revive communities and build bridges in society.

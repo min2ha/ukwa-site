@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Poetry Kit, The
-
 Online poetry resource with listing of publications, competitions, open mic events and features on individual poets. Hosts the archive of the Poetry Kit magazine, an online publication which ran from 1998 to 2011

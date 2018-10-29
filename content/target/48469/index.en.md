@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Belfast Telegraph: Theresa May Brexit Speech signals a plan for Britain - but not one for Northern Ireland
-

@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# The University of Sheffield -  (Online Research Data) live
-
 ORDA (Online Research Data) is the hub for managing and sharing University of Sheffield research data, powered by figshare.

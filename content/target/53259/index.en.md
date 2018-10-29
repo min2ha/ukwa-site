@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart McDonald (@Stuart_McDonald) on Twitter
-
 Twitter profile of Stuart McDonald, Scottish National Party candidate for Cumbernauld, Kilsyth and Kirkintilloch East in the 2017 general election.

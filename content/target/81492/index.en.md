@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Baggies
-
 LGBT+ Supporters of West Bromwich Albion Football

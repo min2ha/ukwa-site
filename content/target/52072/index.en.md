@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn welcomes early general election
-
 Labour leader Jeremy Corbyn welcomed the prime minister's  announcement, of a general election on June 8th 2017, calling it a "chance to vote for a government that will put the interests of the majority first".

@@ -10,5 +10,3 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Jane Hutt on Facebook (Labour AM for the Vale of Glamorgan)
-

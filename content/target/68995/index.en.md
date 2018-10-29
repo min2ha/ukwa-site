@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Hawarden Choir
-
 Hawarden Choir is a mixed voice choir and was formed in 1954 by Dr. Emlyn Roberts.

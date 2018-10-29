@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Joe Twyman. If I were Prime Minister: I'd ban U2 and smoking
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Archives Society, The
-
 The Catholic Archives Society is a voluntary organisation founded in 1979 to promote the care of the archives of the Roman Catholic Church in the United Kingdom and Republic of Ireland.

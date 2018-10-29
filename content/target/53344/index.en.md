@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ross Thomson | MP for Aberdeen South
-
 Ross Thomson, Member of Parliament for Aberdeen South (Scottish Conservative and Unionist Party).

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: People's Vote says 'multiple opportunities' for Brexit referendum
-
 Theresa May ruled out a referendum on the outcome of the Brexit negotiations under any circumstances. But People's Vote said there were six plausible scenarios in which Parliament could legislate for another vote. It said there should be a choice for voters between leaving with or without a deal or staying on current terms. It said there should be a choice for voters between leaving with or without a deal or staying on current terms.
 
 

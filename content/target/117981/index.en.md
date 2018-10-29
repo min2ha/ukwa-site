@@ -10,6 +10,4 @@
   "start_date": "2006-03-09T00:00:00Z"
 }
 
-# Abertyleri ar lein - Abertillery online
-
 None

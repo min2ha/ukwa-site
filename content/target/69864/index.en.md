@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Marys Star of the Sea, Largs
-
 Site of a Scottish Roman Catholic parish church located in Largs, Ayrshire and their associated church, Our Lady of Perpetual Succour, Millport.

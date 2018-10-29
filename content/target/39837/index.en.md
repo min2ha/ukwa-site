@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) / East Dumbartonshire / Strathkelvin and Bearsden
-
 The Scottish National Party (SNP) branch covering the East Dumbartonshire constituency for the UK House of Commons and the Strathkelvin and Bearsden constituency for the Scottish Parliament.

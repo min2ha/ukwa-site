@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Stirling Greens | The Stirling and Clackmannanshire Branch of the Scottish Green Party
-

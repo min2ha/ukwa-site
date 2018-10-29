@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# FaithAction
-
 FaithAction is a network of faith-based and community organisations serving their communities by delivering public services (such as childcare, health and social care, housing and welfare to work).

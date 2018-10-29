@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: October 26th 2017: Final Withdrawal Agreement
-

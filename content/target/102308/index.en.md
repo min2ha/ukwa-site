@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Comment on Reproductive Ethics (CORE)
-

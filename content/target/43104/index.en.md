@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Transition Shetland
-
 Site of a group in Shetland raising awareness of and addressing locally the issues of the effects of climate change and peak oil.

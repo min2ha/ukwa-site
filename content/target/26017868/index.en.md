@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# No2NuclearPower
-
 None

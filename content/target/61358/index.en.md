@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# A story of Tom Jones. The Musical
-
 A Story of Tom Jones. The Musical toured theatres across the UK in 2016 and was a step back in time to the dance halls, working men’s clubs and recording studios of the ‘60s in the Valleys where the legend of Tom Jones was born. It is Theatr na nÓg /TNN Production.

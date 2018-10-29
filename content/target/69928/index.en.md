@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Gunnie Moberg Archive, The | Orkney Library and Archive
-
 Blog written by Orkney Library and Archive staff, relating to the archive of the Swedish photographer, painter and designer Gunnie Moberg.

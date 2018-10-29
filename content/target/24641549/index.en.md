@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# British Airways (BA)
-
 Official website of the British airline.

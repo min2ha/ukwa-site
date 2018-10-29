@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# YWCA Scotland
-
 Site of a feminist organisation and part of a worldwide movement of women leading change, with a vision for a world where every woman can shape her own life journey and fulfil her potential, where the voices of women are heard, respected and celebrated.

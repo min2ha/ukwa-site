@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Young people have once again got the short end of the political stick
-

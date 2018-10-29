@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Union Gallery
-
 UNION Gallery was founded in 2007 by Jari Lager, director. Since then the gallery has been committed to presenting the works of young emerging artists.

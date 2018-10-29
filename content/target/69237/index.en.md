@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margarets RC Church on Facebook
-
 Site of a Roman Catholic church in Scotland for the parish of St. Margarets, Johnstone, Renfrewshire.

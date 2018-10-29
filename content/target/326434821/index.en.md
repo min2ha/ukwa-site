@@ -10,5 +10,3 @@
   "start_date": "2015-08-11T00:00:00Z"
 }
 
-# White Rock Trails
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Leaving the EU won't fix our border control problem says Ann Widdecombe
-
 Column by Ann Widdecombe

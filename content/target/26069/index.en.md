@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory chairman Grant Shapps rules out post-election deal with Ukip
-
 None

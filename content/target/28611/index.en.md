@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pits, Ponies, People and Stories on Facebook
-
 Pits, Ponies, People and Stories repost Jim Gellatly's request to retweet his message for the pupils of St. Athanasius Primary in South Lanarkshire.

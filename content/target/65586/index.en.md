@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Association for Clinical Data Management (ACDM)
-
 The Association for Clinical Data Management (ACDM) represents professionals working in the management of clinical data. Founded over 30 years ago, we have been at the forefront of changes in all aspects of the management of clinical data in clinical trials. 

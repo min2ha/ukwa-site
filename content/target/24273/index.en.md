@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP candidates threaten to deliver 'Westminster's worst nightmare'
-
 None

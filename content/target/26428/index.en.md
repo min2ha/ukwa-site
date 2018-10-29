@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jeremy Heywood: the civil servant who will run the show after indecisive vote
-
 None

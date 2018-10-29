@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Norman Lamb (Liberal Democrat candidate for North Norfolk)
-

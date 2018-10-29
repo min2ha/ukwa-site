@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Fountain Area Resident's Association FARA Website
-

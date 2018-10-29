@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# NaturalMuscle.co.uk British Drug Free Bodybuilding
-
 An online enthusiast community concerned with drug free bodybuilding. Discusses nutrition, journals, training,competitive bodybuilding and other related topics.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Mark Pitman | Welsh football journalist and blogger
-

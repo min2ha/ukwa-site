@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Dyfi Distillery, The
-
 Dyfi Distillery is a small family run distillery creating hand crafted Gin with Wild Welsh Botanicals and is based in the Dyfi Valley near Machynlleth.

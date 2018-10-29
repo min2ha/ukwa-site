@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Association for French Language Studies (AFLS)
-
 AFLS was founded in 1981 to encourage and promote language teaching activities and research in French Language and Linguistics. 

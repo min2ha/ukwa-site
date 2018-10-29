@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Welsh Labour Grassroots
-
 Blog for activits and supporters of the political left and centre left of the Labour Party in Wales 

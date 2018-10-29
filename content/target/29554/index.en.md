@@ -10,5 +10,3 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Regimental Museum of The Royal Welsh (Brecon), The
-

@@ -11,6 +11,4 @@
   "subject": "Smoking Ban UK 2007"
 }
 
-# UK National Smoking Cessation Conference (UKNSCC)
-
 None

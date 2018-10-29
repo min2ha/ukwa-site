@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# DenisCampbell (@UKProgressive) on Twitter (Liberal Democrats candidate for Vale of Glamorgan)
-
 DenisCampbell is the Liberal Democrats candidate for Vale of Glamorgan at the 2016 National Assembly for Wales election. 

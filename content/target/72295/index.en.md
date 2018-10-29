@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Sun, The: LEO MCKINSTRY A new form of Gallic hostility has emerged with a French President who fancies himself as another Napoleon
-
 With his vain delusions of grandeur, President Macron — a man who once spent 26,000 euros in three months on make-up — fancied himself as a modern version of Napoleon, ready to dominate Europe by hammering the British. His government’s determination to make trouble over Brexit is ever more apparent.
 
 

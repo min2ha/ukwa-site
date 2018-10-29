@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow Scottish National Party (SNP)
-
 The Glasgow branch of the Scottish National Party.

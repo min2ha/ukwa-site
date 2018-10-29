@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Museums Showoff
-
 It’s an open mic night featuring curators, conservators, librarians, collectors, trustees, security people, retail folk, educators, funders, explainers, visitors, academics, archivists and everyone else associated with museums, libraries, archives and collections.

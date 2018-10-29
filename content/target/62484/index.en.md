@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women's Football Archive
-
 Remembering and celebrating the history of women's football.

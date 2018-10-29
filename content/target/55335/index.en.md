@@ -10,5 +10,3 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Beaufort Male Choir
-

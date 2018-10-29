@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP's Nigel Farage wants return to immigration 'normality'
-
 None

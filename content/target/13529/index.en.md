@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: A Scottish spectacle of sport and politics: the view from Australia 
-
 <p>Article by David Rowe on Australian perceptions of the XX Commonwealth Games. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

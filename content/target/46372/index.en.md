@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Merched y Wawr - Cangen Bethel
-
 Merched y Wawr is a voluntary, non-political, organisation for women in Wales. This is the site for Bethel branch, Gwynedd.

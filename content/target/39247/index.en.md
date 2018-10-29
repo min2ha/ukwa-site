@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Zara Kitson Scottish Greens on Facebook
-

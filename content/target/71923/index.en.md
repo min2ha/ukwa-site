@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Scottish Land Court, The
-
 The Scottish Land Court "has authority to resolve a range of disputes, including disputes between landlords and tenants, in agriculture and crofting."

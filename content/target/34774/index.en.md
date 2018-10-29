@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maria ☀ (@mariafeeneyx) on Twitter
-
 Maria Feeney is the prospective RISE Alliance candidate for Central Scotland in the 2016 Scottish Parliamentary election.

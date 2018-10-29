@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for New Europe: Ulster says "yes": the people of Northern Ireland know that they are better off in
-
 A description of the benefits of reimaining in the EU for Northern Ireland

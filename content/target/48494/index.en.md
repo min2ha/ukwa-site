@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Falkland Islands News Network  
-

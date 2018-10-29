@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: The Liberal Democrats' darkest hour
-
 None

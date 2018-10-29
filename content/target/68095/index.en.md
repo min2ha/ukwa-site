@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wallingford Rugby (@wallingfordrfc) on Twitter
-
 The official Twitter account of Wallingford Rugby Club.

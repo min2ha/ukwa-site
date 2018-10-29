@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# VisitArran
-
 Site of a tourism information and marketing organisation located and focusing on the Isle of Arran, Argyll & Bute, Scotland.

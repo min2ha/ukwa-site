@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Irregular Voices: migrant children speak out!
-
 Blog discussing the work of comparative project aiming to advance knowledge on the experiences and everyday lives of migrant children in the United Kingdom, at COMPAS, Oxford University.

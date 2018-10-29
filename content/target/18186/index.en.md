@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP MP Douglas Carswell calls for electoral reform 
-
 None

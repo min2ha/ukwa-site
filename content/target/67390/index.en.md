@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hawcoat Park RUFC (@HPRUFC_Official) on Twitter
-
 The official Twitter account of Hawcoat Park Rugby Union Football Club. Established 1930.

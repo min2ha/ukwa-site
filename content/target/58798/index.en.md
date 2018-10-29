@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# THis Is North Kensington (THINK)
-
 Blogsite: "THis Is North Kensington exists to celebrate our beautiful, vibrant, historical and diverse community here in North Kensington, which is sadly under threat by the policies of our council and our government."

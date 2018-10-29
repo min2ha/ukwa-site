@@ -10,6 +10,4 @@
   "start_date": "2016-09-10T10:00:00Z"
 }
 
-# Assignment Help
-
 An online service that helps write assignments for students.

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish Post, The: 10 facts about the Irish men who fought for the British during the 1916 Easter Rising
-

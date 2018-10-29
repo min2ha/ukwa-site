@@ -10,6 +10,4 @@
   "start_date": "2018-04-04T09:00:00Z"
 }
 
-# Guardian, The:Abortion
-
 The subsection of The Guardian newspaper related to abortion

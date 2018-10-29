@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War: Britain’s surviving vessels
-
 This website has been created by National Historic Ship UK  (NHS-UK), with the support of the Heritage Lottery Fund. More than 60 of these participated in the First World War in some way.  This website has been set up to tell the stories of these maritime veterans.

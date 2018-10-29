@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# The MUSEUM of SOMERSET
-
 Set in the heart of Taunton, the Museum of Somerset lies within the 12th Century Taunton Castle and tells the county’s story from prehistoric times to the present day, using real objects, interactive games, eye-catching film projections and the words and voices of Somerset people, past and present.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liz Kendall (@leicesterliz) on Twitter (Labour  Politician)
-
 Liz Kendell stood as Labour candidate for Leicester West in the 2017 General Election and was elected. She was first elected for Leicester West in 2010 and was re-elected in 2015. 

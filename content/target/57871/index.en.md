@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hugh Dan MacLennan on Twitter
-

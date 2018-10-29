@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nick Harvey (@NickHarveyND) on Twitter (Liberal Democrats Politician)
-
 Nick Harvey stood as Liberal Democrats candidate for North Devon at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tidelines Book Festival
-
 Festival is planned and organised by a team of enthusiastic volunteers.

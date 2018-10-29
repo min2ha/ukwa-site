@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Yachting Association (RYA) Cymru Wales
-
 The RYA Cymru Wales is the National Governing Body for the sports of sailing, windsurfing and powerboating in Wales. 

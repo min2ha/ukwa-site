@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ModMyPi
-
 ModMyPi LTD specialise in the 3D design and manufacture of Raspberry Pi Cases.

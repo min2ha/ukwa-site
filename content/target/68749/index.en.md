@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Valley Landscape Projects
-
 We specialise in undertaking entire projects from design to completion lifting the pressure and stress from you throughout.

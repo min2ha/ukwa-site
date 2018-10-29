@@ -10,5 +10,3 @@
   "start_date": "2013-06-19T00:00:00Z"
 }
 
-# Addysg Bersonol a Chymdeithasol (ABCh) | Personal and Social Education (PSE)
-

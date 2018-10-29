@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Stories from the Web
-
 None

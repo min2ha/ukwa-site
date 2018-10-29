@@ -10,5 +10,3 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Glasgow Lawyers | Aamer Anwar & Co.
-

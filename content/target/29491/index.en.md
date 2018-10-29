@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# London Sports Writing Festival
-
 The London Sports Writing Festival was launched in October 2013 by David Luxton Associates in partnership with the MCC.

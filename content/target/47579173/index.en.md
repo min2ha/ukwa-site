@@ -10,5 +10,3 @@
   "start_date": "2010-05-11T00:00:00Z"
 }
 
-# Freedom for Children to Grow
-

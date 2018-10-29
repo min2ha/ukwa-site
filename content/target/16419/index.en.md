@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Lab Bulletin
-
 <p>Lab Bulletin is a free online resource for scientists and laboratory professionals where you can catch up on the latest news for laboratory products and services. It also publishes four free monthly E-Newsletters.</p>

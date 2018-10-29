@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Brynmawr Historical Society | Cymdeithas Hanes Brynmawr
-

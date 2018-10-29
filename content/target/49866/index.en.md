@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# John Major
-
 This website offers access to thousands of speeches and statements relating to both Sir John Major and the 1990-1997 Conservative administration. A detailed biography of Sir John is available and also a chronology of the major events of his premiership.

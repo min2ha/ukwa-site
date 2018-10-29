@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wisden
-
 Wisden is the independent voice of cricket. Get the latest news, best columnists and most comprehensive coverage of the game at all levels.

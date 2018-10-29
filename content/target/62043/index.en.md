@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ashton Gate Stadium
-
 Ashton Gate is a stadium in Ashton Gate, Bristol, England, and is the home of Bristol City F.C. and Bristol Rugby. Located in the south-west of the city, just south of the River Avon, it currently has an all-seated capacity of 27,000.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Greatrex MP (tomgreatrexmp) on Twitter
-
 The twitter profile of Tom Greatrex, Labour (Co-op) cansdidate for Rutherglen and Hamilton West in the General Election on 7th May 2015.

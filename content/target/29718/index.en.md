@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bacup Home Front
-
 Website dedicated to the military personnel from Bacup, Lancashire, who served during World War 1.

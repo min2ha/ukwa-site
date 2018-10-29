@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Tangible Memories
-
 The main goal of the project is to help improve the quality of life for residents in care homes by building a sense of community and shared experience through a cooperative exploration of their life history stories. Rather than put these stories on a website, the project seeks to find creative ways to attach stories to objects that are personally meaningful to participants so that they can remind themselves of important memories and share them with others if they choose.  

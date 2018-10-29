@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Shunt
-
 Shunt was a collective of artists creating and curating live performance in unusual locations within London.

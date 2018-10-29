@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paulsturdy (@Paulsturdyyaho1)  on Twitter (BNP Politician)
-
 Paul Sturdy stood as British National Party candidate for Dagenham and Rainham in the 2017 General Election but was not elected.

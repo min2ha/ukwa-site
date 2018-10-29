@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millwall LIONESSES (@millwalllioness) on Twitter
-
 The official Twitter account of @FAWC_ side Millwall Lionesses FC. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : Labour leadership thought public polls were too optimistic
-
 None

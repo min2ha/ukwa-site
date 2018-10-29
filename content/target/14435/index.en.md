@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Please read the article and not just the headline....
-
 Ewan Morrison's post of the 30th May 2014, responding to Severin Carrell, Ian Griffiths and Terry Macalister's article published in TheGuardian.com on the 29th: "New doubt cast over Alex Salmond's claims of Scottish wealth".

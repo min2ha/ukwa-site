@@ -10,6 +10,4 @@
   "start_date": "2016-12-07T09:00:00Z"
 }
 
-# We go to the gallery : Dung Beetle Learning
-
 Dung Beetle Press publishes artist Miriam Elia and Ezra Elia's Kickstarter-funded satirical book 'We go to the gallery' and further similar works. Penguin Random House UK took legal action against Elia over publication of the book.

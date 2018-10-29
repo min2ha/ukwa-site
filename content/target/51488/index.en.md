@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Caerwent Evangelical Baptist Chapel
-

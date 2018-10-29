@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Worcester Cathedral
-
 Official website of Worcester Cathedral.

@@ -10,8 +10,6 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# National Education Trust
-
 The National Education Trust plays a
 leading role in the improvement of the
 education service in the UK, from the

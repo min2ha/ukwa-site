@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Alloway Parish Church
-
 Website of the Alloway Parish Church. 

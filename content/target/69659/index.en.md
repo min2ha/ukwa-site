@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Change
-
 Website for Festival Change, an arts festival with emphasis on social progress.

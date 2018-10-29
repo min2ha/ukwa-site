@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Brian Whittle | MSP for South Scotland
-
 Brian Whittle, Scottish Conservative Member of the Scottish Parliament (MSP) for the South Scotland constituency.

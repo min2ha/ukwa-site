@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Corbyn’s Brexit anarchy: Hours after Labour hints at second poll, leader says he’ll BACK Theresa May (if we stay in the customs union)
-

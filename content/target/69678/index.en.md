@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rapture Gaming Festival
-
 Website for Rapture Gaming Festival.

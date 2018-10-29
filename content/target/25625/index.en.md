@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Inheritance tax was not designed for the super-rich – that’s a Tory myth
-
 None

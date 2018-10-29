@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: BBC accused of 'leftist hostility' after 'childish' presenter offers Cameron £1,000 bet he would not win the election and repeatedly interrupts him
-
 None

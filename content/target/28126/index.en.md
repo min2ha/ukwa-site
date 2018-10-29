@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Political Animal Wales
-
 RSPCA Cymru’s Political Animal resource aims to provide decision-makers politicians, staff and other key stakeholders with key information, detail, briefings and more concerning animal welfare in Wales.

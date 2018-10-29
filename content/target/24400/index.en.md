@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron says he will never validate DUP policy on gay rights and LGTB issues
-
 None

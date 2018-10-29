@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservative Home: a round-up of think-tank reaction to the Conservative manifesto
-

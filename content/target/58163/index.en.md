@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Kailzie Gardens
-
 Site of a visitor attraction near Peebles, Scottish Borders.

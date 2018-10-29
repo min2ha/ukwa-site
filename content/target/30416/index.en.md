@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Cyngor Rheolaeth Cymru | Wales Management Council
-
 Wales Management Council mission is to help managers in Wales to lead and manage successfully across all sectors in Wales. 

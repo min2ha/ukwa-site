@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Left Lion: Nottingham Creatives on the EU Referendum
-

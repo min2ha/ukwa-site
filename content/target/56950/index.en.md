@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Cities@SAS
-
 This site is an archived research project from the School of Advanced Study. 

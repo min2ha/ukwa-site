@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robert Holderness (@RobHolderness90) on Twitter
-
 The twitter profile of althete Robert Holderness, swimmer and member of Team Wales for the Glasgow 2014 Commonwealth Games.

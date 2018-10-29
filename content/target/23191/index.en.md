@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Campaign for Real Ale (CAMRA): GE2015
-
 CAMRA, the Campaign for Real Ale is an independent, voluntary organisation campaigning for real ale, community pubs and consumer rights.

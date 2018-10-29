@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# British Society for Histocompatibility &  Immunogenetics (BSHI)
-

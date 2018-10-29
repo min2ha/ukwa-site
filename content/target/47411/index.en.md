@@ -11,8 +11,6 @@
   "subject": "Housing and Social Housing"
 }
 
-# The Winchester
-
 Urbex blog featuring a range of derelict buildings and urban spaces. "Although my interests stem from dereliction and infrastructure, I am also interested in architecture, urban planning/change and alternative usage for urban space.
 
 Alternative lifestyles, squatting, mental health, urban art/grafitti, The politics of space, society and propaganda also interest me and can tie in with the dominant activities on this site."

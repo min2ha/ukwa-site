@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Coleraine FC Girls (@ColeraineGirls) on Twitter
-

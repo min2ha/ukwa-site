@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of the British Pharmaceutical Industry: Securing the Opportunity for UK Life Sciences by 2022
-
 The manifesto sets out three key principles for the next UK government to prioritise: securing a world-class NHS for patients; securing global investment and jobs; and securing a new relationship with the EU that prioritises patient and public health
 

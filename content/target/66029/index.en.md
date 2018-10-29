@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Scottish Labour History Society Blogspot
-
 Blog of an independent organisation who seek to promote labour and working class history; form and run regional labour history groups and workshops; expand their range of contacts with sympathetic organisations (museums, societies, labour movement bodies, etc); and expand publishing, and other appropriate activities and outputs, in the field of labour and working class history. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rattray Art Festival
-
 Site of an annual art festival located in the burgh of Blairgowrie and Rattray, Perth & Kinross.

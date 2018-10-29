@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Failing EU is just like the multi-nation USSR and is set for same fate, says NICK FERRARI
-
 Column by Nick Ferrari

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah Miley (HannahMiley89) on Twitter
-
 The twitter profile of althete Hannah Miley, swimmer.

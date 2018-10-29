@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Central (@BrexitCentral) on Twitter
-
 Bringing news and analysis of the UK’s departure from the EU and promoting a positive and optimistic vision of Britain after #Brexit.

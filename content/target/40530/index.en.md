@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Montrose Football Club
-
 Site of a senior Scottish football club based in Montrose.

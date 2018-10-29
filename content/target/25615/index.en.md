@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How the Tories dehumanise low-paid families – or should I say ‘benefit units'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Scottish Chamber Choir
-
 Site of a Scottish choir based in Edinburgh performing classical works and workshops.

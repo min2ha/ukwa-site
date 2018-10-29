@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Whyte's Causeway Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Kirkcaldy, Fife.

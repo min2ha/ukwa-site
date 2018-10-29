@@ -10,5 +10,3 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Dundee SciFest 2015 (@DundeeSciFest) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Airedale NHS Foundation Trust
-
 None

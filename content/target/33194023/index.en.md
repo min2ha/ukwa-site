@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Woodbrooke Quaker Study Centre
-
 Woodbrooke is a Quaker Study Centre, offering adult education since 1903.

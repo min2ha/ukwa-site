@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Karen Whitefield (@Karen4Falkirk) on Twitter
-
 The Twitter profile of Karen Whitefield, the Labour Party candidate for Falkirk in the UK General Election on the 7th May 2015.

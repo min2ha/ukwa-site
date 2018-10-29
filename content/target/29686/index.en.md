@@ -10,6 +10,4 @@
   "start_date": "2015-08-11T10:00:00Z"
 }
 
-# Suffolk Libraries Bookfest
-
 Suffolk Libraries Bookfest

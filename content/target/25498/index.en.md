@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The week the gloves came off in the 2015 election as parties try to break deadlock
-
 None

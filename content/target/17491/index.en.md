@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls vows comprehensive review of tax-planning schemes
-
 None

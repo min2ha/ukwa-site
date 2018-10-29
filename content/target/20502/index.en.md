@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron denies ducking out of debate with Ed Miliband - video 
-

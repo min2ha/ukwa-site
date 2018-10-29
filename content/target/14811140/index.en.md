@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Pencubitt Country House Hotel
-
 None

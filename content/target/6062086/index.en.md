@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Charles Beagrie
-
 Charles Beagrie Limited is an independent management consultancy company specialising in the digital archive, library, science and research sectors. 

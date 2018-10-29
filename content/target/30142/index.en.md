@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# Metro Consortium
-
 The Cardiff Capital Region Metro is a project that aims to connect and transform the communities of the City Region.

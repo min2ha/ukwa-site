@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Dalgety Parish Church
-
 Site of a Church of Scotland parish church at Dalgety Bay, Fife.

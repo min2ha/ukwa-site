@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# MK Festival of Running
-
 Website for the Milton Keynes Half Marathon and Festival of Running.

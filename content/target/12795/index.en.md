@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inst. of Fundraising (ioftweets) on Twitter
-
 <p>The twitter profile of the Institute of Fundraising, the professional membership body for UK fundraising.</p>

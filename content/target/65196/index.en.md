@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# myBSPR
-
 The website of the British Society of Paediatric Radiology

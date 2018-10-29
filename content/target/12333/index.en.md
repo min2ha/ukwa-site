@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# TUSC (TUSCoalition) on Twitter
-
 The official Twitter feed for the Trade Unionist and Socialist Coalition.

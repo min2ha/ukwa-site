@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Grantown Society
-
 Site of a local organisation established to locate sources of information regarding the development of the community; record this information and to make it available to the public and other interested parties; stimulate public interest in, and care of, the beauty, history, culture and character of the area of the town and its surroundings; encourage the conservation, development and improvement of features of general public amenity or historical interest.

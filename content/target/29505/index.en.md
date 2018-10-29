@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Future Water Association
-
 The Future Water Association, formerly known as the Society of British Water and Wastewater Industries (SBWWi) has a vision to shape the future of water. The Association is a not for profit organisation governed by a Management Committee made up by members, all of whom have experience within the water sector.

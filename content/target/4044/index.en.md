@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Daily Star: 940 English jobs sink as yard is 'sacrificed to win Scottish votes'
-
 None

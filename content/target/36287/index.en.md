@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Now Lamont backs Brexit: After Michael Howard, a second Dave mentor turns against the PM on Europe  
-

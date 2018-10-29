@@ -10,5 +10,3 @@
   "start_date": "2012-10-30T00:00:00Z"
 }
 
-# Gwent Association of Voluntary Organisations
-

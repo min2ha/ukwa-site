@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Association of Radical Midwives
-
 None

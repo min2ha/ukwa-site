@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Government accused of breaking promises on NHS cancer treatment
-

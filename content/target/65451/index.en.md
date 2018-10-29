@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dog Fest
-
 Summer festival for dogs

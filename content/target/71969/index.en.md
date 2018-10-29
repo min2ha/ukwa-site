@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Fatherhood Institute: Gender Equality
-
 Sub page of the Fatherhood Institute with links to articles related to gender equality

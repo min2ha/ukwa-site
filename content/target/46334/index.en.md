@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Government announces end of European Communities Act
-
 Secretary of State for Exiting the European Union David Davis announced today that the Government planned to repeal the 1972 European Communities Act (ECA). The Act gives direct effect to all EU law and the introduction of a new Bill to repeal it will mean the Act ceases to apply from the day of exit. At the same time the new Bill will convert existing EU law into domestic law, while allowing Parliament to amend, repeal or improve any law after appropriate scrutiny and debate.

@@ -10,6 +10,4 @@
   "start_date": "2011-01-21T00:00:00Z"
 }
 
-# Insulin Dependent Diabetes Trust
-
 We raise awareness of important issues for people with diabetes and provide information in non-medical language.

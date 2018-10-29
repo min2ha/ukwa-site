@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute for Fiscal Studies: Brexit and the UK’s public finances
-
 If the result of the referendum on 23 June leads to the UK leaving the EU, there will be impacts on the UK public finances. This report aims to set out the possible impacts, focusing particularly on the short run, given that the Chancellor wishes to achieve a budget balance by the end of this parliament. It also looks at possible long-run consequences.

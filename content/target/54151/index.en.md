@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Kealey (@_ChrisKealey) on Twitter (Labour Party  Politician)
-
 Chris Kealey stood as Labour candidate for Bosworth at the 2017 General Election but was not elected.

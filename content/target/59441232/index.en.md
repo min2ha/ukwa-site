@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Kyffin Blog | Blog Kyffin
-

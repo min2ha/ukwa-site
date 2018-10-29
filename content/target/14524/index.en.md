@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Raymond Williams Foundation
-
 <p>'The Raymond Williams Foundation (RWF) commitments are specifically within the sphere of Adult Education. The Aims include 'to support: adult education through partnership with the WEA and similar organizations; the continuation of annual Raymond Williams weekends on broad social, political, philosophical and cultural themes'. - website.</p>

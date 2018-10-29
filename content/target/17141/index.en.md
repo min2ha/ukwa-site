@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election 2015: There are 100 days to go to a six-party poll that will focus heavily on the leaders
-

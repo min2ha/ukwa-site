@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: More Britons know about US Declaration of Independence than Magna Carta, survey shows
-

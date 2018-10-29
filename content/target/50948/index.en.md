@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Landmark Forest Adventure Park
-
 Site of a visitor attraction, primarily aimed at families, and business located at Carrbridge Scottish Highlands.

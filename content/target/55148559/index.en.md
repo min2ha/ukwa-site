@@ -10,5 +10,3 @@
   "start_date": "2010-08-12T00:00:00Z"
 }
 
-# Concrete Centre, The
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: NI Election 2017
-
 The splash page on BBC Northern Ireland with all the news related to the 2017 Assembly elections.

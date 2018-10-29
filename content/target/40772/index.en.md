@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Pomeroy of Portsmouth
-
 This new site replaces the former Pomeroy of Portsmouth NTLWorld/VirginMedia Pages.The church and local history pages updated but most of the original content has been transferred to this site.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Brexit on the FT
-

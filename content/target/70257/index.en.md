@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# LEGO Forum
-
 A forum for LEGO enthusiasts 

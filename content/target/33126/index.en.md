@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Backroads to the Rising
-
 ‘Backroads to the Rising’ is a community walking project devised and produced by artists Aileen Lambert and Michael Fortune. It is based on the journeys undertaken on foot and bicycle by individuals and groups involved in the Easter Rising in Wexford

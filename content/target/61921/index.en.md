@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southampton F.C.
-
 Southampton Football Club is a professional association football club based in Southampton, Hampshire, England.

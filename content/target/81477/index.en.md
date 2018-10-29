@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swansea Hammerheads (@HammerheadsUK) on Twitter
-
 American Flag Football team based in Swansea, Wales.

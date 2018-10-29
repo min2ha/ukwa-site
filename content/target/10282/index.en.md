@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Neville Farmer Liberal Democrat
-
 None

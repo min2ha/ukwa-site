@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jones for Brexit (@BrexitInJune) on Twitter
-
 The #Brexit Twitter account of David Jones MP: supporting @vote_leave in the fight for a stronger Britain outside the EU.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# London Olympics 2012 blog
-

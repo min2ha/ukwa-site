@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Running Charity
-
 The Running Charity is the UK's first running-orientated programme for homeless and vulnerable young people. Engaging them in regular running-based activities with qualified fitness professionals, they harness the underlying benefits as a powerful motivational tool. They partner with existing homeless charities, providing a diverse training programme that ensures they facilitate high levels of engagement. Young people receive quality sportswear and take part in varied fitness sessions three days a week, as well as public running events.

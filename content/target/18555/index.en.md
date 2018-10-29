@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Carmichael on Facebook
-
 Chris Carmichael is the Green candidate for Brecon and Radnorshire.

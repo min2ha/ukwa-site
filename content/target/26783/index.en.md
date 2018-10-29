@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola crisis: How a small backpack of equipment is helping combat the deadly virus
-
 An article on the development of genome surveillance in relation to the Ebola epidemic

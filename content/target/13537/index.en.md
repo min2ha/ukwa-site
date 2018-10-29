@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# GMB Scotland
-
 GMB is one of the four largest unions in the UK.

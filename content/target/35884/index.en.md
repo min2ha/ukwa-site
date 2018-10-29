@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords Library: European Union Referendum Bill
-

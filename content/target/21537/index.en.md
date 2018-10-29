@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Facebook partly to blame for Labour woes in Scotland, says Douglas Alexander
-
 None

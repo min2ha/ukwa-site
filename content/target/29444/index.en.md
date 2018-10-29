@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Popeth Cymraeg | Welsh Unlimited
-
 Welsh language learning centres located in Denbighshire and Flintshire.

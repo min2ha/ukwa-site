@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penarth Daily News
-
 Penarth's on-line daily news service.

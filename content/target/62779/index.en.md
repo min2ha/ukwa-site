@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Columba's Parish Church, Hoy and Walls on Facebook
-
 Facebook page of a Church of Scotland parish church on the island of Hoy, Orkney.

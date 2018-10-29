@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Community Land Advisory Service in Wales, The (CLAS Cymru)
-
 The Community Land Advisory Service in Wales (CLAS Cymru) aims to help community growing groups, landowners - plus others involved in land access - to work together to make more land available for community growing. 

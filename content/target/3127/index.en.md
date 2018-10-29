@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Reel Scotland
-
 Reel Scotland is an independent source for reviews, previews, features and interviews covering film and TV in Scotland.

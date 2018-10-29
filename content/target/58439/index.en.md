@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Isle of Gigha Music Festival
-
 Site of a Scottish traditional / folk music festival staged on the island of Gigha, Argyll & Bute.

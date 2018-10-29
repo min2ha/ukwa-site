@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General election 2015: everything you need to know about the economy
-
 None

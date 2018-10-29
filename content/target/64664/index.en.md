@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Andrew's & St Marnock's Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Kilmarnock, Ayrshire.

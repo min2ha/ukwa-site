@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Royal Town Planning Institute (RTPI)
-
 The Royal Town Planning Institute is the UK's leading planning body for spatial, sustainable and inclusive planning and is the largest planning institute in Europe with over 23,000 members.

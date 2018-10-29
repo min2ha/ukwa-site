@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Puffin Blog, The
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Kensington and Chelsea
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Romsey War Horse Statue
-
 <p>The Romsey War Horse Statue website gives information about the project and surrounding events.</p>

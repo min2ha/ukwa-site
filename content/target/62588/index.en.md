@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# ExposingBritainFirst (@ExposingBF) on Twitter
-
 Exposing Britain First aims to expose Britain First for the race hatred they promote and expose their lies by sharing the truth about their claims supported by evidence.

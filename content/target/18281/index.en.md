@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Walka2B Blog: Andy Dennis is raising money for Doctors without Borders
-

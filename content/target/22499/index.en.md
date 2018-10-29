@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders debate live: Third of Labour voters say Nicola Sturgeon won debate
-
 None

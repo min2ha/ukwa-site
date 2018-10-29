@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# National Museums Liverpool Blog: Posts tagged with 'LGBT'
-
 Posts tagged with 'LGBT' on the National Museums Liverpool Blog.

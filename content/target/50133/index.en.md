@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blackhall St. Columba's Church
-
 The website of Blackhall St. Columba's Church of scotland, located in Edinburgh. 

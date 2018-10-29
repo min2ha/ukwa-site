@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Woodwork UK Forum
-
 An online enthusiast community forum concerned with woodworking. Discusses  woodworking, hand tools, power tools and machinery, finishing, turning, projects, design and development and various other related topics.

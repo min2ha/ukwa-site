@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# daniel goodfellow (danngoodfellow) on Twitter
-
 <p>The twitter profile of diver Daniel Goodfellow, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brendan O'Hara (@BrendanOHaraSNP) on Twitter
-
 Twitter profile of Brendan O'Hara, Scottish National Party candidate for Argyll and Bute in the 2017 general election.

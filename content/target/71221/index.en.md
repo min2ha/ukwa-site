@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Sunderland Antiquarian Society
-
 Sunderland Antiquarian Society was founded on 21st November 1899 and held its first meeting on 1st February 1900.

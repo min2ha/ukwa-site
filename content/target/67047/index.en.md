@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Welsh Language and Ethnic minorities in Wales, The 
-
 This is a blog by Mohammed Esufali focusing on 'Welsh Language and Ethnic minorities in Wales'.

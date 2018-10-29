@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Pascale Lamb, Labour on Twitter
-
 None

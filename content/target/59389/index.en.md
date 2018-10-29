@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: the November negotiations
-
 The sixth round of Brexit negotiations took place on 9 and 10 November 2017. This round was unscheduled but was considered necessary by both sides, given the relative lack of progress in previous rounds and the EU’s condition that “sufficient progress” must be made on citizens’ rights, the financial settlement and the Ireland-Northern Ireland border before starting discussions on future EU-UK relations. This paper looks at what happened in the latest round of talks in each of the priority areas and at other developments linked to Brexit in the UK and the EU.

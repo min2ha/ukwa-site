@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Miliband launches stinging attack on brother Ed’s election campaign
-
 None

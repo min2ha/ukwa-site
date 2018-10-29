@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew and St. Nicholas Church
-

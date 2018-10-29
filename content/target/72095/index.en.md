@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Londrali.com (Londoner.com)
-
 A London based Turkish news website.

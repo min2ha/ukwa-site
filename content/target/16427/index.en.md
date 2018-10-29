@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Senco News
-
 <p>Senco News - News for special needs teachers throughout the UK.</p>

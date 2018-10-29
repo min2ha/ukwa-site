@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Ascension Island Heritage Society  
-
 Founded in 1966, the Society is an entirely voluntary body whose aims are to awaken public concern in, and appreciation of, the geography, history, natural history and architecture of Ascension Island, and to secure the preservation of features of historic or public interest. 

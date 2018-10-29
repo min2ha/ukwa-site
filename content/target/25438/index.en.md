@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Tory top brass told to stay away by constituencies
-
 None

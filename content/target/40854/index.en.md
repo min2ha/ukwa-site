@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kettering Online News
-
 Providing readers with local news, sport and opinion in the town and surrounding areas.

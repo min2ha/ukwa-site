@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# International Health Coordination Centre (IHCC) | Canolfan Ryngwladol Cydlynu lechyd
-
 The International Health Coordination Centre (IHCC) promotes, facilitate and support opportunities for 'international collaboration, partnership building and income generation in order to maximise potential gains for Wales and to reduce the duplication of efforts and resources'.

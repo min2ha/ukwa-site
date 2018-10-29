@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: David Cameron's interview with Andrew Marr: Politics live blog
-
 None

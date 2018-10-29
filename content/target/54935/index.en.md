@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# BearScots
-
 Social and festival site for the LBGT+ subculture group "bears" based in Scotland.

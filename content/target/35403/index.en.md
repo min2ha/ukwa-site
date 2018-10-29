@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Da Bonxie - Unreal News From An Unreal Place
-
 A Shetland based news satire web publication.

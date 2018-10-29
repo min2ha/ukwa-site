@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Walkhighlands 
-
 Site providing information, locations and walking routes for hills and mountains in the highlands of Scotland.

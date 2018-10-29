@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stephen Morris on Facebook (English Democrats candidate for Monmouth)
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Celtic Connections
-
 Site of an annual Scottish national and internation festival of Celtic music based in Glasgow, Scotland.

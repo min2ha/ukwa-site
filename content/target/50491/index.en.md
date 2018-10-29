@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Megaphone: Making minority voices heard in British children’s literature
-
 Megaphone is a new writer development scheme for Black, Asian and Minority Ethnic writers working on first novel or children's book.  It is supported by Arts Council England and the Publishers Association. Leila Rasheed had the idea for Megaphone after realising that BAME writers were still very much under-represented as children’s writers in Britain, even in the 2010s. She wanted to use her experience as a creative writing tutor in a positive, practical way to support diversity in children’s literature. 

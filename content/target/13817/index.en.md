@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Business Together (Biz_Together) on Twitter
-
 <p>The twitter profile of the business campaign for Better Together.</p>

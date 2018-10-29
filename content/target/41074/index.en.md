@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Fyne Futures Ltd
-
 Site of an organisation based on the island of Bute, Argyll & Bute, Scotland, promoting preservation of local environment through recycling, environmental management and recycling, encouraging employment, health and leisure for local residents and aiming to preserve the local built environment.

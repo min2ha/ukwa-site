@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM statement in Copenhagen: 10 October 2016
-
 Prime Minister Theresa May gave a statement following her meeting with the Danish Prime Minister Lars Løkke Rasmussen in Copenhagen, focusing on the implications of Brexit

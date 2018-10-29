@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# West Shore Baptist Church, Llandudno
-

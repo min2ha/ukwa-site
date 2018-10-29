@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FourFourTwo (@FourFourTwo) on Twitter
-
 FourFourTwo is a football magazine published by Haymarket. Issued monthly. It takes its name from the football formation of the same name, 4-4-2. This is their official Twitter account. 

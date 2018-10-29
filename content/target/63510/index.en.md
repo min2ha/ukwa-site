@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Vinyl Factory, The
-
 Record label, vinyl pressing plant and online magazine 

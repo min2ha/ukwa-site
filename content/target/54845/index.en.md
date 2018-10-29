@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Mission Gallery
-
 Mission Gallery focuses on visual arts, applied arts and craft, from across Wales and beyond, and is located in Swansea.

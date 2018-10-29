@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Dalton (@JDaltonUKIP) on Twitter (UKIP Politician)
-
 James Dalton stood as Conservative candidate for Barnsley East at the 2017 General Election but was not elected.

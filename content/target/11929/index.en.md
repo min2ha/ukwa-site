@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sarah Boyack MSP (SarahBoyackMSP) on Twitter
-
 The Twitter profile of Sarah Boyack, the Scottish Labour and Co-operative candidate for Edinburgh Central in the 2016 Scottish Parliament election.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Historic moment for Britain as the Brexit Bill is PASSED by MPs despite desperate bid by more than 100 Remoaners to block Article 50 from being triggered   
-

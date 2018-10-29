@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Performance Matters
-
 Performance Matters was a five-year creative research project exploring the cultural value of performance, its increased public presence and vital force, and its extensive circulation as a concept and metaphor in critical discourse.

@@ -10,6 +10,4 @@
   "start_date": "2011-03-18T00:00:00Z"
 }
 
-# Medicine Garden, The
-
 The medicine garden is a centre for good health based in the historic market town of Ulverston, South Lakeland, Cumbria.

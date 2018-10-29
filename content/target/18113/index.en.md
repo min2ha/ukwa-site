@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: TV debates: David Cameron ducks out of head-to-head clash with Ed Miliband 
-
 None

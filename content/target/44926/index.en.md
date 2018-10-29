@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# People's Histreh: Nottingham Radical History Group
-
 Nottingham Radical History Group is a diverse group of people interested in Nottingham’s long and turbulent history of dissent, unrest and rebellion.

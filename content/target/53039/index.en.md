@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Brexit's hard Irish border questions
-

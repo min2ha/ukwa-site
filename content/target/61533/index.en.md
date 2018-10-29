@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Linktown Church of Scotland
-
 Site of a Church of Scotland parish church at Linktown, Kirkcaldy, Fife.

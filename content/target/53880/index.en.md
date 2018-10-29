@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Deborah (@ukipenfield) on Twitter (UKIP Politician)
-
 Deborah Cairnsstood as UK Independence Party (UKIP) candidatefor Enfield North in the 2015 but was not eleced. She stood again in 2017 for the same seat but was not elected.

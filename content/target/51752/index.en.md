@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cockett - Ministry Area of Penderi
-

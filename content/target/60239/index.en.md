@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Betws y Coed & District
-
 This is a tourist information guide to Betws y Coed in Snowdonia.

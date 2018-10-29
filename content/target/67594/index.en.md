@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Portpatrick Brewery
-
 Site of a brewer at Portpatrick, Dumfries & Galloway.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Annie Wells for Glasgow North East - Politician on Facebook
-

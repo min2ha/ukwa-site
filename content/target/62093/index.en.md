@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cyber Smile Foundation, The: "BULLYING ON SOCIAL MEDIA IS LINKED TO DEPRESSION IN TEENS"
-
 The Cybersmile Foundation article on social media, bullying and depression

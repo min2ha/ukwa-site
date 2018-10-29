@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Blazin' in Beauly
-
 Site of a Scottish fiddle music festival featuring live events, sessions, and tutorials, and taking place in Beauly, Highland.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Canon Collins Trust
-
 <p>Educational charity that funded a lot of South African students. Canon Collins was an anti-apartheid campaigner.</p>

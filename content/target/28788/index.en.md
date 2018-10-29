@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# For the love of...
-
 A campaign by the Climate Coalition

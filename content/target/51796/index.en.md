@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady and Saint Michael’s Roman Catholic Church,  Abergavenny
-

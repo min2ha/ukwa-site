@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# UKCIP (UK Climate Impacts Programme)
-
 UKCIP was established in 1997. Formerly known as the UK Climate Impacts Programme, UKCIP is based at the Environmental Change Institute at the University of Oxford, which enables them to partner academics working on critical climate change issues. 

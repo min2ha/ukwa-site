@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post Comedy: EU Referendum Results Prompt Tragically Funny Tweets
-
 Article sharing social media commentary on the EU referendum results.

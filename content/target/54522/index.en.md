@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Preservation Training Programme (DPTP)
-
 The DPTP is a modular training programme, built around themed sessions that have been developed to assist participants in designing and implementing an approach to preservation.

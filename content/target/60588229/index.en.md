@@ -10,5 +10,3 @@
   "start_date": "2011-06-07T00:00:00Z"
 }
 
-# BIRD - Business Intelligence Reporting Dashboard
-

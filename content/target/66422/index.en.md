@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# CANZUK International
-
 CANZUK International was founded in January 2015 as The Commonwealth Freedom of Movement Organisation, and is the world’s leading non-profit organisation advocating freedom of movement, free trade and foreign policy coordination between Canada, Australia, New Zealand and the United Kingdom (the “CANZUK” countries).

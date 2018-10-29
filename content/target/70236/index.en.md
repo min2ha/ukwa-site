@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reds By The Minute (@RedsByTheMinute) on Twitter
-
 The official Twitter account of Reds By The Minute  .

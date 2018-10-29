@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dudley and Walsall Mental Health Partnership
-
 None

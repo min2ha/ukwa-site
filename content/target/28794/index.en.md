@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spencer of Althorp: The Althorp Literary Festival 
-
 The Althorp Literary Festival

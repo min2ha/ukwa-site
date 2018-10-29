@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# MyMemory 
-
 MyMemory is an online digital memory retailer, offering affordable memory from the world’s leading brands.

@@ -10,6 +10,4 @@
   "start_date": "2014-02-10T13:00:00Z"
 }
 
-# Highgate Cricket and Lawn Tennis Club
-
 None

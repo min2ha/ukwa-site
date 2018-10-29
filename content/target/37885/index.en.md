@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Sam Rowlands (@Sam4ValeofClwyd) on Twitter (Conservative candidate for the Vale of Clwyd) 
-
 Sam Rowlands is the Conservative candidate for the Vale of Clwyd at the 2016 National Assembly Elections.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: We will consider backing a Labour minority government, says Northern Ireland’s DUP
-
 None

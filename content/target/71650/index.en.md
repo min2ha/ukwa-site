@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity Church Scottish Episcopal Church Kilmarnock
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kilmarnock, Ayrshire.

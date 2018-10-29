@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dudley Kingswinford Rugby Club
-
 All levels of adult mens rugby, womens rugby, youth boys & girls rugby and touch rugby. 

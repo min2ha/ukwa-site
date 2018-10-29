@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK's Brexit proposals threaten future of EU, says Barnier
-

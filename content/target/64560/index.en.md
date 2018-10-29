@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Leeway
-
 Leeway was established in 1974 with the help of a £200 start-up grant from Norwich City Council. Over the past four decades the charity has grown from those humble beginnings and we now have six safe houses and a team of more than 50 people providing advice, support and information to any adult or child experiencing domestic abuse in Norfolk and Waveney.

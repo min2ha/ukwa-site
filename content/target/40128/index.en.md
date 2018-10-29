@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Sadie Vidal (@sadievidal) on Twitter 
-
 Sadie Vidal is the Labour candidate for Conservative candidate for Swansea East at the 2016 National Assembly Election and Aberavon at the 2017 General Election.

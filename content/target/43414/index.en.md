@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Junction Box
-
 Annual magazine featuring "essays, reviews, improvisations, anecdotes, eruptions, interviews and manifestoes" by poets, and other creative and critical practitioners

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Max Fordham
-
  An environmental building services engineers company. It was involved in the Grenfell Tower refurbishment project that took place in 2015-2016.

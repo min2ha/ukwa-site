@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Llanteg Community Association
-

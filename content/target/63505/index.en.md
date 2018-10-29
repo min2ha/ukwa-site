@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Achievements / Достижения (Dostizheniia)
-
 A Russian-language regional newspaper based in Manchester.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Unionist squabble over Easter Rising centenary plans
-
 Article about Easter Rising commemoration events in Norther Ireland

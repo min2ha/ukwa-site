@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James McMordie (@JFJMcMordie) on Twitter
-
 The Twitter profile of James McMordie, the Conservative Party candidate for Edinburgh East in the UK General Election on the 7th May 2015.

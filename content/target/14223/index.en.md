@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# British Book Trade Index
-
 The British Book Trade Index (BBTI) is an index of the names and brief biographical details and trade details of people who worked in the book trade in England and Wales and who were trading by 1851.

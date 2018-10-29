@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Thomas Goddard
-
 Thomas Goddard is an artist, who according to his website', 'works across design, drawing, photography, film and performance exploring the relationship between place, community, culture and fiction'.

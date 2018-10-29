@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Hoy (@chrishoy) on Twitter
-
 Sir Chris Hoy 6x Olympic Champion, 11x World Champion track cyclist. @HOYbikes founder, @ScienceInSport & @PureGym Ambassador, @LaureusSport academy member

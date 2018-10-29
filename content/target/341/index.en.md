@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedford Health and Wellbeing Board
-
 None

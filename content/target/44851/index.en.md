@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: The World Today: Ireland's Dilemma
-
 In the context of Brexit, Ireland may be faced with a hard choice between friendship with Britain and relationships with continental Europe.

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Al-Manar Centre Cardiff on Facebook
-
 Al-Manar Centre is located in Cardiff and is an Ahlus-Sunnah organisations. 

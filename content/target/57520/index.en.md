@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Gillard Associates architecture and design
-
 Gillard Associates are based in Cardiff and are involved with sustainable and low energy architecture, conservation and refurbishment.

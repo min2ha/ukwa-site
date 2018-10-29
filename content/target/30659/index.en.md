@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Place, The
-
 The Place is the centre for contemporary dance located in Central London.

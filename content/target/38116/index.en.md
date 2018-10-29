@@ -10,6 +10,4 @@
   "start_date": "2016-04-05T10:00:00Z"
 }
 
-# Iwan Wmffre
-
 Iwan Wmffre is originally from Cardiganshire and currently a sociolinguistics lecturer at the University of Ulster.

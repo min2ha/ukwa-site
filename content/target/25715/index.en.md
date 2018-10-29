@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Two-faced' Sun attacked for backing SNP in Scotland and Tories elsewhere
-
 None

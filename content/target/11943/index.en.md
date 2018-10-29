@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Targe, The
-
 <p>The Targe aims to deliver incisive coverage and commentary of culture, lifestyle, and current affairs from the heart of Scotland, and provide a cutting-edge, online alternative to Scottish newspaper giants</p>

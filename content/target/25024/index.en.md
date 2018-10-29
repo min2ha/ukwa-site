@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Dismal night for far-right: Support for BNP virtually disappears on torrid election day
-
 None

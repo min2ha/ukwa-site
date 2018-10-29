@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Sefydliad Dysgu a Gwaith | Learning and Work Institute
-
 Learning and Work Institute is working with The National Training Federation of Wales  and ColegauCymru on a series of events to inform and engage Assembly Members in post-16 activity.

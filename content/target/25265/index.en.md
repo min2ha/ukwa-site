@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron slammed after NHS operation waiting times reach seven year high 
-
 None

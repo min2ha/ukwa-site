@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015 sketch: ‘We even exported Russell Brand to America!’ On tour with David Cameron (and Boris)
-
 None

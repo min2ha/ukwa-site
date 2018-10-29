@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Moore Stephens LLP
-
 Large firm of accountants. Based in the City of London but has many regional offices.

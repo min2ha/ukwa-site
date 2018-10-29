@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Clive Lord: Green Party Euro election campaign
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradendavy (@BradenDavy) on Twitter
-
 The Twitter profile of Braden Davy, the Labour Party candidate for Gordon in the UK General Election on the 7th May 2015.

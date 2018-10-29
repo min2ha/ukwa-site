@@ -11,5 +11,3 @@
   "subject": "Sex, Power and the Games"
 }
 
-# Sport England - Active women
-

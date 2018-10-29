@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T10:00:00Z"
 }
 
-# NAM Aidsmap
-
 Website containing information and advice for HIV and AIDS sufferers. The initials NAM originally stood for National AIDS Manual and originally that was the format for the information.

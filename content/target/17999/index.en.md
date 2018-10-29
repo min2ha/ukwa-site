@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Campaign for Science and Engineering: 2015 General Election
-
 The Campaign for Science & Engineering (CaSE) is the leading independent advocate for science and engineering in the UK.

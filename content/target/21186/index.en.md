@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Denis Rixson (@rdjrixson) on Twitter
-
 This is the Twitter page of Denis Rixson, the Liberal Democrats candidate for Aberdeen South in the UK General Election on the 7th May 2015.

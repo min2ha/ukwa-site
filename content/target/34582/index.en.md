@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Dacorum Borough Council
-
 The website of Dacorum Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

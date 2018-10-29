@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spree Festival
-
 Website of an annual music festival based in Paisley, Renfrewshire, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glen Urquhart Shinty Club
-
 Site of a shinty club at Drumnadrochit, Highland.

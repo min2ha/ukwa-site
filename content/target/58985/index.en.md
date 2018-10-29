@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# S.A. Brain & Co Ltd
-
 Established in 1882, Brains is Wales' biggest brewer and manages about 250 pubs in Wales.

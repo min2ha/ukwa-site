@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Association of University Professors and Heads of French (AUPHF)
-

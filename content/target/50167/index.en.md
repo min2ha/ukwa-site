@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Camelon Parish Church
-
 The website of the Camelon Parish Church of Scotland. 

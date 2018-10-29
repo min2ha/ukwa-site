@@ -10,7 +10,5 @@
   "start_date": "2010-03-18T00:00:00Z"
 }
 
-# Georgina Ferry Science Writer
-
 I am a science writer, author and broadcaster. I live in Oxford, UK, and write about science and scientists past and present.
 

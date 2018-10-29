@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# A prison of measured time
-
 A prison of measured time is a blog is about football and finances in football.  And in particular, the long and rather protracted dispute surrounding the ownership and administration of Coventry City FC.

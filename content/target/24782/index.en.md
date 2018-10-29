@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Courtneidge (Labour) (@john72442541) on Twitter
-
 John Courtneidge stood as Labour party candidate for Bromley and Chislehurst at the 2015 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# LAX Forum
-
 A forum for lacrosse enthusiasts 

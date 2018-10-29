@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We’re marching towards extreme Brexit. Someone must speak for the 48%
-

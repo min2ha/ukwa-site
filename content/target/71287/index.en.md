@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Jeeyar Educational Trust, UK (JETUK)
-
 JETUK is a registered (1139951) Charity Non-Profit organization which is committed to improving human lives through "Education, Service and Ancient Wisdom". For over three decades, we have been providing charitable and philanthropic services LOCALLY, NATIONALLY, and INTERNATIONALLY. 

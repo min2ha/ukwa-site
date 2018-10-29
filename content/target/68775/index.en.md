@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit The Guardian view of May’s Brexit: reality dawns, but is it too late?
-

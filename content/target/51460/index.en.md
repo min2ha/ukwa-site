@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Kings College London: Kings Student Law Review Blog on European Law
-

@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Aircooledfools
-
 Aircooledfools is an online suppliers' index with information about parts, events, classifieds, etc. for the Volkswagen enthusiasts. 

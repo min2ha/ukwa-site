@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Natural History around Teesside
-
 None

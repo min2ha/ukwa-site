@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Joylon Trimingham on Facebook (Green Party candidate for Dover)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Election 2015: Gangsta Ed Miliband rap mashup goes viral
-
 None

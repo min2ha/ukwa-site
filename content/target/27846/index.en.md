@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Cabot Institute, The
-
 The Cabot Institute at the University of Bristol carries out fundamental and responsive research on risks and uncertainty in a changing environment.

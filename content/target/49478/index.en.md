@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Arcola Energy
-
 Arcola Energy  work with companies in the energy, transport and construction sectors who want to explore, develop and deploy fuel cell systems and products.

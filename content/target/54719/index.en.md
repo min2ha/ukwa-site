@@ -10,6 +10,4 @@
   "start_date": "2017-06-14T09:00:00Z"
 }
 
-# Kate Glanville
-
 Kate Glanville is an author and potter and has a pottery studio in Bethlehem in the Brecon Beacons National Park.

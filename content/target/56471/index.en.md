@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Beefy's Foundation
-
 The Foundation helps to fund specific projects relating to chronic illnesses and other challenges that young people face.

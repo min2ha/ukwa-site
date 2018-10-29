@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Theirworld
-
 Theirworld is a global children’s charity committed to giving the most vulnerable children and young people a brighter future in their world.

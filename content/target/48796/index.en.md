@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Susan Elan Jones MP (@susanelanjones) on Twitter
-
 Susan Elan Jones  is the Labour MP for Clwyd South.

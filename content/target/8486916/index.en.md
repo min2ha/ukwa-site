@@ -11,5 +11,3 @@
   "subject": "Government Websites 2007 "
 }
 
-# National Assembly for Wales
-

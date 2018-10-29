@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Darnley's View
-
 The website of Darnley's View, a Scotland-made gin produced by Wemyss Development Company Limited.

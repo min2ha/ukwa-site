@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Crunch time for Cameron: Brussels boss warns there can 'no taboos' during make-or-break talks to keep Britain in the EU   
-

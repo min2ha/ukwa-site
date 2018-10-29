@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Welsh Medicines Resource Centre (WeMeReC), The
-
 The Welsh Medicines Resource Centre (WeMeReC) is a source of independent information on prescribing for healthcare professionals working in Wales including general practitioners, community pharmacists, medical and pharmaceutical advisers. WeMeReC is an NHS Wales organisation.

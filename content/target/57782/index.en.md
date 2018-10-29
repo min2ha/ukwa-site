@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Talking Scot
-
 Site providing information and resources for Scottish local history and genealogy

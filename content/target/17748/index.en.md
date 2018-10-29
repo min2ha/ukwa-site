@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: How to win the election: Political speeches are no longer delivered but 'framed' to ensure you hear the core message
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wysa - your 4am friend and AI life coach
-
 An Artificial Intelligence (AI) based chatbot. The platform offers an anonymous virtual life coach available 24 hours a day.

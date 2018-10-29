@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Euexit
-
 The euexit website was established to attempt to clarify a number of areas of confusion related to the European Union (EU) and its relationship with the UK.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fans Supporting Foodbanks (@SFoodbanks) on Twitter
-
 A partnership between Everton Supporters' Trust & Spirit Of Shankly a LFC supporters club that came together to tackle the foodbank shortages. They work with the slogan #HungerDoesntWearClubColours.

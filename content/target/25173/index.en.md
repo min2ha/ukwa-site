@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Bad news if you're sick of the campaign: experts predict 'messy and unstable' coalition followed by a SECOND election
-
 None

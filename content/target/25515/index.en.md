@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip pledges to cut foreign aid and put DfID to the sword
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Dewstow Gardens & Grottoes
-
 Dewstow gardens was built around 1895, buried just after World War Two and the rediscovered in 2000. The gardens are located near Caldicot.

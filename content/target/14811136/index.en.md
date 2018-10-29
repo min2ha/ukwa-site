@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# History of Women Religious of Britain and Ireland, The (H-WRBI)
-

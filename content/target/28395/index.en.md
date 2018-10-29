@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# British Muslim TV
-
 British Muslim TV is a fresh and exciting TV channel, bursting with a range of educational and entertaining content.

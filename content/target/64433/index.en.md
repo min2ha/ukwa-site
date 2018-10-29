@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Glenda Clwyd, Wedding and Concert Harpist Wales, Professional Harp Teacher
-
 Glenda Clwyd is a professional harpist from Wales.

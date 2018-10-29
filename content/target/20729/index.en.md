@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mhairi Fraser on Facebook
-
 This is the Facebook page of Mhairi Fraser, the Conservative Party candidate for Coatbridge, Chryston and Bellshill in the UK General Election on the 7th May 2015.

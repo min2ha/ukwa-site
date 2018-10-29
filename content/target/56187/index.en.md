@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Cambrian Educational Foundation for Deaf Children
-
 Cambrian Educational Foundation for Deaf Children has been a charity since 1957 and promotes the social, physical, academic, and vocational needs of the hearing impaired young people living in Wales.

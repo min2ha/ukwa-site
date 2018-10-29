@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Even left-wing think tank says Ed's fee cuts won't work
-
 None

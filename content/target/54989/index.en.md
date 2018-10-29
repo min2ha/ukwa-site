@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Any Voice
-
 An online news platform focused on UK events.

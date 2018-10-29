@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Susan Elan Jones MP/AS Clwyd South/ De Clwyd
-
 Susan Elan Jones is the Labour prospective parliamentary candidate for Clwyd South. She is also the sitting MP.

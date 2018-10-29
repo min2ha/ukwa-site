@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Obesity, Physical Activity & (Change 4 Life)Food in the West Midlands
-
 None

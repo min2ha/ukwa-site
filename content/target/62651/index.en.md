@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Rowing
-
 Scottish Rowing is the governing body for rowing in Scotland.

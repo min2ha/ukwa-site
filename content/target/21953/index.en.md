@@ -10,5 +10,3 @@
   "start_date": "2015-04-17T08:00:00Z"
 }
 
-# Cyngor Tref Llanwrtyd Town Council
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carlo Morelli on Facebook
-
 This is the Facebook page of Carlo Morelli, the Trade Unionist and Socialist Coalition candidate for Dundee East in the UK General Election on the 7th May 2015.

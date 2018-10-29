@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Uxbridge and South Ruislip Labour
-
 Website of Uxbridge and South Ruislip Labour, providing information on councillors, events and local, national and party news.

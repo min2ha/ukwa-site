@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Oreet Ashery
-
 Official website of a London artist, Oreet Ashery.

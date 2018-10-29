@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Cuddy Group
-
 The Cuddy Group are demolition and multidisciplinary specialists based at Llandarcy near Neath. The company went into administration in 2018.

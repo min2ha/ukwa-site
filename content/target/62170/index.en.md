@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Catherine's Argyle Church of Scotland
-
 Site of a Church of Scotland parish church in Edinburgh.

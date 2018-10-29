@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Together for mental wellbeing (@TogetherMW) on Twitter
-
 A twitter account for the UK based mental health charity

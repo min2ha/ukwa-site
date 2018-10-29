@@ -11,5 +11,3 @@
   "subject": "Free e-Journals"
 }
 
-# SOLON - promoting interdisciplinary studies in crime and bad behaviour
-

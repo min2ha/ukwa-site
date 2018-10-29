@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Y Galeri Caerffili
-
 Y Galeri Caerphilly was established in 2012 and is a contemporary gallery located at the Twyn, Caerphilly.

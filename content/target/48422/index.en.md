@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Recordiau Lliwgar
-
 Recordiau Lliwgar (Welsh for Colourful Records) was established in Cardiff in 2011 and release limited edition double 10" records as part of a unique new collection of compilations that will include songs by some of Wales' leading artists.

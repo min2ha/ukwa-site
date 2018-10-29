@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NI Football Writers (@NIFWA) on Twitter
-
 The Official Twitter account of the NI Football Writers' Association.

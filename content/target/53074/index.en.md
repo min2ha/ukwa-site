@@ -10,6 +10,4 @@
   "start_date": "2017-05-12T09:00:00Z"
 }
 
-# Gerry Cambridge
-
 Site of an Irish poet, musician and photographer based in Scotland.

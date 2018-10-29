@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Twitter
-
 Twitter feed for the States of Jersey

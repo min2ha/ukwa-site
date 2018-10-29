@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris Johnson rules himself out of leading the EU Leave campaign after disappointing eurosceptic Tory MPs with the claim 'I'm not an outer'   
-

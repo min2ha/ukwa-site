@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Balls squirms after refusing to rule out a coalition deal with the SNP
-
 None

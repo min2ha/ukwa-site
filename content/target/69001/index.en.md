@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: In a week of treachery, the Chancellor's U-turn on EU rules for the City is the most shameful yet
-
 All the major City organisations have been seeking – and had been assured – that a deal based on what has become known as ‘mutual recognition’ was in the bag. Under such an arrangement, the EU would acknowledge that financial regulations on the Continent and in Britain are equally robust so there is no reason to fiddle with the existing rulebook. But when the White Paper on the future UK-EU relationship appeared the whole idea of mutual recognition was consigned to the dustbin

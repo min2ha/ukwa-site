@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Andrew RT Davies (@AndrewRTDavies) on Twitter
-
 Andrew RT Davies is the Conservative candidate for South Wales Central Wales at the 2016 National Assembly Elections. He is also the Welsh Conservatives leader in Wales.
 

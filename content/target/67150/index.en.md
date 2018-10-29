@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Brendan's RFC (@St_Brendans_RFC) on Twitter
-
 The official Twitter account of St Brendan's Old Boys RFC

@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Tafarn yr Heliwr | The Sportsman
-
 This is a plan to open a community pub in Nefyn, The Sportsman pub in the heart of Nefyn closed in 2009, The society hope topurchase the building, and move forward with the next task of re-establishing the Sportsman as a successful Welsh community pub.

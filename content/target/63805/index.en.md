@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Townhill and Kingseat Church of Scotland
-

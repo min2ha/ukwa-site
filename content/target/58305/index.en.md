@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Laidhay Croft Museum
-
 Site of a crofting museum in Caithness.

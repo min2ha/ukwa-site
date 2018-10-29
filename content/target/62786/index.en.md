@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# England Rugby (@EnglandRugby) on Twitter
-
 Official account of England Rugby on Twitter

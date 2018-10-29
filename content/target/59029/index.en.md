@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Pornography Addiction Revealed By Brain Scan, Similar To Alcoholism Or Drug Addiction
-
 News article about recent research that shows people addicted to pornography have similar brain behaviour as those addicted to alcohol and drugs

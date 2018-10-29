@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# St Albans Beer and Cider Festival
-
 Local beer festival, a premier event in the Hertfordshire drinkers calendar

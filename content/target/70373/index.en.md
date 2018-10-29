@@ -10,6 +10,4 @@
   "start_date": "2018-08-24T09:00:00Z"
 }
 
-# Filmhouse (@Filmhouse) on Twitter
-
 Official Twitter account of a cinema and location for various annual film festivals, including the Edinburgh International Film Festival.

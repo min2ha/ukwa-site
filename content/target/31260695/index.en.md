@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Red Squirrels Trust Wales
-
 None

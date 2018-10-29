@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LibGuides@Southampton
-
 LibGuides@Southampton give information about University of Southampton sites, services and collections. The guides are for every subject area at the University, plus guides to support research and to help resources more effectively.

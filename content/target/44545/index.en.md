@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# ITC Blog: Healing the Brexit Wound – Declare a summer of listening
-
 blog post on the attitudes of politicians after Brexit and how this should be changed

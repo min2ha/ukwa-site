@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Oxford Mail: Stephen Hawking
-
 Oxford Mail: Stephen Hawking Articles

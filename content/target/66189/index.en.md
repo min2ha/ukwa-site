@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Health festival
-
 Information on how to plan and run your own health festival

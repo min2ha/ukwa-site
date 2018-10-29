@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Darllen LlGC (@DarllenLlGC) on Twitter 
-
 This is the Welsh language twitter feed of Access to Collections at National Library of Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Livingstone Online
-
 Livingstone Online uses the potential of electronic publishing to make available an online edition of the medical and scientific correspondence of David Livingstone. The project has produced transcriptions and high-quality colour reproductions of the letters from Livingstone held by several major libraries in the United Kingdom and elsewhere as well as letters held in smaller collections. 

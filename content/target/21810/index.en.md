@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Law Society of Northern Ireland, The
-
 The Law Society of Northern Ireland was established in 1922 when a Royal Charter was granted to solicitors in Northern Ireland to permit the setting up of the Incorporated Law Society of Northern Ireland. The society powers and duties are to represent and regulate the solicitors' profession in Northern Ireland with the aim of protecting the public.

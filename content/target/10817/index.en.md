@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Top Level Group of UK Parliamentarians for Multilateral Nuclear Disarmament & Non-Proliferation
-
 The Top Level Group (TLG) of UK Parliamentarians for Multilateral Nuclear Disarmament and Non-Proliferation is a cross-party group of senior British parliamentarians who share the belief that multilateral nuclear disarmament, non-proliferation and nuclear security are critical global issues ought to be addressed, as a priority, by governments worldwide.

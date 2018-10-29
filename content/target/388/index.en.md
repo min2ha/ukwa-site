@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lambeth Health and Wellbeing Board
-
 None

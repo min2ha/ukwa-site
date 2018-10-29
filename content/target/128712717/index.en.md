@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West Public Health Observatory (SWPHO)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Resistance Books: ecosocialist, feminist and internationalist publishers
-
 Resistance Books is the publishing arm of Socialist Resistance. Resistance Books publishes books independently, and also jointly with Merlin Press, and the International Institute for Research and Education in Amsterdam.

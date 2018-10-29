@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Beastrabban\'s Weblog. Just another WordPress weblog
-
 Wide-ranging, indexed,  current affairs / UK politics blog running from 2007-

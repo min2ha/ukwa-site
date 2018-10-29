@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Ordo Templi Orientis
-
 Site of the United Kingdom branch of an international fraternal and religious organization founded at the beginning of the 20th century by Carl Kellner and Theodor Reuss. English author and occultist Aleister Crowley is the best-known and most influential member of the order. Also, Ecclesia Gnostica Catholica.

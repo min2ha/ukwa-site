@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# North East Scotland College
-
 Site of a further education college based at various locations throughout Aberdeen and Aberdeenshire.

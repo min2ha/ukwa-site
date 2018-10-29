@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Ceredigion Archives Blog
-
 This is the official blog of Ceredigion Archives and contains many articles using archives held at Ceredigion covering the history of the county.

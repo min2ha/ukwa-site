@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Re-elect Stephen Gethins – Your strong voice for North-East Fife
-
 Stephen Gethins, Scottish National Party candidate for North East Fife in the 2017 general election.

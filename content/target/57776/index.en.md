@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# University Museums Group (UMG)
-
 The University Museums Group represents the interests of university museums, galleries and collections in England, Wales and Northern Ireland. They also work alongside their sister organisation UMIS (University Museums in Scotland) to represent the interests of university museums to funders and stakeholders.

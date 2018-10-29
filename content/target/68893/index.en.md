@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Suffocating heat, dark threats and the moment rebels blinked: ANDREW PIERCE tells the inside story of the fateful Brexit summit at Chequers
-
 Claims to tell the true story of what happened at the crucial cabinet meeting on July 6th 2018 at which Theresa May achieved a temporary agreement on the government's approach to Brexit.

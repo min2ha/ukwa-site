@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Mushin Museum of Anaesthetics
-
 The Mushin Museum is an important collection of medical equipment used to deliver anaesthesia and pain relief over the past 150 years and is based at the University Hospital Wales in Cardiff.

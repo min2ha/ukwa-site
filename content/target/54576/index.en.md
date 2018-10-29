@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Loves Christmas
-
 Site of Glasgow City Christmas and Hogmanay celebrations

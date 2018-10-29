@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election TV debate: Leaders clash over NHS, cuts and immigration
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wood for Good
-
 Wood for good is the UK's wood promotion campaign. The Wood for Good campaign works on behalf of the whole timber industry in the UK. It aims to promote the suitability and sustainability of wood as a building material to the construction and logistics sectors and associated professionals such as architects and design engineers. 

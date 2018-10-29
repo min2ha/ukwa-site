@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Emma Humphreys Memorial Prize (EHMP)
-
 None

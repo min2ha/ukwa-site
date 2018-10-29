@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Paul Carr Musings
-
 <p>This is a personal blog of Paul Carr on education and music. Paul Carr is a lecturer in the University of South Wales.</p>

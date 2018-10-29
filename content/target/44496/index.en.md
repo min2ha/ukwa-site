@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research, The: One step removed? Six possible futures for the UK's economic relationship with the EU
-
 This briefing, part of IPPR's new 'Progressive Brexit' programme of work, explores six options for the UK in terms of its future access to the EU single market. It explore their implications for all aspects of the UK economy, assessing them against the two objectives of ensuring that the living standards of all UK citizens continue to rise, and ensuring that the UK ends up with a greater degree of self-determination.

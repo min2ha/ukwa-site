@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Natalie Bennett 'devastated' by performance on LBC – video interview
-
 None

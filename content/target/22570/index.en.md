@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories and Labour neck and neck as Ukip support slips
-
 None

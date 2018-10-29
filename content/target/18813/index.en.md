@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Like the Ritz, Grayling’s embarrassing ‘Global Law Summit’ is open to all
-

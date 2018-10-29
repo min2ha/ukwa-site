@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Stoke on Trent CCG
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Swithun's Church
-
 Official website for St Swithun's Church,Bournemouth.  

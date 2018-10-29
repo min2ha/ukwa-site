@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Incorporation of Bonnetmakers and Dyers of Edinburgh, The
-
 Site of a trade / craft guild of Edinburgh, existing for benevolent and social purposes, to support the good traditions of the past and to foster those skills falling within the widest ambit of Bonnetmaking and Dyeing, including all the Arts.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Christians Together in Wrexham
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Law Society, The
-
 The Law Society represents solicitors in England and Wales. From negotiating with and lobbying the profession's regulators, government and others, to offering training and advice, they are here to help, protect and promote solicitors across England and Wales. The Law Society Group includes the Solicitors Regulation Authority.

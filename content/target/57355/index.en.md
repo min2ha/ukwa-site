@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Khabrain Manchester
-
 English language newspaper established in Manchester in 1996 focusing on UK, international and Pakistan news.  Online newspaper and magazine.

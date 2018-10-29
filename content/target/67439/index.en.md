@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Stewart Milne Group Limited
-
 Website of a homebuilding, construction, and development company based in Aberdeen, Scotland. 

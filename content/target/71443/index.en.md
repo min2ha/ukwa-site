@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Wales goes Pop!
-
 Wales goes Pop! was established in 2013 and is an all-ages pop weekender over the long Easter bank holiday in Cardiff. The 2018 festival was held at the Gate, an arts centre in Cardiff.

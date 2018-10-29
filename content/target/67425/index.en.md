@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Whitelink Seafoods Limited
-
 Website of a Fraserburgh, Scotland based company which distributes seafood products.

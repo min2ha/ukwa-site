@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Guardian, The: Euro 2016
-
 News coverage of Euro 2016 by the The Guardian.

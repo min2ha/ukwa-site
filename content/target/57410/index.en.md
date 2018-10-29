@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Mike Perry Photographer 
-
 Mike Perry, born 1960, is a British contemporary photographic artist.

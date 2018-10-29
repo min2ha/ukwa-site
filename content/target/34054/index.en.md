@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Life Story Network
-
 They develop, deliver and promote improvements to the quality of care and support received by those who may be marganilised through ill-health, or social circumstance, by working closely with care providers, carers, housing associations, transport providers, schools and advocacy groups.

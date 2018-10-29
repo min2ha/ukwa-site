@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Cross Parish Church, Croy
-
 Site of a Scottish Roman Catholic parish church located in Croy, Lanarkshire.

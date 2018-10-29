@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Mankind UK
-
 Mankind UK offer support for men who have been sexually abused.

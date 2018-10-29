@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Amnesty International: Submission to the United Nations Committee on the elimination of discrimination against women
-
 A report to the United Nations Committee with a particular focus on discrimination against migrant women, LBT women and women in Northern Ireland

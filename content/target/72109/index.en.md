@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Queens Hall Narberth
-
 Queens Hall is a hall and conference venue based in Narberth, Pembrokeshire.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Celtic Sea Trout Project
-
 The Celtic Sea Trout Project is a multi-agency partnership investigation into the sea trout stocks and fisheries of the rivers entering the Irish Sea. The project is part-funded by the European Regional Development Fund through the Ireland Wales Programme (INTERREG 4A). The project ran from 2010 to 2014 and was led by the Centre for Applied Marine Sciences, Bangor University.

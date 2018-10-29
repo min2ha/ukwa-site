@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Lodge Canmore 1175
-
 Site of a masonic lodge located in Dunfermline, Fife and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lest We Forget: The people of Parkhead remember the First World War
-
 A project to collect, record and commemorate the memories of the First World War from the people of Parkhead in Glasgow.

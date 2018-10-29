@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Abortion Rights (@Abortion_Rights) on Twitter
-
 Abortion Rights is the UK's national pro-choice campaign. They are working to defend and extend women's right to choose. 

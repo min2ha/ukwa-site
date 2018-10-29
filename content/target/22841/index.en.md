@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Pat Kane (@thoughtland) on Twitter
-
 Twitter profile for Thoughtland, a blog from a left-green perspective, supporting Scottish nation-state independence.

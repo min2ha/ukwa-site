@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Foxtons blames election for slowdown in London property market
-
 None

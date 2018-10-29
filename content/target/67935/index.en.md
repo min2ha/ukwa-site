@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Fair Trade Scotland Ltd
-
 Site of a company based in Glasgow, who import goods made in Cambodia and sell within internationally recognised Fair Trade standards.

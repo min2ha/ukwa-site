@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Make-up or Break-up? by inkle
-
 "Make-up or Break-up?": an interactive story by Inkle Studios

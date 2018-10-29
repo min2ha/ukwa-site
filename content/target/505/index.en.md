@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kingston Upon Hull LINk
-
 None

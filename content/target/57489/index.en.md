@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Rural Nations Scotland CIC
-
 Site of an artist led production company based in Stornoway which commissions film, experimental theatre and strategic arts projects.

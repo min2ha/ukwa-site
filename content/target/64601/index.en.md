@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Arts Active Trust
-
 The Arts Active Trust supports education, community and audience engagement projects from St David’s Hall and the New Theatre. The charitable organisation receives support from Cardiff Council to deliver the Arts Active programme.

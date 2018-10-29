@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# This Fan Girl (@ThisFanGir1) on Twitter
-
 A digital community capturing the many faces, stories and voices of the female football fan. This is their official Twitter account.

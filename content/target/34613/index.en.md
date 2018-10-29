@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Kirsty Williams (Liberal Democrats Assembly Member for Brecon and Radnorshire)
-

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Guardian, The: Oliver Double on Linda Smith
-
 Oliver Double on his comedy hero Linda Smith, on the Guardian website.

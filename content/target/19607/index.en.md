@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bromley & Chislehurst Labour (@bromleylabour) on Twitter
-

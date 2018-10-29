@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# McCarthy Recruitment
-
 McCarthy Recruitment specialise in retail recruitment offering a variety of different jobs in retail, providing quality of service.

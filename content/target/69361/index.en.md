@@ -10,6 +10,4 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# "Early" Welsh Leighs 
-
 This blog presents genealogical data and stories about the ancestors and descendants of the Leigh families that came from England to Wales from about 1560 AD to approximately 1850 AD. 

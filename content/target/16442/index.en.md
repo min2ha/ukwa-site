@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 'Inspiring' Tory slogan: A Britain living within its means
-
 None

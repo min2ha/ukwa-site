@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aileen Campbell for Clydesdale on Facebook
-
 Facebook page of Aileen Campbell, Scottish National Party candidate for Clydesdale in the 2016 Scottish Parliamentary election.

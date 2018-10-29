@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Photo of secret government no-deal Brexit papers reveals questions over 'rail access to the EU'
-
 A secret document outlining the Treasury's contingency plans for leaving the EU with "no deal" was photographed as it was carried to a Whitehal meeting.  It warned that government departments would have to make cuts to prepare for crashing out of the EU, saying: “Their first call should be internal reprioritisation.”
 

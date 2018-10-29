@@ -10,5 +10,3 @@
   "start_date": "2016-10-01T11:00:00Z"
 }
 
-# Eglwys Efengylaidd Gymraeg Caerdydd | Cardiff Welsh Evangelical Church
-

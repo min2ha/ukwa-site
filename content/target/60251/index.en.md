@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Sonja Benskin Mesher RCA
-
 Sonja Benskin Mesher has a studio in Llanelltyd and is a member of the RCA (Royal Cambrian Academy). Her work is 'now abstract [and] uses a dialogue of shapeand colour to create ideas about the landscape and inherent memory'.

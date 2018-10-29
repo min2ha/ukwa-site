@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mental Health Foundation (@mentalhealthfoundation) on Instagram
-

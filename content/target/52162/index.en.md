@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's, Grayshott
-
 St Luke's is a Church of England parish situated on the southern boundary of the Diocese of Guildford (adjacent to the dioceses of Portsmouth and Chichester) in the Deanery of Farnham and the Ecumenical Fraternal of Haslemere.

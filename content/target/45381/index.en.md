@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# National Union of Rail, Maritime and Transport Workers
-

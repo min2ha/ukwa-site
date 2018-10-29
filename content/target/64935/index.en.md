@@ -10,6 +10,4 @@
   "start_date": "2018-04-30T09:00:00Z"
 }
 
-# Little White Lies
-
 Little White Lies was established in 2005 as a bi-monthly print magazine committed to championing great movies and the talented people who make them. Combining cutting-edge design, illustration and journalism, we’ve been described as being “at the vanguard of the independent publishing movement.”

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Natalie Bennett: Green Party leader delivers 'car crash' performance on LBC dubbed 'worst party leader interview ever given'
-
 None

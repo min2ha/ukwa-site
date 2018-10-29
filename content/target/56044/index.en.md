@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Big Loop Theatre Company
-
 Big Loop Theatre Company is a Cardiff/ Bristol based theatre company.

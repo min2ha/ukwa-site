@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# James Morris
-
 <p>James Morris is a British photographer of landscape and the built environment.</p>

@@ -11,7 +11,5 @@
   "subject": "Blogs"
 }
 
-# Mum v Austerity 
-
 This is a blog by Bernadette Horton writing of the daily battles of life in Austerity UK from a family viewpoint. Bernadetter Horton is also the Labour candidate for North Wales.
 

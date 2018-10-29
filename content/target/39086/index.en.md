@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Dangerous Women
-
 A daily Dangerous Women Project explores, examines and critiques the idea of ‘dangerous women’. The Dangerous Women Project is an initiative of the Institute for Advanced Studies in the Humanities at the University of Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# NHS Support Federation
-
 This site is a project of the NHS Support Federation.

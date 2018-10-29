@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE_SouthScot (@RISE_SouthScot) on Twitter
-
 Twitter profile of the South Scotland branch of RISE: Scotland's Left Alliance.

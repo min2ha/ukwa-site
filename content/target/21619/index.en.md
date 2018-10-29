@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Balls rules out NI rise after Cameron wrongfoots Miliband on VAT
-
 None

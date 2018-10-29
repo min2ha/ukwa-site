@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Socialist, The
-
 The weekly paper produced by the Socialist Party in England and Wales.

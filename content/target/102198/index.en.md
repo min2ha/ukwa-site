@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport England
-
 Sport England is focused on helping people and communities across the country create a sporting habit for life, create more opportunities for young people to play sport, nurture and develop talent and provide the right facilities in the right places.

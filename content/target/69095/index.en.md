@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Did Boris bottle it? There were no jokes, no cheap shots but real anger, says QUENTIN LETTS but Johnson's parting words failed to skewer May
-

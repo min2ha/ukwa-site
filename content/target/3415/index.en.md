@@ -10,5 +10,3 @@
   "start_date": "2013-10-10T00:00:00Z"
 }
 
-# National Crime Agency (NCA)
-

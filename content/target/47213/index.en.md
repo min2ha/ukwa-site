@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Highland Museum of Childhood
-
 Site of a museum of toys and games located in the village of Strathpeffer, Highland, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Cabarfeidh.com
-
 Site of a regimental association for the Queen's Own Highlanders (previously Seaforth Highlanders and Cameron Highlanders).

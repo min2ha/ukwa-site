@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# Virtual Worlds Forum (VWF)
-
 The inaugural Virtual Worlds Forum, held in October 2007 in London and was organised by the The Virtual Economic Forum

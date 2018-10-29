@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin McGuinness on Facebook
-
 This is the official Facebook page of Martin McGuinness and was set up during the 2011 Presidential Election in the Republic of Ireland. Martin McGuinness was a former IRA Member and leading member of the political party Sinn Fein. He served as he deputy First Minister of Northern Ireland from May 2007 to January 2017. He died on Tuesday 21/03/2017. 

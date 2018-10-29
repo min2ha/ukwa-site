@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Purley Quaker Meeting House
-

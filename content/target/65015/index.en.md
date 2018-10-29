@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Ulster Farmers’ Union (UFU)
-
 Founded in 1918, the Ulster Farmers’ Union (UFU) is the largest democratic voluntary organisation representing farmers and growers in Northern Ireland. Its central objective is to promote their interests both at home and abroad through professional lobbying.

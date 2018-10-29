@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Business Women Scotland magazine
-
 Site of a Scottish magazine focussing on women in business.

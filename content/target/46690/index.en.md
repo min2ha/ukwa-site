@@ -10,6 +10,4 @@
   "start_date": "2016-11-03T09:00:00Z"
 }
 
-# The University of Edinburgh's School of Celtic and Scottish Studies on Twitter
-
 The University of Edinburgh's School of Celtic and Scottish Studies on Twitter

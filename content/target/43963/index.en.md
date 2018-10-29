@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Hold off applying for passport, Ireland tells Britons
-
 Since the EU Referendum result more people in the UK have started applying for Irish citizenship.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# A life in books
-
 Book news, reviews and recommendations

@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Rhodri Prys Jones
-
 Welsh tenor.

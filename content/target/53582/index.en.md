@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Heartland Film Society
-
 Site of a film society based in Aberfeldy, Perth & Kinross, who run a season of films in the town, and a an annual film festival.

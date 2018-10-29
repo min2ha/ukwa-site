@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Brunton, The (@TheBrunton) on Twitter
-
 Twitter profile of the Brunton, a theatre in Musselburgh.

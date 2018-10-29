@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Lothians and Borders Mammal Group (LaBMaG) on Facebook
-
 Lothians and Borders Mammal Group record, monitor and research local mammalian wildlife, and aim to raise awareness of their ecology and need for conservation.

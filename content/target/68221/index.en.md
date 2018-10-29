@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Welsh Government: Wales and India
-
 This is the Welsh Government dedicated Wales and India pages providing information on links between the two countries, how people from India have made Wales their home and added to the community. The website also provides details of Indian businesses in Wales and links between Welsh and Indian universities. 

@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Highgate School
-
 Highgate School is an independent school based in North London. It was established in 1565 by Royal Charter as a school for poor boys and is an integral part of Highgate Village. The websitecontains films, image galleries, blog, news items etc., which provides a sense of community and openness.

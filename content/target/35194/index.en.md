@@ -11,8 +11,6 @@
   "subject": "IT Collection"
 }
 
-# Rudaí 23: A 23 Things Collaboration
-
 Rudaí 23 is being administered by members of the Western Regional Section of the Library Association of Ireland.
 
 We regularly hold training seminars and networking sessions for our library members in the West of Ireland. Due to requests from our group we decided to run a 23 Things course, inspired by 23 Things Cambridge which ran in 2012.

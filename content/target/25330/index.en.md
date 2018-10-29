@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# New Statesman: May 2015 Election (@May2015NS) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Department for Culture, Media and Sport (DCMS)
-
 The Department for Culture, Media and Sport (DCMS) is a department of the United Kingdom government, with responsibility for culture and sport in England, and some aspects of the media throughout the whole UK, such as broadcasting and internet. It also has responsibility for the tourism, leisure and creative industries.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-13T08:00:00Z"
 }
 
-# Llanfoist Fawr Community Council
-

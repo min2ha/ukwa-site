@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Public Pensions Agency (SPPA)
-
 The Scottish Public Pensions Agency administers pensions, premature retirement and injury benefits schemes for employees of the National Health Service in Scotland and for members of the Scottish Teachers' Superannuation Scheme.

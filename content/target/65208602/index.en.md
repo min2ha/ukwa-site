@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Royal Welsh College of Music & Drama Blog - Coleg Brenhinol Cerdd a Drama Cymru
-
 Official website of the Royal Welsh College of Music & Drama - Coleg Brenhinol Cerdd a Drama Cymru

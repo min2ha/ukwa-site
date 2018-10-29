@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# 4 Corners Festival
-
 Site of a cross-community and interfaith festival of peace and prosperity in Belfast, Northern Ireland, featuring discussion, music, prayer, drama, poetry and story-telling.

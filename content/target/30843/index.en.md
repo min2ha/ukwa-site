@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Youth Cymru
-
 Youth Cymru is a charity that works with youth groups, youth workers and young people throughout the whole of Wales.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# New Jewish Jokes
-
 'Ivor Dembina: New Jewish Jokes' is the follow-up show to the 2014 Edinburgh fringe hit, 'Ivor Dembina: Old Jewish Jokes'. 

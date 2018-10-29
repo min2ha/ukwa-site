@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# phs Group, Personnel Hygiene Services
-
 phs Group are the leading hygiene services provider in the UK, Spain and Ireland. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

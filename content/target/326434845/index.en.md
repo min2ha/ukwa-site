@@ -10,6 +10,4 @@
   "start_date": "2015-09-07T10:00:00Z"
 }
 
-# Colin Mackie's website
-
 This website contains a number of Directories of senior appointments and postholders in areas of public life in Great Britain and other countries.

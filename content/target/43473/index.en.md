@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Martin Durkin (@Martin_Durkin) on Twitter
-
 Twitter of Martin Durkin (Director of 'Brexit: The Movie')

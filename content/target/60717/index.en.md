@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Visit Tywyn
-
 This is a tourist information guide to Tywyn in Gwynedd.

@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Herefordshire and Worcestershire Group Training Association (HWGTA)
-
 We provide bespoke training for workplace competence and qualifications across Herefordshire, Worcestershire and further afield.

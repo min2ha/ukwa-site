@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Tapestry of Renfrewshire
-
 Site of a project to tell the story of the historic Scottish county or Renfrewshire in the form of a tapestry.

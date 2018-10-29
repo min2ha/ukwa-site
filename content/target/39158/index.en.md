@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dumfries and Galloway Arts Festival
-
 Site of an annual (May) arts festival taking place in various locations across Dumfries & Galloway, and incorporating theatre, music, comedy, literature and visual arts.

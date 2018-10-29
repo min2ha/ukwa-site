@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Blog
-
 A non-partisan and independent policy think tank

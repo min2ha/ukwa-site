@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Barclay (Conservative)
-
 Stephen Barclay stood as Conservative candidate for North East Cambridgeshire at the 2015 General Election. He was first elected to serve as MP for North East Cambridgeshire in 2010 and re-elected in 2015.

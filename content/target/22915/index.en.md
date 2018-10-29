@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Smith (@SarahDoverDeal) on Twitter (Liberal Democrats candidate for Dover)
-
 Sarah Smith stood as Liberal Democrats candidate for Dover at the 2015 General Election but was not elected. 

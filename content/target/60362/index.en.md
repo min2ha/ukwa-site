@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Kaite O'Reilly
-
 Kaite O’Reilly is a playwright, radio dramatist, writer, and dramaturg who works in disability arts and culture and mainstream culture and has won many awards for her work.

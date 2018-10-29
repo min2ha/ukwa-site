@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's Scottish Episcopal Church, Kinross
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kinross, Perth & Kinross.

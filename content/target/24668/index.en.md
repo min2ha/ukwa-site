@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marion Mason (UKIP)
-
 Marion Mason stood as UKIP candidate for Cambridgeshire South at the 2015 General Election but was not elected.

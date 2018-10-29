@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Britvic
-
 Britvic plc is a British producer of soft drinks based in Hemel Hempstead. 

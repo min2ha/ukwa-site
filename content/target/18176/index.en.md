@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Headline Numbers: How many leaders in a debate?
-
 None

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Smythson sale: the Conservative donors who bought luxury stationer
-

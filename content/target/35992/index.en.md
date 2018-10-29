@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joe Cullinane (@jcullinane86) on Twitter
-
 The Twitter profile of Joe Cullinane, the Scottish Labour and Co-operative candidate for Cunninghame South in the 2016 Scottish Parliament election.

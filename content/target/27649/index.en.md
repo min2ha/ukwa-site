@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip embroiled in leadership row over use of millions of pounds of public money
-
 None

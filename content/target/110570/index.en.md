@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# British Association for Victorian Studies
-
 None

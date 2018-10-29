@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornwall Agri-food Council
-
 None

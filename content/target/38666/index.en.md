@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Torfaen at War - digital stories and expressions
-
 Project to research, explore, share the impact of, and raise awareness of the commemoration of WW1 in Torfaen and local settlement areas.

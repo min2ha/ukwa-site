@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Exploring Surrey's Past: Women’s Suffrage
-
 A website about the women's suffrage movement in Surrey

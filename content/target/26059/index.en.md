@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories are on hunt for anti-Labour mouthpieces, says Balls
-
 None

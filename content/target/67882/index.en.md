@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Ports Association: A Brexit Divident: Supporting Trade and Growth
-
 British ports call for a pragmatic deal with the EU on both customs and regulatory recognition that allows British, Irish, and other European businesses to get their goods across borders as quickly as possible.

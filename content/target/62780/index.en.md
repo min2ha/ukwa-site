@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# aLive Ministry
-
 Site of a non-denominational Christian ministry based in Inverness.

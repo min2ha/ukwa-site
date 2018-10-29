@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Surrey, West Sussex and Hampshire Cancer Network
-
 None

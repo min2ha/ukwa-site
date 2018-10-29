@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# White Rose E-Theses Online 
-
 This is a shared, open access repository from the Universities of Leeds, Sheffield and York for eTheses.

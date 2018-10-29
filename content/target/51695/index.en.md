@@ -11,5 +11,3 @@
   "subject": "Zines and Fanzines"
 }
 
-# Through the wind and rain: Liverpool FC fanzine online
-

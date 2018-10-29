@@ -10,6 +10,4 @@
   "start_date": "2016-04-01T10:00:00Z"
 }
 
-# Chas Booth (@CllrChasBooth) on Twitter
-
 The Twitter profile of James Mackenzie, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

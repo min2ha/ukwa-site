@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yahoo News: "Women over 200 pounds are celebrating their weight, proving beauty comes in all shapes and sizes"
-
 Yahoo News article about social media influencers and body positivity 

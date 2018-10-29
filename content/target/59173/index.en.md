@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen Grammar
-
 Site of a Scottish rugby union club based in Aberdeen.

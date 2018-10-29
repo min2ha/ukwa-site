@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# North Yorkshire Police & Crime Commissioner
-
 None

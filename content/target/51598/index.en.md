@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Partick Trinity Church
-
 The website of Partick Trinity Church of Scotland.

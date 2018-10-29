@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Non Stanford
-
 Welsh Triathlete competing in the 2016 Rio Olympic Games.

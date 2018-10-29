@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Unsettled Climate
-
 Climate change-related blog site.

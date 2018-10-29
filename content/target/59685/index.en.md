@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Astro Imaging Forum
-
 An online enthusiast community concerned with Astro-Imaging / Astro-Photography, the combination of Astrology and photography. The forum covers introductions for newcomers, sponsors, competitions, science, reviews of equipment, photography and advice.

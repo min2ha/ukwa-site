@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jennifer Thompson (Independent candidate for Uxbridge and South Ruislip)
-
 Jennifer Thompson stood as an independent candidate for Uxbridge and South Ruislip at the 2015 General Election but was not elected.

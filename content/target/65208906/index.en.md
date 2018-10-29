@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Westminster City Council: London 2012
-

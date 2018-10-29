@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Boris Johnson urges Tories to give more people the Right to Buy to show party's commitment to less well-off
-
 None

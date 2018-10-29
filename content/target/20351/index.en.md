@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Youth
-
 We are the youth and student wing of the Liberal Democrats. We have had several previous incarnations, including the National League of Young Liberals (NLYLP), the Union and Liberal Students (ULS) and most recently Liberal Youth. But since 2016 we have been going by “Young Liberals”.

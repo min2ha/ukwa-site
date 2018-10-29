@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Protecting the EU's unity is more important than a strong relationship with Brexit Britain, French President warns
-

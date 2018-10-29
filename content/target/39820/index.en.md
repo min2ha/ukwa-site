@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee SNP (@DundeeSNP) on Twitter
-
 Twitter profile of the Dundee branch of the Scottish National Party (SNP).

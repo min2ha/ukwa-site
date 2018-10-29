@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Sadiq Khan
-
 Website of Sadiq Khan, a Labour candidate for London Mayor 2016.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Two in five children made anxious every week when using internet, research reveals
-
 News article about a recent study carried out by the UK Safer Internet Centre that showed two in five children are made to feel anxious after internet use. The study surveyed 2,000 eight to 17-year-olds about their attitudes to the internet

@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Aderyn: LERC Wales' Biodiversity Information & Reporting Database
-
 Aderyn is the Biodiversity Information and Reporting Database of Local Environmental Records Centres Wales. The databse provides details of wildlife sightings and species records collated by the four LERCs, covering the whole of Wales.

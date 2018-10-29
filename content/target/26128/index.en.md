@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Union of Rail Maritime, and Transport Workers (RMT): Maritime Manifesto 2015
-
 Britain's Largest Specialist Transport Union. RMT is a progressive, democratic and highly professional trade union, a fast growing union with more than 80,000 members from almost every sector of the transport industry - from the mainline and underground railways, shipping and offshore, buses and road freight. Protecting and bettering our members' pay and conditions is the key RMT objective.

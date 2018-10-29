@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bernard Harkins | Winning with Labour in Midlothian North and Musselburgh
-
 Bernard Harkins is the Scottish Labour candidate for the Midlothian North and Musselburgh constituency in the 2016 Scottish Parliament election.

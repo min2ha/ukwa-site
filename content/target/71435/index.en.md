@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swans DSA (Swansea City AFC Disabled Supporters' Association)
-
 This is the official Website of the Swansea City AFC Disabled Supporters’ Association (Swans DSA). The SCAFCDSA is the recognised representative body of the disabled Swansea City AFC supporters.

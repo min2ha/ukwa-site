@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rotherham NHS Foundation Trust
-
 None

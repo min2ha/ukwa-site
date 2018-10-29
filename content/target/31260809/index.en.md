@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Postcards of Cornwall
-
 None

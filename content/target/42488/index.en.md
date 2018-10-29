@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# I Love Stockton Me
-

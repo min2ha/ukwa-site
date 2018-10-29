@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson’s sickening comments typify Brexiteers’ approach to Ireland
-

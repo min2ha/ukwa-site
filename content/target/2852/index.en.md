@@ -10,6 +10,4 @@
   "start_date": "2015-05-28T08:00:00Z"
 }
 
-# British Council
-
 The British Council is the UK’s international organisation for cultural relations and educational opportunities. 

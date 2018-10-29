@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Herdman (UKIP)
-
 Mary Herdman stood as UKIP candidate for Peterborough at the 2015 General Election but was not elected.

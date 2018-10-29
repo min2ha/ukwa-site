@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Caledonian Lodge of Dundee No. 254
-
 Site of a masonic lodge located in Dundee and affiliated with the Grand Lodge of Scotland.

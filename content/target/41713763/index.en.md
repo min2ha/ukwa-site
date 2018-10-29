@@ -10,6 +10,4 @@
   "start_date": "2010-04-15T00:00:00Z"
 }
 
-# Depression UK
-
 Depression UK (D-UK)*, is a national self help organisation that has operated within the United Kingdom ever since it was founded in 1973. It was first registered as a charity in 1979. 

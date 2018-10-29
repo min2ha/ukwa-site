@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Eden Court 
-
 Site of a theatre, cinema and performance arts organisation based in Inverness, Highland, Scotland.

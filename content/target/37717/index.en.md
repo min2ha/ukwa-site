@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Cob Records
-
 Record shop based in Porthmadog.

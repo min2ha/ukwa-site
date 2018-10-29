@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour hopeful Amina Lone: ‘I hated being on benefits’
-
 None

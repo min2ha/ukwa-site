@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duncan Rees for Clwyd South on Facebook
-
 Duncan Rees is the Green Party candidate for the Clwyd South constituency.

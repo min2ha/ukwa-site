@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Anonymous 'honesty' websites: safety experts tell parents to be vigilant
-
 Article about current apps and internet services that allow users to leave anonymous feedback on other users and how this is enabling cyber bullying

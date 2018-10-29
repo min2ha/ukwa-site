@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Feedgood Factor
-
 <p>NHS Scotland site aimed at convincing new mothers of the benefits of breastfeeding, providing information about breastfeeding methods, myths and available support.</p>

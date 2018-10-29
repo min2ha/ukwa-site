@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP pledges backing for Labour's 50p income tax rate
-
 None

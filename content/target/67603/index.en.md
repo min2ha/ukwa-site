@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC Three: Gender
-
 The subsection of the BBC Three website that focuses on articles related to gender.

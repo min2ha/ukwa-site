@@ -10,5 +10,3 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Rhondda Valley Pigeon Federation
-

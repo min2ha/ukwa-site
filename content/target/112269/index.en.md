@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Police Service of Northern Ireland (PSNI)
-
 Official website of the Police in Northern Ireland.

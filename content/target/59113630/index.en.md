@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Robert Stephen Hawker: His life and writings
-
 None

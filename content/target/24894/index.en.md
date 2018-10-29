@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Walker (Conservative)
-
 Ian Walker stood as Conservative candidate for Sheffield Hallam at the 2015 General Election but was not elected. 

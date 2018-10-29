@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queen reaches 90: abolish the monarchy
-
 Commentary against the reign of the Royal family.

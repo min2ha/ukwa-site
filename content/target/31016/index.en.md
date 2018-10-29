@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dingwall Gaelic Choir on Facebook
-

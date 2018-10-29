@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 38 Degrees: All party leaders must take part in General Election TV debates
-
 An online petition to have a TV debate with all the main political leaders before the 2017 General Election.

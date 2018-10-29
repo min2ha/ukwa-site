@@ -10,6 +10,4 @@
   "start_date": "2018-08-20T09:00:00Z"
 }
 
-# Fuaran
-
 Site of a heritage initiative established by Fèisean nan Gàidheal to encourage a new generation of Gaelic speakers and singers to actively engage in the research and collection of Gaelic songs in their local area.

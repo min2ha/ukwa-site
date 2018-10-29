@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Four surviving original copies of the Magna Carta will be displayed together for the first time to mark 800th anniversary of document that launched parliamentary democracy 
-

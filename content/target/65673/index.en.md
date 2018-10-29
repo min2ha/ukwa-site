@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Affinity Female Voice Choir
-
 Affinity Female Voice Choir was founded in 2012 and is a non-auditioning choir open to all women over the age of 18. They meet at United Reformed Church, Windsor Place, Cardiff.

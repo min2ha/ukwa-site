@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dom Parsons Great Britain Skeleton Athlete
-
 None

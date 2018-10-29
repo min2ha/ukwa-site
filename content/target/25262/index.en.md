@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron visits school and one girl sums up how we'll all feel if Tories win General Election
-
 None

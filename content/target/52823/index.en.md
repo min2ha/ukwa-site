@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Institute of Directors: General Election 2017: What Matters to Business
-
 The Policy team at the Institute of Directors presents business priorities for the General Election covering Brexit, tax, industrial strategy, immigration and more. Keep up with the latest below.
 

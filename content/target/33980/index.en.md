@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-#  British Croatian Society, The
-
 They aim to further cultural understanding between Britain and Croatia by bringing like-minded people together for a series of lectures, exhibitions, concerts, dinners and other events throughout the year. 

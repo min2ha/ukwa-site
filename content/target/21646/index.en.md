@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: Conservatives slam Salmond's 'sinister' threat to install Miliband in Downing Street
-
 None

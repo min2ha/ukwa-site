@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May bids to reassure business on Brexit 'cliff-edge'
-
 In her speech to the 2016 Confederation of British Industry conference, Theresa May tries to reassure businesses fearing a sudden change in rules once the UK leaves the EU.

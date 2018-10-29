@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Sarah Breese
-
 Sarah Breese is a comedy writer, performer and producer. In 2016 she made the moved to comedy full-time and is based in Cardiff.

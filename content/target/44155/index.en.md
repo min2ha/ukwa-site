@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Happy Now?
-
 A blog post by a pro remain supporter discussing how she feels about the EU Referendum result.

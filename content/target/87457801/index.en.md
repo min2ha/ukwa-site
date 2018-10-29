@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Exhibition Road Show 2012
-
 None

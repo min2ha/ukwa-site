@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock Elim
-
 Site of an Elim Pentecostal church (Christian) located in Bathgate, Greenock, Renfrewshire.

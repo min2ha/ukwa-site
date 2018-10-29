@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Daily Record: World Cup 2018
-
 World Cup 2018 - News, views, gossip, pictures, video - Daily Record

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour choose British-Somali Londoner to stand against George Galloway
-
 None

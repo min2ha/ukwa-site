@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Labour Movement for Europe on Facebook
-
 None

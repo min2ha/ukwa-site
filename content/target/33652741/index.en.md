@@ -10,5 +10,3 @@
   "start_date": "2010-06-23T00:00:00Z"
 }
 
-# Cymdeithas Ted Breeze Jones
-

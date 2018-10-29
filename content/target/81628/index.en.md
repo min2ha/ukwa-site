@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scarlets Rugby (@scarlets_rugby) on Twitter
-
 The official Twitter page of Scarlets Rugby. Trydar swyddogol y Scarlets.

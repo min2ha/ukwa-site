@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Which party's manifesto is strongest on cycling?
-
 None

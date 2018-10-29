@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Private school and Oxbridge educations over-represented among likely new MPs
-
 None

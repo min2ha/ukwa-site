@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-#  Manchester Histories (@mcrhistfest) on Twitter 
-
 Revealing & celebrating Gerater Manchester's unique histories & heritage. 

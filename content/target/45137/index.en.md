@@ -10,6 +10,4 @@
   "start_date": "2016-08-20T10:00:00Z"
 }
 
-# Scottish Palestine Solidarity Campaign
-
 Site of a Scottish pressure group campaigning for economic boycotts of the state of Israel and highlighting the campaign of Palestinian people in the Middle East

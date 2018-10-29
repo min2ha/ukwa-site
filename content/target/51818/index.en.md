@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South Leith Parish Church
-
 The website of South Leith Parish Church. 

@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# DRAM : Drinks Retailing and Marketing
-
 Site of a Scottish magazine that concentrates on the licenced retail trade and the marketing of alcoholic beverages in Scotland.

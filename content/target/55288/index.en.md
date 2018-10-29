@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Cywain Agriculture
-
 Cywain Agriculture is Menter a Busnes project established to add value to produce grown or reared on Welsh farms through developing new products and facilitating access to new markets in order to sustain a future for the sector. Cywain is funded by the Welsh Government and The European Agricultural Fund for Rural Development / European Fisheries Fund.

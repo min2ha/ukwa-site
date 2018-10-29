@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ayrshire Orienteering Club
-
 Site of an orienteering club based at locations around the county of Ayrshire.

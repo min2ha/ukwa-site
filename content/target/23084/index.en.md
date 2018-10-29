@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nigel Askew (@EKRealityP) on Twitter (We Are the Reality Party candidate for South Thanet)
-

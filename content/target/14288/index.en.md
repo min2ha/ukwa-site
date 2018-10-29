@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# The Quietus
-
 <p>Reviews and articles about new music including rock, indie, soul, world music. Also reviews film, and publishes poetry and fiction.</p>

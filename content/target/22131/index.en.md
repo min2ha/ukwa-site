@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Patrick Moloney (Liberal Democrats candidate for Liverpool Walton)
-
 Patrick Moloney stood as Liberal Democrats candidate for Liverpool Walton at the 2015 General Election but was not elected. 

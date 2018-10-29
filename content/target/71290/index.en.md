@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Bath & Beppu Friendship Association (BBFA)
-
 The Bath & Beppu Friendship Association works to promote friendship between the cities of Bath in the UK, and Beppu in Japan.

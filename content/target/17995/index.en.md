@@ -10,6 +10,4 @@
   "start_date": "2015-03-14T09:00:00Z"
 }
 
-# Norfolk Stained Glass
-
 Norfolk Stained Glass website presents a vast array of stained glass, ranging from works of art made by medieval craftsman through to windows produced in the modern era. On this site, by combining high-quality photographs and modern technology minute details can be observed, allowing all to enjoy this collection.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Call for defence chiefs to resign over more spending cuts 
-
 None

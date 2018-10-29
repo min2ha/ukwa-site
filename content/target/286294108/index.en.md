@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Chronic Fatigue Syndrome ME CFS Treatment
-
 <p>The website outlines the history and details of Dr Smith's treatment programme for ME/CFS which he has used on patients for over twenty years on the NHS in Essex and Suffolk.</p>

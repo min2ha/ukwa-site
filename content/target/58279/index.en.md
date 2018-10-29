@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kingussie Camanachd Club
-
 Site of a shinty club based in Kingussie, Highland, Scotland.

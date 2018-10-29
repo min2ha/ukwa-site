@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Immaculate Conception, Inverurie
-
 Site of a Scottish Roman Catholic parish church located in Inverurie, Aberdeenshire.

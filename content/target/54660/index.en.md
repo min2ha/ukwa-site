@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Scottish Dawn - Alba Gu Bràth
-
 Scottish far-right political group.

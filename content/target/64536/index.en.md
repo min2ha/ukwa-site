@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Stroud Women's Refuge
-
 Stroud Women's Refuge - supporting women and children affected by domestic abuse

@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Lòchran, An on Facebook
-
 Facebook profile for An Lòchran, a non profit organisation which exists to develop and promote the Gaelic arts in Glasgow, and to establish a Gaelic cultural centre in the city.

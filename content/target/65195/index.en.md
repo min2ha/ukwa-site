@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Elder
-
 Elder is a UK-wide to provide live-in care, home care & dementia care.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# Transmission Gallery
-
 Transmission is an artist run space in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# WholesGame
-
 WholesGame is a portal for video game traders for getting and sharing information on all aspects of trading video games, both wholesale and retail.

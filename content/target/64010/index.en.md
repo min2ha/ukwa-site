@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Crimes of Britain (@crimesofbrits) on Twitter
-
 Revisiting and monitoring the crimes of Britain.

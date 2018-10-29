@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fy Mhleidlais i: Refferendwm yr UE
-
 Voting information provided by the Electoral Commission 

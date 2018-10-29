@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Richard Price Society
-
 Richard Price (1723 1791) was born in Llangeinior near Bridgend. He was a British moral philosopher, nonconformist preacher, mathematician and political pamphleteer, active in radical, republican circles and an ardent supporter of the American and French revolutions. Te aim of the society is to promote and inform the general public of the contribution of Dr Richard Price to the Enlightenment in general.

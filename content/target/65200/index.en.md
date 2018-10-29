@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Committee of Public Accounts: Exiting the European Union: The Department for Environment, Food & Rural Affairs and the Department for International Trade 
-
 Two departments are being "left in the dark" about how to prepare for Brexit and lack a "clear plan" of priorities. The environment and trade departments have been hampered by "pervasive uncertainty" about the UK's future relationship with the EU, they said. Defra must drop or postpone some non-EU projects if it is to deliver its EU Exit programme,

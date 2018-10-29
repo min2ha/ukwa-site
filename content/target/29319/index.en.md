@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# London School of Economics (LSE): Grantham Research Institute on Climate Change and the Environment
-
 The Grantham Research Institute on Climate Change and the Environment was established by the London School of Economics and Political Science in 2008 to create a world-leading centre for policy-relevant research and training on climate change and the environment, bringing together international expertise on economics, finance, geography, the environment, international development and political economy.

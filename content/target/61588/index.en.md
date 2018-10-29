@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Lodge Broughty Castle No. 486
-
 Site of a masonic lodge located in Broughty Ferry, Dundee and affiliated with the Grand Lodge of Scotland.

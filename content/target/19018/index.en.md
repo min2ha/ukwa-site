@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Hundreds flock to see Faversham's 700-year-old Magna Carta
-

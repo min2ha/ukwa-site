@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 11th Jan. 2017: Brexit: Support for Farming 
-
 The Lords discuss farming policy in the light of Brexit

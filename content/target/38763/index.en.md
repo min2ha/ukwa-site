@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Stewart
-
 David Stewart is the Scottish Labour candidate for Inverness and Nairn in the 2016 Scottish Parliamentary election.

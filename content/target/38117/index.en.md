@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maree Todd Scottish National Party (SNP) : Campaign Site For Scottish Parliament List Selection
-
 Maree Todd is the Scottish National Party list candidate for Highlands & Islands region in the 2016 Scottish Parliamentary election.

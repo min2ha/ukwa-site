@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# British Association of Critical Care Nurses (BACCN)
-
 The purpose of BANCC is to provide a forum for communication, professional development and national representation for all nurses in the UK who are involved in the care of cardiovascular patients. 

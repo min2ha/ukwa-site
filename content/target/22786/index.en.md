@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Heather Rawling on Facebook (TUSC candidate for Leicester West)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Valleys, The - Great place to visit in South Wales
-
 This is a tourist information guide to the south Wales Valleys.

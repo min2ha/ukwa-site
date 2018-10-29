@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Lucy Ribchester (@lucyribchester) on Twitter
-
 The twitter profile of Lucy Ribchester, writer, dancer and reviewer of dance.

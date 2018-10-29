@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cosmopolita Scotland
-
 Cosmopolita Scotland is a bilingual, independent and digital newspaper written in Spanish and English, produced by volunteers.

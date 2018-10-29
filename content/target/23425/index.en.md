@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Victoria Groulef on Facebook (Labour candidate for Reading West)
-

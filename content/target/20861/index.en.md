@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isla O'Reilly on Facebook
-
 This is the Facebook page of Isla O'Reilly, the Scottish Green Party candidate for Inverness, Nairn, Badenoch and Strathspey in the UK General Election on the 7th May 2015 and list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

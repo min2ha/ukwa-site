@@ -10,5 +10,3 @@
   "start_date": "2016-01-18T00:00:00Z"
 }
 
-# Evelyn Williams
-

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Aviation, Maritime, Transport Photographs and Books
-
 Galleries of a personal photographic collection covering aviation, maritime, and other transport with prints available for purchase.

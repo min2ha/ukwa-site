@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Bad Science
-

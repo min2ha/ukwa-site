@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Literature events: Univeristy of Surrey
-
 Festival organised by the University of Surrey

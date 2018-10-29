@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# British Library, The: English and Drama Blog
-
 Blog on literature and theatre collections from the 16th century to the present day run by the British Library curators.

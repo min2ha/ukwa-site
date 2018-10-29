@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Adventures in the Print Trade
-
 A blog related to the history of the pint-making process.

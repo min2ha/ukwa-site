@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# La Belle Angèle (@la_belle_angele) on Twitter
-
 Twitter profile of Edinburgh nightclub and Fringe venue La Belle Angèle.

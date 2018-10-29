@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Humanist Association: 2015 General Election
-
 The British Humanist Association (BHA) is the national charity working on behalf of non-religious people who seek to live ethical and fulfilling lives on the basis of reason and humanity.

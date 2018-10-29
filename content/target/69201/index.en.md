@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Pembrokeshire Sea Kayak Festival
-
 The Pembrokeshire Sea Kayak Festival was established 2017 and is held on a weekend during the month of October.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dartford Labour Party
-
 Website of Dartford Labour Party, providing information on how Labour works, events, how to get involved, press releases and local and national news updates.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Make parliament responsible for leaders' TV debates, says Sir Gus O'Donnell
-
 None

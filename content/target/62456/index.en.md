@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Sylvia Sleigh
-
 Sylvia Sleigh was a Welsh-born naturalised American realist painter.

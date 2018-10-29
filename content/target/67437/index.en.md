@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Carat Scotland Limited
-
 Website of a media agency that provides media planning and buying services in digital and non-traditional media solutions. The company is a subsidiary of Aegis Media Limited. It was formerly known as Carat Edinburgh and changed its name to Carat Scotland Limited in 2013.

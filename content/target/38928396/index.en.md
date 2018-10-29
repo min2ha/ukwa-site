@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Hillman
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# International Autism Wales Education (In Awe)
-
 According to the site, 'InAwe aims to alter perceptions of autism and challenge stigmas attached to having a diagnosis, help people to develop a deeper understanding autism from a developmental perspective and providing realistic hope for families'.

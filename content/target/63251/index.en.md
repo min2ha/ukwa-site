@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Winchester Russian Circle
-
 The Russian Circle brings together people with a common interest in Russia, its people and/or its culture.  We come from a wide variety of backgrounds, with academics, professionals, self-employed, working men and women and retired all mixing happily in a friendly and relaxed atmosphere.  We boast a good mix of nationalities, with not just British and Russians but people from Kazakhstan, Latvia, Belarus, The Ukraine, Hungary, Armenia and more.

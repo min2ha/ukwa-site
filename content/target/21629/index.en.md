@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bercow’s future: Tories and Lib Dems reject claims of 'grubby' plot 
-
 None

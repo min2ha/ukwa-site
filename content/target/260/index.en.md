@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Chorley and South Ribble CCG
-
 None

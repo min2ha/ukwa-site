@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christina Rees (@Rees4Neath) on Twitter
-
 Labour Parliamentary Candidate for Neath. 

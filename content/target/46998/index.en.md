@@ -10,6 +10,4 @@
   "start_date": "2016-11-14T09:00:00Z"
 }
 
-# The Anonymous Revolutionary: Marxism in the Modern World
-
 Blog written by Max Edwards, a revolutionary Marxist who died aged 16 in March 2016. The Anonymous Revolutionary began in the winter of 2014/15 as a political blog centred on the theme of Marxism. Its intention was this: to discuss revolutionary socialism in today’s climate, over two decades after the fall of the Berlin Wall, when capitalism more or less dominates worldwide.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# TEDxSwansea
-
 TEDxSwansea is an independently organised TEDx event, inspired and supported by TED with the mission of sharing ideas worth spreading.

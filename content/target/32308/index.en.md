@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Canewdon Parish Council
-
 Official website of the Canewdon Parish Council, a large village set between Ashingdon, Paglesham and Stambridge in Essex.

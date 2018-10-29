@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Fifth of Labour and Lib Dem candidates pledge to defy party line on fracking
-
 None

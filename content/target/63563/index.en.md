@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Howe Trinity Parish Church
-
 Site of a Church of Scotland parish church at Alford, Aberdeenshire, also including the parich church of Alford.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BBC Sport: Snooker
-
 The snooker section of the BBC Sport website.

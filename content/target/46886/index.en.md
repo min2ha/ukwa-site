@@ -11,7 +11,5 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Blue of Noon
-
 The aim of this site is to publish poems and stories around thoughts that the authors think most people don't discuss.
 

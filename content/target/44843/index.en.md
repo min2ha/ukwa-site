@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# X Music Festival
-
 X Music Festival is a varied and high-profile lineup of dance and urban acts and is held at Bute Park, Cardiff.

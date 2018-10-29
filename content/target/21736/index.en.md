@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ten years as Tory leader, and we still don’t know what David Cameron stands for
-
 None

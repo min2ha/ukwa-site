@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Contemporary Wardrobe Collection
-
 A specialist hire company supplying vintage street fashion, couture items and accessories to the Film, TV and Fashion industries.

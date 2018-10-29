@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Courier, The: Eilish McColgan's Rio Olympics dream is alive
-

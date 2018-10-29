@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Gail Pearson Soprano
-
 Gail Pearson is a Welsh soprano and singing teacher from Neath.

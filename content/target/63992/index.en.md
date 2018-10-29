@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Houston and Killellan Kirk
-

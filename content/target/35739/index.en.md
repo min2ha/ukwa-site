@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Fragile Tory truce over EU referendum shattered as David Cameron savages Boris Johnson
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 17th October 2017: EU Exit Negotiations
-
 David Davis updates the House on the fifth round of negotiations with the European Union. He also reviews progress since June 2017 when negotiations began. 

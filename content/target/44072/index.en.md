@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sir Oliver Heald, Conservative MP for North East Hertfordshire
-
 Website of Sir Oliver Heald, Conservative MP for North East Hertfordshire offering biographical information and news of local parliamentary activites

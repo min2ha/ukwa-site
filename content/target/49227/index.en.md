@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Stir magazine
-
 Site of a magazine produced for and by prisoners in Scottish prisons, which is supported by New College Lanarkshire as an education initiative. The magazine provides a focus for learning in the prisons, develops prisoners' skills for release and supports rehabilitation.

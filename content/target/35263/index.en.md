@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit would end the era of cheap flights and put passenger safety in jeopardy, claims airline chiefs as 'project fear' kicks into full swing  
-

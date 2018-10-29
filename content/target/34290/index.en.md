@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# British Marine
-
 British Marine is the membership organisation for the leisure, superyacht and small commercial marine industry.

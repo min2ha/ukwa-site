@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Our politicians are living a lie. Here's how they can regain our trust
-
 None

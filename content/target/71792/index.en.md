@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Girlguiding
-
 We empower nearly half a million girls to be their best and face the challenges of growing up today. We’ve been doing that through adventure, friendship and fun for over 100 years. 

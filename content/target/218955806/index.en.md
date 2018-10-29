@@ -10,5 +10,3 @@
   "start_date": "2014-01-27T00:00:00Z"
 }
 
-# Gwynedd Archaeological Trust | Ymddiriedolaeth Archaeolegol Gwynedd
-

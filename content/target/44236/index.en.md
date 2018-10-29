@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# International Wound Infection Institute (IWII)
-
 The IWII is a multidisciplinary inclusive society, providing a global perspective on the latest developments in wound infection.

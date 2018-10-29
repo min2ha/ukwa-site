@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# For Club and Country
-
 For Club and Country is a partnership between the National Football Museum and the Woodland Trust. They aim to commemorate the footballers who fought in WWI and raise money to plant more trees across the UK. 

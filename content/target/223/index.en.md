@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University Hospitals Coventry and Warwickshire
-
 None

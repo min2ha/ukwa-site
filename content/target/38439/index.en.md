@@ -11,8 +11,6 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords. EU Committee: Government should focus on positive vision for future EU reform 
-
 The Lords EU Committee has published a report inviting the Government to set out a positive, inclusive vision of the UK's role in a reformed European Union ahead of the referendum
 
 

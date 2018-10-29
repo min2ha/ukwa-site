@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP: Scientific research will be boosted by Brexit
-
 An argument against Stephen Hawking's letter against Brexit

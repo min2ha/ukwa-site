@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harrow LINk
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Tangram Events
-
 Tangram Events is an event management company that helps business organizations across UK to organize team building event and activities. They mainly concentrate around 70 mile radius of our offices in Oxfordshire. 

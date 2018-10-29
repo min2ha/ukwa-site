@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: 'A huge creative step backwards': the arts view on Brexit
-
 Guardian, The

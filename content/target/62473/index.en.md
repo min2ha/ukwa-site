@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock Westburn
-
 Site of a Church of Scotland parish church in Greenock, Inverclyde (historically Renfrewshire).

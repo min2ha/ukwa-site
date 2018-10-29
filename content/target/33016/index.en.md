@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Hut 9 Preservation Group
-
 Hut 9 is based at Island Farm, former German Prisoner of War camp near Bridgend. The Preservation group wish to take control of the Hut and provide access to the public to the historical building.

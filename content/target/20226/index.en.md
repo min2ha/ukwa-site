@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gerald Jones on Facebook
-
 Gerald Jones is Labour’s Parliamentary candidate for Merthyr Tydfil & Rhymney at the General Election on 7 May 2015.

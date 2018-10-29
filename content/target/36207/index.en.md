@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Alice Hooker-Stroud (@AliceGreenParty) on Twitter
-
 Alice Hooker-Stroud is the Wales Green Party Leader & candidate for Mid and West Wales Mid at the 2016 National Assembly Elections. 

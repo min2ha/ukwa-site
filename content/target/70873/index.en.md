@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# LGBT Therapy Directory
-
 This is a directory to LGBT therapists and counsellors across South Wales.

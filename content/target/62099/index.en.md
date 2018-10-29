@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cybersmile Foundation, The: #POSITIVEPLAYLIST
-
 Cyberbullying charity article about using positive music 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election photo highlights: Russell Brand backs Labour via YouTube and Eddie Izzard visits Scotland
-
 None

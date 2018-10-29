@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Zineopolis
-
 Zineopolis opened in June 2007 after a group zine project from first year Illustration Degree students at the University of Portsmouth. The zines and comics produced are archived in this site along with zines donated to us and ones specially purchased for the collection. The focus is primarily on art zines.

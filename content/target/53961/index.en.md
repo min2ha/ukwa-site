@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# The Ferret: GitHub - CSV files scraped from the Facebook Page API
-
 This repository contains 16 CSV files scraped from the Facebook Page API, collected by the Ferret (https://theferret.scot), a non-profit media organisation, based in Scotland.

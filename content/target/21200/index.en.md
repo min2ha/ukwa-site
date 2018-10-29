@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Young (@cmykey) on Twitter
-
 Twitter profile of Chris Young, Scottish Liberal Democrat candidate for the Glasgow list in the 2016 Scottish Parliament election.

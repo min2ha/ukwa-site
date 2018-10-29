@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Greens set out Smith Commission proposals
-
 <p>Statement to accompany the Scottish Green party's submission to the Smith Commission on the future devolution of powers to Scotland.</p>

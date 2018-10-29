@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: 2014 is not 1914, but Europe is getting increasingly angry and nationalist
-
 None

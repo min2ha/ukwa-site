@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Speedy Waste
-
 Speedy Waste Collectors are a London waste collection company, specialising in domestic and commercial rubbish clearance. Our team is comprised of friendly professionals who will do all of the loading and heavy lifting, even cleaning up afterwards.

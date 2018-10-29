@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Living standards key to UK election as data shows slowest recovery since 1920s
-
 None

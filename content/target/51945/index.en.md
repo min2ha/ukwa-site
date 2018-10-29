@@ -10,5 +10,3 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# North Wales Society of Fine Art, NWSFA
-

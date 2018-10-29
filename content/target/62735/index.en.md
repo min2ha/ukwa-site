@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# London School of Economics, Centre for Economic Performance: Brexit blog
-

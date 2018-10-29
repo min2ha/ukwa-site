@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Unpredictably, Dave saw off Ed, Nick and Nige but here comes Boris…
-
 None

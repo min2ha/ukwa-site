@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Pascale Lamb for North West
-
 None

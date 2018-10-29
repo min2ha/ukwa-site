@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Yorkshire & Humber Stronger In (@YandHStrongerIn) on Twitter
-
 Yorkshire and Humber regional campaign for the UK to stay in the EU

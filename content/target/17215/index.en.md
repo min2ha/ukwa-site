@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Small firms hit back over Ed's paternity leave plans
-
 None

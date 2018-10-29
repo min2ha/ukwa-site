@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Otto Inglis on Facebook
-
 This is the Facebook page of Otto Inglis, the UK Independence Party (UKIP) candidate for Edinburgh West in the UK General Election on the 7th May 2015.

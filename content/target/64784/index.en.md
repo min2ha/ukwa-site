@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Newton Stewart
-
 Community website for the town of Newton Stewart, Dumfries and Galloway, providing details of amenities, businesses and events for residents and visitors - incorporates the Newton Stewart Business Association.

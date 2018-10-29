@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# South Wales Transport
-
 Family run business running bus services for Neath Port Talbot and Swansea Councils.

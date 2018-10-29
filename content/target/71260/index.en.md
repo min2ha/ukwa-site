@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Zim UK Catholics
-
 Zimbabwean Catholics in the UK

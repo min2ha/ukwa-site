@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# West London Free School
-
 Website of the West London Free School, Hammersmith.

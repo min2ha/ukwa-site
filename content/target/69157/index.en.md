@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 16th July 2018: Trade Policy
-
 Sets out the role of Parliament, the devolved Administrations, public, business and civil society in promoting trade, and how the Government intend to engage with those groups as we embark on our new international trade agreements to benefit the whole of the UK, and ensure we meet our commitments to an inclusive and transparent trade policy.

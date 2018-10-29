@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Extra: 8 facts about Magna Carta: how much do you know? 
-

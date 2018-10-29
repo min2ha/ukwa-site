@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bury Football Club
-
 Bury Football Club is a professional association football club based in Bury, Greater Manchester, England.

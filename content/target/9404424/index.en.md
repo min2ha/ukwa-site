@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Essex Poetry Festival
-

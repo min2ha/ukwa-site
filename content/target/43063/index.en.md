@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Darvell Community
-
 An intentional Christian community of more than 2,700 people living in twenty-three settlements on four continents. We are a fellowship of families and singles, practicing radical discipleship in the spirit of the first church in Jerusalem.

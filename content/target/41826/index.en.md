@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# 'Socialist case against the EU' TUSC tour kicks off
-
 Details of the TUSC - 20 city tour

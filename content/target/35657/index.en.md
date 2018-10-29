@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Decoded 1914-1918
-
 Reflections on life, loss and invention in Tyne & Wear 1914-18

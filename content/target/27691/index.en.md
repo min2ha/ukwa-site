@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nicola Sturgeon most popular politician on Twitter during the election 
-
 None

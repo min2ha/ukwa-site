@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Cott (@cott_nick) on Twitter (Liberal Democrats candidate for Newcastle upon Tyne Central)
-
 Nick Cott stood as a Liberal Democrats candidate for Newcastle upon Tyne Central but was not elected. 

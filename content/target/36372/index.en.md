@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Grassroots Tories want out of EU, but will political class listen asks PATRICK O'FLYNN
-
 Comment by Patrick O'Flynn

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Mainstream (@EU_Mainstream) on Twitter
-
 Mainstream of Conservative Party, united by belief that UK's national interest is best served working for changes within EU.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# The Journeys of George Fox 1652-1653
-
 This website was devised to present the findings of a research project initially called ‘Quakers in North West England 1652–1653: The Politics of Space’.

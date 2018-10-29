@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Gaucho – The true taste of Argentina
-
 Gaucho restaurants serve quality beef from the Pampas of Argentina offering events, masterclasses and table bookings within a truly glamorous setting.

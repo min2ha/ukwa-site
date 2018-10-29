@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Barrow (SarahBarrow) on Twitter
-
 <p>The twitter profile of diver Sarah Barrow, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

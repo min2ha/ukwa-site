@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Przybylski (@ShuhBillSkee) on Twitter
-
 Twitter account of Professor Andrew Przybylski, technology and psychology research professor.

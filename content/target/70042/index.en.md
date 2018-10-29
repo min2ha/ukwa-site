@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Bendigedig records 
-
 Bendigedig is a label owned and managed in common partnership by Theatr Mwldan and ARC Music Productions International Ltd. Artists include Gwyneth Glyn and Catrin Finch.

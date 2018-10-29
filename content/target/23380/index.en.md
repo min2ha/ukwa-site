@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Abdul Malik (@abdulstweets) on Twitter (Liberal Democrats candidate for Bristol East)
-
 Abdul Malik stood as Liberal Democrats candidate for Bristol East at the 2015 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Thy Kingdom Come
-
 This site is a key initiative of the Archbishop of Canterbury, Justin Welby. Associated with the main site www.archbishopofcanterbury.org.uk

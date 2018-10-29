@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geri Buckley (GeriBuckley) on Twitter
-
 Twitter profile of Geri Buckley, shooting competitor for Team England at the Glasgow 2014 Commonwealth Games.

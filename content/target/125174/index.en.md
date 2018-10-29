@@ -10,6 +10,4 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Library of Wales, The
-
 The Library of Wales project is a Welsh Government and Welsh Books Council initiative. The series is published by Parthian Books. 

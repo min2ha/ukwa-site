@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Open Spaces Society: Our Manifesto For The 2017 Westminster Election
-
 The Open Spaces Society is seeking a pledge in each party’s manifesto that, in the new funding scheme for agriculture, public money is spent on public benefit. This means providing improved public access, whether by paths or responsible freedom to roam. Public access supports local economies and improves people’s health and well-being.
 

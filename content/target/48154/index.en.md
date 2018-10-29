@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Monsterous Fish
-
 This unique pamphlet tells the story of an alleged sighting of a mermaid near Pendine, Carmarthenshire in 1603. The pamphlet was digitised by the National Library of Wales.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Eloise Gynn Composer
-
 Eloise Gynn is a composer and musician from Cornwall and former student at Cardiff University School of Music. Her works have been performed by the London Symphony Orchestra, London Sinfonietta, Kokoro, Hebrides Ensemble, Schubert Ensemble, MusArc choir and at festivals such as Aldeburgh, St. Magnus, Bath and Cheltenham. 

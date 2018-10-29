@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gateshead LINk
-
 None

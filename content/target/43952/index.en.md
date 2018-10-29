@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sick of the Fringe, The
-
 The Sick of the Fringe is a programme of events held as part of the Edinburgh Fringe Festival, which aim to inspire collaborations between the arts and health, illness, disability and medicine.

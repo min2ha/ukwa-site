@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn urges Theresa May: Give us early election
-
 Jeremy Corbyn mocked Theresa May's call for rival parties to contribute their policy ideas, saying it showed the government "had run out of steam". Mrs May intended to use a speech on Tuesday July 11th to call on parties to "contribute and not just criticise".

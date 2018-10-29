@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Myriad Editions: Science Tales
-
 Darryl Cunningham's Science Tales, first edition published in 2012

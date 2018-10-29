@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit is lost in toxic masculinity. No wonder women are turning against it
-

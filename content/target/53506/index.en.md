@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matt Smith, Conservative Candidate Cardiff North
-
 Matt Smith is the Conservative Candidate for Cardiff North at the 2017 General Election.

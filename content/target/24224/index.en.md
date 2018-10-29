@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The 11,000 votes and 23 seats needed to give the Tories a majority
-
 None

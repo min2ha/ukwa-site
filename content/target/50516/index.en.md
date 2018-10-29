@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Voices for Creative Non-Violence UK
-
 VCNV are a UK peace group which formed in 2012 to work in solidarity with Afghan peace makers who are non-violently opposing war.

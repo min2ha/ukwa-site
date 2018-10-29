@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derby County Football Club
-
 Derby County Football Club is a professional association football club based in Derby, Derbyshire, England. Their home matches are played at Pride Park Stadium, where the club moved in 1997.

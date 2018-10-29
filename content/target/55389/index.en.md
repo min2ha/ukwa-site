@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Cardiff Research into Infection and Parasites in Ecological Systems (CRIPES)
-
 CRIPES (Cardiff Research into Infection and Parasites in Ecological Systems) study the ecology of infectious diseases. They are a research group within the Organisms and Environment Division in the School of Biosciences at Cardiff University.

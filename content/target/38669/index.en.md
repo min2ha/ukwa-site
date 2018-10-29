@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Celebration and Commemoration of the Great War
-
 Project to turn Swindon town centre in to a week of celebration and commemoration for the Great War.

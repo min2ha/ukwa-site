@@ -10,5 +10,3 @@
   "start_date": "2015-05-13T00:00:00Z"
 }
 
-# Rheilffordd Cwm Garw | Garw Valley Railway
-

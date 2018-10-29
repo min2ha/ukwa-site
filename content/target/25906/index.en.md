@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron and Miliband broadcast gets more than 400 complaints
-
 None

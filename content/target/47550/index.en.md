@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Legal battle over UK's single market membership
-
 The government is facing a legal battle over whether the UK stays inside the single market after it has left the EU. Lawyers say uncertainty over the UK's European Economic Area membership means ministers could be stopped from taking Britain out of the single market.

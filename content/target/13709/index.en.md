@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Borders Council: Young voters reminded to register to vote ahead of referendum
-
 None

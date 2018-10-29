@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bathgate SNP (@BathgateSNP) on Twitter
-
 Twitter profile of the Bathgate branch of the Scottish National Party (SNP).

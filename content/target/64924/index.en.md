@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Greenleaves
-
 Greenleaves exists to offer a Green and Left alternative view which is representative of the sizeable minorities of Green and left supporters who voted to leave in the 2016 referendum. 

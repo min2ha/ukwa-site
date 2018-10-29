@@ -10,5 +10,3 @@
   "start_date": "2015-06-06T09:00:00Z"
 }
 
-# Diocese of Down and Dromore: Mothers' Union Down and Dromore
-

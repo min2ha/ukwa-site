@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# British Political Speech
-
 British Political Speech is an online archive of British political speech and a place for the discussion, analysis, and critical appreciation of political rhetoric.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stewart's Melville Rugby Football Club
-
 Site of a Scottish rugby union football club based in central north Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Teach Programming
-
 Teach Programming is a community interest company founded to enable more young people to experience the joy of programming.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip should be the obvious party for conservatives like me. Instead, they're toxic
-
 None

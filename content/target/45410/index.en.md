@@ -10,5 +10,3 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Association of Severn Estuary Relevant Authorities' (ASERA) 
-

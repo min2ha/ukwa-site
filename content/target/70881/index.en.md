@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swindon Rugby Club on Pitchero
-
 The official website of Swindon Rugby Club.

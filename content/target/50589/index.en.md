@@ -10,5 +10,3 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Gower Ringing Group
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Fletcher (Conservative)
-
 Mark Fletcher stood as Conservative candidate for Doncaster North at the 2015 General but was not elected. 

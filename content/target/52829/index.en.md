@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Sustrans: General Election 2017: Sustrans cycling and walking manifesto asks
-

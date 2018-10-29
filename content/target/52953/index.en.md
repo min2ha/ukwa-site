@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Seachdain na Gàidhlig - Edinburgh Gaelic Festival Indiegogo page
-
 Indiegogo - crowd funding - page of the Edinburgh Gaelic festival.

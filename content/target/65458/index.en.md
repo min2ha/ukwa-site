@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Twenty-Third Motoring Festival
-
 News report on the Princethorpe College website about the 2018 Annual Motoring Festival, now in its twenty-third year

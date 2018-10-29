@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Modern Manuscripts (@BL_ModernMSS) on Twitter
-
 Tweeting about the British Library's magnificent modern archive and manuscript collections (1601-1950)

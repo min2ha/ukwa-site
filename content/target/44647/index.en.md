@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# PolicyBristol Hub
-
 Applying academic knowledge to major policy problems facing contemporary society is a vital part of the University of Bristol’s mission. PolicyBristol brings together diverse policy-relevant work from across the University to make it more accessible to research users from outside the academic community. 

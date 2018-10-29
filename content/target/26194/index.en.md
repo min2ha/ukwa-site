@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ICAS: General Election 2015: Manifesto
-
 ICAS is a professional body for more than 20,000 business people who work in the UK and in more than 100 countries around the world. Their members have all achieved the internationally recognised and respected CA qualification (Chartered Accountant). They are an educator, examiner, regulator, and thought leader in the field.

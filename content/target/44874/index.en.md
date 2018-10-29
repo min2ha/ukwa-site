@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Henry Tudor Society
-
 The Henry Tudor Society was established in 2013 to discuss, debate and deliberate the life and times of Henry VII, the first Tudor king of England.

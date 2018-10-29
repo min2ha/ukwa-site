@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Garw Valley Links Community Church, Bridgend 
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# NUTLondonWomen NEU (@LNWN_NUT) on Twitter
-
 The London NUT Women's Network (LNWN) is a regional group for NUT women in London. We organise events and actions on issues that affect women. 

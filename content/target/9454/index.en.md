@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Institut Francais du Royaume Uni
-
 Founded in 1910, the Institut français du Royaume-Uni, comprises a language centre, multi-media library, a cinema – Ciné lumière – and a French bistro. It is located in South Kensington, London.

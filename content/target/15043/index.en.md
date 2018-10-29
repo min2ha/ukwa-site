@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Fitzrovia Discussion Forum and Message Board
-

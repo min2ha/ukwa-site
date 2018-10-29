@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Art of Fiction, The
-
 None

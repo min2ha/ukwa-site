@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberdeen and North East of Scotland Music Festival
-
 Site of an annual festival and competition of classical and Scottish traditional music and dance, as well as speech and drama.

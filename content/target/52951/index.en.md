@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Emily Owen (@Emily4Aberconwy) on Twitter
-
 Labour Party candidate for Aberconwy at the 2017 General election.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Exeter City F.C.
-
 Exeter City Football Club is a professional association football club based in Exeter, Devon, England. The team play in League Two, the fourth tier of the English football league system. The club is owned by the club's supporters through the Exeter City Supporters' Trust.

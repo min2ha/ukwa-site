@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nigel Farage claims 'one senior figure' is trying to turn Ukip against him in extraordinary rant  
-
 None

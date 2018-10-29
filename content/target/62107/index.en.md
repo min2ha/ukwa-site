@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackburn Rovers Football Club
-
 The official Twitter account of Blackburn Rovers Football Club. The club was established in 1875, becoming a founding member of The Football League in 1888 and the Premier League in 1992. In 1890, Rovers moved to Ewood Park.

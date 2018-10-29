@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Louise Brown (@LouiseBrown4PCC) on Twitter (Conservative candidate for Gwent Police and Crime Commissioner) 
-
 Louise Brown is the Conservative candidate at the 2016 Police and Crime Commissioner Elections for Gwent.

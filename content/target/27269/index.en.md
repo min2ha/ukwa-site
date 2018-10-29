@@ -10,5 +10,3 @@
   "start_date": "2015-06-04T09:00:00Z"
 }
 
-# Orange Parades and schedules UK
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservative Party on Facebook
-
 None

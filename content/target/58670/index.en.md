@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Dove Tales
-
 Site of a group of Scottish artists and associates campaigning for international peace (opposing arm trade; challenging the place of war in society; advocating dialogue; promoting cultural exchange through art; caring for victims of war; opposing state repression of freedom of expression in the name of security; increasing understaning; working against the root causes of violence).

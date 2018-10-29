@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Warriors 
-
 Site of a Scottish rugby union football club based in Glasgow.

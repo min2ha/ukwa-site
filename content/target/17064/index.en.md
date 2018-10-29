@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Green Alliance: Greener Britain
-
 Environmental thinktank that works "to ensure UK political leaders deliver ambitious solutions to global environmental issues".

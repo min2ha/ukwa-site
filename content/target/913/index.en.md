@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Blood and Transplant
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# Pontardulais Agricultural and Horticultural Show
-

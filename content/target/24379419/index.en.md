@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# EDF Energy
-
 EDF Energy website

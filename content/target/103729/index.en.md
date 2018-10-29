@@ -10,5 +10,3 @@
   "start_date": "2004-11-25T00:00:00Z"
 }
 
-# Ynys Enlli Bardsey Island
-

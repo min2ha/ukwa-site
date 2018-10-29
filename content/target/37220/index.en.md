@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: I'll vote to leave the EU, says former minister Liam Fox
-

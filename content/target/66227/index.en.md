@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# http://www.aberdeensda.org/
-
 Site of a Seventh-day Adventist Church in Aberdeen.

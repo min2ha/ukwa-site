@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leicester Tigers (@LeicesterTigers) on Twitter
-
 The official Twitter account of Leicester Tigers Rugby Club.

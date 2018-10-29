@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sockburn Hall Project
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Steer
-
 Steer offers courses in back-end and front-end web development.

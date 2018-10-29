@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Menywod Cymru
-
 The idea of the site emerged from a conference held by Coleg Cenedlaethol Cymraeg & Academi Hywel Teifi to celebrate International Women's day. The site contains biographies of Welsh women innovators from past and present.

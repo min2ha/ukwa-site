@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Southern English Springer Spaniel Society (SESSS)
-
 Society centred around the English Springer Spaniel dog breed, based in and around the South of England,

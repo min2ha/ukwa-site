@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tenby 10k
-
 The Tenby 10k is an annual 10k road race which takes place in Tenby, Pembrokeshire.

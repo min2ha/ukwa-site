@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London Borough of Hackney: Hackney: A Host for 2012
-

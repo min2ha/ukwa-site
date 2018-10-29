@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Anglo-Russian culture club
-
 ARCC is an online platform bringing together Russian–speaking, UK and European artists and scholars, aiming to explore artistic and intellectual collaboration from a transcultural perspective.

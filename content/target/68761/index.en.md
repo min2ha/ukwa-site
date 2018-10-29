@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Association for the Study and Preservation of Roman Mosaics (ASPROM)
-
 ASPROM has helped to produce the first catalogue of every Roman mosaic ever discovered in Britain, The Roman Mosaics of Britain, by David S. Neal and Stephen R. Cosh.

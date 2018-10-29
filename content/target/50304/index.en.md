@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# D.J Williams
-
 D.J Williams (1885-1970) was one of the foremost Welsh-language writers of the twentieth century. The blog and history is the work of Robert Rhys, lecturer at Swansea University.

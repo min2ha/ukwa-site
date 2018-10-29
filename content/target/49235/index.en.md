@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Armadale Thistle Junior Football Club
-
 WordPress site for a Scottish junior football club based in Armadale, West Lothian.

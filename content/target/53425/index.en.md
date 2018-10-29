@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Hillingdon (@UKIPHillingdon) on Twitter
-
 Official Twitter feed of UKIP Hillingdon, covering the 2017 General Election campaign.

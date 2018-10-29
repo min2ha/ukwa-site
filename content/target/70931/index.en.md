@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Club Football | Lost Boyos
-
 Lost Boyos centres around the travels of two Welsh brothers watching live football anywhere they can find it - from the top leagues to the basement leagues. Much of the site focuses on Groundhopping, a hobby that involves attending matches at as many different stadiums or grounds as possible. The website also provides many articles on Welsh football history.

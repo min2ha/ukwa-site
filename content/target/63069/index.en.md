@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Outdoor Activities | Outdoor Pursuits | Adventure Britain
-
 Adventure Britain has a huge range of challenging outdoor activities to sink your teeth into such as canyoning plus much more

@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Andrew Taylor Composer
-
 Andrew Taylor is an English composer/performer based in Cardiff and studying for a PhD in composition

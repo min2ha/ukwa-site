@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# British School of Osteopathy, The
-
 Official website of the British School of Osteopathy, London.

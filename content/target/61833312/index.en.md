@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Tea With Me
-
 None

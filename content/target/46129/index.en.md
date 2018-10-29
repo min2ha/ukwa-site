@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Guardian: Six Bells Memorial
-
 Guardian is the largest large scale mining memorial in Wales and is located in Abertillery. It commemorates the 50th anniversary of the 1960 Six Bells mining disaster in which 45 men and boys lost their lives.

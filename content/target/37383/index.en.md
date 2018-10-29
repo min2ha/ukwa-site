@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brits abroad will get to vote in EU referendum
-
 The article discusses the eligibility of people to vote in the EU referendum. UK citizens who have been living outside the UK for less than 15 years will be allowed to vote. 

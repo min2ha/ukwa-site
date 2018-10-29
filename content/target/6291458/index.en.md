@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Disability Action
-
 None

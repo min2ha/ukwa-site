@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Torcuil Crichton (@Torcuil) on Twitter
-
 Twitter profile of Daily Record Westminster editor. 

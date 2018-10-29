@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: Nigel Farage: Expect a huge political shake-up in 2014
-
 None

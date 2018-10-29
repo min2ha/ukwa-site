@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British Franchise Association (BFA)
-
 The British Franchise Association (BFA) is a voluntary self-regulatory body for the UK franchise industry, with a standards based approach to membership. Its aim is to promote ethical franchising practice in the UK and help the industry develop credibility, influence and favourable circumstance for growth.

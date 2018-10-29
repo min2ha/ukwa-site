@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Martin O'Brien Performance Artist
-
 Martin O'Brien is a performance artist. 

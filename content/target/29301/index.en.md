@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# FlipSide The Family Festival with a Brazilian Beat
-
 FlipSide Festival

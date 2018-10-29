@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The Lords’ amendments are legally unnecessary and economically counter-productive
-
 The Lords’ amendments to the EU Withdrawal Bill are based on a false premise.  They assume that if Britain leaves the EU without replicating the Customs Union or does so without a ‘deal’, UK trade with the bloc  and  so its economy would suffer.  In fact, not only could UK-EU trade continue painlessly and with profit to both sides (either under current international trade law  without an EU customs union, other arrangements, or association through the EEA) but a ‘no deal’ could also bring the economy a much needed Brexit boost as it reboots after March 2019

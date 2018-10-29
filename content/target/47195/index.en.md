@@ -10,6 +10,4 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# Meddwl: Meddyliau ar iechyd Meddwl
-
 Meddwl is a Welsh language website that focuses on mental health.

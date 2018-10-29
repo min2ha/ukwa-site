@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ecotricity gives £250,000 to Labour amid 'existential threat' from Tories 
-

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Interface Knowledge Connection
-
 Interface connects Scottish businesses to higher education and research institutions in Scotland.

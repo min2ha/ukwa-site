@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The UK’s political system is dying, but digital technology offers an alternative
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# London Mining Network
-
 London Mining Network works in support of communities around the world who are badly affected by mining – mining by companies based in, or financed from, London.

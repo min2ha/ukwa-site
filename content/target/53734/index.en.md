@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# RogansBlog.co.uk (UKIP Politician)
-
 Paul Graham Rogan stood as UK Independence Party (UKIP) candidate for Bury South Constituency at the 2017 General Election but was not elected

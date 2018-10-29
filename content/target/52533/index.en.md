@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stephen Lloyd (Liberal Democrats Politician)
-
 Stephen Lloyd stood as Liberal Democrat candidate for Eastbourne in the 2017 General Election and was elected MP. He was first elected in 2010 and has held the same seat ever since.

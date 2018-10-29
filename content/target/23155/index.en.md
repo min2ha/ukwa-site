@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rugby Network
-
 An unofficial supporter website for game of rugby in England and other sports.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Strathendrick Rugby Football Club
-
 Site of a crugby union footbally club based at Fintry, Stirlingshire.

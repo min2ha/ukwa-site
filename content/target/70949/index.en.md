@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Calderdale Beer & Cider Festival
-
 Local beer festival

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scoop.it: Independence for Scotland, It's Coming Soon!
-
 None

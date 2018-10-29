@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crusaders Football Club
-
 Crusaders Football Club work within the local community and schools has been built on many years of hard work and endeavour, building lasting relationships with the parents, teachers and children.

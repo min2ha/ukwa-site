@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lincolnshire Community Health Services
-
 None

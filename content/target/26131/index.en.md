@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Society of Motor Manufacturers and Traders (SMMT): SMMT manifesto priorities: 2015
-
 The Society of Motor Manufacturers and Traders (SMMT) exists to support and promote the interests of the UK automotive industry at home and abroad. Working closely with member companies, SMMT acts as the voice of the motor industry, promoting its position to government, stakeholders and the media.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# EnQuest plc
-
 EnQuest plc is an independent oil and gas production and development company with a primary geographic focus on the United Kingdom Continental Shelf.

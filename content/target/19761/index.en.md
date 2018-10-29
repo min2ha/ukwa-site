@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Elections Etc
-
 An election forecasting website that was set up foor the 2015 General election and comments on the Brexit campaign and possibly the 2016 Local elections. The site is run by Steve Fisher and Jonathan Jones.

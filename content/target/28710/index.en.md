@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Forth Bridge,The @theforthbridge on Twitter
-
 The twitter profile of the Forth Bridge Experience, a Network Rail plan to open the bridge to the public.

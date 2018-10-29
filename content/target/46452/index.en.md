@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T11:00:00Z"
 }
 
-# Nordic Model Now!
-
 Nordic Model Now! is a new UK grassroots organisation campaigning for the abolition of prostitution and related practices (such as lapdancing, pornography and surrogacy).

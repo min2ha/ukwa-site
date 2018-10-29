@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Ryedale Plan, The
-
 The Ryedale Plan is the development plan for Ryedale District (excluding the North York Moors National Park) and is prepared by Ryedale District Council.

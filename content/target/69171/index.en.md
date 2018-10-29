@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Family, Mossend
-
 Site of a Scottish Roman Catholic parish church located in Mossend, Lanarkshire.

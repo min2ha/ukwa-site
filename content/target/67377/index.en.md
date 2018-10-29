@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lankelly Fowey RFC (@lankellyfowey) on Twitter
-
 The official Twitter account of Lankelly Fowey Rugby Football Club. Founded in 1968 by the late John Biggs, Lankelly Fowey RFC was formed at a meeting in the kitchen of his farmhouse. 

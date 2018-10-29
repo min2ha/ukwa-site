@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Yahoo!omg! UK & Northern Ireland: Nelson Mandela dies: Emotional celebrity reactions on Twitter
-
 <p>Twitter messages from famous people, mostly in the UK, reacting to the news of Nelson Mandela's death.</p>

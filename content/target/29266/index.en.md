@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Queen's University Belfast: Northern Ireland's 2016
-
 A 2014-15 project "approaching the contested commemoration of the Easter Rising and the Battle of the Somme".

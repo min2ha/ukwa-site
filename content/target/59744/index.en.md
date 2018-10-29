@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# nationalhealthexecutive: Seven trusts to drive digital mental health services with £35m investment
-
 Article about NHS England have confirming that seven trusts will become Global Digital Exemplars for Mental Health and receive a share of £35m to develop and roll-out innovative technology for patient treatment. The money will fund digital schemes such as an online platform for people suffering from a variety of conditions to allow them to access tried-and-tested therapies on their computer of smartphone.

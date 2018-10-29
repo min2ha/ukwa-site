@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Dyfeisgar: Blog Rhodri ap Dyfrig
-

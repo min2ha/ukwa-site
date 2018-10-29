@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK election bad for business whatever the result, says Martin Sorrell
-

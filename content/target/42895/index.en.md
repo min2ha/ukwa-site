@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Special Needs Jungle
-
 Not-for-profit organisation providing resources, training and information for parents and carers of children and young people with special needs and disabilities

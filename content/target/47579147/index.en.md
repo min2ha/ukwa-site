@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Anne Bean
-

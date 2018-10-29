@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Cwmaman Music Festival.
-
 The Cwmaman Music Festival is held at the last weekend of September every year and was established in 2008.

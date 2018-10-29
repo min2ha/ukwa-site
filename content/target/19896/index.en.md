@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# La maison medicale
-
 French medical center in London

@@ -3167,6 +3167,4 @@
   "endDateText": ""
 }
 
-# Festivals
-
 A collection of websites related to the various festivals that take place around the UK. This collection was initiated by staff at the Legal Deposit Libraries in 2018 but is ongoing. 

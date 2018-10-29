@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Palace complains to watchdog over Sun's "Queen backs Brexit" claims
-
 A discussion of Buckingham Palace's negative  reaction to the Sun's claim that the Queen backs Brexit

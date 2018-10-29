@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# BRE Group
-
 BRE is a building science centre providing the training, publications and advice that enable construction professionals to work better and smarter.

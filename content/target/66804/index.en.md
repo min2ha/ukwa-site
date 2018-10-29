@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Cambrensis
-
 Cambrensis Choir is the home of Christian choral music in South Wales.

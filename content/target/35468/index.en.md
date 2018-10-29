@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# Grant Thornton
-
 Grant Thornton is an organisation that deals with independent assurance, tax and advisory firms. These firms help dynamic organisations unlock their potential for growth by providing meaningful, forward looking advice.

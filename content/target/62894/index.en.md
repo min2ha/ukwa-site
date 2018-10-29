@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's & Old Parish Church linked with Teviot & Roberton
-
 Site of several Church of Scotland parish churches located in and around Hawick, Scottish Borders.

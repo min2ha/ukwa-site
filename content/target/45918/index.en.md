@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T12:00:00Z"
 }
 
-# Scottish Text Society
-
 Site of an organisation promoting interest in the literatures and languages of Scotland prior to 1800.

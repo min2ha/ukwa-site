@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Government House Jersey
-
 Website for the Office of the Lieutenant-Governor, Jersey

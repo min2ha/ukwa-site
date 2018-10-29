@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Musical Theatre Network
-
 Musical Theatre Network – a membership organisation with a mission to create the environment that allows new musical theatre to flourish. We have a passion for work that takes a fresh look at the form and a commitment to stimulate and support a new generation of talented artists through our national networks.

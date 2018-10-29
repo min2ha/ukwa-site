@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# University of Cambridge: Cambridge Fund for the Prevention of Disease (Campod)
-

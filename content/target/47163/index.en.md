@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Guild of Young Freemen
-
 The Guild of Young Freemen was founded in 1976 by the City of London Corporation under the Lord Mayoralty of Sir Robin Gillett Bt to encourage the wider participation of Freemen under the age of 40 in the affairs and traditions of the Livery, by supporting them in finding a Livery Company to join. 

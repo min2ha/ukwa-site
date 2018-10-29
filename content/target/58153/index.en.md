@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: October 26th 2017: Leaving the EU: Parliamentary Vote
-
 The Brexit Secretary, David Davis, suggests that Parliament might not get a vote on a Brexit deal until after March 2019.

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Games and Planes - collection of memories of the 1940s
-
 None

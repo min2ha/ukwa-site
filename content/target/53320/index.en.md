@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Central and South Birmingham 
-
 The local branch for the Westminster constituencies of Edgbaston, Hall Green, Ladywood, Northfield and Selly Oak.

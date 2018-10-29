@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Wakefield Waterfront
-
 The aim of the project is to research, together with Waterfront communities, a history of the Wakefield Waterfront, and to communicate this in an accessible form to those communities and to the wider public. 

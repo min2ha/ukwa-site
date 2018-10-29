@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour doing a deal with the SNP deal would be a 'betrayal of the English vote', warns Ed Balls
-
 None

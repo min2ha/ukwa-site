@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: 'Chris Grayling hypocrite on justice’
-

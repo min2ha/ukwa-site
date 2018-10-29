@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Mundella Grammar School Nottingham, UK 1899 - 1985
-
 None

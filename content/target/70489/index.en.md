@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiteers are using the notion of Project Fear to manipulate you
-

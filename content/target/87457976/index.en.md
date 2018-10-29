@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Activists Rise Against Cuts (BARAC) UK
-
 Black Activists Rising Against Cuts (BARAC) UK. Campaign to fight the disproportionate impact of cuts on black communities & workers.

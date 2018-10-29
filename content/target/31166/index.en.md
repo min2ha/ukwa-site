@@ -10,6 +10,4 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Scottish Cities Alliance, The
-
 The Scottish Cities Alliance aims to achieve an economically stronger future for Scotland through the joint efforts of Scotland’s seven cities and Scottish Government. 

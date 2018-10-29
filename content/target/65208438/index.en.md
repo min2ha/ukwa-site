@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Blog of Bosh, A
-
 Blog dedicated to Edward Lear, an English poet. It is run by Marco Graziosi.

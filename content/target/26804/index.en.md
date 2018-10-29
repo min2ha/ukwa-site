@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Bird in the House: Writing in west Wales...thinking about art and contemporary craft
-
 Blog by Kathryn Campbell Dodd, an artist from Wales.

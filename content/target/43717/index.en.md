@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Snakeskin
-
 Monthly online poetry magazine, publishing a wide range of verse from around the globe.

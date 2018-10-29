@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sky News: Operation Yellowhammer: Leaked 'no-deal' Brexit details are quite revealing
-
 ky's Faisal Islam examines the document leaked about "Operation Yellowhammer", the code name for "no-deal" planning.
 20:08, UK,

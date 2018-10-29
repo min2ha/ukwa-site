@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Economic Affairs: "Mobile phone bills wiii soar"
-
 This briefing on roaming charges argues that the problem is hugely exaggerated. But it also sets out two options for the Government to prevent consumers facing higher phone bills in a no-deal scenario.

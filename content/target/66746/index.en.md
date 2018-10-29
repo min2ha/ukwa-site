@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# The International Tin Association (formerly ITRI Ltd)
-
 The International Tin Association (formerly ITRI Ltd) is the only organisation dedicated to supporting the tin industry and expanding tin use.  A primary goal is to ensure an innovative, competitive, and sustainable supply chain and market for tin.

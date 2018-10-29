@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK promises 'significant' White Paper
-
 Government announced on May 15th 2018 that it would produce a White Paper setting out its negotiating position for Brexit before the June EU summit.

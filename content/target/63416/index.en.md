@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# LRB Blog: Remembering Stephen Hawking
-
 London Review of Books blog post remember Stephen Hawking

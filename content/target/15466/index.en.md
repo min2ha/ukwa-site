@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Consent: Stop Domestic Abuse & Forced Marriages Now
-
 <p>A campaign within the Muslim community to stop domestic abuse &amp; forced marriages, and support victims.</p>

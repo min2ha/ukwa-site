@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tom Daley (@TomDaley1994/) on Twitter
-

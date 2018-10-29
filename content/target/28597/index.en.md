@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pidgin Perfect ® (pidgenperfect) on Twitter
-
 Tweet from pigin perfect, a multi disciplinary creative studio based in Glasgow, on filming a rap video with pupils from Cadder Primary in Glasgow.

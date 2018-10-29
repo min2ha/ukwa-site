@@ -10,5 +10,3 @@
   "start_date": "2017-10-13T09:00:00Z"
 }
 
-# Blackwood Miners' Institute | Sefydliad y Glowyr Coed Duon
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Giglets Reads Twitter
-
 Twitter site of Giglets Reads

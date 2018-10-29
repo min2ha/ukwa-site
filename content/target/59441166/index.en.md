@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Jenkins
-
 Helen Jenkins is a Welsh Triathlete.

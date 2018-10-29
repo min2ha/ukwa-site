@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservatives outnumbered two-to-one in audience for BBC Question Time debate
-
 None

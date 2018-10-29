@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Birmingham Irish ARC (@BirminghamARC) on Twitter
-
 Birmingham Irish Abortion Rights Campaign. 

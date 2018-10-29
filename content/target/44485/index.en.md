@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# KaleidoScot on Facebook
-
 Facebook site for a Scottish online publication delivering news, reviews, opinion pieces and original articles of interest to the LGBTI community in Scotland.

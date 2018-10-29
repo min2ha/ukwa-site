@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T00:00:00Z"
 }
 
-# All In London
-
 <p>AllinLondon.co.uk is an online directory with information on London's events, restaurants, bars, theatres, tickets, things to try, shops and services as well as opinions and comments.</p>

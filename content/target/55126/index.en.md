@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Opinion Panel, The: Signing Out For Good: Why I Decided To Delete Facebook
-
 The Opinion Panel: Article on Facebook and Mental Health

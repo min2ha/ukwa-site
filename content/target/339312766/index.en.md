@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Swansea 9 Lines Eco-Trams
-
 Swansea 9 Lines Eco-Trams is a proposal to create a network of innovative ultralight trams in the Swansea Bay City Region.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Black Girl Festival
-
 Website for the Black Girl Festival. A festival celebrating Black British women past, present & future

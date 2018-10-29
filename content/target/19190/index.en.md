@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Farage criticised after claiming Sandwich is part of Thanet rather than Dover District Council
-

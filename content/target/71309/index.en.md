@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# British Universities Industrial Relations Association (BUIRA)
-
 The British Universities Industrial Relations Association (BUIRA) was founded in 1950. Initially entitled the Inter-University Study Group in Industrial Relations, the name of BUIRA has been adopted since 1967.

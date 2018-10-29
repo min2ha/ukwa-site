@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Free Church of Scotland
-
 The Free Church of Scotland is a Presbyterian Church adhering in its worship and doctrine to the position adopted by the Church of Scotland at the Reformation.
 

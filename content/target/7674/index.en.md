@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Carnesky's Ghost Train
-
 the Ghost Train is part ride, part visual theatre and part scare attraction which combines contemporary attraction technology with older theatrical illusions.

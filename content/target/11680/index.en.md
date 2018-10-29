@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Corrie Scott (CorrieScott1) on Twitter
-
 <p>The twitter profile of althete Corrie Scott, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

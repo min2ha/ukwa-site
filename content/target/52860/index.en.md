@@ -10,8 +10,6 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Far Composites
-
 Far is an innovative company offering a revolutionary approach to the design and manufacture of lightweight structural composite components.
 
 The company is based in Nottingham, bringing together the combined industry expertise of engineering, manufacturing and materials to create a design team with future manufacturing capabilities and training packages for those organisations with a desire to enter the composites industry either directly or in partnership with their existing customers and suppliers.

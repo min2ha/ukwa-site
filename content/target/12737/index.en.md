@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aly Dixon
-
 <p>The website of marathon runner Aly Dixon, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

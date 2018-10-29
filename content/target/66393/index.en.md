@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Dingbro Limited
-
 Dingbro Limited is a wholesale distributor of automotive components, body shop supplies and paints, and truck and trailer parts. The company was founded in 1973 and is based in Aberdeen, Scotland.

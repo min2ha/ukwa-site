@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Huffington Post: Standup Comedy posts
-
 Articles on the Huffington Post (UK) tagged as 'standup comedy'

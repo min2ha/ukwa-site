@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# joe ham (joeham56) on Twitter
-
 <p>The twitter profile of althete Joe Ham, bantamweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

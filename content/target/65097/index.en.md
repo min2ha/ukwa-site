@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lochside Linkage
-
 Site of three Church of Scotland parish churches around Gareloch, Argyll & Bute ; Craigrownie ; Garelochhead ; St. Modans, Rosneath.

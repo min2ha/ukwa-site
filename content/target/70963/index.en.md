@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# WrdeUp Music Festival
-
 Website for the WrdeUp Music Festival.

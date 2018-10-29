@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit protest: Trafalgar Square rally cancelled over safety fears after 'unprecedented' interest
-
 A planned protest over the EU referendum result was cancelled on safety grounds after an "unprecedented" response from Londoners. .

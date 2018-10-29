@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Deliver 2030
-
 The Deliver2030.org site and @Deliver2030 twitter feed are coordinated by the Overseas Development Institute, who have implemented a large research programme on the post-2015 agenda.  

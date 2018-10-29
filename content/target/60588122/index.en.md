@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glossop Methodist Circuit
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Wild Island of South Georgia  
-
 A record of cemeteries and burial sites, and the people who lie on the island.

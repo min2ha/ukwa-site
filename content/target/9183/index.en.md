@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Independent, The: Winter Olympics 2014
-

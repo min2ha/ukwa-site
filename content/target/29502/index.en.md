@@ -10,5 +10,3 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Reserve Forces' and Cadets' Association for Wales
-

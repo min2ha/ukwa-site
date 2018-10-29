@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Notts Politics: Brexit or Bremain?  Immigration and EU Membership
-
 Notts politics is a blog produced by members of the School of Politics and International Relation at the University of Nottingham, and by regular guest pieces.

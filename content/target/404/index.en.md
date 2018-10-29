@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northamptonshire Health and Wellbeing Board
-
 None

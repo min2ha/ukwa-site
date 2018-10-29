@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liam Fox says David Cameron did not win 2010 election on 'economic credibility'
-
 None

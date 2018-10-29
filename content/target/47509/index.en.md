@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Scottish Mountain Rescue
-
 Site of a consortium of volunteer mountain and cave rescue teams throughout Scotland.

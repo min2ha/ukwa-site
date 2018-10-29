@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Perry (@John_Perry_UK) on Twitter (UKIP  Politician)
-
 John Perry stood as UK Independence Party (UKIP) candidate for Havant in the 2017 General Election but was not elected.

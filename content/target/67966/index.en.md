@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grasshoppers Rugby (@GrasshoppersRug) on Twitter
-
 The official Twitter account of Grasshoppers Rugby. A local community sports club in West London with excellent facilities, catering for girls and boys, men and women, from four years upwards, located just off the A4 in Osterley/Isleworth in Middlesex.

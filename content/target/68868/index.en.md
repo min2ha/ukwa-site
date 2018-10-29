@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: May’s new Brexit plan. There is an alternative – from within the Government itself.
-
 Political opponents criticised Brexiteers for not having a credible plan for the UK's   future relationship with the EU. This article points out that David Davis had such a plan before he resigned as Brexit secretary, but was forbidden to publish it

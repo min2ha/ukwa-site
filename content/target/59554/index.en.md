@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# East Dunbartonshire Heritage & History Forum
-
 Site of a local history group located in East Dunbartonshire Scotland

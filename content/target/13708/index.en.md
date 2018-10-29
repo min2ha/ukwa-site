@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Renfrewshire Council: Renfrewshire pupils go on election hustings
-
 None

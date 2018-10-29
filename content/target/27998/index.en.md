@@ -10,6 +10,4 @@
   "start_date": "2015-06-15T09:00:00Z"
 }
 
-# Gwasanaeth Addysg ar y Cyd Consortiwm Canolbarth y De | Central South Consortium Joint Education Service
-
 The Central South Consortium Joint Education Service aim is to raise standards though collaboration between Local Authorities and effective partnership with schools.

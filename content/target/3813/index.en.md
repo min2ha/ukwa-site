@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Asian Times online / Eastern Eye
-
 Eastern Eye is Britain’s best known and most respected Asian weekly newspaper with national coverage. "Regarded as the authentic voice of British Asians in the UK, its coverage of politics, business, the arts, Bollywood and sport is unrivalled." 

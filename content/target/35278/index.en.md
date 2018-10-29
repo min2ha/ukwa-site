@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Graham Hutchison (@GrahamHutch2016) on Twitter
-
 The Twitter profile of Graham Hutchison, Scottish Conservative and Unionist candidate for Glasgow Southside in the 2016 Scottish Parliament election.

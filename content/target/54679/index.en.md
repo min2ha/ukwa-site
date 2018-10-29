@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# YoungMinds: Life on the Web
-
 Website that raises awareness of online issues affecting young people's mental health.

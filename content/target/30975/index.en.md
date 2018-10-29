@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Atomic Pìseag on Facebook
-
 This is the Facebook page of Atomic Piseag, the Argyll Ladies' Centennial Gaelic Choir. 

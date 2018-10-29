@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel Williams for Delyn on Facebook
-
 Facebook Page for Delyn UKIP PPC Nigel Williams.

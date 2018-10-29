@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andy Littlewood (@AndyLittlewood2) on Twitter (Greater Manchester Homeless Voice Politician)
-
 Andy Littlewood stood as the Greater Manchester Homeless Voice candidate for Rochdale in the 2017 General Election but was not elected. 

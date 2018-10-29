@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Gina Miller subjected to online abuse after Brexit legal challenge victory
-
 Businesswoman Gina Miller was subjected to racist online abuse after her lawsuit forced the Government to put its plans to leave the European Union to a Parliamentary vote. Article includes a representative sample of abusive tweets.

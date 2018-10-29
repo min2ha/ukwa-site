@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Department for Business, Innovation & Skills: Government to fast track funding for research into Zika
-
 Government announcement of funding for Zika research

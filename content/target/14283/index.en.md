@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Contemporary Ceramics
-
 <p>"The Contemporary Ceramics Centre is dedicated to showing the best in contemporary studio ceramics and will continue to exhibit the work of members of the Craft Potters Association, the only national body representing ceramic artists and potters in the UK." - from About</p>

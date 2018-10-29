@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greenacre Writers
-
 Finchley Literary Festival

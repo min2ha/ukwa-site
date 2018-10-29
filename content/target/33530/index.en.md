@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Stratford 'Little Germany' 1914
-
 The project will explore the stories and family folklore from the descendants of the German community who still live in East London.

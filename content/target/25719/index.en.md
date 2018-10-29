@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip offers legal protection to Christians who oppose same-sex marriage
-
 None

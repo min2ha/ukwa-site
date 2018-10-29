@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Nail Your Novel
-
 None

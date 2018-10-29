@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How David Cameron could win the general election but not the keys to No 10
-
 None

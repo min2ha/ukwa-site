@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Register, The: Stephen Hawking
-
 Independent news, views, opinions and reviews on the latest in the IT industry. These are articles related to Stephen Hawking.

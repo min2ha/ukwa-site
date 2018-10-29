@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# International Regulatory Strategy Group: The EU's third country regimes and alternatives to passporting
-
 Report concludes that the focus of the Brexit negotiations should be on designing and delivering a bespoke UK-EU deal rather than reforming or adapting existing frameworks.

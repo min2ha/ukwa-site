@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Newport Harriers Athletic Club
-

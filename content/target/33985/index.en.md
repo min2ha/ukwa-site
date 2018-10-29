@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Eurosceptic press praises David Cameron for freeing his ministers
-

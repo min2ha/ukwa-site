@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cywion Cranogwen
-
 Cywion Cranogwen is a poetry project involving a group of Welsh language female poets who travelled Wales organising poetry events in 2017.

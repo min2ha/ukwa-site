@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# james peterson (@jamespeterson78) on Twitter (UKIP candidate for Newport East)
-
 James Peterson is the UKIP candidate for Newport East at the 2016 National Assembly Elections. 

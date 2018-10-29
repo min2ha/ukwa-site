@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bill Etheridge (@Billukip) on Twitter (UKIP Politician)
-
 Bill Etheridge stood as the UK Independence Party (UKIP) candidate for  Dudley North in the 2017 General Election but was not elected. William Milroy "Bill" Etheridge is a Member of the European Parliament for the West Midlands region for the UK Independence Party (UKIP). He was elected in 2014.

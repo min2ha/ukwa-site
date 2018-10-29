@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Museum of Science and Industry: Calculating and Computing
-
 Page of the MOSI about computing.

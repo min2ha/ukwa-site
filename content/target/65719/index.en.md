@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Balmoral Group Holdings Limited
-
 Balmoral Group Holdings Limited is an Aberdeen based company that provides subsea buoyancy, flotation, insulation, elastomer, and renewable energy products; property development; and civil/environmental engineering liquid storage and treatment solutions, largely serving offshore oil and gas exploration. The company also 

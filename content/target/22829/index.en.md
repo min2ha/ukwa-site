@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zuffar Haq on Facebook (Liberal Democrats candidate for Harborough)
-
 Zuffar Haq stood as Liberal Democrats candidate for Harborough at the 2015 General Election but was not elected. 

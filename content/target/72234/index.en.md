@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Winchcombe Christmas Festival
-
 Local Christmas festival

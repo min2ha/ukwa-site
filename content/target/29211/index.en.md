@@ -10,5 +10,3 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# JISC: Business Classification Scheme (BCS) and Records Retention Schedule (RRS) for Higher and Further Education Institutions
-

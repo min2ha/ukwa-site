@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Pope Francis condemns ‘senseless hatred’ of Orlando massacre
-
 Pope Francis has expressed the “deepest feelings of horror and condemnation” over a massacre at a Florida nightclub that killed 49 people and injured 53 more.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Just when you thought Remainers couldn't get more patronising, up pops this snooty ninny! 
-
 Comments on Labour MP Barry Sheerman's accusations of McCarthyism levelled against Conservative MP Chris Heaton-Harris. Mr Heaton-Harris had written to universities asking what was being taught about Brexit.

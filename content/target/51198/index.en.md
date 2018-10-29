@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Scotch Whisky Experience
-
 Site of a visitor centre in central Edinburgh set around whisky and whisky heritage in Scotland.

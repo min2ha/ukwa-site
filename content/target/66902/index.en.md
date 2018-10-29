@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Coolest Gadgets
-
 Reporting on all the latest cool gadgets in the ongoing quest for the coolest gadget. Find the Coolest Gadgets in the world today and the future.

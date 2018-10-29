@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# The White Pube
-
 The White Pube is the collaborative identity of Gabrielle de la Puente and Zarina Muhammad. The pair’s mix of reviews, essays and podcasts are under a singular voice grappling with contemporary issues of race, gender, sexuality, and ethics with a focus on artists of colour.

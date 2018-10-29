@@ -10,6 +10,4 @@
   "start_date": "2015-08-14T10:00:00Z"
 }
 
-# Words over Waltham Forest
-
 Festival created and produced as a partnership between the numbers of organizations.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Saltire Society
-
 Site of a society encouraging and promoting all aspects of cultural activity in Scotland.

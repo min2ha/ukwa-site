@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# BBC Local News Index
-
 An index of all the areas covered by BBC News.

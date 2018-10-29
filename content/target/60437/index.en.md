@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Ассоциация Русскоязычных Соотечественниц в Британии "Спутник" / Assotsiatsiia Russkoiazychnykh Sootechestvennits v Britanii "Sputnik" ("Sputnik" Association of Russian-Speaking Women
-
 Women's community organisation, organizing Russian and English language events related to Russophone culture and heritage and the Russian-speaking diaspora in the UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Politicians should listen to people like me with learning disabilities. They may need our vote 
-
 None

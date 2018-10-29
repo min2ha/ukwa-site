@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Group on Homeworking (NGH)
-
 None

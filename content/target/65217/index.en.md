@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Lonmay Parish Church
-
 Site of a Church of Scotland parish church at Lonmay, Aberdeenshire.

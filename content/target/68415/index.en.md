@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Birmingham Bulldogs RL
-
 Birminghams premier Rugby League Club who cater for adults and juniors from the age of 8.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Galatea by Emily Short
-
 Interaction Fan Fiction Database wiki page for author Emily Short's story: Galatea.

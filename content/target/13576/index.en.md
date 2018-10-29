@@ -10,6 +10,4 @@
   "start_date": "2014-09-10T07:00:00Z"
 }
 
-# Holyrood
-
 <p>A fortnightly politics and current affairs magazine for Scotland.</p>

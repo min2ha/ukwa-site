@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bertrand Russell Peace Foundation
-
  Launched in 1963, the Foundation was established to carry forward Russell's work for peace, human rights and social justice.

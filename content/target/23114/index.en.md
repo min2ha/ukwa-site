@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Henrietta Hensher (@hhensher) on Twitter (Conservative candidate for  Ceredigion)
-

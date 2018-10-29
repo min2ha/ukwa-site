@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Money Saving Expert: How to vite in the EU referendum
-
 Blog by Martin Lewis, providing advice on how to vote in the referendum.

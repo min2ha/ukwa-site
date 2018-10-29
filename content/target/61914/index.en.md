@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watford F.C.
-
 Watford Football Club is a professional football club based in Watford, Hertfordshire, England, that plays in the Premier League, the highest level in the English football league system.

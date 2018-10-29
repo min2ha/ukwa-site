@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# iNews: Don’t blame me for BBC recipes axe, says Whittingdale
-
 A news article about the public outrage over the proposal to cut the BBC Recipes website.

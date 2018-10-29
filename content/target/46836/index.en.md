@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# JLL: Views from Chris Ireland: Brexit
-
 JLL is a financial and professional services firm specialising in real estate services and investment management. Chris Ireland is CEO for the UK. 

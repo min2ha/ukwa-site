@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy and Nicola Sturgeon clash over economy during TV debate
-
 None

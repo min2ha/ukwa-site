@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caribbean Labour Solidarity (CLS): We All Have A Right To Be Here
-
 A public event organised by the Caribbean Labour Solidarity (CLS) on the Windrush scandal and the hostile environment created by the Home Office.

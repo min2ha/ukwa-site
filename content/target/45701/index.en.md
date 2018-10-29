@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scottish Parliament Information Centre (SPICe)
-

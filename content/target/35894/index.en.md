@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gerry McGarvey (@McGarvey4Orkney) on Twitter
-
 The Twitter profile of Gerry McGarvey, the Scottish Labour candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Education for Choice (@EdForChoice) on Twitter
-
 The twitter account of Education for Choice charity, supporting young people with information and education on pregnancy and abortion.

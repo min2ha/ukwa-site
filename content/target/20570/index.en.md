@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: it's a 'fact of life' that mothers will earn less in some jobs
-

@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Police Authorities of Wales
-
 None

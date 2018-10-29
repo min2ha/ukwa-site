@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Annuale
-
 Site of a grassroots festival of contemporary visual art taking place in venues across Edinburgh and online, and coordinated by Embassy Gallery, Edinburgh.

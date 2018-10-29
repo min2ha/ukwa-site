@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Lighten Up Online
-
 Quarterly light verse webzine

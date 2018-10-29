@@ -10,5 +10,3 @@
   "start_date": "2012-12-12T00:00:00Z"
 }
 
-# The challenge of eBooks in academic institutions
-

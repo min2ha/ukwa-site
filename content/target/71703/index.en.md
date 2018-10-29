@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glasgow University Anglican Chaplaincy
-
 Site of a Christian chaplaincy at the University of Glasgow, attached to the Anglican / Scottish Episcopal denomination.

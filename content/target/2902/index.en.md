@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# 38 Degrees
-
 38 Degrees is a British not-for-profit political-activism organisation that campaigns on a diverse range of issues, such as the environment, climate change, the National Health Service (NHS), democratic media ownership, child poverty and political reform.

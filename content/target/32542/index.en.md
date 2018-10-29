@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for European Reform
-
 The CER is a think tank that describes itself as ‘pro-European but not uncritical’. It advocates for reform of the European Union, particularly with regard to taking a stronger global role on issues such as climate change and security. The website provides details of news and events, and access to publications and videos produced by the Centre. 

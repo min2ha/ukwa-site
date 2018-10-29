@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One- Sefton's Story
-
 Project enabling Sefton Library Service to work in partnership with the Volunteer Centre Sefton to create and distribute an educational pack and workshop programme for local children in key stage 2 / 3.

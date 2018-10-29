@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Backlash for Cable over 'white nostalgia' comment
-
 Speaking at the Liberal Democrats' spring 2018 conference, Sir Vince said a "nostalgia for a world where passports were blue, faces were white and the map was coloured imperial pink" had driven some older voters to Brexit. This attracted adverse comments from Tory MPs.
 

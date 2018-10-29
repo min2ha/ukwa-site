@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Political Studies Association (PSA) Specialist Group on Environmental Politics
-
 Blog site for the Political Studies Association (PSA) environment group

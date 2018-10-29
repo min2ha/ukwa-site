@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central South Coast Cancer Network
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Senior doctors assess government’s record on NHS – letter in full
-
 None

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Tendring District Council
-
 The website of Tendring District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

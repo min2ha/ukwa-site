@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Opt for Life Cymru
-
 Opt for Life Cymru, a group led by Kidney Wales along with other charities and organisations all campaigning for a change in the organ donation system. 

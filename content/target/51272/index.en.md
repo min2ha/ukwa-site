@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Paul's Church, Craig-y-Don, Llandudno
-

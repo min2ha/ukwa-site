@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: 'A policy that kills': The bedroom tax is an affront to basic rights
-
 <p>Yes Scotland shares a link to the post "‘A policy that kills’: The bedroom tax is an affront to basic rights" on the London School of Economics' British Politics and Policy blog at 8.03am on the 23rd of September, 2014.</p>

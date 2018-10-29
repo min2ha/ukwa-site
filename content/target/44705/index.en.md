@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Becky Morgan Golf
-
 Becky Morgan is a Welsh professional Golfer from Abergavenny.

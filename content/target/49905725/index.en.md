@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Department of Environment Northern Ireland (DOE): Genetically Modified Organisms
-

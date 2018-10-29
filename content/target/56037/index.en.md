@@ -10,5 +10,3 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Newick Village
-

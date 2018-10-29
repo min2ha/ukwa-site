@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Hammond rejects business calls for customs union
-
 Chancellor Philip Hammond told business chiefs at the 2018 CBI annual dinner that their Brexit fears could be resolved without staying in the customs union.
 

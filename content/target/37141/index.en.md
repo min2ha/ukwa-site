@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: BCC boss suspended over EU referendum comments
-

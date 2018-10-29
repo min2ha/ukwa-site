@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard McCready (@rbmccready) on Twitter
-
 Twitter profile of Richard mcCready, the Scottish Labour and Co-operative candidate for Dundee City East in the 2016 Scottish Parliamentary election.

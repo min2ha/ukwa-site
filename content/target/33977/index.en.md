@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# LAD Bible, The
-
 The LAD Bible is home to the funny, viral and interesting photos from around the world. It is a popular UK’s online entertainment website.

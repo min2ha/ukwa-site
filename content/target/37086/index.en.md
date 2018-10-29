@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Boris Johnson: Americans would never accept EU restrictions -- so why should we?
-
 Boris Johnson's response to American officials saying that Britain should remain within the EU. 

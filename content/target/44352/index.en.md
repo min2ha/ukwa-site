@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Landmark Chambers: Brexit Blog
-
 Legal firm's commentary on Brexit

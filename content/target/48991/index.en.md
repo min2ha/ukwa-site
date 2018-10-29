@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-#  Edinburgh Photographic Society
-
 Site of an artistic photography society based in Edinburgh.

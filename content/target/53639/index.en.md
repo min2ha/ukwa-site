@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steve Kyte (Conservativ Politician)
-
 Steve Kyte stood as Conservative candidate for Newcastle Central at the 2017 General Election but was not elected.

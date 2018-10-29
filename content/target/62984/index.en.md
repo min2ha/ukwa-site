@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Lodge Kirknewton & Ratho No. 85
-
 Site of a masonic lodge located in Ratho, Edinburgh (historically Midlothian) and affiliated with the Grand Lodge of Scotland.

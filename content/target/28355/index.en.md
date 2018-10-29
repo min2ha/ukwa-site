@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# London Parks & Gardens Trust
-
 London Parks & Gardens Trust aims to increase knowledge and appreciation of parks, squares, community gardens, cemeteries, churchyards – all those places that form London's open space network. Trust members – amateurs and professionals – provide and enjoy lectures, walks, day trips, children's programmes, a newsletter and journal, research and an inventory of historic green spaces.

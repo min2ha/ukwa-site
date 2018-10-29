@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aylestone St James (@jimmiesrugby) on Twitter
-
 The official Twitter account of Aylestone St James RFC. Nicknamed 'The Jimmies', founded in 1902 and is located in Scraptoft, to the east of Leicester.

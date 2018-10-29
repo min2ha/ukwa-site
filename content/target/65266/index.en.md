@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Old Gourock and Ashton Parish Church
-
 Site of a Church of Scotland parish church at Gourock, Renfrewshire.

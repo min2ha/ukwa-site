@@ -10,5 +10,3 @@
   "start_date": "2005-08-17T00:00:00Z"
 }
 
-# British Society for the History of Philosophy
-

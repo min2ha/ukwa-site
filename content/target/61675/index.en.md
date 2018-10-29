@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Safer Internet Centre: "Girlguiding survey shows that 45% of girls have experienced cyberbullying"
-
 UK Safer Internet Centre article about cyberbullying 

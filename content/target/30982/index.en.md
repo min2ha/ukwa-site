@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Museum of Science and Industry
-
 Official website of the Museum of Science and Industry in Manchester.

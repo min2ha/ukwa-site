@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Indepedent: The EU Out crowd is flamboyant, but the In team has clarity
-

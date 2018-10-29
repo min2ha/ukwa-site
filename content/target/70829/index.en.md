@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Lord Mervyn King attacks 'incompetent' Brexit approach
-
 Former Bank of England governor Lord King blasted Brexit preparations as "incompetent". The Brexit supporter said it "beggared belief" that the world's sixth-biggest economy should be talking of stockpiling food and medicines.
 
 

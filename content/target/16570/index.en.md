@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Green surge: is this the party that will decide the election?
-
 None

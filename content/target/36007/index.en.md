@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Northlight Heritage
-
 Site of a charity delivering projects and programmes that encourage practical engagement with archaeology, volunteering and blending arts and heritage.

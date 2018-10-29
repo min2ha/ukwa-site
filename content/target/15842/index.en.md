@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Scottish Government: Ebola Update
-
 <p>Scottish Government: Ebola Update. Official Ebola updates.</p>

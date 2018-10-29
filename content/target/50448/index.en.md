@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexitland: 'Too many foreigners – way, way too many'
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Building Societies Association: A Manifesto for Financial Mutuals
-
 The Building Societies Association is the voice of the UK's building societies. They provide their members with information to help them run their businesses, and represent their interests to a wide range of audiences including regulators, the government, parliament (EU and UK), the media, other opinion formers and the general public.

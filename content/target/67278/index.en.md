@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Egino
-
 Egino is a Community Interest Company that aims to generate ideas for creative approaches to policy and practice and offers research on topics ranging from equality and sustainability  to the implications of Brexit. They are based in Cardiff.

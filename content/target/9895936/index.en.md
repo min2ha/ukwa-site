@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Childhoods Today
-
 None

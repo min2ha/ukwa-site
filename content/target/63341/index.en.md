@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News - Buzz Express
-
 BuzzExpress has it all: the latest celebrity gossip buzzing on social, the news you want now, and the humor that you know you need.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron hints at Coalition as he pledges 'strong and stable government.'
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: 'It takes two to tango': Chancellor uses a Berlin speech to demand the EU sets out what it wants in trade talks after warning blocking the City from any deal will cause a global crash 
-

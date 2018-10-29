@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carol Monaghan on Facebook
-
 This is the Facebook page of Carol Monaghan, the Scottish National Party (SNP) candidate for Glasgow North West in the UK General Election on the 7th May 2015.

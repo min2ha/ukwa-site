@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T18:19:00Z"
 }
 
-# Inverclyde Shipbuilding & Engineering
-
 Inverclyde Shipbuilding & Engineering serves as a resource for all things to do with the Shipbuilding industry of Inverclyde, aiming to give access to material and information regarding this industry collected by The McLean Museum.

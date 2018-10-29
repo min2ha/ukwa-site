@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Chichester Festival for Music, Dance and Speech
-
 Website for the Chichester Festival for Music, Dance and Speech.

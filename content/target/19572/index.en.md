@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Le petit journal: Londres
-
 Le petit journal is a French speaking news website for French or French speaking people abroad. This is the London edition. 

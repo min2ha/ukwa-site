@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mid Cheshire Hospitals
-
 None

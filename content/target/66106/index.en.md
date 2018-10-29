@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-#  ParliOUT (@ParliOUT) on Twitter 
-
 Official Twitter for ParliOUT. Multi award-winning Workplace Equality Network supporting LGBT+ people in the UK Parliament 

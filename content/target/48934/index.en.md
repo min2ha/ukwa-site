@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Calton Gallery
-
 Site of a commercial antiques and fine art dealer located in Edinburgh, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Villa Dino Girls (@VillaDinoGirls) on Twitter
-
 The official Twitter account of Villa Dino Girls.

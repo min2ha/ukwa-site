@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rod Cantrill (@HuntsLibDems) on Twitter (Liberal Democrat candidate for Huntingdon)
-
 Rod Cantrill stood as Liberal Democrat candidate for Huntingdon at the 2015 General Election but was not elected. 

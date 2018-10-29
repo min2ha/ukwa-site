@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Who, What, Why: Why is it Team GB, not Team UK?
-
 This article highlights a debate that resurfaced just before the 2016 Summer Olympics and Paralympics held in Rio de Janeiro in 2016. 

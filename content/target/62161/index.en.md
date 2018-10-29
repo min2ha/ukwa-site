@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Queens Park Rangers
-
 Latest news from QPR. Check fixtures, tickets, league table, club shop & more. Plus, listen to live match commentary.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Federation of Shopmobility (NFSUK)
-
 The National Federation of Shopmobility (NFSUK) is a federation that brings together shopmobility schemes up and down the country. Shopmobility schemes allow access to wheelchairs and scooters.

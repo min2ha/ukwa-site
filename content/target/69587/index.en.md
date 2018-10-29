@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sula Collective 
-
 Sula Collective is an online [maga]zine for and by people of color. Their aim is that that their website acts as a safe space for people of color to share, create and write freely in, aswell as a platform for talented people of colour.

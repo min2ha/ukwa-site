@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rent 2012 London Olympic Property Rentals
-

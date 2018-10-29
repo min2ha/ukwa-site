@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# A77 Action Group
-
 Site of a lobbying group campaigning to improve the A77 road between Ayr and Cairnryan on the South West coast of Scotland.

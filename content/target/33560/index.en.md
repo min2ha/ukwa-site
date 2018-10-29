@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish History Live: The Easter Rising
-
 A series of lectures on the Easter Rising 1916.

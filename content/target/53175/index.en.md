@@ -10,6 +10,4 @@
   "start_date": "2017-05-13T09:00:00Z"
 }
 
-# Culture Stirling
-
 Site of the organisation operating Stirling's libraries and theatres.

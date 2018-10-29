@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: TV election debates: DUP says process is in 'utter mess'
-
 None

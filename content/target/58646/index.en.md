@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Scotland's Great Trails
-
 Site of a series of managed trails that are clearly waymarked, run largely off-road and offer visitor services.

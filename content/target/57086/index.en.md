@@ -10,6 +10,4 @@
   "start_date": "2017-09-09T09:00:00Z"
 }
 
-# Study in Wales
-
 A portal for international students keen to learn more about studying in Wales.

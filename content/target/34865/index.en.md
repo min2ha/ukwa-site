@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Aids Care Education and Training (ACET)
-
 Aids Care Education and Training was formed as a compassionate Christian response to AIDS. They work through locally managed Christian organisations in over 20 countries, and have a relationships and sex education network in the UK, through the Esteem programme. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Liz Smith (@MspLiz) on Twitter
-
 The Twitter profile of Liz Smith, Scottish Conservative and Unionist member of the Scottish Parliament for Mid Scotland and Fife.

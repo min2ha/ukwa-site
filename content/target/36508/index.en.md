@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron defends banning Brexit Cabinet rebels from accessing government material and says it's 'good for democracy' that civil servants can produce reams of propoganda on why UK must stay in the EU   
-

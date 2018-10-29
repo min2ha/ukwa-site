@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T00:00:00Z"
 }
 
-# Confectionery, The 
-
 The Confectionery sells seductive women's clothing and they offer a variety of lingerie and underwear.

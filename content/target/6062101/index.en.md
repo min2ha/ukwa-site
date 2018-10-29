@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cockermouth - a guide to the Cumbrian Town
-

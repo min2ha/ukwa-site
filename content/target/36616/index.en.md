@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# EMMS International 
-
 Christian charity based in Edinburgh Scotland providing international healthcare in India, Malawi and Nepal and supporting UK medical professionals in overseas elective placements.

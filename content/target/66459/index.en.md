@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Belfast Telegraph (@BelTel) on Twitter
-
 Official Twitter account of the Belfast Telegraph newspaper. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# George Turner (Liberal Democrats Politician)
-
 George Turner stood as Liberal Democrat candidate for Vauxhall at the 2017 General Election but was not elected.

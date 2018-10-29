@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Applecross, Lochcarron and Torridon Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Lochcarron, Highland.

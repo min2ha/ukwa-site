@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Momentum Edinburgh
-
 Blog of the Edinburgh branch of Momentum, a campaigning group supporting Jeremy Corbyn's leadership of the Labour Party.

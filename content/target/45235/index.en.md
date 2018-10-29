@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Government: Brexit: what now for Whitehall?
-
 On Thursday 30 June, the Institute for Government held the first in a series of Brexit events. This one focused on the implications of the UK’s decision to leave the EU for Whitehall. Oliver Ilott sets out four questions to which we now have at least partial answers. 

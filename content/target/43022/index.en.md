@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Orlando shooting: Fact-checking the Clinton and Trump speeches after the massacre of 49 people
-
 The Independent combed through the speeches to find factual assertions that were worthy of fact checking.

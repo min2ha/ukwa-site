@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# An ode to Birmingham: how can the UK's second city fix its image problem? 
-
 Comment piece for the Guardian Newspaper about the state of Birmingham City

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Am I sharing too much about my mental health online and does my honesty put off prospective employers?
-
 Article written by a mental health blogger who feels that by sharing her experiences she may be negatively affexcting her future employability 

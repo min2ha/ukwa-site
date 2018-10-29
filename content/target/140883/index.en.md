@@ -10,5 +10,3 @@
   "start_date": "2007-03-14T00:00:00Z"
 }
 
-# Joint Epilepsy Council of the U.K. and Ireland, The (JEC)
-

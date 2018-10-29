@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Ruth Thomas, Printmaker
-
 Ruth Thomas is a contemporary printmaker based in north Wales.

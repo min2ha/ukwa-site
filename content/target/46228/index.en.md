@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: #Marmitegate! Furious shoppers call for boycott of Unilever after Tesco stops selling Marmite - and 200 other items - in protest at Anglo-Dutch food giant's demand for a 10% Brexit price rise     
-

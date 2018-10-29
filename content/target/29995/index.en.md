@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# LGBT History Cornwall
-
 A referenced chronological timeline 'One Queer Gay Life' using press articles, publications, artworks, documents and photos, witness' statements, recordings, etc, relating to late 20th and early 21st century LGBT and HIV/AIDS equality campaigning and activism in Cornwall against institutional homophobia and hate crime.

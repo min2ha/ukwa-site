@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Ed Miliband warns voters against Brexit ‘free market experiment’
-
 Guardian, The

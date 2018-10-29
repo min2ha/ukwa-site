@@ -10,7 +10,5 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Abacus
-
 Abacus is a leading fiduciary and fund services group based in the Isle of Man and Malta, and an independent and privately owned group of companies delivering value through a range of bespoke and comprehensive tax planning solutions.
 

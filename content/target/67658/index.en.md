@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Modernist Britain
-
 A website about modernist architecture in Britain; a collection of fifty illustrated profiles of some of modernist buildings in Great Britain and Northern Ireland

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: This slavish Brexit propaganda would make Pravda proud
-
 An attack on the dishonest press methods of Brexit supporters

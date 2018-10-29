@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Mrs T gave me her blessing, says Tory star Javid: She told me 'you'll protect our great island', Muslim minister reveals
-
 None

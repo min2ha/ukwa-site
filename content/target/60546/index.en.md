@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 25th January 2018:  Brexit: Devolved Administrations
-
 Debate on the impact of Brexit on the devolved administrations in Scotland, Wales and Northern Ireland.

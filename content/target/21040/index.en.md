@@ -11,7 +11,5 @@
   "subject": "SmashFest UK"
 }
 
-# Sir Francis Drake Primary School
-
 Sir Francis Drake Primary School is a small community school for children aged 4-11. There are 7 classes with up to 30 children in each class. We do not have a nursery.
 Nominated by a Smashfest 2015 visitor, who commented: I always visit the school website to see whats going on.

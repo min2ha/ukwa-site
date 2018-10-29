@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Genomics at Liverpool
-
 Genomics is the study of the complete set of genes in an organism. The University of Liverpool has a number of active research groups across a range of disciplines that can be described broadly as Genomics. 

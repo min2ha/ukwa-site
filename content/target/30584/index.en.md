@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Institute for Women's Health
-
 Institute for Women's Health is a joint venture between University College London and University College London Hospitals NHS Foundation Trust.

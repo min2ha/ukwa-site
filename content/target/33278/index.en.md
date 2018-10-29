@@ -10,6 +10,4 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Green City Events
-
 Green City is a social enterprise based in Cardiff and arrange exciting events, workshops and educational activities around the themes of sustainability and the environment.

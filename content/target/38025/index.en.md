@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sheffield Uni for In (@shefunistrongin) on Twitter
-
 Information, news and updates from the campaign to keep Britain in Europe at the University of Sheffield.

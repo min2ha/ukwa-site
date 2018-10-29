@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dunbar Traditional Music Festival
-
 Site of a Scottish annual traditional music festival located in Dunbar, East Lothian.

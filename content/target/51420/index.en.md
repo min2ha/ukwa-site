@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bright Blue: UK must remain a signatory of the European Convention on Human Rights after Brexit, Conservative MPs tell PM 
-
 Bright Blue, the independent think tank for liberal conservatism, is launching a new policy campaign from its one-year inquiry into human rights, calling on the Prime Minister to confirm that any future Conservative Government will ensure the UK remains a signatory to the European Convention on Human Rights (ECHR) after Brexit

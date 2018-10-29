@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Stanley Services Limited
-
 Falkland Islands Holidays is owned and operated by Stanley Services Limited. The Company provides fuel to both the Domestic population of the Falkland Islands and the fishing fleet, which operates in the waters near and around the Islands.

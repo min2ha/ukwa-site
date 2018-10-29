@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Hidden Gardens
-
 Site of the Hidden Gardens in Glasgow, set up to promote understanding between people of all cultures, faiths and backgrounds. 

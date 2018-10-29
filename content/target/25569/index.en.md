@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Diane Abbott: defending Hackney North with half an eye on City 
-
 None

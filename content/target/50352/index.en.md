@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Friends of Seva Mandir UK
-
 The Friends of Seva Mandir was set up in 1989 as a registered charity under the patronage of Countess Mountbatten. 

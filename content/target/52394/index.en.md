@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Soil Association: General Election 2017: Our priorities
-
 Following the news that a general election will be held on Thursday 8 June, the Soil Association is  calling on all political parties to give food and farming a higher priority than ever before in their manifestos - including a major focus on soil protection.

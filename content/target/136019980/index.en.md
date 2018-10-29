@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Midlands and East - Strategic Health Authority Cluster
-
 None

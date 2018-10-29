@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yorkshire Carnegie (@carnegierugby) on Twitter
-
 The official Twitter site of Yorkshire Carnegie rugby union club.

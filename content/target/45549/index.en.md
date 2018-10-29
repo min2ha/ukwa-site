@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T12:00:00Z"
 }
 
-# St. Austell Area History and Genealogy
-
 Offering genealogical and family history data, including Baptisms, Marriages and Burials, for St. Austell, Charlestown, and Treverbyn, St. Blazey, Tywardreath, St. Ewe, and Par.

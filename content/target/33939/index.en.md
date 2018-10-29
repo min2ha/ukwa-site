@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo-Brazilian Society, The 
-
 They promote Brazilian culture in the United Kingdom and support charitable work in Brazil.

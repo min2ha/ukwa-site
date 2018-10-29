@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Glencore plc
-
 Glencore plc is an Anglo–Swiss multinational company, and one of the largest Global diversified natural resource commodity trading and mining companies. They market and distribute to a wide customer base that includes the industrial, automotive, construction, steel, power generation, oil and food processing industries.

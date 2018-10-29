@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Young Womens' Housing Project (YWHP)
-
 YWHP provides support for young women and children who have been affected by sexual abuse.

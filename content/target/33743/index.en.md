@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# onefinestay
-
 onefinestay is a 'handmade' hospitality site offering stays at fine locations.

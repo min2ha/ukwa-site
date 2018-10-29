@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Shwmae Caerdydd
-
 The National ‘Shwmae Sumae Day’ is held in October. The aim of the day is to celebrate the Welsh language and try to get everyone to greet each other in Welsh by saying ‘Sumae’. This is the site for Cardiff.

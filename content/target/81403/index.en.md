@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Perimeter Security Suppliers Association (PSSA)
-
 The PSSA is the trade association for companies involved in the supply and installation of products designed to provide high levels of physical protection and intruder detection for sites and their external perimeters in all circumstances where terrorist or criminal attack is a perceived risk.

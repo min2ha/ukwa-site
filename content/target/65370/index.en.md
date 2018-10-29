@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Visiting Arts
-
 Visiting Arts has been commissioned by British Council Wales to lead research on how best to showcase the arts in Wales internationally. They are seeking to gather opinions from those working in the creative sector to help inform Wales’ overall future strategy.

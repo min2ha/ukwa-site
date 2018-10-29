@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graeme Morrice (GraemeMorrice) on Twitter
-
 The twitter profile of Graeme Morrice, Labour candidate for Livingston in the UK General Election 7th May 2015.

@@ -10,5 +10,3 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Institute for Medieval and Early Modern Studies (IMEMS)
-

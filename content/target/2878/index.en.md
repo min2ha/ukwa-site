@@ -10,6 +10,4 @@
   "start_date": "2016-04-06T10:00:00Z"
 }
 
-# Scotland's Oldest Bridges
-
 <p>A map based catalogue of the oldest masonry bridges in Scotland</p>

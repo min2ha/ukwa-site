@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Tributaries 
-
 Tributaries is an immersive audio experience accessible via a new mobile app. It presents a location-sensitive score of original music merged with recorded voices, giving an insight into the daily reality of life, loss and love on Tyneside during the First World War. 

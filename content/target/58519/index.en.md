@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# NOVA New Opportunities
-
 Finding a job can be a struggle for people who missed opportunities to learn at school or have moved to the UK with little English. Nova welcomes everyone. We listen, we offer advice and support and we work together to achieve personal goals. Our courses lead to nationally recognised qualifications that can unlock further study and job opportunities.

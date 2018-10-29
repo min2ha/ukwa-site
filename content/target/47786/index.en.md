@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Syria Campaign: for a free and peaceful Syria
-
 An independent advocacy group campaigning for a peaceful and democratic future for Syria.  "The Syria Campaign launched in 2014 to mobilise people around the world to help stop the violence and accelerate progress towards a peaceful and democratic future for Syria. We stand with Syrians against human rights abuses and oppression from all sides." Registered in the UK as a limited company.

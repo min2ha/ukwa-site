@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Feeding Fat Cats
-
 The #FeedingFatCats campaign is run by Thompsons Solicitors.

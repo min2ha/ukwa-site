@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# New Local Government Network: Post-Brexit Britain: we need bespoke and locally-made policy responses
-
 Argues that post-Brexit Britain needs bespoke and locally-made policy responses. Policy responses need to be developed in three stages: 1) audit where your locality stands in the new global order; 2) understand that waves of possibly further negative global changes in economic and societal structures are still on their way; and 3) develop a local but realistic vision of what might be.

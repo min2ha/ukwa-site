@@ -10,5 +10,3 @@
   "start_date": "2009-01-12T00:00:00Z"
 }
 
-# Barry Amiel & Norman Melburn Trust
-

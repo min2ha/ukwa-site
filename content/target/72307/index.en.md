@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Life Church
-
 Site of an Elim Pentecostal church (Christian) located in Castle Douglas, Dumfries & Galloway.

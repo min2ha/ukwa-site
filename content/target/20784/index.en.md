@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Kerevan (@GeorgeKerevan) on Twitter
-
 Twitter profile of George Kerevan, Scottish National Party candidate for East Lothian in the 2017 general election.

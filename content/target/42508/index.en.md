@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen’s 90th: How Elizabeth II's official birthday will be celebrated in London
-
 Outlining this weekend's royal celebrations in London.

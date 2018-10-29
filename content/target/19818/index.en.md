@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Ideal Party by Bertrand Munier
-
 Bertrand Munier in a French cook. Ideal Party provides catering services like canapés, buffet menus, dinner parties, business lunches and office catering.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# NHS Million
-
 NHS Million was created in response to the under funding and privatisation of the service.

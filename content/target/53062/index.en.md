@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Benjamin Smith (@bsmithgreens) on Twitter
-
 Welsh Greens 2017 General Candidate for Cardiff Central.

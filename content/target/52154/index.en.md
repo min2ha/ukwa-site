@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's & Christ Church, Chelsea
-
 St Luke's and Christ Church - One parish, two churches, giving heart and soul to the Chelsea community.
 
 This church was consecrated by the Bishop of London on St Luke’s Day, 18th October 1824 and was built because the original parish church (now known as Chelsea Old Church) was regarded as too small for the increasing population.

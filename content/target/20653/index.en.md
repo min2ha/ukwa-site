@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Euan for Aberdeen North on Facebook
-
 The Facebook page of Euan Davidson, Scottish Liberal Democrat candidate for Aberdeen North.

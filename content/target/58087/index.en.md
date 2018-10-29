@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# PuppetSoup 
-
 PuppetSoup is a puppetry company based in Abergavenny.

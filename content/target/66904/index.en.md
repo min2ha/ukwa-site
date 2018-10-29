@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Phones Review
-
 Mobiles, Apps, Networks, Software, Tablet etc - All about Mobile Phones Reviews & Updates. Features & Specifications

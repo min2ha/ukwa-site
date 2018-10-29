@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Ffrindau'r Cwrt | Friends of Court Farm
-
 Court Farm at Pembrey, near Llanelli, is one of Carmarthenshire’s few remaining ancient manor houses. The role of the Friends is to ensure that Court is sensitively restored to its former glory.

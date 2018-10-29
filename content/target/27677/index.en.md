@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour DID spend too much before the crash, admits leadership contender Liz Kendall in swipe at Miliband
-
 None

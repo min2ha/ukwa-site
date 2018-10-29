@@ -10,5 +10,3 @@
   "start_date": "2013-09-17T00:00:00Z"
 }
 
-# Pembrokeshire Youth Zone
-

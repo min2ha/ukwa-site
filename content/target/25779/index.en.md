@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election debate: Ed Miliband pressured to toughen stance against austerity
-
 None

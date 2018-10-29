@@ -10,5 +10,3 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Dublin Welsh Male Voice Choir
-

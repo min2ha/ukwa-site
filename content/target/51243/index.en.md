@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Disability Arts in Shropshire (DASH)
-
 DASH is a Disability led visual arts organisation. They work with arts and cultural organisations and individuals regionally and nationally. 

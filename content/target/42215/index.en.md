@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Plan Digital UK
-
 Plan Digital UK was launched in April 2016 in order to offer open innovation, digital marketing and business development services for people across the North of England with a particular focus on tech and digital entrepreneurship in the North East.

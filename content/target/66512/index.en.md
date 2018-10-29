@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Foreign and Commonwealth Office (@foreignoffice) on Twitter
-
 Foreign & Commonwealth Office (FCO). We work on world affairs for the UK Government and lead on promoting & protecting British people, prosperity & influence

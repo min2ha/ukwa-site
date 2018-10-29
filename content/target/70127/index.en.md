@@ -10,6 +10,4 @@
   "start_date": "2018-08-20T09:00:00Z"
 }
 
-# War Through Other Stuff on Twitter
-
 Twitter page of a society which explores non-military history, artistic interpretations & the material culture of conflict.

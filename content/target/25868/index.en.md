@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Three weeks until the election, it's advantage Miliband-Sturgeon
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Greg Clark (@GClarkUK) on Twitter (Conservative Politician)
-
 Greg Clark stood as Conservative candidate for Tunbridge Wells at the 2017 General Election and was successful. He was first elected for Tumbridge Wells in 2005 and has held the seat ever since.

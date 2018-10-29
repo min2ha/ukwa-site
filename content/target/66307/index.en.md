@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Plaid Cymru Ceredigion 
-
 Ceredigion is a special county and both Elin Jones AM and Ben Lake MP consider it an honour and a privilege to represent its people and its communities.

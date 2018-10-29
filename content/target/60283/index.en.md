@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A second Brexit referendum would be more toxic and divisive than the first
-

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# British Arts Festivals Association
-

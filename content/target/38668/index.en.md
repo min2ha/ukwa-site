@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robina Barton : Scottish Labour Party Candidate for Shetland
-
 Robina Barton, Scottish Labour candidate for Orkney and Shetland in the 2017 general election.

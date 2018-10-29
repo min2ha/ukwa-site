@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:07.482803", 
+  "date": "2018-10-29T13:22:14.368355", 
   "open_access": false, 
   "target_url": "http://www.historytoday.com/rebecca-rideal/ebola-plague-and-border-control", 
   "description": null, 
   "end_date": null, 
   "title": "History Today: Ebola, Plague and Border Control", 
-  "record_id": "20181029T125507/05ddlgX8/qx/RwjZZC+klw==", 
+  "record_id": "20181029T132214/05ddlgX8/qx/RwjZZC+klw==", 
   "publisher": "historytoday.com", 
   "start_date": null, 
   "subject": "Ebola Outbreak, West Africa 2014"
 }
-
-# History Today: Ebola, Plague and Border Control
 
 None

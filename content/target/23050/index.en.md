@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clive Gregory (Green Party Politician)
-
 Clive Gregory stood as Green candidate for Rochester & Strood at the 2015 General Election but was not elected to serve as MP. He then stood for Gillinghamn in 2017 but was not elected. 

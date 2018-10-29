@@ -10,6 +10,4 @@
   "start_date": "2016-04-11T10:00:00Z"
 }
 
-# Meadowbank School
-
 Meadowbank school is the only specialist speech and communications school in Cardiff and under threat of closure.

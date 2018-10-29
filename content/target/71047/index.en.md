@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-#  UK Vintage Radio Repair and Restoration Discussion Forum
-
 A UK-based discussion forum dedicated to the repair and restoration of vintage radios

@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Phoenix Music 
-
 Music publishers based in Saron, Denbighshire.

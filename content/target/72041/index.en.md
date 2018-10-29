@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Monmouth and District Chamber of Trade and Commerce (MDCTC)
-
 Monmouth and District Chamber of Trade and Commerce is committed to representing the interests of businesses in the Monmouth and District area and to support and encourage the future prosperity of those businesses. 

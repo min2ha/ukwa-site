@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Events: The reception of Magna Carta in Early Modern England
-

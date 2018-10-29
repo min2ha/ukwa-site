@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Oban Lorn Shinty Club on Facebook
-
 Facebook page of a shinty club based in Oban, Argyll & Bute.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Dylan Thomas Theatre
-
 The Dylan Thomas Theatre is a community theatre based in the Maritime Cultural Quarter, Swansea.

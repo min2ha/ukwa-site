@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Eithne Kane and Beth Powlesland: Kapow
-
 Kapow is a dance collaborative between Eithne Kane and Beth Powlesland.

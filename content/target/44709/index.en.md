@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Cymorth i Fenywod Cyfannol Women's Aid
-
 Cyfannol Women’s Aid is a charity which provides services and support throughout Torfaen and Monmouthshire to women (and their children) experiencing Domestic Abuse.

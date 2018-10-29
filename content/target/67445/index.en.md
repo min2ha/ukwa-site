@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# CMS Enviro Systems Limited
-
 Website of a company that designs, manufactures and installs UPVC and aluminum windows, doors and curtain walling systems. The company does business as CMS Window Systems and is based in Cumbernauld, Scotland.

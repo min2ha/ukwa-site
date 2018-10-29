@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cammy Day for Edinburgh West
-
 This is the website of Cammy Day, the Labour Party candidate for Edinburgh West in the UK General Election on the 7th May 2015.

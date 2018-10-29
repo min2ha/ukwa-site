@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The:  The cry of ‘anti-EU bias’ essentially means: agree with me or shut up James Bloodworth
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Dundee Contemporary Arts
-
 Site of a contemporary art, cultural cinema and community and education practice organisation located in Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Compound Semiconductor Centre (CSC), The
-
 The Compound Semiconductor Centre (CSC) was established in 2015 and is a joint venture between IQE plc, the world leading supplier of advanced compound semiconductor wafer products, and Cardiff University. It is Europe's new home for product, services and skills development in compound semiconductor technologies.

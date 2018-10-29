@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Association for Clinical Biochemistry
-

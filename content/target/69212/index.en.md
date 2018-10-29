@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bath Fringe Festival
-
 festival of all the arts, with few rules as to what should be in or out

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ‘Is This For Real?’ Olympic diver Dan Goodfellow’s mum is not happy that Tom Daley is getting all the glory for bronze medal in today’s papers
-
 Several of UK's Newspapers front pages featured Olympic diver Tom Daley, who was celebrating winning the Olympic bronze medal for Team GB in the 10m synchronised dive but not his dive partner.

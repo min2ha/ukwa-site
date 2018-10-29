@@ -10,5 +10,3 @@
   "start_date": "2007-02-16T00:00:00Z"
 }
 
-# Forensic Medicine for Medical Students
-

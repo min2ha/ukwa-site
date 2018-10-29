@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Mansion House 2018: Speech by the Chancellor of the Exchequer
-
 Addressing a City audience on Thursday June 21st 2018, Mr Hammond said the "immediate key" to the UK and London's economic success was "ensuring we get a good Brexit deal". He said the goal was a partnership that "recognises that our European neighbours are our most important trading partners, and that Dover to Calais is the busiest trading corridor in Europe".

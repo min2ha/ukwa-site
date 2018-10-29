@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Loughborough University: LISU
-
 None

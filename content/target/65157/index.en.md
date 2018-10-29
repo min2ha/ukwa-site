@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# New Civil Engineer: Grenfell
-
 The subsection of the New Civil Engineer related to Grenfell.

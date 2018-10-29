@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Aviva plc
-
 Aviva plc is a British multinational insurance company with around 33 million customers across 16 countries.  In the UK, Aviva is the largest general insurer and a leading life and pensions provider.

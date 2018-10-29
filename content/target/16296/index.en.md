@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Swansea Jazzland
-
 <p>Swansea Jazzland promote jass to people in south Wales and also aim to bring top class jazz musicians and bands to Swansea.</p>

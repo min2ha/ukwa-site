@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Tunbridge Wells Liberal Democrats
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Martin Roberts (@MartinYFx2016x) on Twitter (The Yorkshire Party Politician)
-
 Martin Roberts stood as The Yorkshire Party candidate for Hemsworth in the 2017 General Election but was not elected.

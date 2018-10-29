@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  As a Brexiteer, the White Paper plan is not what I would have written, but it is a compromise I can live with
-
 Argues that Conservatives should support the Prime Minister's compromise proposal for a future UK-EU relationship becuse the alternative is a Labour government led by Jeremy Corbyn.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rosemary Hunter for Mid Scotland and Fife on Facebook
-
 Facebook page of Rosemary Hunter, Scottish National Party list candidate for mid Scotland and Fife in the 2016 Scottish Parliamentary election.

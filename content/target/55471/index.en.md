@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Unify Credit Union
-
 Unify Credit Union was formed in 2002 when three small community credit unions merged together to give people across the Wigan borough an easy way to save, borrow and plan for tomorrow with an ethical and local partner. 

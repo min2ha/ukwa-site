@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Tay Valley Family History Society
-
 Site of a family history society located in Dundee, Scotland aiming to promote the study of family history and genealogy throughout the Tay Valley, which includes the former counties of Dundee, Angus, Fife, Kinross and Perthshire.

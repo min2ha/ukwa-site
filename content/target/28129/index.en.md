@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Bo'ness on Facebook: Cover photos
-
 Yes Bo'ness' first post on Facebook; 6th March 2013.

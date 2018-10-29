@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Migration Watch UK
-
 A campaigning organisation that is ‘concerned about the present scale of migration into the UK’. The website provides links to press releases and reports.

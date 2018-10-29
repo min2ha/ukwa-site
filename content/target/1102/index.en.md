@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Travel Health Network and Centre (NaTHNac)
-
 None

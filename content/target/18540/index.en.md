@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dafydd Meurig Aberconwy on Facebook
-
 Dafydd Meurig is the Plaid Cymru candidate for Aberconwy.

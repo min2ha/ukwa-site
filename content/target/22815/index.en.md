@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# alexmassie (@alexmassie) on Twitter
-
 Twitter profile of Alex Massie, Scotland Editor of The Spectator. He also writes a column for The Times and is a regular contributor to the Scottish Daily Mail, The Scotsman and other publications.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Pitlochry and Moulin Heritage Centre & North Perthshire Family History Group
-
 Site of a local history museum in Pitlochry, Perth & Kinross, Scotland, and its related local and family history society.

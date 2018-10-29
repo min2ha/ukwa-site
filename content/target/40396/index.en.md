@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Oban War & Peace Museum
-
 Site of a museum located in Oban, Argyll & Bute aiming to advance the education of present and future generations by collecting, maintaining, conserving and exhibiting items of historical and cultural interest relating to the Oban area in peace time and during the war years.

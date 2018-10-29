@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of London International Programmes: Nelson Mandela obituary
-
 <p>Statement by the Vice Chancellor of the University of London, 6 December 2013. Nelson Mandela studied for a law degree with the then External Programme of the University of London. In 1996, he was awarded an Honorary Doctorate in Economics by the University.</p>

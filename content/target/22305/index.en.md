@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Melanie Ward (@melanie_ward) on Twitter
-
 Twitter profile of Melanie Ward, Labour Party candidate for Glenrothes in the 2015 UK General Election.

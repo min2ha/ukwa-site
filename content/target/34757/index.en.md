@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# From Bull Plain to the Battlefields: The Home Front and the Hertfordshire Regiment during The First World War
-
 Project to enable Hertford Museum to research, develop and present an exhibition to commemorate the local impact of the First World War.

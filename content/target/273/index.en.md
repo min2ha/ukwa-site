@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Hartlepool and Stockton-on-Tees CCG
-
 None

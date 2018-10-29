@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Madeleine Moon (@MadeleineMoon) on Twitter
-
 Labour MP for Bridgend since 2005, 

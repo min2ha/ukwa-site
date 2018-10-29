@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Bible and World War One
-
 <p>Part of the site of the Bible Society, this microsite provides information on the role of the Bible during the War, for soldiers, chaplains, women, conscientious objectors and writers of poetry.</p>

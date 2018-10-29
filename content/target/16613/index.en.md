@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: For Cameron and Miliband, Paris is act one of the UK general election
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: Alex Salmond would not be allowed to write a Labour budget 'in a million years'
-
 None

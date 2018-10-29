@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ed Miliband on Facebook 
-

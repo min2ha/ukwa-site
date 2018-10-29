@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Cruden Investments Limited
-
 Cruden Investments Limited operates as a holding company. Through its subsidiaries, it provides construction services for the commercial sectors.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# St. Andrews Environmental Network
-
 Site of a charitable organisation based in St. Andrews, Fife, promoting ways of saving domestic fuel. 

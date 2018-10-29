@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Michael Harvey Storiwr Storyteller
-
 Michael Harvey is a Storyteller and tell stories from the world’s oral traditions to all ages. His repertoire is based in Wales and the other Celtic countries and works in community settings, in schools, in theatres, festivals, libraries, village halls, pubs, museums, galleries and festivals. He won a Major Creative Wales Award in 2011.

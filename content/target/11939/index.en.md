@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute of Governance, University of Ediburgh
-
 <p>The Institute of Governance at the University of Edinburgh is a centre of research expertise on multi-level politics and territorial identity</p>

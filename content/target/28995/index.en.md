@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Reading & District Labour Party
-
 Website of Reading & District Labour Party, providing information on councillors, representatives and candidates, how to get involved and local news.

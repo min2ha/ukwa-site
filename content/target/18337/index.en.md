@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Chortle
-
 News, reviews, interviews and listings for the UK Comedy scene.

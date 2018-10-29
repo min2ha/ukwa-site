@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blackburn with Darwen LINk: facebook
-
 None

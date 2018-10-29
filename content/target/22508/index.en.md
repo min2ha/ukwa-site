@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Teenagers 'brainwashed by EU colouring books' should not get vote in EU referendum, says Ukip
-
 None

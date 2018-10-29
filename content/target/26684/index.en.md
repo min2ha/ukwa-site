@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip supporters accused of intimidating South Thanet voters
-
 None

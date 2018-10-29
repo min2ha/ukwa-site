@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour criticised for raiding nurse's pensions in bid to cut university tuition fees 
-
 None

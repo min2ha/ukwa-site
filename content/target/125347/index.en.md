@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Carbon Trust, The
-
 None

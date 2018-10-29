@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Русскоязычная Община Британии / Russkoiazychnaia obshchina Britanii [Russian-language community of Britain]
-
 Website of the Russian-speaking community in Britain, founded in London in 2006, including information on the Community's activities and news about the Russian-speaking community of Britain, Europe and the Commonwealth of Independent States (CIS).

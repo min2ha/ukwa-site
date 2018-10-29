@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Livingstone Parish Church
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Michael's RC Church, Brecon 
-

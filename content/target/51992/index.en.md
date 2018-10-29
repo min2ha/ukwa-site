@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Hammersmith
-
 St Peter’s is a thriving and diverse church for all ages,
 with an open and inclusive Anglican tradition.
 

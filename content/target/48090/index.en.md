@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Welsh Owl and Wildlife Sanctuary  (WOWLS)
-
 The Welsh Owl and Wildlife Sanctuary (WOWLS) is a wildlife care facility based near Newbridge.

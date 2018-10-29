@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Gorau Mon | Best of Anglesey
-
 Best of Anglesey is the website for Anglesey Food Group, a group of growers, producers, shops and restaurants based on the island. This is a guide to food and drink which is created, sold and served. 

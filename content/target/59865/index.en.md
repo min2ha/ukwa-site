@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Guidelines for the next stage of talks
-
 Analyses key phrases from the European Council's guidelines for the second phase of the Brexit negotiations, relating to the transitional phase and the Uk's future relationship with the EU.

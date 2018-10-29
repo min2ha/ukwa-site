@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What do the government's Brexit "no-deal" papers reveal?
-
 BBC correspondents unpick some of the key details of the government's technical guidance on coping with a No Deal Brexit.

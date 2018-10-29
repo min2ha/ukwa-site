@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Travel and Tour World: Tourism Ireland to target Irish diaspora to attract Easter Rising 2016 tourists
-

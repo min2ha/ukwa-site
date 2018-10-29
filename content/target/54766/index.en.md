@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Eton Fives Association
-
 Eton Fives is a hand-ball game, played in a three-sided court. It is only played as "doubles" (i.e. by two teams of two players), there being no official "singles" version of the game. Players wear padded leather gloves, since the ball (which is slightly large than a golf-ball and made of rubber and cork) is quite hard.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Policy Scotland: Tags Posts for Election 2015
-

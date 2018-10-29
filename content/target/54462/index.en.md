@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# South West East Valleys Lib Dems (@SWEValleys) on Twitter 
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# No Game For Girls: A History of Women's Football in WW1
-
 A project that discovers and shares the social history of the munitionettes in Coventry who formed Ladies Football teams and leagues during World War One.

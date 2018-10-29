@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Literature Wales' Writers of Wales database
-
 The Writers of Wales Database includes living authors who were born, raised and/or are currently resident in Wales. The entries include biographies, photographs, reviews and bibliographies.

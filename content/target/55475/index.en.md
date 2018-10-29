@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Misneachd
-
 ‘Misneachd’ is a group established primarily to normalise and embolden the use of Scottish Gaelic.

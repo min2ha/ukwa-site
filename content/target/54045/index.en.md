@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lola McEvoy (@Lola__McEvoy) on Twitter (Labour Party  Politician)
-
 Lola McEvoy stood as Labour candidate for Penrith and the Bortder at the 2017 General Election but was not elected.

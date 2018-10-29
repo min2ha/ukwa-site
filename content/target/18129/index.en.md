@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip outlines 'fair migration' policy involving ban on unskilled workers and leaving EU
-
 None

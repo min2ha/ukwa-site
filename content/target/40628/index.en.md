@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Augustine United Church, Edinburgh
-
 Site of a church located in central Edinburgh.

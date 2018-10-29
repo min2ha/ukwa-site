@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Carers Trust
-
 Carers Trust is a charity for, with and about carers.

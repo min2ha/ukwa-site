@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rickford History Group
-
 A small group was formed to further research into Rickford's past, with the idea that another publication should be compiled to follow on from 'Rickford, A Somerset Village', produced during 2000. It was decided to research  the involvement of residents of Rickford and Burrington during WW1.

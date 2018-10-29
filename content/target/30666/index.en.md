@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# British College of Osteopathic Medicine (BCOM)
-
 Official website of the British College of Osteopathic Medicine (BCOM), London.

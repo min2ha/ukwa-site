@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Turnstile Music
-
 <p>Turnstile Music is a UK independent label based in Cardiff.</p>

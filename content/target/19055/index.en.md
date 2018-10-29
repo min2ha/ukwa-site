@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: How the past wrote our future: 10 documents that changed the world from Gutenberg Bible to Internet Protocol 
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband exclusive: Labour leader talks candidly about Bedroom Tax, "hell, yes" and Easter eggs 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Primal Bushcraft and Survival
-
 At Primal we have brought together professionals from civilian sectors and experts from the military Special Forces environment. The team are passionate about outdoor learning and will ensure the delivery of bespoke training to suit your individual needs. We will give you the knowledge, skills and training which can help save and preserve life. 

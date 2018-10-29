@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Young Greens
-
 The website of Scottish Young Greens, the youth wing of the Scottish Green Party.

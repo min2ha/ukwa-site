@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Prospect: Manifesto for Good Work
-
 Prospect is a United Kingdom trade union which represents engineers, managers, scientists and other specialists in both the public and private sectors.

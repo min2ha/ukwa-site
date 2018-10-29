@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Parish of Kirkmichael, Straloch & Glenshee linked with Rattray
-
 Site of a group of Church of Scotland parish churches in Perth and Kinross.

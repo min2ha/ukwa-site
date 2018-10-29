@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Centre for Material Texts
-
 The Centre for Material Texts at Cambridge fosters research into the physical forms in which texts are embodied and circulated, and the ways in which those forms have interacted with literary cultures and historical contexts. Based in the Faculty of English, it provides a focus for editorial and bibliographical work, and for critical, theoretical and historical projects of many kinds. The CMT fosters the study of a wide variety of media–from spoken words to celluloid, from manuscript to XML–and brings together academics and postgraduates from a range of faculties and departments across the University.

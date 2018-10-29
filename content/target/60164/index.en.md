@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Week, The: How bad is social media for your mental health
-
 The Week article about social media and mental health 

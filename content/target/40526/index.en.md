@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Stirlingshire Football Club
-
 Site of a senior Scottish football club based in Falkirk

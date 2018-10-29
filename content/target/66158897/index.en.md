@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Disabled Fencing Association
-

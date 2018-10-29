@@ -10,5 +10,3 @@
   "start_date": "2006-06-29T02:00:00Z"
 }
 
-# gwyl y cyfarwydd
-

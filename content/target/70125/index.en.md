@@ -10,6 +10,4 @@
   "start_date": "2018-08-20T09:00:00Z"
 }
 
-# Govanhill Housing Association
-
 Site of a community housing association and community development trust located in Govanhill, Glasgow.

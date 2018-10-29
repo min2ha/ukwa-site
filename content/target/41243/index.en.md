@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh's Festival of Ireland
-
 Site of an annual St Patrick's day festival celebrating links between Edinburgh's Irish community and Ireland through traditional music and dance events.

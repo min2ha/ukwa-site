@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Cheryl Marie James Snowflake Tribute Fund
-
 This Tribute is supporting Hope House Children's Hospices in memory of Cheryl Marie James.

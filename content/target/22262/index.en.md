@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sustainable Energy Association: Will smart energy disappear quicksmart in the next Parliament?
-
 The Sustainable Energy Association is a member based industry body offering innovative policy solutions that link up building-level technologies and the wider energy system to achieve a low carbon, secure energy future for the UK, benefits for UK consumers, and commercial growth for businesses working in the sector.

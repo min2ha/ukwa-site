@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Plymouth Fringe Festival
-
 Plymouth’s annual celebration of theatre and live performance will showcase companies from across the UK along with the best in homegrown talent from the South West.

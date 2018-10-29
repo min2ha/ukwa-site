@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems' narrow hold on Bristol West threatened by student vote
-
 None

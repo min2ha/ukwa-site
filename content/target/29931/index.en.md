@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spotlites on Facebook
-
 Facebook of Spotlites, Edfringe venue managers. Multi award winning International theatre producers.

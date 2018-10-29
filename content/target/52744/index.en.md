@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Chertsey Good Neighbours (CGN)
-
 Chertsey Good Neighbours (CGN) was formed in October 1988. They are a team of volunteers whose primary aim is to assist those living within their boundary who are less able than themselves.

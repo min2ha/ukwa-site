@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fishing GO (@Fishing4Go) on Twitter
-
 Group campaigning for the UK to leave the EU from a fishing industry perspective

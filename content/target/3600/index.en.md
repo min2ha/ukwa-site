@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Lancaster and Morecambe Citizen, The
-

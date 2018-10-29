@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Leonard's Parish Church
-

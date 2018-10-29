@@ -10,5 +10,3 @@
   "start_date": "2015-06-06T08:00:00Z"
 }
 
-# World of Welsh Copper | Byd Copr Cymru
-

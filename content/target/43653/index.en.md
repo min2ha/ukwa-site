@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Universities for Britain on Facebook
-
 A Facebook page for Universities for Britain.

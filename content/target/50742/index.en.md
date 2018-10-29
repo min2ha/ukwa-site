@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# AE Harris
-
 The AE Harris Factory is in the Jewellery Quarter, close to Birmingham City Centre. This is a venue for art exhibitions and theatre performances etc. 

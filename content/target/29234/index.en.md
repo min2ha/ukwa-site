@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# True Wales
-
 Campaign group set up to oppose direct law-making power for the Welsh Assembly.

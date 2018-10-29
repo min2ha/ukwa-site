@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Rachel Phillips Glass Artist
-
 Rachel Phillips is a stained glass artist with a studio at Maenclochog in Pembrokeshire.

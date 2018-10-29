@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Tenby Male Choir | Côr Meibion Dinbych y Pysgod
-
 Tenby Male Choir was founded in 1975 and is now one of Pembrokeshire's premier Male Voice Choirs.

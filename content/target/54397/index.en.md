@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Swansea East Labour (@SwanseaEastclp) on Twitter
-

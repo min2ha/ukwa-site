@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scots Language Centre
-
 Scots is one of three native languages spoken in Scotland today, the other two being English and Scottish Gaelic. Scots speakers are found throughout the Lowlands and Northern Isles of Scotland. Scots is often referred to by alternative names such as ‘Doric’, ‘Lallans’ and ‘Scotch’, or by more local names such as ‘Buchan’, ‘Dundonian’, ‘Glesca’ or ‘Shetland’.

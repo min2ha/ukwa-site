@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Rampant Scotland
-
 Personal site containing general information and a portal to other Scottish related websites.

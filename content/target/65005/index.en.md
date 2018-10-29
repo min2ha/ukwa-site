@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Chirnside Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Chirnside, Scottish Borders (Berwickshire).

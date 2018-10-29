@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Olive Heffernan
-
 Olive Heffernan is a freelance science writer, focussing on climate change and environmental issues.

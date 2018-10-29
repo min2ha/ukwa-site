@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# SE23.com
-

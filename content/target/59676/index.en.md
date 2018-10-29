@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# SKYSCRIPT.co.uk Forums
-
 An online enthusiast community concerned with astrology. Discusses nativities, horary & electional astrology, traditional & ancient techniques, sports & science and various related topics. 

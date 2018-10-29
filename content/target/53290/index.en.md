@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Conservatives (@IslingtonTories  ) on Twitter
-
 Twitter account of Islington Conservatives recounting their activities in the 2017 General Election campaign

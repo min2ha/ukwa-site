@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Andi Rossetter (@AndiR1976) on Twitter
-
 The twitter profile of Andi Rossetter, RISE Alliance candidate for Glasgow.

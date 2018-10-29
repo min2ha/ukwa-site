@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Alter Ego Trading Company
-
 Site of a music outlet relating to the Fence Collective, and associated music acts, located in the East Neuk of Fife, Scotland.

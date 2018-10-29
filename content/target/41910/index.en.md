@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Scottish Furniture Makers Association
-
 Site of a membership organisation showcasing the work of makers of wooden furniture in Scotland.

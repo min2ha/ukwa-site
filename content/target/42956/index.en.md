@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  Gordon Brown is taking the long view of European history – and that will swing the last votes
-

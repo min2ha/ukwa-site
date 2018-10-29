@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Alis Hawkins
-
 Alis Hawkins is author of historical crime who grew up in the Teifi Valley

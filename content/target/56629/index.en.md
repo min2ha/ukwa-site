@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LSE Brexit Blogs: The British are indifferent about many aspects of Brexit, but Leave and Remain voters are divided on several key issues
-
 While there appear to be few aspects of the negotiations that Leave and Remain voters demand at all cost or reject at all cost, there are aspects of the negotiations that are very important to them. Leave voters are particularly concerned about control over immigration and opposed to deals that give Britain less than “full control” over immigration. They are similarly concerned about legal sovereignty and any “divorce bill”. They also strongly prefer scenarios where EU citizens are able to apply for residence more than scenarios where all must leave. Remain voters care much more about the rights of EU citizens – indeed, no other aspect of the negotiations appears to matter more to them. They also agree with Leave voters that trade terms with fewer barriers and lower tariffs than a “no deal” scenario would bring are preferable to a hard break from the common market. Yet, ultimately, citizens are indifferent about many aspects of Brexit.

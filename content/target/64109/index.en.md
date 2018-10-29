@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Heritage, Unlocking the Past…
-
 This blog was created by the author of Ashton’s Rovers Nostalgia featured in the match day programme Rovers Review.

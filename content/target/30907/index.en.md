@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Global Welsh
-
 A Welsh business initiative with the aim of connecting Welsh Diaspora, Entrepreneurs & Business Leaders in order to contribute to the economic success of Wales.

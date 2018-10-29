@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Germany's rejection of the pro-immigration Establishment should terrify David Cameron
-
 Telegraph, The: Germany's rejection of the pro-immigration Establishment should terrify David Cameron

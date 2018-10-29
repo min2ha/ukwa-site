@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Corwen Electricity Co-operative
-
 Corwen Electricity Co-operative is a new co-op which will own a hydro turbine in the town of Corwen. 

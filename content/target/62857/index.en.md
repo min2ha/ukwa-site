@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Entertainment Daily: Holly Willoughby reveals fears for her children over future social media use
-
 News article about comments made by the televison presenter Holly Willoughby when interviewing the Prime Minister Theresa May. She expressed fears over her children using social media and the impact in may have on their mental wellbeing

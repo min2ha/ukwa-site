@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cranston Fiddle, The 
-
 Project to tell the story of the Cranston family and the suffering and the suffering and impact that the First World War inflicted on them.

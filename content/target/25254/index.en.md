@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tories rocked by pre-election trade slump in exports and lower house price growth
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harwell RFC on Pitchero
-
 The official website of Harwell Rugby Union Football Club. Harwell RFC is a local, friendly rugby club founded in 1947.

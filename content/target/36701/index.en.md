@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Remain campaign goes ahead after Brussels agreement, poll shows
-

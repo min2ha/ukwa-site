@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservatives IN (@ConservativesIN) on Twitter
-
 The Conservative campaign to support the UK remaining in a reformed EU.

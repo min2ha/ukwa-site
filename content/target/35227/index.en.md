@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Conor Cheyne (@CheyneRISE) on Twitter
-
 The twitter profile of Conor Cheyne, RISE Alliance candidate for Highlands and Islands.

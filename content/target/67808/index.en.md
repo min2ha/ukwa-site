@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Afar Rift Consortium, The
-
 The Afar Rift Consortium is a project funded by the UK Natural Environment Research Council (NERC). The consortium is made up of scientists from the Universities of Leeds, Bristol, Oxford, Edinburgh, and Cambridge, and the British Geological Survey, with partners in Ethiopia, France and the US. Its aim is to conduct a major set of experiments in this unique natural laboratory, to further understand the processes involved in shaping the surface of the Earth.

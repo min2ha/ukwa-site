@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Churches Together in Selkirk and the Valleys
-
 Site of a group of inter-denominational Christian churches in the Selkirk area of the Scottish Borders.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip's health policy would include spending more on fighting dementia
-
 None

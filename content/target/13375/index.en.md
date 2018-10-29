@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Colin Beattie MSP (uartlach) on Twitter
-
 The twitter profile of Colin Beattie, Scottish National Party Member of the Scottish Parliament for Midlothian North and Musselburgh.

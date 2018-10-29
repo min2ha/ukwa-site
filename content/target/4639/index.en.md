@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Left Foot Forward: Mandela's legacy across the nations
-
 None

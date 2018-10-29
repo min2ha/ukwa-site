@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Justin Champion (@monarchomach) on Twitter
-
 Twitter account of Justin Champion, historian.

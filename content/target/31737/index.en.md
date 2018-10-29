@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Mod Shruighlea on Facebook
-

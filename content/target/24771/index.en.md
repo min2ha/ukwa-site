@@ -10,6 +10,4 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Bill Main-Ian (UKIP) 
-
 Bill Main-Ian stood as UKIP candidate for Carshalton & Wallington at the 2015 General Election but was not elected.

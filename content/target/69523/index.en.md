@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret’s & The Sacred Heart, Lerwick
-
 Site of a Scottish Roman Catholic parish church located in Lerwick, Shetland.

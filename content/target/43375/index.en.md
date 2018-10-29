@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# MoneySavingExpert.com: Should you buy euros/dollars now before the EU referendum vote? 
-
 A blog offering financial advice about the vacillation in the value of currency in the face of 'Brexit'.

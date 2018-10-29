@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU Referendum: Chris Grayling to be first minister to share Vote Leave campaign platform with Nigel Farage
-

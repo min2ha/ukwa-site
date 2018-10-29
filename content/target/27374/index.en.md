@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy South West
-
 Website promoting comedy in the south west of England

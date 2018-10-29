@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: Backing Brexit does not make you a 'bad' person, says Vote Leave head Gisela Stuart
-
 Independent, The: EU referendum: Backing Brexit does not make you a 'bad' person, says Vote Leave head Gisela Stuart

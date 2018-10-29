@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# News Watch: The BBC and Brexit: Analysis of the Business News on BBC Radio 4’s Today Programme
-
  A report by News-watch on the BBC’s coverage on Brexit during the six month period after the referendum vote found  overwhelmingly negativity about Britain leaving the EU – breaching the Corporations rules on impartiality.

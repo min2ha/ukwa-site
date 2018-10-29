@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Featured letter: EU referendum - Greece crisis - please vote Leave
-
 From The Socialist newspaper, 25 May 2016

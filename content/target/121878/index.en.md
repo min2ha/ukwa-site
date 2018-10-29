@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Stilton Cheese - Stilton Cheesemakers' Association (SCMA)
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# AOL UK: Surviving Copies of Magna Carta on Display at House of Lords
-

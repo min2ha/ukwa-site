@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud and Palace (@ProudandPalace) on Twitter
-
 Official group for Lesbian,Gay,Bi,Trans(LGBT) supporters of #Cpfc & anyone that values an inclusive Selhurst

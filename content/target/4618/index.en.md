@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Commonwealth Foundation
-
 None

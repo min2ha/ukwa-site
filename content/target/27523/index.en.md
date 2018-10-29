@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Russell Brand drops his anti-voting stance and says people should vote for Caroline Lucas of the Green Party
-
 None

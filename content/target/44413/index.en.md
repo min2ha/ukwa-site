@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A hard truth for Leave voters: Brexit means big government
-

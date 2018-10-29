@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mansions, rents and ex-Lib Dems may decide London's three-way marginal
-
 None

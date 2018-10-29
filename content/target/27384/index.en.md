@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Bute Town Heritage
-
 Bute Town is in Caerphilly County and was built in around 1830 to house ironworkers. The unique architecture of this "Model Village" has made the site a tourist attraction.

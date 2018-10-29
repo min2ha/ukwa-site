@@ -10,5 +10,3 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Wales Centre for Public Policy | Canolfan Polisi Cyhoeddus Cymru
-

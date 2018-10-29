@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Department of Computer Science and Information Systems, Birkbeck, University of London: Andrew D Booth - Britain’s Other “Fourth Man”
-
 Article by Roger  G. Johnson, Dept. of Computer Science and Information Systems, Birkbeck University of London.

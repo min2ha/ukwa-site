@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# EuropeDirectWrexham (@EuropeDirectWxm) on Twitter 
-
 This is the twitter account for the Information Centre about the European Union based at Wrexham Library. 

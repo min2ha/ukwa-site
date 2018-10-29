@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Lincoln City Council
-
 Website of Lincoln City Council which provides access to information about its activities and services, news, finances and local plans as well as access to committee papers and minutes.

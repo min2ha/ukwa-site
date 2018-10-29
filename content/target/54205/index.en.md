@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# National Inspection Council for Electrical Installation Contracting
-
 "NICEIC is the UK’s leading voluntary regulatory body for the electrical contracting industry"

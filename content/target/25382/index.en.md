@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Compassion could be key to Cameron election victory amid politics of fear, loathing and defeatism
-
 None

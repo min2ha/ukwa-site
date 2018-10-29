@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Reuseful UK
-
 <p>Reuseful UK has been set up by members of the scrapstore community to support the reuse of unwanted resources for the benefit of children and communities.</p>

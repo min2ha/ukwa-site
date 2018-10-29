@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Traditional Unionist Voice
-
 Traditional Unionist Voice (TUV) is a unionist political party in Northern Ireland. The party was founded on 7 December 2007, from a split in the Democratic Unionist Party (DUP).

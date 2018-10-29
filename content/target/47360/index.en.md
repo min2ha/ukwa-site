@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Monikie website, the
-
 A family history site containing information on members of the Skirling or Stirling families and Angus in the East of Scotland.

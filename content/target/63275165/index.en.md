@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Heather Fell - Professional Modern Pentathlete
-

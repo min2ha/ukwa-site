@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ivel Barbarians Rfc (@IvelBarbarians) on Twitter
-
 The official Twitter account of Ivel Barbarians Rugby Football Club.

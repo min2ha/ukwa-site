@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Leo Hickman (@LeoHickman) on Twitter
-
 Twitter feed of Leo Hickman, Director/editor of Carbon Brief.

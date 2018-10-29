@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Kilmorack & Erchless
-
 Site of a Church of Scotland parish church at Beauly, Highland [historically Inverness], covering the parish of Kilmorack & Erchless, with services at Cannich and Struy churches.

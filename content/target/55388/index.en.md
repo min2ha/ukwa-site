@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Rhithganfyddiad:  cofnodi dinas ar ddarfod
-
 The poetry from the blog about the city of Cardiff is from Morgan Owen (MA student at Cardiff University) and the artwork is from Efa Lois (winner of the National Eisteddfod Architecture Scholarship 2016). 

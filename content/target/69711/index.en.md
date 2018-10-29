@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Liam Fox launches consultations on UK's trading future outside of EU
-
 The public has the chance to comment on the UK’s future trade policy with the US, Australia, New Zealand and the CPTPP.
 

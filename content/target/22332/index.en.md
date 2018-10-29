@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gregg Cullen (@gregg_cullen) on Twitter
-
 This is the Twitter page of Gregg Cullen, Liberal Democrat candidate for Lanark and Hamilton East in the 2015 UK General Election.

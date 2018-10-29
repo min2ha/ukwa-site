@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# The Last Gallery Wales
-
 The Last Gallery gallery is the showroom for Mick Sheridan Upholstery, and artist Julie Ann Sheridan and is located in Llangadog.

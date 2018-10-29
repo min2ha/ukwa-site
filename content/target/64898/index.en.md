@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tron St Mary's on Facebook
-
 Site of a Church of Scotland parish church in Glasgow.

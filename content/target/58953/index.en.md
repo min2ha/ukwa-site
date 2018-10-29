@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Roxburgh Street Mosque & Community Centre
-
 Site of an Islamic place of worship and community centre in central Edinburgh.

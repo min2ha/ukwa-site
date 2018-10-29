@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit: Employment and Immigration Implications for Business
-
 In the short-term and pending the Article 50 notification being served and negotiations with the EU taking place, there should not be any immediate changes to the UK’s employment and immigration laws insofar as they relate to EU membership. 

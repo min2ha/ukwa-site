@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Lodge Gleniffer No. 1219 on Facebook
-
 Facebook page of a masonic lodge located in Paisley, Renfrewshire and affiliated with the Grand Lodge of Scotland.

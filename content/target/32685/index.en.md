@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Alex Gray (@Alexincrimeland) on Twitter
-
 "Alex Gray is a resident of crimeland, enjoying the company of many other writers of crime fiction."

@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Welsh Guards Charity
-
 The Welsh Guards Charity exists to support the Regiment, the Battalion and Welsh Guardsman of all ranks, both serving soldiers and retired veterans, and their families.

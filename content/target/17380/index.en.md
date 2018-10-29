@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unison: General Election - Get Ready
-
 UNISON is one of the UK’s largest trade unions, serving more than 1.3 million members. We represent full-time and part-time staff who provide public services, although they may be employed in both the public and private sectors.

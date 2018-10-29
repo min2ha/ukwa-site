@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# British Library Sound & Vision Blog: Memories of Stephen Hawking in An Oral History of British Science
-
 Links to two interviews with scientists from the British Library Oral History department discussing Stephen Hawking.

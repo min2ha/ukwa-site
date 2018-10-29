@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# my body my life (@mybody_mylife) on Twitter
-
 My Body My Life is a public engagement project that seeks to address this stigma around abortion by bringing real stories of abortion into the open. This is the campaigns official Twitter profile.

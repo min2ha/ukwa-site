@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Surge in migrant voters could swing vote in key UK constituencies
-
 None

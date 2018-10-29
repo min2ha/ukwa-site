@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# We Trust Women
-
 This campaign is supported by a range of women’s rights groups, reproductive rights campaigners and professional bodies in the UK.

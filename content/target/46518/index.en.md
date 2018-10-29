@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of Cathays in the Diocese of Llandaff
-

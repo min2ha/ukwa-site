@@ -10,5 +10,3 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Herald, The: Glasgow's music scene can be as famous as Nashville, new plan says
-

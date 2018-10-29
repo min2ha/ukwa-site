@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Search25
-
 <p>Search25 is a regional resource discovery tool; providing one stop access to the library catalogues of nearly 60 institutions and specialist collections within the M25 Consortium of Academic Libraries — helping in obtaining resources from across London and the South-East.</p>

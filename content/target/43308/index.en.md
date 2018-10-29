@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Institute of Economic and Social Research (NIESR): After Brexit: how important would UK trade be to the EU?
-
 Blog post from the National Institute of Economic and Social Research discussing the implications of Brexit for UK trade with the EU.

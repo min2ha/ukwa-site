@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Centre for Scottish Public Policy
-
 A cross-party think tank on public policy in Scotland.

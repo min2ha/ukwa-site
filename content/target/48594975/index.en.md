@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# 100 Ideas House
-
 None

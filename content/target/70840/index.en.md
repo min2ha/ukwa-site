@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Pensioners Forum Wales
-
 Pensioners Forum Wales is a national forum of older people made up of representatives from various national pensioners organisations and retired members sections of trade union organisations.

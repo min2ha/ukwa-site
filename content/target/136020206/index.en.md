@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shropshire LINk
-
 None

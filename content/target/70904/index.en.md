@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Save Llancarfan School
-
 The Vale of Glamorgan Council is proposing to build a new primary school in Rhoose and relocate Llancarfan Primary School – resulting in the closure of the School. This is the official campaign website opposing these plans.

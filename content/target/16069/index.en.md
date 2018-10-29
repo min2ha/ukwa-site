@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Royal College of Obstetricians and Gynaecologists (RCOG), The
-
 <p>The Royal College of Obstetricians and Gynaecologists (RCOG) works to improve health care for women everywhere, by setting standards for clinical practice, providing doctors with training and lifelong learning, and advocating for women’s health care worldwide.</p>

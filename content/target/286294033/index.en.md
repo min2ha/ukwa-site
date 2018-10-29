@@ -10,5 +10,3 @@
   "start_date": "2015-01-07T00:00:00Z"
 }
 
-# Micscape Magazine
-

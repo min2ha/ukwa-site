@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Visit Cardigan
-
 <p>Tourist information guide to to the town of Cardigan and surrounding area.</p>

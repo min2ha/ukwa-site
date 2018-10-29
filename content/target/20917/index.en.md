@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Angling Trust: Political Parties Challenged to Sign Up to a Manifesto for Angling
-
 The Angling Trust is a representative body for game, coarse and sea anglers in England.

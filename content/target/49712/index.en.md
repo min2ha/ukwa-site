@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Arbroath West Kirk
-
 Parish website of Arboath West Kirk. Parish serves 800 members in the west end of Arbroath. 

@@ -10,8 +10,6 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Gofalaeth y Gwendraeth
-
 This is the website of the Gwendraeth Pastorate of the 
 Presbyterian Church of Wales, a group of 9 churches situated
 in the Gwendraeth Valley, Carmarthenshire.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why doesn't the House of Lords move to Brussels?
-
 Richard Littlejohn wonders why the unelected peers are so determined to betray the majority of people they are paid to represent and frustrate Brexit.

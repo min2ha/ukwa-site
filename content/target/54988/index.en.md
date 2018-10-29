@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fire Brigades Union: Firefighter magazine, June 2017
-
 The June 2017 edition of the monthly magazine called Firefighter, is published by the Fire Brigades Union.

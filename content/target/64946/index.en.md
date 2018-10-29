@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# decisiontech
-
 The Decision Tech Group's mission is to create destination websites that help connect people with the very best products and services.

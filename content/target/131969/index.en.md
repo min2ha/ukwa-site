@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chartered Institute of Library and Information Professionals (CILIP)
-
 The Chartered Institute of Librarians and Information Professionals (CILIP) is a body representing the information professions.

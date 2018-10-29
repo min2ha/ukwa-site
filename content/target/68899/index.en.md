@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: My deal is the only Brexit deal - wreck it at your peril: THERESA MAY's steely warning to Tory rebels AND those bully boys from Brussels
-
 Theresa May issues a warning through this article in the pages of the Remain-backing Mail on Sunday that attempts by Brexiteers sceptical about her plan for a future UK-EU relationship to force changes on her risk there being "no Brexit at all". Referring repeatedly to "our Brexit deal", she suggests she will not let Brussels budge her an inch further on the proposals, stating that "it is a complete plan with a set of outcomes that are non-negotiable".

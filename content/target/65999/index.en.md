@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Cruse Bereavement Care Scotland
-
 Site of an Scottish charity promoting the well-being of bereaved people in Scotland and seeking to help anyone experiencing bereavement to understand their grief and cope with their loss.

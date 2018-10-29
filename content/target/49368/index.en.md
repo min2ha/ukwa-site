@@ -10,6 +10,4 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# Ryder Cup European Development Trust
-
 The Ryder Cup European Development Trust (RCEDT) was set up in order to support golf at grass roots level throughout Europe, aiming to get more people starting to play golf, continuing to play and ultimately succeeding in the game. 

@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Drimlabarra Herb Farm
-
  Drimlabarra Herb Farm on the Isle of Arran is situated at the southern end of one of Scotland’s most beautiful but accessible islands, they offer practical herbal medicine courses, individual herbal well being consultations and workshops in sustainable living. Established in 2000 by world recognised Traditional Medical Herbalists,  Keith Robertson and Maureen Robertson, the farm is run on Veganic/Stockfree lines combining vegan (100% vegetarian) and organic philosophy.
 
 They are in effect, a Vegan sanctuary and retreat centre, dedicated to researching planetary health via herbal treatments, diet, cooking and raw food and practical hands-on green living.

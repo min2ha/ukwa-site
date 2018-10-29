@@ -10,5 +10,3 @@
   "start_date": "2010-03-18T00:00:00Z"
 }
 
-# David Lepper MP
-

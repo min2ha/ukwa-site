@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Indoor Bowls Association
-

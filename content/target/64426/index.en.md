@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# FPA
-
 Sexual health information and advice on contraception, sexually transmitted infections, pregnancy choices, abortion and planning a pregnancy.

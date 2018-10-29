@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# For the bees | I'r gwenyn
-
 For the Bees is an artist led Swansea based project that stems from a shared concern for the fate of the honey bee as part of the International Year of Biodiversity 2010. Artists Owen Griffiths and Fern Thomas responded to the increasing demise of honey bees by collaborating with musician Mial Watkins to compose a piece of choral music for a specially formed choir.

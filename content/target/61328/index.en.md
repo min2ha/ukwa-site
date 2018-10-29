@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Fear and abuse won’t change Brexit minds
-

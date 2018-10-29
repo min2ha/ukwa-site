@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Beyond the Human Eye
-
 None

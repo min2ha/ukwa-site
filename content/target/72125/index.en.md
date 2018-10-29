@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Yorkshire and Humber Association of Civic Societies (YHACS)
-
 YHACS are a registered charity of civic societies around the Yorkshire and Humber region. 

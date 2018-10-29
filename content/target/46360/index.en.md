@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'There is ONLY hard Brexit': EU chief Donald Tusk crushes hopes of Remain camp who want Britain to stay in the single market  market
-
 Britain will have to quit the EU altogether in a ‘hard Brexit’ if we want to control our borders, the president of the European Council warned. Donald Tusk said there would be ‘no compromises’ to allow the UK to curb the free movement of workers, break free of the European Court or stop sending billions to Brussels.

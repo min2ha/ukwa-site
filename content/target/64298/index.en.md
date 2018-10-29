@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# New Monkland Montrose Lodge 88
-
 Site of a masonic lodge located in Airdrie, Lanarkshire and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bill Bailey
-
 Official website of a British comedian Bill Bailey.

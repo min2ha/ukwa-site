@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicole's Journey: Mental health blog
-
 A personal blog aimed at tackling the stigma around mental health

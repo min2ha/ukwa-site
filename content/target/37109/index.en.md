@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guerrilla Brexit on Facebook
-
 The facebook of a group called Guerrilla Brexit, which is in favour of Brexit

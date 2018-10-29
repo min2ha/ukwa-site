@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Festival of Romance Fiction
-
 Festival of Romance Fiction

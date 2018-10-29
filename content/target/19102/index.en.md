@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Magna Carta takes centre stage at City of London Heritage Gallery
-

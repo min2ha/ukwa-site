@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tim Brett on Facebook
-
 This is the Facebook page of Tim Brett, the Liberal Democrats candidate for North East Fife in the UK General Election on the 7th May 2015.

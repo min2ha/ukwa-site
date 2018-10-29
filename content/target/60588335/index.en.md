@@ -10,5 +10,3 @@
   "start_date": "2011-07-01T00:00:00Z"
 }
 
-# Deafblind Studies
-

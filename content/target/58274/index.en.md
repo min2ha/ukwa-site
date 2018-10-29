@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Childline: Online Gaming
-
 Charity webpage providing information on the risks of online gaming and addiction

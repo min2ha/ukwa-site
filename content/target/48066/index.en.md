@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Keith Breeden
-
 Keith Breeden is an artist, portrait painter and designer from Cheshire currently living in Mid Wales.

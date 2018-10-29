@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loch Lomond Food and Drink Festival
-
 Site of a festival of food and drink at Balloch on Loch Lomond.

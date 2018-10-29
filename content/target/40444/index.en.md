@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Skye Museum of Island Life
-
 Website of a museum located on the Isle of Skye, Western Isles, Scotland, dedicated to the history of island life.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU 'to prepare' for future trade talks with UK
-
 A draft paper submitted to the 27 EU states by European Council president Donald Tusk, suggested free trade talks could open in December - should Prime Minister Theresa May improve her offer on what the UK would pay when it left.

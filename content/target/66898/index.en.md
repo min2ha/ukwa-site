@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Invasive Species Scotland
-
 Information site about Rivers and Fisheries Trusts of Scotland (RAFTS) invasive species and biosecurity programme.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Neil Bibby MSP | West of Scotland | Paisley
-
 Neil Bibby, Scottish Labour Member of the Scottish Parliament for West Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Hot Water Burns Like Fire
-
 <p>Hot Water Burns Like Fire is a campaign aimed at stopping scalding accidents by raising awareness of the dangers of hot water and by promoting the use of simple thermostatic devices to eliminate the risks.</p>

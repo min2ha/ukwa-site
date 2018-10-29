@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Made in Monmouthshire
-
 Made in Monmouthshire promotes the artists, crafts people and food producers from Monmouthshire.

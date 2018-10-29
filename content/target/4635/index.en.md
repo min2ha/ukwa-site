@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Nelson Mandela Children's Fund UK
-
 None

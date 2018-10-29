@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Zucca - Italian Restaurant, Edinburgh
-
 None

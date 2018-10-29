@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Treharris Male Voice Choir
-
 Treharris Male Voice Choir was formed in 1961. They meet at St Matthias Church in Treharris.

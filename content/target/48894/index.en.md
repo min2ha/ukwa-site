@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Colony Park Football Club
-
 Site for a Scottish junior football club based in Inverurie, Aberdeenshire, Scotland.

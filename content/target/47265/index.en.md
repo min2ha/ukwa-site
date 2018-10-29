@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Could UK get ‘associate EU citizenship’?
-
 A Luxembourg liberal MEP, Charles Goerens, has proposed offering British citizens the option of retaining their EU citizenship for a fee. This "associate EU citizenship" idea could be part of the Brexit negotiations but it raises all sorts of legal questions.

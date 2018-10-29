@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northamptonshire LINk
-
 None

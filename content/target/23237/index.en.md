@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Faith in Politics: Preparing Churches for the 2015 General Election
-

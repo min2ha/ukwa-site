@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Addressing History
-
 Site of an EDINA (University of Edinburgh) and National Library of Scotland partnership crowdsourcing tool used for cross-referencing Scottish Post Office Directories with digital maps.

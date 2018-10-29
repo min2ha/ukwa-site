@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-#  Link Up (@linkuptv) on Twitter
-
 Keeping you updated with everything Urban.

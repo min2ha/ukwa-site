@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saint John's Methodist Church, Llandudno
-

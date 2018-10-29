@@ -11,7 +11,5 @@
   "subject": "Welsh devolution referendum 2011"
 }
 
-# Tomorrow Wales | Cymru Yfory
-
 'Cymru Yfory (Tomorrow’s Wales) aims to promote effective democratic governance for Wales through informed debate and by developing clear proposals. Membership is open to all individuals who share these aims. Cymru Yfory is an independent organisation that works with all political parties and with a wide range of civil society bodies, as well as individuals.' - hompepage.
 Cymru Yfory was established in July 2004 and came to an end in 2015.

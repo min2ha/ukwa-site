@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sarah Quarmby (Liberal Democrat Politician)
-
 Sarah Quamby stood as Liberal Democrat candidate for Wolverhampton South West in the 2017 General Election but was not elected.

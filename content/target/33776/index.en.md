@@ -10,6 +10,4 @@
   "start_date": "2016-01-09T09:00:00Z"
 }
 
-# Peter M Mcnally - Paintings 1971-2015
-
 An online retrospective to Welsh artist, Peter M. Mcnally.

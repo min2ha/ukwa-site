@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Cartoon Archive
-
 <p>Website of the British Cartoon Archive (physically located in Canterbury at the University of Kent’s Templeman Library), dedicated to the history of British cartooning over the last two hundred years.</p>

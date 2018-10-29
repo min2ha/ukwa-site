@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# PANDAS/PANS UK
-
 Website about PANDAS/PANS in the UK. PANS is an acronym for Paediatric Acute-onset Neuropsychiatric Syndrome which encompasses PANDAS (Paediatric Autoimmune Neuropsychiatric Disease Associated with Strep).

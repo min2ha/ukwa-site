@@ -10,6 +10,4 @@
   "start_date": "2015-03-25T09:00:00Z"
 }
 
-# Teaching and Learning Research Programme (TLRP)
-
 Teaching and Learning Research Programme (TLRP) was large educational research programme in the UK. It coordinated some 700 researchers in over 100 investments. The website tells the history of the project as well as containing publications not necessarily stored elsewhere. This website is to due to disappear at the end of 2015. It has been maintained with funding from the British Educational Research Association.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Beate Gegenwart
-
 Beate Gegenwart is an artist, maker, curator and academic who lives on the Gower Peninsular. She is originally from Germany, she studied at the University of Wales, Cardiff and is Honorary Research Fellow at University of Wales Trinity Saint David. Gegenwart’s primary material is metal.

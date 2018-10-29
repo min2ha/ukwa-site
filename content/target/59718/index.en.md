@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Kaleidoscope Project Powys
-
 Kaleidoscope Project Powys provide substance misuse services for young people across Powys.

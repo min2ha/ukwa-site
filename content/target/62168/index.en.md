@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Parish Church, Moffat
-
 Site of a Church of Scotland parish church in Moffat, Dumfires and Galloway, also covering the Kirkpatrick Juxta and Wamphray parish churches.

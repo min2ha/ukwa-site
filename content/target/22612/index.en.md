@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Sturgeon is a smiling assassin as Farage feels the heat
-
 None

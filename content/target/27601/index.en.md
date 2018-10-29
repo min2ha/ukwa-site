@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Police probe allegation of electoral fraud in Thanet South
-
 None

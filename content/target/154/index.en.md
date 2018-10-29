@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Middlesex University Hospital
-
 None

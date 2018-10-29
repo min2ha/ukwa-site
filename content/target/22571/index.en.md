@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Heckled and jeered, PM faces ire of OAPs at rally
-
 None

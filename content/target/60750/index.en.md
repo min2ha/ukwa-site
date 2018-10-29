@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Guardian, The: Complex chain of companies that worked on Grenfell Tower raises oversight concerns
-
 The Guardian article about the Grenfell Tower disaster

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Engender | Gender Matters: Holyrood 2016
-
 The 2016 Scottish Parliamentary campaign for Engender, Scotland's feminist membership organisation.

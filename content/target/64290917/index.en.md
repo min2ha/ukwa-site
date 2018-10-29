@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# In Search of Oldton
-
 With 'In Search of Oldton', Tim Wright planned to work together with people - online and offline - to build up digital evidence of a town that never really existed. 

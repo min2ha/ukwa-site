@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Magna Carta celebrations to 'put Salisbury centre stage'
-

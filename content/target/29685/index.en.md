@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stanza: Scotland's International Poetry Festival
-
 Stanza: Scotland's International Poetry Festival

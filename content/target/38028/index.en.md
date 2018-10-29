@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kirkyards
-
 Site providing listings, transcriptions and photographs of church yard monumental inscriptions in nine parishes in the former county of Kirkcudbrightshire, Scotland

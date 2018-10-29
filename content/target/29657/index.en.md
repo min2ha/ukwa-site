@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Sentinel Poetry Movement
-
 Sentinel Poetry Movement's vision is to build the world's premier community of writers and artists from all backgrounds, nationalities, race, religion, gender, age, sexuality, political or ideological affiliation. It publishes Sentinel Literary Quarterly; an online magazine of world literature and art (an amalgamation of our now archived titles: Sentinel Poetry (Online) and Sentinel Poetry Quarterly (Print)). SPM Publications also publishes Sentinel Nigeria and Sentinel Champions.

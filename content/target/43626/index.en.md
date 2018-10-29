@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wonkhe (EU Referendum tagged content)
-
 Blog posts from Wonkhe (Higher education: policy, people and politics.)

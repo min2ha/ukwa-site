@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Boris Johnson exclusive: There is only one way to get the change we want – vote to leave the EU
-

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Schroders plc
-
 Schroders plc is a British multinational asset management company. They have responsibility for £397.1 billion on behalf of institutional and retail investors, financial institutions and high net worth clients from around the world, invested in a broad range of active strategies across equities, fixed income, multi-asset, alternatives and real estate. Employing over 4100 talented people worldwide operating from 41 offices in 27 different countries across Europe, the Americas, Asia, Africa and the Middle East.

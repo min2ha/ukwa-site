@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wales Governance Centre: The Scottish Independence Referendum: How did we get here?
-
 <p>Blog posting by Professor Richard Wyn Jones, Director of the Wales Governance Centre at Cardiff University. The post examines the background to the referendum, in particular with reference to the main UK political parties.</p>

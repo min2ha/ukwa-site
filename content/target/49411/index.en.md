@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Britain First Spain (@BritainFirstSPA) on Twitter
-
 A sub section of the Britain First political party

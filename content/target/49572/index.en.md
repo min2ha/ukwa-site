@@ -10,5 +10,3 @@
   "start_date": "2017-02-21T09:00:00Z"
 }
 
-# U3A The University of the Third Age Pembrokeshire
-

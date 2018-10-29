@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Thomas Ellis Owen
-
 This site was developed to highlight some of the findings from a research that took place prior to the bicentennial celebration of the birth of Thomas Ellis Owen, the Portsmouth architect who laid the foundations of modern Southsea and became Mayor of Portsmouth twice.

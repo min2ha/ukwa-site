@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: The Unfrozen Moment - Delivering A Green Brexit
-
 This Government has pledged that when we leave the EU we will match the £3 billion that farmers currently receive in support from the CAP until 2022.  Future support an only be argued for against other competing public goods if the environmental benefits of that spending are clear.

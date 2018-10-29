@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why even Remain voters like me find MiliClegg's attempt to block Brexit so utterly nauseating
-
 Article attacks Nick Clegg and Ed Miliband for attempting to block Brexit.

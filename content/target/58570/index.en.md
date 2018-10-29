@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War Commemorations :- Gateshead Libraries
-
 National commemorations are happening across the country from 2014-2019 to commemorate the centenary of the First World War.

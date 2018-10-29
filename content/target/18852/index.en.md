@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Forestry Commission scraps Magna Carta right to collect woods from forests
-

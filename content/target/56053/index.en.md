@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Afan Forest Park | Parc Coedwig Afan
-
 Afan Forest Park is located in Neath Port Talbot.

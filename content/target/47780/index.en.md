@@ -10,5 +10,3 @@
   "start_date": "2016-12-14T09:00:00Z"
 }
 
-# Pontypridd Roman Catholic Deanery
-

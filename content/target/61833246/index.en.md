@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Data Unit Wales
-
 The Data Unit was established in 2001 as a public sector, not-for-profit company in order to provide advice, guidance and support to local government in Wales around data and statistical issues.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Mary Edwards Paintings
-
 Wye Valley artist Mary Edwards is an oil painter. Her work features scenes of rural life, people and their animals.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# William Powell (@WmPowell2016) on Twitter (Liberal Democrat candidate for Carmarthenshire East & Dinefwr and Mid & West Wales)
-
 William Powell is the Liberal Democrat candidate for Carmarthenshire East & Dinefwr and Mid & West Wales at the 2016 National Assembly for Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blisworth Parish Council
-
 Official website of the Blisworth Parish Council.

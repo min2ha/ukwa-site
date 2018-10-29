@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Greater London Industrial Archaeology Society (GLIAS)
-
 The Greater London Industrial Archaeology Society (GLIAS) was founded in 1968 to record relics of London's industrial history and to deposit these records with national and local museums, archives, etc; also to advise local authorities and others on the restoration and preservation of historic industrial buildings and machinery.

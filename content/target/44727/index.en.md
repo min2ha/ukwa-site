@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Allen and Overy: Brexit law - contingency planning for corporates
-
 Many companies with a presence in the UK have begun contingency planning following the vote to leave the EU. This note outlines the issues they should be addressing immediately and assesses the likely impact of Brexit on different aspects of business,

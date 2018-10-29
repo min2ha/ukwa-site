@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Jacksons Lane
-
 Jacksons Lane is an arts and cultural venue in Haringey, creating a year-round programme that encompasses the contemporary performance, arts participation, cultural education and outreach work for both its community and the sector as a whole.

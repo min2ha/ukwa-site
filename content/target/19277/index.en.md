@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Mappa Mundi Hereford Cathedral: Magna Carta Exploration
-

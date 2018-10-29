@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wired: How effective are mental health apps?
-
 Wired article about mental health apps

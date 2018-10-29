@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Fourty Eight Percent Plus
-
 Group started as a response for folks shocked at the outcome of the EU Referendum

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute of Education, University College London: General Election 2015
-
 None

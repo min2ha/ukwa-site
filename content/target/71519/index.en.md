@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Fitness Festival
-
 Website for The Fitness Festival.

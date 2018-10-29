@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# A.F.C. Bournemouth
-
 A.F.C. Bournemouth is a professional football club in Bournemouth, Dorset.

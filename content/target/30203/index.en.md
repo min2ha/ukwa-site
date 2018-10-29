@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Argyll & The Isles - Scotland | VisitScotland
-
 Page for Argyll & the Isles on the Visit Scotland homepage. Visit Scotland is the tourism board of Scotland.

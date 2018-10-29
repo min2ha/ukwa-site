@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Stefan Pejic
-
 Stefan Pejic is a Welsh actor, comedian, singer, and entertainer born in Neath and raised in Swansea, Wales.

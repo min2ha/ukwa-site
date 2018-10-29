@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Imtiaz Dharker
-
 Imtiaz Dharker is a Pakistan-born British poet, artist and documentary film-maker and a Fellow of the Royal Society of Literature.

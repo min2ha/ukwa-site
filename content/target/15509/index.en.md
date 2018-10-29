@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Kambia Appeal, The: Improving health in Sierra Leone
-
 None

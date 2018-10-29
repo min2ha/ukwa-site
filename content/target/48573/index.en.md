@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tomorrow’s Tile & Stone
-
 Tomorrow’s Tile & Stone is a digital magazine for the tile and stone sectors. 

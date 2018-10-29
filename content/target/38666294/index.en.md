@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Think London: 2012
-

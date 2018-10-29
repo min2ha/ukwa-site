@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I Give An X: the campaign that gives a XXXX about your vote
-
 None

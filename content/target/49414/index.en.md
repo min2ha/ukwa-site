@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Milo Yiannopoulos (@DontGoAwayM4d) on Twitter
-
 Milo Yiannopoulos is a British journalist, author, entrepreneur, public speaker, and senior editor for Breitbart News.

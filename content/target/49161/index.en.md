@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stand up to Racism Wales on Facebook
-
 A page for anti racism campaigns and anti racists in Wales to organise and promote anti racism activity. It is linked to Stand Up to racism UK.

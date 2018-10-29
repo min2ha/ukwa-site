@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Le Tour de Yorkshire Dales 2014
-
 Yorkshire and the Dales welcomes the 2014 Tour de France. Choose Yorkshire Dales accommodation using our route map and guides to the area and scenery.

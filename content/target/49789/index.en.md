@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Kingdom Singers
-
 Site of a choral group / choir based in Fife, Scotland.

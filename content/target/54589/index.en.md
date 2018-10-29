@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Crowdfunder campaign for Fish Finger for MP
-
 Mr Fishfinger stood an independent candidate for Westmorland and Lonsdale in the 2017 General Election but was not elected. He did however, receive 309 votes from the public.

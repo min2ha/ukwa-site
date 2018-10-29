@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# These Dangerous Women
-
 This project will train members of Women's International League For Peace and Freedom to learn Heritage skills enabling them to identify, record and preserve the stories of the British women who attempted to attend the women's congress at the Hague in 1915 which was called to prevent WW1.

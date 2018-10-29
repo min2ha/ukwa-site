@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Scottish Unemployed Workers' Network
-
 Site of an organisation based in Dundee that combines campaigning with practical welfare work.

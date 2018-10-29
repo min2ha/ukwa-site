@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Visit Sutherland
-
 Target Site of an organisation promoting the Scottish County of Sutherland to potential visitors, advertising events, food & drink, sport, creative arts, the natural environment and ancestry.

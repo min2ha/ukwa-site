@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Radur a Threforgan | Radyr & Morganstown 
-

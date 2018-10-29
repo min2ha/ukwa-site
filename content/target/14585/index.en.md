@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llandeilo through the Ages
-
 <p>This is a histoical guide to Llandeilo.</p>

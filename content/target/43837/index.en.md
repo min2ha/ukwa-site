@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# FBU Statement On The EU Referendum Result
-
 Matt Wrack, general secretary of the Fire Brigades Union, responding to the announcement that the UK has voted to leave the European Union.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Baring Teeth: Animal Liberation and Social Revolution
-
 Baring Teeth strives to be a source for informational media related to the interconnected struggles against oppression. We aim to inject the UK animal rights movement with a dose of radical discourse in order to create a strong, intersectional movement. 

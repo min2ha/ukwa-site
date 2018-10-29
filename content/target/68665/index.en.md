@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Fresh fury at Downing Street plan amid claims it could prevent UK-US trade deal
-
 Theresa May was accused of acting 'directly contrary' to her promises as Downing Street admitted latest proposals would mean the UK could not 'accommodate' US trade demands

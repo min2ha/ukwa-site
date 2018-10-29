@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Collective, The
-
 A platform and hub for unlocking the potential of social and collective approaches to mental health.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Stop Rail Central
-
 A campaign website set up to stop the proposed rail freight development between Blisworth and Milton Malsor.

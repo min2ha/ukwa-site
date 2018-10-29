@@ -10,5 +10,3 @@
   "start_date": "2014-11-05T00:00:00Z"
 }
 
-# Sioe Aberystwyth Show
-

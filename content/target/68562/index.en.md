@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 2nd July 2018: June European Council
-
 The Prime minister made a statement on the June 2018 European Council meeting followed by questions. Theresa May emphasised that she had made a case for a new security partnership with the EU after Brexit.

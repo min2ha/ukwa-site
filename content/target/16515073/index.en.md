@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Wind Weekend - embrace the revolution
-

@@ -10,6 +10,4 @@
   "start_date": "2015-06-10T08:00:00Z"
 }
 
-# Kannada Balaga of UK
-
 Kannada Balaga of UK was established in 1983 with the aim of bringing together the Kannadigas living in the UK. It is a secular organisation with membership open to people from all faiths and religions.

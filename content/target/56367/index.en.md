@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Association of Financial Mutuals
-
 The Association of Financial Mutuals is the trade body that represents mutual and not-for-profit insurers, friendly societies and other financial mutuals across the UK.

@@ -10,8 +10,6 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# British Chinese Accountancy Association (BCAA)
-
 British Chinese Accountancy Association (BCAA) promotes the development of professionals and students within the accountancy, finance and economics, and facilitates the practice and application of international accounting standards and taxation regulations with the aim to enhance the relationship between British and China.
 
 

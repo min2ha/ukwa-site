@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nimit Jethwa (@NimitJethwa) on Twitter (Green Party candidate for Leicester East)
-

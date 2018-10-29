@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Northern Ireland Public Service Alliance (NIPSA) 
-
 The Northern Ireland Public Service Alliance (NIPSA) represents over 45,000 members from across the civil and public services and the voluntary sector. NIPSA members can be found in a wide variety of jobs from architects to zoologist and all grades and professions within.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Jeremy Corbyn meets Michel Barnier for 'useful' talks
-
 Following Labour's 2018 Party Conference, Jeremy Corbyn met the EU's chief Brexit negotiator in Brussels for what the Labour leader described as an "interesting, useful discussion". Afterwards, Mr Corbyn said he was not negotiating with Michel Barnier, who he said had offered "no opinion" about Labour's vision for Brexit.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Anthony Anaxagorou
-
 Website of British award-winning poet, short-story writer, educator and publisher Anthony Anaxagorou.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Unshackled from Coalition partners, Tories get ready to push radical agenda
-
 None

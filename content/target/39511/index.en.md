@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit could spark democratic liberation of continent, says Gove
-
 Guardian, The

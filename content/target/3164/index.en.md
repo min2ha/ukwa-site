@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# SCRAN
-
 The Scran Trust aims to provide educational access to digital materials representing the material culture and history. This is provided through the wholly owned trading arm Scran Ltd. They are an educational online service in the UK supporting over 4,000 schools, libraries, colleges and universities.

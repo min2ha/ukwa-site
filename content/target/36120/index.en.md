@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Labour in for Britain
-
 Promoted by Iain McNicol on behalf of the Labour Party 

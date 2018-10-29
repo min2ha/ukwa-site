@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T13:00:00Z"
 }
 
-# Refuweegee | We're all fae somewhere
-
 Refuweegee is a Glasgow based project which aims to provide refugees arriving in the city with a community welcome pack.

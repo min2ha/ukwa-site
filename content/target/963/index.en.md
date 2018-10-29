@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: LINk legacy
-
 None

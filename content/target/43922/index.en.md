@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Folk Film Gathering
-
 Site of a film festival exploring how cinema has engaged with different notions of folk culture in the course of world history.

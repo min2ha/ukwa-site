@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: IAIN DUNCAN SMITH: People heroically saw through Project Fear... but Brussels can't bear to see Britain succeed after Brexit   
-

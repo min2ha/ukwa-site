@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Labour rocked by resignation of Roy Jenkins - archive 
-
 Guardian, The

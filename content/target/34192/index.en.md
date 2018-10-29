@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit: the golden opportunity that could become Sturgeon’s nightmare
-

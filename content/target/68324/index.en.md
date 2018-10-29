@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rishworthians RUFC (@orrufc)
-
 The official Twitter account of Old Rishworthian Rugby Union Football Club

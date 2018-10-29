@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Dawnswyr Gwerin Pen-y-Fai
-
 Dawnswyr Gwerin Penyfai is a member of the Welsh National Folk Dance Society.

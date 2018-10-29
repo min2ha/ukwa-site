@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stand up to Trump
-
 Alliance of groups opposed to Donald Trump's state visit to the UK and coordinating protest actions against a state visit.

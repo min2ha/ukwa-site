@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Caledonian Railway
-
 Site of a heritage railway between Brechin and Bridge of Dun, Angus, Scotland.

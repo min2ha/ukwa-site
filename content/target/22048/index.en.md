@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Stevenson (Conservative  Politician)
-
 John Stevenson stood as  Conservative candidate for Carlisle at the 2017 General Election and was successful. He was first elected to serve as the MP for Carlisle in 2010 and re-elected in 2015.

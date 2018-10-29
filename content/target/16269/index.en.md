@@ -10,6 +10,4 @@
   "start_date": "2015-01-30T00:00:00Z"
 }
 
-# PACE
-
 <p>PACE is the LGBT+ mental health charity promoting the emotional well-being of the lesbian, gay, bisexual and transgender community.</p>

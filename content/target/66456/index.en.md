@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: ROSA - Socialist Feminist Movement
-
 Various events organised by ROSA in Northern Ireland and advertised on Eventbrite. ROSA is a socialist feminist activist group, fighting for reproductive rights, against oppression, sexism and austerity.

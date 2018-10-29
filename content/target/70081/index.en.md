@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Refugee Trauma Initiative
-
 Since 2016, Refugee Trauma Initiative has provided vital psychological help to thousands of refugees experiencing the trauma of war, torture and displacement. We also train and support humanitarians,  helping them to provide the best possible care for those in need.

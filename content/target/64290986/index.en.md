@@ -10,6 +10,4 @@
   "start_date": "2012-02-20T00:00:00Z"
 }
 
-# The Pembrokeshire Historical Society
-
 Historical Society

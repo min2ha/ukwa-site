@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Our Sporting Life
-
 None

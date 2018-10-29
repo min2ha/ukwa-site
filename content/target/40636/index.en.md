@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Magic Festival
-
 Site of an annual arts festival that celebrating magic an taling place in Edinburgh, Scotland.

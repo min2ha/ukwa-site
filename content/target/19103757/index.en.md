@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# NuLeAF - Nuclear Legacy Advisory Forum
-
 None

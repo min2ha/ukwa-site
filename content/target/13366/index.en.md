@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Drum, The: Glasgow 2014 Commonwealth Games headquarters occupied by protesters who want Atos dropped as official sponsor
-
 <p>The Drum website covers modern marketing and media stories. An article about the occupation of XX Commonwealth Games headquarters in Glasgow, protesting Atos being an official supporter and supplier of services to the XX Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Wales Festival of Innovation
-
 The Wales Festival of Innovation is set to showcase innovation here in Wales through a number of events, run by companies and academia during June 2015.

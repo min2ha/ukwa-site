@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Maryhill Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Maryhill, Glasgow, Scotland.

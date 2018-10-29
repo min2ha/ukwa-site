@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Stafford Remembered
-
 A local history website to record peoples memories of a small town in the UK.

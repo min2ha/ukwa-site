@@ -10,6 +10,4 @@
   "start_date": "2015-11-19T09:00:00Z"
 }
 
-# Scottish Wildlife Trust
-
 The Scottish Wildlife Trust manages a network of 120 wildlife reserves across Scotland and is a member of the UK-wide Wildlife Trusts movement.

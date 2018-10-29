@@ -10,5 +10,3 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Neath Port Talbot Labour
-

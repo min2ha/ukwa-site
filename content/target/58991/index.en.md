@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Islamic Academy of Scotand
-
 Site of an Islamic educational establishment aiming to teach Islam to Muslim children, while providing information to the broader community on Islam and promoting peaceful co-existence. Located in Glasgow.

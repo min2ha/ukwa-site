@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Unst Heritage Trust
-
 Site of two museums based in Unst, Shetland, Scotland, run under trust and dedicated to the history and cultural heritage of the island of Unst.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# NewsNow: Brexit news
-
 collection of articles on Brexit

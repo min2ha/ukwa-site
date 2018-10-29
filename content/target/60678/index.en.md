@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Garioch Rugby Football Club 
-
 Site of a Scottish rugby union football club based in Inverurie, Aberdeenshire.

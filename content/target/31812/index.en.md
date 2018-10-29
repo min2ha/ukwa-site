@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Cult Cymru
-
 CULT Cymru provides training, advice and support to people in the creative industries in Wales.

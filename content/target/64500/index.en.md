@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Construction Plant-Hire Association
-
 Trade association for the plant hire industry

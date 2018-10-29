@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cornerstone City Church
-

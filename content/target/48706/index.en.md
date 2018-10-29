@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# London Oriana Choir
-
 The London Oriana Choir is an amateur choral group comprising around 100 mostly young singers, based in London, England, UK. It was formed in 1973 by Leon Lovett, who acted as conductor and musical director.

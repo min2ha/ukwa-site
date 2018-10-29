@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dalston Oxfam Shop Blog
-
 None

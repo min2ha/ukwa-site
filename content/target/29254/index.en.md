@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorchester Literary Festival
-
 Dorchester Literary Festival

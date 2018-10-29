@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Maxwell Mearns Castle Parish Church
-
 The website of Maxwell Mearns Castle Parish Church, located in Glagow, Scotland. 

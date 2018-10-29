@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Saving Sully Vale of Glamorgan
-
 Saving Sully are a group of residents who oppose any development of the site at Cog near Sully. This land comprises 72 acres of agricultural land which lies in an area bounded by Cog and Swanbridge Roads.

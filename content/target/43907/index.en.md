@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Maintenant
-
 Interview series by poet SJ Fowler, focusing on authors working in European avant-garde traditions. Subsidiary of 3am Magazine.

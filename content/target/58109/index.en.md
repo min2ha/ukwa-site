@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Future Interaction Technologies (FIT) Lab
-
 Future Interaction Technologies (FIT) Lab is part of the Computer Science Department of Swansea University and is a leading research centre in Human-Computer Interaction (HCI). The aim is to explore and apply Advanced Computer Science to make interaction technologies dependable, enjoyable and effective. 

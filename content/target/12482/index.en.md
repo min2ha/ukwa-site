@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# British Together Campaign
-
 <p>British Together is a campaign group set up by the Grand Orange Lodge of Scotland to assist the mainstream Unionist groups leading up to and including the independence referendum in 2014.</p>

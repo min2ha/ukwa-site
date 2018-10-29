@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Gerry Adams: Police search for bomb finds 'nothing untoward'
-
 None

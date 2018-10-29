@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Miliband accuses Fink of U-turn in tax avoidance row
-
 None

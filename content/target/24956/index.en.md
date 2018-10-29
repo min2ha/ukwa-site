@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now for fallout Friday: Despite chaos fears, Queen WILL give her speech to peers and MPs come what may
-
 None

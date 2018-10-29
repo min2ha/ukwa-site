@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How Labour should respond to the 'Green surge'
-
 None

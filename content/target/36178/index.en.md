@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bright Green
-
 News and comment for the green and progressive movement.

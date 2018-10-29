@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 21st November 2017: European Union (Withdrawal) Bill
-
 Report of the third day of debate of the European Union (Withdrawal) Bill by a committee of the whole house, covering the impact oremoving the Charter of Fundamental Rights from UK law

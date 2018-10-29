@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The most terrifying thing about Nicola Sturgeon is that she may be - sort of - right
-
 None

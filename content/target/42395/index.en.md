@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Durness.org The Past and Present of Durness
-

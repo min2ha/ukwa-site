@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Whole Food Action
-
 Whole Food Action host a map of independent wholefood shops. They see these shops as part of a movement towards a food system that is fair, healthy, and ecologically sustainable. We also think they have a big role to play in campaigning for such a system. 
 
 Their site is intended to:

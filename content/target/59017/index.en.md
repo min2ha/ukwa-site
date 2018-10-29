@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Lawyers for Britain
-
 'We are a group of lawyers, legal academics, retired judges and constitutional specialists who came together to campaign for a Leave vote in the referendum. Now that the country has voted to leave the European Union...we now wish to work constructively to make sure the exit process is carried out in the best interests of the United Kingdom.'
 President: Rt Hon Sir Richard Aikens 
 Sir Richard practised at the Bar as a leading commercial silk, and was appointed to the High Court Bench in 1999, becoming Judge in charge of the Commercial Court.  He was appointed a Lord Justice of Appeal in 2008 until his retirement in 2015. He currently conducts international arbitrations and teaches commercial law at King's College London.

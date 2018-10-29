@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southsea Nomads RFC (@Southsea_Nomads) on Twitter
-
 The official Twitter of Southsea Nomads RFC the smallest rugby club based in Portsmouth.

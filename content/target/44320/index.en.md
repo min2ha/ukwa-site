@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Brighton and Hove Independent: Brighton, Hove and District Labour Party suspended by NEC
-
 The Brighton, Hove and District Labour Party has been suspended and its recent election results annulled, according to its new secretary.
 
 Read more: http://brightonandhoveindependent.co.uk/brighton-hove-district-labour-party-suspended-nec/#ixzz4ETmkPHBE

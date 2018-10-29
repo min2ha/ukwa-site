@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour dismisses pro-Tory letter from business leaders as party political stunt
-
 None

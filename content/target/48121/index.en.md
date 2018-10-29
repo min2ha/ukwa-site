@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Pax Christi
-
 Pax Christi is a membership organisation of individuals, families, communities and parishes from around the country.

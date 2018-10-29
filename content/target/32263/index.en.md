@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Nos Galan Road Races
-
 Nos Galan is an annual five-kilometre road running event, held on New Year's Eve in Mountain Ash.

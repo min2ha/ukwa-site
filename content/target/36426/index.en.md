@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside Politics: Tories heading for a civil war
-
 Column by Macer Hall

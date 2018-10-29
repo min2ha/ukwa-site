@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU mood music improves on Brexit bargaining
-
 Mrs May's election losses in June 2017 left her heading a government reliant on support from right-wing Northern Ireland politicians. Her EU partners know that she is much weakened, but they also know how strong the Leave camp is in the UK, so they want a deal with her.

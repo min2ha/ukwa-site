@@ -78,6 +78,4 @@
   "endDateText": "28-02-2018"
 }
 
-# UK/India Year of Culture 2017
-
 The UK and India will celebrate a major bilateral year of cultural exchange throughout 2017. It marks the 70th anniversary of Indian independence and, through a varied programme of projects and events – led by the Ministry of Culture in India, the Nehru Centre and other Indian cultural organisations in the UK and the British Council – aims to highlight India-UK cultural relations. 

@@ -10,5 +10,3 @@
   "start_date": "2010-02-03T00:00:00Z"
 }
 
-# Campaign compilation - Carwyn for Labour - Carwyn dros Lafur
-

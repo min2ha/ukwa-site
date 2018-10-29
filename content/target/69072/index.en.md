@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Fraternas UK
-
 We are the Fraternas, a Society of Apostolic Life founded in Peru on 25th March 1991, Solemnity of the Annunciation of the Lord. As a Society of Apostolic Life, we have come together as a community called by God to be fully available for the evangelisation of the world. 

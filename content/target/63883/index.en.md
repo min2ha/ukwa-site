@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Busby Parish Church
-

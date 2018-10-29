@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron claims a Brexit could make immigration WORSE as Tory rebels seize on new stats showing net migration up 31,000 to 323,000 as evidence for border controls   
-

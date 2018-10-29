@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wirral LINk
-
 None

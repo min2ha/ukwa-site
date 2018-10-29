@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# We Are Funny Project
-
 Website for We Are Funny Project, which offers free comedy shows, in a range of formats, with open mike and pro comics sharing the stage.

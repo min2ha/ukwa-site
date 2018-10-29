@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Thornton Highland Gathering on Facebook
-
 Facebook page of a highland gathering at Thornton, Fife.

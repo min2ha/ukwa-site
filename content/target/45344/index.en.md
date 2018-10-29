@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Sea Changings
-
 Naomi Foyle is a science fiction novelist, verse dramatist and prize-winning poet.

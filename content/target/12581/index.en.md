@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jenny Marra MSP (JennyMarra) on Twitter
-
 The twitter profile of Jenny Marra, Labour Member of the Scottish Parliament for North East Scotland, Shadow Minister for Youth Employment and Deputy Finance spokesperson.

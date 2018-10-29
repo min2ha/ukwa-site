@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Bamboo the Panda (@ssulibpanda) on Twitter
-
 Bamboo the Panda was a library mascot for Southampton Solent University, Library. This was the official account that was closed on the 07/11/2017 as Bamboo had stopped working at the library.

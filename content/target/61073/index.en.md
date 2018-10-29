@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Neath Port Talbot City of Sanctuary
-
 City of Sanctuary is a UK based movement committed to building a culture of welcome, in particular refugees seeking sanctuary from war and persecution. This is the site for Neath port Talbot.

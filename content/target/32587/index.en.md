@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cyber Security Challenge UK
-
 The Cyber Security Challenge is a series of national competitions, learning programmes, and networking initiatives designed to identify, inspire and enable more EU citizens resident in the UK to become cyber security professionals.

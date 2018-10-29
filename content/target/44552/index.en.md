@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Brexit will help make British universities the envy of the  world
-
 Argues that British research need not suffer once we leave the EU, because like Switzerland or Israel – which has more listed start-ups on the Nasdaq than the EU combined – we shall still have access to the EU’s Horizon 2020 funding competitions. Great Britain will also have the heft to obtain special associate status on our terms as Europe’s leading research nation and will also remain a member of all the key international intergovernmental research and technology co-operation organisations – from the European Space Agency to the G8 Research Council – which have nothing to do with the EU .

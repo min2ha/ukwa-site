@@ -290,6 +290,4 @@
   "endDateText": "26-02-2013"
 }
 
-# Spending Cuts 2010: Impact on Social Welfare
-
 This is a collection of selected websites archived from May 2010 onwards focusing on the impacts of the public spending cuts implemented by the Coalition Government following the 2010 General Election. The collection contains UK central and local government sites, public policy documents and responses, news and commentary, and relevant pages from the sites of think tanks, charities, pressure and protest groups, individual anti-cuts campaigners and trade unions.

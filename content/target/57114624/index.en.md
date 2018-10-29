@@ -10,5 +10,3 @@
   "start_date": "2010-09-28T00:00:00Z"
 }
 
-# Soap Shed, The
-

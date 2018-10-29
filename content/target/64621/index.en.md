@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Corris Craft Centre
-
 Corris Craft Centre is collection of shops, attractions, activities and 9 individual Craft Studios located in Corris, Southern Snowdonia.

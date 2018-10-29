@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ipsos Mori: British public wants to hear from business on Brexit – but may not trust what they have to say
-
 British adults think that businesses should be involved in the EU referendum debate – but that doesn’t mean they will trust them. When asked whether different types of business should take part in the EU referendum campaign, support was high for British businesses to participate by publicly backing one side or the other, especially SMEs. However, this does not necessarily mean the public trust what big businesses say on the issues.

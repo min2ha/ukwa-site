@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: There are issues that really matter at this election. But Britain’s media are ignoring them
-
 None

@@ -10,7 +10,5 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Williamson Art Gallery & Museum
-
 ew improved Williamson!
 2016 Certificate of Excellence - Trip AdvisorOne of Wirral’s hidden gems, the Williamson Art Gallery & Museum is minutes from the heart of Birkenhead, on the edge of the picturesque village of Oxton

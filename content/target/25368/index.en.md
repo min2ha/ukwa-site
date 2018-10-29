@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ben Jennings on David Cameron's voluntary work proposal – cartoon
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# More Light More Power
-
 More Light More Power campaigned for innovative development of Bishopsgate Goodsyard. Principally, they rejected the proposal for high rise towers on the site calling for a culturally sensitive development that addressed local housing and commercial needs.

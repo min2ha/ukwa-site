@@ -10,5 +10,3 @@
   "start_date": "2011-10-11T00:00:00Z"
 }
 
-# Eglwys Bethel Parcyrhos
-

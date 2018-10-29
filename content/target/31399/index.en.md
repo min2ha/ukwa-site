@@ -10,6 +10,4 @@
   "start_date": "2015-10-13T10:00:00Z"
 }
 
-# Jacob Williams
-
 Jacob Williams is the County Councillor for East Williamston Electoral Division in Pembrokeshire.

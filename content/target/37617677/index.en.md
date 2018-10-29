@@ -10,5 +10,3 @@
   "start_date": "2010-03-26T00:00:00Z"
 }
 
-# Kitty Ussher MP
-

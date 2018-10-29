@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Portsmouth Health and Wellbeing Board
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-12-14T09:00:00Z"
 }
 
-# Parish Church of St Bridget and St Cwyfan, Dyserth
-

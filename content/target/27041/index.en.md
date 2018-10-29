@@ -10,5 +10,3 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# QBE Insurance Group
-

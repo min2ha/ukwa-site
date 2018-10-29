@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# It's Okay
-
 Campaign page for 'It's Okay', interactive mental health campaign launched by See Me. 

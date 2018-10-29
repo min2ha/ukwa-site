@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Leaving Home Exhibition
-
 Facebook page of Leaving Home Exhibition

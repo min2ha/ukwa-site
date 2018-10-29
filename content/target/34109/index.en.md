@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Anglican Mainstream
-
 An information resource for orthodox Anglicans.

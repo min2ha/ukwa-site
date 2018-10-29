@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Vote Leave releases list of serious crimes by EU citizens in Britain
-
 Guardian, The

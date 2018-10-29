@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CS4FN (Computer Science for Fun)
-
 cs4fn's aim is to share passion about all things to do with Computer Science and especially to show that it is an exciting subject that is great to learn about just for the fun of it. They produce a free magazine twice a year as well as a series of special booklets. They are a partner to the BBC's Make it Digital campaign. 

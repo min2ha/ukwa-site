@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Energy News: EU Referendum: Rudd warns that British Independence could cost UK consumers £500m in higher fuel bills
-
 An article about Britain's energy sector and its future outside of the EU.

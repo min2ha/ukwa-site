@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# William Jones (@WillJonesLD) on Twitter (Liberal Democrats Politician)
-
 William Jones stood as Liberal Democrat candidate for Whythenshawe and Ease Sale in the 2017 General Election but was not elected.

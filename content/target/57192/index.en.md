@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Wales Interactive
-
 Wales Interactive is a video games developer & publisher and Bafta winner located in Pencoed, Bridgend.

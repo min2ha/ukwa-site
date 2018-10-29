@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# London School of Economics (LSE): General Election 2015
-

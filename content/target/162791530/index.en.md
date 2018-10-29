@@ -10,5 +10,3 @@
   "start_date": "2013-06-21T00:00:00Z"
 }
 
-# 2012 The Year of the Apprentice | 2012 Blwyddyn y Prentis Cymreig
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Worshipful Company of Barbers
-
 The Worshipful Company of Barbers is one of the 110 livery companies of the City of London. It is also one of the oldest, having celebrated its 700th anniversary in 2008 and is ranked 17th in the order of precedence.

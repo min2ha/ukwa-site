@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Fire Fences
-
 Fire Fences are a rock band from Bridgend and were crowned as Firestone UK Battle of the Bands 2017 Champions.

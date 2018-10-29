@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Batsby
-
 Libertarian Leave blog

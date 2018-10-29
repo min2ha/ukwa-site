@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Property Care Association (PCA)
-
 To promote high standards of professionalism and expertise within the sectors represented through through training and other support services.

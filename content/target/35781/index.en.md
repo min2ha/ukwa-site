@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916-1921 Club, The 
-
 This is the website of ‘The 1916-1921 Club’. It was founded in the 1940s in an effort to heal the divisions of the Irish Civil War. Protagonists on both sides were invited to join. The Association of the Old Dublin Brigade Óglaigh na hÉireann was open to surviving members of the War of Independence. The Club incorporated the Association in the early 1980s as their membership declined.

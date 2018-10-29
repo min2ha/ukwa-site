@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# 2012 Olympic Games - an East End perspective
-

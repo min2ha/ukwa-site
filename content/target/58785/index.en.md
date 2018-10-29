@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bringing Them Home 
-
 Bringing Them Home is Wymeswold’s WW1 Project, led by The Wolds Historical Organisation.Central to the project are this website and the book – ‘Bringing Them Home: The Story of the Lost Sons of Wymeswold’ by Ivor Perry

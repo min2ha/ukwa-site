@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# UK Society for Behaviour Analysis
-
 The Society provides a forum for Behaviour Analysts for accreditation, professional development, continuing education and networking, and serves as an advocate body in public debate on issues relating to Behaviour Analysis.

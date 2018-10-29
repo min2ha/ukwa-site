@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cromar History Group
-
 Site of a local history society aiming to collect, record and promote records reflecting the history of Cromar in Aberdeenshire, Scotland.

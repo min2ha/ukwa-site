@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Observer view: we must give voters a chance to deliver their verdict on Brexit terms
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Avon, Somerset and Wiltshire Cancer Network
-
 None

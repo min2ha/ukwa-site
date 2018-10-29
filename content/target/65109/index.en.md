@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# ConferenceCall.co.uk
-
 UK's conference call service. No contract. No monthly fees. No reservations. Receive your free PIN to instantly to start your conference call.

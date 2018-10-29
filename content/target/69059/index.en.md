@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Plan International UK; the state of girls' rights in the UK
-
 A report on girls' rights in the UK

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shaun Jenkins on Facebook
-
 Founder & Leader of Alter Change & Cardiff North Parliamentary Candidate

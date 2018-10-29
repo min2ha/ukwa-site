@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Edinburgh World Justice Festival
-
 Site of a festival uniting organisations and individuals with a shared values in justice, peace, non-violence, human rights, democracy,respect for differences, independence and self-responsibility, honesty and openness, equality, solidarity amongst people local and global community, accessibility and voluntary contribution.

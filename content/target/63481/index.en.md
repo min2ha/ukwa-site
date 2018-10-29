@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-#  ITV : Stephen Hawking
-
 ITV search results for Stephen Hawking

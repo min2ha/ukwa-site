@@ -10,8 +10,6 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Document Research Network
-
 The Document Research Network was founded by Dr Aimee Grant (Cardiff University) and Dr George Jennings (Cardiff Metropolitan University), with the aim of providing a collaborative space in which to bring together researchers who are using documents as data. In doing so, it is hoped that:•it will be easier for researchers to make connections with other academics using documents in their research, increasing interdisciplinarity
 •publications which use documents as data can be more easily identified
 •those who are new to using documents as data can be provided with methodological and theoretical support

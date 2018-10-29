@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Landscape origins of the Wye Valley
-
 Landscape origins of the Wye Valley was part-financed by the European Union (EAGGF) and DEFRA through the Herefordshire Rivers LEADER+ Programme. It is managed by the River Wye Preservation Trust.

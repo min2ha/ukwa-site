@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Courier, The: Perthshire swimmers strike silver at Rio
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ade Adeyemo (@a_adeyemo) on Twitter (Liberal DemocratsPolitician)
-
 Ade Adeyemo stood as Liberal Democrats candidate for Solihull at the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Ffoton Wales
-
 Ffoton Wales provides monthly news & audio conversations with talented photographers working across Wales. 

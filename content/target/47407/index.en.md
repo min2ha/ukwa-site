@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# West End Congregational Church, Ebbw Vale
-
 West End is a Congregational Federation in Wales Church located in Ebbw Vale.

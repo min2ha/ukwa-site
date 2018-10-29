@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Doki Doki - The Manchester Japanese Festival 
-
 Website for the Doki Doki Manchester Japanese Festival

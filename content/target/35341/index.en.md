@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# London Knowledge Lab
-
 The London Knowledge Lab is a collaboration between two centres of research - the UCL Institute of Education and Birkbeck. The Lab brings together computer and social scientists from a very broad range of fields. 

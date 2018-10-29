@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish News, The: Arlene Foster: Easter Rising was 'a violent attack on the United Kingdom'
-

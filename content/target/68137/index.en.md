@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A bad day for Grieve, the rebel Tory who forgot how to rebel
-
 Comments on Dominic Grieve's climbdown over his own amendment to the EU Withdrawal Bill that would have given Parliament power to reject the final Brexit deal and to direct the Government what to do next

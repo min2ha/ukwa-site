@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Belfast Giants (@BelfastGiants) on Twitter
-
 Official twitter home of the Belfast Giants ice hockey team.

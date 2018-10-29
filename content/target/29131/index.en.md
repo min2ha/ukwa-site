@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bournemouth Literary Festival
-
 Bournemouth Literary Festival

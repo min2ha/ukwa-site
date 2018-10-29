@@ -10,5 +10,3 @@
   "start_date": "2016-05-27T11:00:00Z"
 }
 
-# Llanrhidian Higher Community Council
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watsonians
-
 Site of a Scottish rugby union club based in Edinburgh, with close links to George Watson's College.

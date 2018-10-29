@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Barrie J. Davies
-
 Barrie J. Davies is a Welsh multi-media artist from Fishguard.

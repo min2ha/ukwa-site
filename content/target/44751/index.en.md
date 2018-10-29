@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stand Up To UKIP
-
 Stand up to UKIP is an umbrella organisation which believes women, trade unions, anti- racists, black, Muslim, Jewish, Christian, Hindu, Sikh, other faith communities, LGBT, young people, students and all good people, must unite and stand up to UKIP, racism and bigotry.

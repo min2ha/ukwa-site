@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron: Only thing that unites eurosceptics is 'inability' to spell out vision for Brexit
-

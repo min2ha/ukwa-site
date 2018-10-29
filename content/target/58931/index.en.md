@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' speech to the Suddeutsche Zeitung Economic Summit
-
 David Davis warns against "putting politics above prosperity" in Britain's post-Brexit relationship with the EU. In a speech in Berlin, the UK's Brexit Secretary outlined his hopes for a deal that "allows for the freest possible trade in goods and services".
 

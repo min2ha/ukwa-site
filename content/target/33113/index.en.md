@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# Wounded Knee
-
 Wounded Knee is Drew Wright, a singer, experimental vocalist and occasional children’s entertainer based in Edinburgh.

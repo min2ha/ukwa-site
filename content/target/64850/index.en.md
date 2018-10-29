@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# NHS70 Windrush platform on Crowdcity
-
 Over the last 70 years, the NHS has relied on talent and workforce from all around the globe to make it work. These nominations will lead to an awards shortlist announced on the platform and the winners will be announced at an awards ceremony on Tuesday 12 June 2018 in Manchester.

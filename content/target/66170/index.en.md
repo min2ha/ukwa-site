@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Destiny Church Huntly
-
 Site of a Christian church and congregation in Huntly, Aberdeenshire.

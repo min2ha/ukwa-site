@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nigel Farage: 'Grossly unfair to call UKIP racist'
-
 None

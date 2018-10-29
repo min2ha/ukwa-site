@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls would ‘save’ NHS with cash injection in quickfire first budget
-
 None

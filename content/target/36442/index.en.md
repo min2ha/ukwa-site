@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The:  'Euro conflict between EU elite and national democracies it is extraordinarily dangerous'
-
 Comment by Stephen Pollard

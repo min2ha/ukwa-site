@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff West Conservatives
-
 Website of Cardiff West Conservatives, providing information on Assembly Members, Association Officers, County Councillors and candidates, events and local and national news and opinion.

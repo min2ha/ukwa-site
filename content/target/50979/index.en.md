@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# British Interactive Group (BIG): Stem Communicators Network
-
 Formerly known as the British Interactive Group, BIG is a not-for-profit organisation for all people involved in informal science communication activities and hands-on education projects in the UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip's new leader Suzanne Evans is a failed Conservative general election candidate
-
 None

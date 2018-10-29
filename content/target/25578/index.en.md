@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: Labour will start construction on 1m new homes by 2020
-
 None

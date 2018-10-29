@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Ann Bridges Painter Printmaker
-
 Ann Bridges is a Painter and Printmaker from North Wales and currently living near Sevenoaks in Kent. She is a member of the Royal Cambrian Academy. 

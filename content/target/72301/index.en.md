@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunfermline Elim Pentecostal Church 
-
 Site of an Elim Pentecostal church (Christian) located in Dunfermline, Fife.

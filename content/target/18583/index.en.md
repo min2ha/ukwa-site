@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Williams on Facebook
-
 Craig Williams is the Conservative candidate for Cardiff North.

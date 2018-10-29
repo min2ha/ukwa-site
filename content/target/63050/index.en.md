@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dominic Cummings
-
 Blog of Dominic Cummings who ran the official leave campaign in the EU referendum, Vote Leave, in 2015/16.

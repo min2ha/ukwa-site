@@ -11,7 +11,5 @@
   "subject": "Live Art"
 }
 
-# Somewhere
-
 Somewhere is a multi-disciplinary, non-profit creative organisation 
 run by artist/film-makers Nina Pope and Karen Guthrie.

@@ -10,8 +10,6 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# paper weight
-
 A weight off your shoulders – we are here to help you take control of your domestic administrative affairs.
 
 A free service across the entire spectrum of the jewish community.

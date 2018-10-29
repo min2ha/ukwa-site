@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour reveals scheme to maintain access to EU single market
-
 Labour is proposing an “internal market” that would deliver a new and close relationship with the European Union but falls short of membership of the single market while maintaining many of its advantages. The proposal, tabled as an amendment to the EU withdrawal bill ahead of its return to the Commons next Tuesday, fleshes out proposals originally made in a speech by Jeremy Corbyn in Coventry in February 2018.
 
 

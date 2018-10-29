@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-#  Kate Ashwin (@KateDrawsComics) on Twitter
-
 Comic artist based in West Yorkshire

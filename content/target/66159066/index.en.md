@@ -10,5 +10,3 @@
   "start_date": "2012-11-07T00:00:00Z"
 }
 
-# Winteringham Parish Council
-

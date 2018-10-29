@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Trossachs.co.uk
-
 Site of a tourism directory focusing on the Trossachs and Loch Lomond areas of west central Scotland.

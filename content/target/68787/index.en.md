@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Change.Org: Stop helping the Home Office deport people
-
 A petition directed at British Airlines and other airlines that deport people from the  UK that the Home Office has issued deportation orders for, even though some of these people may have the legal right to remain in the UK such as the Windrush generation. 

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# EUROPP – What does Brexit mean for Scottish politics?
-

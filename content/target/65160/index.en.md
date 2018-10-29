@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# London Fire Brigade
-
 The official website for the London Fire Brigade.

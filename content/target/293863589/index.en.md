@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Know the Score
-
 Drugs information and advice for Scotland.

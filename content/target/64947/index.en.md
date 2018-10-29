@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Dowlais Engine House
-
 Dowlais Engine House was originally built in 1905. It is now home to Pant & Dowlais Boys and Girls Club, a group organising activities for deprived youngsters. 

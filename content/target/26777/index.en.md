@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Welsh National, The
-
 A site dedicated to the history of the Welsh Grand National held at Chepstowe Racecourse.

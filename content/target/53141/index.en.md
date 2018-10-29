@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Karen Roberts (@KarenClydach) on Twitter 
-
 Karen Roberts is Liberal Democrat candidate for Rhondda at the 2017 General Election.

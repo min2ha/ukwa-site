@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chatham House: Don’t trust received wisdom on UK's EU Referendum vote
-
 It is clear that for the Remain camp to win, it will need to think seriously about how to counter the appeal of anti-immigration populism, mobilize its younger voters to turn out and build a sophisticated grassroots operation that can increase the appeal of the status quo.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Calum Ross (@calumross23) on Twitter
-
 Twitter profile of Calum Ross, Westminster correspondent for the Press & Journal newspaper.

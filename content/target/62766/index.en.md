@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hoy and Walls Parish Profile
-
 Parish profile [PDF] for the parish of Hoy and Walls, Orkney.

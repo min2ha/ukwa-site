@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# wales nicaragua cymru
-
 The Campaign was established in 1986 to support the Sandinista Revolution. When the Revolution came to an end in 1990 the Wales NSC continued to support the Nicaraguan people’s desire for a better life.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Nightmare for Theresa May as Boris Johnson prepares to make a comeback speech at a fringe event for next month's Tory Party conference
-
 Reports plans by Boris Johnson to make a "come back" speech at a fringe meeting of the 2018 Conservative Party conference following his resignation as foreign secretary.

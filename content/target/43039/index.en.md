@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# SOS! SEN
-
 SOS!SEN is a national charity aiming to empower parents and carers of children with SEN to tackle successfully themselves the difficulties they face when battling for their children’s rights.

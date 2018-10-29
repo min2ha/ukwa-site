@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Don't wreck Brexit Bill, 'cynical' Labour is told: Former minister calls on MPs to avoid 'delaying the inevitable' by blocking legislations route through Parliament   
-

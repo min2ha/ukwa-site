@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Oxford University's Gardens, Libraries and Museums: Shout Out for Women
-
 A trail across different collections in Oxford University's gardens, libraries and museums to celebrate female achievement in the centenary year of votes for women

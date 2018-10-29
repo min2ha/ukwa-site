@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ipsos MORI: Indyref2014
-
 <p>Polling information and analysis from Ipsos MORI relating to the Scottish Independence Referendum 2014. Polls cover voting intention, likelihood to vote and perceptions of key figures in the independence debate.</p>

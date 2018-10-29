@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Local companies are urged to give a hand with Trowbridge project
-

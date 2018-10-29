@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# British Virgin Islands Tourist Board, The  
-
 The British Virgin Islands Tourist Board official website. 

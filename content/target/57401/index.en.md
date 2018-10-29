@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Live@Troon
-
 Site of an annual rock / independent music festival staged at various venues around the town of Troon, Ayrshire.

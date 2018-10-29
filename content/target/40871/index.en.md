@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# PEDAL Portobello Transition Town
-
 Site of a hyperlocal environmental organisation based in East Edinburgh, and work­ing to cre­ate a sus­tain­able community with the aim of com­bating cli­mate change by reducing fossil fuel use.

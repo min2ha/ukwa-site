@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Friends of the British Cemetery, Elvas
-
 The British Cemetery in Elvas, Portugal is one of the oldest British military cemeteries, dating from 1811 during the Peninsular War. 

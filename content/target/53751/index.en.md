@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Staveley (@PStaveleyUKIP) on Twitter (UKIP Politician)
-
 Peter Staveley stood as UK Independence Party (UKIP) candidate for Croydon Central General Election 2017 but was not elected.

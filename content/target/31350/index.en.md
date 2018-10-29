@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Romany Theatre Company (RTC)
-
 Romany Theatre Company (RTC) was were founded in 2002 by Dan Allum. Their work is rooted in the culture and experiences of Romany people and focuses strongly on their struggle for equality and challenges negative opinions of them and the lives that they lead.

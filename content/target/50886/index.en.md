@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# ThinCats
-
 ThinCats are one of the pioneers of the peer-to-peer business lending industry; specialising in loans with security and linking experienced investors directly with established business borrowers to provide a serious alternative to high street banks. The company was founded in the aftermath of the global financial crisis, with the aim of offering loans to UK businesses struggling to access funding through traditional channels, whilst providing investors with attractive rates of interest unavailable through many conventional investment portfolios.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK uncertainties are real, but nothing saps confidence like the eurozone
-

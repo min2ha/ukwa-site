@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bath Rugby
-
 Founded in 1865, Bath Football Club is one of the oldest clubs in existence.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Bank of England: Bank Underground
-
 Bank Underground is a blog written by staff at the Bank of England. Their goal is to bring more of our thinking into the public domain and to showcase their analytical and research output.

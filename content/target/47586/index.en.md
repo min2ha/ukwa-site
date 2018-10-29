@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Dragon
-
 Dragon is a consultancy agency based in London. They provide brand positioning, communication, capital investment networking, crisis and reputation management, litigation support and group bondholder actions services.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: François Hollande: Brexit would affect immigration 
-
 Guardian, The

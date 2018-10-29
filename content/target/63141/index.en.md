@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Pride of Britain: Professor Stephen Hawking 
-
 The world’s most influential scientist has changed the way we think about the world around us, despite battling a devastating illness for more than 50 years

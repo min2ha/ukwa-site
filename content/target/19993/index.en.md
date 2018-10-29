@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wayne David (@ReelectWDavid) on Twitter
-
 Labour's Parliamentary Candidate for Caerphilly

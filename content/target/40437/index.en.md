@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ashton at War a community hub involving pupils, parents, ex-pupils who served in WW1
-
 Project to utilise the history of Ashton Middle School and to act as a hub to organise commemorative events of the Great War.

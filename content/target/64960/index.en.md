@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Southwark TUSC
-
 The Southwark, London branch of TUSC the Trade Union Socialist Coalition.

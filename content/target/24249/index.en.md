@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election: Voters canvassed on final campaign weekend
-
 None

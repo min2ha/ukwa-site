@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# InterCardiff: A global city for internationalists
-
 InterCardiff is an online news magazine looking at life in the Welsh capital through fresh eyes and an outsider’s point of view to leisure and culture, politics and business. InterCardiff is produced by the MA International Journalism: Multimedia Pathway at Cardiff University.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Legislating for Brexit: EU Decisions
-
 EU decisions form a large part of EU law but have not been much debated in the context of Brexit. There are different kinds of EU decisions and they are a the main instrument in the EU's foreign policy. This paper looks at the different types of EU decisions and how the EU Withdrawal Bill will deal with them.
 

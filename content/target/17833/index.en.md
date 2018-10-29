@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Scottish MP David Mundell warns against Labour/SNP post-election pact
-
 None

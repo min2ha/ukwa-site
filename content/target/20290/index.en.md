@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Building Information Modelling (BIM) Task Group
-
 The Building Information Modelling (BIM) Task Group are supporting and helping deliver the objectives of the Government Construction Strategy and the requirement to strengthen the public sector’s capability in BIM implementation with the aim that all central government departments will be adopting, as a minimum, collaborative Level 2 BIM by 2016.

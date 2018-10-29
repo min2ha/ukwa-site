@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Archaeology Strategy
-
 Scottish Government strategy which aims to support Archaeology in Scotland, and "Our Place in Time" - Scotland's Historic Environment strategy  and "Going Further" the strategy for Scotland’s Museums and Galleries. 

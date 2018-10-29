@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rory Jepson (@RoryJepson) on Twitter
-
 Standing as MP for Above and Beyond in Clwyd West. 

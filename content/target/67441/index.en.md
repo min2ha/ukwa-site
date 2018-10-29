@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Rubber Engineering Services
-
 Website of a manufacturer of rubber and plastic products based in Aberdeen, Scotland. The company is a subsidiary of Polymer Holdings Limited.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Canton Chorus, Cardiff Wales
-
 Canton Chorus is a community choir based in Canton and was formed in 1990. They rehearse at the Uniting Reformed Church, Canton.

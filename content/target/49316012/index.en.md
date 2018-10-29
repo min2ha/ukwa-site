@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Primary Ciliary Dyskinesia Family Support Group (PCD Family Support Group)
-
 None

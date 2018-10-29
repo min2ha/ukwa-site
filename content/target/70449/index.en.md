@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Savoir Beds Ltd.
-
 Luxury bed company based in London and Cardiff.

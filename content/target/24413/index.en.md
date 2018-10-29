@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip's manifesto is Nigel Farage's last roll of the dice
-
 None

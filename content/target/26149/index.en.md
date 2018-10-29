@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UNA-UK: Ten ideas for UK foreign policy
-
 The United Nations Association - UK (UNA-UK) is the UK's leading source of independent analysis on the UN, and a UK-wide grassroots movement. 

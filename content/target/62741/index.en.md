@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Universities Wales (@Unis_Wales) on Twitter
-
 Universities Wales / Prifysgolion Cymru represents the interests of all universities in Wales. This is their official Twitter account. 

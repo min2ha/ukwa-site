@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Wales Argus: Social media affecting youngsters' wellbeing and mental health says Torfaen AM
-
 News article about Lynne Neagle, AM for Torfaen and the chairwoman of the Children, Young People and Education Committee commenting on how social media affects the mental health of young people

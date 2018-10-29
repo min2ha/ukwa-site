@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Prince of Wales attends the funeral of Nelson Mandela
-
 <p>News report from the official website for the Prince of Wales and the Duchess of Cornwall. The report includes excerpts from speeches made at the funeral of Nelson Mandela.</p>

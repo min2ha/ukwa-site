@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saltcoats St. Cuthbert's Church
-

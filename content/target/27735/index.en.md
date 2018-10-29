@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: Journey to the heart of the Magna Carta: On the trail of the original copy
-

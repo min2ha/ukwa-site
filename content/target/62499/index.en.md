@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK ministers want temporary control of devolved areas post-Brexit
-
 Ministers in the Scottish and Welsh governments wanted subjects such as food labelling and animal welfare to come under their control after Brexit. However, UK ministers were bidding to oversee those areas, and others on the list, when the UK left the EU.
 
 

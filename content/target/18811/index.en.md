@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lancaster University: 'Magna Carta and the Victorians', Professor Miles Taylor, 6 May 2015
-

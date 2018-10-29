@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# People's Record, The
-
 None

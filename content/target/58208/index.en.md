@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Facebook is making us unhealthy, claims new study 
-
 Metro article about Facebook and mental health 

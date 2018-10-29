@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Banda Bacana
-
 Banda Bacana is a North Wales based, 7 piece band drawing upon a wealth of varied and impressive musical backgrounds. Their music covers Latin grooves, Afrobeat and Caribbean rhythms to James Brown inspired funk. Each player can be able to play at least 2 instruments and have a wide range of different musical backgrounds from World, Rock, Folk, Latin, Jazz, Afro and Blues.

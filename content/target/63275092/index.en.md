@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Ceredigion Museum: The Museum Collection
-
 The Museum Collection contains a brief description of most of the displays in Ceredigion Museum.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband stands by claim over UK contribution to migrant crisis
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# firthworks
-
 This website has a splash page directing you to three different elements of the web site: Christine Firth Editorial Services, Rodger Firth's Inter Active Fiction and The Firth Genealogy page.

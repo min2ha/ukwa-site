@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport First 
-
 Sports First is a digital platform where you can get the stories behind the Scottish sporting structure. Sport First, previously sportscotland’s flagship print publication, is now an online content hub.

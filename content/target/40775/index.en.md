@@ -10,5 +10,3 @@
   "start_date": "2016-05-11T11:00:00Z"
 }
 
-# Parliamentary Business | Business Bulletin (beta) | Scottish Parliament
-

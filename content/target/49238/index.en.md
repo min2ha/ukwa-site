@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bathgate Thistle Community Football Club
-
 Site for a Scottish junior and community football club based in Bathgate, West Lothian.

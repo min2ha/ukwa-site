@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Home - Irish Council of Churches and Irish Inter Church Meeting
-

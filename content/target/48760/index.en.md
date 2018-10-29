@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Community Food Growers Network
-
 Community Food Growers Network is an informal network of people involved in community food growing in London. They share ideas, information and skills around the importance of growing food in the city, and campaign on issues important to us as food growers rooted in our local communities.

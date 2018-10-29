@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: New Brexit legal threat amid claims UK faces paying billions of pounds in damages to investors for leaving EU single market
-
 Lawyers warned that investors could make huge claims if UK left the single market. Damages could be due for breaches of bilateral treaties guaranteeing 'fairness'.

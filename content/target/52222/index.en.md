@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Martin's, Dorking
-
 St Martin’s has a long history – there have been several earlier churches on the site of the present building, and worship has been offered here during a period spanning many hundreds of years. As a parish church today it has a central place in the lives of its members and in the life of the town – it is a living centre for work, worship and prayer. 

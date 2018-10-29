@@ -10,5 +10,3 @@
   "start_date": "2016-01-09T09:00:00Z"
 }
 
-# Leiniau'r Cambrian | Cambrian Lines
-

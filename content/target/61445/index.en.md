@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ShoutoutUK: HeadTalks: A social media platform helping you fight mental health
-
 Article about HeadTalks, an initiate that aims to be an online resource for mental health

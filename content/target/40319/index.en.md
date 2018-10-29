@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Solicitor's Journal: British expats lose High Court Brexit vote case but seek leave to appeal
-
 Two million British expats living in Europe will not have a right to vote in the EU referendum, the High Court ruled.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Overnight firings and no such thing as unfair dismissal: what work will really look like if we leave the European Union
-

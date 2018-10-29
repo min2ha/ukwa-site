@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris says Corbyn's Brexit plan would leave Britain a 'colony of the EU', after the Labour leader says he wants to keep UK in a customs unions in major U-turn  
-

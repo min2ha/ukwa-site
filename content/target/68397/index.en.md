@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull FC (@hullfcofficial) on Twitter
-
 The official Twitter account of Hull Football Club. One of the oldest clubs in the league, Hull Football Club was formed in 1865 by a group of ex-public schoolboys. 

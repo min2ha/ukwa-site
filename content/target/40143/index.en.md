@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Corbyn must address working-class EU concerns, warns Frank Field
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Cardiff DIGS
-
 Cardiff Digs is a website run jointly by the Council and the three Universities to give students in Cardiff information and advice when moving into the local community. 

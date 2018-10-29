@@ -10,6 +10,4 @@
   "start_date": "2016-06-04T10:00:00Z"
 }
 
-# Association of Musical Marxists AMM
-
 The ASSOCIATION OF MUSICAL MARXISTS was founded by Andy Wilson and Ben Watson.  Site includes articles, book information, blogs, events listing.

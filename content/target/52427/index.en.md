@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Me and the Machine
-
 Me and the Machine makes multidisciplinary performances that combines everyday audiovisual media with text-based performance.

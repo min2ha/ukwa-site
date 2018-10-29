@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Scottish Railway Preservation Society 
-
 Site of a society collecting and preserving railway stock from the United Kingdom and once employed on Scottish railways, and its museum and railway lines.

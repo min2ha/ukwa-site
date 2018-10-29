@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ronnie Cowan on Facebook
-
 This is the Facebook page of Ronnie Cowan, the Scottish National Party (SNP) candidate for Inverclyde in the UK General Election on the 7th May 2015.

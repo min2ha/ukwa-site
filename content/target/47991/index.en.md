@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Ellie Harrison
-
 Personal website of artist Ellie Harrison. Founder of the Bring Back British Rail campaign and currently undertaking the controversial year-long project: The Glasgow Effect. This website also hosts the archive of previous websites.

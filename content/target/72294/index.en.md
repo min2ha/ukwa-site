@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: As French President Emmanuel Macron is accused of plotting to stop Brexit, DOMINIC SANDBROOK says it’s time to cut this Napoleon down to size
-
 Comments on France's constant hostility to the UK since World War II and how this manifested itself in President Macron's hardline stance on Brexit

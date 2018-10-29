@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Open Studios North Fife
-
 Site of an annual festival of art and design for professional artists and makers in North Fife, Scotland.

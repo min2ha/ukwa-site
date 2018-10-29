@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Socialist Party England and Wales
-
 The Socialist Party fights for socialism – a democratic society run for the needs of all and not the profits of a few. We also oppose every cut, fighting in our day-to-day campaigning for every possible improvement for working class people. The organised working class has the potential power to stop the cuts and transform society. The Socialist Party is part of the Committee for a Workers International (CWI), which fights for socialism in more than 45 countries worldwide.

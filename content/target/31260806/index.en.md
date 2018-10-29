@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Lot of Organics, A
-
 None

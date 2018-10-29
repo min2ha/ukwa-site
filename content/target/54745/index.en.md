@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Engineer, The
-
 News and comment about the engineering industry in the UK

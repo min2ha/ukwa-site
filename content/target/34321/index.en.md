@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joan McAlpine, your SNP MSP for the South of Scotland
-
 Joan McAlpine is Scottish National Party member of the Scottish Parliament for South Scotland.

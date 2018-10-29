@@ -10,5 +10,3 @@
   "start_date": "2015-09-22T12:00:00Z"
 }
 
-# Cadwch Gymru'n Daclus | Keep Wales Tidy
-

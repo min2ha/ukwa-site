@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories should be ashamed, says Miliband after Labour leader is accused of 'stabbing UK in the back' over nuclear deterrent 
-
 None

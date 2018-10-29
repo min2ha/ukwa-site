@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lewes Football Club (LFC)
-
 Lewes Football Club is a fan run football club. Lewes FC Women are paid the same wages as the men's team.

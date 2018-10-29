@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Home Affairs Committee: Home Office Delivery of Brexit: Immigration
-
 The Home Affairs Committee criticises the delays to the Immigration White Paper and warns of serious problems for immigration service delivery and border security after Brexit as a result of lack of decisions, proper planning or sufficient resources.

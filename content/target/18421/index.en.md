@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How many seats will Ukip win? Not as many as they should
-
 None

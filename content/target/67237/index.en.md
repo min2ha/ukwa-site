@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Siarad Iechyd | Talking Health 
-
 Siarad Iechyd / Talking Health provides local people with the opportunity to find out more about Health Board services.  The service is provided by Hywel Dda Health Board.

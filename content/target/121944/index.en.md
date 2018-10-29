@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# British Beer & Pub Association (BBPA)
-

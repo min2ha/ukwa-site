@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Mark Carney has debased himself by wading into the EU referendum
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# 220 Triathlon
-
 Online version of the magazine dedicated to triathlon.

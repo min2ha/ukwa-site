@@ -10,5 +10,3 @@
   "start_date": "2014-10-28T00:00:00Z"
 }
 
-# A Visitor's Guide To Jane Austen's England
-

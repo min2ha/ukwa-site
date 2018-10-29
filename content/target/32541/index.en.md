@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bruges Group, The
-
 The Bruges Group is a think tank that campaigns on issues relating to Britain’s membership of the European Union. The Group is opposed to European integration and enlargement of the Union. Their website provides information on events and publications of the Group.

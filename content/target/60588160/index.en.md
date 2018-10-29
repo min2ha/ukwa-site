@@ -10,8 +10,6 @@
   "start_date": "2016-10-04T12:00:00Z"
 }
 
-# Tilingsearch.org
-
 This database has three aims:
 Provide a comprehensive collection of high quality images of geometric tiling patterns;
 Provide a means of locating images by means of their geometric properties;

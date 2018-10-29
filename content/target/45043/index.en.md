@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Courier, The: Perth swimmer selected for Rio Olympics
-
 Local news article about Perthshire swimmers selected for the Rio 2016 OlympicsStephen Milne and Duncan Scott

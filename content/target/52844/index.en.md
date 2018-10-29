@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mineral Products Association: Brexit Priorities for the Mineral Products Industry
-
 The Mineral Products Association's priorities for the Brexit negotiations are to build confidence for investment, boost growth, maximise access to markets, maintain access to labour and skills, and maintain regulatory equivqlence 

@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Gaelic Society of Inverness on Facebook / Comunn Gàidhlig Inbhir Nis on Facebook
-
 Facebook page for the Inverness Gaelic Society, a society established for cultivating the language, poetry and music of the Scottish Highlands and generally furthering the interests of the Gaelic-speaking people.

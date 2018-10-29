@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# Radnorshire Marches On
-
 Radnorshire Marches On is a tourist information guide to Radnorshire.

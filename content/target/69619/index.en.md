@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Pathhead
-
 Site of a Scottish Roman Catholic parish church located in Pathhead, Midlothian.

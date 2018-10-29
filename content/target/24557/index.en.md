@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tony Blair says EU vote plan would cause economic chaos
-
 None

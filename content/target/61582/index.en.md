@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Churches in Fowlis, Liff, Lundie, Muirhead
-
 Site of a group of Church of Scotland parish churches covering the communities of Fowlis, Liff, Lundie and Muirhead, in Angus and  Dundee.

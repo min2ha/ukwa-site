@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# International Women's Month
-
 None

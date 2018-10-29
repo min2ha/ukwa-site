@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Phil Alder Artist
-
 Phil Alder is a practicing artist in west Wales. His work is represented in several public collections, private and corporate collections.

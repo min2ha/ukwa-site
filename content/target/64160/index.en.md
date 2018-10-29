@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Belfast Pride (@belfastpride) on Twitter
-
 One of Belfast's biggest festivals and Ireland's biggest LGBT festival

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls ridiculed for saying the Tories want to axe the Foreign Office
-
 None

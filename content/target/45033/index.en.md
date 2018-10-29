@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Callum Skinner
-
 Website of cyclist Callum Skinner.

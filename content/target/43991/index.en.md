@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Home of our Delight
-
 Home of our Delight is a Heritage Lottery Funded project exploring the impact of the First World War on the village of Mells, Somerset.

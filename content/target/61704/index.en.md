@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glenmuick Church
-
 Site of a Church of Scotland parish church at Ballater, Aberdeenshire.

@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Historic Farnborough
-
 None

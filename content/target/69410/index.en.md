@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Vincent de Paul East Kilbride
-
 Site of a Scottish Roman Catholic parish church located in East Kilbride, Lanarkshire.

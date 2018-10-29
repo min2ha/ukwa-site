@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Network of Christian Peace Organisations (NCPO) 
-
 The Network of Christian Peace Organisations (NCPO) is an ecumenical network committed to peace as central to the meaning of church community. We are a broad group of organisations in the Christian peace tradition committed to furthering peace and encouraging our churches to support the peace movement.

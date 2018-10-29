@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lanyon Bowdler Solicitors: Blog
-
 None

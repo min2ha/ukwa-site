@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martin Dobson (@MartinDobsonGP) on Twitter (Green Party candidate for Liverpool Riverside)
-

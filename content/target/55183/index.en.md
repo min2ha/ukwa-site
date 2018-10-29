@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Almost half of highly skilled EU workers 'could leave UK within five years'
-

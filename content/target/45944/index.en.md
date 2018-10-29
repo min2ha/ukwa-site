@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain needs a 'new deal' to bring divided country together after Brexit
-

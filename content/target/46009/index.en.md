@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Acton Scott
-
 The Acton Scott estate is in the Shropshire Hills Area of Outstanding Natural Beauty, offering a historic working farm and holiday accommodation.

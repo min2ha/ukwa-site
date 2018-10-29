@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Duncan Edwards Tribute, The 
-
 Duncan Edwards was a professional footballer who played for Manchester United and subsequently died in the Munich air crash in 1958. This website is a tribute to his memory.

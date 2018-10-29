@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Joanna Brown Trust, The 
-
 The aim of The Joanna Brown Trust is to encourage involvement in sport. To provide people with an opportunity to experience sport and excel in it.

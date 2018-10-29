@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Thirlestane Castle
-
 Site of an historic house now functioning as an events venue, and located at Lauder, Scottish Borders.

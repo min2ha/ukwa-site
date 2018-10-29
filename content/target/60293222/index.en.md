@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Prosiect Teliesyn
-
 <p>Prosiect Teliesin is an Aberystwyth Univesity Project that tells the story of the independent film and television company that produced hundreds of programmes for the BBC, S4C, Channel 4 and ITV between 1982 and 2002.</p>

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Hawkins Running
-
 An online coaching service developed by Team Scotland Commonwealth Games and Great Britain International endurance athletes Derek and Callum Hawkins

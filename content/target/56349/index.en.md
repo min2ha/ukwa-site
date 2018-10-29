@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Tales of Silk and Music: A festival of Indian dance at Devonshire Square
-

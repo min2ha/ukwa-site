@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# GMAC Film 
-
 Site of a Scottish charitable organisation working towards skills and talent development for independent filmmakers, young people and professionals working in film, whatever their background.

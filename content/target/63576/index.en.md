@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: The future UK-EU relationship
-
 In this third report of its overarching inquiry into the Article 50 negotiations, the Exiting the European Union Committee sets out key tests by which any deal agreed by October 2018 must be judged.
 

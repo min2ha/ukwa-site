@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Institute of Osteopathy, The
-
 The Institute of Osteopathy is the UK’s professional body for registered osteopaths.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Were (@ChristopherWere) on Twitter (Green Part candidate for Monmouth)
-
 PPC and Assembly candidate for the Wales Green Party in Monmouth.

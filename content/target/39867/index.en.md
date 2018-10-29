@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stirling Tories (@Stirling_CUA) on Twitter
-
 Twitter feed of the Stirling & Clackmannanshire Conservative & Unionist Association.

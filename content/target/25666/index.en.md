@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: EU response to migrant boat crisis would bring jihadis to UK
-
 None

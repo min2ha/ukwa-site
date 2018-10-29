@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Our Voices
-
 OurVoices was started to lift up the desire for action on climate change from the world’s people of faith. We have never been needed more.

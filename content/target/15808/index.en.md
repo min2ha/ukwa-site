@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T06:00:00Z"
 }
 
-# Chocolate Society, The
-
 <p>The Chocolate Society is a small artisan chocolate company based in England.</p>

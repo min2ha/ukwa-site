@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Lodge Robert Burns Initiated 1781
-
 Site of a masonic lodge located in Roseburn, Edinburgh and affiliated with the Grand Lodge of Scotland.

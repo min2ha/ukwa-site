@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Higher fuel bills, less renewables, an end to nuclear power: Brexit's energy shakeout
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archie Clegg (ArchieClegg) on Twitter
-
 Twitter account for Archie, a Scottie dog who took part in the opening ceremony of the XX Commonwealth Games.

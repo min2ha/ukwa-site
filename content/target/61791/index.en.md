@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Britain's Trading Future
-
 Speech delivered by Dr Liam Fox at Bloomberg in London outlining the government’s vision for the UK’s commercial future, and our leadership role in the global economy.
 

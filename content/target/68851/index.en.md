@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Swansea - Prosecco Festival
-
 Website for the Swansea - Prosecco Festival.

@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Friends of Treborth Botanic Garden | Cyfeillion Gardd Fotaneg Treborth
-
 The Friends of Treborth Botanic Garden was established in 1997 to provide support and help to the garden owned and managed by Bangor University.

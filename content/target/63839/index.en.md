@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's and St. George's West
-

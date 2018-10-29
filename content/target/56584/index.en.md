@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Derby Liberal Democrats
-
 A website with latest news and updates for the Derby Liberal Democrats

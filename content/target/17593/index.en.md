@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Just the job! More figures show economy steaming ahead
-
 None

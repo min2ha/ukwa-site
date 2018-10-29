@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Goodfellow Communicatons
-
 Goodfellow Communications is a friendly, expert and award-winning PR and communications agency. We specialise in architecture and the built environment, and are interested in many other things too.

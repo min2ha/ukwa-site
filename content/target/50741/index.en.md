@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Adrian Heathfield
-
 Adrian Heathfield writes on, curates and creates performance. 

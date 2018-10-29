@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: RIP Jo Cox. Let's call the referendum off as a mark of respect
-
 Article requesting to call of the EU referendum as a sign of respect for Jo Cox's death.

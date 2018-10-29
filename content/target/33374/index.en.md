@@ -10,5 +10,3 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Cyngor Cymuned Llanfihangel ar arth | Llanfihangel ar arth Community Council
-

@@ -10,6 +10,4 @@
   "start_date": "2007-07-03T00:00:00Z"
 }
 
-# Derek Brownlee : MSP for the South of Scotland
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Western Gaels GAC (@BristolGAA) on Twitter
-
 2016 County Champions Official account of Western Gaels GAC, Bristol-based mens and womens club. 20 time SFC winners. westerngaelsgac@yahoo.co.uk

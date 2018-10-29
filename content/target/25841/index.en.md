@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Not nice, not funny: the Krankie jibe against Nicola Sturgeon goes too far
-
 None

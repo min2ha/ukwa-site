@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-#  Festival No.6
-
 Website for the Festival No.6 festival, of music, arts and culture

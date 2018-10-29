@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West London Cancer Network 
-
 None

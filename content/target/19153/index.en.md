@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hull Daily Mail: David Starkey's Magna Carta – breathing new life into 800-year-old original 'Human Rights Act'
-

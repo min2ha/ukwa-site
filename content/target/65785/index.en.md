@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Edrington-Beam Suntory UK
-
 Edrington-Beam Suntory UK, previously known as Maxxium UK, is a seller and distributor of alcoholic beverages. Brands include blended whiskies such as The Famous Grouse, Teacher's, and Cutty Sark; malt whiskies such as Bowmore, Highland Park and Laphroaig; imported whiskies such as Jim Beam and Maker's Mark; cognacs such as Courvoisier; and flavoured liqueurs such as Sourz and Midori. The company is based in Stirling, Scotland.

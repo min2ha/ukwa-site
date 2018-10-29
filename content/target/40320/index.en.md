@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Morningside Community Council
-
 Site of the Community Council in the local area of Morningside, in South Edinburgh, Scotland, rund by local peopleaiming to protect aspects of local life that are worth preserving, and encourage developments of benefit to the community, with links to local amenity information. 

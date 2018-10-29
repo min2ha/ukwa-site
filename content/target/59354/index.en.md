@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Barnier suggests vote challenged European terror unity
-
 The UK failed to show solidarity with a Europe reeling from terror attacks when it voted for Brexit in 2016, the EU's chief negotiator suggested.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Elaine Morgan
-
 Elaine Morgan was a Welsh writer for television and the author of several books on evolutionary anthropology, especially the aquatic ape hypothesis.

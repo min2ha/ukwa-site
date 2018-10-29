@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: STEPHEN GLOVER: Cameron could scarcely have made a bigger hash of the EU vote if he'd tried   
-

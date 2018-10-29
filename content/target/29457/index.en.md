@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lincoln Book Festival
-
 Lincoln Book Festival Trust was established in 2012 to organise and manage the book festival to ensure the city continues to enjoy literary events.

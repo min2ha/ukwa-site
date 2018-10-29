@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# UK Polling Report
-
 Since 2005 the site has been run by Anthony Wells, a consumer and political analyst working for the well-known pollsters YouGov. This  is a widely-quoted blog in the world of politics.

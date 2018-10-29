@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Unite Magazine: Stephen Hawking
-
 New disability rights magazine, giving a voice to disabled people. An article relating to the death of Stephen Hawking.

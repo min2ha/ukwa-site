@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Strawberry Hill Residents’ Association
-
 Strawberry Hill Residents Association (SHRA) is a lively and busy organisation involved in many issues that affect the lives of local people. SHRA is non-political. The Association frequently meets local councillors, council officers and members of local groups to represent the views of residents.

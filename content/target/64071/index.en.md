@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Irish World Heritage (@IWHCmanchester) on Twitter
-
 Welcome to the Irish World Heritage Centre, Céad míle fáilte. We're a modern events venue with visitor facilities such as a bar and shop. (Tweets by SF)

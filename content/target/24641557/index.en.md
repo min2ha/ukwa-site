@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Bunzl plc
-
 Bunzl plc is a multinational distribution and outsourcing company. The company is primarily a distributor of a diverse range of non-food consumable products including food packaging, cleaning and hygiene supplies, personal protective equipment and carrier bags. Its customers include contract cleaners, retailers, catering firms and food processors. Bunzl has operations in 23 countries: almost half of its business is conducted in North America, with major operations in Europe as well as a smaller presence in Australasia and Brazil.

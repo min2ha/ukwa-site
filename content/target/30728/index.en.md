@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Cyfansoddwyr Cymru | Composers of Wales
-
 Composers of Wales is a professional association serving all composers of Wales, both professional and students, in all genres of music.

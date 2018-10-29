@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UNICEF UK (UNICEF_uk) on Twitter
-
 <p>The twitter profile for Unicef United Kingdom. UNICEF and the Commonwealth Games have combined to run the Put Children First campaign during the Games, raising funds to help children across the Commonwealth.</p>

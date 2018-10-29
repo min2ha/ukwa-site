@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Newspapers react to May's Commons defeat by Tory Brexit rebels
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Reading Sight
-
 None

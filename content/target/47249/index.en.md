@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Llandudno and Colwyn Bay History Society
-

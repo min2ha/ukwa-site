@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Famous Spiegeltent, The
-
 Australian caberet producers and major Edinburgh Fringe Festival venue.

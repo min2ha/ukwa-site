@@ -10,5 +10,3 @@
   "start_date": "2010-04-06T00:00:00Z"
 }
 
-# UK Fibromyalgia
-

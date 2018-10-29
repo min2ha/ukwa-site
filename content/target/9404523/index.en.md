@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Carolyn Trant & Parvenu Press
-
 None

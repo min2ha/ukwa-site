@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Puzzle Association Discussion forum for UK puzzlers
-
 An online enthusiast forum concerned with puzzles. Discusses puzzle competitions, puzzle tips and various other topics. The UKPA is the UK representative of the World Puzzle Federation.

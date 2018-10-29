@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Learning (@BL_Learning) on Twitter
-
 The British Library Learning Team shares news on our collections, events & online resources for teachers, students, adult learners & families

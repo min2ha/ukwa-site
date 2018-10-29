@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Libby Clegg (@LibbyClegg) on Twitter
-
 The twitter profile of althete Libby Clegg, Paralympic silver medalist, world champion sprinter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

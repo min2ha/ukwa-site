@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cheshire East Health and Wellbeing Board
-
 None

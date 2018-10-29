@@ -10,5 +10,3 @@
   "start_date": "2006-04-03T00:00:00Z"
 }
 
-# Welsh Literature Abroad - Llenyddiaeth Cymru Dramor
-

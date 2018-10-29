@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Laura Trott - Double Olympic Gold Medallist and Professional Cyclist
-
 The website of cyclist Laura Trott, member of Team England for the Glasgow 2014 Commonwealth Games.

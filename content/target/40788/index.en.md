@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Incredible Edible Durham City on Facebook
-
 Creating public edible landscapes in Durham

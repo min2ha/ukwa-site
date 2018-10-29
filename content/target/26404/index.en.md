@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: English nationalism is out of the bottle, whoever wins
-
 None

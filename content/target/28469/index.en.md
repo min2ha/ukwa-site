@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Shipping News, The
-
 Blog for the project Marine Lives.

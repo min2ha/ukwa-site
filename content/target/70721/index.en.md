@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Michel Barnier 'strongly opposed' to May's Brexit plan
-
 The EU's chief Brexit negotiator Michel Barnier said he was "strongly" opposed to key parts of Theresa May's proposals for a future trade deal. He said plans for a "common rulebook" for goods but not services were not in the EU's interests.
 
 

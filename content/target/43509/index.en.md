@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Property and Business Investment Show, The: Less than a Month until the EU Referendum and Nottingham Businesses have Made up their Minds
-
 The Property and Business Investment Show reporting on a debate that took place between Nottingham business leaders.

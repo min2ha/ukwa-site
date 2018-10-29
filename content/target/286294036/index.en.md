@@ -10,5 +10,3 @@
   "start_date": "2015-01-07T00:00:00Z"
 }
 
-# World War II unit histories & officers
-

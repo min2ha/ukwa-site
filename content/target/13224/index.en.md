@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Largs and Millport Weekly News 
-

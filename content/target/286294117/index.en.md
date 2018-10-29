@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# q poetics
-
 <p>Poet Skye Loneragan will be performing in queues and other public places. Part of the Glasgow 2014 Cultural Programme.</p>

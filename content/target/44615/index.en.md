@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Patient Information Forum (PIF)
-
 The Patient Information Forum (PIF) is the UK membership organisation and network for people working in, and involved with, healthcare information and support. PIF is an independent and not-for-profit organisation.

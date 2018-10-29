@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Leah Ganley (@voteLeahGanley) on Twitter
-
 Twitter profile of Leah Ganley, the Scottish Trade Unionist and Socialist Coalition candidate for Dundee City East in the 2016 Scottish Parliamentary election.

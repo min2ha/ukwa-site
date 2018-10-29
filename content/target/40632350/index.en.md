@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ealing Liberal Democrats
-
 Website of Ealing Liberal Democrats focusing heavily on local and London issues and news

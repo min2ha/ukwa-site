@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wayne David, Member of Parliament for Caerphilly
-

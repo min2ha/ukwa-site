@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Tower Truth (@GrenfellTruth) on Twitter
-
 One of many Twitter accounts that was set up after the Grenfell Tower fire on 14/06/2017.

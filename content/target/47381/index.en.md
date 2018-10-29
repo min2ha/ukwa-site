@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# North Carr Lightship
-
 Site of a preserved form lightship moored in Dundee and acting a museum.

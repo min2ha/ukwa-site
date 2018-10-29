@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glenda Davies on Facebook (UKIP candidate for Ogmore)
-

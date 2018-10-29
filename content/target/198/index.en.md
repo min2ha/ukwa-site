@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stockport NHS Foundation Trust
-
 None

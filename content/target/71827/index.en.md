@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Malvern Festival of Innovation
-
 A festival to showcase social, technical and business innovation in one instance that was open for all in the UK

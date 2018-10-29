@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May 'acting like Tudor monarch' by denying MPs a Brexit vote
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# DeHavilland: Blog
-
 Political blog

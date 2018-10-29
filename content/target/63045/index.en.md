@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian: Owen Smith calls for referendum on final Brexit deal
-
 Owen Smith broke ranks with Jeremy Corbyn to reopen the question of whether Brexit is “the right choice for the country”, and urge Labour to offer the public a referendum on the final deal.
 

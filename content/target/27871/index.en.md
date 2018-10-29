@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Good Energy
-
 A South West Company based in Wiltshire. The first dedicated 100% renewable electricity supplier.

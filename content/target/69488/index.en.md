@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Teresa's Parish Community Website
-
 Site of a Scottish Roman Catholic parish church located in Dumfries, Dumfries & Galloway, incorporating the parish church of St. Conal's, Kirkconnel.

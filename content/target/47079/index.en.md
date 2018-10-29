@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Strathmore Rugby Football Club
-
 Pitch Hero site of a Rugby football club and its sub group the Rugby league club Strathmore Silverbacks.

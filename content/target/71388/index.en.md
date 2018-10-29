@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# V&A Dundee: Lorraine Kelly excited that ‘the world is talking about Dundee…but I don’t like that office block’
-
  Article about the opening of the V&A Dundee. 

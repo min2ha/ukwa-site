@@ -10,6 +10,4 @@
   "start_date": "2013-10-10T00:00:00Z"
 }
 
-# Bingham Heritage Trails Association
-
 <p>Website of amateur research-based local historical and archaeological society in Nottinghamshire.</p>

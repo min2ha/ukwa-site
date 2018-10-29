@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Bowel Cancer Wales
-
 Bowel Cancer Wales is an organisation which is actively campaigning to lower the bowel cancer screening age to 50 years, as is the case in Scotland.

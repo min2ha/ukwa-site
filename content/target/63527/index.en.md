@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Swci Bocsawen: the official website of the Welsh songstress swci
-
 This is the official website of the Welsh songstress swci, a songstress from Carmarthen and once voted BBC Wales Female Artist of the Year in the Radio Cymru awards.

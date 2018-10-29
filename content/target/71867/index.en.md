@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 10th September 2018: Legislating for the Withdrawal Agreement
-
 MPs participate in a debate on "legislating for the Withdrawal Agreement" covering how the Government will put any Withdrawal Agreement reached with the EU into domestic law through a Withdrawal Agreement and Implementation Bill.
 

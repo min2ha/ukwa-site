@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Research Autism
-
 Autism is a condition that affects how a person communicates with, and relates to, other people. It also affects how they make sense of the world around them.

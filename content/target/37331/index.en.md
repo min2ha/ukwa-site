@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post: Nicola Sturgeon Denies She Has 'Machiavellian' Wish For Brexit In Order To Engineer Scottish Independence
-
 Huffington Post: a news and commentary website

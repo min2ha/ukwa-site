@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Canolfan Ymchwil Heneiddio a Dementia |  Centre for Ageing and Demenstia Research 
-
 The Centre for Ageing and Dementia Research (CADR) is a world class research centre addressing key internationally important questions in ageing and dementia and is based at Swansea University.

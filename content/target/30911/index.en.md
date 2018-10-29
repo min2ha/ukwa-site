@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Bike Park Wales
-
 Bike Park Wales is the UK’s first full scale mountain bike park. It is located near Merthyr Tydfil.

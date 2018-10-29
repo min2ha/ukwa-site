@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip target seats: The ten constituencies that could cost David Cameron a second term as Prime Minister
-
 None

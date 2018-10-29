@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Kenny (@paul_r_kenny  ) on Twitter (Labour Politician)
-
 Paul Kenny stood as Labour candidate for Boston & Skegness at the 2017 General Election but was not elected.

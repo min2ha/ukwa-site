@@ -10,6 +10,4 @@
   "start_date": "2007-04-04T00:00:00Z"
 }
 
-# Wellcome Collection Conference Centre
-
 The Conference Centre is an impressive events space offered as part of Wellcome Collection, the new and unique public venue on Euston Road, London.

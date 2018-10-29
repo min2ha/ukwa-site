@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron and Nick Clegg a flop when it comes to finding female candidiates
-
 None

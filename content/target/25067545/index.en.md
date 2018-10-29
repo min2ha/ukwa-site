@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Hammerson plc
-
 Hammerson plc is a major British property development and investment company. The majority of Hammerson's portfolio is in the United Kingdom, but is also operates in continental Europe, including operations in France, Ireland Spain and Germany. It invests mainly in offices and retail premises.

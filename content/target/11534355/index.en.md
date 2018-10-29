@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Original Cornish Heritage, The
-
 None

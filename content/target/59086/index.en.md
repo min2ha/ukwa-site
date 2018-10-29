@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Ireland demands border promise before Brexit trade talks
-
 The Irish government said Brexit trade deal talks should not proceed until there was a firm commitment to preventing a "hard" Irish border. Taoiseach (Irish Prime Minister) Leo Varadkar said the assurance must be written down before the talks could move on.

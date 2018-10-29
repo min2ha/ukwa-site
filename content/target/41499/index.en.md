@@ -10,5 +10,3 @@
   "start_date": "2016-05-24T11:00:00Z"
 }
 
-# Cyngor Cymuned Glyntraian | Glyntraian Community Council
-

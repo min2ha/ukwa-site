@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Cameron takes swipe at 'consummate politician, not ordinary bloke' Farage
-
 None

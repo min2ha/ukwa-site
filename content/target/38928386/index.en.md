@@ -10,5 +10,3 @@
   "start_date": "2010-03-29T00:00:00Z"
 }
 
-# Lancaster ED627 of 207 Squadron RAF
-

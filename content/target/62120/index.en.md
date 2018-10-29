@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "Student records recovery from anorexia on Instagram to inspire body confidence"
-
 News article about anorexia, Instagram and body confidence

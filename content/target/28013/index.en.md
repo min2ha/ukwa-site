@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Birmingham Comedy Festival
-
 Website for the Birmingham Comedy Festival.

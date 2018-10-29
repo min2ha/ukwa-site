@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# MusicHub | Newly composed traditional music from Scotland
-
 MusicHub was started in 2015 and exists to showcase new tunes written in the Scottish tradition.

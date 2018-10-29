@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Carrie Etter
-
 Blog of Carrie Etter, an American poet, teacher and critic living in Bath.

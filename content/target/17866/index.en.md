@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage is all set for Westminster as he surges to 11-point poll lead
-
 None

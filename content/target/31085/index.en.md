@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Marfan Trust
-
 Marfan Trust is a UK charity supporting people with Marfan syndrome.

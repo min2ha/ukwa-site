@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Social media is making us depressed: let's learn to turn it off
-
 Independent article about social media and depression 

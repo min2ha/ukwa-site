@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Antislavery Usable Past
-
 Over the past 15 years, a growing antislavery movement has achieved many successes, including new legislation, a number of prosecutions, changes to company supply-chains, and increased public awareness. This AHRC-funded project (total value £1.84 million) translates the lessons of historic abolitionism for contemporary use - providing this movement with a usable past of antislavery examples and methods.

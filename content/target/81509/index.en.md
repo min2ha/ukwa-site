@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Caerleon Ministry Area
-
 Four churches which together make the Caerleon Ministry Area – they are Caerleon, Llanfrechfa, Llanhennock and Llandegfedd.

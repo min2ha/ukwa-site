@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Coastal Voices
-
 Coastal Voices is a local, acapella, mixed choir based in Abergele, North Wales.

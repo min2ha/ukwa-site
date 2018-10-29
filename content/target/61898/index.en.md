@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lothian Derby Dolls
-
 Site of a skating roller derby league based in the Lothians (Easl, Mid- and West).

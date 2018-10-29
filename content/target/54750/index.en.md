@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# DF Concerts & Events
-
 Site of a company that promotes and manages events, music festivals and concerts.

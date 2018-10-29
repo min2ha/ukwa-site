@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Brockenhurst - A WWI Hospital Village
-
 Project is to widen knowledge and understanding of Brokenhurst by creating a memorial walk.

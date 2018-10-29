@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Muslim Council of Scotland: News
-
 The Muslim Council of Scotland (MCS) is an umbrella organisation of Islamic organisations in Scotland. Founded in 2007, the registered charity is based in Glasgow.

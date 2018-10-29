@@ -10,6 +10,4 @@
   "start_date": "2007-07-09T00:00:00Z"
 }
 
-# Wellcome Trust Case Control Consortium
-
 The Wellcome Trust Case Control Consortium (WTCCC) is a collaboration of 24 leading human geneticists, who will analyse thousands of DNA samples from patients suffering with different diseases to identify common genetic variations for each condition. 

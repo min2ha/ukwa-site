@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# 2 Pins Community : Pinmore & Pinwherry 
-
 Community wesbite for the villages of Pinmore and Pinwherry, South Ayrshire.

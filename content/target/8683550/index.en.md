@@ -10,5 +10,3 @@
   "start_date": "2008-06-26T00:00:00Z"
 }
 
-# Wild Meadows
-

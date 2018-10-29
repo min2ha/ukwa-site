@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Dundee Roller Girls of Facebook
-
 Facebook page for a skating roller derby team based in Dundee.

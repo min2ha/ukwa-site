@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Celtic Circle: A Guided Trail Around - Eight Centuries Of Anglesey Churches
-

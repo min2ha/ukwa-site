@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Animal Welfare Party (@AnimalsCount) on Twitter
-
 Animal Welfare Party (AWP) is a minor political party in the United Kingdom campaigning on an animal rights, environment and health platform. 

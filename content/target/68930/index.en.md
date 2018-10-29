@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Family Rights Group: Fathers Matter
-
 A project researching the experiences of fathers whose children are involved with Children’s Services

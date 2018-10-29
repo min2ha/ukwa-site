@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# WorkingForScotland (workforscotland) on Twitter
-

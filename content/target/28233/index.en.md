@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Celfyddydau Rhyngwladol Cymru | Wales Arts International
-
 Wales Arts International fosters international artistic excellence in Wales and ensures international impact and recognition for the arts and culture of Wales.

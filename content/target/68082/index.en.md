@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# The Organic Research Centre (ORC)
-
 The Organic Research Centre (ORC) is the UK’s leading independent research centre for the development of organic/agroecological food production and land management solutions to key global issues including climate change, soil and biodiversity conservation, and food security.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Philosophy 24/7
-
 Philosophy 24/7 by David Edmonds is a podcast show that interviews leading philosophers about moral issues that effect people all the time.

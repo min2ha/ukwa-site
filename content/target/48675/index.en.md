@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# The 3 million
-
 the3million is a not for profit group and support network  which campaigns to preserve the rights of EU citizens in the UK and British citizens in Europe after Brexit.
  
 It takes its name from the estimated number of EU citizens who moved from another member state and live and work, and have generally established their life in the UK, many for a very long time.

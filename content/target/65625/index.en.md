@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Community Digital archiving
-
 Online community archive for Assynt, Sutherland, Highlands.

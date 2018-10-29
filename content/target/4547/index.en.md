@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC Radio 2, Pause for Thought: John Sentamu, archbishop of York
-
 <p>The reflection by John Sentamu, archbishop of York, on BBC Radio 2's Pause for Thought, Friday 6 December 2013.</p>

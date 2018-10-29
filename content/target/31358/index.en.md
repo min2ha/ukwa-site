@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# PC Mag UK
-
 PC Mag UK is an online magazine about technology, computers, cameras, etc. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kevin Gore (@AliveAndFolkin) on Twitter
-
 Twitter profile of Kevin Gore, Solidarity Scotland candidate for the Lothian regional list in the 2016 Scottish Parliament election.

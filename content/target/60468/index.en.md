@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Solidarity With The People Of Turkey (SPOT)
-
 SPOT, Solidarity with the People of Turkey, was formed shortly after the Gezi uprising summer of 2013. It aims to campaign against corruption and the abuse of human rights in Turkey. The SPOT platform also aims to contribute to the working people's struggle in the UK by forming a bridge between Turkish speaking communities living in the UK and the local work force in the country.

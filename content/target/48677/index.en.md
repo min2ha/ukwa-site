@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Kennoway Star Hearts Junior Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Kennoway, Fife, Scotland.

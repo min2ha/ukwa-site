@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church, Kincardine O'Neil
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kincardine O'Neil, near Aboyne, Aberdeenshire.

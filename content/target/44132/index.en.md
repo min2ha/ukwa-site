@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit – now!
-
 An article calling on British politicians to enact Article 50 and start the process of leaving the EU immediately. 

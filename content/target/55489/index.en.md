@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Newport Playgoers Society
-
 Newport Playgoers Society own the Dolman Theatre in Newport in South Wales. This blog provides news and views from the Playgoers Society.

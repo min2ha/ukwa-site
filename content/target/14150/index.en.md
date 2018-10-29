@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Royal United Services Institute: Relocation, relocation, relocation: Could the UK's Nuclear Force be Moved after Scottish Independence 
-
 <p>Report written by Hugh Chalmers and Malcolm Chalmers on the feasibility and costs of moving the UK's nuclear forces from Scotland.</p>

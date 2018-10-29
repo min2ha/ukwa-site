@@ -10,5 +10,3 @@
   "start_date": "2006-06-13T23:00:00Z"
 }
 
-# Cardiff School of Engineering: Wolfson Centre for Magnetics
-

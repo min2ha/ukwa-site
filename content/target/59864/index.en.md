@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: December 18th 2017: European Council
-
 The Prime Minister makes a statement to Parliament on the progress of the Brexit negotiations. She announces that the European Council had formally agreed that sufficient progress has been made to move on to the second stage of the negotiations. This means that talks on the transitional or implementation period can begin soon.
 

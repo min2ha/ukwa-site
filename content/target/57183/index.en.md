@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Radio Bronglais (RB FM) 
-
 Radio Bronglais FM is the local hospital radio for Bronglais General Hospital in Aberystwyth

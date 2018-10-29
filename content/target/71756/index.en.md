@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leek Rugby Club on Pitchero
-
 The official website of Leek Rugby Football Club.

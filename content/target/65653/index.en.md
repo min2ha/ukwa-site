@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# A.G. Barr plc
-
 A.G. Barr plc, commonly known as Barr's, is a soft drink manufacturer. Brands owned, bottled or distributed by the company include popular Scottish drink Irn-Bru, Bundaberg ginger beer, Rockstar energy drinks, Rubicon and Strathmore spring water.

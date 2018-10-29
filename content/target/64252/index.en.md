@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Britain for Europe
-
 Britain for Europe is a non-party political, UK-wide organisation that is campaigning for continued UK membership of the EU

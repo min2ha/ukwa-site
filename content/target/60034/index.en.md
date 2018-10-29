@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women in Football 
-
 Women in Football are a network of professional women working in and around the football industry who support and champion their peers.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Activists Rising Against Cuts: Press Release; BMElawyers4Justice Launch; Windrush 11 point plan
-
 A report on the press release from BMELawyers4Justice (formerly BMELawyers4Grenfell) on what action they will take on the current Windrush scandal.

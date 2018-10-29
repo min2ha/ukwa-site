@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jay Risbridger, Liberal Democrat on Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# London School of Economics and Political Science: Euro Crisis in the Press: How the General Election 2017 Campaign is Shaping Up on Twitter
-
 This post presents an analysis of the use of Twitter by candidates at the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Society for Editors and Proofreaders (SfEP)
-
 The Society for Editors and Proofreaders (SfEP) is a professional organisation based in the UK for editors and proofreaders.

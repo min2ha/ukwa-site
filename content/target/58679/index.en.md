@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Oban Celtic Shinty Club on Facebook
-
 Facebook page for a shinty club based in Argyll & Bute.

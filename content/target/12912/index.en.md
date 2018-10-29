@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scotsman, The: Glasgow stamps mark on Commonwealth Games
-
 <p>Article on the opening ceremony from the Scotsman newspaper by Martyn McLaughin.</p>

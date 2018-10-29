@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Matthew World Champion Squash Player
-
 <p>Website of Nick Mathhew, squash player and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

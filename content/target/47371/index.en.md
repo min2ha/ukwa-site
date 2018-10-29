@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Banchory St Ternan Football Club
-
 Site of a Scottish junior football club based in the town of Banchory, Aberdeenshire.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Arts & Humanities Research Council: Making History: Magna Carta manuscripts on display
-

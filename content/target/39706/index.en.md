@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Living Rent Campaign on Facebook
-
 Facebook page of Living Rent, Scotland's tenants' union.

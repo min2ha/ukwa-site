@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:10.637636", 
+  "date": "2018-10-29T13:22:17.537648", 
   "open_access": false, 
   "target_url": "http://www.ucl.ac.uk/clues/", 
   "description": null, 
   "end_date": null, 
   "title": "Challenging Lock-in through Urban Energy Systems (CLUES)", 
-  "record_id": "20181029T125510/hwN/VAmQUjGsqMaDghVwLQ==", 
+  "record_id": "20181029T132217/hwN/VAmQUjGsqMaDghVwLQ==", 
   "publisher": "ucl.ac.uk", 
   "start_date": null
 }
-
-# Challenging Lock-in through Urban Energy Systems (CLUES)
 
 None

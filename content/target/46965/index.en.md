@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Football League, The
-

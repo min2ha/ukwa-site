@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Anne McTaggart MSP (AnMcTMSP) on Twitter
-
 The Twitter profile of Anne McTaggart, Scottish Labour candidate for the Glasgow list in the 2016 Scottish Parliament election.

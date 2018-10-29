@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# 3 Harbours Arts Festival
-
 Site for a local arts festival located in East Lothian, Scotland, in the three harbour towns Prestonpans, Cockenzie and Port Seton.

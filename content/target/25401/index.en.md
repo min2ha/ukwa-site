@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: Michael Fallon has demeaned himself and his office – video
-
 None

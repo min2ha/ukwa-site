@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Daniele Sambo
-
 Site of an Italian artistic photographer based in Glasgow.

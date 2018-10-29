@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mayor of London: Mayor puts London’s security at the heart of Brexit negotiations
-
 The Mayor of London, Sadiq Khan, put London’s security at the heart of his demand for a seat at the negotiating table as the UK draws up terms for its departure from the European Union

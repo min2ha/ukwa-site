@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Trade unions: in the next five years we have to unite like never before
-
 None

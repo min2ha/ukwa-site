@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Maelog's Church, Llanfaelog
-

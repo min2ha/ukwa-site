@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cross-Party Group on Nuclear Disarmament
-
 Scottish Parliament Cross-Party Group on Nuclear Disarmament

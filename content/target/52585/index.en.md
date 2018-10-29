@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Llangefni Town FC | Clwb Pêl-droed Llangefni
-

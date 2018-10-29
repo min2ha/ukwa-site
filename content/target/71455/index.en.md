@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James & St. Philip's Churches, Stonehaven and Catterline
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Aberdeenshire.

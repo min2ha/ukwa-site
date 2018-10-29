@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stand Up For Town (@StandUpForTown) on Twitter
-
 Joint campaign by @OfficialHTSA and @CowshedLoyal to bring #safestanding to Huddersfield Town at the John Smith's Stadium.

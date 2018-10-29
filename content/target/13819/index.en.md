@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Nigel Anthony (nigelsanthony) on Twitter
-
 <p>The twitter profile of Nigel Anthony, Research and Engagement Officer for Better Together.</p>

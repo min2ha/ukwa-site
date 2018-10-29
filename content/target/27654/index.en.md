@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage's leadership should be put to a vote, says former adviser 
-
 None

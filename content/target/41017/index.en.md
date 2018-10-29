@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Roll of Honour - Hastings, St Leonards, Battle, Ore
-

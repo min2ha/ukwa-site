@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: What would happen to EU nationals living or planning to visit or live in the UK after a UK exit from the EU? 
-
  Reflects on what life would be like after an exit for the 2.3 million EU citizens already living in the UK and for those who might wish to come in future. 

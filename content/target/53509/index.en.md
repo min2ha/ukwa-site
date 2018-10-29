@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Claire-Louise Leyland (@ClaireLLeyland ) on Twitter (Conservative Politician)
-
 Claire-Louise Leyland  stood as Conservative candidate for Hampstead and Kilburn at the 2017 General Election but was not elected.

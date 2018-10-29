@@ -10,5 +10,3 @@
   "start_date": "2016-03-24T16:00:00Z"
 }
 
-# David Cowan (@stvdavidc) on Twitter
-

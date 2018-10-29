@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Pontyclun Masonic Hall
-
 This is a brief introduction to Pontyclun Masonic Hall and provides a short history to the Lodges in the Pontyclun area.

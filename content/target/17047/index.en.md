@@ -10,6 +10,4 @@
   "start_date": "2015-03-04T09:00:00Z"
 }
 
-# To Improve the Academy: A Journal of Educational Development
-
 e-journal published by Wiley Online Library

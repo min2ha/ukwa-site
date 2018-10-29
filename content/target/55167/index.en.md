@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Edinburgh Campaign for Nuclear Disarmament
-
 Site of a local branch of the Scottish Campaign for Nuclear Disarmament, based in Edinburgh.

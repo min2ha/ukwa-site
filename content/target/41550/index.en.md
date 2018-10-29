@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Buchan Heritage Society
-
 Site of a society promoting and performing traditional music, song, verse, drama and dance relating to the area of Buchan, Aberdeenshire.

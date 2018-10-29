@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Constitutional Law Association: Privacy, Surveillance and Brexit
-
 The dangerous situation of British privacy laws and the stabler framework offered by the EU

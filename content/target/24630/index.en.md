@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory plan for more paid holidays is a Labour-style blunder
-
 None

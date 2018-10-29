@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindfield Life
-
 Lindfield Life is a free monthly magazine. Lindfield is a village and civil parish in the Mid Sussex District of West Sussex, England. 

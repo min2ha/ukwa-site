@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Fair Funding Wales | Ariannu Teg Cymru
-
 Fair Funding Wales is a coalition of organisations, trade unions, individuals and communities of interest campaigning for a needs-based settlement for Wales. The coalition includes Unit, Fire Brigade Union, Unison and PCS.

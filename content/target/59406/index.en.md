@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Welcome to Walkerburn
-
 Site of the community of Walkerburn, Scottish Borders, their community council, development trust and directory of local sevices, amenities and societies and groups.

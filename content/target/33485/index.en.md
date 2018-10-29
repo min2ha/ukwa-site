@@ -10,5 +10,3 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Lodge Craigielea 1218
-

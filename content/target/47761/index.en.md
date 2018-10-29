@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Class War: Rent Strike Action
-
 Started in 1982 CLASS WAR was first a combative, funny, populist anarchist newspaper and now is a similar political organisation.

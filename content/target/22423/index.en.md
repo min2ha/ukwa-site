@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Theresa May tells Islamist extremists: 'The game is up'
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Liverpool Greens announce candidates
-
 Liverpool Greens are very pleased to announce our candidates in the forthcoming General Election on 8th June

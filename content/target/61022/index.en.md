@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sean McDermotts GAA (@SeanMcDermotts1) on Twitter
-
 Successful GAA club; underage, ladies, reserve and senior. New players welcome. Strong social side, win together, party together!

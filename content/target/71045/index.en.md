@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Warwick Pride, University of Warwick Student Union LGBTUA+ Society
-
 The University of Warwick Students’ Union society for Lesbian, Gay, Bi+, Trans*, Undefined and Asexual students and their friends.

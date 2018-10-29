@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ben Macpherson (@BenMacpherson) on Twitter
-
 The Twitter profile of Ben Macpherson, the Scottish National Party MSP for Edinburgh Northern and Leith.

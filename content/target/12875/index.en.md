@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Adam Roberts
-
 <p>Website and blog of the British science fiction writer Adam Roberts.</p>

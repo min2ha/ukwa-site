@@ -10,5 +10,3 @@
   "start_date": "2010-07-14T00:00:00Z"
 }
 
-# National Genetics Reference Laboratory Manchester (NGRL)
-

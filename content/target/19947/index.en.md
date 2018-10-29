@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Pirate Party Wales
-
 The Pirate Party Wales branch is part of the Pirate Party UK; a democratic political party built on grassroots support and the work of volunteers. They stand for Digital Rights, Civil Liberties and a politics fit for the 21st Century. 

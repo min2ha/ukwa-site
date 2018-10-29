@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Editors’ Code of Practice Committee
-
 The Editors’ Code of Practice sets out the rules for self-regulation of the press, and which are used by the Press Complaints Committee to adjudicate on complaints. The website provides more information about the committee, alongside the code and code-book in full, with updates and press releases.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Burntisland Sailing Club
-
 Site of a saling club based in Burntisland, Fife.

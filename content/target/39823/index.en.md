@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP South Ayrshire (@snpayr) on Twitter 
-
 Twitter profile of the South Ayrshire branch of the Scottish National Party (SNP).

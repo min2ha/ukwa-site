@@ -10,5 +10,3 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Hector MacInnes
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Eventbrite: Upfront and Onside: The Women's Football Conference
-
 As part of the Hidden Histories project, funded by the Arts Council, the National Football Museum hosted a conference on the history and heritage of women’s football. Coinciding with International Women's Day on 8 March 2018.

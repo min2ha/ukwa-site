@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# Project Myopia
-
 Project Myopia connects "globally disparate people with concerns about education reform".

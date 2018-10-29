@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# ARK - Access Research Knowledge
-
 ARK - Access, Research, Knowledge is a joint resource between the two Northern Ireland universities (University of Ulster and Queen's University Belfast). It was established in 2000. ARK has a single goal: to make social science information on Northern Ireland available to the widest possible audience. 

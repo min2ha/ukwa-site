@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Nicola Sturgeon hits out at 'dirty tricks'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# English Civil War Society
-
 The English Civil War Society aims to stimulate interest in the authentic re-creation of seventeenth century military and civil life 

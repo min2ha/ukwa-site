@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Hackney Independent
-
 Blog-style site dating back to June 1999 focusing on radical and community action in Hackney and Shoreditch around housing, policing and a broad range of political issues.

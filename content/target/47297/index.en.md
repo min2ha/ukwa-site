@@ -10,6 +10,4 @@
   "start_date": "2016-11-23T09:00:00Z"
 }
 
-# Conwy Ifanc | Young Conwy
-
 Young Conwy is run by Conwy Youth Service.

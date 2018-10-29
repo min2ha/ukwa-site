@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# AWG (@AWGymreig) on Twitter
-
 This is the Welsh language twitter feed of the Welsh Political Archive at the National Library of Wales.

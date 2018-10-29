@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Teddington People
-
 None

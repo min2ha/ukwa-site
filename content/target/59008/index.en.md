@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Bigg Bird Forums
-
 A 'family friendly' online enthusiast community concerned with bird watching. Discusses Birds in your Garden, Wild Birds and Nature, and various other related topics.

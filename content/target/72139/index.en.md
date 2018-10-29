@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Holbrook RFC on Pitchero
-
 The official website of Holbrook Rugby Football Club.

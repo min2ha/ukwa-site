@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# EducationCity: Computing Activities
-
 IT educational materials.

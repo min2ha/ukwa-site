@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Fellowship of Reconciliation Scotland
-
 Site of an organisation engaged in the quest for international justice and peace.

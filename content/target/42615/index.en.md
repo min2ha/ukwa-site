@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave Alliance, The (@LeaveHQ ) on Twitter
-
 Making the progressive case for leaving the EU

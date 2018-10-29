@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Visit Jersey
-
 The Official Tourist Information site to find & book accommodation and find things to do and see in Jersey.

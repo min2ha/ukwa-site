@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tranmere Rovers Official Supporters Club
-
 The official Tranmere Rovers Official Supporters Club.

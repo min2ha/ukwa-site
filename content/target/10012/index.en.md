@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Pirate Party (@PiratePartyUK) on Twitter
-
 Fighting for our rights: Privacy, free culture, net neutrality, freedom of information, open democracy. 

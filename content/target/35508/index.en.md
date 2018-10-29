@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Patrick McAleer (@trumptonauld) on Twitter
-
 The Twitter profile of Patrick McAleer, Scottish Green Party candidate for Glasgow in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Gwenfrewi Project, The
-
 The Gwenfrewi Project is an experimental creative studio for music photography and art. It is based in the historic site of the former St Winifreds Church, Gwytherin, north Wales and is  unique wedding venue.

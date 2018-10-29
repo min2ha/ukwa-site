@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# North Wales Jamaica Society | Cymdeithas Jamaica Gogledd Cymru
-

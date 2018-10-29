@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson: UK should reject 'Brexit cash bill'
-
 Boris Johnson told the BBC that Britain should reject any EU demands for a £50bn "exit bill" and follow the example of former PM Margaret Thatcher.

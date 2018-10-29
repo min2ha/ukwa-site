@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Gazette: Politics
-
 Islington Gazette politics section, Islington is where Labour Party Leader Jeremy Corbyn is the Islington North MP.

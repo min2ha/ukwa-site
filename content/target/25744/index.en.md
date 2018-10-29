@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Attack of the clones: how spads took over British politics
-
 None

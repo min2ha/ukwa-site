@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Braemar Castle
-
 Site of a historic castle and visitor attraction located at Braemar, Aberdeenshire, Scotland.

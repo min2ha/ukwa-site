@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carnwadric Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Carnwadric, Glasgow.

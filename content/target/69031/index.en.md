@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Priory Singers
-
 The Priory Singers is a 24 strong choir based in Newport, South Wales.

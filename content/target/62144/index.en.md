@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Free treats for students who put down phones
-
 News article about a new app that encourages students to use thier smart phones less by rewarding them with points to exchange for services and goods

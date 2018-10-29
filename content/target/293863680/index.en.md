@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Just The Tonic Edinburgh 2015 Blog
-
 Just The Tonic, a comedy venue hosting acts at the 2015 Edinburgh Fringe.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Young, Liberal Democrat
-
 Chris Young is the Scottish Liberal Democrats candidate for the Glasgow list in the 2016 Scottish Parliament election.

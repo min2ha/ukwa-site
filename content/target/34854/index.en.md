@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Student Arts Festival (ESAF)
-

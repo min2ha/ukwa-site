@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# European Championships: Glasgow 2018
-
 Site of a multi-sport event bringing together some of the continent’s leading sports including the existing European Championships for Athletics, Aquatics, Cycling, Gymnastics, Rowing and Triathlon with a new Golf Team Championships, based in Glasgow and Berlin.

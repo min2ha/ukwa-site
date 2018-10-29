@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour to consider fewer Trident nuclear submarines
-
 None

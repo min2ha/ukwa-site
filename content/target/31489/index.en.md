@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Sumo Digital
-
 Sumo Digital is a game development studio based in Sheffield, UK.

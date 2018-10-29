@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Bridgend Tabernacl Choir
-
 Tabernacl Choir was formed in 1990. The choir is associared with the Tabernacl Chapel, Derwen Road, Bridgend.

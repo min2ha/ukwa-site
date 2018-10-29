@@ -10,8 +10,6 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# British Association of Critical Care Nurses (BACCN)
-
 The British Association of Critical Care Nurses (BACCN) is a non-profit organisations in critical care nursing.
 
 BACCN was established in 1985 and has grown and developed through the hard work and dedication of its members, regional committees and National Board. 

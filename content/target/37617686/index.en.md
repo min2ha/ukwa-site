@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# House Magazine, The
-

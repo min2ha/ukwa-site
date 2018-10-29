@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Society Foundation
-
 The Society Foundation is an independent registered charity, funded and supported by the executive search firm Society. The majority of the Foundation’s money comes in the form of an annual donation from Society, equal to at least 10% of the firm’s net profits. Employees of the firm also undertake activities to support the Foundation's work, and to raise additional funds.

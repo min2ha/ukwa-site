@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# East Kilbride SNP (@EK_SNP) on Twitter
-
 Twitter profile of the East Kilbride branch of the Scottish National Party (SNP)

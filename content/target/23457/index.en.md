@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenny Woods (@drjennywoods) on Twitter (Liberal Democrats candidate for Reading East)
-
 Jenny Woods stood as Liberal Democrats candidate for Reading East at the 2015 General Election but was not elected. 

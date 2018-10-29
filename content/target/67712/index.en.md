@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ManchesterRugbyClub (@ManchesterRugby) on Twitter
-
 The official Twitter account of Manchester Rugby Club. Founded as Manchester Football Club in 1860, eleven years before the formation of the RFU, the club is one of the oldest open rugby clubs in the world along with Blackheath and Liverpool. 

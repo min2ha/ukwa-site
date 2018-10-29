@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK official warns EU over talks 'insult'
-
 In a briefing following three days of Brexit talks in May 2018, a senior EU official told journalists the UK was in a fantasy that everything could stay as it is, which would mean that the EU would have to change so that Britain could remain the same. UK officials warned in response that its approach to Brexit negotiations risked damaging its security and economic relationship.
 
 

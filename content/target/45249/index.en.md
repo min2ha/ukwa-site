@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Ayrshire & Arran Tourism
-
 Site of the local tourism industry in Ayrshire and Arran.

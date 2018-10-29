@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Decade of Centenaries 
-
 This website is the Decade of Centenaries programme of commemorative events. It is produced by the Irish Department of Arts, Heritage and the Gaeltacht.

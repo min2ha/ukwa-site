@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Royal Burgh of St Andrews Community Council
-
 Site of a community council lacated in the town of St. Andrews, Fife, Scotland.

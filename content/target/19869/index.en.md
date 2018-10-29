@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sutton Lib Dems (@suttonlibdems) on Twitter
-

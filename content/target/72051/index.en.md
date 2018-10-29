@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Merthyr Housing Choice
-
 Merthyr Tydfil Housing Choice website offers information about rented and affordable accommodation in Merthyr Tydfil and aims to help those looking for a home to make informed choices about the most suitable option for them.

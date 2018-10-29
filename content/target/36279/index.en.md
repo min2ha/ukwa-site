@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# ToryPressWales (@ToryPressWales) on Twitter 
-
 Official Conservative Party Press Twitter feed for Wales.

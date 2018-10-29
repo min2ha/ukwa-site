@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# BEWC - The Britain-Russia Centre and The British East-West Centre
-
 BEWC is a non-government organisation dedicated to working with Russia and the countries of the Commonwealth of Independent State.

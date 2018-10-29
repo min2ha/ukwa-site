@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Lyme Disease Action
-
 Striving for prevention and treatment of Lyme Disease and associated tick-borne diseases.

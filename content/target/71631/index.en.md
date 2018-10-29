@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equality and Human Rights Commission: What is the difference between the gender pay gap and equal pay?
-
 An article about the difference between equality and human rights.

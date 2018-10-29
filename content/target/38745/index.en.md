@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Tangwick Haa Museum
-
 Site of a museum and heritage centre in Eshaness, Shetland, Scotland.

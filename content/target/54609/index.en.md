@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ipsos MORI: Understanding the General Election using Neuroscience
-
 This research provides an insight into not just what people say about voting intention and support for parties / candidates, but also the conviction of these views.

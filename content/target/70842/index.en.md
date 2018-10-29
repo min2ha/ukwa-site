@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland clinch qualification for Womens' World Cup Finals with dramatic victory over Albania
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

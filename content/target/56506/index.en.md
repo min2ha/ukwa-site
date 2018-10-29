@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anglesey Môntage Writing Festival | Gŵyl Ysgrifennu Môntage Ynys Môn
-

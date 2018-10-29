@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sidmouth Folk Week
-
 Website for Sidmouth Folk Week, a festival for dance and music. 

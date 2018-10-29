@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nathan Gill, Ukip on Facebook
-

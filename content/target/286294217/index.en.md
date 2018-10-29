@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scotland Can Make It!
-
 <p>Scotland Can Make It! is a collection of six limited edition souvenirs, designed and manufactured entirely in Scotland. Scotland Can Make It! is part of the Glasgow 2014 Cultural Programme.</p>

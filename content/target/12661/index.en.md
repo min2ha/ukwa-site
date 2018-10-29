@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Drew Smith MSP
-
 Drew Smith was Scottish Labour Member of the Scottish Parliament for Glasgow 2011-2016.

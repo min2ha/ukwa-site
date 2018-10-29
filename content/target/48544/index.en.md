@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Martin Shipton (@ShiptonMartin) on Twitter
-
 Martin Shipton is Chief Reporter of the Western Mail.

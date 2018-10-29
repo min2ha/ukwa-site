@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times, The: Brexit may improve pay, peer admits
-
 Website for The Times UK newspaper

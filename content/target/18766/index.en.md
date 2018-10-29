@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Events: Trowbridge Magna Carta Conference 2015
-

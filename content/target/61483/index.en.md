@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# CAVMS - Cardiff and Vale Music Service
-
 Cardiff and Vale Music Services is an Independent Music Service serving schools throughout South Wales.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Funny Women
-
 Website for Funny Women, an organization to promote and support women performing comedy and writing comedy.

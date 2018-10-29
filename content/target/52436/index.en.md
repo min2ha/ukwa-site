@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Susan van de Ven (Liberal Democrats Politician)
-
 Susan van de Ven stood as Liberal Democrat candidate for South Cambridgeshire in the 2017 Generel Election but was not elected.

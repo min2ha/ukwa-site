@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Verdict
-
 Articles relating to Stephen Hawking

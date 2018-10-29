@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brighton and Hove City Council
-
 Brighton and Hove City website offers information about local services, news, consultations, committee meeting minutes and agendas and information on the budget and spending

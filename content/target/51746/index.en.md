@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Asaph Cathedral, Denbighshire  | Cadeirlan Llanelwy
-

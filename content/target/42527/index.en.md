@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Exactly what sort of recession would a Brexit create? The answer matters a lot
-

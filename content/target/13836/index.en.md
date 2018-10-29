@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Susan Dalgety (SusanDalgety) on Twitter
-

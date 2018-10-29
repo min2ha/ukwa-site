@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Simon Rix on Facebook (Liberal Democrat candidate for Truro and Falmouth)
-

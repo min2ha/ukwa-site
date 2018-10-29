@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Blue Cross: Manifesto for Pets
-
 Website of a uk based animal welfare organisation. Includes details of animals needing rehoming

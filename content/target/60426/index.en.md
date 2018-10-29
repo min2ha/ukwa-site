@@ -10,5 +10,3 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Gerddi Plas Brondanw Gardens
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Handwringing and hopes as David Cameron returns to Downing Street
-
 None

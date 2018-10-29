@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Michael Gove: Ed Miliband used to be a 'blancmange in a hurricane' - now he's dangerous
-
 None

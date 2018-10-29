@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Cymdeithas yr Iaith (@Cymdeithas) on Twitter
-
 Twitter account for Cymdeithas yr Iaith Gymraeg/ Welsh Language Society, a direct action pressure group in Wales campaigning for the right of Welsh people to use the Welsh language in every aspect of their lives.

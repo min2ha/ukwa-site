@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Farmers Weekly: Scottish independence: Battle for farmers' votes intensifies
-
 None

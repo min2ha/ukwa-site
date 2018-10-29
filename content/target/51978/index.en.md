@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's. St. Albans
-
 St. Peter's church has long been a place of hospitality as one the city’s ancient gateway churches and people have worshipped here for over a thousand years.

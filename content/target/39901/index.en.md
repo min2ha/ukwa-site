@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Scottish Genealogy Society
-
 Site of an Edinburgh based society specialising in Scottish local and family history.

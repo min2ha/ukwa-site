@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Children and Young People's Specialised Services (CYPSS) 
-
 A review of specialised services for children and young people was carried out by the Specialised Health Services Commission Wales (SHSCW) now Health Commission Wales (HCW). As a result of this review and the public consultation that followed the future delivery of children and young people's specialist healthcare was agreed for Wales using Managed Clinical Networks (MCN’s). This is the project website, its consultation coming to an end in 2009.

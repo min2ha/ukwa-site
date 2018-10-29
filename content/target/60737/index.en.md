@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff Cytûn City and Bay, 
-

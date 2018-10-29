@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Senior Labour politicians Liam Byrne and Tom Watson 'attend segregated Muslim rally'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Blaen Bran Community Woodland
-
 Blaen Bran Community Woodland is in Torfaen and covers approximately 100 acres and is now under community ownership.

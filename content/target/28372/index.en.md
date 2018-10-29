@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Keep, The
-
 The Keep is a centre for archives that opens up access to all the collections of the East Sussex Record Office (ESRO), the Royal Pavilion & Museums Local History Collections and the University of Sussex Special Collections.

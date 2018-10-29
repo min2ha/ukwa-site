@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Renewable UK Cymru: National Assembly Elections 2016
-

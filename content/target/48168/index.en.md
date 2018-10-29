@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Faith in Cowal
-
 WordPress site exploring the history of early Christianity in the Cowal peninsula, Argyll & Bute, Scotland.

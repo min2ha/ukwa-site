@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservatives in Europe for Britain
-
 Group of Conservative Party members campaigning for the UK to stay in the EU

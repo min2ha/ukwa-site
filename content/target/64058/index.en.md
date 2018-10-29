@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Centre for Women's Justice (@centreWJ) on Twitter
-
 Advancing the human rights of women and girls by holding the State to account and challenging discrimina

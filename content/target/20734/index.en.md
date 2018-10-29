@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jody Jamieson on Facebook
-
 This is the Facebook page of Jody Jamieson, the Scottish Green Party candidate for Dumfriesshire, Clydesdale and Tweeddale in the UK General Election on the 7th May 2015.

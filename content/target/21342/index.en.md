@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Law for Dundee West (SNP)
-
 Website for Chris Law, Scottish National Party (SNP) candidate for Dundee West in the May 2015 UK General Elections.

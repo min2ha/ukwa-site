@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Youth Theatre Arts Scotland
-
 Site of a development organisation established to unify and empower Scotland’s youth theatre sector.

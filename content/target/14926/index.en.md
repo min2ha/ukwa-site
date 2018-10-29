@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bognor Regis People
-

@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Renfrewshire Local History Forum
-
 Site acting as forum for local history and archaeology societies in the historic county of Renfrewshire, Scotland.

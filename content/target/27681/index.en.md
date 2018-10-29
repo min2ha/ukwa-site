@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ukip's only MP calls for Farage to step down: Douglas Carswell warned party leader that he had struck the wrong tone during the election and should 'take a break' 
-
 None

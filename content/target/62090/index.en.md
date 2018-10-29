@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ewood Park Stadium
-
 Ewood Park is a football stadium in the English town of Blackburn, Lancashire, and is the home of Blackburn Rovers Football Club — one of the founder members of the Football League and Premier League. Rovers have played there since they moved from Leamington Street in the summer of 1890.

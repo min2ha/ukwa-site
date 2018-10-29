@@ -10,5 +10,3 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Higher Kinnerton Community Council
-

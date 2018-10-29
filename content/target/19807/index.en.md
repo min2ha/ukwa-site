@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: #NoVoteNoVoice campaign bus comes to Cardiff to encourage young people to register to vote 
-

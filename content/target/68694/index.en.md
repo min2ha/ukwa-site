@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Nature
-
 UK's biggest free celebration of the natural world

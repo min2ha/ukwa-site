@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# All Under One Banner on Twitter
-
 Twitter page for an umbrella group for protest groups working for Scottish independence.

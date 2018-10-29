@@ -10,5 +10,3 @@
   "start_date": "2012-11-30T00:00:00Z"
 }
 
-# UNCRC Lets Get it Right
-

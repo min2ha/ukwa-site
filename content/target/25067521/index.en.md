@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# MAGA - Cornish Language Partnership
-
 None

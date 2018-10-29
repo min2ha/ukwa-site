@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Norfolk Conservatives
-
 Website of Norfolk Conservatives, providing information on councillors, events, campaigns, local and national news.

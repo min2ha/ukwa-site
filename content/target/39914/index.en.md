@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum: Gove snubs May by dismissing call to leave ECHR - Politics live
-
 Guardian, The

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Tafod Elai
-
 <p>This is the community newspaper and blog for Welsh speakers in the Taff Ely area of south Wales.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Pastels & pastellists
-
 Since 2008 this website has made available an online version of the Dictionary of pastellists before 1800, along with updates. In October 2010 the site was renamed Pastels & pastellists in recognition of the amount of new material and the way in which it is presented. 

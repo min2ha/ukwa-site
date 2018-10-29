@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# First 100 Years
-
 The website records information about the first 100 years of women in law. Mainly written biographies and articles and is an important record of British women's social history. The project will be completed in 2019 after recording 100 stories from the female pioneers and game-changers in law.

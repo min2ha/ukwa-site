@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Al Saqi Bookshop
-
 Al Saqi Bookshop has been open in Westbourne Grove since 1978. It stocks a wide range of subjects in English related to the Middle East, as well as books on all subjects in Arabic.

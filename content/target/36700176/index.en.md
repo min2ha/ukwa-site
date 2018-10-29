@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gisela Stuart MP
-
 Gisela Stuart, an MP and candicate in the UK General Election 2015 for Birmingham Edgbaston.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T11:00:00Z"
 }
 
-# Menai Science Park (M-SParc)
-
 M-SParc is funded through European Regional Development Funding through the Welsh Government. M-SParc is a science park under development at Gaerwen, Anglesey.

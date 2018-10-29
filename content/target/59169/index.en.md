@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 2nd November 2017: Agriculture, Fisheries and the Rural Environment
-
 The Lords debate the opportunities and challenges for agriculture, fisheries, and the rural economy in the United Kingdom.in the context of Brexit

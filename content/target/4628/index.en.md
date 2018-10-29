@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Guardian, The: A bittersweet wedding in the village that shaped the early life of 'Tata'
-
 None

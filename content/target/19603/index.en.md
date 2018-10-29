@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pippa Bartolotti - Wales Green Party Leader on Facebook
-
 Pippa Bartolotti - Wales Green Party Leader 

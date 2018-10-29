@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Clyne Valley Community Project
-
 The Clyne Valley is an area of over 700 acres of land running from the sea at Blackpill, Swansea, to Gowerton. The aim of the project is to improve biodiversity and access to the area.

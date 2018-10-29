@@ -10,5 +10,3 @@
   "start_date": "2013-11-11T00:00:00Z"
 }
 
-# Western Valleys Communities First
-

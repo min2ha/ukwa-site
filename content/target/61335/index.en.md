@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huddersfield Town Supporters Association (HTSA)
-
 The Huddersfield Town Supporters Association (HTSA) is an independent and democratic trust that represents the interests of Huddersfield Town and Huddersfield Town Ladies supporters.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Visa and Immigration: Settled Status for EU Citizens and Their Families
-
 Sets out the process for EU citizens to apply for settled status in the UK after Brexit

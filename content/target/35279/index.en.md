@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Taylor (@Taylor_Muir54) on Twitter
-
 Twitter profile of Taylor Muir, Scottish Conservative and Unionist Party candidate for Glasgow South in the 2017 general election.

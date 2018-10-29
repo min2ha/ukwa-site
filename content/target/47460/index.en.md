@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forfar West End  Junior Football Club
-
 Kick22 website of a Scottish junior football club based in Forfar, Angus, Scotland.

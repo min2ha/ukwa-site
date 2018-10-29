@@ -10,5 +10,3 @@
   "start_date": "2016-09-27T11:00:00Z"
 }
 
-# Conwy and Prestatyn Methodist Circuit
-

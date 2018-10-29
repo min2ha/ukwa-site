@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sikh Siyasat News: Sikh Manifesto 2015-2020
-
 Sikh News and Multimedia, latest News Updates on Punjab and Sikh Issues. 

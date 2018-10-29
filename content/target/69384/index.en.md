@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Let's get on with it! DOMINIC RAAB's Brexit war cry as he says it's time to take back control of our borders, our laws and our future
-
 Brexit Secretary Dominic Raab defends the Prime Minister's compromise proposals for the future UK-EU relationship

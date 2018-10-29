@@ -11,7 +11,5 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour List
-
 "LabourList is an independent progressive blog providing a platform for open debate about centre-left issues and the future of the Labour movement.
 Although we are a broad umbrella organisation seeking to draw together the many views and factions of the progressive spectrum, we also believe that progressive ends – such as a robust and resolute welfare state, social and educational equality and a fully funded National Health Service, free to all at the point of delivery – can only ultimately be achieved through the continued electoral success of the Labour Party." 

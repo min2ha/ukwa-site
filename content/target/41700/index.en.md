@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Global Counsel: BREXIT: the impact on the UK and the EU 
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James McCallum (@Jimmy_mach10) on Twitter
-
 Founder of http://whatsyourmeta.com  where we build better humans. Ashmei ambassador.

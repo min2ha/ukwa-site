@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Can the Greens afford to pay for their costly election manifesto pledges?
-
 None

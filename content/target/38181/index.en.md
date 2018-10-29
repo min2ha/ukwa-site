@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ian McDougall (@ian_mcdougall) on Twitter
-
 Twitter profile of Ian McDougall, the Scottish National Party list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

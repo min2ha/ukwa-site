@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nottingham Casuals RFC on Pitchero
-
 The official website of Nottingham Casuals Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Stewart Society
-
 Site of a a society providing information on the Scottish Stewart Clan's history and genealogy as well as facilitating events for members.

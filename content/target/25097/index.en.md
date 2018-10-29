@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: BBC rocked by new bias scandal – as TWO-THIRDS of debate audience are left-wing
-
 None

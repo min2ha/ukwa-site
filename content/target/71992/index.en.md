@@ -10,5 +10,3 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Scotland's Health on the Web
-

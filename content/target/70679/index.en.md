@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Human Rights Festival
-
 Website for the Oxford Human Rights Festival.

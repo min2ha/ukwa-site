@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Caerphilly Churches Night Shelter
-

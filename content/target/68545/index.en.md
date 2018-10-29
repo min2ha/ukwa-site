@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Science Scotland
-
 Science Scotland is a magazine published by The Royal Society of Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Senior Tories repeatedly threatened BBC during election, says Ed Miliband's top spin doctor
-
 None

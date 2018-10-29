@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol Liberal Democrats
-
 Website of Bristol Liberal Democrats, providing information on councillors, local news and party reaction, campaigns, and blogs from local Liberal Democrat councillors and campaigners.

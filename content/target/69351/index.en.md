@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Britain and Asian Britain
-
 Historical and contemporary resources on the experience of people of African, Asian and Caribbean heritage in Britain 

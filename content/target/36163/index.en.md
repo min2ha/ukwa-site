@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Peter Mandelson breaks silence to warn over effects of Brexit
-

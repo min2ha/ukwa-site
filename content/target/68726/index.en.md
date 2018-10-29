@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brussels fears UK cabinet crisis may be a path to no-deal Brexit
-
 Political uncertainty in Britain following the resignations of Boris Johnson and David Davis made the possibility of a no-deal Brexit seem far more likely in the eyes of Brussels bureaucrats. Not because either side want it, but because time for EU-UK negotiations was simply running out.

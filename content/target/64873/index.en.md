@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU must be joking! Brussels wants British holidaymakers to pay £6 visa fee when they visit one of 27 European nations after Brexit   
-

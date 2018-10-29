@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Josie Long
-
 Official website of Josie Long, comedian.

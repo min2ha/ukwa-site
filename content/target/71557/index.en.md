@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Moment of truth: Labour's fraught path to MPs' crucial Brexit vote
-
 Discusses the dilemmas faced by the Labour Party in respect of the promised "meaningful vote" in Parliament on whatever Brexit deal Theresa May made with the EU. 

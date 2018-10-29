@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering
-
 Project that seeks to connect South Somerset’s residents with their own immediate local history in relation to World War One.

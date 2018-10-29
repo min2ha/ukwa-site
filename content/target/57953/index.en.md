@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Nishkam Centre
-
 The Nishkam Centre (Handsworth, Birmingham) is a Sikh faith-led organisation working for the benefit of all communities. Our mission is to enrich mundane life through the practice and promotion of the Sikh values of earning an honest living (kirat), sharing (wand shakna)and active volunteering (nishkam sewa) that are embedded in our spiritual and Dharmic heritage.

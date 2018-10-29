@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isle of Wight NHS Trust
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Hall (@DarrenHall2015) on Twitter (Green Party Candidate for Bristol West)
-

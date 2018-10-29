@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sun, The: World Cup 2018
-
 Latest World Cup 2018 news - results, live scores, fixtures | The Sun

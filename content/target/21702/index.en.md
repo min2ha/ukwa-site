@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dem election candidate arrested on suspicion of child sexual abuse
-
 None

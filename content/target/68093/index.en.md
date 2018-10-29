@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford Rugby Club (@OxfordRugby) on Twitter
-
 The official Twitter account of Oxford Rugby Football Club. Oxford Rugby Football Club (Founded in 1909 as Oxfordshire Nomads RUFC)

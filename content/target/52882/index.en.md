@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Corri Wilson SNP (@CorriWilsonSNP) on Twitter
-
 Twitter profile of Corri Wilson, Scottish National Party candidate for Ayr, Carrick and Cumnock in the 2017 general election.

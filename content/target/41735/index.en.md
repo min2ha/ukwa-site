@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mytholmroyd Village Net - News
-

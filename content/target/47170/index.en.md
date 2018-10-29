@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Pupl.net
-
 The short fiction website Pulp Net was partially funded by Arts Council England London (Lottery) for a few years and came to an end in 2001.  It is edited by Lane Ashfeldt, who co-founded Pulp Net in 2003.

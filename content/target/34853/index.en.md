@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# James Wigg Practice
-
 James Wigg Practice is a GP practice in Kentish Town, North-West London.

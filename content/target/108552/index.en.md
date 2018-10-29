@@ -10,5 +10,3 @@
   "start_date": "2005-05-30T23:00:00Z"
 }
 
-# Campaign for Science & Engineering in the UK
-

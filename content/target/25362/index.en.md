@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Apathy central: the place with the lowest voter turnout in Britain
-
 None

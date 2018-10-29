@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Affairs Committee: The EU Referendum and its impact on Scotland 
-
 The Scottish Affairs Committee examines the EU Referendum and its potential impact on Scotland. 

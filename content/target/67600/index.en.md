@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Abergavenny Community Centre
-
 Abergvenny Community Centre is located a short distance from Abergavenny town.

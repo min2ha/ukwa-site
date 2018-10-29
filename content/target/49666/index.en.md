@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Well Scotland
-
 Site of an network providing resources for professionals who currently work in, or have an interest in the mental health improvement field aiming to provide up to date information on developments in the mental health improvement.

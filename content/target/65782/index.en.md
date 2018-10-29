@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Malcolm Group Limited
-
 Malcolm Group Limited is a logistics company based in Linwood, Renfewshire, Scotland. Through their subsidiaries they provide logistic services including road and rail transport, warehousing, and terminal management. Other group activites include civil engineering construction.

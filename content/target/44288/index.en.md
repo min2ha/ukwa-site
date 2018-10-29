@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Pitlochry Festival Theatre
-
 Site of a theatre located in Pitlochry, Perth & Kinross, Scotland

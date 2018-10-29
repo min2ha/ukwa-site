@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: So is the NHS one of the PM's election priorities? Yes and no
-

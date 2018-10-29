@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Chess Scotland
-
 Site of the governing body and tournament organisation for chess in Scotland.

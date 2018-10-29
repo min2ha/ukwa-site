@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Southend WW1: Remember Us
-
 The project aims to show the lives of the people of Southend during the First World War and how the war affected them.

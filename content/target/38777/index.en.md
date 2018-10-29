@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Gove accuses EU of indoctrinating children with cartoon booklet
-
 Guardian, The

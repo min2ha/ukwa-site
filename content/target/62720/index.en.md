@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Welsh Yacht Club, The
-
 Royal Welsh Yacht Club was established in 1847 and is based at Caernarfon.

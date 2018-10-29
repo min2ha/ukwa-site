@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Arolygiaeth Gofal iechyd | Health Inspectorate Wales (AGIC | HIW)
-
 Healthcare Inspectorate Wales is the independent inspectorate and regulator of healthcare in Wales.

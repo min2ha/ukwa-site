@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nordic Horizons (@Nordichorizons) on Twitter
-

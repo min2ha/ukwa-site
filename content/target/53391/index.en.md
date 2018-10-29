@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daniel Marten (@danny_marten) on Twitter (Secretary of  Haltemprice and Howden Constituency Labour Party)
-
 Daniel Marten, secretary of the Haltemprice and Howden constituency Labour Party at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory ministers wine and dine 45 donors in private fundraising dinners
-
 None

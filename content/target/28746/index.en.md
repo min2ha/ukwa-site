@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# National Library of Scotland: Forth Bridge anniversary
-
 A display was created by National Library of Scotland staff to celebrate the Forth Bridge on it's 125th anniversary.

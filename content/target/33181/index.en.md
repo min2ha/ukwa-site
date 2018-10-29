@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# alt.cardiff
-
 Cardiff Alt is an offbeat look at the arts, music and culture scene in Cardiff.

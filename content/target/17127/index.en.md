@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Why is Miliband fixating on the NHS when he'd be better off focusing on the wealth gap?
-

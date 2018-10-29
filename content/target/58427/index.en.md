@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 2nd November 2017: Exiting the European Union
-
 Report of questions on the impact of leaving the EU on citizens' rights, workers' rights, farmers, higher education, children's rights and Scotland.

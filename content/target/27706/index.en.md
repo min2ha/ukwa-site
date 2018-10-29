@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Here come the Scots: SNP MPs descend on Westminster after election triumph
-
 None

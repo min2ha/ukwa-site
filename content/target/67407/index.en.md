@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Gleaner Oils Limited
-
 Website for a company which distributes fuel products for agricultural, industrial, and marine markets.

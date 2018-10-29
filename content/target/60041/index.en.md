@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Karen Ingala Smith / Counting Dead Women
-
 Website of Karen Ingala Smith, CEO of nia, a London-based domestic and sexual violence charity working to end violence against women and girls but writing here in a personal capacity.  Site includes Counting Dead Women recording deaths and suspected deaths of women killed by men in the UK.

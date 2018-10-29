@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Churches of East Loch Tay and Glenlyon
-
 Site of a group of Church of Scotland churches in Perth and Kinross, Fortingall, Glenlyon, Kenmore and Lawers.

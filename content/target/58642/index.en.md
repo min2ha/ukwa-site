@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Peebles Town Website
-
 Site providing visitor and residents information on businesses, services, events and activities in the town of Peebles, Scottish Borders (Peeblesshire).

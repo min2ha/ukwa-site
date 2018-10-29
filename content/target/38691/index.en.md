@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sarah Flavell (@trianglesister) on Twitter
-
 Twitter profile of Sarah Flavell, the Scottish Labour candidate for Aberdeenshire East in the 2016 Scottish Parliamentary election.

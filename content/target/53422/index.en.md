@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Voices from the Margins
-
 Church Action on Poverty has teamed up with Joseph Rowntree Foundation and The Poverty Alliance for Voices from the Margins. It encourages groups to organise open get-togethers before the election to discuss our vision, values, priorities, stories and identities.   

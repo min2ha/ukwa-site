@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Royal College of Pscyhiatrist in Wales, The: A Manifesto for the 2016 National Assembly for Wales Elections
-

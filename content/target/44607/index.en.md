@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Tewkesbury Art Society
-
 Tewkesbury Art Society is a group of almost 70 members of all abilities, from absolute beginners to near professionals.

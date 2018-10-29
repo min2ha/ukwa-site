@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Alison Mercer
-
 Alison Mercer is a fibre artist and selected member of Fibre Art Wales.

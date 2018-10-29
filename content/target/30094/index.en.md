@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# No Borders South Wales
-
 No Borders is a transnational network of autonomous groups advocating freedom of movement and equality for all. 

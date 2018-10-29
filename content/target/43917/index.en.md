@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Everything Is New Project
-
 Site of a Scottish arts project supporting Dalit 'untouchable' children in south-east India.

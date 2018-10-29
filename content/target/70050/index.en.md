@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tennis365
-
 Tennis: ATP Tour, WTA Tour, news, and features.

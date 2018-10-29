@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: REVEALED: The smart anti-EU schoolgirl who left politicians speechless on Question Time
-
 Article by Laura Mowat

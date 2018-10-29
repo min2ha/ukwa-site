@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election results hour-by-hour: Never mind the politics - this was a night of unmissable edge-of-seat drama
-
 None

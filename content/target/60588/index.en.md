@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: David Davis plays down Tory row over Brexit transition
-
 David Davis said there was "no difference" between him, the chancellor and prime minister following a Tory row over the terms of a Brexit transition.
 

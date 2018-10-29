@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: As general election purdah looms, civil servants retreat. Or do they?
-
 None

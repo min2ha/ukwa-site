@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pro-active East London
-
 None

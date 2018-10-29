@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Study in Scotland
-
 A site promoting Scottish higher education to prospective students.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC election debate: Nicola Sturgeon's offer to Ed Miliband - I will make you PM
-
 None

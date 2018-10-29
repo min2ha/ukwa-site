@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls: Labour will eliminate budget deficit by 2020
-
 None

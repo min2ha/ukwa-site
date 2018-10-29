@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Bethel Baptist Church Penyrheol
-
 Bethel Baptist Church Penyrheol is located in Caerphilly.

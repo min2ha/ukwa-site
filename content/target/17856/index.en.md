@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour plan to force through Commons vote on banning MPs from having 'second jobs' 
-
 None

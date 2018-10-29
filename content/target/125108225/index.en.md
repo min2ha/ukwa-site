@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# London Irish Business Society (LIBS)
-
 None

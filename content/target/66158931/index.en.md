@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elvet Methodist Church, Durham
-
 None

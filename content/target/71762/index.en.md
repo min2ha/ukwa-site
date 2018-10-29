@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# Dalen Newydd
-
 Dalen Newydd is a book publisher from Bangor established in 2010.

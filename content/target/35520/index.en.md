@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lorna Slater (@lornagreens) on Twitter
-
 Twitter profile of Lorna Jane Slater, Scottish Green Party candidate for Edinburgh North and Leith in the 2017 general election.

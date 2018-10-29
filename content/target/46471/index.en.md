@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: The Brexit con: the exit Britain needs is from neoliberal capitalism
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

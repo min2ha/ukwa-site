@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rose McGrandle British Skeleton Athlete
-
 None

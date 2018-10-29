@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Centre for European Politics
-
 The Centre for European Politics at Royal Holloway commenced its activities in January 2007. Research in the centre focuses on two main themes, 
 the study of democracy in Europe and the European Union and its member states as actors in world politics

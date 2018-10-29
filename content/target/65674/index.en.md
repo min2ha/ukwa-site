@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Eventbrite: From mobile citizens to migrants: BrExpats and Eurochildren
-
 A roundtable discussion called "From mobile citizens to migrants". An event brought to you by Brexpats and Eurochildren

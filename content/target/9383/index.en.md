@@ -10,6 +10,4 @@
   "start_date": "2014-03-04T02:00:00Z"
 }
 
-# Ask the Police
-
 None

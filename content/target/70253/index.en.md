@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# George Best (@GeorgeBestcom) on Twitter
-
 The official Twitter account of http://georgebest.com 

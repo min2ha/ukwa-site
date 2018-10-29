@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Madeline Moon on Facebook
-
 MP for Bridgend since 2005, 

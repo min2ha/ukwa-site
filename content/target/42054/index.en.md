@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Referendum, The
-
 "Supporting Scottish Independence, a fairer and equal society for all, and staying in the EU."

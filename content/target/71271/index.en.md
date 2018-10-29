@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Clegg leads pro-remain grandees on diplomatic mission to stop Brexit
-

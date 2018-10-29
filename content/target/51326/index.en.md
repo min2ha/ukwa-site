@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Seventh-Day Adventist Church
-

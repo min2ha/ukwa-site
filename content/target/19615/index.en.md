@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Aylesbury Vale Green Party
-
 Website of Aylesbury Vale Green Party, providing information on local party officers, campaigns, events and local and national news updates.

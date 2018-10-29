@@ -10,5 +10,3 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Gyngor Cymuned Cilcain | Cilcain Community Council
-

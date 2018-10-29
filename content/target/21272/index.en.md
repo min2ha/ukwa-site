@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsty Williams AM (@Kirsty_Williams) on Twitter
-
 Assembly Member for Brecon & Radnorshire and Leader of the Welsh Liberal Democrats. 

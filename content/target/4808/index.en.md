@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Journalism.co.uk - Sharing the news of Nelson Mandela's death on social media
-
 <p>A report on the use of social media by BBC and Channel 4 news in breaking the news of Nelson Mandela's death. The initial BBC message on Twitter was re-tweeted more than 77,000 times.</p>

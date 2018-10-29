@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Pinner (GCP01) on Twitter
-
 Twitter profile of hockey player George Pinner, member of Team England in the 2014 Comonwealth Games.

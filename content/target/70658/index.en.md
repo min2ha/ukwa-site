@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Leonie Bradley (@LeonieBradley) on Twitter
-
 Artist, writer, filmmaker. Member of the Society of Wood Engravers 

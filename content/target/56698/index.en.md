@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Golden Valley Hunt
-
 Golden Valley Hunt is held in the Welsh Marches. The aim of the Golden Valley Hunt (GVH) is to hunt the country lying on the Herefordshire/Powys border with the town of Hay-on-Wye at its centre

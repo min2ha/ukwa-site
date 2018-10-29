@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Myotonic Dystrophy Support Group
-
 Myotonic Dystrophy Support Group is a registered charity, founded by Margaret Bowler in 1989, run by volunteers and dedicated to offering the hand of friendship and support to all those affected by Myotonic Dystrophy.

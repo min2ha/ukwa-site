@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Equality Trust, The: A Fairer, Stronger Economy: Anticipating the General Election 2015
-
 The Equality Trust is working with others to build a social movement for change. They analyse and disseminate the latest research, promote robust evidence-based arguments and support a dynamic network of campaign groups across the country.

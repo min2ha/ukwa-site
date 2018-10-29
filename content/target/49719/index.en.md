@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# East and  Old Parish Church Forfar
-
 Parish website of the East and Old Parish Church of Forfar. One of three Church of Scotland congregations in Forfar operating within the Angus Presbytery.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Coalition for a Digital Economy, The (COADEC)
-
 The Coalition for a Digital Economy (Coadec) is a non-profit that campaigns for policies to support digital startups in the UK.

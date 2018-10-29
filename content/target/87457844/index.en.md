@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# How 2 Get Hired (h2gh)
-

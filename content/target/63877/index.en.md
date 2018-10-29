@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Barlanark-Greyfriars Parish Church
-

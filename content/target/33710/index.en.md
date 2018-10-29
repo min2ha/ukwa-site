@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Road to Fotheringhay 21st - 29th July 2010, The
-
 Website dedicated to the journey following the funeral route of Richard, Duke of York, killed 1460, reburied at Fotheringhay 1476. It is run by the Wakefield Historical Society.

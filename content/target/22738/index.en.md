@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T09:00:00Z"
 }
 
-# Antur Waunfawr
-
 Antur Waunfawr is a social enterprise providing employment and training opportunities for people with learning disabilities in Gwynedd.

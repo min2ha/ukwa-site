@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# #Mòd2017 on Twitter
-

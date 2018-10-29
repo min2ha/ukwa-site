@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Women, Wales and War | Menywod Cymru a Rhyfel
-
 Women, Wales and War is a collection of information, experiences and photographs recorded by Women's Archive of Wales in 2014-18. Less attention has been paid to the women who were born in, or lived in, Wales during this period. This website sets out to record their names, the outlines of their lives and in many cases their deaths. 

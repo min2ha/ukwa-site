@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Paediatrics and Child Health (RCPCH): Facebook could flag up mental health issues, say doctors
-
 News Article: Royal College of Paediatrics and Child Health (RCPCH) 

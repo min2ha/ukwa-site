@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Imperial (@SfBImperial) on Twitter
-
 Imperial College branch of Students for Britain

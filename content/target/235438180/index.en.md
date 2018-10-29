@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Silverlight Developer
-
 Blog about IT run by Mark Stevens.

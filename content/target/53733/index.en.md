@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Newark (@UKIP_Newark) on Twitter
-
 Official page of Newark UKIP.

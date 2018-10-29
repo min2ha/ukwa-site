@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ritchie Cunningham's (@RRitchieC) on Twitter
-
 Twitter profile of Ritchie Cunningham, Scottish Liberal Democrat candidate for Inverness, Nairn, Badenoch and Strathspey in the 2017 general election.

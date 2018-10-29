@@ -10,6 +10,4 @@
   "start_date": "2010-05-05T00:00:00Z"
 }
 
-# Patients Association, The
-
 The Patients Association was set up more than 40 years ago to promote the voice of patients in healthcare.

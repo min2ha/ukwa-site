@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Law Family Charitable Foundation
-
 A charitable foundation run by Andrew and Zoe Law supporting a variety of other organisations.

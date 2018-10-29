@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Albert’s Catholic Chaplaincy
-
 Site of the Roman Catholic chaplaincy attached to the University of Edinburgh.

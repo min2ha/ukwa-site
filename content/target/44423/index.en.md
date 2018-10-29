@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Royal Heart Greyhound Rescue
-
 Site of a a greyhound rescue and rehoming charity based in Greenock, Scotland.

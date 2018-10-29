@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: Why the Government believes that voting to remain in the EU is the best decision for the UK
-

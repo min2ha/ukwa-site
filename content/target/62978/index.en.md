@@ -10,8 +10,6 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# The Equiano Centre
-
 The Equiano Centre is based in UCL's Department of Geography.
 
 

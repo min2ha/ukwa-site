@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Pengam Airport
-
 RAF Pengam Moors was located on the Pengam Moors area of Tremorfa, Cardiff and operated between 1938 to 1946. Prior to RAF service the site served as a private aerodrome and after World War II the airfield reverted to private commercial flying until closure in 1954.

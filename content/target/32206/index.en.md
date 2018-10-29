@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Dinas-Ranbarth Bae Abertawe | Swansea Bay City Region
-
 Swansea Bay City Region bring together business, local government and a range of other partners from Neath Port Talbot, Swansea, Carmarthenshire and Pembrokeshire and work togethor to a common goal of creating economic prosperity for the people who live in this area.

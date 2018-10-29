@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Pendon Museum | Modelling the past for the future
-
 Pendon Museum preserves the idyllic rural scene and transport of the 1920s and 30s in a miniature form for future generations to enjoy. 

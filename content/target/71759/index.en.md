@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# North Atlantic Fiddle Convention
-
 Site of an annual festival of Scottish violin ('fiddle') music featuring concerts, workshops, dance, film, symposiums and sessions - staged at the University of Aberdeen.

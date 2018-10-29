@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Arthritis and Musculoskeletal Alliance (ARMA): General Election 2015 Manifesto
-
 Arthritis and Musculoskeletal Alliance (ARMA) is the umbrella association body providing a collective voice for the arthritis and musculoskeletal community in the UK.

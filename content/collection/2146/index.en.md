@@ -99,6 +99,4 @@
   "endDateText": ""
 }
 
-# Stephen Hawking
-
 Stephen Hawking  was an English theoretical physicist, cosmologist, and author, who was director of research at the Centre for Theoretical Cosmology at the University of Cambridge at the time of his death on the 14 March 2018, Cambridge.

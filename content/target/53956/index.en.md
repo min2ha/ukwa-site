@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Libertarian Party (LPUK) 
-
 LPUK stands for lower taxes for both individuals and companies, small government, free speech and individual responsibility. They support free trade and free enterprise whilst believing that people should make their own choices and not rely on the government. They support a withdrawal from the European Union and a return to the free trade agreements that it was founded on.

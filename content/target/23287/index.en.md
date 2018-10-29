@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Munnerley on Facebook (Green Party candidate for Wrexham)
-

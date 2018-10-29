@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Youth Football Association
-
 Site of the governing body for youth football, up to the age of 21, in Scotland.

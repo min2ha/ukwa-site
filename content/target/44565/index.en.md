@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Albumen Gallery
-
 Albumen Gallery is a London based gallery dedicated to photography.

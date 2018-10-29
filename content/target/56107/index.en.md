@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Grapevine Event Management 
-
 A UK based event management company.

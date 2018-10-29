@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Café des Amis
-
 Cafe des Amis is a French restaurant in Covent Garden.

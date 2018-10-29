@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ossett Rugby on Pitchero
-
 The official website of Ossett Rugby club.

@@ -11,8 +11,6 @@
   "subject": "Black and Asian Britain"
 }
 
-# Almasi League
-
 Almasi League is a Writer in Residence programme with two aims: to support the development of emerging writers from Black Asian and Minority Ethnic backgrounds, and to develop the audience for such writing in East London.
 
 Almasi League is run by Newham New Deal Partnership, led by writer Courttia Newland, and funded by Arts Council England.

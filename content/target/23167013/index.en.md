@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Yeate Farm - the Granary self-catering accommodation
-
 None

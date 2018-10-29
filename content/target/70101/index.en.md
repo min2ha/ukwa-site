@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Martial Arts
-
 Website for the Festival Martial Arts

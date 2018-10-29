@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rutherglen Old Parish Church
-
 Site of a Church of Scotland parish church at Rutherglen, Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dáil Éireann Debate, Thursday, 21 April 2016: EU-UK Relations: Statements
-
 The Taoiseach sets out essential elements of the Irish government's approach to the UK's EU Referendum of June 23rd 2016

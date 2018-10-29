@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Rees Evans on Facebook
-
 UKIP candidate for Cardiff South and Penarth

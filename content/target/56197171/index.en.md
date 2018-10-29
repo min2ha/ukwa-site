@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# John Cantor Heat Pumps
-
 None

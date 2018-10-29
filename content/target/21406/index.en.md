@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 40p tax rate hits too many middle earners, says Cameron as he hints at fresh action on the issue in next week's Budget
-
 None

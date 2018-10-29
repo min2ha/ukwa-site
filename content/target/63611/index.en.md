@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Moray Kirk
-
 The website of the Rothes Church and Knockando Church in Moray.

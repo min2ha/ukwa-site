@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: There’s only one way to stop Brexit: from the ground up
-

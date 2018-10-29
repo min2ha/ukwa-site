@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Official Tourism Website of the Turks and Caicos Islands  
-
 Official Tourism Website of the Turks and Caicos Islands  

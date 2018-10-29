@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# Francis Crick Institute, The
-
 The Francis Crick Institute is a biomedical discovery institute dedicated to understanding the scientific mechanisms of living things.

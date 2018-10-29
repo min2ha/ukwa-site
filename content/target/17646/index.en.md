@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General Election 2015: Labour's Ed Miliband 'not focusing' on doing SNP deal
-
 None

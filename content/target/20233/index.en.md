@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob Griffiths on Facebook
-
 Communist candidate for Merthyr Tydfil and Rhymney.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Labour Action for Peace
-
 An organisation of Labour Party members, trade unionists and socialists campaigning for peace, socialism and disarmament.

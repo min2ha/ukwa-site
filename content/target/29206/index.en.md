@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Rising, The
-
 A blog about the Easter Rising

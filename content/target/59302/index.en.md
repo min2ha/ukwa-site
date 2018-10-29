@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 28th November 2017: Leaving the EU: Sectoral Impact Assessments
-
 Reports heated discussion about whether the Government should make unredacted reports on the economic impact of Brexit available to the Committee for Exiting the EU.

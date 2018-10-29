@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# CuriadBangorPulse
-
 CuriadBangorPulse was a free music, poetry and spoken word festival held in Bangor, north Wales in 2017 and was organised by the Greenhouse Music Scene Networking Group.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Phillips on Facebook (TUSC candidate for Newcastle upon Tyne East)
-

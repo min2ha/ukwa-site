@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# National Army Museum
-
 The National Army Museum (NAM) is the leading authority on the history of the British Army and a museum that moves, inspires, challenges, educates and entertains. It aims to gather, maintain and make known the story of the British Army and its role and impact in world history. 

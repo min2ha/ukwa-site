@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BBC defends Question Time over claims of audience 'bias'
-
 None

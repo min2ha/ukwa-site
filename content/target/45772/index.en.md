@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Savoy Theatre
-
 Savoy Theatre is a theatre in Tonyrefail refurbished from a old bingo hall and opened in 2016.

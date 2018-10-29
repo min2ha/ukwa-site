@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Copeland Tories (@CopelandTories  ) on Twitter
-
 Twitter account of the Copeland Conservative Association, covering their activity during the 2017 General election campaign 

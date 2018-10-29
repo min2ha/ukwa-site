@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Register of Tartans, The
-
 The Scottish Register of Tartans was established by an act of the Scottish Parliament in November 2008.

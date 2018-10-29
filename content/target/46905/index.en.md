@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Union of Students (NUS): EU Referendum: 16 and 17 year-olds are being denied a say on their future
-
 Article about 16 and 17 year olds that were denied the vote in the EU Referendum 

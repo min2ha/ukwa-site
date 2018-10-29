@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why the EU's hypocrite-in-chief is a prime example of the hubris that could tear it apart 
-
 Portrait of European Commission president Jean-Claude Juncker, following the exposure of his involvement in a major tax dodge scheme.

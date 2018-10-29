@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chelsea Ladies FC (@ChelseaLFC ) on Twitter
-
 The official Twitter account of Chelsea Ladies FC.

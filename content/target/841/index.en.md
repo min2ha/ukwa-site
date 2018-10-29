@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham and Solihull Mental Health NHS Foundation Trust
-
 None

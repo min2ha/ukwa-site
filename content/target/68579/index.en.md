@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Catholic Cathedral
-
 Site of the Roman Catholic cathedral and church for Edinburgh.

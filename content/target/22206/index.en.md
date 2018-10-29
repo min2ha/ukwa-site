@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Dickinson (@ScottDickinson0) on Twitter (Labour Politician)
-
 Scott Dickinson stood as Labour Party candidate for Berwick upon Tweed at the 2017 General Election but was not elected.

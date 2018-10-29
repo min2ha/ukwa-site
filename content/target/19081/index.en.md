@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Eastern Daily Press: UEA academic authenticates ‘lost’ edition of the Magna Carta valued at £10m
-

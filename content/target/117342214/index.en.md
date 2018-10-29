@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# NNFCC - The National Non-Food Crops Centre
-
 None

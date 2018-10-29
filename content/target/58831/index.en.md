@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Perth Pétanque Club Facebook page
-
 Facebook page for a pétanque club based in Perth, playing a form of bowls.

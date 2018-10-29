@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Oliver James Coppard (@olivercoppard) on Twitter (Labour Candidate for Sheffield Hallam)
-

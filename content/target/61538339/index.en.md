@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wem Quaker Meeting
-

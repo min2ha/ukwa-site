@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gosford All Blacks RFC
-
 The Gosford All Blacks were founded on May 15, 1956, taking their name from the touring New Zealand All Blacks of that season. 

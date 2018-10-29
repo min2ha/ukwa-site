@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne interview: Ed Miliband and the SNP are 'double trouble' for the economy
-
 None

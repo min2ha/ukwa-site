@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# John Baker's Blog
-
 None

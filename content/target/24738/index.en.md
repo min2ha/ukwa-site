@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rod Abouharb (Labour Party candidiate for Kensington) on Facebook
-

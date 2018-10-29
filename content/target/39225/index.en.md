@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Stewart-Clark for Mid Fife and Glenrothes on Facebook
-

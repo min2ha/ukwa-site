@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ardal Weinidogaeth Bro Eifionydd Ministry Area
-

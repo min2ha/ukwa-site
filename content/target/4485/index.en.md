@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Sochi
-
 None

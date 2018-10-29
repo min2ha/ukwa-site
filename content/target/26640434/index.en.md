@@ -10,6 +10,4 @@
   "start_date": "2009-02-10T00:00:00Z"
 }
 
-# Vegan Village
-
 The website lists around two hundred vegan companies and contacts.

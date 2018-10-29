@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: We are in the fight of our lives to avoid the damage Brexit would cause 
-
 Guardian, The

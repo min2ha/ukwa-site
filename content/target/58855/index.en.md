@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The real saboteurs are the Tory Brexiters destroying the NHS
-

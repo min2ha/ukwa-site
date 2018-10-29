@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Aberdeen and The Great War
-
 Impact of the Great War on the people of Aberdeen, educational events programme and memorial exhibition

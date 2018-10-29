@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Momentum (@PeoplesMomentum) on Twitter
-
 Campaign supporting Jeremy Corbyn as Labour Party leader

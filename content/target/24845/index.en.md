@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amy Gray (Conservative)
-
 Amy Gray stood as Conservative candidate for Hackney North and Stoke Newington at the 2015 General Election but was not elected.

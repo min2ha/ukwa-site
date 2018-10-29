@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Breast Screening Programme
-
 None

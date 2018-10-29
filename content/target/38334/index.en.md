@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Getty Images: 100 Years Since The Easter Rising Began
-
 Collection of photographs relating to the Easter Rising

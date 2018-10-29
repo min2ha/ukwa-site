@@ -10,6 +10,4 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# Nigel Robert Pugh
-
 Nigel Robert Pugh is a Watercolour artists and member of the Royal Watercolour Society of Wales.

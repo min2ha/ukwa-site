@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Great Britain Philatelic Society (GBPS)
-
 None

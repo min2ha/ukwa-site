@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tory Party chairman Grant Shapps accused of doctoring Wikipedia pages of his political rivals with unflattering entries and editing his own entry to remove embarrassing references 
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2014-10-06T00:00:00Z"
 }
 
-# Clive's Family History Bookshelf
-

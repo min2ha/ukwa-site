@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harry Martin official website
-
 <p>The official website of hockey player Harry Martin, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

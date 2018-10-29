@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Grand Order of Water Rats, The
-
 The official website of the Grand Order of Water Rats. An exclusive fraternity of show-business performers and companions whose aim is to fundraise for charities.

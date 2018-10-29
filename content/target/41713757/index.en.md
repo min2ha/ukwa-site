@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Social Business, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour selects Bradford local to stand against George Galloway
-
 None

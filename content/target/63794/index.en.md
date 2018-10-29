@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Alliance of Pro-Life Students (APS)
-
 The Alliance of Pro-Life Students  is run by students and recent graduates for students.

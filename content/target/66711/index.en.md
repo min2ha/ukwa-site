@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Ninian No. 732
-
 Site of a masonic lodge located in Alyth, Perth & Kinross and affiliated with the Grand Lodge of Scotland.

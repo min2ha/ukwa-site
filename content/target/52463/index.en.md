@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwysi Bedyddwyr Cylch Carn Ingli
-

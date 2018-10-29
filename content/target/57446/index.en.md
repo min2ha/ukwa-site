@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh's Christmas
-
 Site of visitor attractions staged annually in Edinburgh over the Christmas and New Year periods.

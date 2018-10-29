@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP surge would please David Cameron, says Labour frontbencher
-
 None

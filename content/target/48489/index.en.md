@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Chagos Conservation Trust  (CCT)
-
 The Chagos Conservation Trust (CCT) is a UK charity that conducts and promotes conservation work and scientific and historical research in the Chagos Archipelago. This remote cluster of over 55 islands lies in the heart of the Indian Ocean and is surrounded by the world’s largest ‘no-take’ marine reserve. It is a UK overseas territory.

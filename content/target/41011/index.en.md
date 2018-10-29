@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Largs Viking Festival
-
 Site of an annual festival of Viking heritage in Ayrshire focusing on Viking craft, custom and religion.

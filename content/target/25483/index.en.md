@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Poll puts Labour ahead in Margaret Thatcher's former seat
-
 None

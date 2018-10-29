@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T00:00:00Z"
 }
 
-# Royal Asiatic Society, The
-
 The Royal Asiatic Society provides a forum for those who are interested in the history, languages, cultures and religions of Asia to meet and exchange ideas. It offers lectures and seminars and it provides facilities for research and publishing.

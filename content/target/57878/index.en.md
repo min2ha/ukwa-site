@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Unofficial Action Man HQ Forum
-
 An online enthusiast community concerned with collecting Action Man action figures. Discusses figures, equipment & accessories, news and various other related topics.

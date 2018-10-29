@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T00:00:00Z"
 }
 
-# Magnum Photos UK
-
 Renowned Photo Agency, founded in 1947. 

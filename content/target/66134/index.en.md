@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# The Marketing Society
-
 The Marketing Society is an exclusive global network of senior marketers.  Since 1959 we have emerged as one of the most influential drivers of marketing in the business community.

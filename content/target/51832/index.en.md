@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Macpherson's Ossianic Legacy
-
 WordPress site for the Community Engagement Research Project on James Macpherson and the Ossianic Collections, based at Kingussie and at the University of the Highlands and Islands.

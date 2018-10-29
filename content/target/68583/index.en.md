@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Immaculate Heart of Mary Parish, Balornock
-
 Site of a Roman Catholic parish church in Scotland, located at Balornock, Glasgow.

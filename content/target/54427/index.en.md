@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Equity Release Council
-
 The Equity Release Council (ERC/the Council), a not-for-profit organisation, is the industry body for the equity release sector. It aims to fully represent and facilitate the safe growth of the Front of House equity release market by helping to create the conditions which enable the market to develop effectively. 

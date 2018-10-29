@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Auf wiedersehen, Britain: Brexit is forcing my German family to leave the country we call home
-

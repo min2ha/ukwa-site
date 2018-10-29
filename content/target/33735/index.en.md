@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Ben Jennings on David Cameron's 2016 – cartoon
-

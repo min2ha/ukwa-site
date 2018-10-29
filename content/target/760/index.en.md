@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# Royal College of Ophthalmologists
-
 <p>Professional Bodies and trade unions</p>

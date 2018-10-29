@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St George's Healthcare
-
 None

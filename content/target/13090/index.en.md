@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Burden (Labour Politician)
-
 Richard Burden stood as Labour candidate for Birmingham, Northfield in the 2017 General Election  and was elected MP. He first stood in 1992 and has held the seat ever since.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Papur Bro Y Garthen
-
 Papur Bro Y Garthen is a community newspaper for Dyffryn Teifi and covers the towns of Newcastle Emlyn, Cardigan and villages such as Cenarth. 

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Gower Wildlife
-
 This blog provides a resource for people interested in sharing wildlife sightings in Swansea, Neath Port Talbot & adjacent areas.

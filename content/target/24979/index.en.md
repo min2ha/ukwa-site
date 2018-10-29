@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: The morning after... Ed Miliband turns family man after election drubbing leaves him pondering life outside politics
-
 None

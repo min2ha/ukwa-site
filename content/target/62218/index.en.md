@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sinn Féin 'meeting of minds' with EU chief
-
 EU chief negotiator Mr Barnier hosted a Sinn Féin delegation including party president Mary Lou McDonald, vice president Michelle O'Neill and MEPs Martina Anderson and Matt Carthy.
 

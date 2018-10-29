@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Brechin
-
 Site of the Brechin diocese of the Scottish Episcopal Church

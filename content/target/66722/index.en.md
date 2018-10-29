@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Time to march. Because now it’s the Brexiters who are afraid
-

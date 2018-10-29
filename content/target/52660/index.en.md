@@ -10,6 +10,4 @@
   "start_date": "2017-04-29T09:00:00Z"
 }
 
-# Beautiful Barry - Stop the Barry Incinerator
-
 Stop the Barry Incinerator is a pressure group opposing the woodchip burning powerplant at Woodham Rd, Barry Dock. 

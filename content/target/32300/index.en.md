@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cylch Dysgwyr Cymraeg Derby | Derby Welsh Learners Circle 
-

@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Association of Chief Executives of Voluntary Organisations (ACEVO)
-

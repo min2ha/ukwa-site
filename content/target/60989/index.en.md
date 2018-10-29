@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# James Connolly's GFC (@ConnollysGFC) on Twitter
-
 We are a Gaelic Football club serving the community in Birmingham playing in the Warwickshire leagues.

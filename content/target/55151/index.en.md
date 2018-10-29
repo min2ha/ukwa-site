@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MTV: what can masturbation do to your mental health?
-
 Article discussing how masturbation and the internet affect the brain and dopamine

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bethesda Church, Saundersfoot
-
 The Chapel is part of the Presbyterian Church of Wales (Calvinistic Methodist).

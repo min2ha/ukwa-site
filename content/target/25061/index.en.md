@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ethnic voters ‘drop Ed Miliband’ as proportion of Labour-supporting black and Asian voters drops by 20 per cent
-
 None

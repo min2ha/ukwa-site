@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visit London: Tour de France 2014
-
 Official visitor guide to London web page for Tour de France

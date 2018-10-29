@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Media Archive for Central England (MACE)
-
 The Media Archive for Central England (MACE) is the screen archive for the Midlands in the UK. A registered charity, MACE exist to preserve the moving images of the East and West Midlands and provide public access to this material through the website, public screenings, exhibitions, educational workshops and community projects.

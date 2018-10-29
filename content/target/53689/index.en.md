@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Inroads Wales
-
 Inroads is a Cardiff based charity providing supporting individuals around drug and alcohol issues.

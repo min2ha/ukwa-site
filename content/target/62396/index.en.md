@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Peebles Old Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Peebles, Scottish Borders (historically Peeblesshire), covering teh parish of Eddlestone.

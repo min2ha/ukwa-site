@@ -11,5 +11,3 @@
   "subject": "Cornwall"
 }
 
-# An Yeth Kernewek - Cornish Language
-

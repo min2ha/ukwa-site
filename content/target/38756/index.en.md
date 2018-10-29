@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margaret Mccarthy (@MMcCarthy63) on Twitter
-
 Twitter profile of Margaret McCarthy, the Scottish Labour candidate for Strathkelvin and Bearsden in the 2016 Scottish Parliamentary election.

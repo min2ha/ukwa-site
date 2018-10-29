@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Which?
-
 Which? is a consumer organisation providing unbiased reviews and advice on products and services.

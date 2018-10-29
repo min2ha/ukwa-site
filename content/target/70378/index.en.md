@@ -10,6 +10,4 @@
   "start_date": "2018-08-24T09:00:00Z"
 }
 
-#  Felipe Bustos Sierra (@debasersfilums) on Twitter
-
 Filmmaker and creative Director at Debasers Filums.

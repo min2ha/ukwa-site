@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Meghan Beesley : Official Website
-
 <p>The website of athlete Meghan Beesley, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

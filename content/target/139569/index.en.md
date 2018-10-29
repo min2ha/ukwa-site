@@ -10,6 +10,4 @@
   "start_date": "2007-05-04T00:00:00Z"
 }
 
-# Pain Concern
-
 Information and support for pain sufferers, those who care for them and about them.

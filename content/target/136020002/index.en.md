@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Birmingham and Solihull
-
 None

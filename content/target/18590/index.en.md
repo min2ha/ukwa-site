@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Higgins (@calumhiggins) on Twitter
-
 Labour Candidate for Carms East and Dinefwr.

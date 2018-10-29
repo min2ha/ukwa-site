@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# History Workshop Online
-
 History Workshop Online (HWO) is an online magazine that continues the spirit of the History Workshop movement by publishing accessible and engaging articles that deepen understanding of the past for historians and the public.

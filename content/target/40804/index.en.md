@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Everything Portishead (@EvrytPortishead) on Twitter
-
 Sharing news and photos from past through to present with friends from Portishead and beyond.

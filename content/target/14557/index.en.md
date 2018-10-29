@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Bro Ogwr
-
 <p>Menter Bro Ogwr promotes the Welsh language in the Vale of Ogmore.</p>

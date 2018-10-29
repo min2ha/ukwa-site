@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T08:00:00Z"
 }
 
-# Filter, The
-
 Anti-smoking resource for young people in Wales.

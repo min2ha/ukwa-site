@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pinterest: Commonwealth Games Fun
-
 A Young Scot Pinterest page displaying photographs of the Glasgow Green Live Zone which ran during the 2014 Commonwealth Games.

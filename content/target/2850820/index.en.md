@@ -10,6 +10,4 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# UK Web Archive
-
 The UK Web Archive is responsible for preserving the UK web heritage and making it available to researchers. It is a part of the British Library.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Urology Foundation
-
 The Urology Foundation believes that better research and education brings better treatment, diagnosis and prevention of all urological conditions. These include cancer and diseases of the prostate, kidney, bladder and testes, male infertility, erectile dysfunction and incontinence.

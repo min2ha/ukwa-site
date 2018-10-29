@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# THE ONLY WAY IS READING………….
-
 Reviews of contemporary fiction and poetry.

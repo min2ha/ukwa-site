@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband aims to engage non-voting youth with Russell Brand encounter
-
 None

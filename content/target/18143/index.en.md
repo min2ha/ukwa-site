@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's appointment of Lord Prescott is 'desperate', say Labour MPs
-
 None

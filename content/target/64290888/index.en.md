@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Queen Elizabeth II Fields Challenge 2012
-

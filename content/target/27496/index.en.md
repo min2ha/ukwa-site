@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nicola Sturgeon introduces 56 SNP MPs: 'It simply cannot be business as usual'
-
 None

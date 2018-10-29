@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:54:57.427527", 
+  "date": "2018-10-29T13:22:02.933200", 
   "open_access": false, 
   "target_url": "http://www.fjr6.co.uk/", 
   "description": "FJR6 are a WW2 living history group who specifically portray \n\na late war impression of the \n\nground role that the\n\nFallschirmj\u00e4ger \n\n(German paratroopers) of \n\nRegiment 6 undertook, from Normandy through to Holland \n\nand early 1945.", 
   "end_date": null, 
   "title": "FJR6: The Green Devils of Carentan ", 
-  "record_id": "20181029T125457/ra+pOYSANMNH8xvIEMtsuA==", 
+  "record_id": "20181029T132202/ra+pOYSANMNH8xvIEMtsuA==", 
   "publisher": "fjr6.co.uk", 
   "start_date": null
 }
-
-# FJR6: The Green Devils of Carentan 
 
 FJR6 are a WW2 living history group who specifically portray 
 

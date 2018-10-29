@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# 38 degrees: Shared Parenting: Support 50/50 Parental Equality.
-
 Petition to support parental equality

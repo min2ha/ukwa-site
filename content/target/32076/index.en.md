@@ -10,5 +10,3 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Treorchy Branch of Plaid Cymru
-

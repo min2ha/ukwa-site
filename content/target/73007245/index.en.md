@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# QueenSpark Books - Brighton & Hove's community publisher
-
 None

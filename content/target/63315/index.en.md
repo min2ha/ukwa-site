@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Reuters UK: Stephen Hawking
-
 Reuters UK for the latest news, business, financial and investing news, including personal finance. These are the articles relating to Stephen Hawking

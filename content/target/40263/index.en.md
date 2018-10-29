@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Statement by Chris Grayling, Conservative MP, Epsom & Ewell 
-
 EU Referedum Statement by Chris Grayling, Conservative MP, Epsom & Ewell

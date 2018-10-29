@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail: Two-faced Corbyn can't have it both ways on the EU forever 
-
 Comments on the Labour Party's internal divisions over Brexit which have led to policy contradictions. There are serious disagreements between its MPs combined with a cynical desire to take any line it believes will embarrass the Tory Government.

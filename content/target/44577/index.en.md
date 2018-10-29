@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Dalston Eastern Curve Garden
-
 The Dalston Eastern Curve Garden has been created on the old Eastern Curve railway line which once linked Dalston Junction Station to the goods yard and the North London Line.

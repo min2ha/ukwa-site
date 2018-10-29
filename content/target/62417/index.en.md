@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Mellington Hall Hotel
-
 Mellington Hall is a 19th Century Victorian Gothic Mansion that has 280 acres of landscaped grounds next to the ancient earthwork of Offa’s Dyke. It is located in Mellington, Powys.

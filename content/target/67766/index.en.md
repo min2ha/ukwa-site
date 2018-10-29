@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Eden  Mill
-
 Site of a distillery (whisky and gin) and brewer, located at St. Andrews, Fife.

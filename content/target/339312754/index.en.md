@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sam Gould (UKIP candidate for Caerphilly)
-

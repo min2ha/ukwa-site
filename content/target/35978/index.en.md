@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Prime Minister shouldn't engage in hand-to-hand combat with Boris
-

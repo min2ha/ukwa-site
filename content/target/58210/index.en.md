@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SANE: Free Support Forum 
-
 SANE: Charity offering free online support

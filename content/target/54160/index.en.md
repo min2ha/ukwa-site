@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Intellectual Property Office: IP and Brexit: the facts
-
 Facts on the future of intellectual property laws following the decision that the UK will leave the EU. 

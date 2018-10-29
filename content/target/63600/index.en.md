@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Popsugar : Stephen Hawking
-
 Subsection on Stephen Hawing quotes

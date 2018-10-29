@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-#  Bethany Baptist Church, West Cross, Swansea
-
 We are an Evangelical Baptist Church seeking to bring to our community the Good News of Jesus Christ.  We are also one of the founding churches of Christians Against Poverty [CAP] Swansea, and have an involvement with the Mumbles FoodBank.

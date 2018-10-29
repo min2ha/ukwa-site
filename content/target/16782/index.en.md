@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bowel Cancer UK: General Election 2015
-
 Since 1987 they have been aiming to save lives and improve the quality of life for all those affected by bowel cancer. 

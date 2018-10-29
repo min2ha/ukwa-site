@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Is this evidence of a Tory plot to split Labour's vote? MP tells voter to back the Greens
-
 None

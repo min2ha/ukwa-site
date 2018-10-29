@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Beauty Naturals
-
 Skin Care, Make-Up, Cosmetics, Hands, Nails, Feet, Body, Bath, Hair. Free UK Delivery.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yeovil Town Ladies FC
-
 Yeovil Town Ladies FC offical home page for TheFA Women's Super League.

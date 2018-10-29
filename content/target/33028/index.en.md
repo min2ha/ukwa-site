@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tubblog
-
 Tubblog is maintained by Richard Tubb, an independent business consultant. His blog offers opinion, news and information for IT companies. 

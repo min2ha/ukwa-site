@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Centre for Policy Studies (CPS)
-
 The Centre for Policy Studies believes in freedom and responsibility. One of Britain’s best known and most think tanks, the Centre develops and promotes policies to limit the role of the state, to encourage enterprise and to enable the institutions of society – such as families and voluntary organisations - to flourish.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kesteven RFC (@kestevenrugby) on Twitter
-
 Kesteven RFC is the official rugby club of Grantham, Lincolnshire. 

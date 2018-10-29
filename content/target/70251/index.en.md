@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cooksongold Jewellery Making Supplies Forum
-
 A forum for jewellery making enthusiasts 

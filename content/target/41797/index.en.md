@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Edinburgh Trans Women
-
 Site of a support group aimed at transgender and transsexual women in the area of Edinburgh.

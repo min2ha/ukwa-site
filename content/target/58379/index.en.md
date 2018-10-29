@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Monocle
-
 In 2007, Monocle was launched as a magazine briefing on global affairs, business, culture and design. The Monocle head quarters are at Midori House in London.

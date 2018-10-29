@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hartlepool Voluntary Development Agency - Hartlepool LINk
-
 None

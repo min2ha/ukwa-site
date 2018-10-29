@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Difficult day for prime minister but not a disaster
-
 Theresa May managed to roll Donald Trump back from outright and overt criticism of her, and her Brexit policy, before their press conference at the end of his visit.
 

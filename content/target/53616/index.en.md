@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kizzi Johannessen (Green Party  Politician)
-
 Kizzi Johannessen stood as Green Party candidate for Reading East in the 2017 General Election but was not elected. This is her crodfunder campaign to crowdfund her election.

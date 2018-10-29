@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dani King | Olympic Champion, 2 x World Champion and World Record Holder
-
 The website of cyclist Dani King, member of Team England for the Glasgow 2014 Commonwealth Games.

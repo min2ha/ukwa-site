@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HuffPost: From Gracie Francesca To Sad Girls Club: 7 Instagram Accounts Inspiring Better Mental Health
-
 HuffPost article about instagram and mental health

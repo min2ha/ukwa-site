@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Church of Scotland, The: Imagining Scotland's future
-
 None

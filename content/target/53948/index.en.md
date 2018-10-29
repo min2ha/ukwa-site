@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Something New
-
 Something New is a political party in England, founded in October 2014. The party is primarily based on the concept of an open-source manifesto, which means that it could be described as a party of the radical centre, as it combines ideas from the left and right of politics. It could also be described as syncretic. As such, Something New has no fixed ideology and instead believes in evidence-based policy creation.

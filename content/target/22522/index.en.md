@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's £1 billion Scottish promise funded by south-east mansion tax
-
 None

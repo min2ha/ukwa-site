@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wantage Betjeman Literary Festival
-
 Wantage (not just) Betjeman Literary Festival

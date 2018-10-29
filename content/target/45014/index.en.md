@@ -10,6 +10,4 @@
   "start_date": "2016-08-12T10:00:00Z"
 }
 
-# Saturday night at the Black Cardigan and the swinging sixties | Aberteifi a'r chwedegau (1960au!)
-
 The website accompanies the book 'Saturday Night at the Black: Cardigan in the Swinging Sixties' by William H. Howells.

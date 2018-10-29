@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The Guardian view on Brexit: now is the time to change course
-

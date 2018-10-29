@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Tom Davoren
-
 Tom Davoren is a Welsh composer and conductor and is regularly commissioned by brass and wind musicians from across the globe. 

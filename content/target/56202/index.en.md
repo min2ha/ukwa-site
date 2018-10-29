@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Christina Thatcher - Teach, WrIte, Research
-
 Christina Thatcher is a Creative Writing tutor at Cardiff University. Her debut poetry collection, More than you were, was published by Parthian Books in April 2017.

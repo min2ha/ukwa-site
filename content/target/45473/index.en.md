@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Martin Lennon Films
-
 SIte of an independent documentary film maker based in Edinburgh.

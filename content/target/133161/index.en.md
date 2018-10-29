@@ -10,5 +10,3 @@
   "start_date": "2006-06-05T23:00:00Z"
 }
 
-# Forum for the Future
-

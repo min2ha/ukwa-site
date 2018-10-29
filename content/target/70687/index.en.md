@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Glasgow Alphas 
-
 Site of a LGBT+ inclusive rugby club based in Glasgow.

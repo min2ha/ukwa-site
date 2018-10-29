@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Active East
-
 <p>Active East is a programme which aims to help young people in the East of Glasgow to gain skills and  increase their levels of physical activity through volunteering.</p>

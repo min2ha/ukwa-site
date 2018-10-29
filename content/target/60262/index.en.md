@@ -10,5 +10,3 @@
   "start_date": "2018-01-13T09:00:00Z"
 }
 
-# North Wales Basketball Association
-

@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Earth-friendly gardener
-
 Earth-friendly gardener is a website by John Walker, a British gardening and environment writer, book author and blogger living in Snowdonia.

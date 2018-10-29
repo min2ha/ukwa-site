@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# CHITCHAT LANGUAGES CAFÉ
-
 We already run evening classes in many languages but want to go a little bit further and offer you the chance of a chitchat in a relaxed and fun atmosphere.

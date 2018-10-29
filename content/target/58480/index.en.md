@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Annika Spalding in my own words
-
 Personal blog of Annika Spalding. "Annika Spalding is an award-winning author of four books, a Writing Coach and advocate for female empowerment. An ambassador for Free Your Mind, Annika is open about using her experiences of childhood domestic violence, anxiety and depression, to inform and inspire through her blog" (ASTONish).

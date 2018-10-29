@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Spectator Blog: Second EU referendum petition gets debate go-ahead. But what's the point?
-
 Blog post concerning second EU referendum petition

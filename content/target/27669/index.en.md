@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: BBC at war with Cameron over new Culture Secretary who said the licence fee was 'worse than the poll tax'
-
 None

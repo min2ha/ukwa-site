@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Smash EDO
-
 Campaign group which works to close arms component manufacture EDO. 

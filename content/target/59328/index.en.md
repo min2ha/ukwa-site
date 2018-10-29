@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Get this ship off the rocks!' Boris demands EU starts trade talks after PM 'agrees £50billion divorce deal' - as Brexiteers say MPs MUST get vote on DECADES more payments to Brussels  
-

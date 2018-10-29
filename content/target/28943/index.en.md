@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP City of Leicester
-
 Website of UKIP Leicester branch - information on branch officials 2014-15, how to contact and join UKIP Leicester.

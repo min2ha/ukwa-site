@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IT Services from BT
-
 IT Services from BT offer customers  design, delivery, management and support services.

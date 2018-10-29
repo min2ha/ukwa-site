@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Barack Obama 'will urge British voters to remain in EU during April visit'
-
 Telegraph, The: Barack Obama 'will urge British voters to remain in EU during April visit'

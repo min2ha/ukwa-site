@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Catholic Herald: The Vatican's British foreign minister says Britain should stay inside the EU
-
 Archbishop Gallagher said, with regards to the Eu referendum: “We respect the ultimate decision of the British people, that’s for the British electorate to decide. We would see it as not something that would make a stronger Europe. Better in than out.”

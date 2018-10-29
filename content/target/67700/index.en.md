@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Windswept Brewing Co. Ltd.
-
 Site of a brewer located at Lossiemouoth, Moray.

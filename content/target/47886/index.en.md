@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Network for the Study of Caroline Minuscule
-
 A forum for scholars interested in the study of manuscripts written in Caroline minuscule and the palaeographical issues they raise.

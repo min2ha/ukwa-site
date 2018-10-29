@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In Scotland, an epic political journey is under way, its destination as yet unknown
-
 None

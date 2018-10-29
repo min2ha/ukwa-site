@@ -11,6 +11,4 @@
   "subject": "English Language"
 }
 
-# Samuel Johnson Birthplace Museum & Bookshop, The
-
 None

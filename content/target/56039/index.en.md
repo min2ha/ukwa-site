@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Karen Sherrard, Comedy Writer and Performer
-
 Karen Sherrard is a Comedy Writer and Performer specialising in character comedy and travelling the comedy circuit of south Wales.

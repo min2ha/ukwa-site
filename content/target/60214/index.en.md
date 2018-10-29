@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# From Flanders Fields to Slater's Field
-
 we received a grant from the Lottery Heritage Fund to help fund a project to commemorate WW1. We are planning lots of different activities and experiences through which we will all research facts about World War One and its impact on the local area. Each year group is going to focus on one area of research and then we are going to share our learning with one another and with the wider community.

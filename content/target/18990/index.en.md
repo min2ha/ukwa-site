@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Magna Carta visit for Salisbury Cathedral pupils
-

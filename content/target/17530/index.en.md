@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron rejects bishops' warning against scapegoating people on benefits
-
 None

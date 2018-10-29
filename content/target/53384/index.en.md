@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Country Landowners Association: Priorities for Government: General Election 2017
-
 Calls on government to: deliver a Brexit that works for the countryside; create the homes that rural areas need; end the digital divide for rural communities; simplify planning in rural areas; and design a tax regime that encourages rural businesses.

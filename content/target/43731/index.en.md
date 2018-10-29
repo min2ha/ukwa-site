@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Millions begin casting their votes in Britain's historic referendum as the latest polls show the Remain camp is in the lead by six points - but will the weather swing it for Brexit?   
-

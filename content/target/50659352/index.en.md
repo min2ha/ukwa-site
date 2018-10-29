@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Glyn Davies
-
 Glyn Davies is a Welsh photographic artist.

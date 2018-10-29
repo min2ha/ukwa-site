@@ -10,6 +10,4 @@
   "start_date": "2017-09-30T09:00:00Z"
 }
 
-# Hospitalfield
-
 A cultural organisation for artists and for education in the arts based in Arbroath, in Angus.

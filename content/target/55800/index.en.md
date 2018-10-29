@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Liam Fox (@LiamFox) on Twitter (Secretary of State for International Trade and Conservative MP for North Somerset)
-
 Liam Fox, Conservative MP for North Somerset, describes his work as Secretary of State for International Trade.

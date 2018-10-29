@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# South Atlantic Remote Territories Media Association
-
 The news that matters from the
 British Territories in the South Atlantic Ocean.

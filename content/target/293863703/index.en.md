@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Women for Independence
-
 Women for Independence are a network of women who support Scottish independence and campaigned for a yes vote in the referendum of 18 September 2014.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jagmeet Singh (@Jagmeet4WlvesSW) on Twitter (Independent  Politician)
-
 Jagmeet Singh stood as an Independent candidate for Wolverhampton South West at the 2017 General Election but was not elected.

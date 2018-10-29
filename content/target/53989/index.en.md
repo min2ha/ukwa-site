@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sarah Jones ( @LabourSJ) (Labour Politician)
-
 Sarah Jones stood as Labour candidate for Croydon Central at the 2017 General Election and was elected to serve as MP.

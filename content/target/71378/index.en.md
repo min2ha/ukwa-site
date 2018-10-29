@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# London fixed-gear and single-speed forum for cyclists
-
 A UK-based forum for fixed-gear and single-speed cyclists 

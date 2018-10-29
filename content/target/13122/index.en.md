@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Arsenal F.C.
-
 Arsenal Football Club is a professional football club based in Highbury, London.

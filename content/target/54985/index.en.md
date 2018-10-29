@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cambridge Stays
-
 Cambridge Stays is a cross-party, collaborative group campaigning for the UK to remain a member of the European Union.

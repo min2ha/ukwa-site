@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# British Railways Amateur Radio Society (BRARS)
-
 Membership of this society is open to employees of British railway companies, railway enthusiasts who have an interest in amateur radio and amateur radio enthusiasts who have an interest in rail transport.

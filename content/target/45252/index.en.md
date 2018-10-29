@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Amy Johnson Festival
-
 This web site documents a festival to mark the 75th anniversary of the death of Amy Johnson, pioneering British aviator. Born in Hull in 1903, Amy Johnson CBE was the first woman to fly solo from England to Australia.

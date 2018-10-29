@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# West Wickham Today
-
 None

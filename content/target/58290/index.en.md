@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Bragod
-
 Bragod is a musical collaboration between Welsh instrumentalist Robert Evans and a Trinidadian singer Mary-Anne Roberts. They are unique in interpreting Welsh music and poetry from the 6th century to the 19th century, using original instruments and sources. 

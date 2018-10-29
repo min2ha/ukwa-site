@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Rouken Glen Park
-
 Site of a public park at Giffnock East Renfrewshire.

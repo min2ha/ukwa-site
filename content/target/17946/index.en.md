@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Brewery History Society
-
 The Brewery History Society was founded in 1972 and it promotes research into all aspects of the brewing industry, encourages the interchange of information about breweries and brewing, collects photographic and other archive information about brewery history. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: FTSE 100 breaks 15-year record to hit new high as Osborne is bolstered by 'pat on the back' for economic strategy
-
 None

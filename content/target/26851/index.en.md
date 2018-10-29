@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Project Blog
-
 Blog of the Magna Carta Project http://magnacartaresearch.org/. 

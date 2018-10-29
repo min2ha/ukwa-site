@@ -10,5 +10,3 @@
   "start_date": "2006-05-03T00:00:00Z"
 }
 
-# NaCTeM: The National Centre for Text Mining
-

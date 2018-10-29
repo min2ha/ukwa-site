@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: No 10 deny plan for Army role in 'no deal' Brexit
-
 Downing Street said there were no plans to use the Army to maintain food and other supplies in the event of the UK leaving the EU with no Brexit deal.
 

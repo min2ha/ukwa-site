@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Comunn na Gàidhlig (CnaG)
-
 Comunn na Gàidhlig (CnaG), the co-ordinating Gaelic Development Agency.

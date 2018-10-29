@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Carew Castle & Tidal Mill
-
 The Pembrokeshire Coast National Park is a special place and needs careful management to look after it for everyone to enjoy, now and in the future. At the Park Authority we’re charged with keeping the Park special.

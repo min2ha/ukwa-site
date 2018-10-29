@@ -11,5 +11,3 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Research Information: 'Creating an archive just for a giggle' (British Stand-Up Comedy Archive)
-

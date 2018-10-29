@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Ucheldre Repertory Company
-
 The Ucheldre Repertory Company was formed in 1994 and is a resident theatre company based at the Ucheldre Centre in Holyhead.

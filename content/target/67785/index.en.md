@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Heidrun Brewing Co.
-
 Site of a brewer located in Glasgow.

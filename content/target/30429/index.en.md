@@ -10,5 +10,3 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Scottish Refugee Council: Refugee crisis: How you can help
-

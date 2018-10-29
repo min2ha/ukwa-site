@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig nan Loch / Lochs Gaelic Choir on Facebook
-
 Site of a Gaelic language choir located at Lochs, on the Isle of Lewis.

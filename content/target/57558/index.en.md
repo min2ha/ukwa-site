@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Moniaive Michaelmas Bluegrass Festival
-
 Site of a community music festival at Moniaive, Dumfries & Galloway, seeking to promote bluegrass and 'old timey' music while encouraging people of all ages to begin to learn an instrument associated with the genres.

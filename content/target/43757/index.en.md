@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Huntingdonshire Green Party
-
 Website of Huntingdonshire Green Party, providing information on campaigns, party officers and committee members and local news.

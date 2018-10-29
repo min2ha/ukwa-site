@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Revels
-
 Russian Revels was formed in 2011 with an aim to transform the image of Eastern-Europe in London through cuisine.

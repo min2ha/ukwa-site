@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# North Light Arts
-
 Site of an arts organisation which creates opportunities for local and international artists to develop site-specific public art, exhibitions and community participation that is relevant and meaningful both locally and globally - but based in and around Dunbar, East Lothian.

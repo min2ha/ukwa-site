@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Arcola Theatre
-
 Arcola Theatre has two theatre spaces. Arcola aims to be the world’s first carbon-neutral theatre. Our pioneering environmental initiatives, developed in partnership with Arcola Energy

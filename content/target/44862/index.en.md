@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Olympics Sports News - Arabic
-
 The BBC Olympics sports news home page in Arabic.

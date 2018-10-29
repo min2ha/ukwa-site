@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Cordia (Services) LLP
-
 Website of a provider of home care and facilities management services. 

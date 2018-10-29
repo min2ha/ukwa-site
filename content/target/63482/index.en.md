@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Nature.com: Stephen Hawking (1942–2018)
-
 Nature.com: an obituary for Stephen Hawking

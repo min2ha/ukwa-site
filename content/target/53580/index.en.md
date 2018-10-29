@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberfeldy Festival
-
 Site of an annual arts festival located in Aberfeldy, Perthshire. 

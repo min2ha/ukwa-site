@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tories in historic by-election Copeland win as Labour holds Stoke
-
 Conservative candidate Trudy Harrison won the Copeland by-election with 13,748 votes to 11,601 for Labour's Gillian Troughton. Labour's Gareth Snell held Stoke-on-Trent Central with 7,853 votes, seeing off a challenge from UKIP leader Paul Nuttall who got 5,233.

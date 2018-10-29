@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# For Reading Addicts: 20th Anniversary Edition for Harry Potter and the Philosopher’s Stone
-

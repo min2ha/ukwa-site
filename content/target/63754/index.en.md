@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Garrison Church
-
 The website of St. Andrew’s Garrison Church

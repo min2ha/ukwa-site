@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour knows it cannot risk being dragged into war with business
-
 None

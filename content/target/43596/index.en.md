@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Legatum Institute, EU Referendum
-
 A list of articles and publications relating to the EU referendum, generally supporting the Remain campaign.

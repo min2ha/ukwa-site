@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Swindon County Ground
-
 The Energy Check County Ground is a stadium located near the town centre of Swindon, England, and has been home to Swindon Town Football Club since 1896. The current capacity of 15,728, all-seated, has been at that level since the mid-1990s.

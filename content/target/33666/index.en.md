@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Cameron 'trapped by walkout threat' over free vote on the EU: Key ministers 'were ready to quit Cabinet over right to back anti-Europe referendum'   
-
  

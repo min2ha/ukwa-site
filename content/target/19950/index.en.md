@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Anthony Elston - Pirate Party UK on Facebook
-

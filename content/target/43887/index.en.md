@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Mercy Online
-
 Experimental literature and new media organisation. Previous commissions include a monthly e-zine, along with a number of performance and digital pieces. 

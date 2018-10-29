@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Katy Beddoe on Facebook (Green Party candidate for Islwyn and South Wales East)
-
 Katy Beddoe is the Green Party candidate for North Wales at the 2016 National Assembly Election. 

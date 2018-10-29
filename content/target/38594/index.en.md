@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Whalsay Heritage and Community Centre
-
 Site of a heritage society and its museum and community centre located on the island of Whalsay, Shetland, Scotland.

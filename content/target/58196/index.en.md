@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: How Twitter helped me come to terms with depression
-
 Telegraph article about Twitter helping people with depression 

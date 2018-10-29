@@ -10,6 +10,4 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Fulneck Moravian Church
-
 Website of the historic Fulneck Moravian Church and Moravian Settlement, including the Fulneck Museum.

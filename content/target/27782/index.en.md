@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Schools given £10,000 for 'Magna Carta Mardi Gras' celebration
-

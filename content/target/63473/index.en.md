@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Production Engineering Solutions magazine (PES magazine) 
-
 Delivering the latest news, product developments, topical features, application stories and event previews from across the UK manufacturing industry.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV: Scotland Decides | Scottish Independence Referendum
-
 <p>The Scottish Independence Referendum pages of Scottish Television (STV) News, containing links to news, debates, polls, analysis and guides.</p>

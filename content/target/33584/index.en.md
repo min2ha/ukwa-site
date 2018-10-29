@@ -10,6 +10,4 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Birthlink
-
 Birthlink is a charity which promotes the welfare of all people affected by adoptions with a Scottish connection.

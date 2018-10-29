@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Tom MacLennan (@huntsgreentom) on Twitter (Green Party candidate for Huntingdon)
-

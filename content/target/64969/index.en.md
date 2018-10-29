@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wilderness Scotland
-
 Range of guided & self-guided walking, sea kayaking & adventure holidays in Scotland. 

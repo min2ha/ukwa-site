@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ignite Dundee
-
 Site of an annual creative and visual arts festival located in Dundee, Scotland.

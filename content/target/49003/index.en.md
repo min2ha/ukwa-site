@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Dundee International Book Prize
-
 Site of a international literary prize based in Dundee, Scotland, and aimed at debut novels and novelists.

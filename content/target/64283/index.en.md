@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Letham St. Mark's
-

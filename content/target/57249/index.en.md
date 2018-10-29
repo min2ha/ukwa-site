@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Glen Manby Jazz Saxophonist
-
 Glen Manby is an alto saxophonist and composer based in Cardiff.  He was recently awarded an Arts Council of Wales Project Grant to compose, arrange and record a new repertoire.

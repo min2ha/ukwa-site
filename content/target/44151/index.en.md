@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jill Seymour (UKIP MEP for the West Midlands)
-
 Jill Seymour stood as UKIP candidate for the West Midlands at the 2014 European Parliament election and was elected to serve as MEP.

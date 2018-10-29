@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Conservatives will have the most MPs in next election, says Nigel Farage
-
 None

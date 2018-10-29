@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Corinne Fowler (@corinne_fowler) on Twitter
-
 She is the Director of the Centre for New Writing, which seeks to diversify literary voices beyond the metropolitan mainstream. She specialises in contemporary writing by black and Asian Britons (concentrating on regional writing, literary economy and rurality) with an additional specialism in travel writing. This is her official Twitter account.

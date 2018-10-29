@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Scottish Archive Network (SCAN) Education: Women's Suffrage in Scotland
-
 This site is designed to support learning and teaching of Women's Suffrage in Scotland in secondary schools in Scotland at Standard Grade, Intermediate and Higher National Certificate levels. Presenting sources of evidence to help explore how women won the vote.

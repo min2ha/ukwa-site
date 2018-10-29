@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Cotswold Friends
-
 Cotswold Friends are a local charity providing friendship, support and transport to older and vulnerable people in the north Cotswold community. They aim to combat loneliness and isolation with our voluntary services, which improve health and wellbeing and support independent living.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Edinburgh Woollen Mill
-
 Edinburgh Woollen Mill is a retailer specialising in clothing. 

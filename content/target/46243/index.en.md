@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Nairn County Football Club
-
 Site of a Scottish football club based in Nairn, Moray, Scotland.

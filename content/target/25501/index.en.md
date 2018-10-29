@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories pledge to take family homes out of inheritance tax
-
 None

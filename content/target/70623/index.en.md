@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Archive Wales
-
 Women’s Archive Wales works to raise the profile of women’s history in Wales and preserve the sources which tell their story.

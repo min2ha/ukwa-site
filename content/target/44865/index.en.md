@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Jenga PLC
-
 The Jenga Group is a real estate company involved in both property development and property investment. It was founded by Mahesh Patel and Hiten Shah and works mostly in London.  

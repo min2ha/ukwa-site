@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Communist Party of Britain Marxist-Leninist
-
 The Communist Party of Britain Marxist-Leninist was founded in 1968. It campaigns for an independent, self-sufficient, self-reliant Britain solely dedicated to the interests of the British working class and the rout of capitalism..
 

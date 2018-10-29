@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Holloway, University of London: Betraying the Legacy of Magna Carta - Torture, Rendition, and Extrajudicial Killing in the 21st Century
-

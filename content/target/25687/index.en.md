@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Secret' Tory plans for £8bn in welfare cuts exposed by Danny Alexander
-
 None

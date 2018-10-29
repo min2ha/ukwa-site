@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Connect Cymru
-
 Connect Cymru provides information on accessible international volunteering opportunities, education and events for young people across Wales and abroad.

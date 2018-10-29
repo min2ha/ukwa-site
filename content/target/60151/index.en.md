@@ -10,6 +10,4 @@
   "start_date": "2018-05-08T09:00:00Z"
 }
 
-# Digital Library Futures
-
 The Digital Library Futures project: a study of "how legal deposit collections are accessed and used, and to what extent these collections should support contemporary research in academic libraries".

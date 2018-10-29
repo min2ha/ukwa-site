@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Family Letters - letters home from 5 brothers during the great war
-

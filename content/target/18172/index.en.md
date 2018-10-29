@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Whitehall 'must start planning for SNP power deal'
-
 None

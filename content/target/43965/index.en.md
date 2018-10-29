@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spate of racist attacks blamed on Brexit vote
-
 The EU Referendum result has been blamed for a spate of racist attacks over the weekend - including “no more Polish vermin” cards posted through letter boxes and allegedly racist graffiti daubed across a Polish cultural centre. 

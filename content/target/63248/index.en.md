@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Community Council of United Kingdom
-
 The Chamber of Russian Communities (formerly the Coordinating Council of the Organizations of Russian Compatriots) is a representative, advisory body of public organizations of Russian compatriots in Great Britain and Northern Ireland, created collectively on a voluntary basis.

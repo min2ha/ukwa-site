@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Sian O'Doherty
-
 Sian O’ Doherty is an award winning textile artist and designer located in Pembrokeshire.

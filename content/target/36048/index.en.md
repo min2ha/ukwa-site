@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# S-A Somerville (@S_A_Somerville) on Twitter
-
 The Twitter profile of Shirley-Anne Somerville, the Scottish National Party candidate for Dunfermline in the 2016 Scottish Parliament election.

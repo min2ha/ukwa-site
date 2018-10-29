@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Putin's lying machine: Revealed, how Russia's spewing out ruthless propaganda from a Moscow-funded TV station - right next to Westminster   
-

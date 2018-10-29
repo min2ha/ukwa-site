@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Human Genetics Commission
-
 None

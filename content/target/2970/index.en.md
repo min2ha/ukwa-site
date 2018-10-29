@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Open Street Map
-
 OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. Content is added and moderated by the user community.

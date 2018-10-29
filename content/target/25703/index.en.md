@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sunderland sets its sights on first place in the UK's other election race
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Selkirk Film Club
-
 Site of a film club showing commercial films in the town of Selkirk, Scottish Borders.

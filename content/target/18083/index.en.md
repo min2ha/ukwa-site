@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tory rift over PM's pledge to slash migrant numbers
-
 None

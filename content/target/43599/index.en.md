@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Committee to Project Journalists (CPJ):   Press freedom at risk as EU struggles to match action with values
-
 An article concerned with press freedoms in the EU, claiming that the EU fails to protect freedom of the press when member states restrict journalists.

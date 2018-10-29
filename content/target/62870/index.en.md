@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Education Executive: Nine out of 10 heads say social media is damaging the mental health of pupils
-
 Article from a webiste that is focused on the education sector. The articel refers to The Association of School and College Leaders (ASCL) survey that found 9 out of 10 headteachers believe that social media use is damaging the mental health of pupils

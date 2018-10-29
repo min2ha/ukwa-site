@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Gwaun Cae Gurwen Band
-
 Gwaun Cae Gurwen Band is a brass band formed in 1892 in the former welsh mining village of Gwaun Cae Gurwen, near Neath.

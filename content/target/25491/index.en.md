@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The SNP would get more votes than Lib Dems if they fielded candidates throughout the UK
-
 None

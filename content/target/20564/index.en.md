@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Natalie Bennett comes good amid conference chaos 
-

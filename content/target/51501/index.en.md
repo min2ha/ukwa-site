@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Brew at the Bog Festival
-
 Site of a music festival located at Bogbain Farm, Inverness.

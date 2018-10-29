@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's Church -making Jesus famous
-
 None

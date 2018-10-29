@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: zero-hours contracts an 'epidemic' - video
-
 None

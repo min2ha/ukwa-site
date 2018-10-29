@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Alternative Cabaret 1979-1982
-
 Website documenting 'Alternative Cabaret', a London-based collective of politically motivated performers which formed in 1979, at the beginning of the Alternative Comedy style..

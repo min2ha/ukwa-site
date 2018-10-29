@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Don’t blame young voters: new film from ‘UK in a Changing Europe’
-
 Video targeted to youth about referendum

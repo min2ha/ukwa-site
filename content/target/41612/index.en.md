@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Progress Estate Residents Association
-
 This is the official site of The Progress Estate Residents' Association (PRA), Eltham, SE9.

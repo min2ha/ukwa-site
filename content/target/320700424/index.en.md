@@ -10,5 +10,3 @@
   "start_date": "2015-07-06T00:00:00Z"
 }
 
-# Castles of Wales, The
-

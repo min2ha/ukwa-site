@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# West End at War - history, photos, memories, and maps of London during the Second World War
-
 None

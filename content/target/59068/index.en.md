@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Hebrew Project (@) on Twitter
-
 Introducing the Hebrew Manuscripts Digitisation Project, making available online our rich collection @britishlibrary

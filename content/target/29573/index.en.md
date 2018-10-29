@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cwmni Mega
-
 Travelling Welsh language theatre company based in west Wales.

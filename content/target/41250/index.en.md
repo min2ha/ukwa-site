@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Guardian, The: BBC climbdown over online recipes after public outcry
-
 The corporation says the bulk of its 11,000 recipes will be moved over to its BBC Good Food site owned by commercial arm.

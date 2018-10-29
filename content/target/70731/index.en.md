@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Uxbridge Rugby Football Club on Pitchero
-
 The official website of Uxbridge Rugby Football Club.

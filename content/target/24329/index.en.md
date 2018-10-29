@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBc News: Election 2015: Sinn Féin seeking £1.5bn for NI after May poll
-
 None

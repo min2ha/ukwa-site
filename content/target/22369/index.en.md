@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Gillibrand, UKIP PPC for Dwyfor Meirionnydd
-
 Blog for Christopher Gillibrand, UKIP PPC for Dwyfor Meirionnydd

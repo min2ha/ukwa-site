@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Why Angela Merkel's humiliation could be just the Brexit boost we need
-
 Argues that we should not heed the siren voices saying that Mrs Merkel's difficulties will make Brexit more complicated.
 The reality is that Germany's political crisis is a symptom of the disease at the heart of the EU. Across Europe, voters are registering their discontent with the status quo

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tony Blair brands Brexit a 'mistake of destiny' and demands a rethink to stop it ever happening in yet another call for a second referendum
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Len McCluskey: Ed Miliband's 'minnows' are briefing against Unite to make leader look 'macho'
-
 None

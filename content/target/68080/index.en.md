@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# OF&G Organic
-
 OF&G certify more than half of UK organic land & provide support, information and licensing to Britain’s top organic food businesses.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Challenging the morality and legality of Tories’ right to buy
-
 None

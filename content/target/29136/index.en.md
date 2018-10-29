@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# STV News: Queensferry crossing apprentice third generation to work on bridges
-

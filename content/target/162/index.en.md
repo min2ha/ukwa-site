@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford University Hospitals
-
 None

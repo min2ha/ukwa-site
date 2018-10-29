@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: What just happened in Salzburg? The EU view
-
 EU frustration with Theresa May grew when the prime minister arrived in Salzburg insisting unequivocally that her Chequers Brexit proposal was the only way forward, after rejecting their new suggestions for avoiding a hard Irish border.
 

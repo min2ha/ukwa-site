@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hastings and Rye Labour
-
 Website of Hastings & Rye Constituency Labour Party, giving information about Peter Chowney, the Labour candidate at the 2017 general election.

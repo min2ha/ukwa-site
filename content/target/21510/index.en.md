@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: DUP's Nigel Dodds backs the Telegraph leaders' digital debate - even though he won't be taking part
-
 None

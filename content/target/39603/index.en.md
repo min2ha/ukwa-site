@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alice Hooker-Stroud on Facebook (Green Party candidate for Mid and West Wales)
-
 Alice Hooker-Stroud is the Green Party candidate for Mid and West Wales at the 2016 National Assembly Election. 

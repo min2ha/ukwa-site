@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# onservative Home: Let’s make Brexit bold, inspiring and green – not timid and apologetic
-
 Calls for a new Environment Act to restore nature, reinvigorate our green economy, and inspire the world with our environmental conviction after Brexit.

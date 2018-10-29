@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Frontier Science (Scotland) Ltd
-
 "A Not for Profit Company experienced in the Design, Conduct and Analysis of Clinical Trials"

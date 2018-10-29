@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Anna Wigley: poetry and prose
-
 Anna Wigley is a Welsh author whose books are published by published by Gomer Press.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T08:00:00Z"
 }
 
-# Co-production Wales 
-
 Co-production Wales (All in this Together) is a values-led social enterprise with the aim of transforming Wales into a society that places co-production principles at the heart of its public services, its communities, and the lives of its citizens.

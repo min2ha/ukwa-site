@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Pete Kennedy on Facebook (Green Party candidate for Doncaster North)
-

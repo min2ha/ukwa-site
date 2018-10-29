@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Letter from 90 tech entrepreneurs praises Conservatives' industry support
-
 None

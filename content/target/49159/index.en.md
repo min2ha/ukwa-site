@@ -10,5 +10,3 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Wrexham County Borough Council: HMP Berwyn - North Wales Prison in Wrexham
-

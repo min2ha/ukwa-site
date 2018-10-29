@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Ecologia Youth Trust | Supporting Disadvantaged Youth
-
 Ecologia Youth Trust enables disadvantaged young people to realise their potential & support sustainability in their communities.

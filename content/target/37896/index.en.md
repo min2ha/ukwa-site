@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Why this lifelong Eurosceptic is now voting to stay in
-

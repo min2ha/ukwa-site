@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Cost of Brexit: Migration to fall by 84,000 a year, but will cost UK taxpayer up to £5000 - EU referendum latest
-

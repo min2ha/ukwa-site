@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Barry Railway Carriage Trust, The
-
 The Barry Railway Carriage Trust was formed in 2009 to restore 1895 built former Barry Railway carriage 163 to service on the Severn Valley Railway.

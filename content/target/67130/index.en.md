@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Scottish Fiction
-
 Scottish Fiction is a music blog that focuses on Scottish music.

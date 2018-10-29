@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Fence Records
-
 Site of a small musical collective and record company based in Fife.

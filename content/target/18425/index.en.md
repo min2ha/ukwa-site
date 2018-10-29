@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband urged to use Scotland visit to reject SNP deal
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Roleplayers Forum
-
 An online enthusiast forum concerned with role playing games.The forum discusses roleplaying products, RPGs, miniatures, Live Action Role playing (LARP), ideas for campaigns, and various other related topics.

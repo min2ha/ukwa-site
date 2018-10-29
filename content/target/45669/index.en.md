@@ -10,5 +10,3 @@
   "start_date": "2016-09-28T10:00:00Z"
 }
 
-# Cardiff Buddhist Centre
-

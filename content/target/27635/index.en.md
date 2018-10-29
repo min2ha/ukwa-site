@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Chuka Umunna pulls out of Labour leadership contest
-
 None

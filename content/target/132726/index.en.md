@@ -10,5 +10,3 @@
   "start_date": "2006-07-20T00:00:00Z"
 }
 
-# Canolfan Genedlaethol Addysg Grefyddol - The Welsh National Centre for Religious Education
-

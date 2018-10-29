@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# ASSIGN Score  prioritising prevention of cardiovascular disease
-

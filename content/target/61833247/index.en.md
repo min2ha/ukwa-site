@@ -10,5 +10,3 @@
   "start_date": "2011-09-20T00:00:00Z"
 }
 
-# Enterprise Europe Network Wales
-

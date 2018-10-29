@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: What would leaving the Common Agricultural Policy mean for farmers?
-

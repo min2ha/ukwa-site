@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The :  Are the Lib Dems due a rebrand? Next leader favourite Tim Farron hints party could change name to just 'the Liberals' 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stoke Newington Early Music Festival
-
 Website for the Stoke Newington Early Music Festival.

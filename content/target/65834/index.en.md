@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Owen Paterson MP (@OwenPaterson) on Twitter
-
 Conservative member of Parliament for North Shropshire. This is his official Twitter account.

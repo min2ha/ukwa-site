@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th October 2018: Freeportd
-
 Westminster Hall debate on the establishment of freeports in the UK after Brexit.

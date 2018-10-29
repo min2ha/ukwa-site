@@ -10,5 +10,3 @@
   "start_date": "2013-07-12T00:00:00Z"
 }
 
-# Railroads and the making of modern America
-

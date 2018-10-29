@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# British Institute of Innkeeping (BII)
-
 British Institute of Innkeeping (BII) is a professional body representing individuals working across the licensed hospitality industry. The BII has charitable status and works to promote professional standards, well-managed, profitable businesses and responsible drinking as well as providing advice and support for those working in the industry.

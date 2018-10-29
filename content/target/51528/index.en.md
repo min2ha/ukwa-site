@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Braemar Mountain Rescue
-
 Site of a voluntary and charitable organisation that operates as a mountain rescue service in and around Braemar and the Cairngorms.

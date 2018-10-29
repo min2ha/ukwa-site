@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-#  Historic Hospitals 
-
 Site of a project to survey the history of Scottish hospitals, and its results.

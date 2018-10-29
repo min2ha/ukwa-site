@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loch Ness Knit Fest 2018
-
 Website for the Loch Ness 2018 Knitting Festival.

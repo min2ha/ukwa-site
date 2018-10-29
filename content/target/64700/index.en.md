@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sexwise
-
 Sexwise is a new website by FPA (the Family Planning Association) and is the home of all our sexual and reproductive health information for the public.

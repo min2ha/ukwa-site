@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mick Antoniw on Facebook (Labour AM for Pontypridd)
-
 Mick Antoniw is the Labour Assembly candidate for Pontypridd at the 2016 National Assembly for Wales election. 

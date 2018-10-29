@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Sound Women
-
 Sound Women is a network which encourages, supports and promotes women in UK radio.

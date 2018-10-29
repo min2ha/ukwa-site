@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green surge: on the ground with party activists hoping for a second MP
-
 None

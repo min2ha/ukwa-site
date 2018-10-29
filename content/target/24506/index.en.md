@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband could stop first-time buyers getting a home, property firm warns
-
 None

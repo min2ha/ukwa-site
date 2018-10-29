@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why it's crucial that the judges who could decide the fate of Brexit ARE scrutinised
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fiona Onasanya (@fiflowertot) on Twitter (Labour Party  Politician)
-
 Fiona Onasanya stood as Labour Party candidate for Peterborough in the 2017 General Election and was elected MP.

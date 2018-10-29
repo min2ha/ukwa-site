@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Wages for British workers will rise in the event of a Brexit, head of in campaign says
-

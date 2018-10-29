@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T00:00:00Z"
 }
 
-# SCIMAC: supply chain initiative on modified agricultural crops
-
 SCIMAC was established in 1998 to argue for a managed introduction of GM crops in the UK. Its membership includes the Agricultural Industries Confederation, National Farmers Union, British Society of Plant Breeding, and Crop Protection Association

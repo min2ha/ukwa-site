@@ -10,5 +10,3 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Canolfan Genedlaethol Cadw Gwenyn Cymru | National Beekeeping Centre Wales
-

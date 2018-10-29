@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Materials Council
-
 Materials Council are the specialists in the research, comparison and selection of materials for architectural and interior applications.

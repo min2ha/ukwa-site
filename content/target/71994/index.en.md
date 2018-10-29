@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Gŵyl Felinheli
-
 Felinheli is a Gwynedd costal village. The village festival is held in July.

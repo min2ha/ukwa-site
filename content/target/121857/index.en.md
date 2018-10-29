@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Urdd Gobaith Cymru
-
 Urdd Gobaith Cymru was established by Sir Ifan ab Owen Edwards in 1922. His aim was to protect the Welsh language. The organisation gives children and young people the chance to learn and socialise in the Welsh language.

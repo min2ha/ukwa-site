@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Scissors and Paste 
-
 The Scissors and Paste Database is a collection of manual transcriptions from British newspapers (1789-1850), alongside originals from colonial and American newspapers. It aims to be a central repository of reprinted news across the 19th-Century Anglophone world. 

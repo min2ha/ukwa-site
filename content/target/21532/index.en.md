@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Unite prepared to carry out illegal strikes if Tories win election
-
 None

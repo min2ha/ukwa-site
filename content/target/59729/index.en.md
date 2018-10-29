@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# James Ward
-
 James Ward is a family run publisher of limited edition football books. They are based in Halifax, West Yorkshire.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Strongly shambolic leadership as MPs vote on Brexit amendments
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Oxfam International: Financial Transaction Tax
-
 News and commentary on the proposed FTT. Oxfam campaigns for a FTT, and for revenues raised to be put towards poverty reduction and for initiatives in response to climate change.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The Irish Catholic Bishops’ Conference 
-
 This is the website of the Irish Catholic Bishops’ Conference. It contains a statement of their reflections on the Easter Rising centenary.

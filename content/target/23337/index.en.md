@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Rhuddlan Local History Society | Rhuddlan Cymdeithas Hanes Leol
-

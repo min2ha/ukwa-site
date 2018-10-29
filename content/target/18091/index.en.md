@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Clegg in bizarre class war attack on PM over TV debates
-
 None

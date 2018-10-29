@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Natalie Bennett: Green vote 'sends climate change message'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Hotel Marketing Association (HMA), The
-
 The Hotel Marketing Association is the official branch of the Chartered Institute of Marketing specifically for the hotel and hospitality industry.

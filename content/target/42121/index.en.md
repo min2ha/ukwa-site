@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hook in Hampshire
-

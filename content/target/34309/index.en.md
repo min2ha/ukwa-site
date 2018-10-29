@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Maves – Mid Arun Valley Environmental Survey
-
 The natural and historic environment of a substantial area south and west of Arundel in West Sussex.

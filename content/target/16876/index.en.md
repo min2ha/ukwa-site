@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Federation of ALMOs (NFA)
-
 Members of the National Federation of ALMOs (arm’s-length management organisations) aspire to provide excellent, value for money and customer-led housing services for residents in partnership with their local councils. Members will seek to develop innovation and continuous improvement in providing, managing and maintaining affordable homes in sustainable neighbourhoods.

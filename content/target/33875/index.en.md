@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Leyland Nationals - National Welsh Omnibus Services Ltd
-
 This website provides details of the Leyland Nationals delivered new to National Welsh Omnibus Services Ltd, and its predecessor companies Western Welsh, Red & White and Jones Omnibus Services Ltd, Aberbeeg. 

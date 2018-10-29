@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hammersmith and Fulham RFC
-
 The official website of Hammersmith and Fulham Rugby Football Club.

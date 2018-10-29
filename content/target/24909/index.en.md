@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Graham(@andyg439) on Twitter  (Liberal Democrats candidate for Witney) 
-
 Andy Graham stood as Liberal Democrats candidate for Witney at the 2015 General Election but was not elected. 

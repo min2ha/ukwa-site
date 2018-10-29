@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# BBC News: 1916 Easter Rising: Royal family not invited to centenary commemorations
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Stephen Gilbert (@gilbert4stan) on Twitter (Liberal Democrats Politician)
-
 Stephen Gilbert stood as Liberal Democrat candidate for St Austell & Newquay in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Electromagnetic Field
-
 Camping festival with a power grid and high-speed internet access; a temporary village of geeks, crafters, and technology enthusiasts that's lit up by night, and buzzing with activity during the day

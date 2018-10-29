@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Varadkar rules out post-Brexit border pre-registration
-
 Irish Prime Minister Leo Vardakar  ruled out suggestions that those crossing the Irish border after Brexit might need to pre-register. The idea of pre-registration came from a report by a customs expert which was prepared for the European Parliament.
 

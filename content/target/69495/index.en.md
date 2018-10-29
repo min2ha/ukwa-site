@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# 1251 (Berwyn) Squadron RAFAC	 
-
 1251 (Berwyn) Squadron are the Air Cadets of Ruabon, Wrexham.

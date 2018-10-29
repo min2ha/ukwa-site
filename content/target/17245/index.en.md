@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband unveils plan to double length of paternity leave
-

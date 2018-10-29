@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sunderland AFC Ladies (@SAFCLadies ) on Twitter
-
 Sunderland Association Football Club Ladies, previously Sunderland Association Football Club Women, is an English women's football club that plays in the FA WSL, the highest division of women's football in England. 

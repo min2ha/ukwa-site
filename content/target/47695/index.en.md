@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Newport War Dead
-
 Web site listing the war dead both military and civilian of Newport City, Gwent UK formerly Newport, Monmouthshire from 1900 - 2006.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Aberavon Neath Liberal Democrats (@AberavonNeathLD) on Twitter 
-
 Twitter account for the Aberavon Neath Liberal Democrats

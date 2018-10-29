@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Byd Mary Jones World
-
 Byd Mary Jones World is in Llanycil, Bala and is a visitor and education centre that tells the story of Mary Jones and Thomas Charles.

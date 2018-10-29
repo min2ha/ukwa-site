@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Richard Ashworth (@RichardAshMEP) on Twitter (Conservative MEP for South East England)
-
 Richard Ashworth stood as Conservative candidate for South East England at the 2004 European Parliament elections and was elected to serve as MEP. He was then re-elected in 2009 and 2014. Richard is the UK Conservative spokesman and member of the Agriculture and Rural Affairs, Budgets and Budgetary Control committees. He is also a member of the Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations.

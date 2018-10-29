@@ -10,5 +10,3 @@
   "start_date": "2017-07-11T09:00:00Z"
 }
 
-# Deveron, Bogie and Isla Rivers Charitable Trust, The
-

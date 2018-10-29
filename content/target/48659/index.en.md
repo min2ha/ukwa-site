@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Edinburgh Festival of Cycling
-
 Site of an annual festival dedicated to cycling.

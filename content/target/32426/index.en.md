@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# American Women of Surrey
-
 The American Women of Surrey was founded in 1975. The club's objectives are to welcome and assist newcomers and their families; to promote friendship and cooperation among members; to further members' knowledge and understanding of England; and to give financial and material support to philanthropic projects in Surrey and overseas. 

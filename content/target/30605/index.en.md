@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Nottingham Trent University
-
 Official website of the Nottingham Trent University.

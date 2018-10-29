@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Euro Guido Archives
-
 Politics blog

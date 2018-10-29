@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Milford Youth Matters
-
 Milford Youth Matters is based at Milford Haven Youth Centre and act as resource for young people between the ages of 14-25 living in Milford Haven and the surrounding area by providing advice and assistance and organising programmes of educational, physical and other activities.

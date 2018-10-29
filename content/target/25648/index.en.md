@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Men still dominate ballot box but UK set for 25% rise in female MPs
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 03 November 2016: Brexit: Impact on Universities and Scientific Research 
-
 The House of Lords takes note of the potential impact of the United Kingdom’s withdrawal from the European Union on funding for universities and scientific research.

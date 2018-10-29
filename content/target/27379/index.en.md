@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# It's Our World 
-
 Art project for school children to upload photos. 

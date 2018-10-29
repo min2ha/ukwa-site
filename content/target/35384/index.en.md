@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Conservative Animal Welfare Foundation
-
 The Conservative Animal Welfare Foundation was established in 2016 to raise awareness on the lives of billions of animals reared on intensive farms around the world and how this impacts upon animal welfare, the environment and people’s health. We want to highlight the action people can take to help advance farm animal welfare.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Istituto Affari Internazionali
-
 The Institute's main objective is to promote an understanding of the problems of international politics through studies, research, meetings and publications, with the aim of increasing the opportunities of all countries to move in the direction of supranational organization, democratic freedom and social justice

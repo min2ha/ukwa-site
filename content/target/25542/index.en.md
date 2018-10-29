@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron pledges to create 50,000 new apprenticeships using Libor fine
-
 None

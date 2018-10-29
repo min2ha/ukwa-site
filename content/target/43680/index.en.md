@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Transgressive North
-
 Site of an independent music and film collective based in Scotland.

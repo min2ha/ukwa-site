@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Boris in desperate plea to UKIP voters as Tories try to snatch support away from Farage
-
 None

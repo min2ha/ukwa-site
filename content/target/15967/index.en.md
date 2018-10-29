@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Stop HS2
-
 Stop HS2 is the national grassroots campaign against HS2, the proposed new High Speed Two railway.

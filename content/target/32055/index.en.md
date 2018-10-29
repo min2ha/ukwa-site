@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Bwrdd Gwasanaeth Lleol Sir Gar | Carmarthenshire Local Service Board
-
 Carmarthenshire Local Service Board brings together leaders and chief executives from key organisations, representatives from voluntary and community sectors, and a senior civil servant from the Welsh Government to discuss and plan issue relating to Carmarthenshire.

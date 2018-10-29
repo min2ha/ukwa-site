@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mirror Online: World Cup 2018
-
 World Cup 2018 news, live results and fixtures - Mirror Online

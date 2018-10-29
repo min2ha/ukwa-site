@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Gendered Intelligence
-
 Gendered Intelligence (GI) is a not-for-profit Community Interest Company, established in 2008 whose mission is to increase understandings of gender diversity. They specialise in supporting young trans people aged 8-25.

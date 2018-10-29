@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Action 4 Equality Scotland: Nelson Mandela 1918 - 2013
-
 None

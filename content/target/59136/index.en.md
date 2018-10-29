@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: Retained EU law
-
 This briefing paper has been prepared for day 2, scheduled to take place on 15 November, of the Committee Stage of the European Union (Withdrawal) Bill (EUW Bill) in the House of Commons. The EUW Bill creates a new category of domestic law for the United Kingdom: retained EU law. Retained EU law will consist of all of the converted EU law and preserved EU-related domestic law which was in force on the day before the UK left the EU.

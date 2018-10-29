@@ -10,5 +10,3 @@
   "start_date": "2008-05-07T00:00:00Z"
 }
 
-# Transplant Kids
-

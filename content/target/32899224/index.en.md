@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Homeless Link
-
 Homeless Link is a national membership charity for organisations working directly with people who become homeless in England. They work to make services better and campaign for policy change that will help end homelessness.

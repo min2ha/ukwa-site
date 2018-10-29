@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Singapore Medical Society of London (SMSL)
-
 The Singapore Medical Society of London (SMSL) was established in 1994 by a group of Singaporean medical students studying in London, based at the 5 medical schools of the University of London (UoL).

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Delapre Abbey
-
 The Trust is both a charity and a limited company. It was formed in 2006 to help Northampton Borough Council to formulate a plan for the restoration and re-opening of the Abbey to visitors.  The role of the Trustees is to manage the Trust according to its Articles of Association and it must submit annual accounts and reports to both Companies House and the Charity Commission.

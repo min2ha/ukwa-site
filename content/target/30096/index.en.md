@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# 99 Club, The
-
 Website for The 99 Club, a comedy club with branches in various London venues.

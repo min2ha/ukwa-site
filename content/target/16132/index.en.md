@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# British German Association
-
 <p>The British German Association (BGA), formerly known as the Anglo-German Society, was founded in 1951. It helps building and developing the friendship and relationship between Britain and Germany.</p>

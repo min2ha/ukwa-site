@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Nant Mawr Visitor Centre, Tanat Valley
-
 Nant Mawr Visitor Centre is in the Tanat Valley and is a centre for families, tourists and local visitors and a base for the Tanat Valley Light Railway.

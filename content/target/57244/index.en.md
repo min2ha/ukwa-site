@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TV Forum UK
-
 The TV Forum is a television presentation related discussion forum. It covers many UK Channels and TV shows.

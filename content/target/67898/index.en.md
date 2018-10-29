@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cleethorpes RUFC
-
 Based in North East Lincs, on the border of Grimsby & Cleethorpes. We have 2 senior teams playing in East Midlands Division also the merit league.

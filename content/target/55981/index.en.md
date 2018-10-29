@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BMW Enthusiasts 
-
  BMW Forum and BMW owners club. 

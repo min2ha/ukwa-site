@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gilcomston Church
-
 An Evangelical Congregation that meets on Union Street, Aberdeen

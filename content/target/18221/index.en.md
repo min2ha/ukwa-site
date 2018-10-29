@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Chez Antoinette
-
 French restaurant in Covent Garden

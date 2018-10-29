@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Amelie Boleyn (@amelieboleyn) on Twitter (Green Party candidate for Sevenoaks)
-

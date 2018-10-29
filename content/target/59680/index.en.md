@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DUP leader Arlene Foster REFUSES to back down in Irish border fight as she blames Dublin for triggering the row and reveals she still hasn't spoken to Theresa May a day after torpedoing her Brexit talks   
-

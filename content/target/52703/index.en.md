@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Thomas Gravatt (@ThomasGravatt) on Twitter (Liberal Democrats Politician)
-
 Thomas Gravatt stood as Liberal Democrat candidate for Southampton Test in the 2017 General Election but was not elected.

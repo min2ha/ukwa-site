@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-#  The Tony Blair 'selfie' Photo Op will have a place in history
-
 Art could not stop the war in Iraq but this photomontage – now on show at the Imperial War Museum North – can influence how that war is remembered.

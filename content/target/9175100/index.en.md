@@ -10,5 +10,3 @@
   "start_date": "2008-07-10T00:00:00Z"
 }
 
-# 3Ds London - Tackling 'Disadvantage, Disengagement & Discrimination' in London's Labour Market
-

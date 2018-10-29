@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Geeks in Wales
-
 Geeks in Wales is a blog that discusses board games, escape games, video games, comics, cosplay and films often showcasing homegrown talent.

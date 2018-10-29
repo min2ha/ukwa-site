@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Voodoo Rooms (@voodoorooms) on Twitter
-
 Twitter profile of Voodoo Rooms, an Edinburgh bar and restaurant, and a Free Fringe venue.

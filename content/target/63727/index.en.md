@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Thurso West Church
-
 The website of Thurso West Church. 

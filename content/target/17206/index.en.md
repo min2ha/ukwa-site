@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Two thirds of Ukip supporters think party will form part of government after May elections
-
 None

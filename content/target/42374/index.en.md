@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Boycott Israel Network
-
 Boycott Israel Network (BIN) is comprised of individuals and organisations campaigning for a boycott of Israel until Israel complies with International law and the rights of the Palestinian people

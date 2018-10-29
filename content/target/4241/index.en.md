@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute of Chartered Accountants of Scotland: Scottish Independence Debate
-
 None

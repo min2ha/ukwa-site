@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The, Irish PM warns Brexit talks between UK and EU could turn vicious
-

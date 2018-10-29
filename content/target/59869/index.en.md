@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prospect: “They have to face the consequences of their own decision”: Michel Barnier speaks exclusively on the UK’s Brexit position
-
 In an exclusive interview for Prospect, the EU negotiation chief Barnier says there is "no way" the UK will be allowed a bespoke trade deal when it leaves the EU

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Montrose Roselea Junior Football Club
-
 Site for a Scottish junior football club based in Montrose, Angus.

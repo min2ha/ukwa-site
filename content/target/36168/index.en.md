@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Laura Cameron Eaton Lewis
-
 Laura Cameron-Lewis is the Scottish Greens candidate for the Central Scotland list in the 2016 Scottish Parliament election.

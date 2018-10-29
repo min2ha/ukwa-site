@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Gedling Borough Council
-
 Website of Gedling Borough Council gives access to information about council services, news and events, consultations and committee papers and minutes. You can also find local plans and a range of council policy statements, and annual accounts.

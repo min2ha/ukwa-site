@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T07:00:00Z"
 }
 
-# Hakluyt Society
-
 Founded in 1846, the Hakluyt Society seeks to advance knowledge and education by the publication of scholarly editions of primary records of voyages, travels and other geographical material.

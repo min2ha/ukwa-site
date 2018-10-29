@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kensington Labour on Facebook
-

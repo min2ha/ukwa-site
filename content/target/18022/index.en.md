@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Milapfest 
-
 Milapfest is an Indian arts development trust in Britain, producing performances, education and artist development opportunities across the UK. Milapfest’s aim is to “Unite Hearts Through Arts” by providing audiences, aspiring artists and teachers with memorable and inspirational experiences of Indian arts through a programme of performances, tours, commissions, festivals and innovative educational projects. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# William Palfreman (@palfreman) on Twitter (UKIP Politician)
-
 Bill Palfreman stood as UK Independence Party (UKIP) candidate for Leeds Central in the 2017 General Election but was not elected.

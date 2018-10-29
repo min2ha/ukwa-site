@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: UK-Irish relations:  evidence
-

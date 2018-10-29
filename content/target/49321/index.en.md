@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Selkirk Football Club
-
 Site of an amateur Scottish football club based in Selkirk, the Scottish Borders.

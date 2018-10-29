@@ -10,5 +10,3 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Ynni Cymunedol Caerdydd | Cardiff Community Energy
-

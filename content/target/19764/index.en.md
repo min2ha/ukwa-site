@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Constitution Unit, The: 2015 General Election
-

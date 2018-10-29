@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Toolkit
-
 'i2i Infinity is a UK based family owned business which has been developing and supplying software since 1986.' This website looks at the impact of Brexit on business. 

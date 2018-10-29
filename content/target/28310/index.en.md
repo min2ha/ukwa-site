@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# National Rural Touring Forum (NRTF)
-
 The National Rural Touring Forum is a member led organisation that works strategically with partners to develop work and deliver high quality art experiences that strengthen rural and other communities.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clacton-on-Sea the Sunshine Coast of Essex
-

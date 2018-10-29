@@ -10,7 +10,5 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Academic Book of the Future
-
 The Academic Book of the Future was a two-year AHRC-funded research project exploring the future of the academic book.
 Project activity ended in September 2016, however the legacy is ongoing – including Academic Book Week. This website provides information about the project, its research outputs, and its other activities. The main project report is set to launch in late Spring 2017.

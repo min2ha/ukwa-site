@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Puppet Animation Scotland
-
 Site of an organisation championing puppetry, animation and visual theatre both in Scotland and internationally.

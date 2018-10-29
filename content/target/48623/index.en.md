@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Evening Standard: Sadiq Khan: My message from Davos... get the Brexit deal London needs
-
 London is Europe’s financial, social and cultural capital. The city is not only the beating heart of Britain’s economy but critical for securing growth across Europe. A hard Brexit would cut Europe and European businesses off from the continent’s only truly global financial centre — and the financial firepower that goes with it. If European businesses lost their privileged access to the City of London it would disrupt the supply chains of tech companies and other sectors across the continent — a huge price for Europe to pay.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chartered Institute of Patent Attorneys, The: The Impact of Brexit on Intellectual Property
-
 In the short term, it is business as usual for patent and trade mark attorneys and their clients in the UK.  There is no change to the UK’s membership of the EPC and to European patents. CIPA supports the Government’s moves towards ratification of the UPC and membership of the UP. Following UK exit, EU trade marks and design rights deriving from the relevant EU regulations will cease to apply in the UK and transitional provisions will be needed to ensure that affected marks and designs can continue to be protected in the UK. UK patent and trade mark attorneys continue to have all the rights they have at the moment to work before the UK IPO, the EPO and the EUIPO. CIPA will work with the UK Government and other interested parties to ensure that as many of these rights as possible are retained after exit from the EU.

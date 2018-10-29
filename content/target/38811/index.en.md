@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oliver Letwin, Conservative
-
 Website of Oliver Letwin, MP for West Dorset, providing news about his activities and text of campaign emails 

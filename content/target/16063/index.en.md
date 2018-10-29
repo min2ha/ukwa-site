@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Plymouth University
-
 <p>Official website of the Plymouth University.</p>

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Commemoration of the Loss of the Three Cruisers - 22nd September 1914
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Orgreave Justice (@orgreavejustice) on Twitter
-
 The Orgreave Truth and Justice Campaign (OTJC) is pressing for a full and independent inquiry into what happened in Orgreave in June 1984. The OTJC includes ex-miners, Trades Unionists, activists and others.

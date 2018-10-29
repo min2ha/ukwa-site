@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum
-
 Presents the Government's case for remaining in the EU

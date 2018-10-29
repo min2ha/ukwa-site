@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Miscarriage Association
-
 None

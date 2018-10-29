@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Business: Opportunities and risks for Scotland after EU exit examined
-
 Opportunities and risks for Scotland after EU exit examined by the Parliament's new cross-party Committee on Exiting the European Union.

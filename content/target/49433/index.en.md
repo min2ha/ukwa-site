@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Calon Cymru Network
-
 The Calon Cymru Network was formed for the purpose of encouraging sustainable rural regeneration along the Heart of Wales railway line corridor.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Citizens Theatre (@citizenstheatre) on Twitter
-
 The Citizens Theatre is based in Glasgow, Scotland and is the principal producing theatre in the west of Scotland.

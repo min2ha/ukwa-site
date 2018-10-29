@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Daniel Johnson (@D_G_Johnson) on Twitter
-
 The Twitter profile of Daniel Johnson, the Scottish Labour candidate for Edinburgh Southern in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joy Bassett (@joyinthisplace) on Twitter (Labour Party  Politician)
-
 Joy Bassett stood as Labour Party candidate for North Cornwall in the 2017 General Election but was not elected.

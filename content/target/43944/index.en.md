@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Hansard 27 June 2016: Outcome of the EU Referendum
-
 Statement by Prime Minister David Cameron on the vote to leave the European Union at the referendum on June 23rd 2016, followed by oral questions

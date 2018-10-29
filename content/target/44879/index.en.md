@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Fuel For Pilgrims
-
 This blog has been developed into book format, each volume containing 40 individual meditations with reflection questions and suggested prayer responses.

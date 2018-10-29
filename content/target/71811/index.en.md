@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Hedera Felix
-
 Independent publisher, based in Glasgow.

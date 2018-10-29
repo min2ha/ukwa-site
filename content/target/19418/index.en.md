@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: Become a Magna Carta Expert in the School Holidays!
-

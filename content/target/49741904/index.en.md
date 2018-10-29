@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Al-Hasaniya Moroccan Women's Project
-

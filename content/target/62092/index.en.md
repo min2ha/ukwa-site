@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Oxford: What percentage of people who play video games are 'addicted'?
-
 University of Oxford study that purports to present the first findings from a large-scale project to produce robust evidence on the potential new problem of "internet gaming disorder".

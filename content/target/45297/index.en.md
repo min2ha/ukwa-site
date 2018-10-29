@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scottish Government, The: A plan for Scotland: The Government's programme for Scotland 2016-2017
-

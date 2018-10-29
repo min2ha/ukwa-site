@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# NHS Providers: General Election 2015
-

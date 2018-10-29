@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Templeton Heritage Group
-
 Templeton is is Pembrokeshire. This is the heritage society for the village.

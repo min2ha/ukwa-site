@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jenny Marra MSP
-
 The website of Jenny Marra, Scottish Labour Member of the Scottish Parliament for North East Scotland.

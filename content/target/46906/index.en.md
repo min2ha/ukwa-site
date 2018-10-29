@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge Politics Podcast, The: It's Brexit! One week on.
-
 Podcast discussing the aftermath of the EU Referendum, one week on.It discusses internal divisions in the Labour party, Theresa May, and implications of the referendum result for Northern Ireland.

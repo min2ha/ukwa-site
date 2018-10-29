@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Miller Pembs on Facebook
-
 Parliamentary Candidate for Preseli Pembrokeshire

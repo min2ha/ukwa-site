@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Gaping Silence, The
-
 None

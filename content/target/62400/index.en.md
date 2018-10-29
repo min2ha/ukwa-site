@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Craigmillar Park Church
-
 Site of a Church of Scotland parish church in South Newington, Edinburgh.

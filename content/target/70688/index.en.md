@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Glasgow Alphas on Facebook
-
 Facebook page of a LGBT+ rugby club located in Glasgow.

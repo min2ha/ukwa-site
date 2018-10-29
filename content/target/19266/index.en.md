@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Dan Jones: Time to overhaul Prince Charles’s feudal tax affairs
-

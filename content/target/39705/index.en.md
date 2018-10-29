@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Living Rent Campaign
-
 Living Rent is Scotland's tenants' union, fighting for decent and affordable housing for all.

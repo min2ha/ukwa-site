@@ -10,5 +10,3 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Llanbadoc Community Council
-

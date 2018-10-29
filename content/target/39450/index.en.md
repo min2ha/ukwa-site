@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T17:56:00Z"
 }
 
-# Clydesite & TugTalk
-
 The Clyde Shipping & Shipbuilding Site which contains the Clydebuilt Ships Database and TugTalk community website for all involved in tugs and towage.

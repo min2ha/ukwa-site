@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Salisbury
-
 Official website of the Diocese of Salisbury.

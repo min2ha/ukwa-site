@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Amnesty Int'l NI (@AmnestyNI) on Twitter
-
 Amnesty International in Northern Ireland: human rights news, events, campaigns and comment

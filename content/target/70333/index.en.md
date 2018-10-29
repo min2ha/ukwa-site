@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rhyl Ladies FC (@PTLFC1) on Twitter
-
 The official Twitter account of Rhyl Ladies Football Club. Rhyl Ladies FC in Partnership with Rhyl Fc. Formed since 2010.

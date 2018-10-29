@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband narrowly beats David Cameron in snap poll after leaders' debate
-
 None

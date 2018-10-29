@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Blades Forum (UKBF)
-
 An online community for UK knives enthusiasts with tutorials and a forum. 

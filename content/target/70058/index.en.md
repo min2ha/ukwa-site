@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Prospect YPN (@Prospect_YPN) on Twitter
-
 News for @ProspectUnion's Young Professionals Network for members aged 30 & under. Prospect is not responsible for tweets posted by others.

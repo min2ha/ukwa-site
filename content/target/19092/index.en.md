@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Runnymede Explored app trialled ahead of Magna Carta anniversary
-

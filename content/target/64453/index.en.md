@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Belfast Pride
-
 Belfast Pride is one of the biggest festivals in Belfast and the biggest Pride festival in Ireland, reaching up to 55,000 people across ten days.

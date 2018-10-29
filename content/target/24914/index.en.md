@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Cameron (Conservative)
-
 David Cameron stood as Conservative candidate for Witney at the 2015 General Election and was elected to serve as MP.

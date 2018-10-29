@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Strathclyde Students' Union
-
 Site of the representative body for students at the University of Strathclyde, Glasgow.

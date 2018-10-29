@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Freckfest
-
 Site of an annual music festival in Irvine, Syrshire.

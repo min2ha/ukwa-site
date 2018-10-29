@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Puppet State Theatre Company
-
 Site of a theatre company based in Edinburgh who incorporate puppetry into performances.

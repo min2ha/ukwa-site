@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Emily Thornberry predicts no deal with the EU
-
 Shadow foreign secretary Ms Thornberry said the PM's failure to control her party was causing "intransigence" on the UK side in the Brexit negotiations, which was a "serious threat to Britain" and its interests.

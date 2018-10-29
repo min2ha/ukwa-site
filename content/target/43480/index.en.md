@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# !Audacious Church: The EU Referendum
-
 A collection of articles and informaiton on the EU Referendum gathered from a Christian viewpoint.

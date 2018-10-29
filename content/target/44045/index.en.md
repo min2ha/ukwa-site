@@ -10,5 +10,3 @@
   "start_date": "2017-06-08T00:00:00Z"
 }
 
-# Bateman Broadcasting - An On-going Dialogue
-

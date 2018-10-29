@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Greenwich Comedy Festival
-
 Website for the Greenwich Comedy Festival, which started in 2009, and takes place in the grounds of the National Maritime Museum.

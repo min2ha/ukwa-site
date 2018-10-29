@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Your Britain: Policy Review
-
 None

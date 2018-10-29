@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's, Thurnby
-
  St Luke’s Church is a large, vibrant family church serving the people of Leicestershire from its base just off the A47 in Thurnby.

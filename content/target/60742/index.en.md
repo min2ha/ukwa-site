@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Christine Kowal Post
-
 Christine Kowal Post is of Polish-Welsh origin. Her woodcarvings are often figurative and narrative, exploring certain themes which are concerned with the lives of women. She is also an elected member of the RCA (Royal Cambrian Academy) and Royal British Society of Sculptors.

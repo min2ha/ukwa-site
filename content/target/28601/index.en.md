@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# YRE Scotland (YREScot) on Twitter
-
 Young Reporters for the Environment comment on a script conference held at Burghead Primary School.

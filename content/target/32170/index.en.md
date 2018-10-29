@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Celyn
-
 Celyn is a Welsh ‘green left’ review and articles focus on issues such as cuts, defending jobs, against the racists, on environmental issues, in support of oppressed communities, in solidarity with international events and in defence of Welsh language and culture.

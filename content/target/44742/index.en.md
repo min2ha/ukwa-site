@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Duncan Scott (@Dunks_Scott) on Twitter
-

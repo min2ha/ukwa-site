@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Charlton Athletic Football Club
-
 Charlton Athletic is a family-friendly football club with a proud history, committed to offering affordable football to our supporters. 

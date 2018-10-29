@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Between The Trees Festival
-
 Between The Trees is a contemporary folk, Americana and acoustic roots festival set in Candleston Castle Campsite near Merthyr Mawr National Nature Reserve.

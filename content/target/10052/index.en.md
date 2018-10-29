@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Welsh Liberal Democrats (@WelshLibDems) on Twitter
-
 The Welsh Liberal Democrats (Welsh: Democratiaid Rhyddfrydol Cymru) is the state party of the federal Liberal Democrats that operates within Wales. The other two state parties are the Scottish Liberal Democrats and the English Liberal Democrats.

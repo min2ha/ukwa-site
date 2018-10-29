@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jackson Ng (Conservative)
-
 Jackson Ng stood as Conservative candidate for Liverpool Riverside at the 2015 General Election but was not elected.

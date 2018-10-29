@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Asharq Al-Awsat Newspaper 
-
 Asharq Al-Awsat is the world’s premier pan-Arab daily newspaper, printed simultaneously each day on four continents in 14 cities. Launched in London in 1978, Asharq Al-Awsat has established itself as the decisive publication on pan-Arab and international affairs, offering its readers in-depth analysis and exclusive editorials, as well as the most comprehensive coverage of the entire Arab world.

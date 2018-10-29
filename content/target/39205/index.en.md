@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Debbie Wilcox (@DebbieWilcox1) on Twitter (Labour candidate for South Wales East) 
-
 Debbie Wilcox is the Labour candidate for South Wales East at the 2016 National Assembly Election. 

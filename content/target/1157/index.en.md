@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thames Valley Cancer Network
-
 None

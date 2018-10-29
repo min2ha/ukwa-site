@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Craftedspace: Art and Architecture
-
 Craftedspace works with a collective of designers, carpenters and artists to realise projects and draw inspiration from the Dyfi Valley in West Wales.

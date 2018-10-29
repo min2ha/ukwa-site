@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Team GB Live
-
 Team GB Live are the official Team GB ticket agents for the Summer and Winter Olympic Games. 
 

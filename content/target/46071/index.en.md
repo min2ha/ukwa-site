@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Blog Cynulliad | Assembly Blog
-
 Blog detailing the work of the National Assembly for Wales.

@@ -10,5 +10,3 @@
   "start_date": "2007-09-11T00:00:00Z"
 }
 
-# Hyperhidrosis Support Group
-

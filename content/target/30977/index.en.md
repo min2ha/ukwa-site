@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computerworld UK
-
 Computerworld UK, the 'Voice of IT Management', is a source for the information needs of enterprise IT management here in the UK. Their aim is to assist IT professionals to navigate the information landscape by understanding the real issues and consistently delivering relevant content to enrich knowledge and expertise.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guaridan, The: Little sympathy for Unilever in town where Marmite is made
-
 People in Burton upon Trent, where the world’s supply of Marmite is made, say Brexit is just an excuse to raise prices.

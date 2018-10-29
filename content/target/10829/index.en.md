@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# BOND: EU Elections 2014
-
 None

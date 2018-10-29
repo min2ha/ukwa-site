@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Linlithgow & District Allotment Society
-
 WordPress site of a group campaining for allotments in and around Linlithgow, West Lothian

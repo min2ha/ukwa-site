@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: judicial oversight of the European Arrest Warrant
-
 The Committee remains concerned about the prospect of a “cliff-edge” in the UK's extradition arrangements, and emphasises that a gap between the EAW ceasing to apply and a suitable replacement coming into force would pose an unacceptable risk to the safety of the people of the UK.

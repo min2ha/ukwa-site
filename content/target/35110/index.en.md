@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Is Boris Johnson about to declare he's backing Brexit? His wife writes 2,700-word essay savaging David Cameron's EU deal   
-

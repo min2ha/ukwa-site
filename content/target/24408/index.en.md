@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservatives on course to gain 14 seats following Lib Dem collapse, poll finds
-
 None

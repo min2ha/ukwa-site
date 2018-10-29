@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: EU 'Out' campaign pleading with Boris Johnson and Theresa May to save their bid ahead of referendum    
-

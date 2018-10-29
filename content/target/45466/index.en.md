@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Rio Paralympics 2016: An A-Z of Paralympic sport classifications
-
 The 2016 Paralympics in Rio involves 22 sports but not all disability categories can compete in each event. Each sport has different physical demands and so has its own set of classifications.

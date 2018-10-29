@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Shelter: Building the Homes We Need: A Programme for the 2015 Government
-
 Shelter is a charity offerring free housing advice, helping fighting repossession and eviction and campaigning for changes in the law.

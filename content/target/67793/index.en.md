@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Meibion Dinefwr | Dinefwr Male Vice Choir
-
 Cor Meibion Dinefwr is a Welsh male voice choir from the Llandeilo area. 

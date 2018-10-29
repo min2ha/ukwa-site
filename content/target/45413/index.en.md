@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T11:00:00Z"
 }
 
-# Scottish Enterprise media centre
-
 Scottish Enterprise is Scotland's main economic development agency and a non-departmental public body of the Scottish Government.

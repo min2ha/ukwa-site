@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# The Palaeontological Association
-
 The Palaeontological Association was founded in 1957 and has become one of the world's leading learned societies in this field. 

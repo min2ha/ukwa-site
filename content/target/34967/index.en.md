@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Rhondda Tunnel Society
-
 This is the campaign to reconnect the Rhondda and Afan Valleys by re-opening the Rhondda Tunnel as a pedestrian and cycling route.

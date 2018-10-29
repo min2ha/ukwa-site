@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7 November 2017: Exiting the EU: Sectoral Analysis
-
 Debate on the issue of the Government providing the Select Committee on Exiting the European Union with impact assessments arising from sectoral analyses carried out by Ministers.

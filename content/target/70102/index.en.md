@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Portadown FC Ladies (@pilfcofficial) on Twitter
-
 The official Twitter account of Portadown Ladies Football Club.

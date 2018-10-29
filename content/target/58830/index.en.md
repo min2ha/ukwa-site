@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parliament: Children and young people’s mental health—the role of education: Government Response to the First Joint Report of the Education and Health Committees of Session 2016–17
-
 The Education and Health Committees’ report to the House on Children and young people’s mental health—the role of education (HC 849) was published on 2 May 2017 as their first Joint Report of Session 2016–17. The Government’s response was received on 11 September 2017, after the formation of the Government following the election. The Government’s response and a separate response from HM Chief Inspector are appended to this report.

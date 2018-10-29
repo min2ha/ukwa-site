@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# NHS Lanarkshire
-
 NHS Lanarkshire site for people with a learning disability.

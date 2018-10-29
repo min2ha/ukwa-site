@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joan McAlpine (@JoanMcAlpine) on Twitter
-
 The Twitter profile of Joan McAlpine, the Scottish National Party candidate for Dumfriesshire in the 2016 Scottish Parliament election.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: All four original copies of Magna Carta to be united for anniversary in 2015 
-

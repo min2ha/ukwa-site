@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Mathemateg
-
 mathemateg.com contains a number of resources for those studying Mathematics from year 7 to year 13. It is created by Dr. Gareth Evans of Ysgol y Creuddyn in Pembrokeshire.

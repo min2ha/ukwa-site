@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kevin Stewart SNP (@KevinStewartSNP) on Twitter
-
 Twitter profile of kevin Stewart, Scottish National Party (SNP) candidate for Aberdeen Central in the 2016 Scottish Parliamentary election.

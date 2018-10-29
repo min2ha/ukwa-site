@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# History Hub
-
 History Hub hosts podcasts, papers and documents highlighting new historical research. It is based in the School of History and Archives, University College Dublin.

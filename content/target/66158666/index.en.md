@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Talking Plants
-
 None

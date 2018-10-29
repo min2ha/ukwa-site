@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swans RFC (@SwansRFC) on Twitter
-
 The official Twitter account of Swanage & Wareham Rugby Football Club.

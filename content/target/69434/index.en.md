@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Business Insider: Exclusive: Liam Fox warns Theresa May that extending Brexit talks would be a 'complete betrayal'
-
 The UK's International Trade Secretary Liam Fox told BI that if at the end of Article 50 talks there was no deal in place, the UK government should crash out, rather than request more negotiating time.
 

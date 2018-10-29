@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Isle of Wight CCG
-
 None

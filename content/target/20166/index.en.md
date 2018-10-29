@@ -10,6 +10,4 @@
   "start_date": "2015-04-01T09:00:00Z"
 }
 
-# Cabinet Maker
-
 Cabinet Maker - The Interiors Business Weekly is a subscription based magazine for the interiors industry.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives take six-point lead in Guardian/ICM poll
-
 None

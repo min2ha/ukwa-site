@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: £1,750-a-head Magna Carta ‘summit’ hijacked by legal aid event that costs a tenner
-

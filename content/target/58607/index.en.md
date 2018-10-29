@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Eyemouth Museum
-
 Site of a museum focusing on the fishing and social heritage of Eyemouth, Scottish Borders (Berwickshire).

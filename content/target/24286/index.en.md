@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Poll: Labour reduced to one seat in Scotland
-
 None

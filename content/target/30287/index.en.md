@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Public Domain Review, The:The Forth Bridge: Building an Icon
-

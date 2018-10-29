@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Durham University: Thom Brooks on the Magna Carta
-

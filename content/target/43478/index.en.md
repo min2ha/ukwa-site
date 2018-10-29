@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Mark Littlewood (@MarkJLittlewood) on Twitter
-

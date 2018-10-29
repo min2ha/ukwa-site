@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Huw Williams (@HuwForDelyn2016) on Twitter (Conservative candidate for Delyn)
-
 Huw Williams is the Conservative candidate for Delyn at the 2016 National Assembly Elections.

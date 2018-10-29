@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Tethered
-
 Tethered is a weekly webcomic by Natasha Dancy. It is set in dystopian Britain and follows the adventures of a young woman and a mechanical droid. 

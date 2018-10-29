@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Physical Laboratory (NPL)
-
 National Physical Laboratory is the UK's National Measurement Institute, and is a centre of excellence in developing and applying the most accurate measurement standards, science and technology. The NPL played a role in developing early computer technology in 1940s and 1950s.

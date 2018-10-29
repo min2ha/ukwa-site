@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Rapid Business Improvement blog
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU referendum: Palace complains over Queen 'Brexit' story
-

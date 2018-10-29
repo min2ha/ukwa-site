@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour must not betray leave voters over Brexit
-

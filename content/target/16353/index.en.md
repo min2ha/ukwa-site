@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Centre for Mental Health: General Election 2015: Prioritising mental health research
-

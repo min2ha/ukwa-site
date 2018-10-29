@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dem minister: any post-election coalition talks should be confidential
-
 None

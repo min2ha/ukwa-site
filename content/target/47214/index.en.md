@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Holiday Mull
-
 Site of an organisation promoting tourism in the isles of Mull and Iona in the Inner Hebrides. Scotland.

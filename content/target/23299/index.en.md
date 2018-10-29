@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Swansea Bay Partnership
-
 The Swansea Bay Partnership is a collaboration between Carmarthenshire, Neath Port Talbot, Swansea and Pembrokeshire Cpunty Borough Councils to deliver on inward investment; supply chain development on key projects and strong business to business assistance.

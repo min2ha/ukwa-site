@@ -10,5 +10,3 @@
   "start_date": "2008-11-21T00:00:00Z"
 }
 
-# Gobaith i Gymru - Hope for Wales
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg’s brought Britain a step closer to quitting Europe
-
 None

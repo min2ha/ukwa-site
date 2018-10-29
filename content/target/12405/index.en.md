@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachel Wallader (RachWally01) on Twitter
-
 Twitter profile of shot put athlete Rachel Wallader, member of Team England for the Glasgow 2014 Commonwealth Games.

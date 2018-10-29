@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Nidum ensemble
-
 Nidum ensemble are based in Cardiff and bring together UK's top chamber musicians from orchestra's including London Symphony, the Royal Liverpool Philharmonic, the Royal Philharmonic, BBC Symphony and the BBC National Orchestra of Wales.

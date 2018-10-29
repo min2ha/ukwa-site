@@ -10,5 +10,3 @@
   "start_date": "2016-10-11T12:00:00Z"
 }
 
-# NHS Wales: Sgrinio Smotyn Gwaed Newydd-anedig Cymru | Newborn Bloodspot Screeing Wales  
-

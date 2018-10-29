@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hywel Williams (@HywelWilliamsMP) on Twitter
-
 MP for Arfon

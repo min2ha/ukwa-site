@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ardersier and Petty Community Council
-

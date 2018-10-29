@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Early Mines Research Group
-
 The Early Mines Research Group was established in 1988 to research the origins of metal mining and metallurgy in Britain and to disseminate these findings through refereed academic and popular publications and other forms of media.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: December 12th 2017: European Union (Withdrawal) Bill
-
 Debate on powers delegated to ministers under the EU Withdrawal Bill to correct existing EU laws by government order without Parliamentary scrutiny 

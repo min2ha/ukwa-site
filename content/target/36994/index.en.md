@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Albany Military Hospital
-
 The Albany Military Hospital website was created by pupils at Albany Primary School Cardiff. During World War 1, a number of schools became branches of main hospitals. Albany School became a branch of the 3rd Western General Hospital.

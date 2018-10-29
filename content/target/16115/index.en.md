@@ -10,6 +10,4 @@
   "start_date": "2015-01-23T00:00:00Z"
 }
 
-# Colyton Grammar School
-
 <p>Website of Colyton Grammar School, Devon, England established in 1546.</p>

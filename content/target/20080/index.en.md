@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cerith Griffiths (@Cerithg) on Twitter
-
 Plaid Cymru candidate for Cynon Valley at the 2015 General Election and 2016 National Assembly for Wales Elections.

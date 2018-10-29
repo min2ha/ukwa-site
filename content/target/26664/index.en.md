@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish Labour has only itself to blame for its crucifixion
-
 None

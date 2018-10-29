@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Supporters Direct (SD) 
-
 Supporters Direct (SD) was established in response to the risk that Northampton Town FC would have to be disbanded in 1992. 

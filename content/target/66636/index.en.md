@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Maxi Haulage Limited
-
 The website of Maxi Haulage Limited, a subsidiary of Maxi Caledonian Limited. The company provides haulage, distribution and logistics services throughout the United Kingdom. 

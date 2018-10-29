@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Base Camp Festival
-
 Website for the Base Camp Festival

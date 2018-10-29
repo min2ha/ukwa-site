@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: "How social media has been so instrumental to one anorexia sufferer's recovery"
-
 News article about anorexia recovery and Instagram

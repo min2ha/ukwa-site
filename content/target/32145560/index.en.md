@@ -10,7 +10,5 @@
   "start_date": "2009-11-10T00:00:00Z"
 }
 
-# Samantha Dickson Brain Tumour Trust
-
 Samantha Dickson Brain Tumour Trust is the leading charity dedicated to brain tumour research, and patient information and support in the UK.
 

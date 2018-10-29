@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Independent, The: Violinist Vanessa Mae set to ski in Sochi 2014 Winter Olympics 
-

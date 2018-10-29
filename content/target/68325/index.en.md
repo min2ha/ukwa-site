@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Gower Walking Festival
-
 Range of walks around Gower Peninsula

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Teachers for Yes (Teachersforyes) on Twitter
-

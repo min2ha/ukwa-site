@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# British Training Academy, The
-
 The British Training Academy was formed in 2008 as The Security Training School by Wayne Grove. Their mission is to provide training solutions that are fit for purpose, cost effective and outstanding in the delivery of clients' training requirements.

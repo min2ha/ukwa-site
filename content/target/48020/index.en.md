@@ -10,5 +10,3 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Newport Past
-

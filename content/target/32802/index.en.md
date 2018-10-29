@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Emily Hinshelwood
-
 Emily Hinshelwood is a poet, playwright, tutor, desk-top publisher, performer and  'writer in residence' in the pop-up Dylan Thomas Writing Shed.

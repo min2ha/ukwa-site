@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: We have voted to leave the EU, but not Europe: article by Theresa May
-
 Writing in Le Figaro, Prime Minister Theresa May explains how the UK will be a dependable partner for our friends in France and Europe after Brexit

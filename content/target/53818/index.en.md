@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Greens endorse Sarah Olney and Vince Cable:  Twickenham and Richmond Green Party. 
-
 Twickenham and Richmond & North Kingston Greens Stand Aside for Vince Cable  and Sarah Olney and Stand Up for a New Politics.

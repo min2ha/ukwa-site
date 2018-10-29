@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Contemporary British Collections
-
 Contemporary British Collections (@Contemporary_BL) on Twitter

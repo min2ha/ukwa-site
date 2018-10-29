@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Our Lady of the Taper | Mair o Aberteifi
-
 The Shrine of Our Lady of the Taper is the national shrine for Wales and parish for the people of Cardigan and surrounding areas. 

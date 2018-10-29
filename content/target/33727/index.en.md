@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: We’ll miss you if Britain leaves the EU – and you’ll be diminished, too
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jimi the Piper
-
 Jimi McRae is the Solidarity Scotland candidate for the Lothian list in the 2016 Scottish Parliament election.

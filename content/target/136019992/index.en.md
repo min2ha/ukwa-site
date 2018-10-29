@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridge and Peterborough Foundation Trust
-
 None

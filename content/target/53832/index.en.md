@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daily Politik, The (@DailyPolitik) on Twitter
-
 The Daily Politik is a Political Media/News/Publishing Site designed to inform, encourage debate and engagement in politics. They launched on September 8th 2016. It is run by a small group of UK citizens. This is the official Twitter profile.

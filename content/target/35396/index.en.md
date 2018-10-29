@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Public Health England: Interim algorithm for assessing pregnant women with a history of travel during pregnancy to areas with active Zika virus (ZIKV) transmission
-
 UK government flowchart for assessment of risks and further actions for pregnant women potentially exposed to Zika.

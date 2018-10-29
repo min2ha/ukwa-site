@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Local Government Association: Local government policy priorities, general election manifestos, April 2017
-
 This briefing sets out the policy priorities councils would want adopted by each of the political parties in their manifestos in order to help local government better support their communities and deliver on the challenges cing the nation.

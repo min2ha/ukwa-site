@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# CCG (Scotland) Limited
-
 CCG (Scotland) Limited - a subsidiary of CCG (Holdings) Limited - is a Scotland-based construction and manufacturing company.

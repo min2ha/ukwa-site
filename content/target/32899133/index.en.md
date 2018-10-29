@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Norvic Philatelics
-
 None

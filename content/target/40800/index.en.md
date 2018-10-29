@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LuvChester-le-Tweet (@LoveChesta) on Twitter
-
 Chester-le-Tweeting for all who live in, work in, or just love the North East market town.

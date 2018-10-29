@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Hayley Newman
-
 Hayley Newman works performatively, producing live events, film, video and photography. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St. Helena Tourism (@sthelenatourism) on Twitter
-
 Official tourist Twitter profile for St. Helena including travel and tour trips as well as local news.

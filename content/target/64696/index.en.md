@@ -10,8 +10,6 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Greater Manchester Cancer | Vanguard Innovation
-
 Vanguard Innovation is the innovation arm of Greater Manchester Cancer, the cancer programme of Greater Manchester’s devolved health and social care system.
 
 Our aim is to test innovations in cancer care to radically improve outcomes across Greater Manchester and Eastern Cheshire.

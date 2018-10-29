@@ -11,5 +11,3 @@
   "subject": "Fashion"
 }
 
-# Trefriw Woollen Mills - Weavers of Welsh Bedspreads and Tweeds
-

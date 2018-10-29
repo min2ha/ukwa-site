@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Dolgellau Music Club
-
 The aim of the club is to bring high quality musicians to the Dolgellau area.

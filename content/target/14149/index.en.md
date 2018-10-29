@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Royal United Services Institute: Scottish Defence and Security Policy
-
 <p>Publications, analysis and news on the implications of Scottish independence.</p>

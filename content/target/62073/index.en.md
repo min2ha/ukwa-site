@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Has dopamine got us hooked on tech?
-
 News article about the link between the chemical dopamine and social media and tech addiction

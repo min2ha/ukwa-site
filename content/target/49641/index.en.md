@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Athletics Cardiff Cross Challenge
-
 The Cardiff Cross Challenge was established in 1997 and has become one of the most prestigious Cross Country events in the UK. 

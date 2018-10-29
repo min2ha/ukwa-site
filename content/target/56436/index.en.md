@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# Teapot Trust
-
 The Teapot Trust children’s charity uses art therapy as a way of helping young people cope with long term medical conditions. We know that these conditions can cause anxiety, anger or upset for children and families. Art therapy provides a way of expressing and dealing with feelings, helping children to feel more in control and to cope with their condition.

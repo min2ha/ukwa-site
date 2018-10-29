@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chatham House, EU Referendum sub-section
-
 A collection of news and commentary articles published by the think-tank Chatham House.

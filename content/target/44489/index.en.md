@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express: Scotland will have to leave EU with rest of UK
-
 An article arguing that Scotland will have to leave the EU with the rest of the UK.

@@ -10,5 +10,3 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Facebook: Liberal Youth Scotland
-

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Buzz Express: Stephen Hawking
-
 BuzzExpress has it all: the latest celebrity gossip buzzing on social, the news you want now, and the humor that you know you need. These are the articles relating to Stephen Hawking

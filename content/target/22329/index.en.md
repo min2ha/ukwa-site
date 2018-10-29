@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Callum Leslie (@cleslie92) on Twitter
-
 Twitter profile of Callum Leslie, Liberal Democrat candidate for Kirkcaldy and Cowdenbeath in the 2015 UK General Election.

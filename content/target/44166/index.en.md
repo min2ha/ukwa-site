@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Royal Highland Centre
-
 Site of a multi-venue exhibition and conference centre at Ingliston, west of Edinburgh.

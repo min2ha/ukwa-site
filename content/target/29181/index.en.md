@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Canterbury Festival 
-
 Kent's International Arts Festival, an important cultural events in the South East, bringing a rich mixture of performing arts from around the world

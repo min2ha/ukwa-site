@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Influence and Effect of the Polish Legions on Post First World War Europe, The 
-
 Project to provide access to materials for research and promote interaction and expand historical knowledge of WW1 for education purposes and the development of Anglo/Polish community relations.

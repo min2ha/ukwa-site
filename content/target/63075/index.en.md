@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Manor Adventure
-
 At Manor Adventure we offer educational tailor-made outdoor pursuits courses for schools with excellent tuition in more than 35 exciting activities.

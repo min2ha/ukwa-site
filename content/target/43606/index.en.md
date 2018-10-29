@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Julie's Bicycle: The EU referendum, the Environment and #GreenArts
-
 Blog about the possible effects of the EU referendum on the environment sector and the arts and creative sector

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Launceston Community
-
 None

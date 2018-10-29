@@ -10,5 +10,3 @@
   "start_date": "2010-04-15T00:00:00Z"
 }
 
-# Organic Flour, Stoneground & Spelt Flour | Bacheldre Mill
-

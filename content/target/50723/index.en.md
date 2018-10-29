@@ -10,5 +10,3 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Blessed Edward Jones Catholic High School
-

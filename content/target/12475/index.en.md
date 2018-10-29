@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Payne (Connolly_Sarah) on Twitter
-
 <p>The twitter profile of wrestler Sarah Payne, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

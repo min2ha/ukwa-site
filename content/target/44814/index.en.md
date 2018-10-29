@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T11:00:00Z"
 }
 
-# Egypt Solidarity Initiative
-
 This website launched on 11 February 2014, the third anniversary of the fall of Mubarak, to publicise the Egypt Solidarity Initiative founding statement and campaign in defence of democratic rights in Egypt.

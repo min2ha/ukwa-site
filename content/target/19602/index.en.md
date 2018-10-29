@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gordon Brown MP | Kirkcaldy & Cowdenbeath
-
 This is the website of former Prime Minister Gordon Brown, Labour Member of Parliament for Kirkcaldy and Cowdenbeath.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Clyde River Foundation
-
 "The Clyde River Foundation researches the ecology of the Clyde and its tributaries and promotes environmental education throughout the Clyde catchment."

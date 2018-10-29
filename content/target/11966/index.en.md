@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Constitution Society, The 
-
 The Constitution Society is an independent, non-party educational foundation which works to promote informed debate about constitutional reform. We take no position on specific reform proposals but advocate better legislative standards and oppose ill-considered, piecemeal change.

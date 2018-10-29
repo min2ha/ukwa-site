@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dreghorn and Springside Parish Church
-

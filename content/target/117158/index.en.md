@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# DAWN (Dynamic Asian Women's Network)
-
 None

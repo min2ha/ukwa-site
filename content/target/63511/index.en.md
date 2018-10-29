@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# UNILAD
-
 UNILAD brings you the best, funniest and most trending content from around the world. Send us your stories, funniest pictures and videos!

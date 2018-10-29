@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Rheidol Riding Centre
-

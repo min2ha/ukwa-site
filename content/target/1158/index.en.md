@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Three Counties Cancer Network
-
 None

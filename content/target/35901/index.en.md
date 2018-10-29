@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cat Headley (@Cat_Headley) on Twitter
-
 The Twitter profile of Cat Headley, the Scottish Labour candidate for Edinburgh Western in the 2016 Scottish Parliament election.

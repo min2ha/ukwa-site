@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Timothy Barnes (Conservative Politician)
-
 Timothy Barnes stood as Conservative candidate for Holborn and St Pancras at the 2017 General Election but was not elected.

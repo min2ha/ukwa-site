@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Vote Leave’s campaign of fear will cause lasting divisions 
-
 Guardian, The

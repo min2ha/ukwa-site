@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Naushabah Khan (@naushabahkhan) on Twitter (Labour candidate for Rochester and Strood)
-

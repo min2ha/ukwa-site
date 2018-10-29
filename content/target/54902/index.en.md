@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Ghana Union
-
 Ghana Union is a welfare charity committed to serving the Ghanaian community in the UK & has been working hard to ensure that we are able to connect and keep the community informed. We work in partnership with external agencies, community groups, governmental organisations & our Corporate members for the benefit of the community.

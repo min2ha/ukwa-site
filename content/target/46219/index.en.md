@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lossiemouth Football Club
-
 Site of a Scottish football club located in Lossiemouth, Moray, Scotland

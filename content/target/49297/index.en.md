@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Print Room
-
 Founded in a former print warehouse off Westbourne Grove, the Print Room theatre opened in 2010. 

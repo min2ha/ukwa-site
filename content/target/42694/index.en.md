@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Clan MacMillan International
-
 Site dedicated to the history, family history and traditions of the MacMillan clan and its septs. 

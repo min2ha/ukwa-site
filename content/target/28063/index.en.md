@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Slow Fuse or the Quick Fuse, The
-
 The blog of Peter Arnott, Scottish dramatist.

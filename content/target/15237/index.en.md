@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# SE16.com
-

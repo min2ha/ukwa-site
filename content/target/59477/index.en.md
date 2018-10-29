@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Army of therapists to be sent into schools to tackle anxiety epidemic
-
 News article covering proposals in a government green paper on children and young people’s mental health. The internet is blamed for the sharp increase in the rise of mental health issues for the younger generation

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Community Parish of Llandudno Junction, Llanfairfechan and Llanrwst
-

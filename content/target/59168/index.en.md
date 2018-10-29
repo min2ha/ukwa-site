@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Agriculture, Fisheries and the Rural Economy
-
 This House of Lords Library briefing was prepared in advance of the debate in the House of Lords on the new opportunities and challenges for agriculture, fisheries and the rural economy in the United Kingdom on 2 November 2017.

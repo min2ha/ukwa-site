@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London School of Economics (LSE) Blog
-
 London School of Economics (LSE) Blog on #EURef gathering all blogs posts under one tab.

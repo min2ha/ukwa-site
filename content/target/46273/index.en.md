@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Wave and Swansea Sound
-
 The Wave and Swansea Sound is a radio station for the Swansea area.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Performing the Jewish Archive
-
 Performing the Jewish Archive is a three year Arts and Humanities Research Council funded project working to explore hidden archives, uncover and perform lost works, and create a legacy for the future.

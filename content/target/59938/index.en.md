@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Judith Hay Paintings
-
 Judith Hay is a painter from Scotland who exhibits and is now based in north Wales.

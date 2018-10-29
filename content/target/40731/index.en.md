@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Master Oh
-
 The official website of London-­based energy healer Master Oh. This blog is dedicated to advice to improve your health, relationships and wellbeing.

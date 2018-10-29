@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Rhwyfo Cymru | Welsh Rowing
-

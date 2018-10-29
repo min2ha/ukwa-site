@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Gaeilige.ie : Gateway to the Irish Language
-
 Site providing information about Irish language, in Irish (Gaeilge) and English.

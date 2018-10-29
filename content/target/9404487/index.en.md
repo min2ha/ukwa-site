@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Association of Local Government Ecologists (ALGE)
-
 None

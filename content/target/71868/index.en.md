@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Barnier says Brexit deal could be struck in next two months
-
 The European Union’s chief Brexit negotiator, Michel Barnier, said it was “realistic” to believe that a Brexit deal could be agreed between the UK and the EU by November 2018
 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blairgowrie Juniors Football Club
-
 Site for a Scottish junior football club based in Blairgowrie, Perth & Kinross.

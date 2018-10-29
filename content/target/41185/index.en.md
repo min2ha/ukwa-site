@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Glasgow & South Western Railway Association
-
 Site of an association interested in the history of the former Glasgow and South Western Railway.

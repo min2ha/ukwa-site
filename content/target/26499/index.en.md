@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK shares fall and pound volatile as voters go to the polls
-
 None

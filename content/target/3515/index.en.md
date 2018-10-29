@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Edgware and Mill Hill Press
-
 None

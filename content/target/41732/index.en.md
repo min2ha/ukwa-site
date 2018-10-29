@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Grant Thornton: The impact of ‘Brexit’ on the financial services sector
-

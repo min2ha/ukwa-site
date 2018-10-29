@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# City Livery Club
-
 The Club was founded in 1914 and its cardinal objective was to “bind together in one organisation Liverymen of the various Guilds by bonds of common interest in defence of all the citizens hold dear…in service to the ancient Corporation and in maintenance of the priceless City churches.”

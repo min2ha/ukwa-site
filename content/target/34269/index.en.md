@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Aberdeen Built Ships Project
-
 Database of shipping built in Aberdeen, Scotland. Set up by Aberdeen City Council

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stewart McDonald on Facebook
-
 This is the Facebook page of Stewart McDonald, the Scottish National Party (SNP) candidate for Glasgow South in the UK General Election on the 7th May 2015.

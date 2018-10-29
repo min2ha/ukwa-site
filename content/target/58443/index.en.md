@@ -10,6 +10,4 @@
   "start_date": "2017-11-04T09:00:00Z"
 }
 
-# Pavilion Cinema
-
 Site of a cinema located in Galashiels, Scottish Borders.

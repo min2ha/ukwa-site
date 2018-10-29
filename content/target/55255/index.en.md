@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# South Wales Miners' Library
-
 This is a blog for South Wales Miners' Library based at Swansea University. 

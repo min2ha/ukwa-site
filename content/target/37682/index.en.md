@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales in the EU (@WalesinEU) on Twitter 
-
 Official Welsh Government twitter account promoting and protecting the interests of Wales within the European Union.

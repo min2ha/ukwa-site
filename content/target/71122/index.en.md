@@ -10,6 +10,4 @@
   "start_date": "2018-09-13T09:00:00Z"
 }
 
-# Artem Ltd.
-
 Special effects, props and set design for film and TV shows, advertising and shows. Offices in London and Glasgow. 

@@ -10,5 +10,3 @@
   "start_date": "2005-07-06T00:00:00Z"
 }
 
-# Centre for the History of Medicine, University of Warwick
-

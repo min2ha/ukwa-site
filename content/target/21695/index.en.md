@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour fights to limit damage from Scottish 'earthquake'
-
 None

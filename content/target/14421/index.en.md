@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Anyone who thinks they are on the left or calls...
-
 Ewan Morrison's Facebook post on comment from Thomas Sewell of the 3rd of July, 2014.

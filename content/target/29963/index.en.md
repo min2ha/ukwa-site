@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# MaP Group
-
 MaP (Makers and Practitioners) is a collective group of artists based in Wales that encompass a diverse range of creative approaches within contemporary textiles and mixed media. 

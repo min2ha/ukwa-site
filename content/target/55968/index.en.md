@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Stamp Magazine Forum 
-
 An online enthusiast forum concerned with stamp collecting. Discusses GB stamps, Commonwealth stamps, World stamps, specialisms and various other topics. 

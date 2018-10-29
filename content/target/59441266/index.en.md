@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# Bristol and District Anti-Cuts Alliance
-
 None

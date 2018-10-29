@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour lost Scotland’s trust long before the referendum
-
 None

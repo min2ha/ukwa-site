@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Cayman Prepared: Cayman Islands National Emergency Website
-

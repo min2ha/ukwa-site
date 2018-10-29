@@ -10,5 +10,3 @@
   "start_date": "2008-08-18T00:00:00Z"
 }
 
-# INSPIRE- Infrastructure for Spatial Information in the European Community
-

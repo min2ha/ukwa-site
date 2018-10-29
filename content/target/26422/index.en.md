@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Include Lib Dems in coalition or face second election this year, says Clegg
-
 None

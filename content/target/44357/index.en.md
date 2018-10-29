@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Belmont House
-
 Belmont in Faversham, Kent. The focus of Belmont is the neo-classical house, the gardens and a collection of clocks on display.

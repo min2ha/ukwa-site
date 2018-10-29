@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hannah Patton (@HannahGreenPC) on Twitter (Green Party candidate for Maidstone and the Weald)
-

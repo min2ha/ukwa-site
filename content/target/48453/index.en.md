@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 17th Jan. 2017: New Partnership with the EU
-
 David Davis, Secretary of State for Exiting the EU, updates the House on the Government’s plans for withdrawal.

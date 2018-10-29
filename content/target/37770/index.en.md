@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Like the Scottish referendum, the public will be thinking of their pockets when they vote on EU membership
-

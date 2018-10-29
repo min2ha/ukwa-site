@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UK Parliament: The UK's EU referendum 2016 explained
-

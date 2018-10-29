@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 1914-1918-online: International Encyclopedia of the First World War
-
 1914-1918-online: International Encyclopedia of the First World War is an English-language virtual reference work on the First World War. The multi-perspective, open-access knowledge base is the result of an international collaborative project involving more than 1,000 authors, editors, and partners from over fifty countries. 

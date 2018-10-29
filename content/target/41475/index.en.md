@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sampford Courtenay
-
 The parish of Sampford Courtenay is situated just off the northern slopes of Dartmoor and spans some five miles from north to south and two miles east to west, covering an area of 8323 acres and has a population of 600.

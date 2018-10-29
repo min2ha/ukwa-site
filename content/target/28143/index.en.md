@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Southwell Minster
-
 The Cathedral and Parish Church of the Blessed Virgin Mary is popularly known as ‘Southwell Minster’. As the Cathedral Church of Nottinghamshire it seeks to serve diverse communities.

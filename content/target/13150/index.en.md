@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# 2014 Referendum - an album on Flickr
-
 <p>A Flickr album collected and published by the Scottish Political Archive at Stirling University, containing campaign photographs and leaflets from Yes and No groups for the 2014 referendum.</p>

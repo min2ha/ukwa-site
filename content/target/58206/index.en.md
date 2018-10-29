@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loch Shiel Spring Festival
-
 Site of an annual festival of chamber music located at Loch Shield, Highlands.

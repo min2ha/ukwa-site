@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What's on the minds of voters since the Brexit result?
-

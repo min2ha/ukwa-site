@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Socialist Oppositio to WW1
-
 Created an exhibition based on the Socialist Opposition to the First World War

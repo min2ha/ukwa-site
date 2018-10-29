@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Thomas Haddow (@haddow_thomas) on Twitter
-
 The Twitter profile of Thomas Haddow, Scottish Conservative and Unionist candidate for  Glasgow Pollock in the 2016 Scottish Parliament election.

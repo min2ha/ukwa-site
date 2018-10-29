@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Haynes (@Centreradical) on Twitter (Liberal Democrats candidate for Birmingham Northfield)
-
 Stephen Haynes stood as Liberal Democrats candidate for Birmingham Northfield at the 2015 General Election but was not elected. 

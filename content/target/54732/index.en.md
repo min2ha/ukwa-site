@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Freedom Church
-
 Freedom Church is a member of the Evangelical Alliance (EA), the UK's largest body of Evangelical churches

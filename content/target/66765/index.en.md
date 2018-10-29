@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Garden Birds (@GardenBirdsGB) on Twitter
-
 Twitter page of British Garden Birds

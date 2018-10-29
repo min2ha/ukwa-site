@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Owen Herbert on Facebook (TUSC candidate for Aberavon)
-

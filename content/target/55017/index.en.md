@@ -10,5 +10,3 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# British Committee for the Reunification of the Parthenon Marbles
-

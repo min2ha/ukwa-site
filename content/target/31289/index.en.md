@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# International Alert: Publications
-
 Publications, based on analysis and research of fragile and conflict-affected countries and regions.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister: a new settlement for the United Kingdom in a reformed European Union
-
 In a letter to the President of the European Council Donald Tusk, the Prime Minister sets out the 4 areas where he is seeking reforms as part of negotiations on the UK’s membership of the European Union. These 4 areas are: economic governance; competitiveness; sovereignty; immigration.

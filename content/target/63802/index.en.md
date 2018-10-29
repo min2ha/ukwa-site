@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Spain hopeful of Gibraltar deal with the UK by summer
-
 Spain hoped to reach an agreement with the UK over Gibraltar by the summer of 2018, according to its foreign minister. Alfonso Dastis said Spain would "defend our position" but the two sides were "working towards" an agreement as soon as possible.
 
 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Lodge Incorporated Montrose Kilwinning 182
-
 Site of a masonic lodge located in Montrose, Angus and affiliated with the Grand Lodge of Scotland.

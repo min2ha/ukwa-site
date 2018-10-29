@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Lodge Scotia Regia No. 1345
-
 Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.

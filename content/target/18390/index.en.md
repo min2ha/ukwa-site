@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Queen 'may miss VE Day commemorations to distance herself from hung Parliament'
-
 None

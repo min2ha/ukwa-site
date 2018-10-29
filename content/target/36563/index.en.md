@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Boris Johnson and George Osborne 'to debate Brexit in front of 12,000-strong audience 48 hours before the referendum'
-

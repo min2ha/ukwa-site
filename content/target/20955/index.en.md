@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Thurso on Facebook
-
 This is the Facebook page of John Thurso, the Liberal Democrats candidate for Caithness, Sutherland and Easter Ross in the UK General Election on the 7th May 2015.

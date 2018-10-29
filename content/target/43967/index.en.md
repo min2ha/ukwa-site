@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Christina Rees (Labour MP for Neath)
-
 Christina Rees is the Labour MP for Neath.

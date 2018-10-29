@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdour St. Drostan Church
-
 Site of a Church of Scotland parish church at Aberdour, Aberdeenshire.

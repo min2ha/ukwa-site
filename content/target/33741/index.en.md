@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# SwiftKey
-
 SwiftKey Keyboard is a keyboard app for iPhone and Android known for learning and predicting owner's writing style - favorite words, phrases and emoji. 

@@ -10,6 +10,4 @@
   "start_date": "2016-09-10T11:00:00Z"
 }
 
-# Silcox Coaches
-
 Silcox coaches is Pembrokeshire coach company that went into administarion in 2016.

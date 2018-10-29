@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Communist Party on Facebook
-
 None

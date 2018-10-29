@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Party leader TV debates: Broadcasters threaten to 'empty chair' David Cameron
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Alliance of Independent Authors
-
 ALLi, the Alliance of Independent Authors, is a non-profit professional association for authors who self-publish.

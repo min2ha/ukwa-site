@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Lledr Valley in old Postcards and Photos
-
 The Lledr Valley is in Snowdonia in north Wales and runs from the top of the Crimea Pass, north of Blaenau Ffestiniog down to Betws-y-Coed.

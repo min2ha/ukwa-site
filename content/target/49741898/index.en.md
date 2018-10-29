@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Vespa.org.uk
-
 None

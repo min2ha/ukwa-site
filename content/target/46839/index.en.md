@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Gareth Bennett (UKIP AM for South Wales Central)
-
 Gareth Bennett is the UKIP AM for South Wales Central.

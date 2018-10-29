@@ -10,6 +10,4 @@
   "start_date": "2005-02-15T00:00:00Z"
 }
 
-# CPD Wrecsam - Wrexham AFC
-
 None

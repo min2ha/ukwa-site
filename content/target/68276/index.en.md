@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Ruts Rugby (@oldrutsrugby) on Twitter
-
 The official Twitter account of Old Rutlishians' Rugby Football Club.

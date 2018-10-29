@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hartlepool United F.C.
-
 Hartlepool United Football Club is a professional association football club based in Hartlepool, County Durham, England. The team plays in the National League, the fifth tier of the English football league system. Hartlepool play their home games at Victoria Park on Clarence Road.

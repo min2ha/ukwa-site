@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Charandeep Singh : Scottish National Party (SNP)
-
 Charandeep Singh is the Scottish National Party list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

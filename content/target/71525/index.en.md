@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Classic Festivals
-
 Classic Festivals, which is a website for Quintessentially British Events.

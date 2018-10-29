@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkmabreck and Monigaff Parish Churches
-
 Site of a Church of Scotland church at serving the parishes of Kirkmabreck and Monigaff, Dumfries and Galloway, [historically Wigtownshire].

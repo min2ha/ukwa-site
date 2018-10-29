@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rhostyllen Memorial Project
-
 This is a project launched by the Community Council of Esclusham in order to remember and honour the fallen of the parish during the First World War. The aim is to riase money for the commissioning of the sculptures in the parish.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# MCB (@MuslimCouncil) on Twitter
-
 Official twitter feed of the Muslim Council of Britain, one of the UK's largest Muslim umbrella body. 

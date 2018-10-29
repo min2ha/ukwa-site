@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Action Aid: Nelson Mandela passes and we reflect on his legacy
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# History on Television, Lincoln - 'Televising History 1995-2010' - an AHRC-funded research project
-
 None

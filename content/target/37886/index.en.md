@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ann Jones AM (@ann_jonesam) on Twitter (Labour candidate for the Vale of Clwyd
-
 Ann Jones is the Labour candidate for the Vale of Clwyd at the 2016 National Assembly Elections.

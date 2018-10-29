@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Walter Davidson & Sons Limited
-
 Website of a provider of pharmacy services to towns and rural communities in north east Scotland. The chain is known by the name Davidson Chemists.

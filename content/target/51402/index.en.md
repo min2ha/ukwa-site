@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Jamieson's Etymological Dictionary of the Scottish Language Online
-
 Site of a digitised copy of John Jamieson's Etymological Dictionary of the Scottish Language.

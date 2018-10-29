@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Tenis Bwrdd Cymru | Table Tennis Wales
-

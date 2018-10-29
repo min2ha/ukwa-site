@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Band Press Llarreggub
-
 Band Press Llarreggub is a Bronx hip hop-inspired New Orleans-tinged North Walian brass band. 

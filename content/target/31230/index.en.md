@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Dumfriesshire and Galloway Natural History and Antiquarian Society
-

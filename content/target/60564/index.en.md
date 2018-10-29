@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Great Britain - Russia Society
-
 The Great Britain – Russia society is a charitable organisation which aims to promote cultural understanding between the UK and Russia.

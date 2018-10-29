@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Society for Back Pain Research,  The
-
 The Society for Back Pain Research was formed in 1971 to promote the study of all clinical and scientific aspects of spinal pain, including the neck, and to encourage research into its causes, treatment and prevention.

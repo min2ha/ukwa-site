@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Senior Tories launch concerted attack on May's Brexit plan
-
 Theresa May’s Brexit stance came under concerted attack from within her party, with senior Tories lining up to warn against making fresh concessions to Brussels as negotiations reached their final, frantic stage.
 

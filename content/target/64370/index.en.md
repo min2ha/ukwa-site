@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# My Cause UK
-
 Volunteer at music festivals across the UK with My Cause UK and help raise funds for any charity you choose

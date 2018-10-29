@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Raglan Festival
-
 Raglan Festival is a family music festival in the heart of Monmouthshire

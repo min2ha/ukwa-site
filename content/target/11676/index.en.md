@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Muir (ross1muir) on Twitter
-
 <p>The twitter profile of althete Ross Muir, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

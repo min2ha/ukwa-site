@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Devon & Cornwall Police & Crime Commissioner
-
 None

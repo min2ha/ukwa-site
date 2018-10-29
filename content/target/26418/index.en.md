@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If my brother’s abandoning Labour for the SNP, the union’s in trouble
-
 None

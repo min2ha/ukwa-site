@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# DGLG Derbyshire Gypsy Liaison Group
-
 Derbyshire Gypsy Liaison Group provides valuable assistance and information to the Gypsy community in and around Derbyshire. DGLG also has close relationships with local authorities and services to aid managing Gypsy culture with knowledge and respect. DGLG work is not exclusively in Derbyshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wesley College, Bristol
-
 None

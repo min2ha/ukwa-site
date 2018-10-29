@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Bdy_Prts
-
 Site of a Scottish music duo, based in Glasgow.

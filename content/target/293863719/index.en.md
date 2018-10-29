@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Tref Frenhinol Caernarfon | Caernarfon Royal Town Council
-
 Caernarfon Royal Town Council latest news & information.

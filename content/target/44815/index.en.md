@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T11:00:00Z"
 }
 
-# MENA Solidarity Network
-
 A network of activists from different unions in the UK engaged in building solidarity links with workers in the Middle East and North Africa; working with independent workers’ organisations in the MENA region in support of their struggle for social justice and workers’ rights.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Let Us Learn: young, gifted and blocked
-
 Let us Learn is a group of young migrants, who are proud to call the UK home. It is our ambition that all migrants should have the chance to contribute fully to British society. In October 2017, we launched ‘Chasing Status. Our newest campaign is calling for an end to the high Home Office fees and long delays that leave too many of us in legal limbo, often for years on end, when we are seeking to formalise our status as British citizens.

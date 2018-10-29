@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Pole Sports UK
-
 Pole Sports UK (PSUK) is a federation for the UK's pole sport. It is a member of the International Pole Sports Federation. They work towards achieving recognition of pole as a sport in it's own right.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: If you love Britain vote to stay: Fury as David Cameron says the idea of the UK being a sovereign country outside the EU is an illusion    
-

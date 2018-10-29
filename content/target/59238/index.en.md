@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Tyrfe Tawe 
-
 Tyrfe Tawe is an annual Welsh language folk festival held in Swansea.

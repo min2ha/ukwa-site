@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# Natalia Dias Ceramic Art
-
 Welsh ceramic artist.

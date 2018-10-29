@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU exists only to become a superstate. Britain has no place in it
-

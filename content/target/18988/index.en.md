@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Cosy up to the Magna Carta at Salisbury Cathedral for Alabare Sleep Out
-

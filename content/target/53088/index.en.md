@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Evans (@EvansForIslwyn) on Twitter
-
 Chris Evans is MP for Islwyn since 2010.

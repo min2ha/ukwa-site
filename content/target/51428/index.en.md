@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Calvary Baptist Church, Ogmore Vale
-

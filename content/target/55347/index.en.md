@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Every Minute of Every Day 
-
 Every minute of every day is a collaborative experiment in real-time ethnography between Goldsmiths’, University of London and Richard House Children’s Hospice (Newham)  and St Joseph’s Hospice (Hackney). The aim of this project is to capture something of the local areas and communities that are served by the hospices by using mixed methods – photos, sound recordings, film as well as talking and listening to people.

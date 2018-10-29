@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WhitleyBayBarbarians (@WBBarbarians) on Twitter
-
 Whitley Bay Barbarians bringing Rugby League to all ages in the North East since 1994.

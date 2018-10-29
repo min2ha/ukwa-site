@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Barack Obama: As your friend, let me say that the EU makes Britain even greater
-

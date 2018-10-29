@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# General Pharmaceutical Council (GPhC)
-
 The General Pharmaceutical Council (GPhC) is the independent regulator for pharmacists, pharmacy technicians and pharmacy premises in Great Britain.

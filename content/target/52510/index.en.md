@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# United Utilities Group plc
-
 United Utilities Group plc is the United Kingdom's largest listed water company. The group manages the regulated water and waste water network in North West England, which includes Cumbria, Cheshire, Greater Manchester, Lancashire and Merseyside.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Young Friends General Meeting
-

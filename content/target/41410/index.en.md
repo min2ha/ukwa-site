@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Owen Sheers
-
 Owen Sheers is a Welsh Poet, Playwright and Novelist.

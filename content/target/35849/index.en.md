@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Campaign for Merit in Business
-
 The blog of Campaign for Merit in Business, a campaign launched in April 2012. They’re campaigning against initiatives to ’improve’ gender diversity in the boardroom (‘GDITB’) because they believe that this ‘improvement’ will damage corporate performance. This site is anti women in senior positions in business.

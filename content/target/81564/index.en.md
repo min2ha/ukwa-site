@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# National Philanthropic Trust (NPT-UK)
-
 NPT-UK is a UK-registered charity dedicated to providing philanthropic expertise to donors, financial institutions, foundations and charities, enabling them to realise their philanthropic aspirations.

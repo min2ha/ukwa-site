@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Mare Rosa Preceptory and Priory 
-
 Site of a Dundee branch of the Order of the Temple of the Great Priory of Scotland.

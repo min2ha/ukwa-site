@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute for Family Business: Family Business Manifesto Launched
-
 None

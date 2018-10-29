@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Al Murray's FUKP election party pledges free dogs for all in back-of-fag-packet manifesto 
-
 None

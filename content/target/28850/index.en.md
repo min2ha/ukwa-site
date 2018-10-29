@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Polish Heritage Society (PHS), The
-
 The Polish Heritage Society aims to record and promote the care of memorials, monuments, buildings and other marks of remembrances testifying to the presence of Poles in the UK; to record and promote the contribution of Polish social organisations and individuals of Polish to the cultural heritage of the UK and to advocate, preserve and promote the relationship between the British and Polish nations.

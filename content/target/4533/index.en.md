@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Trades Union Congress: British trade union movement mourns the death of Nelson Mandela
-
 <p>Text of the letter sent by TUC General Secretary Frances O'Grady to President of the Congress of South African Trade Unions (COSATU) Sdumo Dlamini to express condolences on the death of Nelson Mandela.</p>

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Budleigh Salterton and Lower Otter valley First World War heritage
-
 The project will enable people to find out about the impact of the First World War on the communities of Budleigh Salterton, Knowle, East Budleigh, Otterton, Colaton Raleigh and Newton Poppleford

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Scots and Welsh can have say in Brexit court case
-
 The government is appealing against a High Court ruling that MPs must get a vote on triggering Article 50. The Supreme Court confirmed that Wales and Scotland's senior law officers will be allowed to take part in the appeal.

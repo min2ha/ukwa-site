@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Lansons
-
 London-based reputation management consultancy helping businesses communicate more effectively with customers, investors, employees and regulators.

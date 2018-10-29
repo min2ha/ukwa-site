@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Para-Con Wales
-
 Para-con Wales is an annual conference about the world of paranormal.

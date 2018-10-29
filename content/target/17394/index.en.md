@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Zac Goldsmith: I've never had a Swiss bank account
-
 None

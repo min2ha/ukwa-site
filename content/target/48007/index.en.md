@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# The Queen 'DID back leaving the EU'! claim that Monarch told guests at a private lunch: 'I don't see why we can't just get out'  
-

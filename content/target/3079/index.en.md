@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Literature Wales
-
 Literature Wales is the national organisation responsible for developing and promoting literature. It is made up of Yr Academi Gymreig / The Welsh Academy, which is the Society for Writers of Wales, and Tŷ Newydd Writers’ Centre. Literature Wales represents the interests of Welsh writers in all genres and languages, both inside Wales and internationally.

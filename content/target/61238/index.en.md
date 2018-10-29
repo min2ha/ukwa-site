@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Veddw House Garden
-
 Veddw has two acres of ornamental garden and two acres of woodland and is located near Tintern.

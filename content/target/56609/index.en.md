@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# RAF Elsham Wolds
-
 A personal site dedicated to a well known WW1 and WW2 Lincolnshire airfield and the surrounding airfields.  This website and its content is copyright of David William Fell and/or the contributors.

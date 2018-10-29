@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Croner: Clinical networks and clinical senates
-
 None

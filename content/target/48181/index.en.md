@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Wildlife and Countryside Link: Link Blog
-
 Wildlife and Countryside Link is a coalition of 47 voluntary organisations concerned with the conservation and protection of wildlife and the countryside. 

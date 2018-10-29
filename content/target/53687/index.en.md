@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Family traveller: 5 magical ways to celebrate Harry Potter’s 20th anniversary
-

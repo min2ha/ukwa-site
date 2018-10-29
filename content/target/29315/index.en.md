@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Parades Commission: Easter Rising Commemoration 2016
-

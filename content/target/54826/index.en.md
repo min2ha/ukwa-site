@@ -10,7 +10,5 @@
   "start_date": "2017-06-18T09:00:00Z"
 }
 
-# Agriculture & Horticulture Development Board (AHDB)
-
 The Agriculture and Horticulture Development Board (AHDB) is a statutory levy board, funded by farmers, growers and others in the supply chain and managed as an independent organisation (independent of both commercial industry and of Government). Its purpose is to inspire our farmers, growers and industry to succeed in a rapidly changing world.
 

@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# North of Scotland Grapevine
-
 Site of a free local newspaper circulating in Elgin, Moray and Highland.

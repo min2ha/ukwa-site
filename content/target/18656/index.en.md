@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Access to Justice Foundation, The: Press Release: Magna Carta partnership announced
-

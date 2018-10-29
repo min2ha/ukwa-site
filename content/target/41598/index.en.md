@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Treasury: HM Treasury analysis: the immediate economic impact of leaving the EU
-
 New Treasury analysis shows a vote to leave the EU would tip Britain’s economy into a year-long recession, , with at least 500,000 jobs lost and GDP around 3.6% lower

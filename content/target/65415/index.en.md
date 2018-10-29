@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Huntly Histories on Facebook
-
 Facebook page of a local history group collecting information and images of Huntly, Aberdeenshire, in the past.

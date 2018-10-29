@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# National Showcaves for Wales, The
-
 Dan yr Ogof, also known as the National Showcaves Centre for Wales, is a 17-kilometre (11 mi) long cave system in south Wales.

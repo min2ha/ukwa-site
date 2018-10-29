@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Enough is Enough 
-
 Enough is Enough is written by Meltem Arikan, directed by Memet Ali Alabora, with music by Maddie Jones. The play includes four female members who act as members of a band and tells the stories of real people about sexual violence. Enough is Enough, is touring Wales during 2017.

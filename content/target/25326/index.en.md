@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Britain Elects (@britainelects) on Twitter
-
 A poll aggregator including election commentary.

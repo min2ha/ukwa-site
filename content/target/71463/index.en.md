@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northwich RUFC on Pitchero
-
 The official website of Northwich Rugby Union Football Club.

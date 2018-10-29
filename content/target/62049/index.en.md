@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Barnsley Football Club
-
 Barnsley Football Club is a professional association football club based in the town of Barnsley, South Yorkshire, England. The team play in the Championship, the second tier of the English football league system.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Orkney Islands Council: Our Islands Our Future Leaflet
-
 None

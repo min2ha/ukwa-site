@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave (UKIP) (@VoteLeaveUKIP) on Twitter
-
 UKIP in Vote Leave - campaigning for a 'leave' vote in the upcoming EU referendum

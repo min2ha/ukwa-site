@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Llyn Padarn - Loving our Lake
-

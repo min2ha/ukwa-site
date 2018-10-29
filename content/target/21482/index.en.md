@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Grant Shapps: More than half of voters polled believe Tory chairman deliberately lied in second job row
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Clan MacAulay Association
-
 Site of an organisation promoting clansmanship, of belonging in kinship, to foster an interest in Scotland, the land, origins and history of the Clan MacAulay

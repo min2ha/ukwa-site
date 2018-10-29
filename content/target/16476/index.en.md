@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boris Johnson goes looking for Conservative friends in the north 
-
 None

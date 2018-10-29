@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Competition and Markets Authority (@CMAgovUK) on Twitter
-
 We work to promote competition for the benefit of consumers in the UK.

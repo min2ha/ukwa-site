@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Cash for Magna Carta but cuts for charity in Faversham’s draft council budget
-

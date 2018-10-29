@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Easter Rising Coach Tour
-
 This is the blog of the 1916 Easter Rising Coach Tour. This is an audio-visual tour that transports customers to key sites related to the Easter Rising. 

@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# CENSIS
-
 CENSIS is the Innovation Centre for Sensor and Imaging Systems, based in Glasgow.

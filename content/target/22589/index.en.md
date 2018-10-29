@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband calls on spirit of optimism as he launches Labour's election campaign with NHS promise
-
 None

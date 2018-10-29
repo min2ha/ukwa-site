@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Clark on Facebook (Labour candidate for Sevenoaks)
-

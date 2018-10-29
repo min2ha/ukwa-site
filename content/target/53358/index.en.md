@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter and the Cursed Child London
-
 This site is about the play 'Harry Potter and the Cursed Child' by Jack Thorne, based on an original story by J.K. Rowling, Jack Thorne and John Tiffany. It's played in London’s West End at the Palace Theatre.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Maltsters' Association of Great Britain, The
-
 The Maltsters' Association of Great Britain was formed in 1827, and has been working with the UK malting industry since to promote and safeguard the UK malting industry, so enabling it to fulfil its world-wide potential.

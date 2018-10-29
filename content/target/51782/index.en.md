@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hebron Hall Christian Centre
-

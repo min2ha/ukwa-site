@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# FUW Welsh Farmer | Y Tir
-
 Welsh Farmer | Y Tir is the Farmers Union of Wales newspaper.

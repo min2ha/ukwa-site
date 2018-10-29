@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Ukip denies preacher who called the Welsh dragon a 'sign of Satan' is in running for Coventry seat 
-

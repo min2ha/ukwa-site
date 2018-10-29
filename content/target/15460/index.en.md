@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Pesda Press
-
 <p>Mountaineering, climbing, kayaking and canoeing guidebooks based in north Wales.</p>

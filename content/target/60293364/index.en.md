@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Elin Jones Plaid Cymru Ceredigion (Ymgyrch Elin)
-

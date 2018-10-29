@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Consented
-
 Consented is a quarterly print magazine, this is their official website.

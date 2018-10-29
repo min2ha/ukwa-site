@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Montgomery on Facebook
-
 This is the Facebook page of David Montgomery, the Conservative Party candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

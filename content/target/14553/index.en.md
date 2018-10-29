@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Water Industry Commission for Scotland (WICS)
-

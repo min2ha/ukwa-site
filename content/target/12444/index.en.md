@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BP and the Glasgow 2014 Commonwealth Games
-
 None

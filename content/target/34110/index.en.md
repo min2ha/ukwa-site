@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Why the Brexit poll could become England’s accidental ballot on Scotland leaving the UK  
-

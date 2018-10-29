@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sherborne RFC
-
 The official website of Sherborne RFC. Sherborne RFC is a young, vibrant club, having only been established in 1980.

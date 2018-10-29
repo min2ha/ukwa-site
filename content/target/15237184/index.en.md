@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Michelle Styles - Blog
-
 None

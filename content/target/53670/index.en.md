@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# ITV News: Poll shows Labour reclaiming lead in Wales
-
 The latest poll gives Labour a10 point lead. Both Labour and Conservatives are 7 points above their 2015 election result. 22 May 2017 at 4:00pm.

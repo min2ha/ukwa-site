@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vice UK: EU Referendum 
-
 Vice UK coverage of EU referendum

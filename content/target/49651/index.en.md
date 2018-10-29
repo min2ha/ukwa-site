@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Gadget Vicar
-
 David McCarthy's blog; the pastor of St Thomas' Church, Corstorphine, Edinburgh.

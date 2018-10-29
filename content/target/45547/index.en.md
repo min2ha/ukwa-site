@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chambers Student
-
 Information for law students

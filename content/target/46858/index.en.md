@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Glyn Poolley
-
 Glyn Poolley is a Welsh artist. Many of his exhibitions have been held at the Welsh Senedd.

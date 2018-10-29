@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# UUJ FC Jordanstown  (University of Ulster Jordanstown)
-
 UUJ FC is an intermediate football club based at the University of Ulster Jordanstown in N. Ireland.

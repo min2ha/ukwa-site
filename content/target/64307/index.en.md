@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Benbecula Church of Scotland on Facebook
-
 Site of a Church of Scotland parish church at Benbecula in the Western Isles / Na h-Eileanan Siar.

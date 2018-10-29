@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# UCU (@ucu) on Twitter
-
 University and College Union, UK trade union & professional association for academics, lecturers, trainers, researchers & academic-related staff in further and higher education.

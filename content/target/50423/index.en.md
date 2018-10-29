@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Muirkirk Juniors Football Club
-
 Site for a Scottish junior football club based in Muirkirk, Ayrshire.

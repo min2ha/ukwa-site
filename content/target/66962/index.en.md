@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Royal Air Force Centre for Air Power Studies
-
 The Royal Air Force Centre for Air Power Studies (RAF CAPS) is a Royal Air Force sponsored think tank which engages in the study of air power.

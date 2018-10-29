@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Doncaster and Bassetlaw Hospitals
-
 None

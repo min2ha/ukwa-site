@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Pitt Rivers Museum - The website of the 'The Relational Museum' project 2002 - 2006
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Prosiect Hanes Llafar Menywod yng Nghymru (1920-1960)
-
 A Merched y Wawr project in partnership with Trinity College, Carmarthen and Museum of Welsh Life providing a history of women in Wales between 1920 and 1960.

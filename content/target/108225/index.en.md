@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# Chartered Society of Physiotherapy (CSP)
-
 <p>Professional Bodies and trade unions</p>

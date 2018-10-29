@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# UHI Facebook page
-
 Facebook profile of the University of the Highlands and Islands (UHI).

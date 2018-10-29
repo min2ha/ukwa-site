@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Survival International
-
 Survival International is an organization that champions tribal peoples around the world. They help them defend their lives, protect their lands and determine their futures.

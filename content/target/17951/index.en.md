@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Across the Divide
-
 Across the Divide is an event management company providing personal and group experiences. It was established in 1997 and it offers charity treks and other charitable fundraising solutions such as bike rides, dog sled challenges, multi activity events, ultra marathon and adventure races and also range of global teambuilding, Corporate Social Responsibility (CSR) projects and networking solutions.

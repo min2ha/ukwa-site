@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian: The technocrats must be voted out at the European elections
-
 None

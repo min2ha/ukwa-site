@@ -10,5 +10,3 @@
   "start_date": "2014-10-08T00:00:00Z"
 }
 
-# Life & Works of Susanna Roope Dockery
-

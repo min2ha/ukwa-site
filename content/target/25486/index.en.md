@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Red hot Ed: negative Tories might gift Miliband a non-hung parliament
-
 None

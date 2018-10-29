@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We can't vote on this government's welfare reform with out-of-date data
-
 None

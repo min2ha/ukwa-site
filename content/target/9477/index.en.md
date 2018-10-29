@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Centre for European Reform: The 2014 European elections: Why a partisan Commission president would be bad for the EU 
-
 None

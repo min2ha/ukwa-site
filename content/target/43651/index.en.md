@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of Oxford, News & Events: UK newspapers' positions on Brexit
-
 One month before the EU referendum vote, the Reuters Institute for the Study of Journalism at Oxford University has released interim findings on the stance being taken by newspapers.

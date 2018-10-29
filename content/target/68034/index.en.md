@@ -10,6 +10,4 @@
   "start_date": "2018-06-24T09:00:00Z"
 }
 
-# Quooker UK Ltd.
-
 Makers of boiling water taps for kitchens

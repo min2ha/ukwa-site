@@ -10,6 +10,4 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# Migrations
-
 Migrations is a theatre company based in Llanrwst that brings international contemporary performance to Wales.

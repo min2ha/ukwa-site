@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Waldo Williams
-
 Waldo Williams was a leading Welsh language poet of the twentieth century, a notable Christian pacifist, anti-war campaigner, and prominent member of Plaid Cymru.

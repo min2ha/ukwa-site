@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU fight is a sham so let the Cabinet speak freely
-

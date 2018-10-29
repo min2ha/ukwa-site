@@ -10,6 +10,4 @@
   "start_date": "2017-10-11T09:00:00Z"
 }
 
-# London: Labyrinth of Loss
-
 London: Labyrinth of Loss is walking tour organised by the University of Birmingham as part of the Being Human Festival 2017.

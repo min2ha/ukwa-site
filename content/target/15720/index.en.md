@@ -10,6 +10,4 @@
   "start_date": "2015-01-01T00:00:00Z"
 }
 
-# National Prawnbrokers Association (NPA), The
-
 <p>The National Pawnbrokers Association (NPA) is a membership organisation which helps to promote pawnbroking best practice. It was established in 1892.</p>

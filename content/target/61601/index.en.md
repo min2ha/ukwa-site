@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Crichton Collegiate Church Trust
-
 Site of a trust established to run and maintain the historic Crichton Collegiate Church at Crichton, Midlothian.

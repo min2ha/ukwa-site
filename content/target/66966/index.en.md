@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Selsdon Group
-
 The Selsdon Group is a British free-market economics pressure group, closely associated with the Conservative Party. Selsdon Group members believe that economic freedom is the indispensable condition for political and social freedom. The group's President is the Rt. Hon. John Redwood, MP.

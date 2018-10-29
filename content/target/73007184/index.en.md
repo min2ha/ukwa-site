@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# womensgrid - network
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Nature Photography Festival
-
 Site of an annual festival of landscape and wild life photography featuring speakers, amazing imagery, informative workshops and trade stands, and networking.

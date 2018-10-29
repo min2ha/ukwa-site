@@ -10,7 +10,5 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Healthy Living Wales
-
 Healthy Living Wales is based on a 35 year medical research study in Caerphilly showing a healthy lifestyle provides marked protection against diabetes, heart attacks, strokes, cancer and dementia.
 This website provides advice on how to develop a more healthy way of living by first taking up just one additional healthy behaviour.

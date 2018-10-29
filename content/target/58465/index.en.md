@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Studio Cinema
-
 Site of a cinema in Dunoon, Argyll & Bute.

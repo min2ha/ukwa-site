@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brakes slammed on Brexit backstop proposal
-
 No 10 had prepared a proposal for a "Temporary Customs Arrangement", where the UK would retain close ties to the EU for an indeterminate period after the end of the transition period - past 2020 - in case none of their hoped for customs fixes came to pass. It became clear, however, and rather surprisingly to the outside observer, that the man in government who was meant to be in charge of the Brexit process was not completely on-board. So the brakes were slammed on publishing the paper until meetings and discussions between senior ministers tomorrow.
 
 

@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# NBN Atlas Scotland
-
 The National Biodiversity Network (NBN) is a registered charity working to encourage the sharing of biological data in the UK.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Lancaster (@SfbLancaster) on Twitter
-
 Lancaster University branch of Students for Britain, campaigning for the UK to leave the EU

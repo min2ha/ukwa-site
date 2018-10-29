@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Lleol.net. Y Lle ar y We
-
 Lleol.cymru is a directory of Welsh language services across the whole of Wales covering local business, organisations, schools and accommodation. It also contains deatils of events, job adverts and items for sale.

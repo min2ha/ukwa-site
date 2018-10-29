@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Simon Sansome (Liberal Democrats Politician)
-
 Simon Sansome stood as Liberal Democrat candidate for Charnwood in the 2017 General Election but was not elected.

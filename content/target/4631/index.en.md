@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Guardian, The: When Nelson Mandela goes, the global village will lose its elder
-
 None

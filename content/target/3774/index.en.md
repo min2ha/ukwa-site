@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Forest of Dean and Wye Valley Review
-
 None

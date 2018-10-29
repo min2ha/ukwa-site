@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Canolfan Gristnogol y Gymru Wledig | Christian Centre for Rural Wales 
-

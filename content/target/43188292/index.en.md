@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South East Cambridgeshire Conservatives
-
 Website of South East Cambridgeshire Conservatives, providing information on news of local political events; activities and policies, events diary, national news and views and Conservative representatives and candidates.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Damien Biggs (@redstardamien) on Twitter
-
 Left-Unionist (Anarchist-AntiFascist-Communist-Socialist) Socialist Labour Party Parliamentary candidate for Pontypridd.

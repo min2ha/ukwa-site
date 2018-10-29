@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Genetic Alliance UK (formerly Genetic Interest Group)
-
 Formerly: Genetic Interest Group.

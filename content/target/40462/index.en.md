@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hull Remembers 
-
 Project to provide a similar programme which relates to the Great War for Civilisation (WW1) in exactly the same way as the WW2 exhibition centre.

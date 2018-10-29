@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Arc of Prosperity | Scottish Independence with a Scandinavian Slant
-
 None

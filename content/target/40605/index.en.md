@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Harp Festival
-
 Site of an international harp / clarsach music festival heald annually in Edinburgh and featuring concerts, workshops and classes relating to music and performance on harps.

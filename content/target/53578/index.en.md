@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Burns and a' that
-
 Site of an annual festival throughout the month of May celebrating the life, work and legacy of Robert Burns, and taking place at locations in Ayrshire.

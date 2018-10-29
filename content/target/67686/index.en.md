@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Engineering Society (@WES1919) on Twitter
-
 The Twitter account of the Women's Engineering Society, a charity and a professional network of women engineers, scientists and technologists, offering support and professional development. 

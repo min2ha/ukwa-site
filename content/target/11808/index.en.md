@@ -10,6 +10,4 @@
   "start_date": "2014-06-10T06:15:00Z"
 }
 
-# Garden Gate Company
-
 None

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC News: Why did Nelson Mandela thank Glasgow?
-
 None

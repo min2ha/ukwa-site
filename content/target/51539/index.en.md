@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church, Roath Park
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# New Economics Foundation (NEF)
-
 NEF is the UK's leading think tank promoting social, economic and environmental justice. It's aim is to transform the economy so that it works for people and the planet.

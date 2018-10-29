@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The proposed Brexit terms represent a deal worse than either staying or leaving.
-
 The proposed exit terms (remaining in the customs union) represent a deal worse than either staying or leaving the EU. We need to drop our sunk costs stubbornness and try something different. Any outcome – no deal, Norway, Canada, even the risk of a second referendum – would be better than what is currently on the table. This is our last chance to pull out of the nosedive.

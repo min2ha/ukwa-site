@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haltemprice and Howden Conservatives
-
 Website of Haltemprice and Howden Conservatives, providing information on association officers, MPs and MEPs, events and local and national news.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: We'll have no voice if we stay in the EU says Grayling: Leader of the House of Commons says Britain will be isolated and subject to harmful meddling if it was to remain   
-

@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Kate Sharpley Library
-
 Website containing information about Kate Sharpley (1895–1978), an English anarchist.

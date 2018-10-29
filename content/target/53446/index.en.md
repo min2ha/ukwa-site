@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# FictionAlley
-
 Fiction Alley is a Harry Potter fan site where can be find fanfictions and a forum.

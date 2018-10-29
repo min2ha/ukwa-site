@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: REVEALED: SECRET MAP shows what European nations REALLY think of 'doomed’ EU
-
 Article by Caroline Wheeler

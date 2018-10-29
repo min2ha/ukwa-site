@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# UK Black Comedians
-
 Website for UK Black Comedians Stand-Up Comedy Consultants (the official directory of ethnic comedians in the UK).

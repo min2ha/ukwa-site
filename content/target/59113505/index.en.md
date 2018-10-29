@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Spectacle Blog, The - Olympics 2012
-
 None

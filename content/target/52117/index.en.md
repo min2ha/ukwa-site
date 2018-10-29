@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church, Chesterton
-
 St Andrew’s is a thriving, open and welcoming church community for all ages.
 
 CHESTERTON derives its name from its proximity to the Roman town of Cambridge which was built around what we now know as Castle Hill. 

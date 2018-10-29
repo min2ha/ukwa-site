@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Team Scotland Roller Derby
-
 Site of the Scottish national roller derby team.

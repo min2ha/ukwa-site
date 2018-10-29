@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill Bonnar on Facebook
-
 This is the Facebook page of Bill Bonnar , the Scottish Socialist Party candidate for Glasgow South West in the UK General Election on the 7th May 2015.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory Party vice-chairman is sacked for siding with rebels after May suffers a humiliating Commons defeat over demands for a 'meaningful' vote for MPs on the final Brexit deal   
-

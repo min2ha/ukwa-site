@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Stapleford Cambridge Online
-
 Stapleford, Cambridgeshire. Stapleford is a village located approximately 4 miles to the south of Cambridge, in the county of Cambridgeshire, in eastern England on the right hand bank of the River Granta. Stapleford is first mentioned in 956 when it was given the Latinised name of Stapelforda, formerly Stapleton.

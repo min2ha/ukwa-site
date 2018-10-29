@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: PM defends debate stance as Miliband accuses him of 'cowering from public'
-

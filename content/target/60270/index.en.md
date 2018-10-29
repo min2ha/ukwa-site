@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Treasury: Joint article: a deep and special partnership
-
 A joint article by Philip Hammond and David Davis that originally appeared in Frankfurter Allgemeine Zeitung on 10 January 2018 about trade relations between the UK and the EU after Brexit..
 

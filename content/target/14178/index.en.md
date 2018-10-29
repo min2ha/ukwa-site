@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Another Angry Voice: A letter to Scottish voters
-
 None

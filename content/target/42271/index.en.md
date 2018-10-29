@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Aylesbury and District News
-

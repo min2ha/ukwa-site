@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Bethan Gray
-
 Bethan Gray is an award winning Welsh designer. Her work was recognised with the prestigious award of ‘Best British Designer’ in 2013/14.

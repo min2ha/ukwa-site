@@ -10,5 +10,3 @@
   "start_date": "2009-11-02T00:00:00Z"
 }
 
-# Carol Rivers
-

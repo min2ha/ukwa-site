@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Medway LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Portman Road Stadium
-
 Portman Road is a football stadium in Ipswich, Suffolk, England, which has been the home ground of Ipswich Town F.C. since 1884.

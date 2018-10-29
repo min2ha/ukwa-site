@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: Conservatives have secret plan to reorganise NHS after election
-
 None

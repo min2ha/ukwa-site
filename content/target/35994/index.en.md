@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Montrose Society
-
 Site dedicated to the architectural and environmental well being and historical interest in the town of Montrose, Angus, Scotland.

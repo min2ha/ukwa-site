@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Wales Humanists (@WalesHumanists) on Twitter
-
 Wales Humanists, part of @Humanists_UK, represents the non-religious and campaigns for equality and human rights throughout Wales.

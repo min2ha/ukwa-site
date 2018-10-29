@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Brentwoods RFC (OBRFC Rugby) on Pitchero
-
 The official website of Old Brentwoods Rugby Football Club.

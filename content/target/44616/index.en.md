@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: 'Brexit is the latest in a string of disasters for social care jobs'
-

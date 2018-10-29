@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Gibraltar Chronicle  
-
 The Gibraltar Chronicle is a daily newspaper reporting on current affairs and community news in print, e-editions and online.

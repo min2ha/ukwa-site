@@ -10,6 +10,4 @@
   "start_date": "2016-09-10T10:00:00Z"
 }
 
-# Maypole Women (@MaypoleWomen) on Twitter
-
 Maypole Women helps women leave conflicted and abusive relationships safely, and supports mothers to provide a safe environment for their children after separation and divorce. This is the Cherities Twitter account.

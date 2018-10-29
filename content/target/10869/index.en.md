@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Le Tour Ripon
-
 Festival celebrating the Tour de France in Riponf

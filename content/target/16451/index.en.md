@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: David Cameron opens door to digital debate with party leaders
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-03-03T09:00:00Z"
 }
 
-# WomeninBusiness (@wibni) on Twitter
-
 The official Twitter account of Women in Business. They are a business network for female entrepreneurs and business leaders in Northern Ireland. 

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Linda Fabiani SNP Candidate for East Kilbride on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Walsall Football Club
-
 Walsall Football Club is a professional association football club based in the town of Walsall, West Midlands, England. The club was founded in 1888 as Walsall Town Swifts, an amalgamation of Walsall Town F.C. and Walsall Swifts F.C.

@@ -10,5 +10,3 @@
   "start_date": "2014-12-03T00:00:00Z"
 }
 
-# The Robert Owen Museum
-

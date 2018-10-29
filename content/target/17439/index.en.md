@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour leader Ed Miliband pledges more powers for Wales
-
 None

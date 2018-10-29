@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Johnstons of Elgin
-
 Johnstons of Elgin, also known as Johnstons Cashmere, is a woolen mill, wholesale manufacturer and retailer based in Elgin, Scotland. The mill was originally established in 1797 and the company was formed in 1978.

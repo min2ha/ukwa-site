@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lockerbie Jazz Festival
-
 Site of a jazz music festival stages in Lockerbie, Dumfries & Galloway.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Braes Branch (@snp_braes) on Twitter
-
 The twitter profile of the Braes branch of the Scottish National Party.

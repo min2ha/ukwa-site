@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind: Fearne Cotton Announced as Mind Ambassador
-
 Mind: Raising awareness of mental health through Mind Ambassadors 

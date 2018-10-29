@@ -10,6 +10,4 @@
   "start_date": "2017-05-19T09:00:00Z"
 }
 
-# Mike Scott-Hayward (@Excalibur_ISDB) on Twitter
-
 Twitter profile of Mike Scott-Hayward, Independent Sovereign Democratic Britain candidate for North East Fife in the 2017 general election.

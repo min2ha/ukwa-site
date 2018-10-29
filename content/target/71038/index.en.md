@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Internet Institute: Why we shouldn’t be pathologizing online gaming before the evidence is in
-
 A blog post by Oxford Internet Institute’s professor Andrew Przybylski about the validity of Internet Gaming Disorder (IGD)

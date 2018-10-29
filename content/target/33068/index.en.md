@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Centenary Mayo
-
 This website was established by Mayo County Council and focuses on the role of Mayo and Mayo people during the Irish revolution.

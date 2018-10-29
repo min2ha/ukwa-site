@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Leave campaign blasts top civil servant for undermining the constitution by banning Brexit backers from seeing key papers in his fight to keep Britain inside the EU   
-

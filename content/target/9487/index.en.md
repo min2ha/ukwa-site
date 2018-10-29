@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: The next Euro-elections will be a step towards a United States of Europe
-
 None

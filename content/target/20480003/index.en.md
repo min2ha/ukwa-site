@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wiltshire County Council
-
 Official website of the Wiltshire County Council.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig (@CheMcNicol) on Twitter
-
 The Twitter profile of Craig McNicol, standing as an Independent candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

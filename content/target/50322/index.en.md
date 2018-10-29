@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Nia Davies
-
 Nia Davies is a poet and literary curator based in Wales. Her pamphlet of poems Then Spree was published by Salt in 2012. 

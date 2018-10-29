@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ComRes: Elections
-
 The latest polling, commentary and analysis from ComRes on the elections taking place in 2016 including: the EU Referendum and the election of London’s Mayor.

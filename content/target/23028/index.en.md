@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matthew James Dorrance on Facebook (Labour candidate for Brecon and Radnor)
-

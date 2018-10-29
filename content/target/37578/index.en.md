@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Society of Independent Brewers (SIBA)
-
 SIBA was set up in 1980 to represent the interests of the growing number of independent breweries in Britain.

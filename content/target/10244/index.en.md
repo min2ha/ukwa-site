@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Neil Christian, Liberal Democrat on Facebook
-
 None

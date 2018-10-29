@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# British Society for Medical Mycology
-
 The purpose of the British Society for Medical Mycology is to advance education and promote research in all branches of medical and veterinary mycology, and to disseminate the results of such research for the public benefit. 

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Who do you think you are? Magazine: Genealogy news round-up: Ancestry releases Easter Rising collection 
-
 Article in genealogy magazine about Easter Rising related record collections becoming available on the family history website Ancestry.

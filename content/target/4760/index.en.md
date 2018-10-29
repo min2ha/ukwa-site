@@ -11,5 +11,3 @@
   "subject": "Nelson Mandela"
 }
 
-# Wadham College: University of Oxford: Students pay tribute to Nelson Mandela
-

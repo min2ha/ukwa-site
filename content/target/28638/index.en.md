@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wordsandpictures | Strachur's 'Big Baton Day' – how we got there!
-
 A blog describing "Big Baton Day" preparations in Strachur, a village in Argyll.

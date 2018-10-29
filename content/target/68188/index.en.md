@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The British Bus and Coach Enthusiasts Group on Flickr
-
 A flickr page about British bus and coach enthusiasts, including discussions forums and pictures

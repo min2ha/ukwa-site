@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# 7 Acts of Love
-

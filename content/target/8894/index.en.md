@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Oxfam: Madiba: not the end
-
 None

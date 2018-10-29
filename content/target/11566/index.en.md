@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# England Squash & Racketball
-
 None

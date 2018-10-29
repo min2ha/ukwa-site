@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Capel: Cymdeithas Treftadaeth y Capeli - The Chapels Heritage Society
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SCDI (scdiglobal) on Twitter
-
 <p>The Twitter profile of the Scottish Council for Development and Industry. SCDI is Scotland's leading independent economic development organisation. SCDI has been supporting Scottish companies to export for over 50 years.</p>

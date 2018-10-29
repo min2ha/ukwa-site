@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hindu voice in Wales
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jason Rose – Community campaigner, Musselburgh
-
 Jason Rose is the Scottish Green Party candidate for the South Scotland list in the 2016 Scottish Parliament election.

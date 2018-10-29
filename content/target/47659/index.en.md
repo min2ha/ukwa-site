@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Bangor University: Dovetail Journal, The
-
 The Dovetail Journal, Bangor University, is a peer-reviewed journal publishing papers/work by MA, PhD, postgrads and alumni across literature, creative arts and media. It was originally a postgraduate initiative in the School of English Literature at Bangor University and is now based at the based in the School of Creative Studies and Media at Bangor University. 

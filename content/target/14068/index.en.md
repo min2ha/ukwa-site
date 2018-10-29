@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Hansard Society: Free online edition of Parliamentary Affairs for the Scottish independence referendum
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Student Minds: The UK's Student Mental Health Charity
-
 Website for a UK mental health charity that works with Universities

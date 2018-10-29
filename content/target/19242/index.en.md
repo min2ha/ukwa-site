@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln Minster pupils to visit Parliament to see four copies of the Magna Carta manuscripts
-

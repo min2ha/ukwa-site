@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Airbus warns no-deal Brexit could see it leave UK
-
 Airbus warned it could leave the UK if it exited the European Union single market and customs union without a transition deal.

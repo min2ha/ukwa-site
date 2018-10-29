@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornwall Consultants
-
 None

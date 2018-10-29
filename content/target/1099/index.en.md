@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Sickle Cell and Thalassaemia Screening Programme
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NICE: New online and mobile app for depression should be trialled on the NHS
-
 NICE news article about a mobile app for depression which should be trialled on the NHS

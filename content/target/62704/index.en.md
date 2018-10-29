@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Blinc Records
-
 Blinc is an alternative record label from North Wales, based at the Ironworks Studio in Llanllyfni, Gwynedd. 

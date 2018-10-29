@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Peace Party (@PeacePartyUK) on Twitter
-
 The Peace Party is a small political party within the United Kingdom which presents an avowedly pacifist and environmentalist platform.

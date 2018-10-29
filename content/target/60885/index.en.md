@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Corstorphine Cougars Rugby Football Club
-
 Site of a Scottish rugby union football club based in the Corstorphine area of Edinburgh.

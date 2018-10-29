@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BiP Solutions: EU Referendum Business Finance Implications
-
 A public and private sector consultancy firm on the business finance implications of the referendum

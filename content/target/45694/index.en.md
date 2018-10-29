@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester City Football Club
-
 Manchester City Football Club is a football club in Manchester, England. Founded in 1880 as St. Mark's, they became Ardwick Association Football Club in 1887 and Manchester City in 1894.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-#  Nass Festival Limited
-
 Skate, BMX, MTB and Music Festival 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Holt Park Today
-

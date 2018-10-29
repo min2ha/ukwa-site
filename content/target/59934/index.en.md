@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Bella Gwalia: Independence, Self determination, Autonomy
-
 Bella Gwalia is a place for discussion and debate around Wales and Welsh Independence  The blog contains articles, blogs and ideas on independence. 

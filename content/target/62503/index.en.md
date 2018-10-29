@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: It's time Mrs May took a leaf out of Trump's book 
-
 It’s time for Theresa May to be bolder in Brexit negotiations, put EU negotiators in their place — and win a really good deal for Britain.
 
 

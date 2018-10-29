@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bucks 2012: Paralympic Region Focus Group
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Libberton and Quothquan Parish Church
-

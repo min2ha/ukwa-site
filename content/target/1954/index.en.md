@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Enfield LINk: twitter
-
 None

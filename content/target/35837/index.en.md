@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  A Brexit-inspired sterling crisis could be just what the doctor ordered
-

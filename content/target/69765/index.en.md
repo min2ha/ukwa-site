@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# DIYnot Forum
-
 An online forum discussing do it yourself related issues for the home, garden, cars and electronics

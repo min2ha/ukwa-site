@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Shetland Charitable Trust
-
 Site of a trust established in Shetland with compensatory funds from the oil industry and disbursed in the community through grants. 

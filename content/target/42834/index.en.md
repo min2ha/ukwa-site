@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scottish Venison Partnership
-
 Site of a group promoting the culinary use of Scottish venison, and providing information on deer in Scotland.

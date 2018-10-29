@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blue Block Studio & Yellow Valley
-
 <p>The Blue Block Studio blog. Blue Block Studio is a programme of creative play and storytelling for babies and young children aged 0-4 presented by Starcatchers, which visited 10 communities across Scotland as part of the Culture 2014 programme celebrating the Commonwealth Games.</p>

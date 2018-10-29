@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: UK can't deport millions of EU nationals, report warns
-

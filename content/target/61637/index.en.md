@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church of Scotland in Newcastle upon Tyne 
-
 Site of a Church of Scotland church at Newcastle upon Tyne.

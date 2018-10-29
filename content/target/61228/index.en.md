@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Transition period not 'a given', says Barnier
-
 EU Brexit negotiator Michel Barnier warned in February 2018 that a transition period immediately after Brexit in 2019 is "not a given".  He said "substantial" disagreements remained and he had "some problems understanding the UK's position". 
 
 

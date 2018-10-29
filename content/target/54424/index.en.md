@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Pick Pam
-
 Pam Duncan, Scottish Labour candidate for Glasgow North in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus MacDonald for Falkirk East on Facebook
-

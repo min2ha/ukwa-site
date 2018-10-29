@@ -10,5 +10,3 @@
   "start_date": "2014-10-30T00:00:00Z"
 }
 
-# Central Construction Training Ltd
-

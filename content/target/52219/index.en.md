@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Grace Community Church
-
 Grace Community Church was formed in 1972 by twelve Christian believers who had a vision for a church that was relevant, contemporary and Biblical.

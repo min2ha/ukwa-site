@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Barnier warns of no Brexit deal without border backstop 
-
 There can be no Brexit withdrawal agreement without a "backstop" option for the Irish border, the EU's chief Brexit negotiator Michel Barnier said on avisit to the Republic in May 2018.
 

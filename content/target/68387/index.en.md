@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: May in Brussels: Familiar route, low expectations
-
 In the light of continuing cabinet divisions, there was no expectation that Theresa May would arrive in Brussels for the June 2018 EU Council meeting with an offer that would unlock the Brexit negotiations.

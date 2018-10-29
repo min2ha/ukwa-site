@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Tim Lebbon
-
 Tim Lebbon is a horror and dark fantasy from Wales.

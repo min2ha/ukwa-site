@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: The Sun 'completely confident' over 'Queen backs Brexit' story
-
 BBC News: The Sun 'completely confident' over 'Queen backs Brexit' story

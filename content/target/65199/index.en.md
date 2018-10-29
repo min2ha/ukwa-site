@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Leading Routes
-
 Leading Routes is a pioneering initiative, established to address the issues faced by Black students and graduates, with a particular focus on supporting ambitious young people into competitive universities and professions. Our mission is to increase the number of high-achieving African Caribbean students thriving at competitive universities.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Farmers Union Cymru (NFU Cymru): 2015 General Election Manifesto
-
 The National Farmers' Union Cymru (NFU Cymru) is a member organisation/industry association for farmers in Wales. It is the largest farmers' organisation in Wales.

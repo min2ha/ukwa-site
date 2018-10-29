@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Vote Leave (@ScotsVoteLeave) on Twitter
-
 The Scottish campaign for a leave vote on June 23.

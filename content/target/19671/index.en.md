@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Yeovil Conservatives
-
 Website of Yeovil Conservatives, providing information on district, borough and county councillors, events and local, national and European news.

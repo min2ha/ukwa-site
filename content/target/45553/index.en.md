@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Keeper of the Snails: The Literary Blog of Clare Dudman
-
 Clare Dudman is the author of four novels. This is her literary blog. 

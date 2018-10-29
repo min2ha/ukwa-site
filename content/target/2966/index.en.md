@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# On the Wight
-
 <p>News website covering the Isle of Wight.</p>

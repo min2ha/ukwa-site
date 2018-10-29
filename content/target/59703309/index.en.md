@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# GBR Match Race Girls
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Let's not stop at Brexit. It's time London declared independence 
-

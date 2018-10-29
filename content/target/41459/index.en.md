@@ -10,7 +10,5 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Barnes Service Directory
-
 Members of BarnesToday.co.uk can give feedback on local services helping you make your choice.
 Any registered member of the site can add a listing to our directory.

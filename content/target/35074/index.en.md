@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Cyrraedd Cyfiawnder Cymru | Reaching Justice Wales
-
 Reaching Justice Wales aims to improve access to justice for the most vulnerable in society and contribute to the availability of legal advice across Wales. The charity supports voluntary sector agencies which provide free legal advice to those in need.

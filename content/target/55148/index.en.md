@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Phoenix Knitting Forums
-
 A knitting and crafting community

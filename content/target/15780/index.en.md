@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Salisbury Camera Club
-
 <p>Salisbury Camera Club gathers photography enthusiasts in Salisbury.</p>

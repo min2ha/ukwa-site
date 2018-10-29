@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Captive Memories: Liverpool School of Tropical Medicine
-
 None

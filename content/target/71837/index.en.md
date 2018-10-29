@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sporting Heritage
-
 Sporting Heritage CIC is a not-for-profit community interest company working specifically to support the collection, preservation, access, and research of sporting heritage in the UK and wider.

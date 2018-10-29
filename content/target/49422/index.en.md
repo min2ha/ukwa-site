@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Flint Town United Football Club
-

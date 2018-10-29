@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Amido
-
 Amido is an independent technical consultancy that specialises in implementing cloud-first solutions. We help our clients build resilience at scale, flexibility for the future and differentiation of customer experience. And, we do this while minimising business-risk and build-cost.

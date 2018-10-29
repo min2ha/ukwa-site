@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Women for Britain on Facebook
-
 A Facebook page of a pro-Brexit outreach group for women.

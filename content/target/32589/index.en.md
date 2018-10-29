@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Centre for the Protection of National Infrastructure (CPNI) 
-
 The Centre for the Protection of National Infrastructure (CPNI) protects national security by providing protective security advice. 

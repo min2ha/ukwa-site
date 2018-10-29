@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of WestLochfyneside, The
-
 Website of the Parish of WestLochfyneside, a member of the Church of Scotland in the Presbytery of Argyll. The parish includes the churches of Glenaray and Inveraray, Cumlodden, Lochfyneside, and Lochgair.

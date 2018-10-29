@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# British Blacklist, The
-
 The British Blacklist is the online global home for African Caribbean British creative professionals on the Screen and Stage, in Sound and Literature – both up front and behind the scenes. In November 2016 they changed their website from http://www.thebritishblacklist.com/ to http://thebritishblacklist.co.uk/.

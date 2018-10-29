@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Boris Johnson (Conservative)
-
 Boris Johnson stood as Conservative candidate for Uxbridge and South Ruislip at the 2015 General Election and was elected to serve as MP.

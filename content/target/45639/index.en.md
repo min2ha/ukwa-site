@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Vale of Glamorgan Methodist Circuit
-

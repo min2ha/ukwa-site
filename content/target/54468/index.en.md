@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Swansea & Gower Greens (@SwanseaGP) on Twitter 
-

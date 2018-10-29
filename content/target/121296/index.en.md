@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Scoliosis Association UK
-
 The Scoliosis Association (UK) was founded in 1981. It is the only independent support group for scoliosis in the UK. 

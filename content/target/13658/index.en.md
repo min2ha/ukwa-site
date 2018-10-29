@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Document Scotland Photographers
-
 <p>Document Scotland is a documentary photography blog contributed to by photographers Colin McPherson, Jeremy Sutton-Hibbert, Stephen McLaren and Sophie Gerrard, who intend to "make work and engage in a discourse which will form a vital component of the history and conversation of our nation tomorrow."</p>

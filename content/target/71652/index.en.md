@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Telegraph, The: Suffragette timeline: the long march to votes for women
-
 An article summarising the suffrage timeline

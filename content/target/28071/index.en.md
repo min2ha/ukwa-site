@@ -10,5 +10,3 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Independent Midgie, The | Scottish independence is inevitable
-

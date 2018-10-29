@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Bishop of Oxford: Nelson Mandela: Statement from Bishop John
-
 <p>Statement by the bishop of Oxford, the Rt Revd John Pritchard, released on 6 December 2013.</p>

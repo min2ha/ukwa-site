@@ -10,6 +10,4 @@
   "start_date": "2016-06-29T10:00:00Z"
 }
 
-# Youth Link Scotland blog
-
 WordPress blog site for the Youth Link Scotland, the Scottish national agency for youth work.

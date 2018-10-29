@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Philip Davies ( @PhilipDaviesUK) on Twitter (Conservative Politician)
-
  Philip Davies stood as Conservative candidate for Shipley at the 2017 General Election and was successful. He was first elected as MP in 2005 and has held the seat ever since.

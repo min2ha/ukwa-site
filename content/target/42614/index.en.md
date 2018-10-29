@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave Alliance,The
-
 Aims to mount an independent counter-mainstream campaign to leave the EU

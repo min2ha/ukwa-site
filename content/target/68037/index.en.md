@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northampton BBOB RFC (@NorthamptonBBOB) on Twitter
-
 The official Twitter account of Northampton BBOB rugby club.

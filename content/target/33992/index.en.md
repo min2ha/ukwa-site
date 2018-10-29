@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Abacus Rooms, The 
-
 The Abacus is a creative space for Artists, thinkers, musicians to explore, practice and develop their ideas and is a collaborative venture between Arts Collective, the Modern Alchemists, and Promo Cymru. It is located in Cardiff.

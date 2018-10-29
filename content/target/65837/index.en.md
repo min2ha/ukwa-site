@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Megan Winstone
-
 Megan Winstone is a documentary and editorial photographer based in Bournemouth and Cardiff. Her work covers feminist and social issues, from documenting communities in South Wales Valleys to 4th Wave Feminism. 

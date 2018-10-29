@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Graham on Facebook
-
 This is the Facebook page of Luke Graham, the Conservative Party candidate for Ochil and South Perthshire in the UK General Election on the 7th May 2015.

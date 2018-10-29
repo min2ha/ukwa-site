@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Xyone Cyber Security
-
 Xyone Cyber Security is an IT company providing cyber security services.

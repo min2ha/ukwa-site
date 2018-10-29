@@ -10,6 +10,4 @@
   "start_date": "2010-04-29T00:00:00Z"
 }
 
-# MilkMyths.org.uk
-
 Website campaigning against modern dairy farming.

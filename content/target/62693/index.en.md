@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cushnie & Tough Parish
-
 Site of two Church of Scotland parish churches at Tough and Leochel-Cushnie, Aberdeenshire.

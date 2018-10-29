@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Romsey Local History Society, The
-
 <p>the Romsey Local History Society is a group of local amateur historians and archaeologists, whose aim is to research, record and preserve the history of Romsey and local areas for future generations.</p>

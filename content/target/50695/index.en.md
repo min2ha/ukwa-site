@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Institute of Corporate Responsibility and Sustainability
-
 It was established by a group of senior CRS practitioners to ensure that people and companies working in the field had the recognition and support they needed to be brilliant in their work.

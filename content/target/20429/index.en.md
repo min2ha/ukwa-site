@@ -10,6 +10,4 @@
   "start_date": "2015-04-07T09:00:00Z"
 }
 
-# Talking of Sex
-
 Blog by Simon Blake, CEO of young people's charity Brook. Activist and campaigner for young people's rights including their sexual and reproductive right and for equality. 

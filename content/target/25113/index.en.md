@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Labour hate people who get up early and go to work'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Elie & Earlsferry History Society
-
 Website dealing with local history in the towns of Elie and Earlsferry in Fife, Scotland

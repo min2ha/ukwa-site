@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May soothes the Brexit jitters: No cliff edge when we quit but deal will cost billions, PM warns 
-
 Speaking at the CBI 2016 conference, Theresa May opened the door to taxpayers continuing to pay billions into the EU on ‘transitional’ terms when Britain leaves in March 2019.

@@ -10,8 +10,6 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Bradley's Foundation
-
 Bradley's Foundation is proud to support vital work of the Teenage Cancer Trust.
 
 The TCT provide specialist services for teenagers and young adults with cancer.﻿﻿

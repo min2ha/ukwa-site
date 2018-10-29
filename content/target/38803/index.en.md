@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: Treasury Select Committee Hearing – The economic and financial costs and benefits of UK's EU membership: Mark Carney and Jon Cunliffe 
-
 In this letter to the Treasury Select Committee, Mark Carney and Jon Cunliffe give evidence on the Economic and financial costs and benefits of UK’s EU membership.

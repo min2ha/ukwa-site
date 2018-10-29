@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Total Politics
-
 Website of the magazine on politics and current affairs.

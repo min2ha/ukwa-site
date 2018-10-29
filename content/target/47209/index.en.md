@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Gearrannan Blackhouse Village
-
 Site of a tourist accommodation and historic village site on the Isle of Lewis, Outer Hebrides [Leòdhas / Na h-Eileanan Siar].

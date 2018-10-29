@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Former Lib Dem fundraising chief quits as party election candidate after illegal donations row
-
 None

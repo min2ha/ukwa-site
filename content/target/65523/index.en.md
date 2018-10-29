@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Woman, The
-
 Conservative Woman sets out to expose the repressive orthodoxies that inhibit freedom of speech and corrode choice – from oppressive and irrational feminism to ‘diversity’, identity, gender and victim politics.
 

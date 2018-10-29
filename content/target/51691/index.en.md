@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "Council of the European Union: Draft guidelines following the United Kingdom's notification under Article 50
-
 Draft EU guidelines for Brexit negotiations.

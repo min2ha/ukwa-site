@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas, Brampton
-
 Official website of St Thomas’ Church, Derbyshire.

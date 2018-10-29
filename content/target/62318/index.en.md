@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Solihull Moors F.C.
-
 Solihull Moors F.C.
 Solihull Moors Football Club is an English semi-professional association football club, founded in 2007 by the merger of Moor Green and Solihull Borough.

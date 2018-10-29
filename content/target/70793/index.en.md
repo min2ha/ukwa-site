@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Carole Green (@ITVCaroleGreen) on Twitter 
-
 Carole Green is the ITV Wales Brexit Correspondent.

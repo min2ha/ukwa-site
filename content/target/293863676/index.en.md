@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Public Interest Research Centre (PIRC)
-
 PIRC is an independent charity conducting and communicating research for a more democratic, equitable & sustainable society. 

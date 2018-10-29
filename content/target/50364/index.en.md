@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary's Catholic Church, Bridgend
-

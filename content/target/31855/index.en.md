@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Methil Heritage Centre
-
 Methil Heritage Centre

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: In quotes: Reaction to David Cameron's TV debates ultimatum
-
 None

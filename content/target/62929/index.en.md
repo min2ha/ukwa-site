@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# The Poke
-
 The Poke is a British satirical website. It was launched in 2002 as a fanzine distributed at the Edinburgh Festival and independent music stores. The website is known for producing viral videos, which are often Auto-Tune edits of British current affairs.

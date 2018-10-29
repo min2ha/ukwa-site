@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Electronic and Software Technologies Network for Wales (ESTnet), The
-
 The Electronic and Software Technologies Network for Wales was established in 2011. ESTnet is a network of technology organisations whose members design, develop, manufacture or integrate electronic and software technologies.

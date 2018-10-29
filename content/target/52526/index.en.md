@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ryan Bate (Liberal Democrats Politician)
-
 Ryan Bate stood as Liberal Democrats candidate for Halton at the 2017 General Election but was not elected.

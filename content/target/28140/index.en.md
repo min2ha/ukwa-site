@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bradford Cathedral
-
 Official website of the Bradford Cathedral.

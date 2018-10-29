@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Postcard.co.uk
-
 An online enthusiast community concerned with postcard collecting. Discusses postcard collecting, postcard wants, postcard events and areas to promote ads related to selling postcards.

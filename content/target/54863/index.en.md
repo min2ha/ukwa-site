@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-#  Artelia
-
 Artelia in the UK is part of a global project management and engineering consultancy, employing over 3,500 people in 35 countries. The company specialises in cost management and it was involved in the Grenfell Tower refurbishment project that took place in 2015-2016. Up until the Grenfell Tower fire in June 2017 the company cited this project as a case study.

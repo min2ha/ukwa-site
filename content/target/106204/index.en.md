@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jane Dodds Putting Montgomeryshire First
-
 Jane Dodds, Liberal Democrat candidate for Montgomeryshire. 

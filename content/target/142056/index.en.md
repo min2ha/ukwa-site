@@ -10,5 +10,3 @@
   "start_date": "2012-10-24T00:00:00Z"
 }
 
-# Caldey Island: Pembrokshire, Wales
-

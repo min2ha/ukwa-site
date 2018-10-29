@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent:Don't tell me social media doesn't damage your health while people pay $15,000 to have their Instagram accounts verified
-
 News article about the effects of the internet and social media on mental health

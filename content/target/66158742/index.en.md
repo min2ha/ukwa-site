@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geraint Thomas
-
 Web site for Geraint Thomas; a British cyclist and rider for TeamSky in the 2014 TdF.f

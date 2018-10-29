@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester United: United Women's Squad: Player by Player
-
 The Manchester United Women's squad for the 2018/19 season contains 21 players and was be captained by Alex Greenwood.

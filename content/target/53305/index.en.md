@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# New Statesman: Politics UK
-
 New Statesman UK political news articles related to General Election 2017.

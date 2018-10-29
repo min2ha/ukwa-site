@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# #GłosujęBo hashtag on Twitter
-
 Hashtag co-ordinating the twitter output of the campaign to encourage Polish citizens resident in Scotland, to vote in the Scottish Parliamentary elections.

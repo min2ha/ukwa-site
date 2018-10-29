@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# Quakers in Winchester, Hampshire
-

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# ConvaTec Group plc
-
 ConvaTec Group plc is an international medical products and technologies company, offering products and services in the areas of wound and skin care, ostomy care, continence and critical care and infusion devices.

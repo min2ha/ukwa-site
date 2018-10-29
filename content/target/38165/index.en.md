@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# DUP4GO (@DUP4Go) on Twitter
-
 Democratic Unionist Party campaigning for the UK to leave the EU

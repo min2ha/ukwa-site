@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Kingsley Napley: Brexit blog
-
 Kingsley Napley is an internationally recognised law firm based in Central London.

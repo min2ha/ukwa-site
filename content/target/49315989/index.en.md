@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Budleigh Salterton Literature Festival
-

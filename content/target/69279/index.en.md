@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Medical Locums in Union (MLU)
-
 The MLU is a specialist organisation formed to represent and assist locums in every possible way.  Supported by the leading law firm Mishcon De Reya, we have engaged with every NHS Trust in the UK on behalf of our members to assist with ongoing IR35 issues.

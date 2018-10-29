@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# "Sun, The: CRASH CASH BLOCK Philip Hammond refuses to increase spending on No Deal planning in the Budget that would strengthen PM’s hand in Brexit talks "
-

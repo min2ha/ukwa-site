@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dumbarton Riverside linked with The West Kirk
-
 The joint website of Dumbarton Riverside Parish Church and The West Kirk Church of Scotland congregations.

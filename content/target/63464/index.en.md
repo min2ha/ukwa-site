@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Dundee Unitarians Williamson Memorial Unitarian Christian Church
-
 Site of a Unitarian church in Dundee.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Llanddulas and Rhyd y Foel Conservation Trust
-
 The Llanddulas and Rhyd-y-Foel Conservation Trust was founded in 2009 following an announcement to demolish and redevelop the historic house and garden at Plas Dulas as a modern housing estate. 

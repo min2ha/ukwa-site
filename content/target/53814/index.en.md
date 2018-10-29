@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Telegraph, The: Why Harry Potter fans will like the new Bank of Scotland £10 note
-

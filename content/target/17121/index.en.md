@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Miliband's 'anti-business rhetoric' and mansion tax plan attacked by top businessman and donor
-

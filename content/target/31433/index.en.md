@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Shady Dealings With Language
-
 Shady Dealings With Language is four events guest curated around the intersections of art writing and performance held in Leeds, London, Manchester and Edinburgh. The series is programmed by Claire Potter with the financial support of Arts Council England.

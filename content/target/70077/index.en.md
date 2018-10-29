@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# 4th Newtownabbey FC (@4thNewtownabbey) on Twitter
-
 The Official Twitter page of 4th Newtownabbey FC. Est.1988.

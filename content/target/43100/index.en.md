@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Bike Station
-
 Site of a bicycle recycling charity, promoting cycling as a health benefit, teaching cycle repair and recycling bicycles for sale and based In Edinburgh, Glasgow and Perth.

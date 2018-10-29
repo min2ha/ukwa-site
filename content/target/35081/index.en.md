@@ -10,5 +10,3 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Gwent Drugs and Alcohol Service
-

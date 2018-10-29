@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# New Europe Society, The
-

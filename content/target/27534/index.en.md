@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election results: Tory triumph lifts share prices across the board
-
 None

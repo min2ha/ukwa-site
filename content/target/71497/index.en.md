@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of St. John the Evangelist
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in central Edinburgh.

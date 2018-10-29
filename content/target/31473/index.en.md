@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# TRS-80.ORG.UK
-
 Website dedicated to the retro computer Tandy-TRS.

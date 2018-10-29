@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May is accused of BETRAYING referendum by effectively keeping Britain in EU until 2021 as she climbs down on citizens' rights and borders with €20bn bung for Brussels in bid to revive Brexit talks   
-

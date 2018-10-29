@@ -11,5 +11,3 @@
   "subject": "Family History"
 }
 
-# British & Commonwealth Shipping Company, The - A Record of The Ships & The People That Served Them
-

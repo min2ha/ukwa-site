@@ -78,6 +78,4 @@
   "endDateText": ""
 }
 
-# Hampshire Collection
-
 Website collection about Hampshire curated by staff at Hampshire Archives and Local Studies from 2008 onwards. 

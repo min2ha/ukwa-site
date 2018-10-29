@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Courier Online, The: staff writers outline their thoughts on whether the UK should stay or leave the EU
-
 With the inevitable EU referendum looming and on the forefront on British politics, our writers have outlined their thoughts on whether the UK should stay or leave the EU.

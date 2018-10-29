@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Association of Learned and Professional Society Publishers, The
-
 The Association of Learned and Professional Society Publishers was formed in 1972. It is an international trade association for scholarly and professional publishers. They aim to serve, represent and strengthen the community of scholarly publishers.

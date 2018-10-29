@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: STEPHEN GLOVER: Has Tony Blair lost his marbles? That can be the only explanation for his delusional (and treacherous) plea to Germany to stop Brexit   
-

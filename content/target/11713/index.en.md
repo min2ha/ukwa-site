@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Freya Ross | Team GB Long Distance Runner
-
 <p>The website of long distance runner Freya Ross, containing biographical details, competition statistics and sponsor information.</p>

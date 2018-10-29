@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Brent
-
 South Brent is a large village on the southern edge of Dartmoor.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Austria's Sebastian Kurz tells Theresa May to avoid 'hard Brexit'
-
 Mrs May was in Salzburg for talks with Austrian Chancellor Kurz as part of a mission by UK ministers to sell their post-Brexit trade proposals. to European leaders. The message from Austria was that Britain was still cherry-picking and must make more concessions to avoid a hard Brexit.
 

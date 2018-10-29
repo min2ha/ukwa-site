@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# ghost of the doll - Toy Forum
-
 An online enthusiast community concerned with toy collecting. Discusses toy identification, new toys, retro toys, user toy collections and various other related topics.

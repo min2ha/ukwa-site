@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Universities UK: Election 2017: what the manifestos say on higher education
-
 This blog outlines the most significant higher education commitments made by the Conservatives, Labour and Liberal Democrats at the 2017 General Election.

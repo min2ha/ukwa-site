@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Capital City Jazz Orchestra (CCJO)
-
 Capital City Jazz Orchestra (CCJO) was formed in 2007 and is based in Cardiff.

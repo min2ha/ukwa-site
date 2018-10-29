@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Nairn Museum
-
 Site of a museum of local life and history in Nairn, Moray, Scotland.

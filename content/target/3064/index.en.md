@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Health and Safety Executive
-
 The Health and Safety Executive (HSE) is a non-departmental public body of the United Kingdom with its headquarters in Liverpool. It is the body responsible for the encouragement, regulation and enforcement of workplace health, safety and welfare, and for research into occupational risks in England and Wales and Scotland.

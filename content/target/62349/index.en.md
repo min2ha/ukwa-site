@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kidderminster Harriers F.C.
-
 Kidderminster Harriers Football Club is a professional association football club based in Kidderminster, Worcestershire, England. The club participates in the National League North, the sixth tier of English football.

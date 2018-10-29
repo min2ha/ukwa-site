@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Bearwood Primary School to celebrate Magna Carta connection
-

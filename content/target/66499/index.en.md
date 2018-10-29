@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for Education (@educationgovuk) on Twitter
-
 Official Twitter account for the Department for Education, covering education, children’s services, HE & FE, apprenticeships, skills in England.

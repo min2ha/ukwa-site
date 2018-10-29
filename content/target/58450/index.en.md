@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Visit Russia: Russian National Tourist Office
-
 The Russian National Tourist Office is a tour operator in the UK for outgoing tourism and business trips to Russia for individuals, groups and companies.

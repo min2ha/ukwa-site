@@ -10,5 +10,3 @@
   "start_date": "2012-11-14T00:00:00Z"
 }
 
-# Adventure Holidays with the experts - North Wales and Further Afield
-

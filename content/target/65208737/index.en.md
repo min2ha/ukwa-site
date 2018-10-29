@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Pembrokeshire Coast National Park | Parc Cenedlaethol Arfordir Penfro
-
 National Park

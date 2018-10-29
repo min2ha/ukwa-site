@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Peramaethu Cymru | Permaculture Wales
-
 Paramaethu Cymru is the Welsh Permaculture Association working group, aiming to promote, inspire & connect permaculture practice in Wales.

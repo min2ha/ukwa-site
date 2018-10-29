@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# BT Digital Archives
-
 Catalogue and details of the digital archives of BT plc (formerly British Telecommunications and the GPO)

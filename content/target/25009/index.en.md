@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: UKIP's Winston McKenzie: 'I'm going on holiday'
-
 None

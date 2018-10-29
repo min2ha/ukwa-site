@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen's birthday tribute tour
-
 To mark the Queen's 90th birthday try caravan holidays in places named after royalty – from Kent's Queenborough to Scotland's Queen Elizabeth Forest Park.

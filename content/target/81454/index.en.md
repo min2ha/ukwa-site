@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I’m an ex-Northern Ireland secretary. The border must not block Brexit
-
 The prime minister did not mention the Chequers agreement by name during her speech at the 2018 Conservative party conference, but her approach remained the same: securing “frictionless trade” with the European Union, at the incredibly high price of keeping the UK as a permanent rule-taker, unable to repeal or amend EU laws.
 

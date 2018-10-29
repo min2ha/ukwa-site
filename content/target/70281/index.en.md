@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Boldon Girls FC (@BoldonGirlsFC) on Twitter
-
 The official Twitter account for Boldon Girls/Ladies football club, with teams in 7, 9 & 11-aside leagues, ages u6 to u18's, + ladies teams. Based in Boldon, South Tyneside.

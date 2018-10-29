@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Central Scotland Islamic Centre
-
 Site of an Islamic place of worship (mosque) located in Stirling.

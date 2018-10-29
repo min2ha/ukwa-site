@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Question Time panel blast 'chicken' David Cameron over leaders' debate debacle
-
 None

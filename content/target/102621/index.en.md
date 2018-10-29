@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Influence
-
 British Influence is a cross-party organisation, which runs the campaign to keep Britain in a reformed European Union (EU).

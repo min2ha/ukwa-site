@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Chortle: Mark Thomas
-
 News, reviews, listing and interviews relating to Mark Thomas on the Chortle website.

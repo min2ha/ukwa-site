@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Gimme, gimme, gimme some hope for the EU: Abba star tells UK to stay
-
 Guardian, The

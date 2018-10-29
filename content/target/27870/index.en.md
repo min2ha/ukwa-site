@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# PLOS blogs: All Models Are Wrong
-
 Blog site examining climate models.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# 1745 Association
-
 Site of a historical association established to study the Jacobite period, to record and preserve the memory of those who actively participated in, or who had connections with the 1745 Jacobite rising, to mark the appropriate historical sites and to endeavour to safeguard the Jacobite heritage.

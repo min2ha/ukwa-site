@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Delyth Thomas Director
-
 Delyth Thomas is a twice-nominated BAFTA television director.

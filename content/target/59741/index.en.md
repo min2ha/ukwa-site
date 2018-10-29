@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Gallan Head Community Trust
-
 Site of community organisation serving the community of Aird Uig, the Isle of Lewis, that owns and manages land and property on behalf of the benefit of the local community.

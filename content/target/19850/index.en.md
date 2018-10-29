@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Williams MP/AS
-
 Mark Williams is the MP for Ceredigion

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Smart Thinking
-
 Smart Thinking aggregates on one platform all the latest public policy research and analysis from the leading UK think tanks of the day

@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Evening Express: Team GB win men's 4 x 200m freestyle relay silver
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Scottish Arts Club
-
 The Scottish Arts Club is an organisation for the promotion of the performing and visual arts in Scotland.

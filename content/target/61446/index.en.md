@@ -10,6 +10,4 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# Visit Welshpool | Ewch i Trallwng
-
 This is a tourist information guide to Welshpool, Powys.

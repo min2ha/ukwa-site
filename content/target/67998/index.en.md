@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sidmouth and East Devon Walking Festival
-
 a week of free guided walks; discovering the scenic coastal walking of Sidmouth and the hidden gems of East Devon

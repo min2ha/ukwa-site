@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Lusitania Online
-
 Lusitania Online serves as a vast informational source as well as an image library for those who are interested in the RMS Lusitania for research, educational purposes and from a historical aspect of World War I.

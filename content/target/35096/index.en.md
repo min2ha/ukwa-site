@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bruegel
-
 Bruegel is a European think tank that specialises in economics. Established in 2005, it is independent and non-doctrinal. Bruegel’s mission is to improve the quality of economic policy with open and fact-based research, analysis and debate. We are committed to impartiality, openness and excellence. Bruegel’s membership includes EU Member State governments, international corporations and institutions.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Billington (UKIP)
-
 Richard Billington stood as UKIP candidate for Rutland & Melton at the 2015 General Election but was not elected.

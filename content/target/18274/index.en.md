@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# ACITA - The UK association for International Trade
-
 ACITA is the voice of International Trade in the UK, providing a focus and forum for traders and consultants involved in trading across borders. The association acts on the traders' behalf as a partner for the UK and European authorities, and provides information and advice to its members, both on-line and through regular regional and national meetings.

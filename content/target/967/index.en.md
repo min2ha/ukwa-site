@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: Local Healthwatch and community leadership
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# United Kingdom Roller Derby Association
-
 Site of an organisation lobbying for and promoting the sport of roller derby in the UK.

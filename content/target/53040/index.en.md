@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# iNews: Northern Irish women are being ignored by Westminster and we’re sick of it
-
 An article about the abortion rights campaign in Northern Ireland.

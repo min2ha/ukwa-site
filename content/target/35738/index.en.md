@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: No 10's lurid claims on the Brexit: Phone bills and air fares will soar - oh and crime will rise too!   
-

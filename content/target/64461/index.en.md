@@ -10,5 +10,3 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Friends of Merthyr Tydfil Youth Music
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irish Football Association: Euro 2016
-
 Euro 2016 News and updates from the Irish Football Association (IFA).

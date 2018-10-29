@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Made for the Weekend
-
 Website for Made for the Weekend Music Festival.

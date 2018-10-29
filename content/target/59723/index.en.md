@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Not Writing But Blogging Stella Duffy doing this instead of writing …
-
 Blog written by Stella Duffy; a writer and a theatremaker

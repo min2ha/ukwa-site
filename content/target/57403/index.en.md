@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Fire in the Mountain
-
 Fire in the Mountain is a small "folk festival on the farm" and is held near Aberystwyth, Ceredigion. It is supported by the Arts Council for Wales.

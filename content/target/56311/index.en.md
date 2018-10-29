@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South Wales District Association 
-
 This is the site for South Wales Unitarians, providing information about Unitarian Chapels within the South Wales District. 

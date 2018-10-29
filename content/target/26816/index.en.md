@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lincoln Cathedral
-
 Official website of the Lincoln Cathedral.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK DETECTOR NET
-
 An online enthusiast forum concerned with the hobby of metal detecting. Discusses metal finds, equipment and various other topics.

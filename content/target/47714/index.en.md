@@ -10,6 +10,4 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-# Wee Stories Theatre Company
-
 Site of a theatre company based in Edinburgh, and the resident company of Festival City Theatres Trust.

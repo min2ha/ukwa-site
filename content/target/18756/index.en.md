@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Events: Constitutional flux in the contemporary United Kingdom: its causes and its consequences
-

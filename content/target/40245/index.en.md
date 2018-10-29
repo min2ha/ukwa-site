@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Moray Burial Ground Research Group
-
 Site of a genealogy group aiming to record monumental inscriptions found in cemeteries in Moray, Scotland

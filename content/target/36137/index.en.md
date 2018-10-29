@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: IDS: No10 can sack me but the EU fight is too important to back down
-

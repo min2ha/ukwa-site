@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East, Yorkshire and the Humber Quality Assurance Reference Centre
-
 None

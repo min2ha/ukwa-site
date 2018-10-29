@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gavin Robinson (Democratic Unionist Party)
-
 Gavin Robinson stood as Democratic Unionist Party candidate for Belfast East at the 2015 General Election and was elected to serve as MP

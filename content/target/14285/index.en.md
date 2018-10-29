@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Gillian Jason Modern and Contemporary Art
-
 <p>Art gallery devoted to modern and contemporary art</p>

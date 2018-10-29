@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Dibben Cyclist for Great Britain
-
 <p>Website of Jon Dibben, cyclist and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

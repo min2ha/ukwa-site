@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: The Single Market, the Rights of EU Citizens in the UK and the UK’s Future Economic Requirements
-
 This Library briefing examines the impact on the rights of EU citizens living in the UK of the UK’s decision to formally withdraw from the EU. It also considers the arguments regarding the UK’s future economic requirements of the EU.

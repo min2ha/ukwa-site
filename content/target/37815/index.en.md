@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# Respect Phoneline
-
 A confidential and anonymous helpline for anyone concerned about their violence and/or abuse towards a partner or ex-partner.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: CBI annual conference 2016: Prime Minister's speech
-
 Prime Minister Theresa May spoke at the 2016 CBI annual conference to set out her vision for UK business including a modern Industrial Strategy and the opportunities offered by Brexit

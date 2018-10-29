@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Victoria and Albert Museum
-
 The Victoria and Albert Museum (the V&A), London, is the world's largest museum of decorative arts and design, housing a permanent collection of over 4.5 million objects. It was founded in 1852 and named after Queen Victoria and Prince Albert. 

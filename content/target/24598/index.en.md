@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jeremy Hunt interview: Some dementia patients still suffer 'horrific conditions'
-
 None

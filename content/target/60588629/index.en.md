@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds North East Circuit
-
 None

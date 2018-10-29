@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Conversation (@ConversationUK) on Twitter
-
 An independent news and commentary website produced by academics and journalists.

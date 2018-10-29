@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Sally Jane Thompson
-
 A selection of comics from creator Sally Jane Thompson, including 'From!', 'Small Stories', and 'Blue You'.

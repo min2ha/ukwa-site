@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Garrie Fletcher - writing and all that
-
 Garrie Fletcher likes words, big cities and avoiding Northampton. He writes short stories, novels and poems. He’s a member of the mighty Tindal Street Fiction Group and Writing West Midland’s Room 204.

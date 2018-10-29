@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Business Women Connect
-
 Business Women Connect is an unique and entrepreneurial business network for women in south Wales. There are currently hubs in Penarth/Barry, Cowbridge, Roath/Rhiwbina.

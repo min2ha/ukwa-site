@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Parents Enquiry Scotland
-
 Site of a voluntary group providing support to parents of gay, lesbian, bisexual and transgender (LGBT) people in Scotland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Stronger In on Facebook
-
 A Welsh pro-EU group

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Winchcombe Cotswolds Walking Festival
-
 festival with varied walks for people of all abilities and some evening events

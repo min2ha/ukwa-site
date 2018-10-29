@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West Grid for Learning Education That Clicks: Parenting in a digital age: The real cost of online gaming
-
 Blog that looks at some of the issues that can arise from online games and apps that ask for real money as well as offer in-game currency or rewards for increased play time.

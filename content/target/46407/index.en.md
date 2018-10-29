@@ -10,5 +10,3 @@
   "start_date": "2016-10-22T11:00:00Z"
 }
 
-# BBC News- Aberfan: The mistake that cost a village its children
-

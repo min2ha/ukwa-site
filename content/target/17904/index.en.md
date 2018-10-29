@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Magna Carta Party
-
 The official website of the Magna Carta Party, a UK political party.

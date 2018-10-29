@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Dundee Dragons Wheelchair Sports Club
-
 WordPress site of a wheelchair sports club based in Dundee with participation in Rugby, Rugby league, basketball, curling and racquet sports.

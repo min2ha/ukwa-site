@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# My Gaelic Blog
-
 WordPress blog site providing information and recommending places to visit in the island of Ireland.

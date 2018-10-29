@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sefton LINk
-
 None

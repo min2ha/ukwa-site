@@ -10,5 +10,3 @@
   "start_date": "2010-06-29T00:00:00Z"
 }
 
-# Aled Rhys Hughes
-

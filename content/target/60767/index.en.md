@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 31st January 2018: European Union (Withdrawal) Bill
-
 Continuation of second reading debate on the European Union (Withdrawal) Bill in the House of Lords. Lord Adonis has tabled an amendment calling for a second referendum on the terms of the withdrawal.

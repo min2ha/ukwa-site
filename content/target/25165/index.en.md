@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour figure DENIES endorsing Ukip after appearing in election leaflet for Mark Reckless
-
 None

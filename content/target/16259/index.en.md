@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Buildings of Wrexham
-
 <p>The site is a comprehensive historical resource to the many buidlings in Wrexham.</p>

@@ -10,5 +10,3 @@
   "start_date": "2016-08-03T14:00:00Z"
 }
 
-# Gwenynwyr Conwy | Conwy Beekeepers 
-

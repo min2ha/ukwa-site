@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael's Roman Catholic Church, Linlithgow 
-
 Site of a Scottish Roman Catholic parish church located in Linlithgow, West Lothian.

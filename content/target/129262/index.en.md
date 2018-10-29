@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Kipling Society
-
 None

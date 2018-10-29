@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow Kelvin Labour Party
-
 The website of the Glasgow Kelvin branch of Scottish Labour.

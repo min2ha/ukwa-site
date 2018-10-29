@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Enable Magazine: Stephen Hawking
-
 Enable is the UK's favourite disability magazine, packed with the latest disability news and features. These are the articles realted to Stepehen Hawking

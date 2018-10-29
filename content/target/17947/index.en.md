@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Inn Sign Society, The
-
 The Inn Sign Society brings together those with a general interest in the inn signs and provides a means of exchanging information and encouraging research. It also records as many signs as possible, researches the origins of names given to inns, establishes archives, both written and pictorial.

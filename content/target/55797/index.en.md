@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Goodnight Indigo
-
 This is a poetry-project-in-progress by Natalie Ann Holborow, aspiring writer. Her debut collection 'And Suddenly You Find Yourself' was published with Parthian 2017. She is winner of Robin Reeves Prize 2015.

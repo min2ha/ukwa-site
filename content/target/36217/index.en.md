@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Guardian editor: EU vote is first time most of UK press is against Cameron
-
 Guardian, The

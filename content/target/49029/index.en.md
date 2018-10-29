@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# CARLEX:  Campaign Against Retirement Leasehold Exploitation
-
 The Campaign Against Retirement Leasehold Exploitation (Carlex) exists to protect the elderly in leasehold flats and to help create a fair and healthy retirement housing market. It is part of the wider Leasehold Knowledge Partnership, which is a registered charity.

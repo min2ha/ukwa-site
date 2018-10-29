@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-#  North West Highlands Geopark / Geopark Ian Thuath na Gàidhealtachd
-
 Site of a park with features of geological significance and the association that promotes it, Lairg, Highland and covering a large part of the north-west of Scotland.

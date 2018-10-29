@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Public Appointments
-
 The website covers duties of the Commissioner for Ethical Standards in Public Life in Scotland to monitor how people are appointed to the boards of public bodies.

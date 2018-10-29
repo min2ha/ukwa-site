@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Pandas Foundation: Pre and Post Natal Depression Advice and Support
-
 Website for UK based foundation that helps support and advise any parent who is experiencing a perinatal mental illness.  We are also here to inform and guide family members, carers, friends and employers as to how they can support someone who is suffering.

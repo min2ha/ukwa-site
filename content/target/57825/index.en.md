@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Treasury Committee: Oral Evidence: The Work of the Chancellor of the Exchequer
-
 The Chancellor discusses his plans for public spending to prepare for Brexit, with and without a trade deal.

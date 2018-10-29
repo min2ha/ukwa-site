@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP’s Nicola Sturgeon pledges solidarity with disillusioned UK voters
-
 None

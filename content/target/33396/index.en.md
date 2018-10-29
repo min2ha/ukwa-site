@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Gary Owen
-
 Gary Owen is a Welsh playwright.

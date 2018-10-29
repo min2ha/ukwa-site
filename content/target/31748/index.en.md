@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Royston Town Band
-
 A brass band from Royston established 150 years ago, committed to playing a wide range of music, entertaining, having fun and keeping music live.

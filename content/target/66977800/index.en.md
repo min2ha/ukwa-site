@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Moroccan Memories in Britain - An Oral and Visual History
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman: Media Review: For the Yes side in Scotland, the battle has only just begun
-
 None

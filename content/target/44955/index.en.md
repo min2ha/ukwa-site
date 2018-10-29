@@ -10,6 +10,4 @@
   "start_date": "2016-08-11T10:00:00Z"
 }
 
-# Clician
-
 Online magazine for Welsh schools sponsored by the Welsh Government.

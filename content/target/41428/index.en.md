@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office:  PM: UK will lose billions of pounds in infrastructure funding if it leaves EU
-
 Prime Minister David Cameron says the loss of European Investment Bank funding will "put the brakes" on crucial UK infrastructure projects

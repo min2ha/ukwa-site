@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Essex County Council: Tour de France
-
 Essex County Council Tour de France pages giving details of the parts of Essex through which the tour will run.

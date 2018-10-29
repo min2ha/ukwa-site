@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel Dodds (Democratic Unionist Party)
-
 Nigel Dodds stood as Democratic Unionist Party candidate for Belfast North at the 2015 General Election. He was first elected to serve as MP for Belfast North in 2001 and re-elected in 2005, 2010 and 2015

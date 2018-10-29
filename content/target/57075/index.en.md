@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: UK and Japan: Prime Minister's visit 2017
-
 Theresa May visited Japan from Wednesday 30th August to Friday 1st September 2017. The Prime Minister was accompanied by a delegation of business leaders on her trip to Japan. The visit focussed on defence and security cooperation, and trade and investment opportunities.

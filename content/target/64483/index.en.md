@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Free Safe Legal (@FreeSafeLegalUK) on Twitter
-
 Documentary about abortion in the UK & Ireland.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-11T09:00:00Z"
 }
 
-# Office of the Public Guardian (Scotland)
-
 The Office of the Public Guardian in Scotland is part of the Scottish Courts and Tribunals Service, established in April 2001 following the passing of the Adults with Incapacity (Scotland) Act.

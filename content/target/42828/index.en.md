@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Green Aspirations Scotland
-
 Site of an business and organisation aiming to inspire and train people to care for themselves and their environment.

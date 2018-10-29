@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip will keep defence spending at 2 per cent of GDP, says Farage 
-
 None

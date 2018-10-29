@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Magforum.  Magazines, their past, present and future
-
 This blog is about magazines and magazine publishing. It is written by Anthony Quinn, founder of Magforum.com in 2001. His History of British Magazine Design for the V&A museum was published in April 2016

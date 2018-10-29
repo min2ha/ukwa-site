@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Llwybr Llechi Eryri | Snowdonia Slate Trail
-
 Snowdonia Slate Trail is a 85 mile circular trail which enables walkers to explore the industrial heritage of the slate villages throughout  Snowdonia. The route starts at Porth Penrhyn near Bangor and ends at Bethesda and attracts walkers to villages such as Llanllechid, Bethesda, Dinorwig, Llanberis, Waunfawr, Nantlle, Rhyd Ddu, Beddgelert, Croesor, Ffestiniog and Penmachno. The Trail has received Heritage Lottery money and was launched in 2017.

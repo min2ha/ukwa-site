@@ -10,6 +10,4 @@
   "start_date": "2015-09-01T10:00:00Z"
 }
 
-# Wats Dyke Wail Heritage Trail
-
 Wat’s Dyke Way is a 61 mile Dyke close to the Welsh border between Llanymynech in Powys and Holywell in Flintshire. Mystery still remains as to who actually constructed the dyke.

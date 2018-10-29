@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Care Information Scotland
-
 Care Information Scotland (CIS) is a phone, webchat and website service providing information about care services for people living in Scotland.

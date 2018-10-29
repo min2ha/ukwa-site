@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# UK Anti-Doping (@ukantidoping) on Twitter
-
 UKAD is the National Anti-Doping Organisation for the UK.

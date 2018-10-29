@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Anglican bishop backs remain camp, praising EU’s peacekeeping role
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Broadcasters pile pressure on Cameron over second live election debate
-
 None

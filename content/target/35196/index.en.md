@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: What Eurosceptic MPs and Out campaigners had to say about 'patronising' John Kerry’s EU referendum intervention
-

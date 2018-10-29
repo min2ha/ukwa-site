@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Graham Naismith (@gnaismithmp) on Twitter (Independent candidate for Tunbridge Wells)
-

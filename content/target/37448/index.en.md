@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit - what do UK residents think? at expatforum.com
-
 A forum for expats in the UK discussing Brexit

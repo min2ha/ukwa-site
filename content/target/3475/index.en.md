@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Essex County Standard
-
 None

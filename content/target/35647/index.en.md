@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris rides into the eye of a storm: Johnson takes first swipe at Cameron by declaring Britain can have a 'great future' outside EU - but his father warns backing Brexit could be a 'career ending move'     
-
  

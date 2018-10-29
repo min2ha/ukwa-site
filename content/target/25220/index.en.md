@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Green Party gets the thumbs up from Voice readers 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Guardian, The: The English tower blocks that have failed combustibility tests – mapped
-
 A list of buildings in the UK that have failed combustibility tests in July 2017.

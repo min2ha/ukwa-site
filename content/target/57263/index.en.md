@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Welsh Bagpipes | Pibau Cymreig
-
 Welsh Bagpipes are Welsh pipers who specialise in Welsh traditional music for bagpipes. 

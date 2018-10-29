@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Technical and Human infrastructure for Open Research (THOR)
-
 THOR is a 30 month project funded by the European Commission under the Horizon 2020 programme. It will establish seamless integration between articles, data, and researchers across the research lifecycle. This will create a wealth of open resources and foster a sustainable international e-infrastructure. The result will be reduced duplication, economies of scale, richer research services, and opportunities for innovation.

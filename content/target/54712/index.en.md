@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# North East Wales Diversity Festival | Gwyl Amrywiaeth Gogledd-Ddwyrain Cymru
-

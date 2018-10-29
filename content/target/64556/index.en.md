@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# sdas: Southern Domestic Abuse Service
-
 We provide services to people who have experienced or who are experiencing emotional, physical or sexual abuse in their relationships.

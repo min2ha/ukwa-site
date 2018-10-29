@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee SNP on Facebook
-
 Facebook page of the Dundee branch of the Scottish National Party (SNP).

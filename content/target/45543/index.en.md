@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Begin-Motorcycling
-
 A motorcycle training centre, offers courses and lessons on everything related to learning how to ride a motorcycle and acquiring the relevant licence. 

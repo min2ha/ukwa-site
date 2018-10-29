@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour fears SNP election landslide as Scottish party post clear lead in poll
-
 None

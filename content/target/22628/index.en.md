@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband's Trident plan leaves Nicola Sturgeon's hopes of an SNP post-election pact in tatters
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# London Business Support Service, The
-
 Company offering business support  sessions, mentoring and advice. Partners of the British Library.

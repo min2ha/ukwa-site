@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Delves (Monster Raving Looney Party)
-
 Nick Delves stood as Monster Raving Looney Party candidate for Doncasterr North at the 2015 General Election but was not elected

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Heritage Lottery Fund grant secured for Magna Carta Anniversary Plans
-

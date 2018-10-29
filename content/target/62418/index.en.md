@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Save Babies UK
-
 Save Babies UK is a registered charity founded in 2008 and run entirely by volunteers, including parents and grandparents of children affected by Krabbe leukodystrophy. We are working to advance the health and wellbeing of children suffering from Krabbe disease and other Leukodystrophies in the UK.

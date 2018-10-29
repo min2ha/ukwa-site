@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Edwina Hart (Labour Assembly Member for Gower)
-
 Edwina Hart is the Labour Assembly Member for Gower. She is retiring at the 2016 National Assembly Elections.

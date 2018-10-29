@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# GOV.UK Asset Publishing Service
-
 This host has been added to ensure the weekly document crawls actually pick up documents! It ensures the asset host in included in the scope of weekly crawls, and that the crawl for this host is not capped.

@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Bywgraffiadur Cymreig, Y | Welsh National Biography, The
-
 This website contains over five thousand concise biographies of Welsh people who have made a significant contribution to national life, whether in Wales or more widely. The Dictionary of Welsh Biography was originally published by the Honourable Society of Cymmrodorion, 

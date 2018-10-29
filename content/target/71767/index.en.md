@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Starmer chances his arm by challenging McDonnell and McCluskey over Brexit
-
 Analyses the Labour Party's ambiguous position on the question of a second referendum on Brexit.

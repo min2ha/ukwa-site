@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Katie Allen
-
 Katie Allen is a Swansea based full time artist originally from Kingston upon Thames.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# AllBright
-
 The AllBright Academy leverages an immersive, digital, cohort-driven curriculum, an outstanding faculty of experts, and diverse and flexible course offerings to help female founders and aspiring founders build and grow their businesses. 

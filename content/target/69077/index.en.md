@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# EMCOR UK
-
 Providing integrated facilities management services to businesses, globally and in virtually every economic sector throughout the UK. 

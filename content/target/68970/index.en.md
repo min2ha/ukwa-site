@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: No-deal Brexit would be no disaster, say Leavers amid growing public support for walking away from the negotiations
-

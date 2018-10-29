@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# EventScotland
-
 Site of an organisation working to make Scotland the perfect stage for events, through funding and developing an exciting portfolio of sporting and cultural events and helping to raise Scotland’s international profile and boost the economy by attracting more visitors.

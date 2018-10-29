@@ -11,5 +11,3 @@
   "subject": "Jersey Collection"
 }
 
-# Save People's Park Facebook
-

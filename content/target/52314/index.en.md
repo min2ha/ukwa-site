@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Home Office (@ukhomeoffice) on Twitter
-
 The Home Office is the UK government's department for policing, crime, counter-terrorism and immigration.

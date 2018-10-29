@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Mark Carney doubles down on Brexit recession risk warning
-

@@ -10,6 +10,4 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# Lòchran, An
-
 An Lòchran is a non profit organisation which exists to develop and promote the Gaelic arts in Glasgow, and to establish a Gaelic cultural centre in the city. 

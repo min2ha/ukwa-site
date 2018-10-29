@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T11:00:00Z"
 }
 
-# Channel 5
-
 Official website of a major UK broadcaster.

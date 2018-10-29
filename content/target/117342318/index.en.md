@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# National Space Centre
-
 The National Space Centre is the UK’s largest visitor attraction dedicated to space and space exploration, welcoming around a quarter of a million visitors each year since its opening in June 2001. The idea was proposed by the University of Leicester, with support from Leicester City Council. 

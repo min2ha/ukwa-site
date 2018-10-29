@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Aden Country Park
-
 Site of a country park and farming museum located in Aberdeenshire, Scotland.

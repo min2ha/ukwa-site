@@ -10,5 +10,3 @@
   "start_date": "2016-02-17T09:00:00Z"
 }
 
-# Monmouthshire Incorporated Law Society, The 
-

@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# B-wbl
-
 B-wbl, formerly Skills Academy Wales (South West) is is led by Pembrokeshire College and is a work based learning consortium made up of training providers. 

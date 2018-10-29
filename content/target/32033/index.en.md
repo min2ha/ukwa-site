@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Amser i Newid Cymru | Time to Change Wales
-
 Time to Change Wales is a campaign to end the stigma and discrimination faced by people with mental health problems in Wales. The programme is delivered by Mind Cymru, Hafal and Gofal.

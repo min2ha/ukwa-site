@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Finsbury Foods Group
-
 Finsbury Foods Group are a UK-wide speciality bakery group, producing a broad range of high-quality bread, cake and snack products. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

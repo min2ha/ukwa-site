@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Democratic Progress Institute.
-
 The Democratic Progress Institute (DPI) is an independent non-governmental organisation established in consultation with international experts in conflict resolution and democratic advancement.

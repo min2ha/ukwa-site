@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# University of Oxford: Ruskin School of Art commissions artwork to mark Magna Carta's 800th anniversary
-

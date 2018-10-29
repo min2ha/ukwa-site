@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# John Mitchels GAA
-
 Website dedicated to John Mitchel's Warwickshire Gaelic Football Club

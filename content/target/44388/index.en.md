@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Winchester City Council
-
 The website of Winchester City Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

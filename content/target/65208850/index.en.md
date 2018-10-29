@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Space Hijackers
-
 None

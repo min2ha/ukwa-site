@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Glain Llwyd Professional North Wales Pianist
-
 Glian Llwyd’s is a professional pianist from Wales. Her main achievement in 2007 was being the winner of the Blue Ribbon competition with the piano at the National Eisteddfod of Wales. 

@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Beauty of Transport, The: Close Encounters of the Forth Kind (Forth Bridge, Queensferry, UK)
-

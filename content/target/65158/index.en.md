@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# New Civil Engineer
-
 A news publication in the field of civil engineering.

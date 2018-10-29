@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Where are the voices of the grown-ups in this election?
-
 None

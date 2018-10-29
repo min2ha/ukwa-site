@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Red Alert HELP: support, advocacy and signposting
-
 Birmingham-based organisation offering support, information and advocacy services to people affected by deaths in police custody, including black people and people experiencing a mental health crisis

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Intergenerational Foundation
-
 The Intergenerational Foundation (IF) is a charitable UK-based thinktank established to promote fairness between generations. IF believe that each generation should pay its own way, which is not happening at present. British policy-makers have given undue advantages to the older generation at the expense of younger and future generations.

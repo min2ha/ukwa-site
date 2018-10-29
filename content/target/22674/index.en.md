@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Lavery (@IanLaveryMP) on Twitter (Labour  Politician)
-
 Ian Lavery stood as Labour candidate for Wansbeck at the 2017 General Election and was elected as MP. He was first elected to serve as the MP for Wansbeck in 2010 and re-elected in 2015.

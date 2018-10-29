@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Learning Healthcare Project, The
-
 Exploring the feasibility and implications of Learning Healthcare Systems

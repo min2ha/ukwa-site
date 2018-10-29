@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Michel Barnier says it is ‘realistic’ to hope a Brexit divorce deal can be done within 'six to eight weeks' amid claims EU leaders are mounting ‘Operation Save Theresa’
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parkminster United Reformed Church, Cardiff
-

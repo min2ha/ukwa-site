@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dumfries Music Conference
-
 Site of a platform on which people can share their knowledge, ideas, experience and thoughts about music - and based in Dumfries.

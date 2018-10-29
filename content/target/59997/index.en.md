@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May urged to withdraw Tory whip from Michael Heseltine
-

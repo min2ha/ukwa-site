@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindsay McCallum | for Ross, Skye and Lochaber
-
 This is the website of Lindsay McCallum, the Conservative Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

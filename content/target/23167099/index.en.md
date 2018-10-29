@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Alternative Investment Management Association (AIMA)
-
 None

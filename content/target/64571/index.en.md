@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Portobello Lodge 226
-
 Site of a masonic lodge located in Portobello, Edinburgh and affiliated with the Grand Lodge of Scotland.

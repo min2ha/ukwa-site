@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# St Kiernans GFC - London
-
 St. Kiernans Gaelic Football Club is a senior and underage club based in north west London.  At St. Kiernans we are a professional, progressive and family orientated club, always keen to recruit new players and give all new members a warm welcome.
 
 Starting a new sport, moving clubs or even moving to London can cause much unwanted stress. We can help make this move a lot easier. We offer guidance and encouragement to all new members and make sure that all are happy and problem free. 

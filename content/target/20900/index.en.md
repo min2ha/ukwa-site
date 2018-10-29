@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Bartos (@martinbartos) on Twitter
-
 The Twitter profile of Martin Bartos, the Scottish Green Party candidate for Glasgow North in the UK General Election on the 7th May 2015.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Remain campaign needs to stop assuming the referendum's in the bag
-

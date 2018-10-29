@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Columba's Church of Scotland, Jersey on Facebook
-
 Site of a Church of Scotland church on the Channel Island of Jersey.

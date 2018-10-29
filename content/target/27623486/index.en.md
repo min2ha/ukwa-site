@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# National Black Arts Alliance (NBAA)
-
 NBAA National Black Arts Alliance (formerly Black Arts Alliance), it works across art forms to create productions that challenge perceptions of Black culture and that celebrate the many dimensions of Black heritages.

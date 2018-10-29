@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Lodge of Erskine No. 1566
-
 Site of a masonic lodge located in Inchinnan, Renfrewshire and affiliated with the Grand Lodge of Scotland.

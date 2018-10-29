@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Fy Iechyd a Gofal Cymdeithasol Lleol | My Local Health & Social Care 
-
 My Local Health & Social Care is a Welsh Government portal that provides information on a variety of aspects of the NHS and social services across Wales. 

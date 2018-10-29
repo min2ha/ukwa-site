@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Moray House Rugby Football Club
-
 Site of a Scottish rugby union football club based in Edinburgh, attached to the former teacher training college Moray House, now part of the University of Edinburgh.

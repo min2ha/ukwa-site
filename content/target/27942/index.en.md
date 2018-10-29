@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T09:00:00Z"
 }
 
-# Yoga with Lisa Powell
-
 Through the integration of yoga asana, pranayama, deep relaxation, meditation and visualisation Lisa hopes to help her students relieve physical and mental tension, release emotional blocks and bring back a sense of connection to the Self.

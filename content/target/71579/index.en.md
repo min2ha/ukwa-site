@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BARNIER'S BORDER The DUP’s only MEP, Diane Dodds, has attacked Michel Barnier’s Irish border solution as it would ‘cut adrift’ Northern Ireland
-
 The EU’s chief negotiator wanted British officials to police goods travelling between Belfast and the rest of the UK to “de-dramatise” internal UK checks. Eurocrats were trying to calm fears their backstop proposal would create an Irish Sea border by using technological solutions pinched from Brexiteers. But Unionists said they would continue to reject any plan that kept just Northern Ireland in the Customs Union and parts of the Single Market.

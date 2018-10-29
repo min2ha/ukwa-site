@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Guinea Pig Forum
-
 An online enthusiast community concerned with Guinea Pigs. Discusses health and illness, information for new owners, food, housing & equipment and various other related topics.

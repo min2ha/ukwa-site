@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# I support David Torrance for MSP on Facebook
-
 The campaign support Facebook page for David Torrance, Scottish National Party candidate for Kirkcaldy in the 2016 Scottish Parliamentary election.

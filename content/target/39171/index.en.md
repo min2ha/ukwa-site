@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Eco-Congregation Scotland
-
 Site of a Scottish Christian charity, offering a programme to enthuse and equip churches to weave environmental issues into their life and mission in an enjoyable and stimulating way.

@@ -10,6 +10,4 @@
   "start_date": "2010-08-18T00:00:00Z"
 }
 
-# Performing Medicine
-
 Performing Medicine aims to inspire medics to be vital, rigorous, critically engaged, culturally aware doctors and give them skills to help them sustain a highly demanding work practice.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Red Kite Challenge / Sialens y Barcud Coch
-
 The Red Kite Challenge is an annual series of running and walking events around Tregaron with the profits going to support the local hospital.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bridgend Labour Party
-
 Website of Bridgend Labour Party, providing information on constituency officers, elected representatives, meetings. news and views and the week in Parliament.

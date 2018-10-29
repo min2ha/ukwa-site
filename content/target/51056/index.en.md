@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Friends of Roath Park
-
 Roath Park is in Cardiff. The objectives of the Friends of Roath Park are to protect, conserve and enhance Roath Park as a place of freedom, recreation and enjoyment for everyone's long term benefit.

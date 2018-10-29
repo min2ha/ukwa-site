@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Inverness Film Festival
-
 Site of an annual film festival taking place in Inverness, Scotland.

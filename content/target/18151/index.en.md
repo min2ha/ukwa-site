@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: stop making unfounded rumours about my health, says Ukip leader
-
 None

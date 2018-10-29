@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cupcakes, balloons, Harman and Balls: a day on Labour's pink bus
-
 None

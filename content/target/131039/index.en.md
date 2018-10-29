@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Canolfan Addysg Byd | World Education Centre
-
 The Word Education Centre was based at Bangor University but closed in 2011. The aim of the centre was to promote Education for Sustainable Development and Global Citizenship in Wales.

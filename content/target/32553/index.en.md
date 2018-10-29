@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Kinder trespass: Spirit of Kinder
-
 In April 1932 over 400 people participated in a mass trespass onto Kinder Scout, a bleak moorland plateau, the highest terrain in the Peak District.

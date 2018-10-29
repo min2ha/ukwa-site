@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Britain 'will thrive after Brexit': Leaving will boost pay and jobs says Tory high-flier  
-

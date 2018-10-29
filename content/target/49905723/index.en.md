@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Health and Safety Executive (HSE): Guidance from the Scientific Advisory Committee on Genetic Modification
-

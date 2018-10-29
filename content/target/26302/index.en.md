@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Sussex Record Society
-
 The Society commissions research by individuals who are experts in their field to produce historical records in the selected area of research of the County of Sussex in the United Kingdom.

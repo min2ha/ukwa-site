@@ -10,6 +10,4 @@
   "start_date": "2017-11-25T09:00:00Z"
 }
 
-# Stellar Quines Theatre Company
-
 Site of a Scottish theatre company based in Edinburgh, inspiring excellence in women and girls supported and celebrating the value and diversity of women and girls by making brilliant theatre, provoking change, nurturing artists and empowering participation.

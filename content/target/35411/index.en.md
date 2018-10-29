@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Mayor's Fund for London: Tech Up Nation
-
 Tech Up Nation programme provides a targeted 100 employers working in the Tech City/Old Street area of London with a viable process to employ talented local young people.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Communications Workers Union: CWU call for 'no' vote in Scottish referendum
-
 None

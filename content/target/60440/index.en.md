@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Recordiau
-
 Recordiau are a Welsh Record label.

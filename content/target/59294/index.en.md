@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Social Networks Are Bad For Your Mental Health - Can We Design Them To Help Instead?
-
 Blog about the increasing amount of evidence that social media contributes to poor mental health, particularly in young people.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harringay Online
-
 <p>Developed by Hugh and launched in July 2007, Harringay Online is a citizen-led online neighbourhood network focussed on the neighbourhood of Harringay in the London Borough of Haringey.</p>

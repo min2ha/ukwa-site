@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sandwich Magna Carta discovered in Maidstone archives
-

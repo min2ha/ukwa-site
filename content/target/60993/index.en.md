@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Wendy Mayer MRBS Sculptor
-
 Wendy Mayer is a Welsh sculpturist and elected member of the Royal Cambrian Academy of Art (RCA) and an associate member of Royal British Society of Sculptors. Her work has been widely exhibited across Wales and placed in the Saatchi and the DeWoody collections as well as several international private collections.

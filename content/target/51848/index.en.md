@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit and Gibraltar: May laughs off Spain 'war' talk
-
 Prime Minister Theresa May laughed off journalists' questions about going to war with Spain following the Gibraltar Brexit row. Mrs May said her approach to negotiations was "definitely jaw jaw".

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade Lally (JadeLallyT69) on Twitter
-
 <p>The twitter profile of Jade Lally, discus thrower for Team England in the Glasgow 2014 Commonwealth Games.</p>

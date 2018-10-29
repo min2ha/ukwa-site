@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Herbert Smith Freehills: Brexit Notes Blog
-
 Updates on the Brexit negotiations from a business perspective

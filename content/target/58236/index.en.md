@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: MP says 'better educated' voted remain in EU referendum
-
 Barry Sheerman, Labour MP for Huddersfiled, sparked controversy for claiming that better educated people voted Remain at the EU Referendum.

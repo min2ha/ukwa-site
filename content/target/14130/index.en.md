@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Decision Time
-
 <p>Decision Time is an exhibition with artworks, performances, talks and dialogues exploring decision-making in the context of the Scottish Referendum on independence. Held at Centrespace Visual Arts Research Centre, Dundee Contemporary Arts.</p>

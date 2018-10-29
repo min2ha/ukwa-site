@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Sustrans
-
 Sustrans works with communities, policy-makers and partner organisations so that people can choose healthier, cleaner and cheaper journeys and enjoy better, safer spaces where they live. All over the UK, we make a positive difference to people's lives.

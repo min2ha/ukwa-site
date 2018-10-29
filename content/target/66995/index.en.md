@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Mayor's Office for Policing And Crime, The (MOPAC)
-
 Updates from the Mayor's Office for Policing And Crime (MOPAC) on what we are doing to make London even safer. 

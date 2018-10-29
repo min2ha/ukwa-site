@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Third Sector: Chairities would lose £200m in funding from Brexit, says pro-EU campaign
-
 Third Sector: Artical documenting the response to the statment of EU charity funding by a pro-EU campaign. 

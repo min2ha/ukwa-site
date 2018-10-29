@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# An Easter Service 2016
-
 Using historical testimony, local research and community collaboration and participation An Táin Arts Centre and Upstate Theatre Project have forged a contemporary imagining of the events of 1916. 

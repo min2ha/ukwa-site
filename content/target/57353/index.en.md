@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Kashmir Link London
-
 Online UK newspaper in English and Urdu with focus on Kashmir and Kashmiri and British Asian communities in UK

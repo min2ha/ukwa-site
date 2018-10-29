@@ -10,5 +10,3 @@
   "start_date": "2015-09-28T00:00:00Z"
 }
 
-# Bay of Colwyn Cyngor Tref - Town Council
-

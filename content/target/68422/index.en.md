@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Ovenstone 109
-
 Site of a brewer located in Anstruther, Fife.

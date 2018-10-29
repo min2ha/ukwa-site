@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave.eu campaign page on Facebook
-
 The official facebook page for leave.eu, a cross party and non-political campaign, advocating the vote to leave the EU in the upcoming referendum

@@ -10,6 +10,4 @@
   "start_date": "2017-08-25T09:00:00Z"
 }
 
-# Old Kirkcudbright
-
 Local and family history site for the town of Kirkcudbright, Dumfries & Galloway.

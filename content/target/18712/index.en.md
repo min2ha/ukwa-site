@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Bodleian Library shows off treasures, from Magna Carta to Shakespeare
-

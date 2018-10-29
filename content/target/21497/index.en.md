@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Revealed: Mystery £600,000 Labour donor is hedge fund manager Martin Taylor
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bamboo Bicycle Club London
-
 The Bamboo Bicycle Club London helps people who are passionate about cycling to build and ride their own self-build bicycles. 

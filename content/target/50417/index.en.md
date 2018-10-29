@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Gustav Mahler Society UK
-
 Dating from 2001, the Society brings together the ever growing number of people who share a love for Mahler’s music.

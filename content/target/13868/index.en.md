@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Harris
-
 The website of Tom Harris, Labour candidate Glasgow South in the 2015 UK General Election, 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Storas na Gaidhlig
-
 A Gaelic information portal for Education Scotland

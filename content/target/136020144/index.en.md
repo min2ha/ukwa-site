@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derby LINk
-
 None

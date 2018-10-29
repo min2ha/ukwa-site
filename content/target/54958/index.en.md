@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: DUP warn Conservatives: Don't take us for granted
-
 The Conservatives were hoping the Democratic Unionist Party would sustain their minority government, but no deal had been reached after 10 days of negotiations

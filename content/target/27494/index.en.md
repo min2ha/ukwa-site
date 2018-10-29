@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nicola Sturgeon #dollgate shock lights up Twitter
-
 None

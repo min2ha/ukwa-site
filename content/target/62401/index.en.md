@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cumbrae Parish Church
-
 Site of a Church of Scotland parish church at Millport on the Isle of Cumbrae, Argyll and Bute.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Association of Company Registration Agents (ACRA)
-
 ACRA, the Association of Company Registration Agents, was established to encourage high standards amongst agents and to act as an open forum for those involved in the industry.

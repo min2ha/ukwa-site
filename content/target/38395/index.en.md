@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Robbie's Law Trust
-
 This is a campaign to make it a legal requirement for doctors to be truthful following an error and refrain from falsifying medical records. Robbie's Law gets it's namesake from Robbie Powell, from Ystradgynlais, who died in 1989.

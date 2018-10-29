@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Capital City Church, Cardiff
-
 Capital City Church meet in Roath, Cardiff and is an outreach of the Assemblies of God.

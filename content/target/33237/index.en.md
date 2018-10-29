@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Royal Statistical Society, The
-
 The Royal Statistical Society is a professional body for statisticians and data analysts. It promotes the importance of statistics and data. It was founded in 1834. 

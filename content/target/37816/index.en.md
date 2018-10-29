@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Appin of Yesteryear
-
 Site for local and family history set around the area of Appin in Argyllshire.

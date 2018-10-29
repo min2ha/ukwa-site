@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Cinema Detectives
-
 Webcomic by Chris Reynolds of Mauretania Comics.

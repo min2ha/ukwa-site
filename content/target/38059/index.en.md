@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# City of London IN (@CityStrongerIn) on Twitter
-
 City of London local campaign for the UK to stay in the EU

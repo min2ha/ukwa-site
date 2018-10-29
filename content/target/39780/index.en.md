@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Sorry Obama, your arrogance won't make me change my mind about Brexit
-

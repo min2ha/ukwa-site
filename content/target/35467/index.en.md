@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# London Hiker
-
 A personal website set up to guide walking enthusiasts around London and further a field.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# William Heath's Blog
-

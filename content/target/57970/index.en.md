@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Priestley International Centre for Climate: Delivering research to underpin robust and timely climate solutions
-
 The Priestley International Centre for Climate  is unique in bringing together world leading expertise in all the key strands of climate change research.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Gun Control Network
-
 The Gun Control Network was established as a small non-profit making organisation in July 1996 in the aftermath of the Dunblane tragedy. The founders included lawyers, academics and the parents of victims killed in Dunblane and Hungerford. It was the first gun control organisation in the UK. 

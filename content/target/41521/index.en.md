@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Remain campaign opens up new 13% lead in EU battle as Tory poll guru warns Boris's Brexit campaign is 'weak and dwindling'
-

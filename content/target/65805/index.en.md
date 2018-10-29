@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Scottish Newspaper Society
-
 Site of an organisation aiming to promote and safeguard the interests of the newspaper publishing industry in Scotland, to maintain press freedom, and to improve the profile of the newspaper publishing industry in Scotland.

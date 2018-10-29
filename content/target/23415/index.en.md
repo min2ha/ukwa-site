@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isobel Grant (@isogrant  ) on Twitter (Conservative Politician)
-
 Isobel Grant stood as Conservative candidate for Bristol South at the 2015 General Election but was not elected. She then stood for Ealing North at the 2017 General Election but was not elected.

@@ -10,5 +10,3 @@
   "start_date": "2009-03-05T00:00:00Z"
 }
 
-# OSS Watch team blog
-

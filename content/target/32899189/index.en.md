@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stratford-upon-Avon Quaker Meeting
-

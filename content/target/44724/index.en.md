@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent Living: Brexit consequences for disability rights
-
 Explores the implications of Brexit for the rights of people with disabilities.

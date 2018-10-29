@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour 2015 election manifesto - the key points on Europe, immigration and the NHS
-
 None

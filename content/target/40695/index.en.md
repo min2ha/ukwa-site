@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The no-nonsense guide to the EU debate for millennials
-

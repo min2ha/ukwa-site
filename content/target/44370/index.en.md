@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Fareham Borough Council
-
 The website of Fareham Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Cytun (Churches Togethor in Wales) Election 2017
-

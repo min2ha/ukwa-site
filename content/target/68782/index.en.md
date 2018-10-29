@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on the cabinet Brexiters: vacuous, dreary and incapable of responsibility
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The leaders' debate was messy, but the choice facing Britain is simple
-
 None

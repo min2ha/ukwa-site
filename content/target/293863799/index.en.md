@@ -10,5 +10,3 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Procurement Route Planner | Canllaw Cynllunio Caffael
-

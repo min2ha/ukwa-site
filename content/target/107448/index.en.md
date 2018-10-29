@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Mind
-
 Mind is a charity which provides advice and support to empower anyone experiencing a mental health problem. They campaign to improve services, raise awareness and promote understanding.

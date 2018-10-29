@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tameside General
-
 None

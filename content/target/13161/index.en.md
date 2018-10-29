@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Greens (scotgp) on Twitter
-
 <p>The twitter profile of the Scottish Greens Party</p>

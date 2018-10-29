@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Welsh Political Almanac, The
-
 Blog by Gareth Hughes, a political commentator previously of ITV Wales.

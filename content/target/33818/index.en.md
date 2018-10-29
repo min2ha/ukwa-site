@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Contemporary Christianity: Reflecting on reflecting on the 1916 Easter Rising
-
 Article on the Contemporary Christianity Website

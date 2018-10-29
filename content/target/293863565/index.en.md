@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gower Conservatives
-
 Website of Gower Conservatives, providing information on representatives, petitions, events and local and national news.

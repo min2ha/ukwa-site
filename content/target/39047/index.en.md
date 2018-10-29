@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cardinal Archbishop of Westminster: Bishops' statement of the EU Referendum
-
 Following the plenary meeting of the Catholic Bishops of England and Wales, they have released a statement on the EU referendum: 

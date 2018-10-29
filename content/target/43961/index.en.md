@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Canary, The 
-
 An online media site launched in Autumn 2015. 

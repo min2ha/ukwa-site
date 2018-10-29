@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Plymouth Albion R.F.C.
-
 Plymouth Albion R.F.C.

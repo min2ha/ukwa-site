@@ -11,6 +11,4 @@
   "subject": "Crimean War"
 }
 
-# Roger Fenton's Letters from the Crimea
-
 None

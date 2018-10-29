@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Association of Local Councils: NALC Manifesto
-
 NALC are the national membership body for local (parish and town) councils. They work with the County Associations of Local Councils to support, promote and improve these councils.

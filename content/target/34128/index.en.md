@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Dylan Moran
-
 Official website of the Irish comedian, who lives in the UK.

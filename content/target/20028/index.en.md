@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Warman on Facebook
-
 Conservative Prospective Parliamentary Candidate for Cardiff South and Penarth.

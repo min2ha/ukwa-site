@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Naval, Military & Air Force Bible Society  (NM & AFBC)
-
 Naval, Military & Air Force Bible Society was founded in 1779 by George Cussons and John Davies, Lay Wesleyan Methodists, supported by the Christian philanthropist, John Thornton. The Society was initially called The Bible Society. In 1804 – when The British and Foreign Bible Society was founded – the name was changed to Naval and Military Bible Society, with Air Force added in 1961. The Society's mission is distributing Bibles and booklets at home and abroad. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NFU Online: NFU16: Farmers to hear Brexit debate
-
 Website of the National Farmers' Union

@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Ffotoview - Celebrating Wales based talent
-
 Ffotoview is a ffotogallery project, and is a monthly calendar presenting photographic talent in Wales. Ffotogallery is the national development agency for photography and lens based media in Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cathy Jamieson MP
-
 This is the website of Cathy Jamieson, the Labour Party candidate for Kilmarnock and Loudoun in the UK General Election on the 7th May 2015.

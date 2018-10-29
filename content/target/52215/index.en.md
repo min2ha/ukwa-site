@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cabinet Office: General election guidance 2017
-
 Guidance on the conduct of civil servants in the pre-election period (often referred to as 'purdah').

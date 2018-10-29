@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Scotland Welcomes Refugees
-
 An information site compiled by the Scottish Refugee Council, advising people about how they can help.

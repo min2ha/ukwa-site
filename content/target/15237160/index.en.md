@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# South West Coast Path
-
 None

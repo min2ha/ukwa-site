@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Skeleton Argument of the Secretary of State for Exiting the European Union
-
 This document is the the government's skeleton argument in the Article 50 case in England and Wales in the High Court

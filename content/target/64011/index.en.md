@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Crimes of Britain
-
 Revisiting and monitoring the crimes of Britain.

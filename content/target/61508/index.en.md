@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Elidyr Church, East Williamston
-
 St Elidyr Church is affiliated to the Church in Wales, in the diocese of St David and are part of the Benefice of Begelly Ludchurch and East Williamston, Pembrokeshire.

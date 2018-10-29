@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# London School of Hygiene and Tropical Medicine: Expert comment on WHO decision...
-
 The London School of Hygiene and Tropical Medicine's public statement on the link between Zika and microcephaly, and potential risks in Southern Europe.

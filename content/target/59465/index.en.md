@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# New Railways Modellers Forums
-
 An online enthusiast community concerned with model railways. The forum is aimed at giving advice those new to train modelling. The forum covers advice for newcomers, model railways manufacturers, model railway scenery, baseboards & track work and electronics & technology. The forum also includes a section for users to upload photographs of both real and model trains.

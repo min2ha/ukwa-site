@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Christians for Europe
-
 A pro-Remain group aimed at Christians.

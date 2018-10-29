@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Public and Commercial Services Union Scotland
-
 PCS is the sixth largest trade union in the UK with around 270,000 members. Members are organised throughout the civil service and government agencies. It also organises widely in the private sector, usually in areas that have been privatised.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Telynor Cymru 2016: A Celebration of Welsh Gypsy Harping
-
 The Telynor Cymru 2016 project celebrates the two-hundredth anniversary of the birth of John Roberts ‘Telynor Cymru’ (1816-1894), the famous Welsh Gypsy harpist, and one of the most important figures of our folk tradition. The project is funed by Arts Council for Wales and managed by Clera (Cymdeithas offerynau Traddodiadol Cymru).

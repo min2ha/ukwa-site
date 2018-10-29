@@ -10,5 +10,3 @@
   "start_date": "2006-11-21T00:00:00Z"
 }
 
-# Parth dotCYM Domain: Ymgyrchu dros barth rhyngrwyd .cym - Campaigning for a .cym internet domain: Ar gyfer cymuned ieithyddol a diwylliannol y Gymraeg - For the Welsh linguistic and cultural community
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harri Roberts (@harriroberts) on Twitter 
-
 Harri Roberts is the Plaid Cymru candidate for Gower at the 2016 National Assembly Elections and 2017 General Election.

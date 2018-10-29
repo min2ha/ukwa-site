@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Emmens (UKIP)
-
 Steve Emmens stood as UKIP candidate for Norwich South at the 2015 General Election but was not elected.

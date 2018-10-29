@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Irish Writers Online - a concise dictionary of Irish writers
-

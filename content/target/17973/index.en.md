@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Poll tracker
-
 The BBC News poll tracker measures opinion poll support for the Conservatives, Labour, Liberal Democrats, Green Party and UKIP ahead of the 2015 general election.

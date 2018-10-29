@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: The EU referendum: two years on
-
 Slightly more of the British public think that voting to leave the EU was wrong for Britain than think it was the right decision, and on most measures more people expect it will have a negative than a positive impact. On top of this, a large majority think that the government is doing badly at negotiating the UK’s withdrawal from the European Union. People aren’t clear what either of the main parties really thinks about Brexit and don’t much support either Theresa May’s or Jeremy Corbyn’s stances towards Europe.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-18T12:34:00Z"
 }
 
-# Pearls in Peril
-
 "‘Pearls in Peril’ (PIP) is a UK wide LIFE nature project with 22 partners working together to restore river habitats benefiting freshwater pearl mussel and salmonids (salmon and trout)."

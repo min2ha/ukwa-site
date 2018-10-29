@@ -10,6 +10,4 @@
   "start_date": "2016-07-01T10:00:00Z"
 }
 
-# East Finchley Open Artists (EFOA) 
-
 East Finchley Open Artists – or EFOA for short – was launched in 2004. They are a diverse and committed group of local artists and craftspeople.

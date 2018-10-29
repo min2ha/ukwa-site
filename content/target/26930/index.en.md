@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Billy Connolly 
-
 Official website of Billy Connoly.

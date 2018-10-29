@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Friends of the Union Chain Bridge
-
 Site of a group established to support the preservation of the Union Chain Bridge and to conserve, protect and enhance its immediate environment for public benefit.

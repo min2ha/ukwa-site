@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# DJ Johnston-Smith (@AddictedToTweed) on Twitter
-
 The Twitter profile of DJ Johnston-Smith, the Scottish National Party candidate for East Lothian in the 2016 Scottish Parliament election.

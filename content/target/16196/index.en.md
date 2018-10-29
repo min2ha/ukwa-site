@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# British Institute of Professional Photography (BIPP), The
-
 <p>The British Institute of Professional Photography (BIPP) is an internationally recognised qualifying organisation with over 100 years experience in supporting and networking photographers. They are a not-for-profit organisation delivering education, qualifications and professional development to photographers.</p>

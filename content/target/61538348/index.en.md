@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Hollaback London!
-
 Hollaback London was set up in 2010 by two friends, Julia Gray and Bryony Beynon. It is a part of a global network dedicated to ending street harassment. 

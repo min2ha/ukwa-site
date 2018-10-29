@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Llangollen TV
-
 Llangollen TV is produced by Rondo Media and is a complete video collection of the Llangollen International Eisteddfod festival’s most recent performances (2018) and results.

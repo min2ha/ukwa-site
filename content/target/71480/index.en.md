@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints' Church Glencarse
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Glencarse, Perth & Kinross.

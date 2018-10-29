@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isla O'Reilly (@IslaOReilly) on Twitter
-
 The Twitter profile of Isla O’Reilly, Scottish Green Party candidate for Highlands and Islands in the 2016 Scottish Parliament election.

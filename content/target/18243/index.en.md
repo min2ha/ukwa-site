@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Willis Parliamentary candidate for Ynys Mon
-
 Michelle Willis is the Conservative Parliamentary candidate for Ynys Mon

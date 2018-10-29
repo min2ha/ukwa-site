@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# wale Green Party is the local party group covering Faversham, Sittingbourne, the Isle of Sheppey and their surrounding villages.
-
 Swale Green Party is the local party group covering Faversham, Sittingbourne, the Isle of Sheppey and their surrounding villages.

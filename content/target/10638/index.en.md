@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Alliance Française de Londres
-
 The Alliance Française de Londres is an educational charity dedicated to teaching the French language.

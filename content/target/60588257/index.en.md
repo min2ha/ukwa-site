@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# This is not an invitation to rape me
-
 None

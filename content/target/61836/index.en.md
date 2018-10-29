@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Orkney ViQueens on Facebook
-
 Facebook page of a skating roller derby team based in Orkney.

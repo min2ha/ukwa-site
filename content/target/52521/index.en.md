@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Greg Stone (@gm_stone) on Twitter (Liberal Democrats Politician)
-
 Greg Stone stood as Liberal democrats candidate for North Tyneside at the [2017 General Election but was not elected.

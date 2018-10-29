@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Juncker’s legacy to date. The loss of a member state. And the slated rise of a crony.
-
 The Juncker Commission stands accused of pursuing a federalist agenda regardless of what citizens want; championing the most divisive and unsupported migration policies of the past 20 years; proposing an increase in spending for the new seven year budget, despite the departure of the UK, one of its biggest net contributors; and the EU’s own ombudsman this week found the Commission guilty of four instances of maladministration in the secretive appointment of Martin Selmayr – Juncker’s former Chief of Staff – as Secretary General.
 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mairi Evans (@MairiEvans) on Twitter
-
 The Twitter profile of Mairi Evans, the Scottish National Party candidate for Angus North and Mearns in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Balls day: Your guide to the most important political event on the calendar
-
 None

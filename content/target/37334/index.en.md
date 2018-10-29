@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# openDemocracy: It's impossible to predict the defining narratives of the Brexit campaign
-
 A discussion prior to the full beginning of the Brexit debate, considering the ways it might be defined in public discourse

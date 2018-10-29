@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kent Community Health
-
 None

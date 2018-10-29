@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: David Cameron: Britain is now the success story of Europe
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Rights!: Seeing the Bigger Picture on human rights after Brexit, an interview with Professor Alan Miller
-

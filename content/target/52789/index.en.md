@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Institute for Public Policy Research (IPPR): IPPR's manifesto for change: General election 2017
-
 IPPR sets out a series of practical and progressive recommendations for change, to help any and all political parties deliver the change Britain needs to deal with the mounting pressures we face.

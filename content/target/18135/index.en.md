@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vaughan Williams - Wales before Westminster! Llanelli before London! 
-
 Vaughan Williams, Plaid Cymru candidate for Llanelli.

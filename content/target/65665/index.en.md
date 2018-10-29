@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Rhayader Male Voice Choir, The 
-
 Rhayader and District Male Voice Choir was founded in 1957. They rehearse at Rhayader Leisure Centre.

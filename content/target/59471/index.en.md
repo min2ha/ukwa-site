@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# OO Garden Railway Forums
-
 An online enthusiast community concerned with model railroads. Discusses members layouts, garden railways techniques, model railway products and various other related topics.

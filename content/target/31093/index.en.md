@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Confederation of British Metalforming
-
 The Confederation of British Metalforming (CBM) is a trade association for UK manufacturers of fasteners, forgings and pressings.

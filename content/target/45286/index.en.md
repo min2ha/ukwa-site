@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Chelmsford City Council
-
 The website of Chelmsford City Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending. 

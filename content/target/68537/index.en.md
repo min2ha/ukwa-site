@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Order of Friars Minor in Great Britain
-
 Site of the Roman Catholic religious Order of Friars Minor in Great Britain (OFM) or Franciscans.

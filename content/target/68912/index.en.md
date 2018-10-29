@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dundee University Catholic Students
-
 Site of a student led and oriented society with the goal of bringing the Roman Catholic faith to the university students of Dundee.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nottingham Forest Football Club
-
 Nottingham Forest Football Club, often referred to as simply Forest, is a professional football club based in West Bridgford, Nottinghamshire, England. Forest were founded in 1865 and have played home matches at the City Ground since 1898. 

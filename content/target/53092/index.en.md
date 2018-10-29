@@ -10,6 +10,4 @@
   "start_date": "2017-05-12T09:00:00Z"
 }
 
-# Greater Manchester Combined Authority (GMCA)
-
 The GMCA is made up of the ten Greater Manchester councils who work with other local services to improve the city-region.

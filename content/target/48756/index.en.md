@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# British Nutrition Foundation
-
 The British Nutrition Foundation is a registered charity.
 
 They provide impartial, evidence-based information on food and nutrition. Their core purpose is to make nutrition science accessible to all. 

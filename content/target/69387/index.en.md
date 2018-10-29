@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Legislating for the Withdrawal Agreement between the United Kingdom and the European Union
-
 The White Paper confirms that the EU (Withdrawal Agreement) Bill will: be the primary means by which the rights of EU citizens will be protected in UK law; legislate for the time-limited implementation period; and create a financial authority to manage the specific payments to be made under the financial settlement, with appropriate Parliamentary oversight
 
 

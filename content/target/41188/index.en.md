@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Highland Railway Society
-
 Site of a society researching the history of the former Highland Railway.

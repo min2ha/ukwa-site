@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories are plotting a coup in the name of legitimacy
-
 None

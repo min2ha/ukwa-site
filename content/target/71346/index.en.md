@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC: Gender pay gap: Six things we've learnt by Clara Guibourg
-
 A article about Gender pay gaps in the UK following the release of gender pay data on 4th April 2018

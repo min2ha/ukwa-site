@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Cheese Street
-
 A festival of all things cheese including London and regional cheese makers, cheese tastings, cheese street food, butter making, competitions to win cheese!

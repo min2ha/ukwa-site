@@ -10,5 +10,3 @@
   "start_date": "2013-01-09T00:00:00Z"
 }
 
-# Play Wales | Chwarae Cymru
-

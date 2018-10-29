@@ -10,5 +10,3 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Gwent Guild of Weavers spinners and Dyers | Gild Gwehyddion Nyddwyr a Lliwyddion Gwent
-

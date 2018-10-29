@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# LDWA Scottish Referendum
-
 An occasional blog used to co-ordinate those involved in the building of the UKWA Scottish Independence Referendum webarchive collection.

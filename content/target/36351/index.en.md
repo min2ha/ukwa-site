@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# POLITIC-AL
-
 Blog written by Alison Dickie, SNP candidate for Edinburgh Central in the 2016 Scottish Parliament elections.

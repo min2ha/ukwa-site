@@ -10,6 +10,4 @@
   "start_date": "2007-11-12T00:00:00Z"
 }
 
-# Friends of Our Lady of Tintern
-
 None

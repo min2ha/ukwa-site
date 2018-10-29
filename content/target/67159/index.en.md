@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time to Change (@TimetoChange) on twitter
-
 UK based twitter site aimed at reducing the stigma around mental health

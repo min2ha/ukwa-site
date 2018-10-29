@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Diane Lawrenson - Sculptor
-
 Diane Lawrenson spent her early years in north and is an elected member of the RCA (Royal Cambrian Academy). She is a sculptor now based in Cumbria.

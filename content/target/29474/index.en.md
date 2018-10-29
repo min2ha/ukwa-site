@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Banbury Guardian: War of words erupts over Easter Rising centenary
-

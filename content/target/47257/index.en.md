@@ -10,6 +10,4 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# Parish of St. Teilo’s with Our Lady of Lourdes
-
 Parish of St. Teilo’s with Our Lady of Lourdes is a Roman Catholic Parish located in Cardiff.

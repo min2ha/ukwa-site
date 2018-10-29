@@ -10,6 +10,4 @@
   "start_date": "2018-04-07T09:00:00Z"
 }
 
-# Stafford Borough Council
-
 The website of Stafford Borough Council offers local news and information about events and council services. It also provides access to planning documentation, committee papers, council budget and financial information, and consultations

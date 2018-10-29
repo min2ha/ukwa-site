@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Church, Newmarket
-
 The land on which All Saints Church is built was first used for worship from around the 13th century.  

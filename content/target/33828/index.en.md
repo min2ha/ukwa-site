@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Backlash after PM claims leaving EU 'isn't right answer': Cameron says that he has no contingency in place if UK votes for 'Brexit'
-

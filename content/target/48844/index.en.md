@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# University of South Wales: Centre for Advanced Studies in Public Policy (CASPP)
-
 The Centre for Social Policy is based at the University of South Wales and is a leading hub for social and public policy analysis in Wales offering policymakers and professionals ideas and solutions to the challenges of changing and improving public services.

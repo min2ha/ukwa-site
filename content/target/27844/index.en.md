@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Spire FM
-
 Website of a local radio station in Salisbury.

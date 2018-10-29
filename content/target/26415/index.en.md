@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The government no one’s talking about: the Tories propped up by the SNP
-
 None

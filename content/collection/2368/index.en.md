@@ -22,5 +22,3 @@
   "endDateText": ""
 }
 
-# Isle of Man
-

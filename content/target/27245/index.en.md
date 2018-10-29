@@ -10,5 +10,3 @@
   "start_date": "2015-06-04T09:00:00Z"
 }
 
-# Llyn Padarn caru ein Llyn - loving our Lake
-

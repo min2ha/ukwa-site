@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# A9Road
-
 A multi-agency group which aim to reduce fatal and serious road traffic accidents on the A9, set up by Transport Scotland. 

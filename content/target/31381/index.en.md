@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cycling World
-
 UK online magazine about cycling.

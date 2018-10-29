@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Cameo Cinema, Edinburgh
-
 Site of a cinema located in Edinburgh.

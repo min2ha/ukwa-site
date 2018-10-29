@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Royal Bank of Scotland: Contingency planning for Scottish independence referendum
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ellon United Football Club
-
 Site for a Scottish junior football club based in Ellon, Aberdeenshire.

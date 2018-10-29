@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andrew Hilland (@Andrew_Hilland) on Twitter
-
 Twitter profile of Andrew Hilland, Scottish Labour candidate for Lanark and Hamilton East in the 2017 general election.

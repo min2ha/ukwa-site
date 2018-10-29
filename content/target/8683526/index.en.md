@@ -10,5 +10,3 @@
   "start_date": "2008-06-24T00:00:00Z"
 }
 
-# London Advice Services Alliance
-

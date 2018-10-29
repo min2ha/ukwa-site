@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: The 'extremists' on both sides of the Brexit debate
-
 Six in ten Leave voters and a third of Remain voters say significant damage to the economy would be a price worth paying to get their way on Brexit

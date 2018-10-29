@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls: Labour would not guarantee defence spending at 2pc of GDP
-
 None

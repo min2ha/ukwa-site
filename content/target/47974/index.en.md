@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Centre for Educational Sociology (CES)
-
  CES is a research centre based at Moray House School of Education, and continues to pursue its research interests in secondary, further and higher education and in educational and labour market transitions. 

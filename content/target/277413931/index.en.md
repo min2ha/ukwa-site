@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# David Smith's EconomicsUK.com: An independent Scotland risks a Greek tragedy
-
 None

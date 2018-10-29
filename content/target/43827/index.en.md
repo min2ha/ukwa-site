@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Petitions UK Government and Parliament: Petition EU Referendum Rules triggering a 2nd EU Referendum
-

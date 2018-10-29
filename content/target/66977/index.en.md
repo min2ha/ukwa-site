@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Nice N Sleazy
-
 Website of Nice n Sleazy, a music venue, club, bar and restaurant in Glasgow, Scotland. The venue opened in 1991.

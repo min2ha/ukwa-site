@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Creetown Football Club
-
 Site for a Scottish amateur football club based in Creetown, Dumfries & Galloway.

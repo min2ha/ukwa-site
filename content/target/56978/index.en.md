@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Highland Archaeology Festival
-
 Site of an annual festival celebrating Highland archaeology, history and heritage

@@ -10,6 +10,4 @@
   "start_date": "2008-10-14T00:00:00Z"
 }
 
-# Wellcome Book Prize
-
 The Wellcome Trust Book Prize celebrates the best of medicine in literature by awarding £25 000 each year for the finest fiction or non-fiction book centred around medicine. On these pages you can read about this year's judges and find out everything you need to know about how the prize works.

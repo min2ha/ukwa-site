@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Campaign for Real Education
-
 The Campaign's main objectives are to raise standards and improve choice in state education. It is non profit-making and is not affiliated to any political party.

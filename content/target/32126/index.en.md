@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T00:00:00Z"
 }
 
-# Intangible Studio, The 
-
 The project received funding from the Arts Council for Wales and according to the site 'Intangible Studio continues to explore the possibility of performance across different cultural frames, artistic forms and processes of translation. Its work is concerned with an actual, intellectual and emotional space in which people live across different political and social histories, and the consequent implications and possibilities for a contemporary practice.'

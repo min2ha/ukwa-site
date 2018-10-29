@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Astro Pi
-
 In December 2015, British ESA Astronaut Tim Peake went off to the International Space Station for Mission Principia. As part of his mission, he’ll be running experiments which utilise the Raspberry Pi computers with a special add-on board, created and coded by school students.

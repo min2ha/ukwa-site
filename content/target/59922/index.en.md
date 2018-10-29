@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Rozanne Hawksley
-
 Rozanne Hawksley is a textile artist from Portsmouth and now lives and works in Pembrokeshire. Some of her work is held at the National Museum of Wales and the National Maritime Museum.

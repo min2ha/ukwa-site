@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Irish Eyes on London (@irisheyesLondon) on Twitter
-
 Pictures and articles of London Irish interest

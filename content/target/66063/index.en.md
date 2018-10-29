@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Dufftown Highland Games
-
 Site of a highland games at Dufftown, Aberdeenshire.

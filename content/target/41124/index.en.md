@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lothian Thistle Hutchison Vale Community Football Club
-
 Site of a Scottish amateur and community football club based in Edinburgh

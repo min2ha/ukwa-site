@@ -10,5 +10,3 @@
   "start_date": "2015-12-22T09:00:00Z"
 }
 
-# Jason Webber Daily blog
-

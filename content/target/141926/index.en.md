@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BMS World Mission
-
 None

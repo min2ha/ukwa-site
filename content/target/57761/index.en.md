@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Preparing for our future UK trade policy 
-
 This paper explores the government's emerging approach to establishing an independent international trade policy as the UK exits the EU.  It is in two parts. The first part outlines the world in which the UK trades and the role of trade in an economy that works for everyone. The second part outlines the basic principles that will shape our future trading framework, and our developing approach to a future trade policy

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sefton Rugby Club (@SeftonRugbyClub) on Twitter
-
 The official Twitter account of Sefton Rugby Football Club.

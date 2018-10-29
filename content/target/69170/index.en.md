@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ the King
-
 Site of a Scottish Roman Catholic parish church located in Brora [Sutherland], Highland.

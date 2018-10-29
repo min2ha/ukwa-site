@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hastings and Rye Labour (@HastingsRyeLab ) on Twitter
-
 Twitter account of Hastings and Rye Constituency Labour Party, offering information on the campaign to elect Peter Chowney as MP in 2017

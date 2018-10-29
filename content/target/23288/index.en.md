@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Albert Owen (@AlbertOwenMP) on Twitter 
-
 Albert Owen is the Labour candidate for Ynys Mon.

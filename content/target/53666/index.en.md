@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Martyn Hett
-
 Personal website of Martyn Hett: "a portal of my life".  Martyn writes: "I like to write about strong women and low culture."  Features articles and videos on popular culture including on pop music and UK television.

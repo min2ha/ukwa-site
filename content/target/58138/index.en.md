@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Zero Tolerance
-
 Site of a Scottish charity working to end men’s violence against women by promoting gender equality and by challenging attitudes which normalise violence and abuse.

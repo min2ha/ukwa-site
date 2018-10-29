@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Paula Walker - Great Britain Womens Bobsleigh Team
-
 None

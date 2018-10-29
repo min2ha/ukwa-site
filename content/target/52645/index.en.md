@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Greener UK
-
 Greener UK is a group of 13 major environmental organisations, with a combined public membership of 7.9 million. They are united in the belief that leaving the EU is a pivotal moment to restore and enhance the UK’s environment.

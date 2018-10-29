@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Edmund Poynton (@PoyntonJE) (UKIP  Politician)
-
 John Edmund Poynton stood as UK Independance Party (UKIP) candidate for Ealing, Southall at the 2017 General Election but was not elected.

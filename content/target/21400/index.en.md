@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We'll make sure the 'undeserving rich' pay more in tax, says Gove
-
 None

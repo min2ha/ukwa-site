@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Bluebell Wood Children’s Hospice
-
 Bluebell Wood Children’s Hospice, in Sheffield, offers care and support to children with a shortened life expectancy, both in their own homes and at our hospice in North Anston. 

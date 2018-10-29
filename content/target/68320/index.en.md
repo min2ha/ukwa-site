@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wales Valleys Walking Festival 2018
-
 Walking festival in South Wales

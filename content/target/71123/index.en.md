@@ -10,6 +10,4 @@
   "start_date": "2018-09-13T09:00:00Z"
 }
 
-# Replica Ltd.
-
 Model makers specialising in replica food products for displays in shops etc.

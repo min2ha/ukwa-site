@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Peter and St. Paul Dundee
-
 Site of a Scottish Roman Catholic parish church located in Dundee.

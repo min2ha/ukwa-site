@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Library: Windrush Stories
-
 The official British Library website to accompany the Windrush Stories exhibition. In June 1948 the Empire Windrush arrived at Tilbury Docks, Essex carrying hundreds of people from the Caribbean. 70 years on, Windrush Stories invites us to consider a longer, more complicated and ongoing relationship between Britain and the Caribbean.

@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Vale for Africa
-
 The Vale for Africa charity links the Tororo District in Uganda with The Vale of Glamorgan. It is a member of the Wales for Africa programme working to acheive the United Nations Sustainable Development Goals.

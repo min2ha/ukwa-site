@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Broadcasters prepared to give in to Cameron on TV debates
-
 None

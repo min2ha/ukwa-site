@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Government should look to NHS for ways to improve general election 2015
-
 None

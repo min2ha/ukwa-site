@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wells Festival of Literature
-

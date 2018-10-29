@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Smith (@Mark_Smith_UKIP) on Twitter (UKIP Politician)
-
 Mark Lawrence Smith stood as UK Independence Party (UKIP) candidate in the constituency of South Ribble in the 2017 General Election.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# In Memoriam GSA
-
 Blog post about the second fire at Glasgow School of Art on 15 June 2018.

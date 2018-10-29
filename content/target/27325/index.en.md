@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Down and Dromore
-
 Official website of the Diocese of Down and Dromore.

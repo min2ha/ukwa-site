@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Winton Castle
-
 Site of a former stately home / castle located near Pencaitland, East Lothian, and now used as a wedding and conference venue as well as outdoor activities taking place on the estate property.

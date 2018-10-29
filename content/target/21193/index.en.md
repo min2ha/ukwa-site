@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ben Manton (@Ben4SBelfast) on Twitter (Conservative and Unionist Party candidate for Belfast South)
-

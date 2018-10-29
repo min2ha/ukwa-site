@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Cycling
-
 Site of the governing body for cycling in Scotland, an integral part of British Cycling with devolved responsibility for cycling in Scotland.

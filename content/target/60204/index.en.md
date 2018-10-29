@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The 1914 Love Story project with The Pingle School
-
 The project brings to life the reality of the war.  It focuses on the love story between two local people and involves Maurice Lea, a soldier from South Derbyshire who died in France during WW1. Using his life as a starting point, the school discovered his story and that of other young men. 

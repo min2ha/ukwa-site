@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Grampian Ringing Group
-
 A bird ringing group covering the Grampian region.

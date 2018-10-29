@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# TES, The: Magna Carta Worksheet
-

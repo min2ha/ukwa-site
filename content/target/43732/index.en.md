@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Nailed, the four big EU lies: Talks with Turkey will start in days, Brexit WON'T spark trade war say Germans, Brussels will NOT reform on open borders and deportation of jobless EU migrants a myth   
-

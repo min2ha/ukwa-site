@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lyndon Jones MBE (@LyndonRJones1) on Twitter (Conservative candidate for Gower)
-
 Lyndon Jones is the Conservative candidate for Gower at the 2016 National Assembly Elections.

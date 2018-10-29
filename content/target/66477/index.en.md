@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Kent Foods Limited
-
 The website of Kent Foods Limited, a supplier to the food manufacturing industry of sugars, sweeteners, dairy products, oils and fats.

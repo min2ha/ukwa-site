@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# LGiU: Falling short on social care reform? The manifesto pledges
-
 Analyses the Labour, Conservative and Liberal Democrat 2017 manifesto pledges on social care reform

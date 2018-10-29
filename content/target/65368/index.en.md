@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Plaid Cymru Credit Union
-
 A Credit Union is a mutual financial co-operative, which provides a convenient savings and low cost loan service to its members. The Plaid Cymru Credit Union serves Plaid members and their families. 

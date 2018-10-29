@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Tearfund
-
 Tearfund Wales works in more than fifty countries, responding to disasters, campaigning for justice and helping churches.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# West Midlands for 2012
-

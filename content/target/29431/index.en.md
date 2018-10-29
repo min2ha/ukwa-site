@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Laugharne Weekend, The
-
 The Laugharne Weekend

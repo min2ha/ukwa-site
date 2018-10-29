@@ -11,6 +11,4 @@
   "subject": "UK relations with the Low Countries"
 }
 
-# Koning Willem Fonds
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Paul Sweeney MP on Facebook
-

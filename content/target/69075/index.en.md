@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Cambridgeshire Geological Society
-
 The Cambridgeshire Geological Society promotes interest in the geology of Cambridgeshire, the UK and worldwide.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Bedside Crow, The
-

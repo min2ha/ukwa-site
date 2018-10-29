@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Magna Carta of international importance to Sandwich after surprise find in Maidstone
-

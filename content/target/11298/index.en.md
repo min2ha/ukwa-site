@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Merlin Entertainments plc
-
 Merlin Entertainments is a British-based company, it's the largest European entertainment company operating in Europe.  Merlin runs 127 attractions, 19 hotels and 7 holiday villages in 24 countries.

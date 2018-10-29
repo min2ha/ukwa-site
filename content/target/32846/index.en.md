@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# M Harold Page
-
 The website of Science Fiction Fantasy writer, M Harold Page.

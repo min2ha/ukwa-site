@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ed Reynolds (@RandMLibDems) on Twitter (Liberal Democrats candidate for Rutland and Melton)
-
 Ed Reynolds stood as Liberal Democrats candidate for Rutland and Melton at the 2015 General Election but was not elected. 

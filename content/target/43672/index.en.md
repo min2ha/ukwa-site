@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Economics Foundation (NEF): Flotilla Factcheck: the EU’s impact on UK fisheries
-
 Nigel Farage led a flotilla of pro-Brexit boats up the River Thames in protest at the EU’s management of fish stocks, with the Remain camp – including rock star Bob Geldof – meeting them on the water between Tower Bridge and the Palace of Westminster. This blog posts checks the statements made about the impact of the EU on UK fisheries against the facts.

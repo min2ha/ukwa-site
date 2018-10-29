@@ -10,6 +10,4 @@
   "start_date": "2015-04-11T09:00:00Z"
 }
 
-# Unrecorded Public Right of Way at Stainton Grove WW2 Military Camp, Barnard Castle, DL12 8UE, 1942 - 2015, The
-
 Website recording details of the footpath at Stainton Grove World War 2 Military Camp.

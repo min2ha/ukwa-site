@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Optometry Wales
-
 Optometry Wales is the professional umbrella organisation for the primary care eye health profession in Wales.

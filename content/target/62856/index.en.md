@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: When mental health gets physical
-
 Internet based story to help raise awarness about mental health

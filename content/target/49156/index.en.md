@@ -10,5 +10,3 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Vale of Glamorgan and Bridgend Campaign for Real Ale (CAMRA)
-

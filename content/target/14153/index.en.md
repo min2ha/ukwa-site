@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Owen Jones (@OwenJones84) on Twitter
-
 Owen Jones is a British columnist, author, commentator and political activist with a democratic socialist perspective. He writes a column for The Guardian and for the New Statesman. Formerly, Jones was a contributor to The Independent. 

@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Bournemouth & West Hampshire Water
-
 None

@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# Chartered Institution of Water and Environmental Management (CIWEM): Manifesto Priorities: General Election 2017
-
 For Britain to thrive outside of the EU we must develop new, progressive policies to build climate resilience, protect environmental and public health, ensure sustainable food production and build our international profile as a 
 high-tech, low carbon economy. The environment should therefore be at the heart of all parties’ manifestos. 
  

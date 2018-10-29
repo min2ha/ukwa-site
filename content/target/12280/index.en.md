@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jess Varnish
-
 <p>The profile webpage of cyclist Jessica Varnish, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

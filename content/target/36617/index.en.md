@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Leprosy Mission Scotland
-
 Site of a Christian charity based in Scotland and devoted to provision of healing and justice for leprosy sufferers throughout the world, with the ultimate goal of eradicating the condition.

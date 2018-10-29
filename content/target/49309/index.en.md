@@ -10,5 +10,3 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Swansea Bay for Watersports | Chwaraeon Dŵr Bae Abertawe
-

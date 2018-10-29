@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# The Craic is Back (@thecraicisback) on Twitter
-
 A networking magazine for the Irish, Second- Generation Irish, those with an interest in all things Irish - living in London!

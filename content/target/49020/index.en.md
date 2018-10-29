@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 31st Jan 2017: European Union (Notification of Withdrawal) Bill
-
 Second reading of a bill empowering the Prime Minister to trigger article 50 and begin the process of Britain's withdrawal from the EU.

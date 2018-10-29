@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: PM's EU campaign rules for cabinet will gag Eurosceptics, says ex-minister 
-

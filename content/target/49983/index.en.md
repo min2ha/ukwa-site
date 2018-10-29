@@ -10,5 +10,3 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Abergavenny Amateur Operatic and Dramatic Society (AAODS)
-

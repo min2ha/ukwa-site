@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: EU referendum: guidance for civil service and special advisors
-

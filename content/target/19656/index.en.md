@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North West Green Party
-
 Website of North West Green Party, providing information on councillors, parliamentary candidates, campaigns and local, national and party news.

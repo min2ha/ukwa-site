@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Sherlock Holmes Memorabilia Company, The
-
 None

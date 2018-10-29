@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Swansea Science Festival
-
 largest free science festival in Wales

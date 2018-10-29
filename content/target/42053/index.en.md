@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scottish Campaign against Euro-Federalism
-
 The Scottish affiliate of the Campaign against Euro-Federalism (CAEF).

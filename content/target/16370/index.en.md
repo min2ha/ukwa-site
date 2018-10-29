@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Born Free: Blog
-
 <p>A blog of the Born Free Foundation Site.</p>

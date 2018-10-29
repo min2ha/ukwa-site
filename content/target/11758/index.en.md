@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Vernon (richievernon) on Twitter
-
 <p>The official twitter profile of althete Richard Vernon, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

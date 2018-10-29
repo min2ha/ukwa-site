@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Honeyman Group
-
 Assuring Compliance in Life Science, Pharmaceutical Laboratory Testing, Sterility Assurance, Training, Validation, Engineering, Pharmaceutical Water Systems, WFI, PW System

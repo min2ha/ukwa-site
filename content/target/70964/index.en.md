@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Minety Music Festival
-
 Webesite for the Minety Music Festival.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Tech Dragons 
-
 Tech Dragons Brings together people, events, knowledge and startups to help build the growing Welsh tech scene. It is a hub for tech, innovation and entrepreneurship in Wales and is supported by the Welsh Government.

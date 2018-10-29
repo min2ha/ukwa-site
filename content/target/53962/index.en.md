@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ed Jones (@EdJones92) on Twitter (The Yorkshire Party Politician)
-
 Edward Jones stood as The Yorkshire Party candidate for Leeds West in the 2017 General Election but was not elected.

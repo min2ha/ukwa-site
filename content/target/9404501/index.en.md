@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Saltash Heritage
-
 None

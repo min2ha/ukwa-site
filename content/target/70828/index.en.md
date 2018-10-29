@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson Brexit article offers 'no new ideas', Downing Street says
-
 Downing Street responded tot Boris Johnson's criticism of Theresa May's approach to Brexit, by saying she was providing "serious leadership" and "a serious plan". Mr Johnson had written in the Daily Telegraph that the approach agreed at Chequers "meant disaster" for Britain.
 
 

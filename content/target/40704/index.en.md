@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'Let slip the dogs of war': World War One, Stratford and Shakespeare
-
 Project will use items from the Shakespeare Birthplace Trust's (SBT) Local History Collection and Shakespeare Collection to commemorate and understand the role of Stratford-upon-Avon and its residents during WWI.

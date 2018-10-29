@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mackie Academy Former Pupils Rugby Football Club
-
 Site of a Scottish rugby union football club based in Aberdeen.

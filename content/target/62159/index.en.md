@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Gigi Hadid warns fans ‘social media harms your mental health’ with phone case
-
 News article about the model Gigi Hadid and her comments on the the negative imapct of social media on mental health

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Sun decides to back David Cameron and remain in the EU
-
 Guardian, The

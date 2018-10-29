@@ -10,6 +10,4 @@
   "start_date": "2014-03-31T22:00:00Z"
 }
 
-# British Library, The: Preservation Advisory Centre
-
 None

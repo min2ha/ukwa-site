@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T11:00:00Z"
 }
 
-# Cognition Research
-
 Cognition Research is a non-profit organisation researching 'cognition' in the broad sense.

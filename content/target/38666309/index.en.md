@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Sailing Team in the Olympic and Paralympic Classes
-

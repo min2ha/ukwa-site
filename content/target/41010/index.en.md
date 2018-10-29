@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perthshire Amber : the Dougie MacLean Festival
-
 Site of an annual music festival taking place in various venues in Perthshire and featuring Scottish and international musicians, with an emphasis on traditional music.

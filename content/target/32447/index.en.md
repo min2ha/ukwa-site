@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# International Society for Coaching Psychology
-
 International Society for Coaching Psychology is an international professional membership body established to further the discipline and profession of coaching psychology. 

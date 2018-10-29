@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# National Council of Psychotherapists (NCP)
-
 The National Council of Psychotherapists offers an integrated support and advisory service for therapists and coaches.

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# National Maritime Museum Cornwall
-
 None

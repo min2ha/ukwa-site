@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scientists, Inventors and Entrepreneurs (SCI)
-
 SCI was established in 1881, by a prominent group of forward thinking Scientists, Inventors and Entrepreneurs; with founder members going on to set up major businesses producing many of the daily products we recognise today.

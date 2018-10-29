@@ -10,6 +10,4 @@
   "start_date": "2015-07-11T10:00:00Z"
 }
 
-# Welsh Coal Mines
-
 Listing and history of former coal mines in Wales.

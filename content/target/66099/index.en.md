@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Celtic Credit Union
-
 "Neath Port Talbot Credit Union opened in 2005 and merged with Afan Savers Credit Union in 2008. It was rebranded in 2017 to Celtic Credit Union to serve customers across South Wales."

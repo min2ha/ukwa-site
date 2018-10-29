@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# National Crime Agency (@nca_uk) on Twitter
-
 National Crime Agency. Leading the UK's fight to cut serious and organised crime. Don't report crime on Twitter. Please call 101. In emergencies always call 999

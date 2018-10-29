@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: With friends like Ed's, who needs enemies?
-
 None

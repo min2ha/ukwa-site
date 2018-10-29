@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# GeekedFest
-
 ‘GeekedFest’ is a Film/TV & comic book convention held in Newport. 

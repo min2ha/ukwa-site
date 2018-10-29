@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bob R (@Pavsscoreline) on Twitter (Paviors RFC)
-
 The official Twitter account of Paviors Rugby Club.

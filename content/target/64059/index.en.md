@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bonkle Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Website for UKIP Swindon
-
 UKIP Swindon is a local branch of UKIP. Martin Costello stood as UK Independence Party (UKIP) candidate for South Swindon in te 2017 General Election but was not elected.

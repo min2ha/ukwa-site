@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John McNally (@Johnny4Falkirk) on Twitter
-
 The Twitter profile of John McNally, the Scottish National Party (SNP) candidate for Falkirk in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lexis Nexis: Continental shift Brexit and the law
-
 "LexisNexis is part of RELX Group, a world-leading provider of information and analytics for professional and business customers across industries. "

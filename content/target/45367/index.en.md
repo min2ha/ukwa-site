@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T12:00:00Z"
 }
 
-# Paula Brackston
-
 Paula Brackston is a Welsh writer listed in the 'The Writers of Wales Database'.

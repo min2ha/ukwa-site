@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Beesotted
-
 Beesotted is a fans network for Brentford Football club supporters. They also discuss International soccer events.

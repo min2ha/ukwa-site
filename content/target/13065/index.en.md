@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# Infertility Network UK
-
 Infertility Network UK is a UK's charity providing information, support and advice to all those struggling to conceive. 

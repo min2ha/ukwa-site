@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Loughborough Green Party
-
 Website of Green Party Loughborough, provides information on events, campaigns, Charities and Partners associated with Loughborough Green Party and local news and reaction.

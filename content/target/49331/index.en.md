@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Society for Editors and Proofreaders (SfEP) on Facebook
-
 Formed in November 1988, the SfEP now has over 2,000 members (mostly in the UK) providing editorial services to publishers and a wide range of companies, individual authors, government agencies and other bodies.

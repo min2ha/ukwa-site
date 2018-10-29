@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Vocal Harmony
-
 Vocal Harmony is a contemporary choir singing modern music in three part harmony. We run choirs in Swansea, Llanelli, Cardiff and Bristol.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Cantorion Coety
-
 Cantorion Coety is a Welsh mixed voice choir founded in 2007. Rehearsals take place at Gilead Chapel, Coity, Bridgend.

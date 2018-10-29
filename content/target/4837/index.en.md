@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Labour Lords: Rest in Peace, Mr Mandela
-
 <p>Baroness Doreen Lawrence of Clarendon writes on Nelson Mandela's support for her campaign for justice for her son Stephen Lawrence.</p>

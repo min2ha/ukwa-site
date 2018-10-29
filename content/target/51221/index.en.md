@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Rolls-Royce Holdings plc
-
 Rolls-Royce Holdings plc is a British multinational public limited company that owns Rolls-Royce, a business that designs, manufactures and distributes power systems for aviation and other industries. Rolls-Royce is the world’s second-largest maker of aircraft engines and has major businesses in the marine propulsion and energy sectors. 

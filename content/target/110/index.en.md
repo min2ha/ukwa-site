@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset County Hospital NHS Foundation Trust
-
 None

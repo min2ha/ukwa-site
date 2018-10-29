@@ -10,6 +10,4 @@
   "start_date": "2013-07-26T00:15:00Z"
 }
 
-# Institute of Medieval and Early Modern Studies : IMEMS Lindisfarne Gospel Seminar Series 2013 - Durham University
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Hywel Dda Health Charities | Elusennau Iechyd Hywel Dda
-
 Hywel Dda Health Charities use the generous donations they receive from patients, their families and local communities to support the University Health Board to provide services and activities above and beyond what the NHS in Wales can provide.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Alexander MP
-
 This is the website of Douglas Alexander, the Labour Party candidate for Paisley and Renfrewshire South in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Michael Blackley (@mike_blackley) on Twitter
-
 Twitter account of Michael Blackley, Political Editor of the Scottish Mail on Sunday. 

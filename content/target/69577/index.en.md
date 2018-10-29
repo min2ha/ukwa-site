@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cappagh Parish, Derry Diocese
-

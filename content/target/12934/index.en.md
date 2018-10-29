@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Teacher Support Network
-
 Teacher Support Network is an organisation helping teachers. It started as the Teachers’ Benevolent Fund in 2015 it was re-branded as the Education Support Partnership and changed its website.

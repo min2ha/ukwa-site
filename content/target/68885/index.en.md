@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: The UK's future immigration system and access to talent
-
 The report urges government to reform the UK immigration system to ensure Britain remains a globally competitive financial centre beyond Brexit. While the recommendations focus on the immigration needs of the financial and related professional services industry, it can also be applied across all sectors. 
 

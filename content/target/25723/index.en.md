@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Warning: these Tories won’t jump. They must be pushed
-
 None

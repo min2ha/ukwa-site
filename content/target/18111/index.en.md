@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband urged to rule out pact with SNP if Labour fail to win majority 
-
 None

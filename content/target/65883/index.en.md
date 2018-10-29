@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Fare Healthy
-
 Feel-good festival of food, exercise and wellbeing.

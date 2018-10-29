@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Channel 4, FactCheck Blog
-
 A Channel 4 blog claiming to fact check statements about the EU referendum

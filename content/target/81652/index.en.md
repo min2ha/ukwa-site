@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: NICK TIMOTHY This is your Brexit Boudicca moment, Theresa… it’s time to say: ‘On Your Way, Barnier’ like ‘Up Yours, Delors’
-
 Theresa May must call on her deepest reserves of defiance and stand up to the European Union like our ancient queen rose up against the Roman Empire
 

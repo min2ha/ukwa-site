@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rupa Huq (Labour party candidate for Ealing Central and Acton) on Facebook
-

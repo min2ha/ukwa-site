@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Brexit campaigners 'economically illiterate and dishonest', says George Osborne
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Natalie Bennett: The 4 questions Cameron and Miliband must answer at the TV debates
-

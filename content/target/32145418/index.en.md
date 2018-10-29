@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Esperanto Association of Britain (EAB)
-
 The Esperanto Association of Britain (Esperanto-Asocio de Britio) is  dedicated to the promotion of the international language Esperanto.

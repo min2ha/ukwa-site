@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Cardiff Bay Film Society
-
 This is the blog for Cardiff Bay Film Club which was published from February 2013 until December 2016. The site is no longer updated.

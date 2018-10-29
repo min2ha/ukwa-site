@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cwmni Da
-
 Cwmni Da is a Welsh Television production company based in Caernarfon.

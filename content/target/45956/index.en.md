@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T12:00:00Z"
 }
 
-# The Nottingham
-
 The Nottingham are a mutual building society.

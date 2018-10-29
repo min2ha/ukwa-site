@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tulip Siddiq (@TulipSiddiq) on Twitter (Labour Politician)
-
 Tulip Siddiq stood as Labour party candidate for Hampstead and Kilburn at the 2015 General Election and was elected to serve as MP. Tulip Siddiq stood again for Hampstead and Kilburn in the 2017 General Election and was elected.

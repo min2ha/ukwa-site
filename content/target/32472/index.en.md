@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Open Data
-
 This site provides a catalogue of the datasets made available under Jersey's Open Government Licence in order that potential users can discover the data that is available, understand how it can be used, and download it in a variety of formats.

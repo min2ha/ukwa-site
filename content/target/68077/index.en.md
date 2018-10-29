@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# RECycling Of Used Plastics Limited (RECOUP)
-
 RECycling Of Used Plastics Limited (RECOUP) is a registered charity and not-for-profit member based organisation.  RECOUP works in collaboration with all stakeholders to promote, develop, stimulate and increase the levels of plastics recycling within the UK.

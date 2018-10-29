@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Scottish Avalance Information Service
-
 Site run by sport scotland that provides daily updates on avalanche risks at key snow sport, mountaineering and hill walking locations in Scotland.

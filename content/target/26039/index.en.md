@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We'll meet again: Dirty Nigel pines for the 1950s as he visits Little Britain
-
 None

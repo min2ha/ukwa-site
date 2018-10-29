@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Trafford MV (@TraffordMv) on Twitter
-
 The official website of Trafford MV RFCC

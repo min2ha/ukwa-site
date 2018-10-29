@@ -10,5 +10,3 @@
   "start_date": "2011-03-15T00:00:00Z"
 }
 
-# Federation of Museums and Art galleries of Wales, The
-

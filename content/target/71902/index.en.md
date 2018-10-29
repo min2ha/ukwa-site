@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# TimelineJS Embed
-
 A timeline created by Damon Davies, Scottish Parliament Information Centre (SPICe) Research, embedded in the Scottish Parliament's website.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Carlops Village Website
-
 Site for events and information on the village of Carlops, Scottish Borders.

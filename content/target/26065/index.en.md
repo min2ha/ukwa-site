@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour’s failures ‘worse than Kinnock’, says David Hare
-
 None

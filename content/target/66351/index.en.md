@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# MGB Biopharma
-
 "MGB Biopharma’s focus is to further develop their completely new class of anti-infective medicine, starting with antibiotics based on Minor Groove Binder (MGBs) compounds."

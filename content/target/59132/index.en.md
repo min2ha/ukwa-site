@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library:  EU (Withdrawal) Bill: the Charter, general principles of EU law, and 'Francovich' damages
-
 This paper addresses clause 5(4) and 5(5) of the Bill and Schedules 1 and 6, which together specify some particular exceptions to the Bill’s general retention and conversion of EU law. Schedule 1 also makes provision for how retained EU law will be scrutinised in domestic courts after exit day.

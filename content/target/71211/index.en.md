@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Redcar Rugby Union Football Club on Pitchero
-
 The official website of Redcar Rugby Union Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Didcot RUFC
-
 Didcot RUFC are an Oxfordshire Rugby Club who play in Berks/Bucks and Oxon Championship.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Stirling Local History Society
-
 Site of a local history soceity based in Stirling, Scotland, set up to stimulate interest in the history of the burgh and city of Stirling.

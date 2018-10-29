@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Expats Blog: High Court Brexit vote judgment ignores and insults UK expats
-
 The judgment handed down by the High Court regarding the right to vote in the upcoming Brexit referendum both ignores and insults British citizens who have chosen to exercise their entitlement to free movement within the EU. These expats have lived abroad for more than 15 years  and the High Court judged it would be impractical to register them to vote in the referendum.

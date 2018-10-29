@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's claim he will 'weaponise' NHS is 'toxic', top doctor says
-
 None

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Camden Abu Dis Friendship Association  CADFA
-
 Website of Camden Abu Dis Friendship Association which works in the UK to promote awareness about the human rights situation in Palestine.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Regardless of PM’s negotiations, EU is in terminal decline
-
 Comment by Leo McKinstry

@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Environment Analyst Ltd.
-
 News and information on the environmental industry.

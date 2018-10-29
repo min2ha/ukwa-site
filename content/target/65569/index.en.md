@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Dina Foods
-
 Established in 1993, Dina Foods is a privately owned Artisan Bakery of three Haddad brothers who are steeped in the traditions of authentic Mediterranean food. 

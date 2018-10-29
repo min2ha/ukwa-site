@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Our WW1 History
-
 Project working with young people in Brierfield & Nelson to research their families connections to WW1 particularly within the Asian heritage community and also the community connections to WW1.

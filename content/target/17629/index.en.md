@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green Party praises Syriza's victory in Greece and calls for similar popular uprising in Britain
-
 None

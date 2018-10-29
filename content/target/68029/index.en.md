@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bristol Walk Fest
-
 month long walking festival with a variety of walking events on offer

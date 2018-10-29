@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Clwb Pêl-droed, Y
-
 The unofficial news page for the Welsh Football League providing news, views and information on everything surrounding domestic Welsh football.

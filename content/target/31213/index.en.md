@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Bexhill on Sea Observer
-

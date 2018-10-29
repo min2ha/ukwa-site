@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# South London Today
-
 None

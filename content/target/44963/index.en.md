@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inside the Rings - Left Spike Fanzine
-
 The Olympic commentary on this athletics fanzine

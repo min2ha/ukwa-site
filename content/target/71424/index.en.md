@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Sand Circles
-
 Sand Circles is a website devoted to the art of land artist Marc Treanor, who is currently living in West Pembrokeshire. 

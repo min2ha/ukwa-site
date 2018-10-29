@@ -10,5 +10,3 @@
   "start_date": "2010-10-07T00:00:00Z"
 }
 
-# Cinema Theatre Association (CTA)
-

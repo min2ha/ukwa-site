@@ -11,5 +11,3 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Heritage
-

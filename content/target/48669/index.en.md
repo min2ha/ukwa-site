@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Design Museum,The: Imagine Moscow
-
 Exhibition at the Design Museum

@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Department for Digital, Culture, Media & Sport Publications
-
 Reports, policy documents and guidance issued by the Department for Digital, Culture, Media and Sport

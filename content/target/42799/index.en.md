@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Women in Black : for justice, against war
-
 Website of London vigil of Women in Black international movement, opposed to injustice, war, militarism and other forms of violence.

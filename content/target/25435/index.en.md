@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Just when hope and courage are called for, Labour promises bean-counting
-
 None

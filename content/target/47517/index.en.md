@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Highlanders' Museum
-
 Site of a regimental museum based in Fort George, near Ardersier, Highland, Scotland, and focusing on the former regiments  Seaforth Highlanders, The Queen’s Own Cameron Highlanders and the Queen’s Own Highlanders (Seaforth and Camerons).

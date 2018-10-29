@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Motion Control Dance
-
 Motion Control Dance was established in 1997 and provides community dance training and opportunities for the people in the Vale of Glamorgan.

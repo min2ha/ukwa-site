@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ulster Fry, The: Gerry Adams gets rousing reception as he launches DUP election manifesto
-
 A satirical news site based in Northern Ireland.

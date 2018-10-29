@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fish and Game
-
 <p>The website of Fish &amp; Game, which produces the performance work of Eilidh MacAskill and her collaborators. Fish &amp; Game create entertaining experimental performances that straddle theatre and Live Art with a particular interest in work for children. Includes information about a number of shows that are part of the Glasgow 2014 Cultural Programme.</p>

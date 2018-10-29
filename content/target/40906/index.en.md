@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# York Press, The
-
 News for York

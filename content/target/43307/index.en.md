@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# PR Week: British Chambers of Commerce issues second EU referendum clarification
-
 PR and communications publication on the British Chambers of Commerce clarifying its neutrality in the referendum

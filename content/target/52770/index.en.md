@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Leech (@johnleechmcr) on Twitter (Liberal Democrats  Politician)
-
 John Leech stood as Liberal Democrats candidate for Manchester Withington at the 2017 General Election but was not elected.

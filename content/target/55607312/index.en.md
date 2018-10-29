@@ -10,5 +10,3 @@
   "start_date": "2010-08-18T00:00:00Z"
 }
 
-# European Network of (ex-) Users and Survivors of Psychiatry (ENUSP)
-

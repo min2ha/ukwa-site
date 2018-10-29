@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Breckland District Council
-
 Provides access to information on Breckland District Council serices and activities, spending and performance, and committee meetings and papers

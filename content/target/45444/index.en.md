@@ -10,5 +10,3 @@
   "start_date": "2016-09-16T11:00:00Z"
 }
 
-# Cyngor Cymuned Llansanffraid Glan Conwy | Llansanffraid Glan Conwy Community Council
-

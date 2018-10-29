@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# East Lincolnshire Green Party
-
 East Lincolnshire Green Party official website.
 
 

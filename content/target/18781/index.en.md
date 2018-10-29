@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: David Cameron pledges lessons on Magna Carta as he seeks to push 'British values' 
-

@@ -10,6 +10,4 @@
   "start_date": "2014-10-16T07:00:00Z"
 }
 
-# Catholic Archdiocese of Southwark
-
 None

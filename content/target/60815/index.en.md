@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Go Ski Go Board
-
 Go Ski Go Board is the hub of all snowsports opportunities. Whether you're an absolute beginner learning to ski or learning to snowboard for the first time, want to improve ready for an upcoming holiday to the mountains, or an experienced snowsport enthusiast just wanting to re-live your time on the ski slopes, one of the best ways to get involved in snowsports in the UK is through Go Ski Go Board.

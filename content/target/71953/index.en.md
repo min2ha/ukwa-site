@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pass the Badge: Start Talking
-
 Digital campaign to get people talking about mental health, launched by See Me Scotland and Abandon Ship, a Dundee clothing brand. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Project Fear II
-
 Argues that there is a determination by politicians in Brussels, Paris and even Berlin to make the process of Britain’s departure from the EU so difficult, disruptive and expensive that the British people might think again and demand the opportunity to reverse the 2016 referendum decision

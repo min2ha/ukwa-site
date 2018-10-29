@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# British Holistic Medical Association (BHMA)
-
 The British Holistic Medical Association (BHMA) was formed in 1983 by a group of medical doctors and students.  It is a network of mainstream healthcare professionals, CAM practitioners and members of the public. The BHMA has organised conferences, run educational activities and promoted local groups. It publishes a journal and a members newsletter. 

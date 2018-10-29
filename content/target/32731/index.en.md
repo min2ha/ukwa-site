@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Lucy Ribchester
-
 Lucy Ribchester is a writer, dancer and reviewer of dance.

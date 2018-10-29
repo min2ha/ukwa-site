@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Trelawny's Army: the Cornish rugby supporters club
-
 Trelawny’s Army Suporters Club (TASC) is the Cornish Rugby Supporters’ Club, backing Cornish County and Club rugby teams at all levels, for one and all. 

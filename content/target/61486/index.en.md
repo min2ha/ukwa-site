@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  DUP MPs insist Brexiteers are RIGHT to say the Good Friday Agreement has 'failed' after Irish minister slams Eurosceptics for 'irresponsibly' attacking the peace accord   
-

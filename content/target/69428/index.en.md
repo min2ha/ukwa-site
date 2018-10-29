@@ -10,6 +10,4 @@
   "start_date": "2018-07-28T09:00:00Z"
 }
 
-# Solid Forms Solutions Ltd
-
 Solid Form Science undertake solid state science and crystallization development for pharmaceutical businesses.

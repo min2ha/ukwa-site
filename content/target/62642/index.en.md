@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Dragonsong
-
 Dragon Song is a community youth choir from Wrexham.

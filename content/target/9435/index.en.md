@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# STV News: Protesters occupy Glasgow 2014 Commonwealth Games headquarters
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Transmission Zero
-
 A personal website based on technology related articles. The authors main interests are in dance music (House, Drum ’n’ Bass, Trance, and Breakbeat), reception of radio stations from far away towns and countries, programming (mostly x86 assembly, C / C++, C#, and Java), and internet technology.

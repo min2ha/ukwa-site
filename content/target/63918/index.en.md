@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilsyth and District Churches
-
 The website of Kilsyth and District Churches, encompassing Anderson Church; Banton and Anderson Church; Banton and Twechar Parish Churches; Burns and Old Parish Church; Kilsyth Church of God; Kilsyth Community Church; Kilsyth Methodist Church; St Patrick's Roman Catholic Church, and The Storehouse Independent Pentecostal Church.

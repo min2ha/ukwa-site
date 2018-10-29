@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nick Clegg goes to pub instead of attending live election debates
-
 None

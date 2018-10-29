@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Campaign for Nuclear Disarmament: CND General Election Campaign 2015
-
 CND campaigns non-violently to rid the world of nuclear weapons and other weapons of mass destruction and to create genuine security for future generations.

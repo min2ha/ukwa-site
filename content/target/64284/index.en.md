@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Indefatigable Lodge No 237
-
 Indefatigable Lodge No 237 meet at Swansea Masonic Hall and were consecrated in 1777 starting life in Neath. This is a brief overview of the Lodge.

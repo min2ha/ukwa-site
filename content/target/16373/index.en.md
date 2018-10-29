@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Closer
-
 <p>Online edition of the magazine 'Closer'.</p>

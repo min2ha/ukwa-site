@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# British Thyroid Foundation (BTF)
-
 The British Thyroid Foundation (BTF) is a charity dedicated to supporting people with thyroid disorders and helping their families and people around them to understand the condition. 

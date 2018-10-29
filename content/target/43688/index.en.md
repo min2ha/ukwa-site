@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Likestarlings
-
 A online magazine of poetry and poetics, emphasising collaborative works

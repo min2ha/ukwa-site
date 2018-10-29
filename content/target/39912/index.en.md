@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Puffers and Vics
-
 This website aims to document the history of each of the 'Puffer' ships on Scotland's west coat.

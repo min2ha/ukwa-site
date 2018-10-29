@@ -10,6 +10,4 @@
   "start_date": "2017-10-07T09:00:00Z"
 }
 
-# Young Scot
-
 A magazine-style website for young people in Scotland. This is part of the network of 'Young Scot' websites managed by the national youth information and citizenship agency for Scotland.

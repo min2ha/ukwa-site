@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Hafod Housing Association
-
 Hafod Housing Association is a provider of affordable housing in South East Wales.

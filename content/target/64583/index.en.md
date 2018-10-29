@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# British Craft Trade Fair
-
 Annual trade fair for the UK crafts industry held in Harrogate

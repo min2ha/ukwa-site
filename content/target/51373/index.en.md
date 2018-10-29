@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ackhill Baptist Church, Presteigne, Powys 
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# British-Irish Association, The 
-
 The British-Irish Association aims to promote good relations between Britain and Ireland.

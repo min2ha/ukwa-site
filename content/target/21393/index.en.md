@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Balls' s bleak vision of the UK that even he doesn't believe
-
 None

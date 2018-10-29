@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Nature's Calendar
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Duffus, Spynie and Hopeman Parish Church
-

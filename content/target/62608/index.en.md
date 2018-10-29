@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Purple Plaques
-
 The Purple Plaque scheme was launched by the Assembly Labour Women’s Group (ALWG). The campaign aims to improve the recognition of Wales’ most influential women.

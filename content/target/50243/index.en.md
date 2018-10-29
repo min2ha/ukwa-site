@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Alnwick Castle
-
 There has been a castle on the site at Alnwick for 1,000 years

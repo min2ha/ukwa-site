@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hugh Cullen (@Hugo_C_94) on Twitter
-
 Twitter profile of Hugh Cullen, the RISE: Scotland's Left Alliance list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

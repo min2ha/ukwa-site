@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stone Rugby (@StoneRugby) on Twitter
-
 The official Twitter account of Stone Rugby Club.

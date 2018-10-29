@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Experiments and Intensities
-
 Experiments and Intensities is a scholarly art-as-research website.

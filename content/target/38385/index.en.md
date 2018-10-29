@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Edge, The: The Easter Rising Centenary: The Anglo-Irish Conflict in Film
-
 Article about films film representations of the Anglo-Irish conflict

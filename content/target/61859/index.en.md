@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 28th February 2018: Northern Ireland and the Republic of Ireland: Border Arrangements
-
 Short debate following an urgent question by Emily Thornberry about avoidance of a hard border between Northern Ireland and the Irish Republic after Brexit.

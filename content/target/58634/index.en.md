@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Cringletie House
-
 Site of an historic house now functioning as a hotel, events venue and restaurant, located near Peebles, Scottish Borders.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU rules out early trade talks with UK in Brexit process
-
 Draft EU guidelines for Brexit ruled out starting free trade talks with the UK before "sufficient progress" is made on other issues. The paper presented by European Council President Donald Tusk had to be approved by the 27 member states. Other issues included the status of three million EU citizens in the UK and a million Britons in the EU. Separately, another top EU official suggested the bloc could manage without the UK in defence and security matters.

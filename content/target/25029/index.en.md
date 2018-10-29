@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: The rise and rise of Ukip: Party's share of the vote still leaves rivals with much to fear
-
 None

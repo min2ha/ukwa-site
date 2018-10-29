@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Green Party (@HaringeyGreens) on Twitter
-
 Twitter feed of Haringey Green Party

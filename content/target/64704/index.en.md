@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Llanelli Masonic Hall
-
 The Llanelli Masonic Hall was opened in 1937. This is a brief introduction to the hall.

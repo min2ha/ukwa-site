@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# National Association of Estate Agents (NAEA) 
-
 The National Association of Estate Agents (NAEA) is a membership organisation for estate agents and It is based in and covers the UK. It was founded in 1962 by estate agent Raymond Andrews. It is the UK's leading professional body for estate agents. Its members practice across all aspects of property both in the UK and overseas, including residential and commercial sales and letting, property management, business transfer, auctioneering and land.

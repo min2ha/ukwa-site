@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nuffield Trust Twitter
-
 None

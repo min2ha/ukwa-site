@@ -10,5 +10,3 @@
   "start_date": "2010-08-18T00:00:00Z"
 }
 
-# Committee for Conflict Transformation Support (CCTS)
-

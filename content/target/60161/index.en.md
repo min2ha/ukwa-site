@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Apple investors urge action on 'smartphone addiction'
-
 News article about two investment groups who have asked Apple to develop software that limits the amount of time children can use apple smartphones

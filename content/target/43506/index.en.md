@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# RT: Leave the EU? Then Scotland will leave Britain! Salmond sends Brexit warning 
-
 An article detailing how Alex Salmond believes Scotland will react to a pro- 'Brexit' vote.

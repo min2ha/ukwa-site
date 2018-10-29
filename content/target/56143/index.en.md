@@ -10,5 +10,3 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# River Wye Preservation Trust, The
-

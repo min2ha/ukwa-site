@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Countryside Alliance: National Assembly for Wales Election Manifesto 2016
-

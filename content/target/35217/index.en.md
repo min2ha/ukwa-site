@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rosemary Dale (@Rosemary_Dale) on Twitter
-
 The twitter profile of Rosemanry Dale, RISE Alliance candidate for South Scotland.

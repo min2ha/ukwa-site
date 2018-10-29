@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: "Anonymous anorexic exposes hidden dangers of social media by detailing heartbreaking story of how insecurity over her appearance on INSTAGRAM drove her to starve herself" 
-
 News article about dangers of social media in eating disorders

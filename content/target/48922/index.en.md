@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Bowmore
-
 Site of a whisky distillery and visitor attraction on the isle of Islay, Argyll & Bute, Scotland.

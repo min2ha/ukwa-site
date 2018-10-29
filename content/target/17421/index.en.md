@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pensioner bonds, austerity and the reasons old people still get free money
-
 None

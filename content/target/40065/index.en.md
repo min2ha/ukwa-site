@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-#  Independent: Families losing £150 a month is a price worth paying for Brexit, Leave.EU campaign chief says
-

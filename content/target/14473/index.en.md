@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Times: A Scottish Labour Wipeout – The independence generation’s next step?:
-
 None

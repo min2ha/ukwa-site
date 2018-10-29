@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# West Midlands Stronger In (@WMidsStrongerIn) on Twitter
-
 West Midlands regional campaign for the UK to stay in the EU

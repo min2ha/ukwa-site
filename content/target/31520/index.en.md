@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# DARE Collaborative
-
 The DARE Collaborative is a research partnership focused on the digital arts in education, led by the UCL Institute of Education and the British Film Institute. The general remit of DARE is to promote conversations between researchers, children, educators, cultural institutions and the creative industries; to develop cross-arts research projects; to build partnerships with museums, galleries, concert and film venues, schools and companies; and to advise on Arts and Education policy. DARE was launched in June 2012.

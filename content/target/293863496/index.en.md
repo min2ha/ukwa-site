@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Resolven District News
-
 <p>Resolven District News, run on behalf of the community by Resolven Residents’ Association near  Neath.</p>

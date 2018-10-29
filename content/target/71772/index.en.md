@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU leaders urgently step up plans for no-deal Brexit following Corbyn’s threats to veto any agreement made struck by Theresa May
-
 A leaked diplomatic memo revealed growing fears among member states that even if a divorce deal is agreed, the Prime Minister could fail to get it ‘ratified’ by the Commons. European leaders had always assumed that a no-deal result would come from a breakdown in talks, but their contingency planning included MPs voting down any agreement in Westminster.

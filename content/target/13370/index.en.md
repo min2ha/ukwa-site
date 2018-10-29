@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Parliament (ScotParl) on Twitter
-
 The twitter profile of the Scottish Parliament.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Shiraz Peer (@shiraz_peer) on Twitter (Respect candidate for Birmingham Hall Green)
-

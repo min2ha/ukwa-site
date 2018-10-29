@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scotsman, The: Golden glory for Scotland’s Katie Archibald in team pursuit
-

@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Scottish Graduate School for Arts & Humanities
-
 Site of a Scottish national organisation providing support to post-graduate arts & humanities researchers by sharing resources and expertise between sixteen Scottish universities

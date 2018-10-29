@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Walk Fest Newton Stewart
-
 Site of a festival of walks through the landscape of Galloway, centred on the town of Newton Stewart.

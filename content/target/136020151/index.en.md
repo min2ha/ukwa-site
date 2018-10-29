@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Essex and Southend LINk
-
 None

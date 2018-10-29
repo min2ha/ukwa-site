@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Countryside Alliance: Brexit policy document
-
 Countryside Alliance Brexit policy document setting out the issues that need to be addressed in order to sustain a living and working countryside outside of the EU.

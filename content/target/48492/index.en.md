@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cardiff Squatters Network
-
 Cardiff Squatters Network is a network of squatters, travellers, the unrooted, homeless people, and supporters.

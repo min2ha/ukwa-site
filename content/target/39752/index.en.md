@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hamilton SNP (@hamilton_snp) on Twitter
-
 Twitter profile of the Hamilton branch of the Scottish National party (SNP).

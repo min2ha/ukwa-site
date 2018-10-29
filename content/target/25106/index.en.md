@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We'll stop Scots parliament policies hurting the rest of Britain, says PM
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# Ecoamgueddfa (Yr amgueddfa heb waliau | Wales' first ecomusuem)
-
 This is Wales' first Ecomuseum and celebrates Llŷn Peninsula's cultural heritage. Members of the Ecoamgueddfa partnership include Oriel Plas Glyn-y-Weddw, Felin Uchaf, Plas Heli, Plas yn Rhiw, Porth y Swnt, Amgueddfa Forwrol Llŷn and Nant Gwrtheyrn. 

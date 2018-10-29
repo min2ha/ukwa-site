@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cloud dance festival
-
 Website for the cloud dance festival.

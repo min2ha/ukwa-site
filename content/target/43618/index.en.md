@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wildfowl and Wetland Trust (WWT): EU referendum: Make the environment count when you vote 'in' or 'out'.
-
 Blog post dicussing the Waterfowl and Wetland Trust's (WWT) views on the EU referendum and the impacts of both outcomes on the environment

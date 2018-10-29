@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Reform: Making Clinical Commissioning Work
-
 None

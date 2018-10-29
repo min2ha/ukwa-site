@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Parliament: Vote 100
-
 The sub section of the Parliament website dedicated to the commemoration of 100 years since the Representation of the People Act 1918, giving vote to some women & all men.

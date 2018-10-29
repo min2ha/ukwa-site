@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# St Stephen Walbrook
-
 St Stephen Walbrook is an Anglican Parish Church in the City of London.

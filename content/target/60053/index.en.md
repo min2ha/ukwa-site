@@ -10,6 +10,4 @@
   "start_date": "2018-01-05T09:00:00Z"
 }
 
-# Edinburgh Royal Arch Chapter Number One 
-
 Site of a Royal Arch masonic lodge based in Edinburgh and affiliated with the Supreme Grand Royal Arch Chapter of Scotland, a branch of Freemasonry.

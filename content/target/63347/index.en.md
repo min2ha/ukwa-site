@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Glanusk Park
-
 Glanusk Park is a country estate is situated near Crickhowell, Powys and was established in 1826 by ironmaster Sir Joseph Bailey. Glanusk Park and Estate is privately owned by the Legge-Bourke family and is one of the largest privately owned Estates in Wales.

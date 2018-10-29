@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Streets Kitchen
-
 Streets Kitchen was created as a grassroots space in order to create ll a central resource where anyone who is hungry, needing some info or anything that might help their situation can access information on food/soup runs. They work in partnership with other grassroots groups across the UK.
 
 They also create and support Street Kitchens.

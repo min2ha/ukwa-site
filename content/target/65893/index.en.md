@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Human Rights Fesitival
-
 Website advertising the 13th Oxford Human Rights Fesitval

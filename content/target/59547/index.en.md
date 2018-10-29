@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Arlene Foster: Brexit deal paper was a 'big shock' for DUP
-
 The deal the UK government was set to agree with the European Union on the Irish border question on Monday December 4th 2017 came as "a big shock" to the DUP.

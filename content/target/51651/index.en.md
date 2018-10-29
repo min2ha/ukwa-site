@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dyffryn Clwyd Mission Area
-
 The Dyffryn Clwyd Mission Area operates as one large Parish in and around Ruthin in North East Wales and comprises of 13 churches.

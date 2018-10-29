@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Embassy of Ireland in Great Britain: Commemorating 1916
-
 This the website of the Embassy of Ireland in Great Britain. It contains an outline of the initiatives undertaken for the commemoration of the Easter Rising, 1916 in Great Britain and a blog by Ambassador Mulhall which shares his reflections on the Easter Rising and how and why it is commemorated.

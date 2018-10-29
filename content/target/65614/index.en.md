@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Who now can doubt that Jeremy Corbyn wants a hard Brexit?
-

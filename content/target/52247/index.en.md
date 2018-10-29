@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# RCT People First
-
 Rhondda Cynon Taff People First is an organisation for, and led by men and women with a learning disability. The organisation represents the voice of men and women with a learning disability across Rhondda Cynon Taff.

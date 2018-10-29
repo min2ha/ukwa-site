@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Open Britain
-
 Open Britain is campaigning for Britain to be open and inclusive, open for business, open to trade and investment, open to talent and hard work, open to Europe and to the world. The referendum exposed divisions across our country that must be addressed, but we refuse to accept Britain has to be a divided country. After June 23rd, we want the best deal for Britain and the best relationship with Europe for Britain’s future.
 

@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Communities NI (@CommunitiesNI) on Twitter
-
 The official Twitter channel of the Department for Communities, managed by the DfC Press Office in Northern Ireland. 

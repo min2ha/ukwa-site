@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Albany Church (United Reformed and Methodist) Haverfordwest
-

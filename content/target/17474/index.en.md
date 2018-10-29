@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Employment and Learning Providers: Manifesto for Driving an Economic Recovery
-
 The Association of Employment and Learning Providers (AELP) is a trade association for vocational learning and employment providers in Britain. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip MP denies being at odds with Farage over 'success' of immigration
-
 None

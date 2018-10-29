@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Welsh Streets: Demolishing the housing myth
-
 The Welsh Streets are a block of Victorian and 1950‘s built homes in Liverpool and became the focus of a national debate on housing and regeneration, when threatened with demolition courtesey of a scheme called HMR Pathfinders.  

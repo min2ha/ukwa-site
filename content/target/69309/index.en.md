@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Giles’ Parish Church, Wrexham
-
 The historic Parish Church of Wrexham and one of the ‘Wonders of Wales’.

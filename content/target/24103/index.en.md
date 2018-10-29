@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's mortgage bombshell: how repayments could rise by £5,000 a year
-
 None

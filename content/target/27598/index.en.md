@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's office knew Ed Balls would lose for two weeks before polling day - but did not tell him
-
 None

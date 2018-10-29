@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Luminate Scotland
-
 Site of a organisation running a diverse programme of creative events and activities throughout the year, including an annual arts festival running during October across Scotland.

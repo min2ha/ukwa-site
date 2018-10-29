@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tories launch range of 'Labour mugs' on 1 April
-
 None

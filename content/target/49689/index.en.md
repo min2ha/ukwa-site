@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ebeneser Rhydaman
-
 Ebeneser is a Welsh Baptist Church located in Brynaman.

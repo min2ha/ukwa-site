@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Silk River
-
 This project explores the unique relationship between London and Kolkata through a year’s artistic exchange between communities along the Thames Estuary and Hooghly River. Artistic director Ali Pretty – working in collaboration with associate artistic director Ruchira Das and an international team of contemporary and traditional artists, writers and photographers will capture and interpret the experience of journeying along these mighty rivers.

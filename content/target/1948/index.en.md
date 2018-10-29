@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham LINk: facebook
-
 None

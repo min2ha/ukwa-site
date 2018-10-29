@@ -10,5 +10,3 @@
   "start_date": "2006-07-19T00:00:00Z"
 }
 
-# evangelical alliance - cynghrair efengylaidd: yn uno i newid cymdeithas - uniting to change society
-

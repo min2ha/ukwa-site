@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Theatre Gu Leòr / Theatre Galore
-
 A Gaelic Theatre company.

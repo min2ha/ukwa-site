@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Willie Rennie on Twitter
-
 The twitter profile of William Rennie, MSP for Mid Scotland & Fife and Leader of the Scottish Liberal Democrats

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Alliance Party of Northern Ireland on Facebook
-

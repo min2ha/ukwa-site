@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# A Dram of Outlander
-
 WordPress blog site dedicated to the television series based in Scotland 'Outlander'.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour’s soft Brexit ‘solution’ would turn the Brexiters’ lies into reality
-

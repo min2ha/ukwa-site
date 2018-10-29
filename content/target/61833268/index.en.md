@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Fintry Development Trust (FDT)
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# West Usk Lighthouse
-
 The West Usk Lighthouse is a and small wedding venue situated near the City of Newport and overlooking the Bristol Channel. The lighthouse was built by was built in 1821 by Scottish architect, James Walker and is now a grade II listed building.

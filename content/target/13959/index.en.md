@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Friends of the Earth Scotland: New report calls for 'smaller greener banking' in post-referendum Scotland
-
 None

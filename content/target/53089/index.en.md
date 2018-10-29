@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matthew Kidner (@mkidnerLD) on Twitter 
-
 Matthew Kidner is the Welsh Liberal Democrat candidate for Islwyn at the 2017 General Election.

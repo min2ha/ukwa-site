@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Willie Coffey MSP for Kilmarnock and Irvine Valley
-
 Willie Coffey is Scottish National Party member of the Scottish Parliament for Kilmarnock and Irvine Valley.

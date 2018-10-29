@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Addiction soars as online gambling hits £2bn mark
-
 An article suggesting that more people could become addicted to online gambling as revenue hits £2bn mark

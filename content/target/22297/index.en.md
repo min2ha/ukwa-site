@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pat Black (@patkinnearblack) on Twitter
-
 Twitter profile of Pat Black, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

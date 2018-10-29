@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Warwick Nicholson (@NicholsonPCC) on Twitter
-
 UKIP candidate for Clwyd West.

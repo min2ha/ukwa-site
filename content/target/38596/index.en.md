@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# West Lothian History and Amenity Society
-
 Site of a society dedicated to the study of historic buildings in West Lothian, Scotland - with an ancillary role to advise the local council in changes to existing historical buildings.

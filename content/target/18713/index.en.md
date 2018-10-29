@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Boris Johnson: David Cameron 'knew full well' what Magna Carta meant
-

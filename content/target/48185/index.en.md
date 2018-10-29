@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Theresa May criticised for 'reckless' attitude to Brexit after New Year interview
-
 PM accused of offering no clarity on what Brexit will mean as date to trigger Article 50 looms closer.

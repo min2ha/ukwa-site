@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Fringepig
-
 Fringepig is a website which 'reviews the reviewers' of Edinburgh Festival Fringe shows, through the guise of stuffed toys, with the aim of improving the standard of journalism at the Fringe.

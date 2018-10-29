@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Crieff and Strathearn Drovers' Tryst
-
 Site of an organisation who run an annual festival and organise walks that celebrate the scenery of the are around Crieff, Perthshire.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# No to the Customs Union, but yes to a customs compromise: DAMIAN GREEN insists Britain must maintain close links with its neighbours
-
 Former deputy prime minister Damian Green argues that the UK can negotiate a mutually beneficial customs arrangement with the EU to keep trade flowing  freely. It would not be the same as staying in the customs union

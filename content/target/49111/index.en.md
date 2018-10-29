@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fleet Star Football Club
-
 Weebly site of a Scottish amateur football club based in Gatehouse of Fleet, Dumfries & Galloway.

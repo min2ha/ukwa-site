@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# York Rugby Club on Pitchero
-
 The official website of York Rugby Club.

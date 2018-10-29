@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Lib Dems 'accepted dodgy £7,000 donations' as party insists Danny Alexander was just being 'polite' to donor
-
 None

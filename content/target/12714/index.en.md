@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: Scottish independence blog
-
 <p>Comment and news edited by Severin Carrell and Libby Brooks.</p>

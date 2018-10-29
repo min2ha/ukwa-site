@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Gas Guide
-
 None

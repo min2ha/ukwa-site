@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Brexit: No 10 still 'confident' of Irish border solution
-
 The BBC understands UK plans to resolve the matter faced sustained criticism from the EU at a meeting on Wednesday 18th April. Downing Street said it did not recognise reports it had been told none of its proposed ideas would work.

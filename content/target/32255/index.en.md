@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Health Science Scotland
-
 Health Science Scotland is a partnership of medical universities and their associated NHS Health Boards in Scotland, encouraging the field of clinical and translational medicine. Health Science Scotland is supported by Scottish Enterpriseand Scotland Development International.

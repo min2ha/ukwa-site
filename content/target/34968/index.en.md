@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Culture Action Llandudno (CALL)
-
 Call (Culture Action Llandudno)  is a partnership between Mostyn Estates and Helfa Gelf Cyf. The mission is to 'to facilitate the culture and experience-led regeneration of Llandudno, embedding the arts and cultural development in the long term progression and evolution of the town'.

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Casgliad y Werin Cymru - The People's Collection
-
 <p>Welsh and English Language website featuring information on all aspects of Welsh life, past and present, populated by Welsh institutions and individuals. Contains photographs, sound recordings, documents, videos and stories about the history and heritage of Wales and its people.</p>

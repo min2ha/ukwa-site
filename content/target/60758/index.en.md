@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lenzie Rugby Football Club
-
 Site of a Scottish rugby union football club based in Lenzie, East Dunbartonshire.

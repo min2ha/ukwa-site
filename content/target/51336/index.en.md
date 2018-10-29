@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Canton Church, Cardiff 
-

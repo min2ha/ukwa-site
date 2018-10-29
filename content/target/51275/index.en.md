@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Royal Irish
-
 A Militia is a military force raised from the civilian population to supplement a regular army in an emergency.

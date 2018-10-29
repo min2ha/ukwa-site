@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Womanby St (@savewomanbyst) on Twitter
-
 Save Womanby Street is a campaign to protect Cardiff's Womanby Street live music scene from noise complaints and unfair planning laws.

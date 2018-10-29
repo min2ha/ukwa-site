@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Golwg360: Cameron: Awgrym y bydd refferendwm UE ym Mehefin 2016
-
 Welsh-language newspaper

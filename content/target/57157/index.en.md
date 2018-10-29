@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Elis James
-
 Elis James is a stand up comedian from Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pennine Care
-
 None

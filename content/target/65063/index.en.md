@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU citizens’ rights in the UK
-
 UK Government’s offer to EU citizens in the UK.

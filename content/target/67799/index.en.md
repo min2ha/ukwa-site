@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Loch Leven Brewery Ltd (2018)
-
 Site of a brewer located at Kinross, Perth & Kinross.

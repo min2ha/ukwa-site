@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# christianpanspermia.com
-
 A website authored by Anthony W Johns.

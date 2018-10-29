@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glasgow 2014: Official website of the XX Commonwealth Games
-

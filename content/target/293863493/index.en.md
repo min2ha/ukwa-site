@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Edinburgh International Culture Summit
-

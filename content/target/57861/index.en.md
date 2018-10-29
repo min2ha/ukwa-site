@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Muzzle Loaders Association of Great Britain Forums
-
 An online enthusiast community concerned with collecting various black powder firearms. Discusses events, gun varieties, coaching and training, and various other topics.

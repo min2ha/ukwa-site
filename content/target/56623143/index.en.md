@@ -10,6 +10,4 @@
   "start_date": "2010-09-22T00:00:00Z"
 }
 
-# Pelvic Pain Support Network
-
 We attend and represent those with pelvic pain at many local, national and international meetings, seminars and conferences

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Nuclear Safeguards Bill
-
 A Bill To make provision about nuclear safeguards after Brexit and the UK's withdrawal from EURATOM

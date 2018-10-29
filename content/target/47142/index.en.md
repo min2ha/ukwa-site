@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Cardiff Metropolitan University: Zero 2 Five
-
 Zero 2 Five is based at Cardiff Metropolitan University and specialises in all aspects of food and drink processing and manufacturing operational and technical issues. 

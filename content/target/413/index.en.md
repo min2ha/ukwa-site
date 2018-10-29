@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Saint Albans Health and Wellbeing Board
-
 None

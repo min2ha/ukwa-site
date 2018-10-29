@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Castell Roc at Chepstow Castle
-
 Castell Roc is a Rock Music Festival held at Chepstow Castle.

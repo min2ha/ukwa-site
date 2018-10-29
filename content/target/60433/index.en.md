@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Chile SCDA: The website of the Chilean Community in South Yorkshire
-
 Chile SCDA is a community organisation which has evolved over thirty five years. It was reconstituted in 1993 to provide support and services to resident Chilean and Latin American community in Sheffield and South Yorkshire.

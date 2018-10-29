@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newington FC (@NewingtonFC) on Twitter
-
 The official Twitter account of Newington Football Club. Newington FC is an Irish League football club from Belfast, Ireland.

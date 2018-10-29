@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Corral 2016 (@starlightcatch) on Twitter
-
 Twitter profile of Richard Corral, the Scottish Labour list candidate for Lothian region in the 2016 Scottish Parliamentary election.

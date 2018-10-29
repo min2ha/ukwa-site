@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# British Hip Society (BHS), The
-
 <p>The British Hip Society (BHS) is a Specialist Society allied to our Professional organisation - the British Orthopaedic Association (BOA). It promotes training, education and research to ensure the very best care for patients, with hip related conditions.</p>

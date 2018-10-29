@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Stonewall Primary
-
 Stonewall education for primary schools

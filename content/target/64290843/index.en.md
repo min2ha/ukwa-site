@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# 2/Pz. Aufkl.Abt. Grossdeutschland - UK based WW2 German Re-enactment Group
-
 None

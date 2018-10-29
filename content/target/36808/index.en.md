@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Piping Project
-
 This project will explore the role of musicians, music, particularly bagpipes, and musical compositions from Strathnaver in WW1.

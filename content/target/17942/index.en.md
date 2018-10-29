@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British Titanic Society
-
 The British Titanic Society was formed in 1987, and membership provides an opportunity for those interested in the history of the Titanic, the White Star Line and other ships of the classic era to further their knowledge and enjoyment of the subject. The society is run by volunteers who are keen to encourage research and active participation.

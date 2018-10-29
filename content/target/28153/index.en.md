@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Alastair Campbell
-
 Website run by a British politician and writer Alastair Campbell. Campaigned for a Remain vote at the June 2016 EU referendum.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Stratford Computer Fair
-
 Computer fair in East London.

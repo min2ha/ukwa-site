@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stranraer Reformed Presbyterian church
-
 We are a small but growing church in Scotland with four well established congregations.

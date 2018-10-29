@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Edinburgh Says Naw! (EdinSaysNaw) on Twitter
-

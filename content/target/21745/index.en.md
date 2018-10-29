@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: TV debate: all you need to know about the Cameron-Miliband interviews
-
 None

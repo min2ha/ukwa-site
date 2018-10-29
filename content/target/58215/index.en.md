@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Channel4: Is it normal to have social media depression?
-
 Channel4 webpage for young people about social media depression 

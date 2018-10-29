@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Portobello & Joppa Parish Church
-
 The website of Portobello & Joppa Parish Church of Scotland in the Presbytery of Edinburgh. The Church is located in Portobello. 

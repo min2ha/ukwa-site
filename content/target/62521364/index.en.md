@@ -10,5 +10,3 @@
   "start_date": "2012-05-10T00:00:00Z"
 }
 
-# Better Reading | Darllen yn Well
-

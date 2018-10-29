@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Center for Global Development: What a UK Election Manifesto on Development Might Look Like: 19 Proposals from CGD
-

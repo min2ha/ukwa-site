@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Foxy Biddy
-
 Wildlife photography by Lynne Newton, in the UK, mainly in Somerset

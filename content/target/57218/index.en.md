@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Sally Moore
-
 Sally Moore was born in Barry in 1962 and is a former Welsh Artist of the Year.

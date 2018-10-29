@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CliftonvilleLadiesFC (@CVilleLadiesFC) on Twitter
-
 Official Twitter page of Cliftonville Ladies Football Club who compete in the Northern Ireland Football League. 

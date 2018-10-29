@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# NHS Wales: Canolfan Cydraddoldeb a Hawliau Dynol y GIG | NHS Centre for Equality and Human Rights
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May’s Brexit strategy has failed. Parliament must take the lead
-
 Strongly criticises Theresa May's failed approach to the Brexit negotiations and calls for Parliament to "take the lead".

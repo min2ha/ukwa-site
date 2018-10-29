@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Cowbois Rhos Botwnnog
-
 Cowbois Rhos Botwnnog are a folk band from Gwynedd that sing in the Welsh language.

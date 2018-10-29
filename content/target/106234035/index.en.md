@@ -11,5 +11,3 @@
   "subject": "Governing the Police"
 }
 
-# Cheshire Police & Crime Commissioner
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# STAMP
-
 STAMP's goal is to support Caernarfon's regeneration projects through use of the community and it's arts. STAMP is funded by the Ideas People Places intiative under the Arts Council of Wales, Cyngor Gwynedd, Welsh government. 

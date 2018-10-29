@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Moneycontrol.com: Scottish referendum: Why Asia should worry
-
 None

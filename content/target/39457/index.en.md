@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Newsdirect
-
 A political intelligence company based in Edinburgh.

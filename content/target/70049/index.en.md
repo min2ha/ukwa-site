@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Golf365
-
 Golf news, results, and features

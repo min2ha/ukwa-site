@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Robert Havard
-
 Robert Havard is a painter and poet living in Aberystwyth. 

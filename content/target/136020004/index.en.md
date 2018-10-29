@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Heart of Birmingham
-
 None

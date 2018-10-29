@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Neil Hamilton (UKIP AM for Mid and West Wales)
-

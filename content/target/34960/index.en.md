@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Roseanna Cunningham MSP - Member of the Scottish Parliament for Perthshire South and Kinross-shire 
-
 Roseanna Cunningham is Scottish National Party member of the Scottish Parliament for Perthshire South and Kinross-shire.

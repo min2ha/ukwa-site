@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Glasgow Churches Together
-
 Site of an ecumenical forum for Christian churches in Glasgow, representing the Church of Scotland, Methodist Church, Roman Catholic Church, Salvation Army, Scottish Episcopal Church, United Free Church and United Reformed Church.

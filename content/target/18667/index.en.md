@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City of London: Death Metal, iconic bridges and Magna Carta feature in City’s cultural summer
-

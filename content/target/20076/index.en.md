@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann Clwyd (@AnnClwyd) on Twitter
-
 Labour Parliamentary Candidate for the Cynon Valley

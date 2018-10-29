@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Exploring Medieval Seals
-
 The project examines fingerprints and palm prints left behind on the wax seals of documents dating from the 12th to the 14th centuries. The project is funded by the Arts and Humanities Research Council (AHRC) and will work with historical materials in the cathedrals of Exeter, Hereford and Lincoln, the National Library of Wales and Westminster Abbey. The project is led by University of Lincoln and Aberystwyth University.

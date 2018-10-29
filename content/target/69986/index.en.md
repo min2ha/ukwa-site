@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Mabli Tudur
-
 Mabli Tudur is a Welsh singer, performer and musician from Cardiff.

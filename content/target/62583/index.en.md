@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-#  For Britain
-
  For Britain is a right wing political party.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Office Space London Ltd.
-
 Company finding office space for clients in London. Site includes listings of office space available by area.

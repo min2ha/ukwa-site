@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jesse Rae (@jesserae5) on Twitter
-
 Twitter profile of Jesse Rae, Independent candidate for Berwickshire, Roxburgh and Selkirk in the 2015 UK General Election.

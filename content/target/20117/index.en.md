@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP candidate row in Brecon and Radnorshire
-

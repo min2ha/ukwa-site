@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jeff Cuthbert (Labour Assembly Member for Caerphilly)
-
 Jeff Cuthbert is the Labour AM for Caerphilly. He is retiring at the 2016 National Assembly Elections.

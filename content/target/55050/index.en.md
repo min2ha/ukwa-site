@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Data Lessons/library shell on Github
-
 Unix shell lesson for librarians. Library Carpentry is software skills training aimed at the needs and requirements of library professionals.

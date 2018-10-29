@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Declan Lloyd on Facebook (Labour Candidate for South East Cornwall)
-

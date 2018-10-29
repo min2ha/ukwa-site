@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Loynes on Facebook (Green Party candidate for Westmorland and Lonsdale)
-

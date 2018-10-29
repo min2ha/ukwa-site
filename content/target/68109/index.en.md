@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Out of Your Hands
-
 Out of Your Hands was originally launched in 2004, sponsored by Mobile Industry Crime Action Forum (MICAF) to address the issues surrounding mobile phone crime. 

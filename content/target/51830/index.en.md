@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# FetLor Youth Club
-
 Site of a Scottish charity co-founded by the schools Fettes and Loretto running a youth club for disadvantages children and located in north Edinburgh.

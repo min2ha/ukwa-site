@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team GB (@TeamGB) on Twitter
-
 Team GB is the Great Britain and Northern Ireland Olympic Team run by the British Olympic Association.

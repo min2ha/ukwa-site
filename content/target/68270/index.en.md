@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Moulin Brewery
-
 Site of a brewery located in a hotel at Pitlochry, Perth & Kinross.

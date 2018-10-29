@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Balmoral Offshore Engineering
-
 Balmoral Offshore Engineering is a subsidiary of Balmoral Group Holdings Limited. The company is engaged in the design, manufacture and testing of equipment used in offshore engineering.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Regret and frustration: how voters feel one year on from the Brexit referendum
-

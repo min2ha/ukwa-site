@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Williams (@swillimansmp) on Twitter  (Liberal Democrats candidate for Bristol West)
-
 Stephen Williams stood as Liberal Democrat candidate for Bristol West at the 2015 General Election but was not elected. 

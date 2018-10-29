@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Leith Churches Together
-
 Site of a group of Christian churches in the former burgh of Leith, Edinburgh, established to explore ways of deepening the bonds between the churches, and encouraging mutual witness to the Gospel message through action and prayer, serving the community of Leith.

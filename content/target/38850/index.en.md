@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Derek Scott (@Derekscott82) on Twitter
-
 Twitter profile of Derek Scott, the Scottish Libertarians list candidate for North East Scotland in the 2016 Scottish Parliamentary election.

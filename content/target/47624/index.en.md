@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Johnston Collection
-
 Site of a photographic collection dated 1863-1975 recording life, work and people in Wick and Caithness, Scotland.

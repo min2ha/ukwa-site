@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Carwyn Jones (@fmwales) on Twitter 
-
 Carwyn Jones is the First Minister of Wales.

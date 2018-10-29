@@ -28,6 +28,4 @@
   "endDateText": ""
 }
 
-# Celtic Studies
-
 This is a collection of websites selected around the theme of Celtic Studies and includes websites on Celtic subjects, and/or sites providing a cultural sphere for ex-pat Celtic communities.

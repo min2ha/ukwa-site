@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Attitude: Tory Candidate Caroline Ansell Accepted Funding From ‘Gay Cure’ Group
-
 In 2015, Ansell told a Christian website that she would've voted against marriage equality had she been an MP at the time.

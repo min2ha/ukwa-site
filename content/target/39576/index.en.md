@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Llyr Gruffydd on Facebook 
-
 Llyr Huws Gruffydd is the Plaid Cymru candidate for Clwyd West and North Wales at the 2016 National Assembly for Wales elections. 

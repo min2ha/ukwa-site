@@ -10,6 +10,4 @@
   "start_date": "2016-12-17T09:00:00Z"
 }
 
-# Atlantic Press
-
 Atlantic Press creates works of graphic literature which respect the illustrator’s personal voice: their ideas, their pictures and their words.

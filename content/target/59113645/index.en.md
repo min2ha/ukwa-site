@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Forest Fringe
-
 Forest Fringe is an organisation run collaboratively by three artists based in the UK. Together they create festivals, host residencies and occasionally commission new work as a way of helping support a large and diverse community of independent artists working across and between theatre, dance and live art. 

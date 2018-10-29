@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Karen Westbrook (@KWestbrookGreen) on Twitter (Green Party candidate for Truro and Falmouth)
-

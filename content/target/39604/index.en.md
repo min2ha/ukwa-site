@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Annabelle Ewing for Cowdenbeath 2016 on Facebook
-
 Facebook page of Annabelle Ewing, Scottish National Party candidate for Cowdenbeath in the 2016 Scottish Parliamentary election.

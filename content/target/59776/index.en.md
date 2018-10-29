@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Cumbernauld Gaelic Choir on Facebook
-
 Faceboo page for a choir based in Cumbernauld, Lanarkshire, who specialise in choral works written in Scottish Gaelic.

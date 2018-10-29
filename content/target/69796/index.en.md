@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Migrant Help UK
-
 We offer our clients (vulnerable migrants) the advice and support they need to feel safe and lead successful lives in the UK.

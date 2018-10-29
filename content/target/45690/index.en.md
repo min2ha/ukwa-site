@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Coffee Club UK
-
 CoffeeClubUK is an independent distributor of Lavazza coffee.

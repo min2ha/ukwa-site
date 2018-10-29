@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Christopher Rees
-
 Christopher Rees is a Welsh solo artist, singer, song writer, multi-instrumentalist, band leader, producer and record label director. As of 2018, he has released 7 albums.

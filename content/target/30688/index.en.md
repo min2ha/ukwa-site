@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Guildford School of Acting (GSA)
-
 Official website of the Guildford School of Acting (GSA).

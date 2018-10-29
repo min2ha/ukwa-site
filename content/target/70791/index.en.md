@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Independent: You won't get rid of gender inequality by increasing paternity leave – that's why I've set up mums4corbyn by Nadine Houghton 
-
 An Independent article about paternity leave, childcare system and pay

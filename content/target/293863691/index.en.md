@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Llangorse
-
 <p>This is the community council website for Llangorse.</p>

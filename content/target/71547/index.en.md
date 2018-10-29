@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiters hit back at Emmanuel Macron for calling them liars
-
 Reports Brexiteer response to French president Macron's accusation at the September 2018 European Council meeting that they lied to the British people about the implications of leaving the EU.

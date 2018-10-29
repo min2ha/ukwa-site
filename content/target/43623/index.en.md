@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Pensions' World: Europe: testing times
-

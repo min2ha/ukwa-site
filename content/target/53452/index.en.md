@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hansard Society
-
 Founded in 1944, they are a charity working in the UK and around the world to promote democracy and strengthen parliaments.

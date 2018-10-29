@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Biggar Little Festival
-
 Site of an annual festival taking place in the South Lanarkshire town of Biggar, and featuring music, dance, arts and crafts, literature, and drama.

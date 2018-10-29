@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Scotland’s Secret Bunker
-
 Site of a museum and visitor attraction located in a former Cold War fortified military establishment near St. Andrew's, Fife, Scotland.

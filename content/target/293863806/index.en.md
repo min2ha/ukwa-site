@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Llen Natur
-
 Llen Natur is the pinion of Cymdeithas Edward llwyd and explores nature in Wales through the medium of Welsh. 

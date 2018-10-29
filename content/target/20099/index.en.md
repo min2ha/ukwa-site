@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Cymru a Chernyw i gael “pwerau tebyg” gan Clegg
-

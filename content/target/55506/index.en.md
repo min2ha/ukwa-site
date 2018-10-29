@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Hanfod Cymru
-
 Hanfod Cymru is a national charitable fund for Wales, distributing the money raised for good causes by Loteri Cymru to strengthen community life in Wales. 

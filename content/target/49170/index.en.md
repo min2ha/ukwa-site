@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Welsh Camerata Choir
-
 The Welsh Camerata Choir was formed to specialise in early music and music inspired under the guidance of early music specialist Andrew Wilson-Dickson. 

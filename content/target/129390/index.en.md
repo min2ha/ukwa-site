@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Trident Ploughshares
-
 Trident Ploughshares is a part of the international nuclear disarmament movement. Trident Ploughshares activists have pledged to disarm the UK Trident nuclear weapons system in a non-violent, open, peaceful, safe and fully accountable manner. At this time over 200 Trident Ploughshares activists have signed a pledge to prevent nuclear crime.

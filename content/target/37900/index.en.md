@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# William Graham (@williamgrahamam) on Twitter (Conservative candidate for South Wales East)
-
 William Graham is the Conservative candidate for South East Wales at the 2016 National Assembly Elections. 

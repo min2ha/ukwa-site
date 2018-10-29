@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Migrant's Rights Scotland
-
 None

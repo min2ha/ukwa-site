@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tasmina Ahmed-Sheikh SNP Ochil & South Perthshire
-
 This is the website of Tasmina Sheikh, the Scottish National Party (SNP) candidate for Ochil and South Perthshire in the UK General Election on the 7th May 2015.

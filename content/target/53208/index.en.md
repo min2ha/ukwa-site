@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of Ophthalmologists: 2017 manifesto
-
 The Royal College of Ophthalmologists is calling on the next government to invest in sustainable eye healthcare for all.

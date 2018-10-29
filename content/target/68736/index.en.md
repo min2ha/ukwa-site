@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# North East Wales Heritage Forum | Fforwm Treftadaeth y Gogledd-ddwyrain Cymru
-
 The North East Wales Heritage Forum has been established to celebrate, conserve and promote the rich heritage of the region.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Grampiam Orienteers
-
 Site of an orienteering club based in Aberdeen / Aberdeenshire.

@@ -10,5 +10,3 @@
   "start_date": "2005-01-24T00:00:00Z"
 }
 
-# Nuffield Council on Bioethics
-

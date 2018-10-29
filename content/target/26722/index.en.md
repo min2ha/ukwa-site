@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The News : The SNP's gradual approach begins
-
 None

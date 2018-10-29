@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Iain Duncan Smith accuses Sir John Major over new Brexit vote bid
-
 Ex-Prime Minister Sir John Major was accused of "an absolute dismissal" of democracy after he suggested there should be a second Brexit vote in a speech at a private dinner in Westminster. 

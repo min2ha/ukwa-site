@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Crowd Justice: Let's make justice accessible
-
 CrowdJustice is a funding platform where you can come together with your community to build support and share the costs of taking legal action for issues that affect your community. Cases include Junior Doctors' Contracts, puppy farming, and Tenant tax.

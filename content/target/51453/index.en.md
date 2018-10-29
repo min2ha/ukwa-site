@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: UK's most prominent ex-ministers unite against Theresa May's 'no deal' threat
-

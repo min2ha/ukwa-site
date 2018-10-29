@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Duff (@BillNorAngus) on Twitter
-
 Twitter profile of William Duff, the Scottish National Party list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

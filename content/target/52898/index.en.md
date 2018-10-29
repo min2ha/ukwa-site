@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dr Lisa Cameron (@lisacameronsnp1) on Twitter
-
 Twitter profile of Dr Lisa Cameron, Scottish National Party candidate for East Kilbride, Strathaven and Lesmahagow in the 2017 general election.

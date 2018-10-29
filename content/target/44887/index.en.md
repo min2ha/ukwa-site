@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# International Centre for Statistical Education (ICSE)
-
 Their aim is to promote the improvement of statistical education, training and understanding at all ages.

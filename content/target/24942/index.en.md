@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Clive Lewis on Facebook (Labour candidate for Norwich South) 
-
 None

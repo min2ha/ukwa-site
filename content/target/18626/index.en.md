@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Peter Bush for Aberavon
-
 Peter Bush is the UKIP Parliamentary Candidate for Aberavon.

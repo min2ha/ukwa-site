@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Padstow Christmas Festival
-
 Local Christmas festival

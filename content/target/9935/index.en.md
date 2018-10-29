@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# British National Party (@bnp) on Twitter
-
 The British National Party (BNP) is a far-right political party in the United Kingdom.

@@ -10,6 +10,4 @@
   "start_date": "2015-02-05T06:00:00Z"
 }
 
-# Debt Arrangement Scheme (DAS)
-
 None

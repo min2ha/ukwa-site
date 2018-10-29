@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Diocese of Bath & Wells: Queen's Diamond Jubilee 2012
-

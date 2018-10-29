@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Llef: Eich Iaith, Eich Llais
-
 Llef: Eich Iaith, Eich Llais is Welsh Language Newspaper for Welsh language students at Bangor University. The site contains no.1 to no.7 for the years 2010 - 2011.

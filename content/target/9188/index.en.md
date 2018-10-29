@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penny Coomes Ice Dancer - Twitter
-
 None

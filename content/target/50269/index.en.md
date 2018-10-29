@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Ymgyrch Newsnight Cymru Campaign
-
 Newsnight Cymru is a campaign calling on the BBC to establish Newsnight Wales as a nightly opt-out from the London Newsnight on BBC2, as well as providing a similar Newsnight Cymru programme in Welsh on S4C.

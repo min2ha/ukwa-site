@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Croeso Teifi
-
 Croeso Teifi was established in 2016 with the aim of resettling Syrian refugees  in Cardigan, west Wales.

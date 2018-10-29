@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Barrowland Ballroom, The
-
 Site of The Barrowland Ballroom, a dance hall and live music venue in Glasgow, Scotland.

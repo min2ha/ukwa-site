@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Prostate Help Association (PHA)
-
 None

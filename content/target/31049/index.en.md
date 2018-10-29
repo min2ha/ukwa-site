@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Monmouthshire Village Halls
-
 Database and listing of over 80 village halls in Monmouthshire.

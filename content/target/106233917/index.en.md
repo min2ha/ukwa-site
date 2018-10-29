@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East of England Public Health Observatory - ERPHO
-
 None

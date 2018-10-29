@@ -10,5 +10,3 @@
   "start_date": "2012-04-16T00:00:00Z"
 }
 
-# Clydach Historical Society
-

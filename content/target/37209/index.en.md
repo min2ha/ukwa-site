@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU referendum: Avoiding Brexit vital for UK business says Lord Stuart Rose
-

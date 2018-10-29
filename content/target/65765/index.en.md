@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# HeritageMadeDigital (@BL_HMD) on Twitter
-
 Heritage Made Digital is the British Library's initiative to make its unique, rare or fragile heritage collections freely available online. They are all available through the IIIF viewer.

@@ -10,5 +10,3 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Cairngorms Nature
-

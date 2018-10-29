@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Welsh Labour Press
-
 Welsh Labour Press is a tumblr account containing Welsh labour press releases from April 2017.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-07T09:00:00Z"
 }
 
-# Cardiff Health Alliance | Cynghrair Iechyd Caerdydd
-
 The Cardiff Health Alliance is the key strategic partnership for health and wellbeing bodies in Cardiff and is facilitated by Cardiff Council.

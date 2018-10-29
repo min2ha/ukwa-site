@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Borough of Kensington and Chelsea (RBKC)
-
 The council office official website for the Royal Borough of Kensington and Chelsea.

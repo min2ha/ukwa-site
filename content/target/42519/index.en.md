@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Leave campaign can’t keep dodging the biggest question
-

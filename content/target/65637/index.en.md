@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Delivering for Scotland: Guide to Brexit
-
 The UK Government's guide to Brexit for Scotland

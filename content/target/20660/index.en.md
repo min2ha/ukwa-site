@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sanjoy Sen for Aberdeen North on Facebook
-
 The Facebook page of Sanjoy Sen, Conservative Parliamentary candidate for Aberdeen North in the UK General Election, 7th May 2015.

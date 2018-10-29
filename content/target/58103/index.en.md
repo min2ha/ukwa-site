@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-#  Ullapool Dance Festival 
-
 Site of an annual festival of dance at Ullapool, Highlands.

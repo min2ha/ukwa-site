@@ -10,6 +10,4 @@
   "start_date": "2017-12-07T09:00:00Z"
 }
 
-# Deialogau Diwylliannol Cymreig a Chasi | Welsh and Khasi Cultural Dialogues
-
 The Welsh and Khasi Cultural Dialogues is an University of South Wales project investigating the shared cultural history of the people of Wales and the Khasi people of North-east India. This history spans 170 years, from the arrival of the Welsh missionaries in the Khasi Hills in the 1840s.

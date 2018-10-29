@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# First Division Association: General Secretary Dave Penman: We will always stand up for civil service impartiality - now ministers must do the same
-
 FDA General Secretary Dave Penman defends the civil service against accusations by eurosceptic ministers that they are working to frustrate Brexit.

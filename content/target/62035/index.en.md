@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# John Smith's Stadium (@johnsmithstadia) on Twitter
-
 Official Twitter account for John Smith's Stadium.

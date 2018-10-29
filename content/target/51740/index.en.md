@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  Zion Free Church, Pembrokeshire
-

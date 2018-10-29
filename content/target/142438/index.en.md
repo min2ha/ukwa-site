@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Disordered Eating
-
 This website is dedicated to raising awareness of eating disorders by providing information, help, news and research on eating disorders and disordered eating.

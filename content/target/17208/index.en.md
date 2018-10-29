@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: UnionÂs war chest cash Âwill buy Labour policyÂ
-
 None

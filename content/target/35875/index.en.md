@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# John Bruton
-
 This is the website of former Irish Taoiseach, John Bruton. It contains some of his reflections on the Easter Rising, 1916.

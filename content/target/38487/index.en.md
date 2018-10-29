@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jack Caldwell for Edinburgh Northern and Leith
-
 Jack Caldwell is an independent candidate for Edinburgh Northern and Leith constituency in the 2016 Scottish Parliamentary election.

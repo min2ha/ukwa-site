@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC Question Time with David Cameron, Ed Miliband and Nick Clegg: what to expect
-
 None

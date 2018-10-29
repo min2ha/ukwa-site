@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# HM Treasury (@hmtreasury) on Twitter
-
 We're the UK Government's economic and finance ministry. Our aim is to promote strong and sustainable economic growth.

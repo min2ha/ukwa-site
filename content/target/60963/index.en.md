@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# FSLG (@FSLG25) on Twitter
-
  French Studies Library Group (FSLG) official Twitter account

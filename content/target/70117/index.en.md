@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Dear Agony Aunt – our friend Theresa has a problem with Michel. Can you help?
-
 Peter Lilley depicts 'his friend Theresa' trying to leave a commune run by a bloke called Michel, and a chap called Leo trying to get the keys to her garage.

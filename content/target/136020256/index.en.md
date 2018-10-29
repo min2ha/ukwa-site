@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Gloucestershire Police & Crime Commissioner
-
 None

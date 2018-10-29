@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shelter: Scotland's Housing Crisis
-
 Shelter Scotland's timeline of the housing crisis.

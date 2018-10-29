@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# National Centre for Circus Arts
-

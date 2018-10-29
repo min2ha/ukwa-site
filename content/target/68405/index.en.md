@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Traquair House Brewery
-
 Page on the Traquair House wesbite relating to the onsite brewery, in Peebles-shire.

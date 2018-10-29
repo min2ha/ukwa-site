@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory rebel Dominic Grieve insists he’s not out to destroy Brexit. So what was he doing addressing a secretive meeting in the EU’s London HQ of those plotting to reverse it?
-

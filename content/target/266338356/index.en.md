@@ -10,5 +10,3 @@
   "start_date": "2014-09-24T00:00:00Z"
 }
 
-# Drysau Agored Sir Ddinbych | Open Doors Denbighshire
-

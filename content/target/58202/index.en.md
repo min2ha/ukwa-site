@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Porn addiction is turning men into HOPELESS lovers who can’t satisfy their partners
-
 News article about the effect of internet porn on men's mental health

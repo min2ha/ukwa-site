@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# James Airey on Twitter (@JamesCllr ) on Twitter (Conservative  Politician)
-

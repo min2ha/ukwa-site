@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Essenside United Reformed Church
-
 Site of a Scottish United Reformed church located in Drumchapel, Glasgow.

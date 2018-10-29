@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lankelly Fowey RFC on Pitchero
-
 The official website of Lankelly Fowey Rugby Football Club.

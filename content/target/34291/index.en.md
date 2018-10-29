@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Museum of Ireland
-
 This website outlines the programme for public engagement in 2016 within the four museum sites of the National Museum of Ireland.  

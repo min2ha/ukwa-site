@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Robotics at Leeds
-
 Robotic and autonomous systems, identified by the UK Government as one of the Eight Great Technologies, are revolutionising our lives, the economy and human society. At Leeds we are driving innovation in this growing area of technology.

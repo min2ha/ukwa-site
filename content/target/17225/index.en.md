@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nigel Farage: UKIP will not join a coalition after the General Election
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridge News: Tour de France 2014
-
 Web page for Tour de France in Cambridge News sport pages

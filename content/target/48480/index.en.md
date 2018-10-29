@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# VOX Gibraltar News
-
 Independent Gibraltar newspaper 

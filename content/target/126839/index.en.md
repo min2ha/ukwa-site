@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Race to the Top
-
 None

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Caernarfon and Dwyfor Ramblers
-

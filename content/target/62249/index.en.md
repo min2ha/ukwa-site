@@ -10,5 +10,3 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Royal Society of Edinburgh, The
-

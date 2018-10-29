@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Quaynotes, ​​The 
-
 The Quaynotes are a popular mixed choir based in Carew, Pembrokeshire. 

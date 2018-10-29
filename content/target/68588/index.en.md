@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. John Ogilvie, Easter Ross
-
 Site of a group of Roman Catholic parish churches in Scotland, located in Easter Ross, Highland including the Catholic congregations of St. Joseph’s, Invergordon, St. Vincent de Paul’s, Tain and Alness.

@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Blackbox Manifold
-
 An online forum with a slant towards innovative poetry that has prose, narrative, or sequences in its sights. 

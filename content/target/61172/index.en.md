@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Glasgow Kilwinning Lodge, No.4
-
 Site of a masonic lodge located in central Glasgow and affiliated with the Grand Lodge of Scotland.

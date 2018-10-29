@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# YouGov: Scotland
-
 <p>News on opinion polls and public opinion analysis on the Scottish independence referendum.</p>

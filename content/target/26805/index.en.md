@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T08:00:00Z"
 }
 
-# Miranda Whall
-
 Artist based in Aberystwyth, Wales and full time lecturer in fine art, experimental media and Creative Arts in the School of Art at Aberystwyth University.

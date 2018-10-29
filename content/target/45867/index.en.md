@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Propagate Collective Tumblr
-
 Propagate Collective produces visuals to amplify grassroots social struggles and was set up as a collective for discussion, production and action around visual communication.
 
 Propagate works with a diversity of struggles that include, but are not limited to, housing justice, migrants rights, anti-cuts and anti-austerity policies, workers rights, equality, and LGTB rights. 

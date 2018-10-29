@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Due Process
-
 Campaign to reform the European Arrest Warrant (EAW) to protect human rights. Instead of replicating the system from outside the EU after Brexit, the UK should change how extradition works.

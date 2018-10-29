@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanesyddol Gymunedol Penderyn | Penderyn Community Historical Society
-

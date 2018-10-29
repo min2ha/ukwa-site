@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BT: BT launches Manifesto for Communications
-
 BT is one of the world’s leading communications services companies, serving the needs of customers in the UK and in more than 170 countries worldwide. There main activities are the provision of fixed-line services, broadband, mobile and TV products and services as well as networked IT services.

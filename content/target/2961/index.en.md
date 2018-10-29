@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Wildlife Trusts
-
 The Wildlife Trusts is an organisation made up of 47 local Wildlife Trusts which look after around 2,300 nature reserves in the UK. They share a common interest in wildlife and biodiversity.

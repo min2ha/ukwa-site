@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Hello World
-
 Webcomic by Alex Norris. Follows Alex as he explores the outside world with his plastic hand sidekick, Johand.

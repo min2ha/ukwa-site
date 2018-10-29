@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Learn Gaelic Scotland on Twitter
-
 Twitter profile belonging to Learn Gaelic Scotland.

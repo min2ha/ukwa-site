@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour and SNP 'on the same side', says Cameron
-
 None

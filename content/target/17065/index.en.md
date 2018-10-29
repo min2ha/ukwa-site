@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Retail Week: Retail Week issues manifesto for retail ahead of general election
-
 Retail Week is a UK-based news magazine, website and data service covering the retail industry. Founded in 1988 by financial journalist Patience Wheatcroft and her husband Tony Salter, it is now owned by the business magazine publisher EMAP. The magazine is published every Friday.

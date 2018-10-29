@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip Neri, Mansfield
-
 Official website of St. Philip Neri, Mansfield.

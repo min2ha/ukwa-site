@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Scottish Thistle Awards
-
 Site of annual awards given to contributors to Scottish tourism.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband attacks Tories' war on poor and tax breaks for wealthy in five-point election battle plan
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-#  Institute for War & Peace Reporting (IWPR)
-
 The Institute for War & Peace Reporting is governed by senior journalists, peace-building experts, regional specialists and business professionals. All Members serve on the IWPR International Board, to provide strategic, guidance, issues and regional expertise, development and outreach assistance, and direct support.

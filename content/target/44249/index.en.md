@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# Irvine Folk Club
-
 Site of a Scotish traditional music club based in Irvine, Ayrshire Scotland.

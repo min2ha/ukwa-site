@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Banchory Ternan East Parish Church of Scotland
-
 Site of a Church of Scotland parish church located in Banchory, Aberdeenshire.

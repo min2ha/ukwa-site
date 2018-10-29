@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Civic Forums in Scotland
-
 Site of an organisation dedicated to the delivery of a online space where the public and their civic representatives can come together to discuss the matters that affect everybody in society, and which can and must actually be tackled through new legislation and appropriate policy making.

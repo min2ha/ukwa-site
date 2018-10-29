@@ -664,6 +664,4 @@
   "endDateText": "14-01-2016"
 }
 
-# Ebola Outbreak, West Africa 2014
-
 The West African Ebola virus epidemic (2013–2016) was the most widespread outbreak of Ebola virus disease in history—causing major loss of life and socioeconomic disruption in the region, mainly in the countries of Guinea, Liberia, and Sierra Leone. This collection of websites was curated by staff at the Bodleian Library Oxford, focussing on the UK response to the disaster. 

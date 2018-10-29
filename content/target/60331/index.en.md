@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Karting1.co.uk Forum
-
 An online enthusiast community concerned with Go-karting. Discusses various types of Go-karting including: Rotax-Max, TKM, IAME X30, 100cc, KZ. Includes sections for advice on driving techniques, chassis set up and various other related topics.

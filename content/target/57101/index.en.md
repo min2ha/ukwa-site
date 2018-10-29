@@ -10,5 +10,3 @@
   "start_date": "2017-09-12T09:00:00Z"
 }
 
-# Natural England Access to Evidence
-

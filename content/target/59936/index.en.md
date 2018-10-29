@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# PEAK : Contemporary Art in the Black Mountains
-
 PEAK is an initiative devised by Arts Alive Wales to develop opportunities for contemporary art in the Black Mountains and Welsh Borders for the benefit of the region’s artists, communities and visitors.

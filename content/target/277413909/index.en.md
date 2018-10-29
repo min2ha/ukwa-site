@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Andre Stitt
-
 <p>Andre Stitt is Professor of Fine Art at the Cardiff School of Art &amp; Design.</p>

@@ -10,5 +10,3 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# North Wales Regional Aggregates Working Party | Gweithgor Rhanbarthol Gogledd Cymru ar Agrerau
-

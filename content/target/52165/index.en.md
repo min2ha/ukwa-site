@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# I Like Corbyn, But…
-
 A website developed by volunteers that aims to bust some of the myths portrayed about Jeremy Corbyn in the media in the run up to the 2017 General Election.

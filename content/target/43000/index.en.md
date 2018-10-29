@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Clearwell Caves
-
 Website for Clearwell Caves - ancient natural caves in Gloucestershire, open for visitors, music and events

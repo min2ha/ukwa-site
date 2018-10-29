@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bath and North East Somerset Health and Wellbeing
-
 None

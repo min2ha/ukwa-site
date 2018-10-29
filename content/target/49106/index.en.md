@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Department for the Economy: Renewable Heat Incentive (RHI)
-

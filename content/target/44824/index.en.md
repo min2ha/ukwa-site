@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Artists for Palestine UK
-
 Artists for Palestine UK is a growing network of artists, cultural workers and activists who wish to make a stand in support of justice and equality for the Palestinians, and defend arts organisations and individuals who do make such a stand against politically motivated attacks and censorship.

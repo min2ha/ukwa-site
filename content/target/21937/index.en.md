@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# PONT - linking RCT with Mbale, Uganda
-
 PONT is a community to community link between Rhondda Cynon Taf and a district in Uganda called Mbale.

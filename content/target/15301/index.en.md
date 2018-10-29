@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Times Series
-
 None

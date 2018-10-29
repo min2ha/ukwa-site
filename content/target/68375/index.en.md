@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leavers of London
-
 Leavers of London is a monthly meetup group where like-minded people who voted Leave in the EU referendum - left and right leaning, can come together to:share personal experiences from voting Leave; represent the Leave vote in London in a positive light; reform the perception of Leave voters and build a positive case for the UK’s future outside of the EU; and discuss and implement ideas for how the UK can use the referendum result to build a more equal and inclusive society

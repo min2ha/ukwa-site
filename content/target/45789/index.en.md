@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# London Local Pubs
-
 When Historypin, a community history organisation, heard that the National Brewery Heritage Trust held the Charrington collection, an unseen collection of 6,000 pub photos, they wanted to help track down the pubs and discover the stories behind the photos. The book London Local Pubs: Past and Present documents these stories.

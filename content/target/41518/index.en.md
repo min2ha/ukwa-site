@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Foreign investors rush to Britain, despite EU referendum uncertainty
-

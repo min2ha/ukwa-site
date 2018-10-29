@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Resist  + Renew
-
 Resist + Renew is a collective of friends; activists; artists; and radical educators developing and running participatory workshops, courses and spaces for discussion.
 
 We see this as the first step in working towards building an autonomous community and radical learning space. The values of intersectionality, ecology, feminism, anarchism, anti-racism and direct democracy are central to this project.

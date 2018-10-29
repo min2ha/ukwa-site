@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: public procurement
-
 Immediately after Brexit, existing UK regulations on procurement – which implement EU directives – will continue to apply. After this, there will be more freedom for the UK to set/change its own procurement rules.
 
 

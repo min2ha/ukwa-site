@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nick Yeomans  (@NickPavilion15) on Twitter  Independent Parliamentary Candidate for Brighton Pavilion 
-

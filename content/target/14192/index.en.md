@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jon @t_traynor1 on Twitter: Social media interactions on #indyref
-
 <p>A picture showing a map of the UK with blue lights indicating 'yes' support and red indicating 'no'. Posted on 18 September 2014.</p>

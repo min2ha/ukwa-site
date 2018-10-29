@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Were Blog
-
 Green Party candidate for Monmouth

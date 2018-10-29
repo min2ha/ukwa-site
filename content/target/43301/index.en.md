@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters: Scottish leader says EU referendum on knife edge, Brexit could trigger independence vote
-
 An article discussing the possible impact 'Brexit' may have on another Scottish independence referendum.

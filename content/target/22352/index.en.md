@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Karen Utting (@karenjutting) on Twitter
-
 Twitter profile of Karen Utting, the Liberal Democrats candidate for Edinburgh East in the 2015 UK General Election.

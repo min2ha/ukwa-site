@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute of Chartered Accountants in England & Wales (ICAEW): ICAEW General Election Manifesto
-
 ICAEW is a world leading professional membership organisation that promotes, develops and supports over 144,000 chartered accountants worldwide. They provide qualifications and professional development, share our knowledge, insight and technical expertise, and protect the quality and integrity of the accountancy and finance profession.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Patrick Grady - SNP MP for Glasgow North
-

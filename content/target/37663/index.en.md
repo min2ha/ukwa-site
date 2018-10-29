@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Tourism Alliance
-
 The Tourism Alliance seeks to establish and maintain a favourable operating environment for all businesses involved in the delivery of tourism, particularly in England. Their main purpose is to lobby government both in the UK and Brussels on the key strategic issues facing the industry.Their Members comprise leading Trade Associations and Destination Management organisations within the sector. 

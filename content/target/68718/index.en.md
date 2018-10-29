@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit Secretary David Davis resigns
-
 David Davis, who had been leading UK negotiations to leave the EU, quit his role as Brexit Secretary. He told the BBC that he was no longer the best person to deliver the PM's Brexit plan - agreed by the cabinet the previous Friday - as he did not "believe" in it. 

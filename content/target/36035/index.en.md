@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Donna Heddle SNP (@DonnaHeddle) on Twitter
-
 The Twitter profile of Donna Heddle, the Scottish National Party candidate for Orkney in the 2016 Scottish Parliament election.

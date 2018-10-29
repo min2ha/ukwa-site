@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# The Chartered College of Teaching
-
 The Chartered College opened in January 2017 as the new professional body for the teaching profession. 

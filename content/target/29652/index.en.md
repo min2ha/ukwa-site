@@ -10,6 +10,4 @@
   "start_date": "2015-11-23T09:00:00Z"
 }
 
-# Salisbury International Arts Festival 
-
 Salisbury International Arts Festival 

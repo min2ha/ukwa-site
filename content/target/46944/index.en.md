@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Kate Innes Writer
-
 Kate Innes is the Author of 'The Errant Hours' -a literary adventure set in Medieval Britain.

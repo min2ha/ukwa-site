@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Pam bod Plaid Cymru yn hybu plaid arall?
-

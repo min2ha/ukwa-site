@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Derek Wann (@anguscampaigner) on Twitter
-
 The Twitter profile of Derek Wann, formerly the Scottish Conservative and Unionist candidate for Angus South in the 2016 Scottish Parliament election.

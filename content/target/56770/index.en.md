@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Our Super Adventure
-
 A diary webcomic by Sarah Graley, focusing on her relationship with her partner and their cats.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Rhodri Brooks
-
 Rhodri Brooks is a Cardiff based photographer and musician.

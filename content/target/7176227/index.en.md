@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Fusion View
-
 None

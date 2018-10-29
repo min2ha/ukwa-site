@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Forensic Investigation of Digital Objects (FIDO)
-
 The Forensic Investigation of Digital Objects (FIDO) project aimed to investigate the application of digital forensics within the working practices of a UK HE archive. The project also aimed to demonstrate the value of adopting tools and techniques developed for the emerging digital forensics field, while building upon the long-standing archival theory archival and digital curation approaches. 

@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# National Rheumatoid Arthritis Society (NRAS)
-
 The NRAS aim to provide information and support for people with rheumatoid arthritis (RA) and juvenile idiopathic arthritis (JIA), their families, friends and carers, as well as health professionals with an interest in RA.

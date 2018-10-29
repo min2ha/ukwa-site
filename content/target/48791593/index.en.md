@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# European Research Area in Ageing 2 (ERA-AGE 2)
-
 None

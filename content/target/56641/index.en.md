@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Institute of Chartered Accountants in England & Wales: ICAEW UK Business Confidence Monitor (BCM) : Q 3 2017
-
 The latest ICAEW UK Business Confidence Monitor (BCM) shows that business confidence has returned to negative territory, reversing the gains made in Q2 2017. A snap general election, the hung parliament and the hesitant progress of negotiations with the EU has meant British businesses are now adopting a more cautious, wait-and-see approach.
 

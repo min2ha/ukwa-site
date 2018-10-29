@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Doncaster Conservatives
-
 Website of Doncaster Conservatives, providing information on borough councillors and MEPs, events, campaigns, and local and national news and opinion.

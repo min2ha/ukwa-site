@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Iain McGill (Conservative) on Twitter
-
 Twitter profile of Iain McGill, Scottish Conservative and Unionist Party candidate for Edinburgh North and Leith in the 2017 general election.

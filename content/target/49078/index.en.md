@@ -10,6 +10,4 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Illustrated Books
-
 Their aim is to capture and preserve illustrated books. In particular children's picture books. I run this as a commercial concern to help its survival. Articles and notes on illustration and the culture surrounding it are added to the site with the aim of building a broad interest in illustrated books.

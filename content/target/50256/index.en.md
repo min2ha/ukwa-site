@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Friends of Northampton Castle
-
 The Friends of Northampton Castle is a small working group dedicated to making sure that the importance of our medieval heritage is recognised and celebrated.

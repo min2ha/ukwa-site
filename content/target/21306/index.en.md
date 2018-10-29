@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# War Songs 19:14-19:18
-
 WarSongs 19:14 – 19:18 is a project to create songs and music from the WW1 poetry of Gloucestershire’s Ivor Gurney and weave them into a musical tapestry of 2 pieces of music: one 19 minutes and 14 seconds long and one 19 minutes and 18 seconds long. George Moorey and Leo Saunders are working with Gloucester’s musicians and musicians and choirs from the local Crypt School and Heron School to create and record the pieces for them to be performed at the Guildhall, Gloucester on Friday 6th March 2015.

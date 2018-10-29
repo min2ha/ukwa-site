@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Swansea Beach Soccer Festival
-
 Website for the Swansea Beach Soccer Festival.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron plans massive expansion of free schools if Conservatives win election
-
 None

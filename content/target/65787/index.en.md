@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Brexit and devolution: wanted – joined-up thinking
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Bellerby & Co. Globemakers
-
 Company website of one of the few remaining globe makers in the UK

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Lewis Barber: I'm a proud Tory. But with the Left this belligerent and self-righteous, is it any wonder that so many of us are 'shy'?
-
 None

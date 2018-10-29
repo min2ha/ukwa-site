@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Sheffield (@SfbSheffield) on Twitter
-
 Sheffield branch of Students for Britain, campaigning for the UK to leave the EU

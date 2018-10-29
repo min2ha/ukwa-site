@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wrexham Conservatives
-
 Website of Wrexham Conservatives, providing information on Unitary and Association officers, parliamentary candidates, speeches in Parliament, and local and national news.

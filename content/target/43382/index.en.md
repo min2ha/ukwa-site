@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Archbishop of Cantebury, The: Archbishop Justin Welby on the EU referendum
-
 Archbishop of Cantebury Justin Welby on the future of Britain in the EU and the relevance of Christian principles

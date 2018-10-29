@@ -10,5 +10,3 @@
   "start_date": "2015-04-14T08:00:00Z"
 }
 
-# Penmaenmawr and Dwygylchfi Community website
-

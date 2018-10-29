@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Jamaican High Commission United Kingdom
-
 The Jamaican High Commission in London has responsibility for a range of issues spanning bilateral, multilateral, consular and community relations. The High Commission has a staff complement of over twenty persons. It also houses the Offices of the Jamaica Tourist Board (JTB) and Jamaica Promotions Corporation (JAMPRO)

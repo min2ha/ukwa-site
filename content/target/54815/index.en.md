@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Engineering Employers' Federation (EEF): Industry calls for Brexit Strategy re-think with access to single market and customs union on the table
-
 Britain’s manufacturers called on the new Government in power after the 2017 general election to re-think its Brexit strategy and put access to the single market and a form of customs union, along with a suitable transition period, firmly back on the table at the heart of its negotiating strategy.

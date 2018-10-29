@@ -10,5 +10,3 @@
   "start_date": "2011-04-04T00:00:00Z"
 }
 
-# Mr Producer
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Medium: Brexit and the Calais problem
-
 How Brexit will influence the Calais situation

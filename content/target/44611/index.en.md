@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Woking Amateur Operatic Society
-
 Woking Amateur Operatic Society is a musical theatre company based in Woking, Surrey, United Kingdom. They produce two shows each year at the Rhoda McGaw Theatre, as well as fundraising concerts and other social events.

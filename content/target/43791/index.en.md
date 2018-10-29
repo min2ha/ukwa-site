@@ -10,6 +10,4 @@
   "start_date": "2016-06-26T11:00:00Z"
 }
 
-# Hazards Campaign
-
 The hazards campaign supports those organising and campaigning for justice and safety at work. 

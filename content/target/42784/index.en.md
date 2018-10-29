@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Three Counties Hunt Saboteurs
-
 Three Counties Hunt Saboteurs are dedicated to preventing hunts from killing wildlife in the Gloucestershire, Herefordshire and Worcestershire areas. 

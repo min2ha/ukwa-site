@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of Obstetricians and Gynaecologists: RCOG announcement: RCOG/FSRH publish joint manifesto for the General Election
-
 The Royal College of Obstetricians and Gynaecologists (RCOG) works to improve health care for women everywhere, by setting standards for clinical practice, providing doctors with training and lifelong learning, and advocating for women’s health care worldwide.

@@ -10,6 +10,4 @@
   "start_date": "2007-04-04T00:00:00Z"
 }
 
-# Environmental Health Resources
-
 The UK environmental health policies attempts to ensure safe public health by addressing all aspects and effects of natural and built environment on human health and protecting against the effects of environmental hazards that affect humans and disrupt the ecological balance.

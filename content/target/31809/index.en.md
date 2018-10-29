@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Wales Quality Centre
-
 The Wales Quality Centre provides ISO Management Standards, Business Improvement and Business Skills training to organisations in Wales and across the UK. 

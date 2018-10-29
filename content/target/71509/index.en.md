@@ -10,6 +10,4 @@
   "start_date": "2018-09-22T09:00:00Z"
 }
 
-# Dan Edwards
-
 Dan Edwards is a Welsh painter living and working in Cardiff influenced by 1960s pop art and contemporary photorealist painting.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glasgow Islay Gaelic Choir
-

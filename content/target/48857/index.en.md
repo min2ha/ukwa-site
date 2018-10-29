@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Cardiff Theatrical Services (CTS)
-
 Established in 1984, CTS is a wholly owned subsidiary of Welsh National Opera.

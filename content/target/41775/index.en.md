@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Football Fans for Europe
-
 A grassroots organisation of football fans campaigning for Britain to stay in the EU

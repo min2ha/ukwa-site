@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Farrelly (Labour Politician)
-
 Paul Farrelly stood as Labour Candidate for Newcastle-under-Lyme in the 2017 General Election and was elected as MP. He first stood for Newcastle-under-Lyme in 2001.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Parish Church
-
 Website of St. Andrew's Parish Church, which is located in Arbroath.

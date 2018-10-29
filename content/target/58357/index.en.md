@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hippodrome Silent Film Festival
-
 Site of an annual festival of silent film held at the Hippodrome Cinema, Bo'ness, West Lothian.

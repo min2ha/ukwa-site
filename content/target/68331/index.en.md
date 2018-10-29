@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Prestatyn & Clwydian Range Walking Festival
-
 Walking festival with a range of walks suitable for all ages and abilities

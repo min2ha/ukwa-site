@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: New Brexit legal challenge blocked by High Court
-
 Campaigners had argued that Parliament needed to separately give consent to take Britain out of the European Economic Area (EEA). High Court judges refused leave for the challenge to go ahead on 3rd February 2017.

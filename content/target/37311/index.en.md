@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Scalloway Museum
-
 Site for a museum in the village of Scalloway, on Mainland, Shetland, Scotland

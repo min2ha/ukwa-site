@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Norena Shopland (@NorenaShopland) on Twitter
-
 Norena Shopland is an Author/historian who specialises in researching, recording and promoting LGBT history across Wales. She is author of Forbidden Lives: LGBT stories from Wales.

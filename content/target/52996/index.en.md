@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maidenhead Liberal Democrats (@maidenheadLD ) on Twitter
-
 Twitter feed of the Maidenhead Liberal Democrats

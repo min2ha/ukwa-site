@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Aberavon Labour (@AberavonLabour) on Twitter 
-
 Twitter account representing Aberavon Labour

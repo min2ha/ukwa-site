@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Driving Instructors Association
-
 Driving Instructors Association is the largest professional membership body for driver and rider trainers in the UK. We offer support, advice, professional development and training, lobbying and representation to trainers working across the vehicle and licence categories.

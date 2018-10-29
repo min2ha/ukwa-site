@@ -11,5 +11,3 @@
   "subject": "Jersey Collection"
 }
 
-# Channel Islands Brussels Office
-

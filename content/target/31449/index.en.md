@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# DisabledGo
-
 DisabledGo provides information to thousands of venues across the UK and the Republic of Ireland: shops, pubs, restaurants, cinemas, theatres, railway stations, hotels, universities, hospitals and more. Their mission is to maximise independence and choice for disabled people in accessing their local area and the places all want to visit.

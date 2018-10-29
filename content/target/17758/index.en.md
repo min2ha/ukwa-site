@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ros Wynne-Jones. If I were Prime Minister: I'd restore the dignity of disabled people
-
 None

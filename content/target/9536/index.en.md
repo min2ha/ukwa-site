@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# London Green Party:  European parliamentary Elections 2014
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Norwich: capital of the church’s radical campaign for country with a conscience
-
 None

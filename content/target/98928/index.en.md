@@ -10,6 +10,4 @@
   "start_date": "2005-03-10T00:00:00Z"
 }
 
-# Independent Group of Analytical Psychologists
-
 IGAP, the Independent Group of Analytical Psychologists are United Kingdom based Jungian Analysts. We are all members of the International Association for Analytical Psychology (IAAP) and are eligible for registration with the United Kingdom Council for Psychotherapy (UKCP) Analytical Psychology Section. 

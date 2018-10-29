@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB), The
-
 The Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB) was founded in 1964. The society has an international membership drawn from both academia and industry.

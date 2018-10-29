@@ -10,5 +10,3 @@
   "start_date": "2018-05-01T00:00:00Z"
 }
 
-# Blawarthill Parish Church
-

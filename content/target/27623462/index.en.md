@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Quality Assurance Agency for Higher Education (QAA)
-
 The Quality Assurance Agency for Higher Education (QAA)​​ is the independent body entrusted with monitoring, and advising on, standards and quality in UK higher education.​

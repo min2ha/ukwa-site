@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Institute of Training and Occupational Learning
-
 The Institute of Training and Occupational Learning (ITOL) is the UK’s elite professional body for trainers and L&D Professionals.

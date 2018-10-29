@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cornwall Shinty Club on Facebook
-
 Facebook page for a shinty club based in Penryn, Cornwall.

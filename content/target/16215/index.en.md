@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Plaid Cymru Llanelli
-
 <p>This is the site for the Llanelli Plaid Cymru branch.</p>

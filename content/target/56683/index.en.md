@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Told in the Huts on Facebook
-
 Told in the huts is a project to highlight the work of the YMCA and other support organisations in providing support to the Armed Forces during wartime. 

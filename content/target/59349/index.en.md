@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Phil Clark
-
 Phil Clark is a theatre director, writer and a former nominated BBC Wales Artist of the Year. Phil Clark was born in Brecon. His specialism is writing for young and family audiences.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Visit Beaumaris
-
 Visit Beaumaris is a tourist information guide to to the town of Beaumaris in Anglesey brough to you by Beaumaris Chamber of Trade and Commerce.

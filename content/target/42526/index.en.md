@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Final star-studded celebration of Queen's 90th birthday hosted by Ant and Dec with 1,000 horses
-
 Details of celebrations taking place to celebrate the Queen's 90th birthday.

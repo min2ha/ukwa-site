@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Dear Scotland | From the National Theatre of Scotland
-
 <p>The National Theatre of Scotland's collection of notes to Scotland, written during the Referendum year.</p>

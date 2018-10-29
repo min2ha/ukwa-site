@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Fearn Peninsula
-
 Site providing local history and visitor information and resources relating to the Fearn peninsula area of [formerly] Easter Ross, Highland, Scotland.

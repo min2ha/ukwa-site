@@ -10,5 +10,3 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Brunel’s SS Great Britain
-

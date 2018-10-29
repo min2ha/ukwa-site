@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# St John's College, University of Cambridge
-
 <p>Official website of St John's College, University of Cambridge.</p>

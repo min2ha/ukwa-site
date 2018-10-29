@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# English Heritage: Salisbury Cathedral & Magna Carta
-

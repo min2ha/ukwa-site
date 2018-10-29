@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Carers Wales
-
 Working as part of Carers UK, Carers Wales gives expert advice, information and support and campaign for new ways to reach and support carers throughout Wales.

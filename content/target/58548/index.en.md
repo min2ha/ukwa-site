@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Visit Knoydart
-
 Site providing visitor / tourist information for the district of Knoydart, Highland, Scotland.

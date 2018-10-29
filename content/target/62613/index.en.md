@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Green Gown Awards
-
 Green Gown Awards. The Green Gown Awards recognise the exceptional sustainability initiatives being undertaken by universities and colleges across the world.

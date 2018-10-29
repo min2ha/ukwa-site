@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# East Lothian Greens
-
 Website of East Lothian Greens, providing blog posts on local and national issues and how to contact, support or join the party. 

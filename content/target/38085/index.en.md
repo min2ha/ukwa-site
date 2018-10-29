@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# East Midlands Stonger In (@EMidsStrongerIn) on Twitter
-
 East Midlands regional campaign for the UK to stay in the EU

@@ -10,5 +10,3 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Montgomeryshire Barn Owl Group
-

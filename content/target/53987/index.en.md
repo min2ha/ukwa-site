@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Mid Sussex (@UKIPMidSussex) on Twitter
-
 Official Twitter for UKIP Mid Sussex.

@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mark Ereira-Guyer (Green Party) on Twitter
-

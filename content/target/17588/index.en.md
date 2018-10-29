@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Balls twice refuses to answer if Ed acted morally over tax as Labour faces allegations about donors and close advisers' tax affairs 
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Statue of Queen to mark Magna Carta sealing in Runnymede
-

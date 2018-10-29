@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mount School, The
-

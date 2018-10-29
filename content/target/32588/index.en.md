@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Inspired Careers
-
 Inspired Careers is a website with information about jobs and jobs' listings in the cyber security.

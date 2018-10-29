@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Arrest Blair
-
 <p>Arrest Blair was founded by George Monbiot, an English writer, known for his environmental and political activism. This site offers a reward to people attempting a peaceful citizen’s arrest of the former British prime minister, Tony Blair.</p>

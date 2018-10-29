@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northamptonshire Healthcare NHS Foundation Trust
-
 None

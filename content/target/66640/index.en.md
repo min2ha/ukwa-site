@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Maxi Construction Limited
-
 The website of Maxi Construction Limited, a building and construction company based in Livingston, Scotland. Maxi Construction Limited is part of the Maxi Caledonian Limited group.

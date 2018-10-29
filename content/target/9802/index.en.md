@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian: The European parliament elections in 2014 are about more than protest votes
-
 None

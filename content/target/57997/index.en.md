@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: The UK Border
-
 Border management is fundamentally important to effective trade, tourism, national security and well-managed migration. It requires many parts of government to coordinate and make often complex decisions to permit people or goods to cross the border. This publication sets out how government works at the border and the challenges that it needs to tackle to manage the border effectively. It then looks ahead to the implications for border management that might arise from the UK’s departure from the European Union.
 

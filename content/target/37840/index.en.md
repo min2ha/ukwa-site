@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Canolfan a Menter Gymraeg Merthyr Tudful
-

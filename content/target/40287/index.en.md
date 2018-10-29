@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Aberdour Community Council
-
 Site of a local community council based in Fife, Scotland, incorporating information on the village's history.

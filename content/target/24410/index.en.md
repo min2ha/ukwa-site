@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage says we want our country back, Ukip manifesto launch: as it happened
-
 None

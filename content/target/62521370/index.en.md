@@ -10,5 +10,3 @@
   "start_date": "2012-05-11T00:00:00Z"
 }
 
-# Gweithlu Camddefnyddio Sylweddau Cymru | Substance Misuse Workforce Wales
-

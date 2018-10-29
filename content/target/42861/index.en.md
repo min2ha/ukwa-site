@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scottish Gamekeepers Association
-
 Site of a Scottish association representing Scotland’s gamekeepers, stalkers, ghillies, wildlife managers and rangers, and promoting education and best practice in gamekeeping, highlighting the contribution gamekeepers make to Scotland’s economy, environment, biodiversity and food production.

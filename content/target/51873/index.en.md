@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Arran Events
-
 Site of an organisation set up as community interest company on The Isle of Arran which aims to promote live music events on the island throughout the year - all our profits are either reinvested in the company to ensure its continuance or used for the benefit of the local community; organisers of the Arran Folk Festival.

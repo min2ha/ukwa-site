@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory income tax 'lock' a gimmick, says Ed Balls
-
 None

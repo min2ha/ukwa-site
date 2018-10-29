@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Milliband demands apology from Iain Duncan-Smith over tax' smear'
-
 None

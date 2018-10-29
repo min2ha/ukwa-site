@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - My essay on my tortuous path - via debates with my...
-
 Ewan Morrison's post of the 22nd July, 2014.

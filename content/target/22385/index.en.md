@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron will not serve full second term, says Iain Duncan Smith
-
 None

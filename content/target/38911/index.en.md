@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fair Funding For Our Kids
-
 Fair Funding for our Kids is a campaign for fair early learning and childcare funding for Scotland's children.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Conservatives agree pact with DUP to support May government
-
 An agreement was reached on June 26th which saw  the Democratic Unionist Party back Theresa May's minority Conservative government.

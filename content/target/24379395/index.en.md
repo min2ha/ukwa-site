@@ -10,5 +10,3 @@
   "start_date": "2008-11-25T00:00:00Z"
 }
 
-# Revival, The - voice of the Muslim youth
-

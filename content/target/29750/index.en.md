@@ -10,6 +10,4 @@
   "start_date": "2015-08-13T10:00:00Z"
 }
 
-# Brent Council: Wembley WordFest launches new Wembley Library
-
 Festival organised by the Brent Civic Centre

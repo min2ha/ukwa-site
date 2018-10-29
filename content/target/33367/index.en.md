@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Honno Press
-
 Honno is a co-operative press run by women and publish Welsh women's writing. 

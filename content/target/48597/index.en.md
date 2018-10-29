@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Clyde Space
-
 Clyde Space is a Glasgow based company which designs and supplies CubeSats and small satellite systems.

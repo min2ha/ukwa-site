@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Old Oban
-
 Wiki for collaborative recording of information regarding the town of Oban, Argyll & Bute

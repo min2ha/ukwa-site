@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cumbernauld SSP (@Cumbernauld_SSP) on Twitter
-
 The twitter profile of Cumbernauld SSP.

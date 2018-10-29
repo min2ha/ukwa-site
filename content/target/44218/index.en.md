@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Malt Whisky Distilleries
-
 Site of a group of Scots whisky distilleries and their visitor centres.

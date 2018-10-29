@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Royal Air Force Akrotiri Revisited  
-
 Royal Air Force Akrotiri website.

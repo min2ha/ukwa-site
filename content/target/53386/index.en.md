@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# engaGE17
-
 engaGE17 is an initiative from Christian Public Policy charity CARE to promote active engagement in the General Election. It provides a range of resources to enable Christian thinking about important issues and voter participation.

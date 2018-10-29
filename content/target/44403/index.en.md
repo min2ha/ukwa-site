@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Trade Unionists Against the EU
-

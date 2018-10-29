@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Queen facing million-pound black hole in estate finances after Brexit 
-
 Sandringham Estate, the Queen’s country retreat in Norfolk, will lose close to £700,000 a year when EU farming subsidies end while the farms near Windsor Castle will be around £300,000 down. 

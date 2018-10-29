@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North West Surrey CCG
-
 None

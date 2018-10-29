@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Green Party move pre-General Election conference to bigger venue after surge in support
-
 None

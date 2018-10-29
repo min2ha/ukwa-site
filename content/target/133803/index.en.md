@@ -10,5 +10,3 @@
   "start_date": "2010-10-13T00:00:00Z"
 }
 
-# Coleg Abertawe - Swansea College
-

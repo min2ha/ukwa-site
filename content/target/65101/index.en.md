@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Remainer Lords vote to strip Theresa May of ability to walk away from EU with no deal in bid to 'delay, frustrate and ultimately block Brexit' as one peer compares PM’s tactics to those of Hitler   
-

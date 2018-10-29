@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Telegraph Blogs: Allan Massie
-
 None

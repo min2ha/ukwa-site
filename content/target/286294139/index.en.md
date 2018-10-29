@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# New Music Biennial
-
 <p>New Music Biennial is a PRS for Music Foundation initiative, in partnership with Creative Scotland, Arts Council England and the British Council. It is presented in collaboration with BBC Radio 3, NMC Recordings, Southbank Centre and Glasgow UNESCO City of Music. Many events in Summer 2014 are part of the Glasgow 2014 Cultural Programme.</p>

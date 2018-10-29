@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Prof. Nigel Copner on Facebook (Plaid Cymru candidate for Islwyn)
-
 Prof. Nigel Copner is the Plaid Cymru candidate for Islwyn at the 2016 National Assembly for Wales elections. 

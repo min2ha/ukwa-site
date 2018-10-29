@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron faces a grass roots revolt as just one in four of his constituency party chairmen back him on the EU referendum   
-

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Online News Sources
-
 A website created by Wanda Dunn with the intention of creating a trustworthy information portal. Until 2012 this URL hosted a performance artist website called Brown Mountain College.

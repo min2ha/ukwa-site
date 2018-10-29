@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church Dalbeattie
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Dalbeattie, Dumfries & Galloway.

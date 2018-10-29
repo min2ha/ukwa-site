@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Nuclear Awareness Group [NAG] 
-
 The Nuclear Awareness Group (NAG), is a Reading-based local group which grew out of the Community Inquiry into AWE Aldermaston and Burghfield held in Reading in March 1994. As a watch-dog group, it acts on behalf of its members and the community to ensure that radioactive discharges from AWE continue to fall to the lowest possible level.

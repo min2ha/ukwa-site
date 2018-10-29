@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Fiction Uncovered
-
 Fiction Uncovered launched in 2011 with funding from Arts Council England (Grants for the Arts). It was dedicated to rewarding the best British Fiction writing across all forms and however it was published. We celebrated British fiction year-round on our website with reviews, interviews and guest posts.

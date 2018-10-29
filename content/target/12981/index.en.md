@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Assemble: An International Print Workshop
-
 <p>Assemble is an exhibition and participatory project by artist Rachel Barron. People of all ages, backgrounds and abilities are invited to take part by printing their own flag. These individual contributions will gradually assemble to form a large-scale installation at Govanhill Baths. Part of the Glasgow 2014 Cultural Programme.</p>

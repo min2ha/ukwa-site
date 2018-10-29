@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Babergh District Council
-
 Website offers information about Babergh District Council activities and services and full text of committee papers.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Disability Benefits Consortium (DBC)
-
 The Disability Benefits Consortium (DBC) is a national coalition of over 60 different charities and other organisations committed to working towards a fair benefits system.

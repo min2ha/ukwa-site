@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# O2: Online addiction
-
 Webpage on the site for the business O2 in conjunction with the NPSCC to offer advice on how to keep kids safe online and minimise the potential to become addicted to the internet

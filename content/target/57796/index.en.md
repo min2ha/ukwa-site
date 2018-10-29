@@ -10,6 +10,4 @@
   "start_date": "2017-10-13T09:00:00Z"
 }
 
-# Braw Media
-
 "Braw Media is a digital media and events company run by Magnus Orr and based in Edinburgh."

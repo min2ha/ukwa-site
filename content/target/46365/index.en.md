@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Disability News Service
-
 News service focused on issues that affect the lives of disabled people such as discrimination, equality, independent living, benefits, poverty and human rights.

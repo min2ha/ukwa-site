@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: US Olympic committee will not investigate gymnastics 'sexual abuse'
-
 Report says officials failed to alert authorities to claims of abuse by coaches.

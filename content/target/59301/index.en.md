@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# VoxEU: Options for a ‘Global Britain’ after Brexit 
-
 New trade deals for the UK will be an important part of the Brexit negotiations, not only with the EU but also with the rest of the world. This column argues, however, that the UK has no trade-enhancing alternative to an agreement with the EU that essentially mimics its current situation as an EU member. A gravity model predicts that the negative impact of Brexit would be only marginally offset by a bilateral trade agreement with the US, and even in the case of trade agreements with all non-EU countries, the UK’s value-added exports would still fall by more than 6%.

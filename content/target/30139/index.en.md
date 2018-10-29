@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# Scene and Word
-
 Jonah Jones (1919 - 2004) was a Welsh sculptor, writer and artist-craftsman. 

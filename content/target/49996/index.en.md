@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Westhoughton Pentecostal Church
-
 Westhoughton Pentecostal Church is part of the Assemblies of God (AOG).

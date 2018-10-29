@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# 74 Productions
-
 74 Productions is a Cardiff based film production.

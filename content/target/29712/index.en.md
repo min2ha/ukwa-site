@@ -10,6 +10,4 @@
   "start_date": "2015-08-11T10:00:00Z"
 }
 
-# Theakston Old Peculier Harrogate Crime Writing Festival 
-
 The Theakston Old Peculier Harrogate Crime Writing Festival  is organised by Harrogate International Festivals

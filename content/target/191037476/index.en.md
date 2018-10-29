@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Thinly Spread but Not Snapped
-
 None

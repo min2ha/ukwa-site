@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Kidney Research UK
-
 Kidney Research UK is the national charity dedicated to research that will lead to better treatments and cures for kidney disease. They also provide information for patients and raise awareness of kidney-related issues among the general public.

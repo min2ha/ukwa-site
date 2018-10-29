@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Jacaranda Books Art Music Ltd
-
 Jacaranda Books Art Music Ltd is an independent publishing house based in London. 

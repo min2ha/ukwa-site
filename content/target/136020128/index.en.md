@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bexley LINk
-
 None

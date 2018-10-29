@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Trentham Rugby Club (@TRUFC1948) on Twitter
-
 The official Twitter account of Trentham Rugby Union Football Club.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Carmarthenshire's Voice: Brexit and the Future of Wales
-
 This section of the website is dedicated to sharing Plaid Cymru Carmarthenshire's views on Brexit.

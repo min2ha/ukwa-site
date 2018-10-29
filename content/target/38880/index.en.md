@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# East Cambridgeshire District Council
-
 Website of East Cambridgeshire District Council offers information about local services, news and events. You can also consult committee papers, read current consultations and look at the Council budget and accounts.

@@ -10,6 +10,4 @@
   "start_date": "2013-04-04T00:00:00Z"
 }
 
-# Skills You Need
-
 Essential life skills that will help you improve your personal and professional life.

@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Llyfr y Flwyddyn | Wales Book of the Year
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Moveable Feast
-
 Travelling festival featuring food, drink, music and crafts

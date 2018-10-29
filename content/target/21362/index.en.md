@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Beattie-Smith
-
 Sarah Beattie-Smith is the Scottish Green Party candidate for the South Scotland list in the 2016 Scottish Parliament election.

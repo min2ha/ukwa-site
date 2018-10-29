@@ -10,5 +10,3 @@
   "start_date": "2015-05-11T08:00:00Z"
 }
 
-# Groundwork North Wales | Groundwork Gogledd Cymru
-

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# National Student, The
-
 The National Student is the free, independent national student publication

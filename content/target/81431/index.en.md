@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chorley Buccaneers (@ChorleyBucs) on Twitter
-
 American Football Club for ages 7+ in #Chorley #Lancashire and has been competing in the UK since 2001. 2014 & 16 Cadet Flag National Champions!

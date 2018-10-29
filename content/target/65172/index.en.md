@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Borgue Church on Facebook
-
 Site of a Church of Scotland parish church at Borgue, Dumfries & Galloway.

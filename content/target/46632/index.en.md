@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Chimney's Link Masterplan Fishguard, Pembrokeshire
-
 The Chimney's Link Masterplan scheme involves the redevelopment of 1.5 hectares (ha) of land within Fishguard Town Centre with mixed-uses. The scheme also includes development of a new link road.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hill CIty Church, Pontnewydd.
-

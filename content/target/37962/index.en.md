@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Winning trade union support for EU vote will be 'difficult', PM warned 
-
 Guardian, The

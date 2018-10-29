@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Criw Mentrus, Y | Enterprise Troopers
-
 The Enterprise Troopers competition is part of the Welsh Government’s campaign to support young people in Wales to increase their awareness of business and improve their understanding of economic wellbeing.

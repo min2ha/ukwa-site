@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Staffordshire Women's Aid
-
 Staffordshire Women's Aid is a specialist service who have been providing Domestic and Sexual Violence Services since 1976.

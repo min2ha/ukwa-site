@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Powysland Club
-
 Powysland Club is county historical society and are reponsible for the journal, Montgomeryshire Collections.

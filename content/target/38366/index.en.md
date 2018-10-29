@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# CommonSpace: Easter Rising and Brexit debates in the UK are missing a vital Christian voice
-
 Article by Ross Ahlfeld on CommonSpace, a digital news and views service and a place to network, share ideas and discuss the issues affecting Scotland.

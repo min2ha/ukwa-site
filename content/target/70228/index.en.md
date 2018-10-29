@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Radio Society of Great Britain
-
 A forum for radio amateurs to participate in debates and consultations on various aspects of amateur radio

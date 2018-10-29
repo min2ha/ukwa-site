@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# British Library: Magna Carta
-
 This is the Magna Carta sub section of the main British Library website.

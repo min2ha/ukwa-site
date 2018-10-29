@@ -10,5 +10,3 @@
   "start_date": "2016-05-17T11:00:00Z"
 }
 
-# Cyngor Cymdeithas Coety Uchaf | Coity Higher Community Council
-

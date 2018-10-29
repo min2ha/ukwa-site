@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# Sweet Cherry Publishing
-
 Sweet Cherry Publishing is an independent children’s publishing company that specialises in fiction series. Their list targets a wide range of readers – from board books and picture books all the way through to YA. They publish a diverse selection of genres including action, fantasy, and coming-of-age, and  educational titles for younger children.

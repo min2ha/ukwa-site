@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chateau Clateau
-
 Chateau Clateau is an website and blog run by Jonathan Clatworthy focusing on theology, philosophy and ethics. He is also a Green Party candidate for Liverpool Walton in the UK General Election 2015.

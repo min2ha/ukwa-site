@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Moray Playhouse
-
 Site of a cinema located in Eligin, Moray.

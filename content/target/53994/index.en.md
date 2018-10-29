@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lewis Thompson (@LewisThomp_93) on Twitter (UKIP Politician)
-
 Lewis Thompson stood as UK Independence Party (UKIP) candidate for Normanton, Pontefract and Castleford in the 2017 General Election but was not elected.

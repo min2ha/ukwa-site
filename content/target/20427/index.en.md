@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# British Comedy Guide - All About UK Comedy
-
 A comedy reference website for British comedy, featuring radio, tv and live gig listings, forums, features on specific TV and radio shows (including historic listings) and comedians, podcasts, and interviews with comedians.

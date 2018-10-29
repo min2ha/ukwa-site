@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christine Jardine on Facebook
-
 This is the Facebook page of Christine Jardine, the Liberal Democrats candidate for Gordon in the UK General Election on the 7th May 2015 and Aberdeenshire East in the 2016 Scottish Parliamentary election.

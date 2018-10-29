@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caitlin Pringle (caitlinpringle) on Twitter
-
 <p>The twitter profile of althete Caitlin Pringle, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Inverness Campus
-
 A location for business, research and education developed by developed by Highlands and Islands Enterprise.

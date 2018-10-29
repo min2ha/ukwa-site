@@ -10,7 +10,5 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# Manchester Vineyard
-
 Manchester Vineyard is a new church led by Paul & Steph Lowe, who are planting from Trent Vineyard, Nottingham.
 

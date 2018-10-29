@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Pvt. Manning Family Fund
-
 Fundraising site created by Chelsea (formerly Bradley) Manning’s family in Wales  Chelsea’s family with the cost of prison visits between Pembrokeshire, Wales and Kansas.

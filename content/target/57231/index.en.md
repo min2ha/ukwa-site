@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# School Beat
-
 SchoolBeat.org is provided by the All-Wales School Liaison Core Programme and has information for teachers, pupils and parents to follow up on the lessons provided to primary and secondary school children by our School Community Police Officers.

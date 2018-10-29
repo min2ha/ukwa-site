@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Five Tory Cabinet ministers to unveil unprecedented attack on Labour plans for Government
-
 None

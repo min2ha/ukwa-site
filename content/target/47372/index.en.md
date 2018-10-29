@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Banks o' Dee Football Club
-
 Site of a Scottish junior football club based in Aberdeen, Scotland.

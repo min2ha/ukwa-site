@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Jesuit Refugee Service (JRS)
-
 The goal of JRS UK is threefold: to work towards the dignity of refugees and forced migrants; to improve the conditions under which refugees and forced migrants find themselves in the UK; to advocate for a values-based approach to the UK’s obligations of meeting the protection needs of refugees and forced migrants.

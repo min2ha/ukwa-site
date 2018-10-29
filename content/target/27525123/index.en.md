@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# motiroti
-
 They produced arts and cultural projects that provide voice, visibility, connectivity and opportunity within world cities. motiroti closed down at the end of March 2014.

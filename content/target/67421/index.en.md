@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Bellfield Brewery Ltd
-
 Site of a brewer located in Edinburgh.

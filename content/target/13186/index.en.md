@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ScottishConstitution (ScConstitution) on Twitter
-
 <p>The twitter profile associated with the website, the People's Constitution of Scotland, which aims to "engage the ordinary Scot in a debate about what a Constitution is, its importance and what it could look like".</p>

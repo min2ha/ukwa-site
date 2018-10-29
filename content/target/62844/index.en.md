@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# MmIT group (@MultiMediaIT) on Twitter
-
 The Multimedia Information and Technology Group is a Chartered Institute of Library and Information Professionals (CILIP) group.

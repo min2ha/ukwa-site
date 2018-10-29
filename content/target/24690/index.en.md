@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Clive Kenneth Semmens (@CliveKSemmens) on Twitter (Green Party candidate for South East Cambridgeshire)
-

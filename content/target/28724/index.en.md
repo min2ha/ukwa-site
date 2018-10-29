@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Getty Images: Flypast To Mark The 125th Anniversary Of Forth Bridge
-
 Images of a flypast marking the 125th anniversary of the bridge.

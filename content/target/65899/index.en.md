@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Abortion in Ireland: a Transformative Moment?: a Panel Discussion
-
 A panel discussion on women’s reproductive rights in modern Ireland in the lead up to the Republic of Ireland’s referendum on the repeal of the Eighth Amendment on the 25/05/2018. 

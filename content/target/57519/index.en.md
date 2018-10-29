@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Loyn + Co Architects
-
 Loyn + Co Architects are based in Penarth and are one of the few architects in Wales to champion contemporary design.

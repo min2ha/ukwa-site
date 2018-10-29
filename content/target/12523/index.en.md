@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicola Adams MBE (NicolaAdams2012) on Twitter
-
 Twitter profile of Nicola Adams, who boxed for Team England in the 2014 Commonwealth Games.

@@ -10,5 +10,3 @@
   "start_date": "2011-04-18T00:00:00Z"
 }
 
-# Ymddiriedolaeth Archaeolegol Dyfed - Dyfed Archaeological Trust
-

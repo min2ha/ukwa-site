@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Little (UKIP)
-
 David Little stood as UKIP candidate for Dover at the 2015 General Election but was not elected.

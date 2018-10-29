@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lakes Alive Festival
-
 Annual festival celebrating landscape, people and place, showcasing, commissioning and creating, world class work for both the outdoors and site specific locations.

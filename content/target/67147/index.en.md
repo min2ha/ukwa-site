@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th June 2018: Leaving the EU: Parliamentary Vote
-
 Debate on petition which demands that Parliament's vote on the Brexit deal must include the option of remaining in the EU

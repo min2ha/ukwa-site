@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart Bestwick (@StuartBestwick)  on Twitter (UKIP Politician)
-
 Stuart Bestwick stood as UK Independence Party (UKIP) candidate for  Sherwood in the 2017 General Election but was not elected.

@@ -10,5 +10,3 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Heart of Wales Line Enterprise Network (HoWLEN)
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Carlisle 
-
 Official website of the Diocese of Carlisle.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: YOUR chance to change the future of Britain and send the Tories packing
-
 None

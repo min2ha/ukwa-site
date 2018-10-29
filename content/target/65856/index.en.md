@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Cambridge Science Festival
-

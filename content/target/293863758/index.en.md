@@ -10,5 +10,3 @@
   "start_date": "2015-05-19T00:00:00Z"
 }
 
-# CAMAD - Community Action Machynlleth District
-

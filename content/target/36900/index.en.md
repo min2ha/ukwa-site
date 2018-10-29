@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Ipswich Borough Council
-
 Website of Ipswich Borough Council gives information about its activities and services, and access to consultations, local plans, and council committee papers.

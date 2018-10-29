@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Living with Conflict
-
 A UK-specific Quaker site about conflict within communities. Site was closed down mid June 2017.

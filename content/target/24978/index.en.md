@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Mail is the UK's most influential newspaper: Among those affected by coverage, majority said this paper had greatest impact
-
 None

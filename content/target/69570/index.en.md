@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Thomas' Church, Belfast
-

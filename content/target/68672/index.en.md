@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beach Life Festival
-
 Website for the Beach Life Festival, a Sports Festival

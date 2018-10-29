@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# State of Wales
-
 State of Wales is a quarterly magazine-style political blog covering the major issues facing Wales. Each “edition”, with around 12 articles, will be published every three months.

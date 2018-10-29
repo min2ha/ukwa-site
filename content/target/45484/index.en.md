@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Industrial Museums Scotland
-
 Site of an association of industrial heritage museums throughout Scotland.

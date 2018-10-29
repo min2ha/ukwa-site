@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK plans to soften impact on European banks
-
 The BBC had learned that the Bank of England was about to unveil plans allowing European banks to operate in the UK as normal post-Brexit. The article goes on to discuss why the UK would make such a generous offer unilaterally
 

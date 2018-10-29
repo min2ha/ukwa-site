@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gary McLelland (@gary_mclelland) on Twitter
-
 Twitter page of Gary McLelland, Liberal Democrat candidate for Glasgow East in the 2015 UK General Election.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Sudanese Community and Information Centre, London
-
 Sudanese Community and Information Centre (SCIC) is a registered charity based in the London Borough of Kensington and Chelsea and run by a board of trustees elected by the general assembly every two years. Its status as a charitable organisation is renewed annually. Our vision is the empowerment of the Sudanese community in the United Kingdom and in Sudan. 

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Horbury and Ossett Family History
-
 This site contains information for both family and local historians. It is run by Joan P Smith.

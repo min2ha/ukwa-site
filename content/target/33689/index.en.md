@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Is Ireland still fighting its own 100 years war?
-
 Blog entry by Tom Collins

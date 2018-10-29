@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain Stronger in Europe
-
 Campaigns to remain in the EU and against Brexit

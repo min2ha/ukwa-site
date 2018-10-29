@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Tom Stoppard shares Czech letter urging UK to stay in EU 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Government Computing - Healthcare: NHS England sets out digital mental health care innovation funding plans
-
 Article about Seven mental health trusts will aim to pioneer the introduction of new digital functions such as patient-focused apps and the availability of real-time records to relevant care staff as part of an NHS England funding drive to encourage more interoperable services nationally.

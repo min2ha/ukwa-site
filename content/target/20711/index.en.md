@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kenryck Lloyd Jones (@kenryckbell) on Twitter
-
 The twitter profile of Kenryck Lloyd Jones, Sccotish Labour candidate for Berwickshire, Roxburgh and Selkirk in the 2015 UK General Election and list candidate for South Scotland in the 2016 Scottish Parliamentary election.

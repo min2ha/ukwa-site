@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Indy Rikki
-
 Bog offering 'sporadic independent radical journalism from London. i’ve been reporting text, images, and videos from london streets for about a decade, regularly posting on ‘uk indymedia’, and the much-missed ‘london indymedia’ sites under the moniker ‘rikki’. I attempt to be fair, accurate, and impartial, but if i am guilty of any bias it is more likely to be in the direction of a radical, anti-capitalist, anti-authoritarian, and consensual outlook, promoting peace and justice.'

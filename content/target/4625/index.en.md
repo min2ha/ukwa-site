@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Telegraph, The: Barack Obama salutes Nelson Mandela's 'moral courage'
-
 None

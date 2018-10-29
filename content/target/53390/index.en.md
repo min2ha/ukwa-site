@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Age UK: Election 2017: Dignity in older age
-
 Age UK’s vision is for a world where everyone can love later life, but sadly this isn’t the case for many of today’s older people. Cuts to social care, pressures on the NHS, pensioner poverty, and loneliness are all difficulties that millions of older people in the UK continue to face. The General Election on 8 June 2017 provides us with a huge opportunity to change this:

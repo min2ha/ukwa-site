@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Heatly (JamesHeatly) on Twitter
-
 <p>The twitter profile of athlete James Heatly, diver and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

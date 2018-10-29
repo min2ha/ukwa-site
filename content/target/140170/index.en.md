@@ -10,5 +10,3 @@
   "start_date": "2013-01-15T00:00:00Z"
 }
 
-# Health Challenge Wales - Her Iechyd Cymru
-

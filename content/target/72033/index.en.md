@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull Rugby Union Football Club
-
 The official website of Hull Rugby Union Football Club.

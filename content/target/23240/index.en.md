@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Chaloner (@RichardChaloner) on Twitter 
-
 Richard Chaloner is the Plaid Cymru candidate for Carmarthen East and Dinefwr at the 2016 National Assembly Elections and Montgomeryshire at the 2017 General Election.

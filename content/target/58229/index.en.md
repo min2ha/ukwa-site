@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Swansea University: Materials and Manufacturing Academy (M2A) 
-
 Materials and Manufacturing Academy (M2A) is a industry led postgraduate research training in the areas of advanced materials and manufacturing based at Swansea University. M2A is part funded by the European Social Fund through the Welsh Government and is able to offer 24 EngD places and 8 MSc research places per year along with part-time PhD and masters.

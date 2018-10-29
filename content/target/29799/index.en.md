@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Word Up - A Burst of Books and Imagination
-
 Festival

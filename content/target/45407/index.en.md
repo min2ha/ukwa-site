@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic Games varied layers of Cultural Programming, The
-
 Research Beyond Borders is an online resource specifically aimed at UK based Arts and Humanities researchers and research. This guest post by Dr Beatriz Garcia explores the layers of Cultural Programming at Rio 2016.

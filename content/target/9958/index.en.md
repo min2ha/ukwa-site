@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Green Party (@TheGreenParty) on Twitter
-
 Twitter feed conveying the Green Party's response to current issues

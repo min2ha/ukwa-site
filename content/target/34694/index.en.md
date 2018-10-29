@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Salmond
-
 Alex Salmond is Scottish National Party member of the Scottish Parliament for Aberdeenshire East and MP for Gordon.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bombshell poll reveals heavy union backing for second Brexit vote
-
 Members of Britain’s three biggest trade unions supported a new referendum on Brexit by a margin of more than two to one, according to a YouGov poll  The survey of more than 2,700 members of Unite, Unison and the GMB by YouGov, for the People’s Vote campaign, also found that a clear majority of members of the three unions backed staying in the EU, believing Brexit would be bad for jobs and living standards. 

@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# SimplyDV: Digital Video Solutions
-
 SimplyDV has been in existence since 2002. The company’s founding director and technical manager, Colin Barrett, has a professional background in educational film and video, having devised and produced video and TV output for a wide range of name-brand clients since the late 1970s. 

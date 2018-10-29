@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Federation of Small Businesses Scotland (FSBS)
-

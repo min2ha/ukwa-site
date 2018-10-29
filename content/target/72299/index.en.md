@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen Elim Pentecostal Church
-
 Site of an Elim Pentecostal church (Christian) located in Aberdeen.

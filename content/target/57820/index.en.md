@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard:  11th October 2017: Engagements
-
 At Prime Minister's questions on October 11th 2017, Theresa May announced that the government would commit money to preparing for exiting the EU with no deal.

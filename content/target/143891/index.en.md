@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Christine May: Scottish Labour Party candidate for Central Fife
-
 None

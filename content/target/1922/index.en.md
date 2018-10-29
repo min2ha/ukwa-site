@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rotherham Metropolitan Borough Council
-
 The website of Rotherham Metropolitan Borough Council provides information about its activities and services, financial position, planning policy and news. You can also respond to consultations and access committee papers and minutes.

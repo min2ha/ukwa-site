@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: The cowards who'll sell their souls to Corbyn for a second vote on Brexit
-
 The long-awaited purge of Jeremy Corbyn's opponents was under way, with a wave of deselections of sitting MPs. However some moderates planned to offer the leadership a deal. If deselections continued, they would split and form a new centrist party. If deselections were halted, they would stay but in return expected Corbyn to sabotage Brexit.

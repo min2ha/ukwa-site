@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# The Independent Custody Visitors Association (old)
-
 The Independent Custody Visitors Association (“ICVA”) is a Home Office, Policing Authority and Police and Crime Commissioner (PCC) funded membership organisation set up to lead, support and represent PCC and Policing Authority led schemes. Local volunteers make unannounced visits to police custody to check on the rights, entitlements, wellbeing and dignity of detainees held in police custody, reporting to PCCs and Policing Authorities who hold Chief Constables to account.

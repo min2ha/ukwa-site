@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Millie Knight & Rachael Ferrier on Facebook
-
 None

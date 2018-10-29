@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# House of Commons Hansard: 12th July 2017: Euratom Membership
-
 Report of a Westminster Hall debate on the options open to the UK for retaining the benefits of Euratom membership.  Options are: associate membership, third-country membership and remaining in Euratom.

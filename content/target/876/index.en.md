@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Essex Partnership
-
 None

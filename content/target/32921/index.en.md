@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Dirty Protest Theatre
-
 Dirty Protest is Cardiff's leading fringe theatre company.

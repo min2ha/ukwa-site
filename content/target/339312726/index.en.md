@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Celtic Punks: Connolly Association Fundraiser
-
 Event page for a concert held jointly by the London Celtic Punks and the Connolly Association.

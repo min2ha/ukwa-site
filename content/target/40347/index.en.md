@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vapers in Power
-
 Vapers In Power is a Political Party, registered in the UK with the Electoral Commission.

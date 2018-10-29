@@ -10,6 +10,4 @@
   "start_date": "2013-11-24T22:00:00Z"
 }
 
-# CRESC: Centre for Research on Socio-Cultural Change
-
 None

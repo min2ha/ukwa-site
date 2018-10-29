@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rugby League International Federation (RLIF)
-
 The Rugby League International Federation is the global governing body for the sport of rugby league football.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# People & Planet
-
 People & Planet is the UK's largest student campaigning organisation campaigning to end world poverty, defend human rights and protect the environment.

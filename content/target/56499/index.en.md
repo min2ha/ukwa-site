@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Avon Local History and Archaeology 
-
 ALHA was founded in 1976 with the then new County of Avon. Avon County has long since been abolished, but ALHA still flourishes as an independent organisation owing nothing to local or national government.

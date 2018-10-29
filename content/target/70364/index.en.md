@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Irvine Ward Journal
-
 Blog page of a local ward of the the Church of Jesus Christ of Latter-day Saints located in Irvine, Ayrshire.

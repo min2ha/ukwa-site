@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gartcosh and Glenboig Parish Churches
-

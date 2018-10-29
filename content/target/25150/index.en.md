@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband will end tax breaks for 'rip-off landlords' and cap rent increases to protect tenants 
-
 None

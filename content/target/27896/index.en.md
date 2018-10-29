@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Institute of Continuing Education, University of Cambridge
-
 Official website of the Institute of Continuing Education, University of Cambridge.

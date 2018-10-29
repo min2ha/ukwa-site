@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Tube Mapper (@tubemapper) on Twitter
-
 London Photography project by Luke Agbaimoni. http://Tubemapper.com  shares landscape & street photos at EVERY Underground, Overground & DLR Station 📷IG:@lukeagbaimoni

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Northern Lighthouse Board
-
 The Northern Lighthouse Board is the General Lighthouse Authority for Scotland and the Isle of Man and its website includes a directory of lighthouses within its area of operation.

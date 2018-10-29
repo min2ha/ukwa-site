@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Exchange
-
 Brexit Exchange is a Europe-wide forum for an intelligent exchange of views, led by business and listened to by politicians from across Europe, focused on promoting international dialogue and bringing together various interests and organisations that should be consulted as part of the negotiation process

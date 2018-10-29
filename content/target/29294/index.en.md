@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Writers' Workshop, The
-
 Established in June 2005, The Writers' Workshop is a consultancy for first time writers. They offer professional feedback on work, run courses, hold events, host free advice on the website, and they talent scout for literary agents.

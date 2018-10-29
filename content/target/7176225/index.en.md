@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Diamond Geezer blog
-

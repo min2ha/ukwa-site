@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# National Federation of Builders: NFB manifesto 2017: believe in Britain’s SMEs
-
 The NFB believes that the next government should devote to tackling the greatest challenges of our generation: the housing crisis and a shrinking skilled workforce.
 

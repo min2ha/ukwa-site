@@ -10,5 +10,3 @@
   "start_date": "2015-03-09T00:00:00Z"
 }
 
-# Sue Hiley Harris
-

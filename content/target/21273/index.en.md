@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsty Williams AM on Facebook
-
 Assembly Member for Brecon and Radnorshire and Welsh Liberal Democrat leader.

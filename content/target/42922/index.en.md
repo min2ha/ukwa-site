@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Historic Environment Scotland / Àrainneachd Eachdraidheil Alba
-
 Scottish national organisation established to investigate, promote and care for Scotland's historic environment.

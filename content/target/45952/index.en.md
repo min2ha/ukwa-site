@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# University of Manchester: Manchester Policy Blogs: Brexit
-

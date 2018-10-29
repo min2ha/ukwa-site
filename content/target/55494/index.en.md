@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Healthy: Young people, the internet and mental health
-
 Mental Healthy: article on internet and mental health 

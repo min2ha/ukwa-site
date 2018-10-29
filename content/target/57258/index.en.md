@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Dawns i Bawb | Dance for All 
-
 Dawns i Bawb is a community and development Dance organisation for North West Wales and develop dance provision across Gwynedd, Conwy and Ynys Môn.

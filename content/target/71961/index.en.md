@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Parent Work Thrive: Dads don’t have it easy. How can we help them navigate their changing roles?
-
 An article about parenting focusing on fatherhood and work

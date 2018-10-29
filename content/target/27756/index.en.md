@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Magna Carta 800th anniversary celebrations set for Northampton in May and June
-

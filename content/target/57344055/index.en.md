@@ -10,6 +10,4 @@
   "start_date": "2010-11-12T00:00:00Z"
 }
 
-# Leicestershire Diabetes
-
 The website is designed to be a resource for people with diabetes, their families and carers, the general public and Health Care Professionals.

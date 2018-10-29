@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hebden Folk Roots Festival. May 2019 
-
 Website for the Hebden Folk Roots Festival. May 2019.

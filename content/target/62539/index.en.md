@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# PrideinFootball (@prideinfootball) on Twitter
-
 The alliance of LGBT+ fan groups in the UK. Developing groups, sharing good practice and representing the interests of LGBT+ supporters.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Gibson-Watt (@JamesGibsonWatt) on Twitter
-
 Welsh Liberal Democrats candidate for Brecon and Radnorshire contesting the 2017 General Election on 8th June.

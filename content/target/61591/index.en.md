@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: Ruling out a customs union risks jobs and undermines peace in Northern Ireland 
-
 All the relevant analysis shows that leaving a customs union with the EU will cost jobs and undermine the Northern Irish peace process.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tweet your MP
-
 TweetyourMP.com is a tool which uses the TheyWorkForYou.com API to lookup a UK Member of Parliament and then return their contact details from it's own database.

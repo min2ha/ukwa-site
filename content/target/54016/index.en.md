@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Belcher (Liberal Democrat Politician)
-
 Helen Belcher stood as Liberal candidate for Chippenham at the 2017 General Election but was not elected.

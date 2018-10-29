@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Labour Party Northern Ireland
-
 The Northern Ireland branch of the Labour Party.

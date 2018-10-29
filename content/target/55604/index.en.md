@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Foundation (@mentalhealth) on Twitter:Online gaming - is it good or bad for our mental health?
-
 Tweet linked to a podcast titled 'Online gaming - is it good or bad for our mental health?'

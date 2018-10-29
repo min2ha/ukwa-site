@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Consortium for Street Children (CSC)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Football League, The
-
 The Welsh Football League covers Level Two, Three and Four in South Wales.

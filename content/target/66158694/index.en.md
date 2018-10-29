@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Civil Nuclear Police Authority
-
 None

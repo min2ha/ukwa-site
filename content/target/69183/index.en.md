@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Church Milngavie
-
 Site of a Scottish Roman Catholic parish church located in Milngavie, East Dunbartonshire.

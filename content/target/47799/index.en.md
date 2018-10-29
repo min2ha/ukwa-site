@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brick Court Chambers
-
 Brick Court Chambers is a set of barristers’ chambers in the UK. They practise in Commercial, EU/Competition and Public Law. 

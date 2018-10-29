@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T11:00:00Z"
 }
 
-# SEF CYMRU: Empowering communities through education
-
 SEF-Cymru was established in 2000 to combat the under-achievement of Cardiff students and improve their chances of receiving a satisfactory grade in their exams. 

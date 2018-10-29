@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Oficina Precaria de Edimburgo
-
 The Precarity office of Edinburgh is an organisation that provides free legal aid to all Spanish-speaking migrants, workers, and residents in Scotland. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# No Panic: Helping you break the chains of anxiety disorders
-
 Website for a registered charity which helps people who suffer from Panic Attacks, Phobias, Obsessive Compulsive Disorders and other related anxiety disorders including those people who are trying to give up Tranquillizers. They offer a variety of support methods online.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Occupy Runnymede: Six reasons why the British Establishment hates the Magna Carta
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Marks Church, Caia Park, Wrexham
-
 Anglican Church based in Wrexham.

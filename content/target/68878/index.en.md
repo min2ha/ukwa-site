@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stewart Jackson (@BrexitStewart) (Conservative politician)
-
 David Davis' former chief of staff at the Department for Exiting the EU publishes a series of tweets arguing that the Prime Minister is ruled by her officials and blocked Davis' Brexit plans.

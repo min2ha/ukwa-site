@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# National Childbirth Trust (NCT)
-
 The NCT were established to support parents. They give them accurate, impartial information so that they can decide what’s best for their family, and introduce them to a network of local parents to gain practical and emotional support.

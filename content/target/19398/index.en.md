@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Shepherd Neame: Full Day Packages: Faversham - Making History and Making Beer
-

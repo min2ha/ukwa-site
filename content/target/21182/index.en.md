@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paula Bradshaw (@paulajaneb) on Twitter (Alliance Party candidate for Belfast South)
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Country Living
-
 Online version of the magazine 'Country Living'.

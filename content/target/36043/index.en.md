@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jim Eadie MSP (@JimEadie_msp) on Twitter
-
 The Twitter profile of Jim Eadie, the Scottish National Party candidate for Edinburgh Southern in the 2016 Scottish Parliament election.

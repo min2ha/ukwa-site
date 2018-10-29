@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Why Brexit would be nothing less than an act of political arson 
-
 Guardian, The

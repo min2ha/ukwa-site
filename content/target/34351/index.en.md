@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Shetland Family History
-
 Site set up by an individual compiling family history data and information focussing on Shetland, Scotland.

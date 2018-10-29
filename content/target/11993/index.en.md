@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Nick Clegg rejects call to quit if Lib Dems wiped out in European elections
-
 None

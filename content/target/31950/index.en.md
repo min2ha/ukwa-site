@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Pembroke Dock Sunderland Trust
-

@@ -10,6 +10,4 @@
   "start_date": "2016-09-27T10:00:00Z"
 }
 
-# Buckley and Deeside Circuit
-
 Buckley and Deeside Circuit is part of the Wales Synod, the Methodist Church.

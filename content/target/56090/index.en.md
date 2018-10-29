@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Army Tennis
-
 Website of the British Army Lawn Tennis Association, including information about playing, coaching, officiating or watching British Army Lawn Tennis.

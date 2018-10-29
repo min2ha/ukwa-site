@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Denbighshire County Council | Cyngor Sir Ddinbych
-
 The website provides details of Denbighshire county council leisure facilites including theatres, leisure centres and community venues.

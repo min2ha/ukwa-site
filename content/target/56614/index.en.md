@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Craig Roberts
-
 Craig Roberts is a conductor and Development Manager of the Welsh Proms Cymru and  Camerata Wales, and Assistant Director of Canada's Royal Nova Scotia International Tattoo.

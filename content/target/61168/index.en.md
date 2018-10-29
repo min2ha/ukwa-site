@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Lochmaben Community Initiative
-
 Community website for the village of Lochmaben in Dumfries and Galloway providing information about services, amenities, history and activities for residents and visitors.

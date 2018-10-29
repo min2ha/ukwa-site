@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# WorthLess (@WorthlessWS) on Twitter
-
 Twitter account of campaign for more funding for West Sussex schools. West Sussex pupils deserve an urgent fair national funding formula, and interim financial support.

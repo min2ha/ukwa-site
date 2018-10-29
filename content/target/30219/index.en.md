@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Inspired by... Blog
-
 The blog presents stories behind some of the surprising and inspiring items in the British Library's collections and the creative people who use them - whether it’s to write a novel, create a fashion show, documentary film or computer game.

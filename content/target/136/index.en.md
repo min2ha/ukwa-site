@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's College Hospital
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City of London: Medieval London: Magna Carta and Beyond
-

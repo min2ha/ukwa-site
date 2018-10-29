@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jamie Reed (@jreedmp) on Twitter (Labour candidate for Copeland)
-

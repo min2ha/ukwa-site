@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# UK Says No More: together we can end domestic violence & sexual assault
-
 UK SAYS NO MORE is a national campaign to raise awareness to end domestic violence and sexual assault. The campaign is a partnership between London-based charity Hestia and NO MORE in the United States.

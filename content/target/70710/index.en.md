@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: We must chuck Chequers, or disillusioned voters will reject mainstream politics
-
 It is increasingly clear that Chequers is a disaster for our country and is not the right way forward for Britain. It is also a disaster for public trust and confidence in their politicians. The people democratically voted to leave the EU – this was the largest public vote in our nation’s political history. They expect their vote to be honoured and implemented. If that does not happen then they will find alternative ways to express their views and frustrations with those who have the privilege of governing our country.
 

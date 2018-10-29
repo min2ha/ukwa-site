@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Strathallan Independent School: Olympic Silver Medal for Duncan Scott
-

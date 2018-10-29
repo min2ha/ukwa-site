@@ -10,5 +10,3 @@
   "start_date": "2014-11-25T00:00:00Z"
 }
 
-# The Prichard Jones Institute
-

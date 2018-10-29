@@ -10,6 +10,4 @@
   "start_date": "2017-11-06T17:28:00Z"
 }
 
-# McLellan Commission, The
-
 "The McLellan Commission has completed an external review of current safeguarding policies, protocols and practices in the Catholic Church in Scotland and reviewed the suitability and robustness of the procedures in place to protect vulnerable children and adults."

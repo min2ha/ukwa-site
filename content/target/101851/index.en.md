@@ -10,5 +10,3 @@
   "start_date": "2010-12-13T00:00:00Z"
 }
 
-# Faner Newydd, Y
-

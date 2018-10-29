@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cadan ap Thomas on Facebook
-
 Cadan ap Tomos is the Welsh Liberal Democrat Westminster Candidate for Cardiff West.

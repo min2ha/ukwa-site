@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Donald Tusk: Theresa May's Brexit trade plan won't work
-
 At the end of the European Council meeting in Salzburg in September 2018, President Donald Tusk said that Theresa May's plan for a future economic partnership with the EU would not work because it undermined the single market.

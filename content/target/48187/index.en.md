@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# The Catbox
-
 Personal blog of Cat Treadwell, a Druid Priest living in Derbyshire, England with her partner and animal family. She is a professional ritual celebrant and multifaith worker, travelling throughout the East Midlands and beyond, and has published books about her life and work.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joshua McCormick (@JMcCormick91) on Twitter
-
 The Twitter profile of Joshua McCormick, Scottish Green Party candidate for West Scotland in the 2016 Scottish Parliament election.

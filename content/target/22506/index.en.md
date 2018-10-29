@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders' debate: Nick Clegg could wash 'Coalition dirty laundry in public'
-
 None

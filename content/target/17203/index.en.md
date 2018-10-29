@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Foreign voters to decide elections: four million migrants could swing key constituencies
-
 None

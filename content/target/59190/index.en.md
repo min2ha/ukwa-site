@@ -10,6 +10,4 @@
   "start_date": "2017-11-25T09:00:00Z"
 }
 
-# Scottish Orienteering 6-Day Event
-
 Site of a biennial orienteering event staged at various locations in Scotland.

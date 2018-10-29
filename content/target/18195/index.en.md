@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Sir Malcolm Rifkind steps down as security committee chairman and as an MP
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# CILIP: Electionwatch: a CILIP campaign
-
 The Chartered Institute of Library and Information Professionals (CILIP) is the leading professional body for librarians, information specialists and knowledge managers in the United Kingdom. CILIP’s vision is a fair and economically prosperous society underpinned by literacy, access to information and the transfer of knowledge.

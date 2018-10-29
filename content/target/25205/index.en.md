@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Election manifesto QUIZ: Can you match the party to the policy
-
 None

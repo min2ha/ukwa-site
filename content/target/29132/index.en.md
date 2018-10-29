@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Green Curtain Theatre: Easter Rising 1916 Reflections
-
 A festival to encourage and produce new playwriting that shows a connection to the events of Easter 1916 in Dublin with the Irish community in England.

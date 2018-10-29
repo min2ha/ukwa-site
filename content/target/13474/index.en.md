@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Sheridan (JimSheridanMP) on Twitter
-
 The twitter profile of Jim Sheridan, Parliamentary Candidate for the Paisley and Renfrewshire North.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK IT Association (UKITA)
-
 UK IT Association (UKITA) is a not-for-profit membership organisation and trade association .

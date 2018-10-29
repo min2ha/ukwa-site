@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Daily Record and Sunday Mail
-

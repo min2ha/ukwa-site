@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Devon and Cornwall Police Authority
-
 None

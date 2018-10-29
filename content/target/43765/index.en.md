@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Scotland's Big Nature Festival
-
 Site of a festival of Scottish nature / wildlife, taking place at Levenhall Links, Musselburgh, East Lothian.

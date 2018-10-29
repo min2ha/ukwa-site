@@ -10,5 +10,3 @@
   "start_date": "2011-02-01T00:00:00Z"
 }
 
-# Malindi Centre
-

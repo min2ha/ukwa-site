@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Melangell's Church and the St Melangell Centre
-

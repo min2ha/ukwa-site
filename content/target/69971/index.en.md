@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Visit Herefordshire Churches
-
 This is a tourist information guide to the Churches of Herefordshire.

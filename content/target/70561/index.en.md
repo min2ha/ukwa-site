@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# PWC UK Blogs
-
 Pwc Uk Blogs looks at the latest info from their experts, covering a wide range of topics.

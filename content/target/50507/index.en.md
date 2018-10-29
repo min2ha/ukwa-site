@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Vale of Leven Football & Athletic Club
-
 Site for a Scottish junior football club based in Alexandria, Dunbartonshire.

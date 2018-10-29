@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stefy Bull (@StefyBull) on Twitter
-
 Stefy Bull is a professional boxing trainer, manager and promoter as well as owner of Stefy Bull Promotions in Doncaster.

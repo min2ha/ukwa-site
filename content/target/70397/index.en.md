@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Getahead Festival
-
 World's first 24hr urban festival of the head

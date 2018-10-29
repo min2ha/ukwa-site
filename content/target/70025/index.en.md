@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# EG (@EstatesGazette) on Twitter
-
 Data, news and analysis covering commercial and residential property in the UK and globally. Sectors include finance, industrial, law, offices & retail.

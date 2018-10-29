@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Ffilmic, Film Festivals
-
 Ffilmic is a Film and Photography Festival based in Llanfyllin and encourages engagement in film-making for all ages, increases access to independent and non-mainstream films, as well as informal film literacy education.

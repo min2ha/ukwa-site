@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Fermanagh South Tyrone Sinn Fein
-
 Website of Fermanagh South Tyrone Sinn Fein, providing information on representatives, policies and Bobby Sands MP for Fermanagh and South Tyrone between April and May 1981.

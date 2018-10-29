@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Brummagem : Carl Chinn's Brum
-
 This website has arisen from Carl Chinn's Brummagem Magazine, which was started in 2001 to give an opportunity for Brummies to share their memories and photos of their lives and those of their folk with others. Carl Chinn was formerly community historian at Birmingham University.

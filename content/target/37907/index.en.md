@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The:  Brexit support surging, Mail poll shows: Shift of 11 points since the turn of the year leaves vote on a knife edge despite dire warnings from Remain campaigners    
-

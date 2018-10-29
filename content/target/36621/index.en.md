@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Commemorating the Contribution of Irish Church Lads to the Great War
-
 This project aims to educate our membership and give them a sense of pride about the part played by Irish Church Lads in the achievements contributing towards the WW1 war effort.

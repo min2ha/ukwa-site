@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Federal Trust for Education and Research, The: The light at the end of the tunnel is several oncoming trains
-
 Argues that Britain will be unable to retain access to the European Union's single market while restricting the free movement of labour.

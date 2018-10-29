@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Ordo Supremus Militaris Templi Hierosolymitani/The Grand Priory of Knights Templar in Scotland
-
 Site of the Scottish branch of the Ordo Supremus Militaris Templi Hierosolymitani (Sovereign Military Order of the Temple of Jerusalem).

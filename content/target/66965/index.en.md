@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Scottish Constitutional Commission
-
 The Scottish Constitutional Commission is an independent and non-partisan think-tank, founded in 2005 by John Drummond, Chris Thomson and Canon Kenyon Wright, formerly of the Scottish Constitutional Convention. The Scottish Constitutional Commission conducts research and advocacy on the establishment of a liberal and democratic Constitution for Scotland based upon the sovereignty of the Scottish people.

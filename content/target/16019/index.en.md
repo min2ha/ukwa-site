@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Bond: News
-
 <p>The website with stories about Bond and the UK international development sector.</p>

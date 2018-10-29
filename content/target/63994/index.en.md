@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Volvo Ocean Race Cardiff
-
 The world's toughest sailing event, the Volvo Ocean Race, is expected to reach Cardiff on the 28th of May 2017. This is the first time in its history the race will stop at Cardiff and to celebrate, Cardiff Bay will host a two-week free festival. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# K THE UNIONIST
-
 None

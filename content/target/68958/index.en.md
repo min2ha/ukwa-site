@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Cleland & St. Aidan's Wishaw on Facebook
-
 Facebook page of two Roman Catholic parish churches in Scotland, at Cleland and Wishaw, Lanarkshire.

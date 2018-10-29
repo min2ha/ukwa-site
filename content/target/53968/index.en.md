@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ujjawal UB (UKIP Politician)
-
 Ujjawal UB is the UK Independence Party (UKIP) candidate in the constituency of Luton South in the 2017 General Election but was not elected.

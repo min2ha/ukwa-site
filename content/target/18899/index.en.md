@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: 'Unclear' Surrey Magna Carta plans under spotlight
-

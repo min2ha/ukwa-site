@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Green leader Bennett calls for end to 'failed austerity' 
-
 None

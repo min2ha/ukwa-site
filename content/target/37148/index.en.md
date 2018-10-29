@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain Stronger in Europe on Facebook (Stronger In Campaign)
-
 Facebook site for the 'Britain Stronger in Europe' campaign including photos and videos. 

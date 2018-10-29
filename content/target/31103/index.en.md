@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burn Series
-
 The Burn Series is a set of adventure races and involve an element of running, cycling, kayaking and orienteering.

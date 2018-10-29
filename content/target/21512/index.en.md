@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband risks fight with Unite after Len McCluskey's friend snubbed for Labour seat
-
 None

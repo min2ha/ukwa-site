@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Information Twist
-
 Information Twist is a blog about libraries and using software for creative information discovery and sharing. It is run by Gary Green.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wildheart
-
 a festival consciously celebrating life through music, dance and workshops

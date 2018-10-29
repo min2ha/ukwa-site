@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-#  Brexit, devolution and Ireland
-
 Glasgow University site collecting commentary about the impact of Brexit on the devolved nations of the United Kingdom and on the Republic of Ireland.

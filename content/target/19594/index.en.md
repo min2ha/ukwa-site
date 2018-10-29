@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Tier - Green Party for Aberavon 2015 on Facebook
-
 Green Party candidate for Aberavon

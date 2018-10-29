@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems fight to hold Tories at bay on the Surrey fringe
-
 None

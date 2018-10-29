@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Itty Bitty Book Co
-
 They design & make mini books, cards, prints & Irish linen wall banners with the aim of promoting a positive mindset. 

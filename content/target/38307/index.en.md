@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# openDempocracy UK: The Easter Rising and the Soviet Union: an untold chapter in Ireland's great rebellion
-
 Article by Brendan McGeever about research in old Soviet archives, showing the USSR's interest in the Easter Rising

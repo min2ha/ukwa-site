@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Musim Council of Britain: Muslim Vote
-

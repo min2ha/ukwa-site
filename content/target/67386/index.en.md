@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Classic Grand
-
 Website of a live music venue and nightclub in Glasgow, Scotland.

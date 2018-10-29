@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# NME: Music world reacts to the death of Nelson Mandela
-
 <p>Report posted on 5 December, on reactions to the news of Nelson's Mandela's death from British and American performers.</p>

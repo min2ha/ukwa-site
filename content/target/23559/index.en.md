@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Julia Goldsworthy on Facebook (Liberal Democrats candidate for Camborne and Redruth)
-
 Julia Goldsworthy stood as Liberal Democrats candidate for Camborne and Redruth at the 2015 General Election but was not elected.

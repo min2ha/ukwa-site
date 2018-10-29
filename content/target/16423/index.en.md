@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Y Care International: Ebola appeal
-
 <p>An Ebola appeal from the YMCA.</p>

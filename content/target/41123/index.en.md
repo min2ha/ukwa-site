@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leith Athletic Football Club
-
 Site of an amateur Scottish football club based in Edinburgh.

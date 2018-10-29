@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Llyr Huws Gruffydd (Plaid Cymru Assembly Member for North Wales)
-

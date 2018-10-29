@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Selkirk Weekend Advertiser
-
 None

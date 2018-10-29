@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Skaill House
-
 Site of an historic house at Sandwick, Orkney, its visitor centre, gardens and estate.

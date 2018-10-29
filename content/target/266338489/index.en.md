@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bridgend Green Party
-
 This is the website for the Bridgend Green Party.

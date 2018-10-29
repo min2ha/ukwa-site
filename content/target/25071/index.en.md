@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Paul O'Grady and Ronnie O'Sullivan among celebs backing Ed Miliband 
-
 None

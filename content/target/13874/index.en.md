@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# John Robertson MP
-
 None

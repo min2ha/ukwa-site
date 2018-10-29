@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Selsey: Volunteer Community WWI Project 
-
 Selsey is a town on the south coast of England, nine miles south of Chichester, in West Sussex.

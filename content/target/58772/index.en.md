@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Credu : Connecting Carers | Cysylltu Gofalwyr
-
 Credu was formerly Powys Carers Service and supports carers and their families in Powys (Credu Powys) and North Wales (WCD Young Carers). 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mischa Macpherson Trio, The
-
 <p>Scottish folk band the Mischa Macpherson Trio will be performing at The Fruitmarket, Glasgow on the 30 July and the Kelvingrove Bandstand, Glasgow on the 31st July as part of the Glasgow 2014 Cultural Programme.</p>

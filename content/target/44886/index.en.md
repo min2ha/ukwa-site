@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# William Ayot
-
 William Ayot is member of the Welsh Academy. He was born in Hertfordshire and lives in a restored Monmouthshire.

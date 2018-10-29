@@ -10,6 +10,4 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Andrew Cusworth
-
 Andrew Cusworth is British composer and musician.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Evangelical Alliance: Idea Magazine, March-April 2015
-

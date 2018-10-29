@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Rob Spaull
-
 Rob Spaull is a Digital Artist, Musician and Media Developer in the Digital Media and Arts Industries. He has worked with Cwmni’r Fran Wen, Clwyd Theatr Cymru, Kate Lawrence, Pontio and Bangor University as digital artist / producer and is artistic director of the Stiwdio Franwen Project.

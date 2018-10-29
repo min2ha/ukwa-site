@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dispensing Doctors' Association: The DDA’s 2015 Rural Practice Manifesto
-
 The Dispensing Doctors’ Association (DDA) represents over 6,600 doctors currently working in 1,290 dispensing practices across the UK. It is the only organisation that specifically represents the interests of dispensing doctors and their 8.8 million patients.

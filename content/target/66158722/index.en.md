@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Chris Hoy
-
 Commercial enquiries, speaking engagements and personal appearances.

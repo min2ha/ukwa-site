@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015 sketch: ‘I FEEL BLOODY LIVELY!’ At last, David Cameron gets passionate... and it’s a little bit scary
-
 None

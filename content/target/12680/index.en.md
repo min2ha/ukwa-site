@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mary Scanlon MSP
-
 The website of Mary Scanlon, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Highlands and Islands.

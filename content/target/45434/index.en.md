@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# Cast Metals Federation (CMF)
-
 CMF is a professional body that represents the foundry industry. CMF promotes the UK castings industry as a whole, with the aim of influencing discussions with government bodies, negotiating and consulting on UK and European legislation that affects us all.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-24T09:00:00Z"
 }
 
-# Ruthven Parish Association
-
 Site of an organisation preserving, running and maintaining the deconsecrated parish church in the village of Ruthven, Angus.

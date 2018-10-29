@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Omnidaze
-
 Omnidaze was founded in 2008 by Yvonne Murphy and is a theatre company based in Wales.

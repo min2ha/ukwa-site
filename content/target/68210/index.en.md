@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Paisley Rugby Club (@PaisleyRFC) on Twitter
-
 The official Twitter account of Paisley Rugby Football Club.

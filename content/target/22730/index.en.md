@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# James Moore (Labour candidate for Rutland and Melton) 
-

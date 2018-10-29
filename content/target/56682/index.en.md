@@ -11,7 +11,5 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Clapham Film Unit 
-
 Clapham Film Unit is a collective of filmmakers and aim to train and equip local people to tell their own stories on film. They organise screenings and hold an archive of work by our members, as well as providing film making advice to the local community. They were involved in a HLF WWI project http://www.claphamfilmunit.com/projects/these-dangerous-women/
 

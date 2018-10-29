@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bitterne Local History Society
-
 The imminent construction of the Bitterne bypass was the catalyst for the formation of BLHS in 1981. Local people, keen to ensure that the area's heritage was not lost under the bulldozers, began salvaging items of interest.

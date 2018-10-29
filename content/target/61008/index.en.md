@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Downing Street insists UK will leave customs union
-
 Downing Street insisted Britain would leave the EU customs union after Brexit amid claims of Tory disunity over the UK-EU future relationship.
 

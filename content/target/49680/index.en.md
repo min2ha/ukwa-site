@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Respect Me
-
 Site of a Scottish anti-bullying charity offering support and advice for people tacking bullying.

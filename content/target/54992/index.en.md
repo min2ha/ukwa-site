@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Philip Hammond’s Brexit speech: practical policy, impractical politics
-

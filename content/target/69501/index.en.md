@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T15:21:00Z"
 }
 
-# FEARANN | LAND
-
 Group interested in community land ownership in the Scottish Highlands.

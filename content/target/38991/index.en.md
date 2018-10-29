@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: How a slippery Jeremy Corbyn tried to persuade us he cares about the EU
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Cornwall Conservatives
-
 Website of North Cornwall Conservatives, providing information on North Cornwall Conservative councillors, local news, press releases and events.

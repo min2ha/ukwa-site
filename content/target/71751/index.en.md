@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Devenick's Aberdeen
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Bieldside, Aberdeen.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM's Florence speech: a new era of cooperation and partnership between the UK and the EU
-
 In a conciliatory speech, Prime Minister Theresa May sets out how the UK will be the strongest friend and partner to the EU after we leave the EU.
 

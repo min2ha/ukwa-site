@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE for Glasgow (@RISE_Glasgow) on Twitter
-
 Twitter profile of the Glasgow branch of RISE: Scotland's Left Alliance.

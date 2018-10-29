@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Antiquarian Horological Society, The
-
 he Antiquarian Horological Society (AHS) is a learned society formed in 1953. It exists to encourage the study of all matters relating to the art and history of time measurement, to foster and disseminate original research, and to encourage the preservation of examples of the horological and allied arts.

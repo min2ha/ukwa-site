@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Tencent: Gaming app rations child access to hour per day
-
 News article regarding Chinese internet giant Tencent that has limited the hours that children can play several of its most popular games.

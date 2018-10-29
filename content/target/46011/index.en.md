@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# UK Teratology Information Service, The (UKTIS)
-
 The UK Teratology Information Service (UKTIS) is commissioned by Public Health England on behalf of UK Health Departments. They provide a national service on all aspects of the toxicity of drugs and chemicals in pregnancy.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Swingfields 
-
 Website for the Swingfields Festival, a festival for Swingers, LGBT, and lifestyle groups.

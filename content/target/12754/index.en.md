@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ciara Horne
-
 <p>The website of cyclist Ciara Horne, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

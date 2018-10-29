@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Positive Nation
-
 Positive Nation is the UK's HIV and sexual health magazine.

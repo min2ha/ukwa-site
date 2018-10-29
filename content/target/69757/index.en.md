@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bride's Church West Kilbride
-
 Site of a Scottish Roman Catholic parish church located in West Kilbride, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Bobsleigh on Facebook
-
 None

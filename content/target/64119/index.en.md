@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Official London GAA (@LONDAINGAA) on Twitter
-
 The is the Official Twitter page of Coiste CLG Contae Londain GAA (London Gaelic Athletic Association)

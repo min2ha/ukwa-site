@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Homefinder UK
-
 Homefinder UK is a national housing mobility scheme available to social housing landlords right across the UK. Social housing tenants, households in temporary accommodation or other groups of home seekers can be given access to the scheme by subscribing local authorities and housing associations.

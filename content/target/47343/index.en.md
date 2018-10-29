@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: On Brexit, the Labour leadership offers anxious voters … nothing
-

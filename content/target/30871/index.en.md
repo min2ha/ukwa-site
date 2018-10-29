@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Bitesize: Computing
-
 IT educational materials on the BBC website.

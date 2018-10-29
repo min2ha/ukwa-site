@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# British Youth Council, The (BYC) : Pressure Mounts to allow 16/17 participation in the EU referendum
-

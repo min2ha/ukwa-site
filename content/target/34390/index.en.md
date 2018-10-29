@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Ken Macintosh MSP – Working for Eastwood
-
 Ken Macintosh is Scottish Labour member of the Scottish Parliament for Eastwood.

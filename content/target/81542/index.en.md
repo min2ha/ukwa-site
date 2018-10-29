@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# European Development Cooperation
-
 The ‘European development cooperation’ blog was created by the European Development Cooperation Strengthening Programme (EDCSP), an Overseas Development Institute (ODI) initiative funded by the UK Department for International Development (DFID).

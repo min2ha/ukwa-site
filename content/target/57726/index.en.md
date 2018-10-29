@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May builds billions-strong war chest to help the UK get ready for a no-deal Brexit if EU talks are set for failure in January  
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh People's Festival
-
 Site of an affordable annual arts festival based in Edinburgh.

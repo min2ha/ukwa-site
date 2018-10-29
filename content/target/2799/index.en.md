@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Political Theology Today
-
 The blog for the academic journal 'Political Theology'.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Worldpay Group plc
-
 Worldpay Group plc is a global leader in payments processing technology and solutions for merchant customers. They support 400,000 merchants in 126 currencies across 146 countries, offering over 300 payment methods. They are the leader in payments in the UK, where we process approximately 42% of all transactions.

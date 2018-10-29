@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Bev Bell Hughes Ceramic Artist
-
 Beverley Bell Hughes is a member of the RCA (Royal Cambrian Academy) and an award-winning potter who lives near Llandudno. She is partially sighted and her work is inspired by nature and the sand, rocks and rugged landscape of the area. 

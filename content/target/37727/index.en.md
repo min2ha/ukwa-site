@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Centre for European Reform: Brexit and EU regulation: A bonfire of the vanities?
-

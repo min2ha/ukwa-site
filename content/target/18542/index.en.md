@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr Victor Babu Parliamentary Candidate for Aberconwy on Facebook
-
 Dr Victor Babu is the Liberal Democrat Parliamentary Candidate for Aberconwy.

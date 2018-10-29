@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# West Wales Care & Repair | Gofal a Thrwsio Gorllewin Cymru
-
 Care & Repair is a not for profit charitable organisation dedicated to assist older and or disabled people to remain in their own homes in comfort, safety and security.

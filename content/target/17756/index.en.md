@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Natasha Devon: Schools would be about skills not facts
-
 None

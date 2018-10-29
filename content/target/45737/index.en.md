@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Biased BBC
-
 An online forum for the general public to discuss anything on the BBC they disagree with.

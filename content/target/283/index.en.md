@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Leeds South and East CCG
-
 None

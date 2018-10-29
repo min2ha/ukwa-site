@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Comann Eachdraidh Sgire Bhearnaraigh / Bernera Historical Society
-
 Site of a local history society located on the Isle of Lewis, Western Isles / Leòdhas, Na h-Eileanan Siar

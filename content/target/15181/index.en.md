@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Antrim Local Interest List (NALIL)
-
 <p>North Antrim Local Interest List (NALIL) is a group interested in genealogy, history, heritage, culture, current affairs, industry, geology and architecture and the contributions of members and non-members are welcome on its blog.</p>

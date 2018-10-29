@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Cambridge News: Stephen Hawking
-
 Stay up to date with the latest news from around Cambridgeshire including breaking news updates, sport, football, local events and business. These are articles related to Stephen Hawking

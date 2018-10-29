@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# NewStatesman: Tony Blair's unfinished business
-
 'The er prime minister on Trump, Brexit, Corbyn and his return to public life in an attempt to revive “the progressive centre”. Will anyone listen?'

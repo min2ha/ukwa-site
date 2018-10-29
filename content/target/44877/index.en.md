@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T11:00:00Z"
 }
 
-# Dan Anthony
-
 Welsh writer, from Cardiff, listed in the Literature Wales' Writers of Wales database. He writes mainly for radio, tv and drama.

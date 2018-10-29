@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Courier, The: GE2017
-
 General election 2017 tagged articles from the Courier, covering Dundee, Angus and the Mearns, Perth and Kinross and Fife.

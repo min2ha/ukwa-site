@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Oral History Noticeboard, The
-
 A blog for people involved or with an interest in oral history in the UK. The blog is used as a place to publicise news, projects or events.

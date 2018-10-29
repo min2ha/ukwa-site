@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whitehouse Consultancy: the Coalition Government and NHS Reform
-
 None

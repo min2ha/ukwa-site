@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Chancellor George Osborne had 56 meetings with scandal-hit HSBC bank bosses
-
 None

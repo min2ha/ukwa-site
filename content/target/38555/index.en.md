@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Womens' Work: Sharing the stories of the factory women
-
 Women & Theatre worked with members of Birmingham’s Small Heath community in the delivery of a new heritage project ‘Women’s Work’ which will explore the experiences of women working in factories during WWI, including the Birmingham Small Arms (BSA) factory in Small Heath.

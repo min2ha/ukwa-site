@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Democratic Audit UK(@democraticaudit) on Twitter
-

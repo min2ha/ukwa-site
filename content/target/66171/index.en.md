@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Destiny Church Inverness
-
 Site of a Christian church and congregation located in Inverness.

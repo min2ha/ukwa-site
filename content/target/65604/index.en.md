@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# ARHM
-
 We are a trade association body for the retirement sector, with 55 members representing more than 100,000 homes across the UK. Our mission is to continually raise standards within the sector by promoting best practice and ethics amongst those managing retirement housing.

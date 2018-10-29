@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Royal College of Midwives: John Skewes writes about EU referendum
-
 The Royal College of Midwives supports remaining in the European Union

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crawley Town Football Club
-
 Crawley Town Football Club is a professional association football club based in the town of Crawley, West Sussex, England. The club's home ground is at Broadfield Stadium. First promoted to the Football Conference in 2004, the club survived a financial crisis to win promotion to the Football League in the 2010–11 season.

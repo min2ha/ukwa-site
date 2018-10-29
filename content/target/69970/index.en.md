@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# British Music Exp (@thebme) on Twitter
-
 The official Twitter account of the British Music Experience, based at the Cunard Building on Liverpool's Waterfront.

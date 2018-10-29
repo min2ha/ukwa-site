@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Conservative Voters (@cv4theresamay) on Twitter
-
 A satire Twitter profile highlighting some of the conservatives policies.

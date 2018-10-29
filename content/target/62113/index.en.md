@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Evening News: "The personal trainer who beat anorexia to become a social media star at 23"
-
 News article about beating eating disorder and social media

@@ -10,5 +10,3 @@
   "start_date": "2009-06-21T23:00:00Z"
 }
 
-# Overseas Japanese Antiquarian Materials Study Group (OJAMASG)
-

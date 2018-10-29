@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: October 20th 2016: Brexit: Foreign and Security Policy Co-operation 
-
 Debates the implications for foreign and security policy co-operation with European countries of the result of the referendum for the withdrawal of the United Kingdom from the European Union.

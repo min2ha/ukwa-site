@@ -10,5 +10,3 @@
   "start_date": "2013-04-15T00:00:00Z"
 }
 
-# CYD: Cymry Cymraeg a dysgwyr ar y cyd - Welsh learners and speakers together
-

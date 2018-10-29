@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Overtown Parish Church
-
 Site of a Church of Scotland parish church in Wishaw, Laranrkshire.

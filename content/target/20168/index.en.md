@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cen Phillips - Liberal Democrat Parliamentary Candidate for Llanelli on Facebook
-
 Liberal Democrat Parliamentary Candidate for Llanelli 

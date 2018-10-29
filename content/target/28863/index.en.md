@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Christine Chapman (Labour Assembly Member for the Cynon Valley)
-

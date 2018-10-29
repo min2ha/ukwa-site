@@ -10,5 +10,3 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Worshipful Company of Wheelwrights
-

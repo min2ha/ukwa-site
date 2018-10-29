@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Four Bradford councillors rejoin George Galloway's Respect party
-
 None

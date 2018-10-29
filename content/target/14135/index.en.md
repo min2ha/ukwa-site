@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# openDemocracy: Anthony Barnett, 'Fear not, England'
-
 <p>Blog post, on 17 September 2014, from an English supporter of a 'Yes' vote in the Scottish Independence Referendum 18 September 2014. The post examines the emotional response in England to the possibility of Scottish independence. Anthony Barnett is the founding editor of the openDemocracy website.</p>

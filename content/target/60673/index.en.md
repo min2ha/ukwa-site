@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Allyson Pollock: Professor of Public Health Research and Policy
-
 Prof Allyson Pollock is director of the Institute of Health and Society at Newcastle University. She set up and directed research and teaching units at Queen Mary University of London and the University of Edinburgh, establishing some of the UK’s leading undergraduate and postgraduate teaching in global health, and prior to that she was Head of the Public Health Policy Unit at UCL and Director of Research & Development at UCL Hospitals NHS Trust.

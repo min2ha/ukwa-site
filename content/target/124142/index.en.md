@@ -10,6 +10,4 @@
   "start_date": "2005-12-28T00:00:00Z"
 }
 
-# Literature.org
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bridge Community Church [Leeds]
-
 Bridge Community Church began on its current site in June 2016. However it have been in the city of Leeds since around 1910.

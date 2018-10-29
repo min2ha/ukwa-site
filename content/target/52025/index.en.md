@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John’s, Egham
-
 St John’s is a lively, friendly Anglican Church family in the centre of Egham.

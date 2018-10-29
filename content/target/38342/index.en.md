@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Open House: Scotland and the Easter Rising
-
 Article by Owen Dudley Edwards in independent Scottish Catholic journal of comment, opinion and reflection.

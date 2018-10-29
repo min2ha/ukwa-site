@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Rent caps will put tenants out on street, Red Ed told
-
 None

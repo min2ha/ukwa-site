@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Banton and Twechar Parish Churches
-
 Site of two Church od Scotland parish churches located at Banton, Lanarkshire and Twechar Lanarkshire/East Dunbartonshire.

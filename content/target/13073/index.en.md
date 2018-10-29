@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Motor Sports Association UK (MSA)
-
 The Motor Sports Association (MSA) is the national governing body for four-wheel motor sport in the UK. The MSA is a not-for-profit organisation comprising around 750 affiliated motor clubs, which are represented by 13 Regional Associations nationwide.

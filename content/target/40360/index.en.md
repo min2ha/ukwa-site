@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cuimhneachain a' Chiad Chogaidh - North Lewis & WW1
-
 Project to publish a book using material from interviews recorded by CEN with WW1 veterans living in Ness, Isle of Lewis.

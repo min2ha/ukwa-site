@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# STV Edinburgh: Photographs of Forth Bridge to mark landmark 125 year anniversary
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: I'll stop Alex Salmond from voting on English laws
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop Trump - Defend Migrants - Cardiff Action
-
 Stop Trump - Defend Migrants - Cardiff Action was a protest organised by Cardiff People's Assembly and was held at Cardiff Queen Street on the 20 February at 18:00.

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# CB1 Community: Stephen Hawking news
-
 CB1 Community is an initiative to improve communication between members of the CB1 community, whether they be residents, workers or stakeholders. These are the articles relating to Stephen Hawking

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Central: 1916 Centenary
-
 Articles and comments published on IrishCentral.com

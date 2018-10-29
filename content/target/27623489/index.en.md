@@ -10,5 +10,3 @@
   "start_date": "2009-03-23T00:00:00Z"
 }
 
-# Slaggy Island - The South Bank Nostalgia Society!
-

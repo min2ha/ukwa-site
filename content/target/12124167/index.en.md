@@ -10,5 +10,3 @@
   "start_date": "2008-08-14T00:00:00Z"
 }
 
-# Dyslexia Adults Link
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Agenda (@Agenda_alliance) on Twitter
-
 They campaign for systems and services to be transformed; to raise awareness across sectors; and to promote public and political understanding of the lives of women and girls facing multiple disadvantage.

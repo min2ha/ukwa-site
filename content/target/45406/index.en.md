@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Research Beyond Borders
-
 Research Beyond Borders is an online resource specifically aimed at UK based Arts and Humanities Researchers and research offices to communicate international funding opportunities and related activities. Maintained by the Arts and Humanities Research Council (AHRC) – the blog will profile AHRC schemes that allow international collaboration, post about other relevant funding opportunities, and occasionally feature opinion pieces and reports on international research in theory and practice.

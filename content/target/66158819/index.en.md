@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Mines and Communities
-
 Mines & Communities is published by a unique network of indigenous and solidarity NGOs, representing many thousands of people directly affected by the mining industry.

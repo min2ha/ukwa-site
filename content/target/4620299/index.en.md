@@ -10,5 +10,3 @@
   "start_date": "2008-04-28T00:00:00Z"
 }
 
-# JISC Involve : Lawrie's blog / Travelling With Technology
-

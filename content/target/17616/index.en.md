@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: John Prescott drafted in by Ed Miliband to 'bash Labour heads together'
-
 None

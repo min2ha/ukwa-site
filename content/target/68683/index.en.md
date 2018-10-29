@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Eventbrite: Soccerama / From Outside The Box
-
 SOCCERAMA is a symposium organised as part of the The Art Of Football festival on the 13 of July 2018. It aims to explore football through a series of conversations and debates, and explore football’s interwoven relationship with the key global debates of our times.

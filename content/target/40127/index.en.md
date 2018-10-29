@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# All The Kings Cliffe Men
-
 Project to identify all of the men from Kings Cliffe who served in the Great War. 

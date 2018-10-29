@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tania Mathias  (Conservative Politician)
-
 Tania Mathias stood as Conservative candidate for Twickenham at the 2015 General Election and was elected to serve as MP. She stood for re-election in 2017 but was not elected.

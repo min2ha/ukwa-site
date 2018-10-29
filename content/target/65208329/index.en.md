@@ -1,14 +1,12 @@
 {
-  "date": "2018-10-29T12:54:14.402669", 
+  "date": "2018-10-29T13:21:13.713703", 
   "open_access": true, 
   "target_url": "http://archif.rhwyd.org/byig/twitter/", 
   "description": "", 
   "end_date": null, 
   "title": "BwrddyrIaithGymraeg(ybwrdd) Twitter", 
-  "record_id": "20181029T125414/Qd6XJBcj632URuocb+UBwQ==", 
+  "record_id": "20181029T132113/Qd6XJBcj632URuocb+UBwQ==", 
   "publisher": "rhwyd.org", 
   "start_date": null
 }
-
-# BwrddyrIaithGymraeg(ybwrdd) Twitter
 

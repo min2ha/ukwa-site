@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Magical Times Magazine, The
-
 The UK's full colour printed mystical magazine featuring articles on natural health, myth, magic, folklore & more.

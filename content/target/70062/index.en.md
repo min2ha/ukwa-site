@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football On Tees (@FootballOnTees) on Twitter
-
 Providing original content on football across Teesside. Predominantly covering the Northern League and the Northern Premier League.

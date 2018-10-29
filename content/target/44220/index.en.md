@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stonehaven Folk Festival
-
 Site of an annual Scottish traditional music festival taking place in Stonehaven, Aberdeenshire.

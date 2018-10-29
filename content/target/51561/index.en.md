@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Inner Temple Library: A history of the EU
-

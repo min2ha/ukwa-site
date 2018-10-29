@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Damp Flat Books Blog
-
 None

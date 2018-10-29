@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwys Annibynnol Gymraeg Y Priordy
-
 Eglwys Annibynnol Gymraeg Y Priordy is a Independent/ Congregational Chruch located in Carmarthen.

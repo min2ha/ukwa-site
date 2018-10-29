@@ -10,6 +10,4 @@
   "start_date": "2015-07-11T10:00:00Z"
 }
 
-# Menter Aberystwyth
-
 A regeneration partnership for Aberystwyth and its surrounding area.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Whitelee Windfarm
-
 Site of a visitor centre attached to a large windfarm, Eaglesham, East Renfrewshire.

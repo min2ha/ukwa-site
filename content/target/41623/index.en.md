@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Over Stowey Parish Council
-
 Over Stowey is a small village and civil parish in the Sedgemoor district of Somerset, South West England.
 It sits in the foothills of the Quantock Hills, just above Nether Stowey and 8 miles (13 km) north-west of Bridgwater. The parish includes the hamlets of Plainsfield, Aley, Adscombe, Friarn and Bincombe.

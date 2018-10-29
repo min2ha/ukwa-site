@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's Church, Uxbridge
-
 Various churches in Uxbridge have worked in partnership to set up Hillingdon Street Angels.

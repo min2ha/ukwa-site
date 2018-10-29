@@ -10,5 +10,3 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Richard Kemp Liberal Democrats
-

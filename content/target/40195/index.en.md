@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Inveraray Jail
-
 Site of a museum and visitor attraction in Inveraray, Argyll & Bute, Scotland, featuring the history of Inverary Jail

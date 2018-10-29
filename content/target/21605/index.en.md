@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sikh Network, The
-
 The Sikh Network is an open collaborate collective of over 2,000 Sikh activists from existing Sikh organisations, youth groups, human rights and political activists, lawyers, academics, researchers, journalists, public sector professionals, management consultants, marketing and PR professionals, charity workers and students. 

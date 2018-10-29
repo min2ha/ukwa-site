@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron mocks Ed Balls over failure to name a single business leader who backs Labour
-
 None

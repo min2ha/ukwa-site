@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ben Procter (@BenProcterUK) on Twitter
-
 Twitter profile of Ben Procter, the Scottish Labour list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

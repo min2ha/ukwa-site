@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Get Scotland Dancing
-
 <p>A campaign to promote dance and make it easy for people to join in. Part of the Glasgow 2014 Cultural Programme</p>

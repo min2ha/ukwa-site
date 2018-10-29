@@ -10,6 +10,4 @@
   "start_date": "2014-12-12T06:00:00Z"
 }
 
-# Community Energy Coalition
-
 The Community Energy Coalition was formed in 2011 and helps communities across the UK to own, generate and save energy.

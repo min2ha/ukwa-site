@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Paul Popham Fund. Renal Support in Wales
-
 The Fund was established to support renal patients in Wales.

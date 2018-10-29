@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llanbedrog
-
 <p>This is an information site for the village of Llanbedrog.</p>

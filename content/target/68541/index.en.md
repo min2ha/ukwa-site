@@ -10,5 +10,3 @@
   "start_date": "2018-08-07T12:53:00Z"
 }
 
-# West Sutherland Fisheries Trust
-

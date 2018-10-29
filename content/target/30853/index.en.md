@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Ymddiriedolaeth San Teilo | Saint Teilo's Trust 
-
 St. Teilo's Trust is dedicated to supporting evangelistic initiatives throughout Wales. 

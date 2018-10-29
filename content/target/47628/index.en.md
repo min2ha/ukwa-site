@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Dingwall Community Council
-
 Site of a loca community council based in Dingwall, Highland, Scotland.

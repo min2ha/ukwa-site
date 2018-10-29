@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Heseltine 'should be sanctioned' for Brexit comments
-
 Lord Heseltine had suggested that a Labour government would do less damage to Britain than leaving the EU. In response the eurosceptic Bow Group called for him to be expelled from the Conservative Party

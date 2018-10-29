@@ -10,6 +10,4 @@
   "start_date": "2014-01-07T23:00:00Z"
 }
 
-# Derry-Londonderry City of Culture 2013
-
 None

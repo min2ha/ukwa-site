@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Scottish Youth Theatre
-
 Site of a Scottish national theatre group aimed at children and young adults.

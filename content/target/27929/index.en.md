@@ -10,5 +10,3 @@
   "start_date": "2015-06-13T09:00:00Z"
 }
 
-# Christ Church, University of Oxford
-

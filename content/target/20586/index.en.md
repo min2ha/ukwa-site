@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: SNP leader Nicola Sturgeon: I can't rule out a second independence referendum - video
-

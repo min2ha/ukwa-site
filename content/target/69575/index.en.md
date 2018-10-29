@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# SA1 Waterfront Business Club 
-
 SA1 Waterfront Business Club was established with the aim of bringing together businesses in the SA1 area. SA1 is in Swansea.

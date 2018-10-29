@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Presbyterian Historical Society of Ireland
-
 Site of a society established to explore and promote an understanding of the history of Presbyterianism in Ireland through collection and preservation of historic materials and records of these churches and historic study.

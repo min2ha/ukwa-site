@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tim Don
-
 None

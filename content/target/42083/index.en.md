@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sheffield Charity Reporter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cliveden Literary Festival
-
 Official website of the literary and politics festival

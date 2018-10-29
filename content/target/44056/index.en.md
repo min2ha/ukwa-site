@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Linlithgow Community Development Trust
-
 Site of an organisation based in Linlithgow, West Lothian, aiming to make improve their community through community led action providing services, amenities and/or financial support to local initiatives.

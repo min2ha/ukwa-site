@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Link2Wales
-
 A guide to alternative culture and an encyclopaedia of thousands of bands, venues, artists, labels from Wales and Liverpool. 

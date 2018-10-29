@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# National Association of Disability Practitioners (NADP)
-
 NADP is the Professional Association for disability and inclusivity practitioners in further and higher education.

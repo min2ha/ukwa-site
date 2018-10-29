@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# The Owls Trust
-
 The Owls Trust became a registered charity in 2001, it was recognised that there was an urgent need for an organisation to rescue owls and birds of prey in North Wales.

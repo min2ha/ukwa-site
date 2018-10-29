@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mothers' Union (MU)
-
 None

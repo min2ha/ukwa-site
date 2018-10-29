@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Eluned Parrott (Liberal Democrats Assembly Member for South Wales Central)
-
 Eluned Parrott is the Liberal Democrats Assembly Member for South Wales Central.

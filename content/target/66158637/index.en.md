@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# Education Scotland: Abolition of the Slave Trade
-
 one off crawl

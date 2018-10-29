@@ -10,5 +10,3 @@
   "start_date": "2006-08-03T00:00:00Z"
 }
 
-# Walter de la Mare Society
-

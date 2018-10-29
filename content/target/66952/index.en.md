@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Polar Research and Policy Initiative
-
 Polar Research and Policy Initiative, commonly known as PRPI or The Polar Connection, is an independent, international foreign policy think-tank dedicated primarily to the Arctic and the Antarctic, as well as Nordic, Baltic, energy and environment issues.

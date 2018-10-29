@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joe Richards (@JoeRichards) on Twitter (Liberal Democrats Politician)
-
 Joe Richards stood as Liberal Democrats candidate for Hackney North and Stoke Newington at the 2017 General Election but was not elected.

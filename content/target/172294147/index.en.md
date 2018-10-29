@@ -10,5 +10,3 @@
   "start_date": "2013-06-25T00:00:00Z"
 }
 
-# The Planning Inspectorate | Yr Arolygiaeth Gynllunio
-

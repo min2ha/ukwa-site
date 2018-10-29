@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Music Forums
-
 An online enthusiast community concerned with music. Discusses music by genre, promotion for artists, gigs & events and various other related topics.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Urban Glasgow
-
 A forum for discussion about the city of Glasgow.

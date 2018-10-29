@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: This is what Britain will look like in 2025 if we leave the EU
-

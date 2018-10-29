@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Al Manar Islamic Shop
-
 Almanar Islamic Shop, in Shadwell, East London, stocks all kinds of Islamic products, gifts and books. 

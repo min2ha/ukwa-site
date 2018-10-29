@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Kerry Hill Flock Book Society
-
 The breed originates from the hills around the small town of Kerry, on the English/Welsh borders.

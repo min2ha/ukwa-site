@@ -10,5 +10,3 @@
   "start_date": "2012-11-26T00:00:00Z"
 }
 
-# Captcha Project
-

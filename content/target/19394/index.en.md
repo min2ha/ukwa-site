@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Villagers gear up for 800th anniversary of Magna Carta sealing
-

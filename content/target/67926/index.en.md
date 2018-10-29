@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Haringey Rhinos RFC (@HaringeyRhinos) on Twitter
-
 The official Twitter account of Haringey Rhinos Rugby Club, located in the heart of north London. 

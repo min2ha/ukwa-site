@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Anglo American plc
-
 Anglo American plc is a multinational mining company. It is the world's largest producer of platinum, as well as being a major producer of diamonds, copper, nickel, iron ore and coal. With operations in Africa, Asia, Australasia, Europe, North and South America.

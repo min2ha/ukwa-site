@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ledbury Reporter: Local schools are mental health champions
-
 News article about locals schools winning awards for their approach and initiatives and schemes relating to mental health of their students and the awareness they raised

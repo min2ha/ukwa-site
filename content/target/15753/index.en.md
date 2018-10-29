@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# University of Birmingham Guild of Students
-
 <p>University of Birmingham Guild of Students is a charity and the students’ union for more than 30,000 students and represents them to the university and other organisations. It provides support services and help to members.</p>

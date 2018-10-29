@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# public works
-
 public works is a not-for-profit critical design practice, set up in 2004, that works within the terrain of architecture, art and design activism to bring about positive social and environmental change and support urban democracy.

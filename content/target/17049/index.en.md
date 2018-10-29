@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Society and Biology: Science and the General Election 2015
-

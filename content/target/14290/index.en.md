@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Peter Manson
-
 <p>Website of the poet and translator Peter Manson.</p>

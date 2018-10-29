@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Tobar an Dualchais Facebook
-
 Tobar an Dualchais Facebook 

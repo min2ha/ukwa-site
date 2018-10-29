@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chrisitan Action Research & Education (CARE)
-
 Supported by individuals and churches throughout the UK, CARE encourages Christians to be informed and to engage positively in public life; addressing issues relating to the sanctity of life, human exploitation, marriage and family and many other areas of advocacy. 

@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Stiuidio Ostaig
-
 Stiùidio Ostaig is a "professional audio recording studio located at Sabhal Mòr Ostaig, Scotland’s Gaelic College on the Isle of Skye."

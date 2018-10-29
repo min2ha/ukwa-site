@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Clare Sturges, writer and director
-
 Clare Sturges is a two-times Welsh BAFTA-winning writer and director. 

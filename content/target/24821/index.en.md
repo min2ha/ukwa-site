@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Nigel Carter (@NigelCarterUKIP) on Twitter (UKIP  Politician)
-
 Nigel Carter stood as UK Independence Party (UKIP) candidate for Brighton Pavilion at the 2015 General Election but was not elected. In the 2017 General Election he stood for Chelmsford but was not elected.

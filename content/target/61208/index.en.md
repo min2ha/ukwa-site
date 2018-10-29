@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Burlington House
-
 Since 1854, Burlington House has been home to five learned societies and the Royal Academy of Arts. Our continuing programme of public events and activities provides access to our exciting scientific and artistic output.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# iGàidhlig
-
 Site providing information on adapting technology (devices and software) to work in tandem with Scottish Gaelic.

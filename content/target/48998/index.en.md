@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Gray's School of Art
-
 Site of an art college / school in Aberdeen, part of Robert Gordon University.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal United Services Institute (RUSI), The
-
 <p>The Royal United Services Institute (RUSI) is an independent think tank engaged in defence and security research. It was founded in 1831 by the Duke of Wellington.</p>

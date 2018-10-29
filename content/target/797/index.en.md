@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Drug Treatment Monitoring Unit (DTMU)
-
 None

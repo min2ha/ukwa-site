@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wildlife 
-
 Website for the Wildlife festival.

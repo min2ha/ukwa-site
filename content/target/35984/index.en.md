@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Colin Smyth (@CllrColinSmyth) on Twitter
-
 The Twitter profile of Colin Smyth, the Scottish Labour candidate for the South Scotland list in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Migration Research and Analysis
-
 Documents produced to support the Home Office in policy development and operations related to migration.

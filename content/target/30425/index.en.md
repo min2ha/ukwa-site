@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# MediWales : Life Science Network for Wales
-
 MediWales is the life science network and representative body for Wales. 

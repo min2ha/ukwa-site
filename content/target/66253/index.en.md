@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Technology-based customs system 'could cost £20bn
-
 The post-Brexit customs system favoured by Boris Johnson and other leading Brexiteers could cost businesses up to £20bn a year, officials suggested. The chief executive of HM Revenue and Customs told MPs firms would have to pay £32.50 for each customs declaration under the so-called "max fac" solution.
 
 

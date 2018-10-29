@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Is Ed Miliband an unlucky general?
-
 None

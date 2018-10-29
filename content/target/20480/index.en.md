@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Opposition mocks Tory renewal of failed migration target
-
 None

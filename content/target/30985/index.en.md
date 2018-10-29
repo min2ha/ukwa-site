@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Time-Line Computer Archive
-
 Time-Line Computer Archive Ltd is a not for profit company, our aim is to collect, restore and exhibit all types of early computers and electronics. 

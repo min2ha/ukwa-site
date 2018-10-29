@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Petina Strohmer
-
 Petina Strohmer is a novelist. Her novels have been published by Cinnamon Press and Leaf Books.

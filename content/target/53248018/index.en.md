@@ -10,5 +10,3 @@
   "start_date": "2010-07-26T00:00:00Z"
 }
 
-# Sioni Rhys Handweavers - home of Welsh artisan crafts
-

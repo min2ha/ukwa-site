@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Section188 - UNISON University of Wales, Newport Branch
-
 This blog from Unison (University of Wales, Newport branch) was in operation between 2011 and 2012.

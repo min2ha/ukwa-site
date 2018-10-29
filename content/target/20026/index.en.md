@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Warman (@EmmaWarman) on Twitter (Conservative Politician)
-
 Conservative Candidate stood as Cardiff South & Penarth at the 2015 General Election but was not elected. She then stood for Brighton Pavillion in 2017 but was not elected.

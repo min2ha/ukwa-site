@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bethany Woodward
-
 <p>The website for T37 400m runner Bethany Woodward, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

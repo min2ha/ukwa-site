@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Thousands of northerners demand to break away from south of England and join 'New Scotland' 
-
 None

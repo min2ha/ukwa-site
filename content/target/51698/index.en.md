@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Prince's Regeneration Trust
-
 A small but determined charity that has plenty of creative ideas to help people to save the places they love.

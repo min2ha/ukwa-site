@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 9th January 2018: Trade Bill
-
 Second reading debate on the Trade Bill, focusing on the impact of Brexit.

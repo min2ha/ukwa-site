@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Norfolk & Norwich Archaeological Society
-
 The society offers a programme of monthly lectures every autumn and winter. In spring/summer, they organise excursions visiting to sites, houses and churches in various parts of Norfolk and further afield.

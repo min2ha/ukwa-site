@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Cognitive Function and Ageing Studies - Wales (CFAS-Wales)
-
 Cognitive Function and Ageing Studies - Wales (CFAS-Wales) is based at Bangor University and is a longitudinal study looking at health and cognitive function in older people living in Wales. It is funded by Economic and Social Research Council and Higher Education Funding Council for Wales and led by Dementia Services Development Centre (DSDC), Bangor University. 

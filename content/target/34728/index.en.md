@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# National Museum of the Royal Navy: Commemorating Gallipoli 1915 - The HMS M.33 Project
-

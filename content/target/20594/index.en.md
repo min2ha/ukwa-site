@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Thousands of soldiers may lose jobs whoever wins election, thinktank warns
-

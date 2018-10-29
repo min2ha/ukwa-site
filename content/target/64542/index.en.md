@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Aberdare Association of Freemasons
-
 Aberdare Association of Freemasons meet at Aberdare Masonic Hall. The website provides a short history of the lodges within the Assocations.

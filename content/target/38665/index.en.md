@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 100 Years Ago: A series of WW1 centenary events focused on Merthyr Tydfil
-
 An exhibition that tells the stories of Merthyr people during this period, through panels, photos, paintings, objects, video footage and more.

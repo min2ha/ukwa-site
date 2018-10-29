@@ -10,5 +10,3 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Cymdeithas Cwn Defaid Gogledd Cymru | North Wales Sheep Dog Society
-

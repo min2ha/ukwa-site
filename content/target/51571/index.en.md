@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# The Guardian, The: Irish border checks will be impossible after Brexit, says ambassador
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lynne Featherstone on Facebook (Liberal Democrat candidate for Hornsey and Wood Green)
-

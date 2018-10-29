@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour must commit to spending £8billion on hospitals, says former NHS chief
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Pill Mill
-
 Pill Mill is the the Community Regeneration Charity for the deprived area of Pillgwenlly in Newport.

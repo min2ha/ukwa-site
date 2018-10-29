@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Metro, The: EU Referendum: Who’s staying in and who wants out?
-
 Metro, The: EU Referendum: Who’s staying in and who wants out?

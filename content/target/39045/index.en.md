@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Christians in Politics: EU focus
-
 The EU Focus initiative seeks to help Christians navigate the tricky (and sometimes heated) issue of EU membership. With resources for churches and individuals, as well as articles from Christians on both sides of the argument, EU Focus is a tool to help equip people to engage positively with the debate.

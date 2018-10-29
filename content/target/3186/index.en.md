@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Undiscovered Scotland
-
 Undiscovered Scotland is an online guide to Scotland. The site is a combination of visitor guide, accommodation listing and business directory.

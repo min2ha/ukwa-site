@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dominic Cummings (Vote Leave): Letter from Dominic Cummings to Andrew Dilnot (UK Statistics Authority)
-
 Letter in response to UK Statistics Agency's reply to Rt. Hon. Norman Lamb

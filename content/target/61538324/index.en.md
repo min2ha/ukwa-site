@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mid-Thames Quakers
-

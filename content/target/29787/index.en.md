@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Bob's BlundaBus
-
 BlundaBus is a travelling arts venue based on a double decker bus. It has appeared at the Edinburgh Fringe Festival and the Croydon Comedy Festival.

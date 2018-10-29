@@ -10,5 +10,3 @@
   "start_date": "2012-11-06T00:00:00Z"
 }
 
-# Learning in Wales | Dysgu Cymru
-

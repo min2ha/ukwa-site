@@ -10,5 +10,3 @@
   "start_date": "2010-10-05T00:00:00Z"
 }
 
-# Exiled Journalists Network (EJN)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Camphill School Aberdeen
-
 Site of a school which provides a full range of services for children and young people with additional support needs; residential school placements, day school placements, therapeutic programmes, young adult programmes, nursery provision, respite care, external training and nature nurture, all in line with the ethos of the Camphill movement.

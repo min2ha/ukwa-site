@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The 2015 election has unmistakable echoes of 1992
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Ed Stone's fate: resting in peace in a south London garage
-
 None

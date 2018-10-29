@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# British Society for the Philosophy of Science (BSPS)
-
 The British Society for the Philosophy of Science (BSPS) focuses on studying the logic, the methods, and the philosophy of science.

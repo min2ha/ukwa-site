@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# RedR: Humanitarian training for NGOs and relief workers worldwide
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Crucorney Energy Group
-
 Brecon Beacons community group promoting renewable and sustainable energy resources within the community.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge Thorntree No. 512
-
 Site of a masonic lodge located in Thornliebank, East Renfrewshire and affiliated with the Grand Lodge of Scotland.

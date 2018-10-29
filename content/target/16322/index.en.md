@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Cilcain
-
 <p>This is a community information site on the village of Cilcain in Flintshire.</p>

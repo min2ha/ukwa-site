@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Moutaineering Club
-
 Site of a moutaineering members' club which produces definitive Climbers' Guides to Scotland's mountains and outcrops, the authoritative guide to Munros and guides for hillwalkers and scramblers in Scotland.

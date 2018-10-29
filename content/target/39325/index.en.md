@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Kevin Madge (@kevin_madge) on Twitter (Labour candidate for Dyfed Powys Police and Crime Commissioner)
-
 David Madge is the Labour candidate for Dyfed Powys Police Commissioner in the 2016 Police and Crime Commissioner Elections.

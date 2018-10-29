@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Cista (@CISTA2015) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Peebles Beltane Festival
-
 Site of the revival of the annual riding of the marches, and May festival in the Scottish Borders town of Peebles.

@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# George J Smid, Liberal Democrat, on Twitter
-

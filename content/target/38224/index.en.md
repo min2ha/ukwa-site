@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave West Midlands (@VoteLeaveWM) on Twitter
-
 West Midland regional campaign for the UK to leave the EU

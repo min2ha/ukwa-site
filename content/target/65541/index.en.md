@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# North East Scotland Preservation Trust
-
 Site of a building preservation trust that exists to bring derelict, disused and redundant buildings back to life in the Aberdeenshire area and beyond.

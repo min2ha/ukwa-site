@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Catholic Women's Ordination
-
 None

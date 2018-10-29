@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oban Lorne Rugby Football Club
-
 Site of a Scottish rugby union football club based in Oban, Argyll and Bute.

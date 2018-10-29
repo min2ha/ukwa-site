@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Mark Thomas 
-
 Mark Thomas' homepage. Mark Thomas is a comedian, political activist, journalist and broadcaster.

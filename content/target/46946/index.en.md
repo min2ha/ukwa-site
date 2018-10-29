@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# SVJ Dance
-
 SVJ Dance is a dance company run by Sarah-Vaughan Jones, a choreographic artist focusing on the fusion of contemporary dance and digital media work. 

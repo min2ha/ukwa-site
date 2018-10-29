@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Lammy (Labour Party Politician)
-
 David Lammy stood as Labour party candidate for Tottenham at the 2017 General Election and was elected.He was first elected to serve as MP for Tottenham in a 2000 by-election and has held the seat ever since.

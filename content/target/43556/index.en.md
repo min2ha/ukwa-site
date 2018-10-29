@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Why Vote Remain
-
 A list of reasons why people should not vote for 'Brexit', compiled by an anti-'Brexit' group.

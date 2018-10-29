@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornwall Social Group
-
 None

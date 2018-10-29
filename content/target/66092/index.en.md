@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# House of Commons Careers
-
 Working at the House of Commons

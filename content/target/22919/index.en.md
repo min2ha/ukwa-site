@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Clark (Labour Politician)
-
 Chris Clark stood as Labour candidate for Sevenoaks & Swanley at the 2015 General Election but was not elected. He then stood for the same seat in 2017 but was not elected.

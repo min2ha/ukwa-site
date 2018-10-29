@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Black Sheep Journal
-
 Online poetry journal edited by Mab Jones and Bethany W. Pope. According to the site, 'A journal of work which doesn't quite fit in. Poetry and prose from the outside / unseen / inbetween.'

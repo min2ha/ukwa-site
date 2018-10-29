@@ -10,5 +10,3 @@
   "start_date": "2014-10-22T00:00:00Z"
 }
 
-# Charles Tunnicliffe Society
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# British Oceanographic Data Centre (BODC)
-
 The British Oceanographic Data Centre (BODC) is a national facility for looking after and distributing data concerning the marine environment.

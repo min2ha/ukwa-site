@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tony Edwards (@TonyE42) on Twitter
-
 Campaigning to leave the EU

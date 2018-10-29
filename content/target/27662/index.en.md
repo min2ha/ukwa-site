@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories plot early vote to 'lance the boil' on Europe
-
 None

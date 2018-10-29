@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 'An AFFRONT to democracy' - Ukip would have won 83 SEATS under a 'fair' voting system
-
 None

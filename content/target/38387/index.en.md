@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# International Socialism: “All changed, changed utterly”: The historical significance of the Irish Revolution
-
 Article by Shaun Doherty

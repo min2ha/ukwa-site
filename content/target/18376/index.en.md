@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alun dros Arfon on Facebook
-
 Welsh Labour's Parliamentary candidate in Arfon.

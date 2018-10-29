@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Business leaders fret over 'cocktail of political risks' as UK election nears
-
 None

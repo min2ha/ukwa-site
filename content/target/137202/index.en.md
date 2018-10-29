@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Books from Wales Online - Llyfrau o Gymru Ar-lein
-
 Website promoting books in Welsh, by the Welsh authors or published in Wales.

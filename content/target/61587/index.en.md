@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fair City Rollers
-
 Site of a skating roller derby team based in Perth, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# British Police Helmet, The
-
 Ross Mather is retired volunteer Curator of the South Wales Police Museum. This is his personal collection of police badges, helmets and photographs mainly from the Wales Police forces.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wellbeing Festival
-
 Health and wellbeing festival featuring workshops, talks, exhibitors etc.

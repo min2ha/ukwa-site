@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Positively Scottish – Inspiring stories that need to be heard
-
 A not-for-profit online magazine reporting stories about Scots in the UK and abroad.

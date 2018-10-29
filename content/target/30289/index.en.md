@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Forth Air Raid 75th Anniversary | Commemorating the first air attack of World War II
-

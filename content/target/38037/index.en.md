@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Voluntary Action Orkney
-
 Site of a group providing support and information to voluntary, community and charitable groups, social enterprises and volunteers [third sector] in Orkney, Scotland.

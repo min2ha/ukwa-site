@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May mounts charm offensive on EU leaders as she draws up secret Brexit plan ahead of Cabinet showdown at Chequers - with Hammond vowing to fight for 'soft' departure from EU
-

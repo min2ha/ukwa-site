@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Catholic Church Ravelston
-
 Site of a Scottish Roman Catholic parish church located in Ravelston, Edinburgh.

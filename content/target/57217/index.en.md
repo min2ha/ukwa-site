@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Swansea Little Theatre
-
 Swansea Little Theatre (SLT) was established in 1924 and was the first Little Theatre in Wales.

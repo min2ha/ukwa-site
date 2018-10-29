@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Granite City Brawlers on Facebook
-
 Facebook page of a skating roller derby team based Aberdeen.

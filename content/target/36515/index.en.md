@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit would be a 'blow to lads' holidays' and would bar access to Netflix abroad, claims 23-year-old SNP MP, but his claims are dismissed as 'desperate scare stories'   
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lincoln SfB (@LincolnSfb) on Twitter
-
 Official Students for Britain page at Lincoln University, campaigning to get Britain out of the European Union.

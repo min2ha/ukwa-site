@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Downfield Musical Society
-
 Site of a musical and musical theatre society located in Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Anrhydeddus Gymdeithas y Cymmrodorion | Honourable Society of Cymmrodorion, The
-
 The Honourable Society of Cymmrodorion seeks to promote the practice and development of the Language, Literature, Arts and Sciences of Wales.

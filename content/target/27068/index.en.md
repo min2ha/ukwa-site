@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Imams Online
-
 Imams Online an online portal serving as a, voice, information and career placement initiative aimed at prospective Islamic leaders, Imams, Chaplain, Alims, and Alima’s. They aim to provide the necessary information to aspiring Muslim leaders and enable them to become the future beacons of the communities they serve.

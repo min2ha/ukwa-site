@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scarborough and North East Yorkshire NHS
-

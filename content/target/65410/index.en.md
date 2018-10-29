@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# People's Parish
-
 Site of an initiative to engage all the people of Scotland’s civil parishes in community life, inspire new forms of mapping, to gather and artistic expressions and publish them online for future generations.

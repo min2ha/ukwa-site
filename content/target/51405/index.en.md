@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Scottish Mortgage Investment Trust plc (from Baillie Gifford & Company) 
-
 Scottish Mortgage Investment Trust plc is a publicly traded investment trust. It is a low-cost equity fund which invests on a global basis. Stocks are carefully selected for their strong growth prospects. The trust aims to outperform world stock market indices over a five year rolling period. Scottish Mortgage is managed by Baillie Gifford & Co Limited, the Edinburgh-based investment management partnership. As at 31 December 2016, Scottish Mortgage had total net assets of more than £4 billion, making it one of the UK's largest investment trusts.

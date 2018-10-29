@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Watford African Caribbean Association (WACA)
-
 None

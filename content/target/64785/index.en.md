@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Bedwellty Agricultural Society
-
 This is the official account for 'Bedwellty Agricultural Society' founded in 1876 who run the Bedwellty Agricultural Show. 

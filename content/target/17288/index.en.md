@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon attacks Westminster's 'morally unjustifiable' austerity policy 
-

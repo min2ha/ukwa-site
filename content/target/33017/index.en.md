@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Tin Shed Experience
-
 Tin Shed Experience is a second hand tin sheeted museum housing a collection of items from 1914-45 and wartime items including some film memorabilia and props. It is located in Laugharne, Carmarthenshire. 

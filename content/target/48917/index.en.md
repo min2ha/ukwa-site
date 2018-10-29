@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Bella Jane Isle of Skye
-
 Site of a boat trip organisation based at Elgol, Isle of Skye, specialising in sightseeing and wildlife tours to Loch Coruisk and the Small Isles.

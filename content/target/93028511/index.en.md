@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Institute of Engineering and Technology, The
-
 The Institute of Engineering and Technology (IET) is a professional organisation, which has been inspiring, informing and influencing the global engineering community, supporting technology innovation to meet the needs of society.

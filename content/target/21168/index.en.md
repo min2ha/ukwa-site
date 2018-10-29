@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Bryant 2015 (@ChrisBryant4MP) on Twitter
-
 Labour candidate for the Rhondda in the General Election.

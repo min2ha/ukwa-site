@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail: I can't think of any election that's left Britain so imperilled: A gloomy DOMINIC SANDBROOK, drawing lessons from history, says we should be very, very worried 
-

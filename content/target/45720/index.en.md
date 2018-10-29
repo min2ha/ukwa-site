@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Criw Celf
-
 Criw Celf is an art project for who are in years 7 to 9 at secondary school across north Wales. 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Hugh's College, University of Oxford: Professor Garnett interviewed about the Magna Carta for BBC Sunday Politics
-

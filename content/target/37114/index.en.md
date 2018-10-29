@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Leaving EU a 'leap in the dark' says Cameron
-

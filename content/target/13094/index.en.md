@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# British Trust for Ornithology (BTO), The
-
 The British Trust for Ornithology (BTO) is a charitable research institute combining professional and citizen science aimed at using evidence of change in wildlife populations, particularly birds, to inform the public, opinion-formers and environmental policy- and decision-makers.

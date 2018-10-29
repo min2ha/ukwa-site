@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# My Belly is Mine (@mybellyismine) on Twitter
-
 My Belly is Mine was set up to support Spanish women in their fight against the proposed reform to Spain’s abortion law in Dec 2013. This account is kept open to remember that campaign.

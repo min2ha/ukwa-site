@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Lawrence Ceramics
-
 Wendy Lawrence is a Welsh ceramicist based in Denbigh, North Wales.

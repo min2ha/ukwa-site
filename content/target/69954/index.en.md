@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitby Town FC
-
 The official website of Whitby Town FC. 

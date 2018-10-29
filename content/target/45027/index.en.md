@@ -10,6 +10,4 @@
   "start_date": "2016-08-13T10:00:00Z"
 }
 
-# Mark Robertson (@marky_robertson) on Twitter
-
 This is the twitter profile of rugby sevens player, Mark Robertson.

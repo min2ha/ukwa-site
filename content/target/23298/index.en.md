@@ -10,6 +10,4 @@
   "start_date": "2015-05-05T09:00:00Z"
 }
 
-# Snowdonia Mountains and Coast | Eryri Mynyddoedd a Mor
-
 Gwynedd Council Tourist Information guide.

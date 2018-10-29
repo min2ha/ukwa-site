@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip poster: 'Don't make our heroes beg for more'
-
 None

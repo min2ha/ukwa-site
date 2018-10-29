@@ -10,6 +10,4 @@
   "start_date": "2016-12-07T09:00:00Z"
 }
 
-# Sunrise Stained Glass Studio:  Stained Glass Window Artists 
-
 Gallery and blog of Sunrise Stained Glass studio. The studio produces fine new stained glass windows for churches, schools, public buildings, and for private homes in the UK.

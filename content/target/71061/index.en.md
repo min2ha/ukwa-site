@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parent Zone: Can children become addicted to online gaming?
-
 A Parent Zone article discussing whether children can be addicted to online gaming.

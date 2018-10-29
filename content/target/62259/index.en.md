@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grassroots (@FootballGrf) on Twitter
-
 Grassroots Football represent the grassroots community – and offer support, resources and advocacy on behalf the people that play the game or support the game.

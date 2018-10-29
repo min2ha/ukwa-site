@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' Foundations of the Future Economic Partnership Speech
-
 Speech by David Davis on the UK's vision of its future relationship with the EU. He seeks to reassure the EU that Britain will not become a rogue state, cutting standards and taxes in order to undermine the European economy.

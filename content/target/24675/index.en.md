@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stewart Jackson (Conservative)
-
 Stewart Jackson stood as Conservative candidate for Peterborough at the 2015 General Election. He was first elected to serve as MP for Peterborough in 2005 and re-elected in 2015.

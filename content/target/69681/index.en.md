@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stone Valley Festival
-
 Website for the Stone Valley Festival for Music and Scooters.

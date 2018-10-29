@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Nishkam Civic Association UK (NCAUK)
-
 The Nishkam Civic Association (NCA) was established in 2003, a relatively new and unique organisation charged with the task of developing a dynamic Sikh faith inspired civic agenda.

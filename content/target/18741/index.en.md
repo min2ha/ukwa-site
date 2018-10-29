@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Prince Charles: global pact on climate change could be Magna Carta for Earth
-

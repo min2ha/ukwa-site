@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Capability Brown Festival
-
 The website is the online archive of the Capability Brown Festival 2016. It holds a wide range of information and newly published research on the life and, particularly, the work of Lancelot “Capability” Brown, the grandfather of landscape architecture, and the sites which still exist today. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A second referendum during Brexit negotiations would be absurd
-

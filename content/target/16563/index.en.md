@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Veteran journalist launches 'constituency TV' in London borough 
-
 None

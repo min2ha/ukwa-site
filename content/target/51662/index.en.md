@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Tayside Organists' Society
-
 Site of a society that Society promotes interest in organs and organ music among its members and the general public.

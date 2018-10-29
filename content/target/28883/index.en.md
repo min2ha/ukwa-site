@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Berwick Literary Festival
-
 Berwick Literary Festival

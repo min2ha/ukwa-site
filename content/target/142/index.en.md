@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luton and Dunstable Hospital
-
 None

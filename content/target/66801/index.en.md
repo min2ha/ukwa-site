@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Prospecthill Christian Fellowship
-
 Site of an Apostolic Christian church located at Greenock, Renfrewshire.

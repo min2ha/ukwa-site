@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Alto Publications
-
 Music publishers based in Wales.

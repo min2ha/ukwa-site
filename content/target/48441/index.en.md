@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Pilgrm Journeys
-
 Site detailing sacred journeys of Scotland’s Celtic Saints and Medieval Christian traditions of pilgrimage and linking these with modern faith journeys.

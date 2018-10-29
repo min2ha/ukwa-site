@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# British Islamic Medical Association
-
 The British Islamic Medical Association (BIMA) is a democratic, national organisation that aims to unite, inspire and serve Muslim healthcare professionals in the UK.

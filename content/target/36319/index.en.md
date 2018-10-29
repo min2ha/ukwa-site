@@ -10,8 +10,6 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# National Association for Youth Justice
-
 The National Association for Youth Justice (NAYJ) is the only membership organisation which exclusively campaigns for the rights of and justice for children and young people in trouble with the law.
 
 NAYJ was formed in 1995 following the amalgamation of two existing organisations, the Association for Youth Justice and the National Intermediate Treatment Federation and in 2010 became a registered charity.

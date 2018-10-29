@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Media matters for boys too! The role of specific magazine types and television programs in the drive for thinness and muscularity in adolescent boys
-
 A research paper on the impact of magazines and television on body image

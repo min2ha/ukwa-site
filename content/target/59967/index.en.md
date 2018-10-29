@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: clause 7 “the correcting power”
-
 This briefing paper covers clause 7 of the European Union (Withdrawal) Bill (EUW Bill), described by David Davis MP, the Secretary State for Exiting the European Union, as the “so-called correcting power”. The paper was  prepared for day 6, scheduled to take place on 12 December 2017, of the Committee Stage of the EUW Bill in the House of Commons.
 

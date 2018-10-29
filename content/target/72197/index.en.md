@@ -10,5 +10,3 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# The York Me Community
-

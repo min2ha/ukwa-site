@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK 'can't keep European Arrest Warrant after Brexit'
-
 The UK would be kicked out of the European Arrest Warrant deal after Brexit, EU chief negotiator Michel Barnier has said. he EU would consider setting up a "streamlined" extradition process with the UK instead.

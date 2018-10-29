@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wired UK
-
 Stories, people and ideas that are changing our day-to-day world by Wired UK. The most important, interesting and inspiring news and features on Wired.co.uk.

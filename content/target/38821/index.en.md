@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# #senedd16 (@senedd16) on Twitter 
-
 Twitter account providing the latest news of the National Assembly for Wales election, 2016. The account is the responsibility of the National Assembly for Wales.

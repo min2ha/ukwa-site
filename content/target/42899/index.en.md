@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Langass Lodge
-
 Site of a hotel and restaurant on the island of Norh Uist, Western Isles (Uibhist a Tuath, Na h-Eileanan Siar)

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Pembrokeshire Care Society
-
 Pembrokeshire Care Society assists the homeless (through funding received from various sources) by identifying the issues and to then plan, develop and provide the services to alleviate them.

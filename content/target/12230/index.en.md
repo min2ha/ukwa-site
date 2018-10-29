@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Oates British Judo Number 1 U66kgs
-
 <p>Website ofColimn Oates, judo fighter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Gourmet Wales
-
 Gourmet Wales is an extension of Welsh Rarebits Collection, established nearly 30 years ago to showcase the very best privately owned small hotels, stylish bolt holes and boutique hideaways in Wales. Gourmet Wales provides information on variety of high quality produce that Wales has to offer.

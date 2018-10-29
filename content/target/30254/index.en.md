@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Who Do You Think You Are Magazine
-
 Website of an online genealogical magazine.

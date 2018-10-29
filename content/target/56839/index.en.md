@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Providing a cross-border civil judicial cooperation framework 
-
 As the United Kingdom leaves the European Union, the Government will seek a deep and special partnership with the EU. Within this partnership, cross-border commerce, trade and family relationships will continue. Building on years of cooperation across borders, it is vital for UK and EU consumers, citizens, families and businesses, that there are coherent common rules to govern interactions between legal systems. To this end, the UK, as a non-member state outside the direct jurisdiction of the Court of Justice of the European Union (CJEU), will seek to agree new close and comprehensive arrangements for civil judicial cooperation with the EU.
 
 

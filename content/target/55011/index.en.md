@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# House of Lords Hansard: 21st June 2017: Queen's speech
-
 Transcript of the 2017 Queen's speech, focusing on the UK's withdrawal from the EU

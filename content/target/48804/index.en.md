@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# EID Cymru
-
 EIDCymru is the electronic sheep and goat movement recording system for Wales. 

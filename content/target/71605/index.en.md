@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Meden Vale RFC on Pitchero
-
 The official website of Meden Vale Rugby Football Club.

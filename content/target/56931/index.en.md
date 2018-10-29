@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Sophia Centre Press
-
 The Sophia Centre Press was founded in 2009 and is associated with the University’s Sophia Centre for the Study of Cosmology and Culture in the Faculty of Humanities and the Performing Arts.

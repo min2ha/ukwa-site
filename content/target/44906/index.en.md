@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: Resignation honours 2016
-
 The Prime Minister’s Resignation Honours are granted by Her Majesty the Queen at the request of an outgoing Prime Minister. These honours and peerages follow the resignation of the former Prime Minister the Rt Hon David Cameron MP.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Bunnyfoot (@BunnyfootSays) on Twitter
-
 Bunnyfoot is a user experience consultancy company. They specialise in finding and recruiting participants to take part in various types of user testing. This is their official Twitter account.

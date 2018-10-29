@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Tobacco Control Profiles for England
-
 None

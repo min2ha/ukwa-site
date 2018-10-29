@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: Monetary Policy Summary and minutes of the Monetary Policy Committee meeting ending on 15 June 2016
-
 An increasing range of financial asset prices has become more sensitive to market perceptions of the likely outcome of the forthcoming EU referendum. On the evidence of the recent behaviour of the foreign exchange market, it appears increasingly likely that, were the UK to vote to leave the EU, sterling’s exchange rate would fall further, perhaps sharply.

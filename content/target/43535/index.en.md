@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Adam Smith Institute: The Liberal Case for 'Leave', by Roland Smith
-
 An article by free economy economist Roland Smith which considers the origins of the EU, Britain's history of involvement with the EU and the application of historical events to the modern-day discussion over Brexit.

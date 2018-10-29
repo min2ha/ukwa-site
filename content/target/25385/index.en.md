@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative spending cuts will hit middle-income families, says Labour
-
 None

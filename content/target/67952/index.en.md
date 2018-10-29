@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Motor Schools Association of Great Britain (MSA GB)
-
 The Motor Schools Association of Great Britain (MSA GB) is one of the longest established national bodies for driver trainers in the world, having started back in 1935 just before the introduction of the driving test, it is the senior association for driver trainers in Britain. 

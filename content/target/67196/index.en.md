@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May is circling the Brussels sky and low on fuel. Time to buckle up
-

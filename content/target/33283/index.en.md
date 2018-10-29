@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# PC Advisor
-
 PC Advisor is a website with information and reviews about technology, IT and business.

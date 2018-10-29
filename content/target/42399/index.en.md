@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isle of Whithorn
-
 The content of this website is maintained by members of the Isle of Whithorn Village community. 

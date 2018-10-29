@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Indygal Inspired
-
 This is the blog of Anne McLaughlin, the Scottish National Party (SNP) candidate for Glasgow North East in the UK General Election on the 7th May 2015.

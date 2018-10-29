@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Golden Jubilee National Hospital
-
 Golden Jubilee National Hospital in Clydebank is a national resource for Scotland managed by the National Waiting Times Centre Board.

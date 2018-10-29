@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# A & F RUFC (Aldershot & Fleet)
-
 A community based rugby club comprising two men's team, a ladies touch team and an amazing juniors section.

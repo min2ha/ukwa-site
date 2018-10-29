@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cornwall Health and Wellbeing Board
-
 None

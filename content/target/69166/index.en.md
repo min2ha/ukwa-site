@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: LGBT+ rights and Brexit: the facts
-
 The UK’s membership of the EUstrengthened protections for LGBT+ people in the UK. Brexit put those hard-won rights at risk.

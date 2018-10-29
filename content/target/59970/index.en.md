@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: deal or no deal
-
 The European Union Committee outlines the potential impact on the UK of leaving the EU without a deal, and examines the feasibility of a transition period immediately post-Brexit.
 

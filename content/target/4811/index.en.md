@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Rugbydump.com: The Springboks and Nelson Mandela - RIP Madiba
-
 <p>Tributes to Nelson Mandela from rugby leaders around the world. The article focuses on Mandela's support for the Rugby World Cup in South Africa in 1995.</p>

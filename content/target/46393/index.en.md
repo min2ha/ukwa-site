@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: October 20th 2016: Brexit: Peace and Stability 
-
 House of Lords debates the potential effect on peace and stability in Europe and around the world of the United Kingdom leaving the European Union.

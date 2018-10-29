@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# NHS North Kensington Health Response [NHS Grenfell Tower Fire Response Group]
-
 The NHS Grenfell Tower Fire Response Group runs the NHS offer for people affected by the Grenfell Tower fire. It is made up of NHS commissioners and providers and clinicians.

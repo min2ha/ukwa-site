@@ -10,6 +10,4 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Welsh Costume | Gwisg Gymreig 
-
 The Welsh costume website contain descriptions of Welsh costume written by and for tourists to Wales, 1700 – 1900; descriptions of Welsh costumes in public and some private collections, and links to images of Welsh costume on other web sites. 

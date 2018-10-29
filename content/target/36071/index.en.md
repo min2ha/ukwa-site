@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ruth F Maguire (@RBFMaguire) on Twitter
-
 The Twitter profile of Ruth F Maguire, the Scottish National Party candidate for Cunninghame South in the 2016 Scottish Parliament election.

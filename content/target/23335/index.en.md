@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# GDPUK.com Blog, The: Pramod Subbaraman
-

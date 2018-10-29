@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hyndland Rugby Football Club
-
 Site of a Scottish rugby union football club based in the Hyndland area of Glasgow.

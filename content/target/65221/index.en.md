@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# New Cumnock History
-
 Local history site focusing on the area of Cumnock, Ayrshire.

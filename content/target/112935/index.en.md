@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Arts & Ego
-
 Website of an artist Dylan Harris.

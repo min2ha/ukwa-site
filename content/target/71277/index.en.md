@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Larbert Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located near Falkirk.

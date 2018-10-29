@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Peace News: for non-violent revolution
-
 Website of Peace News, the newspaper for the UK grassroots peace and justice movement. 

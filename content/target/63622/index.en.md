@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Balmerino and Wormit Parish Church
-

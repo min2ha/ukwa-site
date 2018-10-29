@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chronicle World
-
 A creative renewal of Black Britain & the African Diaspora.

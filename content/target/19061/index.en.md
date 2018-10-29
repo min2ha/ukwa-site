@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: New £2 is WRONG! 'Inaccurate' image of King John endorsing Magna Carta is 'schoolboy error' blasts historian 
-

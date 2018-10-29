@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Visible | Gweladwy LGBT
-
 The Visible Project is a dedicated Lesbian, Gay, Bisexual & Transgender project that exists to promote and support the LGBT community in Merthyr Tydfil. It is run by Safer Merthyr Tydfil and funded by Heriate Lottery Fund.

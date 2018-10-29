@@ -10,5 +10,3 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# NHS Wales: Wales Cardiac Network | Rhwydwaith Cardiaidd Cymru
-

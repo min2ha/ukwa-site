@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Anthony Salamone (@AMSalamone) on Twitter
-
 PhD Candidate @EdinburghUni • Author @BritainsEurope • UK and EU politics • Managing Editor @EuropeanFutures • Co-Convenor @EdinEuropaRG

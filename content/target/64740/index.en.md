@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# 29th Scottish Association of Family History Societies Conference & Family History Fair
-
 Site of the 2018 edition of the Scottish Association of Family History Societies' annual conference, staged in Glenrothes, Fife.

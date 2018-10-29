@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cumbrae SNP (@CumbraeSNP) on Twitter
-
 Twitter profile of the Cumbrae branch of the Scottish National Party (SNP).

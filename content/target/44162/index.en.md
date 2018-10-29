@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# https://www.Mayor of London: Mayor calls on Londoners to stand together against hate crime 
-

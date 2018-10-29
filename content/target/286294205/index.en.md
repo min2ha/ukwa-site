@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Timespan Museum and Arts Centre in Helmsdale Sutherland, the Highlands: North Sea Hitch
-
 <p>North Sea Hitch is a residency and exhibition by Glasgow-based artist Stephen Hurrel at Timespan, a museum and art gallery in Helmsdale, Sutherland. The exhibition is part of GENERATION, a celebration of Scottish contemporary art of the last 25 years to mark the Commonwealth Games in Glasgow.</p>

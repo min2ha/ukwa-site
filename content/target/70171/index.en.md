@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Armagh City Ladies FC (@ArmaghLadiesfc) on Twitter
-
 The official Twitter account of Armagh City Ladies Football club. 
 Women's football club based in Armagh, Northern Ireland. 

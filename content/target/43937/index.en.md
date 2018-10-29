@@ -10,5 +10,3 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Liz Saville Roberts (Plaid Cymru MP for Dwyfor Meirionnydd)
-

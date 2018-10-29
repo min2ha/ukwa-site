@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories weigh up options for £12bn welfare cuts
-
 None

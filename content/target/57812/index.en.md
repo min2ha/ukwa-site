@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: 'Now they have to pay': Juncker says UK stance on Brexit bill untenable
-
 Jean-Claude Juncker has upped the pressure on Theresa May over Britain’s Brexit divorce bill, acknowledging Europe’s debt of gratitude to the country “during the war, after the war, before the war”, but insisting: “Now they have to pay.”

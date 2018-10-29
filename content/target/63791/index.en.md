@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Oxford Students for Life (OSFL)
-
 Oxford Students for Life is a student society at the University of Oxford. They seek to promote a culture of life at the University & beyond.

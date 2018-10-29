@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Japan is as curious as everyone else: what is Theresa May’s Brexit plan?
-

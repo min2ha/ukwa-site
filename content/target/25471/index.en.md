@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Musicians and scientists join call to scrap Trident nuclear deterrent
-
 None

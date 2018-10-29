@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 20th Feb. 2017: European Union (Notification of Withdrawal) Bill 
-
 Verbatim record of the second reading debate on the European Union (Notification of Withdrawal) Bill  in the House of Lords, February 20th 2017.

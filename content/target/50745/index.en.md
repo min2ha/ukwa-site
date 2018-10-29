@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop the Cardiff Arms Fair / Na i Ffair Arfau Caerdydd on Facebook
-
 Stop the Cardiff Arms Fair is a network of people and groups organising against the Cardiff Arms Fair. It is supported by the Anarchist Action Network, Smash EDO, Campaign Against the Arms Trade and South Wales Anarchists.

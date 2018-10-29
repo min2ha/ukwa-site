@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Stephen Glover:  I'd be amazed if the Queen wasn't Eurosceptic - and good for her if she had a pop at Cleggie   
-

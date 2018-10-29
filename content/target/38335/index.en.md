@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Workers' Weekly: Commemoration of the Easter Rising 1916
-
 Article in Revolutionary Communist Party of Britain's weekly newspaper.

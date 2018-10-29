@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cook Vegetarian Forums
-
 An online enthusiast community concerned with vegetarian cooking. Discusses cookery tips, veggie shopping meat-free living and other related topics. 

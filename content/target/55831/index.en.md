@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mike Hookem (@mikehookemmep) on Twitter (UKIP Politician)
-
 Mike Hookem is MEP for Yorkshire & the Humber. He has served as UKIP's Fisheries spokesman since 29 November 2016, and had previously served as defence spokesman from 2014-16. He was elected in 2014. Mike Hookem was the UK Independence Party (UKIP) candidate in the constituency of Great Grimsby in the 2017 General Election, but was not elected.

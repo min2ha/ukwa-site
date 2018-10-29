@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Children's Festival
-
 UK's largest performing arts festival for children and young people

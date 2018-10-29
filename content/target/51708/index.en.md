@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Detained in Dubai
-
 Detained in Dubai is a not for profit organisation formed to assist people who have become victims of injustice in the United Arab Emirates. 

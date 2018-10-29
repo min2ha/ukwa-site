@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour presses David Cameron on leaders' debates as schedule published
-
 None

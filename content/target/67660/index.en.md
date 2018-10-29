@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# UK Buell Enthusiasts Group Forum
-
 An online forum for Buell Enthusiasts, arranging events, advertising and discussing Buell's

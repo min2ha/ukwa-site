@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sue Thomas
-
 None

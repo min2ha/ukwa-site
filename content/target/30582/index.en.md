@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Warburg Institute, The: School of Advanced Studies, University of London
-
 The Warburg Institute is a part of the School of Advanced Study, University of London.

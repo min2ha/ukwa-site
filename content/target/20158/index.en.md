@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mary Griffiths Clarke on Facebook
-

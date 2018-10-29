@@ -10,6 +10,4 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# BSBI Cymru - blog from Polly Spencer-Vellacott, Welsh Officer
-
 This is a blog by blog from Polly Spencer-Vellacott, Welsh Officer, BSBI Cymru - Botanical Society of Britian and Ireland.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rik Evans on Facebook (National Health Action Party candidate for Truro and Falmouth)
-

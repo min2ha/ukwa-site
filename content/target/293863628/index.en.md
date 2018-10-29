@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Council Tax Reduction Review Panel (CTRRP)
-

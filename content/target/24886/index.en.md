@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Peter Adrian Garbutt on Facebook (Green Party candidate Sheffield Hallam)
-

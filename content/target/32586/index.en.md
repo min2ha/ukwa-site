@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# SC Magazine UK
-
 SC Magazine UK is the information resource for cyber security professionals in the UK and Europe, who need knowledge on IT security strategies, data protection best practices, government regulations and current IT security technologies. 

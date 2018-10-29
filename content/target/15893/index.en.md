@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Cavalier Campaign
-
 Cavalier Campaign is a campaign to improve the health of pedigree and purebred dogs.

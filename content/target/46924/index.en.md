@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University College London (UCL): EU Referendum Debate: To Remain or To Leave?
-
 Event page for the UCL EU Referendum Debate.

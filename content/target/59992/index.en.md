@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Lord Adonis quits government role with Brexit attack
-
 Reports Lord Adonis' resignation as the government's infrastructure adviser with a strong attack on Brexit. 

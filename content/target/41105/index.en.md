@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Bowhill House
-
 Site of a stately home and visitor attraction located at Selkirk, Scottish Borders.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Bradgate Park Leicestershire
-
 The Visitor Centre – located in the middle of the Park, the exhibitions here tell the story of Bradgate and its fascinating natural and human history.

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Charnwood Borough Council
-
 The website of Charnwood Borough Council offers news and information about its services. It also offers access to committee papers and minutes, consultations and local planning documentation.

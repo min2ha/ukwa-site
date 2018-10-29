@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Museum of Scottish Lighthouses
-
 Site of a museum located in Fraserburgh, Aberdeenshire, Scotland, dedicated to preserving the industrial and social history of Scottish Lighthouses.

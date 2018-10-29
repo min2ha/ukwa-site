@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Welcome to Oddleigh on Tumblr
-
 Webcomic by Tor Freeman following two police officers in the strange town of Oddleigh.

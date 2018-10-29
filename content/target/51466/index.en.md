@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Cais
-
 CAIS is a charity and a leading voluntary sector provider of personal support services in Wales and provide help people with addictions and mental health.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shepherdsbushw12.com
-
 ShepherdsBushW12.com is a web site for the area of Shepherd's Bush in West London.

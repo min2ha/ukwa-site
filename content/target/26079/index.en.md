@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour will help 9m renters save £600 each, Ed Miliband to promise
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Durre Shahwar
-
 Durre Shahwar is a Welsh writer and an Associate Editor for Wales Arts Review.

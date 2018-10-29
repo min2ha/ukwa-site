@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Belmont House
-
 Site of an organisation running an historic house in Unst, Shetland, open to visitors and for hire.

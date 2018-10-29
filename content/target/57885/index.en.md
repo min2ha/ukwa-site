@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Modern Collections on Twitter
-
 "Tweeting about the National Library of Scotland’s 20th and 21st Century published collections."

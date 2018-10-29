@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Facebook Researchers Acknowledge Social Media Can Be Bad For You
-
 News article about a recent press release called, Hard Questions, David Ginsberg, director of research, and Moira Burke, a research scientist at Facebook, acknowledge and comment on the scientific research linking social media to negative impacts on well-being, before outlining the steps Facebook is taking to solve these issues

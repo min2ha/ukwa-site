@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# University of Wolverhampton: ‘The Girls of the Period Playing Ball’: The Hidden History of Women’s Football 1869 – 2015
-
 A short profile about women's football by Jean Williams.

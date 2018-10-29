@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Five important points in the EU's negotiation plan
-
 Presents a clause by clause analysis of the EU's negotiation guidelines for Britain's withdrawal.

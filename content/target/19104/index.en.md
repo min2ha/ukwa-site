@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Panel Session – Beyond the Commonwealth: Magna Carta and the development of law around the world
-

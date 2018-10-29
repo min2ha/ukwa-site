@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Graeme Dey MSP
-
 Greame Dey, Scottish National Party Member of the Scottish Parliament for Angus South.

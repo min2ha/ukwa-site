@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: #BBCtrending: Going Gaga for Scottish independence
-
 None

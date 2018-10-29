@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Personal Injury Lawyers: APIL's manifesto – an agenda for 2015 and beyond
-
 The Association of Personal Injury Lawyers (APIL) has been fighting for the rights of injured people for over 25 years. A not-for-profit campaign organisation, APIL’s 3,800 member lawyers (mainly solicitors, barristers and legal executives) are dedicated to changing the law, protecting and enhancing access to justice, and improving the services provided for victims of personal injury. 

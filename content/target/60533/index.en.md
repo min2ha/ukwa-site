@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cwmni Pendraw, cwmni theatr
-
 Cwmni Pendraw is a theatre touring company based in Bangor.

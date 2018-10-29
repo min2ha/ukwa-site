@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus Labour Party (@AngusLabour) on Twitter
-
 Twitter profile of the Angus branch of Scottish Labour.

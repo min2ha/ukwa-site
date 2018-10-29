@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Holy Redeemer's amd St. Margaret's
-
 Site of two Roman Catholic parish churches in Scotland, located at Clydebank.

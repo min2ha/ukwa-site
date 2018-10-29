@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# East London Mosque & London Muslim Centre
-
 The East London Mosque, situated in the London Borough of Tower Hamlets between Whitechapel and Aldgate, serves Great Britain's largest Muslim community.[2] Combined with the adjoining London Muslim Centre and Maryam Centre, it is one of the largest mosques in Europe, accommodating more than 7,000 worshippers for congregational prayers

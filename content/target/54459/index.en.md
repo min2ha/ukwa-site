@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Workers Revolutionary Party General Election 2017 candidates
-
 Workers Revolutionary Party Candidates General Election 2017

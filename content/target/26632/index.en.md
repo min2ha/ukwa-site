@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The markets liked the Tory victory. Will they like Britain leaving Europe?
-
 None

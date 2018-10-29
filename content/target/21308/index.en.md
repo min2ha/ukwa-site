@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Julia E Kee (@JuliaEKee) on Twitter (Ulster Unionist Party candidate for Foyle) 
-

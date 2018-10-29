@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK growth to pick up as cheaper oil cheers consumers, CBI says
-
 None

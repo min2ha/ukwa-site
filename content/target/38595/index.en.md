@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Whaling Times
-
 Site focussed on the history of all aspects of the Scots whaling industry including ex-whalers.

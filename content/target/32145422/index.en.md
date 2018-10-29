@@ -10,7 +10,5 @@
   "start_date": "2009-10-06T00:00:00Z"
 }
 
-# Vegetarian & Vegan Foundation
-
 The Vegetarian & Vegan Foundation  or VVF  is a registered charity. It was set up to monitor and to explain the increasing amount of scientific research linking diet to health  providing accurate information on which to make informed choices.
 

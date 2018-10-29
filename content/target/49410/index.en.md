@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Gov.UK: Prime Minister announces 2017 UK-India Year of Culture
-
 A press statement from Prime Minister David Cameron about the 2017 UK-India Year of Culture.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Iain Duncan Smith has ordered his civil servants to IGNORE a diktat banning him from getting referendum paperwork because he backs Brexit   
-

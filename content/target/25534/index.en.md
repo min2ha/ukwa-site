@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Brand and Miliband: let's pray it was something sordid rather than political
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# RoderickCampbell MSP (RCampbellMSP) on Twitter
-
 <p>The twitter profile of Roderick Campbell, Scottish National Party Member of the Scottish Parliament for North East Fife.</p>

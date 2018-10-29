@@ -10,5 +10,3 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# Wembley Stadium
-

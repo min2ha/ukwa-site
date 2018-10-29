@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: OK, so who forgot the paperwork? David Davis urges EU to 'get down to business' as he kicks off second round of Brexit talks - but UK team seems to have turned up without notes   
-

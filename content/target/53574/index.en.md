@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Doune the Rabbit Hole 
-
 Site of an independent/DIY ('do it yourself') music and arts festival at Doune, Perthshire.

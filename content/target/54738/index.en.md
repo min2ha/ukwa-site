@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lochwinnoch Arts Festival
-
 Site of a mixed, annual arts festival based in Lochwinnoch, Renfrewshire.

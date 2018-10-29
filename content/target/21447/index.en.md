@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Morton for Moray
-
 This is the website of Sean Morton, the Labour Party candidate for Moray in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Gadgette
-
 Gadgette is a tech and lifestyle blog for geeky women.It was founded by Holly Brockwell in 2015 as a way to increase the visibility of women in tech media.

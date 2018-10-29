@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Magpi Magazine, The
-
 The official Raspberry Pi magazine.

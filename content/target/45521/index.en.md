@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# pruart.com - The Home of Sculptural Watercolour
-
 Prue Bishop is a British artist born in Northumberland living in France.  Her is well known for producing sculptural watercolours.

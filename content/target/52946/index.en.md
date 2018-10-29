@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Filmpro Limited
-
 Filmpro is a disabled-led film and digital arts agency. Founded in 2001 by Caglar Kimyoncu as an informal collective, filmpro became a non-profit company limited by guarantee in 2009.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford VR (@Oxford_VR_Ltd) on Twitter
-
 Twitter account for a University of Oxford spinout researching virtual reality as a treatment for mental health

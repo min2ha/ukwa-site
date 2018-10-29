@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Aberystwyth University: Centre for Welsh Politics and Society
-
 The Centre for Welsh Politics and Society is an interdisciplinary research centre at Aberystwyth University. The Centre for Welsh Politics and Society also functions as the Aberystwyth arm of WISERD, providing links with social scientists at Bangor, Cardiff, South Wales and Swansea universities.

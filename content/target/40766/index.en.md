@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Imaginate
-
 Website of an organisation in Scotland, promoting, developing and celebrating the performing arts for children and young people.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Soho FC (@SohoFC) on Twitter
-
 Gay LGBTQ friendly London football tea

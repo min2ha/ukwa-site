@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Allen & Overy: Article 50 notification – Parliamentary approval is required
-
 In a hugely important constitutional and political decision, the English High Court ruled against the UK Government, declaring that the Government cannot trigger the process of leaving the European Union without the consent of Parliament. This bulletin provides a legal analysis of the decision, considers the wider commercial impact of the proceedings and discusses what might happen next.

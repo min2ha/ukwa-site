@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Left Review
-
 Established in 2000, the Scottish Left Review is a bi-monthly magazine that seeks to provide a focal point for thought and discussion for the Scottish Left.

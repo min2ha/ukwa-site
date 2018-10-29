@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Frankie Boyle
-
 Official website of a stand up comedian Frankie Boyle.

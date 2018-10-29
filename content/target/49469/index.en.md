@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Land Is Ours
-
 The Land is Ours campaigns peacefully for access to the land, its resources, and the decision-making processes affecting them

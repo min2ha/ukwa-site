@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# RetroPie Forum
-
 An online enthusiast forum concerned programming Rasberry Pi computers for retro computer gaming. Discusses gaming, projects, ideas and development and various other topics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Jim Murphy says Labour 'doesn't want' a post-election deal with SNP 
-
 None

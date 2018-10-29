@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Glyn Wylfa Development Trust
-
 Glyn Wylfa Ltd is a social enterprise and Development Trust in Chirk.

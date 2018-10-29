@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: An edition of the Magna Carta, which belongs to Sandwich town council, discovered in Kent County Council's archives in Maidstone
-

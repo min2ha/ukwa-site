@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# British Malaysian Society, The 
-
 The British Malaysian Society was founded in the early 1980s as a bilateral friendship organisation.

@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-#  University of Aberdeen AURA - Aberdeen University Research Archive
-
 The Aberdeen University Research Archive (AURA) provides access to the full text of selected research outputs of the University. Research theses are not included in AURA but are held in our Digital Resources collections.

@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# ESCR Canolfan dros Ymchwil i Ddwyieithrwydd | ESRC Centre for Research in Bilingualism
-

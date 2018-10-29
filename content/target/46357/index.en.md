@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Hard or soft Brexit? Red Ed's Orwellian doublespeak is just a trick to defy the will of the people 
-
 Ed Miliband and Nick Clegg, the biggest double-losers in recent British political history — the former Labour and Liberal Democrat party leaders who were heartily rejected by the voters in last year’s General Election, and again a few months ago when they campaigned for the UK to remain in the EU — have joined forces to insist the Government has no democratic right to implement what they term ‘hard Brexit’.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leytonstone Today
-
 This is a non-commercial, non-political website for the whole community. There is content for people new to Leytonstone, for long-term residents, and for people who have moved away and may want to keep up to date with the fast moving changes happening at the moment.

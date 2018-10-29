@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Unity in Diversity
-
 The Unity in Diversity group is a Swansea based registered charity (#1167339) that runs twice-weekly sessions providing food, support and learning opportunities to asylum seekers and refugees in the Swansea area. 

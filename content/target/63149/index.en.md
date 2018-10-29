@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# British physicist Professor Stephen Hawking dies
-
 St Albans Review: An article on the passing of Stephen Hawking

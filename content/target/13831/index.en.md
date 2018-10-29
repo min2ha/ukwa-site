@@ -10,6 +10,4 @@
   "start_date": "2014-08-29T07:00:00Z"
 }
 
-# The Europeanisation of Citizenship in the Successor States of the Former Yugoslavia (CITSEE) at the University of Edinburgh
-
 None

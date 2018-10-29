@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ALLEN David  Stewart on Facebook 
-
 David Allen stood as English Democrats candidate for Doncaster North at the 2015 General Election but was not elected.

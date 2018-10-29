@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Theresa May needs to bring Europe with her in order to secure the best Brexit terms for Britain 
-
 Argues that, in order to get the best deal possible for Britain when it leave the EU, Theresa May needs the goodwill of the other 27 member states and to be prepared to compromise. The balance of power in the negotiations is in the hands of the EU.

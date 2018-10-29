@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Police to investigate expenses fraud allegations involving Ukip MEP
-
 None

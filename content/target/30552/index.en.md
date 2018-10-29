@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Knowledge Quarter
-
 Knowledge Quarter is a collaboration of research institutions within a mile from King's Cross.

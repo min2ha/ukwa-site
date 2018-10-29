@@ -10,6 +10,4 @@
   "start_date": "2017-04-05T09:00:00Z"
 }
 
-# Deaf Umbrella Ltd
-
 Deaf Umbrella empower deaf people by supporting their communication and promoting their opportunities for education and employment.

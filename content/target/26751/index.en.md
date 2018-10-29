@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# History Online
-
 History Today is a magazine whose aim is simple: to bring serious history to a wide audience. It is based in London and published monthly. This website includes an archive of every article published by History Today since it was founded in 1951. It also includes most of the articles from History Review, the periodical for history students, which was published three times a year until 2012.

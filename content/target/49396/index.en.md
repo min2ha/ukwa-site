@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# London Welsh ARFC | Cymry Llundain
-

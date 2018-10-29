@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cronfa Glyndŵr
-
 Cronfa Glyndŵr was established in 1963 in order to promote the Welsh langauge.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Playfair 2012
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barry Black | Scottish Labour in West Aberdeenshire & Kincardine
-
 This is the website of Barry Black, the Labour Party candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

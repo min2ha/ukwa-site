@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK election result: What does it mean for Brexit?
-
 Discusses what the UK political upheaval means for Brexit negotiations, slated to start 10 days after the 2017 general election.

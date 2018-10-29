@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# British Iranian Medical Association (BIMA), The 
-
 The British Iranian Medical Association (BIMA) was established in London in 2012 and its aim is to help the British-Iranian medical professionals.

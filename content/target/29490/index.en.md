@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Cymorth i Ferched Cymru | Welsh Women's Aid (WWA)
-
 Welsh Women’s Aid (WWA) was founded in 1978 to campaign and lobby for improvements in public policy and government legislation in relation to women and children experiencing domestic abuse in Wales.

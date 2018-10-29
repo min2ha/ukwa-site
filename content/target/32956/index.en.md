@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Leek 1914
-
 Project to commemorate the centenary of the Great War, Leek Town Council, in partnership with other groups will engage the community in the period of history when so many men lost their lives.

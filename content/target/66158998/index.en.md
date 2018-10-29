@@ -10,6 +10,4 @@
   "start_date": "2012-10-30T00:00:00Z"
 }
 
-# Andrew Motion
-
 Main site UK Touring is being archived.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crown Court Church of Scotland
-
 Crown Court Church of Scotland located in London. 

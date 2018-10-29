@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Lord Belmont In Northern Ireland
-
 None

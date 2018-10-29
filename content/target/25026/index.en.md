@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: SIX weeks, MILLIONS of leaflets, £30MILLION spent – and the parties have barely moved
-
 None

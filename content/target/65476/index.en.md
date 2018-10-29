@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Scottish Youth Film Festival
-
 Site of a film celebration of the creativity of young people resident in or native to Scotland. 

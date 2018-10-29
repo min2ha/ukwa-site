@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Polbeth Harwood with West Kirk of Calder
-
 Site of two linked Church of Scotland parish churches at Polbeth and West Calder, West Lothian.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 2010 coalition talks 'piece of cake' compared with 2015, says O'Donnell
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Bruce (@Vote_Bruce) on Twitter
-
 The Twitter profile of Bruce Whitehead, standing as a Left Unity - Trade Unionists and Socialists candidate in Edinburgh North & Leith, in the UK General Election on the 7th May 2015.

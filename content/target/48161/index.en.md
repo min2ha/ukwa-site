@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# TASC (Scotland) Ltd
-
 Site of a social research organisation located in Scotland.

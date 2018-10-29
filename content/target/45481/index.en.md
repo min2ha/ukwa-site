@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Scotland's Gardens
-
 Site of a Scottish charity raising money though contributions by visitors to numerous gardens.

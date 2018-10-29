@@ -10,5 +10,3 @@
   "start_date": "2017-04-21T09:00:00Z"
 }
 
-# Llanelli Women's Aid | Cymorth i Fenywod Llanelli
-

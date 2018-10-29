@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Nick Holly Studio Gallery
-
 Nick Holly Gallery is located at the Exchange Building in Swansea’s Maritime Quarter. Nick Holly is a Welsh artist.

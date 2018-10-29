@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Inside Brexit Law
-
 We have created this Brexit blog to provide up to date analysis and legal commentary as the new Brexit landscape evolves, addressing key questions and topics of interest to our clients across the different industry sectors in which they operate.

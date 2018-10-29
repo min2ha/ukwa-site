@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# NatCen Social Research: How deeply does Britain's Euroscepticism run? 
-

@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Cantemus Chamber Choir.
-
 Cantemus is an experienced chamber choir directed by Huw Williams who perform accompanied and a cappella music in venues in and around Cardiff.

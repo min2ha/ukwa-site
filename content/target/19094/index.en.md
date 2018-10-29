@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: See the story of the Magna Carta told in tapestry panels 
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Scottish Friendly Assurance Society Limited
-
 Scottish Friendly Assurance Society Limited is a friendly society and financial services group based in Glasgow, Scotland.

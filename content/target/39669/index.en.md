@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Ian Leech, Scottish TUSC, Glasgow Pollok on 5 May 2016 on Facebook
-
 Facebook page of Ian Leech, Scottish Trade Unionist and Socialist Coalition (TUSC) candidate for Glasgow Pollock in the 2016 Scottish Parliamentary election.

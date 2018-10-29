@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Free Our Data: Make taxpayers' data available to them
-
 None

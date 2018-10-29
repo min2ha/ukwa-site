@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Kotatsu Japanese Animation Festival
-
 The Kotatsu Japanese Animation Festival was launched in November 2010 at Chapter Arts Centre in Cardiff, UK, the festival screens the best in Japanese animation and culture.

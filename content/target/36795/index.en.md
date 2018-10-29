@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Bank of England ready to pump billions into financial system to counter turmoil of Brexit
-

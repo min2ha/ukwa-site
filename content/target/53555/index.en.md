@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Howard William Evans (@HowardWilliamEv) on Twitter
-
 Howard William Evans is the Parliamentary Candidate for Gower at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: European Union (Withdrawal) Bill: Briefing for Lords Stages
-
 This House of Lords Library Briefing was prepared in advance of the second reading in the House of Lords of the European Union (Withdrawal) Bill on 30 and 31 January 2018.

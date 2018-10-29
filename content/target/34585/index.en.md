@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Old Alpertonians
-
 The Old Alpertonians was set up to provide communication, information and social contact between all former pupils and members of staff of Alperton Community School and its predecessor schools: Alperton Hall, Wembley County School, Alperton School, Alperton Secondary Boys' / Girls' School and Alperton High School. These schools have provided secondary education at the sites in Ealing Road and Stanley Avenue, in Wembley.

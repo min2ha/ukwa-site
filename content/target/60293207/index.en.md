@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# Memorials and Monuments in Portsmouth
-

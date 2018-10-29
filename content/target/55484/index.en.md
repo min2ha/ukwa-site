@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Fitness Savvy
-
 A resource for fitness education, researched articles and advice.

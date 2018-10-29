@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Flemington-Hallside Parish Church
-

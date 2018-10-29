@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12 July 2016: EU withdrawal negotiations
-
 Oral answers to questions on EU withdrawal

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southport F.C.
-
 Southport Football Club is a semi-professional football club based in Blowick, Southport, Merseyside.

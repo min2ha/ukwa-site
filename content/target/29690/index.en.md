@@ -10,6 +10,4 @@
   "start_date": "2015-08-11T10:00:00Z"
 }
 
-# This Is My Jam
-
 This Is My Jam is an online music platform for sharing one song at a time. 

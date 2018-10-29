@@ -10,5 +10,3 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# BBC National Orchestra of Wales
-

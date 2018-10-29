@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital 2015
-
 The annual festival of digital inspiration and innovation. In 2015 it took place in Newport, Wales on 8th and 9th June.

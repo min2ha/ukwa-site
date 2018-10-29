@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unions Together
-
 Together, the 14 affiliated trade unions bring the voices of almost 3 million union members to the heart of the Labour Party.

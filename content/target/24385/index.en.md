@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Transport for London criticises DUP Routemaster use
-
 None

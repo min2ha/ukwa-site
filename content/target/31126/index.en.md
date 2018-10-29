@@ -10,5 +10,3 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# French Centre Cardiff | Alliance Francais de Cardiff
-

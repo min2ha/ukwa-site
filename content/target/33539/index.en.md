@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bushey First World War Commemoration Project 
-
 An exhibition focussing on the heritage of Bushey during the Great War in conjunction with our partners, Bushey Academy.

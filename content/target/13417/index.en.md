@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Dennis Robertson (DRobertsonSNP) on Twitter
-
 <p>The twitter profile of Dennis Robertson, the Scottish National Party Member of the Scottish Parliament for Aberdeenshire West.</p>

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Four original surviving Magna Carta manuscripts brought together for the first time at British Library
-

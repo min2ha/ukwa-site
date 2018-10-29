@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Newcastle Emlyn Rugby Football Club
-

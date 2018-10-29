@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# TV Collective.org
-
 The TV Collective is an online resource dedicated to promoting the creative and commercial value diversity adds to the British TV and film industries.

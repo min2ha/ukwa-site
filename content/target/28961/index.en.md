@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Devon and Cornwall Liberal Democrats
-
 Website of Liberal Democrats in Devon and Cornwall, providing regional Liberal Democrat news and national Liberal Democrat news, and how to get involved.

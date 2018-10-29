@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bangor Football Club
-
 Bangor FC Social Club is a members only club in the heart of Bangor, supporting Bangor football club and the local community.

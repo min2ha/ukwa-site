@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lorn Ladies Shinty Club on Facebook
-
 Facebook page of a women's shinty club located at Oban, Argyll & Bute.

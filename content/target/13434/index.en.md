@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Malcolm Bruce (malcolmbruce) on Twitter
-
 <p>The twitter profile of Malcolm Bruce, Liberal Democrat Member of Parliament for Gordon.</p>

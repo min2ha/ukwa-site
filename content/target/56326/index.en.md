@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# South East Wales Unitarian Society
-

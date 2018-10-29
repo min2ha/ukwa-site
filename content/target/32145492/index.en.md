@@ -10,5 +10,3 @@
   "start_date": "2009-10-21T00:00:00Z"
 }
 
-# Migraine Action
-

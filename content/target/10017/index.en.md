@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# ProEuropa
-
 ProEuropa wants to see the UK engaging positively in the EU, and stop damaging Britain’s interests by threatening withdrawal. In the upcoming referendum on EU membership Pro Europa will call for a ‘yes’ vote.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Robert Burns Centre Film Theatre
-
 Site of a cinema located in Dumfries, Scotland.

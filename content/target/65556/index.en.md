@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Aggreko plc
-
 Aggreko plc is a supplier of temporary power generation equipment and temperature control equipment. 

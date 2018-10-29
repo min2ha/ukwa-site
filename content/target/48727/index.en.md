@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Veggies Catering Campaign
-
 Veggies is a volunteer-led, community-based, social enterprise.
 
  Veggies has been promoting vegan catering and supporting campaigns for human and animal rights, environmental protection and social justice since 1984.

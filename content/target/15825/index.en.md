@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# British Red Cross Blogs, The
-
 <p>Blogs from the British Red Cross relating to the aid work, appeals, emergencies, first aid, fundraising and events, health, international issues, news, refugee services, resilience, UK, volunteering and World War One.</p>

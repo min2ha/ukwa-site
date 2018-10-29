@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Shetland Cattle Herd Book Society
-
 Site of a society based in Shetland set up to maintain the unimpaired purity of the Shetland Cattle breed, and to promote the breeding of these cattle, to collect, verify, preserve and publish information relating to these cattle.

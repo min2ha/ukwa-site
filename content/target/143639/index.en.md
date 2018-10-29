@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Staffordshire Quakers
-
 None

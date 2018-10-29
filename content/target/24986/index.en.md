@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Who will be the next Labour leader? Contenders in line to replace Ed Miliband after election disaster
-
 None

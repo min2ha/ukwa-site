@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Legal
-
 Comments on the legal and public policy implications of Brexit for business

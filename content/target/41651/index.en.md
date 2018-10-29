@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Halswell Park
-
 Halswell Park, a Grade I listed house and Grade II listed park, is situated in the village of Goathurst in Somerset.  The estate has its origins in the eleventh century with the principal buildings today comprising a Tudor Manor dated from the mid-sixteenth century and a mansion house of 1689.  

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Expats given 'no disruption' pledge by Spanish government
-
 Britons living in Spain will not have their lives "disrupted" after Brexit - even if there is no UK-EU deal, the Spanish foreign minister said.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Thomas (@DanielPlaid) on Twitter
-
 Plaid Cymru Candidate for Neath and Community Councillor for Aberdulais.

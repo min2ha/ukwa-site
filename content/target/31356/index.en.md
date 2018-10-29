@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Encyclopaedia Britannica
-
 Online version of the Encyclopaedia Britannica.

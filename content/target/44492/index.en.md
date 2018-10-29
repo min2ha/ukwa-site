@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Facebook: Scottish Left Project - The People Demand
-
 The Scottish Left Project took inspiration to pursue its principles of radical social change from increased grassroots engagement with politics during the Scottish Independence Referendum. The project developed into RISE, the left alliance, which put forward candidates for the Scottish Parliamentary election 2016.

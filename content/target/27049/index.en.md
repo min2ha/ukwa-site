@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# American Society in London, The
-
 The American Society in London was founded in 1895. They promote good fellowship between the people of the United States of America and Great Britain, and celebrating the country’s heritage and national traditions.

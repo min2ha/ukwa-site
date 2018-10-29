@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Vaz (Labour  Politician)
-
 Keith Vaz stood as Labour candidate for Leicester East at the 2017 General Election and was elected. He was first elected to serve as the MP for Leicester East in 1987 and has held the seat ever since.

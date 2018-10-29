@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Solace Women's Aid (@SolaceWomensAid) on Twitter
-
 We’re Solace. For more than 40 years we’ve supported women and children in London to build safe and strong lives. Futures free from male abuse and violence.

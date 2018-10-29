@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkcudbright Parish Church
-
 The website of Kirkcudbright Parish Church. 

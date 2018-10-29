@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Chypons Farm - self-catering holiday cottages in Cornwall
-

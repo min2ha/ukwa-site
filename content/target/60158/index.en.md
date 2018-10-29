@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKCampsite.co.uk Camping Forum
-
 An online enthusiast forum concerned with camping in the UK. Contains sub forums for camping related information, campsites and caravan parks, general discussion and various other related topics.

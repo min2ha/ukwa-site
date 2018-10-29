@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Gŵyl Fawr Aberteifi
-
 This is the Eisteddfod for Cardigan established in 1952.

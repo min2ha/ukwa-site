@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Riot Grrrl in the UK
-

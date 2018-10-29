@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stephen Emmens on Facebook (UKIP candidate for Norwich South)
-
 None

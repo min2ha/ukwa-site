@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU referendum: Does Brexit - Scotland = indyref2?
-

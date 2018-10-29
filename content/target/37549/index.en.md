@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: TUC's Frances O’Grady warns that workers’ rights are being forgotten in Brexit debate
-
 Many UK workers’ rights would be put at risk if the UK voted to leave the EU 

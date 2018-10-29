@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Better Crosby, A
-

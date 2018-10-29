@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Alyn and Deeside Conservatives Association
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Local Governmet Association: General Election 2017: Status of Government Policies
-
 This analysis identifies Government policy initiatives and projects relevant to local government, and provides an assessment of their status given the 2017 General Election. It also provides an update on the status of key legislation.

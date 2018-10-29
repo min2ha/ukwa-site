@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Exclusive letter to The Telegraph from 5,000 small business owners who back the Tories
-
 None

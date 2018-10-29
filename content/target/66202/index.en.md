@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Geek festival
-
 Website for the Geek gaming festival

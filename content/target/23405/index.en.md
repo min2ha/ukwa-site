@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anne Lemon (@lemon4bristolnw) on Twitter (TUSC candidate for Bristol North West) 
-

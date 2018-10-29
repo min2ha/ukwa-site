@@ -10,6 +10,4 @@
   "start_date": "2007-04-24T00:00:00Z"
 }
 
-# Glasgow Springburn Labour Party
-
 None

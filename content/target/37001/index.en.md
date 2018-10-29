@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Take One Action!
-
 Site of an organisation promoting global justice, fair trade and equality through showing relevant films

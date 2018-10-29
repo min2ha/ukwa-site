@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachel Williams (@rachyyywilliams) on Twitter
-
 The twitter profile of swimmer Rachel Williams competing in the 100 metre free relay for Team Wales in the Glasgow 2014 Commonwealth Games.

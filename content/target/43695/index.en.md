@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  As a Polish immigrant whose family remembers war, this is why I fear Brexit
-

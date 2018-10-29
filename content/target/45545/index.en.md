@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Guardian, The: The Guardian view on EU migration after Brexit: May must tell us what she wants
-

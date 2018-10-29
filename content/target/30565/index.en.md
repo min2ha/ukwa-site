@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Youth Enquiry Service (Jersey)
-
 The Youth Enquiry Service offers a drop-in service for young people and also provides one-to-one counselling as well as online advice on a broad range of issues. It was created to support young people aged 14 - 25 with any issue that affects them.

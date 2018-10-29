@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East of England Specialised Commissioning Group (EoESCG)
-
 None

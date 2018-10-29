@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# King Tut's Wah Wah Hut
-
 Site of a music venue in Glasgow, showcasing alternative music bands.

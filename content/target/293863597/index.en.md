@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Pensions Appeal Tribunal Scotland
-

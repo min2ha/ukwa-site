@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: UK Government Statement following the JMC(GEN): Wednesday 8 March 2018
-
 The UK will guarantee Gibraltar financial services firms’ access to UK markets as now until 2020.
 

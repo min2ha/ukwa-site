@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Highland Memorial Inscriptions
-
 Site containing a database of monumental inscriptions from cemeteries throughout the Highlands of Scotland.

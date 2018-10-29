@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Dan Peterson Illustrator
-
 <p>Dan Peterson is a designer and illustrator from Cardiff. In 2011 he accompanied the British Army to Helmand Province as an Official War Artist.</p>

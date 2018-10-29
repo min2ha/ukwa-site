@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-#  Guardian, The: Miliband uses pre-budget PMQs to attack Cameron over NHS record
-
 None

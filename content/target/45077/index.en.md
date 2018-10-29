@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What cost Brexit? Soon we'll know
-

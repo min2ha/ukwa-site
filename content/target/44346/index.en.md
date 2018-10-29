@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Horsecross Arts Ltd
-
 Site of an organisation running Perth Theatre and Perth Concert Hall, and located in Perth, Scotland.

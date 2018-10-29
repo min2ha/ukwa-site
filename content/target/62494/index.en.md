@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Women's Football
-
 A personal blog about Scottish women's football.

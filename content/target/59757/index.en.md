@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  This government defeat on Brexit can now inspire other Tory rebels
-

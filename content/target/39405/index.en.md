@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Fife Family History Society
-
 Site of a family history society aiming join together people with an interest in the research of their Fife ancestors.

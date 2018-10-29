@@ -10,6 +10,4 @@
   "start_date": "2016-08-11T10:00:00Z"
 }
 
-# Ulster-Scots Agency / Boord o Ulster Scotch
-
 Site of an organisation established to promote greater awareness and use of Ullans and of Ulster-Scots cultural issues, both within Northern Ireland and throughout the island.

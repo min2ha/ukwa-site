@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# British Comparative Literature Association (BCLA)
-
 The British Comparative Literature Association (BCLA) aims to promote the scholarly study of literature, across languages and borders, national or other. They explore literature in relation to other disciplines and translations between languages and media. Their primary interests are in literature, the contexts of literature, and the interaction between literatures. It was founded in 1957.

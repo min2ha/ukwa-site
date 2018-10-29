@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Columba's Episcopal Church Grantown on Spey on Facebook
-
 Facebook page of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Grantown on Spey, Highland.

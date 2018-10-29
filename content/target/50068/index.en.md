@@ -10,6 +10,4 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# International Artist Managers’ Association
-
 The International Artist Managers' Association (IAMA) - is the only worldwide association for classical music artist managements. It is dedicated to serving all its members' needs including Affiliate and Group members and it strives to raise professional standards in the business of music.

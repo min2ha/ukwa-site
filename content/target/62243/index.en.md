@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Lodge Doric Kilwinning No. 68
-
 Site of a masonic lodge located in Port Glasgow, Inverclyde (Renfrewshire)  and affiliated with the Grand Lodge of Scotland.

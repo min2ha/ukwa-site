@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# ABB Unionist Party (@UnionistParty1) on Twitter
-
 Twitter profile of A Better Britain Unionist party which is standing candidates in the 2016 Scottish Parliamentary election.

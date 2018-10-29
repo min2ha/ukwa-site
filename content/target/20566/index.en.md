@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon says Trident conflict would not stop SNP backing other Labour policies
-

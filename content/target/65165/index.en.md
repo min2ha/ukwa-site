@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jonathan Pie (@JonathanPieNews) on Twitter
-
 Jonathan Pie is a fictitious British news reporter, created and played by British actor and comedian Tom Walker. Satire on the media as well as British & American politics through online video and live stand-up shows

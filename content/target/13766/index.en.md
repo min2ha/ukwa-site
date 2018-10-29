@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# KILTR: Latest Posts in Art And Culture Referendum
-
 None

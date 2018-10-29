@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llanishen Methodist Church
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Rachel Elnaugh Entrepreneur
-
 None

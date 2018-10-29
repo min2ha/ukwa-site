@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sean O'Connor (@spoc1996) on Twitter
-
 Twitter profile of Sean O'Connor, the RISE: Scotland's Left Alliance list candidate for North East Scotland in the 2016 Scottish Parliamentary election.

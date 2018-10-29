@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-#  Aardvark Caesar - The Books of Rhys Hughes.
-
 Aardvark Caesar provides a description to the books of Rhys Hughes, a fantasy/horror writer and essayist from Cardiff.

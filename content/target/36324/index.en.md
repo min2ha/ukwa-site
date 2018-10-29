@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: A staggering pay rise for useless Brussels FAT CATS
-

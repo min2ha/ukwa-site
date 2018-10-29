@@ -10,5 +10,3 @@
   "start_date": "2013-01-10T00:00:00Z"
 }
 
-# Looked After Children | Plant sy'n Derbyn Gofal
-

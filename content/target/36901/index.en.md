@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Mid Suffolk District Council
-
 Website of Mid Suffolk District Council provides information on council services and activities, news, and details of budget and finance,  with access to committee papers and minutes.

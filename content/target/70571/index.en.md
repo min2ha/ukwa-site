@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Oral History Journal (@oralhistoryjour) on Twitter
-
 The Journal of the Oral History Society, publishing articles and news from oral historians in the UK and around the world since 1969.

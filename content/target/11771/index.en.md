@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Swimming (ScottishSwim) on Twitter
-
 <p>The twitter profile of the national governing body for swimming, disability swimming, diving, synchro, open water, water polo and masters.</p>

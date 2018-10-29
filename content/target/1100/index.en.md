@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Bowel Screening Quality Assurance Centre
-
 None

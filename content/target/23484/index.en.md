@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tim Young (@Tim4Clacton) on Twitter (Labour candidate for Clacton)
-

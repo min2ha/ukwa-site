@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Volunteer Scotland: Volunteer Support Pot An evaluation
-
 <p>A review of the Volunteer Support Pot, a fund made available to help volunteers participate at the 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Patrick Cox (@_Peacocks_) on Twitter (Green Party Politician)
-
 Patrick Cox stood as Green Party candidate for Birmingham Hall Green at the 2017 General Election but was not elected.

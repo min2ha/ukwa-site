@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North of Tyne
-
 None

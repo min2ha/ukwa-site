@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron wants you to believe he's the workers? friend. Don't fall for it
-
 None

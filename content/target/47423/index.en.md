@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Of course the forecasts are bad: no one has a plan for Brexit
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain got its way in the EU when it mattered – I know, I was there
-

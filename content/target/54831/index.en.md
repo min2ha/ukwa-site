@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# These future fields, work & research by Fern Thomas
-
 Fern Thomas is an artist based in Swansea.

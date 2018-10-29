@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Panel verdict: the supreme court decision on article 50
-

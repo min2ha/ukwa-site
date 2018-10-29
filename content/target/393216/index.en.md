@@ -10,5 +10,3 @@
   "start_date": "2008-02-11T00:00:00Z"
 }
 
-# Reiver Games
-

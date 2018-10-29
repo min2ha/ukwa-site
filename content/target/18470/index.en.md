@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed 'Two Kitchens' Miliband under fire in bizarre row
-
 None

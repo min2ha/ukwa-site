@@ -10,5 +10,3 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Meritocracy Pàrtaidh na h-Alba / Scottish Meritocracy Party
-

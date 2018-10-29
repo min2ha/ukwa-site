@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Isle of Wight Biodiversity Partnership - Wild on Wight
-
 None

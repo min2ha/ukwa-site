@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# My Year in the Welsh League
-
 My Year in the Welsh League is a story of Nicholas Scott Roberts attempt to take in 100 Welsh matches during 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Green Party GE 2017 policy on electoral alliances.
-
 Tynedale Green Party Green Party GE 2017 policy on electoral alliances.

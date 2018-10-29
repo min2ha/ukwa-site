@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huffington Post: Ukip To Win European Elections, Pushing Tories Into Third, Warns Tory MP
-
 None

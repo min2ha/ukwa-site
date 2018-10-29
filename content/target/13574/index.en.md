@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Economist, The
-
 <p>Website of The Economist, a UK weekly publication on international economics and politics, which was founded in 1843.</p>

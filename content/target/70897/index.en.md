@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoke on Trent Rugby Union Football Club
-
 The official website of Stoke on Trent Rugby Union Football Club.

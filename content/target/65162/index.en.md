@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Tenants Federation
-
 London Tenants Federation is a tenant run membership organisaiton. They bring together borough and London-wide representative social housing tenants organisations.

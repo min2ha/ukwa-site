@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland women qualify for historic first World Cup in France after victory over Albania
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

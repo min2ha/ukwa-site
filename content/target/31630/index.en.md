@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CRASH magazine 
-
 This site is dedicated to CRASH, the ZX Spectrum magazine which was published from 1984 to 1991 by providing an archive of material.

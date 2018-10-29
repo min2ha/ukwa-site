@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Donald Tusk warns UK against 'no deal threat'
-
 The EU would "not be intimidated" by threats about the UK leaving with no deal, Donald Tusk said. The European Council president told the European Parliament that in the Brexit talks "a no deal scenario would be bad for everyone but above all for the UK".
 

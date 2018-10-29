@@ -10,6 +10,4 @@
   "start_date": "2014-08-29T16:00:00Z"
 }
 
-# Great British Bee Count
-
 None

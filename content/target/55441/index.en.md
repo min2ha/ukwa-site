@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Alfredo Cramerotti
-
 Alfredo Cramerotti is a curator and writer and Director of MOSTYN Visual Arts Centre in Llandudno.

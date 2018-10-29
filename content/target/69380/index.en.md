@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Mount Carmel Kilmarnock on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of Our Lady of Mount Carmel, Kilmarnock, Ayrshire.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# HungryCityHippy
-
 The Hungry Chippy City is primarily a Cardiff-based food and travel blog with a passion for sustainability. It was winner of  'Best Food & Drink Blog' and 'Best New Blog' at the Wales Blog Awards 2014.

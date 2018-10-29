@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Shadow Welsh secretary quits over Brexit vote
-
 Jo Stevens quits as Jeremy Corbyn's shadow Welsh secretary after he forced Labour MPs to back the Article 50 bill.

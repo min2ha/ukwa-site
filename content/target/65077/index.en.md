@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Westerton Fairlie Memorial Parish Church
-
 Site of a Church of Scotland parish church at Bearden, Glasgow.

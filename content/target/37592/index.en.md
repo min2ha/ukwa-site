@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Karate Governing Body Ltd
-

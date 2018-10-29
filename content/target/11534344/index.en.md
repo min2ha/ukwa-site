@@ -10,5 +10,3 @@
   "start_date": "2008-08-05T00:00:00Z"
 }
 
-# Comisiwn Coedwigaeth Cymru - Forestry Commission Wales
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Edinburgh Royal Choral Union
-
 Website for a choral society based in Edinburgh, Scotland.

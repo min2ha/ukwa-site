@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Molly Scott Cato (Green Party Politician)
-
 Molly Scott Cato stood as Green Party candidate for Bristol at the 2017 General Election but was not elected.

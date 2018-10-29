@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Endangered Archives (@@bl_eap) on Twitter
-
 Endangered Archives Programme at the British Library: preserving vulnerable archives around the world.

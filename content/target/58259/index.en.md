@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Porn and video game addiction leading to 'masculinity crisis', says Stanford psychologist
-
 News article referring to statements by a leading psychologist has warned that young men's brains are being 'digitally rewired' by unprecedented use of video games and pornography

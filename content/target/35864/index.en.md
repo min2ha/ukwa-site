@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Soryia Siddique (@Soryia) on Twitter
-
 The Twitter profile of Dr Soryia Siddique, the Scottish Labour candidate for the Glasgow list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Claire Baker MSP
-
 The website of Claire Baker, Scottish Labour Member of the Scottish Parliament for Mid Scotland and Fife.

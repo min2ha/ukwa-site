@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The law really is an ass if it allows Brexit to be betrayed  
-

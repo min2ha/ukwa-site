@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Budgets, polls and their impact on elections: a brief history
-
 None

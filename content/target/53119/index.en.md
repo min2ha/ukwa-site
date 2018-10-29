@@ -10,5 +10,3 @@
   "start_date": "2017-05-30T09:00:00Z"
 }
 
-# Scottish Labour on Crowdfunder
-

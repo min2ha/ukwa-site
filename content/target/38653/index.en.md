@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Whitchurch and the Great War Legacy
-
 Project to help people to explore the close links our town and hinterland has to WW1.

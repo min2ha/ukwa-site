@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wirral Green Party
-
 Website of Wirral Green Party, providing information on elections, candidates and representatives, campaigns and local, national and party news.

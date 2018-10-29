@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# National Portrait Gallery: Stephen Hawking collection
-
 National Portrait Gallery search results for Stephen Hawking

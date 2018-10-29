@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Zeppelin Raids on the North-East of England 1915
-
 Year 6 children investigated a dramatic local incident: the attack by Zeppelin L10 on June 15th on Palmers shipyard.

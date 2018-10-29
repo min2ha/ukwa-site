@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IT White Papers
-
 Publications from the world of IT.

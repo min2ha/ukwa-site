@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM letter to UK businesses: 23 March 2018
-
 A letter from Prime Minister Theresa May to UK businesses following the EU Council meeting on 22-23 March 2018 about the transition to Brexit.
 

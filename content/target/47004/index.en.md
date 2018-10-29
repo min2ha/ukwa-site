@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# A Level Politics by Patel's Shop
-
 Site developed after a dedicated group of Woodhouse College politics students thought it was important to have a resource dedicated to a level study. 

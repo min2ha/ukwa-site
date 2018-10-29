@@ -11,5 +11,3 @@
   "subject": "Governing the Police"
 }
 
-# Greater Manchester Police & Crime Commissioner
-

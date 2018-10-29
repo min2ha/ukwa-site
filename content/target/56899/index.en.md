@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cantilena Festival on Islay
-
 Site of an annual chamber music festival located in the whisky distilleries of Islay, Argyll & Bute, Scotland.

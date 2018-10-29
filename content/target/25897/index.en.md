@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 2015 election: Voters’ shifting moods have formed a five-act drama. Will there be a sixth before the curtain falls?
-
 None

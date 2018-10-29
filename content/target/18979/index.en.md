@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Surrey withdraws £5m offer to Runnymede Magna Carta plan
-

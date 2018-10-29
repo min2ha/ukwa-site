@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# FAU China Convoy Reunion Group, The
-
 <p>The Friends' Ambulance Unit (FAU) was a volunteer ambulance service, founded by individual members of the British Religious Society of Friends (Quakers). The FAU China Convoy Reunion Group organises the annual reunion of original members of the Convoy and is attended by their families and friends and those of Convoy members now deceased.</p>

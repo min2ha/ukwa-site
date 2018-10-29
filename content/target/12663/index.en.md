@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jackson Carlaw MSP
-
 The website of Jackson Carlaw, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Eastwood and West Scotland.

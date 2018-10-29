@@ -10,5 +10,3 @@
   "start_date": "2012-04-19T00:00:00Z"
 }
 
-# Llangollen Rural Community Council
-

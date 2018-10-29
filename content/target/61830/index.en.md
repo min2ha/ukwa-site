@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Naomh Gall St Galls GAC
-
 Naomh Gall St Galls GAC is a handball team from Belfast, Antrim, Northern Ireland.

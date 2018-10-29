@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Quendale Water Mill
-
 Site of a museum based in Dunrossness, Shetland, Scotland

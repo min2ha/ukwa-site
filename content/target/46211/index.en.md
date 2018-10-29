@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC: Brexit: UK and Irish governments work on keeping open border
-
 The UK is talking to the Irish government to determine the technical mechanism to maintain an open border and underpin the Good Friday Agreement, the Brexit secretary has said.

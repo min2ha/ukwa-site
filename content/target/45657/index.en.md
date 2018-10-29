@@ -10,6 +10,4 @@
   "start_date": "2016-09-28T10:00:00Z"
 }
 
-# Taylor & Francis Online
-
  Taylor & Francis Online has over 2,400 online journals across Science, Technology, Medicine, Social Sciences, Arts and Humanities.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# i can’t not
-
 i can’t not is the personal site of Nerea Martinez de Lecea, an interdisciplinary artist working in photography, video, installation, multimediaand drawing from Wales.

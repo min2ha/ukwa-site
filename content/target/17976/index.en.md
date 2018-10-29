@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ipsos MORI Research Archive: General Election 2015 & 2017
-
 Ipsos MORI, part of the Ipsos Group, is a full service UK research company with global reach. They specialise in brand communication, advertising and media research.

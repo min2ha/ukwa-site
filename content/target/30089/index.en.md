@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# South Wales Aviation Group
-
 The blog provides logs and flight movements for Cardiff Airport & MOD St Athan.

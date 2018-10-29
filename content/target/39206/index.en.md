@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tonia Antoniazzi (@ToniaAntoniazzi) on Twitter 
-
 Tonia Antoniazzi is the Labour candidate for Mid and West Wales at the 2016 National Assembly Election and the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kerry McCarthy (@kerrymp) on Twitter (Labour  Politician)
-
 Kerry McCarthy stood as Labour candidate for Bristol East at the 2017 General Election and was elected. She was first elected to serve in 2005 and has held the seat ever since.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Gwead
-
 Website though the medium of the Welsh language providing articles on artistic and documentary photography. The site began in 2012 and is written by Rhodri Owen of Ysbyty Ifan.

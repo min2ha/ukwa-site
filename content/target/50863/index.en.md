@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Osborne could be a potent weapon in this Brexit war
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband: this has clearly been a very disappointing night for Labour - video
-
 None

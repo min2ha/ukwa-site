@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Geiriadur Prifysgol Cymru | A Dictionary of the Welsh Language
-

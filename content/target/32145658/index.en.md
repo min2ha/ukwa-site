@@ -10,5 +10,3 @@
   "start_date": "2012-08-01T00:00:00Z"
 }
 
-# Gwasg Helygain
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leavers of London (@LondonLeavers) on Twitter
-
 Twitter feed of support group for people living in London who voted to leave the EU

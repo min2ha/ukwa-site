@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Health and Safety Executive (HSE): Scientific Advisory Committee on Genetic Modification (Contained Use), (SACGM(CU))
-

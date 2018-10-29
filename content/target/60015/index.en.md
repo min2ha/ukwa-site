@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Broughty Ferry Amateur Operatic Society
-
 Site of a musical theatre company, based in the Broughty Ferry area of Dundee.

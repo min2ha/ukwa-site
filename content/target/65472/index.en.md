@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Discipleship & Ministry in Monmouth Diocese
-
 Discipleship & Ministry in Monmouth Diocese is a website about all things discipleship in and for the Diocese of Monmouth. 

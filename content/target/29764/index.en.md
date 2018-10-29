@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ZOO Venues
-
 ZOO Venues is a venue management companies on the Edinburgh Fringe with two theatres.

@@ -10,6 +10,4 @@
   "start_date": "2012-05-16T00:00:00Z"
 }
 
-# Welsh Roots Family Research
-
 Family history research

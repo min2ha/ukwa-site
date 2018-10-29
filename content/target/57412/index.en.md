@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Awoken Cymru
-
 Awoken Cymru is network of creative people from the arts who are building a new, postcolonial Wales. Awoken Cymru believe a 'new, confident, diverse, forward-looking, independent, post-colonial Wales is possible, and that artists have a crucial role to play in imagining that country into being.'

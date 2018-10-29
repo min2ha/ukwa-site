@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Her 100 Cerdd | 100 Poem Challenge
-
 Literature Wales challenged four Welsh-language poets to compose and publish 100 original poems on National Poetry Day as part of the innovative digital project Her 100 Cerdd (100 Poem Challenge). The challenge started at midnight, 6 October and ended 24 hours later. The poets were Aneirin Karadog, Anni Llŷn, Gwyneth Glyn and Twm Morys.

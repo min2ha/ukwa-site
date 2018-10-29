@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Keith Football Club
-
 Site of a Scottish football club based in Keith, Aberdeenshire.

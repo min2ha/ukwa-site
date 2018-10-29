@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Best of the West Festival / BOWFest
-
 Site of a Scottish folk music festival, with additional food and other events, located in the grounds of Inveraray Castle, Inveraray, Argyll & Bute.

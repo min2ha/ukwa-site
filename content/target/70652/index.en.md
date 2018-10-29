@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Somerset Art Works
-
 Somerset Art Works is a registered charity and membership organisation. Somerset's only countywide agency dedicated to developing the visual arts. 

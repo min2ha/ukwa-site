@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Equality Advisory and Support Service
-
 The Helpline advises and assists individuals on issues relating to equality and human rights, across England, Scotland and Wales.

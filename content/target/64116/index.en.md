@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Feminist Salon (@hildasfemsalon) on Twitter
-
 A salon held twice per term at St Hilda’s College Oxford. Speakers from feminist academia, art or activism are invited to host and decide on the format.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) Blairgowrie
-
 The Blairgowrie branch of the Scottish National Party (SNP).

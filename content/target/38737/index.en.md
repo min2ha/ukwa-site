@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Mirren Football club
-
 Site of a Scottish association football club based in Paisley, Renfrewshire, Scotland.

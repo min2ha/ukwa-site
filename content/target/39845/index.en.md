@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Pentlands Labour (@EdPentlandsCLP) on Twitter
-
 Twitter profile of the constituency labour party in Edinburgh Pentlands constituency for the Scottish Parliament.

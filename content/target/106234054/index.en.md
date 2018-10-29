@@ -10,6 +10,4 @@
   "start_date": "2017-10-11T09:00:00Z"
 }
 
-# Bryn, Port Talbot
-
 This is a website for the village of Bryn near Port Talbot, which is operated by the Bryn Residents Action Group (BRAG). It's about the village and anyone interested in the present day village and its heritage.

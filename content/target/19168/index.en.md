@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# International Business News UK: Four surviving Magna Cartas united for first time
-

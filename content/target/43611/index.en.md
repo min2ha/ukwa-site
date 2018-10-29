@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bloggers4UKIP
-
 UKIP blog hub

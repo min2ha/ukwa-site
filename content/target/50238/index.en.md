@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Citizens of Britain, British Citizens of Europe
-
 Voting on the historic decision whether to remain or leave the European Union is now just days away. If polling is correct, the UK is far from united over where its future lies

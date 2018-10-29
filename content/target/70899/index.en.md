@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Ives Rugby on Pitchero
-
 The official website of St. Ives Rugby Football Club.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Voluntary Network: 2012 Cultural Olympiad
-

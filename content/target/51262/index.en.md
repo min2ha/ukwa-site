@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Bridlington Old Town
-
 The Old Town now becoming world famous for its transformation of its shops & many buildings to 'Walmington On Sea' for the new Universal Pictures Dad's Army Film was released in World Cinemas on 5th February 2016. The Old Town was used for several weeks and the films release brought increased visitor numbers & footfall to its now famous High Street.

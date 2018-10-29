@@ -10,6 +10,4 @@
   "start_date": "2011-01-24T00:00:00Z"
 }
 
-# East Midlands Renal Network
-
 It aims to deliver user-friendly advice and information covering aspects from how your kidney works to kidney transplants.

@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Cairn Energy
-

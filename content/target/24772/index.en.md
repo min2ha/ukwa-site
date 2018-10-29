@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Maxwell Scott (Conservative Politician)
-
 Matthew Maxwell Scott stood as Conservative candidate for Carshalton and Wallington at the 2015 General Election but was not elected. He stood again at the 2017 General Election but was not elected.

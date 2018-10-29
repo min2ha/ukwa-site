@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# MSP Alex Rowley (Alex_RowleyMSP) on Twitter
-
 The twitter profile of Alex Rowley, Scottish Labour Member of the Scottish Parliament for Cowdenbeath.

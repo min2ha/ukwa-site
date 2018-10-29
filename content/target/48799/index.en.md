@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nick Thomas-Symonds MP (@NickTorfaenMP) on Twitter
-
 Nick Thomas-Symonds is the Labour MP for Torfaen.

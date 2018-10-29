@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barking and Dagenham LINk
-
 None

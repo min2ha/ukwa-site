@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rural Services Network: Rural Manifesto for the 2015 General Election
-
 The Rural Services Network is an organisation devoted to safeguarding and improving services in rural communities across England.

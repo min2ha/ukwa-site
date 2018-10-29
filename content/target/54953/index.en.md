@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis heads to Brussels tomorrow with a clear message: we are leaving the European Union
-
 The Brexit Secretary David Davis heads into the first official talks to leave the European Union on a mission to deliver on the will of the British people.

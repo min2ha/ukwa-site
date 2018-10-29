@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Royal Deeside Railway
-
 Site of a heritage railway in Aberdeenshire.

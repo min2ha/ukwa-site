@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories cannot win with dry 'economic sloganising', says ex-PM John Major as he urges party to focus on the people who dream of a home and a holiday
-
 None

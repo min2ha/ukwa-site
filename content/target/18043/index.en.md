@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alter Change
-
 Alter Change is a new political party, led by Shaun Jenkins, who is standing in Cardiff North.

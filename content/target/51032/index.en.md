@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# McManus : Dundee's Art Gallery & Museum
-
 Site of a museum and art gallery in Dundee, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Olivia Byard
-
 Poet Olivia Byard was born in South Wales and grew up on the Cotswolds. 

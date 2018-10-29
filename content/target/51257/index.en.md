@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Science and Technology Committee: A time for boldness: Oral and written evidence
-
 Corrected oral and written evidence on the Inquiry into A time for boldness: EU membership and UK science after the referendum
 

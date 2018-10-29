@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Royal Society of Biology: Outreach and Engagement
-
 Web page discussing the work of the RSB's Public Engagement Working Group's work. Especially at UK science festivals.

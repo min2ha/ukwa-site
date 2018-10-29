@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Cupar Amateur Musical Society
-
 Site of an amateur musical theatre society based in Cupar, Fife.

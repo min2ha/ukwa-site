@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Free From Britain, Leaders Press Ahead with Plans for EU Army
-
 Plans for an EU army.

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish Central: A politically correct Easter 1916 remembrance
-

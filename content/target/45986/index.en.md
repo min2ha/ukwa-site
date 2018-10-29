@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Dyfed Steels
-
 Dyfed Steels Ltd is the largest independent steel stockholder and processor in Wales and the south West of England.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# In Kind Direct
-
 The In Kind Direct teams redistribute products from companies to charities, social enterprises and not-for-profit organisations.

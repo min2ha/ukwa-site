@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Digital debates: Nigel Farage says 'yes', putting pressure on David Cameron
-
 None

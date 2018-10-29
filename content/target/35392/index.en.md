@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Travel Health Pro: Zika virus
-
 Travel Health Pro: general page on Zika virus

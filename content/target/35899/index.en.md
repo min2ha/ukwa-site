@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lesley Hinds (@LAHinds) on Twitter
-
 The Twitter profile of Lesley Hinds, the Scottish Labour and Co-operative candidate for Edinburgh Northern and Leith in the 2016 Scottish Parliament election.

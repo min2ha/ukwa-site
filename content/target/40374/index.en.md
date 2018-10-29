@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Previously . . . Scotland's History Festival
-
 Site of an annual festival dedicated to Scottish history and taking place in and around Edinburgh, Scotland.

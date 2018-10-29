@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Michael McMahon (M_McMahon_MSP) on Twitter
-
 <p>The twitter profile of Michael McMahon, Scottish Labour Member of the Scottish Parliament for Uddingston and Bellshill.</p>

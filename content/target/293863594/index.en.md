@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# No Knives Better Lives
-
 No Knives Better Lives is an initiative which works with local organisations in Scotland to provide information and support.

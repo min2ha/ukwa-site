@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Fisheries: Brexit Negotiations
-
 Following Brexit, the UK will no longer be part of the EU Common Fisheries Policy. It will become an independent coastal state and be fully responsible for managing fisheries in the UK’s Exclusive Economic Zone of 200 miles.
 

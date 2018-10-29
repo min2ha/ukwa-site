@@ -10,6 +10,4 @@
   "start_date": "2017-08-22T09:00:00Z"
 }
 
-# Twigs Way
-
 The site creator is a researcher in historic gardens and designed landscapes.

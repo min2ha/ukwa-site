@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Sir John Major predicts 'mayhem' if Labour and SNP strike post-election deal
-
 None

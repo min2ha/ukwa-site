@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# History Learning Site, The: Ireland 1845-1922
-

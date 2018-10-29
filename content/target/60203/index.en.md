@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Writing Home
-
 World War One Centenary Centenary Exhibition at the Geffrye Museum 

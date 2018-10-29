@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Church Times: Rival campaigns target Christians in EU referendum battle
-
 Christians for Britain has been set up by Canon Giles Fraser, Priest-in-Charge of St Mary’s, Newington, in south London, and Adrian Hilton, who runs the blog Archbishop Cranmer, to urge a “Leave” vote. Shortly after, the Very Revd Michael Sadgrove, who retired as Dean of Durham last year, established a group, Christians for the EU, to urge a vote to “Remain”.

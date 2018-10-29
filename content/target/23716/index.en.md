@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Cullen Project, The
-
 The Consultation Letters of Dr William Cullen (1710-1790) at the Royal College of Physicians of Edinburgh (RCPE).

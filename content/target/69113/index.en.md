@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of the Immaculate Conception and St Mun, Dunoon, Scotland
-
 Site of a Scottish Roman Catholic parish church located in Dunoon, Argyll & Bute.

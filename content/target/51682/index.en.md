@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 30th March 2017:  Brexit: Legislating for the United Kingdom’s Withdrawal from the European Union
-
 David Davis's statement on the publication of the White Paper on the Great Repeal Bill is read and debated in the Lords.

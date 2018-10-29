@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Orkney Labour
-
 This site was temporarily retitled "Gerry McGarvey for Orkney" during the 2017 UK general election.

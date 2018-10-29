@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Green: Brexit is a leap in the dark that could become a leap into the smog
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Glasgow Hope not Hate
-
 Official website of the Hope not Hate Greater Glasgow group.

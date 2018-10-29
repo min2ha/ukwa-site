@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Newport and Severnside Liberal Democrats
-
 Website of Newport and Severnside Liberal Democrats, providing information on local campaigns, Welsh Assembly members and local, national and party news.

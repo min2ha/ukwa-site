@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015 explained: Who registers the parties, who counts your vote - and how much do they get paid?
-
 None

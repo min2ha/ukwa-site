@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mount Zion Chapel Halifax
-
 None

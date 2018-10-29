@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ruth Alcroft (@ruthalcroft) on Twitter (Labour Party Politician)
-
 Ruth Alcroft stood as Labour Party candidate for Carlisle in the 2017 General Election but was not elected.

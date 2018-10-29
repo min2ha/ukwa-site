@@ -10,8 +10,6 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# nia: delivering cutting edge services to end violence against women and children
-
 nia has three main aims:
 Providing services for women, children and young people who have experienced male violence
 Working to end male violence against women and girls

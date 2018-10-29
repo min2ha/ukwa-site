@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Future of Scotland and the UK: Scottish Centre for Constitutional Change
-
 None

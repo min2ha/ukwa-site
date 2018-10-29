@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield Children's NHS Foundation Trust
-
 None

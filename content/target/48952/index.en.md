@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Dylan Thomas and the Edge of Love
-
 According to the site, 'Dylan Thomas and The Edge of Love was published in the February 2013 issue of Cambria. It begins with Sharman Macdonald's comments on her script for the film ("it's a fiction…I made it up."). Then I describe how the relationship between Dylan and his Swansea friend, Vera Killick nee Phillips, was a good deal more interesting than Macdonald's fiction'.

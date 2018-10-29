@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Elle: 10 things you need to know about women's football
-
 Elle article about womens football in England. 

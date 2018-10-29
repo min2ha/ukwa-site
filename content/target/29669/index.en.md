@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# News Media Association
-
 The News Media Association is the voice of national, regional and local news media organisations in the UK. The NMA exists to promote the interests of news media publishers to Government, regulatory authorities, industry bodies and other organisations whose work affects the industry.

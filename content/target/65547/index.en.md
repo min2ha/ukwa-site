@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# St. Margaret's Braemar
-
 Site of a project aiming to establish an internationally-renowned performance and arts venue in the heart of the beautiful Cairngorms National Park.

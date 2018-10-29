@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# About My Vote: The 2016 EU Referendum
-
 Microsite by the Elecetoral Commission for UK voters wiith information about the EU Referendum

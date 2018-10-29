@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# St. Andrews University Students' Association
-
 Site of a students' representative body at the University of St. Andrews, Fife.

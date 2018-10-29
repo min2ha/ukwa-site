@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Digital Spy
-
 Digital Spy is part of the Hearst UK Entertainment Network.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eurosport: Neil Robertson: I’m a recovering addict, video games seriously damaged my snooker
-
 Article about Neil Robertson a professional snooker player and his battle with his online gaming addiction 

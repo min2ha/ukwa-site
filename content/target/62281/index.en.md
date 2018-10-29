@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lynsey Hipgrave (@lynseyhipgrave1) on Twitter
-
 A football presenter on BT Sport. 

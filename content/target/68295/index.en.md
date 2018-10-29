@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Market Bosworth RFC
-
 Market Bosworth RFC is an amateur rugby club located just outside the historic town of Market Bosworth.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HIV/STI web portal
-
 None

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Farmers' Union of Wales Welsh Election Manifesto
-

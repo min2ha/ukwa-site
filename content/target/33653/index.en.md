@@ -10,6 +10,4 @@
   "start_date": "2016-01-06T09:00:00Z"
 }
 
-# Nerve Centre
-
 The Nerve Centre is a youth organisation established in 1990 in Derry, Northern Ireland to provide a creative outlet for youth culture and the young people who feel excluded.

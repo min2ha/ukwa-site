@@ -10,5 +10,3 @@
   "start_date": "2009-04-23T00:00:00Z"
 }
 
-# Pemphigus Vulgaris Network
-

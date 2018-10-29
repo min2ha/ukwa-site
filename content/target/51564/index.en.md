@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Usk Baptist Church
-

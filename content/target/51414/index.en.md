@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Free Movement
-
 Site offers updates, commentary and advice on immigration and asylum law

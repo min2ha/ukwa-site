@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The prospect of Brexit Britain turning into a post-global disaster zone is real
-

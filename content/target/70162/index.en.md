@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mahew Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Cardross, Argyll & Bute.

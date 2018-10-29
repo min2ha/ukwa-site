@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margaret McCarthy for Strathkelvin and Bearsden on Facebook
-

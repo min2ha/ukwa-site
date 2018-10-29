@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Edinburgh Geological Society
-
 Site of a scientific society aiming to stimulate public interest in geology and advance geological knowledge.

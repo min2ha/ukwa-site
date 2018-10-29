@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Christopher Webster van Tonder
-
 Christpher Webster van Tonder is a professional photographer born and raised in the north-west of England, emigrating to South Africa and is now Senior Lecturer in Fine Art at Aberystwyth University.

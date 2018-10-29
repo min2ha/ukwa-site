@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jill Fraser (@jillfraser) on Twitter (Liberal Democrats candidate Holborn & St Pancras)
-
 Jill Fraser stood as Liberal Democrats candidate for Holborn & St Pancras at the 2015 General Election but was not elected. 

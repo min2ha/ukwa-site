@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: Alex Salmond rules out SNP deal with Tories – as it happened
-
 None

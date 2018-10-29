@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Komedia
-
 Website for Komedia, venues in Bath and Brighton featuring music and comedy, including the Krater Comedy Club.

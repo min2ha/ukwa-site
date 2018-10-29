@@ -10,7 +10,5 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Itteringham Village Shop
-
 Itteringham Village Shop is a Community run business that serves the Community with a wide selection of locally produced food,
 thereby helping local rural businesses and providing local employment.

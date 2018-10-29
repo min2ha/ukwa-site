@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Undercurrent
-
 Undercurrent is a London-based theatre company. They specialise in research-based performance and use real life stories in their work.

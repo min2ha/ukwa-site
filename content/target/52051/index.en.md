@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Mary’s Church [Wreay]
-
 St Mary’s was built between 1840 and 1842 under the personal direction of Sarah Losh. She based the form of the church on a Roman basilica, a rectangular nave with a semicircular apse, a building type that was used by the first Christians for worship and which Sarah had seen on her ‘grand tour’ of the Continent.

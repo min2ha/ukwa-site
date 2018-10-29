@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carnoustie Panmure Football Club
-
 Site for a Scottish junior football club based in Carnoustie, Angus, Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gary McLelland on Facebook
-
 This is the Facebook page of Gary McLelland, the Liberal Democrats candidate for Glasgow East in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: So how did George Osborne the failure become the people’s favourite?
-
 None

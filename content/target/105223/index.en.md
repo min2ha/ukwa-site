@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Bell and Clwyd South Conservatives
-

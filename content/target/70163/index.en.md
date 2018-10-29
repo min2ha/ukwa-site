@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Banbridge Town Ladies (@BTLFC_1) on Twitter
-

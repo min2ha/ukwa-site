@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Brick Fanatics
-
 Brick Fanatics is a website dedicated to all things LEGO, with news and reviews, as well as features and builds from the LEGO community

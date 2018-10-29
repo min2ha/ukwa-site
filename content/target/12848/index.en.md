@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edinburgh Mela: The King of Ghosts
-
 <p>The Edinburgh Mela has commissioned “The King of Ghosts” an innovative new musical work, a collaboration between the Scottish Chamber Orchestra and rising world music star Soumik Datta, which will premiere at the opening of the Edinburgh Mela before going on to tour Scotland. Part of the Glasgow 2014 Cultural Programme.</p>

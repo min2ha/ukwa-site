@@ -10,5 +10,3 @@
   "start_date": "2010-07-13T00:00:00Z"
 }
 
-# West Sussex Grid For Learning
-

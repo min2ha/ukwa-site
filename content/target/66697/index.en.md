@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Next Century Foundation
-
 The Next Century Foundation (NCF) is a think tank and track II diplomacy organisation that operates in various conflict zones, primarily the Middle East. Established in 1990 to provide a forum for off-the-record discussions between Palestinians and Israelis, the organisation has expanded its remit by focusing on and operating in Iraq, Kashmir, Kosovo, Sudan, Egypt, Afghanistan, Yemen, Syria and Libya

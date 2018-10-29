@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: scrutiny of secondary legislation (Schedule 7) update
-
 This briefing paper reviews the amendments made to the European Union (Withdrawal) Bill 2017-19 that concern how the two Houses sift statutory instruments made under what will become the European Union (Withdrawal) Act.
 

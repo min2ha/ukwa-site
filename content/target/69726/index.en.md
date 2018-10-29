@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Clyw Cariad Yw
-
 Clyw Cariad Yw is a podcast exploring Welsh identity outside Wales during the twentieth century. It is presented by Leigh Jones - originally from Flintshire. 

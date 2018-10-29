@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rotherham, Doncaser and South Humber NHS Foundation Trust
-
 None

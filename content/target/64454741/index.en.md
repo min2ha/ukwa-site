@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Improving Health and Lives: Learning Disability Observatory
-
 None

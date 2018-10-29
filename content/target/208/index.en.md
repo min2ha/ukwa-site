@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Princess Alexandra Hospital
-
 None

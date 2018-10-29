@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  PM speech to Times CEO Summit: 26 June 2018 
-
 The Prime Minister's speech to business leaders covers Brexit and the government's industrial strategy 

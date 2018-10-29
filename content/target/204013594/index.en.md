@@ -10,5 +10,3 @@
   "start_date": "2013-12-04T00:00:00Z"
 }
 
-# Brynberian-online
-

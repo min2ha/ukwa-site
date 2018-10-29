@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Hebridensis
-
 Site of a local enthusiast on natural history aiming to list and photograph flora and fauna in the the Outer Hebrides, Western Isles, Scotland

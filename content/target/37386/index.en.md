@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Zelo Street: Europe
-
 Blog: Zelo Street

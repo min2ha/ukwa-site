@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# National Ice Centre
-
 The National Ice Centre offers a range of ice sports activities, so where better to learn a new skill, or participate in your favourite ice sports discipline, than the UK’s centre of excellence for ice sports.

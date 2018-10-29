@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Aberdour Heritage Centre and Station Gardens
-
 Site of a heritage centre and gardens located within Aberdour railway station, Aberdour, Fife.

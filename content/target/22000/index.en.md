@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gisela Stuart (@GiselaStuart) on Twitter (Labour candidate for Birmingham Edgbaston)
-

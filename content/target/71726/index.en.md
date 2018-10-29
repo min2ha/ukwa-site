@@ -10,6 +10,4 @@
   "start_date": "2018-09-27T09:00:00Z"
 }
 
-# Sinclair Motor Holdings Ltd
-
 Sinclair Motor Holdings Limited is an active company incorporated on 15 March 2002 with the registered office located in Bridgend, Mid Glamorgan. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Mids RFC (@TheOldMids) on Twitter
-
 The official website of Old Mid-Whitgiftian Rugby Club.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Mullin (@RogMull) on Twitter
-
 Twitter profile of Roger Mullin, Scottish National Party candidate for Kirkcaldy and Cowdenbeath in the 2017 general election.

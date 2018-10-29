@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liz Evans Labour For Gower
-
 Liz Evans is the Labour candidate for Gower

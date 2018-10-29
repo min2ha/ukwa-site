@@ -10,5 +10,3 @@
   "start_date": "2005-06-29T02:00:00Z"
 }
 
-# Hospital Infection Society, The (HIS)
-

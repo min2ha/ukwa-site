@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bristol International Balloon Fiesta
-
 Website for the Bristol International Hot Air Balloon Fiesta.

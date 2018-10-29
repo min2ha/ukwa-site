@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Nicola Sturgeon warns PM she is not bluffing on indyref2
-
 Nicola Sturgeon warned Theresa May that she is not "bluffing" on the promise of a second independence referendum if Scotland is "driven off a hard Brexit cliff".

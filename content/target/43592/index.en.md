@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NewsThump: Cats would vote to leave EU and then refuse to go out
-
 Article by the satirical and spoof news website NewsThump

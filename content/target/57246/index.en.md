@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Gareth Nash Ceramics
-
 Gareth Nash is a Welsh ceramicist and member of Royal Cambrian Academy, RCA.

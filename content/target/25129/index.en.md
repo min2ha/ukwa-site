@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron has got his own election theme song - and it's in HINDI
-
 None

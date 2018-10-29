@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tories must offer change, says Philip Hammond
-
 Chancellor Philip Hammond, speaking at the 2018 Conservative conference in Birmingham, called for party unity and a vision beyond Brexit. And he defended Theresa May's under-fire plan for post-Brexit trade with the EU, which has been dismissed by Brussels.
 
 

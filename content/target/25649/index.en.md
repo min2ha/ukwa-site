@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Menzies Campbell: 'Behind this modest exterior I'm rather competitive'
-
 None

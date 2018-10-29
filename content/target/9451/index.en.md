@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Eglise Protestante Française de Londres
-
 Website of the French Protestant Church of London (Église Protestante Française de Londres), a Huguenot Protestant church in Soho Square, London. It is a registered charity .

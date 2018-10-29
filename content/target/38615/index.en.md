@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Officer for NE Scotland | Campaigning for a fairer, greener Scotland for all
-
 David Officer is the Scottish Green Party list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

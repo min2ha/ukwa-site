@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Habitat21 - sustainable living for the 21st century
-
 None

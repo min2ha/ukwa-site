@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Tax Research UK - Richard Murphy on tax and corporate accountability
-

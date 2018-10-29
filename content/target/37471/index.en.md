@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: Gove 'did not brief' Sun's 'Queen backs Brexit' story
-

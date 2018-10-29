@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UnitedWithLabour (UnitedWthLabour) on Twitter
-
 <p>Twitter profile spoofing the Scottish Labour Party's referendum campaign, "United with Labour".</p>

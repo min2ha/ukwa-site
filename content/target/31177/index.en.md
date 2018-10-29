@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Burghead Headland Trust
-
 Historical and visitor information for Burghead, a village in the north east of Scotland.

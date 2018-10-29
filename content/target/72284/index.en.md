@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Grace Church Dunfermline
-
 Site of an Elim Pentecostal church (Christian) located in Dunfermline, Fife.

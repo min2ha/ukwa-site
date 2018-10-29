@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# All our children: Home-Start's manifestos for Wales
-

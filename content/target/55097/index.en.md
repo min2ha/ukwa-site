@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Donor Conception Network
-
 A supportive network of more than 2,000 mainly UK based families with children conceived with donated sperm, eggs or embryos, those considering or undergoing donor conception procedures; and donor conceived people. 

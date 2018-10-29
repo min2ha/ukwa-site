@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Greens fail to add to single seat despite highest-ever share of vote
-
 None

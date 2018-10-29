@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Swansea & Brecon Diocesan Guild of Bellringers
-

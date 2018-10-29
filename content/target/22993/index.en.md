@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jacqui Berry (@jacqui_berry) on Twitter (TUSC candidate for Gillingham and Rainham)
-

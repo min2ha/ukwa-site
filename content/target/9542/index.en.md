@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Matt Carr's Infernal Machine: European Parliamentary Elections
-
 None

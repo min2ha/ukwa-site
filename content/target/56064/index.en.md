@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Brexit: More detail needed on Good Friday Agreement impact, says Barnier
-
 More detailed discussions are needed on how Brexit will affect the Good Friday peace agreement in Northern Ireland, according to the EU's chief negotiator at the end of the second week of Brexit negotiations.

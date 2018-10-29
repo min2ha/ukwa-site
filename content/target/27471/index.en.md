@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Poll of pollsters shows still too close to call … so let the horse-trading commence
-
 None

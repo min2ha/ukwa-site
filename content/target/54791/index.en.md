@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spirit of Speyside Whisky Festival
-
 Site of an annual festival of whisky based in the distilleries of the Speyside area of Highland, Scotland.

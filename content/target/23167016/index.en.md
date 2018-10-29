@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Dolphin Engine
-
 None

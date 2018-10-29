@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: British expats face 'cliff edge' in pensions and insurance after Brexit
-

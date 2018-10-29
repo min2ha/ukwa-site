@@ -10,5 +10,3 @@
   "start_date": "2009-12-22T00:00:00Z"
 }
 
-# glasgowarchitecture
-

@@ -10,5 +10,3 @@
   "start_date": "2012-06-21T00:00:00Z"
 }
 
-# Curiad - Cerddoriaeth ar y We
-

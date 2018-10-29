@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Mineral Products Association
-
 The Mineral Products Association is the trade body for the UK's aggregates, cement and concrete industries.

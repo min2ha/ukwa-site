@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Liberal Democrats (@HaringeyLibDems) on Twitter
-
 Twitter feed of Haringey Liberal Democrats for Crouch End, Highgate, Hornsey, Muswell Hill, Wood Green & Tottenham.

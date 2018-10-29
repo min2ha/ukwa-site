@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Borth: A Maritime History
-
 The website gathers and displays material pertaining to Borth’s maritime history. It is written by Terry Davies who has written two books on this subject, Borth a Seaborn Village 2004, and Borth a Maritime History 2009.

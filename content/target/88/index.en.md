@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedford Hospital NHS Trust
-
 None

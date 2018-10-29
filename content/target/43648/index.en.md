@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# IOE London Blog: Will Brexit increase British wages?
-
 Expert opinion from the UK's leading centre for education research

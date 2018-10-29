@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Get Bucks: Local Buckinghamshire News, Sport and What's On
-

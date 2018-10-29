@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Glenfarg Folk Club
-
 Site of a Scottish traditional music club based in the village of Glenfarg, Perth and Kinross, Scotland.

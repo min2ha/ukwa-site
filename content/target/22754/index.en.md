@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicky Morgan (Conservative)
-
 Nicky Morgan stood as Conservative candidate for Loughborough at the 2015 General Election. She was first elected to serve as MP for Loughborough in 2010 and re-elected in 2015.

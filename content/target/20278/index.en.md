@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T06:00:00Z"
 }
 
-# Forth Estuary Forum
-
 The Forum is a voluntary partnership of organisations around the Forth with an interest in the wellbeing of the Forth and its coastal communities.

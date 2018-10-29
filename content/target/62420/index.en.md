@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Llangoed Hall
-
 Llangoed Hall is a country house hotel, situated near Llyswen, in Powys and is a Grade II* listed building. It was owned by Sir Bernard Ashley, the widower of the designer Laura Ashley. 

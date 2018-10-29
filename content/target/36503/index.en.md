@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: In campaign chief accused of a 'scandalous abuse of data' as he AGAIN stands by claim every household gets £3,000 from the EU   
-

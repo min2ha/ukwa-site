@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The London Festival of Railway Modelling 
-
 Website advertising the London Festival of Railway Modelling 

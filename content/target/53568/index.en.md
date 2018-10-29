@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal United Services Institute (RUSI): General Election 2017: Pledges Softly Made in the Foreign Affairs and Defence Sections of the Manifestos 
-
 The Brexit spectre will cast its shadow over Britain’s foreign policy and its relationship with the rest of the world, its defence, security and policing in the decades to come. But no one would guess from what has been presented by the major parties in their 2017 general election manifestos.

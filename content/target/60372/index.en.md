@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# All to Human
-
 This is the blog of Martyn Shrewsbury, a former leader of Wales Green Party

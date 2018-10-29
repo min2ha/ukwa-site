@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Harlequin Ladybird Survey
-

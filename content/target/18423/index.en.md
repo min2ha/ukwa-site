@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Theresa May's immigration pledge is a challenge to Boris Johnson for the Conservative Party's soul
-
 None

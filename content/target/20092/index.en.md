@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: The soapbox spirit of 1992 swirls through this year's election campaign as ambitious campaigners sense everything to play for 
-

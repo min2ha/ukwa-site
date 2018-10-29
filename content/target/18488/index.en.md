@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: Nigel Farage's offer to support a minority Conservative Government
-
 None

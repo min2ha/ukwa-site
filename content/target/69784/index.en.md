@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Red London
-
 An online left wing merchandise website. 

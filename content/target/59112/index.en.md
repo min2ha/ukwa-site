@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Syed Shah Mustafa Jame Masjid
-
 Site of an Islamic place of worship and community centre located in Aberdeen.

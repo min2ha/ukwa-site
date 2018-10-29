@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Patrick Lowe (@patrickloweukip) on Twitter (UKIP  Politician)
-
 Patrick Lowe stood as UK Independence Party (UKIP) in the 2017 General Election for Bognor Regis and Littlehampton but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# British Thyroid Association (BTA)
-
 The British Thyroid Association is a non-profit making Learned Society of professional clinical specialist doctors and scientists in the United Kingdom who manage patients with thyroid disease and/or are researching into the thyroid and its diseases in humans.

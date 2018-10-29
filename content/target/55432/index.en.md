@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Mount Pleasant Baptisr Church, Swansea
-

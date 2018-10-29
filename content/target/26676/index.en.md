@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: This 8 May is the beginning of the end of British politics as we know it
-
 None

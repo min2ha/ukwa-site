@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Glengarden Press
-
 Site of a publisher located in Ballater, Aberdeenshire.

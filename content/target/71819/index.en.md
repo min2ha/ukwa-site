@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Festival of Thrift
-
 Website for the Festival of Thrift, an event organised to encourage sustainable living.

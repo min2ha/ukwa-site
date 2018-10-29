@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Albion Rovers Football Club
-
 Site of a senior Scottish football club based in Coatbridge, North Lanarkshire.

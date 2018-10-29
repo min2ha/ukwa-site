@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Rhun ap Iorwerth Arwain Plaid Cymru i Arwain Cymru | Rhun ap Iorwerth Leading Plaid Cymru to Lead Wales
-
 This is the campaign website of Rhun ap Iorwerth, a candidate in the 2018 Plaid Cymru leadership contest.

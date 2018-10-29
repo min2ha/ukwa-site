@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Edinburgh University Students' Association
-
 Site of an organisation that represents and works for the students at the University of Edinburgh, running events and the students' union buildings.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Running scared from leaders' debates, David Cameron looks like Gordon Brown
-
 None

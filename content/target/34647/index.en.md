@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Russell George (Conservative Assembly Member for Montgomeryshire)
-

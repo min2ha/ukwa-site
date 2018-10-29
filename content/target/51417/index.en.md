@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Immigration should rise and fall after Brexit, David Davis says
-
 Immigration should rise and fall depending on the UK's needs after it has left the EU. David Davis said a "sustainable" system would take into account the needs of the NHS and different industries.

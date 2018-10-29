@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sport and Recreation Alliance: Manifesto for Sport and Recreation
-
 The forthcoming election on 8 June 2017 represents an important opportunity for the next Government to make a commitment to putting sport and recreation at the heart of an active nation.

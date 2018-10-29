@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Norman Lockyer Observatory
-
 The Norman Lockyer Observatory is both a historical observatory and home to an active amateur astronomical society. It is a centre for amateur astronomy, meteorology, radio astronomy, and the promotion of science education.

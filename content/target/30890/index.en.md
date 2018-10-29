@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Oasis Cardiff
-
 Oasis Cardiff is a center for Asylum seekers and Refugees.

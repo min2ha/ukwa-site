@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# A Little Blog of Books
-
 Book review blog running since 2012

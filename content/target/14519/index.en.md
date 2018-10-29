@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Crofting Commission / Coimisean na Croitearachd
-
 The Crofting Commission regulates and promotes crofting and also advises Scottish Government on crofting issues.

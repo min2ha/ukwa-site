@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Anarchist Federation: Struggling for anarchist communism…
-
 London AF is a local group of the Anarchist Federation. The AF was founded as the Anarchist Communist Federation more than 25 years ago. We describe ourselves as anarchist communists and revolutionary class struggle anarchists, and operate as a membership organisation.

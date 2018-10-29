@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative ministers seek to play down Cameron's third-term bombshell
-
 None

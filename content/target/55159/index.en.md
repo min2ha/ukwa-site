@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: European Council June 2017: Prime Minister's press statement
-
 Theresa May spoke about subjects covered at the June 2017 European Council including security, trade, migration and citizens' rights.

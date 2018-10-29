@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T13:19:00Z"
 }
 
-# China Defense Blog 
-
 This is the blog of China defense, where professional analysts and serious defense enthusiasts share findings on a rising military power.

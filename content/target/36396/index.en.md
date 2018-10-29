@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside Politics: PM making the most of EU row
-
 Column by Macer Hall

@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Trefnu Cymunedol Cymru | Togethor Creating Communities
-
 <p>Togethor Creating Communities 'tackle social injustice by supporting diverse communities to gain the power they need to enact change.  We do this through community organising: bringing together local groups, so they can set their own agenda, take action, and improve their communities. Our members are many different community groups, faith groups, and schools, from across Wrexham, Flintshire, and Denbighshire.'</p>

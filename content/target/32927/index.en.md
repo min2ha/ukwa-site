@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Chloe Loftus Dance
-
 Chloe Loftus Dance is a Welsh dance company.

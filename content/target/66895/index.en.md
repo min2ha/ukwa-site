@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Vets Now Limited
-
 The website of Vets Now Limited, a chain of out-of-hours accident and emergency veterinary clinics. The company was founded in 2001 and is based in Dunfermline, Scotland. 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Graduate Fog
-
 Graduate Fog is a website for graduates looking for accessible, up-to-date career advice to help them navigate today’s tough, fast-moving job market. Its blog flags the questions and concerns that matter most to today’s graduates. It aims to be a formidable campaigning force, squaring up to dozens of big firms and famous people who don’t treat graduates with the respect they deserve, or who haven’t always paid their interns a decent wage for their work.

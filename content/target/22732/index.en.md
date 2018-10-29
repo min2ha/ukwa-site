@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alastair McQuillan (@al_mcquillan) on Twitter (Green Party Politician)
-
 Alastair McQuillan stood as Green Party candidate for Rutland and Melton at the 2017 General Election but was not elected. He also stood in 2015 for the same seat but was not successful.

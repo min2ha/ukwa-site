@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Brand Republic
-
 Brand Republic is a website with news and opinion about campaigning, marketing and media.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tories will leave us with the smallest army since Oliver Cromwell, Ed Balls warned today
-
 None

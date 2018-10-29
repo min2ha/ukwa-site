@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Alliance Party of Northern Ireland: Brexit
-
 A subsection of the Alliance Party of Northern Ireland related to Brexit.

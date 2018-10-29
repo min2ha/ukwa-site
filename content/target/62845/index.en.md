@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: War shaped my childhood – don’t let Brexit risk our peace
-

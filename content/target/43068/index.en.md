@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# David Florence (@David_Florence) on Twitter
-
 The twitter profile of canoe slalom athlete David Florence.

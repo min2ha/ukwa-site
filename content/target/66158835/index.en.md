@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Research Reserve (UKRR)
-
 None

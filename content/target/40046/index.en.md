@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Generations On - What the Great War Meant to Us
-
 The project will engage with four 4 communities, Llanfyllin, Welshpool, Newtown and Machynlleth to create a complete picture of the heritage of WWI in North Powys (Montgomeryshire).

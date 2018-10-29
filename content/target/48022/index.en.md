@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Impact: Integrated management of forest pests addressing climate trends
-
 Impact is a research project assessing how changing climate will influence the damage to trees and forests of Ireland and Wales by pests, some already here and others potentially brought here through international trade. Impact is part funded by the European Regional Development Fund (ERDF) through the Ireland-Wales Programme (INTERREG Iva) and Forestry Commission Wales. It is led by Forest Research in Wales, Aberystwyth, with partners in the National University of Ireland, Maynooth and Swansea University.

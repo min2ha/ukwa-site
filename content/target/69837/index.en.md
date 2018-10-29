@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# St Davids Music and Arts festival
-
 St Davids Music and Arts festival was established in 2017 in order to provide live music and art within the St Davids community culminating in the yearly weekend festival of art and music at various locations around the City. 

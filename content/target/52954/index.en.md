@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Urras Brosnachaidh na Gàidhlig / The Gaelic Language Promotion Trust
-
 WordPress site of an organisation established to stablished to encourage and promote the teaching, learning and use of the Gaelic language throughout Scotland - the site is written in Scottish Gaelic and English.

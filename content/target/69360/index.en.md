@@ -10,6 +10,4 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# Woodlands Animal Sanctuary
-
 Centre for care of neglected and sick domestic and wild animals near Ormskirk, Lancashire

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ards Football Club (@ArdsFC1900) on Twitter
-
 The official Twitter account of Ards Football Club. Formed in 1900.

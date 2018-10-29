@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duncan of Jordanstone College of Art & Design: Studio Jamming: Artists' Collaborations in Scotland
-
 <p>Duncan of Jordanstone College of Art &amp; Design in Dundee. “Studio Jamming: Artists' Collaborations in Scotland” is showing as part of Generation, this summer's major, nation-wide exhibition programme showcasing some of the best and most significant art to have emerged from Scotland over a period of 25 years. Part of the Glasgow 2014 Culture Programme.</p>

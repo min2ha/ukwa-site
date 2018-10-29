@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Coldstream & Eccles Parish Churches
-
 Site of two Church of Scotland parish churches in the Scottish Borders.

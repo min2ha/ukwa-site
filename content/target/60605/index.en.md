@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Mount Tory is ready to blow over Brexit – and May can’t stop it
-

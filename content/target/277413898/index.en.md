@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Future of the UK and Scotland (ESRC funded programme)
-
 None

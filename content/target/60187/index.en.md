@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# St. Mary’s Cathedral, Edinburgh
-
 Website for St Mary’s Episcopal Cathedral, Edinburgh.

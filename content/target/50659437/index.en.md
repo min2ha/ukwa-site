@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Fellowship for Afterlife Studies
-

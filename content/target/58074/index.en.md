@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Colin Herd : Poetry & Outside Poetry
-
 Site of a Scottish poet and academic in the field of creative writing, based in Edinburgh and at Glasgow University.

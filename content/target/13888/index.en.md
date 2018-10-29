@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# City of Edinburgh Council, The
-

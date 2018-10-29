@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Tom Clarke Member of Parliament for Coatbridge Chryston & Bellshill
-
 <p>The website of Tom Clarke, Labour Member of Parliament for Coatbridge, Chryston and Bellshill.</p>

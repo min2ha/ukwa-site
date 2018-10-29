@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heidi Allen ( @heidiallen75 ) on Twitter (Conservative Politician)
-
 Heidi Allen stood as Conservative candidate for South Cambridgeshire at the 2015 General Election and was elected to serve as MP.  She then stood for re-election in 2017 and was successful.

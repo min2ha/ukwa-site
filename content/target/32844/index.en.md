@@ -10,6 +10,4 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# Canolbwynt Ymchwil yr Amgylchedd Cymru | Wales Environment Research Hub        (HEB)
-
 The Wales Environment Research Hub (WERH) is sponsored by the Welsh Government, Centre for Ecology and Hydrology and Bangor University. Its objectives are is to improve collaboration and effectiveness within the environmental science sector in Wales, and promote links to policy-makers so as to support delivery of the objectives of the Wales Environment Strategy. 

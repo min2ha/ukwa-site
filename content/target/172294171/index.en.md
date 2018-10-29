@@ -10,6 +10,4 @@
   "start_date": "2015-09-10T10:00:00Z"
 }
 
-# Bangor University: Centre for Evidence Based Early Intervention (CEBEI)
-
 The Centre for Evidence Based Early Intervention (CEBEI) is based at Bangor University and provides research evidence based programmes for parents, children and teachers across Wales and internationally. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Merthyr Tydfil Thunderducks
-
 American Flag Football team based in Merthyr Tydfil.

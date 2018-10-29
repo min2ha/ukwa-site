@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Rhoscolyn community website
-
 Rhoscolyn community website has been developed to serve the local community of Rhoscolyn and Four Mile Bridge.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Architecture 2016
-
 Site of a year-long, Scotland-wide festival led by the Royal Incorporation of Architects in Scotland which brings Scottish architecture to life and is a key part of the 2016 Year of Innovation, Architecture and Design.

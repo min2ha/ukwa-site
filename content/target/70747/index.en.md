@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# International Congress of Celtic Studies XV, The
-
 The International Congress of Celtic Studies is the foremost international gathering of scholars researching the languages, literatures and cultural traditions of the Celtic-speaking peoples and is held once every four years. The 15th International Congress of Celtic Studies was held at the University of Glasgow from 13-17 July 2015.

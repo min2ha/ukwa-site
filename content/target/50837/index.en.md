@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# BenRiach Distillery Company Ltd
-
 Site of a Scotch whisky distiller, its distillery and visitor centre, and the whisky they produce.

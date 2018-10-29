@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Robin Houghton Poetry
-
 Established in 2009 poetry blog combines reviews, regional features and commentary and reveals the reality of poetry submissions and rejections as well as successes.

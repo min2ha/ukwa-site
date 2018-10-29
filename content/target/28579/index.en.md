@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff Pedal Power
-
 Pedal Power is a charity based in Cardiff that encourages and enables children and adults of all ages and abilities to experience the benefits of cycling. 

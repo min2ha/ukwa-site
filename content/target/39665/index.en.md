@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Stockcross First World War Memorial Tablet - discovering the human story
-
 Project to find out more about each man named on a tablet commemorating the 27 local men who lost their lives in the First World War, his family, the world in which he lived and how military service changed his life.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# International Maritime Organization (IMO)
-
 The International Maritime Organization (IMO) is the United Nations specialised agency with responsibility for the safety and security of shipping and the prevention of marine pollution by ships. 

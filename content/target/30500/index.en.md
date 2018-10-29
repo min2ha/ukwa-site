@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Bucks New University
-
 Official website of the Buckinghamshire New University.

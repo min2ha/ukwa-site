@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dominic Grieve (Conservative politician)
-
 Dominic Grieve was first elected Conservative MP for Beaconsfield in 1997 and was re-elected in 2005, 2010, 2015 and 2017. He is a strong supported of remaining in the EU. The web site offers a short biography and text of speeches, mainly on Human rights and Brexit.

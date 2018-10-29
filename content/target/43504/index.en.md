@@ -10,5 +10,3 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Third Force News: After the death of Jo Cox: racist rhetoric has deadly consequences
-

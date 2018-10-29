@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# University of Aberdeen Shinty Club on Facebook
-
 Facebook page for a shinty club based at the University of Aberdeen.

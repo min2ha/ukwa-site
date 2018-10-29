@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Theo Clarke (Conservative)
-
 Theo Clarke stood as Conservative candidate for Bristol East at the 2015 General Election but was not elected.

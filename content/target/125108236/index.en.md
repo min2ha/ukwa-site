@@ -10,5 +10,3 @@
   "start_date": "2013-02-21T00:00:00Z"
 }
 
-# Llanbradach & Pwll-y-Pant Community Council
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: #BattleForNumber10: Cameron v Miliband generates half a million tweets
-
 None

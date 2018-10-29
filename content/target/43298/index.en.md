@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Manchester: A Certain Future: Steady State EU Referendum - Viable Economy
-
 Manchester climate change action group on a group discussion on the 19th April hosted by Steady State Manchester about the viability of the economy outside the EU

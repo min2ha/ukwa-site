@@ -10,5 +10,3 @@
   "start_date": "2015-12-14T09:00:00Z"
 }
 
-# Greater Pollok Kist Community Museum
-

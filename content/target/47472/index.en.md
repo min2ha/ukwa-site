@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Sewrec: Social Justice Charity for South East Wales, The
-
 SEWREC, also known as the South East Wales Regional Equality Council, is a local charity that challenges discrimination, promote equality of opportunity and promote good relations between people from different backgrounds across the county of Gwent. 

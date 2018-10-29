@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The British Journal of Psychiatry: The Technological innovations in mental healthcare: harnessing the digital revolution
-
 A Journal article published by The British Journal of Psychiatry entitled 'Technological innovations in mental healthcare: harnessing the digital revolution'

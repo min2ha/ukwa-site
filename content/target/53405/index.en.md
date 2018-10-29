@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Campaign for Press and Broadcasting Freedom: UK General Election 2017: A Manifesto for Media Reform: Give Truth a Chance
-
 The crisis in the UK media must be resolved by putting checks on the big corporations that dominate the market

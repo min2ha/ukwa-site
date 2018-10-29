@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Julie Hepburn for Central Scotland on Facebook
-
 Facebook profile of Julie Hepburn, SNP candidate in Central Scotland region for the Scottish Parliament election in 2016.

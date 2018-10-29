@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# International Development Education Association Scotland
-
 Site of a network of organisations and individuals involved in Development Education and Education for Global Citizenship across Scotland.

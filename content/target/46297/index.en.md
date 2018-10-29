@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# South of Scotland Football League
-
 Site of the organising body of an amateur football league in southern Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# South Hockey League
-
 Consisting of men's, women's and youth divisions and teams from the southern England including the counties of Berkshire, Buckinghamshire, Hampshire, Kent, Middlesex etc.

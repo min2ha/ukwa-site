@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Thomas John Bacon
-
 Website of an artist Thomas John Bacon.

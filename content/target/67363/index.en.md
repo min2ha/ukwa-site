@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Sandra White MSP – Member of the Scottish Parliament for Glasgow Kelvin
-
 Sandra White, Scottish National Party Member of the Scottish Parliament for Glasgow Kelvin.

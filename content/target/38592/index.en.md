@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Greens
-
 Edinburgh and West Lothian branch of the Scottish Green Party

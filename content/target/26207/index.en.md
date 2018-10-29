@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Geriatrics Society: A call to the incoming Government to take six decisions for excellent healthcare and support for older people
-
 the BGS is a professional association of doctors practising geriatric medicine, old age psychiatrists, general practitioners, nurses, therapists, scientists and others with a particular interest in the medical care of older people and in promoting better health in old age. It has over 2,500 members worldwide and is the only society in the UK offering specialist medical expertise in the wide range of health care needs of older people.

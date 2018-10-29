@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Full Fact: What does leaving the EU mean for Scotland?
-
 Article discussing the effects of the referendum on Scotland.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  McDonnell: new Brexit referendum should not include remain option
-

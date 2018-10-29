@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Princess Anne opens United States 800th anniversary Magna Carta exhibit
-

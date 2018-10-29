@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Enterprise
-
 Scottish Enterprise aims to create an innovative, high-wage and highly productive economy in Scotland with a competitive, international market presence and a focus on high value opportunities. 

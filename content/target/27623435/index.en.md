@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Mad Cornish Projectionist
-
 None

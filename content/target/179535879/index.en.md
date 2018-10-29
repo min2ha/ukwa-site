@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Loops and Links
-

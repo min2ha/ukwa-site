@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Storrington's Roll of Honour
-
 Project to undertake research into the history of village's First War War "Roll of Honour" painted by the artist and illustrator Paul Hardy.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on capping profit in the NHS: the pledge that could shape the debate
-
 None

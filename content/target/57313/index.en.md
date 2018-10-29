@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Short Film Festival
-
 Site of an annual  festival of short film from Edinburgh, Scotland and around the world.

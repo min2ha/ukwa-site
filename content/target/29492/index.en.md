@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-#  Cymry Llundain London Welsh
-
 The London Welsh Centre is a cultural and community centre on Gray’s Inn Road, not far from King’s Cross, Russell Square and Chancery Lane.

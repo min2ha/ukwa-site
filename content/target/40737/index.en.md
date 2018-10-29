@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute for Public Policy Research: Free Movement and the EU Referendum
-
 The first EU referendum in a generation will take place on 23 June 2016. People’s views on EU migration are likely to play a crucial role in how they vote. This briefing seeks to inform the debate by setting out some of the key evidence on freedom of movement and exploring public attitudes to EU migration.

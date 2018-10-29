@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Welsh Stone Form | Fforwm Cerrig Cymru
-
 The Welsh Stone Forum was created in 2003 to promote awareness and knowledge of the use of natural stone in Wales.

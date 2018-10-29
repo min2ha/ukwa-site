@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Lin Anderson
-
 Lin Anderson is an author of crime fiction and co-founder of the ‘Bloody Scotland’ crime writing festival.

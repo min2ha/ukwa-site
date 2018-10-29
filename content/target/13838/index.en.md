@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Joe McCauley (jmc254) on Twitter
-
 <p>The twitter profile of Joe McCauley, the local campaign organiser for Better Together Glasgow.</p>

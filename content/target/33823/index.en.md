@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Gardiners NMC: Centenary of Delightful Dublin's Easter Rising
-
 Coach tour operator offering tour to Dublin for Easter Rising centenary celebrations

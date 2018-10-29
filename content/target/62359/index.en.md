@@ -10,6 +10,4 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-# Carolyn 4 Deputy
-
 This is the 2018 campaign website for Carolyn Harris who is aiming to be deputy leader of Welsh Labour.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip focuses election fight against Tories in a few key battlegrounds
-
 None

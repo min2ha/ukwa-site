@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Weybridge Vandals RFC Senior (@VandalsRFC) on Twitter
-
 The official Twitter account of Weybridge Vandals Rugby Club. Formed in 1932 with Senior and mini/junior teams. Own grounds and facilities. Weybridge Vandals run 4 senior sides as well as a thriving mini and youth section offering players excellent facilities from the age of 5-55.

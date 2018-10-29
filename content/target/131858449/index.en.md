@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Berkshire NHS Priorities
-
 None

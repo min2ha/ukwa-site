@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Protest the Muslim ban! Liberty torch vigil at the US Consulate in Belfast on Facebook
-
 A demo organised at short notice in response to US President Donald Trump's #MUSLIMBAN in Belfast at 6pm on Thursday 2/02/2017. 

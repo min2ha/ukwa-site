@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would leave UK farmers up to €34,000 worse off, study finds 
-
 Guardian, The

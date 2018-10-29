@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# BBC: Lord Advocate intervenes in Brexit case
-

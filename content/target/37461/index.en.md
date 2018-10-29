@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tommy Ball's Blog: A Scottish EU referendum 
-
 Blog. 

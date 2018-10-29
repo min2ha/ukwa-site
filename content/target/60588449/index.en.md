@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Edinburgh Feminist Forum
-
 None

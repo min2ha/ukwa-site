@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southwark Health and Wellbeing Board
-
 None

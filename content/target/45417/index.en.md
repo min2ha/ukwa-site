@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Stagecoach in South Wales
-
 Site exploring Stagecoach bus routes in south Wales.

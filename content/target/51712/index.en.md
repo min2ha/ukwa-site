@@ -10,8 +10,6 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Planning Landscape Architecture Community Environment (PLACE)
-
 Place is the Built Environment Centre for Northern Ireland.
 
 PLACE is composed of a multi-disciplinary team combining expertise and extensive experience in architecture, town planning, visual art, curation, design, social science, education, research, community engagement and event management.

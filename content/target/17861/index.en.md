@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Who is Natalie Bennett? Biography, policies and pictures of the Green Party leader
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2012-01-10T00:00:00Z"
 }
 
-# ProMo-Cymru
-

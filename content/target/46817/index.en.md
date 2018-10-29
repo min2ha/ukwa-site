@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Birketts: Brexit blog
-
 Birketts is a full service, top 100 UK law firm, based in the East of England, with offices in Cambridgeshire, Essex, Norfolk and Suffolk.

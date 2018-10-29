@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Green Party's boy band parody is the funniest political advert of the general election
-
 None

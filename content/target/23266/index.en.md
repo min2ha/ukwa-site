@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# NF Scotland (@NFScotland) on Twitter
-
 The twitter profile of the National Front in Scotland.

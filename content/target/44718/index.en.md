@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# South Wales Gay Men’s Chorus
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  Britain will be 'dragged along' into a European superstate if it stays in the EU, Boris Johnson warns
-

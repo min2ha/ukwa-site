@@ -10,5 +10,3 @@
   "start_date": "2008-07-17T00:00:00Z"
 }
 
-# deepseascape.org - UK Deep-Sea Image and Video Library
-

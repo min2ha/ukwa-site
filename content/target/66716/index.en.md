@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Bryneglwys Show 
-
 Bryneglwys is a village located near Corwen in Denbighshire. Their show has been a longstanding summer event since the 1950's.

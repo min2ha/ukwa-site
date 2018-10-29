@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Heswall.com : The website for Heswall on the Wirral
-

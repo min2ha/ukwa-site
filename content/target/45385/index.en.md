@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Unco
-
 An online book shop focussed on Scottish writers.

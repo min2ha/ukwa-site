@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival on the farm
-
 Website for the festival on the farm festival.

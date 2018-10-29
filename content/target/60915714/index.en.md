@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign for Better Transport
-
 Campaign for Better Transport campaigns in a number of different ways for sustainable transport.

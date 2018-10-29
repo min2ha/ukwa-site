@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Chamber Project
-
 Site of a music festival focussing on Chamber music and based in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Stairway To Hell
-
 Stairway To Hell was a website dedicated to the BBC Micro and Electron Games Archive.

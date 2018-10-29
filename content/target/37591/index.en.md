@@ -10,5 +10,3 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Cymdeithas Saethu Targedau Clai Cymru Cyf | The Welsh Clay Target Shooting Association Ltd
-

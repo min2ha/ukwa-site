@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory candidate accused of EDL plot expected to be forced out within days
-
 None

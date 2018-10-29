@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Surge
-
 Site of an organisation that runs projects to develop street arts, physical theatre and circus in Scotland, working with artists, performance companies and educators at all levels of experience, and also running the annual SURGE Festival.

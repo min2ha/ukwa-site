@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# British Society for Genetic Medicine (BSGM)
-
 Founded in 1996, the British Society for Human Genetics now known as the British Society for Genetic Medicine,  provides a forum for professionals involved in Genetics as a clinical service and research. 

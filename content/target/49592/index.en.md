@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The peers in the pocket of Europe: Mandy, Kinnock and Co are told to declare their lavish EU pensions before they try to derail Brexit in the Lords   
-

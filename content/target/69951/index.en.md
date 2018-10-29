@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health First Aid England (@MHFAEngland) on twitter
-
 Twitter account promoting mental health first aid skills through a range of courses

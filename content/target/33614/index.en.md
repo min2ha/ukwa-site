@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Future: EU referendum
-
 British Future is an independent think tank looking at identity and integration, migration and opportunity.

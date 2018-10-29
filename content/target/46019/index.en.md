@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Interstate - Journal of International Affairs | Siwrnal Materion Rhyngwladol
-
 Interstate – Journal of International Affairs is an undergraduate-run academic journal, published by the Department of International Politics, Aberystwyth University. It focuses on issues of international and current affairs.

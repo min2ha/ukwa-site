@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# DAUK Women's Caucus (@DAUKWomenCaucus) on Twitter
-
 The Dems Abroad UK Women's Caucus spans generations and lived experiences. We are women united in advancing and securing our fundamental human rights as women.

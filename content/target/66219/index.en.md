@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Website for the Gloucester History Festival
-
 Website for the Gloucester History Festival

@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff Lacrosse Club
-

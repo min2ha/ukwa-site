@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Observer view on the many perils of a no-deal Brexit
-

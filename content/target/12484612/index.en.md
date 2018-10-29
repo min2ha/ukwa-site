@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Money is the Way
-
 None

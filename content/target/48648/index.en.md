@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# University of Wales Trinity Saint David: Growing Workforces through Learning And Development (GWLAD)
-
 Growing Workforces through Learning And Development (GWLAD) is a project established to meet the 'intermediate and higher workforce development needs of businesses and not for profit organisations in Neath Port Talbot, City and County of Swansea, Carmarthenshire, Pembrokeshire and Ceredigion'. The project is led by The Wales Institute for Work-based Learning (WIWBL) of the University of Wales Trinity Saint David (UWTSD) Group and supported by the European Social Fund through the Welsh Government.

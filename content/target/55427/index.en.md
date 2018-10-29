@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Life Charity
-
 An anti abortion Pro-Life campaign group.

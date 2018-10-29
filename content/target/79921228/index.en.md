@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Police and Crime Commissioner - Voice of the People
-
 None

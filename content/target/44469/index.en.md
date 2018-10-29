@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Youth Parliament United Kingdom: The Debate on Brexit Urgently needs a More Global Perspective
-
 Blog post discussing the global effects of Britain leaving the EU

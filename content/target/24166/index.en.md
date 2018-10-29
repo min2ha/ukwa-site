@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: UK businesses urge David Cameron to be 'bold' and 'ambitious' to boost UK economy
-
 None

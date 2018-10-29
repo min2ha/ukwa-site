@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Africa Centre UK
-
 None

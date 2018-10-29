@@ -10,5 +10,3 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# North Wales Local Medical Committee
-

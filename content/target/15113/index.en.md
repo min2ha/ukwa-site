@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JesmondLocal
-
 <p>JesmondLocal is a volunteer-run, not-for-profit, ‘hyperlocal’ news service for the people who live and work in Jesmond, Newcastle upon Tyne.</p>

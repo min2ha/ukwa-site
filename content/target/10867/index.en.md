@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield Hallam University: Tour de France
-
 Sheffield Hallam University . Official supporter of the Grand Depart.

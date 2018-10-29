@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Emel Magazine
-
 emel has been at the forefront of Muslim media for the past seven years, with a vision to promote a positive and confident message about the Muslim communities in the UK and beyond. The magazine has had an outstanding reception, by Muslims and non-Muslims alike, and has had extensive media interest worldwide.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Housebuilders hit by Miliband's move to restrict rents and new home sale
-
 None

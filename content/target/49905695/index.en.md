@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Continuous Cover Forestry Group (CCFG)
-
 None

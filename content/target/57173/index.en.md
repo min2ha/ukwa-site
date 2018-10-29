@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Gelligaer World War I Memorials
-
 Gelligaer World War I Memorials is a Gelligaer Historical Society project recording details of local war memorials in the Gelligaer area of the Rhymney Valley.

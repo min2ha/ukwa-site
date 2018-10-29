@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael McGough (@mickmcgough) on Twitter (UKIP Politician)
-
 Michael McGough stood as UK Independence Party (UKIP) candidate for Brentwood and Ongar in the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Welsh Governance Centre: Thinking Wales | Meddwl Cymru
-
 Thinking Wales showcases 'current research, comments and analysis on Welsh politics and policy from postgraduate researchers at the Wales Governance Centre'.

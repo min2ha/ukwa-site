@@ -10,6 +10,4 @@
   "start_date": "2015-06-01T09:00:00Z"
 }
 
-# Sara Moorhouse
-
 Welsh ceramic artist.

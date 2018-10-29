@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Balfron Village Stirlingshire
-
 Community website for the village of Balfron, Stirlingshire, Scotland.

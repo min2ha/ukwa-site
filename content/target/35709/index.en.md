@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: the workers' rights at stake if Britain leaves the EU
-

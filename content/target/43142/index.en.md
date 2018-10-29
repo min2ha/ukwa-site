@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# on a knife edge Brexiteers swiftly closing in on Remain as poll reveals there’s just one point between the two sides 
-
 Sun, The

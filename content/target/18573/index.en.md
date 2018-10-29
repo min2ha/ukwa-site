@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Hopkin for Central Cardiff
-
 Richard Hopkin is Conservative candidate for Cardiff Central.

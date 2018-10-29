@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# AN SIONNACH FIONN
-
 IRISH NEWS AND ANALYSIS

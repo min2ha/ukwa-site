@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# National Savings and Investments (@nsandi) on Twitter
-
 News and updates from National Savings and Investments.

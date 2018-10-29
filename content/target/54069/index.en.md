@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bob Dhillon (@BobDhillon32) on Twitter (UKIP Politician)
-
 Bob Dhillon stood as UK Independence Party (UKIP) candidate for Warwick and Leamington in the 2017 General Election but was not elected.

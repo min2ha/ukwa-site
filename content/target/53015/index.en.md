@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour Bristol (@LabourBristol) on Twitter
-
 Twitter account for Labour in Bristol, providing information on campaigns, events, representatives and candidates and local and national news updates.

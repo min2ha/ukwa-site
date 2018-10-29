@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Greener Melrose
-
 Site of a local Scottish environmental / transition organisation based in Melrose, Scottish Borders, whose aim is to help communities deal with climate change and shrinking supplies of cheap energy (peak oil).

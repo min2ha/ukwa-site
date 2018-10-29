@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# King's Community Church [Norwich]
-
 A church group based in Norwich, UK.

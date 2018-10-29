@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Scottish Chambers of Commerce
-

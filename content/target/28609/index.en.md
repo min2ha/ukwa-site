@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Transport Scotland: Forth Bridge at 125
-
 Transport Scotland rail news article on the 125th anniversary of the Forth Bridge.

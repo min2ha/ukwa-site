@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Rockfield Centre
-
 Site of a community centre and venue hosting educational, artistic and entertaining events at Oban, Argyll & Bute.

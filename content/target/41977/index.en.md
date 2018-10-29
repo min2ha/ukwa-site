@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Britain: ‘Rotherham is not racist. But we want something new to look to’ 
-
 Guardian, The

@@ -10,5 +10,3 @@
   "start_date": "2011-01-18T00:00:00Z"
 }
 
-# Clybiau Ffermwyr Ifanc Ceredigion- Ceredigion Young Farmers Clubs
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 24th July 2018: Brexit: Legislating for the Withdrawal Agreement
-
 Statement on the White Paper which sets out the Government’s plans for legislating for the withdrawal agreement and implementation period, followed by questions​

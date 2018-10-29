@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Mabinogi Study
-
 This website is mainly about the Mabinogi, also known as Pedair Cainc, or the Four Branches. It is written by Shan Morgain, a phd student at Swansea University.

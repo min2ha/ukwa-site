@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# New GP Scotland
-
 Information site for doctors newly qualified to undertake general practitice in Scotland.

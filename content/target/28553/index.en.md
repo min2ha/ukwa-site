@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Telegraph, The - Climate Change
-
 Specialist climate change page of The Telegraph

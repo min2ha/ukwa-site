@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# ArtWorks Cymru
-
 ArtWorks Cymru is a 'three year action research project investigating training and support in Wales for artists who make work in participatory settings'. The programme is funded by Arts Council of Wales and the Paul Hamlyn Foundation.

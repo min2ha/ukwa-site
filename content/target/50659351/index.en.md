@@ -10,5 +10,3 @@
   "start_date": "2011-03-31T00:00:00Z"
 }
 
-# Nant Gwrtheyrn
-

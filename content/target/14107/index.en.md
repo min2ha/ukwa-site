@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Novara Wire: 8 Reflections on the #IndyRef TV Debates
-
 None

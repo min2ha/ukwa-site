@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Magna Carta 800 years on: recognition at last for ‘England’s greatest export’
-

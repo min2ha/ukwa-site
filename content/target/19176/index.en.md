@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: ITV News Index poll reveals half of under 35s surveyed don't know what the Magna Carta is
-

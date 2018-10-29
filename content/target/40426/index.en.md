@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# A Christmas Truce
-
 Shared learning and exploration project for the Pennine Lancashire communities culminating in a mass, commemorative musical performance, exhibition and football event at Christmas 2014.

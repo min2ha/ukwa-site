@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# British Society of Cutaneous Allergy (BSCA)
-
 The British Society of Cutaneous Allergy (BSCA) focuses on creating a computerised database for recording of minimum datasets; recommending baseline and specialist allergen series; creating patient information sheets; trialling of 'new' allergens; regular educational meetings and courses and publications in the field of contact allergy.

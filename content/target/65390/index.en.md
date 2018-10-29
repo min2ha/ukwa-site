@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Cambrian Male Voice Choir
-
 The Cambrian Male Voice Choir was formed in the ninetenth by employees of the local colliery in the small village of Clydach Vale. The choir is based in Tonypandy, Rhondda Valley.

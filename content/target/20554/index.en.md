@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrat members 'left in the dark' about party's spending plans
-

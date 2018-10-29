@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sanjay Samani (@ssamani) on Twitter
-
 The Twitter profile of Sanjay Samani, Liberal Democrat Parliamentary Candidate for Angus in the 2015 UK General Election.

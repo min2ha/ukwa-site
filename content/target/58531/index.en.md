@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Mind in Kingston
-
 Welcome to Mind in Kingston.  We are a local Mind Association affiliated to National Mind.  Operational since 1972, we provide a range of services to local Mental Health Service Users in the Royal Borough of Kingston Upon Thames. 

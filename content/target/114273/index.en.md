@@ -11,5 +11,3 @@
   "subject": "English Language"
 }
 
-# Alchemy - a bibliography of English language writings
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Network Rail orders removal of NUS anti-Lib Dem posters
-
 None

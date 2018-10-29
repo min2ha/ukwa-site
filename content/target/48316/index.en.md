@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UK in a Changing Europe, The: Brexit: our plague of experts
-
 A review of the EU Referendum from a London based think tank.

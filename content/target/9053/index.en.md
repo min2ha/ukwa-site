@@ -10,6 +10,4 @@
   "start_date": "2014-01-12T18:00:00Z"
 }
 
-# Centre for Charitable Giving and Philanthropy (CGAP)
-
 None

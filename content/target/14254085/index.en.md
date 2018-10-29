@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# World Wide Sires UK
-

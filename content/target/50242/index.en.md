@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# March 8th 2017: Strike 4 Choice (Protest) on Facebook
-
 This protest in London is in solidarity with the main Strike 4 Repeal protest that is taking place on O'Connell Street in Dublin and is one of many protests taking place around the world. The aim of the protest is to put pressure on the Irish government to repeal the 8th Amendment from the Irish Constitution that gives the foetus the same right to life as the mother and blocks any changes to legislation that would provide access to abortion services.

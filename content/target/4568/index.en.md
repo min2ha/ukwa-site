@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Joint Public Issues (Baptist, Methodist and United Reformed Churches): Nelson Mandela: leadership born of courage
-
 <p>A statement by Steve Hucklesby from the Joint Public Issues team of the Baptist, Methodist and United Reformed Churches of Britain, released on 6 December 2013.</p>

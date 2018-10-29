@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beer for Everyone
-
 Site featuring blogs detailing where to go to find the best and most interesting beer throughout the world, including festivals and breweries, and an associated Scottish beer festival.

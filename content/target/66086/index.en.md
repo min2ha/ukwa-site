@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Lords of the Blog: Life and Work in the House of Lords
-
 Blog entries from the House of Lords

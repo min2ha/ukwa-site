@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Britannia Naval Research Association
-
 ﻿﻿The Britannia Naval Research Association represents highly motivated individuals that collectively and actively aim to preserve, promote and research our global naval heritage

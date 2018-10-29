@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Half of the new Cabinet 'went to Oxbridge'
-
 None

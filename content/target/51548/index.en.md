@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Marannan 
-
 Spanish-langauge blog written by spanish students while traveling throughout Scotland. The primary subject matter is Scottish culture and tourism. 

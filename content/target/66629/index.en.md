@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# McAlpine & Co Limited
-
 The website of McAlpine & Co Limited, a manufacturer of plumbing products based in Glasgow, Scotland.

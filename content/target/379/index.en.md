@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hounslow Health and Wellbeing Board
-
 None

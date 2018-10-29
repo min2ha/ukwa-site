@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Spider Beer Company on Facebook
-
 Facebook page of a brewer based in Dunferline, Fife.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Solihull Independent Living
-
 None

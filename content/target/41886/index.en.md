@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Everything Baby
-
 Site of a social enterprise charity based in Inverness, Scotland, who specialise in recycling and selling baby and young children's clothes and accoutrements.

@@ -10,5 +10,3 @@
   "start_date": "2012-01-29T00:00:00Z"
 }
 
-# BBC Democracy Live - Cymru
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  General Sir Michael Rose: EU is 'eroding our sovereignty,' says former SAS commander
-

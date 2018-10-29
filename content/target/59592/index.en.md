@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Demeanour Customs - Suffolk Engineering Company
-
 We are a small engineering company that can offer you a complete service from design to manufacture. We are proud of our friendly and easy going approach to solving your problems and meeting your deadlines.

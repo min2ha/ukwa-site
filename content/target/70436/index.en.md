@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Association of Consultant Architects 
-
 Represents architects in specialist private practice in the UK.

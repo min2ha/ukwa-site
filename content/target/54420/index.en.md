@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Claire Jones, International Concert Harpist 
-
 Claire Jones is a International Concert Harpist and Recording artist with Silva Screen Classics.

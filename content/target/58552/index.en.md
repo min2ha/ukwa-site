@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Gareth Roberts
-
 Gareth Roberts is a jazz trombonist, Band Leader and Teacher from Aberystwyth. He plays in a wide variety of different Welsh bands including the Wales Jazz Composers Orchestra, the Heavy Quartet, Steve Waterman's Jazz Orchestra and his own quintet, for which he writes all the material himself.

@@ -10,5 +10,3 @@
   "start_date": "2013-10-25T00:00:00Z"
 }
 
-# Children's Rights in Wales | Hawliau Plant Yng Nghymru
-

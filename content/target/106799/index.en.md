@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Hanson MP Delyn
-
 David Hanson, Labour candidate for Delyn. He is also the current MP.

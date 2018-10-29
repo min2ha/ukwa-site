@@ -10,6 +10,4 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# Surplus Festival
-
 Surplus is a non profit, community style grassroots festival and a celebration of underground music, art and culture in the wild mountains of Wales.

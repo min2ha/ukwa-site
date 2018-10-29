@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tafwyl
-
 Website for the Tafwl arts and culture festival.

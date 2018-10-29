@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Llangynwyd Lower Community Council
-
 The community of Llangynwyd Lower Community Council lies within the boundaries of the County Borough of Bridgend.

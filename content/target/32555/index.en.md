@@ -10,6 +10,4 @@
   "start_date": "2015-11-14T09:00:00Z"
 }
 
-# Business Events in Wales
-
 Business Events in Wales started in 2001 is a collaboration between Logic Software and the Walker Consultancy. 

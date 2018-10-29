@@ -231,6 +231,4 @@
   "endDateText": "31-07-2009"
 }
 
-# European Parliament Elections 2009
-
 This collection of around 200 Internet sites was curated during and immediately after the European Parliament election campaign of 2009 by staff at the British Library. It consists of a representative sample of Pan-European, national and regional political party sites, candidate's campaign sites and blogs, manifestos of civil society organisations at national and European level, and comment from the traditional press, political analysts in academia, and individuals and communities sharing their thoughts online.

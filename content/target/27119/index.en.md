@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# British Academy of Cosmetic Dentistry (BACD)
-
 The British Academy of Cosmetic Dentistry was formed in November 2003 by a group of dentists. The aim is to create a dynamic, active group of dentists and laboratory technicians in order to create an environment where everyone can come together to share their knowledge and experiences.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Literature Across Frontiers
-
 Literature Across Frontiers (LAF) is a European Platform for Literary Exchange, Translation and Policy Debate and one of its aims is to develop intercultural dialogue through literature and translation and highlight lesser-translated literatures. They are based at Aberystwyth University.

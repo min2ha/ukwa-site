@@ -10,6 +10,4 @@
   "start_date": "2015-04-19T01:00:00Z"
 }
 
-# Later Life Ambitions
-
 <p>Later Life Ambitions brings together the collective voices of over a quarter of a million pensioners through the National Federation of Occupational Pensioners, the Civil Service Pensioners’ Alliance, and the National Association of Retired Police Officers Association.</p>

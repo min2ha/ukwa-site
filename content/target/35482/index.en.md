@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Undeb Cenedlaethol Athrawon Cymru (The National Association of the Teachers of Wales)
-

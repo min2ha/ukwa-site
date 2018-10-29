@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chloe Smith (Conservative Politician)
-
 Chloe Smith stood as Conservative candidate for Norwich North at the 2015 General Election. She was first elected to serve as MP for Norwich North in 2009 and re-elected in 2015. She stood for re-election in 2017 and was successful.

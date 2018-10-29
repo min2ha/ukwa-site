@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# LMFL, Language and Music for Life
-
 Language and Music for Life run a programme of intensive music and language courses to help gifted young people to develop their talents. The UK course are held in Llandovery.

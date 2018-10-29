@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Patrick O'Flynn Ukip on Twitter 
-
 None

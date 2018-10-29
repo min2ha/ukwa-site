@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Saint, The: St Andrews Student Newspaper: Devil’s Advocate: Should Britain leave the European Union?
-
 An article which posits two viewpoints about the EU referendum debate: the argument to Leave by Tom Bitirim, the argument to Remain by Emily Allen.

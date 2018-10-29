@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind Charity (@mindcharity) on Twitter
-
 Twitter page for mental health charity Mind

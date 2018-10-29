@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Esquire: The Latest Science On What Internet Porn Is Doing To Your Brain
-
 Article about online pornography and the negative effects it can have

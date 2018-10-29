@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cockermouth.org.uk
-
 None

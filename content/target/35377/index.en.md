@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:David Cameron is a Euro-savvy leader, but that won't mean much when it comes to the Brexit vote
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Plantlife Scotland
-
 Site of an organisation that works on the conservation of Scotland's flora, on the ground and with initiatives with the Scottish Government.

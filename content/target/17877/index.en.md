@@ -10,6 +10,4 @@
   "start_date": "2015-03-11T09:00:00Z"
 }
 
-# International Biometric Society: British and Irish Region
-
 The British Region of the International Biometric Society was founded in 1948 by statisticians and biologists of the time, including R. A. Fisher and J. B. S. Haldane. The British and Irish region was formed in 2006. The general objective of the society is to promote and extend the use of mathematical and statistical methods in pure and applied biological sciences.

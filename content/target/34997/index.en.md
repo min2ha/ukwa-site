@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Daniel Williams Artist
-
 Daniel Williams is based in his Abergavenny studio and 'celebrates the richness and intensity of colour through overlaying, combining and imposing colours on one another.' 

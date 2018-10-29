@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Isabel Robson (@freebridgend) on Twitter
-
 Isabel Robson is an Independent Parliamentary Candidate for Bridgend at the 2017 General Election.

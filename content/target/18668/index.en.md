@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Conversation, The: Bad King John: a rubbish reign which produced some good results
-

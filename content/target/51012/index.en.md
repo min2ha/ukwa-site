@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# British Bus Club
-
 A club dedicated to those that love British Made  Buses

@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Shakespeare Documented
-
 Website celebrating 400 years of William Shakespeare with an online exhibition documenting Shakespeare in his own time.

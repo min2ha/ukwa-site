@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Loughborough Elections Green Party 2017 
-
 We are raising funds to support the electoral campaign of Dr Philip Leicester in the Loughborough constituency.

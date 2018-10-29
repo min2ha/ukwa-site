@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Retail Bulletin, The
-
 The Retail Bulletin is an online independent retail news and information source for retail professionals and associated sectors.

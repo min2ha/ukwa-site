@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ian Russell (@IanIwrussell) on Twitter
-
 Twitter profile of Ian Russell, the Solidarity list candidate for Lothian region in the 2016 Scottish Parliamentary election.

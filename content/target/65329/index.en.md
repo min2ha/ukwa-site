@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gateways
-
 Site of a Church of Scotland parish church covering the communities of Hutton, Fishwick and Paxton, Scottish Borders.

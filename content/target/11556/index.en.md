@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Netball Scotland
-
 None

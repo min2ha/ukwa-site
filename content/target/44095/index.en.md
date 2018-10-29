@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Southern Uplands Partnership 
-
 Site of an organisation promoting the conservation of the environment of the Southern Uplands of Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Empire Café, The
-
 <p>The Empire Café is an exploration of Scotland’s relationship with the North Atlantic slave trade through coffee, sugar, tea, cotton, music, visual art, academic lectures, poetry, debate, workshops, historical walks, film and literature. The café will be based in the Briggait (home of the Merchant’s Steeple) in Glasgow’s Merchant City from 24th July - 1st August 2014. Part of Culture 2014.</p>

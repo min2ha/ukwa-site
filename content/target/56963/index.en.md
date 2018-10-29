@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health: A-to-Z Internet
-
 Mental Health Foundation Webpage about the Internet

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Blackford
-
 Ian Blackford, Scottish National Party candidate for Ross, Skye and Lochaber in the 2017 general election.

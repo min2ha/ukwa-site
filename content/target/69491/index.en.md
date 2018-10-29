@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Saint Francis Xavier & The National Shrine of Our Lady of Lourdes
-
 Site of a Scottish Roman Catholic parish church located in Carfin, Lanarkshire incorporating the national shrine to Our Lady of Lourdes.

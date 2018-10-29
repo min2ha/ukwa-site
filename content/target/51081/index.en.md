@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# South Wales Women's Hockey League
-

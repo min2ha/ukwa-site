@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Fishing farce shows why we must vote to leave EU 
-

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan De-Orllewin Cymru | South-West Wales Learning Centre
-
 Y Bont is the South-West Wales Welsh for Adults Learning Centre and is based at Swansea University.

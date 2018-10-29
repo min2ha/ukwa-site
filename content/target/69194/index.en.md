@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# IAWN: Integrated Arts & Writing Nexus
-
 'IAWN: Integrated Arts & Writing Nexus' was an online literature magazine that was published for a short period in 2017 and focused on independent Welsh writers.

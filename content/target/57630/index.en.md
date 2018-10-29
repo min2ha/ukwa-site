@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Airsoft Forums UK
-
 An online enthusiast community concerned with air soft war games. Discusses latest news, guns, & gear & loadouts, UK airsoft law and various other related topics.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South Devon and Torbay CCG
-
 None

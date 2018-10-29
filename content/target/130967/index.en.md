@@ -10,5 +10,3 @@
   "start_date": "2006-01-16T00:00:00Z"
 }
 
-# Byd y Beirdd
-

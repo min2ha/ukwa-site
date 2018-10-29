@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Widows for Peace through Democracy (WPD)
-
 Widows for Peace through Demoracy promote the equality of women, in particular widows, where they suffer discrimination through law or practice by providing information, advocacy and support services to promote their rights and entitlements as equal citizens.

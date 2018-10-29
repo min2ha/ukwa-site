@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# HuttonRUFC (@HuttonRUFC) on Twitter
-
 The official twitter page for Hutton RUFC. Hutton RUFC was founded in July 2007 by 31 people. 

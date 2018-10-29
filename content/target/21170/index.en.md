@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gemma Weir (@gemmacweir1) on Twitter (Workers Party candidate for Belfast North)
-

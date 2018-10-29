@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Verfassungsblog: A European Future for Scotland?
-
 A post about options for Scotland's possible future in Europe.

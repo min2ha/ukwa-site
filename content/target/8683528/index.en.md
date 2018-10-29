@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# wait til i tell ye
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Consulting Actuaries (ACA): General Election 2017: ACA manifesto calls on Parties to outline clear policy paths on the future of private and state pensions
-
 The ACA is calling for ‘joined up’ policies that boost savings and incomes in later life, whilst acknowledging these must keep within realistic spending targets for employers, employees and the State.

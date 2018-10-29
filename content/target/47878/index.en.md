@@ -10,6 +10,4 @@
   "start_date": "2016-12-17T09:00:00Z"
 }
 
-# Explore Art - Gracefield Arts Centre
-
 Site of an art gallery located in Dumfries, Dumfries & Galloway.

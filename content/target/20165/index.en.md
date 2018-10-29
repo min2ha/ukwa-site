@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gower Loonies
-
 This is Baron Barnes von Claptrap’s campaign website, Monster Raving Loony Party candidate for Gower.

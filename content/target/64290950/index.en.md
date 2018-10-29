@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# World Hepatitis Alliance
-
 The World Hepatitis Alliance is a not-for-profit international umbrella Non-Governmental Organisation (NGO). Our membership is composed of over 200 organisations who work in the field of viral hepatitis, representing every region of the world.

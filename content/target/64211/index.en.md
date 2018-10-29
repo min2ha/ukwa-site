@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hobkirk and Southdean Parish Church
-
 The website of Hobkirk and Southdean linked with Ruberslaw Parish Church.

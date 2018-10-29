@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Am I Pretty Now?: IS INSTAGRAM DAMAGING OUR SELF ESTEEM?
-
 Am I Pretty Now?: Blog Post about Instagram

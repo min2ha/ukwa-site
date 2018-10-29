@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Montrose Natural History and Antiquarian Society
-

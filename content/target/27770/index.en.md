@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: Plans to give a copy of Magna Carta to the United States for support in Second World War revealed in new exhibition
-

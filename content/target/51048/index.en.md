@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glenshee Ski Centre
-
 Site of a ski and snowboard (winter sports) centre at Glen Shee, near Braemar, Aberdeenshire.

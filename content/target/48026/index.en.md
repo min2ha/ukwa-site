@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Gŵyl Ifan
-
 Gŵyl Ifan is a Welsh folk dance festival held in Cardiff and is run by Cwmni Dawns Werin Caerdydd.

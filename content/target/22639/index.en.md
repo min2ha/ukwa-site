@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nicola Sturgeon denies backing Cameron: SNP leader says claims are 'categorically, 100% untrue' 
-
 None

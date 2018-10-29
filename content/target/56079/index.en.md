@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Ligali
-
 Ligali is an activist collective that challenges the misrepresentation of African people, culture and history in the British media. "We produce progressive Africentric media and education programmes that promote self determination, socio-political freedom, physical health and spiritual wealth."

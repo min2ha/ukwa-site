@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Dose Assessment Working Group (NDAWG)
-
 None

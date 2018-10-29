@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jonathan Chatfield (@jonathanchat) on Twitter (Liberal Democrats candidate for South East Cambridgeshire)
-
 Jonathan Chatfield stood as Liberal Democrats candidate for South East Cambridgeshire at the 2015 General Election but was not elected. 

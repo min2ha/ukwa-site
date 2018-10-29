@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Rural Economy, Newcastle University: Why Brexit? 
-
 Centre for Rural Economy Discussion Paper Series no.35

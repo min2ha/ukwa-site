@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Hafan Cymru
-
 Hafan Cymru is a charitable housing association that provides housing and support to men, women, their children and young people across Wales.

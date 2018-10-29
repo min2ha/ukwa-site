@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Gaelic4Parents on Facebook
-
 Facebook page for Gaelic 4 Parents, a hub for parents and children interested and involved in Gaelic Education.

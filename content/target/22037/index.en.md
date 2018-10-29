@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Rushworth (@leerushworth1) on Twitter (Labour candidate for Penrith and The Border)
-

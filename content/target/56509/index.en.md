@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Albrighton & District Historical Society
-
 Albrighton & District Historical Society inaugurated in 1969 exists to foster an interest in the histories of Albrighton, Donington, Boscobel, Tong and Boningale.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Zapnito
-
 Zapnito is a software company specialising in building networks for experts.

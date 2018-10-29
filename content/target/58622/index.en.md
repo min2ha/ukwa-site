@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Falkirk Community Trust : Memorial, Reflection, Restoration
-
 Falkirk Community Trust is compiling a list of local men, and women, who served in the armed forces and associated services, such as nursing.

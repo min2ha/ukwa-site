@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hutton RUFC 
-
 The official website of Hutton RUFC. Hutton RUFC was founded in July 2007 by 31 people. 

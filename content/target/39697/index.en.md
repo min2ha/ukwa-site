@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kyle Thornton for Glasgow Cathcart on Facebook
-
 Facebook page of Kyle Thornton, Scottish Conservative & Unionist candidate for Glasgow Cathcart in the Scottish Parliament Elections on May 5th 2016.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alliance for Inclusive Education
-
 They are a national network led by disabled people and supported by allies that include parents, educators and Head Teachers. The Alliance has campaigned successfully, over the last 20 years, to remove the legal conditions which have served to limit the rights of children with Special Educational Needs to secure a supported mainstream placement. 

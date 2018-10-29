@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Business Курьер [The Business Courier]
-
 Online Russian-language newspaper published in the UK.

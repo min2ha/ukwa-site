@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T09:00:00Z"
 }
 
-# President of Ireland
-
 Website for the President of Ireland

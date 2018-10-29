@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Economic Affairs: "Planes won't fly"
-
 This briefing explains that the UK and the EU would still be able to make arrangements which are already extended to non-EU members, such as an ‘air services agreement’ to keep planes flying. This would require flexibility on both sides, but the mutual interests in protecting aviation would be overwhelming.

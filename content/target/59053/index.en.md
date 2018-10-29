@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Qatar Partnership (@BLQatar) on Twitter 
-
 @Britishlibrary @QF @QNLib digitising archive material, sounds & visual arts relating to Gulf history & medieval scientific manuscripts

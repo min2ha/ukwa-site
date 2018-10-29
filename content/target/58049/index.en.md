@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffington Post: Compulsory Mental Health Education Is Essential In Schools
-
 Featured blog on the importance of mental health as a compulsory subject taught in UK schools

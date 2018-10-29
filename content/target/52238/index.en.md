@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Gwent Now
-
 According to the site, 'Gwent now is a community messaging system and engagement tool used by Gwent Police, Office of Police and Crime Commissioner and our partners to keep residents informed about crime and incidents in the community using the most update to date technology'.  

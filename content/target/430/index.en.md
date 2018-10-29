@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swindon Health and Wellbeing Board
-
 None

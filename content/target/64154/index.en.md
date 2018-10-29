@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Stonehouse
-
 Site of an ecumenical parish church located in Stonehouse, Lanarkshire, with members of the Church of Scotland and the United Reformed Church worshipping together.

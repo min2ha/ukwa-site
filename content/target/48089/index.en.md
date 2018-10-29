@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip’s, Dorridge, with St. James’, Bentley Heath
-
 Official website of St. Philip’s, Dorridge, with St. James’, Bentley Heath.

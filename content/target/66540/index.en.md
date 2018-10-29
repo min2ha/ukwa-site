@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meets European Roundtable of Industrialists: 30 May 2018
-
 The Prime Minister welcomed representatives from the European Roundtable of Industrialists (ERT) to Downing Street and set out the Government’s desire to hear views from businesses in the UK and across Europe as the UK prepares to leave the EU.
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Telford Labour Party representing the electoral constituency of Telford
-
 Telford Labour Party. The electoral constituency of Telford was created for the 1997 election, a breakaway from the longstanding Wrekin constituency.

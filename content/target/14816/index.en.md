@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Amy MacDonald, Mogwai, Frightened Rabbit and...
-
 Posted by Yes Scotland at 7pm on 14th September 2014.

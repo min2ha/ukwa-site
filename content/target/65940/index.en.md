@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Classroom
-
  A research project to explore how the First World War affected education.

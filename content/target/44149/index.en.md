@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ashley Fox (Conservative MEP for the South West of England and Gibraltar)
-
 Ashley Fox was first elected to the European Parliament in 2009 and was re-elected in 2014. He was elected as Leader of the Conservative MEPs in November 2014. Although he voted to remain in the EU in the June 2016 referendum, he accepts the result and will focus his energies on getting the very best possible deal from the EU in a post-Brexit world. 

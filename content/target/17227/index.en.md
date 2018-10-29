@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: BNP fall complete: Racist party can't find enough candidates to qualify for BBC election broadcast
-
 None

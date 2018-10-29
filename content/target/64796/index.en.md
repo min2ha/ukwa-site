@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-#  Rumney Pottery
-
 Rumney Pottery is located on the banks of the Rhymney River in Cardiff and is a family run firm for more than seven generations. The pottery specialises in making unique commemorative wares.

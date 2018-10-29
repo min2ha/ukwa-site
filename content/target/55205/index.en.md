@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Hampstead Theatre
-
 Hampstead Theatre began in Moreland Hall, Holly Bush Vale, 1959. Known then as ‘The Hampstead Theatre Club’, it was founded by the British theatre director James Roose-Evans.

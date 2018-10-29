@@ -10,5 +10,3 @@
   "start_date": "2015-06-01T00:00:00Z"
 }
 
-# Ash Wales
-

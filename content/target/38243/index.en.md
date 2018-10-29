@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Historians4intheEU (@Historians4intheEU) on Twitter
-

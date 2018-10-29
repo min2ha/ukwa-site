@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Voters could get early in/out EU referendum, David Cameron says, as general election campaign gets underway
-
 None

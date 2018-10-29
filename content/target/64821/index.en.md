@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Robin Walker Speech at Community Outreach event
-
 Minister Robin Walker gave a speech to French ex-pats at an Outreach Event in London in April 2018

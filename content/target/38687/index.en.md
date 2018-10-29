@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Altany Craik (@Altany) on Twitter
-
 Twitter profile of Altany Craik, Scottish Labour candidate for Glenrothes in the 2017 general election.

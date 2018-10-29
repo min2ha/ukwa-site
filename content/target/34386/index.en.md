@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Mason MSP
-
 John Mason is the Scottish National Party (SNP) member of the Scottish Parliament for Glasgow Shettleston.

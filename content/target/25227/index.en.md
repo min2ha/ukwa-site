@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip 2015 election manifesto – key points on Europe, immigration and the economy
-
 None

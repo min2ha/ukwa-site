@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fans For Foodbanks (@Fans_Foodbanks) on Twitter
-
 A joint initiative between different supporters groups for Huddersfield Town football club to raise money and supplies for food banks in their area. They have also worked with other clubs supporters groups to set up similar initiatives in their areas.

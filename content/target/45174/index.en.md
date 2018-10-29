@@ -10,6 +10,4 @@
   "start_date": "2016-08-25T11:00:00Z"
 }
 
-# basedrones
-
 Malcolm Combe's blog; a Scots lawyer working at the University of Aberdeen.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Zeticula Ltd
-
 Site of a published based in Edinburgh, Scotland.

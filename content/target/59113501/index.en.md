@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Innovations in Dementia CIC
-
 None

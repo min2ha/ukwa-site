@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Media is 'obsessed' with TV debates says Prime Minister
-
 None

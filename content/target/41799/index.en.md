@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Transgender Scotland
-
 Site of a directory for resources for transgender people in Scotland.

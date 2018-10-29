@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: The Legacy of Magna Carta
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Katie Cuddon
-
 Katie Cuddon works with clay and ceramics and is a Senior Lecturer in Fine Art at Newcastle University.

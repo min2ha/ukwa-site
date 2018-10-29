@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aamer Anwar: Voting for Independence?
-
 <p>An article on voting for independence, written by Aamer Anwar, published in the Scottish Sun on Sunday on 10th August 2014.</p>

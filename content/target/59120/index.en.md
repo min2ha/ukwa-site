@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# North Wales Mammal Group | Grŵp Mamaliaid Gogledd Cymru
-
 The North Wales Mammal Group was establishged in 2015. The aim is to aid mammal conservation through research, education and awareness.

@@ -11,6 +11,4 @@
   "subject": "Canada UK"
 }
 
-# Scott Polar Research Institute (SPRI)
-
 None

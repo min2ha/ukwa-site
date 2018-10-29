@@ -43,6 +43,4 @@
   "endDateText": "01-10-2008"
 }
 
-# Smoking Ban UK 2007
-
 This collection was created to record events surrounding, and responses to, the ban on smoking in all public places across the UK.

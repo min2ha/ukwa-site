@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: the draft withdrawal agreement
-
 On 28 February 2018 the European Commission published a 119-page draft withdrawal agreement (WA). This put into legal language the conclusions of the negotiations in phase one, which were agreed in a Joint Report on 8 December 2017, but included other draft Articles on matters not covered by the Joint Report, as well as detailed provisions on broad areas of agreement. Amended versions were published on 15 and 19 March, and the latter was the basis for discussion by the European Council on 22-23 March

@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Paul Hawkins
-
 <p>Paul Hawkins is a published poet and performer and he runs a small independent publisher/press, which publishes pocket sized anthology 'Boscombe Revolution', a Bristol women writers pamphlet and a fanzine.</p>

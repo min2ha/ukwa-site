@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Friends of the Earth Scotland
-
 Site of the Scottish branch of the UK wide environmental campaign group working towards a sustainably healthy society and environment.

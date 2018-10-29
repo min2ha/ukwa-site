@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Shieling Project, The / An Àirigh
-
 Site of an educational project and in Glen Strathfarrar, near Beauly, focusing on outdoor living – from looking after our livestock to making buildings, and various sustainable work techniques.

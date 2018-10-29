@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Royal Cornwall Show
-
 None

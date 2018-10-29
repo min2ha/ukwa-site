@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Red Youth
-
 Website of Britain's revolutionary Marxist-Leninist youth organisation.

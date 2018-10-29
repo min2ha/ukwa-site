@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green Party manifesto: summary of key policies 2015
-
 None

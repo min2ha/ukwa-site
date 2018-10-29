@@ -10,6 +10,4 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# Carol Lovekin
-
 Carol Lovekin is a a writer of stories and describes herself as a feminist & a flâneuse. Her work is published by Honno, the Welsh Women’s Press. 

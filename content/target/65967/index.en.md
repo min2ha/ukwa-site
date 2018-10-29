@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Untold Stories: Birmingham's Wounded Soldiers from WW1
-
 The project engages local schools and members of the public in a series of community workshops to research the untold stories of wounded soldiers during WW1 returning to Birmingham.

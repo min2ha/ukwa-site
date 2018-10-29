@@ -10,5 +10,3 @@
   "start_date": "2014-01-14T00:00:00Z"
 }
 
-# Grwp Eglwysi Crymych Group of Churches
-

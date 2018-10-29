@@ -10,6 +10,4 @@
   "start_date": "2015-08-10T10:00:00Z"
 }
 
-# Shoreditch Trust: Shoreditch Festival
-
 Festival produced by Shoreditch Trust

@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Clan Donnachaidh Society
-
 Site of a society interested in the history, genealogy and traditions of the Clan Donnachaidh, based in Perthshire Scotland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Race on to find British expats in Europe ahead of Brexit vote
-
 The article talks about the difficulties in finding all the British citizens that live abroad. They say that so far only 5% have registered to vote. 

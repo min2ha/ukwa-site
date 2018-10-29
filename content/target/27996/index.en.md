@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Rhwydwaith Ymchwil Iechyd Ysgolion | School Health Research Network 
-
 The aim of the School Health Research Network is to improve the health and wellbeing of young people by increasing the quality, quantity and relevance of school-based health improvement research in Wales. 

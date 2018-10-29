@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Financial traders ponder the fallout of a 'dead heat' election
-
 None

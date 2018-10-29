@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# London Skeptics in the Pub
-
 London Skeptics in the Pub is a monthly lecture series in the Monarch pub in Camden, covering science, technology, history, philosophy and related current affairs. It's open to people from every background and was founded by Dr Scott Campbell in 1999.

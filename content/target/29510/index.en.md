@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nairn Book & Arts Festival
-
 Nairn Book & Arts Festival

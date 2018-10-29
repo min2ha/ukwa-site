@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael’s, Highgate
-
 St. Michael’s is the parish church of Highgate village, serving and joined to the local community. 

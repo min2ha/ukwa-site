@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jessica Morden Member of Parliament for Newport East
-
 Jessica Morden, Labour candidate for Newport East. She is also the current MP.

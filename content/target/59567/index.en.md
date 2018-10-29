@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# History of Gaelic Scripture
-
 Site recording the development and history of the Bible in Scottish Gaelic.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Katherine Dunne (@katherinedunne) on Twitter (Labour  Politician)
-
 Katherine Dunne stood as Labour Party candidate for Twickenham in the 2017 General Election but was not elected.

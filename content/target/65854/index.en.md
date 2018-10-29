@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Afro Tech Fest
-
 A two-day tech festival by and for black people of African and Caribbean heritage.

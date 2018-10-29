@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Kay Burley hits back after claims of bias against Ed Miliband in TV debate 
-
 None

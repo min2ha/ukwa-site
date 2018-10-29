@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Milifans and William Hague as 007: please, make it all stop…
-
 None

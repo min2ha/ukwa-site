@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Commemoration – Announcing a second exhibition in 2017
-
 In 2014 the museum marked this important occasion with the exhibition “WW1: The Hadhams on the Home Front”, the event “WW1: The Village Show” and a series of talks including “Warhorse, Being Joey”. This project was funded by HLF’s WW1 Then and Now programme.

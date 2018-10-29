@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: An extra 30,000 police officers face the axe if Conservatives win the election
-
 None

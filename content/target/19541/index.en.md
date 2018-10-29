@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: VIDEO & PHOTOS: Three new coins produced for 2015 landmarks
-

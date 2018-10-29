@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# JS Wright & Sons
-
 A mechanical contractor based in Birmingham. Was contracted by Witt UK to work on the Grenfell Tower ventilation systems during the refurbishment project that took place in 2015-2016.

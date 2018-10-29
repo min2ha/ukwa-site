@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP investigates candidate's 'Jihadi John' suicide tweet
-
 None

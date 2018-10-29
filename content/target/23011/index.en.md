@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Clark (Labour candidate for Gillingham and Rainham)
-

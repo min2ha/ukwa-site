@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Duns and District Parishes, Church of Scotland
-
 Site of a group of Church of Scotland churches, Bonkyl, Cranshaws, Duns, Edrom and Gavinton, serving the comminities of Bonkyl, Duns, Edrom, Langton and Lammermuir in the Scottish Borders [historically Berwickshire].

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron is a winner now – and his Eurosceptic backbenchers know it
-
 None

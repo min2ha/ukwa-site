@@ -10,6 +10,4 @@
   "start_date": "2015-05-08T08:00:00Z"
 }
 
-# University of Southampton
-
 Official website of the University of Southampton.

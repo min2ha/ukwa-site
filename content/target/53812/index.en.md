@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jarella francis (Green Party  Politician)
-
 Jarelle Francis stood as Green Party candidate for Tottenham in the 2017 General Election but was not elected. This is the online campaign to fund Haringey Green Party's local candidate.

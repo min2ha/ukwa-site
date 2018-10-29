@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Central SU (@CentralSU) on Twitter
-
 The official twitter of the Students' Union at the Royal Central School of Speech & Drama, University of London

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Coburn MEP
-
 David Coburn, UK Independence Party (UKIP) candidate for Kirkcaldy and Cowdenbeath in the 2017 general election.

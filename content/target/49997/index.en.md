@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bethany Pentecostal Church
-
 A local Church situated in the heart of the Erdington area of Birmingham, England.

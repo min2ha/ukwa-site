@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Petherton
-
 This site is mainly about North Petherton with pictures old and new and some local history, it also contains information on North Newton, Huntworth, Athelney, Burrow Bridge and other villages. In the past there was a large royal estate in the North Petherton area, the North Petherton Hundred grew out of the former royal estate.

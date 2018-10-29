@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ewan Hoyle (@ewanhoyle) on Twitter
-
 Twitter profile of Ewan Hoyle, Scottish Liberal Democrat candidate for Glasgow South in the 2017 general election.

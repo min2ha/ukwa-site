@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Kirkcaldy Islamic Centre
-
 Site of a mosque and centre for the local Islamic community in Kirkcaldy, Fife.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC Question Time: Ed Miliband savaged over economic record during leaders' special
-
 None

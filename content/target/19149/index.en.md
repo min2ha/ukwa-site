@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: David Cameron On Letterman: 7 Other Magna Cartas That May Have Confused The PM
-

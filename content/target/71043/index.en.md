@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Dolls House Emporium Discussion Forum
-
 A UK-based Dolls House Discussion Forum

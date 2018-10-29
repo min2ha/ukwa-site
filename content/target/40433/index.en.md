@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hillingdon and the First World War
-
 The project will tell the story of Hillingdon, its residents, and their ancestors through the First World War using the archive and museum collections of the Hillingdon Local Studies, Archives and Museum Service.

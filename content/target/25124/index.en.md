@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Outrage after Labour leader says crisis in the Mediterranean is PM's fault
-
 None

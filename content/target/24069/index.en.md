@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Cameron 'must make case' for EU membership, says Tusk
-
 None

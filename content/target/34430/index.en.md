@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Social Europe
-
 Social Europe (SE) is a leading digital media publisher. We use the values of ‘Social Europe’ as a viewpoint to examine issues in politics, economy and employment & labour and are committed to publishing cutting-edge thinking and new ideas from the most thought-provoking people. Tackles issues such as Brexit, the refugee crisis, and work in the digital society

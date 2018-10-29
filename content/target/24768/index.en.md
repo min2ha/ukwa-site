@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Ashley Dickenson (Christian Peoples Alliance candidate for Carshalton and Wallington) on Facebook
-

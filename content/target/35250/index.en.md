@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Calum Martin (@CalumMartin1) on Twitter
-
 The Twitter profile of Calum Martin, RISE Alliance candidate for Lothian in the 2016 Scottish parliament election.

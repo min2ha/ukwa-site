@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office:  PM speech on the short-term economic impact of a vote to leave the EU
-
 The Prime Minister and the Chancellor spoke at B&Q headquarters, Eastleigh about the short-term economic impact of a vote to leave the EU.

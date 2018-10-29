@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# BBC News: David Davis claims 'decisive steps forward' in Brexit talks
-
 "Decisive steps forward" had been made in the September 2017 round of UK-EU talks, Brexit Secretary David Davis said. But EU negotiator Michel Barnier said there were still "big gaps" between the sides on some of the withdrawal issues.

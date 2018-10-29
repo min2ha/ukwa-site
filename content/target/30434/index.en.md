@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christian Endeavour Union of Great Britain & Ireland
-
 Christian Endeavour Union of Great Britain & Ireland is a part of the Worldwide Christian Endeavour Movement which has been involved in the training of Christians helping them to be more committed to Jesus and to be involved in most, if not all, aspects of Church life.

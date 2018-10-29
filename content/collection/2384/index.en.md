@@ -190,6 +190,4 @@
   "endDateText": ""
 }
 
-# Latin America UK
-
 A collection of Internet sites produced by Latin American communities in the UK or by UK organisations with direct links to these communities and to the region. The sites archived include those of charities, educational and support groups, solidarity campaigns, Anglo-Latin American societies, news and information services for Latin Americans in the UK, commercial and cultural organisations and one-off events. 

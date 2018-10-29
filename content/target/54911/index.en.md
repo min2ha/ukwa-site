@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Marsden Banner Group
-
 Marsden Banner Group website: Marsden Lodge represented the men who worked at Whitburn Colliery (Also known as Marsden Colliery). The Whitburn Coal Company began sinking Marsden Colliery in 1874. Coal production started in 1882. In 1891 the Whitburn Coal Company hit financial difficulties and the colliery was absorbed into the Harton Coal Company. The colliery was abandoned in 1968  the final shift came up from the shaft bottom on 7th June.

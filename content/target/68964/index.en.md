@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Aidan's, Wishaw
-
 Site of a Scottish Roman Catholic church located at Wishaw, Lanarkshire.

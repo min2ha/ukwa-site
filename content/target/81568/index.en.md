@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# UK Global Learning Association for Schools (UKGLAS)
-
 UK GLOBAL LEARNING ASSOCIATION FOR SCHOOLS (UKGLAS) is a co-operative network which exists to support a range of professionals who have a role in supporting the international and/or global dimension in education.

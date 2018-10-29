@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: Gender identity: What do legal changes have to do with women's rights?
-
 A news article on changes to laws on changing legal gender

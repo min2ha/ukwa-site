@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EuroPeersUK (@EuropeersUK) on Twitter
-
 A network of people all around the UK who have taken part in study, volunteering or other educational projects funded by Erasmus+/EU youth programmes

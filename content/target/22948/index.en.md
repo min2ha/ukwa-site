@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Seth Cruse (@cruse_seth) on Twitter (TUSC candidate for Folkestone and Hythe)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Much Better Adventures
-
 Adventure Holidays, Weekend Breaks and Ski Chalet Holidays

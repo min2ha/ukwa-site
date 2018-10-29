@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip now resembles its enemies, just like Animal Farm's pigs
-
 None

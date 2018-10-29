@@ -10,5 +10,3 @@
   "start_date": "2012-10-11T00:00:00Z"
 }
 
-# Garw Valley Garden History & Heritage
-

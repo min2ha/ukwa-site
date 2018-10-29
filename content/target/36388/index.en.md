@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Daily Express, The: Cameron’s failure means he should campaign to quit, says ROSS CLARK
-
 Comment by Ross Clark

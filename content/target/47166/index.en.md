@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Supreme Court judge's speech that makes me fear Brexit could be bogged down for years  
-

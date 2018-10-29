@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and air quality
-
 This paper gives an overview of how EU air quality legislation and policy is currently enshrined in the UK legal framework. It sets out the speculation and what is known so far about what could change in respect of air quality following Brexit.
 

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Softricks
-
 No More Looking for trending tech,finance,tricks,global news anywhere softricks has got it all for you in one place.

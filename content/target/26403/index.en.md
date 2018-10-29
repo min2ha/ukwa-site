@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: England must vote to ensure Britain’s liberal centre holds
-
 None

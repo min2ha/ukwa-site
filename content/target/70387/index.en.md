@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Speech celebrating the launch of the Export Strategy
-

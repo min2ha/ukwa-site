@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Chartered Institute of Credit Management
-
 CICM the recognised standard in credit management. Providing educational training, recruitment & advisory services in export, trade and consumer credit.

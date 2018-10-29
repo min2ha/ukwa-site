@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradley Wiggins faces a fight for his reputation in wake of Wada hack
-
 Questions surround Tour de France winner and British Olympic champion’s use of medical certificates for banned substances.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: "1 in 5 college students have anxiety or depression, new report reveals - and experts blame selfies"
-
 Web article about "selfies" causing anxiety

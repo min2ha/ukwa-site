@@ -10,6 +10,4 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# V&A Dundee
-
 A design museum in Dundee, established by the Victoria and Albert Museum (V&A) in London; includes permanent galleries of Scottish design and programmed exhibitions of international design.

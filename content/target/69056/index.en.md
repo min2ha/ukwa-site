@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# British Oncology Pharmacy Association (BOPA)
-
 BOPA is the British Oncology Pharmacy Association, founded in the autumn of 1996 and grew out of the United Kingdom Clinical Pharmacy Association (UKCPA).

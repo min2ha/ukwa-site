@@ -10,6 +10,4 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# Brookhouse Pottery
-
 David and Margaret Frith are potters who live and work in North Wales.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Credit Card Guide
-
 None

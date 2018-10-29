@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Open Democracy
-
 Open Democracy is a digital commons - a pluralist, online space free and open to all - covering world affairs, ideas and culture. 

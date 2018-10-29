@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peebles Rovers Football Club
-
 Weebly site for a Scottish amateur football club based in Peebles, Scottish Borders.

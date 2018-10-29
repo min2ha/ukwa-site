@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# RetroCollect Forum
-
 An online forum for both classic game collectors and retro gamers. Discussing topics related to modern and classic gaming. 

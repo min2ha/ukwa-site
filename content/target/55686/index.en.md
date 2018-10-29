@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Maes Rhos Rhyfel | Blog yw Awdur Dyfed Edwards
-
 This is the blog for the Welsh author, Dyfed Edwards. He has won the Drama medal twice at the National Eisteddfod.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Praxis Community Projects
-
 Praxis Community Projects is committed to working with vulnerable migrants. We are deeply concerned for the safety and well being of refugees, asylum seekers, refused asylum seekers, people with limited or no recourse to public funds as a result of their immigration status, young unaccompanied asylum seekers, victims of human trafficking, foreign national offenders and others who find it difficult to settle in the UK.

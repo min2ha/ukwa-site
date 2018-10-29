@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Stop TTIP
-
 A group concerned with  stopping Transatlantic Trade and Investment Partnership (TTIP) , a ‘free trade’ agreement between the US and the EU coming in to effect.

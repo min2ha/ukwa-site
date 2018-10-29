@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: STOCKING UP Theresa May defends stockpiling food and medicines for Brexit saying she’s being ‘sensible’ in preparing for a ‘no deal’
-
 Theresa May defended stockpiling food and medicine for life after Brexit - saying she was being “sensible” in preparation for potentially leaving the EU without a deal. The Prime Minister said she was working round the clock for ‘every eventuality’ and people should not panic – but instead be comforted by that news. She was backed up by her Chancellor Philip Hammond, who agreed it was a "responsible thing for a government to do”. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pauline Stewart on Facebook
-
 This is the Facebook page of Pauline Stewart, the Scottish Green Party candidate for Berwickshire, Roxburgh and Selkirk in the UK General Election on the 7th May 2015.

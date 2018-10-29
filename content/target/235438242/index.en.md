@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lambeth Palace on Instagram
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Safety Net Advice and Support Centre
-
 We support the recovery of those affected by Rape, Sexual Abuse and Domestic Violence.

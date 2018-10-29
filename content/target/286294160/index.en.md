@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Jonathan Taylor
-
 <p>Official website of the writer and academic Jonathan Taylor.</p>

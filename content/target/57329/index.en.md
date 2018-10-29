@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Assembly: Northern Ireland’s agri-food sector – background and possible ‘Brexit’ considerations
-
 Research and Information Service Briefing Paper on the agriculture and food processing sectors post-Brexit.

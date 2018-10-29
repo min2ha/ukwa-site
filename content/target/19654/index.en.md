@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Party Tatton Constituency
-
 Website of Labour Party Tatton Constituency, providing local, national and party news.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Peter Grant MP
-
 Peter Grant, Scottish National Party Member fo Parliament for Glenrothes in the 2017 general election.

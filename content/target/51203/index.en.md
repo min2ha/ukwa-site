@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Music in the Vale
-
 Music in the Vale was established in 1985 in the format of free concerts to allow locals to display their various talents in the Vale of Glamorgan.

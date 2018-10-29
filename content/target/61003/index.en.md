@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Ceri Thomas Art
-
 Ceri Thomas is an artist, art historian and curator based in South Wales. His work expresses his fascination with the history, art and culture of modern and contemporary Wales especially addressing aspects of twentieth-century south Wales. He is now an elected member of the Royal Cambrian Academy of Art (RCA).

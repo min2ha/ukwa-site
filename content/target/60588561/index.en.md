@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Too Much To Say For Myself
-
 Blog run by Cath Elliott, a British freelance writer, blogger and researcher, feminist and a trade union activist. 

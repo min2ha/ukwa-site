@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Gwent Country History Association
-

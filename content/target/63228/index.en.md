@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Science Museum Blog: Stephen Hawking
-
 Science Museum blog with posts about Stephen Hawking

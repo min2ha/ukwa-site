@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# St Davids City of Culture Bid 2021
-
 This is the site for St Davids and the Hundred of Dewisland bid to become UK City of Culture in 2021.

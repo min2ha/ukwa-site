@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Runcorn and Widnes World
-
 None

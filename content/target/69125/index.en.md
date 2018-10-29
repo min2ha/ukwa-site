@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beat (@beatED) on Twitter
-
 Twitter account for the eating disorder charity Beat

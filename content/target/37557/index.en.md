@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Students for Britain (@uniforbritain) on Twitter
-
 Student group campaigning for the UK to leave the EU

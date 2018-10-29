@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cartooning the Road to War
-
 Cartooning the Road to War is a selection of the pre-1914 newspaper cartoons of Joseph Morewood Staniforth (‘JMS’) which originally appeared in the News of the World, the Western Mail, and the Cardiff evening paper the Evening Express. The cartoons document the cartoonist’s response to the evolving international and diplomatic situation that resulted in the outbreak of hostilities in the summer of 1914. The Cartooning the Road to War is part of the Cartooning the First World War project, supported by the Heritage Lottery Fund and based at Cardiff University.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-27T10:00:00Z"
 }
 
-# Islay Hotel, The: Events and Festivals on Islay
-
 Events and Festivals on Islay organised The Islay Hotel

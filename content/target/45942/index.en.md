@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Dachaigh airson Stòras na Gàidhlig (DASG)
-
 The Digital Archive of Scottish Gaelic, an online repository of digitised texts and lexical resources for Scottish Gaelic.

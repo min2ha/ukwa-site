@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Selhurst Park
-
 Selhurst Park is an association football stadium located in the London suburb of Selhurst in the Borough of Croydon. It is the home ground of Crystal Palace Football Club playing in the Premier League. 

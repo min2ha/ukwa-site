@@ -10,5 +10,3 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Parish of Cadoxton-Juxta-Barry, The 
-

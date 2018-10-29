@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harper Adams Rugby (@haurugby) on Twitter
-
 The official Twitter account of Harper Adams Rugby Club.

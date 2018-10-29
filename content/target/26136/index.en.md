@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Stonewall: General Election 2015
-
 Stonewall is a lesbian, gay and bisexual rights charity in the UK.

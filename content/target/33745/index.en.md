@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Marketplace
-
 Digital Marketplace allows finding technology or people for digital projects in the public sector. 

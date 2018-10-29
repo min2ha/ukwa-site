@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natalie Bennett, Green Party Leader (candidate for Holborn & St Pancras)
-
 "Standing up for what matters" Natalie Bennett  Green Party Parliamentary Candidate for Holborn+ St Pancras at  the 2015 General Election but was not elected.  

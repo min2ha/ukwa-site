@@ -10,5 +10,3 @@
   "start_date": "2010-02-22T00:00:00Z"
 }
 
-# Ann Lenny - Oriel Ffotograffiaeth - Photographic Gallery
-

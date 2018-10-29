@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Clementine Schneider
-
 Clementine Schneider is a French photographer based in Cardiff. As of 2019, she is currently working on a project located in the South Wales Valleys, in collaboration with Charlotte James and youth clubs of the region.

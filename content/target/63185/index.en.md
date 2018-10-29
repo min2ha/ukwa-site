@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Keir Starmer: ‘We cannot allow Labour to break apart over Brexit’
-

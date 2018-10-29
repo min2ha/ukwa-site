@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T02:00:00Z"
 }
 
-# Care and Social Services Inspectorate Wales (CSSIW)
-
 <p>Care and Social Services Inspectorate Wales (CSSIW) is the governmetnal body that regulates and inspects to improve care and social services for people in Wales. They are the regulator for social care and social services in Wales, from child minders and nurseries to homes for older people.</p>

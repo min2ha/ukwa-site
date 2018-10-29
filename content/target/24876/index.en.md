@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ed Miliband (@Ed_Miliband) on Twitter (Labour  Politician)
-
 Ed Miliband stood as labour candidate for Doncaster North at the 2017 General Election and was successful. He was first elected to serve as the MP for Doncaster North in 2005 and re-elected in 2010  and 2015. He stood for re-election again in 2017 and was successful.

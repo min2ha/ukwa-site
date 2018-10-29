@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James MacCleary (@JamesMacCleary) on Twitter (Liberal Democrats candidate for Tunbridge Wells)
-
 James MacCleary stood as Liberal Democrats candidate for Tunbridge Wells at the 2015 General Election but was not elected. 

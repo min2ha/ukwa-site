@@ -11,6 +11,4 @@
   "subject": "English Language"
 }
 
-# English Subject Centre - The Higher Education Academy
-
 None

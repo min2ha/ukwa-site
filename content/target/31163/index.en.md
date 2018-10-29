@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# British Library: Voices of Science: Geoff Tootill
-
 Interview with Geoffrey Tootill electrical engineer and computer designer.

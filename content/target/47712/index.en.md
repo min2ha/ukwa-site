@@ -10,6 +10,4 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-#  Scottish Christian.com
-
 Site listing and providing online links to Christian organisations and churches throughout Scotland and regardless of denomination, while promoting use of the internet for Scottish Christians.

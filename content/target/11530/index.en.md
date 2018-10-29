@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Boxing Wales
-
 Original and exclusive news, interviews, fight reports and features about Welsh boxing since 2012. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: No means testing for pensioner benefits - David Cameron
-
 None

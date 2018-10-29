@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oliver Dingley (@OliverDingley) on Twitter
-
 The twitter profile of Oliver Dingley, member of Team England for the Glasgow 2014 Commonwealth Games.

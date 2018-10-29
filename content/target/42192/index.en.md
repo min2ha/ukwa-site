@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bristol Anarchist Black Cross – Prisoner Support 
-
 Website of Bristol Anarchist Black Flag, published as an information resources for prisoner support.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T11:00:00Z"
 }
 
-# Joe Tree
-
 Website and blog of Joe Tree, BAFTA Award-winning designer and photographer.

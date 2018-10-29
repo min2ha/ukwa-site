@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# HOME Presteigne, a cooperative for housing
-
 HOME Presteigne is a cooperative organisation for housing. It was set up so that people of the Presteigne area could plan, build and refurbish sustainable and affordable homes for the future.

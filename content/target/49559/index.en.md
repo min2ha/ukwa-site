@@ -10,6 +10,4 @@
   "start_date": "2017-02-21T09:00:00Z"
 }
 
-# Do It London
-
 The London HIV Prevention Programme (LHPP) is a London-wide sexual health promotion initiative aimed at increasing HIV testing and promoting safer sex to all residents in the capital.

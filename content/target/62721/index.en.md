@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oxnam Kirk
-
 Site of a Church of Scotland parish church at Oxnam Parish, Scottish Borders (formerly Roxburghshire).

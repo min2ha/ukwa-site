@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Simon Community Scotland
-
 Site of a Scottish charity working towards alleviation of the causes and effects of homelessness.

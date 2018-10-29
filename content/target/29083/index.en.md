@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Derbyshire Green Party
-
 Website of Derbyshire Green Party, providing information on meetings and events, Derby city council elections, campaigns and local and national news and opinion.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Leeds International Contemporary Artists’ Book Fair
-
 Site devoted to the annual fair and associated exhibitions and publishers in Leeds

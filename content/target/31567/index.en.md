@@ -10,6 +10,4 @@
   "start_date": "2015-10-21T10:00:00Z"
 }
 
-# Sgeulachd Ghoirid, An
-
 A support resource for pupils, students or individuals with an interest in the short stories which appear in Scottish Gaelic literature.

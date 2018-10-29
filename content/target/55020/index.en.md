@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Cyberterrorism Project
-
 A multidisciplinary, multi-institution project to facilitate debate around a series of core questions relating to cyberterrorism

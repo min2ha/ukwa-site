@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cllr Dan Thomas (@Daniel_Thomas81) on Twitter 
-
 Cllr Dan Thomas is the Conservative Candidate for Islwyn at the 2017 General Election.

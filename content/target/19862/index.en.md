@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jac o' the North: Interpretating Wales from a Right of Centre Nationalist perspective
-
 A blog looking at Wales and Welsh life from a right of centre nationalist perspective.

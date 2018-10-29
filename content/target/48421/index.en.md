@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Our panel’s verdict on Theresa May’s Brexit speech
-

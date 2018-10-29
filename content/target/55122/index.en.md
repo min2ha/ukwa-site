@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Clandestine Cake Club
-
 A club dedicated to secret meetings to bake, eat and talk about cake.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Xander McDade (@xandermcdade) on Twitter
-
 Twitter profile of Xander McDade, Independent candidate for Perth and North Perthshire in the 2015 UK General Election.

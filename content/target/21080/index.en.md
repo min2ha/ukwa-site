@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Neill on Facebook
-
 Facebook page of Jack Neill, the UK Independence Party (UKIP) candidate for Kirkcaldy and Cowdenbeath in the 2015 UK General Election.

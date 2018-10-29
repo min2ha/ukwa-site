@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Left Unity, The EU referendum
-

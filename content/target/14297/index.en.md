@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Middlesbrough Institute of Modern Art
-
 <p>Site of the Middlesbrough Institute of Modern Art.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr James Davies (@jamesdavies4mp) on Twitter
-
 Conservative Parliamentary Candidate for the Vale of Clwyd.

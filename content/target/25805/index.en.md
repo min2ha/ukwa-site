@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian,The: John Major warns of 'clear and present SNP danger' – in an incoherent whisper
-
 None

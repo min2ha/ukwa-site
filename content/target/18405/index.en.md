@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Beach rescue: Ukip press spokesman pulls candidate from Margate sands
-
 None

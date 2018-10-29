@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Peter Pan Moat Brae Trust
-
 Site of a trust was established with the specific goal of securing the future of Moat Brae as a major asset for the local community.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffinton Post: EU Referendum Conspiracy Theory Believed By Half Of ‘Brexit’ Supporters, Says YouGov Poll
-
 A blogpost about a belief among Brexit supporters that the Referendum Result would be fixed.

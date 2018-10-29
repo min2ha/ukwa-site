@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# British Services Antarctic Expedition 2012 (BSAE 2012)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Argyle Pride (@ArgylePride) on Twitter
-
 The Official Plymouth Argyle LGBTQ+ Supporters Group! Making football inclusive at PAFC!

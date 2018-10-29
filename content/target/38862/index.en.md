@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: How Brexit will affect your money: investments, currency and more
-

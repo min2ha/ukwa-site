@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Exiting the EU: UK reform proposals, legal impact and alternatives to membership
-
 This paper considers the background to the EU referendum, the withdrawal process, various legal and constitutional issues and possible alternatives to EU membership. What might the impact be of a decision to leave the EU? How would the UK leave? Would the UK join a different grouping of states or go it alone? Would EU or UK citizens or businesses have any vested rights?

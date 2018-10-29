@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# MedicAnimal
-
 MedicAnimal is a London-based online pet healthcare retailer, selling pet products including prescription medicines, pet food and accessories.

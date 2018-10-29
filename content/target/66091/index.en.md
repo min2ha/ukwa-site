@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Dinas Powys By Pass
-
 The website dinaspowysbypass.co.uk is promoting the need of a by-pass to alleviate traffic through Dinas Powys and the wider Vale of Glamorgan.

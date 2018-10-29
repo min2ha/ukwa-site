@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip would ban immigrants without health insurance from entering country
-
 None

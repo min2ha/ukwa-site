@@ -10,5 +10,3 @@
   "start_date": "2014-06-09T00:00:00Z"
 }
 
-# Lambeth Palace on Twitter
-

@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Five Ways
-
 Five-Ways Art is an on-line gallery promoting contemporary Welsh art.

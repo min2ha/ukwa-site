@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The 2015 general election campaign: new year, old trick
-
 None

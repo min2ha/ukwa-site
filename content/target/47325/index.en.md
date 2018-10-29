@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Arrhythmia Alliance (A-A)
-
 A-A is a coalition of charities, patient groups, patients, carers, medical groups and allied professionals

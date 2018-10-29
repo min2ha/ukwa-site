@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff 10k
-
 <p>Cardiff 10k is an annual run in Cardiff organised by Kidney Wales Foundation.</p>

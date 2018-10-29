@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South Cambridgeshire Liberal Democrats
-
 Website of South Cambridgeshire Liberal Democrats, providing information on how to get involved and news updates.

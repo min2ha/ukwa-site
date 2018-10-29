@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Gareth Hugh Davies Arlunydd Artist
-
 Gareth Hugh Davies is a Swansea born artist and winner of the Gold medal for Fine Art, National Eisteddfod, Cwm Rhymni, 1990.

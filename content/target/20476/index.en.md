@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage addresses Ukip's spring conference in Margate - video 
-
 None

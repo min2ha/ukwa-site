@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit vote paves way for federal union to save UK, says all-party group
-
 Guardian, The

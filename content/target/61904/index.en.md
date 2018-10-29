@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# My Body My Life
-
 My Body My Life is a public engagement project that seeks to address this stigma around abortion by bringing real stories of abortion into the open. 

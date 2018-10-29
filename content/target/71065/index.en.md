@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parent Zone: Skin gambling: teenage Britain’s secret habit
-
 A Parent Zone report looking into virtual currency betting in online games.

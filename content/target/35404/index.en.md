@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University and College Union (UCU)
-
 The University and College Union (UCU) represents over 110,000 academics, lecturers, trainers, instructors, researchers, managers, administrators, computer staff, librarians and postgraduates in universities, colleges, prisons, adult education and training organisations across the UK.

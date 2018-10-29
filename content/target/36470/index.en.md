@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Law Monitor: Brexit would cause legislative chaos
-
 Brexit would cause legislative chaos, which could severely damage trade and foreign direct investment.

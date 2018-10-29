@@ -10,5 +10,3 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Bridgend Business Forum | Fforwm Busnes Pen-y-Bont ar Ogwr
-

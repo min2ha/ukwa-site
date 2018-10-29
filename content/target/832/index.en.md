@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Coast Ambulance Service
-
 None

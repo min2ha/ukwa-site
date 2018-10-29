@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: Can the UK change its mind on Article 50?
-
 Article 50 of the Lisbon Treaty was written with a deliberate lack of clarity - it does not say whether it can be revoked once it has been triggered.

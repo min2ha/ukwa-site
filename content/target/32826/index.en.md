@@ -10,5 +10,3 @@
   "start_date": "2015-11-24T09:00:00Z"
 }
 
-# SHEU: The Schools and Students Health Education Unit
-

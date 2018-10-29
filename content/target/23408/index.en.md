@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlotte Leslie (Conservative)
-
 Charlotte Leslie stood as Conservative candidate for Bristol North West at the 2015 General Election. She was first elected to serve as MP for Bristol North West in 2010 and re-elected in 2015.

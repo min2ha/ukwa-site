@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BlackRock Investment Institute: Brexit: big risk, little reward: the UK referendum on Europe
-
 The BlackRock Investment Institute argues that a Brexit offers a lot of risk with little obvious reward. It sees an EU exit leading to lower UK growth and investment, and potentially higher unemployment and inflation. Any offsetting benefits look more amorphous and less certain.

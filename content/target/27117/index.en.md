@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T08:00:00Z"
 }
 
-# British Academy of Stage & Screen Combat, The
-
 The British Academy of Stage & Screen Combat is a provider of professional level stage combat training. 

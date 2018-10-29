@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Emmanuel Gospel Church, Manorbier
-

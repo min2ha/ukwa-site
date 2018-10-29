@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Joy Formidable, The 
-
 Joy Formidable is a Welsh alternative rock band.

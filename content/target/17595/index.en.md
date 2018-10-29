@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour Party could raid pensions to pay for £3,000 reduction in university tuition fees
-
 None

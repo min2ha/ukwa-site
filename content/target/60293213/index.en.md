@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Pomeroy's of Portsmouth
-
 The personal website of Stephen Pomeroy outlining his family history and other material related to the local history of Portsmouth.

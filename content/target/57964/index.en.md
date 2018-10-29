@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Taste Swansea
-
 This is the virtual home of Swansea's food and drink magazine! (Formerly Swansea On A Plate) Taste Swansea.

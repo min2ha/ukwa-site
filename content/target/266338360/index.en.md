@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eilidh Whiteford
-
 Eilidh Whiteford is the Scottish National Party (SNP) Candidate for Banff and Buchan in the UK General Election, 7th May 2015.

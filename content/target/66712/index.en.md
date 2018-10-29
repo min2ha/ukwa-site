@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Conwy Connect for Learning Disabilities
-
 Conwy Connect for Learning Disabilities was established 1997 and promotes the rights of people with learning disabilities across North Wales. 

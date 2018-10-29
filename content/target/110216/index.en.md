@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CHArt: Computers and the History of Art
-
 CHArt is a society open to all who have an interest in the application of computers to the study of art and design. 

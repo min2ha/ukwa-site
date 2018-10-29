@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Women's League of England & Wales
-
 The Catholic Women’s League was founded in 1906 by Margaret Fletcher. The League encourages its members to work both in the parish and in the wider community. Members are also concerned with issues on a national and international level. To help keep members up to date on events the Health and Family Officer and the International Officer give reports at meetings and in CWL NEWS.

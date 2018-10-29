@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Museum Detox
-
 Museum Detox is a networking group for BAME professionals in museums and heritage.

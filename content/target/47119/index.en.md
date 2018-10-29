@@ -10,8 +10,6 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Deaf Sector Partnership
-
 The Deaf Sector Partnership is made up of five delivery partners and two support partners.
 
 The delivery partners are:

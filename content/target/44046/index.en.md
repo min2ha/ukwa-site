@@ -10,5 +10,3 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Democratic Left Scotland / Deamocrataich Chli an Alba, na
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British and Irish Lions
-
 This is the official site for the British and Irish Lions. 

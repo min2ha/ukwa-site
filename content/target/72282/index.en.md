@@ -10,6 +10,4 @@
   "start_date": "2018-10-07T09:00:00Z"
 }
 
-# East Kilbride Elim on Facebook
-
 Facebook page of an Elim Pentecostal church (Christian) located in East Kilbride, Lanarkshire.

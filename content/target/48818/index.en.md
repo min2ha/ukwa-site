@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Miranda Sofroniou
-
 Miranda Sofroniou is a versatile and creative illustrator from London. She has created illustrations for high end clients, including imagery for Investec Epsom Derby, editorial illustrations for Jamie Oliver magazine, regular illustrations for Angels and Urchins Magazine, and gift and stationery designs for Caroline Gardner.

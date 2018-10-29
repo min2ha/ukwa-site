@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Border Gaitherin' on Facebook
-
 Facebook page for a Scottish traditional music festival taking place throughout the Scottish Borders.

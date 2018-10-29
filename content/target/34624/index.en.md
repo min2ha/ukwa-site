@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mark Drakeford (Cardiff AM for Cardiff West)
-

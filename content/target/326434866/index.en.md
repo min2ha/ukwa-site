@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scottish Book Trust
-
 Scottish Book Trust is a national charity promoting reading and writing.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Queen's University Belfast Blog: Nelson Mandela Reflection, Professor John Brewer
-
 None

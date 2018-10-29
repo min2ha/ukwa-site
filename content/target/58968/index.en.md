@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May under pressure to justify paying higher Brexit divorce bill
-

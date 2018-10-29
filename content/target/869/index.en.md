@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nottinghamshire Healthcare
-
 None

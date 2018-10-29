@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Sheffield Institute for International Development: What future for a post-Mandela South Africa?
-
 None

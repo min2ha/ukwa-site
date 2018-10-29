@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Belcher (@HelenCBelcher ) on Twitter (Liberal Democrat Politician)
-
 Helen Belcher stood as Liberal Democrat candidate for Chippenham at the 2017 General Election but was not elected.

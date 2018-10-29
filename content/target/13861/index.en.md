@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katy Clark MP
-
 The website of Katy Clark, Labour candidate for North Ayrshire and Arran in the UK General Election.

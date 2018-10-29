@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katy Clark on Facebook
-
 This is the Facebook page of Katy Clark, the Labour Party candidate for North Ayrshire and Arran in the UK General Election on the 7th May 2015.

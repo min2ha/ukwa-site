@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Chapelhall Parish Church
-

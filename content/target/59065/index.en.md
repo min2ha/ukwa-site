@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Asian and African (@BLAsia_Africa) on Twitter
-
 Introducing the collections of the British Library's Dept. of Asian & African Studies.

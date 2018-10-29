@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Horror Films Forum
-
 An online enthusiast community concerned with British horror films. Discusses British horror films by decade, directors, filming locations alongside discussions about television and radio.

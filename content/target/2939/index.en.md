@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Notts County F.C.
-
 Notts County Football Club is a professional association football club based in the city of Nottingham, England.

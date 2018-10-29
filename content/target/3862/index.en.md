@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# County Times, Powys Mid Wales
-
 None

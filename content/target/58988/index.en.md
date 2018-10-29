@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Hamish Gane
-
 Hamisg Gane is currently Programme Director for Photography in the Arts at Swansea College of Art, UWTSD. Hamish Gane’s practice is predicated on notions of memory and melancholia, predominantly explored through the optic of the family.

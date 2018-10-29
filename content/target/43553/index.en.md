@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Policy Studies, Pointmaker: REMAIN OR LEAVE WEIGHING THE RISKS
-
 A speech by MP Andrew Tyrie given to the Centre for Policy Studies on Monday 13th June, outlining the personal views of the MP and concluding that he will vote Remain in the upcoming referendum.

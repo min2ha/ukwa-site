@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# South West Birmingham Liberal Democrats
-
 South West Birmingham Liberal Democrats webpage providing information on campaigns, events, representatives and candidates and local and national news updates.

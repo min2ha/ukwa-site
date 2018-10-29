@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Bone (@PeterBoneUK) on Twitter (Conservative Politician)
-
 Peter Bone stood as Conservative candidate for Wellingborough and Rushden at the 2017 General Election but was not elected.

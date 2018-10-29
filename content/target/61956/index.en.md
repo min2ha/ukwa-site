@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford United LFC
-
 Oxford United Women's Football Club is an English women's football club affiliated with Oxford United, and founded in 2005.

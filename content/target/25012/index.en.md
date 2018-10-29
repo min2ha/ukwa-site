@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Bad day at the office for Labour. Great night for black MPs
-
 None

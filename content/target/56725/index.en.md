@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Joanna Young Choreography
-
 Joanna Young is a choreographer based in Wales.

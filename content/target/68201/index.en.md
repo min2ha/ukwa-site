@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 7 promising areas for mental health breakthrough
-
 A blog about the role of data, digital technology and genetics in discovering mental health breakthroughs 

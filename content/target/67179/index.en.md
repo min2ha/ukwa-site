@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Carlton Recording Studios
-
 Website of Carlton Recording Studios in Glasgow, Scotland.

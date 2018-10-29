@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Saron Publishers
-
 Saron Publishing is a book published based in Mamhilad near Pontpool.

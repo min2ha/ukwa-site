@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bregrets? I’ve found very few. Polls show remainers are getting over it
-

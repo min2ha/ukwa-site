@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Civic Honours Competions (Queen's Jubilee 2012)
-

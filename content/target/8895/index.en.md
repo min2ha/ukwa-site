@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# War on Want: The on-going walk to freedom
-
 None

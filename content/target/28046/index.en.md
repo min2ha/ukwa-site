@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Greater Manchester Fringe Festival
-
 Website for the fourth Greater Manchester Fringe (in 2015) and the third Greater Manchester Comedy Festival.

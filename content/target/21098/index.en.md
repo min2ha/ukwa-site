@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Anderson on Facebook
-
 This is the Facebook page of John Anderson, the Conservative Party candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015 and Glasgow Maryhill and Springburn in the 2016 Scottish Parliamentary election.

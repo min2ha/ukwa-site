@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Farming and Countryside Education - FACE
-
 None

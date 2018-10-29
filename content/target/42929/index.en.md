@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sky News: Northern Ireland Football Fan Dies In Nice
-
 News report about the NI fan Darren Rodgers who died in Nice during Euro 2016.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# HeroQuest Live Action Role Play Forum
-
 An online enthusiast community concerned with live action role playing in the UK. Includes in character and out of character forum sections. Covers events, costumes and props and various other related topics.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Mikrokosmos Theatre Company
-
 Mikrosmos is a theatre company based in north Wales.

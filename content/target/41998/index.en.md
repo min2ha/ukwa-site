@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: John Major: EU leave campaign at risk of ‘divisive’ immigration stance
-
 Guardina, The

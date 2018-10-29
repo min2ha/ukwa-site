@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rosie Irwin (UKIP candidate for Swansea West)
-
 Rosie Irwin is the UKIP candidate for Swansea West at the 2016 National Assembly Elections. 

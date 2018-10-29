@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Paul Case: captain of the rant
-
 Paul Case is a spoken word artist who has been stomping about the spoken word scene since May 2008. Initially inspired by the ethos of punk, his poems, monologues and stories have intense energy and passion, shot through with anger, sadness and humour. Site includes podcasts.

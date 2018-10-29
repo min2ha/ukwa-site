@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Disgwyl mwy o ASau benywaidd o Gymru nac erioed
-

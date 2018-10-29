@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Dairy Development Centre (DDC) | Canolfan Datblygu Llaeth
-
 The Dairy Development Centre (DDC) is based at Coleg Sir Gar and 'aims to facilitate the development of the Welsh dairy industry through the provision of a proactive technology transfer service and market intelligence'.

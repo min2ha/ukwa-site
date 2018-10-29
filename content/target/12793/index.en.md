@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dundee Rep: In My Father's Words
-
 <p>Dundee Rep Theatre presents In My Father’s Words, a play about identity – national and personal – and language, and the utter indivisibility between the two. Part of the Glasgow 2014 Cultural Programme.</p>

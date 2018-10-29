@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Newbury Society
-
 The Newbury Society is a member of Civic Voice, the national organisation for Civic Societies.

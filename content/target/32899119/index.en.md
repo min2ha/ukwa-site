@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Union of Shop Distributive and Allied Workers
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Change.org: 50:50 Parliament want a more gender balanced, representative Parliament. Join us!
-
 A petition for a gender-balanced, representative parliament

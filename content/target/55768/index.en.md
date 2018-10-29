@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Royal College of Radiologists: Further clarity and assurance needed for patients who require diagnosis and treatment using radioisotopes
-
 The Royal College of Radiologists is seeking further reassurance from the Government that leaving Euratom will not affect the UK supply of vital diagnostic and cancer-treating materials – radioisotopes. Many of these materials reach us via EU-based nuclear reactors. Anything impacting the supply and transport of radioisotopes has the potential to delay imaging scans and radiotherapy treatment.

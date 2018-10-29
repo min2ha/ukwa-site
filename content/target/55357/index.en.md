@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Boomerang
-
 Boomerang is a Cardiff based factual entertainment production company.

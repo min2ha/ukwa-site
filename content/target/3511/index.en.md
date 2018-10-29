@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brixton Blog
-
 <p>Brixton Blog is an online community newspaper about everything happening in Brixton, London including local news, music, food, events and history. Brixton Blog is edited by Zoe Jewell and Tim Dickens.</p>

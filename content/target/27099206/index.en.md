@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Memex 1.1 - John Naughton's online diary
-

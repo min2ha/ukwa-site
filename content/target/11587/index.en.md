@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Commonwealth Games Federation on Twitter
-

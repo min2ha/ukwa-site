@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wimbledon Music Festival
-
 Website for the Wimbledon international music festival.

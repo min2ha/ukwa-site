@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# Ardchattan Observer
-
 Community website for the area of Ardchattan in Argyllshire, incorporating Barcaldine, Benderloch, North Connel and Bonawe.

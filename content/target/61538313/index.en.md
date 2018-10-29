@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brentford and Isleworth Quakers
-

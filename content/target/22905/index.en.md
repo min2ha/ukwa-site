@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Bullion on Facebook (Liberal Democrats candidate for Sevenoaks and Swanley)
-
 Alan Bullion stood as Liberal Democrats candidate for Sevenoaks and Swanley at the 2015 General Election but was not elected. 

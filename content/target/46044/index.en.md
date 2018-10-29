@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Falmouth Art Gallery
-
 Falmouth Art Gallery produce exhibitions in the centre of Falmouth.

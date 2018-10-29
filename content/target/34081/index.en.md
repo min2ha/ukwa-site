@@ -10,6 +10,4 @@
   "start_date": "2016-01-16T09:00:00Z"
 }
 
-# Bill Chambers
-
 Bill Chambers is an experienced printmaker born in Newport.

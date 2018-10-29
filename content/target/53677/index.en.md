@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maurice Jackson (@10o30) on Twitter (UKIP  Politician)
-
 Maurice Jackson stood as UK Independence Party (UKIP) candidate in the UK General Election 2017 but was not elected.

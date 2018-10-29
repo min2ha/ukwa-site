@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# One Woman Walks  Writer – Adventurer – Currently walking across Europe
-
 One Woman Walks is a website by Ursula Martin who following a cancer diagnosis decided to walk 3700 miles around Wales. In Febuary 2018, she published a book about the experience ‘One Woman Walks Wales’. As of September 2018, she is preparing to return to Eastern Europe, to hitchike to Ukraine and begin a walk about to Britain through southern Europe.

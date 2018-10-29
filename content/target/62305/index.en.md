@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bangor University: Language Technologies Unit | Uned Technolegau Iaith
-
 The Language Technology Unit is a Canolfan Bedwyr research unit that develops digital language resources and tools for the Welsh language and is responsible for Cysgliad, a package containing a Welsh language spellchecker, a grammar checker, and a collection of comprehensive dictionaries. In addition, the Unit develops computer-based learning aids, including language games.

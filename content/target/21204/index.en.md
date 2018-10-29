@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angela McCormick (@amccormicktusc) on Twitter
-
 This is the Twitter page of Angela McCormick, the Trade Unionist and Socialist Coalition candidate for Glasgow North in the UK General Election on the 7th May 2015.

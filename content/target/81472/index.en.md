@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Fair Play for Women
-
 Fair Play for Women is a campaign group "concerned about the implications of the proposed Gender Recognition Act on women and girls".  It also campaigns  with #HandsOffMyRights and as the campaign to Stop Sex Self-ID

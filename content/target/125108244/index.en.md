@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Typefoundry - Documents for the History of Type and Letterforms
-
 None

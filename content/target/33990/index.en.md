@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Comic Con Cymru
-
 Comic con cymru took place at St Davids Hall in Cardiff on the 16th and 17th of January 2016.

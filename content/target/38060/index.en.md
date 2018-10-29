@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Thomas Arthur for Renfrewshire South
-
 Thomas Arthur is the Scottish National Party candidate for Renfrewshire South constituency in the 2016 Scottish Parliamentary elections.

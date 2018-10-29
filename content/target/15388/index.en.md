@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Gilfach Goch Community Association
-
 <p>'Established in 1996 as a company limited by guarantee with Charity status, Gilfach Goch Community Association works in partnership with a number of organisations to include the Communities First Partnership and Rhondda Cynon Taff County Borough Council to provide the many services and activities detailed on our website.' - home page.</p>

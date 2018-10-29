@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Welsh Government: Tribiwnlys y Gymraeg | Welsh Language Tribunal
-
 The Welsh Language Tribunal is an independent tribunal. Our function is to deal with appeals against decisions by the Welsh Language Commissioner in relation to Welsh Language Standards. 

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Bob Neill (@neill_bob  ) on Twitter (Conservative Politician)
-
 Bob Neill stood as Conservative candidate for Bromley and Chislehurst at the 2015 General Election. He was first elected to serve as MP for Bromley and Chislehurst in 2006 and re-elected in 2015. He also stood for re-election in 2017 and was successful.

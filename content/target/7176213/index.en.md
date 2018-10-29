@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# White Ribbon Campaign UK
-
 White Ribbon Campaign UK is part of a global movement to put a stop to male violence against women and girls.

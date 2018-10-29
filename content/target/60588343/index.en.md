@@ -10,5 +10,3 @@
   "start_date": "2011-06-24T00:00:00Z"
 }
 
-# Marie Stopes International
-

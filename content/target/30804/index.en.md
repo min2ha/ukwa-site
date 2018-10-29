@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Julian Opie
-
 The website of the artist Julian Opie, containing  examples of his work in a  number of  mediums 

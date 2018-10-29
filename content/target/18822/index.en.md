@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Medievalists.net: Original Magna Carta copy belonged to Canterbury Cathedral, historian finds
-

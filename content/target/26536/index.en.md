@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Can the explanation for Labour's election failure be found in Nuneaton?
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clair Hawkins on Facebook (Labour candidate for Dover)
-

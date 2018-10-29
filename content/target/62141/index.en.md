@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Smartphone addiction: App launching across UK takes a unique approach to breaking our damaging habit
-
 News article about a new app launched in the UK that rewards users for less time spent on their smart phones. 

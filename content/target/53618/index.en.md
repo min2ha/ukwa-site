@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Raitt Stuff, The
-
 This site, created in August 2009, covers the authors family history of the Raitt family history in so far as he has been able to establish and verify facts and relationships. 

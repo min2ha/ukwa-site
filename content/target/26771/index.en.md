@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Clifford McLucas
-
 Welsh scenographer, artist, film maker (1945-2002).

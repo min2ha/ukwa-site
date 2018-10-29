@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Association of Scottish Visitor Attractions
-
 Site of an association of visitor attractions across Scotland, providing support and inspiration to these sites.

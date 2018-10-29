@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wales247
-
 Wales247 provides business, education, health and community news from across Wales. It was established in 2018 by Rhys Gregory, Digital Director at Effective Communication, a PR and content agency based in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Gallagher (ProfJimG) on Twitter
-
 <p>The twitter profile of Prof. Jim Gallagher, Advisor to the Better Together campaign.</p>

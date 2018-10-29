@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Crafty Attick Forum
-
 An online forum about embroidery 

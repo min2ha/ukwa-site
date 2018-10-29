@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sanjay Samani on Facebook
-
 The Facebook page of Sanjay Samani, Scottish Liberal Democrat Parliamentary Candidate for Angus.

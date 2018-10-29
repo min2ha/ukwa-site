@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - BREAKING: A NHS whistle blower has blown apart...
-
 Better Together post a link to a BBC News story: "Scottish independence: NHS in Scotland 'faces £400m funding gap'" at 5.46am 16th September, 2014.

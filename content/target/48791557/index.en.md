@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Mumsnet
-
 <p>Mumsnet is a UK website for parents, hosting discussion forums where users share advice and information on parenting, products and many other issues. Mumsnet also has a Bloggers Network with 3,500 registered bloggers and a network of 200 local sites run in partnership with local editors.</p>

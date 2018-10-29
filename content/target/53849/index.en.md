@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Solomon Curtis (@Solomon_Curtis) on Twitter (Labour Party Politician)
-
 Solomon Curtis stood as Labour Party candidate for Brighton Pavilion in the 2017 General Election but was not elected.

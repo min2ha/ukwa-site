@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Pollsters predict a Tory lead - but an Ed Milliaband government
-
 None

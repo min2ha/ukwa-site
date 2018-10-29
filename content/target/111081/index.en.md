@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Evangelical Alliance
-
 <p>Ecumenical and cross-church	Evangelical<br />
 Established in the nineteenth century, the Evangelical Alliance is the principal umbrella body for evangelical Christians in the UK.</p>

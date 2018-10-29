@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Alan Carr
-
 Official website of Alan Carr, a British comedian and TV presenter.

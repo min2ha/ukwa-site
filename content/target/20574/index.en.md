@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Not out of it, but above it?: how the Queen will engineer a royal retreat to keep out of a hung parliament
-

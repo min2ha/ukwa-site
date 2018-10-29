@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel de Gruchy (Labour) on Facebook
-
 Nigel de Gruchy was General Secretary of NASUWT (National Association of Schoolmasters Union of Women Teachers) from 1990- 2002. He stood as Labour party candidate for Orpington at the 2015 General Election but was not elected.

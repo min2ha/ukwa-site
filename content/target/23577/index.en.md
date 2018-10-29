@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Scotsman, The: live coverage of the 2015 General Election
-

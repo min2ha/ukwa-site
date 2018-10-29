@@ -10,5 +10,3 @@
   "start_date": "2011-11-16T00:00:00Z"
 }
 
-# Wales Drug Helpline & Alcohol Helpline - Llinell Cymorth Cymru ar Cyffuriau ac Alcohol DAN 24/7
-

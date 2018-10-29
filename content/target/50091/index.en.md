@@ -10,6 +10,4 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# Scotland + Venice
-
 Promoting new work from Scotland at the Venice Biennale.

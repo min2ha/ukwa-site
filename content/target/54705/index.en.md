@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Change.org: Urge all opposition parties to join forces to stop May from forming a DUP coalition
-
 An online petition to urge all opposition parties to join forces to stop May from forming a DUP coalition.

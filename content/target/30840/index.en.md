@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# London Office of the Government of Jersey
-
 Website for the London Office of the Government of Jersey, intended to support ministers and all Government departments in their interactions with the UK government, parliamentarians, the diplomatic and business communities and wider UK society.

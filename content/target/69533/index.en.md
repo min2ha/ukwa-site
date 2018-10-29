@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Isle of Iona
-
 Site of a community council and information pages for the island of Iona, Argyll & Bute, providing information on the amenities, businesses, activities and heritage of the island.

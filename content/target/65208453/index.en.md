@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Team 2012 - VISA
-

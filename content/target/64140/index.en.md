@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# The Feminist Library (@feministlibrary) on Twitter
-
 The Feminist Library is a large archive collection of Feminist and Women’s Liberation Movement literature in London.

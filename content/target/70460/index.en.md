@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Reformed Church in Annan
-
 Site of a Scottish United Reformed church located in Annan, Dumfries & Galloway.

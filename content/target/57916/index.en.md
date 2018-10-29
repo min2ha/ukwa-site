@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dachaigh airson Stòras na Gàidhlig (DASG) on Twitter
-
 The twitter profile of the Digital Archive of Scottish Gaelic.

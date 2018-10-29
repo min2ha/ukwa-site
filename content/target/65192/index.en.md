@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# QUANTIQ
-
 QUANTIQ is a Microsoft Dynamics Partner in the UK

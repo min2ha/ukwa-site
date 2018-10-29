@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fish Finger (@votefishfinger) on Twitter (Independent Politician)
-
 Mr Fishfinger stood as Independent candidate for Westmorland and Lonsdale in the 2017 General Election. He got 309 votes.

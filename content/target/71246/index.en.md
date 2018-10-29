@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# PCS LEFT UNITY (@PCSLeftUnity) on Twitter
-
 Left Unity is the socialist grouping in PCS, we stand for a democratic campaigning union.

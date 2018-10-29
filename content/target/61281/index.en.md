@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Biking in Conwy
-
 Biking in Conwy is the premier resource for cycling and mountain biking in the Conwy Valley. The website is managed by Conwy County Borough Council.

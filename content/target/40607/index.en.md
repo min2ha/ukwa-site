@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Not just a name on a wall : investigating the lives of Cambridgeshire soldiers
-
 Project to research the lives of local people using resources held in Cambridgeshire Libraries and Archives such as letters, photographs, documents, maps and newspapers etc.

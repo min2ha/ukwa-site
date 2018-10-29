@@ -10,6 +10,4 @@
   "start_date": "2013-12-15T10:00:00Z"
 }
 
-# ESF Works: projects and people helped by the European Social Fund
-
 None

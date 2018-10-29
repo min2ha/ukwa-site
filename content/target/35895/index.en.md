@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Leah Franchetti (@LeahFranchetti) on Twitter
-
 The Twitter profile of Leah Franchetti, the Scottish Labour candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

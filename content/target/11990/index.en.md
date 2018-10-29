@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: The UK and the European Union: a very British love-hate affair
-
 None

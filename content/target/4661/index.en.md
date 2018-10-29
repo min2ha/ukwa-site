@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# STUC (Scotland's Trade Union Centre): Nelson Mandela
-
 None

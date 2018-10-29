@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Clinical Genetics Society (CGS)
-
 None

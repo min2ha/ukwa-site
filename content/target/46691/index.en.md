@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute of Economics Affairs (IEA) presents four possible paths for Britain outside the EU
-
 Four different options presented by the IEA for the UK in the event of a vote to leave the EU

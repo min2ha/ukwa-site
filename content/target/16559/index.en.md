@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour needs to be more radical to counter Green threat, says Peter Hain
-
 None

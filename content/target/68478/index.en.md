@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Woman's Place UK
-
 The official Twitter account of a campaign formed specifically to ensure women’s voices are heard in the debate around proposals to change the Gender Recognition Act (2004).

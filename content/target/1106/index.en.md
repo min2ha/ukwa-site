@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HPA Training
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Calon Lân Project: Capel Mynyddbach
-
 The Calon Lân project has been set up to maintain and encourage an understanding of Mynyddbach Chapel near Swansea. Mynyddbach Chapel is the home and burial place of the Daniel James, Gwyrosydd, who wrote the Welsh Hymn Calon Lân.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Bradford - In Bronte Country
-
 Bradford is an industrial city on the edge of the moors of the Britain's West Yorkshire Pennines and in the heart of Bronte Country - where the Bronte sisters were born and lived and wrote their classic novels.

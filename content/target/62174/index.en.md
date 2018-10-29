@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Rovers Football Club
-
 Bristol Rovers Football Club is a professional association football club based in the city of Bristol, England. 

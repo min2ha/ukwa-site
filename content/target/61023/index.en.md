@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sons of Erin GFC () on Twitter
-
 Twitter account for Sons of Erin GFC, Northampton.

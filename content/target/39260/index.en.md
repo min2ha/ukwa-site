@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Britain will act like Bosnia and Ukraine in event of Brexit, says Michael Gove
-

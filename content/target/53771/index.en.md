@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Ealing & Hounslow
-
 UKIP Ealing & Hounslow branch website.

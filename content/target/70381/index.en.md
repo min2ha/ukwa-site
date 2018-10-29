@@ -10,6 +10,4 @@
   "start_date": "2018-08-24T09:00:00Z"
 }
 
-# Wiki Loves Monuments  UK
-
 Wiki Loves Monuments is an international event which takes place every September. The competition brings together amateur and professional photographers alike to capture images of the world’s historic monuments.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sian Berry (Green Party  Politician)
-
 Sian Berry stood as Green Party candidate for St Pancras and Holborn at the 2017 General Election. She also stood for Green Party candidate for London Mayor 2008 and 2016, but was unsuccessful in both. 

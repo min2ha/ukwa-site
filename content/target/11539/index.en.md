@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cycling Ulster
-
 Cycling Ulster is the provincial governing body for the nine counties of Ulster and is affiliated to the national governing body for the island of Ireland, Cycling Ireland.

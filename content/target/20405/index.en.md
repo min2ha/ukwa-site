@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angus Roberston on Twitter
-
 The twitter profile of Angus Roberston, the Scottish National Party Parliamentary candidate for Moray in the 2015 UK General election.

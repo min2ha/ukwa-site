@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Camp Bestival2018
-
 Website for CampBestival 2018.

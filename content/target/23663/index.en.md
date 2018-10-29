@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Oriel Canfas
-
 Oriel Canfas Gallery and Old Library Artists Ltd (OLA Ltd) artists' co-operative was established in 1998.

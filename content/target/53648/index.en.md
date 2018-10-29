@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pro Rugby Wales
-
 Pro Rugby Wales represents the interests of the four professional regional rugby teams in Wales - Cardiff Blues, Newport Gwent Dragons, Ospreys and Scarlets.

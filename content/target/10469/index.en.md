@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Julie Ward (@julie4nw) on Twitter (Labour MEP for the North West)
-
 Julie Ward stood as Labour candidate for North West England at the 2014 European Parliament election and was elected to serve as MEP.

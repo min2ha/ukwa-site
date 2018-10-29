@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Link between surfing web and depression, study claims
-
 Telegraph article about surfing web and depression 

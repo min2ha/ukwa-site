@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# All We Can - Methodist relief and development
-
 <p>All We Can is a charity, which helps people in some of the world’s poorest communities, by investing in partnerships that improve quality of life and create positive, long-term change for individuals, families and nations.</p>

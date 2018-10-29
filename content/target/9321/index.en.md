@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotland Office
-
 <p>The UK government Scotland Office has responsibility for ensuring the smooth working of the devolution settlement, representing Scottish interests in the UK government and UK government interests in Scotland. The website carries news stories on the activities of the Office, campaigning in favour of Scotland remaining in the UK.</p>

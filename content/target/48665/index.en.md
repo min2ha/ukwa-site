@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# History Learning Site: Russia and World War One
-
 Russia and World War One

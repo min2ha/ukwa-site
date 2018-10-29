@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Revo: Creating place: A retail property & placemaking manifesto for General Election 2017
-
 Revo published a 14 point Election Manifesto for the 2017 general election to support UK retail & real estate

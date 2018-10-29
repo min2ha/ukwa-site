@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: Life for Brits in France will get more complicated 
-
 If the UK was to leave the European Union it would become more difficult for ex-pats to live in Europe. Though they will not be deported they may loose rights to work, to run a business, to buy property, and may even be subjected to different taxes. 

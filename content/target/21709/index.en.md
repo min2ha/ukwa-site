@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miriam González Durántez: 'I'm like a tigress when it comes to my children'
-
 None

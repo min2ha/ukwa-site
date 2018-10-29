@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Paralympic Association
-
 None

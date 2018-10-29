@@ -10,5 +10,3 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Alexander Payton (@ACPayton) on Twitter (Liberal Democrats candidate for North West Hampshire)
-

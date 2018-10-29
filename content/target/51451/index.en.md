@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Remainers need a more patriotic tune to challenge a hard Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady & St. Ninian Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Bannockburn, Stirlingshire and the associated church, Sacred Heart, Cowie.

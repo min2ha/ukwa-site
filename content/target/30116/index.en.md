@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T11:00:00Z"
 }
 
-# Comunn na Gàidhlig on Facebook
-
 Comunn na Gàidhlig (CnaG) was established in 1984 as a co-ordinating Gaelic Development Agency. This is its official Facebook page.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women On Boards UK
-
 Women on Boards exists to provide information, encouragement and connections to help organisations achieve gender balance at board and leadership level.

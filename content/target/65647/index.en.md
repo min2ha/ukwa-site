@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# John Menzies plc
-
 John Menzies plc is a Scottish business established in 1833. It has two main divisions: Menzies Aviation and Menzies Distribution.

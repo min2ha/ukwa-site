@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Historic Royal Palaces
-
 Historic Royal Palaces official website.

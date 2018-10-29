@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Farnborough F.C.
-
 Farnborough Football Club is a football club based in Farnborough, Hampshire, England. Founded in 1967 as Farnborough Town, they are currently members of the Southern League Premier Division and play at Cherrywood Road.

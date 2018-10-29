@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC micro:bit
-
 This is a hub for all things micro:bit, from writing code to sharing your creations.The micro:bit is a handheld, fully programmable computer being given free to every Year 7 or equivalent child across the UK.

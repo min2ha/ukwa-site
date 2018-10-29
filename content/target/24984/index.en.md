@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election: Labour retain narrow lead but undecided voters could hold the key to victory 
-
 None

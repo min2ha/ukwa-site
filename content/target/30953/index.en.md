@@ -10,5 +10,3 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Ffrindiau Parc Cenedlaethol Arfordir Penfro | Friends of Pembrokeshire Coast National Park (FPCNP) 
-

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Digimap Jersey
-
 Specialise in creating mapping solutions and providing digital maps of Jersey. The Jersey mapping is created by the States of Jersey and Digimap is the official business partner for the sales and marketing of the Jersey mapping products.

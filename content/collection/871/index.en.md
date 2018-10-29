@@ -108,6 +108,4 @@
   "endDateText": ""
 }
 
-# Zines and Fanzines
-
 A collection of online zines and fanzines published in the UK. This is a growing collection and if you would like to nominate any content to the collection you can fill in the online form: https://beta.webarchive.org.uk/en/ukwa/info/nominate

@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Florin
-
 Information about Florence, including the virtual guidebook, 'White Silence' on Florence's 'English' Cemetery where so many English persons are buried.

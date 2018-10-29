@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Temple Baptist, Pontypridd
-

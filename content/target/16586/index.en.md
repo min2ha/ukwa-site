@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The fewer young people that vote, the worse for the future of Britain
-
 None

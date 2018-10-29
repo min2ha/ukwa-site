@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Healthwatch Engagement & Liaison Partnership - HELP Nottingham
-
 None

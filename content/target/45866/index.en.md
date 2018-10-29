@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris blasts the BBC's 'shamelessly anti-Brexit' reports: Foreign Secretary hits out at 'infuriating' coverage... before praising Jeremy Clarkson   
-

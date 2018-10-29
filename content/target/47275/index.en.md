@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leave Means Leave
-
 Despite a clear majority vote in the EU referendum there are many vested interests seeking to water down or even halt the UK government’s commitment to deliver Brexit for the people. To prevent democracy being ignored Global Britain has launched a new campaign called Leave Means Leave to ensure that we take back control of our laws, taxes, trade and borders by truly leaving the EU.

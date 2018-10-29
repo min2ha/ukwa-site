@@ -10,5 +10,3 @@
   "start_date": "2015-06-06T08:00:00Z"
 }
 
-# World Half Marathon Championships Cardiff 2016 
-

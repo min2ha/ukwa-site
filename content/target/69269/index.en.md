@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Columba's of Iona Church
-
 Site of a Roman Catholic church in Scotland for the parish of aint Columba's of Iona, Glasgow.

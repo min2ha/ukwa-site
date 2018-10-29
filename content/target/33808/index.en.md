@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# Ryman
-
 Ryman is a British chain of stationery, technology and office supplies stores.

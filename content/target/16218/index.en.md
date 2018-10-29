@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Ashley Family Foundation
-
 <p>The Ashley Family Foundation (formerly The Laura Ashley Foundation) is an independent family Trust Fund set up in 1986.</p>

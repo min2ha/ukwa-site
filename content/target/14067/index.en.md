@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# DigiAye - Scottish Independence: The DigiAye Comprehensive
-
 None

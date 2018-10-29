@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women at the Game 
-
 Women at the Game aim to give women the chance to go to live football in a supportive all-female group.

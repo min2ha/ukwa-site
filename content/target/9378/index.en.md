@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mungiun's Republic Blog
-
 None

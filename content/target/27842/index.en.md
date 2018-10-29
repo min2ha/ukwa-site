@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Guardian, The: Science of Climate Change
-
 Specialist climate science page on the Guardian newspaper website.

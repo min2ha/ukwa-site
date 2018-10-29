@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Shrub : Swap and Re-use Hub
-
 WordPress site of an organisation that facilitates the recycling and re-use of materials left behind by students in Edinburgh when the leave their halls of residence.

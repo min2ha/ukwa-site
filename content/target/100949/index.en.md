@@ -11,6 +11,4 @@
   "subject": "Indian Ocean Tsunami December 2004"
 }
 
-# Overseas Development Institute
-
 None

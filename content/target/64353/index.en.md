@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Directory of the Turf
-
 The Directory of the Turf is a the guide to the international thoroughbred racing and breeding industry. It features contact data and informatiion.

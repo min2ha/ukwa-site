@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Berwick-Upon Tweed Constituency Labour Party
-
 Website of Berwick-Upon-Tweed Constituency Labour party, providing information on Berwick-Upon-Tweed's Labour parliamentary candidate's pledges.

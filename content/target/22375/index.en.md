@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron rules out VAT increase in move that trips up Ed Miliband
-
 None

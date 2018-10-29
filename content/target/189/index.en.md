@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Devon Healthcare NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Royal Irish Academy
-
 The Royal Irish Academy organised over fourteen centenary projects focused around art, history, cartography, lexicography and the Irish language. 

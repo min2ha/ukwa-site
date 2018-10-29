@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# My Sister's Place
-
 An independent specialist domestic abuse service based in Middlesbrough

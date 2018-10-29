@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour Animal Rights (@LabourAnimalRG) on Twitter
-
 This page is for Labour Party supporters who care about animals and their rights.

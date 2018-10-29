@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Harlequin, The 
-
 The Harlequin, a traditional friendly pub with a garden, in Clerkenwell, London.

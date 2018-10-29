@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Youth Parliament (OfficialSYP) on Twitter
-
 The twitter profile of the Scottish Youth Parliament.

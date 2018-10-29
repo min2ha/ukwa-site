@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Twickenham Labour Party
-
 Website of Twickenham Labour Party, providing information on parliamentary candidates, how to get involved and local, national and party news.

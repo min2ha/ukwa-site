@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# SSE Hydro, The
-
 Website of The SSE Hydro, a multi-purpose indoor arena located within the Scottish Event Campus in Glasgow, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The Irish Revolution
-
 This blog aims to provide analysis of Irish history and contemporary Irish society from a socialist-republican standpoint

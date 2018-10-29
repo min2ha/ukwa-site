@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brace yourself for the next Brexit faultline: the battle over transition
-

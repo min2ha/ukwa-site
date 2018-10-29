@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour cares more about tax-dodging hedge funds than hedge cutters
-
 None

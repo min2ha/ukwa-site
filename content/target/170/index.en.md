@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robert Jones and Agnes Hunt Orthopaedic
-
 None

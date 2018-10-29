@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joshua Garth Seddon (@JoshSeddon_UKIP) on Twitter (UKIP  Politician)
-
 Josh Seddon is the UK Independence Party (UKIP) candidate in the constituency of Denton and Reddish in the 2017 General Election but was not elected.

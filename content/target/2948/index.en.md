@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Salisbury Cathedral
-
 Official website of Salisbury Cathedral.

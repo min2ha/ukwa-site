@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Red Telephone Box
-
 Based in Norfolk, UK, Carl Burge at Remember When specialises in the sales, restoration, installation, hire & shipping of the iconic British Red Telephone Box.

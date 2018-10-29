@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ANC Escòcia (ANC_Scotland) on Twitter
-
 <p>The twitter profile of ANC Escòcia; Catalans working to achieve the independence of Catalonia from Scotland.</p>

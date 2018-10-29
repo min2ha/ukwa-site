@@ -10,5 +10,3 @@
   "start_date": "2012-09-11T00:00:00Z"
 }
 
-# iCREATE: www.icreate3d.com
-

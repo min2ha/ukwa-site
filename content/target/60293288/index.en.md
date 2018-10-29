@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Bedfordshire Women's Land Army
-

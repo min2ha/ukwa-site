@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Clinical Pharmacy Association (UKCPA)
-
 We provide opportunities for networking, collaborations, sharing best practice and inspiring innovation. Our community is both supportive and stimulating, offering our members and event delegates the opportunity to explore, learn, innovate and flourish.

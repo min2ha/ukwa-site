@@ -10,5 +10,3 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Gwasanaeth Tân ac Achub Gogledd Cymru | North Wales Fire and Rescue Authority
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kerala Arts and Literary Association UK
-

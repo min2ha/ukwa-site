@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glasgow 2018 (@Glasgow2018) on Twitter
-
 The official Twitter account of the Glasgow 2018 European Championships, which take place between 2nd - 12th August 2018.

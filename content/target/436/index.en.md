@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Trafford Health and Wellbeing Board
-
 None

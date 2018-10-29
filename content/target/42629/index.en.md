@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Action East End
-
 Community and Solidarity

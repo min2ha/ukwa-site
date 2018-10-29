@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cheddar Valley Gazette
-
 None

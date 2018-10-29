@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Craft Beer Festival
-
 Site of a beer festival located at the Biscuit Factory, Edinburgh.

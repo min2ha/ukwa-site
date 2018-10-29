@@ -10,6 +10,4 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Health for Health Professionals Wales
-
 This is a counselling service for all doctors in Wales fully funded by the Welsh Government and administered by Cardiff University.

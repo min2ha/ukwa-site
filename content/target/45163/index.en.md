@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Cosmopolita Scotland: Special Issue: Brexit
-

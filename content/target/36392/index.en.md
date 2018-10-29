@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU referendum notebook: What excuses will those Tory 'Eurosceptics' come up with now?
-
 Comment by Patrick O'Flynn

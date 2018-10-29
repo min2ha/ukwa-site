@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Durham (@SfBDurham) on Twietter
-
 Durham branch of Students for Britain

@@ -10,7 +10,5 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# International Police Association: Section UK
-
 The International Police Association (IPA) is a worldwide membership organisation for serving and
 retired police personnel. The IPA provides social activities at an individual or family level - trips, holidays, sporting events, competitions and exchange visits. The IPA also organises seminars on police related topics. 

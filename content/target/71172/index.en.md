@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Falkirk Storytelling Festival
-
 Site of an annual storytelling, music and performance festival staged in Falkirk.

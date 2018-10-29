@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Radyr and Morganstown Local History Society
-

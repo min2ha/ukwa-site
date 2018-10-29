@@ -10,6 +10,4 @@
   "start_date": "2015-05-19T08:00:00Z"
 }
 
-# Goldsmiths, University of London
-
 Official website of the Goldsmiths, University of London, a public research university specialising in the arts, design, humanities, and social sciences. 

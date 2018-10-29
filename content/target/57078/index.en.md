@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6th September 2017: Prime Minister's Questions
-
 Oral questions to Theresa May, mainly on Brexit

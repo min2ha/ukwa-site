@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Crail Food Festival
-
 Site of an annual food festival located in the village of Crail, Fife, featuring food and drink based events, music, children’s activities and markets showcasing local Fife produce.

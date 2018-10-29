@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Darlington and Stockton Times
-
 None

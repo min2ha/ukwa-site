@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Honiton Rfc (@HonitonRfc) on Twitter
-
 The official Twitter account of Honiton Rugby Football Club.

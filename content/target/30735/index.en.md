@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Drug Aid Cymru
-
 Drug Aid Cymru has been helping individuals and communities tackle drug and alcohol problems in South Wales for over 30 years. Drugaid enjoys partnerships with a range of organisations, and is funded from a variety of sources including Local Health Boards, Community Safety Partnerships, YOTs, County Borough Councils, the National Probation Service, and the Welsh Assembly Government.

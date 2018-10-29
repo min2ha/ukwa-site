@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Llanelli Waterside | Morlan Elli
-
 The Llanelli Coast Joint Venture between the Welsh Assembly Government and Carmarthenshire County Council is a flagship partnership delivering an ambitious Regeneration strategy for Llanelli Waterside. - homepage.

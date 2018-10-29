@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# The Royal Family (@KensingtonRoyal) on Twitter
-
 Updates, pictures and videos from Buckingham Palace about the work and activities of The Queen and members of The Royal Family.

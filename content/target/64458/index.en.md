@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Lodge Panmure No. 299
-
 Site of a masonic lodge located in Arbroath, Angus and affiliated with the Grand Lodge of Scotland.

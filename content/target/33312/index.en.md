@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Communities First – Butetown Riverside Grangetown (BRG)
-
 The Community First programme aims to support the most disadvantaged communities in the Butetown, Riverside and Grangetown areas of Cardiff.

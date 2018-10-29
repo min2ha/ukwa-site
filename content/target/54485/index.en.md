@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Muslim Public Affairs Committee: Operation Muslim Vote Map 2017
-
 This map covers English, Scottish and Welsh constituencies, and provides Muslims with the information they need to make informed choices to elect what the MPACUK believe to be ethical MPs and unseat unethical MPs.

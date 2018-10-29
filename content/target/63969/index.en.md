@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Stamperland Parish Church
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Byfield Online
-
 News and information for the village of Byfield, Northants, UK.

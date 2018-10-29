@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West England Cervical Screening Quality Assurance Reference Centre
-
 None

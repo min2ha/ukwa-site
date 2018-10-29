@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cullen and Deskford Church of Scotland
-

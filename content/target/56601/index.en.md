@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Feeder
-
 Feeder is a Welsh rock group formed in 1992 in Newport, Wales.

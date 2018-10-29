@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU Referendum: Michael Gove's full statement on why he is backing Brexit
-
 An article about Michael Gove's reasons for supporting the Brexit movement

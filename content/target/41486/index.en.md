@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Craigencalt Rural Community Trust
-
 Site of a community and environmental improvement organisation located near Kinghorn, Fife.

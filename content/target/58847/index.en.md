@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour attacks Brexit date 'gimmick' as MPs begin scrutiny
-
 Several Tory MPs joined Labour in demanding Theresa May withdraw a key Brexit legislation amendment to set the exact time of EU departure in law

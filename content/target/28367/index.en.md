@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Guards Museum, The
-
 Official website of The Guards Museum in London. The museum contains information and artefacts relating to the five regiments of Foot Guards namely Grenadier, Coldstream, Scots, Irish and Welsh Guards.

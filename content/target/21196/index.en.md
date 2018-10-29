@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cass MacGregor (@cassmacg) on Twitter
-
 Twitter profile of Cass Macgregor, Scottish Green Party candidate for Glasgow Central in the 2015 UK General Election.

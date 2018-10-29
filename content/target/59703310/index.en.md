@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Medway 2012
-

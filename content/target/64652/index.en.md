@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# University of Edinburgh’s Scotland-Russia: Cultural Encounters since 1900 Project 
-
 The University of Edinburgh’s Scotland-Russia: Cultural Encounters since 1900 Project has created this website, aimed at students, researchers and the general public, to provide a digital gateway to previously unavailable or dispersed cultural materials dealing with Scottish-Russian relations.

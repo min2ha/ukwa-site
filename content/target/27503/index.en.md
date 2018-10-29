@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Getting young people to vote: From #VOTESELFISH to Bite the Ballot
-
 None

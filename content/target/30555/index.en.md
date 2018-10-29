@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Child Care Trust
-
 The Jersey Child Care Trust is a charity, independent of Government, working for families in Jersey. The JCCT provides information and services for childcare providers, families and other professionals.

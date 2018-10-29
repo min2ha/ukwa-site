@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bangor Civic Society 
-
 Bangor Civic Society campaigns for, and promotes, the built and natural environment of Bangor (North Wales). The Society is recognised by the Civic Trust for Wales, and by Gwynedd County Council for the purpose of development consultation.

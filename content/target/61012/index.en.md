@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: Finding a sensible Brexit
-
 A ‘soft’ Brexit might be a good economic outcome for the UK, but it is not politically viable. Instead, a ‘sensible’ Brexit, which retains the best possible levels of access to the EU’s single market but secures the return of sovereign rights, is the way forward.

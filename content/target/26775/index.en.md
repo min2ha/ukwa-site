@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Martyn Jones
-
 Martyn Jones is a contemporary painter who works from his studio based in Cardiff.

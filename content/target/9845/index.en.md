@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# British Chambers of Commerce: Scottish Independence debate leaves most UK businesses unfazed.
-
 <p>British Chambers of Commerce (BCC) is an independent business network, with Chambers across the UK.</p>

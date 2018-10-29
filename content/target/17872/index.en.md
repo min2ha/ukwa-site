@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# International Fragrance Association United Kingdom (IFRA UK)
-
 The International Fragrance Association UK (IFRA) promotes the safe creation, development and enjoyment of fragrance on behalf of its members. IFRA UK is part of the global federation, IFRA, which ensures consistent standards worldwide.

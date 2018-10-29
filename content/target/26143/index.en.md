@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# techUK: techUK briefing - how tech features in political party manifestos
-
 techUK represents the companies, champions the issues and the ongoing areas of interest of the tech sector.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Home Office: Safeguarding the position of EU citizens in the UK and UK nationals in the EU
-
 Since the result of the referendum in June 2016, the UK government has been clear how important it is that we secure, as early as possible, both the rights of EU citizens in the UK and UK nationals in EU Member States. It is now seeking to provide EU citizens with certainty about their future by publishing this white paper which sets out its offer to them.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# W.N. Lindsay Limited
-
 The website of W.N. Lindsay Limited, an independent grain merchant that provides storage services and operates grain stores. The company was founded in 1864 and is based in Tranent, Scotland. 

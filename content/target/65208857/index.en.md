@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Save The Women's Library
-
 None

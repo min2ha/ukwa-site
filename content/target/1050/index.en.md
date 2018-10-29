@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Public Health Intelligence North East
-
 None

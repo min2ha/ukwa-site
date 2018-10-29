@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Amersham WW1 Memorial Record - bringing our heritage to life
-
 Project enabling, a 'Record' to be prepared relating to all those individuals entered on the WW1 Amersham War Memorial by bringing together archive information available from various official and personal sources.

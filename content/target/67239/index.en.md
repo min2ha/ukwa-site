@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Cervical Screening Wales | Sgrinio Serfigol Cymru 
-
 Cervical Screening Wales is responsible for the NHS cervical screening programme in Wales. The aim of the cervical screening programme is to reduce the incidence of, and morbidity and mortality from, invasive cervical cancer.

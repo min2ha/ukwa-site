@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  EU referendum: Remaining in an unchanged EU would be disastrous, says Chris Grayling
-

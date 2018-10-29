@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: “Official and significant”. The ERG declares that it will vote against Chequers.
-
 Mark Francois declared  that the European Research Group would vote against any EU Withdrawal Agreement and political declaration based on the Chequers plan in the Commons..

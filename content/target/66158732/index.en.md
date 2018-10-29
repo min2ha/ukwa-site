@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# GB Boxing
-
 The British Amateur Boxing Association (BABA) is the body responsible for managing the elite programme for British boxing for both men and women, with the ultimate objective of securing success at the Olympic Games.

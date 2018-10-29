@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Visit Wester Ross
-
 Site providing tourist information for the area of Wester Ross, Highland, Scotland.

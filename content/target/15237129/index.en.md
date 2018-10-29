@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Reclaim the Night
-

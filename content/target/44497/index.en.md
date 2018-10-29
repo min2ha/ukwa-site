@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research:  Beyond free movement? Six possible futures for the UK’s EU migration policy 
-
 he coming Brexit negotiations will likely centre on the trade-off between access to the single market and controlling EU migration. Achieving a compromise – by putting some limits on free movement and some limits on single market access – will be difficult, but nevertheless it will be a key priority for the UK in the negotiations. This new briefing paper, part of IPPR's new 'Progressive Brexit' programme of work, identifies and explores the six main options on free movement that the UK government could pursue.

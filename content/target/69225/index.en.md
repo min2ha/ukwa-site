@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: AIR BAN NOSEDIVE Downing Street criticises Irish PM Leo Varadkar over Brexit plane ban threat
-
 Downing Street said Ireland had no power to stop British planes flying over Ireland - in a furious rebuke to the Irish PM’s threat.to close Ireland's air space to British planes in the event of a "no deal" Brexit.
 

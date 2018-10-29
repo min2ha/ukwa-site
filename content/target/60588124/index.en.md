@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clitheroe Methodist Circuit
-
 None

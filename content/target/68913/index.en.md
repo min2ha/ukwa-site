@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of the Holy Family, Dunblane
-
 Site of a Roman Catholic church in Scotland for the parish in Dunblane, Stirlingshire.

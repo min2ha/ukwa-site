@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mike Nattress, Independence from Europe Party
-
 None

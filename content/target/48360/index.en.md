@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penguin News, Falkland Islands  
-
 Penguin News is the Falkland Islands' only newspaper. A weekly paper, it is available on Fridays from Stanley retailers. The Penguin News covers local and overseas events relating to the Falkland Islands. 

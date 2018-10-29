@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sketch: You were doing so well, Dave, until the dreaded Shredded Wheat question
-
 None

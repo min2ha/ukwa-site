@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Market Oracle, The: BrExit - Visegrad Conspiracy, Poland, Hungary, Slovakia and Czech Refuse to give up Migrant Benefit Payments from Britain
-
 With single mindedness or madness the Visegrad conspirator nations of Poland, Hungary, Slovakia and Czech Republic refused to play along with the smoke and mirrors illusion that the European Commission had been constructing for David Cameron to hoodwink the British public into voting to remain within the EU. Instead all four conspirator nations refused to give up a single £1 in benefits payments from British tax payers to their citizens .

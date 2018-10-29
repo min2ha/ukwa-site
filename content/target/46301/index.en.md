@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Ocicat Club, The
-
 The Ocicat Club UK focuses on the welfare and promotion of the Ocicat breed.

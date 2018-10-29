@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Artyfax
-
 Artyfax has two shops in Cromer and they stock many items for you and your home.

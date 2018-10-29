@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# NHS Wales Informatics Service Information Services
-
 The NHS Wales Informatics Service's Information Services Division (ISD) is responsible for the collection, management, and analysis of data held in a number of national databases and provides information services to support the requirements of NHS, Government and other Public Bodies, Researchers and the General Public. NHS Wales national databases cover secondary care, child health, births, deaths and the NHS Wales Administrative Register. 

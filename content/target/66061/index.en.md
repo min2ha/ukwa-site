@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stonehaven Highland Games
-
 Site of a highland games at Stonehaven, Aberdeenshire.

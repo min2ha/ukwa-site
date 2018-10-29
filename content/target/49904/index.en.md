@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Railways of the Far South
-
 This site covers the history of the railways, mostly narrow gauge, in the far south of South America and in the islands of the South Atlantic. The site includes the history of Welsh settlers who built the Central of Chubut Railway.

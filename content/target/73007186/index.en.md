@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Whitehawk Primary School On The Homefront
-
 None

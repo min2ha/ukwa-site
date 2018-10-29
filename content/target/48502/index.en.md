@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of Bermuda  
-
 Government of Bermuda official website.

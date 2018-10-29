@@ -10,6 +10,4 @@
   "start_date": "2014-05-14T10:15:00Z"
 }
 
-# Omnibus Society
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Fife Festival of Music
-
 Site of a festival of classical music held throughout the year, with competitions, held in Fife.

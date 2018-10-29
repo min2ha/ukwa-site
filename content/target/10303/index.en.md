@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Theresa Griffin, Labour on Facebook
-
 None

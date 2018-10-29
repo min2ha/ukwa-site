@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# FaithNetEast
-
 None

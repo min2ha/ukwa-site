@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Sisters of Frida
-
 Sisters of Frida CIC is an experimental collective of disabled women. We want a new way of sharing experiences, mutual support and relationships with different networks.

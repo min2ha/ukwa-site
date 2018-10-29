@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: who has said what about transition?
-
 When Phase two of the Brexit negotiations started, the EU and UK negotiators expressed their views on the scope of and conditions for a transition or implementation period, in which the UK would not be a Member State but would continue to apply EU law.
 

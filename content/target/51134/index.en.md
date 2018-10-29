@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwysi Cyfamodol yng Nghymru, Yr | Covenanted Churches in Wales, The
-

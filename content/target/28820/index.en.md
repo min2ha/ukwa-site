@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Ampthill Festival 
-
 Website of the Ampthill Festival, which takes place every year in Ampthill Park in Ampthill, Bedfordshire. 

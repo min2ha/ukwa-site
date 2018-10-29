@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# OpenSpace: Scotland and the Easter Rising: How #indyref may have changed the narrative
-
 Article by David Jamieson in OpenSpace, a digital news and views service and a place to network, share ideas and discuss the issues affecting Scotland.

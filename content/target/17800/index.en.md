@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Top Labour figure dumps Ed Miliband for Ukip
-
 None

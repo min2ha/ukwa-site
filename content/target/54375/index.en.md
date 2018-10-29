@@ -10,8 +10,6 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Blue Knights Law Enforcement Motorcycle Club UK & Ireland
-
 After over 40 years we're still riding strong. We consist of active & retired, Law Enforcement personnel. 
  
 This includes Customs Officers, Prison Officers, Police Officers and Immigration Officers. Also  Service Personnel with a power of arrest.

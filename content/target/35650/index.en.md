@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ken Skates AM (@KenSkates4AM) on Twitter (Labour candidate for Clwyd South) 
-
 Ken Skates is the Labour candidate for Clwyd South at the 2016 National Assembly Elections.

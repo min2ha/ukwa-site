@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# ITV
-
 Official website of the ITV, a UK TV station.

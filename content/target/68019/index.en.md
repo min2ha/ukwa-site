@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bradford-on-Avon Walking Festival
-
 Walking festival

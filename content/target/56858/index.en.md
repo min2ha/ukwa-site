@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: red lines and starting principles
-
 What has the UK Government said about its strategy for the Brexit negotiations? The Prime Minister and the Brexit Secretary have set out their views in speeches and white papers, and now the EU institutions have set out theirs. They often coincide, but there are areas that could be difficult to resolve. This paper summarises the starting points of the UK and the EU institutions at the beginning of the Article 50 process.
 

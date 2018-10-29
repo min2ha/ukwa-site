@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bayanne House
-
 Site for a small local museum in Shetland, looking at local and family history and archaeology.

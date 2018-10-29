@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# British Paraorchestra, The
-
 The British Paraorchestra is a professional ensemble for disabled musicians.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Women at War
-
 The project explored local women's increased role during the First World War and the impact of that on families.

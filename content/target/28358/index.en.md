@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Register of Exercise Professionals (REPs)
-
 Register of Exercise Professionals (REPs) is an independent, public register which recognises the qualifications and expertise of health-enhancing exercise instructors in the UK. REPs provides a system of regulation for instructors and trainers to ensure that they meet the health and fitness industry’s agreed National Occupational Standards.

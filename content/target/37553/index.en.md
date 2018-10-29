@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU referendum: Europe's media see Johnson as boost for Brexit
-

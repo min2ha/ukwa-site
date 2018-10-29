@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Walcountians RFC on Pitchero
-
 The official website of Old Walcountians Rugby Football Club.

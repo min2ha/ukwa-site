@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Ian McKellen
-
 Official website of Sir Ian McKellen, a British actor.

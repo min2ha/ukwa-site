@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May: Brexit essentials: procedural and substantive implications of the vote for Brexit
-
 This briefing explores the alternative models to the UK’s membership of the EU and the constitutional process for putting an alternative model in place.

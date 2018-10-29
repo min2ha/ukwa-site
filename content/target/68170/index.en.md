@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tor Rugby Club (@TOR_RFC) on Twitter
-
 The official Twitter account of Tor Rugby Club.

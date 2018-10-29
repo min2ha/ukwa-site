@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Said Business School's tribute to Nelson Mandela
-
 None

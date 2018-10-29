@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Monmouth Peope First
-
 Monmouth People First is a special group for adults with learning disabilities. As of 2018, the site is no longer live.

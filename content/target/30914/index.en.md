@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Natwest Island Games XVI - Jersey 2015
-
 Website for the 16th Island Games held in Jersey in 2015. Contains information about the games, sports, results and medal tables.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Spectrum IT Support
-
 Based in Kimpton, Hertfordshire, Spectrum IT Support provides computer support and IT services to local homes and businesses.

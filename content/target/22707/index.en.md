@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stuart Jeffery (Green Party candidate for Canterbury)
-
  Stuart Jeffery "Stuart for Canterbury and Whitstable"  Green Party Parliamentary Candidate for Canterbury at the 2015 General Election  but was not elected. 

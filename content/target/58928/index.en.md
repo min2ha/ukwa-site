@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Wales Supporters Team
-
 The Wales Supporters Football Team website will provide a comprehensive history of the Welsh football supporters' matches, home and away, since the match against Finland in Helsinki, on September 7th, 2002. The Wales supporters' team has played many games all over Europe and beyond and supported many charities.

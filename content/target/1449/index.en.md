@@ -10,6 +10,4 @@
   "start_date": "2013-05-01T21:15:00Z"
 }
 
-# Valentin Schiedermair
-
 <p>Website of Valentin Schiedermair, a concert pianist living in the UK.</p>

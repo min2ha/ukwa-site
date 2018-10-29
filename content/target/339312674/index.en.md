@@ -10,5 +10,3 @@
   "start_date": "2015-06-16T08:00:00Z"
 }
 
-# Science and Information Organization, The
-

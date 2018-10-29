@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Barrowman News (Team_Barrowman) on Twitter
-
 <p>Official Twitter of actor and entertainer John Barrowman. John Barrowman performed at the opening ceremony of the XX Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Golf Museum
-
 Site of a museum dedicated to the history of golf in the United Kingdom.

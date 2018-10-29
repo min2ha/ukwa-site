@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Waltham Forest Oral History Workshop
-
 None

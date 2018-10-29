@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-#  UK Cheerleader Forums
-
 An online enthusiast community forum concerned with cheerleading in the UK. Discusses cheerleading techniques and squad specific sections.

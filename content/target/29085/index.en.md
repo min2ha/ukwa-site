@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mid Dorset and North Poole Conservatives
-
 Website of Mid Dorset and North Poole Conservatives, providing information on association officers, MPs, district, parish and town councillors, events and local, national and Westminster news.

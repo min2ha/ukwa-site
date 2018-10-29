@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Medical Education England
-
 None

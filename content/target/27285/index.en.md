@@ -10,5 +10,3 @@
   "start_date": "2015-06-04T08:00:00Z"
 }
 
-# Herald, The: Calls for tolerance of Orange Order as opposition to 'Orangefest' mounts
-

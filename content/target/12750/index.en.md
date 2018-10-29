@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Holt | Athlete – Hammer
-
 <p>The website of hammer thrower Sarah Holt, member of Team England for the Glasgow 2014 Commonwealth Games;</p>

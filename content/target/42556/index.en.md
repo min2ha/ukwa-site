@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Bruce's blog: Queen's birthday a reminder to celebrate old age
-
 A blog post by Bruce Moore outlining how active older people can be.

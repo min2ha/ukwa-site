@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Who said I had no 'Oomph'? I'm FULL of passion
-
 None

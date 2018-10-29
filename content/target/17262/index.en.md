@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage pulls out of Rotherham public appearance after protests
-

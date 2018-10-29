@@ -10,6 +10,4 @@
   "start_date": "2018-01-20T09:00:00Z"
 }
 
-# Morgana Warren-Jones
-
 Morgana Warren-Jones is a Welsh Soprano and a recent graduated from the University of Leeds with a first-class BMus Performance degree. In 2017 she won 3rd prize in the Mezzo-Soprano Solo 19-25 competition at the National Eisteddfod.

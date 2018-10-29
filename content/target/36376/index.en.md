@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Britain must leave the EU and control own borders, says Nigel Farage
-
 Comment by Nigel Farage

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Innovation and Enterprise Blog
-
 The blog covers business start-up, innovation, entrepreneurship, inventions, success stories, trademarks, branding, copyright, patents and growing business. It also offers tips and advice on how to use the collections and services to start, launch and grow a business. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scotland IS: Atos show students how IT is supporting the Glasgow 2014 Commonwealth Games
-
 <p>News story from the Scotland IS website. A visiting team of Atos business technologists demonstrate how they are delivering IT services for the XX Commonwealth Games to ICT classes in Stonelaw High School in Rutherglen.</p>

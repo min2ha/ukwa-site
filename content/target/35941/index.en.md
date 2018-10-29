@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Glackin (@JamieGlackin1) on Twitter
-
 The Twitter profile of Jamie Glackin, the Scottish Labour candidate for the Mid Scotland and Fife list in the 2016 Scottish Parliament election.

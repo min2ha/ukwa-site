@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: British voters didn't understand how complex Brexit was, says Macron as he insists UK should 'for sure' be allowed to reverse the decision
-

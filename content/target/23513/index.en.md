@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phil Hutty (@philhutty ) on Twitter (Liberal Democrats Candidate for South East Cornwall)
-
 Phil Hutty stood as Liberal Democrats candidate for South East Cornwall at the 2015 General Election but was not elected. 

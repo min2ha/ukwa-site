@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Toward & Inverchaolain
-
 Parish website for the churches of Inverchaolain and Toward. 

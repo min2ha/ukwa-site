@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Unique Wakefield
-
 Unique Wakefield is a guide to some of the City’s unique and friendly places to eat, drink, shop and relax.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Breasclete Community Association
-
 Site of a community association based in Breasclete, Isle of Lewis, Scotland, providing information on amenities, tourism and the community association for residents and visitors.

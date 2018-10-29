@@ -10,6 +10,4 @@
   "start_date": "2016-01-16T09:00:00Z"
 }
 
-# Howard Coles
-
 Howard Coles is a contemporary landscape painter.

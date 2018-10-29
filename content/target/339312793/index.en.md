@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Referendum · Conversations · Disqus
-
 Containing the comments made on the Scotland's Referendum site: scotreferendum.com.

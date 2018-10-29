@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Global Counsel: The morning after: Brexit uncertainty and what it means for business
-
 Global Counsel provide advice to corporate strategists and senior management

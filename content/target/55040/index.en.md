@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Infoism: The Manifestos 2017 – a library and information studies perspective
-
 A blog post reviewing the UK General Election 2017 manifestos and what they say about libraries.

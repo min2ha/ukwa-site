@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ariane Burgess - Regenerative Living and Leading
-
 Ariane Burgess is the Scottish Greens candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

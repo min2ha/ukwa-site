@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Joe Smyth (@Joesmythukip) on Twitter 
-
 Joe Smyth is the UKIP candidate for Islwyn at the 2016 National Assembly Elections and 2017 General Election.

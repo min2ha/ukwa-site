@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Bwrdd iechyd Prifysgol Caerdydd a'r Fro | Cardiff and Vale University Health Board
-

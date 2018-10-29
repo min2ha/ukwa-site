@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Welfare reform: SDLP 'only party can derail Tory cuts plan'
-
 None

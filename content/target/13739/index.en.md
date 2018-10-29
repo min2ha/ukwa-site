@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Adam Tomkins (ProfTomkins) on Twitter
-
 The Twitter profile of Professor Adam Tomkins, Scottish Conservative and Unionist candidate for Glasgow Anniesland in the 2016 Scottish Parliament election.

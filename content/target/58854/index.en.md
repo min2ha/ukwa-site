@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Ochil Tower School
-
 Site of a school at Auchterarder, Perth & Kinross, part of the Camphill movement, which provides day and residential education for young people with special educational needs. 

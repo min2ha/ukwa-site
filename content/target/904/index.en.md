@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk Community Health and Care
-
 None

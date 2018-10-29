@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Food Revolution Day
-
 Food Revolution Day is a campaign by Jamie Oliver, a TV chef, fighting to put compulsory practical food education on the school curriculum.

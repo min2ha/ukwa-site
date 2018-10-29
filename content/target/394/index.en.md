@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luton Health and Wellbeing Board
-
 None

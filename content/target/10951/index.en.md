@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# We demand a Referendum Now Party
-
 None

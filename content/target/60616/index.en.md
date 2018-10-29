@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge Breadalbane St. Fillans No. 815
-
 Site of a masonic lodge located in St. Fillans, Perthshire and affiliated with the Grand Lodge of Scotland.

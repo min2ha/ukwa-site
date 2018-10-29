@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cornwall Shinty Club
-
 Site of a shinty club located at Penryn, Cornwall.

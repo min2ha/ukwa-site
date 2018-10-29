@@ -10,5 +10,3 @@
   "start_date": "2009-11-17T00:00:00Z"
 }
 
-# Celtic Country Wine Wales
-

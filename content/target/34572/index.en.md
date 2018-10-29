@@ -11,7 +11,5 @@
   "subject": "Easter Rising "
 }
 
-# Catholic Ireland
-
 
 This website is run by the Church Support Group which provides tools and services to dioceses, parishes, and other religious organisations based on modern communications. It contains articles on the Easter Rising, 1916 and its contemporary relevance in 2016.

@@ -10,5 +10,3 @@
   "start_date": "2005-03-16T00:00:00Z"
 }
 
-# Durham & Tyneside Dialect Group
-

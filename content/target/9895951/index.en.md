@@ -10,6 +10,4 @@
   "start_date": "2013-09-15T10:00:00Z"
 }
 
-# Wild Rose Heritage and Arts
-
 <p>This website has collected oral histories, memorabilia and recorded dissemination activities reflecting the nature of change within the community for the last 100 years.</p>

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lesley Laird (@LesleyLaird) on Twitter
-
 Twitter profile of Lesley Laird, Scottish Labour candidate for Kirkcaldy and Cowdenbeath in the 2017 general election.

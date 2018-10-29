@@ -10,6 +10,4 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# Dawnswyr Nantgarw
-
 Dawnswyr Nantgarw is a folk dancing group based in south Wales. The purpose of our formation was to revive the folk traditions of the Taf Valley and Glamorgan and perform them at the highest standard possible.

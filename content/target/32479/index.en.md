@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# MBR - Mountain Bike Rider
-
 Online version of the MBR - Mountain Bike Rider magazine.

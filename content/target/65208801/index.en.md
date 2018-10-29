@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# 13 Days In May
-
 None

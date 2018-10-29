@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kenmore Highland Games
-
 Site of a highland games at Kenmore, Perthshire.

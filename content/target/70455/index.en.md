@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# StandUp4Brexit (@StandUp4Brexit) on Twitter
-
 Twitter feed of Conservative grassroots campaign to ensure #Brexit as promised at Lancaster House is delivered.

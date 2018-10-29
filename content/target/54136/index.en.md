@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Pentir Pumlumon, Ceredigion's land of enchantment
-
 This is a tourist information guide to Pentir Pumlumon in Ceredigion.

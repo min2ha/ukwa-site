@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Cardiff Community Cohesian Cup
-
 This is a football tournament involving the BME communities of Cardiff. Teams from Congolese, Dar Phur, Kurdish, Sudanese, Yemeni and Zimbabwean communities will compete against each other to play in the Millennium Stadium against a select team of local community police force and ex professional Cardiff and Swansea City players.

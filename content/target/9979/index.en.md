@@ -10,6 +10,4 @@
   "start_date": "2014-04-24T04:00:00Z"
 }
 
-# Ivor Catt's website 
-
 None

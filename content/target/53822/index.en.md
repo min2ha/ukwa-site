@@ -10,6 +10,4 @@
   "start_date": "2017-05-31T09:00:00Z"
 }
 
-# Karin Finegan
-
 Karin Finegan, independent candidate for Glasgow East in the 2017 general election.

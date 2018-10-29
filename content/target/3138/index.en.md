@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scotland on Screen
-
 This website provides free access to films from the Scottish Screen Archive (part of National Library of Scotland) with accompanying learning resources designed for use in the classroom or other learning settings. The films document over a century of Scottish lives on film, with particular reference to social, economic and environmental change.

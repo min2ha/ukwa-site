@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ellen Falkner (FalknerEllen) on Twitter
-
 Twitter profile of Ellen Falkner, lawn bowls player for Team England at the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Medway on Screen - your memories of Medway and West Kent
-
 None

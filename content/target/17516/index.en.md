@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tax avoiders and hedge funds. The Tories invited them to the party
-
 None

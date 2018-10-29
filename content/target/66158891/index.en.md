@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bibliophilic Blogger, The
-
 None

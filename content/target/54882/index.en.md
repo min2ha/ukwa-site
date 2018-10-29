@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Sudanese Nubian Association UK
-
 SNAUK (Arabic: al-Rabitah al-Nubiyah al-Sudaniyah bil-Mamlakah al-Mutahiddah)  is a non-political and independent non-profit making organisation. It was founded in London in the year 1998 and registered with the Charity Commission in 2006. The prime objectives of the Association are to assist our members and their children to learn and master the Nubian language, history and heritage. The Association also aims to promote and advance the education of the British and Sudanese public about the rich cultural heritage of Nubia and its great civilisation which dates back to over seven centuries. We endeavour to do this through the organisation of cultural events, lectures, workshops, film shows, arts & folklores, publications and social gatherings.

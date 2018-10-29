@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llanfynydd Community Website
-
 <p>Community County website for the village of Llanfynydd in Carmarthenshire.</p>

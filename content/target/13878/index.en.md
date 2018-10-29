@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Sheridan - Labour Member of Parliament for Paisley and Renfrewshire North
-
 None

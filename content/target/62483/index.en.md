@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WomenFootyArchive (@WomenFooty) on Twitter
-
 Remembering and celebrating the history of women's football.

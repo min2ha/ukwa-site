@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Democratic Unionist Party: Robinson Expresses Sympathy on Death of Nelson Mandela
-
 <p>Statement of DUP Leader and First Minister of Northern Ireland, Peter Robinson, on the passing of Nelson Mandela.</p>

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Width of a Post, The 
-
 The Width of a Post is an independent website that aims to provide in-depth coverage and opinion of all matters related to Bradford City. 

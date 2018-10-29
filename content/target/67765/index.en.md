@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Mansefield Arms & Devon Ales
-
 Site of a brewer and their associated public house at Sauchie, Clackmannanshire.

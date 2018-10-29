@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# National Archives UKV (@UkNatArchives) on Twitter
-
 Official archive of the UK government. Discover our online collections, research guides and educational resources spanning 1,000 years of history.

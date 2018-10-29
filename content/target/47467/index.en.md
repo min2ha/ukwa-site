@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Porthcawl Maritime Centre
-
 Porthcawl Maritime Centre is a planned £7m maritime centre for the south Wales seaside town of Porthcawl.

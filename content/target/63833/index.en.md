@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Duddingston Kirk Parish Church
-

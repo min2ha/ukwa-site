@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Edwards AS/MP on Facebook
-
 Member of Parliament for Carmarthen East & Dinefwr.

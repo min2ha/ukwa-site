@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Party, The
-
 The Liberal Party was a political party which, with the Conservative Party, was one of the two major parties in the United Kingdom in the 19th and early 20th century.

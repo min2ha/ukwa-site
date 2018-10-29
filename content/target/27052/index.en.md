@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# UK European Consumer Centre
-
 The UK European Consumer Centre provides free and impartial advice when problems arise in shopping in other European countries. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Whitgiftian RFC (@OldWhitsRFC) on Twitter
-
 The official Twitter account of Old Whitgiftian Rugby Club.

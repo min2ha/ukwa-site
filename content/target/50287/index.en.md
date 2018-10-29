@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carluke Rovers Football Club
-
 Site for a Scottish junior football club based in Carluke, Lanarkshire.

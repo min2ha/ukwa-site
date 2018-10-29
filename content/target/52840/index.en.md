@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Baptist Union: General Election 2017: a reflection
-
 In this reflection, Baptist minister Phil Jump suggests Christians might engage in the forthcoming election campaign aware of three key realities: we are world citizens, we are people of truth, we are people of prayer

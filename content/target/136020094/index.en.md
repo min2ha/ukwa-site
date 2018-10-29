@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk LINk
-
 None

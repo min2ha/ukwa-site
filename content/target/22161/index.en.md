@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mollie Stevenson on Facebook (Communist Party candidate for Newcastle upon Tyne East)
-

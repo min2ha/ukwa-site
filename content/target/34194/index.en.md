@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Association of Personal Injury Lawyers (APIL)
-
 The Association of Personal Injury Lawyers (APIL) has been fighting for the rights of injured people for over 25 years. A not-for-profit campaign organisation, APIL’s 3,800 member lawyers (mainly solicitors, barristers and legal executives) are dedicated to changing the law, protecting and enhancing access to justice, and improving the services provided for victims of personal injury. 

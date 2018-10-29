@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alex Johnstone MSP
-
 The website of Alex Johnstone, Scottish Conservative and Unionist Party Member of the Scottish Parliament for North East Scotland.

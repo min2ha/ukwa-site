@@ -10,6 +10,4 @@
   "start_date": "2016-02-15T09:00:00Z"
 }
 
-# Environmental Industries Commission, The (EIC)
-
 The Environmental Industries Commission (EIC), founded in 1995, represents the businesses which provide the technology and services that deliver environmental performance across the economy. Their member companies come from all parts of the environmental technology and services sector.

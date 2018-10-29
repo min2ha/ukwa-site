@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Chris Stephens, Scottish National Party on Twitter
-

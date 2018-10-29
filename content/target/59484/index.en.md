@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Border Blog
-
 'Independent source of facts, news and analysis on the impact of Brexit on the island of Ireland'

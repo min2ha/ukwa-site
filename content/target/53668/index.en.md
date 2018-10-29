@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Telegraph, The: General Election 2017
-

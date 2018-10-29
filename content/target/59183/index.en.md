@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glasgow University Orienteering Club on Facebook
-
 Site of an orienteering club based in Glasgow and affiliated to the University of Glasgow.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Battersea SW11
-
 BatterseaSW11.com is part of the Neighbour Net group of local community web sites. With a membership of over 34,000 it is the UK's largest network of its kind.

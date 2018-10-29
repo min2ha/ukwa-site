@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Hebrides People
-
 Site of a genealogy database and family history information focusing on the Western Isles of Scotland, mainly Barra, South Uist, Benbecula, North Uist, Harris and Lewis [site in English and Gaelic]

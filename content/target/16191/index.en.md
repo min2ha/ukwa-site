@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservative Friends of Israel (CFI)
-
 Conservative Friends of Israel (CFI) works to promote the support of Israel and to promote Conservatism. The organisation was founded by Michael Fidler in 1974.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Gordon Brown calls for a more positive case to be made for staying in EU 
-
 Guardian, The

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Undecided? Read this essential guide giving 20 reasons why you should choose to leave   
-

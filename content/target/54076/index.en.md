@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Justice & Anti-Corruption Party (JAC Party)
-
 The Justice & Anti-Corruption Party (the JAC Party) is a properly constituted political party registered with the Electoral Commission and works within the laid down standards.

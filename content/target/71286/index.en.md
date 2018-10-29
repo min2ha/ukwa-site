@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Westminister Cathedral Choir School
-
 Westminster Cathedral Choir School is an academically-selective, Catholic preparatory school for about 230 boys aged four to thirteen (Reception to Year 8). 

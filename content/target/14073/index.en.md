@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Severin Carrell (severincarrell) on Twitter
-
 Severin Carrell is Scotland correspondent for the Guardian. He has worked as a home affairs, environment and politics correspondent for the Scotsman and Scotland on Sunday, and as a senior reporter with the Independent and Independent on Sunday.

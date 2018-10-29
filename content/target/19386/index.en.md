@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: New creation by chutney-maker celebrates 800 years of Magna Carta
-

@@ -10,5 +10,3 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Economy 2017 - Co-op economy 2017 report
-

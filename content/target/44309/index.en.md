@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Web Directors
-
 Web Directors is full service web design & development, and graphics design agency in East London. 

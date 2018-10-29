@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Hopkin (@RichardCardiffC) on Twitter
-
 Richard Hopkin is Prospective Conservative MP for Cardiff Central.

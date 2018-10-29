@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Apton
-
 Apton is a music streaming service specifically designed for Welsh music. The service is part-funded by the Welsh Government.

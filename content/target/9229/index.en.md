@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Andrews Curling on Twitter
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Walking Land's End to John o'Groats with Mark Moxon
-
 A website on the classic End-to-End walk with over 100 stories and 900 photographs.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: We're open for business!' PM bangs the drum for post-Brexit Britain in Davos speech as banks ramp up threats to move jobs  
-

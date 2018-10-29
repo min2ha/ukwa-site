@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Your Climate Your Life
-
 Education site operated by the Royal Geographical Society (with the Institute of British Geographers). 

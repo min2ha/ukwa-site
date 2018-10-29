@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Deborah Hopkins (@Rugbymumno9) on Twitter (Labour candidate for St Austell and Newquay) 
-

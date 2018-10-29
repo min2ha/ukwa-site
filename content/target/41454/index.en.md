@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# PricewaterhouseCoopers LLC: Leaving the EU: implications for the EU economy
-

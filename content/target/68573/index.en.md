@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# West Calder Catholic Church Parishes
-
 Site of two Roman Catholic parish church in Scotland, located at West Calder adn Addiewell.

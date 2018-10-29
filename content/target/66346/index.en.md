@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Castle View Ventures Limited
-
 Castle View Ventures Limited is a group of businesses based in Stirling, Scotland. Operations include sports and leisure facilities management, food production, procurement and catering management systems. 

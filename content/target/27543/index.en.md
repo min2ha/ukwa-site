@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: How the Ukip 'people's army' refused to melt in the heat of the battle
-
 None

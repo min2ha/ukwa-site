@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kilmarnock Football Club
-
 Site of a senior professional football club located in Kilmarnock, Ayrshire, Scotland

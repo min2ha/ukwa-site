@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mathew James Norman (@norman_mathew) on Twitter 
-
 Mathew James Norman is the Labour Candidate for Dwyfor Meirionnydd at 2017 General Election.

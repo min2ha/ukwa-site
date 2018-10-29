@@ -10,6 +10,4 @@
   "start_date": "2016-09-01T10:00:00Z"
 }
 
-# John Muir Birthplace Trust
-
 Site of an organisation establised to promote knowledge of the Scottish naturalist John Muir’s life and legacy, encourage participation in conservation and inspire people to follow Muir’s example.

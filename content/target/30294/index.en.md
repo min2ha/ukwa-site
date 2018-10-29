@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# National Records of Scotland: The Forth Rail Bridge - Portraits of a Scottish Icon
-

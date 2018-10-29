@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# BBC News Europe: 2014: Europe's Year of Decision
-
 None

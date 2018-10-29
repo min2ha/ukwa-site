@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kings Heath community website
-

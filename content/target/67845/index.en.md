@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Arloesi Gwynedd Wledig
-
 Arloesi Gwynedd Wledig is funded through the Welsh Government Rural Communities – Rural Development Programme 2014-2020. The aim is to pilot innovative responses to the challenges and opportunities facing rural Gwynedd. The programme is delivered by Menter Môn.

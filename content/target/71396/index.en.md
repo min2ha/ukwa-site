@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Edinburgh Remakery
-
 Site of a social enterprise, community repair hub and second-hand shop based in the Leith area of Edinburgh, whose vision is to create an alternative to a disposable society by making repair education accessible to all, to build a stronger, waste-free community and support vulnerable people within our city.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# All News Is Good (by John Callanan)
-
 British based artist John Callanan's exhibition of front pages of newspapers from around the world.

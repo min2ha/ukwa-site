@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Ardingly College, Sussex
-
 Top co-ed independent day and boarding school in Sussex. Excellent GCSE and A level results, top 10 IB school in the UK. Close to Brighton, Gatwick and London.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Biker's Hub - Motorcycle Forum
-
 An online enthusiast forum concerned with motorcycles. Discusses classic bikes, trikes, bike reviews, project bikes, meets and events and various other topics.

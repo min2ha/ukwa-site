@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cowshed Loyal
-
 The Cowshed Loyal formed in early 2014 originally as the North Stand Loyal. It is an active group of Huddersfield Town fans whose aim is to improve the atmosphere around the stadium on match days.

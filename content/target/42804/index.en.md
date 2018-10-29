@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Refuge
-
 Since 1971, Refuge has led the campaign against domestic violence and become the country’s largest single provider of specialist domestic violence services.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Cerebra
-
 Cerebra is Carmarthen based charity established to help improve the lives of children with brain related conditions through research, education and by directly supporting children and their carers.

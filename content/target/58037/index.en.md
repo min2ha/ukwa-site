@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Mikey Jones Art
-
 Mikey Jones is a Landscape Artist from Wrexham.

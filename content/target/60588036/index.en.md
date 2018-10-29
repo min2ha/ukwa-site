@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Wherwell Village Website, The
-
 None

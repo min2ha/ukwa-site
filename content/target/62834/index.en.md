@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Irish Rugby (@IrishRugby) on Twitter
-
 The official Twitter account of the Irish Rugby Football Union (IRFU) for the island of Ireland.

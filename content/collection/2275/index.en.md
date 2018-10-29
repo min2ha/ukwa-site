@@ -44,6 +44,4 @@
   "endDateText": ""
 }
 
-# Parliamentary Archives
-
 A collection of websites related to the UK Parliament. 

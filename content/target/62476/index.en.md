@@ -10,6 +10,4 @@
   "start_date": "2018-03-10T09:00:00Z"
 }
 
-# LGiU Scotland
-
 Site of an organisation providing a policy information service dedicated to local government across Scotland, working to members by providing practical, up-to-the-minute intelligence on policy issues.

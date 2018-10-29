@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spaxton
-
 This website aims to be a useful resource for the villagers of Spaxton, Somerset, who are looking for information about the Village. 

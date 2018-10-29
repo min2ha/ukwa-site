@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yorkshire Carnegie
-
 Official website for Yorkshire Carnegie who are a Rugby Union club based at Headingley Carnegie in Leeds.

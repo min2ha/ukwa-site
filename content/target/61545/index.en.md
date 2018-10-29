@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What to expect from Chequers?
-
 Comments on possible outcomes of a meeting on the Cabinet Brexit sub-committee on February 22nd 2018 to thrash out a common position on how far the UK can diverge from EU regulations after Brexit.

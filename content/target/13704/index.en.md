@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# North Ayrshire Council: 'Teenagers must stand up and be counted'
-
 None

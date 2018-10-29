@@ -10,8 +10,6 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# British Society for Gene and Cell Therapy
-
 Dedicating to facilitating education, communication and the sharing of expertise and knowledge.
 
 The aim of the British Society for Gene and Cell Therapy is to accelerate scientific progress and promote ethical and efficient transfer of gene- and cell-based technologies from the laboratory into the clinic.

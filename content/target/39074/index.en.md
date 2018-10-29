@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Edwards (@djeukip) on Twitter (UKIP candidate for Clwyd West)
-
 David Edwards is the UKIP candidate for Clwyd West and North Wales at the 2016 National Assembly Elections.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Jim Austin Computer Collection, The
-
 The Jim Austin Computer Collection has been built up since 1986, now containing over 1000 machines and many related items. The collection is designed to show the evolution of computer technology from the beginnings to the present day. It is located in East Yorkshire Wolds.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Fishforth | Forth Freshwater Fisheries – Conserving, Protecting and Enhancing the Districts Rivers
-
 A site shared by the River Forth Fisheries Trust and Forth District Salmon Fishery Board.

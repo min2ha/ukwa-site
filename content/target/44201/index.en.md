@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Julie Girling (@juliegirling) on Twitter (Conservative MEP for the South West and Gibraltar)
-
 Julie Girling stood as Conservative candidate for the South West and Gibraltar at the 2009 European Parliament election and was elected to serve as MEP. She stood for re-election in 2014 and was successful.

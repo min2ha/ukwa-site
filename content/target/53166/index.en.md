@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# CIPD: Brexit Hub
-
 Dedicated commentary and resources to help businesses respond with agility and plan for the future.

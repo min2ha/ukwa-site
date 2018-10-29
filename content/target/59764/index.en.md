@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Innerleithen Online
-
 Site of a community in the Scottish Borders providing information on amenities, services, clubs and activities for visitors and  residents.

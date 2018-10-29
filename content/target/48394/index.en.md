@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Valerie Leblond
-
 Valerie Leblond is a 'French and Quebecker artist who has lived in Wales since 2007'.

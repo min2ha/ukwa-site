@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Scottish Film Education
-
 Site of a project that aims to develop the ambition, engagement and participation of young people and education partners in film and the moving image in Scotland, through a range of projects with cinemas, schools, youth organisations and other partners across Scotland.

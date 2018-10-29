@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish Labour is in charge of decisions in Scotland, Jim Murphy insists
-
 None

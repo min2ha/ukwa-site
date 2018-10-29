@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg: don’t let Andreas Lubitz distort views about mental illness
-
 None

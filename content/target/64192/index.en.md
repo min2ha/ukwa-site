@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Morgan Francis Welsh Poet
-
 Morgan Francis is a Welsh Poet. As of 2017, he has published 4 books of poetry.

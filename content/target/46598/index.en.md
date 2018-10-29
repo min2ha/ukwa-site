@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Comann nam Parant Port Righ
-
 A site for parents whose children are or will be going into Gaelic-medium education

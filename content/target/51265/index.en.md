@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Association of Nigeria UK
-
 The association started in United Kingdom as an informal group of Nigerian students in the 1950s, with a view to continue the practice of their religion, creating an avenue for coming together, and to further their religious awareness in a non-Muslim environment. 

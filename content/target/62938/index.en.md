@@ -10,5 +10,3 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-#  Cwmaman Theatre
-

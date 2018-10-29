@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The 48% on Facebook
-
 Campaign group, not affiliated to any political party, which seeks to retain the UK's membership of the European Union.

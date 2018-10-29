@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Free from festival
-
 UK's first gluten, dairy and refined sugar-free food festival

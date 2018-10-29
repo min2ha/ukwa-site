@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Grant Shapps: online debate plausible if No 10 and broadcasters can't agree
-

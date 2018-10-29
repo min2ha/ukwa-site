@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Lodge Pollokshaws Royal Arch  No. 153
-
 Site of a Royal Arch masonic lodge located in Pollokshaws, Glasgow and affiliated with the Grand Lodge of Scotland.

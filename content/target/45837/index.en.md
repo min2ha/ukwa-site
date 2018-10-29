@@ -10,5 +10,3 @@
   "start_date": "2016-10-01T11:00:00Z"
 }
 
-# Sefydliad y Ffiseg yng Nghymru | Institute of Physics in Wales
-

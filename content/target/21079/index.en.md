@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gerry Kelly (@GerryKellyMLA) on Twitter (Sinn Fein candidate for Belfast North)
-

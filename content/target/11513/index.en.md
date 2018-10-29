@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Politics.co.uk: Scottish independence referendum
-
 None

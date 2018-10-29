@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Marchers demand final Brexit deal vote
-
 Tens of thousands of people marched in central London to demand a final vote on any UK exit deal, on the second anniversary of the Brexit vote.

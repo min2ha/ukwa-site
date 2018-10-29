@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Former Labour official claims shadow cabinet wants EU referendum
-
 None

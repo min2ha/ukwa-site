@@ -10,5 +10,3 @@
   "start_date": "2015-04-27T00:00:00Z"
 }
 
-# Maria Hayes - Artist and illustrator
-

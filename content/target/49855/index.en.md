@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Oswestry Family & Local History Group 
-

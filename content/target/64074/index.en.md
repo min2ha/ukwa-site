@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Engender Scotland (@EngenderScot) on Twitter
-
 Engender is Scotland’s feminist organisation. We work for women's political, econom

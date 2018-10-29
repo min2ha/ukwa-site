@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NUWFC_PastChairman (@NUWFC) on Twitter
-
 This is a twitter page to promote the ladies who play for Newcastle United Women's FC. 

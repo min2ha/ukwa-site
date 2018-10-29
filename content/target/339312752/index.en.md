@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Loch Lomond and The Trossachs National Park
-

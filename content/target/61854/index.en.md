@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Creative Industries Federation: Sir John Major's Full Brexit Speech, Somerset House, Wednesday 28 February 2018
-
 Calls for MPs to get a free vote on any final Brexit deal, and for a possible second referendum.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Would £6,000 tuition fees be a vote winner for Labour?
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Philip Nicol
-
 Philip Nicol is a Welsh artist from Caerphilly. He won the Gold Medal in Fine Art at the National Eisteddfod of Wales in 2001.

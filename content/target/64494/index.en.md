@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Alyn Books
-
 Alyn books published books on the heritage and landscape of the North Wales borderlands. 

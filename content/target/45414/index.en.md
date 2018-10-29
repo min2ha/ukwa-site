@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Conversation - Rio 2016
-
 Articles on Rio 2016

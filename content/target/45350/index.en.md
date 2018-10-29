@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Seren Books Blog
-
 Seren is an independent literary publisher specialising mainly in English writing from Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rhoda Grant on Facebook
-
 The facebook page of Rhoda Grant, former Scottish Labour Member of the Scottish Parliament and candidate in the 2016 Scottish Parliamentary election.

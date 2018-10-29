@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's, Loudwater
-
 St Peter's was founded toward the end of the eighteenth-century evangelical revival - a great move of the Holy Spirit that transformed society in England over two generations.  At the time a great number of chapels sprang up to serve local communities and the mill owners of Loudwater paid for the building of St Peter's as a chapel to be a place of worship for the local workers.  Loudwater was described as a substantial village in the parish of Wycombe at that time.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Côf Cymru - National Historic Assets of Wales
-
 Côf Cymru - National Historic Assets of Wales, an online service that has been developed by Welsh Government’s Historic Environment Service (Cadw). Côf Cymru displays depictions and associated record descriptions of Designated Historic Assets in Wales.  ‘Designated Historic Assets’ for such protected sites, however, can also refer to Scheduled Monuments, Listed Buildings, Protected Wrecks, Registered Historic Landscapes and World Heritage Sites.

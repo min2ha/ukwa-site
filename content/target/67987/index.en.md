@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Uxbridge RFC (@UxbridgeRugby) on Twitter
-
 The official Twitter account of Uxbridge RFC.

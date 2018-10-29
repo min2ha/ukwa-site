@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In the election numbers game, the odds are stacked against Cameron
-
 None

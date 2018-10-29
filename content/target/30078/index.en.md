@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Action on Armed Violence (AOAV) 
-
 Action on Armed Violence (AOAV) has a central mission: to carry out research, advocacy and field work in order to reduce the incidence and impact of global armed violence.

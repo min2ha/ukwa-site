@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emily Diamond (EmilyDiamond11) on Twitter
-
 <p>The twitter profile of athlete Emily Diamond, member of the women's 400 metre relay for Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Will Brexit be a success? Academics devise test to find out
-

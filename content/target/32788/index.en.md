@@ -10,6 +10,4 @@
   "start_date": "2015-11-24T09:00:00Z"
 }
 
-# Oriana Publications
-
 Welsh music publisher.

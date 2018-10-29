@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU court backs UK Government's right to restrict migrant benefits
-

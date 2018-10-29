@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-#  Nia Lloyd Hughes, Welsh Watercolour Artist
-
 Nia Lloyd Hughes is a professional watercolour artist and member of the Watercolour Society of Wales. She is based in Ruthin, Denbighshire.

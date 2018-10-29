@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband says Michael Fallon has "demeaned himself" with personal attack over Trident 
-
 None

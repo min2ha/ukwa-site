@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Seamens Christian Friend Society
-
 Seamens Christian Friend Society is a Christian organisation helping seamen and women around the world. They operate a network of Friends in the major ports all over the world.

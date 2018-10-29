@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Scott Dickinson (Labour candidate for Berwick upon Tweed)
-

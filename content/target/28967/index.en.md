@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Norwich Conservatives
-
 Website of Norwich Conservatives, providing information on the MP, local councillors and staff, and local and national news updates.

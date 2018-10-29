@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lewis Smith (lewsmith88) on Twitter
-
 <p>The twitter profile of althete Lewis Smith, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Budget unveiled with Brexit 'safety nets' ahead of 'final settlement'
-
 In its first spending plan since the UK voted to pull out of the EU, the Irish government revealed it is diverting hundreds of millions into future-proofing the country against the fall-out.

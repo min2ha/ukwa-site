@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirklees Council: Yorkshire Grand Depart
-
 Tour de France web page for Kirklees Council

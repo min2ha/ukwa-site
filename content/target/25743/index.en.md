@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: At the risk of sounding like a trendy vicar, register to vote
-
 None

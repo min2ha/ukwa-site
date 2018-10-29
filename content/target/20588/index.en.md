@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP set for 56 of 59 Scottish seats in general election, poll suggests 
-

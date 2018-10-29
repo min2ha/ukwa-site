@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit will let Britain halve net migration: Major report delivers devastating verdict on post-referendum scaremongering    
-

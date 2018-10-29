@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# We are cycling UK
-
 Cycling UK’s vision is of a healthier, happier and cleaner world, because more people cycle.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: David Davis hopes EU tour will ease talks
-
 Comments on Britain's likely tactics in the second phase of negotiations to leave the EU.

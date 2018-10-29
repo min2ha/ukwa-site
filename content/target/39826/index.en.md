@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Doon Valley SNP (@DoonValleySNP) on Twitter 
-
 Twitter profile of the Doon Valley branch of the Scottish National Party (SNP).

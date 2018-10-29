@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Punch Records
-
 Punch Records is a Birmingham-based Music & Arts agency working through four central 'pillars' - Creating, Touring, Programming and Educating through award-winning tours, festivals, international projects and innovative educational & outreach programmes for young people.  Punch Records was founded in the Perry Barr area of Birmingham in 1997 by Ammo Talwar MBE. The organisation began as an urban music record store, and a place where underground DJs from the West Midlands could demonstrate and grow their mixing and rapping abilities.

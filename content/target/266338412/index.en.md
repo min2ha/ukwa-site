@@ -10,5 +10,3 @@
   "start_date": "2014-10-16T00:00:00Z"
 }
 
-# Welsh Refugee Council | Cyngor Ffoaduriaid Cymu
-

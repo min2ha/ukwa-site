@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# Wound Care Alliance UK (WCA UK)
-
 Wound Care Alliance UK was established after disolvement of the Wound Care Society (WCS) and Tissue Viability Nurses Association (TVNA). Wound Care Alliance hopes to nurture healthcare professionals working at a basic level and encourage them to pursue their education within tissue viability, bringing forward the Tissue Viability Nurses, Podiatrists and therapists of the future.

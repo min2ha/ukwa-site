@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Humanists UK (@Humanists_UK) on Twitter
-
 The official Twitter account of the British Humanist Association.  

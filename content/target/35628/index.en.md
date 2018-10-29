@@ -10,6 +10,4 @@
   "start_date": "2016-02-22T09:00:00Z"
 }
 
-# Institute of Charted Accountants Scotland (ICAS)
-
 ICAS is a professional body for more than 20,000 business people who work in the UK and in more than 100 countries around the world. Their members have all achieved the internationally recognised and respected CA qualification (Chartered Accountant). They are an educator, examiner, regulator, and thought leader in the field.

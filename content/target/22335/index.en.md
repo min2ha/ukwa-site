@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Ballantyne (@ballantyneml) on Twitter
-
 Twitter profile of Michelle Ballantyne, Scottish Conservative and Unionist candidate for Midlothian South, Tweeddale and Lauderdale in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Angus Macleod Archive
-
 Information about the archived collection of Angus Macleod covering the culture and society of the Highlands and islands of Scotland.

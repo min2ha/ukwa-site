@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Homeless Link: Homelessness sector calls for manifesto pledges to end rough sleeping
-
 With the snap election scheduled for 8 June 2017, Homeless Link, together with some of their national members, calls on all political parties to pledge to commit to end rough sleeping in their General Election manifestos. 
 

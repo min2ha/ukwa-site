@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: A Stop Brexit party would never work. But politicians will still try to pander to those in 'Brenial' 
-
 Anti-Brexiteers may not go as far as setting up their own party, but they'll fight against the referendum result as hard as they can in their current parties. The pro-EU demos and mawkish "Marches for Europe" won't just be a flash in the pan. The polls show many Remain voters still want to stop Britain leaving, so these politicians will do all they can to reach out to them.

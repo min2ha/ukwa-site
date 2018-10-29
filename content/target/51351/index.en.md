@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Brian Lobel
-
 Brian Lobel create performances about bodies: politicized bodies, marginalized bodies, dancing and singing bodies, happy bodies, sick bodies and bodies that need a little extra love.

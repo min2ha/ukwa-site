@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pitchero
-
 Pitchero is a global network of sports websites uniting millions of players, parents, coaches and club officials online.

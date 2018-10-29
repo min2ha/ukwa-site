@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Houslow Liberal Democrats
-
 Get the latest information and updates from the Hounslow Liberal Democrats.

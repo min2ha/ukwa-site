@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Dyffryn Community Link
-
 Dyffryn Community Link is a community regeneration and development body for the area of Dyffryn in Newport.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Trade Association Forum
-
 The Trade Association Forum encourages the development and sharing of best practice among UK trade associations and promoting the role of effective trade associations to government, industry and the wider public. It was established in 1997.

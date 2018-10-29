@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heeley Online
-
 <p>Community news and events in Heeley, Meersbrook and Lower Arbourthorne (suburbs of Sheffield).</p>

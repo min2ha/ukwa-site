@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Complete Works, Poetry, The
-
 The Complete Works (TCW) is a national poetry mentoring programme which selects 10 outstanding black and Asian poets annually, offering them mentoring, seminars, literature retreats and publication in a Bloodaxe anthology.  It was set up in 2005 by Bernadine Evaristo.

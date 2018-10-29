@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# David Haswell Gallery
-
 David Haswell is from Abergavenny and is a painter of the UK National Parks.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Swansea & Mumbles Railway: A Journey through the Archives
-
 This website is compiled by a group of MA History students at Swansea University. The aim of this website is to raise awareness of The Swansea & Mumbles Railway collection, housed in the Richard Burton Archive within Swansea University.

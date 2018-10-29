@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Chris Elmore MP on Facebook
-
 Chris Elmore is the Labour MP for Ogmore.

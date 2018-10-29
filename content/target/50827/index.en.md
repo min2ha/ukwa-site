@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St John’s Church, Wrexham
-
 St John’s Church, Wrexham is one of 6 other churches we make up the Anglican Parish of Wrexham. 

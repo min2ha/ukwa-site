@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tom Harris (@MrTCHarris) on Twitter
-
 Twitter profile of Tom Harris, Director of Scottish Vote Leave and columnist for the Daily Telegraph.

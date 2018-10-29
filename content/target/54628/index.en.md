@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Cardiff Uni Labour (@LSCaerdydd) on Twitter
-
 Twitter account of Cardiff University Labour.

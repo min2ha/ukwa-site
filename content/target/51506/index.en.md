@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What’s to blame for this misfortune? David Cameron’s hubris about Brexit
-

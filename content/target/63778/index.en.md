@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Tamworth Borough Council
-
 Website of Tamworth Borough Council offers local news and events information, an overview of services, access to budget and financial information, committee papers, planning documentation and consultations

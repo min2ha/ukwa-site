@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Stanton Healthcare Belfast 
-
 Stanton Healthcare is an American anti-abortion healthcare provider, this is the website of their Belfast branch.

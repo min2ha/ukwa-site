@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip in crisis: Nigel Farage faces down calls to resign as party leader - as it happened
-
 None

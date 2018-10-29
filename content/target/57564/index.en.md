@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Voters spat in Europe's face by choosing to leave the EU, says Sir David Attenborough: Naturalist launches broadside at Brexiteers   
-

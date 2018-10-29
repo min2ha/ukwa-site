@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Fair Treatment for the Women of Wales, FTWW
-
 Fair Treatment for the Women of Wales (FTWW) is dedicated solely to women’s health equality in Wales and support, inform, educate, and advocate for girls and women in Wales who are suffering a range of health conditions and who are not receiving adequate (or fair) treatment. 

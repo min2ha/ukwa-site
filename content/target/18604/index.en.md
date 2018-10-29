@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Williams on Facebook
-
 Welsh Liberal Democrat MP for Ceredigion.

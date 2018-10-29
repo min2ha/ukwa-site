@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# French Nanny
-
 French Nanny is placing French speaking nannies in London

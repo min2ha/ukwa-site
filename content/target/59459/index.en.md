@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hope Church Rhondda
-
 Hope Church meet in Tonypandy and is part of the Advance global movement.

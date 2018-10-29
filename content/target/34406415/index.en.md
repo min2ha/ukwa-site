@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# BBC Blogs: Bradley's Blog
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Toni Giugliano (@ToniGiugliano) on Twitter
-
 Twitter profile of Toni Giugliano, Scottish National Party candidate for Edinburgh West in the 2017 general election.

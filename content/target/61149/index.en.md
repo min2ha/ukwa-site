@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Implementing the UK’s Exit from the European Union – People and skills: The role of the centre of government
-
 A briefing describing how the centre of government is supporting departments to identify the people and skills needed to implement the UK’s exit from the European Union.

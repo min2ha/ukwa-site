@@ -10,6 +10,4 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Paisley Natural History Society 
-
 Site of a society encouraging study and conservation of wildlife in Paisley and Renfrewshire.

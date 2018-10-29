@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Umilta
-
 Website on Julian of Norwich, author of 'Showing of Love'. 

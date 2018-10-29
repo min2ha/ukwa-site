@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Shetland Islands Council: Joint Our Islands, Our Future Release
-
 None

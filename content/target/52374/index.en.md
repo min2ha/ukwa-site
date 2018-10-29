@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Strathard News
-
 Site of a local newspaper for the Trossachs’ communities of Aberfoyle, Kinlochard, Stronachlachar, and Inversnaid, produced by colunteers and circulated free of charge.

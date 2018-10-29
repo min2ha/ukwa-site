@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stuart McMillan MSP (StuMcMillanSNP) on Twitter
-
 Twitter profile of Stuart McMillan, the Scottish National Party member of the Scottish Parliament for West Scotland.

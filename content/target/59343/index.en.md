@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Allan Glens Rugby Club
-
 Site of a Scottish rugby union football club based in Bishopbriggs, Glasgow.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's Lynn Online
-
 They are an Independent website promoting King’s Lynn and wonderful West Norfolk since 1997.

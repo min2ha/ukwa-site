@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Arondora Star Memorial Fund in Wales
-
 Commemorating the lives of 53 Welsh-Italians who were sent for internment in camps in Canada during Worls War Two but died during the sinking of SS Arandora Star in 1940.

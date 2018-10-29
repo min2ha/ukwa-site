@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Wales Chronicle
-
 Online newspaper based in Llanelli.

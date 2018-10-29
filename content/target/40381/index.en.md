@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Margaret Bennett
-
 Site of an storyteller and musician dedicated to Scottish Culture by bridging traditions through Scottish Music, workshops in Gaelic and Scots songs.

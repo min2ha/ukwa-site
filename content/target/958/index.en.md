@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Demos: Taking sides on NHS reform
-
 None

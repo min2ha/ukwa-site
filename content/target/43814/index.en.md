@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Young people – if you're so upset by the outcome of the EU referendum, then why didn't you get out and vote?
-

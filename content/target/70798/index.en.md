@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sun, The: What is gender-neutral parenting and gender-free teaching for kids? New trends explained by Maryse Godden 
-
 An article about gender neutral parenting and teaching

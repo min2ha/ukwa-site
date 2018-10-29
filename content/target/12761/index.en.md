@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Africa in Motion: Scotland African Film Festival
-
 <p>Africa in motion. This Scottish based film festival has a touring programme of African sports films, entitled Sports Stories from around the African Commonwealth, which journeyed across Scotland during the lead up to the Glasgow 2014 Commonwealth Games. The tour is an official Culture 2014 event.</p>

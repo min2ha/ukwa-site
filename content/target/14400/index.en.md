@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison - Can someone please lead me to link which shows the...: Facebook
-
 Ewan Morrison's Facebook post of the 1st of September, 2014.

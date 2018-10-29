@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# WimbledonSW19.com
-

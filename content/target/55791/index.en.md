@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Emma Kavanagh
-
 Emma Kavanagh is an author and Police & military psychologist from south Wales.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Cycling: Tour de France 
-

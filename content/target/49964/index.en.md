@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# South Wishaw Parish Church 
-
 Website of the South Wishaw Parish Church. 

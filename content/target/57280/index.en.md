@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Glasgow Life Photo Library
-
 Site containing images of items in the unique collections of Glasgow Museums and Glasgow Libraries and Archives.

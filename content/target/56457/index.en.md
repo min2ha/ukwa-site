@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southbank Centre: Belief and Beyond Belief 
-
 Belief and Beyond Belief explores the music, art, culture, science, philosophy, ritual and traditions that have risen out of religion in its many guises.

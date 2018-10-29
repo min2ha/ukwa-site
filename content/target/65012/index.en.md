@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Grapvines Bridgend
-
 Grapevines Bridgend is the online mental health and well-being directory for Bridgend County Borough

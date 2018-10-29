@@ -10,6 +10,4 @@
   "start_date": "2018-08-30T09:00:00Z"
 }
 
-# James Joyce Online Notes
-
 James Joyce Online Notes website was set up in 2011 as a free public-access website publishing articles on the people, the words, and other cultural references in James Joyce’s Ulysses and his earlier works. 

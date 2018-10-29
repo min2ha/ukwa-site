@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Russell Moyle (Labour Politician)
-
 Russell Moyle stood as Labour candidate for Brighton Kemptown in the 2017 General Election but was not elected.

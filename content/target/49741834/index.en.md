@@ -10,5 +10,3 @@
   "start_date": "2010-06-15T00:00:00Z"
 }
 
-# Welcome to Andrew Bailey's website - Pembrokeshire light in watercolour
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# St. Regulus No. 77
-
 Site of a masonic lodge located in Dupar, Fife and affiliated with the Grand Lodge of Scotland.

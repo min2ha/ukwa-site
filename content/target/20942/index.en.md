@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stewart McDonald (@StewartMcDonald) on Twitter
-
 Twitter profile of Stewart McDonald, Scottish National Party candidate for Glasgow South in the 2017 general election.

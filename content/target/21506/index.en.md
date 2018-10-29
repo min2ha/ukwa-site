@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage 'shocked' by claims of expense fiddling that triggered Ukip MEP's sacking
-
 None

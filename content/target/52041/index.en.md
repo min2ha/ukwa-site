@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Baptist Church, Erith
-
 St John the Baptist Church has existed for nearly a thousand years and is one of the oldest buildings in Erith.
 
 The Christian family at St. John’s is made up of people of all ages and backgrounds.

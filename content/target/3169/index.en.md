@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# Society for Co-operation in Russian and Soviet Studies (SCRSS)
-
 The Society for Co-operation in Russian and Soviet Studies (SCRSS) is a library and cultural centre, based in London, which promotes knowledge of the culture, language and history of Russia and the former Soviet Union. The Society is a registered charity and celebrated its 90th anniversary in 2014. The society publishes 'The SCRSS Digest', which appears three times a year and includes feature articles, reports, reviews, SCRSS news and Soviet Memorial Trust Fund news.

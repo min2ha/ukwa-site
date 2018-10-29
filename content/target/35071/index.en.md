@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Ysgol Trefriw | Trefriw School
-
 Trefriw school is a primary school in Conwy and is due to close in 2017.

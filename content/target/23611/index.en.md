@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Rix (@TruroSimonRix ) on Twitter (Liberal Democrats candidate for Truro and Falmouth)
-
 Simon Rix stood as Liberal Democrats candidate for Truro and Falmouth at the 2015 General Election but was not elected. 

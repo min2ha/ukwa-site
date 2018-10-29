@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Anxiety over health 'caused by cyber-chondria'
-
 News story about health anxiety and the rise in excessive worrying about health attributed to the internet labelled 'cyber-chondria'

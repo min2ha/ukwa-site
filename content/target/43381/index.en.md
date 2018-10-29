@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# xtb Online Trading: Brexit | EU Referendum: Live Blog
-
 A live blog concerning the economic issues involved in 'Brexit'.

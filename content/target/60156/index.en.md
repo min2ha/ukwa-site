@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Future: #LikeMinded: A new series on social media and mental health
-
 Website promoting a new series by the BBC on social media and its impact on our mental well-being 

@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# East Park
-
 Site of a Scottish charity based in the Maryhill area of Glasgow, providing education and supported accommodation services to children and young people with additional support needs.

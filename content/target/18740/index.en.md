@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: No wonder Cameron wants to celebrate the Magna Carta - back then plebs had the same human rights as a parsnip 
-

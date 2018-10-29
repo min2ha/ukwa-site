@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK National Screening Programme
-
 None

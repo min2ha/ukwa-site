@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Welsh Liberal Democrats in Carmarthenshire and Pembrokeshire
-
 News from Welsh liberal democrats in Carmarthenshire and Pembrokeshire 

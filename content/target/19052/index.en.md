@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Brit of a twit: David Cameron stumped by questions about British history on Letterman Show
-

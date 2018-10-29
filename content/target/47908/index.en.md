@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent, The:  Theresa May rejects EU's £50bn Brexit 'divorce payment' figure
-
 It was widely reported in December 2016  that Britain could face a hefty one-off bill for Brexit – a payment that could eat into the supposed budget savings promised by Leave campaigners. However, Theresa May’s official spokesperson said negotiations had not yet begun and that a figure on what the UK might pay as part of any settlement “did not actually exist”.

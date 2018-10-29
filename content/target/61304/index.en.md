@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# East Gwent Association Football League
-

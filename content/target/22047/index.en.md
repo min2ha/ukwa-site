@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Noel Matthews on Facebook (UKIP candidate for Cumbria Barrow and Furness)
-

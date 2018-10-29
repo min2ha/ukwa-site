@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sarah Olney for Richmond Park
-
 Campaign website of Sarah Olney, elected as Liberal Democrat MP on December 1st 2016. She opposes a 3rd runway at Heathrow and supports remaining in the EU.

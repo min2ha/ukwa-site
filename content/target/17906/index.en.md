@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visit Surrey: Magna Carta in Surrey - Celebrating 800 years of the Free World
-

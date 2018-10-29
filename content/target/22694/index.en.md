@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tristan Osborne (@cllrtrisosborne) on Twitter (Labour candidate for Chatham and Aylesford)
-

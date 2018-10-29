@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Glasgow City Conservative Association
-
 Website of Glasgow Conservatives, providing information on candidates and representatives, campaigning and social events and local and national news updates.

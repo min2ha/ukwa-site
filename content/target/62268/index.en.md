@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Gigg Lane Stadium
-
 Gigg Lane, also known as the Energy Check Stadium, is an all-seater football stadium in Bury, Greater Manchester, England. It was built for Bury F.C. in 1885 and has been their home ever since. Bury FC have proposed to build a new stadium before 2021. Bury’s plan is ambitious with the capacity expected to be between 15,000 and 20,000.

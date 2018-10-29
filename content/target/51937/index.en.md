@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Redhill
-
 Holy Trinity Church was built in 1906 to the designs of the Architect R H Mew. A polished granite foundation stone at the east end of the church reads "In the faith of the Holy Trinity and in memory of a faithful servant of God Henry Brass first Vicar of the Parish of St. Matthew, Redhill.

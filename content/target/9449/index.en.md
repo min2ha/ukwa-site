@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Chambre de Commerce Française de Grande-Bretagne - The Official French Chamber of Commerce in Great Britain
-

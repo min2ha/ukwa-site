@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Scottish Words Illustrated
-
 WordPress site listing and defining Scots words, setting them in context and associating with cartoon illustrations.

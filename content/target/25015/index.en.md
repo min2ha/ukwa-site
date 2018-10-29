@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Cameron to stay PM? Exit Poll puts Conservatives as LARGEST party
-
 None

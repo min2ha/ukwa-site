@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: DUP spells out demands in event of hung parliament
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Devro plc
-
 Devro plc is a manufacturer and distributor of goods derived from collagen, principally sausage casings, coatings and other specialised products for use in the healthcare and cosmetics industries. 

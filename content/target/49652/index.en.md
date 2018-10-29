@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Shut Down LD50
-
 Campaign against the hosting of racist speakers and display of neo-Nazi artworks at LD50 art gallery in Dalston, London

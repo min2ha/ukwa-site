@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Mike Knowles
-
 Mike Knowles lives in Anglesey and is an elected member of the RCA (Royal Cambrian Academy). His work is concerned largely with landscape, both rural and urban, although the human figure continues to be a recurrent subject.

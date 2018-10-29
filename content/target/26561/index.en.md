@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Europe braces for David Cameron's EU demands after Tory election win
-
 None

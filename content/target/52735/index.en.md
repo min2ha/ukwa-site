@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# HESA (Higher Education Statistics Agency)
-
 HESA collect, process and publish data about higher education in the UK.  

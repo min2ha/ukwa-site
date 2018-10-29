@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# GM 1914: The First World War in Greater Manchester
-

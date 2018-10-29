@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Bottle Cap Brewery on Facebook
-
 Facebook page of a brewer located in Aberdeen.

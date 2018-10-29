@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Open Democracy
-
 An OpenDemocracy piece on the Grenfell Tower Disaster

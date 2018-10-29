@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mairi Evans SNP - Angus North and Mearns on Facebook
-

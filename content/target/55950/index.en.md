@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Mandolin.org.uk forum
-
 An online enthusiast forum concerned with mandolin playing. Discusses music, instruments and equipment and various other topics. 

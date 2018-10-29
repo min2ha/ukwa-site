@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: NHS plan in case of no-deal Brexit, Simon Stevens says
-
 The chief executive of NHS England, Simon Stevens, said that extensive planning was under way to prepare for a "no-deal" Brexit.

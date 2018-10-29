@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Cooney club – Aberdeen’s Virtual Social centre.
-
 The Cooney club, Aberdeen’s Virtual Social centre, is a new web site we hope will encourage activist groups to move away from corporate tax avoiding media providers to activist run services. We have included a forum with chat facilities and a library for video’s and PDF’s. We also have an event calendar and a rolling blog. Includes links to a range of activist groups in Aberdeen.

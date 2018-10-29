@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Rare Magna Carta copies to be displayed for 800th anniversary celebrations of its sealing
-

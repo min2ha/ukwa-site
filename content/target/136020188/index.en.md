@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Voices 4 Wellbeing - Rochdale LINk 
-
 None

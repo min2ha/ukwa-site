@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: Agriculture and trade
-
 Policy changes and the outcome of Brexit negotiations will impact on UK agriculture and UK trade trends in agricultural products. EU membership has driven agricultural support and funding through the Common Agricultural Policy, trade arrangements through the single market and external tariffs and supply of labour to UK farms. This paper explores some of the implications of Brexit for agriculture.

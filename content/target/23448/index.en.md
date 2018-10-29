@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matt Rodda (Labour Politician)
-
 Matt Roda stood as Labour candidate for Reading East at the 2017 General Election and was elected.

@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Telegraph, The: JK Rowling apologises for killing Snape
-

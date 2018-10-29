@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Moretonhampstead Hub
-
 <p>Website with information about Moretonhampstead in Dartmoor National Park, Devon.</p>

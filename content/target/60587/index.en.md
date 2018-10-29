@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News:Tories' Brexit agonies resurface
-
 If the Tory party had wanted intentionally to display just how divided they were over Brexit in January 2018 and how generally twitchy they were, they could hardly have done a better job. This article discusses the possibility of a leadership challenge mounted by Brexiteers to oust Theresa May.
 

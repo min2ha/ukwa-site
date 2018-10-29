@@ -10,6 +10,4 @@
   "start_date": "2015-04-21T09:00:00Z"
 }
 
-# Facebook: Jackie Baillie MSP
-
 The Facebook profile of Jackie Baillie, MSP for Dumbarton.

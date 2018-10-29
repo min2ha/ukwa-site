@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redcar and Cleveland Borough Council
-
 The website of Redcar and Cleveland Borough Council offers news and information on its services, including Redcar & Cleveland Magazine. It also provides access to consultations, planning documentation, committee papers, and information on the budget and expenditure.

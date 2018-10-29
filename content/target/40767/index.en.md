@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Pittenweem Arts Festival
-
 Website of the an annual visual arts festival which takes place throughout the village of Pittenweem in Fife, Scotland.

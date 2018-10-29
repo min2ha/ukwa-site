@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Scottish Borders Brewery
-
 Site of a brewery located near Jedburgh in the Scottish Borders, and a brach of the Chesters Estate business.

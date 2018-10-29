@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: What if there's no Brexit deal?
-
 What could happen if the EU and UK negotiators don't agree a withdrawal agreement in time and the UK has to leave the EU on 29 March 2019 without one - and with no framework for future relations either? This paper looks at how such a situation might come about, the constitutional implications for the UK and the devolved administrations, and what the impact might be in a range of policy areas.
 

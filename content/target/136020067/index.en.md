@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Knowsley Health and Wellbeing Board
-

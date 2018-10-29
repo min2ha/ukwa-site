@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Ceann an Tuirc Gaelic Choir
-
 Ceann an Tuirc Gaelic Choir.

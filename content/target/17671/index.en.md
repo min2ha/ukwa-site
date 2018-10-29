@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour unveils plans to aid training and recruitment of headteachers
-
 None

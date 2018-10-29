@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Chayn
-
 Chayn is a UK based volunteer-driven, open-source organisation that believes in making a difference through technology around the world. Chayn was formed to campaign for gender equality and for the emancipation and empowerment of women against the patriarchy, oppression and abuse. 

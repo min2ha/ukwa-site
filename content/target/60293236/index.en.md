@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Methodist Church, The, North Hertfordshire Circuit
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Celebrate Magna Carta weekend at the St Albans Festival
-

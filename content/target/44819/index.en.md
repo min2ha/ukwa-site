@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nation of Champions Wales
-
 Sport Wales website for the 2016 Olympic Games in Rio.

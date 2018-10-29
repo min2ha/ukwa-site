@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Your Freedom and Ours
-
 Eurosceptic blog

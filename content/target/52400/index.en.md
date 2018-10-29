@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Compass: The Progressive Alliance and Hard Brexit
-
 Article bewails the tactical errors made by Jeremy Corbyn and Labour in responding to the vote to leave the EU and laments the economic consequences of hard Brexit.

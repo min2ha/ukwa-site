@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlotte Dobson (@charlottegbr) on Twitter
-
 Twitter profile of athlete and sailor Charlotte Dobson.

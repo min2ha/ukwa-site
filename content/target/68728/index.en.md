@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 9th July 2019: Exiting the EU
-
 Theresa May's statement on her compromise proposals for the future UK-EU relationship was read, followed by questions

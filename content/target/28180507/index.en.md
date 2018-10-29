@@ -10,5 +10,3 @@
   "start_date": "2009-04-21T00:00:00Z"
 }
 
-# Ian Carr and Nucleus Website, The
-

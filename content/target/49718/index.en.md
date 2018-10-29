@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Ensemble
-
 Site of a choral music group based in Fife and including work from opera, operetta and musicals in their repertoire.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rotherham United Ladies Football Club
-
 The official website of Rotherham United Ladies Football Club.

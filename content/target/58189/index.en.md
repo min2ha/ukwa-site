@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# To Absent Friends...
-
 Site of a festival of storytelling and remembrance of deceased friends and family, helf throughout Scotland.

@@ -10,5 +10,3 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Scottish Parliament: Scottish Government budget now subject to much greater volatility, says Holyrood’s Finance Committee convener - News & Parliament TV
-

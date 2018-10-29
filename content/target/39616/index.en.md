@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bruce Crawford on Facebook
-
 Facebook page of Bruce Crawford, the Scottish National Party (SNP) Candidate for the 2016 Holyrood Elections for the Constituency of Stirling. 

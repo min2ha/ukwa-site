@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jon Ashworth on Facebook (Labour candidate for Leicester South)
-

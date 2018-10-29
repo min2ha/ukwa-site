@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Cayman Island Journal
-
 The Journal is an authoritative broadsheet, featuring in-depth reviews on local and international business and finance issues that have an impact on Cayman Islands.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Public Finance
-
 Public Finance is published by Redactive Media Group on behalf of CIPFA, the Chartered Institute of Public Finance & Accountancy. They provide news, analysis, opinion and insight to help professionals in public finance stay informed about the very broad range of topics affecting their work.

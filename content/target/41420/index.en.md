@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Edinburgh Net
-
 South Edinburgh's community network

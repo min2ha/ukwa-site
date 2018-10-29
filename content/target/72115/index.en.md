@@ -10,7 +10,5 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# John Quirk
-
 "
 John Quirk is a Welsh musician, conductor and arranger. His work is mainly in television, theatre, arranging, conducting, and recording and has worked with many internationally acclaimed artists."

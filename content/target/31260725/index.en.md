@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornish Language
-
 None

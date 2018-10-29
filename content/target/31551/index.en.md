@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Larry Goves
-
 Larry Goves is a British composer born in Cardiff.

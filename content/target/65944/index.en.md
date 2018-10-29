@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Knowledge Transfer Partnership West of Scotland KTP Centre
-
 Site of an organisaiton that workds with companies to identify an academic or researcher with the right knowledge and skills to assist their organisation. A project is then defined and agreed which will enable the company to draw on that expertise.

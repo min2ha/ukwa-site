@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Guruve - Contemporary African Art
-
 None

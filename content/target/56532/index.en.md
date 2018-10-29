@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# 164 Days
-
 Webcomic by Kristy Mordaunt, set in a world loosely based on a Steampunk/Late Victorian period. As of 2017 this comic updates once a week.

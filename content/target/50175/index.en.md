@@ -10,5 +10,3 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Cyngor am Bopeth Sir Y Fflint | Citizens Advice Flintshire
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# New Leaf Gallery
-
 The New Leaf Gallery was originally established in 1998 as ‘The Contemporary Craftsman’ and was located at Church Street, Monmouth. It was re-launched in 2010 as New Leaf Gallery. The gallery has now closed its physical premises and moved on-line and is now a ‘roving gallery’, ‘popping–up’ at a variety of private and public venues.

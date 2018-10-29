@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Datblygiadau Egni Gwledig (DEG)
-
 DEG is a 'social enterprise supporting community led action across northwest Wales to increase our area’s ability to cope with the rising cost of fossil fuels and improve our natural environment.'

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Y Ddolen: Papur Bro Ystwyth ac Wyre
-
 Y Ddolen is a community newspaper for Ystwyth and Wyre Valley near Aberystwyth.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Business West: Business Manifesto 2015
-
 Business West is an independent business leadership organisations in the UK, representing and working with over 18,000 businesses across the South West.

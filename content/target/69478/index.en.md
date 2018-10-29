@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Pastoral Area
-
 Site of a Scottish Roman Catholic parish church located in Buckie, Moray incorporating the parish chuches of St. Gregory’s, Preshome, St. Mary’s, Fochabers and St. Ninian’s, Tynet.

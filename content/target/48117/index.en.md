@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Teifi Ringing Group
-
 Teifi Ringing Group are a group of bird ringers based on the North Pembrokeshire and South Ceredigion border at the Teifi Marshes near Cilgerran.

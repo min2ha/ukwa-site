@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# North Wales Birding Forum
-
 An online enthusiast community concerned with bird watching in North Wales. Discusses Birds & Birdwatching, Nature & Conservation, Photography and various other related topics.

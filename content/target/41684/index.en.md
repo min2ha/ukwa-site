@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Now East Durham
-
 NOW East Durham and NOW FM report on local issues through an online magazine, social media, a print magazine and an internet radio station. Their primary aim is to involve the 18-24 year old job seeking demographic, enabling their personal development, improving their employment, interpersonal skills and overall employment prospects.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK 'could change economic model' if single market access denied
-
 The UK may be forced to change its "economic model" if it is locked out of the single market after Brexit, Chancellor Philip Hammond said in an interview with German newspaper Welt am Sontag.

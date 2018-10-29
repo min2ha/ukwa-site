@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Degrees of Separation, Barnstaple
-
 A project that involves at least 900 participants of all ages and backgrounds from the Barnstaple area in exploring their relationship with the First World War through research and the creation of art works from archival and documentary material.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Global Fusion Music & Arts First World War Heritage Project
-
 Project aims to educate local children, the local community and a large on-line audience about the First World War through music and visual arts

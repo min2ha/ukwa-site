@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# UK and Ireland Zine Librarians
-
 UK and Ireland Zine Librarians was initially set up in 2015 as a JISC discussion list to share resources, advice, and provide support for anyone working with zine library collections. The group was established to bring together the small but growing number of people in the UK and Ireland working with zines.

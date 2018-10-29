@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Free Nazanin (@FreeNazanin) on Twitter
-
 Nazanin was arrested visiting family in Iran on 03/04/16. Please visit http://www.freenazanin.com  for full story and updates. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Innis & Gunn Brewing Company Ltd
-
 SIte of a brewer based in Edinburgh.

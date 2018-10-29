@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Blame the EU for fostering these crises in Europe
-
 Comment by Stephen Pollard

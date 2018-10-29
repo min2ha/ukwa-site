@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Hickling UKIP (@hickling_paul1) on Twitter (UKIP Politician)
-
 Paul Hickling stood as UK Independence Party (UKIP) candidate in the constituency of Worcester in the 2017 General Election but was not elected.

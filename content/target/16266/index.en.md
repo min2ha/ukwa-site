@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Rachel Trezise
-
 <p>Rachel Tresize is a Welsh author.</p>

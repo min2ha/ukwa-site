@@ -10,6 +10,4 @@
   "start_date": "2005-11-28T00:00:00Z"
 }
 
-# National Science Learning Centre
-
 Science Learning Centres provide the highest quality Continuing Professional Development for everyone involved in science education, at all levels.

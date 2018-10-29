@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: The Internet Can be Bad for Children's Mental Health
-
 Independent article about children, internet and mental health

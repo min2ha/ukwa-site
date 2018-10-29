@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Oriel Washington Galley
-
 Washington Galley is in Penarth and is regarded as Cardiff's Leading Contemporary Art Gallery.

@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Charter Housing Association
-
 Charter Housing Association manage nearly 5,000 homes across Newport, Caerphilly, Torfaen and Monmouthshire. 

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Morvern Heritage Society
-
 Site of a local history and natural history society focusing on the Morvern peninsula, Highland, Scotland.

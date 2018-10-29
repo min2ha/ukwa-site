@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Lord David Owen Blog: EU Referendum
-

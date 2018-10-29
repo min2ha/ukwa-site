@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gwern y Domen Conservation Group (GDCG)
-
 The Gwern y Domen Conservation Group was formed to protect and preserve the countryside of the Gwern y Domen hillside in Caerphilly.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Catholic Church in Fort William
-
 Site of a Roman Catholic church in Scotland in Fort William, Locahber, Hhighland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems should reject another coalition with Tories, says Lord Steel
-
 None

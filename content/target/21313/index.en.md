@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Hawthorne (@dvdhawthorne) on Twitter (Alliance Party candidate for Foyle)
-

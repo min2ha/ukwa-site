@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Global Grid for Learning: All Your Digital Content Needs in One Place 
-
 IT educational materails.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Lodge Stirling Royal Arch No.76
-
 Site of a masonic lodge located in Stilring and affiliated with the Supreme Grand Chapter Royal Arch Chapter Scotland, the Scottish branch of Royal Arch Freemasonry.

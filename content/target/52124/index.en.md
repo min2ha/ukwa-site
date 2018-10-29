@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Southend news Network
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hyndland Parish Church
-
 The website of Hyndland Parish Church, located in Glasgow. 

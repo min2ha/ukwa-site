@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Town and Country Planning Association (TCPA): Building the Future - TCPA pre-election manifesto 2015
-
 The Town and Country Planning Association campaigns for the reform of the UK’s planning system to make it more responsive to people’s needs and aspirations and to promote sustainable development.

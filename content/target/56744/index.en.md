@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stowed Out Festival
-
 Site on an annual music and arts festival located in the village of Stow, Scottish Borders.

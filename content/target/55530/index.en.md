@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Carmarthenshire we Want, The | Sir Gâr a Garem, Y
-
 Carmarthenshire Public Services Board (PSB) is a statutory body established to improve the economic, social, environmental and cultural well-being of Carmarthenshire County Borough in order to comply with the Well-being of future Generations (Wales) Act. The Carmarthenshire we want website is managed by the PSB and is providing a well-being assessment of Carmarthenshire.

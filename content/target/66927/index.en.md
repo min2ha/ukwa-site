@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Bitcoin.co.uk
-
 Bitcoin.co.uk is a subsidiary of Bitcoin.com.au, an Australian-based bitcoin exchange. It is the latest exchange owned and operated by Dominet digital, with over 3 years’ experience and 3 international Bitcoin exchanges. 

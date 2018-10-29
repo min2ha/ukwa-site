@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 38 Degrees: DUPs views have no place in our government
-
 A petition to the Conservative government to not negotiate a pact with the DUP after the 2017 General Election result.

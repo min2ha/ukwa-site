@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Stay/Leave, Public Group on Facebook
-
 A facebook group for debating the EU referendum

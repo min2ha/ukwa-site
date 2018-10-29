@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Devon Remembers 
-
 The Devon Remembers Heritage Project commemorates the centenary of the First World War in a Devon context.

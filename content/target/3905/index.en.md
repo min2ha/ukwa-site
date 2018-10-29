@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Herts 24
-
 None

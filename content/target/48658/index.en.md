@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# East Neuk Festival
-
 Site of a music festival located throughout eastern Fife ('the East Neuk'), Scotland.

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# The Union Makes Us Strong: TUC History Online 
-
 <p>Online resources on the history of Trade Unions in the UK. The Union Makes Us Strong: TUC History Online is a partnership initiative between London Metropolitan University and the Trades Union Congress.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# How to be a complete bastard blog
-
 Eurosceptic blog

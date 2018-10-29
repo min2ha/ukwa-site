@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg hints at EU referendum backing if Tories agree to Lib Dem ‘red lines’
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pocket Rocket Fashion
-
 This was a plus size fashion blog (also known as "fatshion"), it was active from around 2009 - 2015. It regularly featured the authors outfit posts, news about clothes available to plus size women (the audience was mostly from the USA and Australia, so it shed light on what was available from the UK), and discussions and promotion of fat acceptance politics.

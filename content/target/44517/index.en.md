@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Policy Centre: The need to re-engage Europe’s youth
-
 article discussing the reasons behind the absenteeism of young voters in public voting

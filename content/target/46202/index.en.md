@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Economic Secretary's speech at the UK Financial Services Brexit Summit
-
 City Minister Simon Kirby says that the government will keep fighting to get the best possible deal for British business, and make Brexit a success

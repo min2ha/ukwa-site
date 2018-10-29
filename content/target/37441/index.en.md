@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Voice, The: BAME voters could play a key role in EU debate
-
 Campaigners who want Britain to leave the EU say black and minority ethnic (BAME) voters could form a key part of their efforts. 

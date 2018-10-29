@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Humberside Offshore Training Association (HOTA)
-
 Established in 1987 and based in Hull, East Yorkshire, HOTA, the Quality Training Provider, offers nationally approved training and tailor-made bespoke courses to meet individual and company specific training needs.

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Tyndall Centre for Climate Change Research
-
 The Tyndall Centre brings together scientists, economists, engineers and social scientists who are working to develop sustainable responses to climate change. They work not just within the research community, but also with business leaders, policy advisors, the media and the public in general.

@@ -10,8 +10,6 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Sixth Form Colleges’ Association (SFCA) 
-
 The Sixth Form Colleges’ Association (SFCA) has been representing the interests of the sector since Sixth Form Colleges became independent corporations in 1993. Since that time, the role of SFCA has evolved considerably. While the main role of the Association is still to negotiate national pay and conditions with the trade unions that represent teaching and support staff, the organisation has three other key functions:
 
  

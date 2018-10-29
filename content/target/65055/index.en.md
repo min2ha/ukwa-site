@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Becca Voelcker Blog
-
 Becca Voelcker is from Pant Glas, North Wales and a Harvard University PhD Student and Presidential Scholar in Film and Visual Studies, with a secondary field in Social Anthropology. She was also awarded a National Eisteddfod of Wales Young Artist Scholarship in 2013. Her specialities include film and photography. This is her personal website.

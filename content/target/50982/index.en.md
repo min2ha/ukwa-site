@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Christians against Torture Wales | Cristnogion yn erbyn Poenydio
-

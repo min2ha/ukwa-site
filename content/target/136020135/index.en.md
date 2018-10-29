@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brent LINk
-
 None

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# West Aberdeenshire & Kincardine | Conservatives and Unionists
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bankfoot Church Centre
-
 Site of a Church of Scotland parish church at Bankfoot, Perth & Kinross, serving Auchtergaven and Moneydie, and Redgorton and Stanley congregations.

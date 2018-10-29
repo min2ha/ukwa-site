@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Argyll’s Secret Coast
-
 Site of an organisation providing tourist information for the coast of the Cowal peninsusla Argyll, Argyll & Bute, Scotland

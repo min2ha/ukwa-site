@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Walsall mother risked her life to help fight Ebola in Africa
-
 Article on woman who helped fight Ebola in Africa

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Political Blind Date: Labour’s Diane Abbott meets Conservative Rory Stewart
-
 None

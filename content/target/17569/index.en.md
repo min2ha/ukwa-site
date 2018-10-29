@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Classic Volks
-
 Website for owners and fans of the classic Volkswagen cars.

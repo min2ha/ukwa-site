@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Jack Monroe: Cooking on a Bootstrap
-
 A budget friendly recipe blog.

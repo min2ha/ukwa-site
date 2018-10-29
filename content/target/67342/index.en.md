@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peterborough Rugby (@PRUFC) on Twitter
-
 The official Twitter account of Peterborough Rugby Union Football Club.

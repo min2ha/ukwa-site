@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# Hafal
-
 Hafal (meaning ‘equal’) is the principal organisation in Wales working with individuals recovering from serious mental illness and their families. We are managed by the people we support – individuals with serious mental illness and their families.

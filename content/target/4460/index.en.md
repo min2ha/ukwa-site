@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotland's Future: Your Guide to an Independent Scotland
-
 <p>Downloadable document in PDF setting out a guide to the Scottish Referendum produced by the Scottish Government. Scotland’s referendum on 18 September 2014 is a choice between two futures.</p>

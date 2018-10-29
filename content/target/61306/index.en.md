@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Wrexham Sunday Football League
-

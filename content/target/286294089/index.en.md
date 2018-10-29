@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Coast & Country Naturists
-
 <p>The Coast &amp; Country Naturists website aims to cover the broad spectrum of naturist activities.</p>

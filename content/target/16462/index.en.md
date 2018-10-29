@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Vince Cable demoted as Nick Clegg reshapes top team for the general election
-
 None

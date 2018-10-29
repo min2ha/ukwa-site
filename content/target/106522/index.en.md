@@ -10,5 +10,3 @@
   "start_date": "2005-04-11T00:00:00Z"
 }
 
-# JAG - Joint Advisory Group on GI Endoscopy
-

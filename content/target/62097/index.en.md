@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cybersmile Foundation, The: Cyberbullying day 
-
 Article on Cyberbullying day 

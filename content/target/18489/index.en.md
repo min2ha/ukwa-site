@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband drops claim Tories would take Britain back to time when children leave school at age 14
-
 None

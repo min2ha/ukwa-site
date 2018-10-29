@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Voices from Care Cymru (VFC)
-
 Voices From Care is the voice of children and young people throughout Wales, who are, or have been looked after by local authorities, voluntary and private organisations.

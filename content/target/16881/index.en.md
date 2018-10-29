@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for Cities
-
 <p>The Centre for Cities is an independent, non-partisan think tank dedicated to understanding and improving city economies. Their main goal is to understand how and why economic growth and change takes place in Britain’s cities, and to produce research that helps cities improve their performance.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's mansion tax: Charging foreign buyers and empty houses more would raise same cash for less pain
-
 None

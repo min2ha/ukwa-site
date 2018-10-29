@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Non-League Paper, The
-
 The Non-League Paper is a weekly English sports newspaper based on non-League football. It is published every Sunday. For a short while a midweek edition was also published.

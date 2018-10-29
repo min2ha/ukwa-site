@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  David Sprason (UKIP)
-
 David Sprason stood as UKIP candidate for Bosworth at the 2015 General Election but was not elected.

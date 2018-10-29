@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Roller Derby
-
 Site of a blog about the skating sport, roller derby, as played in Scotland.

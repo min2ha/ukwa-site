@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Grammarians RFC on Pitchero.
-
 The official website of Old Grammarians Rugby Football Club. Established 1929

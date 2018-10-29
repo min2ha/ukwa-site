@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Engadget UK
-
 UK edition of the online magazine with news, reviews and opinions from the world of IT and technology.

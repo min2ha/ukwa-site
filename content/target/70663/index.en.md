@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FootballHistoryBoys (@TFHBs) on Twitter
-
 Teachers, history graduates and Football Historians - @Benny_J + @GJ_Thomas

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Laura Cram (@EUidentity) on Twitter
-

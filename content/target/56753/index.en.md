@@ -10,6 +10,4 @@
   "start_date": "2017-08-22T09:00:00Z"
 }
 
-# Deborah Levy
-
 Personal pages of playwright and author Deborah Levy.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Belfast Telegraph: Live: Northern Ireland Assembly election 2017 - SDLP leader Colum Eastwood gives UUP his vote in Derry
-

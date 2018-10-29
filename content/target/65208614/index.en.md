@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Visit Mid Wales | Canolbarth Cymru
-
 This is a tourist information guide to Mid Wales provided by MWT Cymru.

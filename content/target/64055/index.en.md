@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Doctors for Choice UK (@DrsforChoice_UK) on Twitter
-
 UK-based doctors supporting and campaigning for the decriminalisation of abortion. We believe abortion should be a woman's decision. Formerly DWCA.

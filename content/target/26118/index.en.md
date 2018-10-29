@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Renewable Energy Association (REA)
-
 REA was established in 2001 as a not-for-profit trade association, representing British renewable energy producers and promoting the use of renewable energy in the UK. REA helps our members build commercially and environmentally sustainable businesses whilst increasing the contribution of renewable energy to the UK’s electricity, heat, transport and green gas needs.
 
 Its membership also includes composters, following the merger of the Association for Organics Recycling (formerly the Composting Association) in 2013. The REA endeavours to achieve the right regulatory framework for renewables and organics waste recycling to deliver an increasing contribution to the UK's electricity, heat, recycling and transport needs.

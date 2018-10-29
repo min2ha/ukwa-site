@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  Pentref Baptist Church, Newbridge-on-Wye
-

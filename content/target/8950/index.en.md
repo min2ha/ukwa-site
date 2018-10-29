@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenny Jones Snowboarder
-
 None

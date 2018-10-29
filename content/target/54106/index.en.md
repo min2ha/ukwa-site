@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Sharon Lovell (@lovell0711) on Twitter
-
 Sharon Lovell is the Women's Equality Party candidate for the Vale of Glamorgan at the 2017 General Election.

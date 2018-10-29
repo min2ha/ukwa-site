@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# ‘Brexit-ready’ Ireland focus of budget, says Enda Kenny
-
 Taoiseach (Prime Minister) says deficit set to be under 1% in 2016 with plan to eliminate it by 2018.

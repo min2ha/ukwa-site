@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Tayscreen
-
 TayScreen is the screen commission serving the Councils of Angus, Dundee City, Fife and Perth & Kinross in Scotland and help with film locations, crew, services, and research. We are your contact for media production, including advertising, film, TV, games, apps, commercials, music promos, photography, art, and digital.

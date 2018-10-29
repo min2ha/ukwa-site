@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Pike and Shot Society
-
 Founded in 1973, the Pike and Shot Society is an international organization that promotes interest in the warfare of the Early Modern Period, a time that saw radical change in the way in which wars were fought world-wide. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glencairn and Moniaive Parish Church
-
 The website of Glencairn and Moniaive Parish Church. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# RAC Motoring Forum
-
 An online forum about motoring

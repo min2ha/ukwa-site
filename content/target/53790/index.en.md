@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Energy UK: 2017 Manifesto
-
 In order to continue to deliver secure power and gas at lowest cost to customers, the energy industry believes that any party in the forthcoming 2017 General Election should adopt the following key principles: commitment to competitive markets; making energy efficiency a national priority; a continued commitment to decarbonisation; an industrial strategy based on a low-carbon economy; and ensuring efficient trading of power and gas with Europe.
 

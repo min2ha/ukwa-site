@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Ambulance Service
-
 None

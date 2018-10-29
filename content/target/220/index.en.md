@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University Hospital of South Manchester
-
 None

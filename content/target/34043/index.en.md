@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail,. The: The first shots are fired in the new Tory war on Europe as a cabinet minister blasts the EU as 'disastrous' for Britain and an MP hits back with a claim he's 'peddling myths'
-

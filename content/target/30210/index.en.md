@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Collection Care Blog
-
 The blog gives a behind-the-scenes look at how the British Library cares for the core collections, both physical and digital, and allows staff to share the exciting projects they work on. Collection Care comprises four departments: Conservation, Conservation Science and Research, Preventive Conservation, and Digital Preservation. 

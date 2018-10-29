@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: The 19-year-old woman who has been addicted to porn since she was eight - and the devastating impact it has had on her relationships 
-
 News article about a woman who is addicted to porn and the negative impact this has had on her life

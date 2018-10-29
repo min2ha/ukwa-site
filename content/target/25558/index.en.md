@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Danny Alexander’s revelation should be a wake-up call for everyone
-
 None

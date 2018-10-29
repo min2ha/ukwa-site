@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Rosslyn Chapel
-
 Site of the church and visitor attraction located in Roslin, Midlothian, Scotland, known for its carvings and connections to the Knights Templar.

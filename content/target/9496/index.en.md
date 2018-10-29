@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Electoral Commission: European Parliamentary Elections: Electoral Administrators
-
 None

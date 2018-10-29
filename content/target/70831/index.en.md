@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Sun, The: NICK TIMOTHY Theresa May’s in danger of a non-Brexit Brexit with her Chequers plan — and the lady’s not for learning
-
 Argues that if the UK wants to escape Europe's laws, its court and its demands, Theresa May must revive plans for a free trade agreement

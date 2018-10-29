@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Beechwood Holiday Cottages
-
 None

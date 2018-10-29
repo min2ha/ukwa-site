@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Cowalfest
-
 Festival of walking and outdoors activity based in Argyllshire, Scotland

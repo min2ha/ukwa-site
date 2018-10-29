@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Sussex Street Christian Centre, Rhyl
-

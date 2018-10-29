@@ -10,5 +10,3 @@
   "start_date": "2013-10-11T00:00:00Z"
 }
 
-# Welshpool Town Council
-

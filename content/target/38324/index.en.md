@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Museums Northern Ireland: Remembering 1916: Your Stories
-
 Exhibition about 1916, including the Easter Rising and its context

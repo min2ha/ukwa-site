@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jade Jones Tae Kwon Do
-

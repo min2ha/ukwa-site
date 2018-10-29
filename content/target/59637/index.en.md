@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Henry Schein Veterinary Solutions
-
 Henry Schein Veterinary Solutions provide services and products for the management of veterinary practices.

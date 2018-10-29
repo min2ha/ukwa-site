@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department of Energy and Climate Change (@deccgovuk) on Twitter
-
 Account of the former Dept of Energy & Climate Change.

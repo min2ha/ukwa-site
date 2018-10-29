@@ -10,6 +10,4 @@
   "start_date": "2015-09-10T08:00:00Z"
 }
 
-# Dalriada Project, The
-
 The Dalriada project aims to enhance the natural and cultural heritage of the Dalriada area in Mid Argyll.

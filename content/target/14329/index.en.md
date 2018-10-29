@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Post-referendum thoughts from Edinburgh: Times Higher Education
-
 None

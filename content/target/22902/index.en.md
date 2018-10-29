@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Political Scrapbook
-
 An online news site.

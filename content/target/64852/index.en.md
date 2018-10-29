@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# In Limbo (@InLimboBrexit) on Twitter
-
 In Limbo: Brexit Testimonies from EU citizens in the UK is a not-for-profit collection of true human stories about the impact of Brexit.

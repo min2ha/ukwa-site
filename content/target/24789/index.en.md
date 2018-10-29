@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roisin Robertson (@ladyroisin) on Twitter (Green Party Politician)
-
 Roisin Robertson stood as Green Party candidate for Bromley and Chislehurst at the 2017 General Election but was not elected.

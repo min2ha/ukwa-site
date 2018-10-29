@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Hammersmith and Fulham
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Branch Rugby (@UlsterBranch) on Twitter
-
 Official Twitter page of the IRFU Ulster Branch. Responsible for the administration and development of rugby at all levels within Ulster.

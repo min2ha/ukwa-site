@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ed Clancy - Professional Cyclist for Rapha-Condor JLT and Great Britain Track Team
-
 <p>Website of cyclist Ed Clancy, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

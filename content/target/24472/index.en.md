@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: We'll lose votes to UKIP, say Loony Party
-
 None

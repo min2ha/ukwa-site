@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Slough Arts Festival
-
 Website for the Slough Arts festival.

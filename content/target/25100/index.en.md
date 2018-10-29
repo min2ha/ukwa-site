@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Farage wages war on BBC: Cancels interview and warns Beeb has too much cash and influence
-
 None

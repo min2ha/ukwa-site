@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Market Oracle, The: EU Commits Suicide as BrExit Referendum Leave Vote Looks Inevitable
-
 Argues that the opposition of the Visegrad-4 member states, Poland, Slovakia, Czech Republic and Hungary to welfare benefit reform will help to convince the UK electorate to vote to leave the UK

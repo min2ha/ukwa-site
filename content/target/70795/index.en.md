@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Will Millard
-
 Will Millard is a writer, BBC presenter, public speaker, and expedition leader and has recently won a BAFTA Cymru Award for Best Presenter. He is a Fellow of the Royal Geographical Society (RGS) and the Winston Churchill Memorial Trust and lives in South Wales.

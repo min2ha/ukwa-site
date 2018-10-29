@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Lesmahagow High School
-
 Site of a comprehensive secondary education school located in Lemahagow, South Lanarkshire and serving the communities of Lesmahagow, Auchenheath, Blackwood, Coalburn, Hawksland and Kirkmuirhill. 

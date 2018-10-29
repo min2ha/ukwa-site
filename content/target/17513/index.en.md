@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron in gear with bus gags — but stalling on tax
-
 None

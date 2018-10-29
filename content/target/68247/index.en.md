@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southwold Rugby Club (@SouthwoldRFC) on Twitter
-
 The official Twitter account of Rugby Club.

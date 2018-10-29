@@ -10,7 +10,5 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# British Martial Arts & Boxing Association, The (BMABA)
-
 The British Martial Arts & Boxing Association (BMABA) is a UK leading governing body and professional organisation for martial arts and combat sports in the UK.
 

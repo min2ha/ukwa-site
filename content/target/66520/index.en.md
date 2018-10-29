@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Government Digital Service (@gdsteam) on Twitter
-
 Government Digital Service (GDS) is helping to transform government to meet user needs. S

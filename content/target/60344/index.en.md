@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Metropole, The
-
 The metropole is a community arts, culture and business centre based in Abertillery.

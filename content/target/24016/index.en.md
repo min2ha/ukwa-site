@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: NI electorate goes to the polls to select 18 MPs
-
 None

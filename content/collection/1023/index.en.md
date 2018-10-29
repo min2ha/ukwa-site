@@ -684,6 +684,4 @@
   "endDateText": "31-03-2019"
 }
 
-# Brexit : Impact on Wales
-
 Reflects the impact of the UK exit from the European Union (EU) on Wales after the Referendum in June 2016.

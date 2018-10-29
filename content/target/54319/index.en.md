@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mike Amesbury (@mikeamesbury) on Twitter  (Labour  Politician)
-
 Mike Amesbury stood as Labour candidate for Weaver Vale at the 2017 General Election and was successful.

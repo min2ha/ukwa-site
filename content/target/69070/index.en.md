@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Commonwealth Pharmacists Association (CPA) 
-
 The Commonwealth encompasses some of the world’s poorest nations. The CPA advances health, promotes wellbeing and improves education for the benefit of the people of the Commonwealth. We support the development of safe and effective systems of medicines management, healthier lifestyles, and the reduction of health inequalities. We 

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Lesley Riddoch
-

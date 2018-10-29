@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Wales Assembly of Women
-
 The Wales Assembly of Women is a campaigning organisation for women’s rights.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-08T09:00:00Z"
 }
 
-# SACRED: Homelands Festival
-
 SACRED:Homelands is an international festival featuring UK premiere performances, durational/installation works and in depth conversations with artists travelling from Tonga, India, Canada, New Zealand, as well as Europe, many of whom are visiting these shores for the first time. 

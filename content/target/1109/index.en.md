@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# TB Strain Typing
-
 None

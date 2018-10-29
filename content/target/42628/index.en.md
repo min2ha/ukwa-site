@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# We Love the West Side
-
 Site providing local news, leisure and general information for visitors to and residents of the Westside of the Isle of Lewis, Scotland.

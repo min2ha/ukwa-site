@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: DUP's Donaldson on hung parliament talks
-
 None

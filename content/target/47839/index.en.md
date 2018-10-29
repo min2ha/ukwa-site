@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Medieval Manuscripts Provenance
-
 A blog about provenance-related discoveries, observations, and resources by Peter Kidd, a freelance researcher.

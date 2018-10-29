@@ -10,5 +10,3 @@
   "start_date": "2009-04-03T00:00:00Z"
 }
 
-# Fas Info - Fetal Alcohol Spectrum Disorder Information Website
-

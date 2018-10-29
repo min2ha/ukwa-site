@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Hypnotherapy Training UK - Psychotherapy Training UK
-
 The National College has been training hypno-psychotherapists since 1977 and is the UK's oldest training organisation for hypnotherapy & hypno-psychotherapy

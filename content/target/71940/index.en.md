@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time to change: Portrayal of mental illness in the media, TV and newspapers
-
 Personal blog posts about the portrayal of mental illness in the media, TV and newspapers.

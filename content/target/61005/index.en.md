@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Vivienne Williams, Contemporary British Artist
-
 Vivienne Williams is a Contemporary British Artist. She was born in Swansea and was elected a member of the Royal Cambrian Academy of Art (RCA) in 2017. She 'paints still life, working in layers of rich patina, her palette constantly evolving, her style calm and distinctive.'

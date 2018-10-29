@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vikki Howells (@VikkiHowells) on Twitter (Labour AM for Cynon Valley)
-
 Vikki Howells is the Labour candidate for Cynon Valley at the 2016 National Assembly Elections.

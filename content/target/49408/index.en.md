@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# British Council: UK – India 2017 Digital Open Call
-
 In 2017, the UK and India will celebrate a major bilateral year of cultural exchange. This is a call for artists to avail of funding for events to commemorate the festival.

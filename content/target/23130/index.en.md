@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas Tugendhat (Conservative)
-
 Thomas Tugendhat stood as Conservative candidate for Tonbridge and Malling at the 2015 General Election and was elected to serve as MP.

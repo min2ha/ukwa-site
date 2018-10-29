@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ealing Trailfinders Rugby Club
-
 The Men`s Section at Ealing Trailfinders Rugby Club runs four teams: a highly competitive amateur first and second team squad playing L6 rugby, an Exiles team which enjoys the social aspects of the game, and the Evergreens over 35s team means there is a standard of rugby to suit everyone. 

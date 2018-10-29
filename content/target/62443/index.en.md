@@ -10,7 +10,5 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Rhyl Folk and Accoustic Music Club
-
 Rhyl Folk and Acoustic Music club was established in Rhyl in 1964. They now
 meet at The Corbett Sports Stadium Lounge at Rhyl Football Club.

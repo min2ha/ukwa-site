@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Talk Sport
-
 A sports news radio station.

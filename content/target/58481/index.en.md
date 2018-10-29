@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Skye Camanachd
-
 Site of shinty club based at Portree, Skye.

@@ -10,7 +10,5 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# World Horse Welfare
-
 World Horse Welfare is an international horse charity that improves the lives of horses in the UK and around the world through education, campaigning, and
 hands-on care.

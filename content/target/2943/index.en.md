@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Hansard - UK Parliament
-
 <p>Hansard (the Official Report) is the edited verbatim report of proceedings of both the House of Commons and the House of Lords. Daily Debates from Hansard are published on this website the next working day by 6am.</p>

@@ -10,7 +10,5 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Society of Radiographers (SCoR)
-
 The Society of Radiographers is the trade union and professional body for the diagnostic imaging and radiotherapy workforce in the UK. The College of Radiographers is a charity which exists for the benefit of the public.
 They shape policy and standards, pioneer new ways of working, and ensure safe and fair workplaces.

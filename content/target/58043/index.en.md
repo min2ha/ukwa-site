@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# David Griffiths, Portrait Painter
-
 David Griffiths is one of Wales' most well-known portrait painters.

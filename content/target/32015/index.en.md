@@ -10,5 +10,3 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Trecastle Community
-

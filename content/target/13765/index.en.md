@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Edinburgh North & Leith
-
 <p>Yes Scotland community page for North Edinburgh and Leith.</p>

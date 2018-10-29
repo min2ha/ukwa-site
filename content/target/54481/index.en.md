@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Invest NI
-
 As the regional business development agency, Invest NI's role is to grow the local economy. We do this by helping new and existing businesses to compete internationally, and by attracting new investment to Northern Ireland.

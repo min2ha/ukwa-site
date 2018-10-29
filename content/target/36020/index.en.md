@@ -10,7 +10,5 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Manufacturing Institute, The
-
 The Manufacturing Institute are an independent charity, their primary focus is to support and improve the manufacturing sector through training, education and consultancy.
 Their approach hinges on education – making sure that every change they help to introduce can be sustained.

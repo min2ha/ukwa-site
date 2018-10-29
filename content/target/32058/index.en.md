@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Code Club
-
 Code Club is a nationwide network of volunteer-led after school coding clubs for children aged 9-11.

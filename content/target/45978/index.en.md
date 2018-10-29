@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Northamptonshire Council
-
 South Northamptonshire Council website with comprehensive local authority information available on line for residents in the area. It includes news and events, information on council finance and performance, planning policy and local plans and planning policy, and committee agendas and minutes.

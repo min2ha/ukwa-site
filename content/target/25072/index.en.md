@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Tories told to come clean over £12billion benefits cuts 
-
 None

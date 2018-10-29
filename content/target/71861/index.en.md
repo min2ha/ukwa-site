@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: energy and climate change
-
 There is currently uncertainty about the Brexit impact on a number of issues including: the UK’s departure from Euratom, the future of the EU internal energy market (IEM) and the status of the single electricity market (SEM) on the island of Ireland.
 

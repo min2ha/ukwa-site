@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# The Sociological Imagination
-
 An important website of significant interest to social science communities around the world. It has contributed to social science and hosted many excellent pieces of scholarly work through the years.

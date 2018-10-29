@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# LocalGov: Police to guard all polling stations in Tower Hamlets to tackle voter intimidation
-
 Police were present at every polling station in Tower hamlets in a bid to tackle electoral fraud and voter intimidation at the 2017 general election

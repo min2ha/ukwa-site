@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T17:37:00Z"
 }
 
-# Ships of Caledonian MacBrayne (CalMac)
-
 The history of the Caledonian MacBrayne fleet covering vessels constructed since 1930.

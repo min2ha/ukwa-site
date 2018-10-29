@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cycling News: Tour de France
-
 Cycling News Tour de France pages.

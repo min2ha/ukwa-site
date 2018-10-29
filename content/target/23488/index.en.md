@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Munday (UKIP)
-
 Jonathan Munday stood as UKIP candidate for Wellingborough at the 2015 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Enoch Royal Arch Chapter Montrose No. 3
-
 Site of a masonic lodge based in Montrose, Angus, a chapter in the Royal Arch branch of Freemasonry.

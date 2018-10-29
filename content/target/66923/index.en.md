@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Kingsley Napley
-
  Kingsley Napley is an internationally recognised law firm based in Central London. We support individuals and businesses in resolving conflict, safeguarding their futures and maximising opportunities.

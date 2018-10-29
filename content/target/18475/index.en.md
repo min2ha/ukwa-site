@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: 'Despicable' Ed Miliband wants to enter Number 10 on Alex Salmond's 'coat tails'
-
 None

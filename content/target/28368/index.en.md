@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Peninsular War 200 
-
 Website commemorating the Peninsular War 1808-1814.

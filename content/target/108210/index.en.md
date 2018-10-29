@@ -10,6 +10,4 @@
   "start_date": "2005-05-26T00:00:00Z"
 }
 
-# Society for Social Medicine
-
 The Society aims to promote the development of scientific knowledge in social medicine. This covers a range of subjects including epidemiology, the medical and health needs of society, the provision and organization of health services and the prevention of disease.

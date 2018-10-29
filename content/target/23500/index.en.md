@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanda Pennington (@aapennington ) on Twitter (Green Party Politician)
-
 Amanda Pennington stood as Green Party candidate for North Cornwall at the 2015 General Election but was not elected. She then stood as the Green Party candidate for Truro & Falmouth 2017 but was not elected.

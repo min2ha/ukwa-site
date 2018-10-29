@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dr Paul Widdop (@Fire_and_Skill) on Twitter
-
 Social Network Analysis | Sport&Culture | @FB_Collective | Reviews Editor Journal of Consumer Culture | @leedsbeckett | University of Edinburgh 

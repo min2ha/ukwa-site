@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bonfest
-
 Site of a rock music festival at Kirriemuir, Angus celebrating the work of the late singer Bon Scott, who was born in the town.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bridgend Athletic Rugby Football Club
-

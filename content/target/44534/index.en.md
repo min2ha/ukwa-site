@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters: Johnson says immigration control will be possible outside the EU
-
 Article discussing immigration after Britain leaves the EU.

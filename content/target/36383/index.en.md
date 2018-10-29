@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Scaremongering about EU exit is a cheap tactic
-

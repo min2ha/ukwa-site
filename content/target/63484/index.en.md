@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# New! Magazine: Stephen Hawking
-
 NEW! Maagazine: Article about the passing of Stephen Hawking.

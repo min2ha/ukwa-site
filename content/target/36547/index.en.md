@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Yanis Varoufakis will advise Labour, Jeremy Corbyn confirms
-

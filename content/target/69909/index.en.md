@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Edward's RC Church Airdrie
-
 Site of a Scottish Roman Catholic parish church located in Airdrie, Lanarkshire.

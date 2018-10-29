@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Friends of Coldingham Priory
-
 Site of a Scottish charity aiming to promote the historical and architectural importance of Coldingham Priory and to work toward improving the Priory and its surroundings.

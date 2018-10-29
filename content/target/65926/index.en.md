@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Cardiomyopathy
-
 Cardiomyopathy UK the heart muscle charity website

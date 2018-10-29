@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pylon on the Month
-
 An online enthusiast community concerned with Pylons and electricity supply.

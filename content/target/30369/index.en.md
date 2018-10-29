@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# fourteeneighteen
-
 Website offering professional research and advisory services for anyone wishing to know more about the men, events and battlefields of the First World War.

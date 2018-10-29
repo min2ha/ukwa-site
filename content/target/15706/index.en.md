@@ -10,6 +10,4 @@
   "start_date": "2015-01-08T00:00:00Z"
 }
 
-# British Society for Paediatric Dermatology (BSPD), The
-
 <p>The British Society for Paediatric Dermatology (BSPD) is an affiliated group of the British Association of Dermatologists and is the specifically dedicated to the Paediatric Dermatology.</p>

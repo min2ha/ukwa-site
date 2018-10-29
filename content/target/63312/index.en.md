@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Airdrie Clarkston Parish Church
-
 Site of a Church of Scotland parish church at Airdrie, Lanarkshire.

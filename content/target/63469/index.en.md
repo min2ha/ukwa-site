@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Telegraph, The: Stephen Hawking
-
 Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV. These are the articles relating to Stephen Hawking

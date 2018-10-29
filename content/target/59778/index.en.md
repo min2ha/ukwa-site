@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Boswells Rugby Football Club on Facebook
-
 Facebook page of a Scottish rugby union football club based in St. Boswell's in the Scottish Borders.

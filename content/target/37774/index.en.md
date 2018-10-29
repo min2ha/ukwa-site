@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexit 'would not lead to exodus' of bankers from UK
-

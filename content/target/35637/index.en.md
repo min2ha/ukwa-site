@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Simon Thomas (Plaid Cymru candidate for Carmarthen West and South Pembrokeshire and Mid and West Wales)
-
 Simon Thomas is the Plaid Cymru candidate for Carmarthen West and South Pembrokeshire West and South Pembrokeshire and Mid and West Wales at the 2016 National Assembly Elections.

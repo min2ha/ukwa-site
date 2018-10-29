@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Motor Neurone Disease: General Election Campaign 2015
-
 The Motor Neurone Disease Association (MND Association) is a British charity, operating in England, Wales and Northern Ireland, established in 1979 by a group of volunteers to coordinate care, support, and research for people affected by amyotrophic lateral sclerosis, which is a form of motor neuron disease (MND).

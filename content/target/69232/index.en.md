@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: Is the Conservative Leave vote fracturing?
-
 Enough numbers of Leave voters were wavering in their support for the Conservative party after the Chequers summit to put Labour ahead in the polls

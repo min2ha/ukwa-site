@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Biological Records Centre (BRC)
-
 None

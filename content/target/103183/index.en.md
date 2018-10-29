@@ -10,5 +10,3 @@
   "start_date": "2004-12-01T00:00:00Z"
 }
 
-# Jewish Care
-

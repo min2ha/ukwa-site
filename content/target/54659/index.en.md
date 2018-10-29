@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffingtonpost, The: Seven Reasons That Facebook is Dangerous for Your Mental Health
-
 News article: Facebook dangerous for mental health

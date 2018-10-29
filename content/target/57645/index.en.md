@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology: Regulating Clinical Trials
-
 This POSTnote describes the new EU Clinical Trial Regulation and the timetable for its implementation and examines its likely impact on the regulation of clinical trials in the UK post-Brexit.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Amber Rudd urges rebels to back PM in EU vote
-
 The former Home Secretary Amber Rudd and leading Brexiteer Iain Duncan Smith  appealed to Conservative colleagues to support Theresa May when the Commons voted again on the EU withdrawal bill on June 12th 2018.
 

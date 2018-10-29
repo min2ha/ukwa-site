@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Ovacome - the ovarian cancer support network
-
 We are a UK-wide support network providing information and support for everyone affected by ovarian cancer.

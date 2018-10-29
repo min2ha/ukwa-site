@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Dorrance (@MatthewDorrance) on Twitter
-
 Labour candidate for Brecon & Radnorshire.

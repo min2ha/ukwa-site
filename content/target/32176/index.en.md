@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Naomi Tydeman
-
 Naomi Tydeman is a Pembrokeshire artist and winner of the Turner Watercolour Award.

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Week UK, The: Ministers 'considering deal' on Scottish independence referendum
-

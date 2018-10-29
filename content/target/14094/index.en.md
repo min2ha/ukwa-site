@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chatham House: On Europe, Scots Drift from Their English Counterparts
-
 None

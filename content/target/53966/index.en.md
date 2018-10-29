@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sheffield Hallam Labour Party (@ShefHallamLab) on Twitter 
-
 Sheffield Hallam Labour Party, used by their candidate. Jared O'Mara stood as Labour Party candidate for Sheffield Hallam in the 2017 General Election and was elected MP.

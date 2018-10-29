@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Green World Trust
-
 'Website designed to promote awareness of the nature of some major challenges to the human race at this time; and to consider creative ways to meet them.' 

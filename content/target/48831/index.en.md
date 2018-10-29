@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May:  When surreal becomes real: Brexit begins
-
 This briefing covers the key events of January 2017, including the Miller judgment in the Supreme Court and Theresa May's speech outlining her Brexit strategy.

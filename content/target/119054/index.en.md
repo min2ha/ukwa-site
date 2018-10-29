@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# FATIMA Women's Network
-
 None

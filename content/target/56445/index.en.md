@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Herstmonceux Parish
-
 Herstmonceux Parish official website. Herstmonceux Parish is in East Sussex.

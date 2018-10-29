@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael and All Angels Church, Inverness
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Inverness.

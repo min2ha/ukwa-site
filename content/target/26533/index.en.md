@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron would be wise to seek Labour’s support over Scotland and Europe
-
 None

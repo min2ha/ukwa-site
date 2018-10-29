@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Edinburgh Bus Tours
-
 Site of an organisations offering tourist bus tours in the City of Edinburgh.

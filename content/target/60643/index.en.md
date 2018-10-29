@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LBC - Leading Britain's Conversation: “I Became So Addicted To Gaming I Went Weeks Without Showering"
-
 Website for LBC - Leading Britain's Conservation radio station featuring a story about a caller who rang the show to talk about his experiences with gaming addiction

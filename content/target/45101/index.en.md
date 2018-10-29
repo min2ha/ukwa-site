@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Workers & Rebels: Jacob's Factory 1913-16
-
 This is the website of an exhibition arranged by the Library Services of Dublin Institute of Technology to remember the connection that exists between Jacob’s factory, an important strategic position for the Volunteers in the 1916 Easter Rising, and DIT Aungier Street which now occupies part of the footprint that was the factory.  

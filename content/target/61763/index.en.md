@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Linfield Football Club
-
 Linfield Football Club is a semi-professional football club based in Belfast, Northern Ireland. The club was founded in 1886 as Linfield Athletic Club and in 1905 moved into their current home of Windsor Park.

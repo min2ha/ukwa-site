@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Limavady United (@LimavadyUtdFC) on Twitter
-
 The official Twitter account of Limavady United Football Club.

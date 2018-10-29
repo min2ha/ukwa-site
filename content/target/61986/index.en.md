@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bramall Lane Stadium
-
 Bramall Lane is a football stadium in Sheffield, South Yorkshire, England. It is the home of Sheffield United.

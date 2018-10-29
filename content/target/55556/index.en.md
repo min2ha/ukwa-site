@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# DnA: Delyth and Angharad Jenkins
-
 DNA are a mother-and-daughter duo from Swansea. They play traditional and new music on the harp and fiddle. 

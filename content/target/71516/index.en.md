@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Field Athletics Fest
-
 Website for the Field Athletics Fest, festival. 

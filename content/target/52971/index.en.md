@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rhea Wolfson (@rheawolfson) on Twitter
-
 Twitter profile of Rhea Wolfson, Scottish Labour candidate for Livingston in the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Camborne School of Mines (CSM), University of Exeter
-
 Official website of the Camborne School of Mines (CSM) at the University of Exeter.

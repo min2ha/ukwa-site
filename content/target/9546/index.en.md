@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# National Alliance of Women's Organisations: manifesto
-
 None

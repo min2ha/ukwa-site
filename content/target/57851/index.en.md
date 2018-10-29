@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Comics UK Forum
-
 An online enthusiast community concerned with UK comics. Discusses comics, artwork, artists & writers, events and various other related topics.

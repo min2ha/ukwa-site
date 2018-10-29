@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Courage of Conscience 
-
 The  Courage of Conscience project aims to discover and celebrate the stories of Derbyshire conscientious objectors, other resisters to the war, and their families.

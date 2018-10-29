@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Press for Change (PFC)
-

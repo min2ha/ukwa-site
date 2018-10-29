@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Buckhaven & Methil Miners' Brass Band
-
 Site of a brass band based in Eastern Fife, at Buckhaven and Methil.

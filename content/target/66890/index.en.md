@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Aquascot Limited
-
 The website of Aquascot Limited, a farmed seafood manufacturer based in Alness, Scotland. 

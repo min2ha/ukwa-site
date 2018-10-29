@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Brexit ‘cock-up’ has exposed the real Boris Johnson – it’s not pretty
-
 Guardian, The

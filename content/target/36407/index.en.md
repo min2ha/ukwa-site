@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Daily Express, The: EU referendum notebook: Leave camp MUST expose scare stories from pro-Brussels backers
-
 Daily Express, The: EU referendum notebook: Leave camp MUST expose scare stories from pro-Brussels backers

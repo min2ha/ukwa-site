@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Welcome to the election. But only if you're a hardworking family
-
 None

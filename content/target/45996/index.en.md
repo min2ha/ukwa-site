@@ -10,5 +10,3 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Pàrlamaid na h-Alba: Comataidh phàrlamaideach a’ gairm airson barrachd fiosrachaidh air a’ bhuil a thig bho Bhrexit
-

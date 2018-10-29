@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Save the Children: A Fair Start for Every Child
-

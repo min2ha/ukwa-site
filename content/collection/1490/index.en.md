@@ -9107,6 +9107,4 @@
   "endDateText": ""
 }
 
-# Sport: Football
-
 Football collection covering most codes of football such as soccer, rugby, and Gaelic football. For all other Gaelic sports see the general sports collection.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Kingston's Stories: First World War multi-media project
-
 Project unearthing and retelling the personal journeys and stories of the people of Kingston in the First World War.

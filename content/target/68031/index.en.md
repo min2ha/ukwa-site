@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# South West Outdoor Festival
-
 full weekend of outdoor adventure at East Soar, near Salcombe in Devon

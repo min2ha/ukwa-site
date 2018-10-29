@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Life at the sharp end: five families hit by five years of austerity
-
 None

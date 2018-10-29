@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# International Association of Professional Congress Organisers (IAPCO)
-
 Member-driven association raising quality standards in the global meetings industry.

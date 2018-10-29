@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James, Scottish Episcopal Church in Leith
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Leith, Edinburgh.

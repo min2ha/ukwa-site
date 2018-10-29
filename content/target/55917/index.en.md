@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Flying Bridge Theatre Company
-
 Flying Bridge Theatre Limited is a Welsh theatre company based in Newport.

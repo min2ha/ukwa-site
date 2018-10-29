@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Tyneside Health and Wellbeing Board
-
 None

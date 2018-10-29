@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'These days will go down in history as the House at its worst:' Tory lord tears into peers for trying to 'thwart' the will of the people as they pass 15th wrecking amendment to the Brexit Bill   
-

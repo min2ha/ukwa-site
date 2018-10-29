@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maddie Hinch (MaddieHinch) on Twitter
-
 Twitter profile belonging to goalkeeper Maddie Hinch, who played hockey for England in the 2014 Glasgow Commonwealth Games.

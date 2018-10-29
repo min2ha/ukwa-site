@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Oxford Russian Club
-
 The Oxford Russian Club or Oxford Russian Society was founded  as a self-governing organisation by Prince Felix Youssoupoff in 1909 - while he was a student at University College - in order to promote links between Russia and the University. Today, the Russian Society numbers over 300 active members from Russia, the post-Soviet states, and fans of Russian culture from all over the world. All events are bilingual.

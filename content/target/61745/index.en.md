@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Andrew's Lhanbryd & Urquhart Church of Scotland
-
 Site of a Church of Scotland parish church Lhanbryde, near Elgin, Moray.

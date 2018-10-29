@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South Central Specialised Commissioning Group (SCSCG)
-
 None

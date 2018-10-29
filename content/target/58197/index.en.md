@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UniLad: Guy tackles depression by relentlessly taking the piss out of it on Twitter
-
 UniLad article about man dealing with depression on Twitter

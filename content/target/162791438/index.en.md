@@ -10,5 +10,3 @@
   "start_date": "2013-05-13T00:00:00Z"
 }
 
-# The Radnorshire Society
-

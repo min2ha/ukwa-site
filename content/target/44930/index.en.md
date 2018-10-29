@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Housmans Bookshop 
-
 Housmans is a not-for-profit bookshop, specialising in books, zines, and periodicals of radical interest and progressive politics. We stock the largest range of radical newsletters, newspapers and magazines of any shop in Britain. 

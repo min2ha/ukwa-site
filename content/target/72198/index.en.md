@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# PSA Wales Rhiwbina Open 
-
 PSA Wales Rhiwbina Open is an International Squash Tournament held in Cardiff and is held at Rhiwbina Squash Club.

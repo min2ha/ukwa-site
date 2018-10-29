@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# James: Why The Media's Take On Corbyn Needs To Change
-
 After Jeremy Corbyn's huge victory in the Labour leadership election, James O'Brien calls on the media to change how it talks about him and respect the fact he is "the only alternative Prime Minister".

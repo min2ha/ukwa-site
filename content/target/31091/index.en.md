@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# SproutIT
-
 SproutIT are specialists in supporting and evolving networks, hardware and software in the legal industry.

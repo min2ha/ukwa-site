@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Carbon Brief, The
-
 Carbon Brief reports on the latest developments and media coverage of climate science and energy policy, with a particular focus on the UK.

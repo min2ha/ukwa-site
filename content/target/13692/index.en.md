@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Dundee City Council: Referendum Overview
-
 None

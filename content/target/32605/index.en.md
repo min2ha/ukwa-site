@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Jamie Oliver
-
 Website of a popular TV chef and food campaigner Jamie Oliver.

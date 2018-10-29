@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Steven Woolfe, Ukip on Facebook 
-
 None

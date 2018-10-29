@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Newtown Community Website
-
 This is a community website for the town of Newtown in Mid Wales.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Wansbeck Liberal Democrats
-

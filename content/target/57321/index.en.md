@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU repeal bill wins first Commons vote
-
 The government's bid to extract the UK from EU law in time for Brexit passes its first parliamentary test.

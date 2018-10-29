@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Whately (@Helen_Whately ) on Twitter (Conservative Politician)
-
 Helen Whately stood as Conservative candidate for Faversham and Mid Kent at the 2015 General Election and was elected to serve as MP. She stood for re-election in 2017.

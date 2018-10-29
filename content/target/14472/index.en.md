@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# tactileBOSCH Gallery & Studio
-
 <p>Spread over three buildings the galleries vision is to bring a selection of established international artists to the Welsh capitol as well as provide a platform for emerging local artists to showcase their practice.</p>

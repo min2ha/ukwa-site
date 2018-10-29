@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# scott westgarth (@scottwestgarth) on Twitter
-
 Official Twitter account of Scott Westgarth, a professional boxer and personal trainer who died after winning a fight in Doncaster on the 24/02/2018.

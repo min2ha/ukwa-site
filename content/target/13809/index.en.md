@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# East Dun Together (ED_Together) on Twitter
-
 <p>The twitter profile of East Dunbartonshire's Better Together campaign.</p>

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Alan Turing - The Enigma
-
 Website dedicated to Alan Turing.

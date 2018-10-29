@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Glastonbury Antiquarian Society
-
 Glastonbury Antiquarian Society was formed to control the museum, to enjoy excursions, lectures & entertainments, to publish papers on historical and other matters of local interest.

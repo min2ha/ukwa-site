@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Y Cymro 
-
 This is the website for 'Y Cymro', a Welsh language newspaper re-established in 2018 as a monthly newspaper. Y Cymro was originally published from 1932 to 2017.

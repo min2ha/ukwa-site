@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Post-election negotiations 'could be more difficult than those in 2010'
-
 None

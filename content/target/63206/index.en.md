@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leaving the EU: Health and Welfare of UK Citizens and Residents
-
 This House of Lords Library Briefing  was prepared in advance of the debate scheduled to take place in the House of Lords on 29 March 2018 on the following motion moved by Baroness Brinton (Liberal Democrat): “that this House takes note of the effect of the United Kingdom’s planned withdrawal from the European Union on the health and welfare of United Kingdom citizens and residents”. 

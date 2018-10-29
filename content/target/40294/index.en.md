@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rebecca Evans (@Rebecca4Gower) on Twitter (Labour candidate for Gower) 
-
 Rebecca Evans is the Labour candidate for Gower at the 2016 National Assembly for Wales Election.

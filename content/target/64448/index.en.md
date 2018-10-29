@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Lodge of Aberdeen No. 1 Ter
-
 Site of a masonic lodge located in Aberdeen and affiliated with the Grand Lodge of Scotland.

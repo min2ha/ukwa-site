@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Smith for Blaenau Gwent on Facebook
-
 MP for Blaenau Gwent

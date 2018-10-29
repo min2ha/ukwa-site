@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Christopher Holloway
-
 Christopher Holloway is a Welsh painter born in Cardiff. 

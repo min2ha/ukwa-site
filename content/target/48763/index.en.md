@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Why Brexit ruling is a relief for the government
-
 There was relief in Whitehall that the Supreme Court had held back from insisting that the devolved administrations would have a vote or a say on the process of triggering TEU Article 50. Secondly, the Court had also held back from telling the government explicitly what it has to do next. The judgement was clear that it was not for the courts but for politicians to decide how to proceed next.

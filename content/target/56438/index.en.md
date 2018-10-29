@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# I Hate Ironing
-
 ihateironing is a network of the very best Dry Cleaners. We provide the finest Dry Cleaning & Laundry service in the business combined with great customer service and super convenient collection and delivery at times that suit you.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Timeline Photos: Strengths
-
 <p>Yes Scotland photograph post made at 8.30pm on 16th September, 2014.</p>

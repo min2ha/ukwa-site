@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Dench and Gatiss lead Donmar and Channel 4 election night first
-
 None

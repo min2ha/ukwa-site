@@ -10,5 +10,3 @@
   "start_date": "2006-10-03T00:00:00Z"
 }
 
-# Rowan Williams: Archbishop of Canterbury
-

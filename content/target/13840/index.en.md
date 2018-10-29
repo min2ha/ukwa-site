@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Sillars (NaeFear) on Twitter
-

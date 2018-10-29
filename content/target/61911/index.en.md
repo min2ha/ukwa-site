@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Banff Parish Church
-
 Site of a Church of Scotland parish church at Banff, Aberdeenshire, and the linked church at the village of King Edward.

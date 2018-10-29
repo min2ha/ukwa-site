@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# UK Short Term Accommodation Association (STAA)
-
 The UK Short Term Accommodation Association (STAA) was founded in March 2017 with a clear purpose in mind: ensuring greater cooperation to tackle common industry challenges and seizing shared opportunities in this growing sector.

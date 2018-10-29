@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Healthier in the EU (@HealthierIn) on Twitter
-
 Campaigning for the UK to stay in the EU from a health services/ health research perspective.

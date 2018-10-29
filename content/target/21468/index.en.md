@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour warns Tories would cut NHS to the bone on first election poster
-
 None

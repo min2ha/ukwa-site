@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Daily Express, The: Bullying David Cameron needs to be mindful of his image, says FERGUS KELLY
-
 Column by Fergus Kelly

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Thurso Football Club
-
 Site of a Scottish amateur football club based in Thurso, Caithness, Highland.

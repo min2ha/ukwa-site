@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Public Administration and Constitutional Affairs Committee: Civil Service should provide Government EU papers to dissenting ministers 
-
 Cabinet Secretary and Head of the Civil Service, Sir Jeremy Heywood KCB, clarifies guidance provided to Civil Servants and Special Advisers on their role in the referendum and the support they can provide to Ministers

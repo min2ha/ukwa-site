@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Kate Woolveridge
-
 Kate Woolveridge is a Welsh Mezzo Soprano, Director of the Forget Me Not Chorus, Vocal Animateur and Singing Teacher.

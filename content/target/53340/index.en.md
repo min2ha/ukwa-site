@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Wendy Chamberlain (@wendyc4861) on Twitter
-
 Twitter profile of Wendy Chamberlain, Scottish Liberal Democrat candidate for Stirling in the 2017 general election.

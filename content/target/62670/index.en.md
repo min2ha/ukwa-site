@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Parish Church, Ferguslie
-
 Site of a Church of Scotland parish church at Ferguslie, Paisley, Renfrewshire.

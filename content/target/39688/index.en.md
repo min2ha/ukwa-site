@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Calum Martin on Facebook
-
 Facebook profile of Calum Martin, RISE list candidate for Lothian region in the 2016 Scottish Parliamentary election.

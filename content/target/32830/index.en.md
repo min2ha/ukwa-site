@@ -10,5 +10,3 @@
   "start_date": "2015-11-24T09:00:00Z"
 }
 
-# SAS-Space: School of Advanced Study, University of London.
-

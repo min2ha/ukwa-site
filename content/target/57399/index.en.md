@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Leith Festival
-
 Site of an annual festival of arts staged throughout Leith, Edinburgh.

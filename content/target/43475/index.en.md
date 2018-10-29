@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ideas on Europe
-
 Informed analysis, comment and debate from UACES (The academic association for contemporary European Studies)

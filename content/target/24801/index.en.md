@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jon Ball: Jon's Blog (Liberal Democrats candidate for Ealing Central and Acton)
-
 Jon Ball stood as Liberal Democrats candidate for Ealing Central and Acton at the 2015 General Election but was not elected. 

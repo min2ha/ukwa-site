@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Inverurie Loco Works Football Club
-
 Site of a Scottish football club based in Inverurie, Aberdeenshire, Scotland

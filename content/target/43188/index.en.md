@@ -10,6 +10,4 @@
   "start_date": "2016-06-20T10:00:00Z"
 }
 
-# Gwyl y Llais | Festival of Voice 
-
 The Festival of Voice takes place at venues all over Cardiff in June 2016, and features local, national and global artists. It was created by Wales Millennium Centre and supported by Arts Council of Wales, Colwinston Charitable Trust and Cardiff Council.

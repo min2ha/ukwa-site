@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Can campaign battle break the Tory-Labour deadlock?
-
 None

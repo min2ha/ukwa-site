@@ -10,7 +10,5 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# THIS Institute
-
 At THIS Institute we aim to create a world-leading scientific asset for the NHS by strengthening the evidence-base for improving the quality and safety of healthcare.
 Co-created by two exceptional organisations – the University of Cambridge and the Health Foundation – THIS Institute is founded on the guiding principle that efforts to improve care should be based on the highest quality evidence.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Goytre United Ladies (@goytreutdladies) on Twitter 
-
 The official Twitter account of Target Goytre United Ladies Football club. Target Goytre United Ladies FC is based in Taibach Park, Port Talbot.

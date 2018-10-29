@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe Berlin 
-
 Open Europe Berlin is an independent German think tank with European orientation. To survive the challenges of the 21st century, basic reforms are needed in the European Union, taking into account the principles of democracy, subsidiarity, responsibility, and transparency. 

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: The Brexit factions reshaping UK politics
-
 Like the rest of the country, the 2016 EU referendum divided MPs into two tribes - Leave and Remain. For some MPs, these opposing visions of Britain's future place in the world exert a far more powerful pull than party loyalty. They sometimes find they have more in common with MPs in other parties who share their view on Brexit than those on their own side.
 
 

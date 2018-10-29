@@ -10,5 +10,3 @@
   "start_date": "2011-03-18T00:00:00Z"
 }
 
-# BBC Cymru - Mastermind Cymru
-

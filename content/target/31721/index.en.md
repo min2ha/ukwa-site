@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Solas Cymru
-
 Solas provide services for people who are vulnerable, homeless or at risk of homelessness in Wales.

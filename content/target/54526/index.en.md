@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Society of Editors
-
 The Society of Editors has nearly 400 members. They are as different as the publications, programmes and websites they create and the communities and audiences they serve.

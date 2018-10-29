@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Council for Voluntary Organisations (SCVO): How do the manifestos measure up for the Scottish third sector?
-

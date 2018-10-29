@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: Nicola Sturgeon: Brexit 'could trigger referendum'
-

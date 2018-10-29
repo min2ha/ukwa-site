@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# European Politics and Policy (EUROPP)
-
 EUROPP – European Politics and Policy is a multidisciplinary academic blog run by the London School of Economics and Political Science. Their central aim is to increase the public understanding of European politics and policy by providing accessible academic commentary and research. They have no editorial ‘line’ beyond a commitment to communicating social science research and commentary in ways that enhance public debate and understanding.

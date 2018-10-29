@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Female Labour MPs to tour in pink election battle bus intended to woo women voters 
-
 None

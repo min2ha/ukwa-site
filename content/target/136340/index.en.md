@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cuba Solidarity Campaign (CSC)
-
 a British organisation that campaigns against the inhumane and illegal 50 year old blockade of Cuba, for an end to the US occupation of Cuban land at Guantanamo Bay, and to defend the Cuban people’s right to be free from foreign intervention.

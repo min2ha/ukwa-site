@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Was it something she said? Theresa May is shunted to the back of the EU leaders' line-up as Juncker claims it will take 'miracles' for a Brexit trade breakthrough   
-

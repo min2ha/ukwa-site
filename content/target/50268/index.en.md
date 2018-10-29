@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Rhwydwaith Arbenigwyr Pwnc | Subject Specialist's Network (SLN)
-
 The Subject Specialist's Network is a new initiative for the teachers of all schools in South Wales.

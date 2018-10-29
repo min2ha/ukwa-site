@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Elementary Didgeridoo Festival, The
-
 The Elementary Didgeridoo Festival is held in Clyro and was established to fuse the elementary sounds of contemporary didgeridoo with dance beats, modern folk and world fusion. 

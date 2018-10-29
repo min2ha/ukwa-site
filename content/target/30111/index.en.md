@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Comhairle nan Eilean (@cne_siar) on Twitter
-
 Official Twitter account of Comhairle nan Eilean Siar, council for the Western Isles (Na h-Eileanan Siar) local government area in Scotland.

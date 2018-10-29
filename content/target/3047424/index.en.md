@@ -10,5 +10,3 @@
   "start_date": "2013-01-31T00:00:00Z"
 }
 
-# Barrie J Davies
-

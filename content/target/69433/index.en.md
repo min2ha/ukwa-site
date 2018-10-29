@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK citizenship: Brexit fears of EU citizen who lived in Britain for 40 years
-
 Discusses the case of a German citizen who lived in the UK for 40 years without applying for British citizenship. The lady now lives in Portugal but might want to return to the UK where her daughter lives. Her immigration status after Brexit is unclear.

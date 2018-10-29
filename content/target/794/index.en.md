@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Administration of Radioactive Substances Advisory Committee (ARSAC)
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May appeals for 'decent patriots' to unite behind her saying Britain's 'best days lie ahead' as she battles to gloss over huge rifts on Brexit and Boris Johnson's trouble-making in crucial Tory conference speech
-

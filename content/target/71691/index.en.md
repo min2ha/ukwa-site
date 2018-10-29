@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour conference: Members vote to keep referendum option open
-
 Labour delegates at the 2018 Party conference approved a motion that would keep all options - including a fresh referendum - on the table if MPs were deadlocked over Brexit.

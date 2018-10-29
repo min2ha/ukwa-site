@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Lincolnshire Artists Blog
-
 The Lincolnshire Artists Society forum and Information site / blog.  The Lincolnshire Artists’ Society, founded as the Lincolnshire Drawing Club, celebrated its Centenary in 2006. Inspired by the Cambridge Drawing Society founded in 1882, it was followed by the St Ives Society in 1927.

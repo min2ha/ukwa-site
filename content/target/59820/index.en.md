@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Dumfries and Galloway Birds
-
 An online enthusiast website concerned with bird watching in Dumfries and Galloway, Scotland. The website includes sections covering key bird watching sites, events, local bird watching groups and a section for users to post bird sightings.

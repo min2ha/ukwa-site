@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Trans Ageing and Care (TrAC)
-
 Trans Ageing and Care (TrAC) is based at Swansea University and is a research project seeking to develop dignified and inclusive health and social care services for older trans people in Wales. 

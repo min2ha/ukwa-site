@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# AV Festival
-
 AV Festival is an international Festival of contemporary art, film and music, based in North East England. A biennial event, the Festival is thematically curated to engage audiences with current ideas across contemporary artistic practice and wider society.

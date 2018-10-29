@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Menai Bridge English Presbyterian Church
-

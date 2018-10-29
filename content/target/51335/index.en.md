@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Orkney Schola, The 
-
 A blog for a Gregorian chant choir based in Orkney.

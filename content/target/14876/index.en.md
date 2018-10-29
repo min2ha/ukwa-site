@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# ActonW3.com
-

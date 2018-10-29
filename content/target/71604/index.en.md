@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# London Journal, A
-
 A blog about London life and other places with some sports history content. 

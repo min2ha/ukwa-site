@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Save People's Park Twitter
-
 Twitter Feed for Save People's Park - A group for all Islanders who oppose the construction of a new hospital on People’s Park.

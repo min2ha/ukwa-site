@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: The Glasgow games are over but the legacy debate continues
-
 <p>Article by Kenneth Gibb about the Legacy of the XX Commonwealth Games. From “The Conversation”  an independent source of news and views, sourced from the academic and research community.</p>

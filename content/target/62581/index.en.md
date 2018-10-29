@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# T.A.U.K - The People's Voice (@TAUK2017) on Twitter
-
 The Alliance UK is a far right collective that claim to fight against they believe is Islamism strangling Britain. 

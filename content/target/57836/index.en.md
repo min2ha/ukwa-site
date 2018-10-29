@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# War and Peace Dance Platform 
-
 War and Peace:Commemorating the Centenary through Dance platform on November 15th at the Tacchi-Morris Arts Centre.

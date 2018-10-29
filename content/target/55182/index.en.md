@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The talks are ALREADY turning nasty: May defends 'fair' offer to let three million EU citizens stay after Brexit as Tusk and Juncker pick fight over powers for European court   
-

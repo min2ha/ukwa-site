@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Historical Diving Society, The (HDS)
-
 The Historical Diving Society (the HDS) was formed in 1990 in the UK by a group of enthusiasts whose aim is to preserve and protect diving heritage. 

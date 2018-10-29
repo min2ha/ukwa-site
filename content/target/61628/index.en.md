@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Motherwell Parish Church
-
 Site of a Church of Scotland parish church at Motherwell, Lanarkshire.

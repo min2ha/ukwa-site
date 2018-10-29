@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Institute of Directors: Navigating Brexit for Business
-

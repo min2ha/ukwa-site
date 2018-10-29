@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Ian's walk on the wild side
-
 Blog of Professor Ian Rotherham, an expert on a range of environmental issues, including urban wildlife, extreme weather, flooding and climate change. He has published extensively in academic journals, and has released a number of books on UK wildlife and the environment. 

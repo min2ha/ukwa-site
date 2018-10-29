@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Blair Castle
-
 Site of a historic castle, visitor attraction and estate located in Blair Atholl, Perthshire.

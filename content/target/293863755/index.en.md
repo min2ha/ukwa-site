@@ -10,7 +10,5 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Catrin Williams
-
 
 Catrin Williams is from Bala and is an elected member of the Royal Cambrian Academy of Art (RCA). Her Welshness and experience of living in Wales is a theme in her work.

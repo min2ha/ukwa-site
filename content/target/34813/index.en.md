@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Britain Nepal 200
-
 Britain Nepal 200 celebrates two centuries of Britain Nepal bilateral relations.

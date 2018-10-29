@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - You hate the tories. You think there is too much...
-
 Ewan Morrison's Facebook post of the 14th June, 2014.

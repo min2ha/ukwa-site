@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Rare Care UK
-
 Rare Care UK aims to care for people with neglected rare diseases, and their families, by providng the support that is often missing

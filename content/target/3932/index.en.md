@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Batley News
-
 None

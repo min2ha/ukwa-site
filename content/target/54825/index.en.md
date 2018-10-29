@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Movement for Justice by any means necessary
-
 Activist organisation aiming to build an independent integrated mass youth and student-led civil right movement. fighting racism, and for gay and immigrant rights.

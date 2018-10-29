@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# A Green World by Martin Corney
-
 A Green World by Martin Corney (Green Party Parliamentary Candidate for South East Cornwall  blog  on  the importance of green issues. 

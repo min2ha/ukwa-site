@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Louise Ramsay (@TayBeavers) on Twitter
-
 The Twitter profile of Louise Ramsay, Scottish Green Party candidate for Mid Scotland and Fife in the 2016 Scottish Parliament election.

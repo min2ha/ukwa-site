@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# David Collins
-
 David Collins Studio are the leading architects and designers for luxury interior design.

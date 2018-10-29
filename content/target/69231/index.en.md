@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: the proposed UK-EU security treaty
-
 EU Member States currently enjoy levels of cooperation and mutual recognition that go far deeper than any comparable international collaborations. In its future partnership paper on security, law enforcement and criminal justice, the Government called for a partnership between the UK and EU "that goes beyond the existing, often ad hoc arrangement for EU third-country relationships", and has supported the idea of a UK-EU treaty that would provide "a legal basis" for continued cooperation. In its report, the Committee examines the feasibility of the Government's ambition to negotiate a single, comprehensive security treaty with the EU.
 
 

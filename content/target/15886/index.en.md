@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Durham Miners’ Association (DMA), The
-
 The Durham Miners Association (DMA) provides a range of services for its members who are former Durham miners. These services include compensation claims, benefit information, tribunal representation and legal advice. They also support community and cultural activity including the annual Durham Miners’ Gala which is a celebration of trade-union-and-community spirit in Britain.

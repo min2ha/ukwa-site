@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 18th July 2018: Personal Statement
-
 Statement by Boris Johnson following his resignation as Foreign Secretary in protest against the Prime Minister's compromise proposal for the UK's relationship with the EU after Brexit. In his speech he denounces this compromise as Brexit in name only.

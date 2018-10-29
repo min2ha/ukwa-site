@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The diary of Regimental Sergeant Major George Beck
-

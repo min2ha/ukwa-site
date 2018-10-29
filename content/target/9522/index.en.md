@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Independent: Ukip as much chance of winning European elections as finding alien life on Mars, say British public
-
 None

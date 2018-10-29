@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: George Osborne rules out second vote after 'crucial' EU decision is made 
-

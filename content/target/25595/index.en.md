@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Final Scottish candidates list sees lower ratio of women standing
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The New Jerusalem of Brexit is revealing itself to be a mirage
-

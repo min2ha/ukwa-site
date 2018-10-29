@@ -10,6 +10,4 @@
   "start_date": "2017-12-07T09:00:00Z"
 }
 
-# Sean Rigg - Justice and Change
-
 Campaign for justice in relation to the death in police custody of Sean Ring, a London-based musician working in  Brixton, and for changes in the way the police treat, and are held accountable for their treatment of, black people and people experiencing a mental heath crisis.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election pass notes: for those who still can’t decide how to vote
-
 None

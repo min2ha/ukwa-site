@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-#  Social Pedagogy Professional Association (SPPA)
-
 The Social Pedagogy Professional Association (SPPA) was launched in February 2017 to hold the Standards of Occupational Proficiency, and Standards of Education and Training in Social Pedagogy. We represent members in all four countries of the UK

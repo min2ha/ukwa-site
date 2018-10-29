@@ -10,5 +10,3 @@
   "start_date": "2010-05-20T00:00:00Z"
 }
 
-# Welcome to Llangrannog
-

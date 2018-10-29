@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Philippa Whitford on Facebook
-
 This is the Facebook page of Philippa Whitford, the Scottish National Party (SNP) candidate for Central Ayrshire in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Martin and St. Paul, Canterbury
-
 The Parish of St. Martin & St. Paul, are two thriving churches near the centre of Canterbury. We are an open-hearted community and you will be welcome - whoever you are. 

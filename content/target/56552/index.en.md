@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# SSRI
-
 ‘Suddenly Something Really Interesting’ or, ‘SSRI’, was a webcomic on depression and anxiety created by Garry Mac between 2012-13

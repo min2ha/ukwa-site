@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Royal Mail plc
-
 Royal Mail plc is a postal service company in the United Kingdom. The company's subsidiary, Royal Mail Group Limited, operates the brands Royal Mail (letters) and Parcelforce Worldwide (parcels). General Logistics Systems, an international logistics company, is a wholly owned subsidiary of Royal Mail Group.

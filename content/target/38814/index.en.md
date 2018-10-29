@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Boundary Art
-
 Boundary Art is a an Art Gallery located in Cardiff Bay.

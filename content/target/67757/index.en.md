@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Brecon Singers
-
 The Brecon Singers was founded as the Brecon Cathedral Singers in 1966. They rehearse at Neuadd Goffa, Christ College, Brecon.

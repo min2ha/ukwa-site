@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Councillor Ross Thomson: Scottish Conservatives
-
 The website of Ross Thomson Conservative Parliamentary candidate for Aberdeen South in the UK General Election, 7th May 2015.

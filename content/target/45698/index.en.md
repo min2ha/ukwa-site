@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scottish Parliament: Research Briefings: EU and International Affairs
-
 Research briefings prepared by the Scottish Parliament Information Centre (SPICe).

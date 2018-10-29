@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Third Sector: Election 2015
-

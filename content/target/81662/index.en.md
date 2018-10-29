@@ -10,5 +10,3 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# Gavin Inglis
-

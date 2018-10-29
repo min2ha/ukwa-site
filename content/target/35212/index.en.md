@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# What UK Thinks  : Britain divided. Who supports and who opposes EU membership
-
 Non-partisan information on UK attitudes to the EU and the EU referendum

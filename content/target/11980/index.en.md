@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anwen Butten (AnwenButten) on Twitter
-
 The twitter profile of Anwen Butten, lawn bowls player and member of Team Wales for the Glasgow 2014 Commonwealth Games.

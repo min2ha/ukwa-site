@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Douglas Rugby Club
-
 Douglas RFC is based in Douglas Village just south of Cork City.

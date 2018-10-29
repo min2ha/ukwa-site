@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The effect of Brexit on agriculture and fisheries in South West England
-
 A Westminster Hall debate was tabled for October 19th on the effect of the UK leaving the EU on agriculture and fishing in  South West England. This debate pack includes some press and Parliamentary material, and further reading on the implications of Brexit for UK agriculture and fisheries

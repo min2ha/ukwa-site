@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Fairbourne Facing Change Community Action Group (FFC) 
-
 The Fairbourne Facing Change Community Action Group (FFC) was established in direct response to the West of Wales Shoreline Management Plan 2(SMP2), a strategic planning framework for coastal risk management and to present an accurate and balanced reporting of the situation and views of the local community.

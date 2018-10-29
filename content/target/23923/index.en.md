@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Scrap 'stupid' Trident and 'nineteenth century' navy, says Green Party defence spokesman
-
 None

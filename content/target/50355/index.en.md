@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Business Sprinkler Alliance
-
 The BSA advocates greater business resilience by enhancing protection against fire through the increased acceptance and use of fire sprinklers in commercial and industrial premises.

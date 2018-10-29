@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Chequers plan gives no competitive advantage to Britain over EU, UK negotiators admit 
-
 In an attempt to sell the Chequers plan to a reluctant EU, British negotiators openly admitted in Brussels that Theresa May’s Chequers deal would not deliver any competitive advantage to the UK over Europe after Brexit. News of the admission  enraged Tory Brexiteers who already viewed Chequers as a sell-out.

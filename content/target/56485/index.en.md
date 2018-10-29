@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Bugz UK 
-
 Bugz UK is an online business that breeds and imports exotic invertebrates.

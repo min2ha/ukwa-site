@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Gov.UK: Ebola Virus UK Government Response
-
 <p>Gov.UK: Ebola Virus UK Government Response presented on the official government website.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Tag: EU Referendum 
-
 'Neutral analysis' of news from Europe 

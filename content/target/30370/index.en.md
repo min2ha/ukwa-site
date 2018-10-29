@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Yorkshire Museum of Farming
-
 The Yorkshire Museum of Farming is located in Murton Village just outside York. The museum occupies the large site of Murton Park which is also home to the Danelaw Centre for Living History, The Derwent Valley Light Railway, The York and District Beekeepers Association and is also the base for the York and District Guild of Spinners, Weavers, and Dyers.

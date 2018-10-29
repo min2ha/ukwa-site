@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sarah Boyack MSP
-
 The website of Sarah Boyack, Scottish Labour Member of the Scottish Parliament for Lothian.

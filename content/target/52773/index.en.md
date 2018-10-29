@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ballyclabber Reformed Presbyterian Church
-
 Ballyclabber Reformed Presbyterian Church is just outside the town of Coleraine in Northern Ireland. We are a small congregation of people of all ages and we welcome visitors to join us at any time.

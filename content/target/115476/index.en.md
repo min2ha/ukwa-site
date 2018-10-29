@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Citizens Advice - Northern Ireland
-
 None

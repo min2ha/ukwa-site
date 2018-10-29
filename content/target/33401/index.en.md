@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# UK Essays
-
 UK Essays is an essay and dissertation writing service. 

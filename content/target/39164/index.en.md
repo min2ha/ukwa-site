@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Liz Newton (@LizRNewton) on Twitter (Liberal Democrat candidate for Newport West) 
-
 Liz Newton is the Liberal Democrats candidate for Newport West at the 2016 National Assembly Elections. 

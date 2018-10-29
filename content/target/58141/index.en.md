@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Yr Awr Gymraeg
-
 Yr Awr Gymraeg is a weekly Welsh language Twitter hour promoting and marketing the Welsh language every wednesday between 8 and 9. The initative will come to an end on 15th December, 2017, its 5th birthday. During the hour, business and bodies request to be retweeted by including the #yagym. 

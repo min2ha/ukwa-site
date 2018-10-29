@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Comical, tedious, important: Election 2015 in a word
-
 None

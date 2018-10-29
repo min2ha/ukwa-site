@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# University of Lincoln: Magna Carta lecture series: Dr Rachel Foxley: Magna Carta and the Levellers
-

@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Visual Arts Scotland
-
 Site of an organisation providing a platform for emerging and established fine and applied artists to showcase their work, in Scotland and internationally.

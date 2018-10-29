@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mary Fee MSP
-
 Mary Fee, Scottish Labour Member of the Scottish Parliament for West Scotland.

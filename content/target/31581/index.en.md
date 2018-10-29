@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Richard Barrett
-
 Richard Barrett is a Welsh composer.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Diary of a Frugal Family
-
 None

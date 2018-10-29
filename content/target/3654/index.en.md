@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Donside Piper and Herald
-
 None

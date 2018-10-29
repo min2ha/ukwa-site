@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Battersea Dogs & Cats Home: Battersea launches its General Election Manifesto as the eight week election countdown begins
-
 Battersea Dogs & Cats Home is the United Kingdom's oldest and most famous home for dogs and cats and is situated in the Battersea area of London, England. It is financed by voluntary donations.

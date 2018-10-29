@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Comman Eachdraidh an Taobh Siar
-

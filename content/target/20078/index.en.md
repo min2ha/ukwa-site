@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Matthews on Facebook
-
 Green candidate for Cynon Valley

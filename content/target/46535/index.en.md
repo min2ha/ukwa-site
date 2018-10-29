@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LocalGov: Public ‘sceptical’ Brexit will improve services
-
 The British public are sceptical that Brexit will lead to improvements in public services, according to new research by Ipsos MORI

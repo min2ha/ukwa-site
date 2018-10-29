@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# One Law For All
-
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# New Pitsligo Through the Years
-
 Site providing family and local history resources for the village of New Pitsligo, Aberdeenshire, Scotland.

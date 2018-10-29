@@ -10,5 +10,3 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Cofnodion Ystad Wynnstay | Wynnstay Estate Records
-

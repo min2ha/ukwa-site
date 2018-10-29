@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why on earth is a lifelong Europhile our top Brussels negotiator? ANDREW PIERCE on the mandarin who seems determined to 'fudge' Britain's exit from the customs union 
-
 Theresa May's Europe adviser Olly Robbins has been an ardent disciple of closer political and monetary union with the EU since he was at Oxford. But Brexiteers have always been suspicious that this mandarin serves two masters. Now they are convinced of it in the face of his determination to ‘fudge’ Britain’s exit – as voted for by 17.4million people – from the customs union with plans for a customs partnership.

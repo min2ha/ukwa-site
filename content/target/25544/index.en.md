@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron to unveil plans for England-only income tax from 2016
-
 None

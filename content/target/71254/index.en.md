@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Southampton Stage Dance Festival
-
 Website for the Southampton Stage Dance Festival

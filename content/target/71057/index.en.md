@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Vintage Horticultural and Garden Machinery Club Forum 
-
  A UK-based vintage horticultural and garden machinery club forum 

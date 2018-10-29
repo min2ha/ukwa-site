@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The campaign to stay in the EU is 'Project Fear', says Boris Johnson
-

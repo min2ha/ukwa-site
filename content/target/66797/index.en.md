@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Connect Church
-
 Site of an Apostolic church located in Kirkcaldy, Fife.

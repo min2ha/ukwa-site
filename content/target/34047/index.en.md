@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Eurosceptics need to stop fighting and unite to win the EU referendum
-

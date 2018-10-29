@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Federation of Small Businesses (FSB): A skilful exit: what small firms want from Brexit
-
  This report strongly demonstrates that the ability to hire people with the right skills, and to do business across UK-EU borders is fundamental to small firms’ survival and growth. If the UK was to face a sudden restriction on its ability to access EU workers at the point at which, or even before, the UK has
 formally left the EU, it would have far-reaching implications for the economy and a disproportionate effect on small businesses.

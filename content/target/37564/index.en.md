@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Economic Performance: Brexit or fixit? the trade and welfare effects of leaving the European Union
-
 Concludes that that leaving the EU would be likely to impose substantial costs
 on the UK economy and would be a very risky gamble.

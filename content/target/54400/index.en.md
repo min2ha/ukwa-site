@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Highbury Community Association
-
 The Highbury Community Association (HCA) represents residents and businesses on all aspects of living and working in Highbury, Lower Holloway and Finsbury Park in north London

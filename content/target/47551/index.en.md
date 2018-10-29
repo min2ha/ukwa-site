@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Envy and hatred of the British are at the heart of French identity
-
 Argues that France will prove the biggest obstacle to a successful Brexit.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: Lead EU referendum campaigns named
-
 Vote Leave and Britain Stronger in Europe have been designated as the official Leave and Remain campaigns in June's EU referendum.

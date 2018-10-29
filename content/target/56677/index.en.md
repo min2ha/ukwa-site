@@ -10,5 +10,3 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Abertillery Orpheus Male Choir
-

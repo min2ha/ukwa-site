@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Battle of Prestonpans 1745
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# English Federation of Disability Sport 
-
 None

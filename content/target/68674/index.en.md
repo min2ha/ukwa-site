@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ignite Sport UK 
-
 Website advertising the Ignite Sport UK Football Festival

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# United Kingdom Floorball Federation
-
 Works to growing the sport throughout the UK. Lists leagues, how to join, news items, and policies.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Association for Heterodox Economics
-
 The Association for Heterodox Economics (AHE) is a learned society which aims to promote open and tolerant debate in economics through a pluralist approach to theory, method, and ideology. The Association, and its membership, seek to promote heterodox economics and perspectives in the academic, governmental and private spheres of the discipline of economics.

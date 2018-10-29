@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Stephen Collins on the Magna Carta – cartoon 
-

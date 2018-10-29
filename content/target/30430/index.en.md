@@ -10,5 +10,3 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Scottish Refugee Council: Help, advice, information for refugees and asylum seekers in Scotland
-

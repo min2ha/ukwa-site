@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# PwyntTeulu Cymru | FamilyPoint Cymru
-
 FamilyPoint Cymru is a information resource for parents, carers and anyone responsible for children and young people in Wales.

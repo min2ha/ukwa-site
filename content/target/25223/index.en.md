@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Express Newspapers Chairman Richard Desmond: Why I'm giving £1.3m to Ukip
-
 None

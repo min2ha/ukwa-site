@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carmarthen West and South Pembrokeshire Conservatives
-
 Website of Carmarthen West and South Pembrokeshire Conservatives, providing information on MPs, Assembly Members, events, local, national, westminster, assembly and European news and news opinion and speeches in Parliament.

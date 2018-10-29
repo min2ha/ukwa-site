@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Crossrail Open Data
-
 As part of Crossrail Limited's commitment to transparency with the public for the ongoing construction and delivery of this project, Crossrail provided this portal for open geospatial data.

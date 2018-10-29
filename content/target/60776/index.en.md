@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bedfordshire FA
-
 The Bedfordshire Football Association, also simply known as Bedfordshire FA, is the governing body of football in the county of Bedfordshire, England. Founded in 1894, the Bedfordshire FA run a number of cups at different levels for teams across Bedfordshire.

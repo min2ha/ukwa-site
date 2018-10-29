@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Public Administration and Constitutional Affairs Committee: Devolution and Exiting the EU: reconciling differences and building strong relationships
-
 Leaving the EU will change the constitutional arrangements of the UK in relation to the devolution settlements: the devolution settlements were established in the context of EU membership and this masked many key constitutional questions and ambiguities that will now become more pressing. In recognition of the significance of devolution to the UK's constitutional arrangements, PACAC recommends the Government publish a 'Devolution Policy for the Union'.
 

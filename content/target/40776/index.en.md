@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Ferret Droppings
-
 Blog forming part of The Ferret investigative journalism project.

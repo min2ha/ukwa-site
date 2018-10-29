@@ -10,5 +10,3 @@
   "start_date": "2015-04-30T09:00:00Z"
 }
 
-# Seth Cruse on Facebook (TUSC candidate for Folkestone and Hythe)
-

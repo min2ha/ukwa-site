@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Dee on Dab
-
 Dee on DAB now broadcasting across West Cheshire, North Wales and Merseyside in digital on DAB. It is one of the last independent commercial broadcasters in the UK.

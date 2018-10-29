@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Owen Jones: EU referendum: six reasons to remain
-
 Owen Jones comments on the EU referendum in his youtube channel. 

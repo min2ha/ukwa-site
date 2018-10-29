@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Kolila Consulting Ltd
-

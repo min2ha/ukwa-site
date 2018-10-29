@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Catriona matthew (@Beany25) on Twitter
-
 The twitter profile of golfer, Catriona Mattthew.

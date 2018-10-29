@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Selfitis: Obsessive taking of selfies a "serious psychological complex"
-
 A news article on the impact of taking selfies on mental health

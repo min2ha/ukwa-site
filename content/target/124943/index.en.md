@@ -10,6 +10,4 @@
   "start_date": "2007-11-06T00:00:00Z"
 }
 
-# UK Biobank
-
 UK Biobank is a major UK medical research initiative, and a registered charity in its own right, with the aim of improving the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses  including cancer, heart diseases, diabetes, arthritis and forms of dementia.

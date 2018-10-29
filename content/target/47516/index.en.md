@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# High Life Highland Archive Service
-
 Site of the archive service for the Highland region of Scotland.

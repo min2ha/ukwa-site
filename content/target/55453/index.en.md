@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: It's addictive as cocaine and just as damaging: So is YOUR husband hooked on internet porn?  
-
 Article discussing internet porn and addiction

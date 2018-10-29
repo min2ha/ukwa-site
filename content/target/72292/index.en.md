@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Aviation regulator 'rebuffed' over no-deal Brexit plan
-
 UK aviation regulator the CAA sought a joint no-deal transition plan with its EU counterpart but was rebuffed. Letters seen by th BBC showed the European Aviation Safety Agency (EASA) rejected a British call for a plan in July.2018
 

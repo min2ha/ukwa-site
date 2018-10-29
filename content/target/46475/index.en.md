@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Brexit? It's not over till it's over. And here's why it may never happen
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

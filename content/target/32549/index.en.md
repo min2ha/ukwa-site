@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Institute of Economic Affairs: European Union
-
 Publications and news releases from the IEA, including details of the IEA ‘Brexit’ prize, which challenged individuals and organisations to imagine a blueprint for Britain in the event of a referendum decision to leave the Union. 

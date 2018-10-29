@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ROUND TOWERS GAA LONDON
-
 Website for the Round Towers GAA London, a Gaelic Football Club established in 1932, based in South London.

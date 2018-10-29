@@ -10,6 +10,4 @@
   "start_date": "2016-07-01T11:00:00Z"
 }
 
-# Tim Harford - The Undercover Economist
-
 Tim is an economist, journalist and broadcaster. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Shoebridge Short Track Speed Skater
-
 None

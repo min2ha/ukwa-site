@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One Ireland
-
 The aim of this project is to collect and add profiles of all Irish who were involved in World War One, including soldiers and non-combatants like nurses, medics, engineers etc.

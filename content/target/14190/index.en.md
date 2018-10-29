@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Government: Scottish Independence Referendum: Statement by the Prime Minister 19 September 2014
-
 <p>Text and video of the statement made by David Cameron, made on 19 September, when the result of the Scottish Independence Referendum was known.</p>

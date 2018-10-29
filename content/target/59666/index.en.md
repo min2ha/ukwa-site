@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# FLYER Forums
-
 An online enthusiast community forum for flying enthusiasts. Discusses general aviation topics, user flight reports, student pilots, technical discussions and various related topics. The forum is part of the FLYER magazine.

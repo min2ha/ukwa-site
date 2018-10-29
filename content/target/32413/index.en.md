@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# British Fenestration Rating Council (BFRC)
-
 The British Fenestration Rating Council is the UK authority for independently verified ratings of energy efficient windows and energy efficient doors.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Council for Subject Associations (CFSA)
-
 The Council for Subject Associations (CfSA) is a membership organisation. It is entirely independent of government and acts as a single voice for its subject association members.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# Archives and Records Association (ARA) Conference 
-
 The Archives and Records Association (UK & Ireland) conference is an annual event for people in the archives and records management sector.

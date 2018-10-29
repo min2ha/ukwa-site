@@ -10,6 +10,4 @@
   "start_date": "2013-12-15T21:00:00Z"
 }
 
-# Network Rail
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# St Davids Online 
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Wallasey Rugby Club (@WallaseyRUFC) on Twitter
-
 The official Twitter account of Wallasey Rugby Union Football Club.

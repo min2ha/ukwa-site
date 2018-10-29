@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Glasgow FrontRunners
-
 Site of an inclusive community based road-running group with strong links to Glasgow’s Lesbian, Gay, Bisexual and Transgender (LGBT) community and friends.

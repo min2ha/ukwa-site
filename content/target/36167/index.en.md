@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Institute for Govenrment: Blog
-

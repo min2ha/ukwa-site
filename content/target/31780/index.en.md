@@ -10,5 +10,3 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Ganolfan, Y - Canolfan Gelfyddydau Porthmadog | Porthmadog Arts Centre, The
-

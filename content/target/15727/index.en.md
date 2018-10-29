@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Chester Cathedral 
-
 Chester Cathedral has a rich and fascinating heritage. It is a living community of prayer and worship, a centre for Church Music, and plays a key role for the Christian community across Chester, the Wirral and Cheshire.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cameron Buchanan (CamBuchananMSP) on Twitter
-
 <p>The twitter profile of Cameron Buchanan, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Lothian Region.</p>

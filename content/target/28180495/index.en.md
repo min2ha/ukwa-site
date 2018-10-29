@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Marcia Farquhar
-
 Marcia Farquhar is an artist working in performance, photography, painting and object-making. Her site-specific works have been staged and exhibited internationally in museums and galleries, as well as in lecture theatres, kitchen showrooms, hotels, pubs, parks and leisure centres.

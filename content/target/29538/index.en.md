@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North London Literary Festival
-
 The North London Literary Festival is a student-run festival supervised this year by Lecturer Sarah Wardle that takes place on 23rd, 24th and 25th of March 2015 on the fabulous Middlesex University campus in the heart of North London.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: No 10 denies idea of joint EU and UK status for Northern Ireland
-
 Downing Street dismissed a mooted idea for a post-Brexit customs deal where Northern Ireland would have EU and UK status and a “buffer zone” along its border with Ireland, saying it could not accept plans that treated the region differently from the rest of the UK.
 

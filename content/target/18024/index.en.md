@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# United Kingdom Literacy Association (UKLA) 
-
 UKLA is a registered charity, which has as its sole object the advancement of education in literacy. UKLA is committed to promoting good practice nationally and internationally in literacy and language teaching and research. The Association was founded in 1963 as the United Kingdom Reading Association.

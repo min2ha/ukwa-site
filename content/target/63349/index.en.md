@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Gonville & Caius: Stephen Hawking
-
 Gonville & Caius College is a constituent college of the University of Cambridge in Cambridge, England. The college is the fourth-oldest college at the University of Cambridge and one of the wealthiest. These are articles related to Stephen Hawking

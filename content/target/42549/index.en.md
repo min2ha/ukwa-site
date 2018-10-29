@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Irish 4 Europe
-
 Irish people living in the UK have a lot to lose if the Brexit vote wins. For security, for the economy, and for the freedom to live, travel and work in the UK, they are better off with the UK as part of Europe

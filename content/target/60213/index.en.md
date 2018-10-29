@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Salt Road
-
 LARC at Grange Court and Salt road produced the HLF funded Food scarcity project, using WW1 Women's Land Army home front posters and photographic archives to run workshops with vulnerable communities to examine how a revolutionary collective change in systems for the production of food helped win the home front.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The prophets of doom are wrong!' Boris Johnson says we could get a BETTER deal than single market membership but warns that Brexit will be 'stormy and stressful'   
-

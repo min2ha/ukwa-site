@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# ASD Friendly: sharing experiences of everyday life with our ASD children
-
 ASD Friendly is a close-knit community of parents and carers of people with Autism and Asperger's Syndrome, founded in 2003. Run by parents for parents to share tips, vent frustrations, and laugh about things others would never understand.

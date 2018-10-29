@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Revealed: hitlist of welfare cuts facing Britain's next chancellor
-
 None

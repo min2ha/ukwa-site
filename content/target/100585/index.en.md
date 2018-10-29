@@ -11,5 +11,3 @@
   "subject": "Indian Ocean Tsunami December 2004"
 }
 
-# World Jewish Aid
-

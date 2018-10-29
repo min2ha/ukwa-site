@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: 'sufficient progress' to move to phase 2
-
 This paper looks at the path towards 'sufficient progress' in the first phase of Brexit negotiations and the Joint Report agreed by the UK Government and the EU. It focuses on the three priority areas: citizens' rights, the financial settlement and the border between Ireland and Northern Ireland. The paper also looks at other recent developments and parliamentary consideration of Brexit.
 

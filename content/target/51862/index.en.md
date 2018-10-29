@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Search & Rescue Dog Association Scotland
-
 Site of a Scottish charitable organisation which trains dogs and their handlers to search for missing persons throughout Scotland.

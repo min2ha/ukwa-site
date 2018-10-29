@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Friends of Craighouse
-
 Site of a hyper local pressure group set up to oppose the redevelopment of Craig House, a historic building, and its estate located between Craiglockhart, Morningside and Greenbank in South West Edinburgh.

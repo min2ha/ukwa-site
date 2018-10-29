@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Caterham County Border News
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# MatthewWoolfallJones (@math_jones) on Twitter (Plaid Cymru candidate for Torfaen)
-
 Matthew Woolfall Jones is the Plaid Cymru candidate for Torfaen at the 2016 National Assembly Election. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Workshop Forum
-
 An online enthusiast forum concerned with woodworking and metalworking. Discusses tools, buying advice, finishing advice, experiences from past projects, design tips and various other topics.

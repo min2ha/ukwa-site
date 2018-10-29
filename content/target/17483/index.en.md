@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband would open 'aggressive' review into practices of HMRC
-
 None

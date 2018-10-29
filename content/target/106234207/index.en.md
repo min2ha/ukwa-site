@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Public Library of Science - PLOS
-

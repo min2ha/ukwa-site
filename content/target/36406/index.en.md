@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron's 'project fear' makes its way across the Channel
-
 Comment by Steven Woolfe, UKIP MEP

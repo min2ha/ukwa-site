@@ -10,5 +10,3 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Shoreline of Infinity
-

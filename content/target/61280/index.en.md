@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# 2020 Effect
-
 2020 Effect is a company that provides services and consultation on areas such as production, choreography, graphic design.

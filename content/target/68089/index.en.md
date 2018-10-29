@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# British & Eire Association of Vitreoretinal Surgeons (BEAVRS) 
-
 We aim to provide information about Day and Short Stay Surgery for Patients, Relatives, Carers, Healthcare Professionals and Members.

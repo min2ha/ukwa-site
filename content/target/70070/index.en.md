@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Beyond Baked Beans
-
 Site set up to help students eat more healthily with recipes, advice and tips for eating well for low cost.  Also for any first-time cooks and others who are struggling to eat well on a budget.

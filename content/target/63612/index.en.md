@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Choice4IrelandMCR (@Choice4IreManc) on Twitter
-
 Manchester organistion in support of the campaign for Reproductive Rights in Republic of Ireland and Northern Ireland. 

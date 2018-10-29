@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Patrick Vernon (@ppvernon) on Twitter
-
 Patrick Vernon is a social commentator, film maker and publisher. 

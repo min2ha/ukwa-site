@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# ToUChstone Blog
-
 An informal blog by TUC staff about policy issues that are in the news,

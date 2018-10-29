@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Tabernacle United Reformed Church, Pembroke
-

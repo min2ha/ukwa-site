@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: Revealed: right-wing plans to scrap workers' rights after Brexit 
-
 The second day of the committee stage of the EU Withdrawal Bill uncovered evidence of a right-wing plan to use Brexit to water down or scrap working people's rights after Brexit. 

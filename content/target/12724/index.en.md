@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Laugher - Professional Diver for Great Britain
-
 <p>The website of diver Jack Laugher, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

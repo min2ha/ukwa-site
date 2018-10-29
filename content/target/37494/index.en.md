@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Catholic Herald: EU referendum
-

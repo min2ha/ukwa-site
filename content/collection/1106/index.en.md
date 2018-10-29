@@ -29,6 +29,4 @@
   "endDateText": ""
 }
 
-# Global UK
-
 A collection of websites to representing various global communities living in the UK.

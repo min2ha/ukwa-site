@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Health Matters: Brexit? TTIP and the NHS
-
 Blog post exploring whether the Transatlantic Trade and Investment Partnership (TTIP) would undermine the NHS.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Academy of Music and Sound, Scotland
-
 Site of the Scottish branch of a music education organisation, with locations in Edinburgh and Glasgow, offering specialist, instrument specific courses.

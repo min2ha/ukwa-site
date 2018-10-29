@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Resolution Foundation: Is the gender pay gap on the brink of closure for young women today?
-
 A blog post by Resolution Foundation discussing the improvement to women's position in the workplace through analysing the gender pay gap.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scientific Advisory Committee on Nutrition (SACN)
-
 None

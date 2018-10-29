@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Guardian, The
-
 <p>The online service for the Guardian, a national daily newspaper for the whole of the UK.</p>

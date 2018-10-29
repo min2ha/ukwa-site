@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sidlaw Churches
-
 Site of a group of Church of Scotland churches in Angus, covering the parishes of Auchterhouse, Monkie, Murroes and Tealing and the community of Newbigging.

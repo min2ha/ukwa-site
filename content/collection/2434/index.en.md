@@ -41,6 +41,4 @@
   "endDateText": "31-12-2009"
 }
 
-# Darwin 200
-
 The year 2009 marked the 200th anniversary of the birth of evolutionary biologist Charles Darwin and the 150th anniversary of the publication of his seminal work, 'On the Origin of Species'. A series of events was held globally to celebrate the 'Year of Darwin 2009' and to promote science in general. This collection of websites was curated by staff at the British Library.

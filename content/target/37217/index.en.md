@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: Boris Johnson Channels Hugh Grant's 'Love Actually' PM To Slam Barack Obama For 'Hypocrisy' Over EU Referendum
-
 Huffington Post, The: Boris Johnson Channels Hugh Grant's 'Love Actually' PM To Slam Barack Obama For 'Hypocrisy' Over EU Referendum

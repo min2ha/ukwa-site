@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Oxford Labour
-
 Website of Labour party in Oxford, providing information on MPs, MEPs, councillors, representatives and candidates, events and local, national and party news.

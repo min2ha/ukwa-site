@@ -10,5 +10,3 @@
   "start_date": "2011-08-14T00:00:00Z"
 }
 
-# BBC News: Phone Hacking Scandal
-

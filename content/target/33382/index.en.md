@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Colchester Colour Processors and Marine Photo Service
-
 Site was set up initially to support a reunion of a group of shipboard photographers who travelled the world taking photos over several decades. Contains some rare photos of Brits working at sea on foreign vessels - historical shots of ports of the world as well as a collection of  Cruise Ship photos. Two reunions have taken place during the life of the website (about 8 years).

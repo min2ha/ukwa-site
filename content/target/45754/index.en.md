@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Send My Friend to School
-
 Send My Friend to School is run by the Global Campaign for Education UK Coalition.

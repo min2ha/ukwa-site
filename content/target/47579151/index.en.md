@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Ansuman Biswas
-
 Ansuman Biswas works in a wide variety of media, but his central concern lies between science, work and religion.

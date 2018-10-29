@@ -10,6 +10,4 @@
   "start_date": "2014-11-25T06:00:00Z"
 }
 
-# Engineering Education Scheme Wales
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Firefly Press
-
 Children's publisher based in Wales.

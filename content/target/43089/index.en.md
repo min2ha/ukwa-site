@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Europhiles have finally snapped and Brexit is looking increasingly likely
-

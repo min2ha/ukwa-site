@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rob White (@cllrrobwhite) on Twitter (Green Party Candidate for Reading East)
-

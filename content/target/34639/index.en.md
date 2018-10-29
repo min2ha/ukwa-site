@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Darren Millar (Conservative Assembly Member for Clwyd West)
-

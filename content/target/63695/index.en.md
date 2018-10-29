@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inverallochy and Rathen East Church
-
 Thr website of Inverallochy and Rathen East Church.

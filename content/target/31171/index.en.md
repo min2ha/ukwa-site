@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Cyngor y Gweithle Addysg | Education Workforce Council
-
 Education Workforce Council regulate education practitioners in Wales in the interests of learners and the general public. 

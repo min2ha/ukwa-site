@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP manifesto launch: Election 2015 - as it happened
-
 None

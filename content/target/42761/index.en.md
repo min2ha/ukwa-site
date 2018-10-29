@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Aberdeen Performing Arts
-
 Site of an organisation based in Aberdeen, managing three theatres / performance venues, presenting and producing a performance arts programme, developing performing talent and promoting Aberdeen as a cultural centre in Scotland.

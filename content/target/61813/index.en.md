@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Row Wales
-
 Row Wales is the home of Welsh Rowing and Rowing Courses in Wales. The site provides information on all types of rowing in Wales.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Wildlife Trusts: Brexit and Wildlife
-
 The Wildlife Trusts care for 2,300 diverse and beautiful nature reserves, from remote woods and rivers to inner city nature parks, and most people live within a few miles of one of these special places. We run marine conservation projects around the coast and campaign for protection of our seas.
  
 

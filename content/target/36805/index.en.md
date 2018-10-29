@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# Socialist Party NI
-
 The Socialist Party is the Northern Ireland affiliate of the Committee for a Workers’ International (CWI) which unites socialists in over 45 countries across the world.
 
 The Socialist Party is an all Ireland party, of which Socialist Party NI are the Northern region. The Socialist Party is an active party which encourages the full participation of all members and intervenes in the struggles of ordinary people to fight the agenda of the sectarian and right-wing parties and to build a socialist alternative to the failure of capitalism.

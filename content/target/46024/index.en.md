@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Gwasanaethau Mudo yng Nghymru | Migration Services in Wales
-
 Migration Services in Wales is a partnership project delivered by Welsh Refugee Council, COMPAS and the Migration Observatory and is funded by the Welsh Government.

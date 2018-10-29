@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Committee Examining Radiation Risks of Internal Emitters
-
 None

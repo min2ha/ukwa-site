@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Western Counties Liberal Democrats on Facebook
-
 None

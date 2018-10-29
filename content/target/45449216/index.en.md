@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Airminded - airpower and British society 1908-1941 (mostly)
-

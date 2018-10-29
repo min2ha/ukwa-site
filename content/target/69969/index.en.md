@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Explore Mortimer Country
-
 This is a tourist information guide to Mortimer Country, an area that covers North Herefordshire - an area to Ludlow at the heart of the Marches - the border county of Herefordshire and Wales. 

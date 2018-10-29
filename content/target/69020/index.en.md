@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Neath Port Talbot Cancer Challenge Singers choir
-
 The Neath Port Talbot Cancer Challenge Singers choir was formed by Joan Lewis, MBE, in 1999.

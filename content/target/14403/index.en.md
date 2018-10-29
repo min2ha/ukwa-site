@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Im doing a public debate tomorrow with Alex...
-
 Ewan Morrison's post of the 8th of August, 2014.

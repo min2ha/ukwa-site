@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Shine TV
-
 Shine TV has grown to become one of the UK's most successful production companies.

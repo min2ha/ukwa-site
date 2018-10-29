@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK universities 'face disaster within weeks' without clear Brexit plan
-

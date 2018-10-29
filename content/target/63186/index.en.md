@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Science Museum Blog
-
 News and insights from the Science Museum

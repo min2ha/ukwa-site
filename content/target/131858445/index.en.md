@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National End of Life Care Intelligence Network
-
 None

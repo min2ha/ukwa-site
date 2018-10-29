@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nick Clegg: The choice is me, Salmond or Farage
-
 None

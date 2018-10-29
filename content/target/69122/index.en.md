@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MindOut: Online Support
-
 LGBTQ mental health service

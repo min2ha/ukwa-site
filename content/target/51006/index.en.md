@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Fisgard Association
-
 The aim of this 'old-school' Association is to bring together those who spent some or most of their formative years in HMS Fisgard, or in the Fisgard Squadron, institutions which bear the only name that has an unbroken history of being exclusively used for the education and training of Artificer Apprentices.

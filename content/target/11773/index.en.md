@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow 2014 - insidethegames.biz - Olympic, Paralympic and Commonwealth Games News
-
 Glasgow 2014 Commonwealth Games news stories.

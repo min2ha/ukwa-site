@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# UK PROPTECH ASSOCIATION (UKPA)
-
 UKPA represents and assists companies and individuals who are active in the uk’s proptech sector, promoting engagement between technology businesses and the property industry.

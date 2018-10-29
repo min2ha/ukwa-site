@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# UK Fire Association
-
 The UK Fire Association was formed in 2009 primarily to serve the interests of small and medium sized fire equipment maintenance companies and their customers.

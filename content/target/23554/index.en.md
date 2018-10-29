@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michael Foster (@MichaelFosterCR) on Twitter (Labour candidate for Camborne and Redruth)  
-

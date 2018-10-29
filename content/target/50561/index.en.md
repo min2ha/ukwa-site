@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Welsh 2 Day Enduro
-
 Welsh 2 Day Enduro is UK's Premier Motorcycle Enduro Event.

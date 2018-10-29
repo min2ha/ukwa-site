@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Swansea Bid (Business Improvement District)
-
 A Business Improvement District (BID) is a partnership between the local business community and a local authority to develop projects and services that will benefit the trading environment within the boundary of a commercial area. This is the BID for Swansea City Centre.

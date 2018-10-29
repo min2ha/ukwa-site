@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Parish, Dundee
-
 Site of a Roman Catholic church in Scotland for the parish of St. Joseph's, Dundee.

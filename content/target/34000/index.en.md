@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Welwyn Anglo-French Twinning Association
-
 Welwyn is twinned with a village in France, Champagne-sur-Oise, and the Welwyn Anglo-French Twinning Association (WAFTA) actively encourages and fosters good relations between the residents of both villages and the surrounding areas.

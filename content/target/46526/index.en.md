@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of Llangeinor and the Garw Valley
-

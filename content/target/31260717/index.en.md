@@ -11,5 +11,3 @@
   "subject": "Philately"
 }
 
-# Federation Internationale de Philatelie (FIP) Literature Commission
-

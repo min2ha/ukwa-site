@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Harry Bingham
-
 Harry Bingham is an author of fiction and non-fiction, and is especially known for his Fiona Griffiths crime series which is based in Wales.

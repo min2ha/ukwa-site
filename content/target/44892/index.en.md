@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Brexit Begins: an overview of the legal issues
-
 Brexit Begins: an overview of the legal issues

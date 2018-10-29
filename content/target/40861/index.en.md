@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# A Dartmoor and Devon blog
-
 The views and photographs of Adrian Colston

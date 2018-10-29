@@ -10,6 +10,4 @@
   "start_date": "2013-12-11T11:00:00Z"
 }
 
-# Target Models
-
 None

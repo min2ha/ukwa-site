@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# LeithLate
-
 Site of a visual arts organisation based in Leith, Edinburgh, responsible for various public art projects and the annual LeithLate festival.

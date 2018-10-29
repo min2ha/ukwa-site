@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Airbus UK Broughton FC
-
 Airbus UK Broughton FC are members of the Dafabet Welsh Premier League, the national football league of Wales.

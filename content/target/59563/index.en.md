@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6th December 2017: European Union (Withdrawal) Bill 
-
 Sitting as a Committee of the whole House, the Commons debates amendments to the European Union (Withdrawal) Bill that relate to the transparency of the financial settlement and the impact of Brexit on Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Stewart Lee - Officially the 41st Best Stand-Up Ever
-
 Website for comedian and writer Stewart Lee.

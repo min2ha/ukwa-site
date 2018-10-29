@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Pesticides Action Network UK (PAN UK)
-
 Pesticide Action Network UK (PAN UK) is the only UK charity focused on tackling the problems caused by pesticides and promoting safe and sustainable alternatives to pesticides in agriculture, urban areas, homes and gardens.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# Cymdeithasau Ymddiriedolaeth Datblygu Cymru | Development Trusts Association Wales (DTA Wales)
-
 DTA Wales is community enterprise and regeneration network and part of the UK wide Development Trusts Association. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# UKIP Croydon North - UKIP Lambeth
-

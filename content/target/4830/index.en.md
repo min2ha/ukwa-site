@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Descrier: Mandela saw sport as a way to bring South Africans together
-
 <p>Article written by John Nauright, University of Brighton, on 7 December 2013. It focuses on the decision to keep the Springbok as the symbol for South Africa rugby.</p>

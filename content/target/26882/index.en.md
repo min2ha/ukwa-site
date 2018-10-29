@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T08:00:00Z"
 }
 
-# British and European Polygraph Association (BEPA)
-
 The British & European Polygraph Association (BEPA) is an organisation for professional polygraphers and those involved in the detection of deception.

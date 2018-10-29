@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Midlands Ambulance Service
-
 None

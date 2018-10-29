@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Project A Frame
-
 Site of a music festival located at Auchinleck, Ayrshire.

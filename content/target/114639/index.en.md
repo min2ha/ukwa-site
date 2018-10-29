@@ -10,5 +10,3 @@
   "start_date": "2006-01-30T00:00:00Z"
 }
 
-# UK Glow Worm Survey
-

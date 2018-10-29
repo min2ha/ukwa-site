@@ -10,8 +10,6 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Manchester Italian Association
-
 MIA is one of the oldest Italian associations in the UK, tracing its roots back to 1888.
 
 Throughout the year MIA organises a calendar of events, including social gatherings such as the Carnevale Dinner Dance and the high profile  Madonna del Rosario Procession.

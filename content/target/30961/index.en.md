@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Web Archives for Historians
-
 Blog run by Dr Peter Webster.

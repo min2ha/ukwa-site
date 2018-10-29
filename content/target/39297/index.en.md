@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Westminster Fields of Battle, Lands of Peace
-
 Project that will work with Fields of Battle 14-18, the charity behind the Fields of Battle, Lands of Peace exhibition, and others, to introduce local people, as well as the many tourists to the area, to the First World War.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: David Cameron's stockbroker father left assets of more than £10,000 in Jersey tax haven as part of his £2.7m will
-
 None

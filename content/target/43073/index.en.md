@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# BBC Sport: Rio 2016: Luke Patience secures spot in GB Olympic sailing team
-

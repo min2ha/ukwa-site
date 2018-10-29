@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: FIRST PERSON: Lincoln has stronger link to Magna Carta than you may realise
-

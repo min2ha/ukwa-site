@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-#  Guardian, The: Green party plays a better game than the England and Wales Cricket Board
-
 None

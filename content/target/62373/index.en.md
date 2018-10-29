@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yeovil Town Football Club
-
 Yeovil Town Football Club is a professional association football club based in the town of Yeovil, Somerset, England. Founded in 1895, Yeovil took 108 years to enter the Football League when they were promoted from the Football Conference as champions in 2003.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: June 21st 2017: Queen's Speech
-
 Queen's speech at the opening of the new Parliament elected in June 2017, in which she announced a series of bills to implement Brexit

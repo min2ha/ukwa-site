@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Chequers is May's dementia tax revisited... and in a controversial intervention, top Tory NADINE DORRIES says she's backing Boris
-
 Argues that Theresa May has to go, and MPs have to put personal ambition aside, do the right thing and put Boris Johnson to the membership for election as Tory Party leader to save Brexit.

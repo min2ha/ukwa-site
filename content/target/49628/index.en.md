@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Fold Gallery
-
 Fold Gallery is a commercial art gallery and project space for UK artists and international artists in New Cavendish Street, London.

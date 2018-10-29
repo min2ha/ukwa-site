@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: You're lucky you've not been fired! Twice-sacked Peter Mandelson tells Brexit ministers to stop 'whinging' about being banned from seeing referendum reports    
-

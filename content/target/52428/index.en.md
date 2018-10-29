@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Metal Culture
-
 Metal was founded in London in 2002  by Jude Kelly OBE.

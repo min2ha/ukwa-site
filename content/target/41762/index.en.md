@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Grŵp Ymchwil y Croniclau Cymreig | Welsh Chronicles Research Group
-
 Welsh Chronicles Research Group 'is a consortium of researchers studying the chronicles of medieval Wales and promoting further dialogue and research into this important group of texts'.

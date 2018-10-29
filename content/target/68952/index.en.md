@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Warwickshire GAA
-
 Warwickshire GAA is based at Paírc na hÉireann and is responsible for the development of Gaelic Games in the county including Gaelic football and hurling.

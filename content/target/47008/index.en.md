@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Clywed Cynghanedd cwrs cerdd dafod
-
 Clywed Cynghanedd is an online version of the book 'Clywed Cynghanedd' by Myrddin ap Dafydd and the BBC Radio Cymru radio programme of the same name. The resource is published by Gwasg Aredig.

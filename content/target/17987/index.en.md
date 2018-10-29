@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ComRes: ITV News Index: UKIP
-
 ComRes is the trading name of CommunicateResearch Ltd, a company registered in England and Wales. This is a poll carried out for ITV News on the UK Independence Party (UKIP). 

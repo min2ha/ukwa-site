@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Spinning Head Films
-
 Spinning Head Films is a Cardiff based independent production company established to make drama for theatrical release. 

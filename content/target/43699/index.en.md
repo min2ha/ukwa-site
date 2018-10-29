@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dáil Éireann Debate Thursday, 21 April 2016: EU-UK Relations: Statements
-
 Unofficial record  of a debate in the Irish Parliament on the impact of Brexit on the Republic of Ireland

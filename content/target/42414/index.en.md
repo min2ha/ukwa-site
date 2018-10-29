@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: How Brexit will affect British tourism
-

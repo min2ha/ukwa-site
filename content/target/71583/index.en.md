@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Full Brexit, The
-
 The Full Brexit is a network of activists, academics, journalists and policy experts who want a clean break with the EU, Single Market and Customs Union. They believe that "leaving the EU creates the political space for radical change in Britain" and want "to change the Brexit debate on the left by injecting some new life into the tradition of left-wing euroscepticism articulated by E.P. Thompson and other radical thinkers of the past".

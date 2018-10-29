@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Manchester Pride
-
 Website for Manchester Pride, a festival for LGBT rights.

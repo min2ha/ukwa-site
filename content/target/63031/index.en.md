@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ceres Kemback and Springfield Parish
-
 Site of a Church of Scotland parish church at Ceres Kemback and Springfield, Fife.

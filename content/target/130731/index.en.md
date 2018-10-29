@@ -10,6 +10,4 @@
   "start_date": "2006-01-12T00:00:00Z"
 }
 
-# Brithdir Mawr Community: An intentional community aiming at sustainability
-
 None

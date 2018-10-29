@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Advice: Mental Health
-
 BBC Advice article about mental health 

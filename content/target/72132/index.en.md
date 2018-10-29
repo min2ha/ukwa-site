@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: 
-
 Theresa May's 2018 Tory Party conference speech was a total contrast to last year's disaster. However, a good outing on the platform did not make any of Mrs May's enormous dilemmas disappear. Nor did it magic away the concerns and criticisms of her handling of Brexit.
 

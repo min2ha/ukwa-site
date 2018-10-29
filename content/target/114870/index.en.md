@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Gender Identity Research and Education Society (GIRES)
-
 None

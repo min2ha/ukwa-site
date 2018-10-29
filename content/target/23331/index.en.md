@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Llandinam Lives : Llandinam Local History Projects
-

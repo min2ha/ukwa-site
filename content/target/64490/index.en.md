@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Library: TalkScience@BL - Doping in sport:fair game?
-
 Ahead of the Rio 2016 Olympic Games, a panel discussed the ethical, social and legal implications of performance enhancement in sport.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: UK election results - what does it all mean? As it happened
-
 None

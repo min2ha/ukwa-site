@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival and King's Theatres
-
 Official Facebook page for the Festival and King's Theatres in Edinburgh, Scotland.

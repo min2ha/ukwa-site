@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Irish News (Belfast newspaper)
-
 None

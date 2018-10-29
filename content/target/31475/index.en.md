@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Design Week
-
 Design Week is an online magazine about design.

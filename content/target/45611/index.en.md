@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Northern Voices: full frontal news of the north of England
-
 Northern Voices, tries to be a twice yearly, humourously insulting magazine, that is satirical, cultural, and political, and which aims to challenge the establishment in a thought provoking and interesting way. It is linked to the Northern Anarchist network.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leeds Rhinos
-
 This is the Official website of Leeds Rhinos Rugby League including News, Fixtures, Tickets, Merchandise and player profiles from Headingley Carnegie Stadium.

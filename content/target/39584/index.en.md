@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alison Dickie SNP for Edinburgh Central on Facebook
-
 Facebook page of Alison Dickie, Scottish National Party candidate for Edinburgh Central in the 2016 Scottish Parliamentary election.

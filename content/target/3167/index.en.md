@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Shelter Scotland
-
 Shelter is a charity offerring free housing advice, helping fighting repossession and eviction and campaigning for changes in the law. 

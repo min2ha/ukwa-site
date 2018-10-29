@@ -10,5 +10,3 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Trenau Arriva Cymru | Arriva Trains Wales
-

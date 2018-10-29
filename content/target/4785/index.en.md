@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Communication Workers Union: Tribute to Nelson Mandela
-
 <p>Tribute to Nelson Mandela, posted on 10 December 2013. The page describes an attempt by the then Union of Post Office Workers to boycott telephone and postal communication with South Africa during January 1977.</p>

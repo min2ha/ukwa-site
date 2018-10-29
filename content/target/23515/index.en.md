@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Declan Lloyd (@declanlabour ) on Twitter (Labour Candidate for South East Cornwall)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Natalie Bennett suffers car crash interview on BBC Radio 4 Today programme
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Can post-Brexit London survive as Europe's cultural and financial capital?
-

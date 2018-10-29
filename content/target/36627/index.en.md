@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Dunollie Museum
-
 Site of a museum and grounds including ruined castle at Dunollie near Oban, Argyllshire, Scotland

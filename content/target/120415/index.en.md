@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Bat Ecology and Bioacoustics Lab
-

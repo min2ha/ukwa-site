@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK rebuffed over Galileo sat-nav procurement
-
 Delegations to the European Space Agency approved the procurement of the next batch of spacecraft, despite British calls to delay. The decision meant UK companies would find it hard to win any contracts as no deal had been agreed between London and the EU-27 to allow Britain continued participation.

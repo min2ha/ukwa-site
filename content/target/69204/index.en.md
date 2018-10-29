@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# Films4Tenby
-
 Films4Tenby is a community cinema at the De Valence Pavilion and was opened following the closure & subsequent demolition of Tenby’s last cinema.

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Laidman Families
-
 Website gives genealogical information about the Laidman families in the UK, Canada and Jamaica.

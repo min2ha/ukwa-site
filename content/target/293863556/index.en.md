@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alun Cairns, your voice in the Vale of Glamorgan
-

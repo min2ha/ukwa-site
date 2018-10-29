@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Welsh Psychotherapy Partnership Ltd
-
 The Welsh Psychotherapy Partnership was established in 2007 and provides quality provision of Psychotherapy, supervision and therapeutic counselling training in Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Ambulance Service
-
 None

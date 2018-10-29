@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Calder Valley Conservative candidate Craig Whittaker Savile tweet causes row
-
 None

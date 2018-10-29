@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Munawar Mughal (@Munawar_Mughal1) on Twitter (Conservative candidate for Newport East)
-
 Munawar Mughal is the Conservative candidate for Newport East at the 2016 National Assembly Elections. 

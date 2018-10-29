@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Fiona McLeod MSP (FionaMcLeodMSP) on Twitter
-
 <p>The twitter profile of Fiona McLeod, Scottish National Party Mmember of the Scottish Parliament for Strathkelvin and Bearsden.</p>

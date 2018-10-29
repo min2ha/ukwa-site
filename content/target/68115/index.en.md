@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Telford Hornets RFC (@TelfordRugby) on Twitter
-
 The official Twitter account of Telford Hornets Rugby Football Club.

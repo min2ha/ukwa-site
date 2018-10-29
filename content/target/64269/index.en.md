@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Belfast Fem Net (@belfemnet) on Twitter
-
 Belfast Feminist Network.

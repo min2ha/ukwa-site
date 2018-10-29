@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# No Team GB
-

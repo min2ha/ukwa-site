@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Dutch Centre, The 
-
 The Dutch Centre is a place to meet and the focuses on presenting all elements of Dutch culture in London.

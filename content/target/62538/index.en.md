@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# GayFootballNetwork (@gfsnUK) on Twitter
-
 A fully inclusive social, playing, & campaigning voluntary football organisation for LGB&T people and friends since 1989.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# agendaNI magazine: Perspectives on 1916: The Easter Rising
-
 Article about a series of talks on the Easter Rising, organised by Tom Hartley in Belfast

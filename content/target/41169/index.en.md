@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Uplowman
-
 Information about the Parish of Uplowman, including clubs, facilities and useful phone numbers.

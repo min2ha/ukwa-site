@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Gargunnock Village History
-
 Local and family history site focusing on the village of Gargunnock, Stirlingshire, Scotland.

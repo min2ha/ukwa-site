@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: CBI warns of 'power vacuum' after election
-
 None

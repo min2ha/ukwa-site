@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Ruane Working hard for the Vale of Clwyd
-
 Chris Ruane is the MP for the Vale of Clwyd.

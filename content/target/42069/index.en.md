@@ -10,6 +10,4 @@
   "start_date": "2016-06-01T10:00:00Z"
 }
 
-# On the dole, on the ball
-
 Blog about a long period of unemployment beginning in 2008

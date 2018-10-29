@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Religion and Society
-
 <p>A programme funded by the UK research councils, supporting research into religion in public debate.</p>

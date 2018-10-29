@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Isle Of Mull Brewing Company on Facebook
-
 Site of a brewer located in Tobermory on Mull, Argyll & Bute.

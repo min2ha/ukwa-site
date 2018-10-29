@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Lincoln Castle reopens after £22m refurbishment
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Fermanagh and South Tyrone Greens on Facebook
-
 Facebook page of Fermanagh and South Tyrone Greens

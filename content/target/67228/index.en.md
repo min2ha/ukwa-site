@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stockwood Park RFC (@StockwoodPark) on Twitter
-
 The official Twitter account of Stockwood Park Rugby Football Club.

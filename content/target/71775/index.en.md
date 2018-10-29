@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Labour Party: Theresa May's failed Brexit plan
-
 Labour says there are the tests against which it will judge any final Brexit deal agreed by Theresa May's government, as part of the Article 50 negotiations on leaving the EU.  It argues that the government's plans fail all six tests

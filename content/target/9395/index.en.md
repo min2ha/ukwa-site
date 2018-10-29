@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kelly Gallagher Disabled Ski Team
-
 None

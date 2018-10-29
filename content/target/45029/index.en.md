@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Herald Scotland: Relief for hammer throwers Mark Dry and Chris Bennett as UK Athletics grant special dispensation for Olympic squad
-

@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Cyfeillion Oriel Gelfyddyd Glynn Vivian | Friends of the Glynn Vivian Art Gallery 
-
 Glynn Vivian Art Gallery is an art gallery located in Swansea.

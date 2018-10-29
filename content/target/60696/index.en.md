@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 30th January 2018: Leaving the EU: Economic Analysis
-
 Debate on the gloomy analysis of the economic impact of Brexit leaked to BuzzFeed

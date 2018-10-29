@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC Trending (@BBCtrending) on Twitter
-
 The BBC Twitter account for the news section BBC Trending, which reports on stories trending around the world. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Road Haulage Association: RHA mobilises 2.1m voters with ‘pounds in pockets’ manifesto
-
 The Road Haulage Association (RHA) is the only UK trade association dedicated solely to the needs of UK road transport operators. It is the voice of the road haulage profession, a champion of its interests and a respected partner to the broader logistics community.

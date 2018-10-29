@@ -10,5 +10,3 @@
   "start_date": "2012-05-14T00:00:00Z"
 }
 
-# Cyngor Addysgu Cyffredinol Cymru | General Teaching Council for Wales
-

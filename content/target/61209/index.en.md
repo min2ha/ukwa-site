@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Al Hudood  الحدود
-
 Satirical Arabic-language news site, styled on The Onion, originally launched in Jordan by Isam Uraiqat and employing black humour in the service of covering the region’s many conflicts.

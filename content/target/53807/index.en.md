@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# UK Trade Policy Observatory: 
-
 Following the decision to leave the EU, the UK needs to reconfigure its trade policy, successfully navigating a path through a new international trade landscape. The UK Trade Policy Observatory aims to ensure that new trade policies are constructed in a manner that benefits all.
 

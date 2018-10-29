@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour risks failing the English – just like it did the Scottish | Irvine Welsh | Politics
-

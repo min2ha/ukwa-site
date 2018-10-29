@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tories 'to fund apprenticeships with bank fines'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jenni Gunn (@jennigunnssp) on Twitter
-
 Twitter profile of Jenni Gunn, the RISE: Scotland's Left Alliance list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

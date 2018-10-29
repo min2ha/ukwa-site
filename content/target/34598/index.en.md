@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Lochhead MSP for Moray, Scottish National Party Member in The Scottish Parliament
-

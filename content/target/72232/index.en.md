@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# HAC RFC
-
 The official website of Honourable Artillery Company Rugby Football Club, is situated in the heart of the City of London, on City Road between Moorgate and Old Street stations, and also just a few minutes walk from Liverpool Street.

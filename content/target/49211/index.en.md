@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# FoodCycle
-
 FoodCycle builds communities by combining volunteers, surplus food and spare kitchen spaces to create nutritious meals for people at risk of food poverty and social isolation.
 
 Aims

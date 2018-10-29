@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cove Park
-
 <p>Cove Park in Argyll and Bute offers residencies to artists. They are supporting or giving space to a number of artists and projects that are part of Culture 2014 including Fred D’Aguair, Hanna Tuulikki and Empire Café.</p>

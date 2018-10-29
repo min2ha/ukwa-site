@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Westival
-
 Westival is an underground disco, afro and techno music held at Shipping Hill Farm, Manorbier, Pembrokeshire.

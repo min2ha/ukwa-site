@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Business Secretary Greg Clark warns on services
-
 In a speech at a business festival in Liverpool in June 2018, Business Secretary Greg Clark insisted that services must be part of any exit deal with the EU and issued a list of demands.

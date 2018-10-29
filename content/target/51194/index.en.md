@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Rothiemurchus 2015 Trust
-
 Site of a visitor attraction located at Rothiemurchus near Aviemore, Highlands, featuring outdoor activities, places to stay, shops and other activities.

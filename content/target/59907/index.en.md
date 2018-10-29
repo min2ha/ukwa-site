@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# World Agriculture
-
 An independent, peer reviewed journal for policy makers and practitioners in agriculture and related industries, assessing the interactions between population growth, resources, the environment and climate change. 

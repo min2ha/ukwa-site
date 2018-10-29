@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Dons on Facebook
-
 Facebook page for an Aberdeen Football Club LGBT supporters group.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Berwick Rugby Football Club
-
 Site of a Scottish rugby union football club based in North Berwick, East Lothian.

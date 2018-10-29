@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: PM statement following European Council meeting: 19 February 2016
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Claim that UK membership of EU is worth £3,000 to every British family branded 'blatantly misleading'
-

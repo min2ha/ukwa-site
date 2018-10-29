@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Past Tense
-
 Past Tense is a publishing project based in South London, exploring London radical history.

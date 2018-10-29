@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election debate 2015: Miliband flops as SNP and Ukip secure shock victory
-
 None

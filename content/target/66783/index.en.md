@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Wright Cottrell Limited
-
 The website of Wright Cottrell Limited, a distributor of dental supplies, products and equipment. Wright Cottrell Limited is the trading name of Wright Health Group Limited. The company was founded in 1898 and based in Dundee, Scotland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Counterfire: EU referendum section
-
 A left-wing political news and commentary magazine's section on the EU referendum

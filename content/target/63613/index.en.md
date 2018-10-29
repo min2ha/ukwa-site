@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Room For Rebellion (@Room4Rebellion) on Twitter
-
 Room For Rebellion are a sister group of the London Irish Abortion Rights Campaign Group.

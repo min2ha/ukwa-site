@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Supporters of Manston Airport
-
 Campaign to save Manston Airport in Kent, and to restore it as a viable regional airport

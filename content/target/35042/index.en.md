@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU-Austrittspartei
-
 Campaigns for The Republic of Austria to leave the EU as soon as possible, hopefully prior to the crash of the EURO-currency. Austria can no longer afford the huge EU-costs and liabilities.

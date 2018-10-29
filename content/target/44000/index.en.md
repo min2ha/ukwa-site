@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ingestre with Tixall WWI
-
 Ingestre with Tixall Parish Council, Ingestre Hall and Anson Primary School have received £10,000 from the Heritage Lottery Fund (HLF) for a project focusing on the effects of the First World War on Ingestre & Tixall residents and their relatives.

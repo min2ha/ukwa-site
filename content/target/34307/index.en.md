@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Binsted Village
-
 The community, environmental, artistic life and history of a surviving small rural village in the midst of the developed Sussex coastal plain.

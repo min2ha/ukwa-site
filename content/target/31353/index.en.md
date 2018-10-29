@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# British Beekeepers Association
-
 British Beekeepers Association was set up in 1874 to promote and further the craft of beekeeping and to advance the education of the public in the importance of bees in the environment.

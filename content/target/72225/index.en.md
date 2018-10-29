@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Swansea Laptop Orchestra
-
 Swansea Laptop Orchestra is a 21st century orchestra performing experimental music with the use of laptops and hacked controllers.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# TimeBank
-
 TimeBank is a national volunteering charity. They recruit and train volunteers to deliver mentoring projects to tackle complex social problems. They also work with businesses to engage their staff in volunteering.

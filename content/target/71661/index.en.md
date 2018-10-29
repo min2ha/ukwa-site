@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Historical Association:  Women’s Suffrage 
-
 Resources developed by the Historical Association and the Association for Citizenship Teaching in relation to the suffrage movement.

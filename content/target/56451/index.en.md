@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maternal Mental Health Alliance
-
 The Maternal Mental Health Alliance (MMHA) is a coalition of national professional and patient organisations committed to improving the mental health and wellbeing of women and their children in pregnancy and the first postnatal year.

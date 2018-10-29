@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# Storm & Shelter
-
 Storm & Shelter are a Cardiff-based video production company specialising in brand content, tv adverts and music videos.

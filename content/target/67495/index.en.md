@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Girlfans (@jacquimcassey) on Twitter
-
 Girlfans (2013-present) is an ongoing project & zine documenting the past, present & future of female football fan culture. This is the official Twitter account.

@@ -10,6 +10,4 @@
   "start_date": "2014-08-29T07:00:00Z"
 }
 
-# Mika: Art tutoring and art therapy
-
 None

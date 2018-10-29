@@ -10,5 +10,3 @@
   "start_date": "2013-09-03T00:15:00Z"
 }
 
-# National care standards : taking care of you
-

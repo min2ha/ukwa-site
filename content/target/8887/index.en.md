@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Palestine Solidarity Campaign: Remembering Nelson Mandela
-
 None

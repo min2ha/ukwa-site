@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Wales Dragons
-
 North Wales Dragons is a football team that raise funds and create awareness for various charities. 

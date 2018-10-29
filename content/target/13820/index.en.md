@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Duncan Hothersall (dhothersall) on Twitter
-
 <p>The twitter profile of Duncan Hothersall, Scottish Labour activist and member of the Scottish Fabians Executive.</p>

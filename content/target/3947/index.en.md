@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Hemsworth and South Elmshall Express
-
 None

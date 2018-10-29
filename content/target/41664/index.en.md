@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic Education Service
-
 Site of an organisation within the Catholic Church in Scotland establishing and implementing a national policy on all educational matters on behalf of the Roman Catholic Church in Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# John Whittingdale, MP
-
 Official website of John Whittingdale, Secretary of State for Culture, Media and Sport, who is supporting Brexit from the EU

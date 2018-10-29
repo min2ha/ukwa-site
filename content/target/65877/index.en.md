@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# PetLife’18
-
 Website for the PetLife’18 festival. A dog friendly music festival. 

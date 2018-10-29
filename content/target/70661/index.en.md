@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ludlow Food Festival
-
 Festival celebrating Ludlow and the Welsh marches with food, drink, local bands and independent shops

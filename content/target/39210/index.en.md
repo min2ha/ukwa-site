@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Graham Hutchison for Glasgow Southside on Facebook
-

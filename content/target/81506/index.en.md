@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TROSC (@SWA_TRFC) on Twitter
-
 Tranmere Rovers Official Supporters Club. By the fans for the fans, a direct link to the heart of the club.

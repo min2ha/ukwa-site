@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Awyr Las | Blue Sky
-
 Awyr Las is the charity for better healthcare in North Wales.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Simon Hardy (Left Unity candidate for Vauxhall) (@Simon_Hardy1) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# justaballgame? (@justaballgame) on Twitter
-
 justaballgame? aom to be role models for others by raising awareness and challenge what is seen as homophobia/anti-gay. 

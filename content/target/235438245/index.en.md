@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War in County Durham - Commemorating the Centenary through Archives, Objects and Sites
-
 <p>This is a Durham County Council project supported by the Heritage Lottery Fund Heritage Grants programme. The archive, museum and archaeology services at Durham County Council have developed this project to make the heritage collections of the historic County Durham in 1914-1918 more accessible during the centenary commemoration period. It will help people to learn about, research, enjoy, preserve and share the First World War heritage of County Durham.</p>

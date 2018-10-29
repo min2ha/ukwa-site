@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Y Lab - Innovative projects in the public sector
-
 Y Lab was established in 2015 and is a team of social scientists and innovation experts working together to support innovation in Welsh public services. Y Lab (Welsh for “The Lab”) is the Public Services Innovation Lab for Wales, a partnership between Cardiff University and Nesta.

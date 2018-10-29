@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron’s confidence post-Brussels is misplaced
-

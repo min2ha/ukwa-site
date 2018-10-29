@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# John Richards, Feature Film and TV editor
-
 John Richards is a Welsh film editor. He has worked on a wide range of international projects covering many genres and began his career at BBC Wales.

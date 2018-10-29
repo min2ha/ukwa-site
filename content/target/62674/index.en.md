@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carmyle and Kenmuir Mount Vernon Church of Scotland
-
 Site of two Church of Scotland parish churches in Glasgow.

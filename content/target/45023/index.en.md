@@ -10,5 +10,3 @@
   "start_date": "2016-08-13T10:00:00Z"
 }
 
-# Lennie Waite (@lenniew8) on Twitter
-

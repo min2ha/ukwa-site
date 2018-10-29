@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Doncaster 1914-18
-
 Project to commemorate the different ways in which the war affected the lives of Doncaster's residents, whether on the home front or active service.

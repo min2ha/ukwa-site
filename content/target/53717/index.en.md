@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Tay Yacht Club
-
 Site of a yacht club based in Dundee.

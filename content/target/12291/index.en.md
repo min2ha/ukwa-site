@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Insight Out
-
 <p>The blog of Selina Litt, visually impaired 100m sprinter who competes within the T11 paralympics classification; she will be running in the T12 event for Team England at the Glasgow 2014 Commonwealth Games.</p>

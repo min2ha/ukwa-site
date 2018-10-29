@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Pembrey Mountain Trust.
-
 Pembrey Mountain Trust was established in 2013 to preserve the historical, architectural and building heritage that exists in and around Pembrey, Carmarthenshire.

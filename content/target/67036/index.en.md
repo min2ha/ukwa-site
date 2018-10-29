@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Lodge Livingstone St Andrew No 573 on Facebook
-
 Facebook page of a masonic lodge located in Motherwell, Lanarkshire and affiliated with the Grand Lodge of Scotland.

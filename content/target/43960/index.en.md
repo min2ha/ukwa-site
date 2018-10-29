@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stand Together: London Park Picnic Against Brexit (General Assembly)
-
 A picnic protest organised y remain supporters who are opposed to the UK leaving the EU.

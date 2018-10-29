@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# GermanProgsUK (@GermanProgsUK) on Twitter
-
 A football programmes fans Twitter account on German sides that played in the UK and Ireland. 

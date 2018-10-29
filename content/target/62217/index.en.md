@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# New Meadow Stadium
-
 New Meadow, also known as Montgomery Waters Meadow for sponsorship purposes, is the home ground of English football club Shrewsbury Town. The stadium is situated on the southern outskirts of Shrewsbury, Shropshire, between the districts of Meole Brace and Sutton Farm, and close to the A5.

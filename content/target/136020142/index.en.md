@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# County Durham LINk
-
 None

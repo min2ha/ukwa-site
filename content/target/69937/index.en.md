@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pylon Appreciation Society Forum
-
 An online enthusiast community concerned with pylons. Including pictures, pylon related questions and comments and related topics. 

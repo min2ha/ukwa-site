@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Preston Pans Tapestry
-
 Site recording and promoting a tapestry created to commemorate the events surrounding the Battle of Preston Pans, 1745, in East Lothian, Scotland. 

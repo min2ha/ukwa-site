@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Albania 1-2 Scotland: Scotland Women reach 2019 World Cup Finals
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

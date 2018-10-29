@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gay Outdoor Club
-
 Site of a Uk national membership club providing a wide range of outdoor and indoor sports and recreational activities for gay, lesbian, bisexual and transgender men and women.

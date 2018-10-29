@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We won't try to balance the budget admits Ed's election chief
-
 None

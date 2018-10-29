@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Muirkirk Enterprise Group
-
 Community website providing information about amenities, events, attractions, local societies and businesses for residents and visitors to the community of Muirkirk, Ayrshire, Scotland.

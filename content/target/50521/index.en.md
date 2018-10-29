@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Week of Prayer for World Peace
-
 Although it was a Christian initiative that led to the founding of the Week of Prayer for World Peace in 1974, it soon became an inter faith activity, and now welcomes everyone, of all faith traditions or none, to take part.

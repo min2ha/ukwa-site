@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Derbyshire Police & Crime Commissioner
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Wrexham
-
 Catholic Church located in Wrexham.

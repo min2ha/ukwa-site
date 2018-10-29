@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Community Food and Health (Scotland) / CFHS
-
 Site of an orgaisation aiming to ensure that everyone in Scotland has the opportunity, ability and confidence to access a healthy and acceptable diet for themselves, their families and their communities, by supporting work with and within low-income communities that addresses health inequalities and barriers (availability, affordability, skills and culture) to healthy and affordable food.

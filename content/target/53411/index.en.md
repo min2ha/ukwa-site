@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joint Public Issues Team: This is a time ... Reflections on the General Election
-
 Biblical reflections on the 2017 General Election for Christians.

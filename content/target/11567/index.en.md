@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wales Squash and Racketball
-
 None

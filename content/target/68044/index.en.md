@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Brewmeister Brewery
-
 Site of a brewer located in Aboyne, Aberdeenshire.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tory election war chest swelled by business chiefs - and biggest one's named Mr Tory 
-
 None

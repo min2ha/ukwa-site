@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Nigerian Nurses Charitable Association UK (NNCAUK)
-
 Nigerian Nurses Charitable Association UK is a non-profit organization incorporated in January 1998 in the UK. 

@@ -10,6 +10,4 @@
   "start_date": "2015-02-24T00:00:00Z"
 }
 
-# Johann Lamont
-
 Member of the Scottish Parliament for Glasgow Pollok and former leader of the Scottish Labour Party.

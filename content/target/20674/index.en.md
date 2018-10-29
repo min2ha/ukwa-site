@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dan Yeats | Scottish Green Party candidate for Aberdeen South
-

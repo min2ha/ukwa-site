@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Cruelty Free International: Donate
-
 The BUAV campaigns peacefully to end research using animals worldwide. They provide expert advice to governments and politicians, promote products developed without animal testing, conduct undercover investigations, and engage in lobbying and public campaigns. 

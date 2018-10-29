@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gorgie Dalry Stenhouse Church
-
 Website of the Gorgie Dalry Stenhouse Church of Scotland.

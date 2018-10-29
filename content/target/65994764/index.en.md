@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Mayor of Hertford - The blog of the Mayor of Hertford
-
 None

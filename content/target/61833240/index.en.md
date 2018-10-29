@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Networked Researcher - Supporting and Promoting Social Media for Research & Researcher Development
-
 None

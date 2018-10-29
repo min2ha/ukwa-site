@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Brixton Comedy Club
-
 Website for the Brixton Comedy Club, compered by Ivor Dembina, c. 2012 (no longer active)

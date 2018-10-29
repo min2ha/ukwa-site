@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Mental Health Review Tribunal for Wales | Tribiwnlys Adolygy Iechyd Meddwl Cymru
-
 According to the site, 'The Mental Health Review Tribunal for Wales (MHRT for Wales) safeguards patients who have had their liberty restricted under the Mental Health Act. We review the cases of patients who are detained in a hospital or living in the community subject to a conditional discharge, community treatment or guardianship order'.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-06T00:00:00Z"
 }
 
-# Narberth Chamber of Trade
-

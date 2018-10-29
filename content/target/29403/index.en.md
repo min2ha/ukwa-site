@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Cardiff Start
-
 Cardiff Start is a collective of entrepreneurs, startup founders, creatives, students, and investors in the city of Cardiff.

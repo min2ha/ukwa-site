@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Royal Society for the Protection of Birds (RSPB): Brexit implications for wildlife friendly farming: long-term opportunity, short-term jeopardy
-

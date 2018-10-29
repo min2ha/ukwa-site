@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Convict Voyages
-
 A global history of convicts and penal colonies. This project is funded by the European Research Council (2013-2018). It is based in the School of History at the University of Leicester, under the direction of Professor Clare Anderson.

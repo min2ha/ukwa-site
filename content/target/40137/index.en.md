@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU gives 'only hope' for fairer trade and climate action, MPs' letter says
-
 Guardian, The

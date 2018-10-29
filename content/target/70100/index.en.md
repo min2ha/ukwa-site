@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Linfield Ladies Football Club
-
 The official website of Linfield Ladies Football Club, is based in Lisburn, Antrim.

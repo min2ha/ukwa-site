@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Firth of Clyde Coastal Rowing Club
-
 Site of a social and competitive rowing club based in Largs Ayrshire.

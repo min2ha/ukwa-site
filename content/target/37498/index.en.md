@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Professional: Stronger in EU
-
 Arts Professional: Stronger in EU

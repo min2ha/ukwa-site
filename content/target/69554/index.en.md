@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Nicholas' Parish Church, Belfast
-

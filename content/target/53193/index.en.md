@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matt Warman (@mattwarman  ) on Twitter (Conservative Politician)
-
 Matt Warman stood as Conservative candidate for Boston and Skegness in the 2017 General Election and was elected MP. He was first elected for Boston and Skegness in 2015. 

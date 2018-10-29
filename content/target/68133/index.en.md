@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Hammond: Treasury not the 'enemy of Brexit
-
 n a speech in the City of London, Mr Hammond said the UK needed to protect patterns of trade with the EU that had been "built over decades".

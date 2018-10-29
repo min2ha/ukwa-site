@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Newlodge Arts: World War I project - Belgium April 2014
-
 A creative history project based on World War I targeted at young people aged 13-16yrs living in Ardoyne, Cliftonville, Ballysillan and New Lodge.

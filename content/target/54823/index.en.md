@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Day of Rage: Queens Speech march on Parliament. GrenfellTower on Facebook
-
 Facebook page of Day of Rage: Queens Speech march on Parliament. Grenfell Tower. March called by Movement for Justice by any means necessary, demanding justice for residents of Grenfell Tower.

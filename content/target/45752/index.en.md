@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# St James Clerkenwell
-
 St James Church, Clerkenwell, is an Anglican parish church in Clerkenwell, London, England.

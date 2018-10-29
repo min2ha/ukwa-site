@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Belfast City Council
-
 Belfast City Council is the local authority with responsibility for part of the city of Belfast, the capital and largest city of Northern Ireland. 

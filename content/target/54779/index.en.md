@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Bodysgallen Hall & Spa
-
 The Spa at Bodysgallen Hall offers a variety of health and beauty/relaxation treatments to hotel residents, day guests and Spa Club members alike.

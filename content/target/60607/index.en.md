@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# James A. Chisem
-
 A freelance writer on subjects such as history, politics and football.

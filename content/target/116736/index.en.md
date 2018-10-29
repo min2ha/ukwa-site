@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Women's Environmental Network (WEN)
-
 Women's Environmental Network is the only UK charity working on issues that link women, health and the environment.

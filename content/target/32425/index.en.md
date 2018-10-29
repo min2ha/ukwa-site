@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# American Women’s Club of London
-
 American Women’s Club of London provides social, cultural, educational and philanthropic activities for members living in London.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Matthew Hankins #FBPE (@mc_hankins) on Twitter (An individual thread Brexit)
-
 An individual thread on Boris Johnson and Brexit. It is a mash of the Pulp song Common People and and an insult (gammon) for a certain type of person who voted leave in the EU Referendum. 

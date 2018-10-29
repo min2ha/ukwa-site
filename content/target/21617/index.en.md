@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Alastair Campbell: David Cameron deal on election debates is pathetic
-
 None

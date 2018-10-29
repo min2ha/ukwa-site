@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Wales GO (@Wales4Go) on Twitter
-

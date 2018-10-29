@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Gareth Malone
-
 Choral animateur, singer and presenter.

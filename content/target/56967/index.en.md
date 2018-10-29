@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Clydebuilt Festival
-
 Site of a festival of boats, people who used and built them and the heritage of boat and ship building on the Clyde.

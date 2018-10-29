@@ -10,5 +10,3 @@
   "start_date": "2017-04-13T09:00:00Z"
 }
 
-# Mynyddislwyn Male Choir, South Wales | Côr Meibion Mynyddislwyn, Gogledd Cymru
-

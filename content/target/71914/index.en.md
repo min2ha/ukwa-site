@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas' Episcopal Church, Aboyne
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Aboyne, Aberdeenshire.

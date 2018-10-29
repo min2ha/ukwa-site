@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Brighter Future Altogether, Benefiting Bridgend, A (ABFABB)
-
 A Brighter Future Altogether, Benefiting Bridgend (ABFABB) is a community based engagement project dedicated to supporting Bridgend’s LGBT+ (Lesbian, Gay, Bisexual, Transgender +) community.

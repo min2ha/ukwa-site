@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Even the pro-EU campaign sounds very half-hearted, says ROSS CLARK
-
 Comment by Ross Clark

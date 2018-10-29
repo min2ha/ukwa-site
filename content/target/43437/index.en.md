@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Varsity: Cambridge University Student Newspaper: In or out? Cambridge experts give their view on the EU
-
 An article consisting of a set of five short interviews with Cambridge academics, discussing their views, fears and predictions in relation to the EU Referendum.

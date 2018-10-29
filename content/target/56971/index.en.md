@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Rev Counter  - UK Motorbike Forum
-
 An online enthusiast forum concerned with motorbikes.The forum discusses  insurance, buying advice, product information/recommendations, industry news and opinions, riding techniques and various other related topics.

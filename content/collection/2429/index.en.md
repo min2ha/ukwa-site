@@ -304,6 +304,4 @@
   "endDateText": ""
 }
 
-# British Countryside
-
 Collection of Internet sites selected by staff at the British Library in the early 2000's around the theme of British Countryside intended to reflect a wide range of related issues such as rural economy, environment, wildlife, art, history and politics. Sites represent organisations such as wildlife groups; academic think tanks; agricultural consultants; national countryside groups, campaigning groups and tourist boards amongst others. 

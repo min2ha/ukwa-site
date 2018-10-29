@@ -10,5 +10,3 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Tony's Photographs of Old Georgetown Merthyr Tydfil
-

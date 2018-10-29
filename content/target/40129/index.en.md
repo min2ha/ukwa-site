@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Charlene Webster on Facebook (Liberal Democrats candidate for Swansea East)
-
 Charlene Webster is the Liberal Democrats candidate for Swansea East at the 2016 National Assembly Election. 

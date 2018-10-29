@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# BBC Good Food
-
 Online version of the BBC Good Food magazine with recipes and cooking tips.

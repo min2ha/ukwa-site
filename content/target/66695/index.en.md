@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# New City Initiative
-
 The New City Initiative NCI is an independent think tank concerned with issues surrounding financial reform, many of which have damaged the public perception of the industry.

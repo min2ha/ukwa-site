@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's, Enfield
-
 St. Andrew’s is a vibrant Anglican Church at the heart of the community in Enfield. The church has been established here for more than 800 years – and aims to be a place where people can be warmly welcomed and encounter God in the 21st-century.

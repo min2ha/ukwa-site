@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Erskine for Caithness, Sutherland & Easter Ross
-
 John Erskine is the Labour candidate for Caithness, Sutherland & Easter Ross in the 2015 UK General Elections.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael’s, Battersea
-
 St Michael’s Church is a small church in Battersea, part of South Battersea Team ministry. and the Diocese of Southwark, London.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Creative Dundee
-
 Site of an arts organisation supporting creative talent to base, grow and sustain their practice in and around Dundee, by connecting and amplifying the city’s creativity.

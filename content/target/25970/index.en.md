@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour dismisses row about campaign ad featuring business leaders' quotes
-
 None

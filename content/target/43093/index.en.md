@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Jamie Murray (@jamie_murray) on Twitter
-
 The twitter profile of tennis player, Jamie Murray.

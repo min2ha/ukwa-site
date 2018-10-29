@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Fireplace Products
-
 Fireplace Products have been offering home heating products online in the UK since 2007. They include product information, industry tips and hands on practical how-to style advice through their blog. 

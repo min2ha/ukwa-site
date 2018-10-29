@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Pili Pala Film
-
 Pili Pala Film was established in 2006 and work mainly work within the community, in Newport, South Wales. The website was last updated in 2017.

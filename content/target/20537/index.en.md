@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Iain Duncan Smith's family values won't help the poor
-

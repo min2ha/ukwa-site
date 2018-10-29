@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nottingham City Council LOLs
-

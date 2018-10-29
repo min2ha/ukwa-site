@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr. Mike Powell (@CllrMikePowell) on Twitter
-
 Liberal Democrat candidate for Pontypridd at the 2015 and 2017 General Election and the 2016 National Assembly for Wales Elections.

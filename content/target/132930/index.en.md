@@ -10,6 +10,4 @@
   "start_date": "2006-08-15T00:00:00Z"
 }
 
-# History of Dentistry Research Group
-
 None

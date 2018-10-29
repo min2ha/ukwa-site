@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Knoydart Forest Trust
-
 Site of an organisation that cares for woodland on the Knoydart peninsula on behalf of the Knoydart Foundation, the community landowner, and other landowners.

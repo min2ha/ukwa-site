@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kirriemuir Festival of Music and Song
-
 Site of an annual Scottish tradtional music festival based in Kirriemuir, Angus Scotland

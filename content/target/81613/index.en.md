@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Abortion Stories: Zine-making workshop on experiences of abortion
-
 Zine-making workshop on experiences of abortion 

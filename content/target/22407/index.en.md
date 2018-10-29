@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron heckled by long-serving Tory over failure to curb migration
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# My Cardiff North
-
 My Cardiff North provides politics news and discussion from the Cardiff wards of Gabalfa, Heath, Lisvane, Llandaff North, Llanishen, Pontprennau & Old St Mellons, Rhiwbina and Whitchurch.

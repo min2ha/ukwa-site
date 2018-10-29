@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Changeworks
-
 Site of an environmental charity working on sustainability with organisations, communities and individuals to deliver practical solutions that reduce carbon emissions, fuel poverty and waste.

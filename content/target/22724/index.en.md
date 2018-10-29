@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alberto Costa (Conservative Politician)
-
 Alberto Costa stood as Conservative candidate for South Leicestershire at the 2015 General Election and was elected to serve as MP. He then stood for re-election in 2017 and was successful.

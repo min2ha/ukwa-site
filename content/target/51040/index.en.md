@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Next plc
-
 Next plc is a British multinational clothing, footwear and home products retailer.  Trading as Next it has around 750 stores, of which 550 are in the United Kingdom and Ireland, and around 200 are in continental Europe, Asia and the Middle East. Next is the largest clothing retailer by sales in the UK. 

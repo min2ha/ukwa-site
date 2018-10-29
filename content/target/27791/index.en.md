@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# UK Constitutional Law Association: Dawn Oliver: Surprises in Magna Carta
-

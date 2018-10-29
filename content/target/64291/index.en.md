@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Fodderty and Strathpeffer Parish Church
-

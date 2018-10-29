@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Staffin Community Trust / Urras an Taobh Sear
-
 Site of the local community trust of Staffin, Isle of Skye, aiming to improve the area's economic prospects, to stimulate social and cultural activities and improve services, with the Gaelic language central to their activities.

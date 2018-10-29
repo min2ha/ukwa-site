@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Llay Miners
-
 Llay Miners' Welfare Institute is located near Wrexham.

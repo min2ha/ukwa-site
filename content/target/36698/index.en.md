@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Michael Gove warns EU risks making it harder to identify terrorists and accuses Brussels of fuelling 'Hitler worshippers'
-

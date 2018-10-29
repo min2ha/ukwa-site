@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Art of Podcast | Podcast Production Company
-
 Excited by the medium of podcasting, our Founder Emma-Victoria Houlton left her job in National UK Radio to build a company that focused on podcast production in 2012.

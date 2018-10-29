@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Coalition has presided over plunge in living standards, says TUC
-
 None

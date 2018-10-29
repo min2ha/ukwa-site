@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Rod Abouharb (Labour)
-
 Rod Abouharb stood as Labour party candidate for Kensington at the 2015 General Election but was not elected.

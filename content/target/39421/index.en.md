@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Giovanni Caccavello for Shettleston on Facebook
-

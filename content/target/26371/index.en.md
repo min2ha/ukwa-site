@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Chef Clegg tries to curry favour on Cardiff campaign trail
-
 None

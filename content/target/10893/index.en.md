@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Convention of Scottish Local Authorities (COSLA): Migration and the referendum debate conference
-
 None

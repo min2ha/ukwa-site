@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Christians in Politics
-
 Christians in Politics is an all-party, non-denominational platform for Christians involved, or seeking to get involved, in politics and public life.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Segro plc
-
 SEGRO plc is a property investment and development company in the UK and Europe.  It is the largest industrial property company in Europe and is the owner of The Slough Trading Estate - the largest trading estate under single ownership in Europe.

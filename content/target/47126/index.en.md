@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Movement for Compassionate Living
-
 The Movement for Compassionate Living exists to promote vegan living and self-reliance as a remedy against the exploitation of humans, animals and the Earth.

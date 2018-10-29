@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Let There Be Light Edinburgh
-
 WordPress site of a campaign group opposing the development of a new hotel in the Cowgate in central Edinburgh in particular, but more generally against Edinburgh Council's prevailing planning policy.

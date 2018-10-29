@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Justice for Women
-
 We are a feminist campaigning organisation that supports, and advocates on behalf of, women who have fought back against or killed violent men. Over the past years, Justice for Women has developed considerable legal expertise in this area, and has been involved in a number of significant cases at the Court of Appeal that have resulted in women's original murder convictions being overturned.

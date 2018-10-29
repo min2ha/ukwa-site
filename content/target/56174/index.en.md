@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Lesbians & Gays Support the Miners (LGSM)
-
 The London Lesbians and Gays Support the Miners (LGSM) group was established during the miners’ strike of 1984-5. The alliance between LGSM and the South Wales striking miners was a significant factor in turning the tide in the trade union movement in favour of equality measures for lesbians and gay men.

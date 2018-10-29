@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The EU vote isn’t just about Westminster – we need grassroots campaigns too
-

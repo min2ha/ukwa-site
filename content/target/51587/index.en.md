@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oldmachar Church
-
 Website of Oldmachar Church, located in Aberdeenshire, Scotland. 

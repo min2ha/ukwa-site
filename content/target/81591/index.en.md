@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Proper Football (@sid_lambert) on Twitter
-
 The home of 80s/90s/00s football nostalgia. Goals and games. Transfers and trivia. Written a book about it too.

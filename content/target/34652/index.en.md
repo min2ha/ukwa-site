@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julie James (Labour Assembly Member for Swansea West)
-

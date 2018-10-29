@@ -10,6 +10,4 @@
   "start_date": "2015-06-03T09:00:00Z"
 }
 
-# BioWales
-
 BioWales is an annual event focusing on the growth and delivery within the life sciences sector in Wales.

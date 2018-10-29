@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jamie Reed (Labour candidate for Copeland)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Hatzola Northwest
-
 Welcome to Hatzola Northwest, a 24/7 community service, operating 365 days a year to provide a swift response to medical emergencies in the immediate area.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scotland Food & Drink
-
 Site of a non-profit leadership organisationsupported by the Scottish Government tasked with growing the value of Scotland's food and drink sector, making it more profitable and delivering greater global success in a challenging and competitive environment.

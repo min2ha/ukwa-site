@@ -10,7 +10,5 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Department for Exiting the European Union: Technical Note: UK participation in Galileo
-
 The note sets out the UK’s position on continued participation in the Galileo programme.after Brexit.
 

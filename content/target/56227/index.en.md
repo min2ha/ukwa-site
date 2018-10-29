@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Cardiff Fashion
-
 The Cardiff Fashion Blog is edited by Gwyneth Moore and covers the fashion scene in Cardiff and Wales.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Llên Natur: Gwefan Natur i Bobl Cymru
-
 This is a Cymdeithas Edward Llwyd project and is an opportunity for naturalists to note down their recent nature discoveries on the 'Llên Natur' website. The site also provides online access to all issues of their bulletin.

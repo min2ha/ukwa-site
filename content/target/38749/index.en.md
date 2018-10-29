@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gail Casey (@gailcas95925902) on Twitter
-
 Twitter profile of Gail Casey, the Scottish Labour candidate for Clydebank and Milngavie in the 2016 Scottish Parliamentary election.

@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Auday Elesedy, Green Party on Twitter
-

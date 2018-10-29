@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Socialist Appeal (@socialist_app) on Twitter
-
 Marxist ideas. Fighting for revolution. 

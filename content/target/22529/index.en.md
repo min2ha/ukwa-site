@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Former Labour Defence Secretaries warn military spending must be increased
-
 None

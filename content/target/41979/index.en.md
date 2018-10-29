@@ -10,6 +10,4 @@
   "start_date": "2016-05-30T10:00:00Z"
 }
 
-# Cadder Housing Association
-
 Site of a community based social housing landlord based in Glasgow.

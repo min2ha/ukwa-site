@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal National Orthopaedic Hospitals
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Talgarth Male Choir
-
 Talgarth Male Choir was founded in 1969. They rehearse at  Gwernyfed Ruby Club near Brecon.

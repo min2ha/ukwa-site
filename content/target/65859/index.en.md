@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# IJHS (@IJHSofficial) on Twitter
-
 Official Twitter account of International Journal of the History of Sport.

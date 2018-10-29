@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Tracy Satchill Blog
-
 Blog by a playful and theatrical collage artist and illustrator inspired by a love of history be it a narrative, a piece of architecture or an intricate pattern.

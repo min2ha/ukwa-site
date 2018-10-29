@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Éireann debates: 21 June 2018: Address by Mr. Jean-Claude Juncker, President of the European Commission
-
 Discussion of the implications of the UK's vote to leave the European Union for Ireland and the peace process.

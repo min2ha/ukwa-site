@@ -10,5 +10,3 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Healthy Linguistic Diet
-

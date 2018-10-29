@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Sir Harry Secombe Trust
-
 The trust was set up to provide opportunities for youngsters in Swansea to follow a career in theatre.

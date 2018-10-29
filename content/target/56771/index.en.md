@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Sweatdrop Studios
-
 Website for Sweatdrop Studios, and independent UK based publisher and comic collaborative. Includes several webcomics by members of the studio.

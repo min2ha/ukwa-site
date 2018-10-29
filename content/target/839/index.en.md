@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West London and St George's Mental Health Trust
-
 None

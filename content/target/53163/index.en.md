@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jennifer Geroni (@DrGeroni) on Twitter
-
 Dr Jennifer Nia Geroni is the Liberal Democrat candidate for the Vale of Glamorgan at the 2017 General Election.

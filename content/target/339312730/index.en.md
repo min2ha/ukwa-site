@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Creative Centenaries
-
 The Creative Centenaries project, led by the Nerve Centre and supported by the Department of Culture, Arts and Leisure (DCAL), brings together information and resources about the Decade of Centenaries and the work of Northern Ireland’s creative sector in commemorating the events beginning with the signing of the Ulster Covenant in 1912 and ending with civil war and the partition of Ireland in 1922.

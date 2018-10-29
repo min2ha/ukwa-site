@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# No Dig Organic Gardening Forum
-
 An online enthusiast community forum concerned with No Dig Gardening. Discusses no dig gardening, general gardening and gardening problems.

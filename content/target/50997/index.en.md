@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# British Antique Dealers’ Association
-
 The British Antique Dealers' Association (BADA) is the trade association for the leading antique dealers in Britain. Since its foundation in 1918 BADA has set the standard for trading in the antiques business. Its main aim is to establish and maintain confidence between its members and the public, both in buying and selling.

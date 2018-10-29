@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# VCL UK
-
 The website of VCL UK, also known as Valve Components Limited. The Glasgow-based company was formed in 1987 and is part of the Glenalmond Group.

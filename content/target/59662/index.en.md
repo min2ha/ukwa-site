@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Origami Forum
-
 An online enthusiast community concerned with Origami and paper-craft. Discusses diagrams, paper, origami challenges, model searching and various related topics. Includes a section for users to upload pictures of their origami creations.

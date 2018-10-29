@@ -10,5 +10,3 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Llên-dysilio
-

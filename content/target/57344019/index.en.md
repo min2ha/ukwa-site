@@ -10,5 +10,3 @@
   "start_date": "2010-10-22T00:00:00Z"
 }
 
-# College of Practitioners of Phytotherapy (CPP)
-

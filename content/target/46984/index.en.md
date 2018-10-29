@@ -10,5 +10,3 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# City Parish of St John the Baptist Cardiff, The 
-

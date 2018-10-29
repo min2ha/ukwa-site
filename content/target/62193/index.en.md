@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Turf Moor Stadium
-
 Turf Moor is a football stadium in Burnley, Lancashire, England. It is the home ground of Premier League club Burnley Football Club, who have played there since moving from its Calder Vale ground in 1883. 

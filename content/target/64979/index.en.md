@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cityread London (@cityreadlondon) on Twitter
-
 Project that enables Cityread London, an annual London-wide reading campaign that aims to unite the capital over a single book everyyear. This is the official Twitter account.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-17T09:00:00Z"
 }
 
-# Julien Pritchard(@Mega_Jules) on Twitter
-
 Julien Pritchard stood as Green Party candidate for Selly Oak at the 2017 General Election but was not elected.

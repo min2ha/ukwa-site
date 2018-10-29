@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Faith Regen Foundation
-
 FRF is a multi faith charity with a strong track record of achieving targets and outcomes to ensure positive change for disadvantaged individuals and communities. We have successfully engaged with over 15000 beneficiaries since our inception in 2001.

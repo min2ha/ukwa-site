@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A bumpy ride awaits the SNP on Westminster’s see-saw
-
 None

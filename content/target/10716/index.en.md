@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nick Griffin, British National Party on Facebook
-
 None

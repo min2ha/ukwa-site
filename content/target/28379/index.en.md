@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Islam Channel
-
 With headquarters in Central London, Islam Channel provides alternative news, current affairs and entertainment programming from an Islamic perspective. Since its launch in 2004 Islam Channel has developed into a platform for ingenious and practical television complementing the definition of good programming.
 
 Broadcast in English, Islam Channel aims for its programming to appeal to both Muslims and non-Muslims. Ultimately conveying Islam in its true form to curious non-Muslims and to further educate Muslims. 

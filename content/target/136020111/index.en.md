@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedford LINk
-
 None

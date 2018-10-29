@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heart of England NHS Foundation Trust
-
 None

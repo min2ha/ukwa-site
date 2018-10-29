@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Green Energy UK
-
 Website with information and offers to switch to greener energy.

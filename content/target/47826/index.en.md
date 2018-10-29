@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Local energy | Ynni Lleol
-
 Local energy is the Welsh Government’s renewable energy support service.

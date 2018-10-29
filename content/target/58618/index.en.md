@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 100 Years And Still Serving
-
 Sight Support Derbyshire was awarded funding by the Heritage Lottery Fund to embark on a project, entitled 100 Years And Still Serving, to commemorate both the centenary of the First World War and 100 years since the start of our charity.

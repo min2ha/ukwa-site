@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Angling Cymru
-
 Angling Cymru is National Governing Body for Angling in Wales and an umbrella body representing: Welsh Federation of Coarse Anglers (WFCA) and the Welsh Federation of Sea Anglers (WFSA).

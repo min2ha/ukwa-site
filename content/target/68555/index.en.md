@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Bro Ogwr (@menterbroogwr) on Twitter
-
 A Menter Iaith/ Welsh language initiative for the Welsh Language across Ogmore Vale.

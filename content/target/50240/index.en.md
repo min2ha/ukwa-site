@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Archives Wales | Archifau Cymru
-
 Archives Wales is an online catalogue to more than 7,000 collections of historical records in the holdings of 21 archives in Wales. Archives Wales forms part of the UK's National Archives Network.

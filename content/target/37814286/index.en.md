@@ -10,5 +10,3 @@
   "start_date": "2010-03-17T00:00:00Z"
 }
 
-# Archif Menywod Cymru / Women's Archive of Wales
-

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Glamorgan Wanderers RFC
-

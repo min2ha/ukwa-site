@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Dunfermline Press: Flypast scheduled to celebrate the Forth Bridge's 125th birthday
-

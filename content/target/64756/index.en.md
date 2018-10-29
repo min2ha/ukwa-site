@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Provincial Grand Royal Arch Chapter of Mid & East Lothian
-
 Site of a provincial chapter of the Scottish Royal Arch branch of freemasonry, covering the areas of Midlothian and East Lothian.

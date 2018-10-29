@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Miliband branded 'Salmond's poodle' by PM after former SNP leader pledged to lock Cameron out of Downing Street
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alan Trench (@devomatters) on Twitter
-
 Twitter profile belonging to Alan Trench, who also writes Devolution Matters, a blog commenting devolution in the United Kingdom.

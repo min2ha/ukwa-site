@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Madano
-
 Madano helps clients define strategy and deliver their objectives through insight, creativity and communication.

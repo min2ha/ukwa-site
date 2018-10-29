@@ -10,6 +10,4 @@
   "start_date": "2006-08-16T00:00:00Z"
 }
 
-# Cricket Scotland
-
 None

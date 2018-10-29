@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wokingham Remembers
-
 Project links together war memorials across Borough, providing residents with information in hard copy and digital form enabling them to access both the memorials and key stories behind them.

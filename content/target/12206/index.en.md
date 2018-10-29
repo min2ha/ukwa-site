@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olivia Breen (BreenOlivia) on Twitter
-
 Twitter profile of Olivia Breen, who competed in the long jump event for Team Wales at the Glasgow 2014 Commonwealth Games.

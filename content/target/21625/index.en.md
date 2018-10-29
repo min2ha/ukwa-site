@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: Lib Dems face uphill battle to hold Taunton Deane
-
 None

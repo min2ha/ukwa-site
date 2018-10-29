@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Catenian Association, The
-
 The Catenian Association is an international body of proudly Catholic laymen who meet at least once a month in local units called Circles.

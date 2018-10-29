@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham Literature Festival 
-
 Birmingham Literature Festival 

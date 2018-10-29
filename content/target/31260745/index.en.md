@@ -11,6 +11,4 @@
   "subject": "Crimean War"
 }
 
-# Victoria Cross, The
-
 None

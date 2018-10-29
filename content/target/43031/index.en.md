@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Question, The
-
 This blog is intended to explore the EU question, which will hopefully inform readers and spark debate. There will be a wide range of views on the EU question and I welcome comments / queries etc. from both sides of the debate on this blog.

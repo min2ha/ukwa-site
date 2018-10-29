@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Martin Rowson on the leaders' debate – cartoon
-
 None

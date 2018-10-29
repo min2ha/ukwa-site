@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Fresh legal challenge blocked by High Court
-
 A group of campaigners who wanted Britain to stay in the EU single market argued that Parliament must approve the UK's exit from the European Economic Area. But the judges refused to give the green light for the challenge, saying the judicial review was "premature".

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# East Lothian Orienteers 
-
 Site of an orienterring club located in East Lothian / Musselburgh.

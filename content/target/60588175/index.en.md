@@ -10,5 +10,3 @@
   "start_date": "2011-05-25T00:00:00Z"
 }
 
-# Assessing the adoption of EA as a change agent within an organisation wide change
-

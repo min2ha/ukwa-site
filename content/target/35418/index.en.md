@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# techUK
-
 techUK represents the companies, champions the issues and the ongoing areas of interest of the tech sector.

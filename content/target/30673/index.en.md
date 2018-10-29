@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Old Vic, The
-
 Official website of the London theatre, The Old Vic.

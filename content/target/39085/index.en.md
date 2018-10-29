@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee Labour (@dundeelabour) on Twitter
-
 Twitter profile of the Dundee local branch of the Scottish Labour Party.

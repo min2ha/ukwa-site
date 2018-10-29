@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association, The on Facebook
-
 The official Facebook page for every one of England’s national football teams. 

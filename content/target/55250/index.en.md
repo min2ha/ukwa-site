@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Swansea Foodbank | Banc Bwyd Abertawe
-
 Swansea Foodbank, Helping Swansea people in crisis.

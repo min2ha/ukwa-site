@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# St. Etheldreda's Church, Ely Place, London
-
 Oldest Roman Catholic Church in England

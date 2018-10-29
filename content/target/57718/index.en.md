@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Agriculture and Horticulture Development Board (AHDB) Potatoes
-
 AHDB Potatoes is a division of the Agriculture & Horticulture Development Board. It aims to make the potato industry more competitive and sustainable through evidence-based advice, information and activity.

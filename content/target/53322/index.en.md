@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# JustGiving: Weʼve raised £570 to Help fund Hugo Sugg stand in the General Election 2017 as an Independent candidate for South Hackney and Shoreditch Constituency.
-
 An online crowd funding campaign for Hugo Sugg hoping to run as an Independent candidate for Hackney South and Shoreditch in the UK General Election 2017.

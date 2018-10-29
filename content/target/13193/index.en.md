@@ -10,5 +10,3 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Discover Northern Ireland - Northern Ireland Tourist Board (NITB)
-

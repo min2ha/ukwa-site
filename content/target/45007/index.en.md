@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: North Korean athlete selfie: What happens next?
-
 Pictures of a North and South Korean gymnast taking a selfie at the Olympics prompted many questions on whether Hong Un-jong would face punishment for fraternising with the enemy.

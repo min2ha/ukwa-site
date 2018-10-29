@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Alltwalis Wind Farm | Fferm Wynt Alltwalis
-
 Alltwalis Wind Farm is located to the north of Carmarthen and owned by Statkraft Wind UK Ltd, a subsidiary of Statkraft UK Ltd. 

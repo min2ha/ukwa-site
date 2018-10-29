@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War: then and now
-
 Heritage Lottery Fund First World War Grant Programme Landing Page 

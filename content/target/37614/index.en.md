@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Is the civil service orchestrating an EU referendum cover-up?
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Hikma Pharmaceuticals plc
-
 Hikma Pharmaceuticals plc is a multinational pharmaceutical company that manufactures branded and non-branded generic and in-licensed pharmaceutical products

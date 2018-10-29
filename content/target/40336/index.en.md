@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Project, The - Forget Never, Oublier Jamais, Vergessen Niemals
-
 A series of commemorative projects linked between the twinning towns of Basildon, Meaux and Heiligenhaus.

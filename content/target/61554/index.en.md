@@ -10,6 +10,4 @@
   "start_date": "2018-02-23T09:00:00Z"
 }
 
-# Lodge Anima No. 1223
-
 Site of a masonic lodge located in Ibrox, Glasgow and affiliated with the Grand Lodge of Scotland.

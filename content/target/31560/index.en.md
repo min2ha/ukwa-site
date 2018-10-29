@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# CoLD SToRAGE
-
 This the website for Tim Wright, alias CoLD SToRAGE, a Welsh video game music composer.

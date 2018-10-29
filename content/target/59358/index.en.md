@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hadleigh Great War Centenary Project 
-
  Hadleigh Great War Centenary Project, a community research project established to mark the centenary of the Great War.

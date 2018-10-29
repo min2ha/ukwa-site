@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chichester Quaker Meeting of the Religious Society of Friends
-

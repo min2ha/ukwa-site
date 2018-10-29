@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-#  Abertoir, The International Horror Festival of Wales
-
 Abertoir is the International Horror Festival of Wales. It is an annual horror film festival held at Aberystwyth Arts Centre in November.

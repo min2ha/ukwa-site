@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Lyons on Facebook
-
 The Facebook page of Lee Lyons, Conservative and Unionist Parliamentary candidate for Ayr, Carrick and Cumnock.

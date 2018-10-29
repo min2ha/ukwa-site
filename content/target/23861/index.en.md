@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Research Society: an Introduction from Hamish Alldridge on Soundcloud
-

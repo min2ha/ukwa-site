@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Bay Health Cluster Networks 
-
 Cluster Networks are Community Networks that provide a new way in which GP Practices and a range of health, social care and voluntary sector professionals work more closely together. This is the one for Swansea. The following GP Practices form the BayHealth Cluster Network - Sketty and Killay Surgeries, Uplands and Mumbles Surgeries, Kings Road Surgery, University Health Centre, The Grove Medical Centre and The Marina Surgery, St Thomas and West Cross Surgeries, Gower Medical Practice and Mumbles Medical Practice

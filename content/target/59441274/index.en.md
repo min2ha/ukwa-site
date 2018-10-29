@@ -10,5 +10,3 @@
   "start_date": "2011-02-09T00:00:00Z"
 }
 
-# Lake Vyrnwy and Llanwddyn Powys Wales History Newsletter Photographs
-

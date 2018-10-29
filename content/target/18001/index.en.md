@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of British Travel Agents (ABTA): ABTA Manifesto
-
 ABTA is the UK’s largest travel association, representing travel agents and tour operators.

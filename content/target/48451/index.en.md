@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: The government's negotiating objectives for exiting the EU: PM speech
-
 Prime Minister Theresa May set out the Plan for Britain, including the 12 priorities that the UK government will use to negotiate Brexit.

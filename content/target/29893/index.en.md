@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# Queen's Hall on Facebook
-
 Official Facebook page for Queen's Hall, a music venue in central Edinburgh and Fringe Festival venue.

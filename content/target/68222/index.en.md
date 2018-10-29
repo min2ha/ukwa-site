@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cayman iNews
-
 Cayman Island news online

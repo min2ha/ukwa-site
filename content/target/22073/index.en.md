@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann Myatt (Conservative)
-
 Ann Myatt stood as Conservative candidate for Westmorland and Lonsdale at the 2015 General Election but was not elected.

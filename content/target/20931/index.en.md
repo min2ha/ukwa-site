@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zara Kitson (@ZaraKitson) on Twitter
-
 The Twitter profile of Zara Kitson, Scottish Green Party candidate for Glasgow in the 2016 Scottish Parliament election.

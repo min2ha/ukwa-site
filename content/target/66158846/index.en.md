@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Watford Borough Council
-
 Watford Borough Council website offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

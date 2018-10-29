@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Our Bondage & Our Freedom – Frederick Douglass & Family ~ Their Struggles for Liberty 1818-2018
-
 AHRC funded project running over 2018-19 "to discuss the activism and authorship not only of Frederick Douglass himself but of his wife, his daughters and his sons".

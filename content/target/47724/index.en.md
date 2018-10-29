@@ -10,5 +10,3 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-# Neath Port Talbot Badger Group, The
-

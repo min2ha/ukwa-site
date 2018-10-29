@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Shell LiveWIRE
-
 Supporting Bright Young Business. Shell LiveWIRE, a UK online community for young entrepreneurs aged 16-30

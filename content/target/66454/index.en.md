@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Barrhead Travel Limited
-
 Barrhead Travel Limited is a travel services provider based in Glasgow, Scotland. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Perth and Kinross | Conservatives
-
 The website of Perth and Kinross Scottish Conservative Party.

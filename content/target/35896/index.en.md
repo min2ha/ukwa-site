@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sarah Atkin (@SarahBlackIsle) on Twitter
-
 The Twitter profile of Sarah Atkin, the Scottish Labour candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

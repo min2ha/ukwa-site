@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Anglo Baltic News
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# British Institute of Technology & E-commerce (BITE)
-
 Official website of the British Institute of Technology & E-commerce (BITE), Stratford, London.

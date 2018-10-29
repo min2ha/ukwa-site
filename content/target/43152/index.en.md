@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Ecumenical Accompaniment Programme in Palestine and Israel 
-
 The Ecumenical Accompaniment Programme in Palestine and Israel (EAPPI) is an international programme coordinated by the World Council of Churches. It brings people from around the world to the West Bank to serve for 3 months as human rights monitors. We call them Ecumenical Accompaniers (EAs). 

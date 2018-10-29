@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dem donor scandal: dodgy donation received by Nick Clegg's party
-
 None

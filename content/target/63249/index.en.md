@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# UK Tatar Association
-
 The UK Tatar Association is an independent, non-political organisation. It was formally established in 2012 with the aim of supporting and helping to facilitate cultural, educational and people-to-people links between the United Kingdom and Tatarstan.

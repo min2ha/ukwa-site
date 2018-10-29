@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Strathglass Shinty Club
-
 Site of a shinty club based at Beauly, Highland.

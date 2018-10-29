@@ -10,6 +10,4 @@
   "start_date": "2017-11-04T09:00:00Z"
 }
 
-# Pickaquoy Centre
-
 Site of a sports, theatre and cinema venue and community space at Kirkwall, Orkney.

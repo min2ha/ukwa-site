@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Plymouth (@SfB Plymouth) on Twitter
-
 Plymouth branch of Students for Britain.

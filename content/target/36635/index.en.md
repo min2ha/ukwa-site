@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Copper Kingdom Centre
-
 The Copper Kingdom Centre is an heritage centre based in Amlwch providing the history of copper mining in the area. 

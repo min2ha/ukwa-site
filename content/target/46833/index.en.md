@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Mike Hedges AM on Facebook
-
 Mike Hedges is Assembly Member for Swansea East. 

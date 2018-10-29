@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lewis Campbell (@Lewis_Campbell_) on Twitter
-
 The Twitter profile of Lewis Campbell, the Scottish Green Party candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

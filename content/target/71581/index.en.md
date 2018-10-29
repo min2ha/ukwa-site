@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Cheqada
-
 Discusses how Theresa May could get a fudged EU Withdrawal Agreement and a vague political declaration through the Commons

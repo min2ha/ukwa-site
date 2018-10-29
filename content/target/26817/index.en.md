@@ -10,5 +10,3 @@
   "start_date": "2015-05-22T08:00:00Z"
 }
 
-# History of Astronomy in Wales, A
-

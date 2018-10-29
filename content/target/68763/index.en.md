@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Pulmonary Hypertension Association (PHA UK)
-
 The Pulmonary Hypertension Association (PHA UK) is the only charity in the UK dedicated to people with the rare disease, pulmonary hypertension (PH).

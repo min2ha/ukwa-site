@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tawesoft
-
 Tawesoft is a Welsh technology startup based in Swansea. 

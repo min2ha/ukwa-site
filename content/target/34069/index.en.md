@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Roger Andrews Studios
-
 Roger Andrews is a Welsh sculpturist.

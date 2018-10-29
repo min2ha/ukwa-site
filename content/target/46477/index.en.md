@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ecologist, The: Brexit could lead to a bonfire of fracking regulations
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

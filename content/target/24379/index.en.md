@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Alex Salmond: I joked about writing Labour Budget
-
 None

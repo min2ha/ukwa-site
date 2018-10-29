@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Italian State Tourist Board
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Scottish Rural Awards
-
 Site of annual awards given for industry, innovation, dedication and aspiration of those who live and work in Scottish rural areas.

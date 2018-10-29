@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# CarpForum
-
 An online enthusiast community concerned with carp fishing. Discusses fishing tackle, reviews, rigs,  bait, catch results, venues and various other related topics.

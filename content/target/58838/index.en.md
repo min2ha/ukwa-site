@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News The Ouch Blog: Keeping Your Mental Health Safe Online
-
 Blog detailing ways in which you can protect your mental health and keep safe and well whilst online

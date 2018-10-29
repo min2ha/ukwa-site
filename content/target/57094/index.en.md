@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# BVI Safety Check: Hurricane Irma Support 
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfBSouthampton (@SfBSouthampton) on Twitter
-
 Southampton branch of Students for Britain

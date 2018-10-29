@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joseph Dunderdale (joedund) on Twitter
-
 The twitter profile of Joe Dunderdale, competitor in the Javelin event for Team England at the Glasgow 2014 Commonwealth Games.

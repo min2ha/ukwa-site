@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Charing in the First World War
-
 Project aims to collate and coordinate existing information about those from Charing who served, the village in WW1 and the wars impact, carry out additional research.

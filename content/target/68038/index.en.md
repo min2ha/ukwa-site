@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Long Buckby RFC
-
 Long Buckby is one of the oldest clubs in the East Midlands having been established in 1875. 

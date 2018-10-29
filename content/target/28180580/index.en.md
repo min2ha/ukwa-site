@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# University of Bristol Theatre Collection - Live Art Archives
-
 All collections held in the Theatre Collection Live Art Archives are available on this site. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East London NHS Foundation Trust
-
 None

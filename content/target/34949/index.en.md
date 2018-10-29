@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Daniel Trivady
-
 Daniel Trivady is an artist born in Luton currently residing in Swansea.

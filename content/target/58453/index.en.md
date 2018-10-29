@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# UCL: Russia's Revolutionary Century 1917-2017
-
 Conference organised by University College London, School of Slavonic and East European Studies conference aiming to explore the legacy of 1917 across the century that followed.

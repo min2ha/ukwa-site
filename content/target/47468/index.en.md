@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Harbourside: Porthcawl Maritime Quarter
-

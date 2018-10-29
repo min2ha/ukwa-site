@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Surrey Heath Borough Council
-
 The website of Surrey Heath Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

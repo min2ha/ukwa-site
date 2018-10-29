@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 31st January 2018: European Union (Withdrawal) Bill (Continuation)
-
 Continuation of the second reading debate on the European Union Withdrawal Bill in the House of Lords. At the end the Bill is referred unamended to a Committee of the Whole House.

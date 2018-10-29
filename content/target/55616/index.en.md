@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Living History Guide, by Historic UK
-
 Section of the Historic UK website, dedicated to Living History – living history events, battle re-enactments and re-enactors

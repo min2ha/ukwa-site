@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset Health and Wellbeing Board
-
 None

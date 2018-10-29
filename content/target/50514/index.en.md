@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Venezuela Solidarity Campaign 
-
 Venezuela Solidarity Campaign aims to defend Venezuela’s sovereignty and independence and to support the right of the Venezuelan people to determine their own future free from external intervention.

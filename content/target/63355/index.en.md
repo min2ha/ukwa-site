@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Liddell and Associates Ltd
-
 Liddell & Associates Architecture and Planning are Architects based in Chepstow.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-24T09:00:00Z"
 }
 
-# Westminster Insight
-
 Organises conferences, seminars and discussions on public policy issues including health, social care, media, education, the economy, local government and the environment. Operated by The Knowledge Exchange Group Ltd.

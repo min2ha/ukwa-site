@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Patrick's RC Church, Cardiff 
-

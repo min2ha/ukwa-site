@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Monmouthshire Junior Football League
-

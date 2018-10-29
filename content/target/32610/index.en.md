@@ -10,5 +10,3 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Lanarkshire Family History Society
-

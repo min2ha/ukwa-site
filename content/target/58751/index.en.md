@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Land, Sea & Islands Centre
-
 Site of a museum featuring local and natural history at Arisaig, Highland.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# STV News on Facebook
-
 The Facebook page of STV News, a Scottish broadcast news service based in Glasgow.

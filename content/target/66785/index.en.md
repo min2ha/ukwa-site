@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Glasgow Star Lodge No 219, The on Facebook
-
 Facebook page of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

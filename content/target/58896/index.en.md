@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Blackhall Mosque
-
 Site of an Islamic place of worship (also called Masjid Aisha) and education centre in the west of Edinburgh.

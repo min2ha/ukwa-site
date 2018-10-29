@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Boris Johnson says rival Leave campaigns will unite
-
 BBC News: EU referendum: Boris Johnson says rival Leave campaigns will unite

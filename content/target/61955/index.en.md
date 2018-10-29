@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watford FC Ladies (@watfordladies ) on Twitter
-
 Sheffield Football Club Ladies is an English women's football club affiliated with Sheffield F.C.

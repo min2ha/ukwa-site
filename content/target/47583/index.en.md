@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Heritage Open Days
-
 Every September some 40,000 volunteers across England organise 5,000 events to celebrate English history, architecture and culture. It's an opportunity to see hidden places and try out new experiences – all of which are free of charge.

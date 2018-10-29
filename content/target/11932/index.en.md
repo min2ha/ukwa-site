@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Patricia Ferguson (PFergusonMSP) on Twitter
-
 <p>The twitter profile of Patricia Ferguson, MSP for Glasgow Maryhill and Springburn.</p>

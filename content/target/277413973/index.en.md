@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Prison Service
-
 The Scottish Prison Service (SPS) is an agency of the Scottish Government and was established in April 1993. The SPS is a public service-led delivery agency which is legally required to deliver custodial and rehabilitation services for those sent to it by the courts. 

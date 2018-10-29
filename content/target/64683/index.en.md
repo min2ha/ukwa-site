@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Melton Borough Council
-
 Website of Melton Borough Council provides news, press releases and information about services. It also offers access to consultations, council committee papers, local planning documentation, and the council budget and spending.

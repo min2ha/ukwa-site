@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stronger In Press (@StrongerIn) on Twitter
-
 News and updates from Britain Stronger In Europe's press team

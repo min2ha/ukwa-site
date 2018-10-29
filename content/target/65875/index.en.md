@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Boars Bridge Festival
-
 Website for the Boars Bridge Festival. The charity event is in aid Of the Multiple Sclerosis Therapy Centre, Reading. 

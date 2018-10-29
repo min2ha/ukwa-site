@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Liverpool Catholic Ramblers Association (LCRA) 
-
 The LCRA is a non-denominational rambling group that conducts walks on numerous Sundays throughout the year. They vary in length and physical demands and are in 3 grades.

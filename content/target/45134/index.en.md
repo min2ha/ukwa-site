@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Things Magazine
-
 things magazine was originally founded in 1994 by a group of writers and historians based at the Victoria & Albert Museum/Royal College of Art. things embodies the belief that objects can open up new ways of understanding the world

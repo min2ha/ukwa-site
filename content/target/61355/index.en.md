@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Norwich City Football Club
-
 The official website of Norwich City Football Club.

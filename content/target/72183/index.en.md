@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Discover Denbighshire | Darganfod Sir Ddinbych
-
 Discover Denbighshire is a tourist information guide to the county of Denbighshire in north east Wales. The resource is produced by Denbighshire County Council.

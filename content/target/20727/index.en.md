@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phil Boswell SNP (@PhilBoswellSNP) on Twitter
-
 Twitter profile of Phil Boswell, Scottish National Party candidate for Coatbridge, Chryston and Bellshill in the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# Museum Research Project:  the Museum of Them and Us
-
 Site linked to the author's PhD work on how class matters within museum work. The research asks what does it takes to get in and get on, how has this changed, how is this different for particular roles, and what might this mean for people from different backgrounds. 

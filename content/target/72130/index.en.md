@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Brexit: Government considers NI-GB regulatory checks
-
 Dominic Raab said at the 2018 Tory Party conference that the government was looking at how regulatory checks were carried out in an attempt to break the deadlock over the Irish border backstop in the EU negotiations.
 

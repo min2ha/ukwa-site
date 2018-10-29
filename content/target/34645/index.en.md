@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Nichola Hope
-
 Nichola Hope is a Welsh artist born in Cardiff. 

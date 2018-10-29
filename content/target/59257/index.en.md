@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Royal Mint Museum, The
-
 The Royal Mint Museum is a numismatics museum located in Llantrisant.

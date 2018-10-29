@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Harriet Harman's pink bus tour gets off to a bumpy start 
-

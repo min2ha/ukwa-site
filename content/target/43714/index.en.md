@@ -10,5 +10,3 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Motor Neurone Disease (MND) South Wales
-

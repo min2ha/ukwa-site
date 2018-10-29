@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The EU negotiation. First, let’s use the velvet glove. But if that doesn’t work, the iron fist.
-
 The Government seems to have agreed to give Parliament the final say over the EU negotiations. This substantially changes the dynamic in European Union negotiations. To be unable to proceed with no deal would kill off any chance of a good deal. The European Commission would in such circumstances never need to offer us a deal, but instead seek to keep us paying in, abiding by the rules, but having no seat at the table – which has always been the best outcome for them. 
 

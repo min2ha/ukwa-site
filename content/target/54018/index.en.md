@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ian Chandler, Green Party Monmouth
-
 Ian Chandler is the Green Party candidate for Monmouth at the 2017 General Election.

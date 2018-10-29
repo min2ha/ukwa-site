@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Arthritis and Musculoskeletal Alliance (ARMA)
-
 <p>Arthritis and Musculoskeletal Alliance (ARMA) is the umbrella association body providing a collective voice for the arthritis and musculoskeletal community in the UK.</p>

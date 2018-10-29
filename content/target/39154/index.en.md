@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Womens Equality UK (@WEP_UK) on Twitter
-
 Twitter profile of the Women's Equality Party who are standing candidates in the 2016 Scottish Parliamentary election.

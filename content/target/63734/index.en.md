@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dundee Parish Church (St. Mary's)
-

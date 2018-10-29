@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stirling Highland Games
-
 Site of a highland games located in the city of Stirling.

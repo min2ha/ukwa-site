@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Cambridge University Jewish Society (CUJS)
-
 We are one of Cambridge University’s largest societies and with such a diverse membership, getting involved is a great way to make friendships that will last a lifetime. From Homerton to Girton, King’s to Queens’, Jesus to Wolfson, North Londoners to Americans, lawyers to linguists and undergraduates to fellows we truly are a pluralist melting pot of Jews in Cambridge. 

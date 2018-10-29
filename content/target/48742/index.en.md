@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# McSpotlight
-
 McSpotlight is a website detailing the history of the 'McLibel' case in the UK and is now a space for alternative stories about McDonald's to be documented

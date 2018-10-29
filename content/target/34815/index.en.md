@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Yasmin Alibhai-Brown
-
 Yasmin Alibhai-Brown is a journalist, radio and television broadcaster and author.

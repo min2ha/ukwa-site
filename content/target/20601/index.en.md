@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory party bruisers roll up sleeves as they put Miliband in Salmond's pocket
-

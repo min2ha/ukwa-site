@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ministry of Justice: Legal services at forefront of Global Britain
-
 Lord Chancellor Elizabeth Truss declared in a speech that a bold and bright future awaits the UK’s world-leading legal services as we prepare to leave the EU. She emphasises importance of cooperation in civil justice post Brexit

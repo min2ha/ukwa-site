@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ricky Henderson, Edinburgh Labour Councillor
-
 Blog of Ricky Henderson, Scottish Labour candidate for Edinburgh South West in the 7th May 2015 UK General Elections.

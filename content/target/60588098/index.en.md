@@ -10,5 +10,3 @@
   "start_date": "2011-05-06T00:00:00Z"
 }
 
-# Matt Smith - A fresh, local voice for Cardiff North
-

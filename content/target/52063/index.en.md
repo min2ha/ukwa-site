@@ -10,6 +10,4 @@
   "start_date": "2017-04-19T09:00:00Z"
 }
 
-# Mari Thomas Jewellery | Gemwaith
-
 Mari Thomas is a Welsh contemporary designer jeweller who has won numerous design awards including the Gold Medal for Craft and Design at the National Eisteddfod of Wales.

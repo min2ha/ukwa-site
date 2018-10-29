@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T11:00:00Z"
 }
 
-# Lasha Darkmoon
-
 Neo-Nazi website of 'Lasha Darkmoon' 

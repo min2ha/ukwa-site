@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Lapeyre & Lapeyre
-
 "LAPEYRE & LAPEYRE are looking to unleash transcultural creative projects that aim to inspire and provoke."

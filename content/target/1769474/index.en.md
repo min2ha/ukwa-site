@@ -10,5 +10,3 @@
   "start_date": "2008-03-13T00:00:00Z"
 }
 
-# UK Coalition Against Malaria
-

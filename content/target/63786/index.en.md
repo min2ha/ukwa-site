@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Lady-Comp UK (@LadyCompUK) on Twitter
-
 Laby-Comp is a company that sells family planning method. This is their official Twitter account.

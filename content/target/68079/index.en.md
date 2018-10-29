@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Carbon Tracker
-
 Carbon Tracker is an independent financial think tank that carries out in-depth analysis on the impact of the energy transition on capital markets and the potential investment in high-cost, carbon-intensive fossil fuels. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wales Week in London | Wythnos Cymru yn Llundain
-
 This is a new marketing initiative to promote events and profile-raising opportunities in London for Wales and Welsh organisations. The celebration will consist of a calendar of events from Monday 27th February until Friday 10 March 2017.

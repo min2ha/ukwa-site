@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Al Murray (@almurray) on Twitter
-
 Twitter account of Al Murray, comedian and Free United Kingdom Party candidate for South Thanet in the UK General Election 2015.

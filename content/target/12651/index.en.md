@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Lewis Macdonald MSP
-
 The website of Lewis Macdonald, Scottish Labour member of the Scottish Parliament for North East Scotland.

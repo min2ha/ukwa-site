@@ -11,5 +11,3 @@
   "subject": "Climate Change Debates"
 }
 
-# Science Museum, The: Climate Chnage Info Zone
-

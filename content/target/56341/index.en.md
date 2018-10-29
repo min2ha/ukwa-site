@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Indian Awards presented by the India Business Group
-
 organised by the India Business Group, a business advisory consultancy working in the UK / India corridor.

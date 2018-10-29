@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Liam Fox downplays UK-US chlorinated chicken differences
-
 Liam Fox downplayed talk that a future US-UK trade deal after Brexit could be threatened by disagreements over chlorinated chicken imports. The international trade secretary said the issue of whether the current UK ban on chlorine-washed poultry would be lifted was "a detail of the very end stage of one sector" of future talks. The EU bans imports on health grounds but free market groups want a rethink.

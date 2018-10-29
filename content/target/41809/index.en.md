@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Dragon Boat Championship
-
 Welsh Dragon Boat Championship is organised by Narberth and Whitland Rotary Club and is held on may bank holiday.

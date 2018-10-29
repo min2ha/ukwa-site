@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Frimley Park Hospital
-
 None

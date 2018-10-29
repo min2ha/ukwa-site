@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# AllianceforChoice (@Alliance4Choice) on Twitter
-
 Alliance for Choice campaigns to extend the 1967 Abortion Act to Northern Ireland.

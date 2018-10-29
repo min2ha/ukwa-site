@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Public Health England: Zika virus, travel, and the immunocompromised patient.
-
 Guidance on Zika virus risks to immunocompromised patients

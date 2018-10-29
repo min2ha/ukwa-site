@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Macrae's Battalion Trust
-
 Site of a trust established to create and maintain the Contalmaison Cairn, Somme, France, and other commemorative projects, commemorating the 16th (Service) Battalion of the Royal Scots / the 'Footballers battalion'.

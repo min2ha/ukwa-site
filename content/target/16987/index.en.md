@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Intergenerational Foundation: Politicians Beware: Younger Voters May Bite Back 
-

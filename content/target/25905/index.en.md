@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron and Clegg: saying goodbye is never easy …
-
 None

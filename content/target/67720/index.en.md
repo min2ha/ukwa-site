@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Eastleigh Rugby Club
-
 A welcoming and competitive rugby club in Southampton. 
 Currently running 4 teams and also running a fantastic junior set up. 

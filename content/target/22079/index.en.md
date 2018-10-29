@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tim Farron on Facebook (Liberal Democrats candidate for Westmorland and Lonsdale)
-
 Tim Farron stood as Liberal Democrats candidate for Westmorland and Lonsdale at the 2015 General Election. He was first elected to serve as MP for Westmorland and Lonsdale in 2005 and re-elected in 2015.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Summit Landscapes
-
 Summit Landscapes has been providing work across all disciplines of hard and soft landscaping in and around Cambridgeshire and Essex since 2003

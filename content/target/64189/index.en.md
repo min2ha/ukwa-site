@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Barn
-
 Barn is a Welsh language current affairs magazine. It is published monthly and has published articles, columns and reviews about the culture and life of Wales. 

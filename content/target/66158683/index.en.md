@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gavin Shuker MP
-
 Gavin Shuker (Labour and Co-operative MP for Luton South)

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Unite accuse Ed Miliband of 'old fashioned stitch up' over seat selections 
-
 None

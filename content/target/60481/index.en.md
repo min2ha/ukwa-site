@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Macron: 'Special' deal possible for UK, but it can't 'cherry-pick' rules
-
 French President Emmanuel Macron suggested the UK could get a special trade deal with the EU after Brexit.in an interview with Andrew Marr. But he warned that Britain would not have full access to the single market without accepting its rules.
 
 

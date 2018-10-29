@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Wrestling Heritage Forums
-
 An online enthusiast community forum concerned with British wrestling from the 1930s onward. Covers various wrestling related topics.

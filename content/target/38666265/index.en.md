@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# CP Sport (Cerebral Palsy Sport): Boccia
-

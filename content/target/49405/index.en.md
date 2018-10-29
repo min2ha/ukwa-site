@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Culture Diary, The
-
 The Culture Diary is a free worldwide calendar of UK culture including private, media, industry and public events all uploaded by over 4,000 UK organisations covering multiple art forms.

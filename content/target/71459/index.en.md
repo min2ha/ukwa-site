@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kessog's and St. James Scottish Episcopal Church
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Auchterarder and Muthill, Perthshire and Kinross.

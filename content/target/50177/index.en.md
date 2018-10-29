@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Many Tears Animal Rescue
-
 Many Tears Animal Rescue (MTAR) is a small rescue based in South Wales but has dogs in foster homes throughout the UK.

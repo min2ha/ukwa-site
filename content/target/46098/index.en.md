@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Retailers warn on weak pound and blows to consumer confidence
-

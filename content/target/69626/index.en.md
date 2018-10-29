@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Babyface
-
 Babyface is a creative agency built on the power of network. They works with clients, individuals and a vast community to try and create authentic work that better speaks to their generation. 

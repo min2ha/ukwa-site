@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In Scotland, the nationalist tide has swept all before it
-
 None

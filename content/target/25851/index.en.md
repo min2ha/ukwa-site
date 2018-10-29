@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP's Nicola Sturgeon admits she is a Borgen fan
-
 None

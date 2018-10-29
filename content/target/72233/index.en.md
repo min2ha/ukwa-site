@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hebden Piano Festival.
-
 Website for the Hebden Piano Festival.

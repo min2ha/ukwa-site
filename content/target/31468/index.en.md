@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Retro-kit
-
 Retro-kit is a website dedicated to historical computers.

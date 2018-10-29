@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dover & Deal Conservative Association
-
 Website of Dover & Deal Conservative Association, providing information on the MP, MEP, Officers and Councillors, events and the MP's view.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish National Party (SNP) East-Dunbartsonshire/Srathkelvin-Bearsden
-

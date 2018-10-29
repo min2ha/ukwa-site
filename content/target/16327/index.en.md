@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cricket Wales
-
 <p>The governing body for cricket in Wales.</p>

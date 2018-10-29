@@ -10,6 +10,4 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# Midlothian Science Zone
-
 The Midlothian Science Zone's main objective is to increase collaboration between academia and business. The centre has a particular focus on animal and human health.

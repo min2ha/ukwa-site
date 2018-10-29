@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Queen 'revealed her strong Eurosceptic views at Windsor lunch after Nick Clegg lectured her on need for greater European integration'    
-

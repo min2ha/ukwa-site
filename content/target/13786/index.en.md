@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Cartoon Art Studio: The Auld Acquaintance, SAU Independence Discussion Forum
-
 <p>Information about a preview event for The Auld Acquaintance exhibition of cartoons addressing the question: “Should Scotland be an independent country?”.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alastair Binnie Lubbock (@alastairis) on Twitter (Green Politician)
-
 Alastair Binnie Lubbock stood as Green Party candidate fot Hackney North and Stoke Newington in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# bizbizelondon (@bizbizelondon) on Twitter (We together in London)
-
 The official Twitter account to accompany the Turkish website Biz Bize London (We together in London).

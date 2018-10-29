@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Elgol and Torrin Historical Society
-

@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Every Cook Can Govern: Documenting the life, impact & works of CLR James.
-
 The C.L.R. James documentary project was established by a crew of volunteers working with the education charity WORLDwrite and its Citizen TV station WORLDbytes. Alongside the development of this knowledge portal we set out to produce a fully fledged feature length documentary. The final film was completed in April 2016 

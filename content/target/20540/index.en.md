@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Immigration and health what UK voters are talking about, data shows
-

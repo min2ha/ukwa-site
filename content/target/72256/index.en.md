@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Archif Ddarlledu Genedlaethol (@ADdGen_LlGC) on Twitter 
-
 This is the Welsh language twitter feed for the National Broadcast Archive at the National Library of Wales.

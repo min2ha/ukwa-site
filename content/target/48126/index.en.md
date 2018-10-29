@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Peace Education Network 
-
 The Peace Education Network is a national UK network that brings together people and organisations committed to education for peace.

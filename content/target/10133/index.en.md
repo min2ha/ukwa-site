@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# University and College Union Scotland:  UCU calls for support for universities in independence debate
-
 None

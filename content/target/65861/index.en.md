@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wilkestock
-
 Website for Wilkstock, a charity music festival

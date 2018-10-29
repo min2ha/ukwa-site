@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Young on Facebook
-
 The Facebook page of Christopher Young, the Liberal Democrats candidate for Glasgow Central in the UK General Election on the 7th May 2015 and list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

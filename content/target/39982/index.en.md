@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Commemoration of World War One in Mill Road Cemetery Cambridge
-
 This project will restore graves in Mill Road Cemetery, and provide information about them to the public through a booklet and a website.

@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Big Brother Watch: Protecting Civil Liberties: the 2015 Big Brother Watch Manifesto
-
 Big Brother Watch was founded in 2009 with the intention of exposing the true scale of the surveillance state by challenging the policies which threaten privacy, freedoms and civil liberties.
 
 Big Brother Watch campaigns on behalf of the individual, to educate and encourage more control over personal data. They work to ensure that those who fail to respect our privacy, whether private companies, government departments or local authorities are held to account.

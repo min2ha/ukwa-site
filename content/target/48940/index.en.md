@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# YORK Emergency demo against Trump's #MuslimBan and UK complicity
-
 A demo organised at short notice in response to US President Donald Trump's #MUSLIMBAN in York at 5pm on Monday 30/01/2016. This demonstration was part of a network of nationwide protests - https://www.facebook.com/events/359732827741189/

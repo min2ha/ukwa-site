@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Karin Smyth on Facebook (Labour Candidate for Bristol South)
-

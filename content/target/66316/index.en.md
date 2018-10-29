@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Association of Secondary Ticket Agents (ASTA)
-
 ASTA was founded in 2005 to give legitimate tickets agents and brokers a unified and vocal presence in the UK secondary ticketing market.

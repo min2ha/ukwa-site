@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Finding Rhayader
-
 CARAD's 'Finding Rhayader' project incorporates the latest Digital technology to help visitors discover, explore and share their experiences of Rhayader in a unique and interactive way. 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-# Pembrokeshire South East Energy Group
-
 Pembrokeshire South East Energy Group (PSEEG) was established to promote all forms of energy efficiency and sustainable renewable energy. The group came to an end in 2017.

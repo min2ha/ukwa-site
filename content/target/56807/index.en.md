@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tamil Solidarity
-
 Tamil Solidarity, formerly Stop the Slaughter of Tamils (SST), was set up in response to the terrible slaughter of thousands of Tamil people in Sri Lanka.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T00:00:00Z"
 }
 
-# Seachd Films
-
 Seachd Film promotional website

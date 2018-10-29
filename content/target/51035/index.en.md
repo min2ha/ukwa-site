@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Mercat Tours
-
 Site for a company offering and conducting walking tours around the old town of Edinburgh.

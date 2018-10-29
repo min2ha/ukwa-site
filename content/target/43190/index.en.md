@@ -10,5 +10,3 @@
   "start_date": "2016-06-20T11:00:00Z"
 }
 
-# Llanllwni a Maeycrugiau Gwefan y Cymuned | Community Website
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# St. Magnus Way
-
 Site of a recreation of the Christian pilgrim route of St. Magnus, Orkney.

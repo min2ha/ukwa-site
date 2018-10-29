@@ -11,5 +11,3 @@
   "subject": "Children's Websites"
 }
 
-# Pencil and Paper Games
-

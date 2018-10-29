@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# ACTIVEMapX (@ACTIVEMap) on Twitter
-
  ACTIVEMapX lists thousands of places for women to get more active in the UK.  ACTIVEMapX is ran by Women's Sports Network (WSNet). This is their official Twitter account.

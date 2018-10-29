@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Edinburgh Frontrunners
-
 Site of a running club for lesbian, gay, bisexual, transgender, intersex and straight friends, located in Edinburgh.

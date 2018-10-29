@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May tells MPs not to undermine UK's Brexit negotiations
-
 The UK's negotiating position would be undermined if MPs defeated the government in key votes on its Brexit bill, Theresa May told Tory MPs. She wanted to overturn a series of amendments made by the House of Lords.
 
 

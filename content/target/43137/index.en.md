@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T12:00:00Z"
 }
 
-# Penllyn Councils | Cynghorau Penllyn
-
 The website covers the community councils of Llandderfel, Llangywer, Llanuwchlyn, Llanycil and Y Bala.

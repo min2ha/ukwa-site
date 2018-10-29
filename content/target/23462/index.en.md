@@ -10,5 +10,3 @@
   "start_date": "2015-05-07T09:00:00Z"
 }
 
-# Michael Doherty (@ju5tlaw) on Twitter (Independent candidate for Uxbridge and South Ruislip)
-

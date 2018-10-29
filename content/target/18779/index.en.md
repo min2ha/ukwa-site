@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: Magna Carta Found In Council Archives, Valued At £10 Million
-

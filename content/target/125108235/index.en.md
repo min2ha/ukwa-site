@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Energy UK
-
 Energy UK is the trade association for the UK energy industry representing over 80 suppliers and generators of electricity and gas for domestic and business consumers.

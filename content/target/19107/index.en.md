@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guildford Cathedral: Magna Carta Facsimile to be displayed at Guildford Cathedral
-

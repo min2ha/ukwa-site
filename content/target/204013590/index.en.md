@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Watch Africa 2014
-
 <p>Watch Africa is a Welsh African Film Festival launched in 2013 and screened mainly in Cardiff.</p>

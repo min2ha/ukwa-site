@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# My Pledge, Her Choice
-
 The My Pledge, Her Choice campaign has been launched by the British Pregnancy Advisory Service (bpas) and UK Friends of Planned Parenthood (UKFPP) to push for candidates in the 2017 general election to commit to women’s reproductive rights.

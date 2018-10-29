@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland - Burra Isle Parish Shetland on Facebook
-
 Facebook page of a Church of Scotland parish church at Burraa Isle, Shetland.

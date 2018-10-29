@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gulnar Hasnain (@gulnar73) on Twitter (Green Party Politician)
-
 Gulnar Hasnain stood as Green Party candidate for Vauxhall at the 2017 General Election but was not elected. She also stood in 2015 for the same seat but was not elected.

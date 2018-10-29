@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ukip Bromley on Facebook
-

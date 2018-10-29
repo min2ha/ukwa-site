@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Jonathan Edwards on Facebook
-
 Jonathan Edwards is the Plaid Cymru MP for Carmarthenshire West and Dinefwr.

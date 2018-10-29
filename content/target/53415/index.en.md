@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Salvation Army: We Call On Next Government To Prioritise Needs Of Most Vulnerable
-
 Calls on the next government to prioritise employment support, residential care for older people and supported housing provision.

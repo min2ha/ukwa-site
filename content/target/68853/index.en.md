@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# WOW - Women of the World Festival
-
 Celebrates women and girls, and looks at the obstacles that stop them from achieving their potential

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron pleads with voters to 'think about your children' as he warns low turn-out could hand victory to Brexit    
-

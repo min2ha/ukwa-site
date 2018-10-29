@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# The Art Newspaper: Brexit
-
 'Founded in 1990 ...The Art Newspaper is an online and print publication with offices in London and New York'.

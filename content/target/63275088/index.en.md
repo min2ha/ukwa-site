@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T08:00:00Z"
 }
 
-# Discover Ceredigion | Darganfod Ceredigion
-
 Tourist information guide to Ceredigon and the Cambrian mountains run by Ceredigion County Council.

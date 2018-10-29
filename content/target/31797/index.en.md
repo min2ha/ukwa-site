@@ -10,7 +10,5 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Gweithredu dros Iechyd Meddwl Caerdydd a'r Fro | Cardiff and Vale for Mental Health
-
 cavamh - Supporting voluntary sector, service user and carer involvement in the development of mental health services across Cardiff and the Vale of Glamorgan through:
 Mental Health Forum - The voice of the voluntary sector

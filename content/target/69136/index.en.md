@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Galop: Transphobia
-
 An information page from an LGBT+ anti-violence charity about transphobia

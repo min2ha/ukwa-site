@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kay Park Parish Church 
-
 Site of a Church of Scotland parish church at Kilmarnock, Ayrshire.

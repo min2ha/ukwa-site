@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Day-Mer: Turkish and Kurdish Community Centre
-
 DAY-MER   was set up on 11 November 1989 to work with and on behalf of Turkish and Kurdish people living and working in London to help them solve their problems and promote their cultural, economic, social and democratic rights; to strengthen solidarity among themselves as well as local people; and to help their integration into the society.  DAY-MER is a non-profit making organisation and registered charity, of which its activities are funded by various government operated authorities and schemes.

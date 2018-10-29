@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Association of Educational Psychologists
-

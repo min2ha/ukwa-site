@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# QUIZ plc
-
 The site of QUIZ plc, a designer and retailer of ladies fashion clothing, footwear and accessories. The company is based in Glasgow, Scotland. 

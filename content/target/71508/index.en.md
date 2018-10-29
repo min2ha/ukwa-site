@@ -10,6 +10,4 @@
   "start_date": "2018-09-22T09:00:00Z"
 }
 
-# Pontardawe Film Club
-
 Pontardawe Film Club promote an interest in film in the Pontardawe area. Their venue is the Pontardawe Arts Centre.

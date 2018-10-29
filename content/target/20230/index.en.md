@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elspeth Parris Green Party Merthyr & Rhymney on Facebook
-
 Prospective Parliamentary Candidate for the Green Party for Merthyr Tydfil and Rhymney.

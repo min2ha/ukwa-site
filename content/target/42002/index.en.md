@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Diario, El: Las entidades independentistas repartirán banderas escocesas ante la prohibición de esteladas
-
 News article describing display of the St Andrew's flag in protest to the Spanish Government's ban on the “Estelada” adopted by Catalonians at the final of national Copa del Rey football tournament.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Milibrand: as close as we're going to get to an October surprise
-
 None

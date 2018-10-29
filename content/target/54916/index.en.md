@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Hermon Chapel Arts Centre, Oswestry
-
 Hermon Chapel Arts Centre is a former Welsh chapel based in Oswestry.

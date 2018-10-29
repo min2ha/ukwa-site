@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Women in Comedy Festival
-
 Website for the Women in Comedy Festival in Manchester, UK.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Brookside Theatre
-
 The Brookside Theatre is a self-funded and voluntarily run 140-seat theatre in the London Borough of Havering. Based within the Romford War Memorial buildings, it was established in 2012 and plays host to musicals, plays, live music, stand-up comedy, tribute acts and celebrity guests. The theatre aims to raise funds for the continued renovation of these historic buildings and also provides arts educational programs.

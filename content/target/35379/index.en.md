@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris Johnson says 'no deal' as David Cameron fails to persuade him to join pro-EU campaign after 40 minutes of private talks   
-

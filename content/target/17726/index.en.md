@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage: UK mosques have been infiltrated by hate preachers
-
 None

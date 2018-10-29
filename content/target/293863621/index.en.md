@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Work, Study and Invest in Scotland — The Official Gateway to Scotland
-
 <p>A Scottish Government site presenting information about Scotland in English and Chinese.</p>

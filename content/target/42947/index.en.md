@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen’s 90th Birthday Giveaway
-
 To celebrate Her Majesty The Queen’s 90th birthday, The Royal Mint are giving away 90 coins to 90 people who share their 90th birthday with The Queen.

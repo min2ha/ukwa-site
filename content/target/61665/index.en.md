@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Monmouthshire Beacon: "Student helping others combat anxiety at school"
-
 Monmouthshire Beacon article about a student helping others combat anxiety

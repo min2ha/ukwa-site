@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Reekie on Facebook
-
 This is the Facebook page of James Reekie, the Conservative Party candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

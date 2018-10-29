@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mike-McGough (Mick McTrough UKIP)
-
 None

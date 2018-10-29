@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Competing mandates over indyref2
-
 Comments on Theresa May's decision to defer a second referendum on Scottish independence until after Brexit,

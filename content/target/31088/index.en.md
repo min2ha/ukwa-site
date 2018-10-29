@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Miranda House 
-
 Miranda House was the London home of Francisco de Miranda (1750 – 1816) soldier, writer, traveller and hero of the South American struggle for independence. Visitors are able to explore Miranda’s life and times, as well as experiencing a surviving London Georgian town house.

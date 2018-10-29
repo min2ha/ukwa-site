@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Divers Forum
-
 An online enthusiast forum concerned with scuba diving. Discusses dive equipment, dry suits, re-breathers, shipwrecks underwater photography and various other topics.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Nicholas Buccleuch Parish Church
-

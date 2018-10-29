@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: Scottish independence
-
 <p>News stories, opinions and cartoons from the The Guardian website relating to the referendum on Scottish independence.</p>

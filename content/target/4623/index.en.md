@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# SOAS pays tribute to greatest statesman of our time
-
 <p>Tribute to Nelson Mandela from the School of Oriental and African Studies, University of London.</p>

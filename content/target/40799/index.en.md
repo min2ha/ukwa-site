@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norwich Now (@NorwichNow) on Twitter
-
 A Twitter account dedicated to promoting news related to Norwich.

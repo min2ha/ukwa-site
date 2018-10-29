@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Amelie Boleyn on Facebook (Green Party Candidate for Sevenoaks)
-

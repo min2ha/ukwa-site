@@ -10,6 +10,4 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Wild Seasons
-
 Website aiming to increase awareness of the range of wildlife in southern Scotland.

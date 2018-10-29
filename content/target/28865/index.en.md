@@ -10,6 +10,4 @@
   "start_date": "2015-07-11T10:00:00Z"
 }
 
-# University College London (UCL)
-
 Official website of the University College London (UCL).

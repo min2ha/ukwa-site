@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Pint of Science: Ebola-Fighting the Outbreak
-
 Website for festival aiming to deliver interesting and fun talks about current scientific research while drinking in a pub.

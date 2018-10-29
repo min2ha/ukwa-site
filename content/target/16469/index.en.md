@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron meets Barack Obama: are British voters impressed?
-
 None

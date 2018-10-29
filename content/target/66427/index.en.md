@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# Smart Metering Systems plc
-
 Smart Metering Systems Plc connects, owns, operates, and maintains metering systems and databases on behalf of energy companies in the United Kingdom, Italy, and the Caribbean. The Glasgow-based company was formerly known as UK Smart Metering Group Limited and changed its name in 2011.

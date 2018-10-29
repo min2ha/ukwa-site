@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Seed Parade Gardening Forum
-
 An online enthusiast community concerned with gardening. Discusses vegetables plots, herb gardens, fruit growing, flower beds and various other related topics.

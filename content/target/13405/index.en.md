@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Gordon Macdonald MSP (GMacdonaldMSP) on Twitter
-
 The twitter profile of Gordon Macdonald, the Scottish National Party Member of the Scottish Parliament for Edinburgh Pentlands.

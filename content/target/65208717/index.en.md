@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Owen Smith (Labour candidate for Pontypridd)
-
 Owen Smith stood as Labour candidate for Pontypridd at the 2015 general election and was elected to serve as MP. He was first elected MP for Pontypridd in 2010 and re-elected in 2015 and 2017. He unsuccessfully challenged Jeremy Corbyn for the Labour leadership in 2016. 

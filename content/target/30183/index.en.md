@@ -10,6 +10,4 @@
   "start_date": "2015-10-17T10:00:00Z"
 }
 
-# Hands Up for Trad
-
 Hands Up for Trad organises educational projects and events to increase the profile and visibility of Scottish Traditional Music.

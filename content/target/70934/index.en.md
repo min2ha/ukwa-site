@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Focus Shift Films
-
 Focus Shift Films is a Film and Video Production Company based in south Wales.

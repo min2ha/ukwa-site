@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Lodge McLaren No. 1688
-
 Site of a masonic lodge located in East Kilbride, Lanarkshire and affiliated with the Grand Lodge of Scotland.

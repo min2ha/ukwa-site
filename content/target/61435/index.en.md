@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Safer Internet Day 2018: How To Ensure Social Media Has A Positive Effect On Your Child's Mental Health
-
 News article written to coincide with Safer Internet Day 2018. It outlines some findings from research and reports and also offers advice for parents to safeguard their children

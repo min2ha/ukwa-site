@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Bird (Conservative)
-
 James Bird stood as Conservative candidate for Birmingham, Hall Green at the 2015 General Election but was not elected. 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Mathematics in Cambridge | Faculty of Mathematics
-
 We carry out research of world class excellence spanning topics in Pure Mathematics and Statistics (at DPMMS), and Applied Mathematics and Theoretical Physics (at DAMTP).

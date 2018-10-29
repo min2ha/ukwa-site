@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Through humility and understanding, we can still stop Brexit
-

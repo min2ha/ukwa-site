@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# jason mclellan (@jason_mclellan)  on Twitter (Labour candidate for North Wales) 
-
 Jason Mclellan is the Labour candidate for North Wales at the 2016 National Assembly Elections. 

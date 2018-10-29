@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Grampian Women’s Aid
-
 Grampian Women’s Aid offers a free, confidential and non-judgemental service to women, children and young people in Aberdeen and Aberdeenshire who have experienced domestic abuse.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Sir John Major warns Labour government propped up by the SNP will 'tear our nation apart' as Sturgeon boasts: I'll be plotting to put Miliband in No 10 on Friday 
-
 None

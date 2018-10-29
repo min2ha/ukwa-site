@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Teacher Support Network Group: Education Manifesto 2015-2020
-
 Teacher Support Network is an organisation helping teachers. It started as the Teachers’ Benevolent Fund in 2015 it was re-branded as the Education Support Partnership and changed its website.

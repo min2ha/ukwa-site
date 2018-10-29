@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# USM (United Services Mess) Cardiff
-
 USM Cardiff was established in 1909 by Senior NCOs from Maindy Barracks. Membership now totals 500.

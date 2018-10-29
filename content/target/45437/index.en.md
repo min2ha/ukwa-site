@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# British Candlemakers Federation
-
 The British Candlemakers Federation (BCF) represents UK candle manufacturers and their suppliers.

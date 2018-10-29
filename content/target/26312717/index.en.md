@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Ian Snowley's blog
-

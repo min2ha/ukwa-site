@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Norwich Labour (@NorwichLabour) on Twitter
-
 Twitter account of Norwich Labour, providing information on campaigns, events, representatives and candidates and local and national news updates.

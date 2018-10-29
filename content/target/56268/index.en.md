@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Tensions flare in cabinet over post-Brexit free movement
-

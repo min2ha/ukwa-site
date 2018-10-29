@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Snaith & Cowick Together
-
 Snaith and Cowick Together is a Regeneration Partnership formed to work towards improving the environment, facilities and strength of community within Snaith, East Cowick and West Cowick in the East Riding of Yorkshire.

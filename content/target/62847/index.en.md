@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Community Links: Social Media and Mental Health article
-
 Community Links charity article

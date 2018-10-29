@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bristol Anti-Fascists
-
 News and information on the fight against fascism and the far-right in Bristol and beyond

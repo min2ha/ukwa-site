@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Blantyre SNP (@BlantyreSNP) on Twitter
-
 Twitter profile of the Blantyre branch of the Scottish National Party (SNP).

@@ -10,6 +10,4 @@
   "start_date": "2006-04-03T00:00:00Z"
 }
 
-# Ivan the Slug
-
 None

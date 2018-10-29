@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# No Scotland vote for United Kingdom
-
 None

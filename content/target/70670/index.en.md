@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Non-League for Grenfell Movement (@nonlge4grenfell) on Twitter
-
 A non-league football movement dedicated to driving social change. We stand united in solidarity with those affected by the Grenfell Disaster. 

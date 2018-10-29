@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Golden Fable 
-
 Golden Fable are a band from Mold and are supported by the Arts Council of Wales. The band play lo-fi, folk-tinged pop.

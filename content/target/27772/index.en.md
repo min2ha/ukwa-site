@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Magna Carta will return to people of Sandwich, town council confirms
-

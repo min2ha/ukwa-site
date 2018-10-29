@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Action on Smoking & Health (Scotland) (ASH Scotland)
-
 Site of a charity and campaign aiming for a healthier Scotland, free from the harm and inequality caused by tobacco, and to reduce the harm caused by tobacco.

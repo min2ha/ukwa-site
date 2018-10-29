@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Kettle Produce Limited
-
 The website of Kettle Produce Limited, a vegetable production company based in Cupar, Scotland. 

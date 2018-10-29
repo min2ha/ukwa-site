@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# I Beatrice. The Novel as Blog; an Online Experiment
-
 None

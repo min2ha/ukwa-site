@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kello Rovers Football Club
-
 Site for a Scottish junior football club based in Kirkconnel, Dumfries & Galloway

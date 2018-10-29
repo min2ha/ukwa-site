@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Outer London Commission
-
 The Outer London Commission (OLC) was established by the Mayor of London to advise how Outer London can play its full part in the city’s economic success.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Puddletown RFC on Pitchero
-
 The official website of Puddletown Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Kudos
-
 Kudos was developed to help researchers ensure their publications get found, read and cited in a world of information overload. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Praetorian guard' plan to save Cameron from being unseated after election
-
 None

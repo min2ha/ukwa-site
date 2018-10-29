@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Enemies of the State: The Easter Rising and Irish Detainees in Reading Prison
-
 Blog about the history project of the University of Reading in cooperation with Berkshire Record Office

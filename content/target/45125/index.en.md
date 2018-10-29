@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Strathallan Independent School: Strathallan swimming coach reflects on Duncan Scott’s journey to Rio
-

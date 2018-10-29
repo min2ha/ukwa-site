@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Windrush: Songs in a Strange Land: British Library exhibtion 2018
-
 Songs in a Strange Land

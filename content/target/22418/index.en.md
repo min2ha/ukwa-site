@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Migrants who won't learn English to be stripped of housing benefits under Tories
-
 None

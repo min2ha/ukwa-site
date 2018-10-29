@@ -10,6 +10,4 @@
   "start_date": "2011-06-28T00:00:00Z"
 }
 
-# Nottinghamshire Deaf Society
-
 The Community Centre run by the Society provides a 'deaf friendily' space where deaf people can meet, socialise, participate in a range of valuable activities, and access specialist services and advice.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Coatbridge Middle Parish Church
-

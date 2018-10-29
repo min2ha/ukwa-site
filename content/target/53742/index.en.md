@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Derbyshire Areas: Our Candidates 
-
 Candidates standing in the 2017 General Election for the UK Independence Party (UKIP).

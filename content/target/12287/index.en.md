@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah Barnes – Mountain Bike Racer
-
 <p>The website of mountain biker Hannah Barnes, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

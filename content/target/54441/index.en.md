@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Plaid Cymru Clwyd (@PlaidClwyd) on Twitter 
-

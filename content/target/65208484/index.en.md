@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Wales Coast Path | Llwybr Arfordir Cymru
-
 <p>The Wales Coast Path was opened 2012, as the world's first coastal path to cover an entire country. It is managed by Natural Resources Wales.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Budget 2015: 50 cuts this Tory-led coalition have made 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Ross Collins
-
 Site of a Scottish author and illustrator of children's books.

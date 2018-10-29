@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# norwich blog | Photos and reviews by Richard Shashamane
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Ernst & Young (EY): Exploring UK gender pay gap data
-
 A tool developed by Ernst & Young (EY)

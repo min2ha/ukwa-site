@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Lodge Rothes No. 532
-
 Site of a masonic lodge located in Leslie, near Glenrothes, Fife and affiliated with the Grand Lodge of Scotland.

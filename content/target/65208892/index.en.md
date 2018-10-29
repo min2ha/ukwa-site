@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Low-Tide Lottery
-
 None

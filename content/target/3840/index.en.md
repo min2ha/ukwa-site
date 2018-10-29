@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Sky News
-
 Sky News delivers breaking news, headlines and top stories from business, politics, entertainment and more in the UK and worldwide.

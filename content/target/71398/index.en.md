@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Earth Love
-
 Site of a poetry magazine with an ethical interest in the environment.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Liam Fox Conservative Leadership Campaign Website
-
 Liam Fox presents his case for election as leader of the Conservative Party in July 2016

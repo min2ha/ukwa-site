@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# The Society of Ornamental Turners (SOT)
-
 he Society of Ornamental Turners exists to encourage, develop and promote the study and practice of the art of ornamental turning. 

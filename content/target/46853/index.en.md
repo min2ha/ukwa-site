@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Creative Industries Federation
-
 The Creative Industries Federation is the national membership organisation bringing together all of the UK’s arts, creative industries and cultural education to provide an authoritative and united voice.

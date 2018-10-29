@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls speaks with a 'forked tongue', says David Cameron
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Future of the UK and Scotland: Scotland's decision 16 questions to think about for the referendum on 18 September
-
 <p>E-Book (edited by Charlie Jeffery and Ray Perman) produced by The Future of the UK and Scotland programme. The book is aimed at undecided voters and published at the start of August 2014.</p>

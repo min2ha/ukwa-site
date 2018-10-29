@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cambridgeshire Community Services NHS Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# British School at Athens
-
 Official website of the British School at Athens.

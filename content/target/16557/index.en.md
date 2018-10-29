@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: All bar the Tories want constitutional reform. Another reason to keep them out
-
 None

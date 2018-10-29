@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Friends of Herne Bay Clock Tower
-
 Herne Bay Clock Tower was built in 1837. It remains an iconic structure on Herne Bay seafront. Friends of Herne Bay Clock Tower was formed to help promote and conserve the tower for future generations. Friends of Herne Bay Clock Tower organised workshops, activities, events and a new clock tower shop.

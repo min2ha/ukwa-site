@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Sister Supporter
-
 A UK pro-choice direct action group campaigning for reproductive rights. Based in Ealing, London but fighting for harassment-free abortion access nationally.

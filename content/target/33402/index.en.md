@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Institute of Science and Technology (IST), The 
-
 The Institute of Science and Technology (IST) provides individual and focused professional support to a wide group of specialist, technical, and managerial colleagues in a broad range of environments.

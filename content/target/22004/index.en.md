@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Phil Simpson (@HarborneGreen) on Twitter (Green Party candidate for Birmingham Edgbaston)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Hobbit star Martin Freeman appears in Labour election broadcast
-
 None

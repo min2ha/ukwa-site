@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Vision
-
 Consultants base din Cornwall offering advice to businesses on the impacts of climate change.

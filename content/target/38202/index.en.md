@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Camden Leave (@CamdenOut) on Twitter
-
 Campaigning in the London Borough of Camden for a Leave vote in the EU referendum

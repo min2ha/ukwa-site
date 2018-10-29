@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6th December 2017: Prime Minister's Questions
-
 The Prime Minister answers questions on the progress of the Brexit negoriations, following the breakdown of talks over the question of the Irish border.

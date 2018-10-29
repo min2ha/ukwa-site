@@ -10,6 +10,4 @@
   "start_date": "2010-12-21T00:00:00Z"
 }
 
-# PUMPA - Purine Metabolic Patients Association
-
 PUMPA is a charity set up to provide information and support for, and to encourage research into, a group of genetic metabolic purine and pyrimidine disorders. 

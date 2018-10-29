@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Cinematic Wales
-
 Cinematic is headed by the Film Agency for Wales and provides support for Welsh directors, writers and producers to successfully bring a feature film to the screen. 

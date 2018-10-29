@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Cedar Wales
-
 Cedar is an NHS-academic evaluation centre and supports decision making in healthcare. It is part of Cardiff and Vale University Local Health Board (UHB) and Cardiff University and was established in 1977 to evaluate medical devices.

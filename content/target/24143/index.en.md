@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Cameron's next big task is to turn his one nation into a reality
-
 None

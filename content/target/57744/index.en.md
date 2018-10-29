@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Birding UK and Ireland Forum
-
 An online enthusiast community concerned with bird watching. Discusses bird identification, bird watching locations, environmental issues and campaigns, bird watching equipment, bird photography and various other topics.

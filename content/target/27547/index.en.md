@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: ITV leaders' debate: Who is Leanne Wood, who are Plaid Cymru and what do they stand for?
-
 None

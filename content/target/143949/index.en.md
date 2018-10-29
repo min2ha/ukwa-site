@@ -10,6 +10,4 @@
   "start_date": "2007-04-23T00:00:00Z"
 }
 
-# From Clydesdale, for Clydesdale: Colin McGavigan
-
 None

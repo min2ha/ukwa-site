@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# South Wales Police Authority
-
 None

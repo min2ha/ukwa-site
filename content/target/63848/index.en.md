@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# The Purcell School for Young Musicians
-
 The Purcell School is a specialist Music School for young musicians aged 9 to 18 based in Bushey on the outskirts of London.

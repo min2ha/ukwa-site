@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: Mutual Misunderstandings Risk Compounding the UK−EU Split
-
 Mapping out a constructive new UK−EU relationship is crucial. But the opportunity to achieve this will be missed if leaders on both sides fail to recognize and work through some longstanding grievances first. A deep and mutual incomprehension divides many of Britain’s leaders from their European counterparts – and it risks compounding the UK−EU split.

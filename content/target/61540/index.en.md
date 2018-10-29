@@ -10,6 +10,4 @@
   "start_date": "2018-02-23T09:00:00Z"
 }
 
-# ANGUSalive
-
 Site of the culture, sport and leisure trust for the county of Angus, responsible for operatng libraries, museums, galleries and archives, sport and leisure, countryside adventure, and theatres and venues on behalf of the Angus Council.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Rio 2016: Thousands of Olympic volunteers quit over 'long hours and lack of food'
-
 Only 35,000 of the Games' 50,000 volunteers are reportedly continuing to turn up to their shifts.

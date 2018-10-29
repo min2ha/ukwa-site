@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Third of women voters undecided, suggests TNS/BBC poll
-
 None

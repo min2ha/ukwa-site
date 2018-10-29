@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Football History Boys
-
 The Football History Boys blogs about football history.

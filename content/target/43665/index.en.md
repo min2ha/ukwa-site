@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Farming Online: Opinion Poll
-
 Opinion poll run by Farming Online

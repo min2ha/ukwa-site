@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election: Students will pay higher tuition fees if Tories get in 
-
 None

@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Green-Tide Turbines Ltd
-

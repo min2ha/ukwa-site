@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Mod Inbhir Nis 2014 on Facebook
-

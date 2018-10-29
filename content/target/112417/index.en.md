@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Alquds Newspaper
-

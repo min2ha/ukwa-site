@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Association of Women's Clubs (NAWC)
-
 None

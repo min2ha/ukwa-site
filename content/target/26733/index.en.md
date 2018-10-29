@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100 : The Lib Dems could change their name
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Clyde Ringing Group
-
 A bird ringing group which operates over the area of the former Strathclyde region.

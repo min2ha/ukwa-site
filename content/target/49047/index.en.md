@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# MI-Cym! Mesurau Iechyd Cymraeg or Welsh Language Health Measures
-
 MI-Cym! (Mesurau Iechyd Cymraeg or Welsh Language Health Measures) is a 'interactive web-site provides easy access for researchers and practitioners across Wales to up to date information on health measures available in Welsh. It also enables those of you who are involved in the translation of health measures to share information'. It is based at Bangor University and funded by the National Institute for Social Care and Health Research (NISCHR), Welsh Government.

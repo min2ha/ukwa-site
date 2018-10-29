@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Swansea Arts Resource (Art Tawe)
-
 <p>This is a directory and what's on guide to art in Swansea.</p>

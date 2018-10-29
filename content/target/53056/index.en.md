@@ -10,6 +10,4 @@
   "start_date": "2017-05-11T09:00:00Z"
 }
 
-# Plaid Alyn and Deeside
-
 Blog by Shane Brennan, Plaid Cymru candidate for Alyn and Deeside.

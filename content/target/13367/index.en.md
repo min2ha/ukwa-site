@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Don't Back the Bid!
-
 <p>Blog opposed to Glasgow's bid to host the XX Commonwealth Games.</p>

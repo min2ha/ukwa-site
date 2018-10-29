@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Inspired Selection
-
 Founded in 1999, Inspired Selection is the leading publishing recruitment agency – we are passionate about helping the publishing industry around the world to find the right people for their teams.

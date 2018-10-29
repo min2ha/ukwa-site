@@ -10,6 +10,4 @@
   "start_date": "2018-01-11T09:00:00Z"
 }
 
-# Angela Hoppe Kingston
-
 Angela Hoppe Kingston is a is a member of the Welsh Group and the Royal Watercolour Society of Wales. Her main interest is the natural world based on inspiration from her surroundings- plants growing and their relation to place.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wilts & Gloucestershire Standard
-
 None

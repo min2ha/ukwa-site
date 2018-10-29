@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Cabinet Office (@cabinetofficeuk) on Twitter
-
 The centre of the UK government. We support the Prime Minister and make sure the government runs effectively.

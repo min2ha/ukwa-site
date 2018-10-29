@@ -10,5 +10,3 @@
   "start_date": "2014-09-13T04:00:00Z"
 }
 
-# Fielding and Platt History - Memories of Gloucester's great engineering firm
-

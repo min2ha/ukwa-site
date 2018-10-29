@@ -10,6 +10,4 @@
   "start_date": "2016-08-02T11:00:00Z"
 }
 
-# ClannGàidhlig | Promoting & Developing Gaelic in West Central Scotland
-
 A hub for promotion and development of Gaelic across East Renfrewshire, Inverclyde and Renfrewshire

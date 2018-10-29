@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Men's lives are being ruined by pornography. So why aren't we angry about it?
-
 News article referring to the most comprehensive study into the affects of pornography on mental health

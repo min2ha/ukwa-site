@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Millions of home owners to receive letter this week from British businessman persuading them to back 'Brexit'
-

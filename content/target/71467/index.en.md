@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Shields RFC on Pitchero
-
 The official website of North Shields Rugby Football Club. NSRFC is a friendly club based in North Tyneside, 7 miles from Newcastle-upon-Tyne and only 2 miles from the North East Coast. Est. 1922.

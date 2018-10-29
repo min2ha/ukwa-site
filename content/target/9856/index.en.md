@@ -10,6 +10,4 @@
   "start_date": "2014-04-04T22:15:00Z"
 }
 
-# Queen Elizabeth Olympic Park
-
 None

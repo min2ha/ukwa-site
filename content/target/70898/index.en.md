@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stockwood Park RFC
-
 The official website of Stockwood Park Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# W.R.C. Barnes
-
 A personal blog that covers a number of topics.

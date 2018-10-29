@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greater Manchester West Mental Health
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Buckie Rovers on Facebook
-
 Facebook page for a Scottish junior football club based in Buckie, Moray, Scotland

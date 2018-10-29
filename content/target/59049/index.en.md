@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# TVConwy
-
 TVConwy is a community OTT video platform focusing on the Conwy area which began in 2013.

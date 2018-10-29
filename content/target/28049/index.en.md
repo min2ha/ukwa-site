@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Nottingham Comedy Festival
-
 Website for the Nottingham Comedy Festival, which started in 2009, and takes place in the autumn in Nottingham, UK.

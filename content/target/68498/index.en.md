@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Kathleen Stock (@kathleenstock) on Medium
-
 A feminist writer.

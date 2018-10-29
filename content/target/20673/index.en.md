@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Yeats : Scottish Greens on Facebook
-
 The Facebook page for Dan Yeats, Scottish Greens Parliamentary candidate for Aberdeen South in the UK General Election, 7th May 2015 and list candidate for North East Scotland in the 2016 Scottish Parliamentary election.

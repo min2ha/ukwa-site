@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Another Angry Voice: How David Mitchell and Richard Dawkins are wrong about the EU referendum 
-
 An independent Yorkshire blogger, Thomas G. Clark, on the criticisms of public involvement in the Brexit campaign

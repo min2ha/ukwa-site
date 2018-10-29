@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain must continue to let in thousands of migrant workers if it wants access to the single market, May is warned as she comes face-to-face with EU leaders for first time 
-
 Hostile EU leaders have warned Theresa May that Britain must continue to let in hundreds of thousands of migrant workers every year if it wants access to the single market at the October 2016 meeting of the European Council. As she attended her first EU summit, the Prime Minister faced a barrage of demands from Eurocrats determined to preserve rules on free movement.
 
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Porn websites will be blocked unless they introduce age controls, Tories say
-
 None

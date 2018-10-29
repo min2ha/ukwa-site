@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Limiting time online 'won't protect children'
-
 News article detailing the findings of the Education Policy Institute study that found children who spent a long time on the internet were more likely to have mental health problems but that restricting online time would result in less skills to mitigate against online factors that could increase mental illness

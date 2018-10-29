@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Deek Jackson (@deekjackson) on Twitter, Land Party, Witney
-

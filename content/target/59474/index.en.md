@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Midland Rocketry Forum
-
 An online enthusiast community concerned with model rocketry. Discusses hybrid rockets. rocket projects, competitions, rocket launch meetings and various other related topics.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Hands Up - Support for good
-
 None

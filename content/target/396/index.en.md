@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Merton Health and Wellbeing Board
-

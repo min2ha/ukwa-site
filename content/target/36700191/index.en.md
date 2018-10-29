@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Volunteer Cornwal
-
 None

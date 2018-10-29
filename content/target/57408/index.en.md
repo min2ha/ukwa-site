@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Ogwen Mountaineering Festival
-
 A festival which celebrates the best in mountaineering and the outdoors whilst maintaining local community links.

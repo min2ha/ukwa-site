@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Pilling (PillingCraig) on Twitter
-
 <p>The twitter profile of wrestler Craig Pilling, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

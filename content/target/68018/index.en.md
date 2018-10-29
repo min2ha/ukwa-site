@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# All Points East
-
 Website for the All Points East festival

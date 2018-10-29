@@ -10,6 +10,4 @@
   "start_date": "2016-08-18T11:00:00Z"
 }
 
-# Tête-à-tête Foto
-
 Site of a commercial photography organisation, based in Edinburgh.

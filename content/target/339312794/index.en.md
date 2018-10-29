@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# History of Quoits in Wales
-
 The sites covers the 'History of Quoits in Wales' as well as details of current activities of the Welsh Quoit Association.

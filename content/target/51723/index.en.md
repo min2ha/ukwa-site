@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bala Evangelical Church | Eglwys Efengylaidd Bala
-

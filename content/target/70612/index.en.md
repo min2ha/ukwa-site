@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Angie Parker Textiles
-
 Angie Parker is an award winning weaver of rugs and exquisite, vibrant textiles derived from traditional Scandinavian rug weaving techniques.

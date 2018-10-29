@@ -156,6 +156,4 @@
   "endDateText": ""
 }
 
-# Cornwall
-
 This collection of websites focuses on Cornwall, the most south westerly county in the UK. It is intended to reflect a wide range of related issues such as economy, environment, culture, language, tourism and campaigning groups such as the self governing movement. The collection is ongoing..

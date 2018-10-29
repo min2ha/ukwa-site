@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Institution of Structural Engineers, The: James Sutherland History Lecture - 125 Years of Steel Bridges in Britain - 2015
-

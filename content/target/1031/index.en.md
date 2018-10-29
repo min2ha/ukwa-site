@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# e-bug Learning Resource
-
 None

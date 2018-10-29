@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James MacKessack-Leitch on Facebook
-
 This is the Facebook page of James MacKessack-Leitch, the Scottish Green Party candidate for Moray in the UK General Election on the 7th May 2015.

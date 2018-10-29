@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# victory2Corbyn (@blacbloc) on Twitter
-
 A campaign page to support Jeremy Corbyn in the 2017 General Election.

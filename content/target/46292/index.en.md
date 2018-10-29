@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Citizens in the UK: Steps You Can Take to Protect Your Right to Remain in the UK
-
 Advice on how EU, EEA and Swiss citizens living in the UK (and their family members) who wish to remain in the UK can acquire permanent residency in the UK and/or naturalisation in wake of the EU Referendum result.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Women in Sport (SWS)
-
 An independent charity formed in 2013 focused on raising the profile of Scottish Women In Sport

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The SNP could never hold a Labour government to ransom – and here’s why
-
 None

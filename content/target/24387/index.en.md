@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Wales NHS 'tissue of lies' accusation by minister
-
 None

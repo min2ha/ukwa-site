@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Nottinghamshire County: twitter
-
 None

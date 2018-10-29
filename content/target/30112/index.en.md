@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bòrd na Gàidhlig (@bordnagaidhlig1) on Twitter
-
 Bòrd na Gàidhlig works to promote Gaelic and strives to improve the status of the language throughout Scotland. This is its official Twitter profile.

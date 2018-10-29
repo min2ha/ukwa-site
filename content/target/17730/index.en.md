@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Natalie Bennett: Green Party's biggest ever campaign skids before it starts as she suffers 'mental brain fade'
-
 None

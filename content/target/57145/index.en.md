@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Bernews: Bermuda's 24/7 News Source
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Iomairt Ghàidhlig Ghlaschu - Baile Mòr na Gàidhlig
-
 Iomairt Ghàidhlig Ghlaschu (Glasgow Gaelic Initiative) is a community partnership with membership from those interested in Gaelic.

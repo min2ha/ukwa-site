@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Radcliffe on Trent and the First World War
-
 A website based on HLF funded research since 2013 by U3A volunteers researching the impact of WW1 on Radcliffe on Trent, Notts. Following a large centenary exhibition in 2014, website team have brought together 370 servicemen biographies, a Roll of Honour of those who served, analysis of names on memorial, biographies of local women and their changing roles, letters to the village from the front, illustrated discussion of history of Radcliffe Memorial Park, walks round the village in 2014, project work with the loal junior school and much more. 

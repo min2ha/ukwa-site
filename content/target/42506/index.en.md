@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# 10 ways to celebrate The Queen's 90th Birthday
-
 A list of the top ten places to enjoy afternoon tea to celebrate the Queens birthday.

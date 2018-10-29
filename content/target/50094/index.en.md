@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hill of Beath Hawthorn Junior Football Club
-
 Site for a Scottish junior football club based in Hill of Beath, Fife.

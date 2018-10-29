@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The: https://www.theguardian.com/lifeandstyle/2015/jun/16/fathers-need-support-to-spend-more-time-on-children-and-chores-report
-
 An article about parenting equality

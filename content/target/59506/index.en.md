@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Evening Standard: Sadiq Khan: If Northern Ireland stays in single market, why can't London?
-
 Sadiq Khan has called for London to be given a similar deal to the one proposed for Northern Ireland that would allow the city to stay in the single market and customs union after Brexit.

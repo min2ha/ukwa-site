@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Heriot-Watt Students' Union
-
 Site of the Students Union of Heriot-Watt University, Edinburgh, Scotland, providing information on advice, support, social and leisure at the University's campuses in Edinburgh, Galashiels and Orkney. 

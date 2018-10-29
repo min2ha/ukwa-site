@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Pam Duncan-Glancy (@PamDuncanUK) on Twitter
-
 Twitter profile of Pam Duncan-Glancy, Scottish Labour candidate for Glasgow North in the 2017 general election.

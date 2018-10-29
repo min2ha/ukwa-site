@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kirkcudbright County
-
 Family and local history site, focusing on Kirkcudbright, Scotland

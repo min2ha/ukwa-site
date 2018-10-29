@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julie Colbran (@Juliecolbran) on Twitter (Green Party candidate for Merthyr Tydfil and Rhymney)
-
 Julie Colbran is the Green Party candidate for Merthyr Tydfil and Rhymney at the 2016 National Assembly Elections.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Finding our First World War
-
 Project that will use IWM’s unparalleled collections to enrich teaching and learning about the First World War (FWW). 

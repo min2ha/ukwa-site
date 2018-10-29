@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ken Rustidge (@KRustidge) on Twitter (Labour  Politician)
-
 Ken Rustidge stood as Labour Party candidate for North East Cambridgeshire in the 2017 General Election but was not elected.

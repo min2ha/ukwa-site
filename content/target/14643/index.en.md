@@ -10,6 +10,4 @@
   "start_date": "2014-11-23T06:00:00Z"
 }
 
-# British Cardiovascular Society 
-
 The British Cardiovascular Society (BCS) was founded in 1922 and aims to support and represent all those working in the fields of cardiovascular care and research.

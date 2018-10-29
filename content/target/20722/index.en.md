@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Monaghan on Facebook
-
 This is the Facebook page of Paul Monaghan, the Scottish National Party (SNP) candidate for Caithness, Sutherland and Easter Ross in the UK General Election on the 7th May 2015.

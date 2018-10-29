@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Butterflies
-
 An online enthusiast community concerned with butterfly watching. Discusses competitions, conservation, field trips & events, identification and various other related topics. 

@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T08:00:00Z"
 }
 
-# Llanw+
-
 Llanw is a festival that brings Christians throughout Wales together in order to celebrate and deepen our relationship with the living God. 

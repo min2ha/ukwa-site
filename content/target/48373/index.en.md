@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 8th Dec. 2016: Brexit: Armed Forces and Diplomatic Service
-
 The Lords debate the implications of Brexit for the UK's armed forces and diplomatic service.

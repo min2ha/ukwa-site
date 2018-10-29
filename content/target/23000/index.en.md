@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Captain Beany on Facebook (Independent candidate for Aberavon)
-

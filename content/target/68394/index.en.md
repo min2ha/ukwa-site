@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Financial Stability Report -June 2018
-
 The biggest remaining risks of disruption after Brexit are where action is needed by both UK and EU authorities, such as ensuring the continuity of existing derivative contracts. As yet the EU has not indicated a solution analogous to a temporary permissions regime.

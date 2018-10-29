@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Register, The 
-
 Independent news, views, opinions and reviews on the latest in the IT industry. 

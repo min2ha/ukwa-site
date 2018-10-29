@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Random Accomplice
-
 <p>Theatre company Random Accomplice present a satirical round up of events at the Commonwealth Games, set in the fictional “Tartan Tonight” newsroom at the Arches Theatre, Glasgow. Part of the Glasgow 2014 Cultural Programme.</p>

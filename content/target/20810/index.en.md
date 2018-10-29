@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Patrick Grady on Facebook
-
 This is the Facebook page of Patrick Grady, the Scottish National Party (SNP) candidate for Glasgow North in the UK General Election on the 7th May 2015.

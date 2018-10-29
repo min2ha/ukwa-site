@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# American Friends of St Davids Cathedral, The
-

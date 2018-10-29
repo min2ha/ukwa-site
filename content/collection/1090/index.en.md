@@ -226,5 +226,3 @@
   "endDateText": ""
 }
 
-# British Overseas Territories
-

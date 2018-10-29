@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Church Leaders' Forum (NCLF)
-
 The National Church Leaders Forum (NCLF) aims to serve African and Caribbean churches by representing this constituency to government and policy makers, as well as acting as a conduit for information dissemination and advocacy.

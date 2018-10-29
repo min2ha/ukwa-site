@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Andy Wightman (@andywightman) on Twitter
-
 The Twitter profile of Andy Wightman, Scottish Green Party MSP for Lothian.

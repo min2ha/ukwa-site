@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Taunton Rugby Football Club on Pitchero
-
 The official website of Taunton Rugby Football Club  and the Titans.

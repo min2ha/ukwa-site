@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Edinburgh & Lothians Health Foundation
-
 Site of an organisation aiming to improve the physical and mental health of the people of Scotland, particularly those in Edinburgh and the Lothians, and providing funding / grants supporting projects and initiatives.

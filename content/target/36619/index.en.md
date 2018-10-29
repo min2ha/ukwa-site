@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Springwell Dene remembers those of our local community who served in WW1.
-
 Project enabling a week long residential trip to the WW1 battlefields of Northern France by students with special educational needs of Springwell Dene School.

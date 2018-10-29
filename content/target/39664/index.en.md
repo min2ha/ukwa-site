@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Shetland Museum & Archives
-
 Site of the archives and museums service of Shetland, Scotland.

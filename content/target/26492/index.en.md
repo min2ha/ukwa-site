@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tory Leader's Group donor club: 'A chance for like-minded people to talk'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# David Jones (@DavidJonesMP) on Twitter 
-
 Conservative MP for Clwyd West and Minister of State for Exiting the European Union. 

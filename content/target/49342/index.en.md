@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Abergavenny Festival of Cycling
-

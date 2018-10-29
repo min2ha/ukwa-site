@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Voluntary Action Merthyr Tydfil (VAMT) News
-
 VAMT News provides the latest Third Sector news and developments from across Merthyr Tydfil.

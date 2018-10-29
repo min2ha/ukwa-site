@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Buckingham Conservatives
-
 The website of Buckingham Conservatives describes the constituency and the activities of the association, including events. It lists Conservative councillors and gives some information about the local Conservative MP, John Bercow.

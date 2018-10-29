@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Dennis Publishing Ltd.
-
 Publisher of lifestyle, automotive, technology and current affairs magazines and websites.

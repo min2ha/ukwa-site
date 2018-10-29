@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hartlepool Health and Wellbeing Board
-
 None

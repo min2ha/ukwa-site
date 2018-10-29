@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Telegraph, The: Nelson Mandela's grandson: burial row is 'baffling' and 'a deep disappointment'
-
 None

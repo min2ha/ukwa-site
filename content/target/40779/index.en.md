@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# American Civil War Living History with the The Southern Skirmish Association
-
 The Southern Skirmish Association  was first inaugurated in June 1968 by a group of keen American Civil War enthusiasts and we are extremely proud of our continuous history as the longest established American Civil War Re-enactment and Living History Society in the United Kingdom.

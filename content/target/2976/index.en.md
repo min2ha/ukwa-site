@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# VisitBritain
-
 <p>Tourist information website for visitors to Great Britain.</p>

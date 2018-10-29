@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Valleys Family Church, Blaenau Gwent 
-

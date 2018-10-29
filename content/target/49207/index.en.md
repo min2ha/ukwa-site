@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Biodynamic Association
-
 Founded in 1924, Biodynamic farming is the oldest 'green' farming movement, and forerunner of organics. All biodynamic farmers and growers practice organic methods of cultivation, are against genetic modification (GM), and share its ideals, but there are important differences. Biodynamics has metaphysical and spiritual roots that organics does not. Biodynamics thus embraces the mystery of all life processes, including the subtle and energetic realities that are not necessarily easy to measure or justify using current scientific methods.

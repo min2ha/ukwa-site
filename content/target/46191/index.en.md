@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain, get real: Brexit means whatever the EU says it means
-

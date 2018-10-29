@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sound Waves
-
 Site of a Scottish charitable organisation that organises Mull Musical Festival and Mull Music Makers, a community project encouraging music opportunities for children on the island.

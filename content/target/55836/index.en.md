@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Tony Blair Institute for Global Change: Brexit and the centre
-
 The 2017 general election result should enable a fundamental re-appraisal of Brexit. Large numbers of people voted to stop a Hard Brexit and rejected explicitly the mandate Theresa May was demanding. The UK's leaders should at least lead a proper debate about the options before us, including that of remaining in the EU.
 
 

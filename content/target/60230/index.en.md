@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Labour Press Team (@labourpress) on Twitter
-
 The UK Labour Party's press team on Twitter.

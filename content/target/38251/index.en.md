@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Football Fans 4 EU (@Fans4EU) on Twitter
-
 Cross-party, grassroots organisations of football fans campaigning for the UK to stay in the EU

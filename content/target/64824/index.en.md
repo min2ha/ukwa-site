@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Barry Ladies Choir
-
 The Barry Ladies Choir was established in the 1930's. They meet at Crossways Methodist Church, Barry.

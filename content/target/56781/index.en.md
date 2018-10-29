@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Scotland’s National Action Plan for Human Rights (SNAP)
-

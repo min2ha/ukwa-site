@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# David Stewart (DavidStewartMSP) on Twitter
-
 The twitter profile of David Stewart, Scottish Labour Member of the Scottish Parliament for the Highlands and Islands.

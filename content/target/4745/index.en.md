@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Africa Centre, The: Grand Patron, Nelson Mandela 1918 - 2013
-
 None

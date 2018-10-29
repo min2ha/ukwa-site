@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Philip Hammond urges EU to accept Theresa May's Brexit plan
-
 The British chancellor, Philip Hammond, called on Brussels to accept Theresa May’s Brexit blueprint, saying it offers a “fair and sensible” way forward. Hammond said the controversial plan hammered out at Chequers would enable the UK to remain closely connected to the EU economy in a way that worked for both sides. 

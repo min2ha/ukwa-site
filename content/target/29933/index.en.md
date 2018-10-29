@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Assembly Rooms (@ARedinburgh) on Twitter
-
 The Assembly Rooms, a venue owned by Edinburgh City Council.

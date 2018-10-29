@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Academics for Yes (academicsforyes) on Twitter
-
 <p>The twitter profile of Academics for Yes, a campaigning group for Scottish Independence.</p>

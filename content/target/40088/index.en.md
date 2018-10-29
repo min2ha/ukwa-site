@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Bro Garmon | Bro Garmon Community Council
-
 This web-site has been set up by the council to provide information about the work of the council, events in the area, and general information about  Bro Garmon.

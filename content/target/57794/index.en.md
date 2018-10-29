@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Còisir Lunnainn on Twitter
-

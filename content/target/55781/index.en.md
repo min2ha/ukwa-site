@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Campaign for Homosexual Equality
-

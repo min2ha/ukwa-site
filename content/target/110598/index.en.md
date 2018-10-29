@@ -11,5 +11,3 @@
   "subject": "English Language"
 }
 
-# Dialect of Teesside
-

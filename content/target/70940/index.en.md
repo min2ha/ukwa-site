@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Riverside Festival, Chadbury's  free music festival
-
 Website for the Riverside Festival, Chadbury's  free music festival.

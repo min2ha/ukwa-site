@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Buckingham Palace launches official complaint over Sun front page claiming Queen supports Brexit
-

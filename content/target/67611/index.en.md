@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black History Month (@BhmUK) on Twitter
-
 Black History Month is the Official UK guide to the events and people who make every October worth celebrating each year.

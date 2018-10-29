@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The GAA (https://twitter.com/officialgaa/) on Twitter
-
 Gaelic Athletic Association/Cumann Lúthchleas Gael is a 32 county sporting and cultural organisation that has a presence on all 5 continents

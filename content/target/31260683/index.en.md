@@ -10,5 +10,3 @@
   "start_date": "2009-07-01T00:00:00Z"
 }
 
-# Surrogacy Support
-

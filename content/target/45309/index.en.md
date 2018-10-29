@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Women of the World Festival
-
 WOW – Women of the World festival celebrates women and girls, and looks at the obstacles that stop them from achieving their potential.  WOW 2016 is now over. WOW returns 8 - 12 Mar 2017, with day passes going on sale 1 Oct 2016.

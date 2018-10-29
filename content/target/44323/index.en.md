@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Waverley Route Heritage Association
-
 WordPress site of a heritage railway located in the Scottish Borders, its heritage centre at Whitrope and the Border Union Railway.

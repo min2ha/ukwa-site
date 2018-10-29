@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: Impact on the Creative Industries
-
 This Lords Library briefing provides information on the potential impact of leaving the European Union on the creative industries in advance of a debate on January 19th 2017.

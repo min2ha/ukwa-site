@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# A Tale of One City
-
 Project to tell the story of some of the people who took part in WW1 as servicemen and women or civilians using Portsmouth's museum and archive collections in an exhibition.

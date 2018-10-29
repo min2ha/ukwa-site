@@ -10,5 +10,3 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Canolfan Edward Richard | Richard Edward Centre
-

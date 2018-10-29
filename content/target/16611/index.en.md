@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Greens, SNP and Plaid Cymru: why we should be in the leaders' debate
-
 None

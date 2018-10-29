@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Feedback Global
-
 Feedback is an environmental organisation that campaigns to end food waste at every level of the food system. 

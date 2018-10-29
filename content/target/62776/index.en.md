@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stair Parish Church
-
 Site of a Church of Scotland parish church at Stair, Ayrshire.

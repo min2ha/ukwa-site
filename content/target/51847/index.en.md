@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit vote a 'bad decision', says Irish minister
-
 Irish Foreign Minister Charlie Flanagan said Brexit could be "painful" for the UK and his country, which he added should not be "placed in a position of more disadvantage". He also urged negotiators to keep the Common Travel Area between Northern Ireland and the Republic.

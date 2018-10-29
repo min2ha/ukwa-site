@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Speaking Lives
-
 Site of an oral history recording project and business based in Edinburgh, Scotland.

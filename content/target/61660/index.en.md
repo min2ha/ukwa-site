@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: "Facebook should identify children at risk of mental health problems, Jeremy Hunt says"
-
 Telegraph article about Facebook and children at risk of mental health problems

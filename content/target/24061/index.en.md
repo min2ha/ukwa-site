@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election result: How David Cameron's Conservatives won it
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Snowdrops by Starlight
-
 Site of a festival of snowdrops occurring each February at Cambo House, Fife, and featuring illuminated walkways allowing the flowers to be viewed at night.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter and St. Andrew Church Thurso
-
 Site of a Church of Scotland parish church at Thurso, Caithness, Highland.

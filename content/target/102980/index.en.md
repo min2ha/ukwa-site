@@ -11,6 +11,4 @@
   "subject": "G8 Summit 2005"
 }
 
-# Tom Brown (Scotland)
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian,The: EU referendum: why is Sturgeon crying foul over remain campaign?
-
 A blog post comment by Michael White about Nicola Sturgeon's views on the EU referendum

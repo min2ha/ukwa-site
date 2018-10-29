@@ -10,5 +10,3 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Wales Centre of Excellence for Anaerobic Digestion (The AD Centre)
-

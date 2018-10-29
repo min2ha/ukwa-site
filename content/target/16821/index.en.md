@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Enza Ferreri
-
 <p>Blog of London-based Italian journalist Enza Ferreri on politics, society, religion and environment.</p>

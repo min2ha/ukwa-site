@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Drylaw Parish Church of Scotland, Edinburgh
-
 Site of a Church of Scotland parish church at Drylaw, Edinburgh.

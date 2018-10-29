@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Campaign Bootcamp
-
 Bootcamp started as a one off event designed to shake up the campaign sector. Since then it's evolved into an organisation that runs regular campaign trainings for activists from all walks of life.

@@ -10,5 +10,3 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Radio Ceredigion
-

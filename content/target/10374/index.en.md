@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# David Martin, Labour on Facebook
-
 None

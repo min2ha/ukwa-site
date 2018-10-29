@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Houses worth a few hundreds thousand pounds in 1995 'to be hit by mansion tax'
-
 None

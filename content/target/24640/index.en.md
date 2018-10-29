@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BB News: Election 2015: Labour to raise £7.5bn from tax avoiders
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-09-27T09:00:00Z"
 }
 
-# Greene King Pubs (Greene King Brewing & Retailing Ltd.)
-
 Brewer based in Bury St. Edmunds but operating a large chain of pubs nationally. This site is specifically for their pubs.

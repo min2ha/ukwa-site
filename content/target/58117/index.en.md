@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Mhealabhaich facebook / Melvich Gaelic Choir  on Facebook
-
 Facebook page for a Gaelic language choir based in Melvich, Sutherland.

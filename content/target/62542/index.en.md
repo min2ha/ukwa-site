@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester City Supporters Club
-
 The official MCFC supporters club website.

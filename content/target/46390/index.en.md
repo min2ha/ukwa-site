@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Asking4It Productions
-
 Asking4It Productions is a Wales based company making innovative theatre and experimental opera.

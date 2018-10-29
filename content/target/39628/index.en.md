@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Christian Allard SNP on Facebook
-
 Facebook page of Christian Allard, Scottish National Party list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

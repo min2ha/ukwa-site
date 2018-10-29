@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Chepstow Walking Festival
-
 Walking festival in border town of Chepstow

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: Publication of Magna Carta, the Lincoln Story, and news of related events
-

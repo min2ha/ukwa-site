@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# 14 Peaks
-

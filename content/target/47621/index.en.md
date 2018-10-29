@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Tarbat Discovery Centre
-
 Site of a museum and heritage centre located at Portmahomack about the Tarbat peninsula's history and its connections with Picts.

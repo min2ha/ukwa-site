@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glamorgan Gem, The
-

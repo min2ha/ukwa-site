@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mersey Care NHS Trust
-
 None

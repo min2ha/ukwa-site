@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on Labour's funding row: time to step out Tony Blair's shadow
-

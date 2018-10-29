@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Yorkshire Fossil Festival
-
 Enlighten and engage families and young people in the world of Geology and Earth Sciences

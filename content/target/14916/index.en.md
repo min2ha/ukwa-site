@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Birmingham City Centre Neighbourhood Forum
-

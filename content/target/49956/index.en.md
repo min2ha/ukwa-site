@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Lords exposed the government’s hypocrisy over protecting EU citizens
-

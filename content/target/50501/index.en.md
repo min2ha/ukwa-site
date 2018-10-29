@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# UK Playwright Tony Breeze
-
 A UK playwright from Sunderland but currently resides in Nottingham. 

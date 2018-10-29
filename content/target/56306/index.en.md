@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Geldards Law Firm
-
 Geldards provides a wide range of legal services to public bodies in central, devolved and local government across the UK with offices in Cardiff, the Midlands and London.

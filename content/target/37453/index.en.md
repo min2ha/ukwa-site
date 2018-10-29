@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jewish Chronicle Online, The: Israel wants Britain to stay ﬁrmly inside the EU
-
 In off-record conversations with senior Israeli officials, their unofficial position clear: Israel would like to see the UK remaining firmly in the EU.

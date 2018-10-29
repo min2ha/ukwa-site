@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Neurological Alliance: Why We Campaign
-
 A membership organisation that aims to raise awareness and understanding of neurological conditions to ensure that every person diagnosed with a neurological condition has access to high quality, joined up services and information from their first symptoms, throughout their life.

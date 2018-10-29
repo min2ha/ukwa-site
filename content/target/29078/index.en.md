@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bolton Green Party
-
 Website of Bolton Green Party, providing information on party officers, candidates and representatives, campaigns, local and national news and how to get involved.

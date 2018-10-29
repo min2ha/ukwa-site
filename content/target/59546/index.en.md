@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 5th December 2017: EU Exit Negotiations
-
 Responding to an urgent question from Labour in the Commons on Tuesday, Mr Davis defended the controversial proposal for "regulatory alignment" between Northern Ireland and the Republic of Ireland - intended to avoid the need for border checks after Brexit - saying this would apply to the whole of the UK. Labour's Brexit spokesman Sir Keir Starmer said that when the DUP objected to the draft agreement, "fantasy met brutal reality", adding: "The DUP tail is wagging the Tory dog."

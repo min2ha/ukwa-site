@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# FTI Consulting: Brexit in the Boardroom: the View from Business
-
 FTI Consulting surveyed over 2,500 leaders of large businesses in France, Spain, Germany and the UK to better understand how their organisations are reacting to events and planning for Brexit. Overall the survey results seemed to indicate that businesses were feeling relatively confident that the eventual deal struck would be relatively “soft”. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nottinghamshire Health and Wellbeing Board
-
 None

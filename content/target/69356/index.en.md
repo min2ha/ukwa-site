@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Oystermouth Radio
-
 Oystermouth Radio, a Mumbles Development Trust, is a fully licensed online community radio station.

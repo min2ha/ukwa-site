@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Barrhead United Reformed Church
-
 Site of a Scottish United Reformed church located in Barrhead, East Renfrewshire.

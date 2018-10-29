@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Belfast City Council (@belfastcc) on Twitter
-
 Belfast City Council is the local authority with responsibility for part of the city of Belfast, the capital and largest city of Northern Ireland. This is their official Twitter account.

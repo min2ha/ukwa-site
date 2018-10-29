@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# It Gets Brighter
-
 A platform that collects user made video content and features these short video messages of hope from those living with a mental health issue, and those who support them

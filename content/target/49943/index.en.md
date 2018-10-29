@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Your Voice Wrexham | Eich Llais - Wrecsam
-
 Your Voice - Wrexham provides the people of Wrexham an opportunity to have their say and influence local services. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Joseph's RC Church Burntisland 
-
 Site of a Roman Catholic parish church in the Archdiocese of St. Andrews and Edinburgh and located in Burnisland, Fife.

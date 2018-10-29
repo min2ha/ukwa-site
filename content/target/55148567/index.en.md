@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Twenty20 for 2012
-

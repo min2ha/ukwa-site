@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# All we can Methodist relief and development: Ebola emergency appeal
-
 None

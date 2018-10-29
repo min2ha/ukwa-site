@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harpenden Rugby Club
-
 The official website of Harpenden Rugby Club.

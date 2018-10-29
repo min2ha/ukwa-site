@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lyne and Manor Church
-
 Site of two Church of Scotland parish churches and Lyne and Manor, Peeblesshire, Scottish Borders.

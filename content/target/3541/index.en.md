@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tottenham and Woodgreen Journal
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Bruynzeel Storage Systems Ltd.
-
 Manufacturer of storage systems for museums, libraries and archives

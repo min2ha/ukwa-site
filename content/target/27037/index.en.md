@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# Bòrd na Gàidhlig: Using Scots Gaelic in Heritage Interpretation (A’ Cleachdadh Na Gàidhlig Ann An Eadar - Mhineachadh Dualchais)
-
 Publication by Bòrd na Gàidhlig in both English and Gaelic.

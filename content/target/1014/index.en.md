@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SA Mathieson: CSUs: NHS commissioning support units set to spend around GBP 670m a year
-
 None

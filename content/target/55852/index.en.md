@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Campaign:Boys' body image affected by advertising, study finds
-

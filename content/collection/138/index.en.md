@@ -3625,6 +3625,4 @@
   "endDateText": ""
 }
 
-# News Sites
-
 Collection of UK online news publications curated by subject specialists at the UK Legal Deposit Libraries. The sites are archived on either a daily or weekly basis. The collection does not just include newspaper's websites, but web-only news sites, community journalism sites (hyperlocals), news broadcasters’ sites, news parody sites and more.

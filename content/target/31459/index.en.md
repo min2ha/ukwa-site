@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BeebEm - BBC Micro and Master 128 Emulator
-
 Information about BeebEm - BBC Micro and Master 128 Emulator.

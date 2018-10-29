@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# West Midlands Green Party: European Elections 2014
-
 None

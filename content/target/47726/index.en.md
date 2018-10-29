@@ -10,6 +10,4 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-# Byron Davies MP 
-
 Byron Davies is the Conservative MP for Gower.

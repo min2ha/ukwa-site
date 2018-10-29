@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: High court says parliament must vote on triggering article 50 - as it happened
-

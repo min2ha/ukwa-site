@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Lodge Concord Glasgow No. 1341
-
 Site of a masonic lodge located in Knightswood, Glasgow and affiliated with the Grand Lodge of Scotland.

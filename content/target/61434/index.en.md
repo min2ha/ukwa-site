@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# RV Owners Club Forum
-
 An online enthusiast community forum concerned with RVs. Discusses tips for beginners, rallies, shows & gatherings, club news and various other related topics.

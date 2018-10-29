@@ -10,6 +10,4 @@
   "start_date": "2018-01-16T09:00:00Z"
 }
 
-# Scores, the
-
 A literary magazine managed by postgraduate students at St Andrews University.

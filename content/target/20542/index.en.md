@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour accuses David Cameron of trying to sink TV debates 
-

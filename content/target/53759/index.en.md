@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Yorkshire Party
-
 The Yorkshire Party is a progressive political party made up of autonomous local groups and individuals who are united by a shared belief that Yorkshire needs a voice at European, national and regional level.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kirkbymoorside Town Blog, The
-

@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Am Baile Twitter
-
 Twitter profile belonging to High Life Highland's Am Baile website.

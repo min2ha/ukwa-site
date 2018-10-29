@@ -10,6 +10,4 @@
   "start_date": "2014-10-03T00:00:00Z"
 }
 
-# Intellectual Property Office (IPO)
-
 The Intellectual Property Office (IPO) is the official government body responsible for intellectual property (IP) rights including patents, designs, trade marks and copyright. IPO is an executive agency, sponsored by the Department for Business, Innovation & Skills. 

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Information Literacy Weblog
-
 Blog by Sheila Webber, a faculty member in the Information School, University of Sheffield, UK and Director of the Centre for Information Literacy Research. 

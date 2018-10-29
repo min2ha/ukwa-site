@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: UK and the EU: Referendum in a time of discontent
-

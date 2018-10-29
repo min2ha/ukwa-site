@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords Hansard: 05 July 2016: Outcome of the European Union Referendum
-
 The House of Lords debates the vote to leave the European Union on June 23rd 2016

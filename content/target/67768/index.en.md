@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Fintry Inn, The
-
 Site of a public house, hotel and brewery at Fintry, Stirlingshire.

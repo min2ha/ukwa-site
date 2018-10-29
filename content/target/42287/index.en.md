@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EatSleepFootyRepeat - Podcast's
-
 podcast all about Welsh football, Wales national side, Wales legends.

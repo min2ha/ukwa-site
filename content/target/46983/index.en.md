@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of St Theodore Port Talbot
-

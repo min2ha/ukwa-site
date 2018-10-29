@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Penmaenmawr Eye | Llygad
-
 The one-stop community website for Penmaenmawr, covering the whole community from Penmaenan to Capulelo. Created by Penmaenmawr Town Council.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Anne Morgan Jewellery
-
 Anne Morgan is a award winning jeweller supported by the Arts Council of Wales and based at her own gallery in Penarth.

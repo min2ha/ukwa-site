@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Peterculter Parish Church
-
 Peterculter Parish Church is a Church of Scotland congregation located in Aberdeen, Scotland. 

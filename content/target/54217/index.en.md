@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# DanceLive : Festival of Contemporary Dance
-
 Site of a contemporary dance festival taking place in Aberdeen.

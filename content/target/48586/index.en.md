@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Farmers Union of Wales (@FUW_UAC) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Ukip donor 'will do whatever it takes' to help party win European elections
-
 None

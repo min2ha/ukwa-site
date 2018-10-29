@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Kate Hoey: ‘Most of my friends don’t like politicians. Except me'
-

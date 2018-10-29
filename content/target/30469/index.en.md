@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Alan Gibbons' Diary
-
 Alan Gibbons is a writer of children’s books. He is the winner of the Blue Peter Book Award 2000. He is also involved in 'The Capmaign for the Book'.

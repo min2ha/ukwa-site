@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: The NHS, TTIP, and the EU referendum
-
 With campaigns for the referendum on 23 June 2016 underway, all sorts of claims are being made about the effects of EU membership on the NHS, and people have been rightly wondering whether they are accurate. Concludes that that the greatest threat to the NHS remains the policy of successive British governments, based on the idea that a market is the best approach to efficiency, and undermining the historic approach to the NHS as a service based on need and dignity, with no place for austerity narratives. Staying in the EU keeps us within that kind of vision for a public national health service.

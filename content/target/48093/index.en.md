@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greyfriars, The
-
 The official website of The Greyfriars.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Fun Fiddle
-
 Site of a group of fiddle (traditional / folk violin) tutors based in Portobello, Edinburgh.

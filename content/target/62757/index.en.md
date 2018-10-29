@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 14th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on Parliamentary control of implementation of the withdrawal agreement and avoiding a hard border between Northern Ireland and the Irish Republic

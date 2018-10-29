@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Our Olympics - Reclaim London 2012
-

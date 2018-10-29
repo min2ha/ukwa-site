@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg on course to lose seat at election, according Lord Ashcroft poll
-
 None

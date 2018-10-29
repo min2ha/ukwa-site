@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natalie Powell (Nataliep_90) on Twitter
-
 Twitter profile of Natalie Powell; judo athlete for Team Wales in the Glasgow 2014 Commonwealth Games.

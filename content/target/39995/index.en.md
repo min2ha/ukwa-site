@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dennis Campbell on Facebook (Liberal Democrats candidate for Vale of Glamorgan) 
-
 Dennis Campbell is the Liberal Democrats candidate for Vale of Glamorgan at the 2016 National Assembly Election. 

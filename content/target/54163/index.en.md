@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Electric Irish Homes: Rural Electrification, Domestic Products and Irish Women in the 1950s and 1960s
-
 Electric Irish Homes: Rural Electrification, Domestic Products and Irish Women in the 1950s and 1960s is funded by the Arts and Humanities Research Council and runs from 2016 to 2019. 

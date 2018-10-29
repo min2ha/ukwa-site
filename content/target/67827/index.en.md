@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Albanian RFC (@Old_AlbanianRFC) on Twitter
-
 The official Twitter account of Old Albanian Rugby Football Club.

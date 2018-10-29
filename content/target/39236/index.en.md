@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Greene - Conservative Activist and Candidate on Facebook
-

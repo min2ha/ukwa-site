@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Evening Standard: Brexit blow for Theresa May as French minister rejects Chequers deal 
-
 France’s Europe minister dealt a hammer blow to Theresa May’s hopes of saving her Chequers plan on September 5th 2018, insisting the EU would not change its rules to accommodate post-Brexit Britain. In an interview with the Evening Standard,  Nathalie Loiseau scoffed at British media reports that her boss President Emmanuel Macron was softening to the Prime Minister’s proposals

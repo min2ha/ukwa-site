@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Oxford International Relations Society: Britain Set for EU Referendum - Focus of the week
-

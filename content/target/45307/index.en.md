@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Fourteen Locks Canal Centre
-
 Fourteen Locks Canal Centre is a heritage and visitor centre situated at the top of the Cefn Flight of locks. It is managed by Monmouthshire, Brecon and Abergavenny Canals Trust. It is located at Rogerstone, Newport.

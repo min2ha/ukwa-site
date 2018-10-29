@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Leicester City Mayor (@CityMayorLeic) on Twitter
-
 Official profile for Leicester’s City Mayor Peter Soulsby. Tweets from the City Mayor.

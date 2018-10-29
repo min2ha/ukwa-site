@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Syrian Association in Wales, The (SAIW)
-
 The Syrian Association in Wales provides assistance and opportunities for Syrians to integrate and contribute to their new lives in Wales.  

@@ -10,5 +10,3 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Heart of Wales Line Travellers' Association
-

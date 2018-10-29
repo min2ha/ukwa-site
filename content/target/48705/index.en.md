@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church Cathedral Choir
-
 Christ Church Cathedral Choir is over 500 years old and based in Oxford, UK.

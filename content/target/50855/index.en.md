@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# blog - Escocia
-
 A Spanish-language blog aimed at promoting Scottish tourism to spanish-speaking audiences. 

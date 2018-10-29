@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# International Centre for Victorian Women Writers at Canterbury Christchurch University
-
 None

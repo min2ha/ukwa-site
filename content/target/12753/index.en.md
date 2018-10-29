@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Morgan Lake
-
 <p>The website of heptathlete Morgan Lake, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

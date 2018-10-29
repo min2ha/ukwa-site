@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Cor Meibion Onllwyn
-
 Cor Meibion Onllwyn was formed in September 1969 ago by the late Taliesin Williams.

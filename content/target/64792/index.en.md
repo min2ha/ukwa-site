@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gov.uk: Guidance for undocumented Commonwealth citizens
-
 This information is for Commonwealth citizens (known as ‘Windrush’ cases) who are long-term residents of the UK and do not have documents to demonstrate their status. It explains their position and what they need to do next.

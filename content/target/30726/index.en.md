@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Rhyddiaith Cymraeg 1300-1425 | Welsh Prose 1300-1425 
-
 Welsh Prose 1300–1425 is a site which presents a searchable corpus of Medieval Welsh prose and is supported with funds from the Arts and Humanities Research Council and the School of Welsh, Cardiff University. Some 2.8 million words are covered in 54 manuscripts. 

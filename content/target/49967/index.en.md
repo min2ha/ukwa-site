@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Haddington West Parish Church
-
 Website of the Haddington West Parish Church. 

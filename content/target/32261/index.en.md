@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Helen's Balconiers
-
 Commemorating 40 years of St Helen's Balconiers formed at St. Helen’s ground, Swansea, in August 1972. The Balconiers aim is to celebrate the individual and collective achievements of Glamorgan cricket players.

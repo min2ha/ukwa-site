@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Public Health England: Zika virus and Guillain-Barré syndrome
-
 Guidance on possible connections between Zika virus and Guillain-Barré syndrome

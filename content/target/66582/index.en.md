@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Italy is yet more proof that Brussels only believes in democracy when it produces the 'correct' result, writes NORMAN LAMONT 
-
 In the mindset of the governing elite, the European orthodoxy must prevail, even when it means riding roughshod over the wishes of voters. That domineering mentality lies at the heart of the drama in Italy, the Eurozone's third- largest economy, where a coalition with widespread public support has effectively been barred from office because of Eurosceptic views.

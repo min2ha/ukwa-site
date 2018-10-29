@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7th March 2018: European Union citizenship
-
 Short debate on retention of European Union citizenship by UK nationals after Brexit.

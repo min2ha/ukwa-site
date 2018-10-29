@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Hansard Society: Four Parliamentary quirks to watch out for if Scotland votes ‘Yes’
-
 None

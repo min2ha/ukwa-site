@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Student Christian Movement
-
 Student Christian Movement is a national movement we come together at regional and national events to learn more about our faith and spend time as a community.

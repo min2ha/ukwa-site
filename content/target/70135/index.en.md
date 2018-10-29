@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. John the Baptist Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church in Port Glasgow, Renfrewshire.

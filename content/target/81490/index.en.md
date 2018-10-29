@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A hard Brexit means a hard border – whatever Owen Paterson says
-

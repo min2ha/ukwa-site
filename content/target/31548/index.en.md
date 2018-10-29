@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T11:00:00Z"
 }
 
-# Michael Thomas Andrews
-
 Michael Thomas Andrews is a Welsh composer. His 'contemporary-classical music is strongly influenced by jazz harmony and strong motivic development.'  

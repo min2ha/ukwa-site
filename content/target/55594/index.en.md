@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Flexitarian Bristol
-
 Flexitarian Bristol is a passionate group of Bristolian citizens, working with Friends of the Earth and Eating Better to ensure that our Green city doesn’t overlook the dietary shift estimated to achieve the largest impacts in both public health and climate change: reducing meat and dairy and eating more vegetables and pulses. 

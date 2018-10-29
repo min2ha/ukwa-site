@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Red Ballon Learner Centres
-
 None

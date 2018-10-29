@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Owen Smith (@OwenSmithMP) on Twitter
-
 Labour MP for Pontypridd and Shadow Secretary of State for Wales.

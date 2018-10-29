@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lewes FC Women (@LewesFCWomen) on Twitter
-
 This is the official Twitter account of Lewes Football Club Women. Lewes Football Club is a fan run football club. The women's team are paid the same wages as the men's team. 

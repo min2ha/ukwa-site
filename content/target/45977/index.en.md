@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T11:00:00Z"
 }
 
-# Cory Band, The
-
 The Cory Band is a brass band based in the Rhondda Valley.

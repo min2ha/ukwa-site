@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kenneth's Parish Church
-

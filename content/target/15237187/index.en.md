@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Finance Central
-
 None

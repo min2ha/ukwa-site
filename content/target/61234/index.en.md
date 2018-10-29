@@ -10,8 +10,6 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Stradey Castle
-
 Stradey Castle has remained virtually unchanged since it was built
 around 1850, and extended in the 1870's. It is a Grade 2* heritage
 property now available as an exclusive venue for a number of tailor-made

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Radical Independence Campaign: Statement on EU Referendum Result
-

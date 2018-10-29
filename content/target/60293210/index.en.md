@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Popular Portsmouth Music Scene 1944 to 1969, The
-
 None

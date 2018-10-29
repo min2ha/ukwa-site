@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T10:00:00Z"
 }
 
-# Open Group, The
-
 The Open Group is a global consortium that enables the achievement of business objectives through IT standards. It is a membership that spans all sectors of the IT community — customers, systems and solutions suppliers, tool vendors, integrators and consultants, as well as academics and researchers.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Susan Liggett
-
 Susan Liggett is practicing artist and University Lecturer at Wrexham Glyndwr University.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election 2015: Labour's strategy will be to rise above Tory negative tactics of 'falsehood and smear'
-

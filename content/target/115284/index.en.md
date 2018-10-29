@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Historic Chapels Trust (HCT)
-
 None

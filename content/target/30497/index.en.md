@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Finance
-
 Jersey Finance is a not-for-profit making organisation, formed in 2001 to represent and promote Jersey as an international financial centre of excellence. They are funded by members of the local finance industry and the States of Jersey government.

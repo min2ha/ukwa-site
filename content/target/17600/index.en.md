@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election TV debates: David Cameron told to cluck up some courage
-
 None

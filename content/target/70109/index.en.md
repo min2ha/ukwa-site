@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Glentoran Women FC & Academy News
-

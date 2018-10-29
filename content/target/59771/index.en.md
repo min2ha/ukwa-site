@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "BBC News: Theresa May: We're on course to deliver Brexit despite vote "
-
 Theresa May said the UK was "on course to deliver on Brexit" as she arrived in Brussels, the day after her first Commons defeat as prime minister.

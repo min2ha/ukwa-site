@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Christopher Hope reads mean tweets after being booed by Ukip supporters
-
 None

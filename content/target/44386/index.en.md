@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T13:00:00Z"
 }
 
-# Ablekids
-
 Ablekids is an independent bookseller based in Scotland, specialising in bilingual and language resources for children.

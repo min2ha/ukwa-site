@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Gulu Mission Initative
-
 Gulu Mission Initative is a partnership between the School of Medicine in The Gambia and the College of Medicine, Swansea. The initiative organise a number of events each year to fundraise for our nursing, midwifery and medical student exchange programmes.

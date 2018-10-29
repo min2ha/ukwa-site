@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Star, The (South Yorkshire)
-
 None

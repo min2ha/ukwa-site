@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Helen Scott-Daniels on Facebook (Green Party candidate for North West Cambridgeshire)
-
 None

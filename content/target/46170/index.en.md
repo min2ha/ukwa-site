@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Post: EU Referendum: Gwynedd votes to REMAIN
-
 Article about North Wales, specifically Gwynedd, EU referendum results

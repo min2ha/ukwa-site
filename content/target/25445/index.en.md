@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour pledges huge fines on tax avoiders to raise £7.5bn a year
-
 None

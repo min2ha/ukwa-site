@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Jane Austen's Hampshire
-
 One of the world's most famous authors spent most of her life in the historic and beautiful county of Hampshire in the south of England.

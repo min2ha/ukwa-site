@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Oxford College of London
-
 Official website of the Oxford College of London.

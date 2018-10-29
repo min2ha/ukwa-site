@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Pogmoor Area Residents' Association
-

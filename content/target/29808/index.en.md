@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Pleasance (@ThePleasance) on Twitter
-
 Twitter profile for the Pleasance Theatre. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Welsh Homing Pigeon Union, The
-
 The Welsh Homing Pigeon Union (WHPU) was established in 1933 and administers and serves as the governing body for pigeon racing in Wales.

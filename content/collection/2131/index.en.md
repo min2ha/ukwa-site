@@ -249,7 +249,5 @@
   "endDateText": ""
 }
 
-# Caribbean Communities in the UK
-
 2018 marked 70 years since the Empire Windrush carried hundreds of Caribbean migrants to Britain. This collection of websites was initiated to accompany an exhibtion hosted by the British Library entitled "Windrush: Songs in a Strange Land" which explored why people came, what they left behind and how they went on to shape Britain. 
 The website collection includes (but is not restricted to) themes such as ‘Windrush’; Arts, Literature and Music; Race Relations, West Indies in WWI and WWII.

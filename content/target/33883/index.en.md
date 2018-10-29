@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: Was the Easter Rising Blasphemous?
-

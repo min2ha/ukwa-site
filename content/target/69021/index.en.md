@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit vote: Government defeats EU customs union bid
-
 The government survived an attempt by pro-EU Conservative MPs to change its post-Brexit trade strategy. through amendments to the Trade Bill at its third Commons reading

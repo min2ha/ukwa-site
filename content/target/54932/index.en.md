@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Banff Centre Mountain Film Festival
-
 Website of the UK arm of an annual mountain film festival, originating in Banff, Canada, and showcasing films that celebrate adventure, the environment, mountain culture and the outdoors.

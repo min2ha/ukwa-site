@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Lodge Ballater Glasgow No. 1432
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

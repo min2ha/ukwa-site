@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lewis Hamilton
-
 An official website of Lewis Hamilton, a Formula 1 driver.

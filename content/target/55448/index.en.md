@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Voters are hungry for new politics – bring on a leftwing Brexit
-

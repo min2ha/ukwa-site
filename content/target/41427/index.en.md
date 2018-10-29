@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Treasury: Chancellor: Leaving the EU would be a one way ticket to a poorer Britain
-
 Chancellor of the Exchequer, George Osborne sets out why it would be a huge mistake for Britain to leave the EU and the Single Market.

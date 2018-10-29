@@ -10,5 +10,3 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Cyngor Ieuenctid Sir Gaerfyrddin | Carmarthenshire Youth Council
-

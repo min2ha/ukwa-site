@@ -10,6 +10,4 @@
   "start_date": "2007-04-20T00:00:00Z"
 }
 
-# Jamie McGrigor Scottish Conservative & Unionist candidate for Argyll & Bute
-
 None

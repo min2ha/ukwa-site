@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Tory rebels vow to resist 'blood-curdling threats' over Brexit bill
-

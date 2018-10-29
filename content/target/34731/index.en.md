@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Exploring Surrey's Past: To journey's end and beyond: the life and legacy of RC Sherriff
-

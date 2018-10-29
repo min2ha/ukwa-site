@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Summer of Stories Wales
-
 Summer of Stories is a new initiative funded by the Wales Arts Council to raise awareness of the importance of storytelling in Wales. It is run by the George Ewart Evans Centre for Storytelling.

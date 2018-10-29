@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Foyle Alliance on Facebook
-
 Facebook page of Foyle Alliance

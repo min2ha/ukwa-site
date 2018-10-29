@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Lord Mayor’s Show 2014: Crowds line the City to see Alan Yarrow take over from Fiona Woolf
-

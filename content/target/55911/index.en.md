@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# So Much to Sea
-
 Seafood Shetland "represents the interests of companies involved in all aspects of fish processing and shellfish growing."

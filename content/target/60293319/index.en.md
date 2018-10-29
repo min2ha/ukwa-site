@@ -11,6 +11,4 @@
   "subject": "Celtic Studies"
 }
 
-# Irish Diaspora Studies, University of Bradford
-
 None

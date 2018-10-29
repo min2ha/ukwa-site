@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Ymddiriedolaeth Celfyddydau Conwy | Conwy Arts Trust
-
 Conwy Arts Trust was established in 2013 and is managed by County Borough of Conwy with the aim to promoting, maintaining and advancing the 'education and appreciation of the public in the arts by encouraging and fostering cultural activities, including educational workshops and outreach projects'. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade Clarke (jadeyclarke) on Twitter
-
 Twitter profile of Jade Clarke, who played netball for England at the Glasgow 2014 Commonwealth Games.

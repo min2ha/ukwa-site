@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# http://fairwaterpost.co.uk
-

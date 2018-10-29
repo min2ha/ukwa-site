@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michaela Breeze (michaelabreeze) on Twitter
-
 Twitter profile of weightlifter Michaela Breeze, member of Team Wales at the Glasgow 2014 Commonwealth Games.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Shan Cothi
-
 Shân Cothi is a Welsh classical singer, presenter and actress.

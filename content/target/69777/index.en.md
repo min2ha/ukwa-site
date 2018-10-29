@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Project Fear redux? Tories divided over planning for a no-deal Brexit
-

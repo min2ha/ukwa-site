@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Would you pick fruit and veg for very low pay? No? We have a problem
-

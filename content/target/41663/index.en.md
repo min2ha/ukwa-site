@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Vote Leave: stop offending Turkish people to further your own agenda
-

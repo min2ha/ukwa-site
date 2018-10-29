@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Universities South West
-
 Universities South West is a higher education membership association for South West England, representing a partnership of universities working together to influence and shape opportunity in a creative and dynamic region. The organisation closes on 1st October 2015.

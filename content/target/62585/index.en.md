@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anne Marie Waters (@AMDWaters) on Twitter
-
 Anne Marie Waters is a right wing politician who is Leader of For Britain and  Director of Sharia Watch UK.

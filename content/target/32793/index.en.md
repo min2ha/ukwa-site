@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Montrose Basin Heritage Society 
-

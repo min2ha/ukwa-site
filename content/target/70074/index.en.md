@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Belfast Ladies FC (@eblfc) on Twitter
-
 Official Twitter Page of East Belfast Ladies Football Club.

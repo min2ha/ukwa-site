@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brentford Football Club
-
 Brentford Football Club is a professional association football club based in Brentford, Greater London, England.

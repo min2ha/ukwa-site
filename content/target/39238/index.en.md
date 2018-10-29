@@ -10,5 +10,3 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Citizens Advice Cymru | Cyngor ar Bopeth Cymru
-

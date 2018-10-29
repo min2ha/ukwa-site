@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Go Lassie Go
-
 <p>The blog of Joan McAlpine, Scottish National Party Member of the Scottish Parliament for the South of Scotland and columnist for The Scotsman newspaper.</p>

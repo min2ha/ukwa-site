@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Museum of Communication 
-
 Site for a museum dedicated to communications methods in and people involved in their development with emphasis on Scotland and Scots

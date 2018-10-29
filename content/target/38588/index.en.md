@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lee Wallace (@Lee_Wallace1974) on Twitter
-
 Twitter profile of Lee Wallace, the Scottish Green Party list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

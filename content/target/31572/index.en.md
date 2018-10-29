@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Andrew Powell
-
 Andrew Powell is a  composer and musical director for The Alan Parsons Project.

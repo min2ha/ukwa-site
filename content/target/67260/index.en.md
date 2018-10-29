@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Isle of Arran Brewery
-
 Site of a brewer located on the isle of Arran, Argyll & Bute.

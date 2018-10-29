@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU referendum viewpoints: How would exit affect English football?
-

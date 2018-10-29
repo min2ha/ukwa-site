@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Allah flyers put up in Cardiff tell Muslims not to vote
-
 None

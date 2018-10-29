@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Applecross Community Company
-
 Site of a community company focusing on community development and renewable energies and located in the area of Applecross, Wester Ross, Highland, Scotland.

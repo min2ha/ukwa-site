@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "Daily Mail, The: After a Spanish police officer is seen drawing a GUN on Brits trying to leave the Rock, STEPHEN GLOVER warns: Make no mistake: this peevish, petty and bullying country's leaders are deadly serious about grabbing Gibraltar
-
 Think piece argues that Spain is obsessed with getting control of Gibraltar, and the Foreign Office would be happy to let them have it.

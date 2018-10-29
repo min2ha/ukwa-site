@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: Parliamentary Scrutiny and Approval of the Withdrawal Agreement and Negotiations on a Future Relationship 
-
 This Report from the Exiting the EU Committee maps out the steps ahead for Parliament and questions whether, even under the most optimistic outcome of full agreement at the October meeting of the European Council, five months will be enough time for Government and Parliament to complete the necessary proceedings. 

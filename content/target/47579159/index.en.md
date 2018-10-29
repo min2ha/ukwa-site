@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Institute of Science in Society, The
-
 The Institute of Science in Society (ISIS) was co-founded in 1999 by scientists Mae-Wan Ho and Peter Saunders to provide information to the public and policy makers.

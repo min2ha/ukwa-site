@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alastair McQuillan on Facebook (Green Party candidate for Rutland and Melton)
-

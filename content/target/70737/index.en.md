@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Art of Dying Well, The
-
 artofdyingwell.org is a website for everyone providing resources to those coping with death and dying.

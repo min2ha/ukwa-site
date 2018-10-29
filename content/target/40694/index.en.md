@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Why David Cameron's speech on the EU referendum showed he's the wrong man to lead the Remain campaign
-

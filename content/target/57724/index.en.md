@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: It’s a sad truth: on Brexit we just can’t trust the Treasury
-

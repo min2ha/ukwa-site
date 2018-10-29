@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Japanese Matsuri for Glasgow
-
 Site of an annual festival in Glasgow established to advance public education in Japanese culture and heritage with a view to promoting wide community involvement and the promotion of awareness of different cultures.

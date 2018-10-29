@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP to launch Scottish manifesto in Falkirk
-
 None

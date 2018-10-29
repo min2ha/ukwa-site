@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# WWF - World Wildlife Fund: EU Vote: The UK’s Leading Conservation bodies call on ‘In’ and ‘Out’ camps to say what they will do for the environment.
-
 WWF article concerning the call for both sides of the debate to consider the environmental implications for either outcome of the EU referendum

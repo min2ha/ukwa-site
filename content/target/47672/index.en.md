@@ -10,5 +10,3 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Rhondda Cynon Taff Substance Misuse
-

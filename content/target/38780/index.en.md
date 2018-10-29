@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Government's pro-EU leaflet: do its claims stack up? 
-
 Guardian, The

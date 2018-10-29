@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# The Engineering Equipment & Materials Users Association (EEMUA)
-
 For more than half a century EEMUA has been helping these companies collaborate in non-competitive ways and representing their interests to others in the sphere of industrial asset management. 

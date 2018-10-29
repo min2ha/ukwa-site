@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# GOV.UK: History of Government Blog
-
 This blog gives insights into the history of government – its development, its departments and some of the roles and people involved.

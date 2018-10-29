@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Unofficial Mamod and Other Steam Forum
-
 An online enthusiast forum concerned with steam toys / models. Specifically Mamod models. Discusses technical tips, restorations, locomotives and railways, steam launches and boats, Meccano and various other topics.

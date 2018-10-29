@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Mum addicted to Candy Crush played 18 hours a day losing her boyfriend, her job and thousands of pounds
-
 News article about an internet gaming addict and the consequences it had on her life

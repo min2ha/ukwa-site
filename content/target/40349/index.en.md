@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# For King and Country
-
 For King and Country is a site-specific performance, art installation, exhibition and short film that interprets the impact of WW1 on the lives of Killerton’s domestic staff, estate workers and local community.

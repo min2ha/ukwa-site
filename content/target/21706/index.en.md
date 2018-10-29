@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mail on Sunday's scoop about Tory candidate upsets David Cameron
-
 None

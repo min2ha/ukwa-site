@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# United Kingdom Association for the History of Nursing (UKAHN) 
-
 The mission of the United Kingdom Association for the History of Nursing (UKAHN) is to promote the development and advancement of Nursing History. This is achieved through scholarly work and public outreach. 

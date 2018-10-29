@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scot Lit Fest
-
 "A virtual festival celebrating Scottish Literature"

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Tracy Satchwill Blog: How an artist makes a Magna Carta art project interesting
-

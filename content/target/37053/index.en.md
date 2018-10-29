@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Mirror: David Cameron admits EU referendum 'will keep the Tory Party quiet'
-

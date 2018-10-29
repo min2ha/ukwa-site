@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brighton Festival
-
 Annual celebration of music, theatre, dance, circus, art, film, literature, debate, outdoor and family events - taking place in venues both familiar and unusual across Brighton & Hove for three weeks every May.

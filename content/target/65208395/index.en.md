@@ -10,5 +10,3 @@
   "start_date": "2012-04-13T00:00:00Z"
 }
 
-# Carmarthenshire Labour Party | Plaid Lafur Sir Gaerfyrddin
-

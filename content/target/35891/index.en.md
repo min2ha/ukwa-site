@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Linda Gow (@LindaGfalkirk) on Twitter
-
 The Twitter profile of Linda Gow, the Scottish Labour and Co-operative candidate for the Central Scotland list in the 2016 Scottish Parliament election.

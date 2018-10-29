@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Electoral Commission: young people were the group most disenfranchised by Individual Electoral Registration
-
 article on how the changes in registering to vote affect the voter turnout for younger people

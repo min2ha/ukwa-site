@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# British Irish Chamber of Commerce
-
 The British Irish Chamber of Commerce was founded in 2011 ahead of the historic visit of HM Queen Elizabeth II to Ireland and the subsequent State visit of President Michael D. Higgins to Britain. The objective of the Chamber is to champion the €60 billion annual trade between the UK and Ireland which directly sustains over 400,000 jobs. It is a bilateral Chamber, engaging members from across two islands and five legislative bodies in meaningful dialogue with a common purpose.
 

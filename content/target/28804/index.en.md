@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Morwyr Cymru | Welsh Mariners
-
 An on-line index of 23,500 Welsh merchant masters, mates and engineers active from 1800 to 1945, compiled by Dr. Reg Davies.

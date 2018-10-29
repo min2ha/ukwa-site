@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Llŷr Williams (@llyrpreseli) on Twitter 
-
 Llŷr Williams is the Plaid Cymru candidate for Preseli Pembrokeshire at the 2017 General Election.

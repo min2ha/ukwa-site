@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Respect the Result
-
 The Conservative Party HQ launched this new website specifically targeting Labour MPs with a record of seeking to oppose Brexit while representing areas which voted to Leave. The website allows you to send a message to those MPs urging them to respect the referendum result in advance of the EU Withdrawal Bill returning to the Commons in June 2018

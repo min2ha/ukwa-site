@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Hungarian British Chamber of Commerce in the United Kingdom
-
 Hungarian British Chamber of Commerce in the United Kingdom is an independent non-governmental entity established in order to promote bilateral trade, commerce, industry, tourism, manufacturing, shipping, professional and all other business activities services and relations between the United Kingdom and Hungary.

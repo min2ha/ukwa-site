@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The great British Brexit robbery: how our democracy was hijacked
-

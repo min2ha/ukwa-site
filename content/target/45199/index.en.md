@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Article 50 may be triggered in early 2017, says Iain Duncan Smith
-

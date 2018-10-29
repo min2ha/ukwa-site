@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  David Miliband is back – and mapping the only sane path towards Brexit
-

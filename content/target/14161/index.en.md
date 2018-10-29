@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jon Snow (jonsnowC4) on Twitter
-

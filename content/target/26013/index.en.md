@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Purple Revolution: The Year That Changed Everything review – self-pitying 
-
 None

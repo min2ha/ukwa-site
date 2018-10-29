@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark's Parish Church, Stirling
-
 Site of a Church of Scotland parish church in Stirling.

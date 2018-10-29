@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T09:00:00Z"
 }
 
-# Solar Management 
-
 Music management company representing artists, producers, writers, composers and remixers. 

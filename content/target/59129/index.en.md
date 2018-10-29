@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent:  Angela Merkel's coalition troubles are 'bad news for Britain' during Brexit talks, warns former German ambassador
-
 Angela Merkel’s political turmoil is “bad news for Britain” as the Brexit negotiations reach a crunch point, a former German ambassador to the UK warned. Thomas Matussek said Germany was “looking inward and is self-absorbed”, making it harder for the country to lead the EU in striking a deal to end the deadlock in the talks.

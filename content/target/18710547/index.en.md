@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# No Rock and Roll Fun
-
 None

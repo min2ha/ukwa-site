@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ely Presbyterian Church (Reformed), Cardiff
-

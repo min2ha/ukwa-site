@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# New Saints FC of Oswestry Town, The
-

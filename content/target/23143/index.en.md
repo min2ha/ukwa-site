@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kevin Kerrigan (@Kevin_Kerrigan1) on Twitter (Labour candidate for Tunbridge Wells)
-

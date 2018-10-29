@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Isle News - Isle of Man News
-

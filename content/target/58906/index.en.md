@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory rebels threaten to frustrate Brexit: Now fifteen MPs say they may vote against bid to enshrine leaving date in law  
-

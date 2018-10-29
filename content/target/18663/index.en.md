@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Christ Church University: Jogleresa (Director: Belinda Sykes) Robbers, Rebels & Royals: Magna Carta 1215
-

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Coalfields Regeneration Trust (CRT) 
-
 <p>'The Coalfields Regeneration Trust (CRT) is the leading regeneration organisation dedicated to improving the quality of life in Britain’s former mining communities. We are a charitable company and social enterprise with teams deployed across England, Scotland and Wales'.</p>

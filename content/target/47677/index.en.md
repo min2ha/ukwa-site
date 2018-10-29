@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Supreme Court Printed Case of the Secretary of State for Exiting the European Union and the Secretary of State for Northern Ireland
-
 This document is the Supreme Court Printed Case of the Secretary of State for Exiting the European Union and the Secretary of State for Northern Ireland. there is nothing in the Northern Ireland Act 1998 or the Belfast Agreement which requires an Act of Parliament before the Government can trigger Article 50, or which restricts how the Government may exercise that power. 

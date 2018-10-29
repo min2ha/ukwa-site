@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Medieval recipe for new Magna Carta anniversary chutney
-

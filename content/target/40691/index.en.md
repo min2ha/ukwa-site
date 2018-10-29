@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Leaving the EU would be disastrous for the Falklands, Gibraltar and Ulster
-

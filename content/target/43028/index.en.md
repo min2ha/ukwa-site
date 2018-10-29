@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lost Leonardo (@lostleonardo ) on Twitter
-
 Campaigning to leave the EU

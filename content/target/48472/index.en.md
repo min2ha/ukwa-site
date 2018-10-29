@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Belfast Telegraph: Theresa May vows to protect 'special relationship' with Ireland
-

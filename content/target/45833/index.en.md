@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Wers, Y
-
 The site was created for Welsh language tutors in Wales showcasing best practice. It is provided by the Welsh for Adults Department, Bangor University.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Chancellor has £6 billion to play with in his Budget as economists predict 'cocktail of good news' to help fund tax cuts
-
 None

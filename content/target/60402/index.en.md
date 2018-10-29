@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library: Help For Researchers
-
 This is a sub section of the British Library website that offered assistance for all researchers.

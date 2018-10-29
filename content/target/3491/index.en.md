@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Maldon and Burnham Standard
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# United Kingdom Crowd Management Association (UKCMA)
-
 The United Kingdom Crowd Management Association (UKCMA) was formed in 2001 to represent the interests of key commercial organisations whose primary business is providing crowd management and event security services. 

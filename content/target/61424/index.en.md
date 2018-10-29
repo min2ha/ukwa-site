@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: "15 incredible body positive people to follow on Instagram"
-
 Evening Standard article about body positive Instagram accounts

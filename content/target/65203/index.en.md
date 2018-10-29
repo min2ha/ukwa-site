@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Unionist MEPs in Brexit talks with Michel Barnier
-
 Northern Ireland's two unionist MEPs met the EU's Chief Brexit Negotiator, Michel Barnier in Brussels on May 3rd. Mr Nicholson said talks were productive adding that it was "important that all voices in Northern Ireland are heard". Mrs Dodds said she had encouraged the EU "to fully participate in finding pragmatic solutions for the border".

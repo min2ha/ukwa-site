@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# British Paediatric Allergy, Immunity and Infection Group (BPAIIG)
-
 The British Paediatric Allergy, Immunity and Infection Group (BPAIIG) is involved in the clinical care of children as well as in research and development of new methods of investigation and treatment of allergic, immune and infectious conditions.

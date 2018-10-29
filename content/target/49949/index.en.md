@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brechin Victoria Junior Football Club
-
 Site for a Scottish junior football club based in Angus, Scotland.

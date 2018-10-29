@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Invesco Asset Management Ltd: Brexit – the pros and cons
-

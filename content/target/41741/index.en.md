@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# The All-Party Parliamentary University Group (APPG): Universities and the European Referendum: comparison essays
-

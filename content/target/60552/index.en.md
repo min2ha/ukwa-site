@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Daniel Martyn Lewis
-
 Daniel Martyn Lewis is a pianist who is achieving recognition for this Bach interpretations. He is based in Wales.

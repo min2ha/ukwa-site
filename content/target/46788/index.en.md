@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit-backing boss of Wetherspoons threatens to stop selling European beers if 'bullying' EU leaders impose tariffs on Britain
-
 Wetherspoons could stop selling European beers in protest at the 'bullying' approach EU leaders have taken to Brexit negotiations. Tim Martin, the Brexit-backing chairman of JD Wetherspoon, made the threat to European leaders as he warned that sales at the pub chain have slowed.  

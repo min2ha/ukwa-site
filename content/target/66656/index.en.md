@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Able Radio
-
 Able Radio is based near Pontypool and is a pioneering Radio Station for the disability community. It is a Radio Station for those living with disability and long-term health issues.

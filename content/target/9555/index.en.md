@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Open Democracy: The European elections in May, 2014 
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Make Daisy Chains (makedaisychains) on Instagram
-
 Instagram account of mental health activist and #boringselfcare artist, Hannah Daisy. 

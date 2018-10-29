@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Margaret 548
-
 Site of a masonic lodge located in South Queensferry, Edinburgh and affiliated with the Grand Lodge of Scotland.

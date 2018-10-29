@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Robert Smith Photography 
-
 Robert Smith is a south Wales based photographer.

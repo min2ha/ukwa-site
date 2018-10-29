@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Desmog UK
-
 Blogging website for all things climate related.

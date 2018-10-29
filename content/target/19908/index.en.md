@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Tami (@MarkTamiMP) on Twitter
-
 Labour MP for Alyn & Deeside, 

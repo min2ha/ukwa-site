@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harborne Rugby Football Club on Pitchero
-
 The official website of Harborne Rugby Football Club, sociable and family friendly club based in the heart of Harborne, near the centre of Birmingham. 

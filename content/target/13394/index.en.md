@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Joe FitzPatrick (JoeFitzSNP) on Twitter
-
 Twitter profile of Joe FitzPatrick, Scottish National Party member of the Scottish Parliament for Dundee City West.

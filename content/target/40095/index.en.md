@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Then and Now: Military medicine 1914-2014
-
 ‘Then and Now, Military Medicine 1914-2014’ is a free event, open to all, commemorating the start of the First World War and the development of military medicine since 1914.

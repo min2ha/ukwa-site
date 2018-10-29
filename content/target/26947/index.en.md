@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberystwyth Town Football Club
-
 Official website of the Aberystwyth Town Football Club.

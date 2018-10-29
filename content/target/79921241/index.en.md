@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Compass Live Art
-
 Compass Festival is a biennial festival of interactive live art projects which takes place in Leeds, UK.

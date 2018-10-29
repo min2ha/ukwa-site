@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# John Dixon (@JohnLDixon) on Twitter (Liberal Democrats candidate for South Wales Central)
-
 John Dixon is the Liberal Democrats candidate for South Wales Central for North Wales at the 2016 National Assembly Election.

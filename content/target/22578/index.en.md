@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: How an SNP deal with Labour would cost us £148 billion
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Newcastle Conservative Federation
-
 Website of Newcastle Conservative Federation which includes the constituencies of Newcastle North, Newcastle Central and Newcastle East. This website provides information on campaigns, key people, forthcoming events and European, national and local news.

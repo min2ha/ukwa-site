@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Ryan's Hydrocephalus Page
-
 Ryan the star of and reason for this site is my grandson.   Here is a picture of him with my son - his Uncle David.   We do not think of Ryan as a "Special Needs" child we all know  that he is a "Special Child".

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Magna Carta display to kick off 800th anniversary year festivities
-

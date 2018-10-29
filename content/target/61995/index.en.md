@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# St James' Park
-
 St James' Park is a football stadium in Newcastle upon Tyne, England. It is the home of Premier League club Newcastle United F.C.

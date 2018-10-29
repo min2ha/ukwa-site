@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# J W Muir Group plc
-
 The website of J W Muir Group plc, a real estate development company based in Inverkeithing, Scotland. 

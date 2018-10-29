@@ -10,6 +10,4 @@
   "start_date": "2016-09-28T10:00:00Z"
 }
 
-# Heather Dyer
-
 Heather Dyer is the award-winning author of a picture book and three novels for children aged 6-11.

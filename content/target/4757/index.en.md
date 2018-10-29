@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Oxford Martin School: President Nelson Mandela: Some personal reflections
-
 None

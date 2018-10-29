@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: NI leaders' debate: Parties clash over welfare reform and same-sex marriage
-
 None

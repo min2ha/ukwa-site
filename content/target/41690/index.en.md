@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Paisley
-
 Site of the Roman Catholic Diocese of Paisley, Scotland.

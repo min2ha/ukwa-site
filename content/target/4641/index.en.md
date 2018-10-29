@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# East Lothian News: Mandela 'inspiration to millions'
-
 None

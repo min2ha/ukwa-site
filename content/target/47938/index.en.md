@@ -10,6 +10,4 @@
   "start_date": "2016-12-22T09:00:00Z"
 }
 
-# HammerOn Press
-
 HammerOn Press are a small grassroots publishing label founded in 2010 and based in Bristol, UK

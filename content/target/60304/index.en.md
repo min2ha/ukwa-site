@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# LRB Blog: At Grenfell Tower
-
 Valeria Costa-Kostritsky blog post on Grenfell Tower

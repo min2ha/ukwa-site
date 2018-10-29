@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Theatre Cynefin
-
 Theatr Cynefin is a Sensory Labyrinth Theatre (SLT) company established in 2000. Sensory Labyrinth Theatre (SLT) is a kind of theatre which employs all the senses and which is performed in purpose built labyrinths with and for communities. 

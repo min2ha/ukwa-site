@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Courier, The: EU Referendum
-
 a series of articles relating to the EU Referendum

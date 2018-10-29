@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh University Association Football Club
-
 Site of a Scottish amateur football club based in Edinburgh.

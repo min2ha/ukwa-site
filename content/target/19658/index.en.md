@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Maidenhead Conservatives
-
 Website of Maidenhead Conservatives, providing information on borough and district councillors, association officers, MEPs, MPs, events and local, national and Westminster news.

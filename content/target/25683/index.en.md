@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sandi Toksvig reveals she quit Radio 4 to set up women's rights political party
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary, Our Lady of Victories & St. Patrick's
-
 Site of two Scottish Roman Catholic parish churches located in Dundee.

@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Scotorian Biker, The: The Forth Bridge (South Queensferry)
-

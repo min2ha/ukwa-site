@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wales Online: Wales' Euro 2016 tactics revealed and dissected: Chris Coleman's fascinating insight into the secrets that drove team to France
-
 In his own words, Coleman gives a brilliant game-by-game breakdown of the tactics deployed to get the best from Gareth Bale and fire Wales to Euro 2016.

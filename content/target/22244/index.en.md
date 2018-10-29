@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Dorset County Museum: A Dorset Woman at War: Mabel Stobart and the Retreat from Serbia 1915
-
 Website of an exhibition focusing on the story of one Dorset woman, Mabel St Clair Stobart, exploring her life and the role she played during the epic retreat of the Serbian army in 1915.

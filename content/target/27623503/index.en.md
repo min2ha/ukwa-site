@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Chapter
-
 Chapter is a multi-artform venue that presents, produces and promotes international art, live performance and film alongside providing a social space for the community.

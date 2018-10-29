@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rhieni Dros Addysg Gymraeg (RHAG): Iaith gwlad, iaith addysg: maniffesto ar gyfer Etholiad Cynulliad Cenedlaethol Cymru 2016
-

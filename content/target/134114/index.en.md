@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Research Councils UK (RCUK)
-

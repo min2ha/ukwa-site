@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Byre Theatre of St. Andrews
-
 Site of a theatre located in St. Andrews, Fife, Scotland.

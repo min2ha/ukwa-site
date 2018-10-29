@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory election campaign poster depicts Ed Miliband in pocket of SNP
-

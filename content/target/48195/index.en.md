@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lesmahagow Curling Club
-
 Blog site for a curling club located in Lesmhagow, South Lanarkshire, Scotland.

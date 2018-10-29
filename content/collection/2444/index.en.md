@@ -46,6 +46,4 @@
   "endDateText": ""
 }
 
-# Men's Issues
-
 A collection of websites curated by staff at the Wellcome Library in London in between 2005 and 2013. The collection is designed to reflect issues that affect men including health, social and personal issues.

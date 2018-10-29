@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Deryck beaumont – Central Scotland List Candidate
-
 Deryck Beaumont is the independent list candidate for Central Scotland region in the 2016 Scottish Parliamentary election.

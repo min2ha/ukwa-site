@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Durham Women FC (@DurhamWFC ) on Twitter
-
 Official Twitter account of the FA Women's Super League team, also known as the #wildcats!

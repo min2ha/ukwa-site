@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# University of Cambridge - Stephen Hawking
-
 The University of Cambridge is a collegiate public research university in Cambridge, England. Founded in 1209 and granted a royal charter by King Henry III in 1231, Cambridge is the second-oldest university in the English-speaking world and the world's fourth-oldest surviving university. This is a page dedicated to Professor Stephen Hawking

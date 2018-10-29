@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip will 'score famous victory' at General Election vows Nigel Farage
-
 None

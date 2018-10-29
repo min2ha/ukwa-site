@@ -10,5 +10,3 @@
   "start_date": "2011-08-30T00:00:00Z"
 }
 
-# E-Publishing Infrastructure Capitalising on UCLs Repositories (EPICURE)
-

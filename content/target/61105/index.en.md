@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Ayr
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in southern Ayrshire.

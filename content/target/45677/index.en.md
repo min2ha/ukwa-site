@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T11:00:00Z"
 }
 
-# European Data in Health Research Alliance, The (@datamattersEU) on Twitter
-
 The European Data in Health Research Alliance work to ensure the Data Protection Regulation allows vital research to continue. This is there Twitter page that is linked to their website http://www.datasaveslives.eu/

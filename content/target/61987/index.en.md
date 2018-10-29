@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff City Stadium
-
 The Cardiff City Stadium is a stadium in the Leckwith area of Cardiff, Wales. It is the home of Cardiff City Football Club and the Wales national football team. 

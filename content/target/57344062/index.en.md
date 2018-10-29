@@ -11,6 +11,4 @@
   "subject": "Smoking Ban UK 2007"
 }
 
-# Tobacco Information Scotland
-
 Tobacco Information Scotland (TIS) is an initiative from the ASH Scotland Information Service. Working with key partners, ASH Scotland developed TIS to provide the best possible gateway to smoking and tobacco-related information in Scotland. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Frances Rehal on Facebook (Labour candidate for North Thanet)
-

@@ -10,6 +10,4 @@
   "start_date": "2013-11-18T22:00:00Z"
 }
 
-# Communicationspace
-
 None

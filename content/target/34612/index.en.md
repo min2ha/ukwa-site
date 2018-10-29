@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hidden Heroes: Soldiers from the Empire
-
 Hidden Heroes: Soldiers from the Empire is a project from Eastside Community Heritage and Middlesex University. Hidden Heroes brings the untold tales of the soldiers from the empire who fought in the First World War to the surface.

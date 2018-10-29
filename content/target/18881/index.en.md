@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Using CCTV for parking fines is a 'violation of Magna Carta'
-

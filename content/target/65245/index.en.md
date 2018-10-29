@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# BlackBritishHistory (@BlackBritHist) on Twitter
-
 Black British History aim to foster a creative dialogue between researchers, educationalists (mainstream and supplementary), archivists and curators, and policy makers.

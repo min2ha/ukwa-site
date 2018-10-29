@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Must be Spanish 
-
 The website of an organisation that offers Spanish language lessons within Edinburgh. 

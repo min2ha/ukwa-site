@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# V&A Dundee on Twitter
-
 Twitter page for a design museum at the V&A Dundee.

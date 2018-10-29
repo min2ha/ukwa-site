@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jean-Claude Juncker accuses David Cameron of confecting row to woo Ukip voters
-
 None

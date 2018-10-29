@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Iwcs Garth Olwg and Ystrad Mynach 
-
 Iwcs Garth Olwg and Ystrad Mynach are a Ukulele group who meet weekly at Ystrad Mynach and Penallta. It is led by Dafydd Roberts and conducted through the medium of Welsh.

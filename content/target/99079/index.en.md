@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Derelict London
-
 Website of photographs of derelict buildings in London. It is run by Paul Talling.

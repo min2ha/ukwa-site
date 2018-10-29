@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Lovatt (@JamesLovatt) on Twitter (Green Party  Politician)
-
 James Lovatt stood as Green Party candidate for Erdington in the 2017 General Election but was not elected. He is a human rights and social injustice campaigner activist.

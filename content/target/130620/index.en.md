@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Vulval Pain Society
-

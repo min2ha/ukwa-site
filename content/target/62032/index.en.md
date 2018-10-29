@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Scottish Irish ARC (@ScotIrishARC) on Twitter
-
 Scottish based group campaigning for reproductive rights in the Rep of Ireland and Northern Ireland. This is their official Twitter account. 

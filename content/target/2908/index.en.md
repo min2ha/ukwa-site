@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Beano Comic, The
-
 <p>Website of the British Children's Comic.</p>

@@ -11,7 +11,5 @@
   "subject": "Scottish Government"
 }
 
-# National Galleries Scotland
-
 The National Galleries of Scotland comprises three galleries in Edinburgh (Scottish National Gallery, Scottish National Portrait Gallery, Scottish National Gallery of Modern Art)
 and two partner galleries in the North and South of Scotland (Paxton House, Berwickshire and Duff House, Banff).

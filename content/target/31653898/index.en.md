@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Photography Without Borders
-
 None

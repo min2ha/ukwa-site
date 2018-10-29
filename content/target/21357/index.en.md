@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Louttit
-
 This is the blog of Alan Louttit, the Class War candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour could die in ten years, says Ed Miliband's aideas he warns traditional supporters are switching to smaller parties
-
 None

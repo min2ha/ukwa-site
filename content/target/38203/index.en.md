@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Haringey Leave (@HaringeyLeave) on Twitter
-
 Grassroots, cross-party movement backing @Vote_Leave in Tottenham, Wood Green, Hornsey, Crouch End, Muswell Hill & Highgate

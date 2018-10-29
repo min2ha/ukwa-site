@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Urban Massage
-
 Website of a mobile massage service available in London and Bristol.

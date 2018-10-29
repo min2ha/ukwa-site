@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories to take 1m out of higher tax rate after general election, George Osborne suggests
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Rimrose Valley Friends
-
 Since February 2015, Rimrose Valley Friends has existed to promote and improve the wonderful community resource that is Rimrose Valley Country Park.

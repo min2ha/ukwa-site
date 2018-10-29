@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Vinspired: Swing the Vote
-
 Vinspired are a youth volunteering charity, they have created more than one million volunteering opportunities. So far, over 164,000 young people have used vInspired.com to volunteer with more than 4,400 charities. 

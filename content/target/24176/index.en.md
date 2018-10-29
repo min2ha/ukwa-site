@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Greens welcome Amber Rudd as new Energy Secretary
-
 None

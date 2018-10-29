@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Effect of the Great War on the Parish of St Breward, The 
-
 Project to remember the Great War and the ultimate sacrifice paid by seventeen men of the Parish by putting on an exhibition in the War Memorial Hall.

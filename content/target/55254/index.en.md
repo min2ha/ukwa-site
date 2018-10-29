@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Theatre Stiwt, Rhosllanerchrugog
-
 Theatre Stiwt is an Arts Centre located in Rhosllanerchrugog.

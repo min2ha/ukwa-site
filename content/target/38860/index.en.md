@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Jeremy Corbyn under fire from own MPs after aide echoes Tory criticism of government's £9m pro-EU mailshot   
-

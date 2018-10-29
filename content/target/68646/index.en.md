@@ -11,7 +11,5 @@
   "subject": "Black and Asian Britain"
 }
 
-# Western Kurdistan Association
-
 
 The Western Kurdistan Association is a community centre for Kurdish refugees in the United Kingdom.  Since 1995, Western Kurdistan Association has served the community in London.  WKA’s projects are volunteer-run. Site includes information about the Kurdish Museum, Lbrary and Archive, King Street, London W6.

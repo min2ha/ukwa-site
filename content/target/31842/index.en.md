@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Children and Young People's Commissioner Scotland
-
 Children and Young People's Commissioner Scotland.

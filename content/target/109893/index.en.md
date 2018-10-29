@@ -10,6 +10,4 @@
   "start_date": "2005-06-08T00:00:00Z"
 }
 
-# Confidential Enquiry into Maternal and Child Health (CEMACH)
-
 We aim to improve the health of mothers, babies and children by carrying out confidential enquiries on a nationwide basis and by widely disseminating our findings and recommendations.

@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Irish-Scottish Links on Energy Study (ISLES)
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Cadog Film Club
-
 Cadog Film Club was founded in 2005 and is based in Llangadog, Carmarthenshire. The film club meet at Llangadog Community Hall and provides a rural community with the opportunity to see films on a big screen without having to travel too far. 

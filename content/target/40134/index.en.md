@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron and ex-union chief join forces on EU
-
 Guardian, The

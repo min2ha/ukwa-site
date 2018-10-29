@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Live (@1916Live) on Twitter
-
 Posting a previously unpublished cache of documents from Dublin Castle that tell the story of the Easter Rising of 1916 as never before.

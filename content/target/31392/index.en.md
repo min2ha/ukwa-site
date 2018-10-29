@@ -10,6 +10,4 @@
   "start_date": "2015-10-13T10:00:00Z"
 }
 
-# John Cale
-
 John Cale is a Welsh musician, composer, singer-songwriter and record producer and founding member of the rock band the Velvet Underground.

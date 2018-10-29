@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: British expats lose legal battle for right to vote in EU referendum 
-
 Guardian, The

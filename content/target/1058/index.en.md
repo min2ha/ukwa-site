@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Trent Cancer Registry
-
 None

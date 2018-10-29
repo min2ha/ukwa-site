@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Kirkwall Council of Churches
-
 Site of an ecumenical group of Christian Churches in Kirkwall, Orkney.

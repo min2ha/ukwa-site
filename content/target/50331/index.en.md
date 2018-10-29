@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St German with St Saviour, The
-
 The Parish of St German with St Saviour is part of Diocese of Llandaff.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Malcolm Chisholm, Edinburgh North & Leith
-
 None

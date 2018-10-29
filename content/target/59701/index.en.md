@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# Spiral
-
 Imperial College London's research repository 

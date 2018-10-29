@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Ystradgynlais & District: Hsitory and Heritage
-
 The site contains the history and heritage of Ystradgynlais and Ystalyfera in the Upper Swansea Valley including the wargraves and memorials to the fallen.

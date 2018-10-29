@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# London South Bank University
-
 Official website of the London South Bank University.

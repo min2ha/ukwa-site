@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Salaam Peace
-
 In Waltham Forest and Hackney, two areas with the most diverse populations in the United Kingdom, Dr Sabir Bham developed a Community Engagement Programme called ‘Salaam Peace’ that would use sports, media and education initiatives as a way of bringing people together from diverse backgrounds and tackling issues that could lead to communities becoming polarized by, for example, promoting positive images of Islam.

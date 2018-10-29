@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Peter's Lynchmere and St Paul's Camelsdale Church
-
 Official website of St Peter's Lynchmere and St Paul's Camelsdale Church in the Haslemere area, Surrey.

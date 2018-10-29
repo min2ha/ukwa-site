@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T08:00:00Z"
 }
 
-# Art Across the City : A LOCWS International Public Art Programme Across the City of Swansea
-
 Art Across The City is a public art programme designed and delivered by LOCWS International, an artist-led charity based in Swansea. LOCWS International commissions international and UK-based artists to create new contemporary artworks for accessible public spaces across the city.

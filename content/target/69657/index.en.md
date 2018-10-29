@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hat Fair
-
 UK's longest continually running festival of Outdoor Arts

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Page on Facebook
-
 This is the Facebook page of Andrew Page, the Liberal Democrats candidate for Coatbridge, Chryston and Bellshill in the UK General Election on the 7th May 2015.

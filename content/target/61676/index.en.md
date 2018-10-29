@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Safer Internet Centre: "Free cyberbullying resources for teachers"
-
 UK Safer Internet Centre article about free cyberbullying resources for teachers

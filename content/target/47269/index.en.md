@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Oxford Business Law Blog: Article 50 Notification – in the Courts and in Parliament
-
 Shortly after the UK referendum on 23 June 2016, a number of separate claims were commenced in the English High Court concerning legal interpretation of Article 50.  These proceedings, commenced variously by a hairdresser, a fund manager and some expats, have been joined and heard together as Santos & Miller v Secretary of State for Exiting the European Union (the Article 50 Proceedings). This briefing details the arguments made during the Article 50 Proceedings. It also provides a brief update on the current Parliamentary debate on this issue and the wider impact of the legal challenge.

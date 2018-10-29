@@ -10,6 +10,4 @@
   "start_date": "2018-01-09T09:00:00Z"
 }
 
-# UK Fibromyalgia
-
 UK Fibromyalgia was formed in October 2000. It works with all groups and all charities to provide an independent overview for Britain’s Fibromyalgia community.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Network 23: a network for free sites
-
 A volunteer run project to offer free anonymous WordPress blogs for activists and agitators.

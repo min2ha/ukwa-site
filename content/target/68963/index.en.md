@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John Bosco Parish
-
 Site of a Scottish Roman Catholic church located in Easterhouse, Glasgow incorporating St. Benedict's and St. Clare's churches.

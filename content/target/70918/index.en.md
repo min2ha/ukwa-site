@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Fluid Branding Ltd.
-
 Design & branding company specialising in promotional merchandise. Based in Camden, London but with offices in UK, Ireland and Netherlands.

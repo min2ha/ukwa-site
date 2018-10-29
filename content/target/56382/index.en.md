@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: UK faces £520m bill for moving the European Medicines Agency from London to the EU
-
 Reports that the bill Britain must pay for moving the European Medicines Agency (EMA) from London after Brexit has soared to a staggering £520m. Sixty per cent of the costs are the result of a botched rental contract for the EMA’s Canary Wharf offices, which has no break clause.

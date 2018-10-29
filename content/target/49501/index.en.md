@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Pan Wales Cymru
-
 The blog discusses and reviews Welsh music. This work is part-funded by the European Social Fund (ESF) through the European Union’s Convergence programme administered by the Welsh Government

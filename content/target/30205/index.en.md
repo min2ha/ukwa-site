@@ -11,8 +11,6 @@
   "subject": "History of the Book"
 }
 
-# British Library, The: Medieval Manuscripts Blog
-
 The Medieval and Earlier Manuscripts Blog promotes the work of our curators, who are responsible for these items and thousands more, including ostraca, charters and seals, medieval historical and literary manuscripts, and early modern manuscripts.
 
 This blog provides regular updates on our digitisation projects, on current research, and on our exhibition programme

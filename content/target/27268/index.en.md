@@ -10,6 +10,4 @@
   "start_date": "2015-06-04T07:00:00Z"
 }
 
-# Orange Walks - Scotland on Facebook
-
 A page sharing information on orange walks in central Scotland.

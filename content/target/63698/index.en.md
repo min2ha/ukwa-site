@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkmichael, Tinwald and Torthorwald Church
-
 The website of Kirkmichael, Tinwald and Torthorwald Church.

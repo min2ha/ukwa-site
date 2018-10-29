@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Today: Views from Oxford on the EU referendum result
-
 The response of six Oxford academics to the EU Referendum result.

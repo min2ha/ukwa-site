@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Institute of Directors: Companies still in the dark on 'no deal' planning
-
 Th Institute of Directors called on the Government to speed up publication of its ‘no deal’ guidance, as a survey of 800 business leaders revealed that less than a third had conducted any Brexit contingency planning.
 
 uk and eu flagThe Institute of Directors is today calling on the Government to speed up publication of its ‘no deal’ guidance, as a survey of 800 business leaders reveals that less than a third have conducted any Brexit contingency planning.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Edinburgh Theatres: Comedy
-
 Comedy and stand-up listings for events at Edinburgh Theatres.

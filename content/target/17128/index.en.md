@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nigel Farage. Any chance the other parties will run their election campaigns without any deceit or nastiness?
-

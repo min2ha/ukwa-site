@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Scottish Critical Heritage on Facebook
-
 Facebook page of an organisation professing new critical perspectives on Scotland’s political, cultural and literary heritage.

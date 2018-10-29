@@ -10,6 +10,4 @@
   "start_date": "2007-08-13T00:00:00Z"
 }
 
-# Camp for Climate Action
-
 None

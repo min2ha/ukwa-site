@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tudor Jones (@JTudorJones) on Twitter
-
 Lib Dem Parliamentary candidate for Alyn & Deeside. 2015. 

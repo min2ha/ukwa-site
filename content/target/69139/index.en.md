@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Samaritans (@samaritans) on twitter
-
 Samaritans is a registered charity aimed at providing emotional support to anyone in emotional distress, struggling to cope, or at risk of suicide 

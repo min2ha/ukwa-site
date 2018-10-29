@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# ‘It’s inspiring’ locals and tourists share their views on V&A opening
-
  Article about the opening of the V&A Dundee. 

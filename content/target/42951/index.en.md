@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit nightmare or brave new world? MailOnline looks at what the future could hold for the UK if we vote OUT on June 23    
-

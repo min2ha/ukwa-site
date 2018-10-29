@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Grwp Tai Pennaf | Pennaf Housing Group
-
 Pennaf Housing Group is a provider of housing and related services in North Wales.

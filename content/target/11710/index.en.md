@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Percy (PercyNic) on Twitter
-
 <p>The twitter profile of althete Nick Percy, discus thrower and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

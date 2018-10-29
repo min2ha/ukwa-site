@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Middlemore Guild, The 
-
 The Middlemore Guild is a late 15th century re-enactment society, they re-create the Wars of the Roses through living history, battle re-enactment and period crafts.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories will raise threshold on inheritance tax to £1m
-
 None

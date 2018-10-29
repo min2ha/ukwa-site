@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Seaboard Memorial Hall
-
 Site of a community venue at Balintore, Easter Ross, Highland.

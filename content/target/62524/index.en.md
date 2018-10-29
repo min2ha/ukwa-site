@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Lodge Firth of Clyde Gourock No. 626
-
 Site of a masonic lodge located in Gourock, Inverclyde (Renfrewshire) and affiliated with the Grand Lodge of Scotland.

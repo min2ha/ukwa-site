@@ -10,6 +10,4 @@
   "start_date": "2017-04-06T09:00:00Z"
 }
 
-# Katherine Stansfield
-
 Katherine Stansfield grew up in Cornwall and moved to Wales in 2002 and worked as a lecturer in Creative Writing at Aberystwyth University for several years. She now teaches for the Open University and the School of Continuing and Professional Education at Cardiff University.

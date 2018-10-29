@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sajid Javid (Conservative politician)
-
 Website of Sajid Javid, Conservative MP for Bromsgrove and Home Secretary from May 2018, providing a biography and information  about his local activities, speeches and views, including support for remaining in the EU.

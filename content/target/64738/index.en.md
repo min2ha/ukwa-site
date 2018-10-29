@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Countrywide
-
 Countrywide PLC is the United Kingdom's largest estate agency group. It employs circa 10,000 personnel nationwide, working across 850+ estate agency or lettings offices operating under 65+ local high street brands, supplemented by 650 mortgage consultants. 

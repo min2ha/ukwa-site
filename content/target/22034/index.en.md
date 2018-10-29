@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Khalid Mahmood (Labour candidate for Birmingham Perry Bar)
-

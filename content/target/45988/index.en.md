@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T11:00:00Z"
 }
 
-# Lisa Krigel Ceramics
-
 Lisa Krigel is an American Ceramic artist living and working in Cardiff and currently Course Leader and Senior Lecturer in Ceramics on the BA(hons) Art Practice course at the University of South Wales.

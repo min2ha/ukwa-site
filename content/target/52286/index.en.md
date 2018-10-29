@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jeremy Corbyn for PM (@JeremyCorbyn4PM) on Twitter
-
 A Twitter profile for the campaign to make Jeremy Corbyn the Prime Minister. They don't speak officially for Jeremy Corbyn or the Labour Party. They are the team behind the Team behind the popular hashtags #JezWeCan and #JezWeDid.

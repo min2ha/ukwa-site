@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Sun, The: TUSK JABS PM Donald Tusk has come down on the side of hard Brexiteers in favouring a ‘Canada-style’ Brexit deal
-
 In a stark message the EU Council chief Donald Tusk warned time was running out fast to strike an agreement on Brexit and the PM needed to “get down to business”. He said Britain should accept the bloc’s offer of an unprecedented trade and security pact, calling it a “true sign of respect”.
 
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Britain's recovery is proof David Cameron is 'doing something right', says Barack Obama 
-
 None

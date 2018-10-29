@@ -10,6 +10,4 @@
   "start_date": "2013-07-27T03:00:00Z"
 }
 
-# Kills, The
-
 None

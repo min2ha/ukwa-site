@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# New Cumnock Heritage
-
 Site of a local history and heritage group at New Cumnock, Ayrshire.

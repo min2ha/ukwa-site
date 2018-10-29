@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas Tugendhat (@TomTugendhat) on Twitter (Conservative Politician)
-
 Thomas Tugendhat stood as Conservative candidate for Tonbridge and Malling at the 2015 General Election and was elected to serve as MP. He stood for re-election in 2017 and was successful.

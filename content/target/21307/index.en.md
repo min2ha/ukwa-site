@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gary Middleton (@Gary_Middleton) on Twitter (DUP candidate for Foyle)
-

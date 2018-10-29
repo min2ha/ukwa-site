@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Trans*: The Contemporary Politics of Trans*
-
 Video of a presentation by Professor Jack Halberstam, Professor of Gender Studies and English, Columbia University, on Tuesday 15 May 2018 at the Divinity School, St. John's College. Professor Halberstam was speaking about his new book 'Trans*'

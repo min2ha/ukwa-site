@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glenorchy and Innishael linked with Strathfillan
-
 Website for the Parish of Glenorchy and Innishael linked with Strathfillan, in the Argyll Presbytery of the Church of Scotland. 

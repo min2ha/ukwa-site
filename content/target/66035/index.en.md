@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cornhill Highland Games
-
 Site of a highland games at Cornhill, Aberdeenshire.

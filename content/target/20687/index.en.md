@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derek Wann for Angus on Facebook
-
 This is the Facebook page of Derek Wann, the Scottish Conservative candidate for Angus in the 2015 General Election.

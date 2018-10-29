@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: After Labour's election horror, the soul-searching begins
-
 None

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Young Communist League Scotland | YCL in Scotland – For Peace, Jobs and Socialism!
-

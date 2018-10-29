@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Hockey (@ScottishHockey) on Twitter
-
 Official Twitter account of Scottish Hockey.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# George Leslie Limited
-
 The website of George Leslie Limited, a civil engineering contractor based in Barrhead, Scotland. 

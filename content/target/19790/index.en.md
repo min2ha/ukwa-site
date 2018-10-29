@@ -10,7 +10,5 @@
   "start_date": "2015-03-27T09:00:00Z"
 }
 
-# Arthritis Action
-
 Arthritis Action was founded in 1942 in Bournemouth by Charles de Coti-Marsh along with a group of 49 people who had gained relief from the pain of arthritis by following a self-help programme he had developed based on a combination of diet and physical therapy. It became a registered charity in 1985.
 

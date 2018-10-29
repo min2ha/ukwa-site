@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Stabbing brother in the back cost Ed Miliband the election
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonny Mellor
-
 <p>The website of long distance athlete Johnny Mellor, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

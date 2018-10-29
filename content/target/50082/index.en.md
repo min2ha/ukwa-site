@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gilgal Baptist Church
-

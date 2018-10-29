@@ -10,6 +10,4 @@
   "start_date": "2016-09-27T10:00:00Z"
 }
 
-# icelolly.com
-
 icelolly.com is a holiday comparison site, enabling you to search and compare deals on package holidays from some  UK travel companies.

@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# October Gallery
-
 None

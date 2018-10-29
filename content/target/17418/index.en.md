@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservatives, Ukip or Greens: who's winning Facebook? Maybe it doesn't matter
-
 None

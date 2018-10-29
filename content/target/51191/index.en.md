@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Royal Collection
-
 Site of the official residences and art collection of the British monarchy.

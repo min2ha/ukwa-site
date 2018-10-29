@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Ready Scotland: Preparing for Emergencies
-

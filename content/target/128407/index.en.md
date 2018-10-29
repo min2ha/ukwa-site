@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women Welcome Women World Wide (5W)
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Priyanga Burford on Ukip: The First 100 Days
-
 None

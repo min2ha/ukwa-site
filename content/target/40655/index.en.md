@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Social Work Scotland
-
 Site of a leadership organisation for the social work and social care professions in Scotland aiming to give effective leadership, responsive to the needs of the people we support and protect and promoting social justice.

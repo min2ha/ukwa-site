@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Magazine, The: The Easter Rising
-
 Article by Frank Armstrong

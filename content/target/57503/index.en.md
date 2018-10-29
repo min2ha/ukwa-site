@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-#  St. Ronan's Silver Band
-
 Site of a brass band based at St. Ronan's, near Innerleithen in the Scottish Borders.

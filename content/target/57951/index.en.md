@@ -10,6 +10,4 @@
   "start_date": "2017-10-20T09:00:00Z"
 }
 
-# Jonathan Anderson Artist
-
 Jonathan Anderson is a sculpturist who has a studio in Swansea, He was recently awarded the Richard and Rosemary Wakelin Purchase Award, an award that assists Welsh artists of merit whose work is not yet well represented in public collections and to add works by such artists to the permanent collection of the Glynn Vivian Art Gallery. 

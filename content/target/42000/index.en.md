@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: top economic thinktank warns of post-Brexit shocks 
-
 Guardian, The

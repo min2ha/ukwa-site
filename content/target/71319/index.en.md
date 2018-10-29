@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Fiona and Gorwel Owen
-
 Gorwel Owen is a Welsh producer and musician and a member of Pondman with his wife, the poet Fiona Owen. They Welsh alt-pop duo have released three albums.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Schlüter-Systems Ltd.
-
 Manufacturer of architectural profiles, waterproofing and insulation systems.

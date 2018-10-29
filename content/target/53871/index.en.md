@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Hayward (@DrJohnHayward  ) on Twitter (Conservative  Politician)
-
 John Hayward stood as Conservative candidate for Cambridge at the 2017 General Election but was not elected.

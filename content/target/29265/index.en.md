@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwyl Arall (Another) Festival
-
 Gwyl Arall (Another) Festival is a Music festival held in Caernarfon.

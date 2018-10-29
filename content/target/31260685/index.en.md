@@ -10,6 +10,4 @@
   "start_date": "2009-06-30T00:00:00Z"
 }
 
-# UK PubMed Central Blog
-
 UK PubMed Central (UKPMC) is the the UK's online digital archive of full-text, peer-reviewed research publications in the life sciences.  This blog has been created as a way of alerting researchers to: new service developments at UK PubMed Central, changes to publisher policies in terms of open access and self-archiving, relevant news from the open access (OA) blogosphere.

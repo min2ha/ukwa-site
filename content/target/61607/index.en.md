@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology: Overseas Electricity Interconnection
-
 Electricity markets in the UK, Ireland and continental Europe are physically linked by ‘interconnector’ cables. These benefit energy system operators and consumers by reducing prices. They can also help integrate renewable electricity and ensure security of supply. This note discusses these benefits, proposals for future increases in interconnection and the potential effects of Brexit.
 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Jeremy Clarkson announces he wants Britain to stay IN the EU to help create a 'United States of Europe' 
-

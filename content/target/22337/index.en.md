@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alasdair Morrison (@almogarrabost) on Twitter
-
 Twitter profile of Alasdair Morrison, Labour Party candidate for Na h-Eileanan an Iar in the 2015 UK General Election.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Partyrama
-
 A family run party business with both onsite and online retail outlets in the UK.

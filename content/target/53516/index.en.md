@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Myles Stacey (@Myles3D ) on Twitter (Conservative Politician)
-
 Myles Stacey stood as Conservative candidate for Tottenham at the 2017 General Election but was not elected.

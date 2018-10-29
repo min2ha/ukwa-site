@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Magna Carta celebrates 800 years: What parts are still relevant today?
-

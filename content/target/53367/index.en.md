@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen Football Club Heritage Trust
-
 Site of a charitable organisation working closely with Aberdeen Football Club in order to care for and expand upon the historical record and memorabilia of Aberdeen FC and its supporters and the community it serves.

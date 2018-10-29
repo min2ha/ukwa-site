@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Little Venice
-
 Welcome to our website. The Parish of Little Venice is an inclusive community embracing people irrespective of gender, race, age, religious background or sexual orientation.

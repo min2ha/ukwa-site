@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# CILIP: CILIP announces ‘Facts Matter’ campaign for 2017 General Election
-
 CILIP announces the launch of ‘#FactsMatter’, a new General Election 2017 campaign to lobby all political parties to recognise the vital role of facts and evidence in public life.

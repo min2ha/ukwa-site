@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Creu-ad
-
 Creu-ad is a Welsh heritage interpretation body.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent Leave the EU Alliance
-

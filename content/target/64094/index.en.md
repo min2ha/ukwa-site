@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# GirlGangMcr (@GirlGangMcr) on Twitter
-
 Collective of female artists, activists, academics & party instigators! Events & projects which inspire collaboration, creativity, confidence & community! 

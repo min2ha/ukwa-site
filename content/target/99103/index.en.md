@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Scottish National Party
-
 Official website of the Scottish National Party providing information on local news, campaigns and policies.

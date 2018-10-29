@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Action on Sugar: Action on Sugar 2015 Manifesto
-

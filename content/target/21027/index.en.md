@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Margaret Ferrier (@MgtFerrierSNP) on Twitter
-
 The Twitter profile of Margaret Ferrier, the Scottish National Party (SNP) candidate for Rutherglen and Hamilton West in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Asprey
-
 The store, one of the largest luxury goods stores in the world, is the perfect showcase for the extensive range of Asprey products including jewellery and silverware, timepieces, leather goods and silk, china and crystal.

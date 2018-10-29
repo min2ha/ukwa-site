@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BREXY BEAST Boris Johnson reveals his four Brexit ‘red lines’ for Theresa May
-
 In an interview with the Sun, BORIS Johnson laid out his four red lines for Brexit, insisting the  transition period must last “not a second more” than two years. His fresh Brexit intervention was bound to anger Theresa May and risked reopening the  feud among her senior ministers.

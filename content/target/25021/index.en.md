@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Cameron warns Ukip and Lib Dem voters danger of letting Labour and SNP into Downing Street
-
 None

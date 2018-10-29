@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Poorboy
-
 Site of a theatre company based in Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Outrigger Canoe Club (OCC)
-
 The United Kingdom's Outrigger Canoe Club trains in Chiswick, London.

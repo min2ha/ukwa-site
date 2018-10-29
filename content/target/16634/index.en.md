@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories to outspend Labour by 3 to 1 in general election
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Army FA
-
 Website for the Army Football Association. Includes information about teams, coaching, fixtures and results.

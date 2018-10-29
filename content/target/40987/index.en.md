@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Beddau Rugby Football Club
-

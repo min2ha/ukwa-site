@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Dwelly-d : Faclair Dwelly air Iodhne
-
 Site containing the contents of Edward Dwelly's Gaelic to English / English to Gaelic dictionary.

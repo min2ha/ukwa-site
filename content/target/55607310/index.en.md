@@ -10,5 +10,3 @@
   "start_date": "2010-08-19T00:00:00Z"
 }
 
-# Martin Family History Project
-

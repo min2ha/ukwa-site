@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Cwtsh Canolfan Gelfyddydau | Cwtsh Arts centre Handpost
-
 Cwtsh is an arts centre in Newport.

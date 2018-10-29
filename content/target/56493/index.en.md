@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Saline, Steelend and Communities
-

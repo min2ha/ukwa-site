@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Northern Nashville Country Music Club
-
 Site of a country music (United States) club based in Thurso, Highland.

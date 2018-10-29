@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's and St. Peter's
-
 The website of St. Andrew's and St. Peter's, also known as the North Ayrshire Team Ministry of the Scottish Episcopal Church. Churches are St. Andrew, Ardrossan; St. Andrew, Irvine; St. Peter, Dalry.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Tuairisc
-
 Tuairisc provides a news service in Irish for the Irish speaking community in Ireland and abroad. It contains numerous articles on the Easter Rising, 1916

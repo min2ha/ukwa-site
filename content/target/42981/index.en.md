@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Local Energy Action Plan / LEAP
-
 Site of an charitable organisation based in Renfrewshire, aiming to deliver a range of free and impartial services in the local communities to help residents save energy, encourage renewable energy developments, food cooperatives, car and lift sharing.

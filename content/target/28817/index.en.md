@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Aspects - Irish Literature Festival
-
 Festival organised by Aspects Festival

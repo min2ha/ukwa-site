@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Inside Cardiff City
-
 Inside Cardiff City is a Cardiff City and Wales National Team supporters website focusing on news, gossip and match analysis. Inside Cardiff City was first published live in February 2015.

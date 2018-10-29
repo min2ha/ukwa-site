@@ -10,5 +10,3 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Gwyl Geiriau Wrecsam | Wrexham Carnival of Words
-

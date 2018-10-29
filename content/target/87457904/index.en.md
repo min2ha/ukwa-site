@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Knight Cornwell Consulting Ltd
-

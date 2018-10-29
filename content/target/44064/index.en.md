@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# PalMusic
-
 Friends of the Edward Said National Conservatory of Music is a registered UK Charity founded in 2013 to support the musical education of people in or from Palestine.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip stitch up: Did Nigel Farage ever intend to let a woman lead Ukip?
-
 None

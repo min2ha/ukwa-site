@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boss of Rolls-Royce warns Brexit could put their business at risk in a letter to 8,000 employees   
-

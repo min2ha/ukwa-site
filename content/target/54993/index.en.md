@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Self Publish Be Happy
-
 Self Publish, Be Happy is an organization dedicated to shaping contemporary photography and visual culture through publishing, online and offline events, and education programmes

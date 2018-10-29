@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# The British Association of Reinforcement (BAR)
-
 The British Association of Reinforcement (BAR) is a trade association for all UK manufacturers and fabricators of steel reinforcement products including cut, bent bar and mesh.

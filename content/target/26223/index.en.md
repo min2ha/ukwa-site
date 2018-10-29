@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Employment and Related Services Association: The Housing and Work Manifesto
-
 The Employment Related Services Association (ERSA) is the representative body for the employment support sector.  Established in 2005, it exists to help its members achieve their shared goal: to help people gain sustainable employment and to progress in work. 

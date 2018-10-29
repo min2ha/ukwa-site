@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Arloesi Bwyd Cymru | Food Innovation Wales
-
 Food Innovation Wales, backed by Welsh Government, brings together three food centres of excellence dedicated to encouraging the development of the food sector.

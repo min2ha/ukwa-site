@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Bible and the Visual Imagination, The
-
 The Research Centre is based in the School of Theology, Religious Studies and Islamic Studies at the University of Wales Trinity Saint David. 

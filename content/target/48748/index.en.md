@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'There is NO turning back!' David Davis warns Remoaner MPs they will face the full wrath of the public if they use Supreme Court ruling to block Brexit    
-

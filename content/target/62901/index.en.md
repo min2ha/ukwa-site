@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# University of Cambridge Faculty of Mathematics: Stephen Hawking 1942 - 2018
-
 Stephen Hawking  was a graduate of University of Cambridge.

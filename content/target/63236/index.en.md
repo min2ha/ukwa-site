@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# CB1 Community
-
 CB1 Community is an initiative to improve communication between members of the CB1 community, whether they be residents, workers or stakeholders. 

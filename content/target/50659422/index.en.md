@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Sessions of York
-

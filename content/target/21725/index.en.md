@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Q&A with Tory election chief Lynton Crosby cancelled at last minute
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Five graphs that show Labour faces obliteration in Scotland at the hands of the SNP
-
 None

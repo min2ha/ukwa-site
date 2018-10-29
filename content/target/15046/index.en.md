@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Forshaw Heath & Earlswood in Warwickshire
-

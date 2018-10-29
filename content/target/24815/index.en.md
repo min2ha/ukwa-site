@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas O'Malley (Conservative)
-
 Thomas O'Malley stood as Conservative candidate for Ealing North at the 2015 General Election but was not elected.

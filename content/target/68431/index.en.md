@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberuthven and Dunning Parish Church of Scotland
-
 Site of a Church of Scotland parish church for the parishes of Aberuthven and Dunning, Perth & Kinross

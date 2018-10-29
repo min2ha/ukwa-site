@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# HMS Conway
-
 This site is dedicated to those Conways who gave their lives in the two world wars and to the nine captain superintendents and a 'headmaster superintendent' who gave so many so much. The ship was our wooden mother, they were our stern father.

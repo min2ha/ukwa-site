@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gary Neville (@GNev2) on Twitter
-
 Twitter account for the English footballer Gary Neville

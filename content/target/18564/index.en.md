@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Pollard - Plaid Cymru Cardiff Central on Facebook
-
 Martin Pollard is Party of Wales Prospective Parliamentary Candidate for Cardiff Central.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Our South West
-
 None

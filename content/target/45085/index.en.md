@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Royal Blind: Stephen Clegg to follow in athlete siblings' footsteps at Rio 2016 Paralympics
-

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alison Evison Scottish Labour for Aberdeen South and North Kincardine on Facebook
-

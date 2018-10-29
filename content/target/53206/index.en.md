@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal Academy of Engineering: UK national academies letter to party leaders
-
 In advance of the General Election the UK National Academies have written to Party Leaders, highlighting the value of research and innovation in driving UK growth and productivity.

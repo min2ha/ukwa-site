@@ -11,5 +11,3 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sula Collective (@SulaCollective) on Twitter
-

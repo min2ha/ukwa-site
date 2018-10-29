@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: West Fife: the march of suburbia has made my old constituency feel bigger
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Ryder Architecture
-
 International design practice with offices in Newcastle, Glasgow, Liverpool, London and Hong Kong.

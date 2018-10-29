@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# The Ministry of Parenting
-
 The aim of The Ministry of Parenting is to work with children, parents, professionals and organisations developing creative, evidence-based solutions to the challenges faced by families in society today

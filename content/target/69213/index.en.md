@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# NHS Organ Donation (@NHSOrganDonor) on Twitter
-
 Official Twitter account for the NHS Organ Donor Register.

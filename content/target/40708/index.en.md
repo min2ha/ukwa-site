@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Frank went to the Front
-
 Project exploring the important heritage of World War I, focusing on the impact of the war on the town of Slough and on the town's contribution to the conflict.

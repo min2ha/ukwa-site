@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Purple Revolution by Nigel Farage review – a life less extra-ordinary
-
 None

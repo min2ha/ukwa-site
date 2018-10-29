@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Scotland's Urban Past
-
 SIte of a five year project (starting 2015) encouraging communities throughout Scotland to research the buildings and streets in their uban areas and how they have changed over time.

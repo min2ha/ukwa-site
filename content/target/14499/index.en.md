@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Rowan Tree Cancer Care
-
 <p>'Rowan Tree Cancer Care is a local Community based Charity providing emotional and practical support to families living in Rhondda Cynon Taff whose lives have been touched by Cancer'.</p>

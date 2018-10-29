@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kingussie Shinty Club on Facebook
-
 Facebook page for a shinty club located at Kingussie, Highland, Scotland.

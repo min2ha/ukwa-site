@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Renewable Energy Installer: RHI funding row exposed in Northern Ireland
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron should be SACKED if he loses election, say top Tory donors 
-
 None

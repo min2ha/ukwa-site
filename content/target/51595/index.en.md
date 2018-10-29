@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Express, The: ‘We want British firms’: Ireland launches post-Brexit business grab attempt
-
 Express

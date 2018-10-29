@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's pink bus crashes into John Oliver ridicule
-
 None

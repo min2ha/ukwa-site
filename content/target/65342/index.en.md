@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC Sport: Rugby League
-
 The Rugby League sub section of the BBC Sport website.

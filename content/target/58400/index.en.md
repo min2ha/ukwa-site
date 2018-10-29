@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Cranachan Publishing
-
 Site of a book publisher based on the Isle of Lewis.

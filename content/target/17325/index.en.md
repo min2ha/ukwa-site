@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: Lecturing at Harvard and advising the Treasury shows I have 'life experience'
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rajivouseph.co.uk
-
 <p>The website of badminton player Rajiv Ouseph, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

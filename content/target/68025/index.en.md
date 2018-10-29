@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# North Leeds Charity Beer Festival
-
 Website for the North Leeds Charity Beer Festival

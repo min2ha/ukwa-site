@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# #Article50 on Twitter
-

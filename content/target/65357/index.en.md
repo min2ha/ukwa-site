@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mure Parish Church, Irvine on Facebook
-
 Facebook page of a Church of Scotland parish church at Irvine, Ayrshire.

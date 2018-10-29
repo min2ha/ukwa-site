@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Wayne David MP (@WayneDavid_MP) on Twitter
-
 Wayne David is the Labour MP for Caerphilly.

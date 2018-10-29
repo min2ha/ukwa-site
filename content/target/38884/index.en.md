@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Scotland's Outlook
-
 Site of a group of Scottish charities set up to highlight the problems of poverty in Scotland that affects their areas of interest.

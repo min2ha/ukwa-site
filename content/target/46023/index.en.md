@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T11:00:00Z"
 }
 
-# Association of Recruitment Consultancies, The (ARC)
-
 ARC was launched in 2009 as a professional trade association representing recruitment consultancies across all sectors.

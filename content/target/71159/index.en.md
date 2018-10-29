@@ -10,6 +10,4 @@
   "start_date": "2018-09-14T09:00:00Z"
 }
 
-# Barbara Erskine
-
 Barbara Erskine is the author of a number of bestselling novels and collections of short stories dealing with both history and the supernatural. 

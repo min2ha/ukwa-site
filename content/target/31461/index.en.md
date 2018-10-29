@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# StarDot
-
 StarDot is a community site for Acorn Computers: Atom, BBC Micro, Electron and Archimedes.

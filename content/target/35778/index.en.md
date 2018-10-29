@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Stories from County Wexford
-
 This is the website of a project commissioned by The Arts Department of Wexford County Council to produce a new series of short films based on known and unknown 1916 related stories and accounts from throughout County Wexford. 

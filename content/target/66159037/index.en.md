@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Victorian Links: history, literature, art and religion
-
 None

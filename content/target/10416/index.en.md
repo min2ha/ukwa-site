@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anuja Prashar on Twitter (Liberal Democrats candidate for Beckenham)
-
 Anuja Prashar stood as Liberal Democrats candidate for Beckenham at the 2015 General Election but was not elected. 

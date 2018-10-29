@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Mad About Travel 
-
 A Spanish-language travel blog that gives advice on where to stay, what to eat, and what to see in various places throughout Scotland. That content is written by journalist Patricia Cuní. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of East Anglia: Literary Festival
-
 Festival organised by University of East Anglia

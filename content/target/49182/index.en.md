@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# House of Commons Notices of Amendments: European Union (Notification of Withdrawal) Bill
-

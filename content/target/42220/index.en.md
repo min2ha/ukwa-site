@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Our Wee Country (@ourweecountry) on Twitter
-
 Running in parallel with the Our Wee Country website & Facebook Fan Page.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bishop Press (Bishop Auckland's community newspaper)
-

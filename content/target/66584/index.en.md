@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Proposed UK-EU Security Treaty
-
 This House of Lords Library Briefing provides an overview of current UK-EU cooperation on security and justice, as well as a summary proposals by the UK and EU for cooperation in this area once the UK has left the EU.
 

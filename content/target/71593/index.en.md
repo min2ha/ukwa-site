@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millwall Rugby Club
-
 The official website of Millwall Rugby Club. Based on the Isle of Dogs, in London's Docklands near Canary Wharf in East London.

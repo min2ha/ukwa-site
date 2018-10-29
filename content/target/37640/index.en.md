@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Priti Patel insists Brexit women are like suffragettes but she's blasted by Emmeline Pankhurst's great-granddaughter for the 'unacceptable' claims   
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Home Start: All Our Children - Home-Start's manifesto for families
-
 Home-Start helps families with young children deal with whatever life throws at them. They support parents as they learn to cope, improve their confidence and build better lives for their children.

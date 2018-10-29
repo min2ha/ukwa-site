@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Global Scot
-
 Network of business leaders created by Scottish Enterprise.

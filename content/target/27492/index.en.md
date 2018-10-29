@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Labour will 'draw' with the Conservatives for vote share, poll predicts
-
 None

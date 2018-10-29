@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Top MoD mandarin breaks ranks by saying that leaving the EU could HELP British manufacturers  
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# East Ayrshire Council Cabinet: Referendum Events within East Ayrshire
-
 <p>Report proposing procedures for groups intending to stage Referendum events in East Ayrshire, given by the Executive Director of Finance and Corporate Support to East Ayrshire Council Cabinet.</p>

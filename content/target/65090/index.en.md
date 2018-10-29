@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News:  UK must 'resolve contradictions' in border policy
-
 The EU's chief Brexit negotiator told the UK the time had come for it to "resolve the contradictions" in its Irish border policy.
 

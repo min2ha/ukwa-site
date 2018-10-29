@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Andrew R. T. Davies (Conservative AM for South Wales Central)
-

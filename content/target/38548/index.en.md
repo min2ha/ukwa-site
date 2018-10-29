@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# BrianGreenParty (@BrianGreenParty) on Twitter (Green Party candidate for Ceredigion)
-
 Brian Dafydd Williams is the Plaid Cymru candidate for Ceredigion at the 2016 National Assembly Elections. 

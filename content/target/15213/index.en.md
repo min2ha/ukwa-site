@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# PutneySW15.com
-

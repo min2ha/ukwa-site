@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The TabletVerified (@The_Tablet) on Twitter
-
 The Tablet is a weekly Catholic journal which has been reporting on events of significance for 175 years

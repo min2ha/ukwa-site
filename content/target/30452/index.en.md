@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Streetsense2
-
 A Road Safety Scotland learning resource for primary school children.

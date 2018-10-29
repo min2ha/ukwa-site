@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Delyth Evans (@delyth_evans) on Twitter
-
 Labour Parliamentary Candidate for Carmarthen West and South Pembrokeshire.

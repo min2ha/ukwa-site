@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Vacuum Cleaner, The
-
 From one man shows to large scale participatory actions, the vacuum cleaner’s approach aims to be both subtle and extreme, but always candid, provocative and playful.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Medieval Combat Society, The
-
 Founded in 1970 by a group of enthusiastic people who wanted to enjoy fighting and re-enacting the Medieval period to raise money for charity.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: Best for Britain chief campaigning for second referendum compares Brexit to appeasement of Nazi Germany
-
 Brexit was compared to the appeasement of Nazi Germany in the 1930s by a leading supporter of the Remain campaign. Lord Malloch-Brown, the former foreign office minister who heads the Best for Britain group, made the comments after billionaire George Soros announced a campaign for a second Brexit referendum.
 
 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Strichen and Tyrie Parish Church
-
 The website of Strichen and Tyrie Parish Church.

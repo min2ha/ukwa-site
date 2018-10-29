@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T07:00:00Z"
 }
 
-# General Teaching Council for Northern Ireland (GTCNI)
-
 The General Teaching Council for Northern Ireland is the statutory, independent body for the teaching profession and is dedicated to enhancing the status of teaching and promoting the highest standards of professional conduct and practice.

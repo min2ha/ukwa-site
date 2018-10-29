@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Daley Irish Tours: 1916 Easter Rising Centenary Tour
-
 website of Irish tour company

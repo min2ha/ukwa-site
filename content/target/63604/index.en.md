@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Waterstone : Stephen Hawing
-
 Books by Stephen Hawing

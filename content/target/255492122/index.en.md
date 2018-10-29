@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Aber Cycle Fest
-

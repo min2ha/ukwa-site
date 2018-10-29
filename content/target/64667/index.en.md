@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Abacus Lighting Ltd.
-
 Large lighting company specialising in outdoor lighting for roads, car parks, ports etc. as well floodlighting and masts. Based in Sutton-in-Ashfield.

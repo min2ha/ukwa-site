@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Chavtowns
-
 <p>User generated content; exploring themes and social conditions in urban post industrial Britain.</p>

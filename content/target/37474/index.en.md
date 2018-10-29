@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times Higher Education: Universities’ lobbying of the new Conservative government will focus on funding and continuing EU membership
-
 Tuition fees are likely to rise above £9,000 to accompany spending cuts under the new Conservative government, senior figures in the sector have suggested, as universities also prepare a “powerful” public campaign to stay in the European Union.

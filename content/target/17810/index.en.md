@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The new rule of politics: old people get stuff, young people get stuffed
-
 None

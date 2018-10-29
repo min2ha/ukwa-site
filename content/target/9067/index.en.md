@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Methodist Peace Fellowship
-
 The Methodist Peace Fellowship MPF are committed to the way of love and rejection of violence, to reverence for life and respect for every human person as a child of God. 

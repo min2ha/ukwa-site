@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Salvatore fiorello
-
 Salvatore Fiorello is a Cardiff born artist whose works is in private collections in U.K., France, Singapore and Canada.

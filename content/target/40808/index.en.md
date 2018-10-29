@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Thorne & Hatfield Moors Conservation News
-

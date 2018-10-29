@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Isle of Ulva
-
 Site providing tourist information for the island of Ulva, next to Mull, in the Inner Hebrides, Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Criminology at Oxford: Mandela and the Death Penalty
-
 None

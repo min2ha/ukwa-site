@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Anxious, sleepless or paranoid? Experts reveal the signs of social media addition as EVE SIMMONS visits Britain's rehab for web junkies
-
 News article about Gladstones, a private addictions treatment centre that runs a  four-week programme for internet misuse 

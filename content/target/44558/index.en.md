@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Owen Smith, Labour's Future
-
 Campaign website of Owen Smith, MP, in his bid to unseat Jeremy Corbyn as Labour leader

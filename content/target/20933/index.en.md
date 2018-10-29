@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Annie Wells (@Anniewells12) on Twitter
-
 The Twitter profile of Annie Wells, Scottish Conservative and Unionist candidate for Glasgow Provan in the 2016 Scottish Parliament election.

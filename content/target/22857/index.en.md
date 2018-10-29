@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Red House, Merthyr Tydfil
-
 An arts and creative centre in Merthyr Tydfil.

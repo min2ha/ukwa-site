@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# 13th Note, The
-
 Website of The 13th Note, a bar, cafe, and live music venue in Glasgow, Scotland. 

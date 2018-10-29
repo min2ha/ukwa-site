@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Stevenson on Facebook (Conservative candidate for Carlisle)
-

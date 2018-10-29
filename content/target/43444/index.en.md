@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Newsweek: Friends of the Earth: We Risk Too Much to Vote for a Brexit
-
 Samuel Lowe, a board member of Friends of the Earth, writes on how Brexit could remove valuable nature regulations

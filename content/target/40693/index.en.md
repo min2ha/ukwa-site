@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Pedal on Parliament
-
 Word Press site of a grass roots cycling campaign group aiming for Scotland to become a place where active travel is safe and enjoyable for everyone, whether they cycle or not.

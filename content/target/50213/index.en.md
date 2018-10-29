@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: Gibraltar
-
 On 23 June 2016, 95.9% of votes cast in Gibraltar were for the UK to stay in the EU, by far the strongest vote for ‘remain’ of any area eligible to participate in the referendum. Yet the territory is now set to leave the EU along with the UK, and faces significant challenges as a result. Access to the EU Single Market, and to the pool of over 10,000 workers who cross daily into Gibraltar over the border with Spain, has underpinned the development of Gibraltar’s vibrant, service-based economy over recent decades. While Gibraltar’s most important economic relationship is with the UK itself, any loss of access to the Single Market in services, or to its cross-border workforce, could significantly harm Gibraltar’s economy. There could also be a corresponding impact on the economy of the neighbouring region of Spain.

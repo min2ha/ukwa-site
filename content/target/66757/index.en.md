@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Think Reptiles
-
 An online resource for information about Reptile, Amphibian and Invertebrate care

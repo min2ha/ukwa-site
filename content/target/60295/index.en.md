@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Investigator - Grenfell Tower
-
 Job postings for investigators to help with the Grenfell Tower disaster

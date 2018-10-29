@@ -10,6 +10,4 @@
   "start_date": "2016-08-11T10:00:00Z"
 }
 
-# Discover Ulster-Scots
-
 Site of an organisation promoting the history and understanding of Ulster Scots.

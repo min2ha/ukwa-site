@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron blasts Boris for suggesting job losses are a price worth paying for Brexit with a warning 'nothing is more important' than people's financial security 
-

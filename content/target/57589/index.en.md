@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Donald Tusk says not enough progress in talks
-
 Emerging from Downing Street after talks with Mrs May on September 26th 2017, Mr Tusk said: "I feel cautiously optimistic about the constructive and more realistic tone in the prime minister's speech in Florence and of our discussion today

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradford LINk
-
 None

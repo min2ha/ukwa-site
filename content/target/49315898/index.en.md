@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Museum of Computing, The
-
 The National Museum of Computing (TNMOC), located at Bletchley Park, is an independent charity housing the largest collection of functional historic computers in Europe, including a rebuilt Colossus, the world’s first electronic computer.

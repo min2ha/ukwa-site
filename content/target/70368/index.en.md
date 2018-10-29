@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Jesus Christ of Latter-Day Saints
-
 Site of the Church of Jesus Christ of Latter-Day Saints [Mormon] for the United Kingdom and Ireland.

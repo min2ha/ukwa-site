@@ -10,6 +10,4 @@
   "start_date": "2016-02-17T09:00:00Z"
 }
 
-# Great Orme Mines
-
 Great Orme Bronze Age Mines

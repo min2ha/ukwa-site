@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Enniscorthy 1916
-
 This website outlines the initiatives being undertaken in Co. Wexford to commemorate the centenary of the Easter Rising, 1916. It also contains educational resources and scanned images of newspaper articles from the period.   

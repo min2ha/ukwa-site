@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gloucestershire Live: "‘It’s almost like a drug’ - how social media is keeping children up at night and driving some to despair"
-
 Gloucestershire Live article about social media impact on children 

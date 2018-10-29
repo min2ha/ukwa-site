@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Library Campaign, The
-
 The Library Campaign is an independent national organisation set up in 1984 to support Friends of Library groups and to campaign for improved services in publicly funded libraries.

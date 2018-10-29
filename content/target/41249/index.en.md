@@ -10,5 +10,3 @@
   "start_date": "2016-05-19T11:00:00Z"
 }
 
-# Dwyriw Community Council
-

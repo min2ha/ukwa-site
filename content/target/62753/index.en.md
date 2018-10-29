@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Lodge Hilton St. Andrew No. 1220
-
 Site of a masonic lodge located in Dundee and affiliated with the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Potters Bar FilmMakers
-
 Potters Bar FilmMakers, formerly known Potters Bar Cine Video Society, is a film making club based in the town of Potters Bar in Hertfordshire. PBFM publishes a printed newsletter each quarter. They are included on the website in .pdf format.

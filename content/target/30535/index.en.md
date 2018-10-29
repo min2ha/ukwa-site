@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Consumer Council
-
 The Council serves the local community by seeking information, investigating, highlighting and publicising anomalies and irregularities in consumer affairs and to encourage good trading practice by local business, with the assistance of the Trading Standards Service and other States of Jersey departments as appropriate.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ospreys Women (@ospreys_women) onTwitter
-
 Official Twitter feed for Ospreys Women

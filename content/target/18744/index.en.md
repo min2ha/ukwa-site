@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Sorry, David Cameron, but your British history is not mine
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Open Democracy: UK
-
 The UK section of the Open Democracy website which has many articles related to the 2017 General Election.

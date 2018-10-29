@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Independent: Teenage-Mental Crisis: Rates of Depression Have Soared In Past 25 Years
-

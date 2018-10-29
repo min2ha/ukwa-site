@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Holy Redundant: Remove bishops from Parliament
-
 <p>A campaign to call on the government to remove the right of the Church of England to have automatic seats in the House of Lords.</p>

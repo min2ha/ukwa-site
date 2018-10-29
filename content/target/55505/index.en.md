@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Infoengine 
-
 Infoengine is an online directory of third sector services in Wales and primarily covers the Counties and County Boroughs of Powys, Ceredigion, Pembrokeshire, Carmarthenshire, Swansea, Neath Port Talbot, Bridgend and Wrexham. 

@@ -10,5 +10,3 @@
   "start_date": "2010-10-18T00:00:00Z"
 }
 
-# Town & Country Broadcasting Limited
-

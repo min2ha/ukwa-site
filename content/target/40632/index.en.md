@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Greyfriars Kirk
-
 Site of a Church of Scotland church located in central Edinburgh, associated with the signature of the National Covenant in 1638

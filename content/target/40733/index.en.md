@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office: PM speech on the UK's strength and security in the EU: 9 May 2016
-
 Prime Minister David Cameron set out what the UK’s European Union membership means for British strength and security in the world.

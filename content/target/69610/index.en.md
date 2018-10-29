@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Bricks zine (@bricks_magazine) in Twitter
-
 BRICKS is aiming to be an independent platform dedicated to youth culture, a space for emerging creatives to share their voice. This is their Twitter account.

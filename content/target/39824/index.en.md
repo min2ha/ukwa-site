@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Troon SNP (@TroonSNP) on Twitter
-
 Twitter profile of the Troon branch of the Scottish National Party (SNP).

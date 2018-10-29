@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Carers UK
-
 Carers UK is a support organisation helping carers across the UK.

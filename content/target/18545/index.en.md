@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guto Bebb (@GutoBebb) on Twitter
-
 Guto Bebb is Conservative candidate for Aberconwy and current MP.

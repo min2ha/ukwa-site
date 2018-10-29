@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Adref
-
 Adref is a Welsh housing charity devoted to eradicating homelessness in the South Wales Valleys. They manage a range of support services that help people develop skills that will avoid them becoming homeless and accommodation for people that do not have housing.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ronnie Cowan MP – Ronnie Cowan MP for Inverclyde
-

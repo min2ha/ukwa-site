@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Daniel Llewelyn-Williams
-
 Daniel Llewelyn-Williams is an actor, singer, dancer and writer from Newport.

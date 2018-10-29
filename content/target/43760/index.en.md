@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Applied History Network
-
 Applied History Network is a group of PhD students, archivists, and Early Career Researchers committed to politically engaged history.

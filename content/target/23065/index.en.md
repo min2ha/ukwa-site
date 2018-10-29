@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Frances Rehal (@rehalfrances) on Twitter (Labour  Politician)
-
 Frances Rehal stood as Labour candidate for North Thanet at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Roaches, The
-
 None

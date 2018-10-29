@@ -10,5 +10,3 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# University of Wales Trinity Saint David London
-

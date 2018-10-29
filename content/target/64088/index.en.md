@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women and Equalities (@WomenEqualities) on Twitter
-
 We are the UK Government Equalities Office (GEO), responsible for gender & LGBT equality.

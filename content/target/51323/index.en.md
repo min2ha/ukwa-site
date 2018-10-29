@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# British Fantasy Society
-
 Since 1971, the British Fantasy Society has been the focal point for fans, writers, publishers, film-makers, artists… everyone and anyone who is a lover of the fantasy and horror in all their forms.

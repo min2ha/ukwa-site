@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# MYCNCUK
-
 An online enthusiast forum concerned with Computer numerical control Machines. Discusses workshop and equipment, tools and tooling, linear and rotary motion and other specialist CNC topics.

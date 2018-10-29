@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Welwyn Hatfield Times: Free Harry Potter party in Hatfield
-
 Party to celebrate the 20th anniversary of the first Harry Potter book.

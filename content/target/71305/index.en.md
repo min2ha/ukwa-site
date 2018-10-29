@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cathedral of The Isles, The
-
 Site of a Christian Cathedral church and its congregation belonging to the Scottish Episcopal denomination and located at Millport, the isle of Cumbrae, North Ayrshire.

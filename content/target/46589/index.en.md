@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Down's Syndrome Scotland
-
 Site of a parent-led Scottish charity dedicated solely to supporting people with Down’s syndrome and their carers.

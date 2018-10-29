@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# NFU Cymru: Priorities for European elections
-
 The National Farmers' Union Cymru (NFU Cymru) is a member organisation/industry association for farmers in Wales. It is the largest farmers' organisation in Wales.

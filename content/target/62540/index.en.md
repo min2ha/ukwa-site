@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blue Moon MCFC
-
 Blue Moon MCFC is a Manchester City FC fan website.

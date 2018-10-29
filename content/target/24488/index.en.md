@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Exclusive: Michael Gove says 'no deal' with Ukip after election
-
 None

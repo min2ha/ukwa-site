@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# France in the United Kingdom - Embassy of France in London
-
 Website of the French embassy in London offers news and  information on culture, travel, bilateral cooperation and business opportunities

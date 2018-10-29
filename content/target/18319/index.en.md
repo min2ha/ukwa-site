@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# British Ceramics Biennial (BCB)
-
 Back for a fouth time in 2015, Stoke-on-Trent’s British Ceramics Biennial (BCB) will run for 6 weeks from 26 September – 8 November.  The festival will present work from the UK’s leading contemporary ceramic artists in a series of new exhibitions and special events across the city.

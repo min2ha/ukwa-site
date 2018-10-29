@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Teesside University
-
 Official website of the Teesside University, Middlesbrough.

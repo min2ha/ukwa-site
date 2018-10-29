@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit speech by Theresa May divides Welsh parties
-
 Welsh politicians clashed over Theresa May's announcement that the UK should leave the EU single market

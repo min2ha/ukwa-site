@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Dock, Lock and River: INS Tarkash F50 visits London
-

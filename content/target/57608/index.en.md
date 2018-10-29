@@ -10,6 +10,4 @@
   "start_date": "2017-10-01T09:00:00Z"
 }
 
-# Seized by death and prisoners made
-
 I am a Researcher of local history, not so local history and I guess history that isn’t at all local.  I love to write about all this history when I can.  I like to solve mysteries of the Family History variety and help people find their ancestors. I offer a Genealogy Research Service for Kent and East Sussex, England.

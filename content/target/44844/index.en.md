@@ -10,5 +10,3 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Llandrindod Wells and Area Twinning Association
-

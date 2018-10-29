@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Brendan's Parish
-
 Site of a Scottish Roman Catholic parish church located in Yoker, Glasgow.

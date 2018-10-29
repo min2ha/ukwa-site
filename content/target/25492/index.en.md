@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sol Campbell turns skin white to encourage black vote in general election
-
 None

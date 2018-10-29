@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind (@MindCharity) on twitter
-
 A UK based charity aimed at supporting mental health sufferers 

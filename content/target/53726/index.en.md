@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Arika
-
 Site of an Edinburgh based organisation that works to celebrate and support art as it expresses communities’ desires and struggles in creating their lives and worlds.

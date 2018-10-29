@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Trigger
-
 Trigger is a producing organisation led by Angie Bual, who create theatrical experiences where artforms, sectors and interests collide. 

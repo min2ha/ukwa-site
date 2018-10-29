@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Medieval Settlement Research Group (MSRG)
-
 Medieval Settlement Research Group (MSRG) is a multi-disciplinary group that facilitates collaboration between archaeologists, historians, geographers and other interested parties dedicated to developing understanding of settlement between the fifth and sixteenth centuries AD.

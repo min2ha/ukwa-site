@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Hynt
-
 Hynt is an Arts Council of Wales initiative managed by Creu Cymru in partnership with Diverse Cymru. Hynt is a new national access scheme that works with theatres and arts centres in Wales to make sure there is a consistent offer available for visitors with an impairment or specific access requirement, and their Carers or Personal Assistants. 

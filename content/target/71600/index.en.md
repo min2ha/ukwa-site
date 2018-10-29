@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Remainer bid to force Corbyn to back Brexit referendum is BLOCKED at Labour conference - as his allies say staying in the EU would NOT be an option even if national vote is held
-

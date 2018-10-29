@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM and Italian Prime Minister Renzi statements in Rome: 27 July 2016
-
 Prime Minister Theresa May and Prime Minister Matteo Renzi of Italy gave statements to the press following their meeting in Rome in the context of Britain's decision to leave the EU

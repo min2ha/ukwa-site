@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas’ Church of England, Blackpool
-
 Official website of St. Thomas’ Church of England, Blackpool.

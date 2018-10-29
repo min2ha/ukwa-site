@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# All Back To Bowie's on Twitter
-

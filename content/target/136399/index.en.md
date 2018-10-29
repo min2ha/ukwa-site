@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Eaves Housing
-
 None

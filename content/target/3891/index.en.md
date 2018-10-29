@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Wales Online
-
 WalesOnline - News, sport, weather, politics, business, jobs and lifestyle in Wales.

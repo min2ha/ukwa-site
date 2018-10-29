@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Christopher Langley
-
 Chris Langley is a Welsh artist inspired by the landscape and the people of Wales. He is artist in residence at the Celtic Manor Resort.

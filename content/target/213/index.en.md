@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Wolverhampton NHS Trust
-
 None

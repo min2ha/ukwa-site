@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Good Aid Cathedral Motherwell
-
 Site of a Scottish Roman Catholic parish and cathedral church located in Motherwell, Lanarkshire.

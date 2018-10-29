@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Luath Press Limited
-
 Luath Press are an independent book publishers based in Scotland.

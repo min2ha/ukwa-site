@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Beattie-Smith on Facebook
-
 This is the Facebook page of Sarah Beattie-Smith, the Scottish Green Party candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Warrington RUFC (@WarringtonRUFC) on Twitter
-
 The official Twitter account of Warrington RUFC.

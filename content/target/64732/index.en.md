@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# UK Defence Journal
-
 Impartial and Current. The UK Defence Journal brings you the latest defence news from the UK and key international insight.

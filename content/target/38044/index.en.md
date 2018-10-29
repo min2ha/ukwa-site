@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Remove the Spin
-
 Aims to provide a facility where individuals can easily navigate content from the many viewpoints to enable them to make a well-informed decision.

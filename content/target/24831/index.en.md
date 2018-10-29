@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Purna Sen on Facebook Labour candidate for Brighton Pavilion 
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cathcart Old Old Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church in Glasgow.

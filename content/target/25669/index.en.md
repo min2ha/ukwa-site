@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: No one who backs the UK can deny the legitimacy of the SNP
-
 None

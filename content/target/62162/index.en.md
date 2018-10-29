@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Social Media Companies Must Step Up To The Plate And Help Us Tackle Mental Health Issues Online
-
 Blog post written by Jeremy Hunt the current Secretary of State for Health and Conservative MP for South West Surrey covering social media the internet and mental health and inititatives that he belivies could have a positive impact

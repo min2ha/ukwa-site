@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# BBC Dish UP
-
 A website to provide inspiration and assistance for beginner cooks through the programme BBC Dish Up. 

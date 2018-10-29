@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Standard Evening 
-
 Spoof online version of  the London's Evening Standard

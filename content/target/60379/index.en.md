@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cynon Valley Church
-

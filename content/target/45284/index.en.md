@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T12:00:00Z"
 }
 
-# Jobina Tinnemans
-
 Jobina Tinnemans is a contemporary composer working in 'crossover disciplines of electronic and classical music'. Tinnemans is from near Maastricht, but lives in Pembrokeshire. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: some legal, constitutional and financial unknowns
-
 This Commons Library briefing looks at some of the basic ‘unknowns’ relating to Brexit. The unknowns cover areas such as a role for the UK Parliament and the devolved legislatures in the Brexit process, relations with the EU institutions, the economic impact on the UK, and changes to citizens’ rights

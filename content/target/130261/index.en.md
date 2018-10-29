@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Wellcome Trust: The Human Genome
-
 Your genes, your health and your future. Explore the human genome, and the impact of human genes on health, disease and society. 

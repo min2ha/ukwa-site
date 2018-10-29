@@ -10,5 +10,3 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Flint Male Voice Choir | Côr Meibion y Fflint 
-

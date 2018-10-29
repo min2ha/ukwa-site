@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Young Minds: No Harm Done
-
 A Young Minds UK project to help prevent self harm and offer support to young people who inflict self harm. It provides information, toolkits and resources for young people, parents and mental health professionals.

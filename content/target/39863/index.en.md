@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Grenville Ham on Facebook (Green Party candidate for Brecon & Radnorshire)
-
 Grenville Ham is the Green Party candidate for North Wales at the 2016 National Assembly Election.

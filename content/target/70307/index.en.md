@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rotherham United LFC (@RULFC_official) on Twitter
-
 The official Twitter account of Rotherham United Ladies Football Club.

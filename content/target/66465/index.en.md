@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# London Halal Festival
-
 celebration of the world’s most delicious Halal food & drink from over 100 international exhibitors, plus shopping and entertainment

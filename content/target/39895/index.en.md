@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus Mearns LibDems (@AngusMearnsLD) on Twitter
-
 Twitter profile of the Angus, Stonehaven & the Mearns branch of the Scottish Liberal Democrats.

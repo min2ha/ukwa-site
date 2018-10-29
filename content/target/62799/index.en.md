@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Wonder Women (@WonderWomenMcr) on Twitter
-
 Feminist festival celebrating art, music, film, debate and Manchester women. Throughout March 2018.

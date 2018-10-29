@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Burntisland.net
-
 Site providing information about sport, recreation, leisure, businesses, history and amenities in the town of Burntisland in Fife, Scotland

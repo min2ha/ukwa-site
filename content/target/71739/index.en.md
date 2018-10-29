@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Cathedral, Aberdeen
-
 Site of a Christian cathedral church and its congregation belonging to the Scottish Episcopal denomination and located in Aberdeen.

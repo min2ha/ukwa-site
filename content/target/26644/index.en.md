@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg – the inoffensive ordinary guy who could have been great 
-
 None

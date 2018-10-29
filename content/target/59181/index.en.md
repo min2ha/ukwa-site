@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Edinburgh University Orienteering Club
-
 Site of an orienteering club attached to the University of Edinburgh.

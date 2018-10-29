@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# River Nith - Fisheries Management
-
 The Nith District Salmon Fishery Board and the Nith Catchment Fishery Trust website.

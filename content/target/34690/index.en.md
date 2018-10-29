@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Christina McKelvie MSP
-
 Christina McKelvie is Scottish National Member of the Scottish Parliament for Hamilton, Larkhall and Stonehouse.

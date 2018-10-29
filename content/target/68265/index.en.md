@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Slopemeister Brewing Company
-
 Site of a brewer based in Scotland.

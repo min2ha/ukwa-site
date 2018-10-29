@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoke Rugby (@StokeRugby) on Twitter
-
 The official Twitter account of Stoke on Trent Rugby Union Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Crows Nest zine
-
 Tumblr site for an online magazine based in Edinburgh, Scotland.

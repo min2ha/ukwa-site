@@ -10,6 +10,4 @@
   "start_date": "2016-08-31T10:00:00Z"
 }
 
-# Road North, The
-
 A poem describing a journey through Scotland, 2010-2011.

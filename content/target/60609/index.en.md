@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cowshed Loyal (@CowshedLoyal) on Twitter
-
 Huddersfield Town supporters group.

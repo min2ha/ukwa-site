@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Camphill Scotland
-
 Site of a Scottish Charitable Incorporated Organisation providing leading care services for people with learning disabilities and other support needs, catering for children, adults and older people through day care, residential care services and schools.

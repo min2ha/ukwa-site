@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Centre for Local Economic Strategies (CLES) 
-
 Centre for Local Economic Strategies (CLES) is an independent charitable research and member organisation, with a focus on economic development, regeneration and place-making.   

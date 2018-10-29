@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chichester Observer
-
 None

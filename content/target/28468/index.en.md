@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Marine Lives
-
 The Marine Lives collaborative public history project was established in 2012 to digitise, transcribe and annotate the manuscript records of the English High Court of Admiralty from the 1650s and 1660s. The original records are held at the National Archives in Kew.

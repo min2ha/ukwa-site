@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Muir Homes Limited
-
 The website of Muir Homes Limited, a company that designs and builds residential buildings and homes. Muir Homes Limited is part of J W Muir Group plc.

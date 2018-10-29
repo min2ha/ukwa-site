@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# British Music Experience
-
 The British Music Experience is based at the Cunard Building on Liverpool's Waterfront.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nick Perry (@nickperrylibdem ) on Twitter (Liberal Democrat Politician)
-
 Nick Perry stood as Liberal Democrat candidate for Hastings & Rye at the 2017 General Election but was not elected.

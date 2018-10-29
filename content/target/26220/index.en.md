@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Design Council: Designing for a Better Britain
-
 Established in 1944 to demonstrate the value of industrial design in reviving post-war Britain, the Design Council is now an enterprising charity which works to improve people's lives through the use of design.

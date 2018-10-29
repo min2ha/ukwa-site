@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindsay McCallum (@mcc_linds) on Twitter
-
 The Twitter profile of Lindsay McCallum, the Conservative Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

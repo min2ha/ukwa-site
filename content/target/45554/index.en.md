@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Dead Trees and Dye Zine Distro
-
 Dead Trees and Dye is an online shop and zine distro operated by Peter Willis. It was founded in 2004. 

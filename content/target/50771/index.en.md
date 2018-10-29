@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Office of First Minister of Scotland: First Minister Speech, Bute House, March 13th 2017
-
 Scottish First Minister Nicola Sturgeon announces her commitment to securing a second referendum on independence at the end of the Brexit negotiations between Autumn 1918 and Spring 1919.

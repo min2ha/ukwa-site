@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Shropshire CCG
-
 Shropshire Clinical Commissioning Group’s main role is to plan and buy high-quality, value-for-money health care services from a range of healthcare providers on behalf of Shropshire people. 

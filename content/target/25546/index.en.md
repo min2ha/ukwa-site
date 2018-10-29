@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Caroline Lucas's popularity presents the Greens with a tough dilemma
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Chernobyl Children's Lifeline
-
 Our charity was established and registered in 1992 by Victor Mizzi O.B.E. to support the children (and their families) from Belarus and Ukraine forever affected by the nuclear disaster.

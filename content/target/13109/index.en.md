@@ -10,5 +10,3 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# British Printing Industries Federation (BPIF)
-

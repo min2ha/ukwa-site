@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Michael Davitts GAC
-
 Michael Davitts GAC is a handball team from Belfast, Antrim, Northern Ireland.

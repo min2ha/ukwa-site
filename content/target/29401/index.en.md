@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Army Parachute Association (APA), The
-
 The Army Parachute Association (APA) has charitable objectives which are to promote and support sports parachuting for military personnel, active and retired. 

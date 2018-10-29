@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Tobar an Dualchais (@TobarDualchais) on Twitter
-
 Twitter profile of Tobar an Dualchais, "Gaelic and Scots audio archives from Edinburgh University, National Trust of Scotland and the BBC".

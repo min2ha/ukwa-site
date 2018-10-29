@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Alun Crockford
-
 Tenby born photographer Alun Crockford is a leading Welsh photographer whose work is held in many private collections. 

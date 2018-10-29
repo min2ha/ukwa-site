@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Leighton Andrews (@LeightonCymraeg) on Twitter (Labour candidate for Rhondda)
-
 Leighton Andrews is the Labour candidate for Rhondda at the 2016 National Assembly Election. 

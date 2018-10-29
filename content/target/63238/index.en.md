@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Digital Ambassadors
-
 Digital-Ambassadors.co.uk is a not for profit organisation dedicated to helping you. Our online service is absolutely free of charge.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Digital Festival 
-
 The Gwyl Digidol is Wales’ leading Digital, Innovation & Tech event. It is supported by the Welsh Government.

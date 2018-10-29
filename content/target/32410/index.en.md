@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Royal Society of Painter-Printmakers
-
 The Royal Society of Painter-Printmakers is the UK's printmaking organisation. It is based is Bankisde Gallery in Central London. The society was founded in 1880.

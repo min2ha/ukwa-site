@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Conversation, The: Stephen Hawking
-
 The Conversation is an independent source of news and views, sourced from the academic and research community and delivered direct to the public. These are the articles relating to Stephen Hawking.

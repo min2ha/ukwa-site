@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Clydesdale Bank: Sir William Arrol and the Forth Bridge
-

@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Curious world of Becky Adams, The
-
 Becky Adams is an applied artist based in Penarth.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# City of Stirling SNP (@StirlingCitySNP) on Twitter 
-
 Twitter profile of the City of Stirling branch of the Scottish National Party (SNP).

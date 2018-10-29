@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Template for a poor poll experience
-
 EU poll shows we still have a long way to go on making voting accessible, equal and independent, says Ian Macrae.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Clinks
-
 Clinks supports, represents and campaigns for the voluntary sector working with offenders. 

@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Chegworth Valley
-
 Chegworth Valley is a family owned and run fruit farm situated in the heart of the Kent countryside, not far from the village of Harrietsham.  Established by the Deme family in 1983, the farm had originally been a dairy farm as part of the Leeds Castle Estate.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: British politics isn’t so much rotten as past its use-by date
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Giffnock South Parish Church
-
 Site of a Church of Scotland parish church at Giffnock, East Renfrewshire.

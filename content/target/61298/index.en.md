@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# National Doughnut Week
-
 National Doughnut Week is a week in May where businesses including bakers, coffee shops, offices and educational establishments take part and sell lots of doughnuts to raise funds for The Children’s Trust. 

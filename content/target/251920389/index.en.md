@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jackie Baillie MSP
-
 Jackie Baillie is Scottish Labour member of the Scottish Parliament for Dumbarton.

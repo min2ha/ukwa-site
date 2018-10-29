@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Homeless Action Scotland
-
 Site of a charitable organisation established to improve the conditions of homeless people and those at risk of becoming homeless throughout Scotland.

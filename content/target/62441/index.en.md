@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Lanarkshire Community Food and Health Partnership
-
 Site of a local charitable organisation working throughout North Lanarkshire supporting local communities improve their health through better diet.

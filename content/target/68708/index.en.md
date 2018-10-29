@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# House of Commons Library: Implications for Scotland of leaving the EU
-
 Beyond renewed calls from the Scottish Government for a second independence referendum, which the UK Government rejected, there are many as of yet unanswered questions as to the implications of “Brexit” for Scotland and its devolution settlement. This debate pack provides an overview of the key issues at stake.
 

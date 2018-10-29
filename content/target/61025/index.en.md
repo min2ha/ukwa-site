@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Barnabas GAC (@Nottingham_GAA) on Twitter
-
 Established in 1958, Gaelic Athletic Club, Currently play in the Warwickshire league, Mens and Ladies Football Home games is Trinity School Aspley

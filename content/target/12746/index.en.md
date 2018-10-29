@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JJ Jegede - GB Athlete & London Personal Trainer
-
 <p>The website of long jumper JJ Jegede, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

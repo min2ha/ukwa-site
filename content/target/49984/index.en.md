@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Guardian, The: Voting under way in Northern Ireland assembly elections
-

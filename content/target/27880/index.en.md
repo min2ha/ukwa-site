@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# TES, The
-
 The TES is a digital community and online network of teachers. 

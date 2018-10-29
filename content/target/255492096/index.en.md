@@ -10,6 +10,4 @@
   "start_date": "2014-06-27T08:00:00Z"
 }
 
-# National Prescribing Centre (NPC)
-
 None

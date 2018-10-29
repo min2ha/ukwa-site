@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Constitution Committee: Taxation (Cross-border Trade) Bill
-
 The Committee highlights that the Bill is a piece of framework legislation, as it includes only limited policy detail and instead provides broad delegated powers to ministers to create a new customs regime. The Committee builds on the report of the Delegated Powers and Regulatory Reform Committee on the Bill and raises concerns about the constitutional implications of the proposed powers.
 

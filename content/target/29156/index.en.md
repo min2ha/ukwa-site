@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# NPower
-
 RWE npower is a leading integrated UK energy company. They supply gas, electricity and related services to residential and business customers and operate and manage a flexible portfolio of coal, gas and oil-fired power stations.

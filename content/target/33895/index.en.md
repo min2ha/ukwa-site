@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Little Theatre Guild, The 
-
 The Little Theatre Guild is the umbrella organisation to co-ordinate the development of independent amateur theatres across the UK and beyond. 

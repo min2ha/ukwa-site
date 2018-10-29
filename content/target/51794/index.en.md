@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Heart RC Church, Ystradgynlais
-

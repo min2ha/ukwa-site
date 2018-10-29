@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Association of Art Historians (AAH)
-
 None

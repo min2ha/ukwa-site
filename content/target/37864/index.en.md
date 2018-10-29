@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# King's Men, The 
-
 Project aiming to research the stories of all the men of the King's Sandringham Company of 5th Battalion, The Norfolk Regiment who died in the famous action of 12th August 1915 in Gallipoli.

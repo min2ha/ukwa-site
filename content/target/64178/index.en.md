@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# BritishIrishChamber (@BrIreCham) on Twitter
-
 British Irish Chamber of Commerce REPRESENTING: INFLUENCING: NETWORKING: SUPPORTING The Focal Point of British Irish Business

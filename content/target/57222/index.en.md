@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Camrose Community, Pembrokeshire, The
-
 Community website to the village of Camrose in Pembrokeshire.

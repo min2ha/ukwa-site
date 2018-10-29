@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# London Radical Book Fair
-
 The London Radical Bookfair is organised by the Alliance of Radical Booksellers (ARB),  which formed in 2011 to raise awareness of the radical book trade. Booksellers, publishers, artists and activists all take part in the event, which features echibitions and stalls as well as speakers. 

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# History Show, The
-
 This webpage hosts podcasts from RTÉ's 'The History Show', and contains discussions of numerous aspects of the Easter Rising, 1916.

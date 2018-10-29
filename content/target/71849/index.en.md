@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: I MAY RUN Boris Johnson in Brexit bombshell as he refuses FOUR times to rule out toppling Theresa May if she won’t dump Chequers
-
 In an interview with the BBC ahead of the 2018 Conservative Party conference, Boris Johnson refused four times to rule out standing against Theresa May if she would not dump her Chequers plan for Brexit.
 

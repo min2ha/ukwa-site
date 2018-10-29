@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Donelan (@michelledonelan) on Twitter (Conservative Politician)
-
 Michelle Donelan stood as Conservative candidate for Chippenham at the 2015 General Election and was elected to serve as MP. She subsequently stood for re-election in 2017 and was successful. 

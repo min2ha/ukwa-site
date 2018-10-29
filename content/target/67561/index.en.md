@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Recovery Across Mental Health (RAMH)
-
 RAMH promotes recovery from mental ill health, and empowers people to build independent, fulfilled lives.

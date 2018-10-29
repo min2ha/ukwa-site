@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Waterstones
-
 Waterstones is a British book retailer.

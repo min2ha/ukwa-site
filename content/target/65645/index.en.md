@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Bois Goetre Hen
-
 Bois Goetre Hen are a choir who rehearse at Tondu near Bridgend. 

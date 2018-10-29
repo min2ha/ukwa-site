@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon used to be a ‘historical fiction geek’. But not any more
-
 None

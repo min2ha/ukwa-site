@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lesley Brennan, Scottish Labour, Dundee East 
-
 Website of Lesley Brennan, Scottish Labour candidate for Dundee East in the May 2015 UK General Election.

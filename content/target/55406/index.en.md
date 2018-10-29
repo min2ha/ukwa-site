@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May: Brexit Essentials: Legally Leaving: The Great Repeal Bill White Paper
-
 On 30 March 2017, the Government published a White Paper titled “Legislating for the United Kingdom’s Withdrawal from the European Union” which describes the scheme of the Great Repeal Bill. This briefing comments on the White Paper
 
 

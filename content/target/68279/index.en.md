@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reeds Weybridge RFC (@reedsweybridge) on Twitter
-
 The official Twitter account of Reeds Weybridge Rugby Football Club.

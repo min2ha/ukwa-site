@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Hoy Heritage
-
 WordPress site for a heritage centre and local history group based in Hoy, Orkney.

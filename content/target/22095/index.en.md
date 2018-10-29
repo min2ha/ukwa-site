@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Louise Ellman (Labour candidate for Liverpool Riverside)
-

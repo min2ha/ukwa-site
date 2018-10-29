@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Financial Services Commission
-
 The Commission is responsible for the regulation, supervision and development of the financial services industry in the Island of Jersey.

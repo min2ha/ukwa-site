@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Runnymede Trust: Racism and inequality: The truth about Brexit
-
 Discussion around the Brexit vote has become synonymous with debates on immigration. The prevailing narrative has been that the number of immigrants to the UK, particularly since 2004, has had an enormous impact on the British voters ‘left behind,’ – lowering their wages, taking their jobs, overwhelming public services and increasing the crime rates. But this debate has been considerably unbalanced, focusing on the apparent impact of EU migrants on ‘left behind’ British voters, while ignoring the real causes of inequality and voters’ concerns.

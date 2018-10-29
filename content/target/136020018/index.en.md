@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shropshire Community Health NHS Trust
-
 None

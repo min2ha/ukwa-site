@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Short Story Festival
-
 London Short Story Festival

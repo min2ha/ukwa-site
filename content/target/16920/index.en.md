@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Solar Power Portal
-
 The Solar Power Portal is a renewable energy resource for all UK solar power and feed-in tariff information.

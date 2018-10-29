@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# New College of the Humanities
-
 Official website of the New College of the Humanities, London.

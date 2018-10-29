@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Argyll&Bute Council (@argyllandbute) on Twitter
-
 Argyll and Bute Council's twitter profile.

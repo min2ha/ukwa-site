@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hugh Moodie (@hughshugmoodie) on Twitter
-
 Twitter profile of Hugh Moodie, the Scottish National Party list candidate for Highlands & Islands region in the 2016 Scottish Parliamentary election.

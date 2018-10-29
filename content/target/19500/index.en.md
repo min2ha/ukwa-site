@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# University of Lincoln: Lincoln Magna Carta Conference
-

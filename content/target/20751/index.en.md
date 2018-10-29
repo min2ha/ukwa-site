@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Chapman on Facebook
-
 This is the Facebook page of Douglas Chapman, the Scottish National Party (SNP) candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

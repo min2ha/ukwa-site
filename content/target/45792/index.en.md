@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# The Labour plotters are right: it‘s definitely Jeremy Corbyn who needs to ‘learn lessons’ from the last few months
-
 A satirical article about the response of the anti Corbyn supporters to the Labour Leadership result in September 2016.

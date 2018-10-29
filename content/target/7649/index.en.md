@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# British Property Federation (BPF)
-
 British Property Federation (BPF) is a not-for-profit membership organisation representing companies involved in property ownership and investment.

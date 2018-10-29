@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# South East Forum for Sustainability (SEFS)
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: How the images you post on Instagram reveal more than you realise about your state of mind 
-
 Daily Mail article about Instagram and Mental health

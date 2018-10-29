@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# Gazetteer for Scotland
-
 Site of a database of of places and people in Scotland, set up as an academic partnership project.

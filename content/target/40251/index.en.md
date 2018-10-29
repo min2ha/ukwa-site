@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Liz Kendall challenges Priti Patel to EU debate at their old school 
-
 Guardian, The

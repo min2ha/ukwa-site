@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Margarets Community Website
-
 This site was created by a group of local residents of St Margarets, Middlesex. Their mission is to help foster a stronger community identity. All the work is volunteer.

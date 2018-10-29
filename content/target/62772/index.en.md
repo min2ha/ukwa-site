@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Manchester Womens Aid
-
 Manchester Women’s Aid Domestic Abuse Service offers information, advice and support about domestic and sexual violence.

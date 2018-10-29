@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Association of Renal Technologists, The (ART)
-
 The purpose of ART ﻿﻿ is to promote the field of work shared by technicians, technologists, engineers, scientists and other members of the multi-professional team working within the sphere of Renal Technology.

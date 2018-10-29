@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Find Me A Player
-
 A sub site of This Girl Can where players or teams can advertise spaces on different clubs.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tottenham Hotspur (@SpursOfficial ) on Twitter
-
 Official Twitter account of Tottenham Hotspur

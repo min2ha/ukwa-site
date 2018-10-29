@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Former Labour spin doctor Alastair Campbell admits he believed his own propaganda that Ed Miliband could win
-
 None

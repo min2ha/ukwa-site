@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# North Ayrshire Council: Young people ready for their first vote
-
 None

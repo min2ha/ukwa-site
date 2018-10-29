@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Arts Council of Northern Ireland 
-
 The Arts Council of Northern Ireland is the development and funding agency for the Arts in Northern Ireland. They distribute public money and National Lottery funds to develop and deliver a wide variety of arts projects, events and initiatives across Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# National Trust for the Cayman Islands  
-
 Established in 1987.

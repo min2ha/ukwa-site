@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lord Toby Jug on Facebook (The Eccentric Party of Great Britain (UK))
-

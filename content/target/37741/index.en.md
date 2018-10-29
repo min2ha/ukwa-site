@@ -10,6 +10,4 @@
   "start_date": "2016-04-01T10:00:00Z"
 }
 
-# Mike Priestley (@Priestley4am) on Twitter (Labour candidate for Aberconwy) 
-
 Mike Priestley is the Labour candidate for Aberconwy at the 2016 National Assembly Elections.

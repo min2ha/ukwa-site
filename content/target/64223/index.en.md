@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Birse and Feughside Church
-

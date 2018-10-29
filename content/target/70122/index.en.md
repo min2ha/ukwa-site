@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Jeremy Hunt: EU must change its approach to avoid no-deal Brexit
-
 Jeremy Hunt called on the EU to change its approach on Brexit, and said the risk of failing to reach a deal had risen in recent weeks. The British foreign secretary was speaking at the start of three-day tour of continental Europe in August 2018 aimed at persuading member states to back Theresa May’s Brexit plan.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Former Tesco boss Sir Terry Leahy: 'We should stay in the EU'    
-

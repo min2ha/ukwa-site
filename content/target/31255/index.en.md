@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Cornish Guardian
-

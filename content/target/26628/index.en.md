@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liz Kendall: Labour must back Europe referendum and embrace business
-
 None

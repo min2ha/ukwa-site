@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Veterinary Association (BVA)
-
 BVA is the national representative body for the veterinary profession in the UK. They guide their members throughout their careers, from student to retirement, with the support and knowledge they need to achieve their goals, and speak up for them on the issues that matter most.

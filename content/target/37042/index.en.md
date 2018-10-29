@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Economist, The: David Cameron strikes a European Union deal
-

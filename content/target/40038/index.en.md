@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# The Queen Mary :  A World-Class Maritime Landmark And A Community Asset  
-
 An independently operated website about the ocean liner R.M.S. Queen Mary now docked at Long Beach, California. The website includes a deck-by-deck tour of the ship and proposals for the ship's renovation.

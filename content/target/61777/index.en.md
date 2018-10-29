@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Gwasanaeth Cerdd Ysgolion Gwynedd a Môn
-
 Gwasanaeth Cerdd Ysgolion Mon a Gwynedd is a Local Authority Music Service working in collaboration with the two counties providing support to music initiaitives within the county for young people.

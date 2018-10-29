@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanjit Jhund, Labour Party Candidate for East Dunbartonshire
-
 This is the website of Amanjit Jhund, the Labour Party candidate for East Dunbartonshire in the UK General Election on the 7th May 2015.

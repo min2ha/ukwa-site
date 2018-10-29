@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Pembrey Country Park & Beach | Traeth a Pharc Gwledig Pen-bre 
-
 Pembrey Country Park is a country park near the village of Pembrey, Carmarthenshire, and the town of Llanelli and consists of some 500 acres (200 ha) of parkland. The park contains visitor attractions such as ski slope, adventure play areas, a miniature railway and mountain bike trails.

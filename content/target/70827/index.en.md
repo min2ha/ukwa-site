@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# My Horrid Parent
-
 The horrid parent website aims to help readers navigate the difficult and often isolating relationship with a difficult parent.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Neil Findlay | A Different Kind of Politician
-
 Neil Findlay is the Scottish Labour candidate for Almond Valley in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Runner's World: Nelson Mandela brought South Africa's runners out of the shadows 
-
 <p>Blog post that describes South Africa's isolation from world athletic events during the period of Nelson Mandela's imprisonment, and Mandela's relationship with sport.</p>

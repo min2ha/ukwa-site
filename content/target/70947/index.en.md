@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What's the Brexiteers' alternative plan?
-
 Reports that pro-Brexit MPs were planning to launch their alternative plan for EU withdrawal in September 2018.

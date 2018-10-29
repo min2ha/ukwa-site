@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bride's Roman Catholic Parish, Pitlochry 
-
 Site of a Roman Catholic church in Scotland for the parish of St. Bride's, Pitlochry, Perth & Kinross

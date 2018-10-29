@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Angela Crawley (@CrawleyAngela) on Twitter
-
 The Twitter profile of Angela Crawley, the Scottish National Party (SNP) candidate for Lanark and Hamilton East in the UK General Election on the 7th May 2015.

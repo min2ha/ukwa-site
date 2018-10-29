@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Dafydd James
-
 Dafydd James is an award-winning writer, composer and performer, working in theatre, radio and television.

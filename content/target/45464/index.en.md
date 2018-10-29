@@ -10,5 +10,3 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Gwydir Castle
-

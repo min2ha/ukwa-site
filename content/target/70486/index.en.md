@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiteers have lost sight of the greatest free trade prize of all
-

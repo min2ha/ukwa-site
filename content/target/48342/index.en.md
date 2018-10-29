@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Malvina House Hotel 
-
 Malvina House Hotel is located in Stanley, capital of The Falkland Islands.  

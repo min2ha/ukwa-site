@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library:  Brexit: how will it affect transport?
-
 This paper discusses the impact of Brexit on the four main transport policy areas: aviation, railways, roads and road-based public transport, and maritime.

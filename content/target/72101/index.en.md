@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Mamhilad Consultation
-
 Johnsey Estates own the former British Nylon Spinners factory in Mamhiland, Pontypool. This is their planning application to Torfaen Council for a contemporary urban village set within an attractive landscaped setting. It will harness the considerable local built and natural environmental resources to create a new highly sustainable community where people will wish to live, work and visit. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Parilament: Bill documents - European Union Referendum Act 2015
-
 Official site of the UK Parliament  

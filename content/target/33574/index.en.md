@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Cardiff Rivers Group (CRG)
-
 Cardiff Rivers Group (CRG) aims  to visibly improve cleanliness of the rivers and waterways in Cardiff and surrounding areas.

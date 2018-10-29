@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ruth Jones (@ruthjoneswales) on Twitter 
-
 Ruth Jones is the Labour candidate for Monmouth at the 2017 General Election.

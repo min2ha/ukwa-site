@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Call me ‘remoaner-in-chief’, but I won’t be voting to trigger article 50
-

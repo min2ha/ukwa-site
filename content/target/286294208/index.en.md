@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# McLaren 2014
-
 <p>McLaren 2014 is a programme of events celebrating the centenary of pioneering Scottish artist, filmmaker and musician, Norman McLaren. Part of the Glasgow 2014 Cultural Programme.</p>

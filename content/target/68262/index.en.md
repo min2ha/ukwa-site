@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Platform 22 on Facebook
-
 Facebook page of a brewer located at Torphins, Aberdeenshire.

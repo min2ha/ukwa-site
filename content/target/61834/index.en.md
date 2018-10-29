@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Inverclyde Roller Derby on Facebook
-
 Site of a skating roller derby team based in Greenock.

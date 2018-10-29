@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour MP who savages tax avoiders 'had £1.5m shares in offshore tax haven'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Nantmel Church in Wales School
-
 Nantmel Church in Wales School is a Radnorshire school due to close at the end of 2016.

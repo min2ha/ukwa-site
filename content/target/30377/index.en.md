@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cronfa Genedlaethol William Salesbury
-
 Fund set up to help those who wish to pursue their Higher Education studies through the medium of Welsh.

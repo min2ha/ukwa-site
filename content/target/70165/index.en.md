@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cliftonville FC Live (@Cliftonville187) on Twitter
-
 Unofficial Cliftonville Live Match Days.

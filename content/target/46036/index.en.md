@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Axon Theatre
-
 Axon Theatre is Wales-based new theatre company.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jonathan Barras UKIP (@jdsbarras) on Twitter (UKIP  Politician)
-
 Jonathan Barras stood as UK Independence candidate for Bradford East at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Just the Tonic Comedy Club
-
 Just The Tonic is a comedy venue with clubs in the Midlands and at the Edinburgh Fringe.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Big Learning Company
-
 Big Learning Company are a digital education company located in Cardiff. They cater for schools, universities and businesses. They are now one of the UK’s leading digital learning and teaching organisations.

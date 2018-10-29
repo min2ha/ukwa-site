@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Margery Allingham Society, The 
-
 Website of the society which aims to promote interest in the life and work of Margery Allingham.

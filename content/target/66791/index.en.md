@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Zonal Retail Data Systems Limited
-
 The website of Zonal Retail Data Systems Limited is an Edinburgh-based company that designs, develops and supplies technology solutions for retail. 

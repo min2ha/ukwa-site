@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Hurley Burley Brewery
-
 Site of a brewer located in East Lothian.

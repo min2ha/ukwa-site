@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Bristol: Twitter can reveal our shared mood
-
 Articel about recent research by the University of Bristol In the largest study of its kind, researchers have analysed mood indicators in text from 800 million anonymous messages posted on Twitter. These tweets were found to reflect strong patterns of positive and negative moods over the 24-hour day

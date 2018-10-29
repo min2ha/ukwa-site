@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of St Augustine's, Penarth
-

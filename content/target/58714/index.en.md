@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Strachur & District Shinty Club on Facebook
-
 Site of a shinty club based in Strachur, Argyll & Bute.

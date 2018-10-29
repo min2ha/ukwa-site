@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Recordiau Jigcal
-
 Welsh record label based in Cardiff.

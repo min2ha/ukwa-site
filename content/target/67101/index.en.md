@@ -10,8 +10,6 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Anaemia Nurse Specialist Association (ANSA)
-
 Anaemia Nurse Specialist Association has been established as a national and international form for discussing debating and advancing the provision of anaemia services.
 
 Clinical practice varies from centre to centre. ANSA provides a focal point to encourage, foster and facilitate excellence in exchanges of information and opinion.

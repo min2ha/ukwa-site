@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Letters to a Young Librarian
-
 Advice to librarianship graduates by an experienced librarian Jessica Olin.

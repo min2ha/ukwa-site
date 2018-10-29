@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Bute Family
-
 SIte of the aristocratic family of Bute, the Stuarts, and there ongoing family businesses, activities and charity.

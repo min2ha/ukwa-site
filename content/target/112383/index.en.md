@@ -10,5 +10,3 @@
   "start_date": "2009-06-08T00:00:00Z"
 }
 
-# Pituitary Foundation
-

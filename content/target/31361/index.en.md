@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# I Programmer
-
 I Programmer is an online magazine for programmers.

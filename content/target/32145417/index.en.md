@@ -10,5 +10,3 @@
   "start_date": "2009-10-06T00:00:00Z"
 }
 
-# Edward Jenner Museum
-

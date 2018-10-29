@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Mental Heath Awareness Week
-
 Huffington Post UK online hub page for Mental Health Awareness Week 2017 featuring numerous articles related to mental health 

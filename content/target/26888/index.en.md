@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# European Association for Brazing and Soldering (EABS)
-
 European Association for Brazing and Soldering (EABS) is an independent technical association. The sole objective of the association is the promotion of ‘best practice’ brazing. Members include users of brazing and soldering technology, and suppliers of the necessary consumables and process equipment. 

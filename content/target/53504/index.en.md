@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matthew Hemsley (@Matt4CdffNorth) on Twitter
-
 Matthew Hemsley is the Liberal Democrat Candidate for Cardiff North at the 2017 General Election.

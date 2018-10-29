@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nation.Cymru
-
 Nation.Cymru is a national news website for Wales.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pool, The: Football
-
 The Pool - Search

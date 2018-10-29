@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Davies Sutton Architects
-
 Davies-Sutton are Architects based in Cardiff, established since 1993.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The History of WW1 Training Camp
-
 Exploring Cocken Hall and 18th Durham Light Infantry in the Great War through archaeology and archives

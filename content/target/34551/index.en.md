@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IoTUK
-
 IoTUK is a programme of activities that seeks to advance the UK’s global leadership in the Internet of Things (IoT) and increase the adoption of high quality IoT technologies and services throughout businesses and the public sector.

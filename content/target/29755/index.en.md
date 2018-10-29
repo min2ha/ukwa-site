@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Summerhall, Edinburgh
-
 A creative hub for the arts in Edinburgh with studio and workshop spaces.

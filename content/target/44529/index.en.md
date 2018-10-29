@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Migration Watch UK: Recent Media Reports
-
 Website containing a collection of articles from other web sources concerning migration. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# John Finnie MSP
-
 The website of John Finnie, Independent Member of the Scottish Parliament for the Highlands and Islands.

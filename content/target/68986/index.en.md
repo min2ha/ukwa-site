@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Celtic Football Club (@CelticFC) on Twitter
-
 The official Twitter account of Scottish club Celtic FC.

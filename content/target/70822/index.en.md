@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swansea Fringe, The
-
 The Swansea Fringe Festival is an annual event and play host to a number of diverse events at venues throughout Swansea showcasing the best in Welsh culture.

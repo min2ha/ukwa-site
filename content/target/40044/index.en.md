@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Kiplin Hall in Times of War
-
 The project focuses on the people linked to Kiplin who experienced wars at different periods of history, and the requisitioning of Kiplin Hall during WWII by the Army and the RAF.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Lichens of Wales
-
 The Lichens of Wales website aims to bring together in one place diverse sources of information related to the conservation of lichens in Wales.

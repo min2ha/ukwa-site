@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Free spirits? The Brexit brigade are just another bunch of elitists 
-
 Guardian, The

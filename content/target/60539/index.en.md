@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Jacob Rees-Mogg and Philip Hammond at odds over Brexit
-
 Tory MP Jacob Rees-Mogg has called for a fundamental change in ministers' tone on Brexit, accusing UK negotiators of being "cowed by the EU". The Eurosceptic backbencher said in a speech that "close alignment" with the EU after Brexit would be unacceptable. Chancellor Philip Hammond, meanwhile, has 
 
 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: EU referendum: how the result will be declared
-
 This Commons Library briefing paper summarises how the result will be declared following the referendum on the UK’s membership of the EU on Thursday 23 June 2016.

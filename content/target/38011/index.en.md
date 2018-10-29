@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Lord Darzi: Leaving the EU would be 'disastrous' for UK science and health
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Davies MP for Monmouth
-
 David Davies, Conservative candidate for Monmouthshire. He is also the current MP.

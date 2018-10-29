@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Marine Wales: A community resource for marine sports in Wales
-

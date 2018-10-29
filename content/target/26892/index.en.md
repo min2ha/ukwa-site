@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# British Society of Interventional Radiologists (BSIR)
-
 The British Society of Interventional Radiologists (BSIR) focuses on advancing education in interventional radiology and assisting in the provision for further facilities for education and research in interventional radiology. 

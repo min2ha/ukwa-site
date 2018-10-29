@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Mudlark
-
 Mudlark is a digital product agency creating playful experiences across data, game design and storytelling.

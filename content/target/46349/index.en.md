@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# HM Govt of Gibraltar (@GibraltarGov) on Twitter
-
 "Busy Government of Gibraltar stand at the party conference of the Scottish National Party."

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Fox on Facebook
-
 This is the Facebook page of Colin Fox, the Scottish Socialist Party candidate for Edinburgh South in the UK General Election on the 7th May 2015.

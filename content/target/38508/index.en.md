@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish Libertarian (@scottish_lp) on Twitter
-
 Twitter profile of the Scottish Libertarians.

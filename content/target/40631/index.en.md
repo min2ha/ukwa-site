@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Churches Parliamentary Office
-
 Site of a a non-denominational and non-partisan organisation set up to help build relationships between the Scottish Parliament, Scottish Government and religious groups in Scotland, and engagement with the UK Parliament and Government.

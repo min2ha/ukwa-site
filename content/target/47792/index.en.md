@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Nuclear Free Local Authorities 
-
 Nuclear Free Local Authorities tackle in practical ways, and within their powers, the problems posed by civil and military nuclear hazards. 

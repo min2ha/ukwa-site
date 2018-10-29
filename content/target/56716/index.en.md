@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Gunnerkrigg Court
-
 A science-fantasy webcomic following the story of Antimony Carver, who attends school at Gunnerkrigg Court. The comic launched in 2005 and is created by Tom Siddell.

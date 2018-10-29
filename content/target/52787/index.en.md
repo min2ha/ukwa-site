@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The : Six things we learnt from Michel Barnier about the EU's Brexit negotiating position
-

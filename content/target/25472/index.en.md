@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Napoleonic truth about coalitions: getting most seats doesn’t mean you win
-
 None

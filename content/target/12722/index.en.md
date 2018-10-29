@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Georgie Twigg
-
 <p>The website of hockey player Georgie Twigg, member of Team England for teh Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Novara Media Wire: Brexit: What it means and doesn't mean for human rights
-
 A discussion of the repercussions of both Brexit and EU actions and regulations on human rights

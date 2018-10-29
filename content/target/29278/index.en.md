@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Felixstowe Book Festival
-
 Felixstowe Book Festival

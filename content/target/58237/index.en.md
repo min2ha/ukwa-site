@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Barry Sheerman (@BarrySheerman) on Twitter (Labour Politician)
-
 Barry Sheerman, Labour MP for Huddersfield, sparked outrage by claiming that the majority of better educated people voted to remain in the EU.

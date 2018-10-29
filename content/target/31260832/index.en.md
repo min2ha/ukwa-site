@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Surviving the Credit Crunch
-
 None

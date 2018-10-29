@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Penrallt Baptist Church Bangor
-

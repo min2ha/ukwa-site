@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beat Cancer
-
 Website for Beat Cancer

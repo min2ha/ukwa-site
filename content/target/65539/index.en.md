@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Buildings at Risk Register Scotland
-
 Site of a register of buildings in Scotland of listed buildings and buildings in Conservation Areas that are vacant and had fallen into a state of disrepair. Maintained by Historic Environment Scotland, it provides information on properties of architectural or historic merit throughout the country that are considered to be at risk.

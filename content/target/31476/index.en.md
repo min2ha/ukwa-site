@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Acorn Community Reuse & Recycling
-
 Acorn Community Reuse & Recycling specialises in the safe and environmentally conscious reuse and recycling of IT equipment. 

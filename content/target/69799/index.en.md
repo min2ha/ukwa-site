@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Tropical Biology Association (TBA)
-
 The Tropical Biology Association(TBA) gives scientists the skills, support and confidence to manage natural resources in tropical regions effectively and sustainably.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Barry Gardiner (@BarryGardiner) on Twitter (Labour Party Politician)
-
 Barry Gardiner stood as Labour candidate for Brent North at the 2017 General Election and was elected to serve as MP.

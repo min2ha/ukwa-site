@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Worcester Library and History Project Website, The 
-
 This project combined and integrated public library, academic library as well as archive and archaeology service.

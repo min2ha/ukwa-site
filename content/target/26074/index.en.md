@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ex-M&S chief tells Labour ‘business isn’t the enemy’ as row with Boots boss escalates
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gretna Old Parish Church
-
 Site of a Church of Scotland parish church at Gretna, Dumfries and Galloway, and its associated parishes churches of Gretna St. Andrews, Half Morton and Kirkpatrick Fleming.

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Heathland History Forum
-
 It contains many transcribed family history materials.

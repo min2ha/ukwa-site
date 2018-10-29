@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Renfrewshire Family History Society
-
 Site of a genealogy society based in Paisley and focusing on the county of Renfrewshire, Scotland.

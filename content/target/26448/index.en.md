@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Memories of an election: empty barns and debates that recurred like cystitis
-
 None

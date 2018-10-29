@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# National Health Action Party
-
 Official website of National Health Action Party, a UK political party.

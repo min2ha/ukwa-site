@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liverpool Liberal Democrats
-
 Website of Liverpool Liberal Democrats, providing information on candidates and representatives, campaigns, blogs and local, national and party news.

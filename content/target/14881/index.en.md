@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ambler, The
-
 None

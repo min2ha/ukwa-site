@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bruce Whitehead
-
 Website for Bruce Whitehead, Left Unity and Trade Unionist and Socialists candidate for Edinburgh North and Leith in the 7th may 2015 UK General Elections.

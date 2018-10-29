@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Reading Civic Society 
-
 Local Civic Society which focuses on conservation and enhancement of heritage buildings and conservation areas in Reading, Berkshire and comments on planning applications.  

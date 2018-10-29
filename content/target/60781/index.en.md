@@ -10,6 +10,4 @@
   "start_date": "2018-02-03T09:00:00Z"
 }
 
-# Institute of Sport Exercise and Health (ISEH)
-
 The Institute of Sport Exercise and Health (ISEH) is a major legacy project of the 2012 London Olympic Games and is one of three locations forming the National Centre for Sport and Exercise Medicine. A £10 million investment by the Department of Health, the ISEH is a dedicated state-of-the-art facility in the centre of London, delivering world-class research, teaching and training, and clinical expertise in sport and exercise medicine.

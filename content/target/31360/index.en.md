@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# J. Lyons & Co.
-
 Website relating to the history of the tea and cake company J. Lyons & Co., who were the first business in the world using a computer.

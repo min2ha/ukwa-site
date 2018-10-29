@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blantyre Victoria Junior Football Club
-
 Site for a Scottish junior football club based in Blantyre, Lanarkshire.

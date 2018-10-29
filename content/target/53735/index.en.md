@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Ayrshire Real Ale Festival
-
 Site of an annual beer festival located at Troon, Ayrshire.

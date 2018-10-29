@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris in four-letter attack on May: Foreign Secretary stuns Chequers summit with foul-mouthed outburst but Prime Minister outguns him in Brexit showdown
-
 Reports that Boris Johnson strongly criticised Theresa May's compromise proposals for the UK's post Brexit relationship with the EU, but backed down and agreed to promote it rather than resign

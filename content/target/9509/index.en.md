@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Federation of Small Business (FSB): Manifesto
-
 None

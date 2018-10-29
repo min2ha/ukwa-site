@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff Cycling Campaign 
-
 The Cardiff Cycling Campaign was established to campaign for better cycling facilities, support members, and promote cycling in the city of Cardiff.

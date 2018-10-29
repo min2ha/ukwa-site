@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Hamilton on Facebook
-
 The Facebook profile of Craig Hamilton, the Cannabis is Safer than Alcohol (CISTA) party canddiate for Inverclyde in the UK General Election, 7th May 2015.

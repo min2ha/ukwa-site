@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nimit Jethwa (Green Party candidate for Leicester East)
-

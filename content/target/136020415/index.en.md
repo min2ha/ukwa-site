@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS London Specialised Commissioning Group (LSCG)
-
 None

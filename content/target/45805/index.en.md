@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Tom Watson ready to tear up Labour rules that helped get Jeremy Corbyn elected
-
 The Deputy Leader is poised to submit plans to end Labour's 'one member one vote' system

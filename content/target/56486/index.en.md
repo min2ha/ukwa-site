@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# DAY Programme
-
 Domestic Abuse & Exploitation: Bringing young people out of the dark & into the light of DAY

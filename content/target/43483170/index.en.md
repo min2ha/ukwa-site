@@ -10,5 +10,3 @@
   "start_date": "2010-04-29T00:00:00Z"
 }
 
-# Bushey Grammer School and Watford Central School
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Parish Church
-

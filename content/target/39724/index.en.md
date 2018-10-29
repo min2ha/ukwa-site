@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE_H&I (@RISE_HnI) on Twitter
-
 Twitter profile of the Highlands and Islands branch of RISE: Scotland's Left Alliance.

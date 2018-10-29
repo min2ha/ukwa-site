@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Supplementary Supreme Court Printed Case of the Secretary of State for Exiting the European Union
-
 This document is the supplementary Supreme Court Printed Case of the Secretary of State for Exiting the European Union, focusing on matters related to devolution

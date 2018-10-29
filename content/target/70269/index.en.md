@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: BBC to mark 100 years since women won the vote in landmark Hear Her season
-
 BBC media centre article with information about a 'Hear Her' season showcasing women's voices across TV, radio and online to mark 100 years of Suffrage. 

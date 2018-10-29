@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Old Classic Car Forum
-
 An online enthusiast community concerned with classic cars. Discusses Classic Cars, Lorries & Motorcycles. Includes sub forums for users to post about their classic cars.

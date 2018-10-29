@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Mountain Training
-
 Site of the awarding body in the United Kingdom for skills courses and qualifications in walking, climbing and mountaineering, existing to inspire, enable and develop people as walkers, climbers and mountaineers through leadership and coaching excellence.

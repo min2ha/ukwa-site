@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# GUARD Archaeology Limited
-
 Site of an archaeological consultancy located in Glasgow.

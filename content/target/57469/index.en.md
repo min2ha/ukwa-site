@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stamp Out Stigma campaign
-
 Online Campaign regarding stigma around mental illness

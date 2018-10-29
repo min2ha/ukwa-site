@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Be VERY afraid as the Nightmare on Downing Street is about to begin 
-
 None

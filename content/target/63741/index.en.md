@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James’ Parish Church
-
 The website of St. James’ Parish Church. 

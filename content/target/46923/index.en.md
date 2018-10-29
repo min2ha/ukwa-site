@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# School of Advanced Study: EU Referendum: our commitment to research remains strong as ever.
-
 Statement from Professor Roger Kain of the School of Advanced Study on the outcome of the EU Referendum.

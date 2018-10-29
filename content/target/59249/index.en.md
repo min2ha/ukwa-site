@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ffynnonasaph Parish of Llanasa and Ffynnongroyw
-

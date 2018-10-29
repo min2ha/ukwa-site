@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What will a Conservative government mean for UK universities?
-
 None

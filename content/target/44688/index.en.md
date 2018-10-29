@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Solarsphere
-
 Solarsphere is an \annual Astronomical and Music Event held in Builth Wells.

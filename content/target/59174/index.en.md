@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Auld Reekie Orienteering Society (AROS) on Facebook
-
 Facebook page of a orienteering club based in Edinburgh.

@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Teachwire: Harry Potter 20th Anniversary – 13 Of The Best Teaching Resources
-

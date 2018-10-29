@@ -10,5 +10,3 @@
   "start_date": "2012-02-27T00:00:00Z"
 }
 
-# Swansea and Brecon Diocesan Guild of Bellringers
-

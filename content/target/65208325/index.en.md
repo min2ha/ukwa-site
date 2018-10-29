@@ -10,6 +10,4 @@
   "start_date": "2012-03-29T00:00:00Z"
 }
 
-# Cardiganshire Family History Society | Cymdeithas Hanes Teuluoedd Ceredigion
-
 Family History

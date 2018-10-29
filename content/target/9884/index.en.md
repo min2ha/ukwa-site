@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Arkivum
-
 Arkivum provides data archiving services to a range of industries including higher education, life sciences and heritage. 

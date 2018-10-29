@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# Wild Flower Society, The
-
 The Wild Flower Society is a national society created specifically for amateur botanists and wild flower lovers in the UK.  They are a group who like to meet up throughout the summer months to see and photograph British wild plants in their natural habitats. 

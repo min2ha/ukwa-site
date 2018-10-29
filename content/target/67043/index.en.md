@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymraeg i blant (󠁧@Cymraegforkids) on Twitter 
-
 This is the twitter feed from the Welsh Government on 'all you need to know about introducing Welsh to your child and Welsh-medium education'. 

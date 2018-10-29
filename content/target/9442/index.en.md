@@ -10,6 +10,4 @@
   "start_date": "2014-03-13T22:00:00Z"
 }
 
-# Google Official Blog
-
 None

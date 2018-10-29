@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# French Capital - A Study of French Highly Skilled Migrants in London's Financial and Business Sectors
-

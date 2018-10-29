@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog:  Trade and customs bills threaten workers’ rights and could mean hundreds of backdoor trade deals
-
 The Trade and Customs bills fuel the fears caused by trade secretary Liam Fox’s plans for post-Brexit trade.  They show no commitment to protecting workers’ rights, public services, UK manufacturing or developing countries. 

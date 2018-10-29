@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anxiety UK
-
 Website for a UK based charity that focuses on helping people who have anxiety. The website also has a blog space that allows guest bloggers

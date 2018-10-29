@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: UKIP leader Nigel Farage NOT elected in Thanet South 
-
 None

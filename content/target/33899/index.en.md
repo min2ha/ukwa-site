@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# British Rowing Championships
-
 Has information on Juniors and Seniors rowing competitions. These events form part of the sport-wide initiative to promote the pathway to the international team, develop club rowing and enhance the racing calendar. 

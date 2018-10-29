@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# PTSD Resolution
-
 PTSD Resolution is a charity that helps Veterans, Reservists and Families who are struggling to reintegrate into a normal work & family life because of trauma suffered during service in the armed forces.

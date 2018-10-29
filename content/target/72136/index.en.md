@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Leftwing Brexiters want out from the 'transnational juggernaut'
-
 A small number of people in the Labour party and in the trade union movement believe that Brexit is to be welcomed because the EU’s bias in favour of multinational capital, its hardwired monetarism and its obsession with balanced budgets means it is more Thatcherite than social democratic. For those remainers who say this is a caricature and that the EU is really about protecting labour rights and defending the interests of workers in a harsh, globalised world, left leavers have a one-word riposte: Greece.
 

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# All Nations
-
 All Nations is an independent, evangelical, interdenominational mission training Bible College. The purpose of All Nations is to train students in cross-cultural mission. 

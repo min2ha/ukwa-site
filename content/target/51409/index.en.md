@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff Kagyu Samye Dzong (Cardiff Tibetan Buddhist Centre)
-

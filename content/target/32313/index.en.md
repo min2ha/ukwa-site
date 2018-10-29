@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Open Up - Shape and Share Your Opinion
-
 Discussion site for current political issues created by Perry Walker, a Fellow of the New Economics Foundation.

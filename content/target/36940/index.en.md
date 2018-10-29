@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela McGinley for West of Scotland
-
 Angela McGinley is the Scottish Labour candidate for the West Scotland list in the 2016 Scottish Parliament election.

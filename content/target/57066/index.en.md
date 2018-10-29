@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jacob Rees-Mogg (Conservative politician)
-
 Jacob Rees-Mogg was elected as Conservative MP for North East Somerset in 2010 and re-elected in 2015 and 2017. He is a supporter of Brexit

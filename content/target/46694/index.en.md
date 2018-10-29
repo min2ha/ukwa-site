@@ -10,6 +10,4 @@
   "start_date": "2016-11-03T09:00:00Z"
 }
 
-# Acair Books on Twitter
-
 Acair Books on Twitter

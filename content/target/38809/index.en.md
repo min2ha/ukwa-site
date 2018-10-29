@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Liam McArthur (@Liam4Orkney) on Twitter
-
 Twitter of Liam McArthur, the Scottish Liberal Democrat candidate for Orkney in the 2016 Scottish Parliamentary election.

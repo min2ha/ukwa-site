@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Plymouth Energy Community
-
 A local Community Benefit Society aiming to give people in Plymouth the power to change how they buy, use and generate energy.

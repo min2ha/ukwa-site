@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Kyles of Bute
-
 Site providing information on the area of the Kyles of Bute, Argyll & Bute, Scotland.

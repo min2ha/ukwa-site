@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Parent Work Thrive: Have we reached a tipping point for working dads and equality?
-
 An article about parenting equality, focusing on fathers 

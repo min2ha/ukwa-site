@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gary Harbord on Facebook (Trade Unionist and Social Coalition (TUSC) Uxbridge and South Ruislip)
-

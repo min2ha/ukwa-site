@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Magna Carta blunder on £2 coin rewrites history: Image shows King John signing parchment with a quill is a 'schoolboy error'
-

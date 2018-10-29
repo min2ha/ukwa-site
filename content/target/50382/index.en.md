@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Kelpies Edge
-
 Site of a Scottish publisher based in Edinburgh and specialising in teen / young adult writing.

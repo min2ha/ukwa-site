@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Christleton: Great War Voices 1914-1918
-
 <p>Project exploring the history of the First World War in Christleton.</p>

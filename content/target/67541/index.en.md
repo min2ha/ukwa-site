@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Wiltshire Occupational Health & Safety Association (WOSHA)
-
 OSHA is a non profit registered charity consisting of volunteer safety and environmental professionals covering Wiltshire.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Joseph Rowntree Charitable Trust
-

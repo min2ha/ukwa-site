@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# King's College London:  What sort of Brexit do the British people want? : A proof-of-concept study using stated preference discrete choice experiments
-

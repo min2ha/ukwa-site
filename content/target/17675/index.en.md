@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The clash of two Eds raises the ghost of Labour past
-
 None

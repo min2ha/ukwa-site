@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Co-operatives UK
-
 Co‑operatives UK works to promote, develop and unite member-owned business.

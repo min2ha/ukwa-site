@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Working Class Movement Library (WCML): Voting for Change - a Collecting Cultures project
-
 The homepage of the Voting for Change - a Collecting Cultures project, a collaboration between WCML and the People's History Museum/Labour History Archive (PHM)

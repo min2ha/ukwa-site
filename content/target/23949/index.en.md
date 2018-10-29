@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Labour's Ed Balls lays out differences with SNP
-
 None

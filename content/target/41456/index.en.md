@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# KPMG LLC: The UK automotive industry and the EU: an economic assessment of the interaction UK's automotive industry with the European Union
-

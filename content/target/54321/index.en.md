@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Prime Minister's Office: PM statement following London terror attack: 4 June 2017
-
 Prime Minister Theresa May gave a statement in Downing Street following the terrorist attack on London Bridge on June 3rd 2017.

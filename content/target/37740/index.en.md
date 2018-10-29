@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# UK Green Building Council (UK-GBC)
-
 The UK Green Building Council is a charity and membership organisation which campaigns for a sustainable built environment. UK-GBC has a diverse membership of more than 400 organisations spanning the entire built environment. The majority are from the private sector, but they also have public and third sector members. 

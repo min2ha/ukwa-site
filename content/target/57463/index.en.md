@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aston University: Web based application released
-
 Article by Aston University on their web-based application for mental health self-assessment 

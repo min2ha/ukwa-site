@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Nicola Sturgeon is selling a 'false dream'
-
 None

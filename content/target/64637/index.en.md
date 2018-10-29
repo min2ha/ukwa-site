@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Aberdeen City 
-
 Provincial grand lodge of Scottish freemasonry affiliated to the Grand Lodge of Scotland and located in the City of Aberdeen.

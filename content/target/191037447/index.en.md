@@ -10,5 +10,3 @@
   "start_date": "2013-09-03T00:15:00Z"
 }
 
-# Crofting Inquiry = Rannsachadh Croitearachd
-

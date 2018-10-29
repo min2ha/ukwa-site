@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T10:00:00Z"
 }
 
-# Buckland Brewer Local History Group
-
 Local history group of Devon parish Buckland Brewer

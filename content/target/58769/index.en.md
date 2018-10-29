@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Parish of Dunkeld Handbell Ringers
-
 Site of a group of handbell ringers based at Dunkeld Cathedral.

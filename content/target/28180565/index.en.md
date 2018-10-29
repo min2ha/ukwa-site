@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Platform
-
 Platform current campaigns focus on the social, economic and environmental impacts of the global oil industry. 

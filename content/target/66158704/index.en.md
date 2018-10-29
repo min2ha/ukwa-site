@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# African Arguments
-
 None

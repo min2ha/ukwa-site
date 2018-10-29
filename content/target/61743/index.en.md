@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Bannockburn Ladywell Church
-
 Site of a Church of Scotland parish church at Bannockburn, Stirlingshire.

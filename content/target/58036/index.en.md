@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Getting Better
-
 A series of online articles by Ellen Scott of the Metro newspaper detailing her journey through the mental health system on the way to feeling better

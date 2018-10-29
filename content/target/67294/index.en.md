@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Animality Productions
-
 Animality Video Production is based in Narberth, Pembrokeshire and specialise in video and interpretive media covering a wide range of subjects from educational and conservation film making to adventure sports, events and tourism films.

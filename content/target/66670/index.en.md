@@ -10,5 +10,3 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Royal Aeronautical Society - Prestwick Branch
-

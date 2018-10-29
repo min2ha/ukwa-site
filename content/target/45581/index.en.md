@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Gofalaeth Bangor
-
 News from the Pastorate of Bangor, the Presbyterian Church of Wales.

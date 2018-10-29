@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 18th April 2018: Leaving the EU: Scotland and Wales Continuity Bills
-
 The  continuity Bills raise serious questions about legislative competence which need to be explored. The key purpose of the European Union (Withdrawal) Bill before this Parliament is to provide certainty across the UK on day one after exit from the EU, and the Scottish and Welsh continuity Bills would frustrate that objective. The Law Officers have made references to the Supreme Court in relation to both Bills, as a protective step in the public interest towards upholding legal certainty

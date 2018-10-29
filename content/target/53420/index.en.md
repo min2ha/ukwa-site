@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Wine and Spirit Trade Association (WSTA) : Manifesto: 2017 General Election
-
 With 5 key asks of all political parties, the WSTA spotlights a well-managed Brexit, the promotion of free-trade deals, addressing an excessive tax regime, support for tackling alcohol harm and an innovative industrial strategy – all central requirements for the UK’s wine and spirit industry. 
 

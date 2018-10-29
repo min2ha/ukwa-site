@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Newport-on-Tay Church of Scotland
-

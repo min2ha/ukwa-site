@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# LBM
-
 LBM (London Brand Management) is a technology company enabling businesses and service providers to transform their operations with the use of Artificial Intelligence and Big Data processing. 

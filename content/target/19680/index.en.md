@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haltemprice and Howden Labour Party
-
 Website of Haltemprice and Howden Labour Party, providing blog posts on local, national and party news.

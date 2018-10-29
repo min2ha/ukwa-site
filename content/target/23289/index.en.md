@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Rowlands Môn (@JohnRowlandsMon) on Twitter 
-

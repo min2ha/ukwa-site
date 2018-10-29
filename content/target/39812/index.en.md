@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Weber Shandwick Public Relations Scotland: blog
-

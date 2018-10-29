@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liberal Democrat leader Nick Clegg's 'sole business backer' supports the Conservatives too
-
 None

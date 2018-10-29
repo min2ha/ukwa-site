@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Danny Lambert, Socialist Party Great Britain on Facebook
-
 None

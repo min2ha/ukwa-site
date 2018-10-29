@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lincolnshire Health and Wellbeing Board
-
 None

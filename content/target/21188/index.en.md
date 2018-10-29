@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Public and Commercial Services Union (PCS)
-
 Public and Commercial Services Union (PCS) is a trade union in the UK, with around 240,000 members throughout the civil service, government agencies and private sector. The site contains electronic versions of publications: 'Activate', 'PCS People', 'PCS Action', 'Young Members Newsletter' and 'The Alternative'.

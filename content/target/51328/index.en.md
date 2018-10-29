@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Beuno's Church, Botwnnog
-

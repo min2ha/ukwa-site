@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Foundation Scotland
-
 Site of an independent charity established to strengthen local communities by providing a source of funding to community led projects throughout Scotland.

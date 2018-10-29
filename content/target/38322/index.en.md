@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Museum of Liverpool: 1916 Easter Rising: the Liverpool connection
-
 Display at Museum of Liverpool telling the story of the 50 men and women from Liverpool who took part in the Easter Rising in Dublin in 1916. 

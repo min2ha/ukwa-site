@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peterhead Football Club
-
 Site of a senior Scottish association football club based in Peterhead, Scotland

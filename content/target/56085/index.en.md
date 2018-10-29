@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Sport Control Board (ASCB)
-
 The Army Sport Control Board (ASCB) was formed in 1918 and is the regulatory body for sport played in the British Army at all levels. The website provides information on issues such as fixtures and funding.

@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Telegraph, The : Read how the Telegraph covered VE Day in 1945
-
 An article exploring how the Telegraph covered VE Day in 1945

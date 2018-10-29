@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pension tax relief plans 'damaging and malign', experts warn
-
 None

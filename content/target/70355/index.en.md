@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Catholic Church, Greenock
-
 Site of a Scottish Roman Catholic parish church in Greenock, Renfrewshire.

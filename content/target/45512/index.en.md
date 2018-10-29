@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Get serious, Labour rebels, and deal with the Brexit catastrophe
-

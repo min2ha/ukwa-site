@@ -11,5 +11,3 @@
   "subject": "French in London"
 }
 
-# Arbane & Audalie - Fine Grower Champagne
-

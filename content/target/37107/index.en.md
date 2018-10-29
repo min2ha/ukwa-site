@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Will the EU referendum trigger the break-up of the United Kingdom?
-
 On the night of the EU referendum, there will be three counts that matter. The first will show whether there is an overall British majority for staying in or leaving the EU. The second will show whether English voters are on the winning or the losing side. The third will show how likely it is that the United Kingdom will stay together.

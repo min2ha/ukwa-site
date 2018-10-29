@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Elin Vaughan Crawley
-
 Elin Vaughan Crawley is a print and textile artist from Bro Ddyfi, Mid Wales. 

@@ -10,5 +10,3 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Wild Trout Trust
-

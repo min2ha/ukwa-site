@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# CarFest
-
 Website for the Carfest festival

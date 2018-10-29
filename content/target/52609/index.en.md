@@ -10,6 +10,4 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Ardchattan Parish Archive
-
 Wiki site of a project to create an online archive of local  material relating to the genealogy, history, geology, archaeology and ecology of the areas of Barcaldine, Benderloch, North Connel and Bonawe areas of Argyll and Bute.

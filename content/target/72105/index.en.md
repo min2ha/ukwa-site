@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Radnor Association for the Blind
-
 Radnorshire Association for the Blind is a society of blind and partially sighted people and of people challenged by failing sight. 

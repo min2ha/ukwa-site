@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Oriel Mimosa Gallery
-
 Oriel Mimosa is an art galley located in Llandeilo that specialises in Welsh art.

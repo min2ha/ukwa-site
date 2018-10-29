@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: We're about to make history at Westminster, Nicola Sturgeon says
-
 None

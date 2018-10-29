@@ -11,5 +11,3 @@
   "subject": "Margaret Thatcher"
 }
 
-# Socialist Party Wales: Death of Margaret Thatcher
-

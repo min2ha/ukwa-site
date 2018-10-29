@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Education Scotland / Foghlam Alba
-

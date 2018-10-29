@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Woodend Barn
-
 Site of an arts centre in Banchory, Aberdeenshire, focusing on cinema and the performing arts.

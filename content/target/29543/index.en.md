@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Turner Little Blog
-
 Website with the blog posts from Turner Little Ltd., an established Company Formation Agents assisting clients with Company Formations in the UK as well as with the formation of Companies Offshore. 

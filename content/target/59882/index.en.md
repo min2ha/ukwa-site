@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Smith (DS) plc
-
 DS Smith Plc is a leading British-based international packaging business.  They are a leading provider of corrugated packaging and a specialist in plastic packaging worldwide, operating across 37 countries and employing around 27,000 people.

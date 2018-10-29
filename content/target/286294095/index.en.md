@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Citizen Space - Scottish Government Consultation Hub
-
 <p>This is a trial version of a new Scottish Government consultation platform.</p>

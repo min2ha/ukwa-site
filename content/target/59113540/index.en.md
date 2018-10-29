@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chiswickw4.com: local intelligence for intelligent locals
-

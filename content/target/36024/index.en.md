@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Chad Rickard (@ChadARickard) on Twitter (Plaid Cymru candidate for Pontypridd)
-
 Chad Rickard is the Plaid Cymru candidate for Pontypridd at the 2016 National Assembly for Wales elections. 

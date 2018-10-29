@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Election polls point to Tory-Labour tie and three-party alliance
-
 None

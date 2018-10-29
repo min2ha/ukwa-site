@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Adam Tomkins on Facebook
-
 Facebook profile of Adam Tomkins, Conservative candidate for Glasgow Anniesland in the 2016 Scottish Parliamentary election.

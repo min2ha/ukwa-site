@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Speaking of Ireland Making England the Legal Destination for Abortion (I.M.E.L.D.A.) 
-
 Speaking of IMELDA is a direct-action feminist performance group based in London. 

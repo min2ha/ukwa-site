@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Whelbourne Speed Skater on Twitter
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Aylesbury War Memorials
-
 Project focussing on the many war memorials in Aylesbury, in particular the memorial in Market Square which was installed in 1921.

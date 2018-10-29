@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Could spring sunshine swing the election? Glorious weather boosts turnout to 75% in some areas as millions cast their votes in most unpredictable poll for a generation 
-
 None

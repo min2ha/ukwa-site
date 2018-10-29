@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Blue Sky Festival
-
 family focussed celebration of the arts based in Corsham

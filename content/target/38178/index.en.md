@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservatives for Britain (@consforbritain) on Twitter
-
 Official Twitter feed of Conservatives for Britain.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hampstead and Kilburn Labour on Facebook
-

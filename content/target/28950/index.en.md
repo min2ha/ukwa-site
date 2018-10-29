@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol West Labour Party
-
 Website of Bristol West Labour Party, providing information on local candidates,  events and blog on national and local issues. They have moved the website to http://www.bristolwestlabourparty.org.uk/

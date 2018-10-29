@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Yorkshire Integrated Catchment Solutions Programme (iCASP)
-
 The Yorkshire Integrated Catchment Solutions Programme (iCASP) is an ambitious and exciting programme to generate benefits for Yorkshire by applying environmental science to catchment challenges.

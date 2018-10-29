@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Resisting Hate (@Resisting_Hate) on Twitter
-
 Resisting Hate are a UK based anti hate group with a focus on fighting discrimination and bigotry, primarily on social media. This is their official Twitter account.

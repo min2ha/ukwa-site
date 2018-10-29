@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Clark (@paulatgateway) on Twitter (Labour candidate for Gillingham and Rainham)
-

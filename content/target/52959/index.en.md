@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Freight Books
-
 Site of a Scottish published based in Glasgow, publishing literary fiction, humour, general illustrated and narrative non-fiction and poetry.

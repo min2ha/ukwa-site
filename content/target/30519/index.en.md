@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Locate Jersey
-
 Locate Jersey is tasked with promoting Jersey business overseas, targeting Inward Investment, enquiry handling, supporting diversification, developing partnerships, providing investor aftercare and creating local jobs.

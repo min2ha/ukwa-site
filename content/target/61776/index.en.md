@@ -11,5 +11,3 @@
   "subject": "Housing and Social Housing"
 }
 
-# St Davids Peninsula Community Land Trust
-

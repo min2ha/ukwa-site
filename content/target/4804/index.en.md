@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# NME: Freedom Songs: How Nelson Mandela Used Music To Change The World 
-
 <p>Blog posting by Ben Hewitt on 6 December, reporting on the use of popular music in Britain and South Africa in keeping Mandela in popular consciousness during his imprisonment on Robben Island.</p>

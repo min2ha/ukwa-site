@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Birmingham Health and Wellbeing Board
-

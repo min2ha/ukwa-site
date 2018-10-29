@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Signpost Recovery
-
 Site of a Scottish company and charity whose objectives are the advancement of health and the relief of those in need by reason of ill health, disability, financial hardship or other disadvantage by providing community access drug, alcohol, substance misuse and health & social care services in the local authority areas of Stirling, Falkirk and Clackmannanshire (also known as the Forth Valley area).

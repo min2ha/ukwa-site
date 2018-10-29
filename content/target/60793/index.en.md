@@ -10,6 +10,4 @@
   "start_date": "2018-02-03T09:00:00Z"
 }
 
-# Amanda Lightfoot (@amandabiathlon1) on Twitter
-
 Female number 1 British Biathlete who represented Team GB in Sochi 2014 Olympics. Road to pyeongchang.

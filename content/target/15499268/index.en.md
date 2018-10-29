@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Minack Theatre
-
 None

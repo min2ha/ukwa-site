@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dumbarton West Kirk
-
 The website of Dumbarton West Kirk.

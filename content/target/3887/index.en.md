@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# South Wales Guardian
-
 None

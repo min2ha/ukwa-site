@@ -11,6 +11,4 @@
   "subject": "Fashion"
 }
 
-# Solva Woollen Mill
-
 Solva Mill is the oldest working woollen mill in Pembrokeshire and now the only mill in Wales specialising in flat woven carpets, rugs and runners. It has been in operation since 1907.

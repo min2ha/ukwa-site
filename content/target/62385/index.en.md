@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 7th March 2018: European Union (Withdrawal) Bill
-
 The Lords, sitting as a committee of the whole House, debate amendments to the European Union (Withdrawal) Bill related to citizens' rights and the role of the Court of Justice of the EU after Brexit.

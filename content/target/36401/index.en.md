@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: If we want our INDEPENDENCE then Britain MUST leave EU, says Chris Grayling
-
 Comment by Chris Grayling

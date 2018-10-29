@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Guaridan, The: Save BBC recipe archive petition signed by more than 100,000 people
-
 BBC and government face backlash over plans to mothball 11,000 recipes, as Newsbeat website and app are axed.

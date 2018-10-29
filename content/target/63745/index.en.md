@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Stephen's and West Church
-

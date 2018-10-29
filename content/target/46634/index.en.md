@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Llyfrgell Ddramau, Y
-
 Y Llyfrgell Ddramau contains over 200 scripts mainly from the 1930's and 1940's. The site was established by Theatr Gydweithredol Troedyrhiw in partnership with Theatr Felin-fach with support from Department of Theatre Film & Television Studies, UCW Aberystwyth.  

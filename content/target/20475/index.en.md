@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mystic Dave looks into his crystal ball and sees ... Barry from Didcot
-
 None

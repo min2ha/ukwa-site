@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Medical Association of Nigerians Across Great Britain (MANSAG)
-
 Medical Association of Nigerians Across Great Britain (MANSAG), a UK registered charity, was established in 1997 for charitable, educational and scientific purposes.

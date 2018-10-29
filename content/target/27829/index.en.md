@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# London is Funny
-
 Website featuring news and reviews of comedy events in London.

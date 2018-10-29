@@ -10,5 +10,3 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Ken MacLeod (@amendlocke) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jenny Wilson (@wilsjen) on Twitter
-
 Twitter profile of Jenny Wilson, Scottish Liberal Democrat candidate for Aberdeen South in the 2017 general election.

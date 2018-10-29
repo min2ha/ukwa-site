@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gerald Jones (@GeraldJonesLAB) on Twitter
-
 Labour Councillor for New Tredegar and Deputy Leader at Caerphilly CBC. Labour's Parliamentary Candidate for Merthyr Tydfil & Rhymney.

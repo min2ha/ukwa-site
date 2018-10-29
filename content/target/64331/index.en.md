@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Scottish Association of the Teachers of History (SATH)
-
 Site of a forum for Scottish History Teachers to comment on developments in education in Scotland, share new ideas and resources and provide training for history teachers through its conferences.

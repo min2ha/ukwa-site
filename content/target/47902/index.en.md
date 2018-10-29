@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: An EU dinner with Brexit for each course
-
 EU leaders will meet without the UK after the December 2016 summit for an "informal dinner" where the menu reads: Brexit from hors d'oeuvres to dessert. 

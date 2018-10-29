@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Long queues reported outside referendum polling stations 
-
 Guardian, The

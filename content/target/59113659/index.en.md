@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Amino
-
 Amino is a contemporary arts projects production agency based in Newcastle upon Tyne.

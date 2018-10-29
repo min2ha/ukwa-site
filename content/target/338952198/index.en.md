@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Transition Monmouth
-
 Transition towns are community-led projects in areas of food, transport, energy, education, housing, waste, arts and a response to the global challenges of climate change, economic hardship and shrinking supplies of cheap energy. 

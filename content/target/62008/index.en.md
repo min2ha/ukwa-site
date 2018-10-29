@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tony Blair: EU reform can change UK minds on Brexit
-
 Tony Blair urged European leaders to reform the EU so British people "change their mind" about Brexit. The former prime minister argued that if "comprehensive" immigration reforms were offered, voters would realise their "genuine underlying grievances" could be addressed.
 
 

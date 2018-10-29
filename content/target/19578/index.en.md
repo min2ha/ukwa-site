@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# The Art FabriC Blog - Compagnie de Théâtre Francophone à Londres
-
 The Art Fabric is a French theatre troupe in London directed by Emilie Perraudeau

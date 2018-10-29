@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Éire Óg London GAA Club
-
 Éire Óg Gaelic Football Club are always keen to recruit new playing and non playing members.
 
 We are based in North London and have our own pitch and clubhouse. The club covers a wide catchment area for players and includes; North, East and Central London, the city of London and Westminster, boroughs of Islington, Camden, Haringey, Kilburn, Hackney, along with many other areas.

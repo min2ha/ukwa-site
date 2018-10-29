@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Design and the Rio 2016 Olympics
-
 Research Beyond Borders is an online resource specifically aimed at UK based Arts and Humanities researchers and research. This guest post by Frederico Duarte demonstrates implications for the future development of design theory and practice in Brazil through his studentship.

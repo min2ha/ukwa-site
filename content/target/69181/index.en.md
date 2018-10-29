@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Joseph and Saint Patrick Church, Wemyss Bay
-
 Site of a Scottish Roman Catholic parish church located in Wemyss Bay, Inverclyde.

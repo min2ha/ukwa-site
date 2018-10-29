@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Farmers Union online
-
 ‘The Voice of British Farming’, the NFU website provides news, policy and campaigns related to all aspects of farming, including on organic farming and GM crops.

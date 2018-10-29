@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Reporter:  Nottingham brothers up in arms over EU referendum debate
-

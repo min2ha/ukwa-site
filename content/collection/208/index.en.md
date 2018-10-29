@@ -577,6 +577,4 @@
   "endDateText": ""
 }
 
-# Political Action and Communication
-
 This collection aims to represent and document the use of the web in political engagement in the UK: from single-authored blogs through local and grassroots campaigns to political parties and charities and trusts that support democratic engagement and activism. The collection also includes examples of research into levels of democratic engagement, and the use of communications technology in campaigning and activism.

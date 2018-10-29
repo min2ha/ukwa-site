@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: With my proposed changes to the repeal bill, Henry VIII will stay in his grave
-
 John Penrose is the Conservative MP for Weston-super-Mare

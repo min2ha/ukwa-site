@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Mark Blayney
-
 Mark Blayney is a writer and performer based in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Skydiver- The Skydiving forum for the UK
-
 A UK-based skydiving forum

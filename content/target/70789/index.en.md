@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Dr Theresa Eynon MB ChB MRCPsych DFFP FRCGP
-
 Peronsal site for Dr Theresa Eynon

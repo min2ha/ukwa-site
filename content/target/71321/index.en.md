@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Belfast Eagles RLFC (@BelEag17) on Twitter
-
 We are an amateur rugby league club currently playing in the McGettigans Ulster League based in Northern Ireland.

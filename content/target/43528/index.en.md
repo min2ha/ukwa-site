@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Futurus Thinktank
-
 Thinktank concerned with EU and immigration

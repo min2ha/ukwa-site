@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Saffron Walden Quakers
-

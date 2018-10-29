@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# End of Life care programme
-
 None

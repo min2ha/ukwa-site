@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Falkirk Town Hall Cinema
-
 Site of a cinema and arts venue in Falkrk, Stirlingshire.

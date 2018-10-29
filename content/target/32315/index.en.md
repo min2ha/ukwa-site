@@ -10,5 +10,3 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# ScotClans | Scottish Clans | Crests & Tartans of Scotland
-

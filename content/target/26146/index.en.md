@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Council for International Student Affairs (UKCISA): A Manifesto for International Students
-
 The UK Council for International Student Affairs (UKCISA) is the UK’s national advisory body serving the interests of international students and those who work with them.

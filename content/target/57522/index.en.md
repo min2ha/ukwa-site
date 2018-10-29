@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bute Shinty and Amateur Athletic Sports Club
-
 Site of a shinty club based in Rothesay, the isle of Bute.

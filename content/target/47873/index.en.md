@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Perne & Ward Libraries, The 
-
 News from the Peterhouse Perne & Ward Libraries

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit is necessary to protect NHS from TTIP, says David Owen
-
 Guardian, The

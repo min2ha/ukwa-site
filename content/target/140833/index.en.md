@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Christian Peoples Alliance: Scotland's Christian democratic party
-
 None

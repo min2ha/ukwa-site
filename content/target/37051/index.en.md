@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Student:  Oxford Vice-Chancellor on EU Referendum 
-
 The Vice-Chancellor of Oxford University, Louise Richardson, has signed a letter printed in last weekend’s Sunday Times in favour of the United Kingdom remaining a member of the European Union. Oxford University has its own internal debate surrounding the European Union, with Europhile and Eurosceptic campaigning groups forming to attempt to swing the student vote at the referendum. 

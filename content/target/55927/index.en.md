@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# R17: Russia! Culture! Revolution! Centenary Season in Wales
-
 As 2017 is the centenary of the Russian Revolution, many Arts organisations across Wales are holding a season of performances and events which capture Wales’ historic connections with the Russia Revolution.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicholas Buckand Ice Dancer - Twitter
-
 None

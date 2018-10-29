@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Salisbury Cathedral hosts new Magna Carta exhibit
-

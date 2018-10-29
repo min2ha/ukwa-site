@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What Brexit effect? Why British consumers still spend, spend, spend
-

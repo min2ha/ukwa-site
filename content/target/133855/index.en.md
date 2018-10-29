@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Learning Disability Wales (LDW)
-
 Learning Disability Wales is a national charity representing the learning disability sector in Wales. Everything that we do focuses on creating a Wales that values and includes every child, young person and adult with a learning disability.

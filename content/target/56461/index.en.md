@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Gove confirms foreign access to UK fishing grounds
-
 Michael Gove has confirmed that some foreign trawlers will still have access to UK waters after Brexit. Mr Gove, the UK environment secretary, said British fishermen would not have the capacity to land all of the fish in British territorial waters.

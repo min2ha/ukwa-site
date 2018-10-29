@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# York Minster
-
 Official site for York Minster, the largest gothic cathedral in northern Europe. It contains information about opening times, service information and a history of the cathedral.

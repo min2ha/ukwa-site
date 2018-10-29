@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wibsey Rugby Union (@wibseyrufc) on Twitter
-
 The official Twitter account of  Wibsey Rugby Union. Founded 1932.

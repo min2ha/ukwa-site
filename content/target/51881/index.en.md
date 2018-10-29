@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Michael's Parish Church
-
 The website of St Michael's Parish Church of Scotland, located in Edinburgh. Partnered with St. Colm's, St. Martin's, and Gorgie. 

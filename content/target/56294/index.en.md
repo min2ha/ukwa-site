@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# New Care Standards
-
 Site created as part of a public consultation for Health and Social Care Standards, published by the Scottish Government in June 2017.

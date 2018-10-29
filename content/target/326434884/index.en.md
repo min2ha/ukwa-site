@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Stòrlann Nàiseanta na Gàidhlig
-
 The organisation charged with co-ordinating the production and distribution of Gaelic educational resources throughout Scotland.

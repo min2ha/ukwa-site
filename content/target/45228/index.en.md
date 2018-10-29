@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Electoral Reform Society, The: It's good to talk: doing referendums differently after the EU vote
-
 This report shows without a shadow of a doubt just how dire the EU referendum debate really was - and what we can do about it. There were glaring democratic deficiencies in the run-up to the vote, with previously unreleased polling showing that far too many people felt they were ill-informed about the issues; and that the ‘big beast’ personalities did not appear to engage or convince voters. The polling also shows that voters viewed both sides as increasingly negative as the campaign wore on. Meanwhile, the top-down, personality-based nature of the debate failed to address major policies and subjects, leaving the public in the dark.

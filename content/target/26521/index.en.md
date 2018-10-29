@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The BBC was not in the pocket of Labour this election. Quite the opposite
-
 None

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# The Conservative Party
-
 The Conservative Party, officially the Conservative and Unionist Party,[10] is a centre-right political party in the United Kingdom.

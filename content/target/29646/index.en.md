@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Blog Cwmni'r Fran Wen
-
 Cwmni'r Fran Wen is a Welsh Theatre Company.

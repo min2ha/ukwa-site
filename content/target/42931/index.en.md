@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Today In Our Footballing History
-
 The purpose of this section is to provide daily historical information in both text and media format of the Irish Football Association and it’s international teams i.e. Ireland and Northern Ireland on any given date of the year.

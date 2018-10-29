@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Your Local Guardian South London
-
 None

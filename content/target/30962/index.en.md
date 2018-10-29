@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Yellow Brick Jersey
-
 Yellow Brick offers graduate internships, across a diverse range of working environments in Jersey.

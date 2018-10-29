@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East & North Hertfordshire NHS Trust
-
 None

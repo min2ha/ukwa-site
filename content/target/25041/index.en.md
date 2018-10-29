@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour's king of self-promotion Keith Vaz faces noise investigation over car with loudspeaker blaring out election message
-
 None

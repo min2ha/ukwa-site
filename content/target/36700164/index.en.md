@@ -10,5 +10,3 @@
   "start_date": "2010-03-04T00:00:00Z"
 }
 
-# Nigel Griffiths - On your side
-

@@ -10,6 +10,4 @@
   "start_date": "2005-09-16T00:00:00Z"
 }
 
-# British Institute of Musculoskeletal Medicine (BIMM)
-
 The long-term aims of the Institute are to promote education and research in the science and art of musculoskeletal medicine for the ultimate benefit of the public. Disseminate knowledge about musculoskeletal medicine among the medical profession and stimulate and encourage clinical research.

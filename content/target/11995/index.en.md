@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Danish parliament's cartoon using sex and violence to encourage voting in European elections - video animation
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Community life, leisure and libraries | Argyll and Bute Council
-
 Information hub for the community life, leisure and libraries activities of Argyll and Bute Council.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 10 things Guardian readers think should be in the Labour manifesto
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shetland Nature Festival
-
 festival covering all aspects of Shetland's unique natural heritage

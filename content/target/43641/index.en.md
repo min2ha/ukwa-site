@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Quietus, The: “Europe Needs English Tea”: The EU Referendum And The Arts
-
 The Quietus is a British online music and pop culture magazine, focusing on arts news, reviews, and feature: in this article artists and curators express their thoughts and feelings about Europe, the Union, and the prospects for Brexit.

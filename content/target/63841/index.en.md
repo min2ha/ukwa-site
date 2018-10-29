@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# North Mymms History Project
-
 A collection of books, features, memories, documents, images and videos about the parish of North Mymms in Hertfordshire

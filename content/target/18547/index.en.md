@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Wimbury (@MaryWimbury) on Twitter
-
 Aberconwy Labour Parliamentary Candidate.

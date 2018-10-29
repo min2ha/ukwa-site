@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: NHS preparing to 'stockpile' drugs for no deal Brexit
-
 The NHS in England was preparing to stockpile medicines and blood products in case of a "no deal" Brexit, Health Secretary Matt Hancock said. The NHS in England is preparing to stockpile medicines and blood products in case of a "no deal" Brexit, Health Secretary Matt Hancock has said.
 
 

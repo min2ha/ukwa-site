@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Mawr Community Council
-
 Mawr Community Council serves three main villages, Craig-Cefn-Parc, Felindre and Garnswllt.

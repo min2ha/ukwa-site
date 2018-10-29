@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Clare Dudman
-
 Clare Dudman has travelled extensively in order to write her novels including trips to Greenland and China. For her novel A Place of Meadow and Tall Trees she toured Patagonia interviewing the descendants of the Welsh settlers and took courses on Welsh and Shamanism. 

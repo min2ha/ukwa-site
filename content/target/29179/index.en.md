@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Prime Minister congratulates Ebola heroes
-
 Page announcing that David Cameron hosted a reception for some of the 3,000 people who will receive a medal for their work in tackling Ebola in West Africa.

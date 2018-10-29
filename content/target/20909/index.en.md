@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Johanna Boyd on Facebook
-
 This is the Facebook page of Johanna Boyd, the Labour Party candidate for Stirling in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Holly Müller
-
 Holly Müller is a novelist, short story writer, and musician. She is half Austrian and half Welsh and lives in Cardiff. She lectures Creative Writing at the University of South Wales.

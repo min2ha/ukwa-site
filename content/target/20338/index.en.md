@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Newman (Labour Politician)
-
 Andy Newman stood as Labour candidate for Chippenham at the 2015 General Election but was not elected. He stood for election again in 2017 but was not elected.

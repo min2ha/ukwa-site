@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Andrew Jenkins (@CllrJenkins) on Twitter (Labour candidate for South Wales West) 
-
 Andrew Jenkins is the Labour candidate for South Wales at the 2016 National Assembly Election. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Bees
-
 Newly formed FA Womens Super League Club, London Bees

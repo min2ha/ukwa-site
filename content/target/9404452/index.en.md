@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Visit Worcestershire
-
 Website promoting tourism in Worcestershire.

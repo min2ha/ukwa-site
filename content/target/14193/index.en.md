@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SNP: Statement from First Minister Alex Salmond, 19 September 2014
-
 <p>Full text of the statement of Alexander Salmond, on the day that the result of the Scottish Independence referendum was known. The statement includes Salmond's intention to step down as leader of the SNP, and then, once a new leader had been eleceted, as First Minister of Scotland.</p>

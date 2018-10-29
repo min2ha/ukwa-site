@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# UK Yankee
-
 UK Yankee is a resource and community for expatriate Americans living in or planning to move to the UK, established in 1999.

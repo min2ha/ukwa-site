@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gretna Football Club 2008
-
 Site of a Scottish amateur football club based in Gretna, Dumfries & Galloway.

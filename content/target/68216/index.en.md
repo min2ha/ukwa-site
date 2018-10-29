@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Island Sun
-
 The Island Sun is the a newspaper published in the British Virgin Islands (BVI)

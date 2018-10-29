@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Carnoustie (@SNPCarnoustie) on Twitter
-
 Twitter profile of the Carnoustie branch of the Scottish National party (SNP).

@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Thimble Identification
-
 The site facilitates the identification of thimbles. It is a resource site for thimble collectors in general.

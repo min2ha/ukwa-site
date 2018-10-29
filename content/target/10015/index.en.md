@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Plaid Cymru (@Plaid_Cymru) on Twitter
-
 Plaid Cymru was formed in 1925 and won its first seat in the UK Parliament in 1966. Plaid Cymru – Party of Wales, often referred to simply as Plaid,  is a social-democratic political party in Wales advocating for Welsh independence from the United Kingdom within the European Union

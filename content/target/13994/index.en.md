@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# The Office of Gordon and Sarah Brown: Why our unique union must last
-
 <p>Text of an article written by Gordon Brown and published in the Sunday Mirror on 7 September 2014, the day after a YouGov poll was the first to predict a win for the 'yes' vote in the Scottish independence referendum.</p>

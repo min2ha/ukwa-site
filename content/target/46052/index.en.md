@@ -10,5 +10,3 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Sgrinio Clyw Babanod Cymru | Newborn Hearing Screening Wales
-

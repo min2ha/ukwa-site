@@ -10,5 +10,3 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Briggs Marine Contractors Limited
-

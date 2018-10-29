@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Demo at UoB against Trump's #MuslimBan and UK Complicity on Facebook
-
 A demo organised at short notice in response to US President Donald Trump's #MUSLIMBAN in Bristol at 12pm on Monday 3/02/2017. This demonstration was part of a network of nationwide protests - https://www.facebook.com/events/359732827741189/

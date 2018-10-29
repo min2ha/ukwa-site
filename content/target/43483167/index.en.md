@@ -10,5 +10,3 @@
   "start_date": "2010-04-29T00:00:00Z"
 }
 
-# Dockerty Family History in Usworth and Washington, County Durham
-

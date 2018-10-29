@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RoaDMaP - Leeds Research Data Management Pilot
-
 The RoaDMaP project, led by the University of Leeds, was funded under the JISC Managing Research Data Programme 2011-13. RoaDMaP ran from Jan 2012 until June 2013. It assessed data management requirements in a number of subject disciplines and at different stages of the research application process.

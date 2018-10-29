@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oast House Cambridge Meeting
-
 Cancelled

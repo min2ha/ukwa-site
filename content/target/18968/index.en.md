@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Runnymede council: Magna Carta centre plans 'still alive'
-

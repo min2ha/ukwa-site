@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Modern Alchemists
-
 <p>Modern Alchemists is a Cardiff- based arts collective whose aim is to provide a platform for talented, emerging artists to share their work and ideas with the public and artists alike.</p>

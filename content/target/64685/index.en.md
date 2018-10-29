@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Effect of the UK leaving the EU on tourism and the creative industries
-
 This debate pack was prepared ahead of the debate on the Effect of the UK leaving the EU on tourism and the creative industries , to be held in Westminster Hall on Tuesday 17 April 2018 at 2.30PM. This debate was led by Christine Jardine MP.
 

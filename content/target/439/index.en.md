@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wandsworth Health and Wellbeing Board
-
 None

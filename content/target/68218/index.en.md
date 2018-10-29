@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Virgin Islands News Online
-
 Virgin Islands News Online is owned and operated by Advance Marketing and Professional Services, a company registered in September 2009 with the Government of the Virgin Islands, UK.

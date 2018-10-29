@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit (@NoThanksEU) on Twitter
-
 Making the case for a British secession from the European Union.

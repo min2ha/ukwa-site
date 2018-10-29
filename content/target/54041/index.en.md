@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Social Democratic Party
-
 The Social Democratic Party (SDP) was a centrist political party in the United Kingdom. The SDP was founded on 26 March 1981 by four senior Labour Party moderates.

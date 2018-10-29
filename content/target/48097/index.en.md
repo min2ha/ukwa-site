@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK's ambassador to the EU Sir Ivan Rogers resigns
-
 Reports the resignation of the UK's ambassador to the EU, Sir Ivan Rogers. Sir Ivan, appointed to the job by David Cameron in 2013, had been expected to play a key role in Brexit talks.

@@ -10,5 +10,3 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Llantrisant Community Council
-

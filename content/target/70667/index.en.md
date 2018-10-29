@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# London Craft Beer Festival
-
 Festival featuring craft beers.

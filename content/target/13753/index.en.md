@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chokka blog: Scottish Independence
-
 <p>The blog of entrepreneur Kevin Hague, a regular commenter on the Referendum.</p>

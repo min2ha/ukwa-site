@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PsychEvents UK (@PsychEvents_UK) on Twitter
-
 Twitter account that promotes events for counsellors, psychotherapists and mental health professionals - Tweet promoting an event that focuses on 'Video Games and Internet Addition'    

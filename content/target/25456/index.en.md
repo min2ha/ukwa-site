@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders’ debates and a glimpse of a ‘great moving left show’
-
 None

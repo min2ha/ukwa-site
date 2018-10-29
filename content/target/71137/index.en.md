@@ -10,5 +10,3 @@
   "start_date": "2018-09-14T09:00:00Z"
 }
 
-# Punk in the East
-

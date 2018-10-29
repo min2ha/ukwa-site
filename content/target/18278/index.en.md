@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# Association for Coaching (AC)
-
 The Association for Coaching (AC) is an independent, and not-for-profit professional body dedicated to promoting best practice and raising the awareness and standards of coaching.

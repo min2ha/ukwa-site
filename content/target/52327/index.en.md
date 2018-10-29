@@ -10,5 +10,3 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Ysgol Gatholig a Chanolfan Chweched Dosbarth Cardinal Newman | Cardinal Newman Catholic School and Sixth Form Centre
-

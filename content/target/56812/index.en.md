@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Memories
-
 Alzheimer Scotland is using memories of football to improve the lives of people living with with dementia. 

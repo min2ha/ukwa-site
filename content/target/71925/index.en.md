@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Scarfolk
-
 Satirical site by Richard Littler, described as "a treasure trove of satirical fake public information posters'

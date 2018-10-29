@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Islander Newspaper, The  
-
 The Ascension Island Newspaper

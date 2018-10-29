@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Gamblers Anonymous
-
 A website offering various help for the compulsive gambler, including a Forum, Chat Room, Literature and meeting finder

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Green Party in Northern Ireland: 2017 Candidates
-
 The Green Party in Northern Ireland 2017 candidates list

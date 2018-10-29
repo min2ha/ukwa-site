@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-#  Association for Palliative Medicine of Great Britain and Ireland (APM)
-
 The Association for Palliative Medicine of Great Britain and Ireland (APM) is a representative body for doctors practicing or interested in Palliative Medicine. 

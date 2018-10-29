@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Nicola Sturgeon threatens to trigger a constitutional crisis over Brexit by refusing AGAIN to sign off flagship laws on quitting the EU  
-

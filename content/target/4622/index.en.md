@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# LabourList: Nelson Mandela 1918- 2013
-
 <p>A collection of articles posted on the independent left-wing blog Labour List, in commemoration of the life of Nelson Mandela. Contributions include the text of Labour Party leader Ed Milliband's statement of 5 December.</p>

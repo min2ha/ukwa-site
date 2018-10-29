@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yorkshire GAA (@yorksgaa) on Twitter
-
 The Yorkshire GAA has County Board status and is the "headquarters" for Gaelic Football and Hurling throughout the North East of England.

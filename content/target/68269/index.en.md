@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lightwater RFC (@LightwaterRFC) on Twitter
-
 The official Twitter account of Lightwater Rugby Football Club. Lightwater RFC, Surrey based rugby club established over 35 years ago and still playing!

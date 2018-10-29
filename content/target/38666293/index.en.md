@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Inside The Games
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Prospect Magazine: Brexit would hinder the fight against terrorism
-

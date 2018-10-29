@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Catholic Herald: 2017 General Election
-
 Articles from the Catholic Herald tagged as "2017 general election".

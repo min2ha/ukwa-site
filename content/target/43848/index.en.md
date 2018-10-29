@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum poll on a knife-edge as votes are counted 
-
 Guardian, The

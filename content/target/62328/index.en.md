@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Eastleigh FC (@EastleighFC) on Twitter
-
 Eastleigh Football Club's official Twitter account. Follow us for breaking news, in-game coverage and behind-the-scenes updates.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Haddington Athletic Football Club
-
 Site for a Scottish junior football club based in Haddington, East Lothian.

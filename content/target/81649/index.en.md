@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: The good, the bad and the ugly for Theresa May
-
 At the October 2018 Brussels European Council meeting, Theresa May offered to extend the transition period to 2022. Comments that she would probably not get such a proposal approved by Parliament.

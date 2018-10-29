@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Society for Radioligcal Protection (SRP)
-
 SRP is a professional and learned society that was founded in 1963 and was incorporated by Royal Charter in 2007. Our Royal Charter states that the object of the Society is to “promote the science and art of radiation protection and allied fields for the public benefit”. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Drop in UK's economic growth: what the experts say
-
 None

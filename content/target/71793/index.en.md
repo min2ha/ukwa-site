@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BT Home
-
 BT Group plc is a British multinational telecommunications holding company with head offices in London, United Kingdom.

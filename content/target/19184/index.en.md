@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Faversham’s Magna Carta is safely under council lock and key
-

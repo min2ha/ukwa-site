@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Royal Green Jackets Association Photographic Site, The
-
 The site is a result of Bert Henshaw's photographic obsession during his service with the Green Jackets.  He recorded and collected all aspects of regimental life on more than twenty thousand pictures. They photos cover a period of close to 150 years of regimental activities. Some parts of this collection were donated by ex members of the Regiment and their families or purchased from various other sources. 

@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Terry Pratchett
-
 Official website of the British writer Terry Pratchett (1948-2015).

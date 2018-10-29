@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Witney Rugby Club (@WitneyRFC) on Twitter
-
 Witney Rugby Club has 4 senior sides, plus Ladies, Vets, Colts, boys, girls' & SEN teams.

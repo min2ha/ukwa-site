@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Optimistic Ed Miliband says: I’ll put working people first
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Jordan Nobbs (@jordannobbs) on Instagram
-
 Jordan Nobbs; Arsenal & England Ladies football player

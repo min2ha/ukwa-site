@@ -10,6 +10,4 @@
   "start_date": "2017-08-23T09:00:00Z"
 }
 
-# Amit Chaudhuri
-
 Amit Chaudhuri is a novelist, poet, essayist, literary critic, editor, singer and music composer. He is a Fellow of the Royal Society of Literature, and is Professor of Contemporary Literature at the University of East Anglia. 

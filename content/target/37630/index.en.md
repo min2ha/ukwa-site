@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit campaigners complain Britain's biggest environmental charities are using public donations to try and keep the UK In   
-

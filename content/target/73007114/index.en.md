@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Medical Research Council Centre, Cambridge
-

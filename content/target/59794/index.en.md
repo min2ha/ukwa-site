@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Foundation: The life expectancy of people with bipolar disorder and schizophrenia
-
 Website for the Mental Health Foundation a UK based charity. Podcast that discusses themes around the paper: 'Mortality gap for people with bipolar disorder and schizophrenia: UK-based cohort study' found in The British Journal of Psychiatry.

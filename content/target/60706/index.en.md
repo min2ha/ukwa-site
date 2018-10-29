@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harris Former Pupils Rugby Football Club
-
 Site of a Scottish rugby union football club based in Dundee.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Kingspan Stadium (@KingspanStadium) on Twitter
-
 The Home of Ulster Rugby

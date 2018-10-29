@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Suella Fernandes MP (@suellaFernandes) on Twitter (Conservative politician)
-
 Suella Fernandes was appointed as Parliamentary Under Secretary of State at the Department for Exiting the European Union in January 2018. She was elected MP for Fareham in May 2015.
 

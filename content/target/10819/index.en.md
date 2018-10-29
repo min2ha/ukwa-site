@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Road Cycling UK Tour de France fantasy League
-
 Fantasy league game based on the 2014 Tour de France.

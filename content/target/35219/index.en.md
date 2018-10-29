@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Davidson (@johnd1873) on Twitter
-
 The twitter profile of John Davidson, RISE Alliance candidate for Glasgow.

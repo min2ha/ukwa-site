@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Why I wish we could all go back to having Nokia 3310s
-
 Article about authors opinion on smart phones in which she questions if she is addicted to using hers for social media and the internet

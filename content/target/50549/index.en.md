@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Buchan Girls & Ladies Football Club
-
 Site of a girls and women's football club based in Buchan.

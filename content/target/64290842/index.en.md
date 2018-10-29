@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# All Things Good and Proper
-
 None

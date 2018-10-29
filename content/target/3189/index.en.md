@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# United Kingdom Disabled People's Council (UKDPC)
-
 United Kingdom Disabled People's Council (UKDPC) is the national umbrella organisation of disabled people, run and controlled by, and representing the voices of disabled people in the UK.

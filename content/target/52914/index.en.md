@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# British Beer &  Pub Association (BBPA): Election 2017 – BBPA manifesto urges all parties to back policies for unlocking growth and investment in British beer and pubs
-

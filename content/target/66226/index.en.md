@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Seventh-day Adventist Church in Scotland
-
 Site of the Seventh-day Adventist Church in Scotland.

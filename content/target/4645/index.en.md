@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Edinburgh Council: Book of Condolence: Nelson Mandela
-
 None

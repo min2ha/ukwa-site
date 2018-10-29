@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Impact of War on a Market Town, The 
-
 The Impact of War on a Market Town is a project that will explore the impact of World War One on the town of Nantwich.

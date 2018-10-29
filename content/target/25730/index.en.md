@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why are the Tories so paranoid about the SNP?
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# John Adams Music 
-
 From Aberdare, South Wales, Singer/Songwriter John Adams grew up in the same area as the Stereophonics.

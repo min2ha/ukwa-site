@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bloody Scotland (@BloodyScotland) on Twitter
-
 Twitter profile for Bloody Scotland, Scotland’s International Crime Writing Festival.

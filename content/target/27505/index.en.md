@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: George Osborne refuses to answer how Tories will fund £8bn NHS pledge 15 times in excrutiating interview on The Andrew Marr show
-
 None

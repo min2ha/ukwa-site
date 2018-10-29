@@ -10,6 +10,4 @@
   "start_date": "2017-09-09T09:00:00Z"
 }
 
-# Welsh Hame Meat | Helgig Cymreig
-
 Welsh Game Meat aims to increase the value of healthy, local, wild game to the Welsh economy and is funded through the Welsh Government Rural Communities – Rural Development Programme 2014-2020, which is funded by the European Agricultural Fund for Rural Development and the Welsh Government.

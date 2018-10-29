@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Union barons tell voters to reject Brexit because the EU stops the Tories smashing workers' rights   
-

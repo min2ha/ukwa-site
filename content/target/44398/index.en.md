@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law analysis: What next after the UK vote to leave the EU? 
-
 Many of the consequences of the UK’s vote to leave the EU in June 2016 will not be clear for some time. However, this post presents the author's initial take on some of the key issues, in their broader political context.

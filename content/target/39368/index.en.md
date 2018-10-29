@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Pentlands Labour on Facebook
-
 Edinburgh Pentlands Constituency Labour Party

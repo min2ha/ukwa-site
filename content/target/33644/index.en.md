@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Guardian, The: Ireland prepares to mark Easter Rising centenary amid fears old tensions may surface
-
 Article by Marita Moloney in The Guardian.

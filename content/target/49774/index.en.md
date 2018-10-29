@@ -10,5 +10,3 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# The Coastline Film Festival
-

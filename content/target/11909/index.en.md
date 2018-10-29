@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:08.935819", 
+  "date": "2018-10-29T13:22:16.306761", 
   "open_access": false, 
   "target_url": "http://www.pets-pantry.com/", 
   "description": null, 
   "end_date": null, 
   "title": "Pets Pantry", 
-  "record_id": "20181029T125508/JL/P1ZVf/3SJZQKRXKsIng==", 
+  "record_id": "20181029T132216/JL/P1ZVf/3SJZQKRXKsIng==", 
   "publisher": "pets-pantry.com", 
   "start_date": null
 }
-
-# Pets Pantry
 
 None

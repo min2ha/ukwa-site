@@ -10,5 +10,3 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Anglesey Model Village
-

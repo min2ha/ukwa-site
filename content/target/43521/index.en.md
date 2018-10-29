@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of Kent: British Cartoon Archive
-
 EU referendum search in cartoon archive

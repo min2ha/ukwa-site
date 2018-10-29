@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Johnston Sweepers
-
 Johnston Sweepers has been manufacturing road sweepers in Dorking, Surrey for more than 75 years, and today is one of the world market leaders in street cleansing vehicles, British designed and built.

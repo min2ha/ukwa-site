@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: Worried EU nationals dash for UK citizenship amid Brexit fears
-
 Independent, The: EU referendum: Worried EU nationals dash for UK citizenship amid Brexit fears

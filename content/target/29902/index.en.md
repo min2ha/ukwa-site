@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southbank Centre: London Literature Festival
-
 Festival organised by the Southbank Centre 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Young Eurosceptics (@Y_Eurosceptics) on Twitter
-
 A cross-party campaign giving a voice to the Young Eurosceptics of Britain. 

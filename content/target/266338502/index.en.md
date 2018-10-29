@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pamela Nash
-
 The website of Pamela Nash, Labour Parliamenty candidate for Airdrie and Shotts in the UK General Election, 7th May 2015..

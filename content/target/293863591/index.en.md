@@ -10,6 +10,4 @@
   "start_date": "2015-03-05T00:00:00Z"
 }
 
-# Mull of Kintyre Review
-
 An independent review examining all available evidence relating to the findings of the Board of Inquiry into the fatal accident at the Mull of Kintyre on 2 June 1994.

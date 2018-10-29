@@ -10,7 +10,5 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# The Research & Development Society
-
 Founded originally in 1962, The R&D Society aims to be the authoritative and
 representative voice of industrially-focused R&D in the UK

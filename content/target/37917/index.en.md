@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Exiting the EU: impact in key UK policy areas
-
 This paper looks at the current situation in a range of policy areas and considers how it might change if the UK left the EU: would UK citizens benefit? This would depend on how the Government filled any policy gaps left by withdrawal.

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# GameCity
-
 GameCity creates new ways for people to play together through events, projects, partnerships, publications and at their new home – The National Videogame Arcade. In 2006 they created the GameCity festival, which takes place all across the City of Nottingham. 

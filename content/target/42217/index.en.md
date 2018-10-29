@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# #TurnUp
-
 #TurnUp is a voter registration and engagement campaign that seeks to make history by registering 500,000 people to vote at the EU referendum in a week.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The three main parties are promising paradise. Let's play along for a second
-
 None

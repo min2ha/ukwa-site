@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southwold Rugby Club on Pitchero
-
 The official website of Southwold Rugby Club.

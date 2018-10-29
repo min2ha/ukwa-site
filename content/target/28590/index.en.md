@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Cylchdaith Cymru
-
 Cerddwn Ymlaen raises money for Cronfa Elen and raises awareness of  organ donation in Wales.

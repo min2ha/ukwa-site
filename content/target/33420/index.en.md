@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# MDU Notes - The MDU Student Journal
-
 Student journal from the Medical Defence Union.

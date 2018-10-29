@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Colin Jones
-
 Colin Herbert Beyne Jones (1928 – 1967) was born in Newport and is described as one of the most promising Welsh artists of his generation. 

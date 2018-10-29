@@ -10,5 +10,3 @@
   "start_date": "2014-10-16T00:00:00Z"
 }
 
-# Refugee Week Wales | Wythnos Ffoaduriaid Cymru
-

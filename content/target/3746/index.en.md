@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# West Sussex County Times
-
 A Horsham perspective on news, sport, what's on, lifestyle and more, from your local paper the West Sussex County Times.

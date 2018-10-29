@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Pickering and Hull Quaker Meeting
-

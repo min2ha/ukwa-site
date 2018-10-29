@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Cheersport forum
-
 A UK-based cheersport forum 

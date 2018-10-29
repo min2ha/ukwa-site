@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BSSH South (@BSSHSouth) on Twitter
-
 South England Sport/Leisure History Network. Organise Pop Culture, Sport & Leisure History.

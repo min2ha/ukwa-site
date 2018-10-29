@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Russian Summer Ball
-
 Founded in 1996 by Alexander Ivanovich Suscenko, members of the Russian émigré community and friends in the capital, the Russian Summer Ball is an annual event in London.

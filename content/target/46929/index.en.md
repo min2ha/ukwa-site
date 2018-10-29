@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Political Studies Association: EU Referendum Hub
-
 Links to news and updates regarding the EU Referendum.

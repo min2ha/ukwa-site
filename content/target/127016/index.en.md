@@ -10,6 +10,4 @@
   "start_date": "2012-10-04T00:00:00Z"
 }
 
-# Goff Morgan: Adventures In Hack Poetry
-
 None

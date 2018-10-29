@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Reading Matters
-
 Leading literary blog created by UK-based journalist Kim Forrester in 2004 "to share my love of books with a wider audience".  Mainly focused on modern and contemporary fiction, the site includes book reviews going back to 2001.

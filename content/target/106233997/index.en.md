@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Technology Export Communication (Cambridge TEC)
-

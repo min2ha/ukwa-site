@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Cousland.net
-
 Site providing information on amenities and history of the village of Cousland, Midlothian, Scotland.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Corbyn is warned he will have to explain to his voters why he is ordering Labour to 'betray' the EU referendum by voting AGAINST crucial Brexit laws   
-

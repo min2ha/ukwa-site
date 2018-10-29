@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ELECTION - The Cambridge Politics Podcast
-
 Podcast series from University of Cambridge's Department of Politics and International Studies

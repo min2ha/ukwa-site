@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: There's no time for fudging on Brexit - D (for decision) Day is here
-
 Article written in late June 2018 points out the vital importance of Theresa May's divided cabinet agreeing on its vision for the future UK-EU relationship after Brexit as time for negotiating a deal was running out. Argues that the government must also prepare for "no deal".

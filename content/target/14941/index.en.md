@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Briton Ferry West Communities First
-

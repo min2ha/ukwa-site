@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Coisir Lunnainn / The London Gaelic Choir
-
 The website of Coisir Lunnainn, the London Gaelic Choir.

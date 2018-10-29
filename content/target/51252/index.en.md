@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# FCO Outreach: Ensuring a smooth transition in the WTO as we leave the EU
-
 Discusses steps being taken to establish  the UK’s independent position in the WTO in the light of Brexit

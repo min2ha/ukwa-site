@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK publishes more EU negotiation plans
-
 The UK government has set out proposals to ensure trade in goods and services can continue on the day the UK leaves the EU in March 2019.

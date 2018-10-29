@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Outdoor Recreation NI
-
 Outdoor Recreation NI is an organisation responsible for developing, managing and promoting outdoor activities including walking, cycling, canoeing and adventure activities throughout Northern Ireland.

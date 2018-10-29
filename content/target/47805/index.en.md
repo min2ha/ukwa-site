@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Kingfisher plc
-
 Kingfisher plc is a British multinational retailing company, it is the largest home improvement retailer in Europe.  It has over 1,176 stores, in eleven countries across Asia and Europe, and its brands include B&Q, Castorama, Brico Dépôt and Screwfix

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit would bring chaos, fear and emergency measures in its first 100 days, experts predict
-

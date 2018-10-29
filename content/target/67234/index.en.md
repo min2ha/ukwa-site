@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bracknell RFC (@GoBRFC) on Twitter
-
 The official Twitter account of Bracknell Rugby Club. Founded 1955.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 'Proud' David Miliband backs brother Ed as he sends postal vote with the words #Ed4PM 
-
 None

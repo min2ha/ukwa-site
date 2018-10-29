@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: You are what you eat: Ukip voters like it British while Greens prefer it organic
-
 None

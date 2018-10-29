@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# NMC Health plc
-
 NMC Health plc is the United Arab Emirates largest private healthcare provider. It has two main branches of business, NMC Healthcare and NMC Trading.  The company is one of the largest healthcare providers in the private sector in the UAE, and leading distributors of pharmaceutical products.

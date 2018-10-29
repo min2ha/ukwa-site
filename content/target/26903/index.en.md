@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Model Flying Association (BMFA)
-
 British Model Flying Association (BMFA) is the National Governing Body for the sport of model flying. Its aims are to promote, protect, organise and encourage model flying within the UK. Typically there are around 780 affiliated clubs and a combined membership of over 36,000 members, all of whom have entered a partnership to ensure that model fliers have a voice and their rights are recognised by the authorities.

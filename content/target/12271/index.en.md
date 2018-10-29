@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Sign for Scotland
-
 None

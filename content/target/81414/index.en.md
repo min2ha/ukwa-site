@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NFL UK (@NFLUK) on Twitter
-
 UK Twitter account for NFL UK

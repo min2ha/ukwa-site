@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# A.F.C. Telford United
-
 A.F.C. Telford United is a football club based in Telford, Shropshire, England. The club was formed in 2004 after the original Telford United, founded in 1872, folded due to financial problems.

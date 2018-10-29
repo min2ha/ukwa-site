@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brunel University London: Study shows criticism of EU referendum campaigning rules
-
 Article regarding campaigning rules in the EU referendum.

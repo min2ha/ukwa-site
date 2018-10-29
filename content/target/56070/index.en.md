@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Deborah Light: Choreographer and Dance Artist
-
 Deborah Light is a Choreographer and Dance Artist based in Cardiff.

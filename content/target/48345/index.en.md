@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Cayman Islands
-
 The official tourism website of the Cayman Islands.

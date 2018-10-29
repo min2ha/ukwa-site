@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BMG Research: BMG/Herald Final EU Referendum Poll
-
 The article is by BMG Research which provides research work for a mixture of private and public sector bodies. It shows the details of the last MBG poll of the EU Referendum and the apparatus by which it was conducted. It shows the remain vote ahead of the leave vote, with 11 percentage points unaccounted for.

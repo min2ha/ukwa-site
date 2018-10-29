@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Lodge Breadalbane 657
-
 Site of a masonic lodge located in Aberfeldy,Perth and Kinross and affiliated with the Grand Lodge of Scotland.

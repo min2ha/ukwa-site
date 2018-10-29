@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Catrin Woodruff
-
 Catrin Woodruff is a Welsh soprano and former finalist in the W. Towyn Roberts Scholarship Prize at the National Eisteddfod. 

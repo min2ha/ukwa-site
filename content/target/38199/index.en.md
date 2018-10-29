@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bermondsey Leave (@bermondsey4out) on Twitter
-
 Campaigning for Bermondsey, Surrey Docks and Rotherhithe to #VoteLeave 

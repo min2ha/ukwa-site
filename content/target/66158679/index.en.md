@@ -10,5 +10,3 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Heddon on the Wall Local History Society
-

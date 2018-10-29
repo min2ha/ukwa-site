@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bethesda Our Boys WW1 Exhibition
-
 When we started this project we knew very little of Bethesda Our Boys. We knew we had four beautiful Rolls of Honour dedicated to the young men associated with Bethesda Chapel who left the safety of their families and their homes to fight in both the First and Second World Wars. 

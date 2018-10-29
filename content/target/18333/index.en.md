@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Richard Carr Blog
-
 Richard Carr - Commercial and Residential Development Consultant is a blog dedicated to providing information, debate and analysis on key areas of the commercial and residential development market.

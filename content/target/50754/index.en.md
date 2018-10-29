@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Centre for Welsh Studies on Facebook
-
 The Centre for Welsh Studies is the first pro-Brexit Welsh think tank. 

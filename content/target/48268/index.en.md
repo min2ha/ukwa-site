@@ -10,5 +10,3 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Her Majesty's Chief Inspector of Prisons for Scotland (HMIPS)
-

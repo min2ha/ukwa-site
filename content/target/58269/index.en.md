@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Addicted to videogames? Charity calls for more research
-
 News article referring to statements made by charities that more work and research needs to be done on the effects of internet gaming addiction and mental health

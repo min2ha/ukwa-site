@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sark Newspaper, The
-

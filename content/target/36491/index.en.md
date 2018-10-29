@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: British tourists could be left stranded abroad if voters back Brexit, ministers warn  
-

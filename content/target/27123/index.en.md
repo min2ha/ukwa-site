@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# England’s Immigrants 1330-1550
-
 The website England’s Immigrants 1330-1550 contains a database listing over 64,000 names of people known to have migrated to England during the period of the Hundred Years’ War and the Black Death, the Wars of the Roses and the Reformation. 

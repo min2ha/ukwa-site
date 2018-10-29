@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindsay Paterson (@LSPaterson) on Twitter
-
 The Twitter profile of Lindsay Paterson, the Conservative Party candidate for Edinburgh West in the UK General Election on the 7th May 2015.

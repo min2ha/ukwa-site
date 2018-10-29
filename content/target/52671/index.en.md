@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Without Walls
-
 Without Walls is a consortium of leading arts organisations and festivals dedicated to the development of the UK’s outdoor arts sector. The Associate Touring Network supports the onward touring of work commissioned and presented by Without Walls.

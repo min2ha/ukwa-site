@@ -10,6 +10,4 @@
   "start_date": "2016-12-21T09:00:00Z"
 }
 
-# Citizen's Basic Income Network Scotland
-
 Citizen’s Basic Income Network Scotland’s mission is “to advance research and public education about the economic and social effects of Citizen’s Basic Income systems (defined here as schemes which guarantee an unconditional, non-withdrawable income payable to every citizen as a right of citizenship).”

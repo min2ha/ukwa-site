@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tiree Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located on the isle of Tiree, Argyll & Bute.

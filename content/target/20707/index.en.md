@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scots Independent Newspaper: The Flag in the Wind.
-
 Part of the monthly Scots Independent; produced and distributed by volunteers.

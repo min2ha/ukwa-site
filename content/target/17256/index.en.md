@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Many 'English issues' are Scottish ones too. That's why the SNP's MPs will vote on them
-

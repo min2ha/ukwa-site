@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Evening Standard: Brexit news latest: 'Angela Merkel out to stop us getting good deal,' David Davis says
-
 David Davis claimed that German Chancellor Angela Merkel was leading moves in the European Union to stop Britain being “seen to  succeed” from Brexit. In an exclusive interview with the Evening Standard, the former Brexit Secretary said only French president Emmanuel Macron was taking a harder line against the UK. “Other than Macron, Merkel is the most emphatic in Europe about us not being seen to succeed,” he said.
 
 

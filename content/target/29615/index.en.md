@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Plymouth International Book Festival
-
 Plymouth International Book Festival

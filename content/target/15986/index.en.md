@@ -10,5 +10,3 @@
   "start_date": "2015-01-20T06:00:00Z"
 }
 
-# NHS Lothian
-

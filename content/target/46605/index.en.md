@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T11:00:00Z"
 }
 
-# HIE Gaelic Plan
-
 HIE Gaelic Plan

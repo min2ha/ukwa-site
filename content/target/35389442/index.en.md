@@ -10,5 +10,3 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Penderyn Distillery: The home of Welsh Whisky
-

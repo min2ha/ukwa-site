@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Belfast Giants
-
 Official website of the Belfast Giants ice hockey team.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scunthorpe Independent
-
 An independent news site to provide a news service for the town of Scunthorpe North Lincolnshire.

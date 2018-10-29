@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Mountain Harmony Ladies Barbershop Chorus
-
 Mountain Harmony Ladies Barbershop Chorus have been singing 4 part a capella since our formation in 1989.

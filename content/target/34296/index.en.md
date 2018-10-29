@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Heritage Council, The: Why We Commemorate Events
-
 This is the website of the Heritage Council of Ireland. It includes the transcript of a lecture on the nature of commemoration.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kinross Parish Church
-
 The website of Kinross Parish Church, located within the Perth Presbytery. 

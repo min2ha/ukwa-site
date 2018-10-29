@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Forth to Farne Way
-
 Site of a walking path recreating a pilgrimage route from the river Forth in Scotland to Lindisfarne in Northumberland.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Women Seeking Sanctuary Advocacy Group Wales (WSSAG Wales)
-
 Women Seeking Sanctuary Advocacy Group Wales is a cardiff based lobbying, advocacy and research group which works with and for refugee women in Wales.

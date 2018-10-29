@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Swansea Festival of Stitch
-
 Swansea Festival of Stitch is a celebration of textiles, art and stitch held in Swansea in August 2016. 

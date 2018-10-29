@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Debates: Financial Resolutions 2017 - Financial Resolution No. 2: General (Resumed)
-
 Wednesday, 12 October 2016 a continuation of the debate on Financial Resolutions 2017 held the previous day after the Financial Minister read out the 2017 Budget Statement. The government claimed this budget was more conservative in order to make the country 'Brexit Proof'.

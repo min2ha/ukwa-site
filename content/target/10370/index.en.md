@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sarah Ludford, Liberal Democrat on Twitter
-
 None

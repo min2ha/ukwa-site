@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: This is not the time for Labour to indulge in a scrap in its own navelF
-
 None

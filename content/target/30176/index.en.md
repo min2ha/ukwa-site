@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Clì Gàidhlig
-
 Clì Gàidhlig, an organisation for supporting adult Gaelic learners.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Raab and Barnier claim progress but no Irish breakthrough
-
 EU negotiator Michel Barnier told journalists that remaining "bones of contention" between the two sides were being steadily eliminated with particular progress on issues of security, judicial and defence co-operation after "long" talks on Friday August 31st. He said the "building blocks" of an agreement were falling into place.
 
 

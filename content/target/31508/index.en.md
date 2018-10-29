@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Next Gen Skills
-
 Next Gen Skills campaigns vision is for the UK’s education system to equip the next generation with the knowledge needed to grow this country’s digital, creative and hi-tech economy.

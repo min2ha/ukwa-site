@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Johnny Giles Poet
-
 Johnny Giles is a trainee journalist and young Welsh poet whose poetic work often deals with political issues such as mental health, war, and social justice. 

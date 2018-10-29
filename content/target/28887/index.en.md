@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Coleg Trefeca
-
 Coleg Trefeca is the lay training, conference centre and retreat house of the Presbyterian Church of Wales and was the home of Howell Harris, Methodist preacher.

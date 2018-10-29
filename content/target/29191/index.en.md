@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# British Youth Film Academy (BYFA), The
-
 The British Youth Film Academy (BYFA) was established to provide a solid link between the commercial film industry and all branches of media education, by offering professional standard training and vocational experience twinned with students’ current academic study.

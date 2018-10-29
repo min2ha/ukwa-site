@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Republican History & Remembrance, 1916 Easter Rising: Background 
-
 A brief synopsis of the historical background to the 1916 Easter Rising.

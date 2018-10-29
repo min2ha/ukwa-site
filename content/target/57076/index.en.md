@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Collaboration on science and innovation: a future partnership paper
-
 This paper outlines the UK’s objectives for an ambitious science and innovation agreement with the EU. It sets out examples of where the UK sees potential mutual benefit in a close working relationship, exploring precedents for each. The paper invites discussion with the EU on how best to shape our future partnership in this area.

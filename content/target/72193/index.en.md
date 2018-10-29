@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Nia Lewis Textile Design
-
 Nia Lewis is a Textile Designer and Lecturer in Knitted Textiles and a Program Leader at Carmarthen School of Art.

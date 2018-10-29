@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Elwyn Williams (@ElwynPlaid) on Twitter (Plaid Cymru candidate for Carmarthen West and South Pembrokeshire)
-

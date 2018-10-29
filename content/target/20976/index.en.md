@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kenny Young (@Kenny_young) on Twitter
-
 The Twitter profile of Kenny Young, the Labour Party candidate for Midlothian in the UK General Election on the 7th May 2015.

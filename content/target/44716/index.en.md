@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stephen Milne Swimmer
-
 This is the official site of Perth based swimmer, Stephen Milne.

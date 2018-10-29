@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Davis makes major concession to Brexit rebels by pledging any final deal WILL be enshrined in separate Act of Parliament as ministers gear up for pitch battle over EU Withdrawal Bill   
-

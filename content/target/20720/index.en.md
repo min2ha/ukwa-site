@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Monaghan (@_PaulMonaghan) on Twitter
-
 Twitter profile of Paul Monaghan, Scottish National Party candidate for Caithness, Sutherland and Easter Ross in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit is an emotional rollercoaster - and we can't get off it now
-

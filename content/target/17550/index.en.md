@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour raises £1m in Obama-style online fundraising drive
-
 None

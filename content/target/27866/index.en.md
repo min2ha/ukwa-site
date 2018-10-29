@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Envisionation
-
 Climate change blog site.

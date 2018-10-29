@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Women's Equality Party Glasgow, The on Facebook
-
 Facebook page of the Glasgow branch of the Women's Equality Party.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Tories will build 200,000 discount homes for first-time buyers
-
 None

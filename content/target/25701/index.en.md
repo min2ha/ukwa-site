@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Sun trumpets White Van Dan’s support for David Cameron
-
 None

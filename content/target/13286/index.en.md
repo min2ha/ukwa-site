@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War 1 Letters Home from the Western Front and Edwardian Era Letters, 1892 - 1920.
-
 None

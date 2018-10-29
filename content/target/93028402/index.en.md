@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Dorset Police & Crime Commissioner
-
 None

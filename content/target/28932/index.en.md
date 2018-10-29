@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Birmingham Green Party
-
 Website of the Birmingham Green Party, providing information on local news, campaigns and policies.

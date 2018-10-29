@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Primary Care Respiratory Society UK (PCRS)
-
 Primary Care Respiratory Society UK (PCRS) is the UK-wide professional society supporting primary care to deliver high value patient centred respiratory care. 

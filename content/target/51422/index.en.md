@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Worshipful Company of Parish Clerks
-
 Originally, the Parish Clerk was in minor orders, he was primarily concerned with the worship in the parish church and sometimes, in some places, with the education of its children. In a grant of arms made to the Company in 1482, the aspergilia indicates that the sprinkling of holy water was one of his specific liturgical duties

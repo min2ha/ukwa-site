@@ -10,5 +10,3 @@
   "start_date": "2016-04-06T00:00:00Z"
 }
 
-# Penvro, The
-

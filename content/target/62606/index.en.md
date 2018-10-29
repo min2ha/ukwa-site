@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Rock in the Park, Music Festival
-
 Rock the Park Music Festival is held near Wrexham and is a tribute festival featuring some of the biggest band names from around the world.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City of London LINk
-
 None

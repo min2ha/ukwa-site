@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Time Trail - Cornish discovery trail
-
 None

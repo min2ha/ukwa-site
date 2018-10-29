@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Hamilton AC/AM (@NeilUKIP) on Twitter
-
 Neil Hamilton is the UKIP candidate for Carmarthen East and Dinefwr at the 2017 General election.

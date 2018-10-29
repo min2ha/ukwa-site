@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swim England
-
 British Swimming is the national governing body of swimming, water polo, synchronised swimming, diving and open water in Great Britain. British Swimming is a federation of the national governing bodies of England (Amateur Swimming Association), Scotland (Scottish Amateur Swimming Association), and Wales (Welsh Amateur Swimming Association).

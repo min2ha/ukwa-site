@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Amnesty International on Brexit
-
 Statement by Kate Allen, AIUK's Director, on the human rights implications of Brexit.

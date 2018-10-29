@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: Knowledge, skills and competencies for an effective local healthwatch
-
 None

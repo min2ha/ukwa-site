@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Stop it Now! Wales
-
 Stop it Now! Wales is managed by Lucy Faithfull Foundation and is a child sexual abuse prevention project which works across the country to ensure that parents, carers and professionals are as best placed as they can be to protect children from sexual abuse and exploitation. 

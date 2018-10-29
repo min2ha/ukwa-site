@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Connect Gwent
-
 Connect Gwent is service that ensures victims of crime receive the support, information and guidance that they need in Blaenau Gwent, Caerphilly, Monmouthshire, Newport and Torfaen.

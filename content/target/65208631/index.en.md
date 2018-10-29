@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# CreativeTourist.com - Manchester's Guide for the Creative Tourist
-
 creativetourist.com is an art and travel site. It began life in Manchester and is expanding across the North.

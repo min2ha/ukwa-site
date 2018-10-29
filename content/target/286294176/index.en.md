@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Black Triangle Campaign: Anti-Defamation Campaign in Defence of Disability Rights
-
 <p>A site focussed on rights for the disabled in the UK.</p>

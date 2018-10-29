@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alasdair Allan MSP
-
 Alasdair Allan is Scottish National Party (SNP) Member of the Scottish Parliament for Na h-Eileanan an Iar.

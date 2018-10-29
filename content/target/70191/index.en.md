@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ballymena United FC (@BallymenaUnited) on Twitter
-
 The official Twitter page of Ballymena United Football Club.

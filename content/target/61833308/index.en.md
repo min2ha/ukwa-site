@@ -10,6 +10,4 @@
   "start_date": "2011-11-02T00:00:00Z"
 }
 
-# Canolfan y Celfyddydau Aberystwyth Arts Centre
-
 Arts Centre

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ban foreigners from sitting on juries, urges Nigel Farage
-
 None

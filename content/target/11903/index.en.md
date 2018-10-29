@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sian French (sian_french) on Twitter
-
 <p>The twitter profile of althete Sian French, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

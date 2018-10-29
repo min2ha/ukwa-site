@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Wood: 'No common ground' between Plaid and SNP on funding
-

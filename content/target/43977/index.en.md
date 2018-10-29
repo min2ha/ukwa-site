@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Molly Scott Cato (Green MEP for the South West of England and Gibraltar)
-
 Website of Molly Scott Cato, the first Green MEP for the South West of England and Gibraltar

@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-#  Let The Light In
-
 Refurbishing Queen Elizabeth Hall, Purcell Room at Queen Elizabeth Hall and Hayward Gallery. Through this page patrons can make donations to help fund raise for the project.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What effect will the parties’ policies have on poverty? Think before you vote
-
 None

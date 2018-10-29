@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Nintendo Life
-
 <p>Website containing news and reviews from the community of Nintendo users.</p>

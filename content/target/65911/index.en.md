@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Get The Boat 2 Vote (@hometovote) on Twitter
-
 A global campaign based in London calling on the Irish abroad to return home to vote in the 8th Amendment referendum in the Republic of Ireland on 25/05/2018.

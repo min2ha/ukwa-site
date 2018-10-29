@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# A C Grayling (@acgrayling) on Twitter
-
 Anthony Clifford Grayling CBE, usually known as A. C. Grayling, is a British philosopher and author. This is his official Twitter account.

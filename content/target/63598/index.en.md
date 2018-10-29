@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Manchester Evening News : Stephen Hawking
-
 Subsection on Stephen Hawing

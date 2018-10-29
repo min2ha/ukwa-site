@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: IMF chief issues impassioned plea for Britain to stay in EU
-
 Guardian, The

@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Craft Business 
-
 Website of the magazine Craft Business 

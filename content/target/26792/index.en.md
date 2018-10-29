@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Coventry Observer: Paramedics fight Ebola this Christmas
-
 Article on two Paramedics volunteering in Sierra Leone

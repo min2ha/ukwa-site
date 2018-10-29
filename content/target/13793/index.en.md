@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Teachers for Yes
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron: Brexiters stoking intolerance with immigration obsession
-
 Guardian, The

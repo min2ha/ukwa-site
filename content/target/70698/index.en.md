@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Community Co-operative League
-
 Site of a community league aiming to create an organised and well administered Sunday football competition where sides from across west central Scotland can take part regardless of age or ability, but more importantly, regardless of race, religion or sexual orientation.

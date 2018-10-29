@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Cooperians RFC on Pitchero
-
 The official website of Old Cooperians Rugby Football Club.

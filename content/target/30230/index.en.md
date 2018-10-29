@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Music Blog
-
 The blog reports the latest news about our music collections and related services: for example the newly acquired materials, projects, and what related events and associated activities are taking place. 

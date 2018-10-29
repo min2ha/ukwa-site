@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Health Research Authority: Social media use in severe mental health problems
-
 Study investigating the relationship between social media usage and personality, mood, self-esteem and paranoia in individuals experiencing severe mental health problems: An ESM study.

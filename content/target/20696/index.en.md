@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brendan O'Hara for Argyll & Bute on Facebook
-

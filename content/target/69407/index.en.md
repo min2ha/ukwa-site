@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Teresa's Newarthill
-
 Site of a Scottish Roman Catholic parish church located in Newarthill, Lanarkshire.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Display At Your Own Risk (DAYOR)
-
 Display At Your Own Risk (DAYOR) is a research-led exhibition experiment featuring digital surrogates of public domain works of art produced by cultural heritage institutions of international repute. The project includes a Gallery Exhibition as well as an open source version of that exhibition intended for public use.

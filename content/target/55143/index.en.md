@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Coffee Forums UK
-
 UK based coffee discussion forum started in June 2008 by Glenn Watson

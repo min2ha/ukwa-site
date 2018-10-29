@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Perfect Information
-
 Perfect Information (PI) was established in 1991 to provide workflow solutions and global financial information for the top 100 investment banks, brokerage firms ...

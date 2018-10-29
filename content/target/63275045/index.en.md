@@ -10,6 +10,4 @@
   "start_date": "2012-08-08T00:00:00Z"
 }
 
-# Destination Management Wales | Reoli Cyrchfannau Cymru
-
 Development of tourism in Wales

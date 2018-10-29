@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Donald Tusk: EU must stay united or face Brexit 'defeat'
-
 Following the October 2017 European Council meeting, the Council president Donald Tusk told the European Parliament the UK's departure was the EU's "toughest stress test" and it must not be divided at any costs.

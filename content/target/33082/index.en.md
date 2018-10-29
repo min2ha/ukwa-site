@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Fair Work Convention
-
 The Fair Work Convention is an independent body recently established to provide independent advice to the Scottish Government on matters relating to innovative and productive workplaces, industrial relations and fair work in Scotland. 

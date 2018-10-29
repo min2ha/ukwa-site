@@ -10,7 +10,5 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Bulkley Hotel, The
-
 "The Bulkeley Hotel is a grade 1 listed building located in Beaumaris. It 
 is now a hotel."

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# About My Vote: Elections and referendums; Scottish Parliament 
-

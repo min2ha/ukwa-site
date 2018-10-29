@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# The Victorian Illustrated Shakespeare Archive
-
 The Victorian Illustrated Shakespeare Archive was undertaken as part of Michael John Goodman's PhD in English Literature at Cardiff University. 

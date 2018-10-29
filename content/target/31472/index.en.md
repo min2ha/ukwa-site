@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Creative England
-
 Creative England provides a platform for new voices, generating jobs and economic growth by supporting creative talent and businesses.

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Social media and grassroots activism have taken Scotland to the brink of independence
-

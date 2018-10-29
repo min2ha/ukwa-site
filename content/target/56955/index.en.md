@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Soccer Base
-
 An online soccer magazine published by the Racing Post.

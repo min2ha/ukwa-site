@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election campaign turns ugly in row over Ed Miliband's Trident commitment
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sherwood Forest Hospitals
-
 None

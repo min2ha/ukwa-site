@@ -10,5 +10,3 @@
   "start_date": "2014-11-12T00:00:00Z"
 }
 
-# David Annwn - Celtica Eclectica
-

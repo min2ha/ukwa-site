@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Your Majesty, please grant us a new Magna Carta 
-

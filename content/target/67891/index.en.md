@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Dominic Grieve seeks 'sensible compromise' over MPs' role
-
 Tory Brexit rebel Dominic Grieve insisted he was seeking a "sensible compromise" to prevent a fresh showdown in the Commons over Parliament's role in the Brexit negotiations

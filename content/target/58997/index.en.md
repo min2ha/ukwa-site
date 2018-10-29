@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Artisans Collective CIC
-
 Artisan Collective is an organisation providing a Unique Community Facility based at The Old Library, Prestatyn. The collective provide facilities for local Artists and Craftspeople to display and sell their products. 

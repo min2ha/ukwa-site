@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Business Of War, The 
-
 A community and participatory project exploring the heritage of The Royal Arsenal in Woolwich.

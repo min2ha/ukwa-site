@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge Sir Michael No. 989
-
 Site of a masonic lodge located in Kilmalcolm, Perthshire and affiliated with the Grand Lodge of Scotland.

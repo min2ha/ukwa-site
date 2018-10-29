@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Hullwebs History of Hull
-
 A local history website focused on Hull, UK.

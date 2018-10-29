@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Living Maps
-
 Living Maps Network established 2013 supported by Mapping for Change, the Young Foundation and the Centre for East London Studies to develop a network of researchers, community activists and others with an interest in the use of mapping for social change, public engagement and community campaigning.

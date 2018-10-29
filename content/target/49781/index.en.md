@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Voluntary Health Scotland
-
 Site of a Scottish national intermediary and network for voluntary health organisations in Scotland.

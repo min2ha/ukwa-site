@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Taith Ardudwy Way
-
 Taith Ardudwy Way is a well signposted upland pathway of 24 miles from Barmouth in the south to Llandecwyn in the north. 

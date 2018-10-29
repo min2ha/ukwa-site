@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lib Dem Welsh election pledge: read all about it
-

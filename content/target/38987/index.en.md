@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Britain cannot cut migration unless we quit the EU: IDS warns public services are coming under 'unsustainable pressure'    
-

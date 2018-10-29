@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rutherglen and Cambuslang Branch SNP on Facebook
-
 Facebook page of the Rutherglen and Cambuslang branch of the Scottish National Party (SNP).

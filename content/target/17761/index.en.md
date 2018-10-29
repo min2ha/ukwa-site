@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Kate Hudson. If I were Prime Minister: The UK would refuse to profit from death
-
 None

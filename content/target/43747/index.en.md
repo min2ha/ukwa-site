@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron makes final plea for Britain to vote to remain in the EU 
-
 Guardian, The

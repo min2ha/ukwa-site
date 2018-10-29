@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joanne McFadden for Scottish Labour in Angus South on Facebook
-

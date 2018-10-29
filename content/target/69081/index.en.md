@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Carick Ayrshire
-
 Community website for the district of Carrick, Ayrshire, providing details of amenities, businesses and events for residents and visitors.

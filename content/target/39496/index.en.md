@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remember ! 1914: It was Their Time - 2014: It gave Us Ours
-
 This heritage project will create a powerful experience for audiences across five areas of Cambridgeshire and provide legacy for communities commemorating Remembrance in future years. 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit myths: fact-checking claims by both sides of the EU campaign
-

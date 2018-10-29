@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: How is the 'killing the SNP stone dead' project going?
-
 None

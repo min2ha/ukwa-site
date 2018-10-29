@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Agents' summary of business conditions - 2018 Q2
-
 This publication includes a summary of economic reports compiled by the Bank of England’s Agents between late March and late May 2018. I comments on the impact of Brexit.

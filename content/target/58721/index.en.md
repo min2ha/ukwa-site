@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Graham Walton Consultancy 
-
 Graham Walton has been a Consultant since 2016 after working in various sectors such as further as well as higher education and the NHS.

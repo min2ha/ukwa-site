@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Working Families
-
 Working Families is the UK’s leading work-life balance organisation. The charity helps working parents and carers and their employers find a better balance between responsibilities at home and work. 

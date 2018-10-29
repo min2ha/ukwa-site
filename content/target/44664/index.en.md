@@ -10,5 +10,3 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Ruthin Flower and Country Show
-

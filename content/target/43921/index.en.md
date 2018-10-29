@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexit contagion: UK vote raises fears of a tsunami of EU membership referendums
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# PR and journalism in Scotland get new tool with Twitter Reverb: Weber Shandwick
-
 None

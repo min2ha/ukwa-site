@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Walton Centre, The, NHS Foundation Trust
-
 None

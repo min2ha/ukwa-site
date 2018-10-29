@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tony Dyer (@TonyDDyer) on Twitter (Green Party Politician)
-
 Tony Dyer stood as Green Party candidate for South bristol at the 2017 General Election but was not elected.

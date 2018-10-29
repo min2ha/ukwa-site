@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# mickoforpington (@MickGreenhough) on Twitter
-
 The twitter profile of Mick Greenhough, UK Independence Party candidate for Aberdeen North.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pulteneytown and Thrumster Church 
-

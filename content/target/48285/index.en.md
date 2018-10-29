@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Meet in Cardiff
-
 A site promoting Cardiff as a place to meet, visit and hold conferences. Meet in Cardiff is managed by Cardiff City Council.

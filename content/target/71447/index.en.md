@@ -10,5 +10,3 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Ceredigion Labour Party
-

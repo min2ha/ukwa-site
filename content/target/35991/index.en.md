@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul Sweeney MP (@PaulJSweeney) on Twitter
-
 Twitter profile of Paul Sweeney, Scottish Labour candidate for Glasgow North East in the 2017 general election.

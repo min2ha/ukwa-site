@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Elletra | Aviation, Maritime, and Heritage Websites
-
 Elettra is a collection of websites covering aviation, maritime history, and heritage including tribute websites to the Cunard liners RMS Queen Mary and Queen Elizabeth 2.

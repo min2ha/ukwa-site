@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gerald Jones (Labour MP for Merthyr Tydfil and Rhymney)
-
 Gerald Jones is the Labour MP for Merthyr Tydfil and Rhymney.

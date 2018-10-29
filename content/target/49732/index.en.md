@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Iona and Ross of Mull Churches
-
 The website for the Church of Scotland parishes of Iona linked with Kilfinichen and Kilvickeon and the Ross of Mull.

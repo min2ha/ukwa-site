@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Tayside Opera Company
-
 Site of an amateur opera company based in Dundee.

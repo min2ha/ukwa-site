@@ -32,6 +32,4 @@
   "endDateText": ""
 }
 
-# Independent Arts Organisations
-
 This collection will bring together independent arts organisations from around the UK  providing an overview of activity that is inherently itinerant and ephemeral. This collection will also provide an insight into how artists and curators are using current technologies and advancements in networking to promote and showcase their activity.

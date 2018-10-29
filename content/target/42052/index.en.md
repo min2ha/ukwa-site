@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum Question Time being held by Leek and District Churches Together on Wednesday, June 8.
-
 A Question Time-style event is being held at a Leek church ahead of the EU Referendum.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rochdale Borough Council: Tour de France 2014
-
 Tour de France web page for Rochdale Borough Councilf

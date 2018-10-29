@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Perth & Kinross Council: Scottish Independence Referendum
-
 None

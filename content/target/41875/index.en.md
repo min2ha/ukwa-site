@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# British Towns and Villages
-
 British Towns and Villages in England, Wales, Scotland and Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: The Computer Programme
-
 Webpage of the programme first aired in 1982.

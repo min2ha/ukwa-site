@@ -11,8 +11,6 @@
   "subject": "News Sites"
 }
 
-# Positive News
-
 Positive News is the inspiring current affairs magazine.
 
 Online and in print, we publish quality, independent journalism about progress and possibility.  When much of the media is full of doom and gloom, instead Positive News is the world’s first media organisation dedicated to reporting on what’s going right. We are pioneers of ‘constructive journalism’ – an emerging approach in the media towards rigorous and relevant reporting that is focused on solutions. As a magazine and a movement, we are changing the news for good.

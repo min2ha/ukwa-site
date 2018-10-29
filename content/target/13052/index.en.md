@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Motorcycle Action Group (MAG)
-
 The Motorcycle Action Group (MAG) is a volunteer led riders' rights organisation which was established in 1973. The MAG campaigns to protect and promote motorcycling and the interests and rights of all riders.

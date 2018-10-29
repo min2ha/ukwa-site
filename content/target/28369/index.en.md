@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# HMS Victory
-
 HMS Victory best known for her role in the Battle of Trafalgar, the Victory currently has a dual role as the Flagship of the First Sea Lord and as a living museum to the Georgian Navy.

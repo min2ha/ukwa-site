@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Spire FM: School children helping mark Magna Carta anniversary with concerts
-

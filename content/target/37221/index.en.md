@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: We Can Have a Better Referendum - Let's Make It Happen
-
 Huffington Post, The: We Can Have a Better Referendum - Let's Make It Happen

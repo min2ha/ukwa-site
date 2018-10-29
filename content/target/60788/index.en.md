@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Press Association: Sport
-
 PA is the national news agency for the UK and Ireland, this is their sports section.

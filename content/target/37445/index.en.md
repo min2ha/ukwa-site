@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: 'I don't want to be in no man's land': the 'Brexit Brits' seeking second passports 
-
 The opinions and experiences of British migrants to the EU

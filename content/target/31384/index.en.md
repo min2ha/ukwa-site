@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Field Squadron Facebook
-
 Facebook page for the Jersey Field Squadron, containing information about recruitment and events and photographs.

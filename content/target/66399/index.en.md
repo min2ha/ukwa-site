@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-#  Materials Processing Institute UK
-
 The Materials Processing Institute is a Research and Innovation Centre serving organisations which work with materials, materials processing or energy.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Ann Lewis RCA – Artist/ Printmaker
-
 Ann Lewis RCA – Artist/ Printmaker from north Wales.

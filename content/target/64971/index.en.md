@@ -10,5 +10,3 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Officers Association Scotland
-

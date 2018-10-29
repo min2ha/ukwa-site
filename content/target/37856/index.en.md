@@ -10,6 +10,4 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# Carw coch: Blog by Simon Thomas AM
-
 Carw cach is a blog by Simon Thomas AM written between 2011 and 2013.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phil Bradley's website - Making the net easier
-
 Website run by Phil Bradley containing information about IT and social media in the libraries.

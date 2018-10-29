@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# The Newsroom (@BL_newsroom) on Twitter
-
 News collections at the British Library - print, web, TV and radio

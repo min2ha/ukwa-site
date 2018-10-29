@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# 441 Films
-
 441 Films is a film production company based in Cardiff.

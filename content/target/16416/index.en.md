@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Policy Blogs
-
 <p>Manchester Policy Blogs is a part of the University of Manchester website.</p>

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Open Canoe Association - Song of the Paddle Forum
-
 An online enthusiast community forum concerned with open canoeing. Discusses gear, canoe & paddle reviews, meetings, trips & socials and various other related topics.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Patrick Harvie Scottish Greens on Facebook
-

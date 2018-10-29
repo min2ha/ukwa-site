@@ -10,6 +10,4 @@
   "start_date": "2013-09-03T00:15:00Z"
 }
 
-# Sharing Experience - Scotland's Ageing Population
-
 None

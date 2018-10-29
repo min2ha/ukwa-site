@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# HISENTS - High level Integrated Sensor for Nanotoxicity Screening
-
 HISENTS aims to deliver an advanced nanosafety platform capable of providing high-throughput toxicity screening for the risk assessment of novel nanomaterials.

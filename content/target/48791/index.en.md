@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Jessica Mordan MP on Facebook
-
 Jessica Morden is the Labour MP for Newport East.

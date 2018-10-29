@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Sharon Full Gospel Church, Pontypool
-
 Sharon Church is located in Pontypool. It is a Full Gospel Pentecostal Church.

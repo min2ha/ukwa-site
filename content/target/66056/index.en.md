@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# British Air Display Association (BADA)
-
 The British Air Display Association was formed in April 2011 following a number of successful informal meetings by organisers, pilots and others associated with air displays. 

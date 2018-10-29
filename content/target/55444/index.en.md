@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Bryn Williams 
-
 Bryn Williams is a chef from Denbigh, North Wales.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Light Night
-
 One of the UK's largest annual arts and light festivals

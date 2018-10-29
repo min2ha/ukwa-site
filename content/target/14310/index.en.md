@@ -10,5 +10,3 @@
   "start_date": "2014-10-28T06:00:00Z"
 }
 
-# Drugs in Context
-

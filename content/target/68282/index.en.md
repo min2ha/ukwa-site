@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Houghton Rugby (@HoughtonRugby) on Twitter
-
 The official Twitter account of Houghton Rugby Club. Houghton Rugby is a  small & friendly Rugby Club situated between Sunderland and Durham. 

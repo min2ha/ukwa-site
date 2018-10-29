@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Quality Observatory System
-
 None

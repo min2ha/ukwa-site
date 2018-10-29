@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Health and Wellbeing Board
-
 None

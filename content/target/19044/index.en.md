@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: A piece of history for sale: Magna Carta Island up for grabs for just £4m
-

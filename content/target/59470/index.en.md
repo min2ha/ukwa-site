@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Model Railways Layouts Forum
-
 An online enthusiast community concerned with model railroads. Discusses model railways layouts, tutorials & guides, competitions & challenges, items for sale, real railways, simulators and various other topics.

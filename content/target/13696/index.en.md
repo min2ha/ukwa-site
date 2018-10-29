@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Glasgow City Council: Young voters included in annual call to complete electoral registration form
-
 None

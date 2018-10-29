@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# CILIP: Gender parity: is the sector moving in the right direction?
-
 AN article about the gender pay gap in the information management sector.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-01T09:00:00Z"
 }
 
-# Institute of Head and Neck Studies and Education (InHANSE) 
-
 The Institute of Head and Neck Studies and Education (InHANSE) focuses on research of diseases of the head, neck and thyroid, and on the education of health professionals in the field.  

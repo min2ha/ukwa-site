@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Interact Wales
-
 InterAct (Wales) are a theatre company comprised of multi-skilled performing artists and educational theatre practitioners based in Mold, North.

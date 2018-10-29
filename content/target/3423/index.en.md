@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Buxton Advertiser
-
 None

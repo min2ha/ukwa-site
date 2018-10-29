@@ -10,5 +10,3 @@
   "start_date": "2008-10-08T00:00:00Z"
 }
 
-# CrimeFest
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Main parties unlikely to make big gains outside heartland, pooled polls suggest
-
 None

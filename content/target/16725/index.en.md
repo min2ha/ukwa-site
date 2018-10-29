@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Housing Regulator
-
 Independent regulator of registered social landlords and local authority housing services in Scotland established under the Housing (Scotland) Act 2010.

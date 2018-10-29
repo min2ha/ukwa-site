@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Green Building Council (UK-GBC): Low carbon, high growth: a 10 point plan for buildings in the next Parliament
-
 The UK Green Building Council is a charity and membership organisation which campaigns for a sustainable built environment. UK-GBC has a diverse membership of more than 400 organisations spanning the entire built environment. The majority are from the private sector, but they also have public and third sector members. 

@@ -11,5 +11,3 @@
   "subject": "Men's Issues"
 }
 
-# National Centre for Eating Disorders
-

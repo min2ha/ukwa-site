@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Thinking the unthinkable: A coalition between Tories and Labour? ...And bookies open bets
-
 None

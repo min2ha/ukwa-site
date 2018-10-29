@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Britain could have a second referendum if voters go for Brexit in June, European Parliament chief suggests   
-

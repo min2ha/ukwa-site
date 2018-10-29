@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Buttle UK
-
 In 1953 Frank Buttle had a vision to create an endowment that would launch 1,000 children out of poverty each year.

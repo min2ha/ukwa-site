@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# EU Funds: Ireland Wales Programme 2014-2020 
-
 The Ireland Wales 2014-2020 European Territorial Co-operation (ETC) programme is a 'maritime programme connecting organisations, businesses and communities on the West coast of Wales with the South-East coast of Ireland... [and] focuses on seeking solutions to shared challenges on both sides of the Irish sea,  to improve the economic and sustainable development priorities of Wales and Ireland'. The Welsh Government manages the programme with partners, the Southern Regional Assembly (SRA) and the Department for Public Expenditure and Reform (DPER).

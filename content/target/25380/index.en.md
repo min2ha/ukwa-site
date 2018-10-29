@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg warns Tories will cut police and carers to fund income tax cut
-
 None

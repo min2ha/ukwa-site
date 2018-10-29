@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Shah Jalal Mosque & Islamic Cultural Centre, Cardiff on Facebook
-

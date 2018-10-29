@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Great Priory of Scotland
-
 Site of a masonic order based in Scotland.

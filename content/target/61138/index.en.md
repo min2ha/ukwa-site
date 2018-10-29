@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Pro-EU campaign secures £400,000 from George Soros
-
 Reports that Best for Britain, a campaign group fighting to keep the UK in the EU had received £400,000 from billionaire investor George Soros

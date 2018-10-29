@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Lindop (@MarkLindopGP) on Twitter (Green Party  Politician)
-
 Mark Lindop stood as Green Party candidte for Sittingbourne and Sheppey in the 2017 General Election but was not elected.

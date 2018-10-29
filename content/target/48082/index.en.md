@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas’ Church, Clapton Common
-
 Official website of St. Thomas’ Church, Clapton Common.

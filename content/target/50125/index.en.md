@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of Abergele | Plwyf Abergele
-

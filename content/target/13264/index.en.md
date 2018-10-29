@@ -10,6 +10,4 @@
   "start_date": "2014-07-31T02:00:00Z"
 }
 
-# CommuniGate
-
 None

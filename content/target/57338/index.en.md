@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Assembly: Possible implications of ‘Brexit’ for transport and water policy
-
 Research and Information Service Briefing Paper outlining the influence of the EU in transport and water policies and highlighting issues that may require further consideration following the UK referendum decision to leave the European Union.

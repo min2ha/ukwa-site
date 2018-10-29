@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Unleashed
-
 Blog campaigning to leave the EU to reclaim sovereignty

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Nigel Farage to go 'on the road' with Leave group
-
 In the Daily Telegraph, UKIP MEP Nigel farage said Theresa May's Chequers agreement was a "sell-out" as it included regulatory alignment with the EU. He wrote he would join pro-Brexit group Leave Means Leave at UK public events.
 
 

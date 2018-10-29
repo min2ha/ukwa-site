@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: Time to give our industries the protection they deserve
-
  Calls for a more robust trade defence regime post-Brexit

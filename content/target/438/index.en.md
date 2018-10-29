@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Waltham Forest Health and Wellbeing Board
-
 None

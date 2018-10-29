@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# 7ahead: Forth Bridges Festival 2015
-
 A description of the events Forth Bridges Festival on the Edinburgh events blog, 7ahead.

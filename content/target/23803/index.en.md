@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Institiwt Corris
-
 Corris Institute is a community centre and venue in the Dyfi valley.

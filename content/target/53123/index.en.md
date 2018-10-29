@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Robin Hunter-Clarke, Prospective Parliamentary Candidate for Pontypridd
-
 Robin Hunter-Clarke is the UKIP Prospective Parliamentary Candidate for Pontypridd at the 2017 General Election.

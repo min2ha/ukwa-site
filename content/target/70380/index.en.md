@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  Exiting the EU Dept (@DExEUgov) on Twitter
-
 Overseeing the UK's negotiations to leave the EU and establishing the future relationship between the UK and the EU 

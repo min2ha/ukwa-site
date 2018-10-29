@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Demos: Brexit: the digital aftermath
-
 The Centre for the Analysis of Social Media at Demos has been undertaking research into the impact that the European Referendum result has had on xenophobia and racism on Twitter, and also how the platform has been used to both report hate speech incidents and to express solidarity with migrants.

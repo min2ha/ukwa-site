@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: MEP's working week: 'You wake up and don't know where you are'
-
 None

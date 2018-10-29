@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Oor Wullie's Big Bucket Trail
-
 An "Art Trail" across Scotland consisting of likenesses of the cartoon character Oor Wullie; to raise funds for children's hospitals. 

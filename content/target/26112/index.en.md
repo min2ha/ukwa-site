@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Office of Animal Health (NOAH): NOAH Manifesto calls for support for older people with pets and “evidence-based decisions” on future legislation 
-
 NOAH represents the UK animal medicine industry: its aim is to promote the benefits of safe, effective, quality medicines for the health and welfare of all animals.

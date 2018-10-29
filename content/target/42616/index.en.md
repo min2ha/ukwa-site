@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pete North Politics Blog
-
 Blog advocates leaving the EU.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Isla Aitken (@IslaAitken) on Twitter
-
 The Twitter profile of Isla Aitken, Scottish Green Party candidate for South Scotland in the 2016 Scottish Parliament election.

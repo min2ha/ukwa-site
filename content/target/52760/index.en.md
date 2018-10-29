@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Evangelist, London Road, Carlisle
-
 We are a lively Christ-centred, Bible-believing evangelical
 Anglican Church close to the centre of Carlisle.

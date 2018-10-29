@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Aberdeen Mountain Rescue Team
-
 Site of a voluntary and charitable organisation that operates as a mountain rescue service in and around Aberdeen and Aberdeenshire.

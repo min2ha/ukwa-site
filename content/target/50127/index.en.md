@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# William Williams Pantycelyn Memorial Church
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# VICE United Kingdom: Who's Profiting from the Scottish Referendum?
-
 None

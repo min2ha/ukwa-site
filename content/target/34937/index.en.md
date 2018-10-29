@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Crafts Council, The
-
 The Crafts Council's goal is to make the UK the best place to make, see, collect and learn about contemporary craft.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-#  UK Grime (@UKGrime) on Twitter 
-
 UK Grime is the main destination for Grime music, news, videos, Grime artists, music reviews and Grime culture.

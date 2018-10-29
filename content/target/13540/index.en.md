@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# SNP Youth – Young Scots for Independence
-
 The website of SNP Youth, the official youth wing of the Scottish National Party.

@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Red Moon Rising
-
 Red Moon Rising is a full-colour steampunk fantasy webcomic set in the midst of a magic-fuelled industrial society. It is created by Rose Loughran.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-29T09:00:00Z"
 }
 
-# Vale of Glamorgan Artists (VOGA)
-
 Vale of Glamorgan Artists (VOGA) membership is restricted to those who live and/or work in the Vale of Glamorgan. 

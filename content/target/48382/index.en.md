@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibtour
-
 A tourism website to promote Gibraltar.

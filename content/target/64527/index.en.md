@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Mick Sheridan Upholstery
-
 Sam Knight is a woodworker based in Llandysul and makes handmade wooden boxes, furniture and kitchenware in Welsh woods. His specialty is British wool fabrics.

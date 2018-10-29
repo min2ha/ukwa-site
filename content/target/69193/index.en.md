@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Belfast Mela
-
 Website for Belfast Mela, Belfast's annual celebration of global cultures.

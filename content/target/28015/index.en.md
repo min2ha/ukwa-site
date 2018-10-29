@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National disgrace, scoundrel and extremist*, A
-
 Debra Storr's blog; a green campaigner and planner based in Aberdeenshire.

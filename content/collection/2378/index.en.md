@@ -30,6 +30,4 @@
   "endDateText": "31-12-2012"
 }
 
-# Dickens Bicentenary
-
 The year 2012 marked the 200th anniversary of the birth of author Charles Dickens, one of the best known and best loved authors in English Literature. A series of events was held globally to celebrate Dicken's bicentenary. This collection of websites was curated by staff at the British Library.

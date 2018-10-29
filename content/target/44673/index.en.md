@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# We Are The 48 on Facebook
-

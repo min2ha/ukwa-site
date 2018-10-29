@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Top Gear
-
 Online version of the Top Gear magazine dedicated to cars.

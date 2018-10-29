@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ken Macintosh MSP – MSP for the West of Scotland region and Presiding Officer of the Scottish Parliament
-
 Ken MacIntosh is Scottish Labour and Co-operative Member of the Scottish Parliament for the West of Scotland region and Presiding Officer of the Scottish Parliament.

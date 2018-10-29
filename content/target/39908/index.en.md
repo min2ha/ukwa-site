@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Samantha Cameron and Michael Gove's wife Sarah Vine 'row' over EU referendum The pair have been on holiday together and Ms Vine is godmother to the Camerons' youngest daughter
-

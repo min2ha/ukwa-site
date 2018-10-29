@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Dysgu yn yr awyr agored Cymru | Outdoor Learning Wales (OLW)
-

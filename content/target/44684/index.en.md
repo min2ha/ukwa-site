@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Can the EU persuade the UK to change its mind on Brexit?
-

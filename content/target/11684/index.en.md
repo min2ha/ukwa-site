@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Starshark (danwallace_) on Twitter
-
 The twitter profile of althete Dan Wallace, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

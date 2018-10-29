@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Christopher Little Literary Agency LLP
-
 Boutique agency building authors ona global basis.

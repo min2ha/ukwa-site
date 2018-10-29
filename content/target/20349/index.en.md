@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Duncan Hames (@duncanhames) on Twitter (Liberal Democrat candidate for Chippenham)
-

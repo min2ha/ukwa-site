@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Committee on the Medical Effects of Air Pollutants
-
 None

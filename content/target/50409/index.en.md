@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kilbirnie Ladeside Football Club
-
 Site for a Scottish junior football club based in Kilbirnie, Ayrshire.

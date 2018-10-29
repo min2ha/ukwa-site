@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Summerhall TV
-
 Summerhall TV develops ideas to bring the arts and audiences closer together via TV and social media. Summerhall builds programmes and films Summerhall’s plays, concerts and panel discussions, and represents Summerhall’s museums and archives on TV.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# ALISS (Association of Librarians and Information Professionals in the Social Sciences)
-
 ALISS (Association of Librarians and Information Professionals in the Social Sciences) is a not-for- profit unincorporated professional society. It is an independent group which was formed in April 2005 by the former committee of ASSIGN (Aslib Social Science Information Group and Network).

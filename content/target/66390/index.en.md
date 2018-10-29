@@ -10,6 +10,4 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Design Interactions Show 2014
-
 RCA Design Interactions end of year show 2014

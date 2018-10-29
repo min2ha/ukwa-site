@@ -10,5 +10,3 @@
   "start_date": "2006-12-18T00:00:00Z"
 }
 
-# Documents for the History of Economics
-

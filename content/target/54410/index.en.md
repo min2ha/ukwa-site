@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Torfaen Labour Party (@Torfaen_Labour) on Twitter
-

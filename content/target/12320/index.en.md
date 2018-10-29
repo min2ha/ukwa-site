@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Farming for Yes (Farming4Yes) on Twitter
-
 <p>The twitter profile of Farming for Yes, a farming and agricultural sector campaigning group for the Scottish Independence Referendum 2014.</p>

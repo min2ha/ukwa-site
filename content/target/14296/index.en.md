@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Endurance
-
 <p>Theatre production by A Moment’s Peace and The Women’s Creative Company in Co-Production with The Arches, presented as part of Festival 2014 the cultural programme that surrounded the Commonwealth Games in Glasgow. The show is based on ten months of research into the experiences and stories of female Commonwealth competitors and is archived on this site</p>

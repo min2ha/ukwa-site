@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Foreign Affairs Committee: The future of the European Union: UK Government policy
-

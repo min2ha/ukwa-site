@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Swansea University - Prifysgol Abertawe
-
 Official website of the Swansea University - Prifysgol Abertawe.

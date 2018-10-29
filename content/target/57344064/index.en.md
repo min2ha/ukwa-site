@@ -10,6 +10,4 @@
   "start_date": "2010-11-11T00:00:00Z"
 }
 
-# Gauchers Association
-
 To provide information about Gaucher disease and keep families and medical advisers up to date with latest research developments. 

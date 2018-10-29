@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cengiz Ceker on Facebook (Independent candidate for Norwich South)
-

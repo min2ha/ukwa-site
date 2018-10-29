@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# West Midlands Police Authority
-
 None

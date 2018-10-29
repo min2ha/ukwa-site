@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Samantha Ritchie (@misssam89) on Twitter
-
 The Twitter profile of Samantha Ritchie, the Scottish Labour candidate for the Glasgow list in the 2016 Scottish Parliament election.

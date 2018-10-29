@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Britain needs a 'can-do' attitude revolution, with solutions rather than whining
-
 Following the vote to leave the EU, Britain is divided between those who believe we can thrive outside the bloc, and those who believe the country faces disaster. The two sides need to work together to rebuild Britain. 

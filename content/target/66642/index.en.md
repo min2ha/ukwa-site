@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Kensington Palace (@KensingtonRoyal) on Twitter
-
 The official account of The Duke and Duchess of Cambridge, The Duke and Duchess of Sussex and their Royal Foundation, based at Kensington Palace.

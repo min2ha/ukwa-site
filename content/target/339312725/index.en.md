@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: 1916 Centenary – Cherishing All the Children Equally?
-

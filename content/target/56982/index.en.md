@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simply Health: How can I spot the signs of mental health issues at work?
-
 Article with advice for workplaces, organisations and HR professionals on spotting signs of mental health problems. 

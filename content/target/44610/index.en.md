@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Northamptonshire Natural History Society
-
 The Northamptonshire Natural History Society, founded 1876, welcomes all who are interested in the wonders of science and nature.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Mark Llewelyn Evans, the Baritone
-
 Mark Llewelyn Evans is a professionally trained Welsh baritone.

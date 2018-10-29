@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Newbattle Abbey
-
 Site of an historic abbey at Dalkeith, Midlothian, and used as venue for conferences, residential meetings, private celebrations and weddings and also the location of Scotland’s foremost adult education college.

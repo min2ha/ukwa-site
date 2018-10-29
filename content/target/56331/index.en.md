@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Whitchurch Hospital Historical Society
-
 Whitchurch Hospital Historical Society preserve and publish information and artefacts relating to Whitchurch Hospital in Cardiff.

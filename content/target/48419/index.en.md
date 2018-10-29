@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Open Scotland
-
 Promoting the development and adoption of open education policies and practices in Scotland.

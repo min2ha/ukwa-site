@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Amid the gloom, Brexit provides an opportunity for Labour
-

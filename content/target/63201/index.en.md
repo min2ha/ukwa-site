@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Science and Technology Committee: Brexit, science and innovation
-
 The Committee calls for an early deal for science and research with the EU – to be in place by October 2018 or earlier if possible. The report argues that negotiating a deal on science is a ‘win-win’ for the UK and the EU, and so getting an early agreement could set a positive tone for other elements of the negotiations.

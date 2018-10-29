@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour government would be bad for business, warns Goldman Sachs
-
 None

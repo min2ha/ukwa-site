@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Self-Willed Land - advocacy for wild land and nature
-
 None

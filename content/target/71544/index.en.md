@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: What's behind Donald Tusk's Instagram diplomacy?
-
 Donald Tusk rejected Theresa May's Brexit proposals at the September 2018 EU summit and posted on his Instagram story shortly afterwards. "A piece of cake, perhaps?," said the head of the European Council, alongside a picture of him and May at the summit in Austria. "Sorry, no cherries." This provocative post was Tusk's idea and is part of a wider strategy to appeal to young people via the app, an EU source told the BBC.
 
 

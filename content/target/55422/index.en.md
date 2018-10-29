@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# National Lido of Wales (Lido Ponty)
-
 Lido Ponty is the National Lido of Wales and located in Pontypridd.

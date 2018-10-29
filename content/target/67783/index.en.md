@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Hebridean Brewing Company Ltd
-
 Site of a brewer located at Stornoway, Isle of Lewis, Western Isles.

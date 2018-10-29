@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# One Parent Families Scotland
-
 Site of a Scottish charity providing support and encouragement to one parent families, expanding their opportunities and providing childcare.

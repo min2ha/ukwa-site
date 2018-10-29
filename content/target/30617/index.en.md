@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Fàilte gu Sgoil Ghàidhlig Ghlaschu
-
 Sgoil Ghàidhlig Ghlaschu is the Glasgow Gaelic School, which includes a nursery, primary and secondary schooling for children between the ages of three and eighteen.

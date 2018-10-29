@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sports Heritage Scotland
-
 Site of a collaborative partnership between sporting organisations in Scotland working together to develop a national sports reminiscence project (The Memories Project) and creating sport exhibitions and heritage displays.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Rowlands Plaid Cymru on Facebook
-
 Plaid Cymru Parliamentary Candidate for Ynys Môn General Election May 2015. 

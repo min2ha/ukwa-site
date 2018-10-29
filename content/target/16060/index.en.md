@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Nuffield Department of Medicine, University of Oxford
-
 <p>The Nuffield Department of Clinical Medicine is part of the Medical Sciences Division. It hosts a large grouping of biomedical researchers and is also responsible for a significant part of the teaching of clinical medical students with the Oxford Medical School.</p>

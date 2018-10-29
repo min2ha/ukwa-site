@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Bute Film Society Facebook Page
-
 Facebook page of a film society located at Rothesay, Bute, Argyll & Bute.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Campaign for an Independent Britain (@FreeBritain ) on Twitter
-
 Campaign for an Independent Britain is one of UK's leading Eurosceptic organizations.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Devil's Spittleful, The: Rhydd and Wyre at war
-
 Restoration and interpretation on a key local historic site linking with the scouting movement and their primary outdoor scouting facility which is immediately adjacent to the site.

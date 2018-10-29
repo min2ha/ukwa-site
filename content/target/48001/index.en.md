@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit, Brexit and more Brexit: a look at what’s in store for politics in 2017
-

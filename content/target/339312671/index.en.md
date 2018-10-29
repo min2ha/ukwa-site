@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T11:00:00Z"
 }
 
-# 1000 o Fywydau | 1000 Lives Plus
-
 1000 Lives Improvement is the national improvement programme, supporting organisations and individuals, to deliver the highest quality and safest healthcare for the people of Wales.

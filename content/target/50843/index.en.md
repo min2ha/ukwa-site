@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llay and Rossett Parish, Wrexham
-

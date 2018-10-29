@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Carubia (@cllrcarubia) on Twitter (Liberal Democrats Politician)
-
 Chris Carubia stood as Liberal candidate for Wirral South at the 2017] General Election but was not elected. He also stood for Merseyside's Police and Crime Commissioner for the 2016 Elections, but was not elected.

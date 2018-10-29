@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Idea Store
-
 Idea Stores offer library services, as well as a wide range of adult learning courses, activities and events programme.
