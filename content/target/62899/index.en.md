@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bro Ystumanner: St Cadfan, Tywyn
-

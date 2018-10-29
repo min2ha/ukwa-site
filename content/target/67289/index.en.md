@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# High Wycombe RUFC (@HighWycombeRUFC) on Twitter
-
 The official Twitter account of High Wycombe Rugby Union Football Club.

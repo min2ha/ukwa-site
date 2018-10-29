@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# mplcontact
-
 <p>mplcontact provides outsourced contact centre services to businesses of all sizes and in all industries since 1994.</p>

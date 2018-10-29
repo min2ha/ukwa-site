@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Galloway Kite Trail
-
 Site of a nature trail focusing on the red kites of Dumfries & Galloway.

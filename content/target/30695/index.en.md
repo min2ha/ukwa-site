@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Leeds College of Art
-
 Official website of the Leeds College of Art.

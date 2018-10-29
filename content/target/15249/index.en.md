@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Shilton Parish Council
-

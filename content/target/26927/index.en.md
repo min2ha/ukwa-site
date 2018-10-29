@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# GOV.UK: Forth Bridge on track for World Heritage status - Press releases
-
 UK Government notification of application for World Heritage status.

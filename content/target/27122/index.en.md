@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# State of Mind
-
 The State of Mind programme was established in 2011 with the aim of improving the mental health, wellbeing and working life of rugby league players and communities.

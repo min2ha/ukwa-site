@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC: Euro 2016: 87 violent football fans banned
-
 Euro 2016 news article on the BBC website.

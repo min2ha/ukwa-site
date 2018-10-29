@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Top firms snub Prime Minister's EU letter: Even David Cameron's own advisers refuse to add their names   
-

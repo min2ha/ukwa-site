@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Scottish Opera
-
 Site of Scotland's national opera company.

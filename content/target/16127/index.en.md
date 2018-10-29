@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Nuclear Industry Association (NIA), The
-
 The Nuclear Industry Association (NIA) is the trade association for the civil nuclear industry in the UK and represents more than 270 companies across the supply chain.

@@ -10,5 +10,3 @@
   "start_date": "2015-10-30T00:00:00Z"
 }
 
-# Literature Forum for Scotland
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: The Guildford pub bombings, the Enniskillen Poppy day massacre and the Brighton hotel attack: Year by bloody year, the carnage McGuinness's IRA inflicted
-
 Martin McGuinness was a former IRA Member and leading member of the political party Sinn Fein. He served as he deputy First Minister of Northern Ireland from May 2007 to January 2017. He died on Tuesday 21/03/2017 and this obituary was published by The Daily Mail.

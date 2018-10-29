@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Luckie Ales
-
 Site of a micro-brewery and brewer based in Fife.

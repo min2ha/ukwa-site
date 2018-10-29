@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Final poll shows Labour and Conservatives are neck and neck
-
 None

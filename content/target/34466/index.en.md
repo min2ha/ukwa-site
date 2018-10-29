@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Linda Fabiani
-
 Linda Fabiani is Scottish National Party member of the Scottish Parliament for East Kilbride.

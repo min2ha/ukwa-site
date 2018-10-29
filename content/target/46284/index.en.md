@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# “Dismay, horror and heartbreak” over where “Leave” leaves disabled people
-
 As a founder member of the UK disabled people’s independent living movement, John Evans finds nothing to celebrate in the result of the EU referendum.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# Ian Macleod Distillers Limited
-
 Ian Macleod Distillers Limited is a Scotland-based company that produces and distributes premium quality spirits. Brands owned include Glengoyne  whisky and Edinburgh gin. 

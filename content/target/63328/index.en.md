@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Haemophilia Wales
-
 Haemophilia Wales provides information, support and advocacy to everyone with Haemophilia, Von Willebrands and other bleeding disorders, including their families and carers. 

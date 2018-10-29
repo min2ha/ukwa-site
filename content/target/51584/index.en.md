@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oakshaw Trinity Church
-
 Website of Oakshaw Trinity Church, ​an ecumenical church in Paisley, Scotland, with members from the Church of Scotland and the United Reformed Church.

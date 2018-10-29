@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Holbrook RFC (@Holbrook_RFC) on Twitter
-
 The official Twitter account of Holbrook Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Government to spend £500,000 persuading students to register to vote
-
 None

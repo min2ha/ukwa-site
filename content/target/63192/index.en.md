@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Pressure grows on PM over Brexit Cambridge Analytica scandal
-
 The anti-Brexit group Best for Britain wrote to Theresa May demanding that she investigated what Boris Johnson and Michael Gove knew about links between Vote Leave and Cambridge Analytica

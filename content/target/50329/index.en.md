@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Capel Newydd Talsarnau, Eglwys Efengylaidd Ardudwy
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# St Austell and Newquay Liberal Democrats on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brecon & Radnorshire UKIP Suspended Committee 
-
 Website of Brecon & Radnorshire UKIP Suspended Committee, highlighting internal fractions within UKIP.

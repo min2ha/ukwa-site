@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# NHS Wales: Choose Well Wales | Dewis Doeth Cymru
-
 Choose Well Wales is a NHS Wales Service providing advice on the right NHS Wales service you need if you become ill or are injured. Choose Well is the official NHS Wales campaign which aims to increase awareness of the range of services available to patients with minor illnesses or injuries.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Petulant PM and henchman who's now a toxic figure: QUENTIN LETTS on Cameron and Heywood's anti-Brexit double act    
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# The Dales Way Association
-
 The Dales Way Association was established in 1991 to help support, maintain and promote the Dales Way Long Distance path.

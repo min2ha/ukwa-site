@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# AFC Wimbledon
-
 AFC Wimbledon is a professional football club currently based in Kingston upon Thames, south west London, England, which has played in League One, the third tier of the English football league system, since promotion in 2016. Their home stadium is Kingsmeadow, a ground shared with Chelsea Ladies and up until 2017 with Isthmian League club Kingstonian F.C.

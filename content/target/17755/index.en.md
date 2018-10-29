@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: James Jones. If I were Prime Minster: I'd take mental health in the armed forces seriously
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Shawlands United Reformed Church
-
 Site of a Scottish United Reformed church located in Shawlands, Glasgow.

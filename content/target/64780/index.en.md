@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: new guidelines on the framework for future EU-UK relations
-
 Brexit negotiations resumed in April 2018 and this third phase covered issues outstanding from the two previous phases - the Irish border in particular - and the framework for future EU-UK relations. This paper looks at how the EU and the UK envisage their relationship after Brexit.

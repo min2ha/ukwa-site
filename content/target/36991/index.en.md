@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# In Parenthesis
-
 In Parenthesis is Iain Bell’s adaptation of the epic poem of the First World War by Welsh poet, writer and artist David Jones. In Parenthesis is commissioned by the Nicholas John Trust with 14-18 NOW, the UK cultural programme to commemorate World War I and performed by the Welsh national Opera.

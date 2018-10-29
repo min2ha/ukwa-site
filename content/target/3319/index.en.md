@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Great Britain and Ireland of the Russian Orthodox Church outside Russia
-
 <p>Christian Orthodox<br />
 The Russian Orthodox diocese in the UK and Ireland of the Russian Orthodox Church outside Russia</p>

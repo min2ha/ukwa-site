@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Ysgol Rhewl
-
 Ysgol Rhewl is located near Ruthin and is earmarked for closure in 2015.

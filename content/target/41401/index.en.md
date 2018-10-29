@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Moniaive
-
 Site of the community of Moniaive, Dumfries and Galloway, Scotland, porviding information for visitors and locals on amenities and activities in the village, including the annual tradtional music festival.

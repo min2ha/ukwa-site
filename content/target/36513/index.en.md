@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum: French Calais warning dismissed as 'propaganda' by Brexit campaign - Politics live
-
 Guardian, The

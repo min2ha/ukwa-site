@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Dundee City of Design
-
 Site of UNESCO City of Deisgn for Dundee.

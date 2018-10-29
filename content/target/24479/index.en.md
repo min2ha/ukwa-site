@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Green Party manifesto calls for 'peaceful political revolution'
-
 None

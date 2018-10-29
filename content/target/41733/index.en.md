@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Shepherd and Wedderburn LLP: Brexit analysis bulletin
-

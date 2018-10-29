@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T00:00:00Z"
 }
 
-# BBC News: Boris Johnson attacks Vince Cable for 'peddling lies'
-
 Boris Johnson said suggestions he could resign from the cabinet over Brexit tensions were "lies". The foreign secretary's spokesman said Lib Dem leader Sir Vince Cable should stop "making stuff up" after he claimed Mr Johnson might quit his role.

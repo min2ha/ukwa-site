@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Audacity of Pope, The
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Liberty GB (@Liberty_GB) on Twitter
-
 Liberty Great Britain or Liberty GB is a far-right British ultranationalist political party and self-described as counter-jihad.

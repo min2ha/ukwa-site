@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Daily Post: Football
-
 The Football sub section of the Daily Post newspaper.

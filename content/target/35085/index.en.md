@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Friends of Tredegar House
-
 The Friends of Tredegar House was founded in order 'to spread public interest in the historical, architectural and environmental importance of Tredegar House in Newport'.

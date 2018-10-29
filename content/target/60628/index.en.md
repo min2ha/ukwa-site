@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Acoustic Soundboard
-
 An online enthusiast community concerned with acoustic guitars and other instruments. Discusses playing & technique, guitar builds & projects, competitions and various other related topics. Includes a board for users to post images of their instruments.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ruth Davidson promises help for Scottish taxpayers
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Cardiff Comedy Hub
-
 Cardiff Comedy Hub was site for all things comedic in Cardiff from events, interviews and reviews. The site was operation from 2016 to 2017.

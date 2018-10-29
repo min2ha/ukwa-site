@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Open Europe
-
 Open Europe is a think tank which crafts solutions to the EU’s most pressing problems and campaigns to put these solutions into action. It is committed to reform of the European Union.

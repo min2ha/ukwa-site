@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron pledges to reform Britain's membership of EU and migrant benefits
-
 None

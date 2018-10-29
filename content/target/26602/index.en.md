@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Inside the campaigns: 'Labour must seek to persuade, not just mobilise'
-
 None

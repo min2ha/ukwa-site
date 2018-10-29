@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Wai Yin Chinese Women Society
-
 None

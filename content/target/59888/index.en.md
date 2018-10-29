@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# TAIC
-
 Site established as a learning resource for Scottish Gaelic.

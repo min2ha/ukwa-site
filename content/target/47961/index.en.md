@@ -10,6 +10,4 @@
   "start_date": "2016-12-24T09:00:00Z"
 }
 
-# The Smell of Water
-
 A website that documents a personal exploration into the folklore, archaeology, history and general life around the Banks of the River Tees and the North Yorkshire Moors. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Baringa
-
 Brighter together. We help our clients navigate industry shifts by bringing clarity and insight.

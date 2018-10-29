@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Global Future
-
 Global Future is an independent think tank that believes Britain can only succeed in the future as a vibrant and open nation reaching out to the world.

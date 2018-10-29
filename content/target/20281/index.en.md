@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Working Terrier Federation (NWTF)
-
 The National Working Terrier Federation (NWTF) is the representative body for terrierwork in England, Scotland and Wales. It was formed in 1984 to promote the best, most humane and efficient practices in relation to the use of working terriers for pest control purposes.

@@ -10,5 +10,3 @@
   "start_date": "2012-05-21T00:00:00Z"
 }
 
-# OpenLIVES project (Learning Insights from the Voices of Emigres from Spain)
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jim Murphy Labour Parliamentary Candidate for East Renfrewshire:
-

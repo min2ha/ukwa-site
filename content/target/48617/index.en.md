@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour MPs could vote against leadership on Brexit
-
 Dozens of Labour MPs might be prepared to go against the party's leadership if there was a vote on starting the Brexit process following the Supreme Court's judgement in January 2017.

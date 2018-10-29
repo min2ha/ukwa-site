@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish Sun backs the SNP: is Rupert Murdoch pulling the strings?
-
 None

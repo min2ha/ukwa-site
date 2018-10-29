@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ed Con Law Centre (EdConLawCentre) on Twitter
-
 <p>The twitter profile of the Constitutional law research centre within Edinburgh Law School at the University of Edinburgh.</p>

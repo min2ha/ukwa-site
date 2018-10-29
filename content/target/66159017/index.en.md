@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Soda
-
 None

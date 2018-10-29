@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# S Mark Gubb
-
 S Mark Gubb is from Margate. He lives and works in Cardiff.  His works covers a range of media incorporating sculpture, video, sound, installation and performance.

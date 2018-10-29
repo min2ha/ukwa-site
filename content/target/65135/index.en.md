@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Cory Brothers
-
 Cory Brothers is a logistics and maritime service provider established in the mid-1800s at Cardiff Docks. Its registered office is in London. 

@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Association of Professional Inventory Providers (APIP)
-
 The Association of Professional Inventory Providers (APIP) aims to provide a service for either in-house or independent inventory providers - by offering a recognised standard of inventory provision, advice and guidance and opportunities for professional development.

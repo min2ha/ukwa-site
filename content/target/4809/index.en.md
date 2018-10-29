@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Liberal Democrat Voice: Liberal Democrats pay tribute to Nelson Mandela
-
 <p>A collection of statements and twitter messages posted by Liberal Democrat parliamentarians.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Welsh Terrier Association
-
 A website dedicated to Welsh Terriers that is based In Wales.

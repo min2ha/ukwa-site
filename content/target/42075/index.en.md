@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# James Hargraves Blog &#8211; Stadbroke Suffolk
-

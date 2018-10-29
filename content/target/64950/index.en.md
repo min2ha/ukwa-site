@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# firstlight PR
-
 We help companies find their ‘thing’. Their point of difference. The insights or opinions that make them stand out from the crowd

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Fleetwood Online Archive of Trawlers (FLOAT)
-
 A repository of digital copies of photographs from the collections of Wilfred Dodds and Peter Horsley showing trawlers from Fleetwood, Grimsby, Hull and many other European ports.

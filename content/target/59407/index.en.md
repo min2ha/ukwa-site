@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Spòrs Ghlaschu on Facebook
-
 Facebook page for a sports club based in Glasgow aiming to to promote Gaelic and sport in the city. In English and Scottish Gaelic.

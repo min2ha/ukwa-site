@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Parish of All Saints, Newport
-
 Roman Catholic Parish in Newport.

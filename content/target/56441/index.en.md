@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# Mix 2017: Writing Digital
-
 MIX is a conference that looks at where creative writing, storytelling and media creation intersects with and/or is dependent upon technology should be as interdisciplinary as possible. The MIX 2017 was hosted by Bath Spa University 10th - 12th July 2017.

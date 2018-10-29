@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Whitburn South Parish Church
-
 Site of a Church of Scotland parish church at Whitburn, West Lothian.

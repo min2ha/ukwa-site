@@ -10,6 +10,4 @@
   "start_date": "2015-01-16T00:00:00Z"
 }
 
-# rijo42 News
-
 <p>rijo42 News is the official news site of rijo42 Ltd dedicated to bringing up-to-date, topical coffee related news from around the world.</p>

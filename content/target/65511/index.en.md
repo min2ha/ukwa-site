@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bournemouth Air Festival 
-
 Website for the Bournemouth Air Festival 

@@ -10,5 +10,3 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Kirkbean, Dumfries and Galloway, Scotland - Official Community Website
-

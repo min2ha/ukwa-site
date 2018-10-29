@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Clegg (@nick_clegg) on Twitter (Liberal Democrats  Politician)
-
 Nick Clegg stood as Liberal Democrats candidate for Sheffield Hallam at the 2015 General Election. He was first elected to serve as MP for Sheffield Hallam in 2005 and re-elected in 2015. He then stood for re-election in 2017 but was not successful. He founded a think tank called Open Reason.

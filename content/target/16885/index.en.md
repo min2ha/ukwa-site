@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Traveller Movement, The
-
 The Traveller Movement (TM) was established in 1999 as a community development charity, and works with the Irish Traveller community, Gypsy Roma and all other Traveller communities in Britain.

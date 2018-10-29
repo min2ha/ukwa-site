@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T08:00:00Z"
 }
 
-# Archive - a history of over 30 years of UK festivals, The
-
 Website dedicated to UK rock, blues, jazz and folk festivals.

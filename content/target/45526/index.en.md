@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T11:00:00Z"
 }
 
-# Sikorski Polish Club
-
 Polish club based in Glasgow, since 1954.

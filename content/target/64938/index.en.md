@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Richard Burton Road Race
-
 Richard Burton Road Race is a 10km race held in Port Talbot and supported by Tata Steel.

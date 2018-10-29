@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Police posted at every election polling station in scandal-hit London borough of Tower Hamlets 
-
 None

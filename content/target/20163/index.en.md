@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Julia for Gower - Green Party on Facebook
-
 Official facebook campaign for Julia Marshall, Green Party Parliamentary candidate for Gower.

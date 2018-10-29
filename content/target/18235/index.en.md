@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr James Davies
-
 Dr James Davies is the Conservative Parliamentary Candidate for the Vale of Clwyd.

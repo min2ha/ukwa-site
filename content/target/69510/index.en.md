@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: MAD MOGG Theresa May’s failure to prepare for no-deal ‘makes Britain look weak and incompetent’, blasts Jacob Rees-Mogg
-
 Leading Brexiteer Jacob Rees-Mogg criticised the Prime Minister for failing to prepare for a "No Deal" Brexit, saying it made Britain look weak and incompetent.

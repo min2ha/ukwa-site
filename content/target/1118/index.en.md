@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dental Public Health Intelligence Programme
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour offers potential donor chance to influence its manifesto
-
 None

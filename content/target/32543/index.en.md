@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Civitas: Europe
-
 These factsheets, and other documents, are designed to give a balanced overview of topics relating to the EU. They are intended to support curricula at A level, and have been produced in consultation with teachers and reviewed by experts on both sides of the EU debate.

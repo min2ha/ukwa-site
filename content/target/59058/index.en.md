@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Brit Lib Publishing (@BL_Publishing) on Twitter
-
 Publishing at the British Library - #CrimeClassics, history, literature, maps and gift books

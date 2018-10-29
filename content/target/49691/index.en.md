@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Bodywork Massage 
-
 Bodywork Massage is a company that is run by a  a holistic massage therapist.

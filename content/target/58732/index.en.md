@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# NEoN Festival
-
 Site of an annual digital arts festival based in Dundee.

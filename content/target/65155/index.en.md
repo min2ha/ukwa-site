@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Justice 4 Grenfell (@officialJ4G) on Twitter
-
 Justice4Grenfell is a community led coalition established to obtain justice for all the residents of Grenfell tower.

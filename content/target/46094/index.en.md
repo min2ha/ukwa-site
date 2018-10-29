@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Said Business School: Brexit
-
 Said Business School, University of Oxford

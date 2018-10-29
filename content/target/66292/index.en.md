@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Largs Nazarene Church
-
 Site of a Church of the Nazarene church and congregation at Largs, Ayrshire.

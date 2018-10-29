@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# World Indoor Championships Birmingham 2018
-
 The 2018 IAAF World Indoor Championships were hosted in Birmingham. This is the official website of the event.

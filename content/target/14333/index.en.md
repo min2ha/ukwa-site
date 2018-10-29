@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# A new take on so-called Jekyll and Hyde Scotland: Centre for Confidence and Well-being, Blogs and Forum
-
 None

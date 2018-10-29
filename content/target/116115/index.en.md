@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Runnymede Trust
-
 Runnymede is the UK’s independent race equality think tank. They generate intelligence for a multi-ethnic Britain through research, network building, leading debate, and policy engagement.

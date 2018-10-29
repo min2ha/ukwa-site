@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# VoxEU: Trading off a ’soft’ and ‘hard’ Brexit
-
 The British government and the EU face a difficult negotiation over the terms of Brexit. This column uses new data on the content of trade agreements to assess the trade impact of Brexit, identifying a tradeoff between the depth of the post-Brexit agreement and the intensity of future UK-EU trade. A ‘harder’ Brexit may have a stronger negative impact on the UK’s services trade and supply chain integration, which have relied more on the depth of the EU. This tradeoff will likely delimit future policy choices. 

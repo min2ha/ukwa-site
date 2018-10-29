@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Our NHS Our Concern
-
 We are an organisation campaigning for a better patient and staff orientated service in the NHS

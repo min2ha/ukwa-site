@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rhondda Remembers
-
 Rhondda Remembers tell the stories of the people of the Rhondda and explore the impact the First World War had on the South Wales Valleys. 

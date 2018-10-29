@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: Establishing local Healthwatch: dignity, quality and safeguarding adults
-
 None

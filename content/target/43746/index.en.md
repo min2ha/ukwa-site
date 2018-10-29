@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Jeremy Corbyn makes final referendum pitch to Labour voters
-
 Guardian, The

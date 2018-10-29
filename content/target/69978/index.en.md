@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Friend, the
-
 The Friend is completely independent from Britain Yearly Meeting and is owned by The Friend Publications Ltd, a charity that also publishes the Friends Quarterly. The trustees of the Friend are appointed from members of Britain Yearly Meeting and they hold their post for three years.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: All eyes now on Cabinet Brexit decision
-
 Comments on a planned meeting of the full Cabinet in early July 2018 at Chequers at which Theresa May hoped that the Tories could resolve their differences and agree a detailed offer to the EU.

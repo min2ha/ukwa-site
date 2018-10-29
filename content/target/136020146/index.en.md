@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dudley LINk
-
 None

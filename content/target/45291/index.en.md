@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leighton Village
-
 Leighton (Tre’llai) is a small village near Welshpool in Montgomeryshire. It is set around the Leighton Farm Estate which is the best example of a Victorian model farm in Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband: Labour will put arts at 'the heart' of government 
-
 None

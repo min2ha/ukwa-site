@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liberal Democrat manifesto: summary of key policies
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Robert Newell Artist   
-
 Robert Newell is a Welsh artist and elected member of the Royal Cambrian Academy of Art (RCA). His work involves North Sea coast, destroyed urban environments, and rocks and clouds in Wales and Cumbria.

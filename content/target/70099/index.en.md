@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Linfield Ladies FC (@LinfieldLadies) on Twitter
-
 The official Twitter account of Linfield Ladies Football Club, is based in Lisburn, Antrim.

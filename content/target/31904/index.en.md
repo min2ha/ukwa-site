@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Grrr! It's Kirkland Ciccone | Hello. I'm the award winning author of YA novels Conjuring The Infinite and Endless Empress.
-

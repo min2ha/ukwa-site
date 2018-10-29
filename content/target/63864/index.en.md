@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Thornliebank Parish Church
-

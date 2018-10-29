@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Eluned Parrott (@ElunedParrottAM) on Twitter (Liberal Democrats candidate for Cardiff Central and South Wales Central)
-
 Eluned Parrott is the Liberal Democrats candidate Liberal Democrats candidate for Cardiff Central and South Wales Central at the 2016 National Assembly Elections.

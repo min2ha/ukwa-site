@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perth All Scotland Accordion and Fiddle Fesival
-
 Site of a competative festival of traditional Scottish accordion and fiddle (violin) music.

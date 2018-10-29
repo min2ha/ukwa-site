@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Lewis (@neil_lewis) on Twitter (Liberal Democrats Politician)
-
 Neil Lewis stood as Liberal Democrats candidate for Bromsgrove at the 2017 General Election but was not elected.

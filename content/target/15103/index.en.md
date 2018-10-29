@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HU17.net - It's all about Beverley!
-
 <p>HU17.net - It's all about Beverley! is a website with local information for Beverley, East Yorkshire, England.</p>

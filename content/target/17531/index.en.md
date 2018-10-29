@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Channel 4's Ukip docudrama prompts nearly 1,000 complaints
-
 None

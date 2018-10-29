@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Queens' Old Library Blog
-
 This blog aims to explore and talk about the rare books and early manuscripts that form Queens’ College’s historic Old Library. They welcome contributions to the blog from students and researchers working on their collections.

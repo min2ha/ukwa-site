@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Songs That Don't Exist Yet
-
 This blog is home to Evan Ifekoya’s acoustemological investigations.

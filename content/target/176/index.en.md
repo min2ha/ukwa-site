@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Liverpool and Broadgreen University Hospitals
-
 None

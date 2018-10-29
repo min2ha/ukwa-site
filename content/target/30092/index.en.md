@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Catherine Fisher
-
 Catherine Fisher is a poet and author of children's fiction.

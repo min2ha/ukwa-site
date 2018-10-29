@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# YouGov: European Elections: UKIP Closes in on First Place
-
 None

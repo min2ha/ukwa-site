@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# girlfanszine (@girlfanszine) on Twitter
-
 Girlfans (2013-present) is an ongoing project & zine documenting the past, present & future of female football fan culture. This is the official Instagram account.

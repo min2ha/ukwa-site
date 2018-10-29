@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Duncan McNeil (duncanmcneilmsp) on Twitter
-
 <p>Twitter profile of Duncan McNeil, Scottish Labour Member of the Scottish Parliament for Greenock &amp; Inverclyde.</p>

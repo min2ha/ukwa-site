@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# College of Estate Management (CEM), The
-
 Official website of the College of Estate Management, Reading.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport Scotland: Team Scotland athletes’ parade announced
-
 <p>Information on the Sport Scotland website about the Team Scotland athletes’ parade held in Glasgow on the 15th of August 2014.</p>

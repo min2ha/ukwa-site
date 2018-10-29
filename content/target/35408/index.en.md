@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# GOV.UK: Government Digital Inclusion Strategy
-
 Policy paper issued by the UK Government.

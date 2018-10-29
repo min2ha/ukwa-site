@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Commentator, The
-
 The Commentator is a news and opinions site run by the journalist, author and political analyst Robin Shepherd.

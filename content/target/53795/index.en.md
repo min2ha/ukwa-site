@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of Anaesthetists: A ‘New Deal’ for the NHS: Our priorities for the next Government
-
 In response to the Prime Minister’s decision to call an election  on June 8th 2017, the RCoA argued that we have a chance for a ‘New Deal’ for the NHS, through which all parts of the health and social care system can be appropriately resourced, effectively integrated and sustainably delivered, in the best interests of patients.
 

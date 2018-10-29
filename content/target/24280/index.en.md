@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory poll boost as David Cameron says he's 'hungrier than ever'
-
 None

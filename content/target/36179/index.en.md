@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dan Heap – Social Policy Researcher and Lecturer; Scottish Green Party activist and Scottish Parliamentary Candidate
-
 Dan Heap is the Scottish Greens candidate for the Lothian list in the 2016 Scottish Parliament election.

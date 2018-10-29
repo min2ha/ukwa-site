@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Elmore (@CPJElmore) on Twitter
-
 Labour's Parliamentary candidate for the Vale of Glamorgan in the 2015 General Election and Ogmore in the 2016 by-election.

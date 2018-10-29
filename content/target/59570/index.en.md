@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Oriel Plas Glyn y Weddw
-
 Oriel Plas Glyn-y-Weddw is a Arts and heritage centre situated in Llanbedrog on the Llŷn Peninsula in a grade II Gothic Victorian mansion.

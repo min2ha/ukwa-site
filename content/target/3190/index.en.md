@@ -10,6 +10,4 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# University of Edinburgh, The
-
 The official website of the University of Edinburgh.

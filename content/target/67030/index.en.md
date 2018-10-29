@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Reading Dragon Boat Festival
-
 Website for the Reading Dragon Boat Festival

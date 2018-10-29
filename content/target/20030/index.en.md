@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff West Green Party Candidate Ken Barke on Facebook
-
 Cardiff West Green Party Candidate

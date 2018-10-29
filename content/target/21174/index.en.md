@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Maskey (@PaulMaskeyMP) on Twitter (Sinn Fein candidate for Belfast West)
-

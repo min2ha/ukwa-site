@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gillian Elisa
-
 Gillian Elisa is a welsh actress, singer, songwriter, comedienne & writer. She is a well-known figure on Welsh-language television. 

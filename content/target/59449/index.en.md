@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Parallel.cymru - Online bilingual magazine | Cylchgrawn ar-lein dwyeithiog
-
 Parellel Cymru is an online magazine providing information on bilingual Welsh books, articles, short stories and interviews. 

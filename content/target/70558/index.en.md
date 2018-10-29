@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UCL CBT (@uclcbt) on Twitter 
-
 UCL CBT is a world-leading Centre of Excellence on Blockchain Technologies at University College London

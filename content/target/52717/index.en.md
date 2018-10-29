@@ -10,7 +10,5 @@
   "start_date": "2017-05-03T09:00:00Z"
 }
 
-# Chrom-Art
-
 Chrom-Art are a London based Social Enterprise (Community Interest Company) that supports talented undiscovered artists of all disciplines in local communities, and promotes the education of creativity for the public benefit.
 They are 100% volunteer run and operate a policy of applying all their profits to their social objectives.

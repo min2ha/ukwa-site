@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Country Land and Business Association (CLA)
-
 The CLA is the membership organisation for owners of land, property and business in rural England and Wales.

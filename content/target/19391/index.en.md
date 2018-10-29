@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Salisbury International Arts Festival events for 2015 unveiled
-

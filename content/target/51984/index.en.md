@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's, Harold Wood
-
 St. Peter's is a large evangelical Anglican church in Harold Wood.

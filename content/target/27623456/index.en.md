@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# William Watkin's Blog
-
 None

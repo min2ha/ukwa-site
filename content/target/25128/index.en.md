@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Voters are STILL in the dark about cuts planned by all the parties after the election, IFS warns with two weeks to polling day
-
 None

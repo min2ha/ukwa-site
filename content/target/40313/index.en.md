@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Holyrood Art Club
-
 Site of an artists' club based in central Edinburgh offereing classes on painting.

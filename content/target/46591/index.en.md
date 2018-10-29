@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Comunn Eachdraidh Sgire Bhearnaraigh
-
 The Bernera Historical Society website

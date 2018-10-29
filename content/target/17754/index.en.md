@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Charles Handy. If I were Prime Minister: I would hasten the process of devolution to the major city regions
-
 None

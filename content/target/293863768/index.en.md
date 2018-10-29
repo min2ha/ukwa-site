@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Ideas Wales
-
 Ideas Wales is Labour supporting think tank, though one independent from it.

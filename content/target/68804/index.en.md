@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Wales Together Against Trump
-
 Wales Together Against Trump is run by 'Stand up to Racism Cardiff' and are asking individuals, groups, campaigns and parties across Wales to publicly support helping to develop a wave of opposition against Trump and all he represents.

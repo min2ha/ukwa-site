@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Encounter Overland (1968 to 2001)
-
 This site brings together historical material of the much loved and missed Encounter Overland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Patience (@patience_luke) on Twitter
-
 This is the twitter profile of sailor Luke Patience.

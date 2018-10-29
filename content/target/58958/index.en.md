@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Bathgate Mosque
-
 Site of an Islamic place of worship and educaiton centre located at Bathgate, West Lothian.

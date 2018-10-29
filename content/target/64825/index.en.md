@@ -10,5 +10,3 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# OVCRA, Ogmore Valley Community Residents Association Website
-

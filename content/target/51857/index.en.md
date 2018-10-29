@@ -10,6 +10,4 @@
   "start_date": "2017-04-08T09:00:00Z"
 }
 
-# Hebrides Mountain Rescue
-
 Site of a voluntary and charitable organisation that operates as a mountain rescue service in the Western Isles of Scotland.

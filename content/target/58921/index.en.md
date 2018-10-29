@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Michelle Griffiths 
-
 Michelle Griffiths is a professional artist/teacher, living and working in South Wales and the World Shibori Network representative for UK/Ireland. Her work is on permanent exhibition in her gallery/studio at Model House Craft & Design Centre, Llantrisant.

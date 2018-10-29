@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Gregynog
-
 Gregynog was the historic home of art collectors and public benefactors Gwendoline and Margaret Davies. It has Grade 1 listed gardens and is located in rural Montgomeryshire.

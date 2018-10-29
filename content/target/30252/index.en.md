@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Find My Past
-
 Website of a genealogy database.

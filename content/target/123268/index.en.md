@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Federation of Women's Institutes
-
 None

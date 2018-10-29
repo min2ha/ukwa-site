@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Socialist Worker: Linda Smith 1957-2006
-
 Obituary for Linda Smith published on the Socialist Worker website

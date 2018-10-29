@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Lancaster & District Birdwatching Society Forum
-
 An online enthusiast community concerned with birdwatching in north Lancashire, south Cumbria, and North Yorkshire. The society was established in 1959. The forum covers sightings, bird related discussions and notices and various other related topics.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Giffnock United Reformed Church
-
 Site of a Scottish United Reformed church located in Giffnock, East Renfrewshire.

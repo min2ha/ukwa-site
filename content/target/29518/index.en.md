@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# British Society for the Study of Cranio-Mandibular Disorders (BSSCMD)
-
 British Society for the Study of Cranio-Mandibular Disorders (BSSCMD) was founded in 1995 by Drs. Grossman, Dean, Hedger, White and Jones originally as a Temporo Mandibular Joint (TMJ) Study Group. Members meet every few weeks and organise their own scientific meetings.

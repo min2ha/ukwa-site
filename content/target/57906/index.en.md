@@ -10,7 +10,5 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# CHELMSFORD & DISTRICT WELSH SOCIETY
-
 The society is open to anyone with Welsh origins or connections,
 or to anyone with an appreciation of Welsh heritage and traditions.

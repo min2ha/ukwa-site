@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Left: Easter Rising commemorated
-
 Blog post about commemorating the Easter Rising from a nationalist Welsh perspective

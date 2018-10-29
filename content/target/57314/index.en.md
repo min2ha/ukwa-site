@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Americana Festival
-
 Site of a festival of live music in Glasgow featuring music in the genres of folk, country, blues, rhythm and blues, and rock and roll associated with the United States of America.

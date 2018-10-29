@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Andrew Blick (@DrAndrewBlick) on Twitter
-
 Twitter account of Dr Andrew Blick, author of 'Beyond Magna Carta: a constitution for the United Kingdom'.

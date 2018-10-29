@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Jags : Partick Thistle FC LGBT & Supporters
-
 Site of a football supporters’ group aiming to improve the match-day experience at Firhill to be free of any homophobic, biphobic or transphobic incidents, encourage LGBT supporters to attend, encourage greater openness and diversity in football in Scotland and Europe and to work with the club (Partick Thistle FC) to address issues faced by LGBT supporters.

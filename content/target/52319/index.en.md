@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Gary Lineker (@GaryLineker) on Twitter
-
 Former England international and Leicester City soccer player. Works for BBC Sport, BT Sport and Walkers Crisps.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Bang Post Production
-
 Bang Post Production is a Film Soundtrack and Post production company based in Cardiff.

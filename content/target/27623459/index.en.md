@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Gender Violence & Health Centre: London School of Hygiene & Tropical Medicine
-

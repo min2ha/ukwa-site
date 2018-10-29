@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How DUP wrecked Brexit deal with one phone call: PM was ready to back concession on Irish border that could see Northern Ireland 'stay in the EU' - but her DUP allies pulled out at the last moment   
-

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: European Union (Withdrawal) Bill: Lords Committee Stage
-
 This House of Lords Library briefing was prepared in advance of report stage in the House of Lords of the European Union (Withdrawal) Bill, which started on 18 April 2018. It summarises areas of the Bill at which the Government indicated during committee proceedings it would look again.
 

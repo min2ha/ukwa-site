@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# JT Global
-
 Website for JT Global, one of Jersey's telecommunications providers. They describe themselves as a full-service global consumer and business enterprise provider, with services covering domestic fixed land line through to data hosting for the e-gaming industry.

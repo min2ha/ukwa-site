@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Editorial Photographers United Kingdom & Ireland (EPUK)
-
 Editorial Photographers United Kingdom & Ireland (EPUK) was founded in 1999 by a small group of photographers who wanted to create an email group to address business issues affecting photographers working in the UK and Irish markets. 

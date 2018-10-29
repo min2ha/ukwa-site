@@ -10,5 +10,3 @@
   "start_date": "2010-11-02T00:00:00Z"
 }
 
-# Organic Centre Wales | Canolfan Organig Cymru
-

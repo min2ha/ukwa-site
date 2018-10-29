@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Blaby District Council
-
 Website of Blaby District Council offers news and information about local services. It also provides access to committee minutes and reports, the local plan and details of the council budget and spending.

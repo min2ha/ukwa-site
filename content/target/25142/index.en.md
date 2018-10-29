@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Lib Dem strongman Vince Cable prepares to fight off Tory onslaught in General Election battle 
-
 None

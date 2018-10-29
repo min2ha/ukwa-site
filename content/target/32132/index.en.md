@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Cronfa i Gymru | Fund for Wales
-
 The Fund for Wales is a unique national community endowment fund run by Community Foundation in Wales which supports small inspiring charities and community groups across the country.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Northumbria Area Quaker Meeting
-

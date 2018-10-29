@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM calls with European leaders: 13 July 2016
-
 Prime Minister Theresa May spoke to the German Chancellor Angela Merkel, French President Hollande and the Irish Taoiseach Enda Kenny.

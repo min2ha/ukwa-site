@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Great Barr past and present
-
 Web site dedicated to presenting past, and present, information on Great Barr. The area is quite loosely defined around the 'B43' post code area but includes Hamstead, Gorse Farm, Newton, Grove Vale, Pear Tree, Scott Arms, Queslett and Pheasey. There are a number of significant historic areas, including the Great Barr Hall estate, Red House Park, Bishop Asburys House and Hamstead Colliery.

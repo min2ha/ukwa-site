@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# New Statesman: June 2017
-
 New Statesman polls and news articles related to General Election 2017.

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Cambridge Muslim College
-
 The Cambridge Muslim College works to enhance training and Islamic scholarship to help meet the many challenges facing the community in modern Britain. The College is committed to promoting the highest standards of academic excellence in Islamic studies in the contemporary context while maintaining respect for the religion’s authentic traditions and sources. Drawing on resources and expertise in Cambridge and beyond, the College’s mission is to help mobilise the many existing strengths of British Muslims to produce stronger, more dynamic institutions and communities.

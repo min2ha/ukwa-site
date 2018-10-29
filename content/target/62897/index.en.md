@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Panorama (@BBCPanorama) on Twitter
-
 Panorama is a BBC investigative TV show. This is their official Twitter account.

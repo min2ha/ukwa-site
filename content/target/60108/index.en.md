@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Scottish Indian Arts Forum
-
 Site of a Scottish charity interested in promotion of Indian art, culture and heritage in Edinburgh and East of Scotland through medium of music particularly classical music, dance, drama, literature, film, exhibition and celebration of popular festivals of India.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# A. D. Rattray Whisky Experience & Whisky Shop
-
 Site of a visitor attraction and trader in whisky based in Kirkoswold, Ayrshire.

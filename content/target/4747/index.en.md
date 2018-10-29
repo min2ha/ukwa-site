@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Queen's University Belfast Blog: How will we remember Mandela, Dr. Francis Teeney
-
 None

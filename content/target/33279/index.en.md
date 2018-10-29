@@ -10,8 +10,6 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# South East Wales Energy Agency
-
 The South East Wales Energy Agency work with local authorities, social housing providers and householders across South East Wales in order to combat fuel poverty, poor health, and climate change. The Agency promote and facilitate energy efficiency and renewable energy technologies.
 
 

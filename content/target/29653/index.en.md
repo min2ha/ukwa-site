@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scarborough Literature Festival - Books by the Beach
-
 Scarborough Literature Festival - Books by the Beach

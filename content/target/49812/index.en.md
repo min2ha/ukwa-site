@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'An historic mistake': Sir John Major slams Brexit as he demands Theresa May CHARMS her EU counterparts instead of enraging them and tells her to prepare voters for the 'hurt' ahead   
-

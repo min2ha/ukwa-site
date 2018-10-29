@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Kincardine Local History Group
-

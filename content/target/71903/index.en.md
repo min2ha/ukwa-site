@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Scottish Episcopal Church Kirriemuir
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kirriemuir, Angus.

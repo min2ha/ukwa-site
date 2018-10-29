@@ -10,5 +10,3 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Glasgow Live: Glasgow's Katie Archibald builds on medal haul for Scottish competitors at Rio after winning gold in women's team pursuit
-

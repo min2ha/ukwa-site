@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Local Authority Building Control (LABC)
-
 Organisation representing building control teams in local authorities in England & Wales.

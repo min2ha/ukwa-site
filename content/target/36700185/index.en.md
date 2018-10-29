@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Power to the People
-
 None

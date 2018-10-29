@@ -10,5 +10,3 @@
   "start_date": "2008-05-15T00:00:00Z"
 }
 
-# Global Transformations Website
-

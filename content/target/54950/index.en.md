@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Article 50 and negotiations with the EU
-
 Information about the Article 50 process and negotiations for a new partnership with the European Union.

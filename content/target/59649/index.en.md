@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BMW Car Club Forum
-
 An online enthusiast community concerned with BMW cars. Discusses track days, BMW news, Motorsport and various other related topics.

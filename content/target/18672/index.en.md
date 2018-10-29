@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: 700-year-old copy of Magna Carta sells for £10million at auction
-

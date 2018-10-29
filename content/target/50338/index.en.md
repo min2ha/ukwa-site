@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Milngavie Heritage Centre
-
 Site of a heritage centre focusing on the local history of Milngavie, East Dunbartonshire.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# French Film Festival UK
-
 Site of an annual festival of French film and cinema, taking place in venues throughout the United Kingdom, and with the administrative office located in Edinburgh.

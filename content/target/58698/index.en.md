@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Centre for Solar Energy Research, The (CSER)
-
 The Centre for Solar Energy Research (CSER) is part of Swansea University’s College of Engineering and is based at the OpTIC Centre, St. Asaph and is project lead for the Solar Photovoltaic Academic Research Consortium (SPARC II). It is funded by the Welsh European Funding Offic for a collaboration of 6 research teams across the Universities of Swansea, Aberystwyth and Bangor. 

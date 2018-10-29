@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Boston  & Skegness Conservatives
-
 Website offers news, articles, speeches by Matt Warman, the sitting MP, and notification of events

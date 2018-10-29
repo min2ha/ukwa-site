@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T11:00:00Z"
 }
 
-# UKpolitics po polsku
-
 A Polish-language political portal, publishing articles written by UK based volunteers.

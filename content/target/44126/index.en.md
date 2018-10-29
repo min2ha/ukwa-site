@@ -10,5 +10,3 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Radio Borders
-

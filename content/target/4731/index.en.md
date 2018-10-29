@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Northern Ireland Assembly Official Report (Hansard) 9 December 2013
-
 <p>Tributes to Nelson Mandela given in the Northern Ireland Assembly.</p>

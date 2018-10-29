@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Wildlife and Countryside Link: General Election 2017
-
 2017 General Election party manifesto commitments: Priorities from Wildlife and Countryside Link

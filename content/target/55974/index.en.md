@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Craft Forum 
-
 An online community for crafting in general. 

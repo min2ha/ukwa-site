@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Lindesy District Council
-
 Website of West Lindsey District Council offers information on council services, news and events, budget and finance. You can also read committee papers, minutes and agenda, and access consultations.

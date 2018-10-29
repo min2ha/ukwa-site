@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Devon Life: Tracy Satchwill’s unique art project Magna Carta Women goes on show in Devon
-

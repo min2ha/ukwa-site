@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Windsor & Eton Brewery: Magna Carta
-

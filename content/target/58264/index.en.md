@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Strathkelvin Shinty Club
-
 Site of a shinty club based in Glasgow.

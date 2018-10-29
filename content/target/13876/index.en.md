@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Labour Party: Anas Sarwar
-
 <p>Webpage for Anas Sarwar, Member of Parliament for Glasgow Central and Deputy Leader of the Scottish Labour Party.</p>

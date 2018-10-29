@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Chalmers Ardler Church on Facebook
-
 Facebook page of a Church of Scotland parish church located in Dundee.

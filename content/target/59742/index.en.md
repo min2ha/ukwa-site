@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# UK Languages Mapping on Twitter
-
 Twitter page focusing on the diversity of language in the British Isles.

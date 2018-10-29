@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Cotswold Tourist and Travel Information Guide
-
 None

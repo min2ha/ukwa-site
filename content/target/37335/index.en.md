@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Agriwales
-
 Agriwales is an online directory for service relating to agriculture and farming across Wales. 

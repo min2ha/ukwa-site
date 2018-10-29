@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jason Winstanley (@Termy) on Twitter 
-
 Jason Winstanley is the Pirate Party candidate for Gower at the 2017 General Election.

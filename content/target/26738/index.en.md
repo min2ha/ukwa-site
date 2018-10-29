@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100 : David Cameron has apparently declared three wars in the last week
-
 None

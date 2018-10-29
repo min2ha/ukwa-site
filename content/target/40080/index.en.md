@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Blaengwrach Community Council
-
 Blaengwrach Community Council is responsible for the running and maintenance of the Cemetery, the Welfare Park, and it also owns the Welfare Hall.

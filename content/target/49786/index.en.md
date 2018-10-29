@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Gordon Poole Agency
-
 Originally established in 1963, the Gordon Poole Agency supplies entertainment to the corporate market. They provide celebrity entertainers, keynote speakers and guest speakers to international organisations, media corporations, PR companies and to private individuals around the world.

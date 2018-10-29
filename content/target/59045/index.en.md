@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Community Engagement (@BL_Local) on Twitter
-
 Tweets from the British Library's Community Engagement Manager. Enquiries contact communityengagement@bl.uk

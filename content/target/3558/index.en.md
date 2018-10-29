@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Journal, The: North East news
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory Brexit civil war deepens as MPs slam Remainer ministers for colluding with businesses to plot 'Project Fear Mark II'
-

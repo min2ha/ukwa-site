@@ -10,7 +10,5 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Workshop Wales Gallery
-
 Workshop Wales Gallery is a galley located at Fishguard,
 Pembrokeshire.

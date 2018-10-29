@@ -10,6 +10,4 @@
   "start_date": "2018-08-03T09:00:00Z"
 }
 
-# ARA UK+I Conference (@ARAconf) on Twitter
-
 The Archives and Records Association (UK & Ireland) conference is an annual event for people in the archives and records management sector.

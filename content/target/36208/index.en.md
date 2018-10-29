@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Joyce Watson AM (@JoyceWatsonam) on Twitter (Labour Party candidate for Mid and West Wales)
-
 Joyce Watson is the Labour candidate for Mid and West Wales at the 2016 National Assembly Elections. 

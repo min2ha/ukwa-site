@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Simon Coveney of 'one mind' with EU negotiators'
-
 Predicts that, in the draft Brexit agreement to be published on February 28th 2018, it will be stated that Northern Ireland will stay in the customs union and single market to avoid a hard border with the Republic.

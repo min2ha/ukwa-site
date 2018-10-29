@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Fferm Denmark Farm
-
 Denmark Farm Conservation Centre is run by the Shared Earth Trust, a registered charity, at Denmark Farm near Lampeter, in Ceredigion.

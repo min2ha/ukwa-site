@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# WRITING INTO FREEDOM
-
 Writing Into Freedom aims to share & explore how writers & poets do extraordinary things.The mysteries, as well as the realities, of deep creativity. 

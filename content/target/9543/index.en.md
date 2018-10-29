@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Meat Trade News Daily: EU - Launch of 2014 Elections Manifesto at EP Event "Trade for Better Market"
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Lumos
-
 Lumos works to help the millions of children in institutions worldwide regain their right to a family.

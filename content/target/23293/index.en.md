@@ -10,5 +10,3 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Mission on Anglesey | Cenhadaeth ar Ynys Mon
-

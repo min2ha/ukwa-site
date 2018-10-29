@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: The Institute of Fiscal Studies is wrong about Labour's spending plans
-
 None

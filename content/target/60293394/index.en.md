@@ -10,5 +10,3 @@
   "start_date": "2011-05-13T00:00:00Z"
 }
 
-# Parents Alliance for  Community Schools (PACS)
-

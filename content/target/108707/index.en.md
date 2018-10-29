@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Ordnance Survey of Northern Ireland
-
 None

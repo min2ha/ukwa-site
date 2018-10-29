@@ -10,6 +10,4 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# Strange Company
-
 Company website belonging to Scottish filmmaker and author Hugh Hancock.

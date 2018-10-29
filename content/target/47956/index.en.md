@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Colchester Recalled 
-
 Colchester Recalled is a voluntary group compiling an archive of recorded memories about Colchester & District over the past 120 years.

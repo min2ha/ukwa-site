@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Kingventor books
-
 Kingventor books is a book published based in Llandeilo.

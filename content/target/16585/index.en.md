@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Broadcasters need new proposals on pre-election TV debates - Nick Clegg
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC Three: Ireland's abortion vote: The fight for women's bodies goes on
-
 An article about a documentary that was made by BBC Three about the referendum in the Republic of Ireland on the 8th Amendment to the constitution on the 25th of May 2018.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-21T09:00:00Z"
 }
 
-# Poole Speedway
-
 The official website for the motorcycle Poole Pirates Speedway team. The team are based in Poole, UK.

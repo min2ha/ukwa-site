@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tottenham Hotspur
-
 The official site with news, team, players, fixtures, Spurs TV, match reports, tickets, travel, members club, history, stadium and more

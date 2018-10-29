@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# British Library: Votes for Women
-
 A subsection of the British Library website that highlights the resources available in the library on the 1918 the Representation of the People Act, which granted some women the right to vote in parliamentary elections, and the Equal Franchise Act of 1928, which gave men and women equal voting rights for the first time.

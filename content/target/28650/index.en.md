@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Laugh Out London Comedy Club
-
 Website for Laugh Out London comedy club which hosts alternative comedy nights in London at venues in Camden, Hackney, Brixton and Islington. The website features comedy news and interviews as well as information on upcoming performances. 

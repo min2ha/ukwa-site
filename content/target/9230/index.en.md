@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claire Hamilton Curling on Twitter
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tour de France: Stoller's Depart - British Library Americas studies blog
-

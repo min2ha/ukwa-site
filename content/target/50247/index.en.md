@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Raby Castle
-
 Built for the mighty dynasty of the Nevills, this great fortress stands proud and defiant, its history rolling back almost a thousand years.

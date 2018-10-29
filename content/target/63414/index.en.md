@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Swci Delic
-
 Swci Delic is the artist formerly known as Swci Boscawen (born Mared Lenny), an award-winning Welsh language singer Swci Boscawen. Following a serious illness and intense cancer treatment Swci developed an urge to start painting. This is her personal site providing biographical information and an online gallery of her work.

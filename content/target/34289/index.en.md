@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Artist as Witness (Dublin City Gallery The Hugh Lane)
-
 This website outlines the programme of exhibitions for 2016, ‘Artist as Witness’, at Dublin City Gallery The Hugh Lane.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Castleford Tigers Rugby League Football Club
-
 The Tigers are the founder members of the Super League and pride themselves on their record of providing a superb matchday experience for all the family.

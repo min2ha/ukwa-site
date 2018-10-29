@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Neuaddau Ceredigion Halls
-
 Ceredigion Halls is a directory of community halls in Cardiganshire.

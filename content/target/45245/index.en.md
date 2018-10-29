@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Ardnamurchan Lighthouse
-
 Site of an operational lighthouse and an associated visitors centre, located on the Ardnamurchan pennisula Argyll & Bute, Scotland.

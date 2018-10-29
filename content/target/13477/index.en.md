@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pete Wishart (PeteWishart) on Twitter
-
 Twitter profile of Pete Wishart, Scottish National Party candidate for Perth and North Perthshire in the 2017 general election.

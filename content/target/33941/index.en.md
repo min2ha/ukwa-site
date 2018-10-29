@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo-Thai Society,  The
-
 The Anglo-Thai Society (ATS) was founded in 1962 to help promote good relations between the UK and Thailand. 

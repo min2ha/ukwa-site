@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: PM Urged to Speed up No-Deal Brexit Plans
-
 In a letter organised by Economists for Free Trade, former cabinet ministers, economists and business leaders urged the Prime Minister to accelerate preparations for a no-deal Brexit

@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Historical Metallurgy Society
-
 The Historical Metallurgy Society provides a forum for the exchange of information and research in historical metallurgy. It aims to gain recognition for the subject from the community at large and to be consulted when issues of preservation and recording arise.

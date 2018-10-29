@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# United Kingdom National Defence Association (UKNDA), The
-
 <p>The United Kingdom National Defence Association (UKNDA) promotes the defence of the United Kingdom and the UK’s worldwide interests, advances public awareness and understanding of the history and role of the Armed Forces in the life of the Nation and commissions research into the threats faced by the UK.</p>

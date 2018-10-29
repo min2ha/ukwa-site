@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Islamic Party of Britain
-
 None

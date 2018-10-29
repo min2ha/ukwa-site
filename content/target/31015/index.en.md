@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Honorary Police
-
 Website of the Jersey Honorary Police Force

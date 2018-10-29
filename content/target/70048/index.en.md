@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cricket365
-
 Cricket news, results, and features

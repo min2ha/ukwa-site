@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T11:00:00Z"
 }
 
-# Farr Institute of Health Informatics Research, The
-
 The Farr Institute is a UK-wide research collaboration involving 21 academic institutions and health partners in England, Scotland and Wales. Publically funded by a consortium of ten organisations led by the Medical Research Council, the Institute delivers research using ‘big data’ to advance the health and care of patients and the public.

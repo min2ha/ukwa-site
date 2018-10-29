@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Venn Digital: Popularity of Brexit or Bremain in Social Media Posts
-
 Business consultancy agency on popular social media attitudes to Brexit and Bremain campaigns

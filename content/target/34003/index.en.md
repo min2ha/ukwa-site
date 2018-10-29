@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum expected in September as hopes fade of deal next month
-

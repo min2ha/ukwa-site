@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Florence Nightingale Museum
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2010-03-10T00:00:00Z"
 }
 
-# Matthew Taylor MP
-
 Cancelled

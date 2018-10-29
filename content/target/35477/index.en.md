@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# United Road Transport Union
-

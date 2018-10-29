@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Martin Selmayr: The man at the heart of a Brussels saga
-
 The European Commissions denied allegations of cronyism after a protégé of its president, Jean-Claude Juncker, was given one of the most powerful jobs in the EU civil service.

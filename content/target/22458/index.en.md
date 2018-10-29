@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Jim Murphy: SNP are David Cameron's 'little helpers'
-
 None

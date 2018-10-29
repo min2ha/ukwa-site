@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Norman Lamb (@normanlamb) on Twitter (Liberal Democrats Politician)
-
 Norman Lamb stood as Liberal Democratic candidate for North Norfolk at the 2017 General Election and was elected to serve as MP. He was first elected for North Norfolk in 2001 and has held the seat ever since.

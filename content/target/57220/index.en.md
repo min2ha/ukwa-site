@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# StreetSeen 
-
 StreetSeen are a collective of photographers based in North Wales who love the photographic opportunities provided by the urban and suburban environments.

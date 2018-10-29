@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Poignant moment as House of Lords hosts Barons Charter
-

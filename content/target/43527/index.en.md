@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Adam Smith Institute: Stuck in the middle with EU: How global regulators are killing the value of EU membership, by Roland Smith
-
 An 18 page pdf file by Roland Smith, discussing why Britain would benefit from leaving the EU. It seeks to challenge the notion that Britain would not have a seat at the negotiating table if it decided to leave.

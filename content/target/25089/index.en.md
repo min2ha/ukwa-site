@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Leaders roasted in stormy TV debate as PM come out on top and Miliband stumbles on economy
-
 None

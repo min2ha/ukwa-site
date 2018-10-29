@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Are delaying tactics the answer for May?
-
 The UK has no new proposal to offer the EU to solve the Irish backstop problem and delaying tactics will not change this key fact.

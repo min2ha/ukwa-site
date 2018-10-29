@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexiteers rail at 'bogus' forecast that leaving the EU will punch a £122bn black hole in public finances and take national debt to £2TRILLION  
-

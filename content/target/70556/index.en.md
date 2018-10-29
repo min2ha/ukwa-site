@@ -11,8 +11,6 @@
   "subject": "IT Collection"
 }
 
-# UCL Centre for Blockchain Technologies (UCL CBT)
-
 The UCL Centre for Blockchain Technologies
 (CBT) provides a cross-sectoral platform, which
 drives the adoption and integration of Blockchain

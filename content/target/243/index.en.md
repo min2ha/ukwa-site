@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Southport & Formby CCG
-
 None

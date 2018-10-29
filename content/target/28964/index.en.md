@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South West Green Party
-
 Website of South Website Green Party, providing information on local news, councillors and regional contacts.

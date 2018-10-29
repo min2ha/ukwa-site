@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Halton and St Helens
-
 None

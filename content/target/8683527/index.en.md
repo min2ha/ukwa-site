@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Do You Come Here Often?
-
 Cancelled

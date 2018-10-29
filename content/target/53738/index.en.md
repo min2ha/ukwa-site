@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Balerno Music Festival
-
 Site of an annual music festival taking place in the south-western Edinburgh suburb of Balerno.

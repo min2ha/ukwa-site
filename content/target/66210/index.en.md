@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Frock Me! Vintage Fashion Fair
-
 Website for the Frock Me! Vintage Fashion Fair

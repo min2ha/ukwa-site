@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southampton LINk
-
 None

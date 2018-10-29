@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# MAE (Merched a'r Eglwys, Ministry and Equality) Cymru
-
 MAE Cymru stands for ‘Merched a’r Eglwys’ (‘women and the church’), ‘Ministry and Equality’. The aim is to promote gender equality and diversity as experienced by both Lay and Ordained people in the Church in Wales.

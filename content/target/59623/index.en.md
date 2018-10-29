@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Carmichael Watson Project on Facebook
-
 Facebook page for a project to catalogue, index, transcribe, translate, digitise and conserve, the collection of Alexander Carmichael at University of Edinburgh Library.

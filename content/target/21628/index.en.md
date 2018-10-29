@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Behind the Afzal Amin row: fight over mosque at heart of community tensions
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Our Future, Our Choice! (OFOC) on Twitter
-
 Twitter feed of a movement of angry young people campaigning to stop Brexit

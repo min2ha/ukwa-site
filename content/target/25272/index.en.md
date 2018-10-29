@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour opens up gap ahead of Tories to take 1.5point lead in poll of polls
-
 None

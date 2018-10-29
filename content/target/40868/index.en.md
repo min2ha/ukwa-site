@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# People of Medieval Scotland 1093-1314
-
 Site of a database containing all possible assembled information on Scots mentioned in documents created between the years 1093 and 1314.

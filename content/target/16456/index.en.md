@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Boris Johnson to lead Tory campaign charge into English regions
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Liberton Kirk
-
 Site of a Church of Scotland church at Liberton, Edinburgh.

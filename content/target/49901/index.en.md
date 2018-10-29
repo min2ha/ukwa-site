@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Slugger O’Toole: NI Assembly Election 2017
-
 Articles relating to the 2017 Assembly Election.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Ken Skates AM (@KenSkatesAM) on Twitter
-
 Ken Skates is the Assembly Member for Clwyd South.

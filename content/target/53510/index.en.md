@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dolly Theis (@dollytheis ) on Twitter (Conservative Politician)
-
 Dolly Theis stood as Conservative candidate for Vauxhall at the 2017 General Election but was not elected.

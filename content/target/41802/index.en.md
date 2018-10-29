@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Swans of Scotland
-
 Site of a support group for transgender and cross-dressing people based in Inverness, Scotland.

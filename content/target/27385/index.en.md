@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Independent, The: Comedy
-
 Comedy news and reviews from The Independent

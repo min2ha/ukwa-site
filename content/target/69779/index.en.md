@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Institution of Occupational Safety and Health Forum
-
 An online enthusiast community concerned with health, safety and environmental issues. Discussing risk management, environmental protection, healthcare, hygiene, education, quality management and related topics.

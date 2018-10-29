@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# hitched.co.uk Wedding Planning Discussion Forums 
-
 An online enthusiast community concerned with wedding planning. Discusses wedding planning, getting married abroad, the groom, post wedding discussion and various other related topics.

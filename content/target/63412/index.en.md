@@ -10,7 +10,5 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Heatherton World of Activities
-
 "
 Heatherton is a large sport and leisure attraction, located on the outskirts of Tenby.

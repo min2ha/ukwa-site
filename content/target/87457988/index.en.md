@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Essex Police & Crime Commissioner
-
 None

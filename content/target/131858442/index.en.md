@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Child and Maternal Health Observatory (CHiMat)
-
 None

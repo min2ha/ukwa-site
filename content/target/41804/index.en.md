@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Highland LGBT Forum
-
 Site of a group aiming to preserve and protect the mental and physical health and social welfare of lesbian, gay, bisexual and transgender people in the Highlands & Islands, and promoting fair and equal treatment for LGBT people.

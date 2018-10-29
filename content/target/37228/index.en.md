@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OpenDemocracy: Cameron's renegotiation speech andintra-EU immigration: how the web reacted
-
 Using natural language processing (NLP) techniques, they have analysed reactions to Cameron’s speech on Twitter, focusing in particular on the sensitive issue of intra-EU migration.

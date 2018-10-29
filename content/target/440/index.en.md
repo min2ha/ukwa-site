@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Sussex Health and Wellbeing Board
-
 None

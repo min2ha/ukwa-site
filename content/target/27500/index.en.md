@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Prospects of Labour-SNP partnership flagged as SNP pledge to oppose the 'madness' of austerity
-
 None

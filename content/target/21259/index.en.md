@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Ruane (@ChrisRuaneMP) on Twitter 
-
 Labour's Candidate for the Vale of Clwyd.

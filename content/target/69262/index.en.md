@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Donny Belles (@donnybelles) on Twitter
-
 Official Twitter account of of women's football club Doncaster Rovers Belles. The club was established in 1969 and this account was created in January 2011.

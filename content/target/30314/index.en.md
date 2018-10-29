@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Scotland-Russia Forum, The (SRF) / Форума Шотландия-Россия (ФШР)
-
 The Scotland Russia Forum (SRF) is an independent Scottish charity founded in February 2003 and run by volunteers. They publish a biannual journal, the Forum, run a lending library, and organize a variety of events.

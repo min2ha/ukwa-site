@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# British Association of American Square Dance Clubs
-
 The British Association of American Square Dance Clubs (BAASDC) provides a registration forum for Square and Round Dance Clubs operating within the UK (currently over 100 Clubs) and a resource for dancers.  

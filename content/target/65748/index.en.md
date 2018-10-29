@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Origin Gallery Carmarthen
-
 Origin is a co-operative of makers and artists from Carmarthenshire, Pembrokeshire and Ceredigion. Their gallery is base in Carmarthen.

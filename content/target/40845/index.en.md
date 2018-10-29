@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Gŵyl Gopr | Copperfest
-
 Music festival held in Amlwch on August bank holiday weekend.

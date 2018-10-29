@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Fife Opera
-
 Site of an opera company located in Kirkcaldy, Fife, Scotland.

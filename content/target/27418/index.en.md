@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bedforshire at War: News from the Home Front
-
 To commemorate the centenary of WW1 Bedfordshire local record office commissioned two blogs featuring daily posts of activities relating to Bedfordshire. This is the second of these, and focuses on events in Bedfordshire during the war.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# Andrew March Composer
-
 Official website of British Composer, Andrew March. 

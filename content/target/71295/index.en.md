@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Anglo Azerbaijani Society, The
-
 Our overarching aim is to build links between the UK and Azerbaijan, and to strengthen the friendships between the peoples of our countries. As our constitution says:  “To foster Anglo-Azerbaijani relationships in all respects”.

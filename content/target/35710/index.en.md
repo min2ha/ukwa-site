@@ -10,6 +10,4 @@
   "start_date": "2016-02-22T09:00:00Z"
 }
 
-# Institute for Family Business (IFB)
-
 IFB is a not for profit, member-led organisation.  They work closely with family firms to support them in growing successful enterprises.

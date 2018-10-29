@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian,The: Can You Really Be Addicted To The Internet?
-
 A news blog discussing the internet and addiction

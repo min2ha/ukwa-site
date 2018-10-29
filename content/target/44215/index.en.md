@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Century Ireland
-
 The Century Ireland project is an online historical newspaper that tells the story of the events of Irish life a century ago. It began in May 2013, and is the main online portal for the Irish decade of commemorations, 1912-23.

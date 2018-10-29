@@ -10,6 +10,4 @@
   "start_date": "2016-09-03T10:00:00Z"
 }
 
-# Lennoxlove House
-
 Site of a Scottish historic and visitor attraction house in East Lothian.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Graham Cockarill (@grahamcockarill) on Twitter (Liberal Democrats Politician)
-
 Graham Cockarill stood as Liberal Democrat candidate for North East Hampshire at the 2017 General Election but was not elected.

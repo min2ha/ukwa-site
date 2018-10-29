@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Joyce Watson (Labour Assembly Member for Mid and West Wales)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Liverpool Irish Festival (@LivIrishFest) on Twitter
-
 Bringing Liverpool and Ireland together

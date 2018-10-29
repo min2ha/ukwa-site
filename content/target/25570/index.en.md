@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Did the Tories and Lib Dems live up to their 2010 tech manifesto pledges?
-
 None

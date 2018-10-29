@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Traverse Theatre Edinburgh
-
 The Traverse is a theatre company in Scotland dedicated to new writing. It was founded in 1963

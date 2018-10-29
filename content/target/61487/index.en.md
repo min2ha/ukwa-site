@@ -10,7 +10,5 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Bodrhyddan Hall
-
 This is a 17th century house reworked in 1875 by the famous architect
 William Eden Nesfield. It is A Grade I listed house located near Rhuddlan.

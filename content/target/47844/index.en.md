@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# King's Treasures
-
 Blog on the Special Collections of King's College, Cambridge.

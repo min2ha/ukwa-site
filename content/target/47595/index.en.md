@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Voices of the First World War on Facebook
-
 Marking the 100th anniversary of the First World War by exploring the related archives of Hampshire Record Office.

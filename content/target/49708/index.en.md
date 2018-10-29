@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Arbroath Old and Abbey Church 
-
 Parish website of the Arbroath Old and Abbey Church. 

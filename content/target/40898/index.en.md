@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Peckham Heritage Project
-
 The 'Peckham Heritage Project' will explore the effects of the First World War on Peckham and its communities through a partnership between Peckham Platform and Southwark Heritage Service.

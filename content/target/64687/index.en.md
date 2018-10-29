@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 17th April 2018: Leaving the EU: Tourism and the Creative Industries 
-
 Westminster Hall Debate on the impact of leaving the EU on the creative industries

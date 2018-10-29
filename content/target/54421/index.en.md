@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cllr Thomas Kerr (@CllrTKerr) on Twitter
-
 Twitter profile of Thomas Kerr, Scottish Conservative and Unionist Party candidate for Glasgow East in the 2017 general election.

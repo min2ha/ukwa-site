@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Twm Sion Cati
-
 Twm Sion Cati is a figure in Welsh folklore from Tregaron and was born in or around 1530.

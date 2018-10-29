@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# WSM London
-
 WSM London is a conference organised by the Association of Anaesthetists of Great Britain and Ireland.

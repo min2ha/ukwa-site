@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Ezzelina Jones
-
 Ezzelina Jones is a figurative and abstract sculpturist from Wales.

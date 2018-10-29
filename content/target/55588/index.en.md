@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Daventry District Council
-
 Website of Daventy District Council provides access to information about services, news and committee papers. There is also detailed information about local plans and planning policy, council performance and links to consultation papers.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women of the World (@WOWtweetUK) on Twitter
-
 Global movement and @southbankcentre fest celebrating women & girls and looking at obstacles they face. London in March, global all year. Founded by @JudeKelly_

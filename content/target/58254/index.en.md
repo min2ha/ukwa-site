@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Pétanque Association
-
 Site of the national governing body for the sport of pétanque in Scotland, aiming to promote and foster pétanque in the widest possible context within Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC Sport: Football
-
 BBC Sports dedicated page for football, covering Euro 2016.

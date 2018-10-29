@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Milton Keynes Heritage Association (MKHA)
-
 None

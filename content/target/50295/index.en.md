@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Pornokitsch
-
 Running since 2008, Pornokitsch is a pop culture website and review platform with a focus on books, movies, comics, games, television and music. It launched multiple spin-off ventures, including a small press (Jurassic London) and a literary award (The Kitschies). 

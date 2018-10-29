@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Llanharan Rugby Football Club
-

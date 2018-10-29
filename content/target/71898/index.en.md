@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Brave Your Day
-
 Site of a life coaching company and their magazine, based in Glasgow.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# German Screen Studies Network
-
 The German Screen Studies Network was founded in June 2012 as a platform for informed comment and German-language film promotion amongst researchers, educators, film professionals, and the interested public. 

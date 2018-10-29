@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leicester City Health and Wellbeing Board
-
 None

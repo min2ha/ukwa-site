@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Oliver Mundell MSP | Member of the Scottish Parliament for Dumfriesshire
-
 Oliver Mundell is the Scottish Conservative and Unionist Party Member of the SCottish Parliament for Dumfriesshire.

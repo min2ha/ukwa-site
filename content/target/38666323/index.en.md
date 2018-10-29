@@ -10,5 +10,3 @@
   "start_date": "2010-03-24T00:00:00Z"
 }
 
-# Mid Wales Local Food Talks | Sôn Am Fwyd Canolbarth Cymru
-

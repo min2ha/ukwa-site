@@ -10,5 +10,3 @@
   "start_date": "2016-07-01T10:00:00Z"
 }
 
-# JMA HR & Legal -   Providing HR and employment law support
-

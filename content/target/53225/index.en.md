@@ -10,6 +10,4 @@
   "start_date": "2017-05-16T09:00:00Z"
 }
 
-# Wir Shetland
-
 A multi-party campaign group dedicated to winning self-governing powers for Shetland. 

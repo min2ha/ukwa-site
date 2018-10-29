@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tiree Parish Church / Coithional Eaglais Thiriodh
-
 Website of the Tiree Parish Church. Tiree Parish Church is a congregation within the community of Tiree, located in the Inner Hebrides Islands. 

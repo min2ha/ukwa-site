@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Geopoltical futures: Brexit and the Ongoing Saga of the EU
-
 Article concerning the UK-EU agreement deal negociated by David Cameron with the EU and its impact on the EU referendum. 

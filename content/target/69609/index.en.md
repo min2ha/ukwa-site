@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Bricks Magazine
-
 BRICKS is an independent platform dedicated to youth culture, aiming to be a space for emerging creatives to share their voice.

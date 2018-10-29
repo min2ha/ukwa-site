@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# TrawsCymru
-
 TrawsCymru is the brand for a network of six medium and long distance express bus routes in Wales, sponsored by the Welsh Government. 

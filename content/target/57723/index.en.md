@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering the old parish of Falkland
-
 The Centre for Stewardship was awarded funding from the Heritage Lottery Fund to explore the lives of those living in our communities around the time of World War 1. This was a 20 month project (ending February 2016) and included:

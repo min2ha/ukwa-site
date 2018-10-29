@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# LSL Land and New Homes
-
 This site provides insight and services helping property developers to find and develop land, and to then market resulting new homes.

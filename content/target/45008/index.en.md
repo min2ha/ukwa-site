@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic legacy: Haunting pictures show past Games buildings left to crumble
-
 Many previous venues have not been used after hosting the events they were built for, this article discusses some of them.

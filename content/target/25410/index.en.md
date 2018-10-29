@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Extending right to buy is the Tories’ zombie Thatcherism at its worst
-
 None

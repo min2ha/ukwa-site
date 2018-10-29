@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chris Bennett (@ChrisBennett89) on Twitter
-
 The official twitter profile of hammer thrower, Chris Bennett.

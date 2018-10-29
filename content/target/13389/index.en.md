@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Bob Doris MSP
-
 Bob Doris is Scottish National Party Member of the Scottish Parliament for Glasgow.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Iain Duncan Smith, MP
-
 Website of Iain Duncan Smith, Eurosceptic Conservative MP for Chingford and Woodford Green. Site offers a biography, photographs and news about his activities as a local MP,

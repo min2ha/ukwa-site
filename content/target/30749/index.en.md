@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Inverness College
-
 Official website of the Inverness College, part of the University of the Highlands and Islands.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BBC leaders' debate: play along as David Cameron!
-
 None

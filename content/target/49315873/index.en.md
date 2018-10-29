@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Go 2012 Olympics
-

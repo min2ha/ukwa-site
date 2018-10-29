@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Morning Star Online
-
 None

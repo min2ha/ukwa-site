@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Society for Old Testament Study
-
 The Society for Old Testament Study has always made a point of observing its anniversaries. At Keble College, Oxford, in September 1938 it held its ‘Coming of Age Meeting’, while the meetings at the George Hotel, Bangor, in July 1949 and at King’s College Hostel, London, in January 1950 were designated the ‘’Silver Jubilee of Summer Meetings’ and ‘The Jubilee Meeting’ respectively.

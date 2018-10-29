@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# School of Computer Science, University of Manchester: The University of Manchester Celebrates the Birth of the Modern Computer
-
 Pages maintained by Dr Brian Napper and Toby Howard.

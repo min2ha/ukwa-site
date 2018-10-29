@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# British Society of Gerontology
-
 None

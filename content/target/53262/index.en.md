@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Birmingham Green Party candidates in the 2017 General Election
-
 Birmingham Green Party has a candidate standing in every parliamentary constituency in the city.

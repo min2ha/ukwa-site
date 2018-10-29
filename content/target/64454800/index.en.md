@@ -10,5 +10,3 @@
   "start_date": "2012-03-22T00:00:00Z"
 }
 
-# Capel y Nant
-

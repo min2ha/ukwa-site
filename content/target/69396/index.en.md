@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Even the blockade of Qatar hasn’t produced the calamity that hysterical Remainers now predict from Brexit
-
 The UK has reached the limit of what it can concede to Brussels. Even getting the existing proposals through Parliament would be extraordinarily difficult. If Britain was seen to have bent over backwards and been rejected anyway, the mood in Parliament and the country would change very sharply. In the event of a "No deal" Brexit there would be temporary disruption followed by the initiation of more global trading patterns.
 

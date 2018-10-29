@@ -10,5 +10,3 @@
   "start_date": "2017-08-26T09:00:00Z"
 }
 
-# MB Reckitt Trust
-

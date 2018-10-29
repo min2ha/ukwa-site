@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Irish News, The: Theresa May Brexit speech heightens hard border fears
-

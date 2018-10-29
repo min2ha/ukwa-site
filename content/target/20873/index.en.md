@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Coburn MEP (UKIP) on Twitter
-
 Twitter profile of David Coburn, UK Independence Party (UKIP) candidate for Kirkcaldy and Cowdenbeath in the 2017 general election.

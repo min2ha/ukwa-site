@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Harris Development Limited
-
 Isle of Harris community development programme

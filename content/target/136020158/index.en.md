@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Haringey LINk
-
 None

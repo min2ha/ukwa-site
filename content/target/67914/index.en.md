@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Conker Editions
-
 Conker Editions is an independent publishing company, established in 2017. It specialises in books on football, memories and memorabilia but will publish titles on wider pop culture.

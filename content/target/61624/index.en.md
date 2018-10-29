@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Helgin Roller Derby
-
 Site of a skating roller derby league, based in Moray in the North East of Scotland.

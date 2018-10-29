@@ -10,5 +10,3 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Archaeology Scotland
-

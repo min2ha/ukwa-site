@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Thomas Bagnall Centre
-
 Site of a Christian spiritual retreat associated with the Roman Catholic parish church of St. Mary's, New Abbey, Dumfries & Galloway.

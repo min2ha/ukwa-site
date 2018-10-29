@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crossmichael, Parton & Balmaghie Church of Scotland
-
 Site of Church of Scotland churches at Crossmichael and Parton, Dunfries and Galloway [historically Kirkcudbright] incorporating the community at Balmaghie.

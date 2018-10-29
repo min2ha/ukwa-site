@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Eventbrite: Breaking down barriers for females and sport
-
 Public event that aims to break down barriers for girls and women taking part in sport.

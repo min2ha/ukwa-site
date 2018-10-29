@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Post-Brexit UK financial markets 'offer' for Gibraltar
-
 The UK is to offer Gibraltar continued barrier-free access to UK finance markets after Brexit, the BBC understands. The UK is negotiating for Gibraltar to be treated the same as Britain when it leaves the EU in March 2019. But the EU insists Madrid can stop a transitional deal or future trade relationship applying to Gibraltar unless there is a Spain-UK agreement.
 
 

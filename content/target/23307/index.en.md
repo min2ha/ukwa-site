@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Tu Chwith
-
 Tu Chwith is a Welsh language magazine for young people.

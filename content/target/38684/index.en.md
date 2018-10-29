@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rosalind Garton (@rosalindgarton) on Twitter
-
 Twitter profile of Rosalind Garton, Scottish Labour candidate for North East Fife in the 2017 general election.

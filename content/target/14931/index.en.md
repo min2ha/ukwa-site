@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bradley Stoke Journal, The
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# LabourList: Scotland
-
 Blog posts, speeches and news relating to the activities of the UK Labour Party in Scotland.

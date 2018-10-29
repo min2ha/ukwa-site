@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Richmond Noticeboard: EU Referendum
-
 The noticeboard is an open, public space for people in Richmond, North Yorkshire to share news and views about the town. These articles focus on the upcoming Brexit referendum. 

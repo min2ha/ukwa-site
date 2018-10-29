@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jean Urquhart MSP
-
 Jean Urquhart was Independent Member of the Scottish Parliament for the Highlands and Islands 2011-2016.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bragdy'r Beirdd
-
 Noson y Beirdd (Night for the Bards) is a Welsh language literary night held at Canton Sports Bar, Cardiff. It was established by Welsh poets Catrin Dafydd, Osian Rhys Jones a Rhys Iorwerth.

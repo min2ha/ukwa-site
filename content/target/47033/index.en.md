@@ -10,5 +10,3 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# Sioe Amaethyddol Dyffryn Ogwen | Dyffryn Ogwen Agricultural Show
-

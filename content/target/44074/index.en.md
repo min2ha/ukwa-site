@@ -10,6 +10,4 @@
   "start_date": "2016-07-05T14:00:00Z"
 }
 
-# DRAMBORA
-
 A methodology for organisational review of digital curation risk developed jointly by the Digital Curation Centre (DCC) and DigitalPreservationEurope (DPE).

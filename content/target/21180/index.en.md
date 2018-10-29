@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Máirtín Ó Muilleoir (@newbelfast) on Twitter (Sinn Fein candidate for Belfast South)
-

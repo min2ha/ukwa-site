@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'I'm very sorry, I had a mental brain fade'
-
 None

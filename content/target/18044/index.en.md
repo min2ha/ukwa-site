@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ethan R Wilkinson, UKIP Parliamentary Candidate for Cardiff North
-
 Ethan R Wilkinson is the UKIP prospective parliamentary candidate for Cardiff North.

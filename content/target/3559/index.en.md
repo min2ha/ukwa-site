@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Northern Echo, The
-
 None

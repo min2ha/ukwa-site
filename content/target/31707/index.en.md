@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Love Skiathos
-
 A travel guide website about the greek island of Skiathos for UK tourists.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP truth blog
-
 Blog by UKIP NEC member

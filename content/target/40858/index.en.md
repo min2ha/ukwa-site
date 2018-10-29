@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Dudley
-
 This is a place to share and discuss ways which people are building relationships across Dudley borough using social media or civic tech.

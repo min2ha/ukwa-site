@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Cinemaco & Co
-
 Cinema & Co is a unique indie film house and gallery space based in Swansea.

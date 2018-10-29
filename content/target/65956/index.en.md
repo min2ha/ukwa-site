@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Data Lab
-
 Site of a programme enabling industry, public sector and world-class university researchers to innovate and develop new data science capabilities in a collaborative environment, generating significant economic, social and scientific value from data.

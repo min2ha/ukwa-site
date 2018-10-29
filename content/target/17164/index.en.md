@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Back for more! 14 Labour and Lib Dem ex-MPs given payoffs of up to £55,000 when they lost their seats are standing again
-
 None

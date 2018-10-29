@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Council of Mortgage Lenders (CML)
-
 None

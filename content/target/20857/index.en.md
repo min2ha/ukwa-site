@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Doherty (@SighthillGorgie) on Twitter
-
 The Twitter profile of Richard Doherty, the Scottish Green Party candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

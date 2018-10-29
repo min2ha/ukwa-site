@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# QTS Group Limited
-
 QTS Group Limited is an environmental engineering company based in Strathaven, Scotland. The company offers vegetation management, site clearance, forestry, drainage, railway operation and civil engineering services.

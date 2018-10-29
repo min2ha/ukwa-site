@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Farm Crisis Network (FCN)
-
 None

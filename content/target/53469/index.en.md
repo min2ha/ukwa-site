@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# BBC News: Instagram 'worst for young mental health'
-

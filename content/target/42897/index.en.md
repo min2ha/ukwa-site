@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Tall Ship at Riverside
-
 Site of a maritime heritage museum aboard the barque 'Glenlee' moored in the Clyde, Glasgow. 

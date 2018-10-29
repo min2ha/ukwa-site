@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cambridge Muslim Society
-
 The Cambridge Muslim Society serves the thriving Muslim community of the city of Cambridge, located in the heart of southern Ontario. Approx. 100km south-west of Toronto, Cambridge together with the cities of Kitchener and Waterloo form the ‘Tri-cities’ of Waterloo region.

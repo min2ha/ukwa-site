@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 24th Oct. 2016: Brexit: Single Market
-
 The House of Lords debates  how the government intends to fulfil the pledge in the 2015 Conservative Party manifesto to “safeguard British interests in the Single Market”.

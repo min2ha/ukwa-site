@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Cornerstone Group
-
 The Cornerstone Group is a socially conservative or traditional conservative political organisation within the British Conservative Party. The Group espouses traditional values as exemplified by its motto: Faith, Flag, and Family. It comprises Members of Parliament with a traditionalist outlook and was founded in 2005.

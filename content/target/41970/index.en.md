@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit 'dummies' blamed for anti-German motorway poster 
-
 Guardian, The

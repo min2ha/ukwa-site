@@ -10,6 +10,4 @@
   "start_date": "2013-10-01T04:00:00Z"
 }
 
-# Chartered Institute for Securities & Investment (CISI), The
-
 <p>Website of the Chartered Institute for Securities &amp; Investment (CISI), a professional body for the securities and investment industry in the UK.</p>

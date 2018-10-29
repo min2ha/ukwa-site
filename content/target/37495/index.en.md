@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gaudie, The: Say ‘no’ to a June referendum
-
 An article discussing why having a June election is a bad idea. It is right after the Scottish, Welsh and London elections. 

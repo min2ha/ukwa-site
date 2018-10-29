@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# SWITG - SomeWhere In The Globe
-
 Blog in French by Florence Couedel about world culture, movies, beauty, outing, restaurants...

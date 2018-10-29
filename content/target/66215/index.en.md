@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Vintage Fashion Fair Farnham
-
 Website for the Vintage Fashion Fare in Farnham

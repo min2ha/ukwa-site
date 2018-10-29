@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Mindgym
-
 Mind Gym uses the latest psychology and behavioural science to transform how people think, feel and behave and so improve the performance of companies and the lives of people who work in them.

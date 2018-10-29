@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now England gets its own manifesto as Tories inflame row with the SNP with pledge of 'English votes for English laws'
-
 None

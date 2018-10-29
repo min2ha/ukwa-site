@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Darren Yeadon Artist in Stone
-
 Darren Yeadon is a Stone Artist who grew up in Whitby but now lives in Goodwick, Pembrokeshire. He is a contemporary, figurative, classsical sculpture and Italian marble specialist.

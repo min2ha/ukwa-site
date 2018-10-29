@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Law Society Gazette: Win tickets to Magna Carta: Law, Liberty, Legacy
-

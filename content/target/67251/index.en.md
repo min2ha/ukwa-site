@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Navigating the EU Withdrawal Bill through unamended without a majority is nightmarish – but possible
-
 Comments on the difficulties the government faces getting the EU Withdrawal Bill  passed unamended with no Commons majority.

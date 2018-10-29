@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Greg Williams (@greggerswilliam) on Twitter
-
 Twitter profile of Greg Williams, the Scottish Labour candidate for Aberdeen Donside in the 2016 Scottish Parliamentary election.

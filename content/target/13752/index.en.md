@@ -11,7 +11,5 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Working for Scotland: Public Statements
-
 <p>The website of Working for Scotland, a Scottish collective of employers, employees, trade unions<br />
 and other organisations who support a No vote in the Scottish Independence Referendum.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ipsos MORI: Theresa May’s personal ratings fall as Labour reduces Conservative lead
-
 Ipsos MORI's June 2017 Political Monitor shows Theresa May’s personal ratings falling since May, as Labour reduces Conservative lead.

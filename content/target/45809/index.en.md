@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Unity Group Wales
-
 Unity Group Wales aim is to improve life for the LGBT community through dissemination of information and advice, advocacy, campaigns, products, training and research.

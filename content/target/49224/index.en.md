@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Scottish Recovery Network
-
 Site of an organisation aiming to create greater awareness and expectation of mental health recovery across Scotland.

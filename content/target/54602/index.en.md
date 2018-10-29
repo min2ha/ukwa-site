@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Centre for Policy Studies: CPS response to Labour's key revenue raisers
-
 Comments on the Labour Party's three main revenue raising proposals at the 2017 general election: increasing income taxes on those earning more than £80,000, hiking corporation tax to 26% and ntroducing a financial transactions tax.

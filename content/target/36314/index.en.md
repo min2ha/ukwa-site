@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron faces HUMILIATION over his EU reforms, blasts LEO MCKINSTRY
-
 Column by Leo McKinstry

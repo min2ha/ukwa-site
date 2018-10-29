@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Royal College of Nursing: the EU Referendum
-
 Whilst the RCN will not be taking a formal position on the referendum as an organisation, the RCN has produced a briefing which provides factual information on how the EU has impacted on nursing to date.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The Gamble that Failed: The Brexit Election and what happens next
-
 Considers the implications of the hung Parliament that was the outcome of the 2017 General Election for the Brexit process.

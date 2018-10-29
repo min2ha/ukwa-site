@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Magfest
-
 Site of an international festival and conference of magazine publishing.

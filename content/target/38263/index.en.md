@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales For Europe (@Wales4Europe) on Twitter
-
 Regional group campaigning for the UK to stay in the EU

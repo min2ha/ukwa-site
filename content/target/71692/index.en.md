@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: So where does Labour now stand on Brexit?
-
 The party managed to craft a new formal position at its 2018 annual conference that left several Brexit options open, including a second referendum. 

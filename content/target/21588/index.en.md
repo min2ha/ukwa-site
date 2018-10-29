@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Timebank: Manifesto - call to action for the next government
-
 TimeBank is a national volunteering charity. They recruit and train volunteers to deliver mentoring projects to tackle complex social problems. They also work with businesses to engage their staff in volunteering.

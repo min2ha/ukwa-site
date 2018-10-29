@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Canolfan Richard Burton Centre
-
 The Richard Burton Centre for the Study of Wales is based at Swansea University. It brings together expertise and resources in Welsh studies located across Swansea University, encouraging interdisciplinary research of international quality. 

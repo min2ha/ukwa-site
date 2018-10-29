@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dick  Rodgers (@dick_rodgers) on Twitter (The Common Good Party Politician)
-
 Dick Rodgers stood as The Common Good Party candidate for Edgbaston at the 2017 General Election but was not elected.

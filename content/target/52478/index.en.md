@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Standard Life Aberdeen plc
-
 Standard Life Aberdeen plc was formed in August 2017 from the merger of two leading financial services companies: Standard Life plc and Aberdeen Asset Management plc.  In terms of assets under administration, they are now the largest active manager in the UK and the second largest in Europe with £670bn assets managed.

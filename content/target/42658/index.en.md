@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# North Kensington Histories
-
 Over several years, groups of older people have been meeting regularly in North Kensington looking at the local history of the area. They have shared and contributed many stories and memories of a fast changing part of London.

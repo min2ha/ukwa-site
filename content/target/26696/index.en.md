@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What now for Labour? Attack the Tories on austerity, then tackle electoral reform
-
 None

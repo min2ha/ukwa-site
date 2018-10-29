@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Conway Road Methodist, Cardiff
-

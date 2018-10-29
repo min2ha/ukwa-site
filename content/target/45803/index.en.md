@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Referendum
-
 LBC radio stations splash page with articles related to the result of the EU Referendum.

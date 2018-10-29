@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# London Health Board
-
 London Health Board's role is to provide leadership on health issues of pan-London significance. It was established by London Councils, the Mayor of London and key health partners. The site closed down in March 2016.

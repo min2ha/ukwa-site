@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Alfred Dunhill Links Championship
-
 Site of an annual professional golf tournament held in Scotland each October, with its associated professional-amateur event where celebrated amateur golfers raise money for charity.

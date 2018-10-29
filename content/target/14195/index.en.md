@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Elections Scotland: The Chief Counting Officer's Guide to dealing with doubtful ballot papers
-
 <p>A guide for Counting Officers and their deputies for the Scottish Independence referendum 18 September 2014.</p>

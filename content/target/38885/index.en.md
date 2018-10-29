@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European referendum campaign kicks off as rivals roll out big guns
-
 Guardian, The

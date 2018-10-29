@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron's forecasts of 'Armageddon' if Britain leaves the EU are 'dangerous,' warns Brexit Cabinet minister as he tells the Government to plan for life outside Europe   
-

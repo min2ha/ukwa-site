@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# www.rugbyclubs.info 
-
 This website lists Rugby Union Clubs, Rugby League Clubs and School Rugby Clubs in the UK and Ireland.

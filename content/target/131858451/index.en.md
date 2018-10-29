@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Juice - Health advice for young people
-
 None

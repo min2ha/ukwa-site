@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan Gogledd Cymru | North Wales Centre
-
 Y Bont is the Centre for Welsh Learners for north Wales and North Wales Welsh for Adults e-learning platform. It ceased to exist in 2017.

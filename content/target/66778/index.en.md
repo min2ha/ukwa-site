@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Wemyss Vintage Malts
-
 The website of Wemyss Vintage Malts, an Edinburgh-based producer of Scotch malt whiskies. The company is part of Wemyss Development Company Limited.

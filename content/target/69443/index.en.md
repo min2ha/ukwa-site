@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why are today's leaders hysterical doom merchants? QUENTIN LETTS asks whatever happened to Keep Calm and Carry On
-
 Asks why Britain's elite and politicians seem to be intent on creating panic through predictions of disastrous consequences of everything from the Summer 2018 heatwave to Brexit.

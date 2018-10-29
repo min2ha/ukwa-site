@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Kate North 
-
 Kate North writes fiction and poetry and teaches Creative Writing at Cardiff Metropolitan University.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Schools Golf 
-
 British Schools Golf is a member of the International Schools Golf Association and organises golf events for schools throughout the UK.

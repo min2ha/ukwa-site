@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The abolition of mobile roaming charges and Brexit
-
 A Commons Library Briefing Paper on the the regulation of mobile roaming charges in the EU, the abolition of mobile roaming charges in the EU, what it means for UK consumers, and the possible impact of Brexit.
 

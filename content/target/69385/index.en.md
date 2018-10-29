@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Yes, a No Deal Armageddon will deliver chaos – to French farmers, German car makers, Italian designers and Spanish property owners
-
 The chaotic UK has given itself a negotiating card by accident – the growing risk of No Deal should terrify Brussels

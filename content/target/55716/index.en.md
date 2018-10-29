@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Aber Valley Women's Institute
-
 Aber Valley Women's Institute meet at Abertridwr near Caerphilly.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Waleed Ghani (The Whig party candidate for Vauxhall) (@Waleed_Ghani) on Twitter
-

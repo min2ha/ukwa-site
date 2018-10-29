@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Rhydian Roberts
-
 A fan site for the Welsh singer, Rhydian Roberts.

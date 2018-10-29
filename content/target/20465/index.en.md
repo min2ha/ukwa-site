@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Internet-era politics means safe seats are a thing of the past
-
 None

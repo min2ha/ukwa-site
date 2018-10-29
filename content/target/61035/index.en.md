@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Ian Phillips Printmaker
-
 Ian Phillips was born in Leicester but now resides in Wales and works in hand printed reduction Linocut. He is an elected member of the Royal Cambrian Academy of Art (RCA) and much of his work is of the Welsh landscape.

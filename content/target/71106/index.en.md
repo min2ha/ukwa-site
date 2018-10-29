@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T11:27:00Z"
 }
 
-# IntechOpen
-
 A leading publisher of Open Access books built by scientists, for scientists

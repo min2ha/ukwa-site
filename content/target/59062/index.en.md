@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL World & Trad Music
-
 British Library's collection of world and traditional music - recordings and documentation from all around the world. http://sounds.bl.uk

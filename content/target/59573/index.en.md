@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Adamsdown Arts Association
-
 Adamsdown Arts Association (A3) is a community arts group based in Adamsdown, Cardiff made up of local residents and creative practitioners.

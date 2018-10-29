@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blackpool LINk
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2010-02-16T00:00:00Z"
 }
 
-# IT technical support | IT solutions Telemat - Croeso i Telemat Atebion Gwybodaeth Technoleg
-

@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Vintage Ephemera Collage and Pop Art by Simon Wells
-
 Original contemporary art from UK artist using cultural UK iconic ephemera such as car tax discs and UK comics. 

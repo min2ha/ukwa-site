@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Doncaster Rovers F.C.
-
 Doncaster Rovers Football Club is a professional association football club based in the town of Doncaster, South Yorkshire, England. 

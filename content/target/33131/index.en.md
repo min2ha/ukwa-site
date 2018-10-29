@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Arthurian Life Sciences Ltd
-
 Arthurian Life Sciences Ltd was established to act as General Partner of the Wales Life Sciences Investment Fund, a £100 million fund and key part of the Welsh Government’s Life Sciences initiative.

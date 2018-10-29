@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Albany Gallery
-
 Art gallery located in Roath, Cardiff.

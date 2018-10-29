@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: I predict Brexit will trigger the collapse of two-party politics
-
 Speculates that divisions over Brexit could see Labour and Tory remainers form a new pro-European party. A number of anti-European left and right wing parties could emerge at the same time.

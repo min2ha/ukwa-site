@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Newcastle (@SfBNewcastle) on Twitter
-
 Newcastle branch of Students for Britain, campaigning for the UK to leave the EU

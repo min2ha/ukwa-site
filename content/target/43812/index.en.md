@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Small Media
-
 Small Media is a London-based action lab, providing digital research, training and advocacy to support the work of civil society communities globally. Site includes reports and online projects relating to Iran, Syria, Lebanon and the wider Middle East. 

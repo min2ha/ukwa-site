@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Association of International Accountants (AIA)
-
 The Association of International Accountants (AIA) is a professional body for accountants. They offer qualifications, and provide tailored and pertinent services for members. It was founded in 1928.

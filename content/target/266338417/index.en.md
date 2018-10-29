@@ -10,5 +10,3 @@
   "start_date": "2014-10-17T00:00:00Z"
 }
 
-# Rhôd : An Urban/Rural Dialogue
-

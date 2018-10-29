@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# English Football League (EFL)
-
 Formed in 1888 by its twelve founder members, the EFL was one of the worlds first professional football leagues. This is their official website.

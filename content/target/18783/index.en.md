@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Forgotten edition of Magna Carta found in Kent council archive could fetch up to £10m
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# MichelleUKIPWales (@DeceangliWoman) on Twitter (UKIP candidate for Alyn and Desside) 
-
 Michelle Brown is the UKIP candidate for Alyn and Deeside at the 2016 National Assembly Elections.

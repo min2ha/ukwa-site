@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ruth Jones on Facebook (Labour candidate for South Wales East) 
-
 Ruth Jones is the Labour candidate for South Wales East at the 2016 National Assembly for Wales election.

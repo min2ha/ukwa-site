@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Esports News Uk (ENUK) :LET’S TALK ABOUT MENTAL HEALTH IN ESPORTS: 10 INDIVIDUALS SHARE THEIR STORIES
-
 Dominic Sacco asks 10 people in UK esports and beyond how mental health has affected them, and whether esports has been a positive outlet for them in some way.

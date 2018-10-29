@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Jack Mac
-
 Jack Mac is a professional session musician and freelance saxophonist who is funded by the Welsh Arts Council and National Lottery.

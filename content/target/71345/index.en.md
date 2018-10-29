@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# We're All Mad Here (@AllMadHereUK) on Twitter
-
 Twitter account of mental health blog and resource, We're All Mad Here, founded by Claire Eastham. 

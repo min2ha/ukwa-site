@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Tin Shed Theatre Co.
-
 Tin Shed Theatre Co. is a theatre company based in Newport.

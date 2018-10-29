@@ -11,5 +11,3 @@
   "subject": "Offshore Islands Collection (Channel Islands and Isle of Man)"
 }
 
-# Isle of Man Government
-

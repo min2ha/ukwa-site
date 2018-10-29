@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sky Sports News
-
 Latest news on sports.

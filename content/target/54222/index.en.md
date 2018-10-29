@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dead By Dawn
-
 Site of an international horror film festival located in Edinburgh and associated with the Filmhouse cinema.

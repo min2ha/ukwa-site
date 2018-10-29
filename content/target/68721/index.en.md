@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: David Davis - the maverick minister
-
 Sketch of the career of David Davis who resigned as Brexit secretary in July 2018.

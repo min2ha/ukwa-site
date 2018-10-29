@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's Church Johnstone on Facebook
-
 Facebook page of a Church of Scotland parish church at Johnstone, Renfrewshire.

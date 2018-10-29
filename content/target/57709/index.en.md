@@ -10,5 +10,3 @@
   "start_date": "2017-10-07T09:00:00Z"
 }
 
-# Cardiff International Film Festival
-

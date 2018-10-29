@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Financial stability report July 2016
-
 Outlines how the Financial Policy Committee (FPC) is ensuring that the financial system can dampen shocks and help firms and households to seize opportunities associated with the UK’s new relationships with Europe and the world following the vote to leave the EU on June 23rd 2016.

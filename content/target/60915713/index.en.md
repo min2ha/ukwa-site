@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Food and Drink Federation (FDF)
-
 The Food and Drink Federation (FDF) is the voice of the UK food and drink industry, the largest manufacturing sector in the country

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris von Ruhland on Facebook (Green Party candidate for Cardiff Central)
-
 Chris von Ruhland is the Green Party candidate for Cardiff Central and South Wales Central at the 2016 National Assembly for Wales elections. 

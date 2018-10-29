@@ -10,6 +10,4 @@
   "start_date": "2014-11-25T20:00:00Z"
 }
 
-# Share Wales
-
 None

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Newton Abbot Today
-
 None

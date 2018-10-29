@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Isleworthians (@OIRFC) on Twitter
-
 The official Twitter account of Old Isleworthians Rugby Football Club. The OIRFC is a West London Rugby Club founded in 1957.

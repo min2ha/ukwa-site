@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steven Burke (StevenBurke88) on Twitter
-
 The twitter profile of cyclist Steven Burke, member of Team England in the Glasgow 2014 Commonwealth Games.

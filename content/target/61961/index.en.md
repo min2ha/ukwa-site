@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Everton L.F.C.
-
 Everton Ladies Football Club are a women's association football team from the city of Liverpool, who compete in the FA WSL 1, the first division of women's football in England

@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Susan Gathercole RCA 
-
 Susan Gatherole is an artist from Glasgow but who has lived in Llanberis, Gwynedd for the past 25 years. Her paintings are of household objects – jugs, bowls, mugs. Plants, birds,  animals and people sometimes feature against a backdrop of sea or mountains, often seen from an intuitive, dream-like perspective.

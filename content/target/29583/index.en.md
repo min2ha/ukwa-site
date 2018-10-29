@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# British Soft Drinks Association
-
 The British Soft Drinks Association represents UK producers of soft drinks, including carbonated drinks, still and dilutable drinks, fruit juices and bottled waters.

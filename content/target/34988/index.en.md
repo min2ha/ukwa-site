@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# NRVD Hashtag on Twitter
-
 This hashtag was used as part of the UK National Voter Registration drive event, 1-7th February 2016.

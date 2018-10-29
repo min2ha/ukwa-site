@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# DanceHouse
-
 <p>Dance House Glasgow present “Dancing City” a film that records various dance based “happenings” in Glasgow. The film will be screened extensively across the City as part of the Glasgow 2014 Cultural Programme.</p>

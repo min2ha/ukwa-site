@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Ireland: Birth of a Nation
-
 This is the website of ‘Ireland: Birth of a Nation’, a film produced to mark the centenary of the Easter Rising, 1916. 

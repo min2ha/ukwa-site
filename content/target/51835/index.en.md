@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Johns Church Kilmarnock
-
 The website of St Johns Church, located in Onthank, Kilmarnock. 

@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Generation Identity (@GID_UKIRE)
-
 The official Twitter account of Generation Identity (GI), a pan-European group, officially launched its UK branch in Autumn 2017. 

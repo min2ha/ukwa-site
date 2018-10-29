@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# UK Innovation Research Centre (UK-IRC)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ian Bond (@IanBondLaw) on Twitter (UKIP Politician)
-
 Ian Bond was the UK Independence Party (UKIP) candidate for Oldham East and Saddleworth in the 2017 General Election.

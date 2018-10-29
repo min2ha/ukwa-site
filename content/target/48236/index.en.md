@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Wales for Europe
-
 Wales for Europe is a grassroots, cross-party and no-party organisation, determined to secure the best deal for Wales with the UK, Europe and the rest of the world.

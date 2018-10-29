@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Graduate Opportunities Wales (GO Wales)
-
 The GO Wales project (Graduate Opportunities Wales) was an employability and business support project in Wales and managed by the Higher Education Funding Council for Wales (HEFCW). The GO Wales project ceased at the end of 2014 after European funding ran out.

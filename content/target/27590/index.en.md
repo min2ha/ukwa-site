@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pressure grows on Jim Murphy to resign as two MSPs call for his head
-
 None

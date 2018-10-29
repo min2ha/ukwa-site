@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Right to privacy 'could be meaningless in 10 years under Tory and Labour plans'
-
 None

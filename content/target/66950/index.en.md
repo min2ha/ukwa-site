@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# St. Columba Trail / Slighe Chalium Chille / Slí Cholmcille
-
 Site of a project and trail providing details of the location associated with the early Christian missionary in Ireland and Scotland, St. Columba.

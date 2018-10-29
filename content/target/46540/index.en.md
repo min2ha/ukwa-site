@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Parc y Gorffennol | Park in the Past
-
 Park in the Past is a unique Conservation and Heritage Project which will transform the disused Fagl Lane Aggregate Quarry in Hope, Flintshire primarily for the benefit of the nearby residents of Hope, Caergwrle, and Pen y ffordd, in Flintshire.

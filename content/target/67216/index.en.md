@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Headhunter Studios
-
 Website of a music recording and rehearsal studio in Glasgow, Scotland.

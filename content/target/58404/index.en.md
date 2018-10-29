@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Radio Today UK
-
 Radio Today was established to inform the radio industry at the earliest opportunity of breaking news via all available platforms – email, text, online and rss – free of charge.

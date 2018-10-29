@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Lodge Grange No. 1073
-
 Site of a masonic lodge located in Monifieth, Angus and affiliated with the Grand Lodge of Scotland.

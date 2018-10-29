@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Edwards (UKIP candidate for Clwyd West and North Wales)
-
 David Edwards is the Conservative candidate for Clwyd West and North Wales at the 2016 National Assembly Election. 

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Guardian, The: Race issues
-
 The subsection of The Guardian newspaper about race issues.

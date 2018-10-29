@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Talgarth Mill
-
 Talgarth Mill is restored watermill based in Breconshire.

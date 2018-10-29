@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Arrochar Mountain Rescue Team
-
 Site of a voluntary and charitable organisation providing a mountain rescue service in the area of Strathclyde, Scotland, and based at Arrochar, Argyll & Bute.

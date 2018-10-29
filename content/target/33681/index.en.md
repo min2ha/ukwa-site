@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Great War Forum: Easter Rising
-
 Publicly available discussion thread on the Great War Forum

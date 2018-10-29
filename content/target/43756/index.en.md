@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: from an American perspective, there is only one good outcome 
-
 Guardian, The

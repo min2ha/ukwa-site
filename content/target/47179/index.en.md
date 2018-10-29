@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bond: Brexit hub
-
 The Bond Brexit hub brings together useful resources, views and the latest news on Brexit for non-governmental organisations working in international development.

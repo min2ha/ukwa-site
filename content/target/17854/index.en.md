@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Bizarre Take a Break style leaflet from top MP Danny Alexander
-
 None

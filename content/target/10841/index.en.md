@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Yorkshire County Council: Grand Depart 2014 ; general Information
-
 <p>Tour de France web page of North Yorkshire County Council giving details of Grand Depart with links to resources packs for schools and general information</p>

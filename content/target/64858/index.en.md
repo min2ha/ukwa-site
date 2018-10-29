@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Articles on Windrush
-
 The Conversation, articles concerning Windrush.

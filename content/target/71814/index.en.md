@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# UK Black Pride
-
 Website for UK Black Pride festival.

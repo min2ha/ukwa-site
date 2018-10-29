@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Claudia Fragapane (claudia_frag) on Twitter
-
 <p>Twitter profile of gymnast Claudia Fragapane, member of England's Women's Artistic Team for the Glasgow 2014 Commonwealth Games.</p>

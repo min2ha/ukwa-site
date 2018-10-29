@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Lives on the Line: Life Expectancy at Birth & Child Poverty as a Tube Map
-
 None

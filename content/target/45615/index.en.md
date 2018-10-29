@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# DBA De Beauvoir Association: a community group in the London Borough of Hackney
-
 DBA, the De Beauvoir Association is A community group in the London Borough of Hackney. It was reformed in 2004 as a result of concern on a number of local issues. In its previous incarnation its heyday was in the 1970s when the association campaigned successfully to halt what would have been further widespread demolition of the Victorian streets. The site features a documentary archive, including De Beaver -the newsletter of the DBA 1971-1984 

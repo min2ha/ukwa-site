@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hexham Constituency Conservatives
-
 Website of Hexham Constituency Conservatives, providing information on events, association officers, county councillors, MPs, local and national news and opinion.

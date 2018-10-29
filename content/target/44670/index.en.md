@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Watch
-
 "Vote Leave Watch is the grassroots campaign to scrutinise the claims made by Brexit campaigners in the EU referendum, and hold them to account for their overblown promises."

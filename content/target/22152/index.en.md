@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chi Onwurah (Labour candidate for Newcastle upon Tyne Central)
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Island Farm Prisoner of War Camp
-
 Island Farm Prisoner of War Camp was in Bridgend. This is a history of the Island Farm POW camp and the German POW's interned during the years 1944 -1948. 

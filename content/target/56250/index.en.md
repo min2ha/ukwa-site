@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Mental health of children and young people ' at risk in digital age'
-
 Article regarding concerns raised by MPs and the Commons health select committee about violent video games, the sharing of indecent images on mobile phones, and other types of digital communications, that are harming young people’s mental health

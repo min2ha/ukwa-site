@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Paul Davies (Conservative candidate for Preseli Pembrokeshire)
-
 Paul Davies is the Conservative candidate for Preseli Pembrokeshire at the 2016 National Assembly Election. 

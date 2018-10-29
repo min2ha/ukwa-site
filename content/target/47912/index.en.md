@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Friends of Kilmodan and Colintraive
-
 Site of a group dedicated to the preservation, maintenance, repair and development of the Kilmodan and Colintraive Church buildings.

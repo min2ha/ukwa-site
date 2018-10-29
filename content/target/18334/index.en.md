@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Richard Karmel 
-
 On his website, Richard Karmel discusses issues relating to human rights and social responsibility in corporate society.

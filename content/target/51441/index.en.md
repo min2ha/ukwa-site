@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Clyne Free Mission Evangelical Church, Neath
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Livingston United Parish Church
-
 The website of Livingston United Parish Church, a parish that unites four different Christian denominations: Church of Scotland, Scottish Episcopal Church, Methodist Church, and United Reformed Church.

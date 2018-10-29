@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Inside Government
-
 Inside Government presents a series of interactive, information led and exclusive forums and events. These focus on a range of government policy fields, and are designed for people working in the public, private and third sectors.

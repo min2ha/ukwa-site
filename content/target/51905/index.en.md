@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Bradford on Avon
-
 Holy Trinity is a thriving and welcoming Parish Church in the inclusive and liberal modern catholic tradition.

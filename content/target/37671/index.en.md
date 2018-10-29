@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Stockholms Handelskammare: Brexit – Ny analys av potentiella ekonomiska konsekvenser för Sveriges län
-

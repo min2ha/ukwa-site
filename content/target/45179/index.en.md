@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Vegan Festival
-
 Site of a travelling festival showcasing vegan food and products in the North of England and Scotland

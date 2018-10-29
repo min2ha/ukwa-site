@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# UK Nepal Friendship Society
-
 The UK Nepal Friendship Society is projects-driven organisation supporting all strands of the UK Nepali community.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Guinness Occupation
-
 Blog of protest against evictions on the Guinness Trust Estate, Loughboroguh Road, Brixton.  "On Saturday 14 February, an empty flat in Elveden House on the Guiness Trust estate in Brixton was by occupied in protest at the evictions that many residents on the estate are threatened with."

@@ -10,6 +10,4 @@
   "start_date": "2004-12-03T00:00:00Z"
 }
 
-# Newport Town Poet - Goff Morgan
-
 None

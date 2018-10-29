@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Sinclair Research
-
 Tech company owned by Sir Clive Sinclair, an English entrepreneur and inventor, most commonly known for his work in consumer electronics in the late 1970s and early 1980s.

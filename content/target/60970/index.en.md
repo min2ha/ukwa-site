@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sean Treacy's London (@SeanTreacysLon) on Twitter
-
 The Sean Treacy's Club was founded in 1958. We train at Mitcham Rugby Grounds, Poulter Park, Bishopsford Road, Morden, Surrey SM4 6AS.

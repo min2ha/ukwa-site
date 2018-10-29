@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Thame Food Festival
-
 food festival supporting British and local foods and giving back to the community

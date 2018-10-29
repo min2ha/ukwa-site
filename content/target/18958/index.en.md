@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Queen's Gloriana barge confirmed for Magna Carta river pageant
-

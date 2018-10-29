@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Wood (UKIP) 
-
 Steve Wood stood as UKIP candidate for Bristol South at the 2015 General Election but was not elected.

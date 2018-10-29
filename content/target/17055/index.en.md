@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# All-Party Parliamentary Group on Modern Languages: Manifesto for languages
-
 Represents the views and opinions of scholars and professionals in modern languages to Government, the funding councils and other bodies at national level.

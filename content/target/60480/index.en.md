@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  I voted Remain. But to say our WWII troops were fighting for European values is insulting bunkum
-
 In response to the Irish Prime Minister Leo Varadkar's listing of British veterans who fought in World war II as losers from Brexit, the author argues that they fought for the UK, not European values.

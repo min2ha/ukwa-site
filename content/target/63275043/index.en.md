@@ -10,6 +10,4 @@
   "start_date": "2011-11-29T00:00:00Z"
 }
 
-# Penmorfa
-
 Photos and history 

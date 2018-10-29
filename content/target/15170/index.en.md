@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# n21online
-
 It is a marketing platform for N21's people and local businesses.

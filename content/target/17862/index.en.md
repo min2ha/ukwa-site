@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron accused of burying bad news over failed immigration pledge
-
 None

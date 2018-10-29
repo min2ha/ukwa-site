@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 19 December 2016: European Council
-
 Prime Minister Theresa May gave a statement on the issues discussed at the December European Council: migration, security, Syria and Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Scottish Cinemas
-
 Website dedicated to recording and archiving our historic cinema architectural heritage, and to act as a information resource for people interested in that often overlooked part of our social history, incorporating at database of cinemas and photographs.

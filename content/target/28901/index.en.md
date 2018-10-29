@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# SEACAMS
-
 SEACAMS is a new development to integrate research and business opportunities in the marine sector and help expand the coastal and marine sector in Wales. SEACAMS are a partnership between Bangor, Swansea and Aberystwyth Universities. 

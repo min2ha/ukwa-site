@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Caithness Rugby Football Club
-
 Site of a Scottish rugby union football club based at Wick [historically Caithness] Highland.

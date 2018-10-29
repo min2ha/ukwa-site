@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Deflated Clegg back to full size as he hurtles towards margins of significance
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour will hit graduates with tax to fund cap on tuition fees
-
 None

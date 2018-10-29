@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Findhorn Bay Arts
-
 Site of an organisation showcasing the locals' creativity and staging biennial festival attracting high quality artists and productions to the area of Finhorn, Moray, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Gildas, Rosneath and Sts. Peter and Paul, Arrochar
-
 Site of two Scottish Roman Catholic churches for the parishes of St. Gildas, Rosneath and Sts. Peter and Paul, Arrochar, Argyll & Bute.

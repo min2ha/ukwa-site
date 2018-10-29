@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Government studies handed to MPs amid secrecy row
-
 Studies of how the UK's exit will affect 58 sectors of the economy were handed to the Commons Committee on Exiting the EU to be viewed in private., with market sensitive material redacted.

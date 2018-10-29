@@ -11,7 +11,5 @@
   "subject": "Zines and Fanzines"
 }
 
-# Spam zine (@spamzine) on Twitter
-
 SPAM is a triannual publication of post-internet poetry based in Glasgow, Scotland.
 This is their Twitter account.

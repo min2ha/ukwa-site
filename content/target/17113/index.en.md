@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour spending plans: Ed Balls dismisses 'dodgy Tory dossier' on £21bn pledges
-

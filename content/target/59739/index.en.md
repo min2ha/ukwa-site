@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Refugee Rights Campaign
-
 A campaign group to calls on the government to grant all refugees and asylum seekers the right to work in the UK, bring an end the prison like detention centres and supports trade union campaigns for £10 per hour for all workers as the minimum wage. This campaign was founded by Tamil asylum seekers to fight for their rights and in solidarity with other refugees and asylum seekers. 

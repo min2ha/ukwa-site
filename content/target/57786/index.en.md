@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Bangor University: Centre for Health Economics and Medicines Evaluation
-
 The Centre for Health Economics and Medicines Evaluation is active across a range of health economic and medicines evaluation research activities. It was established in 2001, and is one of the leading health economics centres in the UK. 

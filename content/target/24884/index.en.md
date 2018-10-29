@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Oliver James Coppard on Facebook (Labour Candidate for Sheffield Hallam)
-

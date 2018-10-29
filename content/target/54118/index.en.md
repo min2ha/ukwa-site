@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Andrea Jenkyns (@andreajenkyns) on Twitter (Conservative politician)
-
 Andrea Jenkyns stood as Conservative candidate for Morley & Outwood at the 2017 General Election and was elected as MP. She first stood for the seat in 2015 and was re-elected in 2017.

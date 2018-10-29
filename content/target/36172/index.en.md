@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: How leaving the EU could make clothes more expensive
-

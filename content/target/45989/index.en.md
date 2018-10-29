@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T11:00:00Z"
 }
 
-# Stiwdios Glai Fireworks | Fireworks Clay Studio
-
 Fireworks Clay Studios in Cardiff was established in 1995 by six ceramics graduates all seeking collective strength and support in their bid to set up as practicing artists. The cooperative has flourished into well established studios housing seventeen artists. it is the largest cooperative of its kind in Europe and has grown in reputation in the UK and internationally.

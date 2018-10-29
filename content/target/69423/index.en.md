@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sandbach Transport Festival
-
 Website for the Sandbach Transport Festival.

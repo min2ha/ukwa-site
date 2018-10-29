@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah McCarthy (HanMcMc) on Twitter
-
 <p>The twitter profile of swimmer Hannah McCarthy, competing in the women's 100 metre free and medley relays for Team Wales in the Glasgow 2014 Commonwealth Games.</p>

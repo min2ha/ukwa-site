@@ -10,6 +10,4 @@
   "start_date": "2018-06-17T09:00:00Z"
 }
 
-# Garbh Allt Community Initiative
-
 Site of a community initiative to purchase and run 3000 acres of land near Helmsdale, Sutherland, Highlands.

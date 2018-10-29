@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Lodge Caldercruix St. John No. 1314
-
 Site of a masonic lodge located in Airdrie, Lanarkshire and affiliated with the Grand Lodge of Scotland.

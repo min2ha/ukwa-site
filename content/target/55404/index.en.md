@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Assembly. Economy Committee: EU exit and London’s businesses
-
 London’s diverse and vibrant economy provides almost one quarter (23 per cent) of the UK’s overall economic output – around £364 billion. While some initial nervousness has abated following the Brexit vote, business confidence is precarious and more could be done to combat concerns and minimise any risk to the capital’s competitiveness and attractiveness as a place to do business.

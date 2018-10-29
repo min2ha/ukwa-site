@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Dan Greef (@DanGreef) on Twitter (Labour candidate for South Cambridgeshire)
-
 None

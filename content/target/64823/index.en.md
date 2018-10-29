@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Phoenix Choir of Wales, The
-
 Phoenix Choir of Wales is a modern Male Voice Choir based in Swansea who sing popular music alongside the more traditional Male Voice Choir repertoire.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sheffield Central Elim Pentecostal Church
-
 "Central" is one of three Elim Churches in Sheffield. As the name indicates we are the City Centre Church. The Elim Church commenced in Sheffield in 1931

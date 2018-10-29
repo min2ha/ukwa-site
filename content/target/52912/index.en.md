@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Breast Cancer UK: Brexit and Public Health
-
 A lot of laws and regulations that protect people from harmful chemicals originate in the European Union (EU). While not without its flaws, EU legislation has been responsible for a lot of progress in protecting human health in the UK over the last forty years, from improving air quality to banning BPA in babies’ bottles. We need to ensure that we build on this progress and do not let the UK slip backwards. 

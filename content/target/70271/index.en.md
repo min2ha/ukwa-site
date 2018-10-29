@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Footballer of the Year Awards (@UFOTY2018) on Twitter
-
 Official Twitter account for the Ulster Footballer of the Year awards.

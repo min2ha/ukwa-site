@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Dunfries and Galloway Constabulary
-
 None

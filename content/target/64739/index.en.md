@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Georgian Concert Society
-
 Site of a music society located in Edinburgh that stages challenging and less known works in the genre of Early Music, inviting leading practitioners to Edinburgh for an annual series of concerts.

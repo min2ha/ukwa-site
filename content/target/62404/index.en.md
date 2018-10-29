@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Dumbarton Kilwinning Lodge No. 18
-
 Site of a masonic lodge located in Dumbarton, Dunbartonshire and affiliated with the Grand Lodge of Scotland.

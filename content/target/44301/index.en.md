@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Dead King Mag
-
 Online magazine of poetry, prose and non-fiction from writers who have "experienced or continue to experience precariousness"

@@ -10,6 +10,4 @@
   "start_date": "2017-08-23T09:00:00Z"
 }
 
-# Deeside Activity Park
-
 Site of a multi-activity outdoor pursuits venue based at Aboyne, Aberdeenshire.

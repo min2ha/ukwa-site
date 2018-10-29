@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dalry Thistle Football Club Facebook Page
-
 Facebook page for a Scottish junior football club based in Darly, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories' credibility dented in Dudley after candidate accused of EDL plot
-
 None

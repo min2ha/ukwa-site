@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dawn Furness (Green Party Politician)
-
 Dawn Furness stood as Green Party candidate for Blyth Valley at the 2017 General Election but was not elected.

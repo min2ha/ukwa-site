@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clive Peedell (@cpeedell) on Twitter National Health Party  for Witney 
-

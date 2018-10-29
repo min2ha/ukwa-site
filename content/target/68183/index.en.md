@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Education for Choice: Blog
-
 Blog page of Education for Choice, which supports young people's right to informed choice on abortion. 

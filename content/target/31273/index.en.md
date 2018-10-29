@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Comann Eachdraidh Loch Ròg an Ear
-

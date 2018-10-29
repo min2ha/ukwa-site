@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Boat Building Academy
-
 The Boat Building Academy is a not-for-profit company providing full-time, skills training. The school was founded in 1997 by Commander Tim Gedge, who is still a Director.

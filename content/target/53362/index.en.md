@@ -10,6 +10,4 @@
   "start_date": "2017-05-20T09:00:00Z"
 }
 
-# Blood of the Young
-
 Site of a theatre company based in Glasgow.

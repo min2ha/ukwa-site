@@ -10,5 +10,3 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Buzz Magazine - Wales culture, what's on and entertainment guide
-

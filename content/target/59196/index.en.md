@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liberton Former Pupils' Rugby Football Club
-
 Site of a Scottish rugby football union club based in Liberton, Edinburgh and associated with Liberton High School.

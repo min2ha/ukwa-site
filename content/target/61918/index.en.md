@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swansea City AFC (@SwansOfficial ) on Twitter
-
 Official Twitter account of Swansea City Football Club

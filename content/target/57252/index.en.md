@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Efa Dyfan
-
 Efa Dyfan is a puppet maker from Llanrug, Gwynedd and repicient of Arts Council of Wales Assistance.

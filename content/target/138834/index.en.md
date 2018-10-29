@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Peter Black (Liberal Democrats Assembly Member for South Wales West)
-
 Peter Black is the Liberal Democrat candidate for South Wales West at the 2016 National Assembly Elections.

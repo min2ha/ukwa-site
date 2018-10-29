@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Blogging IT and EDucation
-

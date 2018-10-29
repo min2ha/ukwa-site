@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Peter Stott (@StottPeter) on Twitter
-
 Twitter feed of Peter Stott, a climate scientist at the UK Met Office Hadley Centre.

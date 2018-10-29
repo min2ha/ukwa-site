@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Wales Stronger in Europe
-

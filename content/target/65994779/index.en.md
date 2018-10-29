@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Kent Police Authority
-
 None

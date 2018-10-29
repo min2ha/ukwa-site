@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Boris Johnson’s pitch: a ludicrous fantasy
-

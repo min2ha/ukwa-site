@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Streetonians RFC (@OldStreetRugby) on Twitter
-
 The official Twitter account of Old Streetonians Rugby Football Club.

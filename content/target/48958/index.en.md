@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dufftown Football Club
-
 Site for a Scottish amateur football club based in Dufftown, Moray, Scotland.

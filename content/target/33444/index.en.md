@@ -10,6 +10,4 @@
   "start_date": "2015-12-15T09:00:00Z"
 }
 
-# Partneriaeth Parc Caia Cyf | Caia Park Partnership Ltd
-
 Caia Park Partnership Ltd (CPP) is a community led social enterprise located in the Caia Park, Wrexham. 

@@ -11,6 +11,4 @@
   "subject": "Margaret Thatcher"
 }
 
-# LSE Public Policy Group: The Legacy of Margaret Thatcher
-
 None

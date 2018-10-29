@@ -437,6 +437,4 @@
   "endDateText": "31-01-2010"
 }
 
-# Credit Crunch
-
 This collection of websites, covering the period July 2008 to January 2010 was initiated by staff at the British Library to reflect how the UK has been affected by the global financial crisis. The collection includes the websites of banks, corporations, local governments, consumer and financial advisory groups as well as blogs and commentaries. 

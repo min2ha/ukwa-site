@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ITV: NI and Republic fans plan tribute after fall tragedy
-
 Both Northern Ireland and Republic of Ireland fans are planning to pay tribute to the young man killed in a fall in France with one minute’s applause during their teams’ next games.

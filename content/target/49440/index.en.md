@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Anthony Rhys
-
 Anthony Rhys is Welsh Artist and winner of the Ifor Davies Award, National Eisteddfod 2012.

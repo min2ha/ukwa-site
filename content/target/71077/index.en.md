@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Sheffield RUFC on Pitchero
-
 The official website of Sheffield Rugby Union Football Club.

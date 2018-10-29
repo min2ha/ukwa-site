@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russia Midlands Business Club
-
 The Russia Midlands Business Club was set up to help companies and individuals based in the Midlands establish and expand their business in Russia.

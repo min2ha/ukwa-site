@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hurlford United Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Hurlford, Ayrshire.

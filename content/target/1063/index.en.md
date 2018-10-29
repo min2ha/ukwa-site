@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National General Practice Profiles
-
 None

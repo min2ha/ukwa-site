@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# RNLI Parkfest
-
 Site of a music festival run by Stranraer Royal National Lifeboat Institution [RNLI] and staged at Stranraer.

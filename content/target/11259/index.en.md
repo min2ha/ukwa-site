@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Left Unity
-
 Political party was founded in November 2013, following a call by film director Ken Loach for a new party of the left. The party has branches across Britain and (at May 2014) more than 2,000 members.

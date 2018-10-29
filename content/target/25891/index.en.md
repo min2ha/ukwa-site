@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why the hysteria over Nicola Sturgeon?
-
 None

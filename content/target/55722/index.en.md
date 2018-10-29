@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th July 2017: Leaving the EU: Disabled People’s Services
-
 Report of a Westminster Hall debate on the impact of Brexit on disabled people

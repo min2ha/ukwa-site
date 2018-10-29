@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Education Training Standards Wales (ETS) | Addysg Hyfforddiant Safonau Cymru (ETS)
-
 ETS Wales ensures that programmes of training for youth workers are of a suitably high quality, relevant to the needs of employers, youth workers themselves and the young people with whom they work.

@@ -10,5 +10,3 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Bridgend Ramblers
-

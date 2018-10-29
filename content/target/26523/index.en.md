@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Beware of instant explanations for what went wrong with Labour campaign
-
 None

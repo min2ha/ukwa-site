@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grimsby RUFC on Pitchero
-
 The official website of Grimsby Rugby Union Football Club. The club was founded in 1885 and its clubhouse, bar and grounds are located at Springfield Road, Scartho Village in Grimsby, North East Lincs.

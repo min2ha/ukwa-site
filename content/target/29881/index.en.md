@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Just The Tonic Edinburgh on Facebook
-
 Just The Tonic is a UK-wide comedy club that maintains a venue at the Edinburgh Fringe Festival. This is the official Facebook account.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burghead Thistle Football Club on Facebook
-
 Facebook page of a Scottish junior football club based in Moray, Scotland.

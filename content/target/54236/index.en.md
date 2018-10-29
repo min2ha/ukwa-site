@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Wales Audit Office: Good Practice Exchange | Cyfnewidfa Arfer Da
-
 The Good Practice Exchange blog by the Wales Audit Offcie exists to share knowledge and good practice to support the Welsh public sector to deliver better services.

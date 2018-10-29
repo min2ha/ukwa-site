@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Edward Yi He (@Edward4East ) on Twitter (Conservative  Politician)
-
 Edward Yi He stood as Conservative candidate for Leicester East at the 2017 General Election but was not successful.

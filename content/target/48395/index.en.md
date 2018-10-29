@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Low Carbon Swansea Bay
-
 Low Carbon Swansea Bay (originally Low Carbon Swansea) was established in 2011 by Swansea Environmental Forum to help reduce Swansea's carbon footprint.

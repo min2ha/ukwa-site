@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading F.C. Women
-
 Reading Football Club Women is an English women's football club.

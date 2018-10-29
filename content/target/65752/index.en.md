@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Snowcat Cinema
-
 Snowcat Cinema is independent pop-up cinema operating in the Cardiff area.

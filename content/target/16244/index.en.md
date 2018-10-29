@@ -10,6 +10,4 @@
   "start_date": "2015-01-30T00:00:00Z"
 }
 
-# Ann Conroy Trust, The
-
 <p>The Ann Conroy Trust is a small charity that helps fund research and provides the support and education for those living with Chiari Malformation, Syringomyelia and associated conditions.</p>

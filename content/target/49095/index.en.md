@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Inverness City Football Club
-
 Site  for a Scottish junior football club based in Inverness, Highland, Scotland.

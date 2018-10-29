@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Support
-
 The Grenfell Support website is here to help people affected by the tragedy at Grenfell Tower find information about housing, financial help, health and other services available to residents.

@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# Patient
-
 <p>Patient.co.uk is an independent health site.</p>

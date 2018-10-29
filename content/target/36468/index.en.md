@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Reading list on UK-EU relations 2013-16: reform, renegotiation, withdrawal
-
 The Commons Library has compiled a selection of books, journal and press articles, think tank, parliamentary and library publications relevant to the UK's renegotiation of its membership of the European Union. .

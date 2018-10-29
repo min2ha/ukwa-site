@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Unofficial Amstrad WWW Resource
-
 A collection of pages dedicated to the Amstrad CPC.

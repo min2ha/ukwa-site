@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Gairloch Heritage Museum
-
 Site of a museum located in Gairloch, Wester Ross, HIghland, focusing on the human history of the area around the village.

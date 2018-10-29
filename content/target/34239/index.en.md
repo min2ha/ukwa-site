@@ -10,5 +10,3 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Friends of Carrog Station
-

@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T10:00:00Z"
 }
 
-# Tate
-
 The Tate is an institution that houses the United Kingdom's national collection of British art, and international modern and contemporary art. There are Tate Britain, Tate Modern, Tate Liverpool and Tate St Ives.

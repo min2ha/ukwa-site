@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Red and black umbrella
-
 The Red and Black Umbrella is a squatted anarchist social centre in Cardiff.

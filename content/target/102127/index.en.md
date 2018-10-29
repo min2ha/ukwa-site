@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# arthurlloyd.co.uk - The Music Hall and Theatre Site dedicated to Arthur Lloyd 1839 - 1904
-
 This site is dedicated to Arthur Lloyd, actor, comedian, singer, songwriter, and music hall performer 1839 - 1904. There are currently over 2,400 pages of information on this site and more than 11,000 archive images. 

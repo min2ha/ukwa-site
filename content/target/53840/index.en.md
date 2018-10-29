@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bonnie Craven (@BonnieCraven) on Twitter (Labour Party Politician)
-
 Bonnie Craven stood as Labour candidate for Sutton and Cheam at the 2017 General Election but was not elected.

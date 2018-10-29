@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory treasurer threatens to sue Ed Miliband over tax row 
-
 None

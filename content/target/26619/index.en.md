@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour’s election strategy utterly failed, and it has to admit as much
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU council president: it's hard Brexit or no Brexit at all
-
 Donald Tusk scotches Boris Johnson’s argument that the UK could strike a better deal with the EU after Brexit.

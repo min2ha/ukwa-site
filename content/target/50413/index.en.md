@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Dvorak Society
-
 The Dvořák Society for Czech and Slovak Music is devoted to the musical arts of all Czech and Slovak composers and performers, past and present. 

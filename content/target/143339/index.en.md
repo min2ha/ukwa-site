@@ -10,6 +10,4 @@
   "start_date": "2007-03-26T00:00:00Z"
 }
 
-# Independence first
-
 None

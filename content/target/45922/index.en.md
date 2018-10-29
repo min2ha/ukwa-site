@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# British eSports Association
-
 Since being established in June 2016, they have engaged with the eSports community, both on a national and global level, and looked into areas of potential development.

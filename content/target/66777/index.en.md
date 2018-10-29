@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Thistle Lodge No. 62
-
 Site of a masonic lodge located in Dumfries, Dumfries & Galloway and affiliated with the Grand Lodge of Scotland.

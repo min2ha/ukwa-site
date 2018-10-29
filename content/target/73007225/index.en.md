@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Babraham Bioscience Technologies
-

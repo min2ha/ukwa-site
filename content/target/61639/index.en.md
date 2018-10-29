@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint George's Tillydrone Church
-
 Site of a Church of Scotland parish church at Tillydrone, Aberdeen.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Ryan Lochte made up robbery story after Rio gas station altercation – reports
-
 US Olympic swimmer’s three companions to be questioned by Brazil police as Rio spokesman says: ‘They had fun, they made a mistake, life goes on’

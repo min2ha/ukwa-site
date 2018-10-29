@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Simmer Down Festival
-
 Rooted in north Birmingham, Simmer Down Festival is a free family festival which is located in the beautiful surroundings of Handsworth park. The festival celebrates Birmingham’s rich cultural diversity by paying tribute to the centrality of reggae and other musical genres that have contributed to Birmingham as an international city of culture. The festival’s inter-cultural programme features internationally acclaimed artists alongside the very best in homegrown talent.

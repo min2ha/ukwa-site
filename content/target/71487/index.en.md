@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St John's Cathedral, Oban
-
 Site of a Christian cathedral church and its congregation belonging to the Scottish Episcopal denomination and located in Oban, Argyll & Bute.

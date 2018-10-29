@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB York (@SfBYorkUni) on Twitter
-
 York branch of Students for Britain

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jim Hume MSP LibDem (jimhumeLibDem) on Twitter
-
 The Twitter profile of Jim Hume, the Scottish Liberal Democrats candidate for the South Scotland list in the 2016 Scottish Parliament election.

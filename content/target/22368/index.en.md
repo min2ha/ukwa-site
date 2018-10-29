@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# Havens Community, The
-
 The Havens is an administrative area, composed of the former parish units of Haroldston West, Walton West and Talbenny, as well as part of Hasguard and Walwyns Castle parishes in Pembrokeshire.

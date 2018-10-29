@@ -10,5 +10,3 @@
   "start_date": "2014-11-19T06:00:00Z"
 }
 
-# Private Rented Housing Panel, The (PRHP)
-

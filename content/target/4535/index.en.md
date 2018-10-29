@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# NASUWT sends messages of condolence to South Africa's teachers
-
 <p>Noting messages of condolence sent by NASUWT, the largest teaching union in the UK, to sister unions in South Africa (SADTU, NAPTOSA, NTEU and SAOU) on the death of Nelson Mandela. The report notes Mandela's commitment to children and education.</p>

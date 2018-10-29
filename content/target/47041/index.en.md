@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: Irish minister says UK trying to 'divorce and keep all the assets'
-

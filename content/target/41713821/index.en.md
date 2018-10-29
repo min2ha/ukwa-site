@@ -10,5 +10,3 @@
   "start_date": "2011-01-11T00:00:00Z"
 }
 
-# project-ten | contemporary art + design gallery
-

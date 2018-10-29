@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Anglican Communion News Service ACNS: Church of Ireland marks Easter Rising Centenary
-

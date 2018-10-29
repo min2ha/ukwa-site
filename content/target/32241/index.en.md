@@ -11,8 +11,6 @@
   "subject": "IT Collection"
 }
 
-# EPCC, University of Edinburgh
-
 EPCC's mission is to accelerate the effective exploitation of novel computing throughout industry, academia and commerce.
 
 This is achieved through a range of activities spanning undergraduate and advanced training programmes, service provision, industrial affiliation, research and contract work.

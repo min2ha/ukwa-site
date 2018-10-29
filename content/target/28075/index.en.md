@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Brighton Fringe Festival
-
 Website for the Laughing Horse Venues at the Brighton Fringe Festival.

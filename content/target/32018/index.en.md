@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Evanstown and Gilfach Goch Historical society
-

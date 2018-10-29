@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Iron Oxide
-
 <p>Website of Iron Oxide theatre company who are performing “Exhibit B”, a human installation on imperialism in Africa and racism at the 2014 Edinburgh International Festival as part of Culture 2014.</p>

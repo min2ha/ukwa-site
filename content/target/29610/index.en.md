@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peckham Literary Festival
-
 Peckham Literary Festival

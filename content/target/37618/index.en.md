@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Four in five CBI members believe the UK should remain in the EU
-

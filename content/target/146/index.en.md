@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mid Essex Hospital Services
-
 None

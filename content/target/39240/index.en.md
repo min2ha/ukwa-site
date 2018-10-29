@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Graeme Brooks - Scottish Conservative Activist and Candidate on Facebook
-

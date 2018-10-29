@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: EU (Withdrawal) Bill: clauses 9, 8 and 17
-
 This paper addresses clauses 9, 8 and 17 of the EUW Bill, each of which contains a delegated power for ministers to make secondary legislation, for specific purposes, in order to prepare for Brexit.
 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Addiction Treatment Centres: Experts Are Concerned about Youngsters Addicted to Gaming
-
 Website for a company that provides information on addition but also provides access to treatment centres 

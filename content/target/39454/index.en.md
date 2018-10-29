@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Art School
-
 Site of a music, social and arts venue run by Glasgow School of Arts Students' Association

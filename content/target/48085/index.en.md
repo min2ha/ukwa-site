@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip and St. James Church, Bath
-
 Official website of St. Philip and St. James Church, Bath.

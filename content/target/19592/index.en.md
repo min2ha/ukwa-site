@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Kinnock on Facebook
-
 Stephen Kinnock is the Labour candidate for Aberavon.

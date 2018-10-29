@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church, Crawley
-
 St Andrew's is a contemporary Evangelical Anglican Church, based in Furnace Green Crawley.

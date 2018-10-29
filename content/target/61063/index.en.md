@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ross High Rugby Football Club
-
 Site of a Scottish rugby union football club based in Tranent, East Lothian

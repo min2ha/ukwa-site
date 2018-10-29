@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# SevernNet
-
 SevernNet is a new enterprise bringing together businesses and community enterprises from Portbury, Avonmouth and Severnside.

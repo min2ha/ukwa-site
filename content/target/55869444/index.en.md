@@ -10,5 +10,3 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Dominic Shellard (DMUVC) on Twitter
-

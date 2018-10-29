@@ -10,6 +10,4 @@
   "start_date": "2013-11-28T16:00:00Z"
 }
 
-# Creative Auto Enrolment
-
 None

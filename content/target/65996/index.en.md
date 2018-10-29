@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Forth Valley Alcohol and Drug Partnership
-
 Site of an organisation based in the Forth valley applying a strategy which ensures that the appropriate range of treatment options is provided for, and available, at point of need, and ensures the provision of the appropriate range of treatment options, required to promote the recovery of those affected by substance use problems, and their availability at point of need.

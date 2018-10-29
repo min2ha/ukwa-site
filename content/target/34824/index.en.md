@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Rising Oral History Collection, The
-
 Irish Life and Lore has produced an oral history collection centred on the Easter Rising, 1916. The complete oral history collection comprises 245 recordings, with an accompanying 240 page volume.

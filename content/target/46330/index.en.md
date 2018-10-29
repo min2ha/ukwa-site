@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Potential Effect on Peace and Security of the United Kingdom Leaving the European Union
-
 This House of Lords Library briefing provides background reading in advance of the question for short debate on Tuesday 18 October 2016 on the potential effect on peace and stability in Europe and around the world of the United Kingdom leaving the European Union.

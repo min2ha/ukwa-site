@@ -10,8 +10,6 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# AXON
-
 At AXON, we simplify complex information to improve outcomes in healthcare, bringing together the right people with the right expertise to provide our clients with integrated, multichannel communications solutions.
 
 As an agency, we are passionate about healthcare communications. Our expertise includes medical communications, public relations, clinical trial services and market access communications/consultancy for pharmaceutical, biotech, medical device, animal health and functional food companies.

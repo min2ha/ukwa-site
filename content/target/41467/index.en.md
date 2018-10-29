@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Britain faces a 'recession of its own making' if we vote for Brexit, David Cameron and George Osborne warn
-

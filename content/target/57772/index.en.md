@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Tutor Hunt
-
 A tuition agency that covers a wide variety of subjects based in the UK 

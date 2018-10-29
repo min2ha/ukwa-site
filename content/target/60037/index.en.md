@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Khizra Foundation
-
 Khizra Foundation was formed in 2010 as an initiative to tackle the lack of any meaningful representation of the Muslim community in the heritage sector.

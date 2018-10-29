@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Riding Of Yorkshire Health and Wellbeing Board
-
 None

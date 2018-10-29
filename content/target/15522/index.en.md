@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# STEPS Centre: Ebola & Animal-to-Human Diseases
-
 None

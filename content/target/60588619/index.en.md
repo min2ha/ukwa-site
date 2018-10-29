@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Who were the Nuns? A Prosopographical Study of the English Convents in Exile 1600-1800
-
 None

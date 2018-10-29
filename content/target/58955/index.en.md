@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Al-Furqan Mosque Glasgow
-
 Site of an Islamic place of worship in western-central Glasgow.

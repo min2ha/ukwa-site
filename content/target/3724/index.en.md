@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Petersfield Post
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: The election results of 2010 and 2015 compared - what's changed in 5 years? 
-
 None

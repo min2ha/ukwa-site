@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Recruitment & Employment Confederation (REC): REC Manifesto 2015
-
 The Recruitment &amp; Employment Confederation (REC) is a trade body within the recruitment industry and the key activities are lobbying and meeting government, campaigning, business training and advice to members.

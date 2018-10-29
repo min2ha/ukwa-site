@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 1ith October 2018: Arts: Impact of Brexit
-
 Debate on the allegedly dire impact of Brexit on the arts due to loss of access to EU funding and the ending of free movement.

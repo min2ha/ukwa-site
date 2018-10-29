@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# WPA (@WelshPolArch) on Twitter 
-
 This is the twitter feed of the Welsh Political Archive at the National Library of Wales.

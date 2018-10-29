@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Right To Life
-
 Right To Life (RTL) is a UK based campaigning organisation for the right to life of every human being from conception to natural death.

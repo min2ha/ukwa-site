@@ -10,7 +10,5 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Ledbury & District Civic Society
-
 Ledbury and District Civic Society exists to ensure Ledbury’s heritage is at the heart of our present and future.
 As a charitable trust we are a non-political organisation. Our allegiances are to Ledbury and the vital part its heritage plays.

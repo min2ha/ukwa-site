@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Wales & Co 
-
 Wales & Co Social Media was established in 2012 and is a maker of Television, Radio & Online programmes and have strived to reflect the contemporary Welsh landscape from a multitude of angles.

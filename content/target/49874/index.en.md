@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# HIV-AIDS Carers & Family Service Providers
-
 Site of a charitable organisation working throughout Scotland and providing a range of practical and emotional services to carers, families, partners, friends and relatives who are affected or infected by HIV or AIDS.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Angela Jones-Evans (@AJonesEvans) on Twitter 
-
 Conservative Parliamentary Candidate for Newport West at the 2017 General Election.

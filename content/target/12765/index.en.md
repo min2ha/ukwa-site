@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# FROM SCOTLAND WITH LOVE - KING CREOSOTE
-
 <p>From the Domino Records website, information about the soundtrack album by King Creosote and accompanying tour. The album was released by Domino records on the 24th July 2014.</p>

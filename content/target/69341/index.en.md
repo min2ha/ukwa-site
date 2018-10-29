@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Alphonsus
-
 Site of a Scottish Roman Catholic parish church located in Calton, Glasgow.

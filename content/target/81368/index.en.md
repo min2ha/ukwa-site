@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May cannot recommend Brexit deal says DUP
-
 The DUP leader said Theresa May could not "in good conscience" recommend a Brexit deal that placed a trade barrier on businesses moving goods from one part of the UK to another.
 

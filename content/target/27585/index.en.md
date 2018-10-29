@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Dan Jarvis rules himself out of Labour leadership race
-
 None

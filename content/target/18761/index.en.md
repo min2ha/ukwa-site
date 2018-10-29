@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Events: Magna Carta and the Crises of 1214-1217: Rebellion, Invasion and Civil War
-

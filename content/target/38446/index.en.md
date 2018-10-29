@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Access to Politics (@AP4DP_Scot) on Twitter
-
 Twitter profile of Access to Politics, Scotland's project to open up access to elected office for disabled people - run by Inclusion Scotland.

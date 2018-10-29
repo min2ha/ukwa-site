@@ -10,5 +10,3 @@
   "start_date": "2014-06-05T00:00:00Z"
 }
 
-# Cynon Valley Museum & Gallery | Amgueddfa ac Oriel Cwm Cynon
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage speaks out about gay marriage and tax avoidance on Newsnight
-
 None

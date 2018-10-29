@@ -10,5 +10,3 @@
   "start_date": "2015-03-04T09:00:00Z"
 }
 
-# Labour tradition and the politics of paradox, The
-

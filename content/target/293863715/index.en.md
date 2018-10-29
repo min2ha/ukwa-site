@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Eloise Williams
-
 Writer lives in west Wales.

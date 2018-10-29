@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit has the edge in the referendum battle because its voters are more likely to turn out, David Cameron's election mastermind declares after studying new poll     
-

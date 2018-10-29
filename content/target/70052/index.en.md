@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Contact Music
-
 Entertainment News and Reviews

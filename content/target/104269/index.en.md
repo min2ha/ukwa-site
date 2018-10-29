@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Crisis
-
 None

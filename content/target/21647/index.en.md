@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Danny Alexander and his liberated lunchbox
-
 None

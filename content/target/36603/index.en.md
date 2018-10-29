@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Women Connect First 
-
 Women Connect First was founded to empower Black & Minority Ethnic women in Cardiff and South East Wales by offering a range of services and training in order to improve livelihoods and employability and for them to make a positive contribution to Welsh Society.

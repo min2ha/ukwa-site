@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nouse: Doom-mongering: European question continues to divide government
-
 Nouse: Doom-mongering: European question continues to divide government

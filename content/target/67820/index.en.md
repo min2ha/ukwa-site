@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Design and Implementation Support Tools for Integrated Local Land use, Transport and the Environment (DISTILLATE)
-
 DISTILLATE - Design and Implementation Support Tools for Integrated Local LAnd use, Transport and the Environment - is aimed at overcoming the barriers to the effective development and delivery of sustainable urban transport and land use strategies.

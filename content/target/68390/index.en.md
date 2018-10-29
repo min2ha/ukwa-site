@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Higher taxes, spending bungs, pay caps, gender quotas. Is this really the brave new Brexit Britain we want?
-
 Britain is now set to leave the EU in March 2019. Daniel Hannan asks if the country is  then going to mope about on its doorstep, copying the corporatism and dirigisme that it has just left behind?

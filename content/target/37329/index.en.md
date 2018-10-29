@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ipsos MORI: Little change in public’s views towards Europe in last month – public still expects ‘remain’ to win
-
 An opinion poll on whether the UK will remain as part of the EU. It also has a survey of who the most influential individuals are in influencing the vote. 

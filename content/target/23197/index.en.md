@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Healthwatch Oldham: Risk of Ebola Outbreak in the UK still low
-
 Website promoting involvement of local communities with health and social care services.

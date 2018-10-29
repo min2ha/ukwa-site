@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12 October 2016: Parliamentary Scrutiny of Leaving the EU
-
 An emergency debate on the process of leaving the EU in the House of Commons. The House resolved that there should be a full and transparent debate on the Government’s plan for leaving the EU; and calls on the Prime Minister to ensure that this House is able properly to scrutinise that plan for leaving the EU before Article 50 is invoked.

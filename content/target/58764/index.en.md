@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City Life Magazine
-
 City Life is a lifetime magazine for the City of Cardiff.

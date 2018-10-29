@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Centre for the Analysis of South African Social Policy (CASASP), University of Oxford
-
 None

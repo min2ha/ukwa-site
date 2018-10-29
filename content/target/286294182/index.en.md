@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Internet Watch Foundation (IWF), The
-
 <p>The Internet Watch Foundation (IWF) was established in 1996 by the internet industry to provide the UK internet hotline for the public and IT professionals to report criminal online content in a secure and confidential way.</p>

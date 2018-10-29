@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Aggressive Health Shop
-
 Online store selling health supplements

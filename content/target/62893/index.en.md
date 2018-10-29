@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Laurence Parish Church, Forres
-
 Site of a Church of Scotland parish church at Forres, Moray.

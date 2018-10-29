@@ -10,6 +10,4 @@
   "start_date": "2014-09-10T07:00:00Z"
 }
 
-# House Magazine, The
-
 <p>Interviews with MPs and other influential figures in British politics.</p>

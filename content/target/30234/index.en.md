@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Rhwydwaith Cyfiawnder Cymru | Justice Wales Network
-
 A body that promotes bilingualism in the justice sector.

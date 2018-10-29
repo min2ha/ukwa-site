@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: EU must respect UK in Brexit talks
-
 UK Prime Minister Theresa May said the EU must treat the UK with more "respect" in Brexit negotiations following their rejection of the Chequers plan. In a statement at Downing Street she said for EU leaders to reject her plan with no alternative at this "late stage of negotiations" was "not acceptable".
 
 .

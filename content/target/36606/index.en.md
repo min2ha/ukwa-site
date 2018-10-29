@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Great Scottish Tapestry
-
 Site resenting promotion of and information about the creation of a tapestry based on the history of Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron will encourage Britain’s enemies if he cuts defence spending, warn former Nato chiefs
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Dyffryn School, Port Talbot
-
 Comprehensive school in Port Talbot due to close in 2018.

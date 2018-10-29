@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Radio X: Stephen Hawking
-
 Stephen Hawking: World celebrates life of cosmology's brightest star.

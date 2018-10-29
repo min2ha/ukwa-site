@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Campaign for Press and Broadcasting Freedom: Media Manifesto 2015
-
 The Campaign for Press and Broadcasting Freedom (CPBF) works for a more accountable, freer and diverse media.

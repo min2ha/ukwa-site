@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: Labour wins back voters in South Thanet but not Glasgow
-
 None

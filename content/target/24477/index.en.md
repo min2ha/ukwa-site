@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP: 'Immigration at top of NI concerns'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Lodge Cumberland Kilwinning No. 217
-
 Site of a masonic lodge located in Cumbernauld, Lanarkshire, and affiliated with the Grand Lodge of Scotland.

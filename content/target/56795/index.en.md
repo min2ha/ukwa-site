@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# MacArts Centre
-
 Site of a community perfomance venue and theatre in Galasheils, Scottish Borders.

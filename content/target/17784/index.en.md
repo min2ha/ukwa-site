@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Strip companies of government contracts, Labour policy chief says
-
 None

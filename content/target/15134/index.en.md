@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Origins Rural Network
-
 <p>Local Origins Rural Network website is a free space for everyone to share with others interest in growing and eating local food; supporting local producers; learning new skills, modern and traditional; valuing local natural &amp; historical environment; and working towards creating a more sustainable way of life in North Argyll.</p>

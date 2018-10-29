@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady Queen of Peace Parish, Llanelli
-

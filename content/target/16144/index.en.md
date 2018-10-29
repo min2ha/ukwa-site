@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T00:00:00Z"
 }
 
-# Untold London
-
 <p>A website dedicated to various communities living in London.</p>

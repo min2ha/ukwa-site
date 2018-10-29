@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newcastle United FC () on Twitter
-
 The official Twitter account of Newcastle United FC.

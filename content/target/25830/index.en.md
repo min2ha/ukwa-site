@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: My cut-out-and-keep guide to the manifestos
-
 None

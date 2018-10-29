@@ -10,5 +10,3 @@
   "start_date": "2010-03-08T00:00:00Z"
 }
 
-# Robin Huw Bowen : Meistr y Delyn Deires - Master of the Welsh Triple Harp
-

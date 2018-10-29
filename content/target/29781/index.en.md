@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wimborne Literary Festival
-
 Festival

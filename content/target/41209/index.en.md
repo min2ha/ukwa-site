@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Decorated School, The
-
 Based at the Faculty of Education, University of Cambridge, they are researching the relationships between architects, artists and educators through the art which became part of the fabric of school buildings and their immediate environments in the 20th century. They are interested in understanding more about how the art came to be commissioned, how the subject matter was decided, what was its function, its life story and what ideas about education or childhood.

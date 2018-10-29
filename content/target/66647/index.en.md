@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# TfL Traffic News (@TfLTrafficNews) on Twitter
-
 Official @TfL feed for news about traffic in London. Never use a mobile while driving.

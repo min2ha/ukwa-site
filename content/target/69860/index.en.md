@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'I guarantee my entire wealth that we'd get free trade': Britain's 12th richest man who gave £3m to leave campaign says no deal Brexit is best for UK
-

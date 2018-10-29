@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stony Stratford & MK11 News
-

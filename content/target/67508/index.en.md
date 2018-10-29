@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Brackley Festival of Motorcycling 
-
 Website for the Brackley Festival of Motorcycling

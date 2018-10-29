@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Will Theresa May be the next Tory leader to be bulldozed by the Europhobes?
-

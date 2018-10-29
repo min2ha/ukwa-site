@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Council meeting December 2015: Prime Minister's statement
-
 David Cameron's statement to the House of Commons on the European Council meeting held in December 2015. The Council focused on 3 issues – migration, terrorism and the UK’s renegotiation.

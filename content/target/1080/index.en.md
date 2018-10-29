@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Quality Assurance Reference Centre
-
 None

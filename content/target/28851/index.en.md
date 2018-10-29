@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Centre for Applied Marine Sciences (CAMS) 
-
 Centre of excellence based at Bangor University.

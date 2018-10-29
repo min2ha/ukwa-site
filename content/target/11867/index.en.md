@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robbie Renwick (@RobbieRenwick) on Twitter
-
 The official twitter profile of althete Robbie Renwick, swimmer.

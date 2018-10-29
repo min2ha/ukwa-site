@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# John Gray Centre
-
 Site of the libraries, museums and archives services of East Lothian Council

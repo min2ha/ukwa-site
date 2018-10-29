@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Co-operative Party on Facebook
-
 None

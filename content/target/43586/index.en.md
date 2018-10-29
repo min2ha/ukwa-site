@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post: Stronger In’s #Votin EU Referendum Youth Campaign Is... ‘Interestin’
-
 Stronger In’s #Votin EU Referendum Youth Campaign Is... ‘Interestin’

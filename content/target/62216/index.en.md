@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Shrewsbury Town F.C.
-
 Shrewsbury Town Football Club is a professional football club in Shrewsbury, Shropshire, England, which plays in League One, the third tier of English football. The club was formed in 1886 and was elected to the Football League in 1950.

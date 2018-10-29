@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# University of Salford: Worsley New Hall
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Wales China Schools
-
 Wales China Schools is a partnership between Cardiff Confucius Institute and Lampeter Confucius Institute, part-funded by the Chinese Authorities in collaboration with the Welsh Assembly Government, the British Council Wales and the National Centre for Languages (CILT Cymru), to deliver Mandarin Chinese and Chinese Culture to secondary and primary schools across Wales.

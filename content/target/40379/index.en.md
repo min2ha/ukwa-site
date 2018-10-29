@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Scottish Mining Website
-
 Site of a group providing information on the history of Scottish on all aspects of life in mining towns and villages, working conditions, accidents and strikes, housing, health and leisure, as well as lists of names of those involved in the coal, iron and shale mining industries in Scotland.

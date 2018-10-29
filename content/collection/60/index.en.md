@@ -16204,6 +16204,4 @@
   "endDateText": "01-07-2015"
 }
 
-# UK General Election 2015
-
 Collection of websites, curated by staff at the Legal Deposit Libraries, focussing on the 2015 UK General Election which was held on 7 May 2015 to elect 650 members to the House of Commons. It was the first general election at the end of a fixed-term Parliament. 

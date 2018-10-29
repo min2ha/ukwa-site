@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# More United
-
 More United uses crowdfunding to support political candidates who stand by its values, regardless of their party.

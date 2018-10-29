@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Adam Boulton (adamboultonSKY) on Twitter
-

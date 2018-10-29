@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Burntisland Swimming Club
-
 Site of a competitve swimming club based in Burntisland Fife.

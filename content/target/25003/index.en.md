@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: General Election 2015: Tottenham and Hornsey & Wood Green
-
 None

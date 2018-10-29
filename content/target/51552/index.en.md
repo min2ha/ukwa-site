@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Black Isle Brewing Company
-
 Site of a Scottish brewer in the Black Isle, Highlands, its visitor centre, the beer that it brews and an annual beer festival in October.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Brunel University London: Magna Carta Today Talks Series
-

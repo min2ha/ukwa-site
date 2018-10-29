@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Church of Scotland
-
 Site of a Church of Scotland parish church at Corby, Northamptonshire.

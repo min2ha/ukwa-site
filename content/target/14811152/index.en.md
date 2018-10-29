@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Fairies by Leeca
-
 None

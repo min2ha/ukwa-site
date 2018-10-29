@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford VR: A University of Oxford spinout
-
 A University of Oxford spinout conducting research into virtual reality as treatment for mental health problems

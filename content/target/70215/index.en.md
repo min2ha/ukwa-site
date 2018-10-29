@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Larne Football Club (@larnefc) on Twitter
-
 The official Twitter account of Larne Football Club. Established 1889.

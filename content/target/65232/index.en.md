@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Dahlia Publishing (@DahliaBooks) on Twitter
-
 A boutique publisher based in Leicester, championing regional and diverse voices in literature.

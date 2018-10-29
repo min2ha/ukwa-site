@@ -10,6 +10,4 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# Institute of English Studies: School of Advanced Studies, University of London
-
 The old (archived) website for the Institute of English Studies at the School of Advanced Study, the national hub for the humanities in the UK.

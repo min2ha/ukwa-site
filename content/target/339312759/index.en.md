@@ -10,5 +10,3 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Comisiwn Cymru ar y Newid yn yr Hinsawdd | Climate Change Commision for Wales
-

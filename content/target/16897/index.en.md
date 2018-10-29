@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Churches Together in Britain and Ireland (CTBI) Elections
-
 Election page for a coalition of Christian denominations and agencies campaigning on five platforms: wealth and inequality, home, children and young people, livelihoods, and the environment and climate.

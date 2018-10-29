@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Mrs Oliphant
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Beulah United Reformed Church Rhiwbina
-

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Positive response from EU needed to secure our continent's shared prosperity
-
 Says that The EU Commission must respond positively to the Chequers white paper to ensure our continued strong economic ties and avoid sustained economic damage.
 

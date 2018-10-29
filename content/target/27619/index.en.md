@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: I am ‘optimistic’ I can become Prime Minister
-
 None

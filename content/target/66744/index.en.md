@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-#  UK Association of Fire Investigators
-
 The UK Association of Fire Investigators (formally known as the IAAI-UK) was formed on the 31 January 2003 at an inaugural meeting at City Hall, London. 

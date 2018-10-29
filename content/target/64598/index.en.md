@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stevenston Ardeer Parish Church on Facebook
-
 Site of a Church of Scotland parish church at Stevenston, Ayrshire.

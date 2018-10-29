@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Cartrefi i Gymru | Homes for Wales
-
 The Homes for Wales campaign was established to ensure that housing is a key political issue in the 2016 National Assembly for Wales elections. Homes For Wales is a Coalition of housing bodies within Wales.

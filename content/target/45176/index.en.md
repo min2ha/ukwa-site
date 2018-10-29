@@ -10,6 +10,4 @@
   "start_date": "2016-08-26T10:00:00Z"
 }
 
-# Acute Myeloid Leukemia Global Portal (AML Global Portal)
-
 The AML Global Portal (AGP) is an evidence-based online resource for healthcare professionals interested in acute myeloid leukemia (AML)

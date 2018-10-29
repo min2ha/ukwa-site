@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Prima: Loose Women's body positivity campaign gets huge response on social media
-
 Prima: News article on body positivity 

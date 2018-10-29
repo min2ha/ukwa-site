@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on parliament and Brexit: Mrs May’s legislative fatberg
-

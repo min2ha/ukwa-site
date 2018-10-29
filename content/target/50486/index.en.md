@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# NappyValleyNet
-
 NappyValleyNet launched in 2009. Our aim? To create a gorgeous mash-up of your best friend, your next door neighbour and that well-connected schoolgate mum; all wrapped up in a web site!

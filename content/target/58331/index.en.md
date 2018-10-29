@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Delivering Homes for Wales: Community Housing Cymru Manifesto
-

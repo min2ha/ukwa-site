@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Business: The impact of exiting the European Union on higher education inquiry
-
 The impact of exiting the European Union on higher education inquiry details.

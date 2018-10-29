@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: I cannot stress too much that Britain is part of Europe – and always will be  
-

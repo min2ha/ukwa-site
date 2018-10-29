@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandra Osborne (@VoteSandra2015) on Twitter
-
 The twitter profile of Sandra Osborne, Scottish Labour Parlimentary candidate for Ayr, Carrick and Cumnock.

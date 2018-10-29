@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Strathaven Rankin & Chapelton Parish Churches
-
 Site of a Church of Scotland church at Strathaven, Lanarkshire for the parishes of Rankin, Stathaven, and Chapelton.

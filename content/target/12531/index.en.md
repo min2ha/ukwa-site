@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruby Harrold (RubyHarrold) on Twitter
-
 The twitter profile of gymnast Ruby Harrold, member of England's Women's Artistic Team for the Glasgow 2014 Commonwealth Games.

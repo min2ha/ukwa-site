@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Chapel Royal, The
-
 The Chapel Royal at Hampton Court Palace is part of the Ecclesiastical Household of Her Majesty the Queen. The Chapel was built in the late 1520s and has a continued tradition of choral music.

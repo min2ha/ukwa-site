@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Southern Upland Way
-
 Site providing information for people wishing to walk the route of the Southern Upland Way, a tourist / leisure walking path from Portpatrick, Dumfries & Galloway to Cockburnspath, Scottish Borders.

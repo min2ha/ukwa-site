@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# York Vision: Arguing why Britain should leave the EU
-
 Opinion piece explaining why the author thinks that the UK would be a better country outside the EU.  

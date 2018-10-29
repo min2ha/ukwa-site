@@ -10,5 +10,3 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Welsh Marches Humanist Group
-

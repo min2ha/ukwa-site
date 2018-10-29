@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Llaeth Cymreig | Welsh Milk
-
 The Llaeth Cymreig (Welsh Milk) is a co-operative with around 100 members, with the profits returned to dairy farmers in Carmarthenshire, Ceredigion and Pembrokeshire.

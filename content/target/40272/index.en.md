@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# St Andrews Preservation Trust
-
 Site of a an organisation dedicated to the built heritage of the town of St. Andrews in Fife, Scotland.

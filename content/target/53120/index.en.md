@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Department of Politics and International Studies (POLIS): Talking Politics
-
 A podcast related to UK politics.

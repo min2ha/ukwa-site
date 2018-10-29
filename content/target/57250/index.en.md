@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# eFestival Forums
-
 eFestival forum is an online enthusiast community concerned with music festivals in the UK. The forum discusses the large UK music festivals like Glastonbury, Leeds and Reading whilst also focusing on smaller UK festivals.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# University of Strathclyde
-
 Official website of the University of Strathclyde in Glasgow.

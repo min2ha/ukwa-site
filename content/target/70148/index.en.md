@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mid Ulster Ladies Football Club
-
 The official Twitter account of Mid Ulster Ladies Football Club. Mid Ulster Ladies FC was established in 2000 and has competed since its inauguration in the Northern Ireland Women’s Football League and NIFL Women's Premiership.

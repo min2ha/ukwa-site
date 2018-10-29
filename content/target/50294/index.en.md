@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Roman Vindolanda and Roman Army Musuem
-
 The Vindolanda Trust is an independent charity that can only continue to excavate, conserve, research and educate, with the money it raises from visitors to the two sites. 

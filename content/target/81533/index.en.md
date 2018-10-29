@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Times, The: Parenting is to blame for the gender pay gap
-
 An article about parenting and the gender pay gap

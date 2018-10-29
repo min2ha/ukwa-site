@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Sarah Gayle Key
-
 Sarah Gayle Key is an artist from Ontario who currently resides in Caernarfon. Her drawings, paintings and printmaking is inspired by natural and architectural form. 

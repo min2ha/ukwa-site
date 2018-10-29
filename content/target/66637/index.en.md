@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Maxi Caledonian Limited
-
 The website of Maxi Caledonian Limited, a holding company that - through its subsidiaries - provides construction services, haulage, warehousing and real estate development services. The company is based in Irvine, Scotland.

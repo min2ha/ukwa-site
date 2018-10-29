@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Rebuild of "irreparable" Glasgow School of Art estimated at over £100 million
-
 Article about the second fire at Glasgow School of Art on 15 June 2018.

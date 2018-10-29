@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Magna Carta 2015: Three-day conference to mark unveiling of new Lincoln Castle exhibition centre
-

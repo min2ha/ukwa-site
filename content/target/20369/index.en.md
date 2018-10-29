@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Freedom of Information | Scotlands grassroots fortnightly news bulletin
-
 A Scottish news site with a pro-independence slant.

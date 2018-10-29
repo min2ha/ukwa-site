@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Kent County Council: News Archive
-

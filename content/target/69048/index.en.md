@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Cardiff University Purcell Singers, The
-
 The Cardiff University Purcell Singers is Cardiff University's largest and oldest student run choir.

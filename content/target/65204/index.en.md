@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Unionist MP Lady Sylvia Hermon expects to see border poll
-
 Northern Ireland's only anti-Brexit unionist MP said she now believed she would see a border poll in her lifetime because of the decision to leave the European Union.

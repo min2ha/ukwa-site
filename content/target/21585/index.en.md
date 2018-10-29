@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Scott-Hayward
-
 Mike Scott-Hayward, Independent Sovereign Democratic Britain candidate for North East Fife in the 2017 general election.

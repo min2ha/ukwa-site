@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clair Braund on Facebook (UKIP candidate for Birmingham Ladywood)
-

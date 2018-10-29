@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Ross (@douglas4moray) on Twitter
-
 Twitter profile of Douglas Ross, Scottish Conservative and Unionist Party candidate for Moray in the 2017 general election.

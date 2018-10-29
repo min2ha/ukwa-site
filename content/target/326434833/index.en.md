@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Peski
-
 Peski is an independent record label and music publisher.

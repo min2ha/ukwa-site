@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# a book about death, Wales
-
 a book about death, Wales was an exhibition held at the Royal Cambrian Academy in Wales. 

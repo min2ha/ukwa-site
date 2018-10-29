@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Church of Scotland: Church of Scotland urges politicians to attend service of reconciliation after referendum vote
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour plans to set up child protection unit in government, says Cooper
-
 None

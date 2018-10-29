@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# North Edinburgh Arts
-
 Site of a community venue with studios, theatre, recording studio, gallery, offices and a café, in the Muirhouse area of north west Edinburgh.

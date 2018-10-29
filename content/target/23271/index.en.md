@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nick Webb (@ndwebb) on Twitter (Conservative candidate for Newport West)
-

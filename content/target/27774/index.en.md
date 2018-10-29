@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Britain's Got Talent winning dance group Diversity to open Lincoln Magna Carta event
-
 None

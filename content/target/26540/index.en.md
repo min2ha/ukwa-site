@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Coalition red lines: the non-negotiable policies of each party
-
 None

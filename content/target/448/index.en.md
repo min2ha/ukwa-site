@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bath and NE Somerset LINk
-
 None

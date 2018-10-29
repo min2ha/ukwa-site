@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# St Mary's University College
-
 Official website of St Mary's University College, Belfast.

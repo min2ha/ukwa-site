@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Early Tibet
-
 Notes, thoughts and fragments of research on the history of Tibet

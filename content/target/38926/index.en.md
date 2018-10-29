@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# British Dental Assocation (BDA): Improving oral health for all in Wales: our manifesto
-

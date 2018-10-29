@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Liverpool School of Tropical Medicine
-
 Official website of the Liverpool School of Tropical Medicine.

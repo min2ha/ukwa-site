@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ettie Spencer (@ettiespencer) on Twitter
-
 The Twitter profile of Ettie Spencer, the Scottish Liberal Democrats candidate for East Lothian in the 2016 Scottish Parliament election.

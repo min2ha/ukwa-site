@@ -10,5 +10,3 @@
   "start_date": "2014-11-11T00:00:00Z"
 }
 
-# Displaced People in Action | Alltudion ar Waith
-

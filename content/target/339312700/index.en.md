@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Easter 1916
-
 This website provides a general outline of the events of Easter week, 1916. It contains information on the civilians killed during the Easter Rising as well as the text of Patrick Pearse's graveside oration at the funeral of Jeremiah O'Donovan Rossa.

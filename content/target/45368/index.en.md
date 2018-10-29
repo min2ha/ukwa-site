@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Inspiration Awards for Women
-
 The Inspiration Awards for Women celebrate the achievements of remarkable women who inspire those around them either through the media or through their astounding achievements in their everyday lives.

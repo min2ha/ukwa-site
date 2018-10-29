@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Kernow Education Arts Partnership (KEAP)
-
 None

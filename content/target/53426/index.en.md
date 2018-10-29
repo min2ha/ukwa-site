@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cliff Dixon (@EngPatriot) on Twitter (UK Independence Party Politician)
-
 Cliff Dixon stood as UK Independence (UKIP) candidate for Hayes and Harlington at the 2017 General Election but was not elected.

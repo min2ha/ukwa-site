@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Edinburgh Neighbourhood Partnerships
-
 Site of community neighbourhood partnerships in Edinburgh, working together to improve the quality of life in their local areas. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Millions of women fail to vote. Did the suffragists suffer in vain?
-
 None

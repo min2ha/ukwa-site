@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Friends of Al-Aqsa
-
 Friends of Al-Aqsa is a UK based non-profit making NGO concerned with defending the human rights of Palestinians and protecting the sacred al-Aqsa Sanctuary in Jerusalem. This vision is supported by various international groups and organisations. Friends of Al-Aqsa was first established in 1997 and now has an international support base.   The following aims and objectives are being pursued using all the available peaceful, legal and democratic means: (a) Highlighting Human Rights abuses suffered by the Palestinians (b) Putting pressure on the British government to make Israel respect International Law and human rights (c) Bringing the Palestinian issue to the attention of those concerned with International Law, human rights and UN Resolutions ...

@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Holywood Trust
-
 Site of a charitable organisation based in Dumfries, Scotland, aiming to help young people in Dumfries and Galloway through grants to individuals and organisations and thereby facilitating opportunities for young people.

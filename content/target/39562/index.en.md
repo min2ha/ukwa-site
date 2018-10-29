@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Danus Skene - SNP Shetland on Facebook
-

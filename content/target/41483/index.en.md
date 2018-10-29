@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Salisbury Way
-
  The Salisbury Way website was created in 2012

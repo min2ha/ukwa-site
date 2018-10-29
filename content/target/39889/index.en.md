@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dunfermline Liberal Democrats
-
 The Dunfermline branch of the Scottish Liberal Democrats.

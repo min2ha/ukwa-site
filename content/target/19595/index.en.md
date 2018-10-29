@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan (@JonathanTier) on Twitter
-
 Green Party Prospective Parliamentary Candidate for Aberavon 2015

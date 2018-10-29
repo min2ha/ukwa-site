@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Salisbury Cathedral plans for Magna Carta 800th anniversary party
-

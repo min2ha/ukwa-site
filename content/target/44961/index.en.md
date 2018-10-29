@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Left Spike Fanzine
-
 This athletics fanzine was founded by  co-founded by distance runners Hannah Viner and Chris Rainsford and editor-at-large James Fairbourn. It is a nonprofessional and nonofficial publication. It is hoped to be the place where they bring your ideas together under one roof and share the stories they can’t currently find elsewhere.

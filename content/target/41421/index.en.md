@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post: UK Should Consider Brexit If EU Signs TTIP, Suggests Labour Economics Adviser Joseph Stiglitz
-
 Joseph Stiglitz, the Nobel Prize winning economist recruited by shadow chancellor John McDonnell to advise the Labour Party, said if the Transatlantic Trade and Investment Partnership (TTIP) EU-US deal is similar to the Trans-Pacific Partnership (TPP) trade deal between the US and pacific countries then "no democracy" should support it.

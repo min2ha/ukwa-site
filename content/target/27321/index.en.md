@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Anglican Domain, The
-
 This web site is for the Anglican (Episcopal) Church around the world. Its purpose is to help the Anglicans and Episcopalians communicate with each other more easily, and to help everyone learn about the church.

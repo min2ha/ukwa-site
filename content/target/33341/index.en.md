@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Testament of Gideon Mack, The
-
 Website reflecting on the book: the testament of Gideon Mack.

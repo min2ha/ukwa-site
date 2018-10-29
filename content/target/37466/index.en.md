@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# FG Insight: In an interview, David Cameron pledges to support farmers but warns Brexit is risky for industry
-
 The Prime Minister visited a Welsh farm on Friday to discuss the EU referendum. He told FG a Conservative Government would continue to support UK farmers but said the risks in terms of trade were huge.

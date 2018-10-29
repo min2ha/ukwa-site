@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# David Torrance (@davidtorrance) on Twitter
-
 Twitter of David Torrance, currently working as a writer, journalist and broadcaster.

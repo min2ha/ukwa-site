@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# BlackPoppyRose / Black Poppy Rose
-
 The BlackPoppyRose was launched in September 2010. Created to be a symbol that represents the contributions made by the African/Black/Caribbean/Pacific Islands communities to various wars since the 16th century. A symbol that signifies pride, honour and glory, with the hope that future generations will be inspired by these largely untold historical legacies.  The website documents the history and promotes events and outlets for the BlackPoppyRose.

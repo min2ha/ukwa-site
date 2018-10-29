@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Novara Media: Brexit: In or Out
-

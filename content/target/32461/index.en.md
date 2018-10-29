@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Discover Wildlife
-
 Online version of the BBC Wildlife magazine.

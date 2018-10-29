@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Professional Publishers Association (PPA): The PPA Blog
-
 The Professional Publishers Association (PPA) represents around 220 companies, ranging from consumer magazine publishers to business-to-business data and information providers, customer magazine publishers and smaller independent companies.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Anglo-Omani Society (AOS), The
-
 The Anglo-Omani Society (AOS) is a charitable organisation working with the objective of preserving the longstanding friendship between Britain and Oman. The Society was formed in 1976.

@@ -10,6 +10,4 @@
   "start_date": "2005-05-26T00:00:00Z"
 }
 
-# Medinfo
-
 Medinfo® is being developed with the aim of providing free and easy to understand medical information and advice, such as you might get from your own doctor, on a number of common and not so common conditions.

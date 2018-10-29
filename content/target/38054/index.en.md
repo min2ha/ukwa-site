@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Kent: Students 4 EU (@Kent4EU) on Twitter
-
 The Official Twitter Page for Kent: Students for Europe.

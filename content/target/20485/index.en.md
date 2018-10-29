@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Sun no longer has any political clout, says Andrew Neil
-
 None

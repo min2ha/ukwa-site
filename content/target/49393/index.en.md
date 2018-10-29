@@ -11,8 +11,6 @@
   "subject": "Sports Collection"
 }
 
-# Tour de Môn
-
 Always Aim High Events was founded in 2010 by Tim Lloyd and Nigel 'Kenny' Kendrick.
 
 The first event was the now iconic Slateman Triathlon 2011 attracting just over 400 competitors (it now regularly exceeds 2,000), with a vision that included the Snowman and Sandman - the three events which now make up the Adventure Triathlon Series.

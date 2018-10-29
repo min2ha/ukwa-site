@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Expert IT
-
 Delivering corporate and home IT services

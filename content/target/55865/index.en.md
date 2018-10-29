@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May to warn ministers against leaks
-
 Following several leaks and briefings over the previous weekend, ministers were to be "reminded" of their responsibilities when cabinet met on Tuesday July 18th. Chancellor Philip Hammond had suggested colleagues opposed to his approach to Brexit had been briefing against him.
 

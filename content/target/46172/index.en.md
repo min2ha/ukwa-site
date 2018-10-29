@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Royal Incorporation of Architects in Scotland / RIAS
-
 Site of an organisation that is the professional body for all chartered architects in Scotland and is the foremost institute in the country dealing with architecture and the built environment.

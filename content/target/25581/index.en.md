@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Education’s really hot topic has not been discussed in this election
-
 None

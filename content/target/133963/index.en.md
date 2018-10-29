@@ -11,5 +11,3 @@
   "subject": "Free e-Journals"
 }
 
-# Journal of Maps
-

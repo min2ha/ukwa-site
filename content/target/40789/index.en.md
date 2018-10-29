@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Horbury Village on Facebook
-
 The Horbury village Facebook page is intended to provide news and information for members of our community and to be a source of information for visitors to Horbury.

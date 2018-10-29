@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Financial Times: UK Election: Battle for Scotland
-

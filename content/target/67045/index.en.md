@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Pwy geith y gig
-
 Pwy geith y gig was a series shown on S4C in 2017. In it, Lara Catrin, the presenter, went looking for new young musical talent across Wales in order to create a new unique band.

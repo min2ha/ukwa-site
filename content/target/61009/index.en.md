@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Customs union and Brexit: The, a, or c?
-
 Comments on a statement by a Downing Street source confirming that the UK would not remain in any form of customs union with the EU after Brexit.

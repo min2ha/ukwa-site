@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Friends of Gibraltar
-

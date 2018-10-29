@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Carolyn Thomas (@Carolynthomas03) on Twitter (Labour candidate for North Wales)
-
 Carolyn Thomas is the Labour candidate for North Wales at the 2016 National Assembly Election. 

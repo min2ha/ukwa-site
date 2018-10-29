@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Djanogly (Conservative  Politician)
-
 Jonathan Djanogly stood as Conservative candidate for Huntingdon at the 2015 General Election. He was first elected to serve as MP for Huntingdon in 2001 and has held the seat ever since.  He then stood for re-election again in 2017 and was successful.

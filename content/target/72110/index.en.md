@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Crime Cymru
-
 Crime Cymru is a diverse collective of Welsh crime writers. 

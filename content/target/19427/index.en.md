@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: The Magna Carta Anthem Arrives on Two Wheels in St Albans
-

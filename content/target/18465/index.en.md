@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How Jack Straw lobbied Ukrainian PM and European Commission on behalf of sugar firm 
-
 None

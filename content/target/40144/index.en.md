@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Steven Jenkins on Twitter (Green Party candidate for Torfaen)
-
 Steven Jenkins is the Green Party candidate for Torfaen at the 2016 National Assembly Election. 

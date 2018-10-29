@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Jean Urquhart MSP | Independent MSP for the Highlands and Islands region
-

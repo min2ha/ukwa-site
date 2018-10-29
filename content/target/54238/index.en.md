@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# eAccessibility Wales
-
 eAccessibility Wales was established by the Wales eAccessibility Forum to find ways to support disabled people to take advantage of the benefits of digital technology and the internet. Communities 2.0, the Welsh Government’s digital inclusion programme, assisted with the set up of the Forum and this website.

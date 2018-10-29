@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clive Morrison (UKIP) 
-
 Clive Morrison stood as UKIP candidate for Hornsey & Wood Green at the 2015 General Election but was not elected.

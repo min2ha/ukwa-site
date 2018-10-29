@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: Leaders of UK's largest cities launch 'Magna Carta' grab for spending power
-

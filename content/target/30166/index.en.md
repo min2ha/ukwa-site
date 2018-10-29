@@ -10,5 +10,3 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# NLS blogs: New to the catalogue
-

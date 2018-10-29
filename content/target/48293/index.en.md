@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Peebles Churches Together
-
 Ecumenical site of Christian churches in Peebles, Scotland.

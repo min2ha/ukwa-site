@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancashire Health and Wellbeing Board
-
 None

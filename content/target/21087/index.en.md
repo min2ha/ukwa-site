@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graeme Morrice on Facebook
-
 This is the Facebook page of Graeme Morrice, the Labour Party candidate for Livingston in the UK General Election on the 7th May 2015.

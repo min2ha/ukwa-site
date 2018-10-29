@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Spartacus Educational
-
 Spartacus Educational is an online platform focusing mainly on history. It is run by John Simkin.

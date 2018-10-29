@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Philip S Rose (@PhilipUKIP) on Twitter (UKIP Politician)
-
 Philip S Rose stood as UK Independence Party (UKIP) candidate for Bolsover at the 2017 General Election but was not elected.

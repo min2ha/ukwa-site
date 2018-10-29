@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newport County Association Football Club
-
 Newport County Association Football Club (Welsh: Clwb Pêl-droed Sir Casnewydd)[1] is a professional association football club based in the city of Newport, South Wales. 

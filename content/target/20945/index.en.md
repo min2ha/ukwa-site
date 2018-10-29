@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill Bonnar (@BonnarBill) on Twitter
-
 The Twitter profile of Bill Bonnar, Scottish Socialist Party candidate for Glasgow South West in the UK General Election on the 7th May 2015.

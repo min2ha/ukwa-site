@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Alex Salmond: I'll bring down the Tories and install Miliband
-
 None

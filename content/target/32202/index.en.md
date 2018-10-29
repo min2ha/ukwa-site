@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Beacon Wales
-
 BEACON will build on research already underway at Aberystwyth University’s Institute of Biological Environmental and Rural Sciences (IBERS) to produce fuels from energy crops such as high-sugar grasses like rye. 

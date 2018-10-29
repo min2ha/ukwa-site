@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# BME Lawyers for Grenfell
-
 Blog and events listing of BME Lawyers for Grenfell

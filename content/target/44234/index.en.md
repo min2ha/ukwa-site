@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Save Steward Wood
-
 The community was founded in 2000 and is currently twelve adults and nine children. They live on 32 acres of plantation woodland on a steep hillside, located in the Wray Valley on the edge of Dartmoor. They are crowd sourcing to fight eviction. 

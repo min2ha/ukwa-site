@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# BBK Blogs
-
 Birkbeck academics and students blog about their research, College events, the higher education sector and the issues affecting our society and planet.

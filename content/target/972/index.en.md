@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Institute for Economic Affairs: Does Competition in the NHS Work
-
 None

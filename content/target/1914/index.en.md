@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Doncaster Metropolitan Borough Council
-
 The website of Doncaster Metropolitan Borough Council gives information about its activities and services, news, spending plans and strategies, and local plans. You can also read committee papers and minutes.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Stirling Society of Architects
-
 Site of an architectural society based in Stirling, and affiliated to the Royal Incorporation of Architects in Scotland.

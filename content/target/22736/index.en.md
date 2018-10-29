@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T08:00:00Z"
 }
 
-# Menter Fachwen
-
 A Social Enterprise in Gwynedd that work with people who have learning disabilities. 

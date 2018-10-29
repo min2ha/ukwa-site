@@ -10,5 +10,3 @@
   "start_date": "2017-01-31T09:00:00Z"
 }
 
-# Metropolitan Police Authority Website Archive 
-

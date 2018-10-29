@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gilmour and Whitehill Parish Church linked with Hamilton West Parish Church
-
 The website of the linked churches of Gilmour and Whitehill Church and Hamilton West Church.

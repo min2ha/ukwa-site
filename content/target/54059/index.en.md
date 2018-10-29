@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Spelthorne UKIP
-
 A local UKIP branch.

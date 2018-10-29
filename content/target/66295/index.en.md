@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church Perth
-
 Site of a Church of the Nazarene church and congregation in Perth.

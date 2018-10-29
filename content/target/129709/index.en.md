@@ -10,5 +10,3 @@
   "start_date": "2006-04-11T01:00:00Z"
 }
 
-# Cymdeithas Edward Llwyd: Cymdeithas Genedlaethol Naturiaethwyr Cymru
-

@@ -10,7 +10,5 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Ghosts of Penrhyn Castle, Bangor
-
 Penrhyn Castle is in Bangor, Gwynedd and is owned by the National Trust.
 This blog contains a number of ghost stories from Penrhyn Castle.

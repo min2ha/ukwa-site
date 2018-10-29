@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Great Western Archive
-
 The Great Western Archive provides a history of locomotives of the Great Western Railway from 1902, with histories, images and sounds.

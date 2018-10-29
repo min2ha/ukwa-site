@@ -10,5 +10,3 @@
   "start_date": "2016-05-20T11:00:00Z"
 }
 
-# Bronllys Community Council
-

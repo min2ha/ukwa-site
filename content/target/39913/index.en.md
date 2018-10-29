@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Clyde Built Ships
-
 The website of the Caledonian Maritime Research Trust which aims to present the vital information and the careers of all vessels built by the shipyards of the River Clyde.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time to Change: Stephen Fry talks about bipolar and mental health stigma
-
 Time to Change is a mental health site aimed at reducing the stigma surrounding mental health

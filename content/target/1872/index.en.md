@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke-on-Trent City Council
-
 Website of Stoke-on-Trent City Council provides latest news, information about local services including planning, council policies, procedures and strategies, committee papers, and visitor information.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Salute My Job
-
 SaluteMyJob is a Social Enterprise providing consultancy, recruitment and training services to employers and helping former members of the Armed Forces, and reservists, into employment.

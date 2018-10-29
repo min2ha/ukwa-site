@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Lodge St. Andrew, Strathaven No. 215
-
 Site of a masonic lodge located in Strathaven, Lanarkshire and affiliated with the Grand Lodge of Scotland.

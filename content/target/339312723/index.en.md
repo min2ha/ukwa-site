@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# TheJournal.ie Easter Rising
-
 TheJournal.ie is a news website that contains a substantial number of articles on the Easter Rising, 1916

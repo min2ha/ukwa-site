@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Camerata of London
-
 Camerata of London was founded by a diverse group of musicians whose common goal is to bring great live music to as wide an audience as possible.

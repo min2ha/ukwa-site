@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Opinion The EU and Britain are playing a high-stakes game of chicken
-

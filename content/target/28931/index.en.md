@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sutton Coldfield Conservatives
-
 Website of Sutton Coldfield Conservatives, providing information on candidates for MP and councillors, events and campaigns.

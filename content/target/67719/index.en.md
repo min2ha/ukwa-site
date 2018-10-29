@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Basingstoke RFC
-
 The Basingstoke Rugby Football Club was formed in March 1948 
 
 The Club now runs four senior sides, an Academy and youth rugby for youngsters from the age of eight to sixteen, we also run a women`s XV and a girls’ team. 

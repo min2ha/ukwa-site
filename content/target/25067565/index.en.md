@@ -11,5 +11,3 @@
   "subject": "Pandemic Influenza"
 }
 
-# Reckitt Benckiser
-

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Talk Paintball
-
 An online enthusiast forum concerned with paint balling. Discusses paint ball scenarios, big games, tournaments,buying advice for equipment, technical help, gear reviews and various other topics.

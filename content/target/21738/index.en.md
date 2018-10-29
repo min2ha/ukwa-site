@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tim Farron not a 'credible leader' for Lib Dems, says Vince Cable
-
 None

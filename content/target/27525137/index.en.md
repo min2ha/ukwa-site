@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Art Exchange
-
 The website Art Collaboration is an ever-growing online gallery and archive of all of Manuel Vason‘s collaborations; an answer to the unresolved dilemma of documenting a live performance; a presentation of work from some of the contemporary performance artists; and a collection of performances, devised for the camera. The project was renamed Art Exchange and can be found at http://artexchange.life/.

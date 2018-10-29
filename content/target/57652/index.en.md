@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK construction suffers shock contraction as 'Brexit blight' bites 
-

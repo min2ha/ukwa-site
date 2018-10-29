@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sancta Maria Abbey, Nunraw
-
 Site of an abbey of the Roman Catholic Cistercian order of monks, located at Nunraw, Eaast Lothian

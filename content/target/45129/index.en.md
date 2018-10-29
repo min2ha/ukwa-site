@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Footprint Workers Cooperative
-
 Footprint Workers Cooperative is a Leeds-based printers run along cooperative lines and with an interest in minimising the ecological impacto f printing. It prints booklets, zines, leaflets, stickers, newsletters, fliers, books and CD wallets, among other things.

@@ -11,5 +11,3 @@
   "subject": "Gender Equality"
 }
 
-# WISE Campaign, The: campaign for gender balance in science, technology and engineerin
-

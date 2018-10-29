@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Kintyre Forum
-
 Discussion website focusing on all aspects of the Mull of Kintyre, Argyll & Bute, Scotland.

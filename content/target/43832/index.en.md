@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Save the River Conwy
-
 Save the River Conwy is a campaign opposed to hydro-power on the River Conwy. 

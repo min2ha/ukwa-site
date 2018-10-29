@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# What's On Stage: Theatre News | Finborough director 'profoundly surprised' by lack of plays on Scottish referendum
-
 None

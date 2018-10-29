@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Chepstow Wassail and Mari Lwyd
-
 The Chepstow Wassail Mari Lwyd is an annual event combining the English tradition of Wassailing, the Welsh Mari Lwyd tradition, plus a unique social meeting of the English and Welsh on the Welsh/English border.

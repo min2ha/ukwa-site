@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Poynton (UKIP  Politician)
-
 John Poynton is the UK Independence Party (UKIP) candidatefor Ealing, Southall in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob White Green Party Candidate for Reading East
-
 Green cllr Rob White: Green Party Parliamentary Candidate for Reading East at the 2015 General Election but was not elected.  

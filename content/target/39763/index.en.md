@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Oban & Lorn SNP (@SNPObanandLorn) on Twitter
-
 Twitter profile of the Oban and Lorn branch of the Scottish National Party (SNP).

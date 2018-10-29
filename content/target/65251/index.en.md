@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: Rebel Tories say they have enough MPs to push Theresa May into staying in single market – if Labour backs it
-
 Rebel Tory MPs believe they now have sufficient support to force Theresa May into effectively keeping the UK in the single market. Conservatives have told The Independent there would be enough of their party’s MPs to lock in full single market access after Brexit, as long as Labour also backs it. 

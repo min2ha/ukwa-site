@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Index on Censorship: #MagnaCarta800: Debating the merits of a First Amendment for the UK
-

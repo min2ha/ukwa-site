@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Reminisce Festival
-
 Website for the Reminisce Festival

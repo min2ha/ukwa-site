@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Moat School, The 
-
 The Moat School is an Independent Secondary School that is specialist in structure and mainstream in nature.

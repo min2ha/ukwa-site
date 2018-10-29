@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ITV News: Tom Bradby, 'I have a confession to make - I am not enjoying covering the Scottish Referendum'
-
 <p>Blog posting by the ITV news political editor, on 16 September, which attracted criticism and controversy through comparisons made to reporting in Northern Ireland, and by criticisms of some campaigners for a 'Yes' vote in the Scottish Independence referendum.</p>

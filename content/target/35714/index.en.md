@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservatives Group for Europe
-
 The Conservative Group for Europe group advocates the merits of an EU built on Conservative principles of free enterprise and movement of people, goods and services with also a responsible engagement in world affairs.

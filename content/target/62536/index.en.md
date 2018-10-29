@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Canaries
-
 Norwich City FC LGBT Fans & member of Pride in Football.

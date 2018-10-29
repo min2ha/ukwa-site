@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: PM urged not to let Eurosceptics 'dictate' talks
-
 Nineteen Tory MPs who back a "soft Brexit" have written to her saying it is "highly irresponsible" for anyone to dictate terms which may scupper a deal. It follows some Tories backing the DUP's decision to oppose a draft deal on the future of the Irish border.

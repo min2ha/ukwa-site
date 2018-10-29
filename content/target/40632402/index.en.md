@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Motor Neurone Disease Association 2010 Petition
-

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# ArtRole
-
 ArtRole, is an International contemporary arts organisation dedicated to building a cultural bridge between the Middle East and rest of the world facilitating artistic dialogue, exchange and mutual support. It works to establish harmonious connections through the medium of art and art education. 

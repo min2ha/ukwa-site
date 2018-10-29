@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cheltenham Civil Service RFC
-
 Senior and Ladies rugby available at this rugby union club formed in 1947.

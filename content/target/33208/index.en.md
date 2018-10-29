@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Harold Boys' National School
-
 This is the webpage of project on the Easter Rising, 1916 carried out by 6th class in Harold Boys’ National School, Dalkey

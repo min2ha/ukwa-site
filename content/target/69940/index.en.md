@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Guardian: Bryony Gordon's Mad World Podcast
-
 Bryony Gordon's Mad World podcast 

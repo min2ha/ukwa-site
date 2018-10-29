@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Public mood has shifted Left as electorate reacts to five years of austerity … but we still don't trust Ed Miliband
-
 None

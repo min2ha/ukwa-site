@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Politics Scotland | Scoop.it
-
 Peter A Bell's Scoop.it page, aggregating news about Scottish politics.

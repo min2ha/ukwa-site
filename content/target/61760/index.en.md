@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church Parishes of Abernethy linked with Boat of Garten, Carrbridge & Kincardine
-
 Site of a group of parish churches focusing on Abernethy Parish Church of Scotland, Highlands.

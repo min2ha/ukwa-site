@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May, here’s my solution to the Brexit customs conundrum
-

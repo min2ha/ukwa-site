@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The DIY Forum
-
 An online enthusiast community concerned with DIY

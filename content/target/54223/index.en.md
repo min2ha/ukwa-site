@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Deep Fried Film
-
 Site of an annual film festival located in Cumbernauld, Lanarkshie and Romano Bridge in the Scottish Borders.

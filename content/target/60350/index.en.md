@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Ymddiriedolaeth Bryn Terfel | Bryn Terfel Foundation. 
-
 The Bryn Terfel Foundation was established in 2009 and awards individual young artists financially for their hard work and dedication at the beginning for their careers. It is a small step to helping them to a successful signing career.

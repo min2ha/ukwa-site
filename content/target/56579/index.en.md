@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Royal Welsh Muck and Soil
-
 The Royal Welsh Muck and Soil is an annual; event and and an opportunity to learn about the latest machinery and muck & Soil technologies. 

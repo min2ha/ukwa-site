@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May’s Brexit will block ports and cripple business. Time to stop pretending
-

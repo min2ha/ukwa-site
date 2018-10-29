@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Inveraray Bell Tower
-
 Site of an historic bell tower and its ringers, located in Inveraray Argyll & Bute.

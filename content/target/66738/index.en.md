@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Centre for Global Equality, The
-
 The Centre for Global Equality focuses on tackling knowledge inequality as a means towards addressing other forms of inequality, with particular emphasis on enhancing access to knowledge and fostering innovation. 

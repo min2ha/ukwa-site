@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Reclaim the Fields UK
-
 Reclaim the Fields is a constellation of people and collective projects willing to go back to the land and reassume the control over food production.
 
 They are determined to create alternatives to capitalism through cooperative, collective, autonomous, real needs oriented small scale production and initiatives, putting theory into practice and linking local practical action with global political struggles.

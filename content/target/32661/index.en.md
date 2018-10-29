@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# William Boyd
-
 The site of author and journalist, William Boyd.

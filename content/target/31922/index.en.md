@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Essex Computer Fairs
-
 Computer fair covering East London and Essex.

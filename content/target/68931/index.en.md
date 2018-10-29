@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# White Ribbon UK (@whiteribbonuk) on Instagram
-
 Instagram account for a campaign to end male violence against women

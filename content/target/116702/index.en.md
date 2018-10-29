@@ -10,5 +10,3 @@
   "start_date": "2006-02-06T00:00:00Z"
 }
 
-# Conservation Awards
-

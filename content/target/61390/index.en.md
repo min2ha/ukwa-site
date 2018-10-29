@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# UK-Russia Year of Culture 2014 Events
-
 British Council's website and programme for the UK-Russia Year of Culture 2014 events.

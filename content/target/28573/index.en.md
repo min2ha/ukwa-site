@@ -10,7 +10,5 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Penywaun Partnership
-
 The Penywaun Enterprise Partnership) is a local regeneration for the estates of Penywaun, Trenant and Trewaun in the Rhondda Valley and part of Communities First programme ,run by the Welsh Assembly to combat poverty and disadvantage.
 

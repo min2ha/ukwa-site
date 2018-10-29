@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK to Stay
-
 A national, grassroots and cross-party movement built to empower people who want to campaign for the UK to remain in the EU

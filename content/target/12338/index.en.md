@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #currencyunion hashtag on Twitter
-
 <p>Twitter posts containing the hashtag #currencyunion.</p>

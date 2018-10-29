@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Old Maps Online
-
 The OldMapsOnline Portal is an easy-to-use gateway to historical maps in libraries around the world. It allows the user to search for online digital historical maps across numerous different collections via a geographical search. The search results provide a direct link to the map image on the website of the host institution.

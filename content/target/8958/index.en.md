@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anna Vincenti Freestyle Skier
-
 None

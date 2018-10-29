@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Dog Breed Health
-
 Dog Breed Health website is aimed at dog and puppy buyers who are choosing which breed (or cross-breed) to have as a pet.

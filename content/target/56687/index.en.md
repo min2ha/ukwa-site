@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Next of Kin Touring Project
-
 Revealing personal stories of the First World War across Scotland.

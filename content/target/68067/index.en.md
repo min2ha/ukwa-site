@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chipping Norton Rugby Club
-

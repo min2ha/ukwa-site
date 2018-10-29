@@ -10,5 +10,3 @@
   "start_date": "2015-10-24T00:00:00Z"
 }
 
-# Comunn Gàidhealach, An - Royal National Mod
-

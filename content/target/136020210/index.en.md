@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redcar and Cleveland LINk
-
 None

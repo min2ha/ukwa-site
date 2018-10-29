@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Ragged University, The
-
 The Ragged University seeks to update the philanthropic history of the Ragged Schools. The project seeks to create and reveal inclusive forms of social capital using free knowledge exchange.

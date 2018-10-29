@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Snowdogs: Tails in Wales
-
 During autumn 2017, a pack of Snowdogs will take over the Cardiff’s streets, iconic buildings and open spaces creating a public art trail across the city. At the end of the trail, the large Snowdog sculptures will be sold at auction to raise funds for Tŷ Hafan.

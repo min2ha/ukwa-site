@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Provincial Council of Britain Gaelic Athletic Association (PCBGAA)
-
 The Provincial Council of Britain Gaelic Athletic Association are the governing body for the GAA in Britain.

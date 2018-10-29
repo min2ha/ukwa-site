@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Commonwealth (DigCW2014) on Twitter
-
 Digital Commonwealth tweet about their work in Argyll and Bute, on the 25th June 2014.

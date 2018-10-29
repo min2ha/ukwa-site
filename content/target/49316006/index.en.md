@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Nancy Campbell
-
 None

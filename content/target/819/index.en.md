@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Systemic Anti-Cancer Therapy Dataset (SACT)
-
 None

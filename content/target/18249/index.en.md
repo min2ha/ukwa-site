@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Vaughan Roderick, Golygydd Materion Cymreig y BBC
-
 Welsh language blog by Vaughan Roderick of the BBC. Much focus is on political matters in Wales.

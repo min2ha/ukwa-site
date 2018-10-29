@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Bedfordshire and Luton
-
 None

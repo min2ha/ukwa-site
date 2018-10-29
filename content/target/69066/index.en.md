@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# mcrfootballwriting (@mcrfwf) on Twitter
-
 Twitter account of the 5th Football Writing Festival, 30th August to 6th September 2018. 

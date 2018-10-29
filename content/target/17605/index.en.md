@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour supporter branded a 'bigot' by Gordon Brown gives backing to Ed Miliband
-
 None

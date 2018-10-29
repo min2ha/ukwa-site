@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Gibraltar and UK Government agree measures to ensure strong relationship continues
-
 The package agreed sets out how the UK and Gibraltar will continue to collaborate closely in a range of important areas, such as on the environment, online gaming, financial services market access, transport and the level of university tuition fees during our Brexit negotiations and beyond.
 

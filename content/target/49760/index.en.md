@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Building a strong new partnership with Lithuania
-
 Secretary of State for Exiting the European Union, David Davis, writes in Delfi ahead of his meeting with Prime Minister Skvernelis in Lithuania about the new partnership the two countries can forge post-Brexit.

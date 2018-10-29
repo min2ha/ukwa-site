@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-#  Gower Labour Party (@GowerCLP) on Twitter
-

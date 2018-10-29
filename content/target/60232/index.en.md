@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI co-operative voices
-
 In order to mark the centenary of the WWI, the Rochdale Pioneers Museum is staging an exhibition entitled ‘From Shop Floor to Front Line’ which reveals the impact of WWI on co-operative members and employees.

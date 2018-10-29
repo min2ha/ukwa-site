@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Oxford International Women's Festival
-
 None

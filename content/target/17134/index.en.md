@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Smart Tories know they can't ignore England's attachment to the NHS
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Challengers TV election debate: Five things we learnt
-
 None

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela McGinley For West Of Scotland. # 1 on Facebook
-

@@ -10,5 +10,3 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Culinary Association of Wales
-

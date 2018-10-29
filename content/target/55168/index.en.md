@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# INTRAC: International NGO Training and Research Centre
-
 INTRAC is a not-for-profit organisation that builds the skills and knowledge of civil society to be more effective in addressing poverty and inequality. It had around 25 staff based in the UK and Central Asia, and work with a global community of trainers, consultants and researchers.

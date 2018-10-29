@@ -10,5 +10,3 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Scotsman, The: Frightened Rabbit’s Scott Hutchison: ‘He woke up hurting, but couldn’t say why’
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Miliband in last-gasp attempt to win back Scottish voters
-
 None

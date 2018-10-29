@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015 explained using Game of Thrones and a little help from the real Jon Snow
-
 None

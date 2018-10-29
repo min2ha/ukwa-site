@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Tim Cockburn
-
 Site of a painter and printmaker based in Pittenweem, Fife, Scotland.

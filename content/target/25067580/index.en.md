@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# WPP plc
-
 WPP plc is a British multinational advertising and public relations company. It owns a number of advertising, public relations and market research networks, including IMRB, Millward Brown, Grey, Burson-Marsteller, Hill & Knowlton, JWT, Ogilvy & Mather, TNS, Young & Rubicam and Cohn & Wolfe.

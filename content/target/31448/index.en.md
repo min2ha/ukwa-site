@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Cruelty Free International
-
 Cruelty Free International is an organisation working to end animal experiments worldwide. It was formerly known as the British Union for the Abolition of Vivisection.

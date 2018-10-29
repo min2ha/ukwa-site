@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South East Cambridgeshire Labour
-
 Website of South East Cambridgeshire Labour, providing information on events, Labour on issues including Europe, and Labour weekly news bulletin.

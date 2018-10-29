@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Savills: The impact of Scottish independence on the residential property sector
-
 None

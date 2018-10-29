@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dean Lockhart (@DeanforHolyrood) on Twitter
-
 The Twitter profile of Dean Lockhart, Scottish Conservative and Unionist candidate for Stirling in the 2016 Scottish Parliament election.

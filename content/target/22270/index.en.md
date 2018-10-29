@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Polson for Strathkelvin & Bearsden on Facebook
-
 This si teh Facebook page of Andrew Polson, Scottish Conservative and Unionist candidate for East Dunbartonshire in the General Election on May 7th and Strathkelvin & Bearsden in the 2016 Scottish Parliamentary election.

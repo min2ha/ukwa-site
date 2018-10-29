@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# ThinkBDA
-
 We are different. We cultivate creativity and harness innovation to bring show stopping experiences, marketing and ideas to major brands who dare to be different.

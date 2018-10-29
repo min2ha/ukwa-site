@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# Telecity Group
-
 Telecity Group is a provider of carrier-neutral data centres, operating facilities in city locations across Europe. Their data centres provide secure and highly-connected environments for the IT and telecoms equipment that powers the digital economy.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Cardigan Art Society
-
 Cardigan Art Society is a group of artists based in West Wales.

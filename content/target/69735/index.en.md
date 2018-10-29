@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# O glust i glust
-
 O glust i glust is a translation service managed by Menter Môn who teamed up with with Geosho, a mapping and mobile technology company, to develop O Glust i Glust (from ear to ear). It is felt that the cost of simultaneous translation equipment to purchase or hire can be a barrier to the provision of the service. With this in mind Menter Môn applied for support through the Welsh Government’s Welsh Language Digital Technology Fund to develop a new solution. The O Glust I Glust Translator app allows you to connect to translators broadcasts and is a simultaneous translation system on your phone.

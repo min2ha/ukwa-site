@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Osborne accused of misleading MPs over VAT to set up Miliband at PMQs
-
 None

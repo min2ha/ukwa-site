@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scotland in Europe
-
 Information site created for Alyn Smith MEP and Ian Hudghton MEP of the  SNP European Group for the EU Referendum.

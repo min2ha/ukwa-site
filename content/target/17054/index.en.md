@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Workers' Educational Association: WEA Manifesto Launched
-
 Founded in 1903, the Workers' Educational Association (WEA) is a charity and the UK’s largest voluntary sector provider of adult education. In 2013/14 they delivered 9,700 part-time courses for over 70,000 students in England and Scotland with classes in almost every local authority area and their work in England was assessed in 2014 as ‘Good’ by Ofsted. 

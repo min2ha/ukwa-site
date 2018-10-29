@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Clwyd Badger Group | Cymdeithas Môch Daear Clwyd
-
 Clwyd Badger Group was founded in 1983 to promote the study and conservation of badgers and their habitat.

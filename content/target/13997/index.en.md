@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# LabourList: Scottish Referendum - the Liveblog
-
 <p>This blog entry, starting on September 4 2014, records events as they happen in Labour's campaign for a 'No' vote in the Scottish Independence referendum.</p>

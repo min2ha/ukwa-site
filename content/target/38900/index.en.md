@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# United Kingdom Independence Party (UKIP) Scotland
-
 The Scottish branch of the United Kingdom Independence Party.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Theresa May urges Britain to vote Tory...or face a Miliband-SNP coalition
-
 None

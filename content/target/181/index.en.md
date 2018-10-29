@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Salford Royal NHS Foundation Trust
-
 None

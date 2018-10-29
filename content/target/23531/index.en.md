@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rob's Blog (Mebyon Kernow candidate for St Ives)
-

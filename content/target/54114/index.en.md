@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Reisdorf (Liberal Democrat Politician)
-
 Peter Reisdorf stood as [Party] candidate for Wirral West at the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2010-04-12T00:00:00Z"
 }
 
-# Childhood Eye Cancer Trust
-
 The Childhood Eye Cancer Trust (CHECT) is a UK wide charity for families and individuals affected by retinoblastoma. We offer support and information, fund research and raise public awareness of this rare cancer.

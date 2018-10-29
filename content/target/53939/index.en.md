@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Emma Sands (@EmmaSands84) on Twitter 
-
 Emma Sands is the Liberal Democrat candidate for Cardiff South and Penarth at the 2017 General Election.

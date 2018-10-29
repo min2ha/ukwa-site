@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rutland & Melton Conservatives
-
 Website of Rutland & Melton Conservatives, providing information on the MP, councillors and MEPs in the constituency, events and national news updates.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Treatment Agency for Substance Misuse
-
 None

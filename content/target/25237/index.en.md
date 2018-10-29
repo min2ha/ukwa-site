@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Prominent Ukip candidate backs Cameron to win the General Election after admitting his party is 'not in the running'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Carwyn Evans 
-
 Carwyn Evans is a Welsh artist who works in 'mixed media, photography and installation to explore issues related to his individual sense of place.'

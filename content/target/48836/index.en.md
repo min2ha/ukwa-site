@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Express:  Corbyn 'to frustrate Brexit AGAIN with plans to send Theresa May’s deal BACK to Brussels'
-
 Alleges that Jeremy Corbyn will try and force Theresa May to return her final Brexit deal to Brussels bureaucrats if Parliament votes against it in yet another attempt to disrupt Britain’s plans to leave the EU.

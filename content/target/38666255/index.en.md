@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Weight Lifting
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon vs Jim Murphy, take two: more things we learnt from the Scottish leaders' debate
-
 None

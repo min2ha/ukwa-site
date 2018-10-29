@@ -10,7 +10,5 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Nestoria
-
 Nestoria
 Nestoria is a vertical search engine for real estate. In terms of users, Nestoria is the 5th largest property web site in the UK and the 9th in Spain. Nestoria aggregates real estate listings from property portals and provides location-based search to Internet users. Results can be sorted by relevance, freshness, distance and type of property.

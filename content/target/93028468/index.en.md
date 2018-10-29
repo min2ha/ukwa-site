@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Stagetext
-
 They aim to make theatre and culture accessible to deaf, deafened and hard of hearing people.

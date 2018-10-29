@@ -10,6 +10,4 @@
   "start_date": "2016-04-06T10:00:00Z"
 }
 
-# QPol Policy engagement at Queen's: 1916 Commemorations
-
 Collection of articles relating to the Easter Rising on Queen's University Belfast Policy engagement website.

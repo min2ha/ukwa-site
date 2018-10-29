@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Accrington Stanley Football Club
-
 Accrington Stanley Football Club is an association football club based in Accrington, Lancashire. The team play in League Two, the fourth tier of the English football league system.

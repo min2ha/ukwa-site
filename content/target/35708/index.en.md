@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Cameron turns on Boris: Prime Minister faces down Eurosceptic rebels in the Commons as he insists you can't vote Brexit then hope 'it'll be alright on the night'    
-

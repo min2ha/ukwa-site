@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Online test aims to predict best antidepressants for individual patients
-
 News article about researchers developing an internet-based tool they hope will predict the effectiveness of antidepressants for individual patients, ending the current prescription lottery.

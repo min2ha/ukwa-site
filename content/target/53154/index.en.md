@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Colleges: Manifesto 2017
-
 Calls for the next Government to protect public spending on education for younger generations while building a system for adults that encourages lifelong learning and tackles basic skills. We need to build on what works and develop long-term plans.
 for an education system fit for the future

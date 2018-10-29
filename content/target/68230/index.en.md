@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Pitcairn News
-
 News and Information about Pitcairn Island

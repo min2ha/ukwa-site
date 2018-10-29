@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Petition Parliament and the government
-
 A petition with 10,000 or more signatures get a response from the government. Petitions with 100,000 signatures or more are considered for debate in Parliament.

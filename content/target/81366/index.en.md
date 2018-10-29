@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: New Brexit checks needed on GB-NI goods - Barnier
-
 The EU's chief Brexit negotiator described how a Brexit backstop would affect movement of goods between Great Britain and Northern Ireland. Michel Barnier said animals and some food products would have to be checked at ports. However he said other products could be dealt with by scanning barcodes on lorries or shipping containers.
 
 

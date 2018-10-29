@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour should forget ‘Blairism’ and reclaim Blair’s early radicalism
-
 None

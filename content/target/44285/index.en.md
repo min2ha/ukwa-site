@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Saving Labour (@saving_labour) on Twitter
-
 Britain needs a strong Labour Party to represent the many. Calls on people whoagree that it is time for Jeremy Corbyn to step aside, follow Saving Labour and email their MP

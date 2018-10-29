@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lucy Allan (Conservative Politician)
-
 Lucay Allan stood as Conservative candidate for Telford in the 2017 General Election and was elected MP. She was first elected for Telford in 2015.

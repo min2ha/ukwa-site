@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Spectrum Gallery
-
 Spectrum Gallery is located in Machynlleth and exhibites the paintings of resident artists Paul Martinez-Frias and Pamela Taylor, the founder of the gallery. 

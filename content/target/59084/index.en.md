@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK 'ready to pay more to the EU'
-
 Brexit supporters in the cabinet agreed the UK should offer to pay more money to the EU as it leaves. But no formal offer was to be made until the EU agreed to begin talking about a new trade deal with the UK.

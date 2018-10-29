@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kelly Simm (Kelly_Simm) on Twitter
-
 <p>The twitter profile of gymnast Kelly Simm, member of England's Women's Artistic Team for the Glasgow 2014 Commonwealth Games.</p>

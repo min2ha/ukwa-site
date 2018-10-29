@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Christian Aid: UK General Election 2017
-
 Calls on the next government to: defend the UK aid budget; continue the fight against climate change; champion refugees; and fight to make tax simpler

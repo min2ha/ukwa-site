@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Politicians need to convince us kick-ass women to vote. Fast
-
 None

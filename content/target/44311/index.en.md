@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Travellers – Reclaim 1916
-
 Pavee Point is a national non-governmental organisation committed to the attainment of human rights for Irish Travellers and Roma. They took part in a march and pageant to ‘Reclaim 1916’.

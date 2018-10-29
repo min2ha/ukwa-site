@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Kingussie
-
 Site of an organisation providing residents and visitors with information on businesses, amenites and activities in the town of Kingussie, Highland, Scotland.

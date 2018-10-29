@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Positive Health Online
-
 <p>An online journal relating to alternative medicine and therapies founded by Dr Sandra Goodman.</p>

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: The Magna Carta Anniversary: An Occasion to Take Stock of Our Progress Towards Realising Rights and Equality
-

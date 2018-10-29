@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Crisis? What crisis? How politicians ignore the existence of food banks
-
 None

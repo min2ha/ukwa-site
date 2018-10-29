@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Mirror Web 
-
 Mirror Web is a company specialising in social media and web archiving. It is based in Manchester.

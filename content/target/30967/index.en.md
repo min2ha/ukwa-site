@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Scottish Association of Writers
-
 The Scottish Association of Writers provides advice and resources to writers' groups across Scotland.

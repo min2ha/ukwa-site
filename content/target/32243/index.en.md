@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# ScottishSlams
-
 This website hosts information about poetry slams in Scotland.

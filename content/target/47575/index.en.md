@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Homeless World Cup: Come on Wales!
-
 The site for the homeless Welsh people team that competed in the 2016 Glasgow Homeless World Cup.

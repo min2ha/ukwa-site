@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nigel Wickens (@NigelWickens) on Twitter (UKIP Politician)
-
 Nigel Wickens was the UK Independence Party (UKIP) candidate for South Northamptonshire in the 2017 General Election but was not elected.

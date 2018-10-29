@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hexham Liberal Democrats (@hexham_libdems) on Twitter
-
 Twitter account of Hexham Liberal Democrats

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Labourhome
-
 None

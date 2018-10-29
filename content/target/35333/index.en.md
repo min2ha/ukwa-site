@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# UndebPlaidCymru (@UndebPlaidCymru) on Twitter
-
 The official trade union section of Plaid Cymru.

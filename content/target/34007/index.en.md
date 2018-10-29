@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: It’s time for Europe to turn the tables on bullying Britain
-

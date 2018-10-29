@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# 1814 Pembroke Dock 2014
-
 Celebrating the 200th Of The Pembroke Dock Town.

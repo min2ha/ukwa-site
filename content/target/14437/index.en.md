@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Priceless national treasures do not just burst...
-
 Ewan Morrison's post on Scottish Government funding for the Glasgow School of Art, of the 23rd of May 2014.

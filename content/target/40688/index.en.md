@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Scottish Women's Institutes
-
 Site of an organisation promoting friendship, sharing of skills, maintaining traditional skills while continuing to evolve and aimed at all women in Scotland.

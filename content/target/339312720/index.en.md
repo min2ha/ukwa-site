@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Flag, The 
-
 This website has been developed by ‘Scoilnet’.It includes stories and a timeline on the evolution of the Irish tricolour flag.

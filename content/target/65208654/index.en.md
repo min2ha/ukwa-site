@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Official website of James Willstrop, The
-
 <p>The official website of squash player James Willstrop, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blackridge Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Blackridge, West Lothian.

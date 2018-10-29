@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Public Health Observatory (NEPHO)
-
 None

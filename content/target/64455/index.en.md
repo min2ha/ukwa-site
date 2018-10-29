@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Oxford Human Rights Hub
-
 The Oxford Human Rights Hub (OxHRH) aims to bring together academics, practitioners and policy-makers from across the globe to advance the understanding and protection of human rights and equality.

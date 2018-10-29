@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Video 'tactics' will play major role in the General Election, say Obama's YouTube gurus
-
 None

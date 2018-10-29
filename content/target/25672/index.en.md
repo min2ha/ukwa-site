@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Only genuine understanding from politicians can save the NHS
-
 None

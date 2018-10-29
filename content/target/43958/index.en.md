@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London STILL Stays!
-
 A protest from remain supports opposed to the UK leaving the EU.

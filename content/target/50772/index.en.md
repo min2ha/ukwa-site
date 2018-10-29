@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Office of the First Minister of Scotland: Background to the announcement made by the First Minister
-
 This note contains the background to the First Minister’s announcement that people in Scotland must be offered a choice between a hard Brexit and becoming an independent country.
 

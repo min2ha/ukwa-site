@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Consulting Actuaries: ACA Launches Retirement Income Manifesto
-
 The Association is a representative body for UK consulting actuaries. The Association is a full member of the International Actuarial Association.

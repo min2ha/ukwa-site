@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Grant Shapps sacked from cabinet in Cameron’s reshuffl
-
 None

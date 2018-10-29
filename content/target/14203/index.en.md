@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# We Are The 45% (@wethe45) on Twitter
-

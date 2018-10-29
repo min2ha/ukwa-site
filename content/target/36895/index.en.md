@@ -10,6 +10,4 @@
   "start_date": "2016-03-09T09:00:00Z"
 }
 
-# Resource Association
-
 The Resource Association is a new professional advocacy body for the reprocessing and recycling industries.

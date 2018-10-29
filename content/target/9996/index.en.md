@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# London Green Party on Twitter
-

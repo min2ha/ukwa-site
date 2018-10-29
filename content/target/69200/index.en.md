@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# Manon Ceridwen James
-
 Manon Ceridwen James is the Director of Ministry in the diocese of St Asaph and is author of the University of Wales Press 'Women, Identity and Religion in Wales'. This blog features her talks, sermons and poems as well as thoughts and reflections on her research. The blog was published from 2013 to 2016.

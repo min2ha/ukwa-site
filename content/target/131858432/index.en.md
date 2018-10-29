@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Shipbuilding on the River Tees -  A reference archive of ships built on the River Tees  1850 - 1990
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British American Football
-
 Website dedicated to promotion of American football in the UK.

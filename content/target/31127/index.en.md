@@ -10,5 +10,3 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Gwasanaeth Tân ac Achub De Cymru | South Wales Fire and Rescue Service
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Global Europe Centre, University of Kent: UK-EU referendum watch
-

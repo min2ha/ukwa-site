@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# LGBTStrongerIN (@LGBTStrongerIN) on Twitter
-

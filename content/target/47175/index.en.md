@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Deioniaeth Enlen | Emlyn Deanery
-
 This is the Deanery for a collection of small rural parishes in West Wales including Newcastle Emlyn and Llandysul in Ceredigion. 

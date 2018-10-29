@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Staying in the EU risks our NHS – voting leave isn't a risky choice, it's the sensible one
-
 Comment by Professor Angus Dalgleish

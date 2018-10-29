@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joanne (@Yellowsiskin) on Twitter
-
 Twitter profile of Joanne Ross, Scottish Labour candidate for Ochil and South Perthshire in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Prenton Park Stadium
-
 Prenton Park is an association football stadium in Birkenhead, England. It is the home ground of the non-league Tranmere Rovers F.C. and Liverpool F.C. Reserves. The club moved to the current Prenton Park in 1912.

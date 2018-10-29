@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Fathers Network Scotland
-
 Site highlighting the importance of the role of fathers in families, to children and in general in society - providing research and resources for Scotland.

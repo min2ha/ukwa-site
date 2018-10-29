@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Temple Church, London
-
 Temple Church is the church of Inner and Middle Temple, two of England’s four ancient societies of lawyers, the Inns of Court; we are here to serve the two Inns’ members and staff, and all those who work in the Temple.

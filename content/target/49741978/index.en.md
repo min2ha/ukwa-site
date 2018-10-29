@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Bloody Sunday Trust
-
 None

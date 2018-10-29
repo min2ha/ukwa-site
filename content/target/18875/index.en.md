@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Surviving Magna Carta copies granted UN World Heritage status
-

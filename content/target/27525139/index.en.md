@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gibraltar Magazine, The
-
 The Gibraltar Magazine was first called ‘Discover Gibraltar’. Founders Andrea Morton and Howard Fuller established the publication in 1995, with the aim of ‘promoting Gibraltar and its people’ and ensuring the content is interesting and relevant both to locals and tourists. 

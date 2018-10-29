@@ -10,6 +10,4 @@
   "start_date": "2018-09-14T09:00:00Z"
 }
 
-# Rhys Thomas
-
 Rhys Thomas is writer from Wales who has published three novels, his most recent being 'The Unlikely Heroics of Sam Holloway'. His other two books are 'The Suicide Club' and 'On The Third Day'.

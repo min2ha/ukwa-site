@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: All of life is changed: The impact of Brexit on UK nationals living in other EU Member States
-
 What do the UK government’s proposals mean for UK nationals in the EU-27? What does it mean for their “right to remain, healthcare arrangements under the EU social security agreements, and pension entitlements and payments”? As Strumia highlights, the UK’s offer focuses on EU citizens in the UK. But in a negotiation, the offers made on one side have implications for those on the other. We seek to deduce from the UK’s negotiating position what it might mean for UK nationals in the EU-27.

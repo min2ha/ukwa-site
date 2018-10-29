@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Penicuik Pétanque 
-
 Site of a club based in Penicuik who play pétanque, a form of bowls.

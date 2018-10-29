@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# The Shape of Clouds - Gianrico Carofiglio
-
 The Shape of Clouds by Gianrico Carofiglio is an interactive story.

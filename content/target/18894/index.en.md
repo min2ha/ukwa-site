@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# AOL UK: Money: £10m Magna Carta discovered in Victorian scrapbook
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent Britain
-
 Lost Leonardo is convinced that Britain’s future lies outside the EU. The supranational (“above the nation”) form of governance practiced by EU institutions is incompatible with the forms of national independence and intergovernmental agreement favoured by the British and all other Anglophone nation-states. 

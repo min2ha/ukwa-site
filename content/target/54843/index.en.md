@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# The Pembroke Story
-
 The site seeks to share with everyone all aspects of Pembroke's history, memories, places and people.

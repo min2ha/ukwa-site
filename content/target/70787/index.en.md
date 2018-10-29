@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Trafford MV RFCC on Pitchero
-

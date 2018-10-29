@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Elfen Trio
-
 Elfen Trio is a folk group from Wales.

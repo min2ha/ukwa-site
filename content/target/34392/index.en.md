@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kenny MacAskill MSP
-
 Kenny MacAskill is Scottish National Party member of the Scottish Parliament for Edinburgh Eastern.

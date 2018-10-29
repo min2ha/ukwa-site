@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Slough Borough Council
-
 The website of Slough Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

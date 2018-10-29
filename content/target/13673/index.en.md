@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Rt Hon Sir Malcolm Bruce MP, The
-
 None

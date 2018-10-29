@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's attacks on Miliband may end up helping Labour
-
 None

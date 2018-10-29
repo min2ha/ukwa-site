@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Can 'mind blank' wreck political careers?
-
 None

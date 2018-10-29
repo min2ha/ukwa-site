@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Niall O'Gallagher (@BBCNiallOG) on Twitter
-
 Twitter profile of Niall O'Gallagher, BBC correspondent for Scottish politics; posts in English and Gaelic.

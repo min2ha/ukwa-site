@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron poised to raise VAT by 2p if Tories win the election, claim Labour
-
 None

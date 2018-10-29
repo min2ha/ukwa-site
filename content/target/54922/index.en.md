@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Sun, The: The Brexit Secretary keen to avoid a return to border check points
-
 The Brexit Secretary has managed to get the EU Chiefs to agree that Northern Ireland border will be up for discussion from the start of negotiations

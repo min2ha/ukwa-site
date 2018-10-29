@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thousand Flowers, A: Whose City: Are The Commonwealth Games Ruining Glasgow? 
-
 None

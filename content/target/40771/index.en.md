@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Bellowhead
-
 Formed in 2004 Bellowhead are an eleven piece British band fusing folk, funk, rock, world, jazz, music hall and classical music.

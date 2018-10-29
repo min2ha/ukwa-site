@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Historical Association, The:  Swansea Branch
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Burning Our Money
-
 None

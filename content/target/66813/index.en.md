@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Addaction
-
 Site of a mental health, drug and alcohol charity wirking with adults and young people, in community settings, in prisons, in residential rehab and through outreach.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Barry Jazz Blues
-
 Barry Jazz Blues was founded in 2014 and are responsible for the Barry & The Vale Jazz & Blues Festival.

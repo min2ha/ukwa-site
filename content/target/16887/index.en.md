@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Wine and Spirit Trade Association (WSTA), The
-
 The Wine and Spirit Trade Association (WSTA) represents over 340 companies producing, importing, exporting, transporting and selling wines and spirits in the United Kingdom.

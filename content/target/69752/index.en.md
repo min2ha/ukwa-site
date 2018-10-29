@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Apostrophe Protection Society
-
 A website with the specific aim of preserving the correct use of the apostrophe

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# British Association of Beauty Therapy & Cosmetology (BABTAC) 
-
 The British Association of Beauty Therapy & Cosmetology (BABTAC) is the UK's leading membership organisation and insurance provider for professionals working in the beauty, hair, holistic and sports therapy industries.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Francesca Halsall
-
 <p>Website of Francesca Halsall, swimmer and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

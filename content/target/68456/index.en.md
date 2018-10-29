@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Petitions UK Government and Parliament: Consult with women on proposals to enshrine 'gender identity' in law
-
 A petition to the UK Parliament to consult with women on proposals to enshrine 'gender identity' in law. This was set up by the ManFriday campaign group in March 2018.

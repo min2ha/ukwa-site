@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Leaving the EU won't actually change Britain much - at first, anyway
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Survivor Manchester - Break the Silence
-
 Survivors Manchester is a survivor-led/survivor-run voluntary organisation that aims to create and facilitate a safe space for male survivors of sexual abuse and rape to work through personal and sometimes painful issues. Our work is concentrated on empowering men to make their own positive life choices and begin their own unique journey of healing. Being in contact with other survivors allows one to feel less isolated; feel connected and break the silence and legacy of abuse.

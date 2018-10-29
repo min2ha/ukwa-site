@@ -10,6 +10,4 @@
   "start_date": "2015-05-27T08:00:00Z"
 }
 
-# British European Design Group
-
 British European Design Group is an independent, non-profit and non-commercial organisation promoting creative excellence worldwide and exporting British creativity to global markets. It was founded in 1991 by German born economist and publicist Karin-Beate Phillips.

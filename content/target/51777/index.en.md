@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Josephs Catholic Church, Neath
-

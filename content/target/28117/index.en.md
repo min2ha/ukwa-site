@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Moreton Presbyterian Church
-
 This is an English-speaking Welsh Presbyterian Church serving Moreton and the surrounding areas.

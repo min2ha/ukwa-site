@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Westminster Russia Forum
-
 The Westminster Russia Forum (WRF) is a UK based members not-for profit members’ forum and think tank that was founded in 2012 to promote a greater cultural, commercial and political understanding between the UK and Russian Federation.

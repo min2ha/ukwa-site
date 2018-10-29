@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 1st March 2018: Nuclear Safeguards Bill
-
 The House of Lords, sitting as a committee of the whole house, debate the implementation of nuclear safeguarding regulations after Brexit

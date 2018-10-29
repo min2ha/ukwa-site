@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute for Economic Affairs: European Union
-
 The IEA is a think-tank, founded in 1955. Their mission is to improve understanding of the fundamental institutions of a free society by analysing and expounding the role of markets in solving economic and social problems.

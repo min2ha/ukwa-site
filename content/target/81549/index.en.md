@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bike Ability Wales
-
 BikeAbility Wales was established in 2004 and provides cycling provision for people with disabilities in South West Wales. 

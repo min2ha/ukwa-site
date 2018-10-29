@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# War Office Locomotive Trust:  Hunslet 1215 A War Veteran's Story
-

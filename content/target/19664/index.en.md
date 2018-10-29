@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Liberal Democrats
-
 Website of Haringey Liberal Democrats, providing information on events, party conference, how to get involved, local, national and party news.

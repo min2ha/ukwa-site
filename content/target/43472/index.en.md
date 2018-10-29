@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# VERSA: EU
-
 VERSA, an Oxford University student newspaper, on the EU.

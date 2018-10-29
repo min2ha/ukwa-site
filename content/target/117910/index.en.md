@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# East Lancashire Women's Centres (ELWC)
-

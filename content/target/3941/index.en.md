@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Filey and Humanby Mercury
-
 None

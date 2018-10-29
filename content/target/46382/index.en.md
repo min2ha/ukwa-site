@@ -10,5 +10,3 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Cerdded Gwledig Sir y Fflint | Flintshire Rural Walks
-

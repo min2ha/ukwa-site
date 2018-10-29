@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Anthony Whittaker
-
 Anthony Whittaker is a Chamber music composer.

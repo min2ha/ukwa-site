@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# English Scots for Yes
-
 Site of a group of English people living in Scotland who are in favour of Scottish political independence from the United Kingdom.

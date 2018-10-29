@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Institute of Administrative Management (IAM)
-
 The IAM is the oldest professional body for administration and business management in the UK.

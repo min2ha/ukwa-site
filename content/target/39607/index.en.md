@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# "Cornwall Remembers" Schools Project
-
 The project is part of our commemorative activities marking the centenary of the start of WW1, to be held throughout autumn 2014 culminating in a week of events - art, music, poetry, film, workshops, lectures, seminars and schools' exhibition.

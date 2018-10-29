@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charlie Grice
-
 <p>The website of middle distance athlete Charlie Grice, member fo Team England for the Glasgow 2014 Commonwelth Games.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Strategic Health Asset Planning and Evaluation 
-
 None

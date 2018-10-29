@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-#  Provincial Grand Lodge Renfrewshire East
-
 Site of a grand masonic lodge located in Paisley, affiliated with the Grand Lodge of Scotland and overseeing local lodges in the area.

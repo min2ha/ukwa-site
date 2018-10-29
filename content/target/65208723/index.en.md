@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Royal Photographic Society/ Royal Commonwealth Society Photography Award
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Morwen Millson (@MorwenMillson) on Twitter (Liberal Democrats Politician)
-
 Morwen Millson stood as Liberal Democrat candidate for Horsham at the 2017 General Election but was not elected.

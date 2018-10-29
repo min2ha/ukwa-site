@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# Johanna Basford
-
 Site of an illustrator and colouring book artist from Aberdeenshire

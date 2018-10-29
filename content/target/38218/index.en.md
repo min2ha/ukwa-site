@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfBNotts (@SfBNotts) on Twitter
-
 Nottingham branch of Students for Britain

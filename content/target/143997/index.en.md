@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# David Stewart: Scottish Labour Party candidate
-
 None

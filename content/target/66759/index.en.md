@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The English Tiddlywinks Association
-
 A website to promote the game of tiddlywinks and coordinate winking activities in England and the rest of the United Kingdom

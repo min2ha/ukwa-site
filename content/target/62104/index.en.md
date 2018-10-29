@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffington Post, The: "Mental Health Could Be Social Media Companies’ Deepwater Horizon"
-
 Article about social media impact on mental health 

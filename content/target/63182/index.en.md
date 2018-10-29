@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Does Britain have the pride to reject May’s tail-between-the-legs Brexit?
-

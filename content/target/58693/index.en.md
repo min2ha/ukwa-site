@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Royal Burgh of Selkirk and District Community Council
-
 Site of the community council for the town of Selkirk, Scottish Borders.

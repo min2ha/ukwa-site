@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# The Ebola Deception: Exposing the Ebola Scam and the Coming Vaccination Program
-

@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T11:00:00Z"
 }
 
-# Capel y Garn, Bow Street
-
 Capel-y Garn is a Welsh Calvinist Methodist Chapel located in Bow Street, Aberystwyth.

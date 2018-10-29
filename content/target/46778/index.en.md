@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Caroline Jones (AM for South Wales West)
-
 Caroline Jones is the UKIP AM for South Wales West.

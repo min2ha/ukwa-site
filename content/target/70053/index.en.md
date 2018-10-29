@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Female First
-
 Celebrity Gossip, Lifestyle, Fashion & Beauty News From Female First

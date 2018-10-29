@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oakmeadians RFC on Pitchero
-
 The official website of Oakmeadians Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "London Terrorist Attack 7th July 2005"
 }
 
-# Cruse Bereavement Care
-
 None

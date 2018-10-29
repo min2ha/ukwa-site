@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Prime Cymru
-
 Prime Cymru provides practical business support to people aged 50 and over in Wales.

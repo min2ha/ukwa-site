@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Society for Sport History
-
 British Society of Sports History promotes the study of sport history and physical recreation.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders' TV debate: a reflection of state of UK politics and populace
-
 None

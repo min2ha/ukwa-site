@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Michel Barnier ‘open to extending Brexit transition period by a year’
-
 The European Union's Brexit negotiator Michel Barnier could offer a one year  extension of the transition period in return for Theresa May accepting a “two-tier” backstop to avoid a border with Northern Ireland, EU diplomats told the Financial Times.
 

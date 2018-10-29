@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Daily Gael, The
-
 Spoof news in English and Scottish Gaelic.

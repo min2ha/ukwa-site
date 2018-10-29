@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Finlay Carson for MSP on Facebook
-
 Facebook page of Finlay Carson, Scottish Conservative and Unionist candidate for Galloway and West Dumfries in the 2016 Scottish Parliamentary election.

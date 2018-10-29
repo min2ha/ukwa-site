@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage opposes EU action to tackle migrant deaths in Mediterranean
-
 None

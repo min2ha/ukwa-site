@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Shropshire Wildlife Trust
-
 None

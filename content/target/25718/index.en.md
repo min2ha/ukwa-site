@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK general election: what job hunters can learn from politicians' tactics
-
 None

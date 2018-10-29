@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Newspaper headlines: EU referendum fight and Stuart Broad fires England
-

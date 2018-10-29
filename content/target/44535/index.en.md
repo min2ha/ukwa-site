@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Brief: negotiating the UK’s exit from the EU
-
 blog post on the negotiations around Brexit

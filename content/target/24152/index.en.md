@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New Commons boundaries top Conservative government agenda
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SEARCH25 Blog, The
-
 <p>This is the blog for the JISC-funded SEARCH25 project, which provides a new open resource discovery experience at a regional level, offering researchers the advantages of both local/regional and national resource discovery.</p>

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Schools: Computing
-
 Educational materials of the BBC website.

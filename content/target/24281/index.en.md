@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband pledges to scrap stamp duty for first-time buyers
-
 None

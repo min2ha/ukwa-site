@@ -10,5 +10,3 @@
   "start_date": "2017-04-21T09:00:00Z"
 }
 
-# South East Wales Safeguarding Children Board | Bwrdd Diogelu Plant De Ddwyrain Cymru
-

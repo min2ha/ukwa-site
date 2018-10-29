@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Elite political class has LIED to us about immigration, says LEO MCKINSTRY
-
 Comment by Leo McKinstry

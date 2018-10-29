@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Western Sussex Hospital Trusts
-
 None

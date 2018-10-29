@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julie Morgan (@JulieMorganLAB) on Twitter (Labour AM for Cardiff North) 
-
 Julie Morgan is the Labour candidate for Cardiff North at the 2016 National Assembly for Wales elections.

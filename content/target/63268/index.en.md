@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Alan Knight Artist
-
 Alan Knight is an Oil Knife painter of Landscapes, urban and seascapes based in Anglesey.

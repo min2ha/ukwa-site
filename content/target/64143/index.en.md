@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# BBC Woman's Hour (@BBCWomansHour) on Twitter
-
 Informing, entertaining, surprising. Join us at 10am weekdays, 4pm Sat.

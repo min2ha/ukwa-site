@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron insists there is a 'patriotic case' for staying in Europe
-

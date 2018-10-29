@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Unions barons bankroll Ed Miliband with another £1.5m for Labour election fight
-
 None

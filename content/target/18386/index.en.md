@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# La petite ecole bilingue
-
 La Petite Ecole Bilingue is a bilingual English-French school for children of all nationalities, aged from two to eleven years. There are two schools in the London area, one located in Oxford Gardens and the other in Kentish Town. 

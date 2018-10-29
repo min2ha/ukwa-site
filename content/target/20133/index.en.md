@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# International Laser Class Association (ILCA)
-
 The International Laser Class Association (ILCA)  is a self-administered, self-funded international organisation which provides co-ordination, organisation and communication for the class worldwide. ILCA is a worldwide sailing club specifically for owners of Laser sailboats and people interested in the Laser.

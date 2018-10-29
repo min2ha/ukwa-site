@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Institute of Art and Law
-
 <p>Website of Wales-based UK institute devoted to art law and cultural property.</p>

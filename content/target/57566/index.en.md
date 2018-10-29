@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Eric Liddell Centre
-
 Site of a charitable organisation providing specialist caring services from a unique historic building located in the Brunstfield / Churchill / Morningside area of South Central Edinburgh.

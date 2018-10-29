@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Brew UK Forum
-
 A brewing community providing training and support for brewers of all levels

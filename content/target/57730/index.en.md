@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Beekeepers Association Forum
-
 An online enthusiast community concerned with beekeeping in the UK. Discusses tips for beginners, buying and selling bees, queen rearing, different bee varieties and various other related topics. Forum includes a section for photographs.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Cyngor Ieuenctid Caerdydd | Cardiff Youth Council
-
 Cardiff Youth Council is the official network of young people aged 11-25 in Cardiff.

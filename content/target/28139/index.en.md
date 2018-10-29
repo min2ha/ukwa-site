@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blackburn Cathedral
-
 Official website of the Blackburn Cathedral.

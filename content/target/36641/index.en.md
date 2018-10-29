@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sôn am Sîn
-
 Sôn am Sîn is a blog covering the Welsh language music scene in Wales.

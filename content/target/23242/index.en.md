@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glyn Davies (@GlynDaviesMont) on Twitter 
-
 Glyn Davies is the MP for Montgomeryshire.

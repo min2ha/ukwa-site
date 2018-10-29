@@ -10,5 +10,3 @@
   "start_date": "2013-07-25T21:00:00Z"
 }
 
-# Ticketmaster: Lindisfarne Gospels
-

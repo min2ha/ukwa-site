@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Small Business Blog, The
-
 None

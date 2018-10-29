@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg 360: Deg sedd i’w gwylio yn Etholiad 2015
-

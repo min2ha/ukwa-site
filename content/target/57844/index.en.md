@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Staying appy: mental health apps deliver mixed results
-
 The Guardian article about 

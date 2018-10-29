@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Designer Women
-
 None

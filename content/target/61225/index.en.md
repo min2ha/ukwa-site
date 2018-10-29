@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU leaked paper discourteous, says David Davis
-
 David Davis described a leaked EU paper suggesting it could cut UK access to the single market if there was a post-Brexit row as "discourteous".
 

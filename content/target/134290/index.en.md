@@ -10,5 +10,3 @@
   "start_date": "2006-11-02T00:00:00Z"
 }
 
-# JISC Regional Support Centre Eastern
-

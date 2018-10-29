@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yeovil Town Ladies FC (@YeovilLadiesFC ) on Twitter
-
 Yeovil Town Ladies Football Club are an English women's association football club based in Yeovil, Somerset. They are affiliated with Yeovil Town F.C. and play in the first division of the FA WSL.

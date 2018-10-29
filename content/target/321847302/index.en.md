@@ -10,5 +10,3 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Rhwydwaith Artisiaid Sir Gar | Carmarthenshire Artists Network
-

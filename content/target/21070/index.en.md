@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Left Foot Forward (@LeftFootFwd) on Twitter
-
 The official Twitter account for the blog Left Foot Forward.

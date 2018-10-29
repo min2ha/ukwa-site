@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Let them bloody well go': Ukip candidate says British teenagers who want to join ISIS should be given FREE flights
-
 None

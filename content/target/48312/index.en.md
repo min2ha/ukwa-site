@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: I'll make Brexit a great thing': Trump promises Britain a quick and fair trade deal with America but attacks Germany's 'catastrophic' immigration policy and wants Russia's nuclear arsenal reduced    
-

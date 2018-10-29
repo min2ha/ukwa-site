@@ -10,5 +10,3 @@
   "start_date": "2012-09-07T00:00:00Z"
 }
 
-# Cascades, islands, or streams? Time, topic, and scholarly activities in humanities and social science research
-

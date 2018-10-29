@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tony Dyer for South Bristol Green Party 
-
  Tony Dyer  Green Party Parliamentary Candidate for Bristol South in the 2015 General Election but was not elected.

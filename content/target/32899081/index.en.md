@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Athletics
-
 Welsh Athletics is the governing body for the sport of athletics in Wales. It was set up as a limited company in 2007, replacing the former Athletic Association of Wales. Welsh Athletics is part of UK Athletics, the national governing body for the sport in the United Kingdom.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Councillor Alison Evison – Leading Scottish Labour in Aberdeenshire
-
 Alison Evison is the Scottish Labour candidate for Aberdeen North and South Kincardine in the 2016 Scottish Parliamentary election.

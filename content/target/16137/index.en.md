@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Friedrich-Ebert-Stiftung (FES): London Office
-
 <p>The London Office is part of the international network of the Friedrich-Ebert-Stiftung (FES). It was established in 1988 to promote better understanding of British-German relations, mainly by means of seminars and reports on political trends in Britain and Germany.</p>

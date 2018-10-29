@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Coach Hire - Horseferry Coaches
-
 We are the premier luxury travel company in London, providing quality coaches and people carriers for short and long haul journeys.

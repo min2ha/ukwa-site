@@ -11,5 +11,3 @@
   "subject": "Darwin 200"
 }
 
-# Darwin Correspondence Project
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Workers’ rights will be watered down if Britain leaves EU, claims TUC
-

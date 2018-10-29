@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #indyref hashtag on Twitter
-
 Twitter posts commenting on the Scottish Independence Referendum, containing the hashtag #indyref.

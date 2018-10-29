@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit betrayal and a shabby plot to sink Boris Johnson who has behaved nobly
-
 Only one major political figure has behaved nobly and should be saluted for the way he has upheld the interests of Britain ever since the start of the EU referendum debate - much-maligned Foreign Secretary, Boris Johnson. But, tragically, despite such integrity and principle, he has become the object of a vicious and orchestrated Westminster whispering campaign.

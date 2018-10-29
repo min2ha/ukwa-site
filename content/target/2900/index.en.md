@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Space, The
-
 <p>A digital arts service from Arts Council England and the BBC showing free, on-demand video and information, covering theatre, music, film, dance, visual arts, literature and spoken word.</p>

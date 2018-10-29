@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# UK Chagos Support Association, The
-
 The UK Chago Support Association works to draw attention to the islanders’ plight, to help them in their struggle against injustice and to support them in hardship.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Stephenson Harwood
-
 Stephenson Harwood is a law firm with over 900 people worldwide, including more than 150 partners. Our people are committed to achieving the goals of our clients - listed and private companies, institutions and individuals.

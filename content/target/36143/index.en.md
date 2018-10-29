@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: EU referendum blog
-

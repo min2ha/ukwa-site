@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Alex Salmond: Ed Miliband ‘foolish’ to rule out SNP election deal
-
 None

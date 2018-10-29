@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Partneriaeth Mewnfudo Strategol Cymru | Wales Strategic Migration Partnership (WSMP)
-
 WSMP is a partnership organisation aimed at providing an enabling function and a strategic leadership, independent, advisory and consultative body on migration in Wales. 

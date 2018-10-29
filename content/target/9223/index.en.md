@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dave Ryding Skier on Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sanchia Alasia 4 Europe Facebook page
-
 None

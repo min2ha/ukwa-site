@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Gypsy Waggons
-
 The site covers the history and heritage of UK Gypsy Vardo and waggons.

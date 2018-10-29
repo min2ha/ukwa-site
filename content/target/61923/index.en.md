@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newcastle United F.C.
-
 Newcastle United Football Club is an English professional association football club based in Newcastle upon Tyne.

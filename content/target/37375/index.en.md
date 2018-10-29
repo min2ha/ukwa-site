@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Shepperd Weddeburn: Joining the dots of the EU referendum 
-
 Discussion of the EU referendum with attached pdf file

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Scotland and Brexit - what happens next?
-
 Comments on the implications of the Scottish Parliament's vote to reject the EU Withdrawal Bill.

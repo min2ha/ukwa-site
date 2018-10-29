@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Pride Edinburgh
-
 Site of Scotland's national LGBTI festival providing a platform for politicians, community activists, and most importantly individuals.

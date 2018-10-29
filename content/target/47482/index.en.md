@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Visit West Lothian
-
 Site of a marketing and information organisation based in and focusing on West Lothian, Scotland.

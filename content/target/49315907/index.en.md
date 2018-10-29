@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Co-op Store Pictures
-
 None

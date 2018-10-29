@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Ultimate (UKU)
-
 UK Ultimate (UKU) is the national governing body for the sport of ultimate in Great Britain and Northern Ireland.

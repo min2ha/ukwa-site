@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Muhammad Ali – 25 of the best photographs of the legendary boxer
-
 The Guardian picture editor has selected his favourite photographs of Muhammad Ali from the archives. The selection includes pictures of some of the most memorable fights as well as distinctive portraits from his life outside the ring.

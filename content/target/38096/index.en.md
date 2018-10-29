@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Warrington in EU (@StrongerInWire)
-
 Warrington local campaign for the UK to stay in the EU

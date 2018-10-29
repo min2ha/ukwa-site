@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit deal: Tory rebel warns government could collapse
-
 Dominic Grieve admitted that ory rebels "could collapse the government" if they voted against a Brexit deal negotiated with the EU. But he suggested rebels would not back down in a current row with ministers about how much of a say MPs should get.

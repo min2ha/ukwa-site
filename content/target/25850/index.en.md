@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP’s fiscal autonomy would leave £9bn gap in Scotland's finances, says IFS
-
 None

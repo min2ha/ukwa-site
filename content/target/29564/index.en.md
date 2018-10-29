@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Hiraeth: Frongoch commemoration 
-
 Commemoration of Frongoch internment camp

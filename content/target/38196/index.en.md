@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Surrey SfB (@SurreySfB) on Twitter
-
 Surrey branch of Students for Britain campaigning for the UK to leave the EU

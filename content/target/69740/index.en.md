@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Ninian's
-
 Site of a Scottish Roman Catholic parish church in Inverness.

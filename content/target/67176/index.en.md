@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# SmallFish Recordings
-
 Website of a recording studio based in Scotland. 

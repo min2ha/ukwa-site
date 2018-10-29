@@ -10,5 +10,3 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Cyngor Cymuned Faenor | Faenor Community Council
-

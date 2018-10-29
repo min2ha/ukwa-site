@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Seaboard History: We Will Remember Them WW1
-
 The project aims to remember the Seaboard's connection to the First World War.

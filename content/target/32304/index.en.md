@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# PG Economics
-
 A UK-based consultancy, specialising in plant biotechnology, and agricultural markets and policy. The website provides links to many of their reports, including reviews of the global impact of GM crops. 

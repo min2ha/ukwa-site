@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rams RFC (@Rams_RFC) on Twitter
-
 The official website of Redingensians Rams Rugby Club.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# mdfs.net
-
 Software and documentation covering such subjects as Acorn BBCs, Econet and networking, SJ Research Fileservers, Z80, 6502, ARM and PDP-11 code, C programming, Co-processors and Tube systems, Harston Advanced Disk Filing System, BBC Public Domain, CP/M.

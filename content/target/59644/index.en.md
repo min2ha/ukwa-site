@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Pulsetta
-
 Pulsetta Limited's site promoting their range of gluten free biscuits, produced in Aberdeenshire.

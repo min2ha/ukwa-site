@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Friends of Insole Court
-
 Insole Court is a grade 2 prominent secular building in Llandaff. The aim is to 'inform people of the work of The Friends of Insole Court, promote events and activities taking place in Insole Court and raise the profile of this superb house and gardens'. 

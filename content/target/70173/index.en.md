@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Carnmoney Ladies FC (@carnmoneyladies) on Twitter
-
 Carnmoney Ladies FC
 
 The official Twitter account of Carnmoney Ladies Football club. 

@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# iPlus
-
 iPlus is the repository infrastructure catalogue as well as a catalogue of use cases. It was designed in support of the JISC-funded Innovation Zone for repository technologies. These catalogues provide reference points for technical developments in research repositories.

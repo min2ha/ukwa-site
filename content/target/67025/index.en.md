@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Thames Traditional Boat Festival
-
 Website for the Thames Traditional Boat Festival

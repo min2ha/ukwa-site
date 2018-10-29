@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# RCA Magazine (ARC)
-
 Royal College of Art magazine

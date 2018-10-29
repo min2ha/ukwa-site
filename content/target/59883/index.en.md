@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Sgrìbhisg Gàidhlig agus na rudan eile Tumblr page
-
 Tunblr page of Scottish Gaelic advocacy and learning.

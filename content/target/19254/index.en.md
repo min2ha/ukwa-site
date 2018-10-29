@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Top Lincoln law expert to deliver lecture in America on the Magna Carta
-

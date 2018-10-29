@@ -10,5 +10,3 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Cyngor Cymuned Ystrad Meurig | Ystrad Meurig Community Council
-

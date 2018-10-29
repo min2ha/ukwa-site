@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Primary Club, The
-
 The Primary Club is the cricketers' charity that raises money to provide sports and recreational facilities for the visually impaired.

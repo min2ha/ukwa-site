@@ -10,6 +10,4 @@
   "start_date": "2018-09-11T09:00:00Z"
 }
 
-# Cockatrice Books
-
 Cockatrice Books publish translations of Welsh language short stories by Geraint Goodwin, Owen Wynne Jones, Richard Hughes Williams, and Caradoc Evans. The press is run by author, Rob Mimpriss.

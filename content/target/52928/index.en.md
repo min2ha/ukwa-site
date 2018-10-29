@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Amiqus
-
 We’re a specialist, award-winning Games recruitment agency with over 17 years' experience. Fuelled by our love of the industry and truck loads of coffee we're on a mission to help more people find the right job, at the right time. Building relationships, creating networks and supporting industry growth is what we're all about.

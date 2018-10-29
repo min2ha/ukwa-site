@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Siart Datblygu Cynaliadwy, Y | Sustainable Development Charter
-
 The Sustainable Development Charter is a Welsh Government initiative administered by Sustain Wales. The aim is to encourage and enable organisations in Wales to become more sustainable.

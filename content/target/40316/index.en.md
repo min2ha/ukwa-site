@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# HM Treasury analysis on the EU referendum: George Osborne's speech
-
 Treasury analysis on the EU shows UK will be worse off by £4,300 a year per household if Britain votes to leave, the Chancellor explains.

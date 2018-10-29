@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Creative Edinburgh
-
 Networking site for sharing and promoting creative ideas by individuals and businesses located in Edinburgh, Scotland and for the local and international markets.

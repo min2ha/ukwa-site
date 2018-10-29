@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# We Are Plan C
-
 Plan C is an organisation of people who are politically active in their workplaces and communities. 

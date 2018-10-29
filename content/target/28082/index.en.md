@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Banana Cabaret Comedy Club
-
 Website for the Banana Cabaret Comedy Club at the Bedford in Balham, established in 1985.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# The Mare & Foal Sanctuary
-
 The Mare and Foal Sanctuary was founded in 1988 by Rosemary, who has rescued and looked after horses and ponies all her life.

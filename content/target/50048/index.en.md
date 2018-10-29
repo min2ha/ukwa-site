@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bryn Siôn Baptist Church
-

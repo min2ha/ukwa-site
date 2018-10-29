@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: These anti-Brexit posters show just what we lose by leaving the EU 
-
 Guardian, The

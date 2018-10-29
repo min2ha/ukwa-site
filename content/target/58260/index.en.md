@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Red Brick: Youth Game Addiction: The darker side of gaming
-
 Article discussing new technologies and the impact this is having on enabling gaming addiction by making gaming more accessible 

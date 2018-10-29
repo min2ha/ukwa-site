@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Blood Pressure UK
-
 Blood Pressure UK, previously known as the Blood Pressure Association, is the UK charity dedicated to lowering the nation's blood pressure to prevent disability and death from stroke and heart disease.

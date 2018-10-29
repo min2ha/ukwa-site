@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llandeilo Fawr, St Teilo's Church
-
 <p>The parish church website of St Teilo's Church covers the parishes of Llandeilo Fawr, Taliaris and Maesteilo.</p>

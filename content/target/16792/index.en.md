@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# Scottish Leaders Forum
-
 <p>The Scottish Leaders Forum (SLF) is a forum of Chief Executive level leaders from across Scotland’s public services.</p>

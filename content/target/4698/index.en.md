@@ -10,5 +10,3 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Thames Valley Police
-

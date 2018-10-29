@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Miriam Kennet, Green Party on Facebook
-
 None

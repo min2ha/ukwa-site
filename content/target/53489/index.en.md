@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vicki Browning (@vickibrowningbg) on Twitter 
-
 Vicki Browning is the Independent Candidate for Blaenau Gwent in the Parliamentary Election on June 8th 2017.

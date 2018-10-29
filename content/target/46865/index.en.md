@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: November 7th 2016: Article 50
-
 Statement by David Davis, Secretary of State for Exiting the European Union,  on the process for invoking Article 50.

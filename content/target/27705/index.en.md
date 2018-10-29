@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Calls for Scottish Labour leader Jim Murphy to quit after party's hammering
-
 None

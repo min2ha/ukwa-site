@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liverpool Echo: Teenager fleeced his gran to pay for online gaming addiction
-
 News article about and 18 year old male who stole money from his elderly relative to fund his gaming addiction

@@ -11,8 +11,6 @@
   "subject": "Stephen Hawking"
 }
 
-# Famous scientist Stephen Hawking dies aged 76
-
  RENOWNED British physicist Professor Stephen Hawking has died at the age of 76.
 
 He died peacefully at his home in Cambridge in the early hours of Wednesday morning, his family said. 

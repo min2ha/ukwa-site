@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Council for Voluntary Organisations (NCVO): Charities and Volunteering Make Britain Great: Our Manifesto for the 2017 Election
-
 Sets our proposals for what the next government could do to encourage volunteering and community action.

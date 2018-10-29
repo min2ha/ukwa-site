@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T11:00:00Z"
 }
 
-# Dafydd Bullock, Sir
-
 Dafydd Bullock is a Welsh composer and Fellow of the Royal Society of Arts.

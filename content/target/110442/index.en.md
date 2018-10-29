@@ -10,5 +10,3 @@
   "start_date": "2005-06-30T00:00:00Z"
 }
 
-# Charleston - an artist's home and garden
-

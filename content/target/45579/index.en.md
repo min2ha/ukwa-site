@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Cardiff Review, The
-
 The Cardiff Review is a literary magazine that publishes the best of contemporary graduate writing from Cardiff University. The Cardiff Review is supported by the School of English, Communication and Philosophy at Cardiff University.

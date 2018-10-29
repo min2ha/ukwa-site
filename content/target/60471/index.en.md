@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Porthcawl and the Great War
-
 This site is dedicated dedicated to Porthcawl and the Great War, owned by Porthcawl Museum and created by Ceri Joseph. 

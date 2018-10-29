@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Moseley and Kings Heath community website
-

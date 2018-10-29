@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Eastgate Theatre and Arts Centre Peebles
-
 Site of a theatre based in Peebles, Peeblesshire, Scotland.

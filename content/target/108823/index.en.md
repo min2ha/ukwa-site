@@ -10,5 +10,3 @@
   "start_date": "2005-06-01T00:00:00Z"
 }
 
-# International Epidemiological Association
-

@@ -11,6 +11,4 @@
   "subject": "Darwin 200"
 }
 
-# Michael Stimpson
-
 None

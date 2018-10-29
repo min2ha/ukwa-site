@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rachel Roberts (@RachaelR_Greens) on Twitter (Green Party candidate for Berwick upon Tweed)
-

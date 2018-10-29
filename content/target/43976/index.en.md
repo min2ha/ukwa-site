@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Almost 70 MPs form Labour Yes to EU group
-
 Labour MPs formed a group to argue for the UK’s membership of the EU. 

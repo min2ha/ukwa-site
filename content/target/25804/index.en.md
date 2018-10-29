@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: John Major warns of SNP support for minority Labour government – video
-
 None

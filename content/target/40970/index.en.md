@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Broadford & Strath, Isle of Skye
-
 Umbrella site of various community organisations serving the area of Broadford and Strath, Isle of Skye, Highland, Scotland.

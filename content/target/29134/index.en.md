@@ -10,5 +10,3 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# BBC News: Forth Bridge given World Heritage Site status
-

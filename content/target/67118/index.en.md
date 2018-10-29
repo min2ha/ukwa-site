@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Jocknroll Ain't Noise Pollution
-
 Jocknroll Ain't Noise Pollution, also called Jocknroll, is a Scotland-based music blog.

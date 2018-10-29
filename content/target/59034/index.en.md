@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Forgetting War
-
 Glasgow University project examining British War Office Military Intelligence Reviews from the 1950s for comparison with views of war and terror formed by digital media.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Newcastleton Traditional Music Festival
-
 Site of an annual folk and traditional music festival located at Newcastleton in the Scottish Borders.

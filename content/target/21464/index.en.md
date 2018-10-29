@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Militant union boss Len McCluskey warns activists will break the law if Tories curb the right to strike after the election
-
 None

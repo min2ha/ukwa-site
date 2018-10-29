@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Sun, The: As our Prime Minister triggers Britain’s exit from the EU, we beam this message from the iconic White Cliffs of Dover to our neighbours
-

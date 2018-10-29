@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ian Driver on Facebook (Green Party candidate for South Thanet)
-

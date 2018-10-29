@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# President of Ireland 
-
 This is the website of the Office of the President of Ireland. It contains the President’s reflections on the centenary events as well as speeches on the course and legacy of the Easter Rising, 1916. 

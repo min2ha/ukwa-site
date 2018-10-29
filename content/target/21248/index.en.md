@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Ronnie Job: TUSC Swansea West on Facebook
-
 TUSC candidate for Swansea West.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The leader interviews: Nick Clegg on the establishment, trust … and burning cacti
-
 None

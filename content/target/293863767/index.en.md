@@ -10,5 +10,3 @@
   "start_date": "2015-05-20T00:00:00Z"
 }
 
-# Llandaff & Monmouth DACBR
-

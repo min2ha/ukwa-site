@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Rentokil Initial plc
-
 Rentokil Initial is a British business services group, focused on its three main business lines of Pest Control, Hygiene and Workwear, as well as a range of other smaller specialist services including Plants, Medical services, Property care and Specialist hygiene. They have over a million customers to service from the largest multi-nation pharmaceutical, industrial and food production companies to local shops, restaurants and homes.

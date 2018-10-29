@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# We Are the Reality Party (@Reality_Party) on Twitter
-

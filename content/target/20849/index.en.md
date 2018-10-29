@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Templeton on Facebook
-
 This is the Facebook page of Sean Templeton, the Scottish Green Party candidate for Glasgow South West in the UK General Election on the 7th May 2015 and list candidate for Glasgow in the 2016 Scottish Parliamentary election.

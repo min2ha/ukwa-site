@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Institute for Economic Affairs: How to Abolish the NHS
-
 None

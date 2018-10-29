@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Scotland Couriers Network
-
 A network of UberEats and Deliveroo couriers in Glasgow.

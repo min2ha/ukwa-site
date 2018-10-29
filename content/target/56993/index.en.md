@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: 5 Mental Health Blogs You Should Know About 
-
 Metro article recommending mental health blogs

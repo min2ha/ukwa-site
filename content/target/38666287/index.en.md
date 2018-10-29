@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Podium: The Further and Higher Education Unit for the 2012 Games
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Hertfordshire Hospitals
-
 None

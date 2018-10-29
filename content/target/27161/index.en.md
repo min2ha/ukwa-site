@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lee Selby
-
 Welsh boxer.

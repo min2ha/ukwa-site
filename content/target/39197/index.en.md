@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Home Alone During World War One
-
 Project enabling students to work with artists/historians to investigate what life was like for young people who were left ‘home alone’ during WW1 whilst their fathers and brothers went to war.

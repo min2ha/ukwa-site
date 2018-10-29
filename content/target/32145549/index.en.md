@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Welsh Black Cattle Society, The 
-
 The Welsh Black Cattle Society is a charity that maintain the purity of the Welsh Black cattle and promote their improvement.

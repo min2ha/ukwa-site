@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge Thorntree No. 1038
-
 Site of a masonic lodge located in Prestonpans, East Lothian, and affiliated with the Grand Lodge of Scotland.

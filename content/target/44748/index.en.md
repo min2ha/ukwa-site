@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM and Polish Prime Minister Szydło statements in Warsaw: 28 July 2016
-
 Theresa May and Prime Minister Beata Szydło of Poland gave press statements in Warsaw after their meeting on the UK-Poland relationship in the context of the UK's vote to leave the EU.

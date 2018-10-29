@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland Rugby League
-
 Site of the governing body of Rugby League in Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bond: General election 2015
-
 Bond is the UK membership body for organisations working in international development or supporting those that do through funding, research, training and other services.

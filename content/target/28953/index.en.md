@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol South Labour Party
-
 Website of Bristol South Labour Party, providing Labour councillors in Bristol South and local news and party reaction.

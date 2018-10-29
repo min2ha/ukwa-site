@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: George Osborne would need to slash spending by £47BILLION to fill Tory black hole
-
 None

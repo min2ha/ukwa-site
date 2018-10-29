@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Wales by Bike
-
 Wales By Bike is written by bikers for bikers about safe motorcycling and is aimed at tackling the high number of motorcyclist fatalities on Welsh roads.

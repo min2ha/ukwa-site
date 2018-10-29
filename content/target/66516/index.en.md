@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Highland Fuels Limited
-
 The website of Highland Fuels Limited, a Scotland-based fuel distributor.

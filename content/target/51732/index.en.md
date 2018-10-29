@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leicester Tigers
-
 The official website of Leicester Tigers Rugby Club.

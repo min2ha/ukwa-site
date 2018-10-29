@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Whately (Conservative Politician)
-
 Helen Whately was first elected as Conservative  MP for Faversham and Mid Kent in 2015, and stood for re-election in 2017 and was successful.

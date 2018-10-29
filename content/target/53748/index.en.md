@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mick Gee (UKIP  Politician)
-
 Mick Gee stood as UK Independence Party (UKIP) candidate for Coventry North West at the 2017 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Manifesto top trumps: what are the parties' plans for social care and health?
-
 None

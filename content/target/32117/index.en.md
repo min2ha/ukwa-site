@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Cymru Culture
-
 An online magazine focusing on arts issues from Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Plant yng Nghymru | Children in Wales
-
 Children in Wales is the national umbrella body for organisations and individuals who work with children,young people and their families in Wales.  

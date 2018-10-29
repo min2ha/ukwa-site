@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester City W.F.C.
-
 Manchester City Women's Football Club are an English women's football club based in Manchester who play in the FA Women's Super League and are current champions. They are affiliated with Manchester City F.C. who play in the Premier League. 

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# BL Oral History (@BL_OralHistory) on Twitter
-
 British Library Oral History section and National Life Stories, a charitable trust specialising in oral history fieldwork. 

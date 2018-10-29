@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Positively UK (formerly known as Positively Women)
-
 On 6 June, Positively Women entered a new and exciting chapter in its life. Following a major strategic review and process of consultation with service users and stakeholders we have extended our remit to reach both men and women living with HIV. Positively UK retains its core ethos of peer support, with people living with HIV developing and delivering services.

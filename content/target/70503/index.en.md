@@ -10,5 +10,3 @@
   "start_date": "2018-08-29T09:00:00Z"
 }
 
-# African Arts Centre, The (TAAC)
-

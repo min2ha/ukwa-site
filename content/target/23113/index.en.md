@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel Farage (UKIP)
-
 Nigel Farage stood as UKIP candidate for Thanet South at the 2015 General Election but was not elected.

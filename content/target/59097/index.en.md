@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Manon Williams Photography
-
 Manon Williams is a professional British Rock and Roll Photographer. 

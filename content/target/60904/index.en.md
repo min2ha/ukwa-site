@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cycling Forums UK : www.veloriders.co.uk
-
 An online enthusiast community forum concerned with cycling. Discusses the Tour de France, Tour fo Britain alongside more general discussions on road, track and off-road cycling.

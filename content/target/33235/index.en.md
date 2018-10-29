@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Decoded
-
 Decoded offers coding courses maily for the business community. 

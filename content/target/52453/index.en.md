@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: General election 2017: Where UK's parties stand on Brexit
-
 Brexit is a major issue at the UK general election of 2017. This article offers an outline of  where the main parties across the UK stand.

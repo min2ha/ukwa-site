@@ -10,5 +10,3 @@
   "start_date": "2015-10-24T10:00:00Z"
 }
 
-# Seachdain na Gàidhlig / Edinburgh Gaelic Week 2015
-

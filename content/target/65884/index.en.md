@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# 1_shilling (@1_shilling) on Instagram
-
 This Instagram account is curated by designer Matthew Caldwell. He decided to begin his own collection of classic matchday memorabilia with the hopes of developing an online museum.

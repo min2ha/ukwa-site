@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Islay Community Council
-
 Site of a community council for the island of Islay, Argyll & Bute.

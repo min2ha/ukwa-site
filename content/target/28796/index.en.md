@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Ysgol Maes Edwin | Flint Mountain Primary School
-
 Flintshire school earmarked for closure in 2015.

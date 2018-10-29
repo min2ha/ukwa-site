@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Miriam Elin Jones
-
 Miriam Elin Jones is a PhD candidate in the Welsh and Celtic Studies Departments at Aberystwyth University, researching the history and development of Welsh-language science fiction, and am also a freelance writer.

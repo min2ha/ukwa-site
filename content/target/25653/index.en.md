@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: More than 200,000 UK ballot papers stolen by van thieves
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# NHS WRES team (@WRES_team) on Twitter
-
 They are responsible for implementing the NHS Workforce Race Equality Standard (WRES) a requirement for NHS commissioners and NHS provider organisations.

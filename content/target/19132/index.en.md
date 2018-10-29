@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Extra: Magna Carta Day
-

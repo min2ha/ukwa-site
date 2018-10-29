@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 9 of the weirdest election polling stations in the UK
-
 None

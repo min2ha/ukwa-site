@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# HMS Protector Association
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Waterfront Community Church | Eglwys Gymunedol Glannau
-

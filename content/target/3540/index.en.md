@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Times (Hendon, Edgware, Barnet and surrounding areas)
-

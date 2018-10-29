@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Protest planned to oust Cameron should Tories try to occupy Downing Street
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rob Simmons (@cernyw) on Twitter (Mebyon Kernow candidate for St Ives)
-

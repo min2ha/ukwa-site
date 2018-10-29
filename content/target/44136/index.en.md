@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Chilcot report live: Blair says report clears him of 'bad faith' but Iraq inquiry says he exaggerated case for war
-
 Live coverage as Sir John Chilcot unveils his report into the Iraq war. Plus all the day’s other political news as Tory leadership runners go down to three.

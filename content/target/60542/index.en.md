@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the EU: Role of the Devolved Administrations and Implications for the Union
-
 This House of Lords Library Briefing was prepared in advance of the debate on 25 January 2018 on the following motion moved by Lord McInnes of Kilwinning (Conservative) that “that this House takes note of the role of the devolved administrations in the process of withdrawal from the European Union and future opportunities for strengthening the union of the United Kingdom”.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# DeSmog UK: Amber Rudd Fails to Disclose That Brother is Top Financial Lobbyist with Energy Clients
-

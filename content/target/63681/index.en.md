@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Castlehill Parish Church
-
 The website of Castlehill Parish Church. 

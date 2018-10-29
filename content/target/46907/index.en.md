@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Liberty - The National Council for Civil Liberties 
-
 Liberty is also known as the National Council for Civil Liberties. Founded in 1934, we are a cross party, non-party membership organisation at the heart of the movement for fundamental rights and freedoms in the UK.
 
 We promote the values of individual human dignity, equal treatment and fairness as the foundations of a democratic society.

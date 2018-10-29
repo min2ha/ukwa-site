@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# MSUK-Forum
-
 An online enthusiast forum concerned with remote controlled (RC) cars. Discusses electric, nitro and petrol RC variants.

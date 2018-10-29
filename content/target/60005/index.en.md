@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Shore Light Press
-
 Books and other works of art by the photographer and writer Jacki Sime.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: SNP's election ransom: Fury as Nicola Sturgeon reveals £140bn price tag for Labour deal
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T05:00:00Z"
 }
 
-# 4C Offshore
-
 Business and market information and consultancy for the Marine Offshore sector.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Tai Tarian
-
 Tai Tarian, formed in 2011, is a community housing mutual operating in Neath port Talbot. It is one of the largest social housing providers in Wales, owning over 9000 properties in the Neath Port Talbot County Borough. 

@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Scottish Association of Change Ringers
-
 Site of an charitable association that promotes and practises bell ringing in Scotland, and work towards restoration of peals throughout the country.

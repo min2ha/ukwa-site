@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron found missing from MPs' election leaflets after Miliband jibe
-

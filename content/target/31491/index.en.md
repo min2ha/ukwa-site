@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Ysgol Dafydd Llwyd
-
 Ysgol Dafydd Llwyd is a Powys Welsh Medium Primary School based in Newtown.

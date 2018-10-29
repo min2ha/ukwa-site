@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Lib Dem whip 'messed up' after Cable and Farron miss Brexit vote
-
 The Liberal Democrats' chief whip said he had "messed up" by allowing party leader Sir Vince Cable and his predecessor Tim Farron to skip Monday night's knife-edge vote on Brexit.

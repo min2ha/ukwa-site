@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Living and Learning with Water
-
 'Living and Learning with Water' is Dŵr Cymru Welsh Water's interactive guide to water.

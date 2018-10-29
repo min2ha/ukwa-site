@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Barrhead St. Andrew's Parish Church
-

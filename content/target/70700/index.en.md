@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit deal: Fox refuses to back Hammond's warning
-
 International Trade Secretary Liam Fox refused to back Chancellor Philip Hammond's warning that a "no-deal" Brexit could damage the economy. Speaking on the BBC's Andrew Marr show, he said: "This idea that we can predict what our borrowing would be 15 years in advance is just a bit hard to swallow."
 
 

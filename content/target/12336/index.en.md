@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Future of Scotland (FutureScot) on Twitter
-
 <p>The twitter profile of Future of Scotland, a grouping of civil society organisations in Scotland encouraging debate Scotland's future, independent of the result of the Independence Referendum.</p>

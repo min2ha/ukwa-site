@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Tower of London Food Festival
-
 Food festival in historic royal palaces

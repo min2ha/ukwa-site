@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Longhorsley Tree
-
 <p>Monthly newsletter for the parish of St Helen's - Longhorsley, Northumberland.</p>

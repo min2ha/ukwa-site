@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Beathag Mhoireasdan
-
 The personal site of Beathag Mhoireasdan, a native speaker of Gaelic.

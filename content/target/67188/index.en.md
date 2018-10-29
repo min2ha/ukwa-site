@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rethink mental illness (@rethink) on twitter
-
 Rethink Mental Illness, A UK twitter site raising awareness for metal health

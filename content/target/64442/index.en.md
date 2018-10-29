@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Amnesty International UK: Northern Ireland
-
 Amnesty International: issues relating to Northern Ireland

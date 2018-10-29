@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# YnNi Teg Cyf 
-
 YnNi Teg Cyf  is a Community Benefit Society. The aim is to develop and build renewable energy generators in Wales, funded by community shares.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: George Osborne's Budget 'a smokescreen for billions more in cuts' if Tories win general election 
-
 None

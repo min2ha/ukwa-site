@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stuart McIntyre (Conservative) on Twitter
-
 None

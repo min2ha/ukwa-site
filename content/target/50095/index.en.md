@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Jeanfield Swifts Football Club
-
 Site for a Scottish junior football club based in Perth.

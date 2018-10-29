@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Trusted Reviews: Mind Games: Can you master mental health with a controller?
-
 First article, part of Mind Games, a three-part series of articles exploring different aspects of gaming and mental health

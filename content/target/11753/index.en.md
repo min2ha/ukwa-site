@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lee Jones (LeeJones11) on Twitter
-
 <p>The twitter profile of althete Lee Jones, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Stephen Daisley (@JournoStephen) on Twitter
-
 Twitter account of Stephen Daisley, Digital Political Correspondent at STV News.

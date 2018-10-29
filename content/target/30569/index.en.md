@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# School of Advanced Study, University of London
-
 Official website of the School of Advanced Study, University of London.

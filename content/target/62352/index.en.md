@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Macclesfield Town F.C.
-
 Macclesfield Town F.C.
 Macclesfield Town Football Club is a professional association football club based in Macclesfield, Cheshire, England. The club currently plays in the National League, the fifth tier of English football.

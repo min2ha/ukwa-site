@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# George Lyon, Scottish Liberal Democrat on Facebook
-
 None

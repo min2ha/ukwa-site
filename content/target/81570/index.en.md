@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Duchenne UK
-
 Duchenne muscular dystrophy (DMD) is the most common fatal genetic disease diagnosed in childhood. The disease almost always affect boys, and they tend to be diagnosed before the age of 5. Duchenne muscular dystrophy is classified as a rare disease. There are around 2,500 patients in the UK and an estimated 300,000 sufferers worldwide.

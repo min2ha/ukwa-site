@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mark Griffin (@MarkGriff1n) on Twitter
-
 Twitter profile of Mark Griffin, the Scottish Labour Party candidate for Cumbernauld and Kilsyth constituency in the 2016 Scottish Parliamentary election.

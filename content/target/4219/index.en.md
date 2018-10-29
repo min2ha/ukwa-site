@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alba Social
-
 <p>Scottish Independence website</p>

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Magna Carta £2 coin blunder is a common mistake
-

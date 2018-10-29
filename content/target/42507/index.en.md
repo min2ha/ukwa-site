@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Afternoon Tea
-
 A website dedicated to afternoon tea with links to places around the UK that serve it and the latest news in this area.

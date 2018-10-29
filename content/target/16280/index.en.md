@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Museums Festival
-
 <p>The first ever Welsh Museums Festival will take place from 4-12 October, 2014 at museums across Wales.</p>

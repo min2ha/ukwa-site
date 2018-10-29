@@ -10,5 +10,3 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Invest in Colwyn Bay | Buddsoddi Colwy Bae
-

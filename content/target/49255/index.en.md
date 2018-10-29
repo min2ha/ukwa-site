@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Quest
-
 Site of a support group for lesbian, gay, bisexual and transgender Catholics.

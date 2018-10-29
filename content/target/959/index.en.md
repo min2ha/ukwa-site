@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Demos: Practice makes perfect
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2014-07-24T00:00:00Z"
 }
 
-# Welsh Blood Service - Gwasanaeth Gwaed Cymru
-

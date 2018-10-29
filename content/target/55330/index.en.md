@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Long Course Weekend Wales
-
 Long Course Weekend Wales takes place over 3 days and tackles a 2.4 mile swim, a 112 mile cycle and a 26.2 mile marathon. 

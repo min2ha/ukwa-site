@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Henderson (rosshenderson87) on Twitter
-
 The twitter profile of althete Ross Henderson, super heavyweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

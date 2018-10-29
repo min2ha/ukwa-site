@@ -10,6 +10,4 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# Institute of Latin American Studies: School of Advanced Studies, University of London
-
 This (archived) website represents the work and research of an international network of academics collaborating and researching in the field of Latin American Studies at the School of Advanced Study, the UK's national hub for the humanities.

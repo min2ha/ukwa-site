@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Drumchapel St. Mark's on Facebook
-
 Facebook of a Church of Scotland parish church at Drumchapel, Glasgow.

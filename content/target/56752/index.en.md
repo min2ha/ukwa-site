@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Holistic Ways Festival
-
 Site of an organisation staging festivals in Scotland showcasing alternative, complimentary and holistic therapies.

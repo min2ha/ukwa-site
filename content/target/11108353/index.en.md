@@ -10,5 +10,3 @@
   "start_date": "2008-08-04T00:00:00Z"
 }
 
-# Hidden Europe
-

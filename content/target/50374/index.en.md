@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Femmeuary
-
 FEMMEUARY! is a collaborative blog, for those interested, aggravated or enlightened by feminism

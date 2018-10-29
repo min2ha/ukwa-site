@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T13:07:00Z"
 }
 
-# Playwright in the Cages
-
 This blog was kept by playwright Peter Arnott as part of his work as writer in residence at the John Murray Archive, from 2009-2011.

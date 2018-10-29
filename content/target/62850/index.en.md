@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Prime Minister’s letter to Donald Tusk: 19 March 2018
-
 In a letter to President Donald Tusk, the Prime Minister writes to confirm her support for the progress made in the UK’s negotiations to leave the European Union, including agreement on the detailed legal framework for the implementation period, citizens’ rights, the financial settlement, and other aspects of our orderly withdrawal from the European Union.
 

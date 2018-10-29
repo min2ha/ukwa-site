@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Secretary of State David Davis' statement following the opening of EU exit negotiations
-
 Statement followed first day of negotiations for a new partnership with the EU

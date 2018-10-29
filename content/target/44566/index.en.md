@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T12:00:00Z"
 }
 
-# footytube
-
 footytube works with a variety of partners to aggregate vast amounts of football data. This data includes football videos, news, podcasts, blogs, fixtures, results, odds and team stats.

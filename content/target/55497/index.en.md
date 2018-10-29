@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wales Online: Internet addiction causes mental health problems, say Welsh academics: Are you addicted?
-
 Wales Online: News article on internet and mental health

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# A Better Britain : Unionist party
-
 'A Better Britain - Unionist Party' is a new Scottish party that is pro-British and pro-Union. The party is standing list candidates in Glasgow region in the 2016 Scottish Parliamentary election.

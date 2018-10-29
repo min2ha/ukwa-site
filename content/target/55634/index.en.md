@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit may never happen - Sir Vince Cable
-
 Sir Vince Cable - the likely  successor to Tim Farron as Lib Dem leader - said he was "beginning to think Brexit might never happen". He said "enormous" divisions in the Labour and the Tory parties and a "deteriorating" economy would make people think again.

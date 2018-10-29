@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Kaleidscope Project, The
-
 Kaleidscope helps people with Drug, Alcohol & Mental Health issues empowering them to achieve change together.

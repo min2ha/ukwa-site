@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Should we stay or should we go?' Google Trends captures what Brits are searching for in the run up to 'Brexit' vote.
-

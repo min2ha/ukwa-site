@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Craig Lawton (@CJRLawton) on Twitter 
-
 Craig Lawton is the Conservative candidate for Swansea West at the 2016 National Assembly for Wales elections and 2017 General Election.

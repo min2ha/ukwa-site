@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron hints Tory EU referendum will STILL be two years away
-
 None

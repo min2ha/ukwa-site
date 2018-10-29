@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cambridge Greens (@CambridgeGreens) on Twitter
-
 Twitter account of the Green Party in Cambridge, providing information on campaigns, events, representatives and candidates and local and national news updates.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May sacking ministers 'would get MPs' support'
-
 Theresa May would have the backing of Tory MPs if she sacked disloyal ministers for plotting and briefing, a senior backbencher said. Charles Walker, vice-chairman of the backbench 1922 Committee, told ministers to "stop chattering away".

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Beekeeping forum
-
 An online forum to discuss and give advice on beekeeping. 

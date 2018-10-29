@@ -10,5 +10,3 @@
   "start_date": "2011-12-01T00:00:00Z"
 }
 
-# Visit Wales : Wales Tourism Information for American and Canadian Visitors
-

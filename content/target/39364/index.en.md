@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Erskine for the Highlands and Islands on Facebook
-

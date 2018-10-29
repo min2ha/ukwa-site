@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Serco
-
 Serco Group plc is a British outsourcing company based in Hook, Hampshire. It operates public and private transport and traffic control, aviation, military weapons, detention centres, prisons and schools on behalf of its customers.

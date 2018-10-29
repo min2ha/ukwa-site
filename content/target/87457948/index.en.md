@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge-MIT Institute, The (CMI)
-

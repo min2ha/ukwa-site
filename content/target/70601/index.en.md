@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Fem Archive South (@FemArchiveSouth) on Twitter
-
 The southern branch of the Feminist Archive UK based at Special Collections, University of Bristol. National and transnational intersectional feminist politics.

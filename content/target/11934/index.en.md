@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rhoda Grant (RhodaGrant) on Twitter
-
 The twitter profile of Rhoda Grant, MSP for Highlands and Islands.

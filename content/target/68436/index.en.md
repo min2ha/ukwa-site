@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: EU leaders say single-market access for goods a nonstarter
-
 Theresa May was told by European leaders at the June summit that an attempt to protect the UK’s industrial base by gaining single market access for goods alone after Brexit was a nonstarter, as the Irish prime minister warned: “We are not going to let them destroy the European Union.”
 

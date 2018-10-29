@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Haven Credit Union
-
 Haven Credit Union is a service for the areas of Pembroke, Monkton and Pembroke Dock.

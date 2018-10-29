@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mirror: 'Europe opposed to favourable Brexit deal for Britain' as support for UK dwindles
-
 An article based on a think tanks report six months after the EU Referendum result.

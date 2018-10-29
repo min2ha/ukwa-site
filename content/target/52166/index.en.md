@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke’s, Hampstead
-
 St Luke’s is a friendly and growing Anglican Evangelical Church in Hampstead - a residential suburb of London.

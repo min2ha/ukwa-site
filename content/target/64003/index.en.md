@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Lowri-Ann Richards
-
 Lowri-Ann Richards is a Welsh actress, singer, cabaret and music hall performer. 

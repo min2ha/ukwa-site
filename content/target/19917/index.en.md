@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Susan Boucher UKIP
-
 UKIP Parliamentary Candidate for Blaenau Gwent in the 2016 General Election and 2016 National Assembly for Wales election.

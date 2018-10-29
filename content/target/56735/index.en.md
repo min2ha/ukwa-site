@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Sean Vicary
-
 Sean Vicary is an artist, filmaker and animator based in west Wales.

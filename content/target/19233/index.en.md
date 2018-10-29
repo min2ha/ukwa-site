@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: A year of opportunity for Lincoln's cultural and tourism sector will be highlighted at conference
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour vows to protect media plurality and implement Leveson proposals
-
 None

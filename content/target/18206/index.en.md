@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Monmouth Liberal Democrats
-
 Website of Monmouth Liberal Democrats, providing information on campaigns, candidates and representatives, how to get involved and local, national and party news.

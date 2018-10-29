@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Secret Life of a Manic Depressive Blog
-
 Blog about mental health 

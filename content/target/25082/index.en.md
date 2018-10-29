@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Delia Smith: I'm backing Labour to save the NHS because it can't be treated like a supermarket 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's five-year legacy: has he finished what Thatcher started? 
-
 None

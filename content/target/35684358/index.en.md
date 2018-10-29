@@ -10,5 +10,3 @@
   "start_date": "2010-02-18T00:00:00Z"
 }
 
-# City of London Corporation: London Metropolitan Archives (LML)
-

@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Revolution: Russia 1917 - one hundred years on on Facebook
-
 A public meeting on the 25 Feb 2017 to commemorate the Russian Revolutions in 1917. 

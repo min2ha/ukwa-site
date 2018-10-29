@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking dead at 76: Quotes, tributes and a look back at his extraordinary life
-
 WalesOnline; the death of Stephen Hawking.

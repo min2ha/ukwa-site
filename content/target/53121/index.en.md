@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fflur Elin (@FflurElin) on Twitter
-
 Fflur Elin is Plaid Cymru candidate for Pontypridd in the 2017 General Election election.

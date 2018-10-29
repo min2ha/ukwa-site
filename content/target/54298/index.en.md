@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tamil Diplomat
-
 The Tamil Diplomat was established in January 2015, it is based in London and aims to be the voice of the diaspora community and to act as a pressure group to influence politicians etc.

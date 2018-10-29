@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cemaes Heritage Centre | Canolfan Dreftadaeth Cemaes
-

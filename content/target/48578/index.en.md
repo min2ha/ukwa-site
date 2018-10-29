@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# OpenFields
-
 OpenFields is an internet based 'library'.  It is designed to meet practitioner and student demand for knowledge that supports and stimulates the development of land-based industries.  It aims to become their first point of reference.

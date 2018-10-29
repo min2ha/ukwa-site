@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Brent Housing Action
-
 Brent Housing Action was formed by a group of residents, campaigners and community organisations in Brent in April 2013. We want to support our friends, our neighbours and one another to fight against cuts to vital benefits and to the threat to our homes an communities. We want our council to support us in challenging changes which might mean the difference between home and homelessness for over 600 Brent families.

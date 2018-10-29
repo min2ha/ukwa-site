@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# South East Cancer Help Centre
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Green Party, The 
-
 greenparty.ie is the Irish section of the Green Party in Ireland.

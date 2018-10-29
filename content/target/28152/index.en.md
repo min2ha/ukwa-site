@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Jeremy Leggett (@JeremyLeggett) on Twitter
-
 Twitter feed of Jeremy Leggett, founder of Solar Century and Solar Aid.

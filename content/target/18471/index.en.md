@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Michael Gove: Tories must win over 'hearts' to get re-elected
-
 None

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Layla Moran and the Oxford & West Abingdon Lib Dem team
-

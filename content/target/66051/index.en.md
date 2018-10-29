@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Hospitality Ulster
-
 Specialising in representing the hospitality industry in Northern Ireland.

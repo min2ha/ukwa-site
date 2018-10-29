@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of Ireland - Great Britain
-
 the embassy of the Irish Republic offers news, information about Ireland and Irish culture, travel advice, and information about bilateral relations.

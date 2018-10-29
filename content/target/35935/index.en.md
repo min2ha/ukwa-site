@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kilmarnock & District History Group
-
 Website of a local history society based in Kilmarnock, Ayrshire, Scotland.

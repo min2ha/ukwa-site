@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:17.991793", 
+  "date": "2018-10-29T13:21:17.517685", 
   "open_access": false, 
   "target_url": "http://www.northwalesconservatives.com/", 
   "description": "", 
   "end_date": null, 
   "title": "North Wales Conservatives: www.northwalesconservatives.com", 
-  "record_id": "20181029T125417/EmHyH1Sfbr/qehCy/6ymXg==", 
+  "record_id": "20181029T132117/EmHyH1Sfbr/qehCy/6ymXg==", 
   "publisher": "northwalesconservatives.com", 
   "start_date": null, 
   "subject": null
 }
-
-# North Wales Conservatives: www.northwalesconservatives.com
 

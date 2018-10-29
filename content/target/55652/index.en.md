@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Labour Welsh Assembly Trade Union Group, The
-
 The Labour Welsh Assembly Trade Union Group co-operate and liaise with trade unions to promote trade union successes, share ideas and help mobilise against threats to the trade union movement across Wales. 

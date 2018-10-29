@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stockport LINk
-
 None

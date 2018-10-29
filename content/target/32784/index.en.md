@@ -10,6 +10,4 @@
   "start_date": "2015-11-24T09:00:00Z"
 }
 
-# Arcomis Arts Commissioning
-
 Arcomis (Arts Commissioning) is based in Cardiff and promote new music, host an online scores collection and stage international music events.

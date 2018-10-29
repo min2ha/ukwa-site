@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Swansea University: CHERISH-DE (Challenging Human Environments and Research Impact for a Sustainable and Healthy Digital Economy)
-
 The acronym CHERISH-DE stands for Challenging Human Environments and Research Impact for a Sustainable and Healthy Digital Economy. It is a new multdisciplinary research centre based at Swansea University tasked with bringing in the sea-change in how the digital economy impacts on humans, science and industry.

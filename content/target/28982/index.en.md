@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Huntingdon Liberal Democrats
-
 Website of Huntingdon Liberal Democrats, providing information on campaigns, how to get involved and news updates.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson accused of not being fully committed to Brexit by campaign to leave the EU
-

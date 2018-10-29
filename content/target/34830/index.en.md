@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Ben Vaughan Music (BVM)
-
 Benjamin Frank Vaughan is a Welsh Composer.

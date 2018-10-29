@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Eviction Resistance: Collective action against eviction
-
 Eviction Resistance Network is a diverse alliance of individuals  and groups dedicated to keeping people in their homes when threatened with eviction because of regeneration, refurbishment, demolition or due to financial hardship.

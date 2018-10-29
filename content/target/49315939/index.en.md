@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sudan Watch
-
 None

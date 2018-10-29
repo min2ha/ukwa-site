@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# London Socialist Historians Group (LSHG)
-
 None

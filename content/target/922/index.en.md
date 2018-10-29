@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Commissioning Board Authority 
-
 None

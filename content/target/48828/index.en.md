@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Allen & Overy: Article 50 notification – decision of the Supreme Court
-
 The UK Supreme Court confirmed that the UK Government cannot trigger the formal process of leaving the European Union without an Act of Parliament. This briefing summarises the decision and the reaction to it and considers the effect it may have on commercial parties as they begin to refine and implement their Brexit contingency plans.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Glasgow Reform Synagogue
-
 Site of a Jewish community and synagogue located in Newton Mearns, East Renfrewshire.

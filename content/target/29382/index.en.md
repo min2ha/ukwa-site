@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Humber Mouth Literature Festival
-
 Humber Mouth Literature Festival is a literary festival which takes place in Hull.

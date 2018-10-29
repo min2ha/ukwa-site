@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Halal Food Authority
-
 Halal Food Authority (HFA) is an independent, voluntary, non-profit, organisation operating as a commercial wing of a registered charity.  The objective of HFA is to facilitate the Muslim Ummah to be partial to genuinely manufactured halal food in compliance with HFA Halal Standards, Islamic Jurisprudence and relevant EU regulations in vogue.

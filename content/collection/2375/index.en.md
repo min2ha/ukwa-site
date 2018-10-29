@@ -49,8 +49,6 @@
   "endDateText": "31-07-2011"
 }
 
-# National Assembly for Wales election 2011
-
 Collection set up by Rob Phillips National Library of Wales. 
 National Assembly for Wales election 2011
 This collection of websites focuses on the election for the National Assembly for Wales in 2011. The Assembly was established in 1999, but the fourth Assembly, would be the first to have full lawmaking powers in devolved areas. The election resulted in gains for the Labour and Conservative parties and losses for the Welsh Liberal Democrats and Plaid Cymru but with no party having an overall majority. Following the election, Carwyn Jones AM, leader of the Labour group was elected as First Minister and formed a government.

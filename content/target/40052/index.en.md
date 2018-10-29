@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One - Commemoration in Leybourne
-
 Project to refurbish the Village War Memorial and to add those names that were not included when the memorial was established.

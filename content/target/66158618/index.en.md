@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Sisterhood and After: The Women's Liberation Oral History Project, University of Sussex
-
 None

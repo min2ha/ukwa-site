@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# John Mitchels GAA Liverpool (@JohnMitchelsGAA) on Twitter
-
 John Mitchels Liverpool is one of the most successful GAA clubs in the UK. Only mens club from outside Ireland to contest All Ireland Football Final 2009 & 2015

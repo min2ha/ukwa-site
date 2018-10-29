@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# National Bargee Travellers Association
-
 The National Bargee Travellers Association (NBTA) is a volunteer organisation formed in 2009 that campaigns and provides advice for itinerant boat dwellers on Britain’s inland and coastal waterways. This includes anyone whose home is a boat and who does not have a permanent mooring for their boat with planning permission for residential use.

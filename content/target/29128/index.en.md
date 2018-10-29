@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Welcome to Fife: Forth Bridge reaches 125 year milestone
-

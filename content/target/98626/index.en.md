@@ -10,5 +10,3 @@
   "start_date": "2005-03-07T00:00:00Z"
 }
 
-# Ethox Centre
-

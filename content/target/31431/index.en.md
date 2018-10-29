@@ -10,6 +10,4 @@
   "start_date": "2015-10-15T10:00:00Z"
 }
 
-# Heritage100
-
 Heritage100 is a group of key museums and archives in the Hampshire and Solent area of South-Central England. They work together in areas relating to collections, the stories they tell, and the audiences who use the, so that as partners they can add value to what they already achieve individually. 

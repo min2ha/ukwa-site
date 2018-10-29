@@ -10,5 +10,3 @@
   "start_date": "2011-02-16T00:00:00Z"
 }
 
-# Annette's Gallery - Pictures of Lake Vyrnwy
-

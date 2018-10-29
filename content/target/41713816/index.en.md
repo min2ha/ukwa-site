@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Madeline Moon, Member of Parliament for Bridgend
-
 Madeline Moon is the Labour prospective parliamentary candidate for Bridgend. She is also the current MP.

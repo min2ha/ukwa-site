@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Swinney MSP - Cabinet Secretary for Finance and Sustainable Growth
-
 John Swinney is Scottish National Party member of the Scottish Parliament for Perthshire North.

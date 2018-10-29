@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What does a Conservative majority mean for small businesses?
-
 None

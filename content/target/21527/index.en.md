@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Miliband aide: Labour could be extinct in a decade 
-
 None

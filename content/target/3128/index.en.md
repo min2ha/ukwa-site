@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T11:00:00Z"
 }
 
-# Royal Academy of Arts (RA)
-
 The Royal Academy of Arts (RA) promotes art and artists – a mission they pursue through exhibitions, education and debate.

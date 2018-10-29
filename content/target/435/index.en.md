@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tower Hamlets Health and Wellbeing Board
-
 None

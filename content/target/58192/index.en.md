@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Truckfest
-
 Site of a group of festivals held across the United Kingdom featuring tracks, lorries, haulage companies and related vehicles - festival locations : Peterborough, Ipswich, Malvern, Newark, Edinburgh, Kent, Shepton Mallet, Knustford.

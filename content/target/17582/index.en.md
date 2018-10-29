@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# International Glaciological Society
-
 The International Glaciological Society was founded in 1936 to provide a focus for individuals interested in practical and scientific aspects of snow and ice. They publish the 'Journal of Glaciology', the 'Annals of Glaciology', the ICE, the News Bulletin of the International Glaciological Society.

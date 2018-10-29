@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Dyfodol Adeiladu Cymru | Construction Futures Wales
-
 Construction Futures Wales is jointly funded and managed by the Welsh Government and CITB Wales through/under the Joint Investment Strategy (JIS) for the construction industry in Wales.

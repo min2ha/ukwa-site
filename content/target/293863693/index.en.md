@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Dyffryn Fernant Garden
-
 Located near the Pembrokeshire Preseli uplands.

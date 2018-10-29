@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Mis Hanes Pobol Dduon Cymru | Black History Month Wales 
-
 Every October throughout the UK, Black History Month celebrates the achievements and contributions of Black people to the development of British society, technology, economy and arts & culture.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Control-freak Cameron demands to vet speeches planned by WORLD LEADERS to make sure they don't undermine his bid to keep Britain in the EU  
-

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Graffeg LlGC (@LlGCGraffeg) on Twitter 
-
 This is the twitter feed for Graphics at the National Library of Wales. 

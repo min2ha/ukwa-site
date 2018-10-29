@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Katy Gordon (@katygordon) on Twitter
-
 The Twitter profile of Katy Gordon, the Scottish Liberal Democrats candidate for the West Scotland list in the 2016 Scottish Parliament election.

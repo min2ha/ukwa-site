@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Thorntons
-
 Thorntons Law LLP is a large full service legal firm with offices across Scotland. 

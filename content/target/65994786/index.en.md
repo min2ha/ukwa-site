@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# British Transport Police Authority
-
 None

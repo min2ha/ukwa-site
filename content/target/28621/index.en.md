@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# York Festival of Ideas
-
 York Festival of Ideas is a festival that celebrates the heritage of York, England. The festival was set up in 2011 by the University of York.

@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Daily Mail, The : The nation says thank you: 70 years on, three days of stirring events to mark the joy of VE day 
-
 An outline of the  day's events  for the 70th anniversary of VE Day  on the 08 May 2015

@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# eBay
-
 <p>UK eBay website, an online auction and shopping website in which people and businesses buy and sell a broad variety of goods and services worldwide. eBay Inc. was founded in 1995, and became a notable success story of the dot-com bubble; it is now a multi-billion dollar business with operations localized in over thirty countries.</p> Nominated by a Smashfest response: i need this website for everything too!
 

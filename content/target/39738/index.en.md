@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# The Women's Equality Party Lothian on Facebook
-
 Facebook page of the Lothian branch of the Women's Equality Party.

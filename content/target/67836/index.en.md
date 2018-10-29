@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hull RUFC (@hullrugbyunion) on Twitter
-
 The official Twitter account of Hull Rugby Union Football Club. 

@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Dawns Powys | Dance Powys
-
 Powys Dance is a community and educational dance company based in Mid Wales.

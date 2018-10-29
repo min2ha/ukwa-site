@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Susan Adams
-
 Susan Adams uses a variety of media including painting, printmaking, polychromed wood-carving and video. She is a recipient of a Creative Wales Award and is a former Artist in Residency of Welsh Nationol Opera and Bardser Island.

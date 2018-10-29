@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Falkirk Rugby Football Club
-
 Site of a Scottish rugby football club based in Falkirk, Stirlingshire.

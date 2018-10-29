@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Danny Alexander (dannyalexander) on Twitter
-
 <p>The twitter profile of Danny Alexander, Liberal Democrat Member of Parliament for Inverness, Nairn, Badenoch &amp; Strathspey.</p>

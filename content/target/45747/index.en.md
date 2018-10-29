@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Theatr Pena
-
 Theatr Pena is supported by Wales Arts Council and is a 'unique artistic venture, not just in Wales but within Britain as a whole. The artistic mission is to re-present classic drama with an emphasis on women.' 

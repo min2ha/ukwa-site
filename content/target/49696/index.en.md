@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Kirkcaldy Youth Music Theatre on Facebook
-
 Facebook page for a amateur youth music theatre group based in Kirkcaldy, Fife Scotland.

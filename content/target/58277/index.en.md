@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Five tips on beating video game addiction
-
 News article offering 5 tips to beat internet gaming addiction

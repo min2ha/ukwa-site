@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Academics for Europe
-
 Academics for Europe represents any academic in favour of the UK remaining a member of the EU. It seeks to unite students and more senior academics in a campaign that aims to increase awareness among the wider public of the benefits and positive impact the UK’s EU membership has in academia, higher education and society… 

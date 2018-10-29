@@ -10,6 +10,4 @@
   "start_date": "2014-08-09T12:00:00Z"
 }
 
-# Iniva - Institute of International Visual Arts
-
 None

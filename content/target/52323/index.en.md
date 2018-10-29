@@ -10,5 +10,3 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Caerleon Comprehensive School | Ysgol Gyfun Caerllion
-

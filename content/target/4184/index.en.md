@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.566997", 
+  "date": "2018-10-29T13:22:21.822872", 
   "open_access": false, 
   "target_url": "http://www.bbc.co.uk/newsbeat/23797274", 
   "description": null, 
   "end_date": null, 
   "title": "BBC News: Newsbeat's week in pictures: Friday 15 November", 
-  "record_id": "20181029T125514/F12OM/09DxWDCvE+JVCccw==", 
+  "record_id": "20181029T132221/F12OM/09DxWDCvE+JVCccw==", 
   "publisher": "bbc.co.uk", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# BBC News: Newsbeat's week in pictures: Friday 15 November
 
 None

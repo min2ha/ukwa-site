@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Brecon Remembers
-
 This is a tribute to the First World War casualties from Brecon. The site is managed by Brecon U3A.

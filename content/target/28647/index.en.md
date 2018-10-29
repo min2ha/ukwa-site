@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Ysgolion dros Addysg Gymraeg (CYDAG)
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Documentation in the post-factual society; or what LIS did next (after Brexit)
-
 thelynxiblog is a personal website by the Head of Library & Information Science at City University London.

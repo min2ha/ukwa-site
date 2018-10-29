@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Another ONE MILLION migrants are on their way: Borders chief warns of huge new influx to Europe this year as Michael Gove says Britain has no control over who we let in    
-

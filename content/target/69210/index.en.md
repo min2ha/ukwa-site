@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Website for the Donnington Historic Festival
-
 Website for the Donnington Historic Festival.

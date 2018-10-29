@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Frankfurt will come for the City after Brexit, top diplomats warn
-

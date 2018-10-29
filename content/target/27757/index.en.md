@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Churchill’s plan to draw the US into war – by giving them a copy of the Magna Carta
-

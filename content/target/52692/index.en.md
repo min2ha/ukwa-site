@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Simon Hughes (@Simon Hughes) on Twitter (Liberal Democrats Politician)
-
 Simon Hughes stood Liberal Democrat canididate for Bermondsey and Old Southwark in the 2017 General Election but was not elected. He was first elected in 1983 and held the seat until 2015. 

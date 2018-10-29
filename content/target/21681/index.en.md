@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I see the future of British politics – it belongs to the wheeler dealers
-
 None

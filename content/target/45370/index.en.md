@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Zine Archives
-
 Zine collections and literature from around the world. This list has been curated and presented by Lucy Robinson. 

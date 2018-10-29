@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Windermere RUFC on Pitchero
-
 Play in Cumbria League 1 and run one senior side every week and are looking to add an occasional second team.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Damian Green (Conservative Politician)
-
 Damian Green stood as Conservative candidate for Ashford at the 2015 General Election. He was first elected to serve as MP for Ashford in 1997 and was re-elected in 2015. He subsequently stood for re-election again in 2017 and was successful.

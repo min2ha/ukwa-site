@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Abergavenny and District Civic Society
-

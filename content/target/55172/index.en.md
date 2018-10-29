@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Scrap Trident
-
 Site of a campaign to oppose the renewal of the Trident nuclear weapons system, based in Scotland.

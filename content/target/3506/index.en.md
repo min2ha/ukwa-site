@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Welwyn Hatfield Times
-
 None

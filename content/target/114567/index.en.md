@@ -10,6 +10,4 @@
   "start_date": "2015-02-24T00:00:00Z"
 }
 
-# Engender
-
 Engender is a feminist organisation based in Edinburgh, which works to advance equality between women and men.

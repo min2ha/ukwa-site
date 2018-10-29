@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU migrant surge has seen 1m come to Britain in the past five years
-

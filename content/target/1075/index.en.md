@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Public Health Outcomes Framework Data Tool
-
 None

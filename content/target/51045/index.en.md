@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Nevis Range Mountain Experience / Monadh Nibheis Dearbhachd Beinne
-
 Site of a visitor, activity and winter sports centre at Ben Nevis, Highland, Scotland.

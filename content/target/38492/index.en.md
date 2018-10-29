@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Jean Urquhart for Highlands and Islands
-
  Jean Urquhart is the independent list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

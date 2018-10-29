@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East Sussex Downs and Weald and NHS Hastings and Rother
-
 None

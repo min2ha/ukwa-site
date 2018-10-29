@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Falkirk Presbytery
-
 The website of the Falkirk Presbytery. 

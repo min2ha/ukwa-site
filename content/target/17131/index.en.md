@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Unhappy New Year for Cameron, Miliband and Clegg: They face the most unpredictable general election in a generation
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Swindon Fringe Festival
-
 Website for the Swindon Fringe Festival.

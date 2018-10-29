@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Christian Aid: Prayers on the death of Nelson Mandela
-
 None

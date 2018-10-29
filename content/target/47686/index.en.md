@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BC News: The 11 Supreme Court judges who could rule on UK's Brexit appeal
-
 The government decided to appeal against the High Court's ruling that Article 50 could not be invoked without Parliament's support, so that meant the case had to be heard in the Supreme Court, the highest in the land, in December 2016. This article offers short biographies of the 11 Supreme Court judges. 

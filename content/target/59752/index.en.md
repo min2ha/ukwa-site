@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brussels gloats over May’s humiliating defeat on Brexit Bill with jibe that Parliament has ‘taken back control’ as bruised PM heads for crucial summit   
-

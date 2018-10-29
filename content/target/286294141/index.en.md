@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rivington Remembers 
-
 <p>Project exploring the history of Rivington, a village in Lancashire, England during the First World War.</p>

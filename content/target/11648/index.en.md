@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Benson (CraigBenson94) on Twitter
-
 The official twitter profile of swimmer Craig Benson.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Côr Cana-mi-gei
-
 Côr Cana-mi-gei which consists of around 30 ladies, was formed in the summer of 2010 under the baton of Ann Jones. They are based in Talsarnau, North Wales. 

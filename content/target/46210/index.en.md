@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Brexit: The Irish dimension
-
 An article outlining how Brexit impacts imports to the UK from the Republic of Ireland.

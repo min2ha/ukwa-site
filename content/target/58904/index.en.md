@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I’m not a ‘Brexit mutineer’. I’m proud to fight for democracy
-

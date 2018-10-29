@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Rye and Battle Observer
-
 None

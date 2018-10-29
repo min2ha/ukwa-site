@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Welshnot
-
 Welshnot is a blog providing articles on alternative Welsh related matters mostly music but also politics. The bog was last updated in 2016.

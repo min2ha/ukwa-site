@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Tawton
-
 North Tawton is a small ancient market town situated amid beautiful West Devon countryside and perfectly positioned alongside the river Taw, close to Dartmoor National Park.

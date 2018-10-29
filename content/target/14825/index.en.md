@@ -10,6 +10,4 @@
   "start_date": "2014-11-26T06:00:00Z"
 }
 
-# England Handball
-
 None

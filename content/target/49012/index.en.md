@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Talking Books Wales | Llyfrau Llafar Cymru 
-
 Talking Books produes books and tapes for the registered blind and partially sighted on cd's or tapes. This is a free service based in Carmarthen and has recently received a grant from the Welsh Government.

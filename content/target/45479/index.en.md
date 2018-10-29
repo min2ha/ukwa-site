@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T11:00:00Z"
 }
 
-# Abernethy Trust Limited
-
 Site of a group of outdoor adventure centres throughout Scotland run by Christians.

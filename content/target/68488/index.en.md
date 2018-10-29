@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# grad
-
 First opening in 2013 at London’s Fitzrovia, Grad has operated as a Kunsthalle, a platform and a forum for debate while researching, curating, commissioning and producing over a hundred projects. It is also known for historical shows and contemporary exhibitions Grad's team is based in London and Moscow.

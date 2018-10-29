@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Halibalw Llundain
-
 Halibalw Llundain provides information for those seeking childcare in London through the medium of Welsh.

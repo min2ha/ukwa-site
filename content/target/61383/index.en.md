@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Presence UK
-
 Russian Presence UK, a not-for-profit project, registered in 2008 in London, documents materials related to the history of Russo-British relationships and the legacy of Russian culture in the UK. 

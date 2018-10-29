@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Vote Tory at the General Election? You've got to be kidding
-
 None

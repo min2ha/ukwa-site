@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lorraine Francis on Facebook (Green Party Candidate for Bristol East)
-

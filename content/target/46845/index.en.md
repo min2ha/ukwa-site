@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Mark Drakeford on Facebook (Labour AM for Cardiff West)
-
 Mark Drakeford is the Labour AM for Cardiff West.

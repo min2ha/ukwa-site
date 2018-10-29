@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Football: National Football Magazine of Wales, The
-
 "Welsh Football" was founded in 1991 by writers who had been involved in previous publications including "The Welsh Football Almanac 1991" and the defunct magazine "The Welsh Footballer". 

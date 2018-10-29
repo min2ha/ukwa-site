@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Transition Stirling
-
 Site of a group based in Stirling, Scotland, concerned with promoting local produce, learning practical skills, and reassessment of reliance on fossil fuels for energy, with a view to addressing the problems arising from climate change.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Republic: Will you ask your candidates to support the Republic Manifesto?
-
 Republic is a British republican pressure group advocating the replacement of the United Kingdom's monarchy with an elected head of state. It is a member organisation of Common Cause and the Alliance of European Republican Movements and is currently the only organisation solely campaigning for a republican constitution for Britain.

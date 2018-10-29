@@ -10,5 +10,3 @@
   "start_date": "2016-11-24T09:00:00Z"
 }
 
-# North Wales Society For The Blind, The
-

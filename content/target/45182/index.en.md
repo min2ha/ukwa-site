@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# In Rio, as in Britain, disability rights are under attack again
-
 In 2012 Paralympians were hailed as heroes. Now they face a grimly familiar cycle of cuts and contempt.

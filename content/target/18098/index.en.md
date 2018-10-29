@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband: No plans for SNP deal if Labour fail to win majority at election
-
 None

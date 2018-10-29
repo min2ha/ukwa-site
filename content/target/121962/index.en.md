@@ -10,6 +10,4 @@
   "start_date": "2006-01-11T00:00:00Z"
 }
 
-# UK Coalition of people living With HIV and AIDS
-
 UKC is a group of people living with HIV and AIDS, campaigning, researching and providing services by and for people like ourselves.

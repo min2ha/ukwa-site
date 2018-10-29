@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Kinmel Bay Church, Rhyl
-

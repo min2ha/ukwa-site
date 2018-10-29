@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# International Business Times UK 
-
 <p>International Business Times (IBTimes) is a digital global news publication that delivers international business news to an audience of over 5 million in the U.K. and 50 million people worldwide every month through its network of digital publishing platforms. IBTimes provides content around the most important business, economic and political stories from around the world, while also adhering to other niche areas that interest global readers. It is produced in 10 country editions in 5 different languages, offering in-depth coverage that is relevant and specific to each global market.</p>

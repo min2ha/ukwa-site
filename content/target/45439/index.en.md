@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# English Archery Federation (EAF)
-
 The English Archery Federation (EAF) is a body set up by the five English Regions within The Grand National Archery Society (GNAS) to select and manage teams for International events where it is appropriate for England (as opposed to Great Britain) to participate.

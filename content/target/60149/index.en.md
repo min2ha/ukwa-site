@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stefan Lawrence
-
 Stefan Lawrence is a sociologist that focuses on fans, ultras, racism and digital culture in football.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Union bosses demand next Labour leader be more left-wing than Ed Miliband
-
 None

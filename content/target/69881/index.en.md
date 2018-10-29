@@ -10,6 +10,4 @@
   "start_date": "2018-08-11T09:00:00Z"
 }
 
-# Association of International Property Professionals Ltd. (AIPP)
-
 Association for companies involved in buying and selling properties overseas. Site includes resources and list of members. 

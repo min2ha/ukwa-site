@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lochore Welfare Junior Football Club
-
 Site for a Scottish junior football club based in Lochore, Fife, Scotland.

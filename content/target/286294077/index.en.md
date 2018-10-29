@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llandeilo Music Festival
-
 <p>Llandeilo Music festival is an annual classical music festival held in July.</p>

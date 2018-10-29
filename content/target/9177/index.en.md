@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SNP on Facebook
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# North Wales Association of Church Bell Ringers
-

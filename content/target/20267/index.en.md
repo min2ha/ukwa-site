@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruth Jones (@ruth4monmouth) on Twitter 
-
 Welsh Labour Prospective Parliamentary Candidate for Monmouth CLP General Election 2015.

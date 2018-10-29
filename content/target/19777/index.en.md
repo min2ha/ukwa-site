@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North West Wales Green Party | Plaid Werdd Gogledd Orllewin Cymru!
-
 The site for Green Party members living in North Wales – the group covers Ynys Mon, Arfon, Aberconwy and Clywd West constituencies.

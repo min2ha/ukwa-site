@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Sherriff (Labour candidate for Carlisle)
-

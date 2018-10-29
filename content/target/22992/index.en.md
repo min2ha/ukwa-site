@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jacqui Berry (TUSC candidate for Gillingham and Rainham)
-

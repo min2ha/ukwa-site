@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Boy Who Lived, The 
-
 The Boy who lived is a Harry Potter fan site created in 2000 and updated till 2010. It's about Harry Potter's books and Harry Potter's world.

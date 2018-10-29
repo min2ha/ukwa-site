@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leicester LINk
-
 None

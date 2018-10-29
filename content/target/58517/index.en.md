@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Octavia Foundation
-
 Octavia Foundation, registered charity no (1065817). We connect people affected by unemployment, ill health, social isolation or low incomes in central and west London with opportunities for positive personal change. Our vision is to build stronger, happier and healthier communities to help create an enriched life where we live.

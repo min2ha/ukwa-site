@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Government: Proposals for further devolution of powers to Scottish Parliament 
-
 <p>This Command Paper sets out the positions of the Conservative, Labour and Liberal Democrat parties on the further devolution of powers to the Scottish Parliament. This summarises the submissions of these parties to the Smith Commission, and was published 13 October 2014.</p>

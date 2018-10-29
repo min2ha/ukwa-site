@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Post-election negotiations could last for weeks, Sir Gus O'Donnell suggests
-
 None

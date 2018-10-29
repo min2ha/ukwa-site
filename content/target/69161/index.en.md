@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: New Brexit Secretary Dominic Raab vows to 'intensify' talks
-
 Dominic Raab said his first meeting with the EU's chief negotiator in Brussels had been "constructive. Both the UK and EU were stepping up preparations for a "no deal" Brexit. The European Commission issued a paper instructing other EU states to prepare for a no-deal Brexit.

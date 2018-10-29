@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# Scottish Boundary Commissions
-
 A portal to the two Boundary Commissions in Scotland.

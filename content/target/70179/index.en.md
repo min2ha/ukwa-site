@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# UK Society of Celebrants
-
 Professional Body & Celebrant Training | for All Your Hatch, Match & Dispatch Needs for Wedding, Naming & Funeral Ceremonies

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ormskirk & Skelmerdale Advertiser
-
 None

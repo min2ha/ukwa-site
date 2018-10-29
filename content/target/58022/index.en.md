@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ullapool Guitar Festival
-
 Site of an annual music festival based in Ullapool, Highland, featuring music of guitars across many genres.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Farage-mania hits the streets as Ukip leader finds fans on the streets of Thanet
-
 None

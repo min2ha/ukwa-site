@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'Key issues remain' after Raab and Barnier talks
-
 Brexit Secretary Dominic Raab and EU chief negotiator Michel Barnier met for more than an hour on October 14th ahead of a crunch EU leaders' summit that week. Mr Barnier tweeted that issues, such as how to avoid a hard border with Ireland, were "still open".
 
 

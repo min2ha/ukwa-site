@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Cinel Gabran Management
-
 Cinel Gabran Management is a Personal Management Company for Actors, Presenters and Directors and has an office in Cardiff.

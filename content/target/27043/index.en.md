@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Railway Technology: Forth Rail Bridge, Firth of Forth
-

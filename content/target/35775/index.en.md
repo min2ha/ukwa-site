@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Novels of the Easter Rising
-
 This webpage provides an annotated bibliography of novels dealing with the Easter Rising, 1916 including a plot summary, a list of key characters, and a publication history.

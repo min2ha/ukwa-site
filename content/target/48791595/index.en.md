@@ -11,5 +11,3 @@
   "subject": "Italy UK"
 }
 
-# Il Circolo - Italian cultural association
-

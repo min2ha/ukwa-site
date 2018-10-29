@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# These Islands
-
 Forum discussing the future of the United Kingdom.

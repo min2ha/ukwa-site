@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: David Davis calls for cabinet rebellion over PM's plan
-
 Cabinet ministers should "exert their collective authority" and rebel against Theresa May's proposed Brexit deal, ex-Brexit Secretary David Davis wrote in a letter to the Times. The prime minister had suggested a temporary arrangement for the whole UK to remain in the customs union while the Irish border issue was resolved.
 
 .

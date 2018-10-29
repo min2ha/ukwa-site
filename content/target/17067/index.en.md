@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Building.co.uk: Building launches election manifesto for construction
-
 Building is one of the United Kingdom’s oldest business-to-business magazines, launched as The Builder in 1843 by Joseph Aloysius Hansom – architect of Birmingham Town Hall and designer of the Hansom Cab. The journal was renamed Building in 1966 as it is still known today. Building is the only UK title to cover the entire building industry.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PopSugar: Dwayne Johnson Opens Up to a Young Fan About His Longtime Battle With Depression
-
 PopSugar article about Dwayne Johnson and fan discussing mental health on Twitter

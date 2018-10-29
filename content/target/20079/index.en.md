@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cerith Griffiths on Facebook
-
 Plaid Cymru candidate for Cynon Valley.

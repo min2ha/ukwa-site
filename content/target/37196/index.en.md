@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Boris Johnson urges Obama not to intervene in EU debate
-
 BBC News: Boris Johnson urges Obama not to intervene in EU debate

@@ -10,7 +10,5 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# Barbara Pym Society
-
 International literary society devoted to the 20th
 century English novelist Barbara Pym.

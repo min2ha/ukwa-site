@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Floors Castle
-
 Site of a stately home and estate, and visitor attraction featuring the grounds, gardens, restaurants and shops, garden centre and walks, located at Kelso, Roxburghshire, Scotland.

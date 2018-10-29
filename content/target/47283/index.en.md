@@ -10,8 +10,6 @@
   "start_date": "2016-11-23T09:00:00Z"
 }
 
-# The Balfour Project
-
 Mindful of centuries of European persecution of the Jewish people
 and the continuing plight of the Palestinian people,
 

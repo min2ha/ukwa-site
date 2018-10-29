@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Tarw Du
-
 Tarw Du is a music recording, production and publishing label from Wales.

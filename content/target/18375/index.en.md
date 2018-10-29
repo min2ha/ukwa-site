@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hywel William AS/MP on Facebook
-
 Hywel Williams is the Plaid Cymru candidate for Arfon. He is also the current MP.

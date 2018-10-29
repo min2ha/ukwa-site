@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# Faculty of Occupational Medicine
-
 <p>Professional Bodies and trade unions</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: 12 signs that you're addicted to social media
-
 News article detailing 12 signs that may show you are addicted to social media

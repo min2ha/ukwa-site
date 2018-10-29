@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# JUSZ Scotland (@JuszScotland) on Twitter
-
 Twitter profile of Jesteś u Siebie. Zagłosuj, "Vote. You are at Home" campaign to encourage Paolish migrants to vote in the 2016 Scottish Parliament elections.

@@ -10,6 +10,4 @@
   "start_date": "2014-03-21T18:00:00Z"
 }
 
-# PHP UK Conference 2014
-
 None

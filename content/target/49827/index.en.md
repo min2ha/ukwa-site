@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keeping an Eye on The Czar of Russia
-
 A personal blog about politics in Northern Ireland. The author wrote a number of blog posts on the various constituencies for the March 2017 Assembly elections. 

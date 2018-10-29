@@ -11,5 +11,3 @@
   "subject": "19th Century English Literature"
 }
 
-# Leeds Centre for Victorian Studies, Leeds Trinity & All Saints
-

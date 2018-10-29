@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Design Council
-
 Established in 1944 to demonstrate the value of industrial design in reviving post-war Britain, the Design Council is now an enterprising charity which works to improve people's lives through the use of design.

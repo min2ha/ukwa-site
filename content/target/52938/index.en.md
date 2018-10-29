@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Creative Diversity Network
-
 The Creative Diversity Network is a forum, paid for by its member bodies.

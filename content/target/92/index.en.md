@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bolton NHS Foundation Trust
-
 None

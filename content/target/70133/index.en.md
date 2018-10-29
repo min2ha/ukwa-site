@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint John the Evangelist Parish
-
 Site of a Scottish Roman Catholic parish church in Barrhead, Renfrewshire.

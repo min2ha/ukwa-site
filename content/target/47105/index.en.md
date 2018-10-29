@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Designppl
-
 A London based web company that web provides designer, developer, UX / UI & project management services. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Iain McKenzie MP (InverclydeMP) on Twitter
-
 <p>The twitter profile of Iain McKenzie, Parliamentary Private Secretary to the Shadow Secretary of State for Defence and Labour Member of Parliament for Inverclyde.</p>

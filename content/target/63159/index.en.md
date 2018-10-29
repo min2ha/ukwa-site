@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Library Case studies: Alexandra Bulat
-
 Alexandra is a PhD student at the School of Slavonic and East European Studies (SSEES), University College London. She researches attitudes towards EU migration in the UK, based on interviews in East Ham and Clacton. During a three-month placement with the British Library Alexandra used the UK Web Archive and LSE Brexit Collection to see how migration was presented in the 2016 EU referendum campaign.

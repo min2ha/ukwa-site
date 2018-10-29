@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Halcro Johnston (@jhalcrojohnston) on Twitter
-
 Twitter profile of Jamie Halcro Johnston, Scottish Conservative and Unionist Party candidate for Orkney and Shetland in the 2017 general election.

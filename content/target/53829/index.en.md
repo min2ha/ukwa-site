@@ -10,5 +10,3 @@
   "start_date": "2017-05-31T09:00:00Z"
 }
 
-# Flickering Lamps
-

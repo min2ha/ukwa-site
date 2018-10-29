@@ -10,8 +10,6 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Deputy Prime Minister's Office (@dpmoffice) on Twitter
-
  @DPMoffice
 
 The official account for the Office of the Deputy Prime Minister. This is not being updated as the current administration does not have a Deputy Prime Minister.

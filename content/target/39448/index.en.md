@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Derek Scott on Facebook
-
 Facebook profile of Derek Scott, Scottish Libertarians list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

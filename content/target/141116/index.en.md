@@ -11,6 +11,4 @@
   "subject": "Smoking Ban UK 2007"
 }
 
-# Health in Wales (NHS Wales)
-
 Health in Wales (formerly NHS Wales) is an outcome of a Patient and Carer Empowerment (PCE) project commissioned by Informing Healthcare (now the NHS Wales Informatics Service) for the Welsh Assembly Government to enable people in Wales to become far more involved in their health. The website provides information about essential health matters.

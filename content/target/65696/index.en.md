@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Monmouthshire Association, The 
-
 The Monmouthshire Association was established in 2010 to raise the importance of the county of Monmouth's traditions and identity. 

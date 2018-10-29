@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Islamic Cultural Centre & London Central Mosque
-
 The London Central Mosque (also known as the Islamic Cultural Centre, ICC or Regent's Park Mosque) is a mosque in London, England. It was designed by Sir Frederick Gibberd, completed in 1978, and has a prominent golden dome. The main hall can hold over five thousand worshippers,[1] with women praying on a balcony overlooking the hall. The mosque holds a chandelier and a vast carpet, with very little furniture.

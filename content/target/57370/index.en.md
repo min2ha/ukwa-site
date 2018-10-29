@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Fashion Festival
-
 Site of a fashion festival in Edinburgh bringing together Scottish and international fashion industry figures for four days of events.

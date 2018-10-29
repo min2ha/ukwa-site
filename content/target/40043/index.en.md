@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Gallery, The 
-
 The Great War Gallery commemorates the First World War by bringing to life the stories of local people, both military and civilian.

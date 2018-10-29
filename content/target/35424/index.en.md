@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Oliver Mundell (@olivermundell) on Twitter
-
 The Twitter profile of Oliver Mundell, Scottish Conservative and Unionist candidate for Dumfriesshire in the 2016 Scottish Parliament election.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Jane Barnes Fine Artist
-
 Jane Barnes is a fine artist from Merthyr Tydfil. Her work involves 'the transient nature of life contained within image, the emotional imprint and the sense of infinity'.  

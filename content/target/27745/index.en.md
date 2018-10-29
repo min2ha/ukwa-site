@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Time travel: Historical holidays and escorted trips which bring the past to life
-

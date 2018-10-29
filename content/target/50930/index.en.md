@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# House for an Art Lover
-
 Site of an art gallery and exhibition space, events venue, café, multipurpose artists’ studios and visitor attraction inspired by the designs of Charles Rennie Mackintosh and located in Bellahouston Park, Glasgow.

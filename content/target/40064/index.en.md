@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Shipwrecks UK
-
 Shipwrecks UK Ltd offers the most comprehensive source of information about shipwrecks in the sea areas surrounding Great Britain and Ireland.

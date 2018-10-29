@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Friends House Moscow
-
 <p>Friends House Moscow funds projects for peace and civil society in the former Soviet Union. We support projects in a variety of areas including human rights, education, restorative justice, and non-violent communication.</p>

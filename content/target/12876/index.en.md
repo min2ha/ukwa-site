@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hunterian, The: Lucy Skaer
-
 <p>The Hunterian is Scotland's oldest public museum and home to one of the largest collections outside the National Museums. This webpage includes information about the exhibition of a group of pivotal works by Turner Prize-nominee Lucy Skaer at the Hunterian Art Gallery. Part of the cultural programme of Glasgow 2014.</p>

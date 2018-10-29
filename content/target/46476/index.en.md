@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: The power of redemptive anger
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

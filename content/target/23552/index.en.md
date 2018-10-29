@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graham Winter (Labour Politician)
-
 Graham Winter stood as Labour Party candidate for Camborne and Redruth in the 2017 General Election but was not elected. 

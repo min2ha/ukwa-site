@@ -10,5 +10,3 @@
   "start_date": "2013-10-18T00:00:00Z"
 }
 
-# Gwobrau Dewi Sant | St David Awards
-

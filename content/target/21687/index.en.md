@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy pledges £1bn to win Scottish Labour voters back from SNP
-
 None

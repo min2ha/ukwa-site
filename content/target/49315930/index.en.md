@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Gerrans & St Anthony in Roseland Online Parish Clerk
-
 None

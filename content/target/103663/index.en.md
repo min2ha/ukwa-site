@@ -10,5 +10,3 @@
   "start_date": "2011-11-25T00:00:00Z"
 }
 
-# Eglwys y Santes Fair, Plwyf Aberystwyth
-

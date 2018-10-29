@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ardnamurchan Ladies Camanachd on Facebook
-
 Facebook page for the women's section of a shinty club based at Strontian, Ardnamurchan, Highland.

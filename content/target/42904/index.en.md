@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# People Make Glasgow
-
 Site of an organisation listing attractions and events in the City of Glasgow.

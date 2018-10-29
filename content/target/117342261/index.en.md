@@ -10,5 +10,3 @@
   "start_date": "2013-05-23T00:00:00Z"
 }
 
-# 21st Century Schools | Ysgolion yr 21ain Ganrif
-

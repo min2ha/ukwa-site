@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Crowdfunder: Let's factcheck the election!
-
 Full Fact are a UK independent, non-partisan, factchecking charity and they are crowdfunding to factcheck the General Election 2017.

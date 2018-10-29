@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Natural Beekeeping Trust
-
 The Natural Beekeeping Trust was formed in 2009 in response to the need for an alternative approach to the care of bees. 

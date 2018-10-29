@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Just Festival Edinburgh
-
 Just Festival features over 300 events and performances across Edinburgh each August.

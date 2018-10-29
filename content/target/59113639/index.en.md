@@ -10,5 +10,3 @@
   "start_date": "2011-01-19T00:00:00Z"
 }
 
-# Let's Face It
-

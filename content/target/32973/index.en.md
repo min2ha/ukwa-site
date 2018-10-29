@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# Let's Get Physical!
-
 Let's Get Physical is a Hafal managed website and is a guide for mental health services on how to promote physical health for services, users and carers.

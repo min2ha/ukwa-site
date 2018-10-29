@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Worcester Cathedral: Press release 3 November 2014 
-

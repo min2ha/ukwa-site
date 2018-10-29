@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Matthew Evans (@matthewevansnpt) on Twitter (Conservative candidate for Newport West)
-
 Matthew Evans is the Conservative candidate for Newport West at the 2016 National Assembly for Wales elections. 

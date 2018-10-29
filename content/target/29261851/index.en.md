@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2009"
 }
 
-# Jury Team
-

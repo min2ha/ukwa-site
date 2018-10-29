@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of St. Michael the Archangel, Chagford
-
 St Michael’s belongs to a benefice of Anglican (Church of England) churches which, together with the churches of the North Tawton group, forms a family of churches called the Whiddon Mission Community.

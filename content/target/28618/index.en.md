@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Rothesay Primary School Digital Commonwealth Project
-
 A Rothesay Primary School blog; "telling stories of the Commonwealth on the Isle of Bute."

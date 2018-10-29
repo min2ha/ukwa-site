@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Gildas Music
-
 Gildas is the stage name for the singer-songwriter for Arwel Lloyd, and co-writer and guitarist for the Al Lewis Band. His second album Sgwennu Stori appeared on the short list for Welsh Language Album of the Year 2014 and Y Selar Best Albums of 2013.   

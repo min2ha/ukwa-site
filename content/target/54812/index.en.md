@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: PM 'must listen' to other parties over Brexit says Cameron
-
 Theresa May would have to "listen to other parties" as she reviewed her Brexit strategy in the wake of the 2017 general election, David Cameron said.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Hansel Cooperative Press
-
 Site of a writers' and artists' cooperative creating works relating to Orkney and Shetland.

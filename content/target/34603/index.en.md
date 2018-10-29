@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# A Century of Stories
-
 A Century of Stories explores the social history surrounding the individual and shared legacy of the First World War. 

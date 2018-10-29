@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Forget Brexit, Italy and its rag-bag coalition's hatred of Brussels could trigger the collapse of the EU
-
 Argues that the EU is falling apart. Its collapse could be hastened if Italy under its new populist government were to quit the euro

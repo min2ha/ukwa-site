@@ -10,5 +10,3 @@
   "start_date": "2009-03-18T00:00:00Z"
 }
 
-# Rarer Cancers Forum
-

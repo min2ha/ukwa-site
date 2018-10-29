@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sir John Major tells Ed Miliband: Rule out coalition with SNP to save the UK
-
 None

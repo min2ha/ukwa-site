@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Meet the invisibles – the wealthy and powerful at the heart of the Tory party
-
 None

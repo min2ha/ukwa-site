@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# This Fan Girl
-
 This Fan Girl is a digital community for female football fans, capturing the faces, voices, stories and opinions of women who love the beautiful game.

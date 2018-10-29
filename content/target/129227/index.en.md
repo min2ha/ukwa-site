@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bee Lavender
-
 Bee Lavender is an activist, author, entrepreneur, and social media pioneer. Her writing regularly appears in magazines, newspapers, anthologies, and radio programs in both the United States and the United Kingdom. 

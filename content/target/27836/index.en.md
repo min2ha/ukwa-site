@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Shepherd Neame
-
 Shepherd Neame is Britain’s Oldest Brewer, based in Faversham, Kent, since 1698. It is a family run business.

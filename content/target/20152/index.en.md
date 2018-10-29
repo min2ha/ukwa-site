@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Fairlamb (@FairlambN) on Twitter (Conservative candidate for Dwyfor Meirionnydd)
-
 Rector of Beaumaris Parish (Church in Wales) and prospective Conservative parliamentary candidate for Dwyfor Meirionnydd in the 2015 General Election and the 2016 National Assembly for Wales Elections.

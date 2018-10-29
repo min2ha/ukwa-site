@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Monnow Valley Studio
-
 Monnow Valley Studios was one of the world's first residential recording studios and is located near Monmouth. Clients include Queen, Led Zeppelin, Black Sabbath, Stereophonics and Simple Minds.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Politics Home: Jeremy Corbyn speech in Coventry on Brexit and customs union membership
-

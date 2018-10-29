@@ -10,6 +10,4 @@
   "start_date": "2017-07-26T09:00:00Z"
 }
 
-# Environment Systems
-
 Environment Systems is an environmental and agricultural data consultancy based in Aberystwyth.

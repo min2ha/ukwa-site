@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Oswestry and Border Counties Advertizer
-
 None

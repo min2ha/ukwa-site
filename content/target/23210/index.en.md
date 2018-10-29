@@ -10,6 +10,4 @@
   "start_date": "2015-05-02T09:00:00Z"
 }
 
-# Girls' Brigade Ministries England and Wales
-
 Girls' Brigade Ministries England and Wales is part of a global Christian movement, which  is committed to seeing lives and communities transformed and enriched as individuals seek, serve and follow Jesus Christ. It is a membership organisation that specialises in working with churches to provide fun and inspiring local groups (known as companies) where girls and young women can belong, achieve and discover Christian faith. They publish a quarterly newsletter 'The View' (now online and subscription only).

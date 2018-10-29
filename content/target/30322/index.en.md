@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Clwb Rygbi Crawshays Welsh RFC 
-

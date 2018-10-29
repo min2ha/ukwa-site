@@ -10,5 +10,3 @@
   "start_date": "2010-03-03T00:00:00Z"
 }
 
-# Institute for Textual Scholarship and Electronic Editing (ITSEE), University of Birmingham
-

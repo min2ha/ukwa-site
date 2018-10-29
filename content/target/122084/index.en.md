@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jewish Museum London
-
 A museum dedicated to the history, identity and culture of Jews in Britain.

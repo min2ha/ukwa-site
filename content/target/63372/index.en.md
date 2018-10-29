@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Richard Lewis : Tenor
-
 Richard Lewis CBE (1914 - 1990) was a internationally renowned tenor born in Manchester to Welsh parents. This charity, The Richard Lewis/Jean Shanks Trust, now funds one of the most prestigious and largest prizes for young singers and was established in 1993.

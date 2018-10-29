@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Lupus Narratives, The
-
 This website is one of the outputs for a research project that focused on the experience of living with the chronic illness Lupus and related auto-immune conditions.

@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# The Sorrowful Putto of Prague
-
 Created by James Stafford. A darkly humorous comic following cherub Xavier in his attempts to look after the mythical creatures of Prague.

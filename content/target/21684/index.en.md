@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: IFS challenges George Osborne over £12bn welfare spending cut plan
-
 None

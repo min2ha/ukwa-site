@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# British GENES (British Genealogy News and Events)
-
 The British GENES blog (GEnealogy News and EventS) presents stories concerning British Isles ancestral research from professional family historian, author and tutor Chris Paton. 

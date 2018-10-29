@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: How young and old would vote on Brexit now
-
 Few issues divide opinions between different age groups quite as sharply as Brexit. And it could be that the differences are becoming even more pronounced.
 

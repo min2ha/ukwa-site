@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Odds Checker: British Politics Betting Odds
-
 A betting side that lists the odds of certain outcomes occuring in the EU Referendum vote.

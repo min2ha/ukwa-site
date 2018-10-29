@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKASTLE (@ukastle) on Twitter
-
 Twitter page of United Kingdom Association for Street Light Enthusiasts

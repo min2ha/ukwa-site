@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# LISC - Library and Information Services Council (Northern Ireland)
-

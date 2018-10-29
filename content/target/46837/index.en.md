@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Experian: Latest thinking blog
-
  A global information services company, providing data and analytical tools to clients around the world. 

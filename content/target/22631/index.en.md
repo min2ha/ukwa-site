@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Leaders' Debate: The best Twitter reaction so far 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Stonewall Youth
-
 We're here to let all young lesbian, gay, bi and trans people - as well as those who are questioning - here and abroad, know they're not alone. We want to empower all young people, regardless of their sexual orientation or gender identity, to campaign for equality and fair treatment for LGBTQ people, and against discrimination.

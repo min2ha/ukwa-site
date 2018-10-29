@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wigan RUFC on Pitchero
-
 Located in the beautiful Douglas Valley, we are the oldest community rugby union club in Wigan. Founded in 1913.

@@ -11,5 +11,3 @@
   "subject": "Free e-Journals"
 }
 
-# Jazzwise
-

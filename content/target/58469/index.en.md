@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kyles Athletic Shinty Club
-
 Site of a shinty club based at Tighnabruaich, Argyll & Bute.

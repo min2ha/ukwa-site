@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Newtonmore Shinty Club
-

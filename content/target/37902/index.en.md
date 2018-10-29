@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chartered Institute of Ecology and Environmental Management (CIEEM): EU referendum and the environment
-
 CIEEM pages on the EU referendum and its aftermath.

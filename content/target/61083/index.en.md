@@ -10,5 +10,3 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Male Voice Choir | Côr Meibion Hwlffordd
-

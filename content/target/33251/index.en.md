@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Gardens of Rememberance
-
 The Gardens of Remembrance is a project by the Glór na Cásca initiative to ensure an enduring physical legacy following the centenary celebration of the 1916 Rising. These gardens aim to engage public engagement on a local level throughout Ireland for the Commemoration of the 1916 Rising.

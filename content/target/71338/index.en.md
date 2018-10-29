@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford Rugby Club on Pitchero
-
 The official website  of Oxford Rugby Football Club. Oxford Rugby Football Club (Founded in 1909 as Oxfordshire Nomads RUFC)

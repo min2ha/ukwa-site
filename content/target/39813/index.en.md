@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Scottish Castles Association 
-
 Site of an organisation whose objectives are to encourage the protection, conservation, restoration, research, study and appreciation of Scottish castles and historic buildings and bring together all those with an interest in them.

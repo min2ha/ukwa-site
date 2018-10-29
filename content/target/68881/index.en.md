@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: With David Davis and Boris Johnson gone, the cabinet will be stronger
-
 Argues that Davis and Johnson, who resigned over the PM's plan for future UK-EU relations, were lightweights. Praises the new Brexit secretary Dominic Raab as an intelligent and  passionate Brexiteer.

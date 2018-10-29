@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  UK in a Changing EU (@UKandEU) on Twitter 
-
 The authoritative source for independent research on UK-EU relations Retweets are not necessarily an endorsement

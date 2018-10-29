@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Schools Council: 2015 Manifesto
-
 The Independent Schools Council brings together seven associations of independent schools, their heads, bursars and governors.

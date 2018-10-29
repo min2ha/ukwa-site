@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Droitwich RFC (@OfficialDRFC) on Twitter
-
 The official Twitter account of Droitwich Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: It’s been a tough campaign. Now give us a break
-
 None

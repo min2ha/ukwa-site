@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Justice for Judah
-
 Justice for Judah, is a Bristol-based campaign against police violence which formed after Avon and Somerset Constabulary tasered a respected community elder while he was walking his dog in Easton earlier this year.

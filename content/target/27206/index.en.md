@@ -10,5 +10,3 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# South Wales Art Society
-

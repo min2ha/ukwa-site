@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Connells Group
-
 onnells Limited, trading as Connells Group, is a British estate agency and property services company headquartered in Leighton Buzzard, and a subsidiary of Skipton Building Society.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Rob Gittins
-
 Rob Gittins is a British screenwriter and novelist and has written for numerous TV show over the past thirty years. Many of his novels have been published by the Lolfa.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Film & Comic Con Cardiff
-
 Film & Comic Con Cardiff is a twice yearly event taking place at the Motorpoint Arena, Cardiff.

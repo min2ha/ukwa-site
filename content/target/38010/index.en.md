@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Project Fear has gone too far: leaving the EU won't harm our health
-

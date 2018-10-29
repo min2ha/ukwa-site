@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Baker (ChrisBakerHJ) on Twitter
-
 The twitter profile of Chris Baker, competitor in the high jump event for Team England in the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford Harlequins (@OxfordQuins) on Twitter
-
 The official Twitter account of Oxford Harlequins Rugby Football Club.

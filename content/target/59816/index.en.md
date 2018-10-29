@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bute Rugby Club on Facebook
-
 Facebook page for a Scottish rugby union football club located on the Isle of Bute, Argyll & Bute.

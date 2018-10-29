@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Sheffield Ramblers
-
 The Sheffield branch of The Ramblers, a national organisation that exists to encourage walking and hiking in the countryside, and to promote respect for the rural environment.

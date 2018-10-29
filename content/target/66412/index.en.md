@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Level Up
-
 Level Up is a new feminist organisation which officially launched in January 2018.  Our mission is to build a community of feminists who can work together to end sexism in the UK. Our vision is a world where everyone is free to achieve their potential regardless of their gender.  We want a membership from all walks of life. Our race, class, sexuality, gender identity and ability affect our experiences of sexism, we run campaigns that take that into account.

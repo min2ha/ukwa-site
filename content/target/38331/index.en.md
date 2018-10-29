@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Disclaimer: Easter Rising Centenary: The Ambiguous Heroes Who Found Meaning in Irish Identity
-
 Article by Mo Moulton about the Easter Rising's impact on Irish history and identity.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gov.UK Press release: Media advisory notice - Hillsborough proceedings
-
 A press statement from the Attorney General Jeremy Wright QC MP about the requirement not to publish material, including online, which could jeopardise the defendants’ right to a fair trial in the Hillsborough proceedings. The statement was issued on Published 29 June 2018. 

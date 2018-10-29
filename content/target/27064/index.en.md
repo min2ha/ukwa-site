@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# City of Edinburgh Council, The: Forth Bridge World Heritage bid opens for consultation
-

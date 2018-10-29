@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Magnus Nielsen (UKIP candidate for Hampstead & Kilburn)
-

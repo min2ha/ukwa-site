@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Lifeline Pregnancy Counselling and Care
-
 Site of an Scottish charity offering decision counselling to women facing choices about the future of a pregnancy - based in Edinburgh.

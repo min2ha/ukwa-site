@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sittingbourne and Sheppey Conservative Association
-
 Website of Sittingbourne and Sheppey Conservative Association, providing information on MPs, borough councillors, European, local, national and Westminster news.

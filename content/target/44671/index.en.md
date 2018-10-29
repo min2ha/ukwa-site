@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Watch (@VoteLeaveWatch) on Twitter
-
 A grassroots campaign holding Leave campaigners to account on promises made in the #EUref. Exposing #Brexit myths and untruths.

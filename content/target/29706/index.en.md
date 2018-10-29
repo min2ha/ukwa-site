@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taunton Literary Festival
-
 Taunton Literary Festival

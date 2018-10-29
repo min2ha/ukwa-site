@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stewart Hosie (StewartHosieMP) on Twitter
-
 <p>The twitter profile of Stewart Hosie, Deputy Leader of the Scottish National Party Westminster Group and Member of Parliament for Dundee East.</p>

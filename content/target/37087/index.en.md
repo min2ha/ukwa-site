@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# FT: Brexit poll tracker
-

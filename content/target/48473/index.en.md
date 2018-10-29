@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Irish Post: Irish Government reacts to Prime Minister Theresa May’s speech on Brexit
-

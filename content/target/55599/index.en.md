@@ -10,6 +10,4 @@
   "start_date": "2017-07-11T09:00:00Z"
 }
 
-# Spike Dennis
-
 Spike Dennis is a inter-disciplinary artist who finds inspiration in folk tales, stories, and mythology.

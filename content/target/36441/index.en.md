@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: It's a scandal that we pay huge benefits to the EU jobless 
-

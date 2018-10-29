@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Law (Shariah) Council UK, The
-
 The Muslim Law (Shariah) Council UK has been set up to resolve domestic issues and social dilemmas that affect British citizens. Matters referred to the Council are deliberated by religious scholars who deliver their verdict simply and concisely.

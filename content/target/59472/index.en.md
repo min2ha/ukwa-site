@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# RMweb Railway Modelling Community
-
 An online enthusiast community concerned with model railroads. The forum is divided into the Trade & Products Zone, the Modelling Zone, Area Groups, Clubs & Societies, Exhibitions & Social and various other sub forums. The forum is a part of the British Railway Modelling Magazine.

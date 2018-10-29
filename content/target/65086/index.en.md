@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Philip Hammond favours EU 'customs partnership'
-
 The government has said it wants to leave the EU single market and the customs union and at the same time retain an open border between Northern Ireland and the Republic. This article discusses the options available.
 

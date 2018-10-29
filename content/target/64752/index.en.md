@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Cockpit Arts
-
 Cockpit Arts is a social enterprise and the UK’s only business incubator for craftspeople, housing up to 170 small businesses at two centres in central and south London.

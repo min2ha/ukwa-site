@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tory MP under fire over 'sinister' Brexit demand to universities
-
 Downing Street distanced itself from government whip Chris Heaton-Harris, who wrote to universities asking for the names of professors who taught Brexit.Lecturers reacted with fury to the letter, calling it a "sinister" attempt to censor them and accusing him of conducting a "McCarthyite" witch hunt.
 .

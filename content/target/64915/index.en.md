@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Tattersalls
-
 Founded in 1766 by Richard Tattersall, Tattersalls is the oldest bloodstock auctioneers in the world and the largest in Europe. Today, Tattersalls is an international firm offering 10,000 thoroughbred horses each year at 15 sales at either its Newmarket headquarters in England, or at Fairyhouse outside Dublin, in Ireland. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Taunton Rugby Club (@Taunton_RFC) on Twitter
-
 The official Twitter account of Taunton Rugby Football Club and The Titans.

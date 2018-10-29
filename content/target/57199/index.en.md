@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Operasonic 
-
 Operasonic is a Newport based company committed to making opera with young people.

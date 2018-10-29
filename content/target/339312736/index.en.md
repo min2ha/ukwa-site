@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Fianna Fáil
-
 This website outlines the commemorative programme for the centenary of the Easter Rising, 1916 organised by Fianna Fail.

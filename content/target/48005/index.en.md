@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  The UK has already secured £16billion of extra foreign investment since EU exit vote in 'clear vote of confidence in Brexit Britain'   
-

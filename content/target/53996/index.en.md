@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mike Gascoigne (@MikeGascoigneUK) on Twitter (UKIP  Politician)
-
 Mike Gascoigne stood as UK Independence Party (UKIP) candidate for North East Hampshire in the 2017 General Election but was not elected.

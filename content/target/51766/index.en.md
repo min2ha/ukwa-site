@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Name Catholic Church, Fishguard
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oldham Athletic Association Football Club
-
 Oldham Athletic Association Football Club is a professional association football club based in the town of Oldham, Greater Manchester, England.

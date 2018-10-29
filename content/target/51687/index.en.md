@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sturgeon signs independence vote request
-
 Reports that Scottish Nationalist Party Leader Nicola Sturgeon had signed a letter to Theresa May formally requesting a second referendum on Scottish Independence in the wake of Brexit. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HuffingtonPost, The: "Prince William Speaks To Kids About Cyberbullying: Advice For Parents"
-
 Huffington Post article about cyberbullying and Prince William

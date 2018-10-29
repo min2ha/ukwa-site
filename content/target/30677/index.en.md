@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Northern School of Contemporary Dance
-
 Official website of the Northern School of Contemporary Dance, Leeds.

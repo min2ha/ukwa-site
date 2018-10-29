@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Conventry Socialist Party
-
 The Conventry Socialist Party is a branch of the Socialist Party England and Wales. The Socialist Party is part of the Committee for a Workers’ International (CWI), a socialist international that organises in over 40 countries.

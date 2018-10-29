@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: No 10 says free movement ends when UK leaves EU
-
 Suggestions that freedom of movement will continue after the UK leaves the EU are wrong, Downing Street said. On the previous Friday, Chancellor Philip Hammond warned full controls could take "some time", prompting speculation free movement may continue in all but name after the UK leaves in March 2019

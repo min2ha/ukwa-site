@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Khalid  Mahmood (@khalid4PB) on Twitter (Labour Party  Politician)
-
 Khalid Mahmood stood as Labour candidate for Birmingham, Perry Bar in the 2017 General Election and was elected MP.  He was first elected for Birmingham, Perry Bar in 2001 and has held the seat ever since.

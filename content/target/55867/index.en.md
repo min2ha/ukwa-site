@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Insch Connection Museum
-
 Site of a local history museum at Insch Aberdeenshire.

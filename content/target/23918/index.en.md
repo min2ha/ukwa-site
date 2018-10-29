@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Africa Governance Initiative
-
 Charity associated with Tony Blair supporting African governments and leadership

@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Desertec-UK
-
 None

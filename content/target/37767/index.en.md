@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Please back Remain, Blair. Then we can all Leave: If Tony bangs the drum for his beloved EU then it could be the greatest service he has ever done for Britain,   
-

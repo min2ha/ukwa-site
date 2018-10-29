@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Revealed: the ties that bind Vote Leave's data firm to controversial Cambridge Analytica
-

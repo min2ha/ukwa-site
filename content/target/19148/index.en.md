@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: Celebrating 800 Years of Democracy: Magna Carta Libertatum
-

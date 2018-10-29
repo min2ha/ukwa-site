@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# People's Assembly, The: The Peoples Manifesto
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Independent: Women’s suffrage: After 100 years since millions of women got the vote around the world, how do their rights compare now? 
-
 An article comparing women's rights around the world a hundred years after women got the vote

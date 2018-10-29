@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mansfield & Ashfield Chad
-
 None

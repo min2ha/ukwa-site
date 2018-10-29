@@ -10,6 +10,4 @@
   "start_date": "2015-06-17T08:00:00Z"
 }
 
-# Ysgol Glanaethwy
-
 A performing arts school based in north Wales.

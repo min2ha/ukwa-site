@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Star Anderton (@StarAnderton) on Twitter (UKIP Politician)
-
 Star Anderton was the UK Independence Party (UKIP) candidate for West Bromwich West in the 2017 General Election but was not elected.

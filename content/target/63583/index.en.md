@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Old Parish and St. Paul's Church
-

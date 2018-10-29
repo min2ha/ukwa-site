@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Woodhall St. Johns No. 305
-
 Site of a masonic lodge located in Belshill, Lanarkshire and affiliated with the Grand Lodge of Scotland.

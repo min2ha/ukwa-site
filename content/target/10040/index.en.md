@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# UK Race and Europe Network (UKREN) 
-
 The UK Race and Europe Network (UKREN) is a network of local and national organisations across Great Britain and Northern Ireland that work to combat race discrimination within a European context.

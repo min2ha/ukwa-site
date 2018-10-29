@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The political conspiracy of silence over British exit from Europe
-
 None

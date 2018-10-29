@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T11:00:00Z"
 }
 
-# Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS)
-
 The Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS) is an executive non-departmental public body of the Scottish Government financed and with oversight through Historic Scotland. The RCAHMS is responsible for recording, interpreting and collecting information about the built and historic environment. This information, which relates to buildings, sites, and ancient monuments of archaeological, architectural and historical interest as well as historical aspects of the landscape, is then made available to the public.

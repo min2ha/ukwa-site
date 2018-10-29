@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Baptist Parish Church, Fauldhouse on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of  St. John the Baptist Church Fauldhouse, West Lothian.

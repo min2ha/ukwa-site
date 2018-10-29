@@ -10,7 +10,5 @@
   "start_date": "2010-03-19T00:00:00Z"
 }
 
-# Spinal Injuries Association (SIA)
-
 The Spinal Injuries Association (SIA) is the leading national charity for spinal cord injured people. We are unique in that we are a user led organisation; our elected Trustees are all spinal cord injured and are voted for by the spinal cord injured membership.
 

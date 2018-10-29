@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Crafts Council: An Education Manifesto for Craft and Making
-
 The Crafts Council's goal is to make the UK the best place to make, see, collect and learn about contemporary craft.

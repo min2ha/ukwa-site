@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: Broken relationships. Zero self-esteem. Spiralling depression. The terrible price being paid by the young women addicted to porn 
-
 News article about internet porn addiction from a women's perspective

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Grassroots Out on Facebook
-
 A social media page for a local movement that supports 'Brexit'.  It places emphasis on grassroots campaigning.

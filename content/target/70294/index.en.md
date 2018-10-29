@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Garston Ladies FC
-
 The official website of Garston Ladies Football Club.

@@ -10,5 +10,3 @@
   "start_date": "2010-06-08T00:00:00Z"
 }
 
-# Political Science Resources
-

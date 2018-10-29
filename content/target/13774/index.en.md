@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# VICE United Kingdom: Meet the Pro-Independence Scots Who Want to Turn Their Country into a Socialist Utopia
-
 None

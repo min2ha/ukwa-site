@@ -11,5 +11,3 @@
   "subject": "History of the Book"
 }
 
-# Celtic Inscribed Stones
-

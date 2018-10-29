@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Mike Crockart parliamentary spokespersons for Edinburgh North and Leith
-
 None

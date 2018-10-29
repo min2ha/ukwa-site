@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Student, The: 8 things that will probably happen if Britain leaves the EU
-
 If the UK decides to leave Europe it outlines the most likely things that will happen regarding Scottish vote, expats, and various other topics.

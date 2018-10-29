@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alexander Burnett | Standing Up for Aberdeenshire West
-
 Alexander Burnett is the Scottish Conservative and Unionist Party candidate for Aberdeenshire West constituency in the 2016 Scottish Parliament election.

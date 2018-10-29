@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Argyle against Fascism (@AgainstPafc) on Twitter
-
 A Twitter account for Plymouth Argyle Football Club supporters who are opposed to fascism. 

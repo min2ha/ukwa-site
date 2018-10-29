@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Community Shares Scotland
-
 Site of an organisation aiming to act as a focal point for community enterprises and potential investors, providing advice and support, raising awareness of community shareholding, and providing market intelligence in the sector.

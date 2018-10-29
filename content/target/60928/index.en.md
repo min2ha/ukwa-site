@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Dear Jeremy Corbyn, young people need your help to halt Brexit
-

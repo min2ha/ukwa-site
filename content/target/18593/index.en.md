@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Rice - Green Party Candidate for Carmarthenshire East and Dinefwr on Facebook
-
 Ben Rice - Green Party Candidate for Carmarthenshire East and Dinefwr.

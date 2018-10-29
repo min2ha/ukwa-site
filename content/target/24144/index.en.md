@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour is facing at least a decade in the wilderness, party grandees warn
-
 None

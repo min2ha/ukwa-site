@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# North Berwick Movies
-
 Site of a volunteer run community cinema based in North Berwick, East Lothian.

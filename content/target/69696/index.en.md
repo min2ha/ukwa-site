@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Saint Bride's Parish Cambuslang 
-
 Site of a Roman Catholic church in Scotland for the parish of St. Brides, Cambuslang, Lanarkshire.

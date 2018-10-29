@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Beat Flu | Curwch Ffliw
-
 This is a Health promotion Wales website provide advice and assistance on preventing flu.

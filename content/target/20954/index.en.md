@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ronnie cowan (@ronniecowan) on Twitter
-
 Twitter profile of Ronnie Cowan, Scottish National Party candidate for Inverclyde in the 2017 general election.

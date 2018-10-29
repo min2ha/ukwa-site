@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dee Searle (@deesearle) on Twitter (Green Party candidate for Tottenham)
-

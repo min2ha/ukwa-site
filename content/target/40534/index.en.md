@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burntisland Shipyard Amateur Football Club
-
 Site of an amateur football club based in Burntisland, Fife.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard:  9th July 2018: Leaving the EU
-
 The Prime Minister makes an impassioned statement defending her compromise proposals for a future UK-EU relationship, followed by questions 

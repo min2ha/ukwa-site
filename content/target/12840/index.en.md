@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# YDance
-
 <p>YDance is the national dance organisation for young people aged 3 to 21 in Scotland. They are organising Commonwealth Youth Dance Festival (CYDF) in Glasgow in 2014 featuring young dancers from across the Commonwealth. Part of the Glasgow 2014 Cultural Programme.</p>

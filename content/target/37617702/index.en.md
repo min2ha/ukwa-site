@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Art Space Gallery
-
 None

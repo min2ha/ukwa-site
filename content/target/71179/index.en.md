@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# projecthealth
-
 At Project Health we use kinesiology (muscle testing) to test specific factors that are causing blockages to your healing.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Great Yorkshire Fringe, The
-
 Website for The Great Yorkshire Fringe, a ten day festival in York with comedy, cabaret and music.

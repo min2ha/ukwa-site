@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Felix & Spear, Modern British and Contemporary Art
-
 Felix & Speart, Modern British and Contemporary Art Gallery, London

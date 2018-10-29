@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Monachyle Mhor
-
 Site of a hotel and restaurant which also runs an occasional music festival.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Institute for Volunteering Research
-
 Conducts research and policy reports on the impact of volunteering.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-27T10:00:00Z"
 }
 
-# Headingley Lit Fest 2015
-
 Headingley Lit Fest was created in early 2008 and operates under the wing of Headingley Network, a community organisation which works to improve the environment and facilities for the local community

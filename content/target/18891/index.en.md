@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# AOL UK: 800-Year-Old Magna Carta Copies Reunited at British Library
-

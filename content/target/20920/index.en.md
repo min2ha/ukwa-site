@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Vote Match
-
 A simple online quiz to help voters choose their party, provided by the Unlock Democracy campaign.

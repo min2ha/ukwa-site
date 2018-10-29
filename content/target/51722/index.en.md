@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Deeside Christian Fellowship Church
-

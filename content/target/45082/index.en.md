@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Alphr: Twitter is losing its cool over the eGames at the Rio 2016 Olympics
-
 eSports fans on Twitter aren't happy that the UK is backing eSports with the eGames.

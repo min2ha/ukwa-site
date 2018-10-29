@@ -10,5 +10,3 @@
   "start_date": "2015-02-18T00:00:00Z"
 }
 
-# Do Science - Ian B Dunne 
-

@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Braeval Hotel
-
 Site of a hotel in Nairn, venue for an annual beer festival.

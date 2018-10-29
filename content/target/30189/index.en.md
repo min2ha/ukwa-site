@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Highland Youth Music
-
 The Highland Youth Music Forum brings together organisations and individuals who provide opportunities for young people (aged 0 - 25) to participate in music making activities across the Highlands. The forum aims to strengthen links between the formal and informal music sectors, creating a dynamic Highland wide music partnership. 

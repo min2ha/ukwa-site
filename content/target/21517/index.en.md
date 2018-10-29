@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron tells voters: send me back to Brussels with a mandate for reform
-
 None

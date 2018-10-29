@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UNISON Scotland: Nelson Mandela “One of the great men of our time”
-
 None

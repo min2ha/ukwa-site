@@ -10,5 +10,3 @@
   "start_date": "2012-10-12T00:00:00Z"
 }
 
-# PREPARDE: Peer REview for Publication & Accreditation of Research Data in the Earth sciences
-

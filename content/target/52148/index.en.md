@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Wendy White, Author
-
 Wendy White is a children's author from Llanelli, Wales.

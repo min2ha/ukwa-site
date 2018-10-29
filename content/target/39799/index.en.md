@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bridge of Allan SNP (@BofALogieSNP) on Twitter
-
 Twitter profile of the Bridge of Allan & Logie branch of the Scottish National Party (SNP).

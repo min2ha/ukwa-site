@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 26th April 2018: Customs and Borders
-
 Debate on a motion tabled by pro-remain MPs who chair committees calling on the government to keep open the option of staying in a customs union with the EU. The government was defeated in a non-binding vote and the motion was passed.

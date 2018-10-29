@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marc Hope on Facebook
-
 This is the Facebook page of Marc Hope, the Conservative Party candidate for Central Ayrshire in the UK General Election on the 7th May 2015.

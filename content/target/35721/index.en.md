@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Grassroots Out
-
 Grassroots Out, or GO for short, is made up of politicians and supporters from across the political spectrum, with a single aim: to get the United Kingdom out of the European Union. GO, rather than setting up another 'leave' campaign, does the reverse. It brings together existing ‘leave’ campaigns and gets them to work as one in local areas. 

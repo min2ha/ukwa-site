@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Church of Scotland
-
 Site of a Church of Scotland parish church at Bridge of Don, Aberdeen.

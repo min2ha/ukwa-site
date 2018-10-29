@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS West London (Kensington and Chelsea, Queen's Park and Paddington) CCG
-
 None

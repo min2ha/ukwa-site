@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# UK Climate Change and Migration Coalition
-
 The UK Climate Change and Migration Coalition exists to challenge the lack of long-term strategies to support and protect people at risk of displacement linked to environmental change.

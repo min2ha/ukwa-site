@@ -164,7 +164,5 @@
   "endDateText": ""
 }
 
-# Pandemic Influenza
-
 This collection of websites was initiated in 2005 to contingency plan around any possible outbreak of Avian flu in the UK. It has since been expanded to include all types of Pandemic flu such as the Swine flu outbreak of 2009. The collection contains public advisory sites produced by the Government alongside news and commentary. 
 

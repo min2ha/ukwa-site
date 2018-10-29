@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: ‘Four or five’ UK demands opposed ahead of Europe summit
-

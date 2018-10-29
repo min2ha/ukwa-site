@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jim Murphy: Of course Labour will work with the SNP
-
 None

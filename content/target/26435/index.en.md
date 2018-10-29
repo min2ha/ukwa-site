@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders make final pleas at rallies as Ed Miliband claims victory is within reach
-
 None

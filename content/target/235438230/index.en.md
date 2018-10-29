@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Leaving Fundamentalism
-
 Leaving Fundamentalism is a blog relating to religious fundamentalism in the UK.

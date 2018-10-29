@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Carnegie House Arts Centre
-
 Carnegie House Arts Centre is located in Bridgend.

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Business & IP Centre (@BIPC) on Twitter
-
 Helping you start, run and grow your business at the @britishlibrary Business & IP Centre and National Network

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# North Cumbria Area Meeting
-

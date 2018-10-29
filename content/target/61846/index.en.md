@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Strathardle and Glenshee Community website
-
 Community website for the districts of Strathardle and Glenshee, providing information on local amenties, groups and activities for residents of and visitors to the communities of Straloch, Enochdhu, Kirkmichael, Ballintuim, Bridge of Cally, Spittal of Glenshee, Corrydon and Blacklunans .

@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Film and Video Umbrella
-

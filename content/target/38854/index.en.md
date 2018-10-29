@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Jeremy Corbyn says EU membership the best way to protect workers' rights
-

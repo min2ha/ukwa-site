@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Lads & Lasses Against Fascism (@LadsLasses) on Twitter
-
 Football Lads & Lasses Against Fascism was set up to counter the Football Lads Alliance that supports the far right movement in the UK. 

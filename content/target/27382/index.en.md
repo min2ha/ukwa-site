@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Guardian, The: Culture: Comedy
-
 News and reviews in The Guardian about comedy in the UK

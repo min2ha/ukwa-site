@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Carlisle State Management Story, The 
-
 This project will explore the historical background to drinking restrictions scheme, the impact on pubs, the drinking culture, women in pubs, food and entertainment in pubs as well as pub architecture.

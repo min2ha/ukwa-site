@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Pike Anglers Alliance for Scotland
-
 Site of an organisation of pike anglers whose goal is the conservation of the species in Scotland, in the same way as other species are conserved.

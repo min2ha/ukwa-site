@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Britain for Europe (@_Britain4Europe) on Twitter
-
 Twitter feed of a grassroots organisation campaigning for the UK to remain in the European Union

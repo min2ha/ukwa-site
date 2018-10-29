@@ -10,5 +10,3 @@
   "start_date": "2017-04-29T09:00:00Z"
 }
 
-# Wales Against Animal Cruelty (WAAC)
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk and Norwich University Hospitals
-
 None

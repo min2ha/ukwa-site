@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Even Balls thinks that Ed isn't up to the job
-
 None

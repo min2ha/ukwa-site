@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: WhitLit: Launch Evening at the Duke of Cumberland; Starta Magna Carta Thearta with Graham Clarke
-

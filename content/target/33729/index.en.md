@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Criminals and terrorists will rejoice if we leave the EU 
-

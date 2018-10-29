@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cambrian & Clydach Vale B.G.C.
-

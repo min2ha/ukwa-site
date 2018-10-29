@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# UK Archives Discovery Network
-
 UK Archives Discovery Network promotes the opening up of data and to offer capacity for such a cross-searching capability across the UK archive networks and online repository catalogues. 

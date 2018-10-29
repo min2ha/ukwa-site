@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Three: I tried to fix my mental health on the internet
-
 BBC Three article about mental health and the internet

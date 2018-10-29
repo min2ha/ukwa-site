@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# TechFest Festival
-
 Landmark event in the North East promoting engagement with STEM subjects for all ages, through a variety of accessible and entertaining programmes

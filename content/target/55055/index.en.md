@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Atlantic Europe in the Metal Ages (AEMA) | Ewrop Môr Iwerydd yn Oesoedd y Metelau
-
 The project is led by Aberystwyth University and considers language in Atlantic Europe ('AE'=Britain, Ireland, northwest France, western Iberia) from first metallurgy (c. 2900 BC) to Latin's arrival (Cádiz 206 BC, Ireland c. AD 400) and and shares detailed evidence and methodologies, to overcome chronic barriers in Celtic Studies. A book on ancient Atlantic Europe (including pros and cons of the Atlantic Origins hypothesis as illuminated by the project) will be launched at the National Eisteddfod in 2015.

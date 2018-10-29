@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Keir Starmer's six tests for EU departure are wishful thinking, and may make a bad Brexit more not less certain
-
 Argues that the Shadow Brexit Secretary needs to accept that it's impossible for the UK to keep the 'exact same benefits' once it leaves the EU.

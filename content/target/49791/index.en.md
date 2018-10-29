@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Opera Bohemia
-
 Site of an opera company based in Edinburgh, aiming to increase operatic performances across Scotland, increase opportunities for professional artists in all areas of opera, to introduce opera to first time opera goers and a younger generation.

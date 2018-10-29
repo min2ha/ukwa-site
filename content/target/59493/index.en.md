@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bipolar UK
-
 Website for a registered charity that provides support and information for people affected by bipolar - offering an online community and blog

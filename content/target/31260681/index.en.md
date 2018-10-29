@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Cheddar Gorge Cheese Company, The
-
 None

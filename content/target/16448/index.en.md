@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: May's general election? It will be like 1992 all over again, says George Osborne
-
 None

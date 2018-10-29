@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Scottish Football Club
-
 The official website of London Scottish Football Club. London Scottish is now into its 5th Year of coaching rugby in the local community.

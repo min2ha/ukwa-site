@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'It's so undemocratic': Sadiq Khan is lashed by the Tories AND Labour for saying Brexit should be DELAYED to make time for a new referendum with the option of staying in the EU
-

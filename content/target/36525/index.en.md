@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: What do Trump and Brexiters have in common? A disregard for all but themselves
-
 Guardian, The

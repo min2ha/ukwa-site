@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Discover Scottish Gardens
-
 Site of a network of public gardens throughout Scotland.

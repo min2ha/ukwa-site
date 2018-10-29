@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# City of Liverpool Conservatives
-
 Website of City of Liverpool Conservatives, providing information on MPs, MEPs, association officers, representatives and candidates, events, and local, national and European news and opinion.

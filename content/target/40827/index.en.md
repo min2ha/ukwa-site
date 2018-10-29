@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Scottish Christians Against Nuclear Arms
-
 Site of a Scottish Christian group campaigning against the possession and threatened use of nuclear weapons

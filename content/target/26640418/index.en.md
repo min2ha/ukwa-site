@@ -10,8 +10,6 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# British Marine Aggregate Producers Association (BMAPA)
-
 The British Marine Aggregate Producers Association (BMAPA) is the trade body for an industry that contributes some 6.4 per cent of the construction aggregates consumed in Britain.
 
 BMAPA is part of the Mineral Products Association, the trade association for the aggregates, asphalt, cement, concrete, lime, mortar and silica sand industries.

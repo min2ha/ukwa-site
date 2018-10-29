@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gransnet: The Gransnet Election 2015 survey results
-
 Gransnet is the social networking site for grandparents. It was launched in May 2011. They also run Gransnet Local, a network of sites featuring the very best in a local community as well as opportunities for gransnetters to meet up with like-minded neighbours. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic Games as a Research Subject, The
-
 Research Beyond Borders is an online resource specifically aimed at UK based Arts and Humanities researchers and research. This guest post by Andy Miah explores the Olympic Games as a research subject.

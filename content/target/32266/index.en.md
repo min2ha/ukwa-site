@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Race Equality First
-
 Race Equality First is an independent charity working in Cardiff and the Vale of Glamorgan to promote race equality.

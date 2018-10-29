@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory scaremongering is playing into the hands of the SNP and putting the Union at risk
-
 None

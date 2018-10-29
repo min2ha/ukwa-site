@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sedgemoor in Somerset - EU Referendum 2016
-
 A local government site with information on voting in the EU Referendum 2016.

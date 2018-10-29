@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Runnymede council calls Magna Carta bank holiday
-

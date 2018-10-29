@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# STV Glasgow: Scottish Government 'stands ready to support Glasgow School of Art'
-
 None

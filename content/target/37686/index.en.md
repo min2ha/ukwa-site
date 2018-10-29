@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Transport Planning Society
-
 The Transport Planning Society are a society to facilitate, develop and promote best practice in transport planning and provide a focus for dialogue between all those engaged in it, whatever their background or other professional affiliation.

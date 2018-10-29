@@ -10,6 +10,4 @@
   "start_date": "2011-03-24T00:00:00Z"
 }
 
-# Yorkshire Cancer Research
-
 [Edited 8/7/2011 to replace Name - recorded ?in error? as Brain Bank for Autism Research]

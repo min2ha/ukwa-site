@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson denies cabinet Brexit split
-
 Boris Johnson says the government is "working together" and that he will not be resigning after criticism of his Telegraph article setting out his own vision of Brexit.

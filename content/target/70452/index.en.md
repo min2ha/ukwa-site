@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Does Jeremy Corbyn really want to find himself on the same side as a resurgent Nigel Farage?
-
 Argues that opinion within the Labour Party is shifting in favour of a second referendum on Brexit. Several shadow cabinet members believe the party will back one if, as looks increasingly likely, parliament rejects May’s deal and blocks a no-deal exit next March. One told me: “A referendum may be the only way out of this mess.”
 

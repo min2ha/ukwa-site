@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Woodcock (@JWoodcockMP) on Twitter (Labour  Politician)
-
 John Woodcock stood as Labour candidate for Cumbria Barrow and Furness for 2017 General Election and was elected to serve as MP. He first stood as MP for Cumbria Barrow and Furness in 2010 and has held the seat ever since.

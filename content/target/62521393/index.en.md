@@ -10,5 +10,3 @@
   "start_date": "2011-11-21T00:00:00Z"
 }
 
-# UNIVERSITY OF RIO GRANDE : Madog Center for Welsh Studies
-

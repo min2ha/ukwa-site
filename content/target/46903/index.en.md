@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# LETSlink UK: Local Exchange Trading and Complementary Currencies
-
 LETS - Local Exchange Trading Systems or Schemes - are local community-based mutual aid networks in which people exchange all kinds of goods and services with one another, without the need for money

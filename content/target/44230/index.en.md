@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Barley Wood Wrington
-
 Barley Wood is an eighteenth century country house within 11 acres of woods and parkland. It can be hired as a venue for weddings and other events.

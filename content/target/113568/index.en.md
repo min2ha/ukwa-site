@@ -10,6 +10,4 @@
   "start_date": "2005-09-14T00:00:00Z"
 }
 
-# www.laurahird.com
-
 None

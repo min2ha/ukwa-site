@@ -10,6 +10,4 @@
   "start_date": "2006-06-30T01:00:00Z"
 }
 
-# dimcwsg.com: pwy faga blant?
-
 Website no longer exists.

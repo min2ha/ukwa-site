@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# Royal Albert Hall 
-
 Official website of the Royal Albert Hall, a concert venue in London.

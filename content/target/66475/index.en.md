@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Loganair Limited
-
 The website of Loganair Limited, a company which provides scheduled passenger and charter air transportation services to the Channel Islands and mainland Europe.

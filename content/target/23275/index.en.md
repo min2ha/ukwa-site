@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# New Society of Worth, The
-
 A political party standing in the Preseli Pembrokeshire constituency.

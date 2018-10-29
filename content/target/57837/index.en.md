@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# The Northern Eye International Photography Festival
-
 The Northern Eye International Photography Festival is a new collaboration between the Oriel Colwyn photography gallery and Aberystwyth's The Eye Festival. It is held in October.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC News: Nelson Mandela's life and times
-
 None

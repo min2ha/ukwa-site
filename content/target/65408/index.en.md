@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Dundee Online
-
 Site of an online local guide and business directory focused on Dundee UK.

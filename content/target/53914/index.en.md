@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rathy Alagaratnam (@RAlagaratnam)  on Twitter (UKIP Politician)
-
 Rathy Alagaratnam was the UK Independence Party (UKIP) candidate for Harrow West in the 2017 General Election but was not elected. This is her inactive Twitter profile, she also ran in the 2010 and possibly 2015 UK General Election.

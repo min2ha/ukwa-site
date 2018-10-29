@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clearer constitutional guide needed to deal with a hung parliament, say MPs
-
 None

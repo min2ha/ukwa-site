@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Energy Efficiency Standard for Social Housing (EESSH)
-

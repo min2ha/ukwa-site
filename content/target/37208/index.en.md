@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum: Reading voters unsure of which way to vote
-
 Voters in Reading a Berkshire town are sat right in the middle of yes and no, halfway between europhiles and eurosceptics.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-01T10:00:00Z"
 }
 
-# Iolo Williams
-
 Iolo Williams is former RSPB officer turned TV wildlife presenter.

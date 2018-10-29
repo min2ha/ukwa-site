@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Labour (@HaringeyLabour) on Twitter
-
 Twitter feed of Haringey Labour comprising of Hornsey & Wood Green and Tottenham CLPs.

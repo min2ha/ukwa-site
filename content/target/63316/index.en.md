@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Unite Magazine
-
 New disability rights magazine, giving a voice to disabled people. 

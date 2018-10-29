@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# #GrenfellTower (@DebateGRP) on Twitter
-
 An account that was set up in July 2016 but changed it's name to #GrenfellTower after the fire on 14/06/2017.

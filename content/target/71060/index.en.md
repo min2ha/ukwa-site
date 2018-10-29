@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Arts Council, The: Impact of Brexit on the arts and culture sector: 2018
-

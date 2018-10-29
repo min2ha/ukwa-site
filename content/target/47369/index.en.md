@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Autumn Statement 2016
-
  The UK’s economic outlook has become more uncertain. The British people’s decision to leave the EU presents new opportunities, but also new challenges. The Autumn Statement sets out policies which support the economy during this transition. Alongside the forthcoming Industrial Strategy it prioritises investment to improve productivity and ultimately living standards. It provides certainty for business to secure investment and create jobs; and reprioritises spending to build an economy that works for everyone. 

@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Disability Can Do
-
 Disability Can Do is a charity based in Blackwood and works with, and for disabled adults and carers to enable disabled people to gain independence and to raise awareness about the barriers to inclusion disabled people face especially with regard to health, housing, transport, employment, education.

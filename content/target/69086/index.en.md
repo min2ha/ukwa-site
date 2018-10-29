@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Ballantrae : gateway to Carrick
-
 Community website for the town of Ballantrae, South Ayrshire.

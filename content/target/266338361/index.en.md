@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Murdo Fraser MSP
-
 The website of Murdo Fraser, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Mid Scotland and Fife.

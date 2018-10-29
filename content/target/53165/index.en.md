@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Board of Deputies of British Jews: The Jewish Manifesto
-
 In each section, the Manifesto outlines ‘Policy Asks’ on which the Board of Deputies would like support from the Government and parliamentarians. As a summary, it also highlights ‘Ten Commitments’ that capture the essence of the community’s needs.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# C4 News FactCheck (@FactCheck) on Twitter
-

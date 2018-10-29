@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: General election is on a knife edge, David Cameron tells party activists
-
 None

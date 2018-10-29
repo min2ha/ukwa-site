@@ -10,6 +10,4 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Ar Waith Ar Daith
-
 'Ar Waith Ar Daith' was the  largest outdoor theatre production in Wales and saw the tale of The Birth of Taliesin told to a massive outdoor audience outside Wales Millennium Centre in Cardiff.

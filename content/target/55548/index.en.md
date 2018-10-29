@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Liberation at Edinburgh University Students Association
-
 The blog of the four Liberation Groups: Black and Minority Ethnic, Disability and Mental Wellbeing, LGBT+, and Women.  EUSA has four Liberation Groups, each representing a community of students who have traditionally been marginalised or oppressed, either in Higher Education or in society more broadly.

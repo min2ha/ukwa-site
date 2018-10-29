@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Scottish Swimming: Four Scots named in ParalympicsGB swimming team for Rio 2016
-
 Article about the selection of Scottish swimmers Andrew Mullen, Scott Quin, Abby Kane and Stephen Clegg for the Rio 2016 Paralympics.

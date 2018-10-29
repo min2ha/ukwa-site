@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Laura Coryton (@LauraCoryton) on Twitter
-
 The twitter account of Laura Coryton, campaigner and leader of the 'Stop Taxing Periods' campaign.

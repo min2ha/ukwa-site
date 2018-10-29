@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Show us the proof you haven't tried to avoid tax for years, MPs tell Ed Miliband
-
 None

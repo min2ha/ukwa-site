@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Lincolnshire Business: Should we stay or should we go?
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Will Boris Johnson sway the EU referendum result?
-

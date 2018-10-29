@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Recordiau Cae Gwyn Records
-
 Recordiau Cae Gwyn Records is an independent record label based in Snowdonia, and have built a strong reputation for releasing 60s and 70s tinged left field bilingual material.

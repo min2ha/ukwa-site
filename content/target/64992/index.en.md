@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Campaign for Contraception (@C4Contraception) on Twitter
-
 A campaign to improve access to and education on contraception in the UK.

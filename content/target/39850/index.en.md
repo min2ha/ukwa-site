@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Central Labour
-
 The Constituency Labour Party (CLP) in the Edinburgh Central constituency of the Scottish Parliament.

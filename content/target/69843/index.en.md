@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library (@britishlibrary) on Twitter
-
 The British Library official Instagram account.

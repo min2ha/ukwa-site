@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Theresa Griffin (Labour MEP for the North West)
-
 Theresa Griffin stood as a Labour candidate for the North West at the 2014 European Parliament election and was elected to serve as an MEP.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Brick Lane Jamme Masjid
-
 Brick Lane Jamme Masjid, formerly known as the London Jamme Masjid, is a Muslim place of worship in the East End of London.

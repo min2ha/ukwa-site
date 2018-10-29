@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Fintray Kinellar Keithhall Church of Scotland
-
 Site of a group of Church of Scotland churches located in Aberdeenshire serving the communities of Keithhall, Kinmuck, Fintray, Blackburn and Kinellar.

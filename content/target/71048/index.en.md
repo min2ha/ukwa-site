@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit countdown: the five possible outcomes with 200 days to go
-

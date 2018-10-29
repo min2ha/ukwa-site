@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# A Take on Thamesmead 
-
 The Thamesmead Culture Forum is a monthly gathering where anyone interested in culture and history can come and share their work and ideas, contribute their expertise or local knowledge, and welcome others who want to contribute to culture in Thamesmead.  

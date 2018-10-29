@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Iain Duncan Smith’s championing of the poor and vulnerable could be rallying cry for Brexit
-
 Guardian, The

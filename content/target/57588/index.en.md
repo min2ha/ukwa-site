@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Caithness Shinty Club on Facebook
-
 Site of a shinty club based in Thurso [Caithness], Highland.

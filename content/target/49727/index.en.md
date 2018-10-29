@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Of Coll With Connel, St Oran's, And Dunbeg
-
 A website serving the parishes of Coll, Connel and Dunbeg. 

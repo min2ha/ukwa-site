@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Brexit Border Blog (@brexitborder) on Twitter
-

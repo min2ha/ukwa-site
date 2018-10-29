@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kirriemuir Thistle Junior Football Club
-
 Site for a Scottish junior football club based in Kirriemuir, Angus.

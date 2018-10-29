@@ -10,5 +10,3 @@
   "start_date": "2016-10-12T11:00:00Z"
 }
 
-# Logical Case, The
-

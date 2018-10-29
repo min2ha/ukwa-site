@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# TownsWeb Archiving (@townsweb) on Twitter
-
 We work with UK #heritage sector to provide #digitisation & preserve old, fragile, culturally significant #archives.

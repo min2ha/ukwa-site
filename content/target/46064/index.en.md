@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Global Anglican Future (GAFCON)
-
 The GAFCON movement is a global group of Anglicans who aim to retain and restore the Bible's centraility to the Anglican Communion.

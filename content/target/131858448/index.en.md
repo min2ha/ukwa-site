@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Berkshire (NHS Berkshire East and NHS Berkshire West)
-
 None

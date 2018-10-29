@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sauchie and Coalsnaughton Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Sauchie and Coalsnaughton, Calckmannashire.

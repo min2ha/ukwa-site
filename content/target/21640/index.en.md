@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron v Miliband: Sky and Channel 4 appeal for studio audience
-
 None

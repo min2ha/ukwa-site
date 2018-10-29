@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour will tax middle-class homeowners in England to fund NHS in Scotland
-
 None

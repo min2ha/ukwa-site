@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Coldstream Football Club
-
 Site of a Scottish amateur football club based in Coldstream in the Scottish Borders.

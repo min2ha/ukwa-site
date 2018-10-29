@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Solidarity - Highlands & Islands on Facebook
-
 The Facebook page of the Highlands and Islands branch of Solidarity: Scotland's Socialist Movement.

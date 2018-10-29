@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with Donald Tusk: 6 April 2017
-
 Press release on Theresa May's meeting with the President of the European Council Donald Tusk for talks following the triggering of Article 50. 

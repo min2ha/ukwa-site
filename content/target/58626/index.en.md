@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cycle Scottish Borders
-
 Site providing cycling routes and tourist information for visitors to the Scottish Borders on bicycles.

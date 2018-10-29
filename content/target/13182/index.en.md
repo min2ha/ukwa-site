@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RoyalSocEdinburgh (royalsoced) on Twitter
-
 <p>The twitter profile of the Royal Society of Edinburgh; an independent educational charity, working to provide public benefit throughout Scotland.</p>

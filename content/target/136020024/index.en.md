@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bury Art Museum Objects
-
 None

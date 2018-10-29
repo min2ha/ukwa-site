@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T10:00:00Z"
 }
 
-# The Heretical Press
-
 Personal website of Simon Guy Sheppard, a British political activist from Hull, who runs a number of websites promoting his far right, sexist, and racist doctrines

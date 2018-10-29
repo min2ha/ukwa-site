@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aberdeen Lib Dems (@AberdeenLibDems) on Twitter
-
 Twitter profile of the Aberdeen branch of the Scottish Liberal Democrats.

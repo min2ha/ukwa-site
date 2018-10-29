@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St Meilyr's Church
-
 "
 St Meilyr’s is a parish church in the Area Deanery of Daucleddau, and the Archdeaconry of St Davids."

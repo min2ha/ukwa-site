@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Can a Conservative and DUP pact work?
-
 Can a Conservative and DUP pact possibly govern for the life of this Parliament? They face a long, precarious high wire act if they attempt to do so, and they - and any alternative alliance - will be beset by troubles and entanglements at every turn.

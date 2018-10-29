@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Haydn Rushworth (UKIP candidate for Cardiff North)
-
 Haydn Rushworth is the UKIP candidate for Cardiff North at the 2016 National Assembly Election. 

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Brexit Preparations and Negotiations
-
 This Briefing provides an overview of the status of preparations and negotiations, and recent developments following the publication of a white paper on 12 July 2018 on the Government’s proposals for the UK’s future relationship with the EU.
 

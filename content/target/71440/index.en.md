@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Episcopal Church Heartland Group
-
 Site of a group of Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Renfrewshire, namely, St. Mary's, Bridge of Weir; St. Fillan's, Kilmacolm; St. Mary's, Port Glasgow.

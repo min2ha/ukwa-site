@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# European Movement Cardiff and Vale (@EMcardiffvale) on Twitter 
-
 The twitter page provides news and updates from the European Movement in Cardiff and the Vale of Glamorgan. The European Movement is an independent, cross-party organisation committed to keeping the UK in the EU. 

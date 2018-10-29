@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: 5 natural disasters that beg for climate action
-
 <p>Yes Scotland share a link to the page "5 natural disasters that beg for climate action" on the Oxfam website at 9.47am on 23rd of Spetember 2014.</p>

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Louise Hughes (@Louise4MP) on Twitter (Independent candidate for Dwyfor Meirionnydd) 
-

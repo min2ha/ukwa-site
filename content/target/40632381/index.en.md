@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Election Watch - UK General Election 2015 
-
 A poll predicting which party has the best chance of gaining a majority to form a government. Last Updated: 10:00:26, Tue 22 July 2014.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Uned Pobl a Gwaith | People and Work Unit
-
 The People and Work Unit is an independent charity working in Wales. The charity promotes the value of education and learning as a tool for tackling inequalities and promoting employment, through a programme of community based action research projects.

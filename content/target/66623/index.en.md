@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Focus Magazines
-
 Focus are publishers of the follwoign local interest magazines- Abergavenny Focus and The Crick and Usk Valley Focus. The website provides online access to many of the magazine articles since 2011.

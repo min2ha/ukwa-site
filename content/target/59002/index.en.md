@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Brian Denman
-
 Brian Denman is a Welsh sculptor working mostly in stone and wood.

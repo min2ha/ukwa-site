@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# George Chakravarthi
-
 George Chakravarthi lives and works across London and Cambridgeshire.

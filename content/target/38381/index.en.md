@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# rs21 revolutionary socialism in the 21st century: Ireland’s greatest revolutionary
-
 Article by Shaun Harkin about James Connolly

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# History of Modern Biomedicine, The 
-
 The History of Modern Biomedicine Research Group originated as the Wellcome Trust's History of Twentieth Century Medicine Group, set up in 1990 to develop and strengthen links between members of the biomedical research community and medical historians, and to promote and facilitate the study of the history of twentieth-century medicine and medical science by encouraging the creation and deposit of material sources for use by present and future historians.

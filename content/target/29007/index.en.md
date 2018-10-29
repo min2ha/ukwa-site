@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South Thanet Conservatives
-
 Website of South Thanet Conservatives, providing information on MPs, officers, councillors, events, speeches in Parliament, and local, national and Westminster news.

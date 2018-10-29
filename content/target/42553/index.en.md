@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Communities for Europe
-
 Great Britain leads the way within the EU for championing diversity, integration and inclusion. Argues that remaining ensures prosperity, diversity, peace, protection and pleasure.

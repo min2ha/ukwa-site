@@ -10,6 +10,4 @@
   "start_date": "2017-07-15T09:00:00Z"
 }
 
-# Orly Orbach
-
 Website of the artist, film maker and teacher.

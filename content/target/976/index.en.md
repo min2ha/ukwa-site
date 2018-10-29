@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Medical Association Twitter
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim McGovern MP
-
 <p>This is the webiste of Jim McGovern, Labour Member of Parliament for Dundee West.</p>

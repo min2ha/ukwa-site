@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberdeen International Youth Festival
-
 Site of an annual youth arts festival located in Aberdeen.

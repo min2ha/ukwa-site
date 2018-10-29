@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Another Europe is Possible (@Another_Europe) on Twitter
-
 Twitter feed of  campaign against a British exit from the EU and for a social Europe.

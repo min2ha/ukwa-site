@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen's Birthday
-
 A special segment of Hello magazine dedicated to the Queen's birthday.

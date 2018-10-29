@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Biggar Music Club
-
 Site of a classical and contemporary music club, located in Biggar, and its associated Trust established to promote live music in Biggar and to support, where possible, young musical talent.

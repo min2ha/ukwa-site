@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# AOL UK: Magna Carta 800th Anniversary: 200 Schoolchildren Witness History
-

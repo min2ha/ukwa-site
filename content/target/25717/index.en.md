@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK election campaign: the most likely outcome is on nobody's lips
-
 None

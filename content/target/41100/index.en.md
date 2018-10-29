@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Greener Kirkcaldy
-
 Site of a local environmental / transition organisation based in Kirkcaldy, Fife, working to alleviate the effects climate change, the impact of rising food and fuel costs.

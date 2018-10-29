@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology: Security of UK Food Supply
-
 This note outlines current UK trade in food and animal feed, examines the challenges raised to the security of UK food supply by withdrawal from the EU and analyses the policy options available for improving UK food security
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: All schools must offer 'creative subjects and cultural opportunities' 
-
 None

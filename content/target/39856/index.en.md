@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# United Kingdom Independence Party (UKIP) Edinburgh and the Lothians
-
 Edinburgh and Lothians branch of the United Kingdom Independence Party (UKIP).

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# East Devon Area of Outstanding Natural Beauty (East Devon AONB)
-
 None

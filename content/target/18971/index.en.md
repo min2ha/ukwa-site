@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Salisbury Cathedral awarded grant for new Magna Carta display
-

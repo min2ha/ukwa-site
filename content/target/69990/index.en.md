@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Globe Cardiff, The
-
 The Globe Cardiff is a concert venue located on Albany Road, Cardiff.

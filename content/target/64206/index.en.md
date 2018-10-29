@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Girdle Toll Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Girdle Toll, Irvine, Ayrshire.

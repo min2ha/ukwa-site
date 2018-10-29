@@ -107,6 +107,4 @@
   "endDateText": ""
 }
 
-# Oral History in the UK
-
 The Oral History in the UK collection was initiated in 2012 and is maintained by the Oral History section of the British Library. The websites in this collection have been selected to demonstrate the variety of ways in which Oral History is used by community and local history groups, charities and universities. The range of websites in this collection includes sites which document the experiences of those that emmigrated to the UK (such as the Birmingham Black Oral History Project and Moroccan Memories in Britain); local history (Durham in Time, St. Helier Memories); disability history (Speaking Up For Disability); industry in the UK (Songs of Steel); and memories of war (The Workers' War, Captive Memories). The websites vary widely in the way they present oral history; many, although not all, provide access to extracts from oral history audio or video archive material and most sites also provide information on the project background, participants and funding arrangements. Websites will continue to be nominated for inclusion in the UK Web Archive and added to the 'Oral History in the UK' collection. if you would like to nominate any content to the collection you can fill in the online form: https://beta.webarchive.org.uk/en/ukwa/info/nominate

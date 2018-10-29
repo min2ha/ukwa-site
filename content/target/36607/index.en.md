@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Scotdec
-
 Site of a Scottish organisation advocating fairer access to education across the world providing professional development for teachers and schools on global citizenship.

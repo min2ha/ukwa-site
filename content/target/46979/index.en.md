@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# EasyJet plc
-
 EasyJet plc is a British low-cost airline carrier and one of Europe's leading airlines, they operate on over 820 routes across more than 30 countries with a fleet of over 250 Airbus aircraft.

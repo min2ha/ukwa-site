@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip's faltering election campaign gets £1.3million boost from newspaper tycoon
-
 None

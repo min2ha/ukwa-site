@@ -10,5 +10,3 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Y Coleg Merthyr Tydful | The College Merthyr Tydfil
-

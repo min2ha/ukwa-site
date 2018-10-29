@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The:  Brexit Cabinet rebels banned from accessing government material to support campaign to leave EU under David Cameron's strict new gagging rules   
-

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Retro Collect
-
 Retro Collect is a one stop for everything retro games and retro gaming. Featuring the classic gaming news, reviews and a forum.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graeme Cowie (@woodstockjag) on Twitter
-
 Twitter profile of Graeme Cowie, Liberal Democrat candidate for East Renfrewshire in the 2015 UK General Election.

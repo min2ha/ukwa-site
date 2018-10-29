@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Margam Abbey Lodge 
-
 Margam Abbey Lodge No.5257 was consecrated in 1931 and meet at the Masonic Hall, Port Talbot. This is a short introduction to the Masonic Lodge. 

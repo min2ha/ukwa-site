@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Institute for Fiscal Studies: Election 2017
-
 Independent analysis of political parties' promises and proposals at the 2017 General Election

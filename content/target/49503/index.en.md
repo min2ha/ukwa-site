@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Royalhouse Chapel
-
 Royalhouse Chapel East London Mission is a UK-based multiracial and multicultural church-charity. Started in 2006, it is is part of Royalhouse Chapel International which is a non-denominational ministry organisation with its headquarters in Accra, Ghana.

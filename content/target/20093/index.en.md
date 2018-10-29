@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Llafur ar y blaen yn y polau yng Nghymru
-

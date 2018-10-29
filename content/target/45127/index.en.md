@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# University of Stirling: Second silver for Stirling student Duncan Scott
-

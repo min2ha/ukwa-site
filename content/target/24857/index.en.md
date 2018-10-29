@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Jenny Sutton on Facebook (Trade Unionist and Social Coalition (TUSC) for Tottenham)
-

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Blog A Penguin Classic
-

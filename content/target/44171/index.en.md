@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Speyfest
-
 Site of an annual Scottish traditional music festival which takes place at Fochabers, Moray, Scotland.

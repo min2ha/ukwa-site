@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mishcon de Reya: Article 50 process on Brexit faces legal challenge to ensure parliamentary involvement
-
 Legal steps have been taken to ensure the UK Government will not trigger the procedure for withdrawal from the EU without an Act of Parliament. The case is being brought by leading law firm, Mishcon de Reya, on behalf of a group of clients. 

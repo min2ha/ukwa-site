@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Aromatherapists Society
-
 Aromatherapy is the systematic use of essential oils in holistic treatments to improve physical and emotional well-being. Essential oils, extracted from plants, possess distinctive therapeutic properties which can be used to improve health and prevent disease. Both their physiological and psychological effects combine well to promote positive health.

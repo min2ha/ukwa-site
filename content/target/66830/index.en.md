@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Danielle Lewis, Singer Songwriter
-
 Welsh songstress Danielle Lewis is originally fro New Quay, Ceredigion is signed to Charlotte Church’s publishing company Bounce Publishing and has performed at festivals across Wales and Australia. 

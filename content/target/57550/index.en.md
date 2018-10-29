@@ -10,6 +10,4 @@
   "start_date": "2017-09-28T09:00:00Z"
 }
 
-# Brecon Women's Festival
-
 Brecon Women's Festival was established in 2012 to coincide with International Women's Day and celebtrates the creativity, talents and achievements of women in and around Brecon.

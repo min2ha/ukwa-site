@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Celtic FC
-
 Site of a senior Scottish football club based in Glasgow.

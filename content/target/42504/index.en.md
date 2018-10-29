@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# MetOffice - Blog
-
 The official blog of the UK Met Office.

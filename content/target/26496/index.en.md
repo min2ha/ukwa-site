@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The truth is we are electing a parliament not a prime minister
-
 None

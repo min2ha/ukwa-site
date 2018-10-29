@@ -10,6 +10,4 @@
   "start_date": "2018-08-31T09:00:00Z"
 }
 
-# Third Ssector
-
 Third Sector is the UK’s leading publication for everyone who needs to know what’s going on in the voluntary and not-for-profit sector.

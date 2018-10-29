@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Robert Dunsire VC
-
 An exhibition commemorating the centenary of local hero Robert Dunsire's Victoria Cross award.

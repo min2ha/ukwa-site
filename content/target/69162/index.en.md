@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: What do the EU's 'no deal' preparations say?
-
 Key excerpts from the European Commission's document outlining preparations member states need to make for a "no deal" Brexit, with explanations of what they mean

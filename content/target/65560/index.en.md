@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Frightened Rabbit
-
 Frightened Rabbit are a Scottish indie rock band from Selkirk, formed in 2003. 

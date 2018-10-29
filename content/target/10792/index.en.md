@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Sky: British Cycling
-
 BskyB website on British cycling generally but with increasing focus on the TdF. Lots of content including news, videos, reports.

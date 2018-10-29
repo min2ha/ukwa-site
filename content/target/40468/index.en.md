@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Heritage Map of the Glasgow Necropolis
-
 The project aims to record and to teach local people about a neglected aspect of the Necropolis's wartime past.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gov.uk: Home Secretary statement on the Windrush generation
-
 The Home Secretary's statement to the House of Commons on the Windrush generation in April 2018.

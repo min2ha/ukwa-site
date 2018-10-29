@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Caerphilly Male Voice Choir
-
 Caerphilly Male Voice Choir was formed in 1906 and rehearse in the village of Bedwas. 

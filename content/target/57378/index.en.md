@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Hall + Bednarczyk Architects Limited
-
 Hall + Bednarczyk Architects is a award winning practice based in Chepstow. It was established in 2005 and focuses on progressive modern design for residential, commercial and public architecture. 

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Would the arrival in power of people with a broader range of accents be good for democracy? 
-

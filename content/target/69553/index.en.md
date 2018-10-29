@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# John Nicholl
-
 John Nicholl is an ex-police officer, child protection social worker and lecturer and has written six psychological suspense thrillers. He lives in Carmarthenshire.

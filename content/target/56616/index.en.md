@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Lewis-Merthyr Band
-
 The Lewis-Merthyr Band was founded in 1880 and is is the oldest brass band in South Wales' Rhondda Valleys. 

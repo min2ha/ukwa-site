@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband says Tony Blair and Gordon Brown will 'do their bit' to help him
-
 None

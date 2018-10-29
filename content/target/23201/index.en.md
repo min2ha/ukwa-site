@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bruce Roberts (@WxmBruce) on Twitter 
-

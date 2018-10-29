@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Her Majesty The Queen's 90th Birthday Celebration
-
 Event details for Blenheim Palace.

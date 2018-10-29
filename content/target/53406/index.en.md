@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# MillionPlus: General Election Manifesto 2017
-
 Modern universities are hugely important to the UK. They are major forces in their local communities and regional economies and have teaching and research partnerships with universities throughout the world. As the UK exits the European Union, the next government must value and work with the UK’s modern universities to boost the economy, provide the skills needed for the future and improve social mobility.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge St. John No. 187, Carluke
-
 Site of a masonic lodge located in Carluke, Lanarkshire and affiliated with the Grand Lodge of Scotland.

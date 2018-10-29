@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Glasgow University Students’ Representative Council
-
 Site of an organisation attached to the University of Glasgow providing non-educational support to the University's students.

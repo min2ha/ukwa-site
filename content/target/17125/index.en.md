@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour sources hit out at Tony Blair's former ministers for undermining Ed Miliband's election chances
-

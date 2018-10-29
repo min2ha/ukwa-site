@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# John McLeod Scottish Independence Blog
-
 <p>John McLeod's Scottish Independence blog discusses the independence referendum from a psychotherapist's perspective.</p>

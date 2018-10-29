@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forth Wanderers Junior Football Club
-
 Site for a Scottish junior football club based in Forth, Lanarkshire. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Loch Awe Community
-
 Site of the community of around Loch Awe, Argyll & Bute, Scotland, providing information on places to visit, accommodation, businesses and history in the area, and a page for the community council.

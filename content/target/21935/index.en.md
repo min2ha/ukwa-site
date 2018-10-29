@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Fourteen Locks Canal Centre
-
 The Canal centre is located at Rogerstone, Newport.

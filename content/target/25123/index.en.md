@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories take four-point lead... but one in five are still undecided
-
 None

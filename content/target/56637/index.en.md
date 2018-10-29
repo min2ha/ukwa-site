@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Hendon & District Archaeological Society
-
 Welcome to Hendon & District Archaeological Society, one of the most active archaeological societies within Greater London. , The society covers archaeology throughout the London Borough of Barnet.

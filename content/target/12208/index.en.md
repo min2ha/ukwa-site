@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Guest (DavGuest) on Twitter
-
 <p>The twitter profiles of decalthete David Guest, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Altaf Hussain, Dr (Conservative Assembly Member for South Wales West)
-

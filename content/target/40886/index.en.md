@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Welsh Game Fair
-
 Welsh Game Fair is an annual show held at Pembrey Country Park near Llanelli.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-07T10:00:00Z"
 }
 
-# Jean Charles de Menezes Family Campaign, The 
-
 The website dedicated to Jean Charles de Menezes, the innocent victim who was shot dead in a mistaken anti-terrorist operation in July 2005.

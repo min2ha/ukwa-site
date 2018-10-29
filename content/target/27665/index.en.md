@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Anarchist mob plotting a summer of thuggery: As mob daubs graffiti on war memorial, fanatics warn of more violence ahead of State Opening of Parliament
-
 None

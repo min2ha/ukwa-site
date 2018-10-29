@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Cardiff 4 Europe
-
 Cardiff For Europe is a grassroots, cross-party and no-party organisation made up of the people of Cardiff.

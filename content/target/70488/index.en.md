@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on no-deal Brexit: Tory tactics make a second vote more likely
-

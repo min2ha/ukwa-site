@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 26th February 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, debates amendments to the EU Withdrawal Bill relating to healthcare access, medicines regulation, ERASMUS+ and Horizon 2020.

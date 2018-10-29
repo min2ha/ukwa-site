@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Friends of Mynyddbach Chapel
-
 The Friends of Mynyddbach Chapel was formed in April 2011 to save Mynyddbach Chapel from dereliction.

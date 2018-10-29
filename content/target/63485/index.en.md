@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking: Tributes pour in as physicist dies aged 76
-
 New Scientist: An article about the passing of Stephen Hawking

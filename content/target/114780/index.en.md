@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Mother@Work
-
 None

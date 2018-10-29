@@ -10,5 +10,3 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Alexander Harley Seeds (Milnathort) Ltd
-

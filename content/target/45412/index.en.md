@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Traffic Scotland
-
 Traffic information service provided by Transport Scotland.

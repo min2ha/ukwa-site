@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Rupert Murdoch backs another election victor, but was it the Sun wot won it?
-
 None

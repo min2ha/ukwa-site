@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Politics @ Surrey
-
 The blog of the Department of Politics at the University of Surrey

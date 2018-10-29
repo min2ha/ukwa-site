@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Equality Commission for Northern Ireland
-
 Website of Equality Commission for Northern Ireland - Northern Irish non-departmental public body to provide protection against discrimination.

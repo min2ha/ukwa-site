@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell United (@GrenfellUnited) on Twitter
-
 An official organisation for bereaved, survivors & community of Grenfell Tower. 

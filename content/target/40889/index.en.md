@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Scots Music Group
-
 Site of an organisation based in Edinburgh that provides classes on various traditional Scots instruments, and organises Scots music events and Community Projects focusing on tradtional Scots music.

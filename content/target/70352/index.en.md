@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Parish of St. Mary, Blairs
-
 Site of a Scottish Roman Catholic parish church in Aberdeen, with connections to Blairs College.

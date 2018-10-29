@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Universities Scotland
-
 Universities Scotland is the representative body of Scotland's 19 higher education institutions.

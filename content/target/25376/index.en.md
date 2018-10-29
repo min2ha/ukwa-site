@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron crackdown on tax havens 'purely political gesture', says Tory peer
-
 None

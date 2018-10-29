@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Wales Online Digital Awards
-
 The Digital Awards is managed by WalesOnline and showcase the work of individuals and companies across Wales leading the world of digital business in Wales.

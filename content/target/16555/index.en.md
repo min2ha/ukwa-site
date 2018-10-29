@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: TV debates: broadcasters will 'empty chair' leaders who refuse to take part 
-
 None

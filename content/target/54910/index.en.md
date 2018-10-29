@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Official Shrewsbury 24 Campaign
-
 Campaign seeking "to overturn the unjust prosecution of 24 building workers following the first ever national building workers strike in 1972. They picketed building sites in Shrewsbury and were prosecuted in 1973. They became known as the 'Shrewsbury 24'.”

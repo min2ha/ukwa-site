@@ -10,6 +10,4 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# British Psychological Society (BPS)
-
 The British Psychological Society is a representative body for psychology and psychologists in the UK. 

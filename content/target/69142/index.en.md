@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Safe gigs for women (@safegigs4women) on Instagram
-
 Instagram account for an initiative aiming to create a safer environment for women at gigs

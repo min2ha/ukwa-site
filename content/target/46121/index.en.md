@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Daily Telegraph, The: How my party leader Nicola Sturgeon could get 'neo-independence' from Brexit - without another referendum
-

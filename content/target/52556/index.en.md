@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Labour’s Brexit: out of the EU, but close to it
-

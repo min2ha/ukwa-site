@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Glasgow's Leading Attractions
-
 Site of an organisation promoting Glasgow's sites and attractions for tourists.

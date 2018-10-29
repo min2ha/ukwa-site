@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cwmaman Memorial Project: Cwmaman Remembers our World War 1 Heroes
-
 Project to create a tribute to Cwmaman citizens who died during WW1.

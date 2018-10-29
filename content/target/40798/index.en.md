@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Todmorden Folk (@TodmordenFolk) on Twitter
-
 Twitter page for the people of Todmorden. They talk about, and retweet anything that they find of interest.

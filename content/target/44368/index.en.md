@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Yorkshire Post,The: Philip Davies: Point of no return for UK after Brexit
-
 article considering how the new government should deal with the consequences of Brexit

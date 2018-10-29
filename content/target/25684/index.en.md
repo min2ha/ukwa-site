@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sarah Teather: ‘We’re locked in this cycle of democratic self-harm’
-
 None

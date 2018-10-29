@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Phoenix Fringe - Comedy Festival
-
 Website for the Phoenix Fringe, London, established in 2013 as an alternative to the Edinburgh Festival.

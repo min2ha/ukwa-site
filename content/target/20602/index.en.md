@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory donor windfall for Camerons weeks before party leadership bid
-

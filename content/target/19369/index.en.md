@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Looking forward to Salisbury International Arts Festival ’15
-

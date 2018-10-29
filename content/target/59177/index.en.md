@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-#  Badenoch & Strathspey Orienteering Club
-
 Site of an orienteering club located in and around Aviemore, Highland.

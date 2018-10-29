@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Brent Central: Lib Dems, libraries and the Labour tide
-
 None

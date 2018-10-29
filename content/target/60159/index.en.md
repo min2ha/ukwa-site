@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Facebook's first president Sean Parker says app has secretly snared billions of people into using it
-
 News article about former facebook president Sean Parker and his role in developing the site to be addictive to users

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: "It's all kicking off"
-
 The government's backers the DUP were threatening to pull support if the PM failed to  bend to their position on Brexit. That could in theory mean the government collapsing because they can't get anything done.
 

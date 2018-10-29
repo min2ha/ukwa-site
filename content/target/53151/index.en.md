@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael O'Carroll (@MikeEOCarroll) on Twitter
-
 Michael O'Carroll is the Welsh Liberal Democrat candidate for Swansea West at the 2017 General Election.

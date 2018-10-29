@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Bristol Radical History Group
-
 Radical history group founded in 2006 to open up some of the ‘hidden’ history of Bristol and the West Country to public scrutiny and challenge some commonly held ideas about historical events.

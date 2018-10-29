@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Association for Clinical Genetic Science
-
 The Association for Clinical Genetic Science was established in December 2012 from a merger of the Association for Clinical Cytogenetics and the Clinical Molecular Genetics Society with the vision of bringing together scientists working within genetics into one professional association.

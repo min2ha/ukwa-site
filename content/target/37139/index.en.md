@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU referendum: What will Brexit mean for 2m Britons who are tax residents abroad?
-
 Website for the International Business Times

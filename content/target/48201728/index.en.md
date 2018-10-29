@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Colin Usher's Engineering Web Page
-
 Website dedicated to model aircraft and model engineering.

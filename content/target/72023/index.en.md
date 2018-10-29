@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: It's time for EU to get serious on Brexit, says Dominic Raab
-
 In a speech at the Conservative Party conference in 2018, the minister responsible for Brexit told the EU to "get real" and reach a deal with the UK. He said the UK would leave without a deal rather than be "bullied" into signing a "one-sided" arrangement.
 
 

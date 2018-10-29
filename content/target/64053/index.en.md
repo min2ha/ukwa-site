@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Blairhill Dundyvan Parish Church
-

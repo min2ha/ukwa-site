@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Six Weeks Meeting
-

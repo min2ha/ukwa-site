@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# PrettyLittleThing.com
-
 Shop the latest women's fashion at PrettyLittleThing; offering thousands of must have looks & trends

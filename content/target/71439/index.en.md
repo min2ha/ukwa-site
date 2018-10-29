@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Droitwich RFC on Pitchero
-
 The official website of Droitwich Rugby Football Club.

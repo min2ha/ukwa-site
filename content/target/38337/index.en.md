@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: Easter Rising 2016: Live and let celebrate
-

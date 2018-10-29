@@ -10,5 +10,3 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# Cynghrair Strategol Aberystwyth a Bangor | Aberystwyth Bangor Strategic Alliance
-

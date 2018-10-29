@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Democratic Audit
-
 'Democratic Audit is based at the London School of Economics, in the Public Policy Group. It is staffed by two full-time Managing Editors who edit the DA blog, manage our social media output, organise and plan DA events, and deal with public liaison, public affairs, research commissioning and the day to day management of the Audit.'

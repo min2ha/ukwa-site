@@ -10,7 +10,5 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Indyfest | Gŵyl Annibyniaeth 
-
 Gŵyl Annibyniaeth  is a one-day festival of live Music & Poetry, talks and workshops 
 organised by YesCaerdydd and held in Cardiff promoting Welsh Independence.

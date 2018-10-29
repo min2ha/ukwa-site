@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Gate Gallery and Glassworks
-
 The Gate Gallery and Glassworks is in Brecon and home of resident glassmaker Kathryn Roberts MA(RCA).

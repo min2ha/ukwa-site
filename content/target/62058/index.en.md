@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Port Talbot Little Theatre
-
 The Little Theatre is an amateur dramatic society and was founded in 1941.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-24T09:00:00Z"
 }
 
-# Scottish Mask and Puppet Centre
-
 WordPress site of a Scottish museum, theatre and educational organisation focusing on masks and puppetry.

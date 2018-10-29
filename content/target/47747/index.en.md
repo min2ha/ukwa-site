@@ -10,5 +10,3 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# Tywyn Wurlitzer, The
-

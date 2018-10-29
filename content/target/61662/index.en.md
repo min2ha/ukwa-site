@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: "Is social media causing childhood depression?"
-
 BBC News article about social media and depression 

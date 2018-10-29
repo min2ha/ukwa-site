@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Crew of the S.S. May Day, The
-
 None

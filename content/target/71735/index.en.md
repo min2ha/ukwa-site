@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Andrew's Scottish Episcopal Church Kelso
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Kelso, Scottish Borders.

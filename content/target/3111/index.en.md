@@ -10,7 +10,5 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Ofcom
-
 Ofcom is an independent regulator and competition authority
 for the UK communications industries.

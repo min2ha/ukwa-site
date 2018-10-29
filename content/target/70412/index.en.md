@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Boardmasters
-
 Festival focused on surfing, skaing, BMX and beach activities.

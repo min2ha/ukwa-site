@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Irvinestown Truck Festival
-
 Website for the Irvinestown Truck Convoy Festival.

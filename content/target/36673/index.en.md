@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# European Movement in Scotland, The: The Scottish Council of the European Movement UK
-

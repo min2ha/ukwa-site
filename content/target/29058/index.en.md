@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Penrith and the Border Conservatives
-
 Website of Penrith and the Border Conservatives, providing information on association officers and staff, city, county, and district councillors, MPs, events, speeches in Parliament and local, national and Westminster news.

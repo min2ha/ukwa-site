@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Clan Menzies
-
 Site of an organisation interested in the family, history and traditions of the Scottish clan Menzies.

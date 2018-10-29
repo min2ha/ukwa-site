@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Biggar Albion Foundation Ltd / Albion Vehicle Preservation Trust
-
 Joint webite of two organisations established to preserve and promote the vehicles produced by the former Albion Motor company, and acting as a society for Albion Motor enthusiasts.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# East Lothian Conservative and Unionists
-
 The East Lothian Conservative and Unionist Assoication.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Clark (@chrisclarkcpfc) on Twitter (Labour Politician)
-
 Chris Clark stood as Labour candidate for Sevenoaks at the 2017 General Election but was not elected.

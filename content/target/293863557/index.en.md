@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Direct Scot Blog
-
 A discussion space for the Direct Scot prototype. Direct Scot is Scotlands planned public services and information portal.

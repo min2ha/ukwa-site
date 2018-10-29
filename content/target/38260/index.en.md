@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts For EU (@artsforeu) on Twitter/
-
 Artist-led campaign making a cultural case for Europe. 

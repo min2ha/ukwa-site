@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Clan Cameron Museum Scotland
-
 Site of a museum based in Spean Bridge and dedicated to the history of the Clan Cameron and the Highlands.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Gentoo Group
-
 Gentoo is a housing association that owns and manages more than 29,000 homes.

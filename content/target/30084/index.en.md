@@ -10,5 +10,3 @@
   "start_date": "2015-09-01T10:00:00Z"
 }
 
-# Citizens Advice Scotland
-

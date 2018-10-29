@@ -10,5 +10,3 @@
   "start_date": "2009-01-19T00:00:00Z"
 }
 
-# JISC Procureweb
-

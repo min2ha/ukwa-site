@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Freedom Central
-
 'Freedom Central is an independent, collaborative website run by Welsh Liberal Democrat acitivists where any individual inside or outside the party can express their views.'- homepage.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peninsula Cancer Network 
-
 None

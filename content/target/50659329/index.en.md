@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Science Office, Italian Embassy in London
-
 None

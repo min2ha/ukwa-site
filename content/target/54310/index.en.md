@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Grime4Corbyn
-
 A grassroots campaign group which has set up a youth-targeted website and organised a free music event to encourage electoral registration in the run up to the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# NO2NP - Say No to the Named Person Scheme
-
 NO2NP is a campaigning group which opposes the Scottish Government’s planned Named Person scheme.

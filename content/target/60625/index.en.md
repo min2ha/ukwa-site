@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Karting Forum
-
 An online enthusiast community forum concerned with Go-karting. Discusses Go-karting by class.

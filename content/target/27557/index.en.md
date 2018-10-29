@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Grant Schapps Wikipedia claims: The strange case of Contribsx, the Tory chair's biggest fan
-
 None

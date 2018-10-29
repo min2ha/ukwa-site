@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Drinking Water Quality Regulator for Scotland, The (DWQR)
-

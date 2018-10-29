@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Stability at the top as David Cameron keeps key Cabinet ministers in place - as it happened, May 8
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Neil Williams on Twitter (Green Party candidate for Gillingham and Rainham)
-

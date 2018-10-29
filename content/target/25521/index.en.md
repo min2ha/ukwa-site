@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why mentally ill people are an easy target for the Tories
-
 None

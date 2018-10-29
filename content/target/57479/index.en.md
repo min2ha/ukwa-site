@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Fife Jazz Festival
-
 Site of an annual festival of jazz music in Fife.

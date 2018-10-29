@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Durham Book Festival
-
 Durham Book Festival

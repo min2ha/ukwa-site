@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Trip Advisor
-
 <p>TripAdvisor.com is a travel website which uses crowdsourcing to gather information, reviews and opinions of travel companies, accommodation, visitor attractions etc. Contains online discussion forums on travel related topics.</p>

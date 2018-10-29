@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# GAP Group Limited
-
 GAP Group Limited is a company engaged in the renting and leasing of construction and civil engineering machinery and equipment. 

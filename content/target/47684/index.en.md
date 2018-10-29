@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: MPs back government's Brexit timetable
-
 MPs voted to back the government's plan to start formal talks on Brexit by the end of March 2017. They also supported a Labour motion calling for Parliament to "properly scrutinise" the government in its proposals for leaving the EU.

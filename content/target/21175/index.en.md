@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gerard Catney (@Gerardcatney) on Twitter (Alliance Party candidate for Belfast West) 
-

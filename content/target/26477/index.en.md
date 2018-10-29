@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Spring in Ed Miliband's step suggests he feels Downing Street is within reach
-
 None

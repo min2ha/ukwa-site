@@ -10,5 +10,3 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Dharmavajra Kadampa Buddhist Centre, Swansea
-

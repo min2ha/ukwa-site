@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Colin Beattie Scottish National Party Midlothian Westminster candidate
-
 None

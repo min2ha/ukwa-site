@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Feminist Library, The
-
 The Feminist Library is a large collection of Women's Liberation Movement literature based in London. They have been supporting research, activist and community projects since 1975.

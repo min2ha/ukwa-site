@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Healthy Gay Scotland
-
 Site of a Scottish national HIV organisation that promotes the sexual health and well being of gay and bisexual men living in Scotland; funded by the Scottish Executive and is part of HIV Scotland.

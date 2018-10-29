@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church In History
-
 The website is an independently researched religious based historical work. Produced over decades by a self taught historian Mr Dennis Barton. 

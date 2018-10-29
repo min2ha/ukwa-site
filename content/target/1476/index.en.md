@@ -10,6 +10,4 @@
   "start_date": "2013-05-05T23:00:00Z"
 }
 
-# Cancer Research UK
-
 <p>Website of Cancer Research UK, a charity for cancer researh established in 1902.</p>

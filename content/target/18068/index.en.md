@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Aleks Krotoski
-
 Aleks Krotoski is an academic and journalist who writes about and studies technology and interactivity. She is an author of the book 'Untangling the Web: What the Internet is Doing to You' looking at the psychology research behind the claims about the positive and negative forces of the digital age. She also presents BBC Radio 4’s science series 'The Digital Human'. She has been hosting The Guardian’s Tech Weekly podcast since its inception, in 2007, and produces N of Us, a BPS-supported podcast about social psychology.

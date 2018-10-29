@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Streatham-Croydon RFC on Pitchero
-
 The official website of Streatham-Croydon Rugby Club.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: Four claims in Tony Blair's speech
-
 Former Prime Minister Tony Blair has launched a campaign to try to persuade the British people to change their minds about leaving the European Union. It comes just weeks before the government intends to trigger the departure mechanism. In a speech in London, he said that he respected the will of the people, but voters hadn't been given details about the terms on which Britain would exit the EU

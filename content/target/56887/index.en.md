@@ -10,5 +10,3 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Digital Health & Care Institute
-

@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Change of Leadership at the GSA? A
-
 Article about the second fire at Glasgow School of Art on 15 June 2018.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# West Yorkshire Sport (@WYSdaily) on Twitter
-
 BBC Radio Leeds is the home of West Yorkshire Sport. 

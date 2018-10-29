@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Association of Zoo & Exotic Veterinary Nurses (AZEVN)
-
 The Association of Zoo & Exotic Veterinary Nurses (AZEVN) is a not-for-profit association that is ran by Veterinary Nurses for Veterinary Nurses, and is focused solely around the Zoo & Exotic VN Sector.

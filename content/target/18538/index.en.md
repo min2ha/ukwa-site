@@ -10,6 +10,4 @@
   "start_date": "2015-03-22T09:00:00Z"
 }
 
-# Telefrance
-
 Telefrance provides French TV channels in the UK.

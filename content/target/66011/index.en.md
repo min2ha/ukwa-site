@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Shehab Khan (@ShehabKhan) on Twitter
-
 A UK based journalist & TV pundit.

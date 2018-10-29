@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Could Corbyn solve Brexit and save Britain? I can almost imagine it now
-

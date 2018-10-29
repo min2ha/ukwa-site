@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Speakers' Corner Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dinesydd, Y
-
 Y Dinesydd is a Welsh language community newspaper for Cardiff.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Roach (@davidroachcouk) on Twitter
-
 The Twitter profile of David Roach, the Conservative Party candidate for East Lothian in the UK General Election on the 7th May 2015.

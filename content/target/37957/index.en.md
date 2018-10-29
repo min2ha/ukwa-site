@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit campaigners have track record of hostility to NHS, say MPs 
-
 Guardian, The

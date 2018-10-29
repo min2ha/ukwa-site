@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Martin McCluskey - A Fresh Start for Labour in the West of Scotland
-
 Martin McCluskey is the Scottish Labour candidate for the West Scotland list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Littleport Festival Fourteen
-
 Project to create a series of community workshops to acquaint residents of Littleport with events surrounding the outbreak of the First world War, and its impact on the community of Littleport.

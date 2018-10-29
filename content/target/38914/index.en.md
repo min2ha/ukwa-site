@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# LGBT Youth Scotland
-
 Site of a support and advice service for Lesbian, Gay, Bisexual and Transgender young people in Scotland

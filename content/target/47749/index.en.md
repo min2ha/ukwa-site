@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Walterton & Elgin Community Homes (WECH).
-
 Walterton & Elgin Community homes (WECH) is a resident controlled housing association in Westminster

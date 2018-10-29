@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Fishkeeping Forum
-
 An online enthusiast forum concerned with fishkeeping. Discusses freshwater and saltwater fish keeping.

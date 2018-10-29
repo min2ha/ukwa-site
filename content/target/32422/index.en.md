@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# International Child Health Group (ICHG)
-
 The International Child Health Group (ICHG) is a special interest group of the Royal College of Paediatrics and Child Health. It is a group for paediatricians and health professionals with an interest in improving global child health.

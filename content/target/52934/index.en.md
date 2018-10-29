@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# AmmA Centre [Northern Ireland collection]
-
 The AmmA Centre is a multimedia creative learning centre in the Education Authority (Southern Region), Northern Ireland. It is a centre where digital technology alongside traditional media can be used creatively by organisations and individuals from schools, the youth sector and the community.

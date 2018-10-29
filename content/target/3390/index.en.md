@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Jewish Leadership Council
-
 <p>Jewish General</p>

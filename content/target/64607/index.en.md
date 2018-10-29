@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Challenge Wales | Her Cymru
-
 Challenge Wales is an award-winning  sail training charity which operates Challenge Wales | Wales’ Tall Ship (the 72 foot round the world racing yacht) and Adventure Wales (the 60 foot two masted schooner). 

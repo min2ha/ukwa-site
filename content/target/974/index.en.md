@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Imperial College: Twitter's role in NHS reforms debate analysed
-
 None

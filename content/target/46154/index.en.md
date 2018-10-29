@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# City of Dundee Burgesses
-
 Site of a Dundee charity established to promote civic pride in the city raise funds for the community.

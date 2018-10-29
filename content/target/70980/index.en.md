@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  As Britain faces its biggest political crisis since the war... this is what I see in my Brexit crystal ball
-
 Predicts that Theresa May will survive as Tory Party leader until the 2020 general election and that she will get a deal with the EU based on the Chequers plan approved by Parliament. Tory MPs will support her rather than trigger a general election at a moment of national crisis.

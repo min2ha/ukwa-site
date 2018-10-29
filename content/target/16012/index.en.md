@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Marie Curie Palliative Care Institute Liverpool, University of Liverpool
-
 <p>The aim at the Marie Curie Palliative Care Institute Liverpool is to be a recognised centre which improves the care of the dying, locally, nationally and internationally. This is mainly done through research, training and also finding new ways to help doctors and nurses to provide the best care possible and improve care for patients, their families and loved ones.</p>

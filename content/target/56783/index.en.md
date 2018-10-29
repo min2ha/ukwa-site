@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ILI365 (@IntLibIntl) on Twitter
-
 The official Twitter profile of the Internet Librarian International conference held in London, UK.

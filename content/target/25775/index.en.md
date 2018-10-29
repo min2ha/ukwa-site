@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: five questions on NHS funding that the campaigns are avoiding
-
 None

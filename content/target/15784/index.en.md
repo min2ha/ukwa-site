@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Acklam Car Centre, The
-
 <p>Acklam Car Centre Ltd is a local family owned business which specialises in selling cars. It contains a blog.</p>

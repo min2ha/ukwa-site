@@ -11,8 +11,6 @@
   "subject": "Scottish Government"
 }
 
-# Participatory Budgeting in Scotland 
-
 This site acts as a central location for information, news and resources about Participatory Budgeting  in Scotland. PB Scotland has been developed by the
 Scottish Community Development Centre (SCDC) 
 with funding from the Scottish Government

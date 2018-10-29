@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Federation of Small Businesses: A study of FSB members’ views on the UK’s membership of the European Union
-

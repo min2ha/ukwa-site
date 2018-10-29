@@ -10,5 +10,3 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Colwyn Bay Chamber of Trade
-

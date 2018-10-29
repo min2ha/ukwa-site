@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Ministry of Justice (@MoJGovUK) on Twitter
-
 We work to protect the public and reduce reoffending, and to provide a more effective, transparent and responsive criminal justice system

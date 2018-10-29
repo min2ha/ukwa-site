@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking - An appreciation by Lord Martin Rees 
-
 Lord Martin Rees writes a tribute to Stephen Hawking

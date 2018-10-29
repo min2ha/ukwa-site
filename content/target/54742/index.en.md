@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Bahamas High Commission, London
-
 The Bahamas High Commission, London is a multifunctional diplomatic mission, with numerous concurrent bilateral and multilateral accreditations.

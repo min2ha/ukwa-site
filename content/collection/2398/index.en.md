@@ -25,6 +25,4 @@
   "endDateText": "08-02-2008"
 }
 
-# G8 Summit 2005
-
 Selection of web sites relating to the summit of the G8 leaders held at Gleneagles, Scotland, 6th - 8th July 2005

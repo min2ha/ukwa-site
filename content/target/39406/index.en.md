@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Fife Diet
-
 Site of a group in the county of Fife, Scotland, exploring and implementing the possibilities for production and consumption of food produced locally in order to address issues of climate change.

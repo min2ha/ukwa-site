@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# The Carpenters' Company
-
 The Carpenters' Company is a City of London Livery Company. It received its first royal charter in 1477, and was granted a coat of arms in 1466.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: From the US to the EU, we're seeing nothing less than a revolt against smug elites, writes Richard Littlejohn
-

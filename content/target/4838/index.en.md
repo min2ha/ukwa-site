@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Labour Lords: In solidarity, for liberty
-
 <p>Baroness Glenys Kinnock writes on her own memories of Nelson Mandela and the Anti Apartheid Movement in the UK.</p>

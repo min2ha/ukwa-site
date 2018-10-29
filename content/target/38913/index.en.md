@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Includem
-
 Includem is a registered scottish charity which works with vulnerable young people who are excluded from mainstream services.

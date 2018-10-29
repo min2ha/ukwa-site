@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cadan ap Tomos (@CadanapTomos) on Twitter (Liberal Democrats candidate for Cardiff West)
-

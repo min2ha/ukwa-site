@@ -10,5 +10,3 @@
   "start_date": "2005-02-18T00:00:00Z"
 }
 
-# TRADCAP - The hidden Morris and the Morris Ring Archive
-

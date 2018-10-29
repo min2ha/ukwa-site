@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ButeFest
-
 Site of a music festival on the Isle of Bute, Argyll & Bute, Scotland.

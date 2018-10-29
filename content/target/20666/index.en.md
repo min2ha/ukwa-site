@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mums for Change (@mumsforchange) on Twitter
-
 Twitter profile of Mums for Change, a group which campaigns for Scottish independence.

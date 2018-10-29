@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Twitter storm in Russia over Sochi Olympics twin toilet
-
 None

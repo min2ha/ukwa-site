@@ -11,7 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 
-Ukip demand change to electoral system after surge of support
-
 None

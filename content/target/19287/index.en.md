@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: The PM lauds Magna Carta but his government undermines its greatest legacies 
-

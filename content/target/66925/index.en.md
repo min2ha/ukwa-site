@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Bitcoin Investors UK
-
 Bitcoin Investors UK is the leading Bitcoin and Cryptocurrency site for UK investors. Get information on bitcoin and cryptocurrency

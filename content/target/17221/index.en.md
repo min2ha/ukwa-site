@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Church tells Christians how they should vote including scrapping Trident nuclear deterrent and calling for closer European integration
-
 None

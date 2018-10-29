@@ -10,5 +10,3 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Cardiff Guitar Festival
-

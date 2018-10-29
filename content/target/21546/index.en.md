@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's top donor: Tuition fees cut will hurt British universities and will not help 'working class'
-
 None

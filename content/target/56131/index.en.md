@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# House of Commons Library: Abuse and intimidation of candidates and the public during the General Election campaign
-
 Debate Pack for the debate on the abuse and intimidation of candidates and the public during the General Election campaign on 17 July 2017.

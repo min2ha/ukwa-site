@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bridlington Free Press
-
 None

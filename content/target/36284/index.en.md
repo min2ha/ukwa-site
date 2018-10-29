@@ -10,5 +10,3 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Independent: Cambridge University’s vice-chancellor warns against Brexit
-

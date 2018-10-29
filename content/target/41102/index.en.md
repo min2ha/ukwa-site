@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Highland Environmental Network
-
 Site of an organisation  set up to coordinate and enable the sharing of information, expertise, education and action on the environment and sustainability in the Highlands of Scotland.

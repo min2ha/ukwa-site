@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Feis na Mara
-
 Site of an annual music festival at Mallaig, Lochaber, Highlands.

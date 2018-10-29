@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Juncture: Commemorating the Rising: History, democracy and violence in Ireland
-
 Article by Heather Jones in the magazine of the Institute for Public Policy Research (IIPR).

@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Elixir Brewery on Twitter
-
 Twitter page of a brewer located in Edinburgh.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T11:00:00Z"
 }
 
-# Big Sexy Circus City on Facebook
-
 Facebook page for Big Sexy Circus City, a circus and cabaret venue from the Edinburgh Fringe Festival.

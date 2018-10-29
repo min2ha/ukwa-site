@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Bill Grant MP on Facebook
-
 Bill Grant is the Member of Parliament for Ayr, Carrick and Cumnock.

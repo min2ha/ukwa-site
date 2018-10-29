@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Annbank and Tarbolton Parish Churches
-
 Site of two Church of Scotland parish churches in Ayrshire.

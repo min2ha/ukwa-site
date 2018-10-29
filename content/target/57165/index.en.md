@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Steelhouse Festival
-
 Steelhouse festival is a classical rock festival held in Ebbw Vale

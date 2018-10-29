@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Edinburgh College
-
 Site of a further education college located in Edinburgh.

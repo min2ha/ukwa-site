@@ -10,6 +10,4 @@
   "start_date": "2015-05-09T00:00:00Z"
 }
 
-# Celtic Challenge, The
-
 <p>The Celtic Challenge is the World’s Longest true rowing race where teams race from Arklow in County Wicklow, Ireland to Aberystwyth, a distance of about 90 nautical miles.</p>

@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Cycling Weekly: Who is Callum Skinner, Britain’s new star sprinter?
-

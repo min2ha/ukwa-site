@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Iain Duncan Smith declares war on David Cameron: Leading Eurosceptic minister accuses the Prime Minister of having a 'low opinion' of Britons and mocks his 'pessimistic' campaign to stay in the EU   
-

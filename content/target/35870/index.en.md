@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Pity the poor Brexiters – they could win yet still lose
-
 Guardian, The

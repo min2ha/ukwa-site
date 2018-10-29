@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# LEP Network
-
 The LEP Network is a gateway to news and information that enables Local Enterprise Partnersships (LEPs) to come together on areas of shared importance, engage with Government, and share knowledge and good practice.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Penderyn Music Book Prize
-
 The Penderyn Music Book Prize is a UK-based book prize specifically for music titles including history, theory, biography, autobiography. 

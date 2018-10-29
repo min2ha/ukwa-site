@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Miracle needed to advance talks, says Juncker
-
 Jean-Claude Juncker said it would take a "miracle" for Brexit talks to progress quickly enough to persuade the EU to start discussing trade soon. He agreed progress had been made between the two sides at the September round of negotiations,  but asked if it was enough to persuade the EU to agree to open trade talks, as the UK wanted, at a summit in October 2017, he replied only if "miracles happen".

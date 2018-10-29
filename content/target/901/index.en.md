@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds Community Healthcare
-
 None

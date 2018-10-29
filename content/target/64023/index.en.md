@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Caradoc Lodge No.1573 Masonic Province of South Wales
-
 Caradoc Lodge No. 1537 meet at the Swansea Masonic Temple and was consecrated in 1876.

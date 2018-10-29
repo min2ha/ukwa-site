@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# Rhea Seren Phillips
-
 Rhea Seren Phillips is a Ph.D student at Swansea University studying how Welsh poetic forms and metre could reinterpret the cultural identity of modern Wales. This is her blog focussing on her personal poetry.

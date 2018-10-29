@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harlow Rugby Club (@harlowrugbyclub) on Twitter
-
 The official Twitter account of Harlow Rugby Club.

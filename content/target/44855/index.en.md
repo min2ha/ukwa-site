@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Civitas: Economical With The Truth: A review of 'HM Treasury analysis: the long-term economic impact of EU membership and the alternatives'
-
 In this report, Michael Burrage interrogates the assumptions underpinning HM Treasury analysis: the long-term economic impact of EU membership and the alternatives and finds that they ignore much of the published evidence about trade growth over recent decades.

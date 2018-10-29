@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Channel Fife TV
-
 Site of a web broadcast organisation based in Glenrothes, Fife, producing drama and documentary programming and specialising in social film projects.

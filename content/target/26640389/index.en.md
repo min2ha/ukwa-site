@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Stool Pigeon Music Newspaper, The
-
 None

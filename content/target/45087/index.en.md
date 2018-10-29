@@ -10,6 +10,4 @@
   "start_date": "2016-08-18T10:00:00Z"
 }
 
-# Sogo Magazine
-
 Site of a magazine based in Scotland that promotes and provides a platform for Scottish creative industries and communities.

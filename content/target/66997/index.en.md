@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Glasgow Barrowland & Barras Market
-
 Site of Glasgow Barrowland & Barras Market.

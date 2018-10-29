@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Postcards from Ascension Island  
-
 The gallery page consists of thumbnail prints of photographs of Ascension Island which the site owner took during their stay there in 1966-1968.

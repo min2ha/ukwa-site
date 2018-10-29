@@ -10,6 +10,4 @@
   "start_date": "2016-01-16T09:00:00Z"
 }
 
-# First Choice Housing Association Ltd
-
 First Choice Housing Association provides accommodation for people with disabilities, veterans and additional complex needs across Wales and Shropshire.

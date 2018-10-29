@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fort William Shinty Club
-
 Site of shinty club based at Fort William, Highland.

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Office of the Scottish Charity Regulator (OSCR)
-
 The Office of the Scottish Charity Regulator (OSCR) verifies, advises and registers Scottish charities.

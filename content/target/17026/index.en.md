@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Parliamentary Candidates UK 2015
-

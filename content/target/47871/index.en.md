@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Old Library at Trinity Hall, The 
-
 This blog begins by documenting some of the stages in the project to catalogue the eighteenth-century books housed in the historic Old Library. The blog also covers the progress of other Old Library cataloguing projects and other interesting finds.

@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# UK DNA Banking Network (UDBN) 
-
 None

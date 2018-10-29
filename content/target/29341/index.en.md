@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# Back-Roads Touring
-
 Back-Roads Touring provide small group and tailormade touring holidays. They offer a range of unusual and leisurely regional tours throughout the UK and Europe.

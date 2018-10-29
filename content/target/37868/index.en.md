@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Last Post WW1 Commemoration Project, The 
-
 The Last Post project is a mass participation initiative, bringing communities across the UK together to research and share their First World War heritage at Last Post events.

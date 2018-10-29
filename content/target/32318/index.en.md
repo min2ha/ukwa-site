@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Ysgol Pentrecelyn
-
 School based near Ruthin and due for closure in 2016.

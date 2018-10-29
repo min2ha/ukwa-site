@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Dundee University Students’ Association
-
 Site of a student representative association at the Univeristy of Dundee, who also organise sports and social societies and events.

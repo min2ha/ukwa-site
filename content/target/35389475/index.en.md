@@ -10,5 +10,3 @@
   "start_date": "2010-02-12T00:00:00Z"
 }
 
-# Welsh Mustard Company
-

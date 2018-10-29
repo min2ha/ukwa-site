@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Kicking the Kyriarchy: Intersectional Feminist Podcast
-
 An intersectional feminism podcast series that aims to provide a platform for voices, stories and narratives in society.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Home secretary hardens refusal to accept EU resettlement programme
-
 None

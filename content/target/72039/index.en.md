@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hawcoat Park RUFC
-
 The official website of Hawcoat Park Rugby Union Football Club. Established 1930.

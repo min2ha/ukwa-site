@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sir John Major: A deal between Ed Miliband and Nicola Sturgeon will cause 'mayhem'
-
 None

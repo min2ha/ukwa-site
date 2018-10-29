@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Dunkeld
-
 Site of the Roman Catholic Dioscese of Dunkeld, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Mary Hopkin Music
-
 Mary Hopkin is a Welsh folk singer best known for her song "Those Were The Days" and being one of the first musicians to sign to The Beatles' Apple label. This website is run by Mary Hopkin's daughter. Jessica Morgan.

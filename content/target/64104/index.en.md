@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# LabourCentreLeft (@LabourCL) on Twitter
-
 A personal twitter account set up by a Labour supporter who has reservations about Jeremy Corbyn as Leader but wants a Labour goverment. 

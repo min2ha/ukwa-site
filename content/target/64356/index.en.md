@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Northamptonshire Community Foundation
-
 We are dedicated to funding community-based action which improves the lives of our county’s most disadvantaged people and communities.

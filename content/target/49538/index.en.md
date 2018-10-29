@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# Elin Manahan Thomas
-
 Elin Manahan Thomas is a Welsh soprano.

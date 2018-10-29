@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jon Cruddas urges Labour focus on devolution to cities
-
 None

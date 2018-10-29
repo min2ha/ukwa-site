@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Coldingham Parish
-
 The website of the Church of Scotland Parish of Coldingham and St. Abbs.

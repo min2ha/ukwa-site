@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Street Level Photoworks: Arpita Shah - Portrait of Home
-
 <p>Street Level is a leading photography arts organisation that provides artists and the public with a range of opportunities to make and engage with photography.<br />
 Portrait of Home is a collection of photographs of families based in Scotland who also have cultural roots in other Commonwealth countries. This work celebrates Scotland’s links to the Commonwealth, visually representing how migration between these countries has shaped the national and cultural identity of contemporary Scotland. Part of the Glasgow 2014 Cultural Programme.</p>

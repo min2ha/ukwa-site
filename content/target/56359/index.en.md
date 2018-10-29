@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Khamira
-
 Khamira first came together in 2015, touring India playing The Goa Jazz Festival, Kolkata JazzFest, Bangalore and New Delhi. The group is formed of four creative musicians from Wales and three of India's new wave of adventurous genre-breaking artists. 

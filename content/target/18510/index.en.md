@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Inheritance tax changes mooted under Conservative plans
-
 None

@@ -10,8 +10,6 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# VocalEyes
-
 VocalEyes is an advanced participation and engagement process for use by any group, business or community in the UK. In any type of organisation, VocalEyes can help turn ideas into action. The outcome is a stronger organisation which is more effective and more resilient.
 
 The VocalEyes process is powerful and innovative, combining both online (digital) and offline (face-to-face) means.

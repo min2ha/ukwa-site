@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# StreetFlower : Allows Business to Blossom
-
 StreetFlower Limited Blog 

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Rising In West Waterford, The
-
 This is the website of Waterford County Museum. It contains research on the course of the Easter Rising 1916 in West Waterford along with material on the subsequent War of Independence (1919-1921) and Civil War (1922-1923).

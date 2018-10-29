@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Only U.S. copy of Magna Carta treated at National Archives as part of $13.5million conservation effort
-

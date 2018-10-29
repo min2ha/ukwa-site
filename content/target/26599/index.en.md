@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I’ll always be a Milifan. Ed was the best prime minister we never had
-
 None

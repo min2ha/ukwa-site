@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Tamise en Scène - Specatacles et théatre français à Londres
-
 Tamise en Scène is a theatre and show production company dedicated to promote French-speaking performances in Great-Britain. Created in 2009 in London, it aims at introducing all amateurs of the French language to plays and shows in French and French artists. It also offers playful theatrical workshops focused on improvisation and the creation of a character. 

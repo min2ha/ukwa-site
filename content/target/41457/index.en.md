@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Migration Advisory Committee: Migrants in low-skilled work: the growth of EU and non-EU labour on low skilled jobs and its impact on the UK
-

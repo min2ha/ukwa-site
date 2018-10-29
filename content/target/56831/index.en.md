@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow's Whisky Festival
-
 WordPress site for a whisky festival featuring distillers and related buisnesses closest to Glasgow. 

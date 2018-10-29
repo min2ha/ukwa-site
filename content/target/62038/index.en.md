@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Northern Commercials Stadium | Valley Parade Stadium
-
 Valley Parade, also known as the Northern Commercials Stadium through sponsorship rights, is an all-seater football stadium in Bradford, West Yorkshire, England.

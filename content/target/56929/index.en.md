@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Miriam Jones
-
 Miriam Jones, creating beautiful and decorative objects.

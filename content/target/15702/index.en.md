@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Resolution Foundation, The
-
 <p>The Resolution Foundation is a think-tank that works to improve the living standards of those in Britain on low to middle incomes. They conduct research on living standards in the UK and produce solutions on economic and social policy.</p>

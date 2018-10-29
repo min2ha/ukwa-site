@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Axelrod: 'Obama was a once-in-a-lifetime candidate — Ed Miliband's a smart, earnest guy'
-
 None

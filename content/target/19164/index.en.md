@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: History events at the IHR: The public history of Magna Carta 
-

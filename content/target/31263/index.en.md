@@ -10,5 +10,3 @@
   "start_date": "2015-10-07T11:00:00Z"
 }
 
-# Lorn Leisure and Libraries on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal Statistical Society: Society launches 'Data Manifesto' for general election
-
 The Royal Statistical Society is a professional body for statisticians and data analysts. It promotes the importance of statistics and data. It was founded in 1834.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Peak District National Park Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Pirate Party Wales on Facebook
-
 Welsh branch of the Pirate party.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Graham Evans (Conservative Politician)
-
 [Name in direct order] stood as Conservative candidate for Weaver Vale at the 2017 General Election but was not elected. He was first elected to serve as the MP for Weaver Vale in 2010 and was re-elected in2015.

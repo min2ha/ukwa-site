@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margaret McCulloch for Hamilton, Larkhall and Stonehouse on Facebook
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Comann Litreachais on Twitter
-

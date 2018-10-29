@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Institute of Chartered Foresters
-
 The Institute of Chartered Foresters (ICF) is the UK’s Royal Chartered professional body offering the Chartered Forester and Chartered Arboriculturist titles.

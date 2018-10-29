@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dunfermline Athletic Football Club
-
 Ste of a senior Scottish football club based in Dunfermline, Fife.

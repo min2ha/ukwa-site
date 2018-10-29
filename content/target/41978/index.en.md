@@ -10,6 +10,4 @@
   "start_date": "2016-05-30T10:00:00Z"
 }
 
-# Shetland Heritage Shop
-
 Site of the online retail arm of Shetland Heritage, the local Museum & Archives service in Shetland.

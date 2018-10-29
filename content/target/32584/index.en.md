@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Technology Law Alliance
-
 Technology Law Alliance is an IT law firm, specialising in the field of IT law, outsourcing contracts and e-commerce projects.

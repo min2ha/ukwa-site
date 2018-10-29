@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Birthrights
-
 Birthrights is the UK’s only organisation dedicated to improving women’s experience of pregnancy and childbirth by promoting respect for human rights.

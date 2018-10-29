@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Turnbull: Australia 'very keen' for trade deal with UK
-
 Australia is "very keen" to secure a trade deal with the UK post Brexit "as quickly as possible", Australian PM Malcolm Turnbull said.

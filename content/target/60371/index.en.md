@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Phurnacite Justice Action Group on Facebook
-
 Phurnacite Justice Action Group (PJAG) is fighting for justice for victims of the pollution from the Phurnacite coking plant in Abercwmboi, once branded as 'Europe's Filthiest Factory' by Government Inspectors leaving behing a terrible legacy of cancers & ill health. 

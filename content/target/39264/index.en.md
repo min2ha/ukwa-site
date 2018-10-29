@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Poppy Fields
-
 Poppy Fields is a multi-faceted collaboration between Valise Noire Storytelling Theatre and other significant partners to tell the stories of the people of Poole who found themselves engaged in WW1.

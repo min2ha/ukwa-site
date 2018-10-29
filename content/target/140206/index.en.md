@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Winwick Hospital Remembered
-
 Welcome to this website marking a piece of the history of Winwick Hospital, in its heyday the largest psychiatric institution in Europe, and a military hospital in both World Wars. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Maelrubha's Church Poolewe on Facebook
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Poolewe, Highland.

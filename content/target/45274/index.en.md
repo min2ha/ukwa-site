@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Visit East Lothian
-
 Site of an organisation promoting tourism in East Lothian, Scotland

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Belfast Telegraph
-
 Befast Tegraph, The; Mary McAleese: Brexit could create fresh division in Northern Ireland

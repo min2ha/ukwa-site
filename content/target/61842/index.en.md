@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Lurdy, Flotta A record of an Orkney island's history
-
 Site with heritage and local information about the island of Flotta, ORkney.

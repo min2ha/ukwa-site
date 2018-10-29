@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mukhtar Mohammed (@mukhtar_77) on Twitter
-
 The twitter profile of Mukhtar Mohammed, competitor in the 800m race for Team England at the Glasgow 2014 Commonwealth Games.

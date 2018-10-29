@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Barmouth Organ Appeal 
-
 The Barmouth Organ Restoration appeal site aims are to increase awareness and use of this unique musical resource located at St John's Church, Barmouth and to promote and raise funds towards its full restoration.

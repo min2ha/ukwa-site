@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# May West
-
 Site of a music festival in Glasgow Scotland.

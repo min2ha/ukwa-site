@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Chester Street Baptist Church, Wrexham
-
