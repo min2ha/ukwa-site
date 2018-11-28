@@ -1,10 +1,24 @@
 ## UK Web Archive Crawler Settings
 
-The UK Web Archive endeavours to request permissions from website content owners before crawling a site, usually by email or letter. Our crawler is set to a polite rate to minimise traffic on websites. Its IP address is 194.66.232.85, and it identifies itself as: "Mozilla/5.0 (compatible; heritrix/1.14.1 +http://www.webarchive.org.uk/)".
+We run a number of differnet web crawlers for different purposes. Our curated crawls visit hundreds of sites on a daily, weekly, monthly, quarterly or six-monthly basis. This crawl process uses two different approaches for capturing web pages. For important URLs, we use an automated web browser to download the page, including images, stylesheets, and some dynamic JavaScript content. We identify this crawling process by including the following declaration in the User Agent:
 
-The crawl engine imposes a delay between fetching URLs (Uniform Resource Locators) from the same host which is a multiple of the amount of time it took to fetch the last URL downloaded from that host. The delayÂ­factor is set to 5 so that if for example it took 800 milliseconds to fetch the last URL from the host then the crawler will wait 4000 milliseconds (4 seconds) before allowing another URL from the host to be processed. It is not possible to have multiple concurrent URLs being processed from the same host. In general "robots.txt" is respected and is checked every hour for any changes. An exception is made for some folders, e.g. images and layout folders that are needed to make a complete copy of the site, but which the website owner naturally might not want a search engine to copy. We make this exception because we have permission to crawl the whole site.
+    bl.uk_lddc_renderbot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
 
-In general a limit is set on the number of URLs downloaded and the size: exceeding the limit will automatically stop the crawler. This ensures that if the crawler is in some kind of "trap" it will stop automatically when either of the limits is reached.
+Because this runs a web browser, this process can download quite a lot of URLs in a short time, just like a normal user. However, only a very small set of URLs use this process. The vast majority of URLs are downloaded using a more traditional web crawler that works a bit more like a normal search engine web crawler. This identifies itself as:
+
+    bl.uk_ldfc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+
+for the usual regular crawling activity, or as
+
+    bl.uk_lddc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+
+if it's part of our less frequent domain crawls, where we attempt to download content from all UK web sites, which we usually do once per year.
+
+These larger-scale crawls are more polite, and will download resources from a given web site at no more than two requests per second, and in general `robots.txt` is respected and is checked every hour for any changes.
+
+We do occasionally chose to disobey `robots.txt` if necessary. Those directives are usually composed with search engines in mind, and as such, tend to block resources that are unimportant to search engines like stylesheets or JavaScript. However, as we are an archival web crawler, we need those resources, so sometimes have to ignore `robots.txt` in order to get them.
+
+In general a limit is set on the number of URLs downloaded and the size: exceeding the limit will automatically stop the crawler. This ensures that if the crawler is in some kind of "trap" it will stop automatically when either of the limits is reached. These download caps are occasionally lifted on sites where we wish to ensure we get as much of the content as possible.
 
 ## Making Your Website Crawler-Friendly
 
