@@ -50,7 +50,7 @@ To use a plain text link, simply copy and paste the following code below onto yo
 
 To use a link that has the UK Web Archive logo, then copy and paste this code:
 
-    <div style=...><a href="http://www.webarchive.org.uk/"><img alt="UK Web Archive" src="http://www.webarchive.org.uk/images/ukwa.jpg"></img></a></div>
+    <div style=...><a href="http://www.webarchive.org.uk/"><img alt="UK Web Archive" src="https://www.webarchive.org.uk/en/ukwa/img/ukwa-logo-60px.jpg"></img></a></div>
 
 ## Technical Background
 
