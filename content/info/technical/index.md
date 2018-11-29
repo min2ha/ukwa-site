@@ -29,6 +29,11 @@ There are a number of things which you can do to help the UK Web Archive capture
  * Create a [Site Map](https://en.wikipedia.org/wiki/Site_map), and if possible a XML site map too. Creating a site map ensures all the website content can be crawled (some pages may not be discoverable by the crawler, for example pages which use Flash or JavaScript navigation). Having a site map will also help users to find your pages via search engines.
  * Use [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) to prevent access to areas of the site which may cause problems if crawled e.g. databases, including online catalogues; "shopping baskets", etc.
  * Provide standard links to content which would otherwise only be accessed via selecting drop down menus, certain dynamic kinds of navigation (e.g JavaScript) or by conducting searches on the website. This is because the crawler cannot access content hidden behind search forms. Websites can of course still use those devices but if standard links are also provided on the website then the content is more likely to be captured properly.
+ 
+For more information, please see:
+
+- Columbia Universities Libraries' [Guidelines for Preservable Websites](https://library.columbia.edu/bts/web_resources_collection/guidelines_for_preservable_websites.html)
+- Stanford Libraries' [Archivability](https://library.stanford.edu/projects/web-archiving/archivability)
 
 ## What Can't Yet Be Archived
 
