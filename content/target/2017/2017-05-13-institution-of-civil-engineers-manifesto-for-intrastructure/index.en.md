@@ -1,0 +1,15 @@
+{
+  "target_url": "https://www.ice.org.uk/ICEDevelopmentWebPortal/media/Documents/Media/ice-manifesto-for-infrastruture.pdf", 
+  "description": "ICE is engaging with all major political parties, with the manifesto writers, with the media and with opinion formers to get over this simple message: effective, efficient and innovative infrastructure is at the heart of a thriving, successful and modern economy.", 
+  "end_date": "2017-05-19T00:00:00Z", 
+  "date": "2017-05-13T09:00:00", 
+  "slug": 53173, 
+  "subject": "UK General Election 2017", 
+  "publisher": "ice.org.uk", 
+  "open_access": false, 
+  "title": "Institution of Civil Engineers: Manifesto for Intrastructure", 
+  "record_id": "20170513T090000/7nPjFMRjKqerZe5kgYOUTg==", 
+  "start_date": "2017-05-13T09:00:00Z"
+}
+
+ICE is engaging with all major political parties, with the manifesto writers, with the media and with opinion formers to get over this simple message: effective, efficient and innovative infrastructure is at the heart of a thriving, successful and modern economy.

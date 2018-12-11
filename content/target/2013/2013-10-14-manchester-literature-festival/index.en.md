@@ -1,0 +1,14 @@
+{
+  "target_url": "http://www.manchesterliteraturefestival.co.uk/", 
+  "description": "", 
+  "end_date": null, 
+  "date": "2013-10-14T10:00:00", 
+  "slug": 7654, 
+  "subject": null, 
+  "publisher": "manchesterliteraturefestival.co.uk", 
+  "open_access": true, 
+  "title": "Manchester Literature Festival", 
+  "record_id": "20131014T100000/C4JFvkHMThxPW6ofNj7Erw==", 
+  "start_date": "2013-10-14T10:00:00Z"
+}
+

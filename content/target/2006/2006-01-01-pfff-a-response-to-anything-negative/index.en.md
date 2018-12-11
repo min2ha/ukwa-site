@@ -1,0 +1,14 @@
+{
+  "target_url": "http://www.pfff.co.uk/weblog/archives/2005/07/surviving_a_ter_1.html", 
+  "description": "", 
+  "end_date": null, 
+  "date": "2006-01-01T12:00:00", 
+  "slug": 110703, 
+  "subject": "Blogs", 
+  "publisher": "pfff.co.uk", 
+  "open_access": false, 
+  "title": "Pfff - A response to anything negative", 
+  "record_id": "20060101T120000/HmWtKZ14A1aRq86DuEtlIg==", 
+  "start_date": null
+}
+

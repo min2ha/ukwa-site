@@ -1,0 +1,14 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.joanlennon.co.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Joan Lennon", 
+  "record_id": "20131014T100000/iF0lYk55L4UPP5eI+SeLAw==", 
+  "publisher": "joanlennon.co.uk", 
+  "slug": 50659364, 
+  "start_date": "2013-10-14T10:00:00Z"
+}
+
+None

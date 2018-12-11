@@ -1,0 +1,15 @@
+{
+  "target_url": "https://www.time-to-change.org.uk/news-media/celebrity-supporters/stephen-fry", 
+  "description": "Time to Change is a mental health site aimed at reducing the stigma surrounding mental health", 
+  "end_date": "2018-08-31T00:00:00Z", 
+  "date": "2018-08-29T09:00:00", 
+  "slug": 70499, 
+  "subject": null, 
+  "publisher": "time-to-change.org.uk", 
+  "open_access": false, 
+  "title": "Time to Change: Stephen Fry talks about bipolar and mental health stigma", 
+  "record_id": "20180829T090000/ssgOFmh3bigYv9IujWjfEw==", 
+  "start_date": "2018-08-29T09:00:00Z"
+}
+
+Time to Change is a mental health site aimed at reducing the stigma surrounding mental health

@@ -1,0 +1,15 @@
+{
+  "target_url": "http://stternansbanchory.org.uk/", 
+  "description": "Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Banchory, Aberdeenshire.", 
+  "end_date": null, 
+  "date": "2018-10-05T09:00:00", 
+  "slug": 72156, 
+  "subject": "Religion/Theology", 
+  "publisher": "stternansbanchory.org.uk", 
+  "open_access": false, 
+  "title": "St. Ternan's Church Banchory", 
+  "record_id": "20181005T090000/jc2B+lu/IdduulCCQJIKnQ==", 
+  "start_date": "2018-10-05T09:00:00Z"
+}
+
+Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Banchory, Aberdeenshire.

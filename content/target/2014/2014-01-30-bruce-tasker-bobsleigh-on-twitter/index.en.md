@@ -1,0 +1,14 @@
+{
+  "target_url": "https://twitter.com/Bruce_Bobsleigh/", 
+  "description": "", 
+  "end_date": "2014-02-27T05:30:00Z", 
+  "date": "2014-01-30T02:15:00", 
+  "slug": 9253, 
+  "subject": null, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "title": "Bruce Tasker Bobsleigh on Twitter ", 
+  "record_id": "20140130T021500/NwyL8LECObIwLtf9gGyyvg==", 
+  "start_date": "2014-01-30T02:15:00Z"
+}
+

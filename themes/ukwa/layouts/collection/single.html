@@ -1,4 +1,11 @@
 {{ define "content" }}
     {{ .Content }}
-    {{ .Params.targetIds }}
+    <ul>
+        <!-- Ranges through content/post/*.md -->
+        {{ range .Params.targetIds }}
+            <li>
+                <a href="{{ "target/" | relLangURL }}{{ . }}/">{{ . }}</a>
+            </li>
+        {{ end }}
+    </ul>
 {{ end }}

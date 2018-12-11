@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.nationaldoughnutweek.org/", 
+  "description": "National Doughnut Week is a week in May where businesses including bakers, coffee shops, offices and educational establishments take part and sell lots of doughnuts to raise funds for The Children\u2019s Trust. ", 
+  "end_date": null, 
+  "date": "2018-02-14T09:00:00", 
+  "slug": 61298, 
+  "subject": "Food Archive", 
+  "publisher": "nationaldoughnutweek.org", 
+  "open_access": false, 
+  "title": "National Doughnut Week", 
+  "record_id": "20180214T090000/MAxWL+v46YAFc28oWhBHbg==", 
+  "start_date": "2018-02-14T09:00:00Z"
+}
+
+National Doughnut Week is a week in May where businesses including bakers, coffee shops, offices and educational establishments take part and sell lots of doughnuts to raise funds for The Children’s Trust. 

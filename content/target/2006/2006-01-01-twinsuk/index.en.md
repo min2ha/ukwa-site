@@ -1,0 +1,13 @@
+{
+  "date": "2006-01-01T12:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.twinsuk.ac.uk/", 
+  "description": "", 
+  "end_date": null, 
+  "title": "TwinsUK", 
+  "record_id": "20060101T120000/v1KplobaHbOnoSi913Bt1g==", 
+  "publisher": "twinsuk.ac.uk", 
+  "slug": 60588526, 
+  "start_date": null
+}
+

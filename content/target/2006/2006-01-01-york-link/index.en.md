@@ -1,0 +1,13 @@
+{
+  "date": "2006-01-01T12:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.vr2.org.uk/", 
+  "description": "", 
+  "end_date": null, 
+  "title": "York LINk", 
+  "record_id": "20060101T120000/sMBPBD8YXfwVenAlTB1Crw==", 
+  "publisher": "vr2.org.uk", 
+  "slug": 136020180, 
+  "start_date": null
+}
+

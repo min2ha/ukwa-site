@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.facebook.com/group.php?gid=108132359239521&ref=mf", 
+  "description": null, 
+  "end_date": null, 
+  "date": "2006-01-01T12:00:00", 
+  "slug": 60293272, 
+  "subject": "Spending Cuts 2010: Impact on Social Welfare", 
+  "publisher": "facebook.com", 
+  "open_access": true, 
+  "title": "Black Activists Against the Cuts", 
+  "record_id": "20060101T120000/JE7OuUr+2zgxHERSno/VRw==", 
+  "start_date": null
+}
+
+None

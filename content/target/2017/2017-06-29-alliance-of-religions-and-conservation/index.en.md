@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.arcworld.org/", 
+  "description": "The Alliance of Religions and Conservation ARC is a secular body that helps the major religions of the world to develop their own environmental programmes, based on their own core teachings, beliefs and practices.", 
+  "end_date": null, 
+  "date": "2017-06-29T09:00:00", 
+  "slug": 55232, 
+  "subject": "Religion/Theology", 
+  "publisher": "arcworld.org", 
+  "open_access": true, 
+  "title": "Alliance of Religions and Conservation", 
+  "record_id": "20170629T090000/Bo4VbVk+pAl8myRuxjORCQ==", 
+  "start_date": "2017-06-29T09:00:00Z"
+}
+
+The Alliance of Religions and Conservation ARC is a secular body that helps the major religions of the world to develop their own environmental programmes, based on their own core teachings, beliefs and practices.

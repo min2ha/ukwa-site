@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.telegraph.co.uk/news/politics/david-cameron/11587798/David-Cameron-makes-symbolic-Scotland-visit-as-36-hour-campaign-tour-comes-to-an-end.html", 
+  "description": null, 
+  "end_date": "2015-05-15T20:00:00Z", 
+  "date": "2015-05-15T18:00:00", 
+  "slug": 24104, 
+  "subject": "UK General Election 2015", 
+  "publisher": "telegraph.co.uk", 
+  "open_access": false, 
+  "title": "Telegraph, The: David Cameron makes symbolic Scotland visit as 36-hour campaign tour comes to an end", 
+  "record_id": "20150515T180000/yem6aqA67S6ENYL+xRFzqw==", 
+  "start_date": "2015-05-15T18:00:00Z"
+}
+
+None

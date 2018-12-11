@@ -1,0 +1,15 @@
+{
+  "target_url": "https://www.facebook.com/Sacred-Heart-Cumbernauld-588218437913962/", 
+  "description": "Facebook page of a Roman Catholic church in Scotland for the parish of the Sacred Heart Cumbernauld.", 
+  "end_date": null, 
+  "date": "2018-07-25T09:00:00", 
+  "slug": 69275, 
+  "subject": "Religion/Theology", 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "title": "Sacred Heart Cumbernauld on Facebook", 
+  "record_id": "20180725T090000/isYTy8AxERlWYgsmKyaSXw==", 
+  "start_date": "2018-07-25T09:00:00Z"
+}
+
+Facebook page of a Roman Catholic church in Scotland for the parish of the Sacred Heart Cumbernauld.

@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.methodist.org.uk/news-and-events/news-releases/statement-on-the-death-of-nelson-mandela", 
+  "description": "<p>Statement by the Revd Ruth Gee, president of the Methodist Conference, released 5 December 2013.</p>\n", 
+  "end_date": "2013-12-25T16:00:00Z", 
+  "date": "2013-12-20T22:30:00", 
+  "slug": 4564, 
+  "subject": "Nelson Mandela", 
+  "publisher": "methodist.org.uk", 
+  "open_access": false, 
+  "title": "Methodist Church in Britain: Statement on the death of Nelson Mandela", 
+  "record_id": "20131220T223000/TRXaYnl5tqKs/o/NJv6ctg==", 
+  "start_date": "2013-12-20T22:30:00Z"
+}
+
+<p>Statement by the Revd Ruth Gee, president of the Methodist Conference, released 5 December 2013.</p>

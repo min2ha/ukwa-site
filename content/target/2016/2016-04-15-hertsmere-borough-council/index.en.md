@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.hertsmere.gov.uk/", 
+  "description": "Website of Hertsmere Borough Council offering information about services for residents and the activities of the council ", 
+  "end_date": null, 
+  "date": "2016-04-15T10:00:00", 
+  "slug": 18018, 
+  "subject": "District Councils", 
+  "publisher": "hertsmere.gov.uk", 
+  "open_access": false, 
+  "title": "Hertsmere Borough Council", 
+  "record_id": "20160415T100000/vARtYf5uAm0uVXHLbB5pzA==", 
+  "start_date": "2016-04-15T10:00:00Z"
+}
+
+Website of Hertsmere Borough Council offering information about services for residents and the activities of the council 

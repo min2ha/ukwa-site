@@ -1,0 +1,14 @@
+{
+  "target_url": "https://twitter.com/Coisty_OB/", 
+  "description": "", 
+  "end_date": "2014-06-07T01:00:00Z", 
+  "date": "2014-05-02T00:00:00", 
+  "slug": 10408, 
+  "subject": "European Parliament Elections 2014", 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "title": "Kirsty O'Brien on Twitter", 
+  "record_id": "20140502T000000/VwIirWljDTnvQ1yidt9I+g==", 
+  "start_date": "2014-05-02T00:00:00Z"
+}
+

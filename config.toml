@@ -6,6 +6,10 @@ rssLimit = 100
 Paginate = 100
 theme = "ukwa"
 
+[permalinks]
+  target = "/target/:slug/"
+  collection = "/collection/:slug/"
+
 [languages]
   [languages.en]
     title = "The UK Web Archive"

@@ -1,0 +1,14 @@
+{
+  "date": "2006-01-01T12:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.iriscolour.co.uk/", 
+  "description": "Iris International School of Colour Therapy was founded in 1992 and has built up an excellent international reputation as being one of the leading Colour Therapy Healing training centres in the UK.", 
+  "end_date": null, 
+  "title": "Iris International School of Colour Therapy", 
+  "record_id": "20060101T120000/MX//EwtYaKKphhp4c1aIHg==", 
+  "publisher": "iriscolour.co.uk", 
+  "slug": 59441187, 
+  "start_date": null
+}
+
+Iris International School of Colour Therapy was founded in 1992 and has built up an excellent international reputation as being one of the leading Colour Therapy Healing training centres in the UK.

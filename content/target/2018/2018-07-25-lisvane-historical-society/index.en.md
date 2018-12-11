@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.lisvanecommunity.org.uk/Lisvane-CC/Lisvane_Historical_Society_7046.aspx", 
+  "description": "Lisvane Historical Society was established in January 2006 with the aim of undertaking research into the history of the village and to preserve current information. ", 
+  "end_date": null, 
+  "date": "2018-07-25T09:00:00", 
+  "slug": 69271, 
+  "subject": "Local History Societies ", 
+  "publisher": "lisvanecommunity.org.uk", 
+  "open_access": true, 
+  "title": "Lisvane Historical Society", 
+  "record_id": "20180725T090000/nF1AyiMOf7Aq9vTr4dC9Jg==", 
+  "start_date": "2018-07-25T09:00:00Z"
+}
+
+Lisvane Historical Society was established in January 2006 with the aim of undertaking research into the history of the village and to preserve current information. 

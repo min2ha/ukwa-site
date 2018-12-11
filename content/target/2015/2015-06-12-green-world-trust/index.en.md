@@ -1,0 +1,15 @@
+{
+  "target_url": "http://www.greenworldtrust.org.uk/", 
+  "description": "'Website designed to promote awareness of the nature of some major challenges to the human race at this time; and to consider creative ways to meet them.' ", 
+  "end_date": null, 
+  "date": "2015-06-12T09:00:00", 
+  "slug": 27877, 
+  "subject": "Climate Change Debates", 
+  "publisher": "greenworldtrust.org.uk", 
+  "open_access": false, 
+  "title": "Green World Trust", 
+  "record_id": "20150612T090000/WHBJFcDTF57MRDvnR3ixGQ==", 
+  "start_date": "2015-06-12T09:00:00Z"
+}
+
+'Website designed to promote awareness of the nature of some major challenges to the human race at this time; and to consider creative ways to meet them.' 

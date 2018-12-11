@@ -1,0 +1,14 @@
+{
+  "target_url": "http://www.ealingquakers.org.uk/", 
+  "description": "", 
+  "end_date": "2013-04-30T23:59:59Z", 
+  "date": "2009-12-07T00:00:00", 
+  "slug": 32145660, 
+  "subject": null, 
+  "publisher": "ealingquakers.org.uk", 
+  "open_access": true, 
+  "title": "Ealing Quakers", 
+  "record_id": "20091207T000000/7IgleqXmhZy/24mwbBn1tw==", 
+  "start_date": "2009-12-07T00:00:00Z"
+}
+
