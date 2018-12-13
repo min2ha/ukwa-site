@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.agecymruswanseabay.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Age Cymru Swansea Bay", 
-  "record_id": "20180308T090000/zHrCInZWDvRDdAAGrb3oig==", 
-  "publisher": "agecymruswanseabay.org.uk", 
+  "date": "2018-03-08T09:00:00", 
   "slug": 62382, 
+  "publisher": "agecymruswanseabay.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Age Cymru Swansea Bay", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180308T090000/zHrCInZWDvRDdAAGrb3oig==", 
+  "scope": "root", 
   "start_date": "2018-03-08T09:00:00Z"
 }
 

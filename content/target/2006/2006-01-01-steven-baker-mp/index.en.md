@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stevebaker.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Steven Baker MP", 
-  "record_id": "20060101T120000/tZ6bBk3UpeZHY51RibGRKg==", 
-  "publisher": "stevebaker.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13358, 
+  "publisher": "stevebaker.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Steven Baker MP", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tZ6bBk3UpeZHY51RibGRKg==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-22T09:00:00", 
-  "open_access": false, 
   "target_url": "https://foiguidance.pbworks.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "JISC: Freedom of information guide", 
-  "record_id": "20150522T090000/BUgHjcb59dxtpXgyvH38xA==", 
-  "publisher": "pbworks.com", 
+  "date": "2015-05-22T09:00:00", 
   "slug": 26871, 
+  "publisher": "pbworks.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "JISC: Freedom of information guide", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150522T090000/BUgHjcb59dxtpXgyvH38xA==", 
+  "scope": "root", 
   "start_date": "2015-05-22T09:00:00Z"
 }
 

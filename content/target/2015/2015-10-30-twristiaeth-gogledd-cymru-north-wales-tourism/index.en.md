@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nwt.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Twristiaeth Gogledd Cymru | North Wales Tourism ", 
-  "record_id": "20151030T090000/e8NiH6+MCmsnU+nMQ7cJ+g==", 
-  "publisher": "nwt.co.uk", 
+  "date": "2015-10-30T09:00:00", 
   "slug": 31925, 
+  "publisher": "nwt.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Twristiaeth Gogledd Cymru | North Wales Tourism ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T090000/e8NiH6+MCmsnU+nMQ7cJ+g==", 
+  "scope": "root", 
   "start_date": "2015-10-30T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.camillaroberts.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Camilla Roberts Soprano", 
-  "record_id": "20170324T090000/amVOQdZNqUnS5cvpbAb/jg==", 
-  "publisher": "camillaroberts.co.uk", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 51093, 
+  "publisher": "camillaroberts.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Camilla Roberts Soprano", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/amVOQdZNqUnS5cvpbAb/jg==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

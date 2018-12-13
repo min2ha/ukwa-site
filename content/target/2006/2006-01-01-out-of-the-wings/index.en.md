@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.outofthewings.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Out of the Wings", 
-  "record_id": "20060101T120000/3rlUpS62vZSRxpbUh026DA==", 
-  "publisher": "outofthewings.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11948, 
+  "publisher": "outofthewings.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Out of the Wings", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/3rlUpS62vZSRxpbUh026DA==", 
+  "scope": "root", 
   "start_date": null
 }
 

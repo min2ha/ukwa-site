@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/lanagaidhlig/", 
-  "description": "The Facebook page for L\u00e0 na G\u00e0idhlig, or Gaelic Twitter day, an event promoting the use of Scottish Gaelic online.", 
   "end_date": null, 
-  "title": "L\u00e0 na G\u00e0idhlig on Facebook / Gaelic Twitter Day on Facebook", 
-  "record_id": "20180210T090000/HfgruEbLsghSZvehV4k8zw==", 
-  "publisher": "facebook.com", 
+  "date": "2018-02-10T09:00:00", 
   "slug": 39295, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "L\u00e0 na G\u00e0idhlig on Facebook / Gaelic Twitter Day on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180210T090000/HfgruEbLsghSZvehV4k8zw==", 
+  "scope": "root", 
   "start_date": "2018-02-10T09:00:00Z"
 }
 

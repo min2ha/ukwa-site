@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.slso.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scottish Legal Services Ombudsman", 
-  "record_id": "20170114T090000/nWuXFZ33mKXaYFFzgpweYQ==", 
-  "publisher": "slso.org.uk", 
+  "date": "2017-01-14T09:00:00", 
   "slug": 48272, 
+  "publisher": "slso.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Legal Services Ombudsman", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170114T090000/nWuXFZ33mKXaYFFzgpweYQ==", 
+  "scope": "root", 
   "start_date": "2017-01-14T09:00:00Z"
 }
 

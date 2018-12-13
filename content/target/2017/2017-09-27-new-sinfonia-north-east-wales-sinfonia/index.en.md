@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-27T09:00:00", 
-  "open_access": false, 
   "target_url": "https://newsinfonia.org.uk/", 
-  "description": "NEW Sinfonia is an orchestra based in North Wales.", 
   "end_date": null, 
-  "title": "New Sinfonia, North East Wales Sinfonia ", 
-  "record_id": "20170927T090000/TZK6NeMVo/lzRlNClWCvCQ==", 
-  "publisher": "newsinfonia.org.uk", 
+  "date": "2017-09-27T09:00:00", 
   "slug": 57497, 
+  "publisher": "newsinfonia.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "New Sinfonia, North East Wales Sinfonia ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170927T090000/TZK6NeMVo/lzRlNClWCvCQ==", 
+  "scope": "root", 
   "start_date": "2017-09-27T09:00:00Z"
 }
 

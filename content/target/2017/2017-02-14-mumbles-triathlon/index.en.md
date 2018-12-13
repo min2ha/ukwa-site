@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mumblestri.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mumbles Triathlon", 
-  "record_id": "20170214T090000/rnhDyEridXFyCUPKtCBBqQ==", 
-  "publisher": "mumblestri.com", 
+  "date": "2017-02-14T09:00:00", 
   "slug": 49328, 
+  "publisher": "mumblestri.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mumbles Triathlon", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170214T090000/rnhDyEridXFyCUPKtCBBqQ==", 
+  "scope": "root", 
   "start_date": "2017-02-14T09:00:00Z"
 }
 

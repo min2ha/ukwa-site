@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.crewlist.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Crew List Index Project (CLIP)", 
-  "record_id": "20131014T100000/vfStISKA4k7/j01s6PIv3A==", 
-  "publisher": "crewlist.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 136020020, 
+  "publisher": "crewlist.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Crew List Index Project (CLIP)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/vfStISKA4k7/j01s6PIv3A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

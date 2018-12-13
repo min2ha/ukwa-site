@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://uk.pearson.com/", 
-  "description": "Pearson PLC is a British multinational publishing and education company.  It is the largest education company and the largest book publisher in the world.", 
   "end_date": null, 
-  "title": "Pearson plc", 
-  "record_id": "20170324T090000/JeybS4/QeHFJIZ0QfzozWQ==", 
-  "publisher": "pearson.com", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 3224, 
+  "publisher": "pearson.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pearson plc", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/JeybS4/QeHFJIZ0QfzozWQ==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

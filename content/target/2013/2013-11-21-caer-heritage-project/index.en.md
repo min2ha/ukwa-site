@@ -1,13 +1,16 @@
 {
-  "date": "2013-11-21T00:00:00", 
-  "open_access": true, 
   "target_url": "http://caerheritageproject.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "CAER Heritage Project", 
-  "record_id": "20131121T000000/utrwXuPBx/YO6M2Qnr3ZbQ==", 
-  "publisher": "caerheritageproject.com", 
+  "date": "2013-11-21T00:00:00", 
   "slug": 204013586, 
+  "publisher": "caerheritageproject.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "CAER Heritage Project", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131121T000000/utrwXuPBx/YO6M2Qnr3ZbQ==", 
+  "scope": "root", 
   "start_date": "2013-11-21T00:00:00Z"
 }
 

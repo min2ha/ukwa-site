@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.culturenorthernireland.org/", 
-  "description": "Culture Northern Ireland is Norther Ireland's arts and cultural website, covering music, literature, heritage, sport, dance, theatre, the visual arts and much more besides. It contains articles, reviews, profiles, event listings and multimedia content. It is funded by the Arts Council of Northern Ireland.\n", 
   "end_date": null, 
   "date": "2015-01-27T00:00:00", 
   "slug": 59703317, 
-  "subject": "Northern Ireland", 
   "publisher": "culturenorthernireland.org", 
   "open_access": true, 
+  "npld": true, 
   "title": "Culture Northern Ireland", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2399, 
+      "name": "Northern Ireland"
+    }
+  ], 
   "record_id": "20150127T000000/yfVQG4lwlYB30ztKfWxKGw==", 
+  "scope": "root", 
   "start_date": "2015-01-27T00:00:00Z"
 }
 

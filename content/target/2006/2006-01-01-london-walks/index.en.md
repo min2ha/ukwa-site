@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.walks.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "London Walks", 
-  "record_id": "20060101T120000/H7t4yDxqMJQkw8va+BNgcg==", 
-  "publisher": "walks.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11301, 
+  "publisher": "walks.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London Walks", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/H7t4yDxqMJQkw8va+BNgcg==", 
+  "scope": "root", 
   "start_date": null
 }
 

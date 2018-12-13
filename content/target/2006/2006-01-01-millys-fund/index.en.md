@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.millysfund.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Milly's Fund", 
-  "record_id": "20060101T120000/NVlK4ZuMfYfLN1kpSOboZg==", 
-  "publisher": "millysfund.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 143677, 
+  "publisher": "millysfund.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Milly's Fund", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NVlK4ZuMfYfLN1kpSOboZg==", 
+  "scope": "root", 
   "start_date": null
 }
 

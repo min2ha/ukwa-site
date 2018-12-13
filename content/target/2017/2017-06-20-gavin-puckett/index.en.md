@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-20T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.gavinpuckett.co.uk/", 
-  "description": "Gavin Puckett is a children\u2019s author from South Wales, was the winner of the 2013 Greenhouse Funny Prize, and his first book \u2018Murray the Horse\u2019 was published with Faber Children\u2019s in June 2015. ", 
   "end_date": null, 
-  "title": "Gavin Puckett", 
-  "record_id": "20170620T090000/xC8jZfNn+pxENanvceLsaw==", 
-  "publisher": "gavinpuckett.co.uk", 
+  "date": "2017-06-20T09:00:00", 
   "slug": 54855, 
+  "publisher": "gavinpuckett.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Gavin Puckett", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170620T090000/xC8jZfNn+pxENanvceLsaw==", 
+  "scope": "subdomains", 
   "start_date": "2017-06-20T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://vagabondvoices.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Vagabond Voices", 
-  "record_id": "20160226T090000/kELnW3FD92+3mWDvA7boQA==", 
-  "publisher": "vagabondvoices.co.uk", 
+  "date": "2016-02-26T09:00:00", 
   "slug": 36063, 
+  "publisher": "vagabondvoices.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Vagabond Voices", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160226T090000/kELnW3FD92+3mWDvA7boQA==", 
+  "scope": "root", 
   "start_date": "2016-02-26T09:00:00Z"
 }
 

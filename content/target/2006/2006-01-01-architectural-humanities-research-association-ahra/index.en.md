@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ahra-architecture.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Architectural Humanities Research Association (AHRA)", 
-  "record_id": "20060101T120000/VsD3kbLvvJS2SIO/8FK20w==", 
-  "publisher": "ahra-architecture.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65994763, 
+  "publisher": "ahra-architecture.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Architectural Humanities Research Association (AHRA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/VsD3kbLvvJS2SIO/8FK20w==", 
+  "scope": "root", 
   "start_date": null
 }
 

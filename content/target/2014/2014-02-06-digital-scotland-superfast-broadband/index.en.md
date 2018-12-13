@@ -1,13 +1,21 @@
 {
-  "date": "2014-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scotlandsuperfast.com", 
-  "description": null, 
   "end_date": null, 
-  "title": "Digital Scotland: Superfast Broadband", 
-  "record_id": "20140206T060000/zNzwCobx/OLlypxN0RhUDg==", 
-  "publisher": "scotlandsuperfast.com", 
+  "date": "2014-02-06T06:00:00", 
   "slug": 16720, 
+  "publisher": "scotlandsuperfast.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Digital Scotland: Superfast Broadband", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140206T060000/zNzwCobx/OLlypxN0RhUDg==", 
+  "scope": "root", 
   "start_date": "2014-02-06T06:00:00Z"
 }
 

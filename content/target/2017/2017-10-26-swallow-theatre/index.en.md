@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://swallowtheatre.co.uk/", 
-  "description": "Site of a theatre located in Newton Stewart, Dumfries & Galloway.", 
   "end_date": null, 
-  "title": "Swallow Theatre", 
-  "record_id": "20171026T090000/YePLIs+0wWmyjYAN+888Ig==", 
-  "publisher": "swallowtheatre.co.uk", 
+  "date": "2017-10-26T09:00:00", 
   "slug": 58094, 
+  "publisher": "swallowtheatre.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swallow Theatre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171026T090000/YePLIs+0wWmyjYAN+888Ig==", 
+  "scope": "root", 
   "start_date": "2017-10-26T09:00:00Z"
 }
 

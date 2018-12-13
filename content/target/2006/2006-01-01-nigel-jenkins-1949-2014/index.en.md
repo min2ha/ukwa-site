@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nigeljenkins.com/", 
-  "description": "Welsh poet.", 
   "end_date": null, 
-  "title": "Nigel jenkins 1949 - 2014", 
-  "record_id": "20060101T120000/AzjM7BsQVEj6oyfkPTY3rg==", 
-  "publisher": "nigeljenkins.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 27343, 
+  "publisher": "nigeljenkins.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nigel jenkins 1949 - 2014", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/AzjM7BsQVEj6oyfkPTY3rg==", 
+  "scope": "root", 
   "start_date": null
 }
 

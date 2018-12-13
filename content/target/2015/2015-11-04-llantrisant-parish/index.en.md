@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://parishofllantrisant.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llantrisant Parish", 
-  "record_id": "20151104T090000/VLj8pFd7SoUCQhCnsnHvHw==", 
-  "publisher": "parishofllantrisant.org.uk", 
+  "date": "2015-11-04T09:00:00", 
   "slug": 32047, 
+  "publisher": "parishofllantrisant.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llantrisant Parish", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T090000/VLj8pFd7SoUCQhCnsnHvHw==", 
+  "scope": "root", 
   "start_date": "2015-11-04T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://decommissioners.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Support the EDO Decommissioners", 
-  "record_id": "20131014T100000/biAMvSoNHKk5QXM6ha5/xw==", 
-  "publisher": "decommissioners.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 57344003, 
+  "publisher": "decommissioners.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Support the EDO Decommissioners", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/biAMvSoNHKk5QXM6ha5/xw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

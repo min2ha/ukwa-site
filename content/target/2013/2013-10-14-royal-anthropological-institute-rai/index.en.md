@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.therai.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Royal Anthropological Institute (RAI)", 
-  "record_id": "20131014T100000/L55gmaaVJEFUK7lpisXCRg==", 
-  "publisher": "therai.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49315912, 
+  "publisher": "therai.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Royal Anthropological Institute (RAI)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/L55gmaaVJEFUK7lpisXCRg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

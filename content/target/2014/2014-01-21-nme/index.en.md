@@ -1,13 +1,21 @@
 {
-  "date": "2014-01-21T02:30:00", 
-  "open_access": false, 
   "target_url": "http://www.nme.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "NME", 
-  "record_id": "20140121T023000/AsJwEYTongsE+4QgHr2axw==", 
-  "publisher": "nme.com", 
+  "date": "2014-01-21T02:30:00", 
   "slug": 9207, 
+  "publisher": "nme.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NME", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140121T023000/AsJwEYTongsE+4QgHr2axw==", 
+  "scope": "root", 
   "start_date": "2014-01-21T02:30:00Z"
 }
 

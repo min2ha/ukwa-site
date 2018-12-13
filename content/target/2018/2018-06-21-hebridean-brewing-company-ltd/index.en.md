@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hebridean-brewery.co.uk/", 
-  "description": "Site of a brewer located at Stornoway, Isle of Lewis, Western Isles.", 
   "end_date": null, 
-  "title": "Hebridean Brewing Company Ltd", 
-  "record_id": "20180621T090000/h86Ghr5TilcHF3dCce1knw==", 
-  "publisher": "hebridean-brewery.co.uk", 
+  "date": "2018-06-21T09:00:00", 
   "slug": 67783, 
+  "publisher": "hebridean-brewery.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hebridean Brewing Company Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180621T090000/h86Ghr5TilcHF3dCce1knw==", 
+  "scope": "root", 
   "start_date": "2018-06-21T09:00:00Z"
 }
 

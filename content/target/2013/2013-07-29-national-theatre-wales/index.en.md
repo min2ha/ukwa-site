@@ -1,13 +1,21 @@
 {
-  "date": "2013-07-29T09:00:00", 
-  "open_access": true, 
   "target_url": "http://nationaltheatrewales.org/", 
-  "description": "Official website of the National Theatre Wales.", 
   "end_date": null, 
-  "title": "National Theatre Wales", 
-  "record_id": "20130729T090000/aaMYtzIjvfuK3S0cKIyAew==", 
-  "publisher": "nationaltheatrewales.org", 
+  "date": "2013-07-29T09:00:00", 
   "slug": 65208695, 
+  "publisher": "nationaltheatrewales.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "National Theatre Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130729T090000/aaMYtzIjvfuK3S0cKIyAew==", 
+  "scope": "root", 
   "start_date": "2013-07-29T09:00:00Z"
 }
 

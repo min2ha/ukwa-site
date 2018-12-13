@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.vorticism.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Vorticism.co.uk", 
-  "record_id": "20131014T100000/kCgREKlwTkrAj3KPTBWYzg==", 
-  "publisher": "vorticism.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 32145571, 
+  "publisher": "vorticism.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Vorticism.co.uk", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/kCgREKlwTkrAj3KPTBWYzg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

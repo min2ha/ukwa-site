@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.projectwaterfall.org/", 
-  "description": "Project Waterfall is a charity initiative established by The Allegra Foundation, bringing clean water and sanitation to coffee growing communities.", 
   "end_date": null, 
-  "title": "Project Waterfall", 
-  "record_id": "20170615T090000/IRbqKQ34YIJEs8aTqd0ifA==", 
-  "publisher": "projectwaterfall.org", 
+  "date": "2017-06-15T09:00:00", 
   "slug": 54723, 
+  "publisher": "projectwaterfall.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Project Waterfall", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170615T090000/IRbqKQ34YIJEs8aTqd0ifA==", 
+  "scope": "root", 
   "start_date": "2017-06-15T09:00:00Z"
 }
 

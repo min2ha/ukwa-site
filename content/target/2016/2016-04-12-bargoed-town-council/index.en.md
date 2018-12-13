@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bargoedtc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bargoed Town Council", 
-  "record_id": "20160412T100000/eAGyaMR6xAvIxrtm2LQ3nA==", 
-  "publisher": "bargoedtc.org.uk", 
+  "date": "2016-04-12T10:00:00", 
   "slug": 38657, 
+  "publisher": "bargoedtc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bargoed Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160412T100000/eAGyaMR6xAvIxrtm2LQ3nA==", 
+  "scope": "root", 
   "start_date": "2016-04-12T10:00:00Z"
 }
 

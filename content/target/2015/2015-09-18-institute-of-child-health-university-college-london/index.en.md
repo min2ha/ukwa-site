@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.ucl.ac.uk/ich", 
-  "description": "", 
   "end_date": null, 
-  "title": "Institute of Child Health, University College London", 
-  "record_id": "20150918T100000/MRNSJNp6c1QgfWPLDkWjOw==", 
-  "publisher": "ucl.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30585, 
+  "publisher": "ucl.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Institute of Child Health, University College London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/MRNSJNp6c1QgfWPLDkWjOw==", 
+  "scope": "root", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://archaeologydataservice.ac.uk/research/tag", 
-  "description": "", 
   "end_date": null, 
-  "title": "Transatlantic Archaeology Gateway (TAG)", 
-  "record_id": "20060101T120000/89MZc4eiXgmxixq6KpMZSg==", 
-  "publisher": "archaeologydataservice.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 50659349, 
+  "publisher": "archaeologydataservice.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Transatlantic Archaeology Gateway (TAG)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/89MZc4eiXgmxixq6KpMZSg==", 
+  "scope": "root", 
   "start_date": null
 }
 

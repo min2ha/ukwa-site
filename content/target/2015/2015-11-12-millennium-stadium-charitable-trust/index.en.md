@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.millenniumstadiumtrust.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Millennium Stadium Charitable Trust", 
-  "record_id": "20151112T090000/l1T8ZKkm2XsHSgbA4WB3Xw==", 
-  "publisher": "millenniumstadiumtrust.org.uk", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32434, 
+  "publisher": "millenniumstadiumtrust.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Millennium Stadium Charitable Trust", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/l1T8ZKkm2XsHSgbA4WB3Xw==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

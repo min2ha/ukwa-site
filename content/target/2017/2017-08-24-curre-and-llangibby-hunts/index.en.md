@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.curreandllangibbyhunt.co.uk/", 
-  "description": "The hunting country of the Curre and Llangibby hounds is in South Monmouthshire", 
   "end_date": null, 
-  "title": "Curre and Llangibby Hunts", 
-  "record_id": "20170824T090000//4wVIq6GTzKK1oJiZPOs2w==", 
-  "publisher": "curreandllangibbyhunt.co.uk", 
+  "date": "2017-08-24T09:00:00", 
   "slug": 56810, 
+  "publisher": "curreandllangibbyhunt.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Curre and Llangibby Hunts", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170824T090000//4wVIq6GTzKK1oJiZPOs2w==", 
+  "scope": "root", 
   "start_date": "2017-08-24T09:00:00Z"
 }
 

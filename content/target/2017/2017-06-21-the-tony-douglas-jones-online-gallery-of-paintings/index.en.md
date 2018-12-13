@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://douglas-jones.co.uk/", 
-  "description": "Tony Douglas-Jones is an oil and watercolour. Much of his works is of the steel industry in Wales.", 
   "end_date": null, 
-  "title": "The Tony Douglas-Jones  Online Gallery  of paintings", 
-  "record_id": "20170621T090000/RZcNvVL9HWmwgM+apcCGOQ==", 
-  "publisher": "douglas-jones.co.uk", 
+  "date": "2017-06-21T09:00:00", 
   "slug": 54940, 
+  "publisher": "douglas-jones.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Tony Douglas-Jones  Online Gallery  of paintings", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170621T090000/RZcNvVL9HWmwgM+apcCGOQ==", 
+  "scope": "subdomains", 
   "start_date": "2017-06-21T09:00:00Z"
 }
 

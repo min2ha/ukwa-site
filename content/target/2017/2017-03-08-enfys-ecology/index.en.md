@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.enfysecology.co.uk/news.aspx", 
-  "description": "", 
   "end_date": null, 
-  "title": "Enfys Ecology", 
-  "record_id": "20170308T090000/2L3QNyEBgVE3fNgxcSaYsA==", 
-  "publisher": "enfysecology.co.uk", 
+  "date": "2017-03-08T09:00:00", 
   "slug": 50115, 
+  "publisher": "enfysecology.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Enfys Ecology", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170308T090000/2L3QNyEBgVE3fNgxcSaYsA==", 
+  "scope": "root", 
   "start_date": "2017-03-08T09:00:00Z"
 }
 

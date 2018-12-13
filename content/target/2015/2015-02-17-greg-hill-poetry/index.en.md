@@ -1,13 +1,16 @@
 {
-  "date": "2015-02-17T00:00:00", 
-  "open_access": true, 
   "target_url": "http://greghill.weebly.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Greg Hill Poetry", 
-  "record_id": "20150217T000000/VIZx3as1gXtkU4YMtl0YwQ==", 
-  "publisher": "weebly.com", 
+  "date": "2015-02-17T00:00:00", 
   "slug": 293863531, 
+  "publisher": "weebly.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Greg Hill Poetry", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150217T000000/VIZx3as1gXtkU4YMtl0YwQ==", 
+  "scope": "root", 
   "start_date": "2015-02-17T00:00:00Z"
 }
 

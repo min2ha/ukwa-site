@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://nationaleducationtrust.net/", 
-  "description": "The National Education Trust plays a\nleading role in the improvement of the\neducation service in the UK, from the\nstandpoint of an independent, not-forprofit\nfoundation. The Trust exists to influence and improve\nlocal, regional and national education\npolicy and practice through its work with\npractitioners across all phases and sectors\nof education. It is a leading voice in\neducational debate, and is a third sector\nprovider of education services which have\na measurable impact on children, young\npeople, teachers, governors, parents and school leaders.", 
   "end_date": null, 
-  "title": "National Education Trust", 
-  "record_id": "20170627T090000/AUuhZS7hzkSeLnXfMVmGAA==", 
-  "publisher": "nationaleducationtrust.net", 
+  "date": "2017-06-27T09:00:00", 
   "slug": 55093, 
+  "publisher": "nationaleducationtrust.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "National Education Trust", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170627T090000/AUuhZS7hzkSeLnXfMVmGAA==", 
+  "scope": "root", 
   "start_date": "2017-06-27T09:00:00Z"
 }
 

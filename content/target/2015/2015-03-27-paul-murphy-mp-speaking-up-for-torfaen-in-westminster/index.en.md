@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-27T09:00:00", 
-  "open_access": true, 
   "target_url": "http://paulmurphymp.co.uk/", 
-  "description": "Paul Murphy MP for Torfaen.", 
   "end_date": null, 
-  "title": "Paul Murphy MP Speaking up for Torfaen in Westminster", 
-  "record_id": "20150327T090000/hWSzN+Kn3gy0UQjmO4cTzg==", 
-  "publisher": "paulmurphymp.co.uk", 
+  "date": "2015-03-27T09:00:00", 
   "slug": 19859, 
+  "publisher": "paulmurphymp.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Paul Murphy MP Speaking up for Torfaen in Westminster", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150327T090000/hWSzN+Kn3gy0UQjmO4cTzg==", 
+  "scope": "root", 
   "start_date": "2015-03-27T09:00:00Z"
 }
 

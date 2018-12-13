@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.charltonmorris.com/", 
-  "description": "Charlton Morris is a new breed of global executive search and selection consultancy.", 
   "end_date": null, 
-  "title": "Charlton Morris", 
-  "record_id": "20180501T090000/PMhqriO0dq93YxWI+rnHRw==", 
-  "publisher": "charltonmorris.com", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64948, 
+  "publisher": "charltonmorris.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Charlton Morris", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000/PMhqriO0dq93YxWI+rnHRw==", 
+  "scope": "root", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

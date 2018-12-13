@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://architecturemps.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Architecture_media_politics_society", 
-  "record_id": "20060101T120000/hWVn9lXJ3RMDJ4gY4z/AqQ==", 
-  "publisher": "architecturemps.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66158646, 
+  "publisher": "architecturemps.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Architecture_media_politics_society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/hWVn9lXJ3RMDJ4gY4z/AqQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

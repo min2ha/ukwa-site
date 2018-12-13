@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cwtsh.org/", 
-  "description": "Cwtsh is an arts centre in Newport.", 
   "end_date": null, 
-  "title": "Cwtsh Canolfan Gelfyddydau | Cwtsh Arts centre Handpost", 
-  "record_id": "20150520T090000/vgpodesKPG/keNG1Z3+Uow==", 
-  "publisher": "cwtsh.org", 
+  "date": "2015-05-20T09:00:00", 
   "slug": 26314, 
+  "publisher": "cwtsh.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cwtsh Canolfan Gelfyddydau | Cwtsh Arts centre Handpost", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150520T090000/vgpodesKPG/keNG1Z3+Uow==", 
+  "scope": "root", 
   "start_date": "2015-05-20T09:00:00Z"
 }
 

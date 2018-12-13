@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.acmorgannwg.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Age Connects Morgannwg", 
-  "record_id": "20151216T090000/r2L43WoYhxJaBtbA0AV9Cw==", 
-  "publisher": "acmorgannwg.org.uk", 
+  "date": "2015-12-16T09:00:00", 
   "slug": 33546, 
+  "publisher": "acmorgannwg.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Age Connects Morgannwg", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151216T090000/r2L43WoYhxJaBtbA0AV9Cw==", 
+  "scope": "root", 
   "start_date": "2015-12-16T09:00:00Z"
 }
 

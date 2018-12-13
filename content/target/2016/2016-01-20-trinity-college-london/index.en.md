@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trinitycollege.com/", 
-  "description": "Trinity College London is an international exam board providing qualifications across a spectrum of communicative skills.", 
   "end_date": null, 
-  "title": "Trinity College London", 
-  "record_id": "20160120T090000/ZrvQAOBo0J9IG2TyHAZYHQ==", 
-  "publisher": "trinitycollege.com", 
+  "date": "2016-01-20T09:00:00", 
   "slug": 34242, 
+  "publisher": "trinitycollege.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trinity College London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160120T090000/ZrvQAOBo0J9IG2TyHAZYHQ==", 
+  "scope": "root", 
   "start_date": "2016-01-20T09:00:00Z"
 }
 

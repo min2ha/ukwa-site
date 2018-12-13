@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dyfiwoodlands.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Coetiroedd Dyfi Woodlands", 
-  "record_id": "20151110T090000/j1zzrNKE7TXwEHyJGKAHVQ==", 
-  "publisher": "dyfiwoodlands.org.uk", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 32290, 
+  "publisher": "dyfiwoodlands.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Coetiroedd Dyfi Woodlands", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/j1zzrNKE7TXwEHyJGKAHVQ==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

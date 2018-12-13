@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://ceolscraic.org/", 
-  "description": "The website of Ceol's Craic, a social hub for contemporary Gaelic culture in Glasgow.", 
   "end_date": null, 
-  "title": "Ceol's Craic", 
-  "record_id": "20180606T090000/JVbZ1rvXtrl9ZwFpWBrpvw==", 
-  "publisher": "ceolscraic.org", 
+  "date": "2018-06-06T09:00:00", 
   "slug": 66753, 
+  "publisher": "ceolscraic.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ceol's Craic", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180606T090000/JVbZ1rvXtrl9ZwFpWBrpvw==", 
+  "scope": "root", 
   "start_date": "2018-06-06T09:00:00Z"
 }
 

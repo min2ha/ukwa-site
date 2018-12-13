@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wai.org.uk/", 
-  "description": "Wales Arts International fosters international artistic excellence in Wales and ensures international impact and recognition for the arts and culture of Wales.", 
   "end_date": null, 
-  "title": "Celfyddydau Rhyngwladol Cymru | Wales Arts International", 
-  "record_id": "20150623T100000/uM88ypgujMCTckt0GfqD/Q==", 
-  "publisher": "wai.org.uk", 
+  "date": "2015-06-23T10:00:00", 
   "slug": 28233, 
+  "publisher": "wai.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Celfyddydau Rhyngwladol Cymru | Wales Arts International", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150623T100000/uM88ypgujMCTckt0GfqD/Q==", 
+  "scope": "root", 
   "start_date": "2015-06-23T10:00:00Z"
 }
 

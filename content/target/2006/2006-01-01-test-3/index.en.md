@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.test3.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Test 3", 
-  "record_id": "20060101T120000/F4dWdE7nl2cG0Sa6WlzLHA==", 
-  "publisher": "test3.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 18330, 
+  "publisher": "test3.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Test 3", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/F4dWdE7nl2cG0Sa6WlzLHA==", 
+  "scope": "root", 
   "start_date": null
 }
 

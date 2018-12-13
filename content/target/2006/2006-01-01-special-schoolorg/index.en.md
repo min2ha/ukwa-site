@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.specialschool.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Special School.org", 
-  "record_id": "20060101T120000/vls/YlXlTlx9wHMVRJr52A==", 
-  "publisher": "specialschool.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 123874, 
+  "publisher": "specialschool.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Special School.org", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vls/YlXlTlx9wHMVRJr52A==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.denniswheatley.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Dennis Wheatley", 
-  "record_id": "20060101T120000/jfsM82An0zEKn6C0CN/WmQ==", 
-  "publisher": "denniswheatley.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13343, 
+  "publisher": "denniswheatley.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dennis Wheatley", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/jfsM82An0zEKn6C0CN/WmQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

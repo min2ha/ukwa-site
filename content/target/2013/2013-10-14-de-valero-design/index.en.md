@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.devalerodesign.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "De Valero Design", 
-  "record_id": "20131014T100000/+djEeUi13mkW3AJgZ2LtYQ==", 
-  "publisher": "devalerodesign.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 27099155, 
+  "publisher": "devalerodesign.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "De Valero Design", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/+djEeUi13mkW3AJgZ2LtYQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

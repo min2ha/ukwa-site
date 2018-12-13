@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nancyblackett.org", 
-  "description": "An Arthur Ransome educational charity that preserves the Nancy Blackett yacht.", 
   "end_date": null, 
-  "title": "The Nancy Blackett Trust", 
-  "record_id": "20060101T120000/dOPqH9F/NjR4AWgPGF1gUw==", 
-  "publisher": "nancyblackett.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 45240, 
+  "publisher": "nancyblackett.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "The Nancy Blackett Trust", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/dOPqH9F/NjR4AWgPGF1gUw==", 
+  "scope": "root", 
   "start_date": null
 }
 

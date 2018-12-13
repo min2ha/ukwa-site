@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llay-miners-welfare.co.uk/", 
-  "description": "Llay Miners' Welfare Institute is located near Wrexham.", 
   "end_date": null, 
-  "title": "Llay Miners", 
-  "record_id": "20150513T090000/gbXqx0UDQ/lH8yVJZZRtXw==", 
-  "publisher": "llay-miners-welfare.co.uk", 
+  "date": "2015-05-13T09:00:00", 
   "slug": 23789, 
+  "publisher": "llay-miners-welfare.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llay Miners", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150513T090000/gbXqx0UDQ/lH8yVJZZRtXw==", 
+  "scope": "root", 
   "start_date": "2015-05-13T09:00:00Z"
 }
 

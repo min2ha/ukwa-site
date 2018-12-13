@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fleetairarm.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fleet Air Arm Museum", 
-  "record_id": "20060101T120000/C+PJiuw+9fxoHWnI39ItBQ==", 
-  "publisher": "fleetairarm.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 2861, 
+  "publisher": "fleetairarm.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fleet Air Arm Museum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/C+PJiuw+9fxoHWnI39ItBQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

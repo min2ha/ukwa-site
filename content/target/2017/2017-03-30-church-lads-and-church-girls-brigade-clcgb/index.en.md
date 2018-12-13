@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-30T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.clcgb.org.uk/", 
-  "description": "The Church Lads' and Church Girls' Brigade (CLCGB), often referred to as 'The Brigade',\u009d is The Anglican Churches own uniformed youth organisation: welcoming children and young people of all faiths and none. ", 
   "end_date": null, 
-  "title": "Church Lads' and Church Girls' Brigade (CLCGB)", 
-  "record_id": "20170330T090000/xLbkpkzfRKMPBmydycttcQ==", 
-  "publisher": "clcgb.org.uk", 
+  "date": "2017-03-30T09:00:00", 
   "slug": 51446, 
+  "publisher": "clcgb.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Church Lads' and Church Girls' Brigade (CLCGB)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170330T090000/xLbkpkzfRKMPBmydycttcQ==", 
+  "scope": "root", 
   "start_date": "2017-03-30T09:00:00Z"
 }
 

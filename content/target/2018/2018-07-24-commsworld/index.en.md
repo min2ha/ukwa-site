@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-24T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.commsworld.com/", 
-  "description": "Commsworld is a business-only telecom provider.", 
   "end_date": null, 
-  "title": "Commsworld", 
-  "record_id": "20180724T090000/0UbexKhyV+1YVhY8tQOP6Q==", 
-  "publisher": "commsworld.com", 
+  "date": "2018-07-24T09:00:00", 
   "slug": 69256, 
+  "publisher": "commsworld.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Commsworld", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180724T090000/0UbexKhyV+1YVhY8tQOP6Q==", 
+  "scope": "root", 
   "start_date": "2018-07-24T09:00:00Z"
 }
 

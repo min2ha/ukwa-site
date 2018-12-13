@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.epolitix.com/mpwebsites/mpwebsitepage/mpsite/mike-hall-mp/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mike Hall MP", 
-  "record_id": "20060101T120000/YKYAyoOEutSzZPg+m1oohA==", 
-  "publisher": "epolitix.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 36700202, 
+  "publisher": "epolitix.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Mike Hall MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/YKYAyoOEutSzZPg+m1oohA==", 
+  "scope": "root", 
   "start_date": null
 }
 

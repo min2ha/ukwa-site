@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sgul.ac.uk/", 
-  "description": "Official website of St George's, University of London.", 
   "end_date": null, 
-  "title": "St George's, University of London", 
-  "record_id": "20150918T100000/ZTOF6wSemi7uWTekt0qTCg==", 
-  "publisher": "sgul.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30567, 
+  "publisher": "sgul.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St George's, University of London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/ZTOF6wSemi7uWTekt0qTCg==", 
+  "scope": "root", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

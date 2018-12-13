@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://scot-pep.org.uk/", 
-  "description": "SCOT-PEP is a registered charity dedicated to the promotion of sex workers\u2019 rights, health and dignity.", 
   "end_date": null, 
-  "title": "SCOT-PEP", 
-  "record_id": "20150908T100000/dkZZW+/pw9cC1fnr7YXAqQ==", 
-  "publisher": "scot-pep.org.uk", 
+  "date": "2015-09-08T10:00:00", 
   "slug": 30304, 
+  "publisher": "scot-pep.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "SCOT-PEP", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150908T100000/dkZZW+/pw9cC1fnr7YXAqQ==", 
+  "scope": "root", 
   "start_date": "2015-09-08T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brianjohn.co.uk/", 
-  "description": "<p>Brian John is an author from pembrokeshire. This is his personal site and of his publishing company Greencrift Books.</p>\n", 
   "end_date": null, 
-  "title": "Brian John", 
-  "record_id": "20130406T010000/FInQJGX7V30RL0xq6AbpPA==", 
-  "publisher": "brianjohn.co.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15453, 
+  "publisher": "brianjohn.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brian John", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/FInQJGX7V30RL0xq6AbpPA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

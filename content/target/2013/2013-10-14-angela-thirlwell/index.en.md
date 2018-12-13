@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.angelathirlwell.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Angela Thirlwell", 
-  "record_id": "20131014T100000/8J4sXjJ0Fc4RNsTPbYqybw==", 
-  "publisher": "angelathirlwell.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588148, 
+  "publisher": "angelathirlwell.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Angela Thirlwell", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/8J4sXjJ0Fc4RNsTPbYqybw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

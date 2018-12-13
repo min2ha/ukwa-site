@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-31T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.centreforstewardship.org.uk/", 
-  "description": "Site of an umbrella organisation for the management of the Falkland Estate, in Fife, Scotland.", 
   "end_date": null, 
-  "title": "Falkland Centre for Stewardship", 
-  "record_id": "20170331T090000/zyrZWHfnHSSGHBAkB2RzzQ==", 
-  "publisher": "centreforstewardship.org.uk", 
+  "date": "2017-03-31T09:00:00", 
   "slug": 51555, 
+  "publisher": "centreforstewardship.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Falkland Centre for Stewardship", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170331T090000/zyrZWHfnHSSGHBAkB2RzzQ==", 
+  "scope": "root", 
   "start_date": "2017-03-31T09:00:00Z"
 }
 

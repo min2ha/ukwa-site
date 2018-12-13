@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wlfhs.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "West Lothian Family History Society", 
-  "record_id": "20160412T100000/dDFP1L7LEhgePfn2Fn1ofw==", 
-  "publisher": "wlfhs.org.uk", 
+  "date": "2016-04-12T10:00:00", 
   "slug": 38597, 
+  "publisher": "wlfhs.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "West Lothian Family History Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160412T100000/dDFP1L7LEhgePfn2Fn1ofw==", 
+  "scope": "root", 
   "start_date": "2016-04-12T10:00:00Z"
 }
 

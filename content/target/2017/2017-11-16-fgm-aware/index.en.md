@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.fgmaware.org/", 
-  "description": "Resources and information to help tackle FGM in Scotland", 
   "end_date": null, 
-  "title": "FGM Aware", 
-  "record_id": "20171116T090000/uSVZfdHdRbObRHL5uh9WvQ==", 
-  "publisher": "fgmaware.org", 
+  "date": "2017-11-16T09:00:00", 
   "slug": 58871, 
+  "publisher": "fgmaware.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "FGM Aware", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171116T090000/uSVZfdHdRbObRHL5uh9WvQ==", 
+  "scope": "root", 
   "start_date": "2017-11-16T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292334-4822", 
-  "description": "e-journal published by Wiley Online Library", 
   "end_date": null, 
-  "title": "To Improve the Academy: A Journal of Educational Development", 
-  "record_id": "20150304T090000/wzdzAzbHVkv7gB0fASsojA==", 
-  "publisher": "wiley.com", 
+  "date": "2015-03-04T09:00:00", 
   "slug": 17047, 
+  "publisher": "wiley.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "To Improve the Academy: A Journal of Educational Development", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150304T090000/wzdzAzbHVkv7gB0fASsojA==", 
+  "scope": "root", 
   "start_date": "2015-03-04T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pancrack.tv/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Pancrack", 
-  "record_id": "20131014T100000/fZ+Ird5WcmTomcMywoRO9A==", 
-  "publisher": "pancrack.tv", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 109216, 
+  "publisher": "pancrack.tv", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Pancrack", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/fZ+Ird5WcmTomcMywoRO9A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

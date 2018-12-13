@@ -1,13 +1,21 @@
 {
-  "date": "2014-09-10T07:00:00", 
-  "open_access": false, 
   "target_url": "http://scouts.scot/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Scouts Scotland", 
-  "record_id": "20140910T070000/HMwNORbse3Hp5be3u4X7Fg==", 
-  "publisher": "scouts.scot", 
+  "date": "2014-09-10T07:00:00", 
   "slug": 13969, 
+  "publisher": "scouts.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scouts Scotland", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140910T070000/HMwNORbse3Hp5be3u4X7Fg==", 
+  "scope": "root", 
   "start_date": "2014-09-10T07:00:00Z"
 }
 

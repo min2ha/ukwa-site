@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://moncf.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymunedau yn Gyntaf M\u00f4n | Community First M\u00f4n", 
-  "record_id": "20161125T090000/WhwNZvzbTBdunKbqKS2IoA==", 
-  "publisher": "moncf.co.uk", 
+  "date": "2016-11-25T09:00:00", 
   "slug": 47359, 
+  "publisher": "moncf.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cymunedau yn Gyntaf M\u00f4n | Community First M\u00f4n", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161125T090000/WhwNZvzbTBdunKbqKS2IoA==", 
+  "scope": "root", 
   "start_date": "2016-11-25T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-01T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.boroughtheatreabergavenny.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Borough Theatre Abergavenny", 
-  "record_id": "20150801T100000/loPX06JQn24OPV/UrfoCtw==", 
-  "publisher": "boroughtheatreabergavenny.co.uk", 
+  "date": "2015-08-01T10:00:00", 
   "slug": 29582, 
+  "publisher": "boroughtheatreabergavenny.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Borough Theatre Abergavenny", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150801T100000/loPX06JQn24OPV/UrfoCtw==", 
+  "scope": "root", 
   "start_date": "2015-08-01T10:00:00Z"
 }
 

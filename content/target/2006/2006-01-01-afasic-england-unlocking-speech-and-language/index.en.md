@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.afasicengland.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Afasic England - unlocking speech and language", 
-  "record_id": "20060101T120000/1Ed+26f/8l97hpKBPZlh+g==", 
-  "publisher": "afasicengland.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 123350, 
+  "publisher": "afasicengland.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Afasic England - unlocking speech and language", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1Ed+26f/8l97hpKBPZlh+g==", 
+  "scope": "root", 
   "start_date": null
 }
 

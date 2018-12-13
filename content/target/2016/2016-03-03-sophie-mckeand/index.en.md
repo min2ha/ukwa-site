@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-03T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sophiemckeand.com/", 
-  "description": "Sophie Mckeand is a writer, poet, performer and educator and Young People\u2019s Laureate for Wales in 2016.", 
   "end_date": null, 
-  "title": "Sophie Mckeand", 
-  "record_id": "20160303T090000/0bkIUBjGaXaoKKKuvQhAEg==", 
-  "publisher": "sophiemckeand.com", 
+  "date": "2016-03-03T09:00:00", 
   "slug": 36599, 
+  "publisher": "sophiemckeand.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Sophie Mckeand", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160303T090000/0bkIUBjGaXaoKKKuvQhAEg==", 
+  "scope": "root", 
   "start_date": "2016-03-03T09:00:00Z"
 }
 

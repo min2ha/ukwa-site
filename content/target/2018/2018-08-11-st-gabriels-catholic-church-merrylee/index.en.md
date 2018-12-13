@@ -1,14 +1,26 @@
 {
   "target_url": "https://stgabrielsmerrylee.wordpress.com/", 
-  "description": "Site of a Scottish Roman Catholic parish church located in Merrylee, Glasgow.", 
   "end_date": null, 
   "date": "2018-08-11T09:00:00", 
   "slug": 69877, 
-  "subject": "Religion/Theology", 
   "publisher": "wordpress.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Gabriel's Catholic Church, Merrylee", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180811T090000/a+RUhyvpg8Frr1xR8KeEtQ==", 
+  "scope": "root", 
   "start_date": "2018-08-11T09:00:00Z"
 }
 

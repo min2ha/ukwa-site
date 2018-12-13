@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.benromach.com/", 
-  "description": "Site of a whisky distiller and visitor attraction near Forres, Moray, Scotland.", 
   "end_date": null, 
-  "title": "Bemromach Distillery Co. Ltd", 
-  "record_id": "20170201T090000/ePxsDkAUW481iJioYwFGMw==", 
-  "publisher": "benromach.com", 
+  "date": "2017-02-01T09:00:00", 
   "slug": 48918, 
+  "publisher": "benromach.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bemromach Distillery Co. Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170201T090000/ePxsDkAUW481iJioYwFGMw==", 
+  "scope": "root", 
   "start_date": "2017-02-01T09:00:00Z"
 }
 

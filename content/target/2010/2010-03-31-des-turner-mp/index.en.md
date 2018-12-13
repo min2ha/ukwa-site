@@ -1,13 +1,16 @@
 {
-  "date": "2010-03-31T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.epolitix.com/mpwebsites/mpwebsitepage/mpsite/des-turner/", 
-  "description": "", 
   "end_date": "2010-12-12T00:00:00Z", 
-  "title": "Des Turner MP", 
-  "record_id": "20100331T000000/myjHx4qsP+fGUyB3lPYlRA==", 
-  "publisher": "epolitix.com", 
+  "date": "2010-03-31T00:00:00", 
   "slug": 39714828, 
+  "publisher": "epolitix.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Des Turner MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100331T000000/myjHx4qsP+fGUyB3lPYlRA==", 
+  "scope": "root", 
   "start_date": "2010-03-31T00:00:00Z"
 }
 

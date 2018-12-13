@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.affrickintailway.com/", 
-  "description": "Tourist marketing site promoting the Affric Kintail Way in Glen Affric, Scotland.", 
   "end_date": null, 
-  "title": "Affric Kintail Way", 
-  "record_id": "20161126T090000/v0YmYWlbwxQCcpjrwBFLuQ==", 
-  "publisher": "affrickintailway.com", 
+  "date": "2016-11-26T09:00:00", 
   "slug": 47378, 
+  "publisher": "affrickintailway.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Affric Kintail Way", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161126T090000/v0YmYWlbwxQCcpjrwBFLuQ==", 
+  "scope": "root", 
   "start_date": "2016-11-26T09:00:00Z"
 }
 

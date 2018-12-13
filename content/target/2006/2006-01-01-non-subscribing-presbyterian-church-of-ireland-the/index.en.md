@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.nspresbyterian.org/", 
-  "description": "<p>Christian Presbyterian<br />\nA Protestant Church in the Presbyterian tradition that does not subscribe to 'man-made creeds'</p>\n", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 3376, 
-  "subject": "Religion/Theology", 
   "publisher": "nspresbyterian.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Non-Subscribing Presbyterian Church of Ireland, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/+rpqMl7h+4nkAMcIud3BkQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

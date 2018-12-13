@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.enjoyswanseabay.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Enjoy Swansea bay", 
-  "record_id": "20170725T090000//93HgVT1OWKgj4FCzB33vw==", 
-  "publisher": "enjoyswanseabay.com", 
+  "date": "2017-07-25T09:00:00", 
   "slug": 56086, 
+  "publisher": "enjoyswanseabay.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Enjoy Swansea bay", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170725T090000//93HgVT1OWKgj4FCzB33vw==", 
+  "scope": "root", 
   "start_date": "2017-07-25T09:00:00Z"
 }
 

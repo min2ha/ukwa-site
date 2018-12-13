@@ -1,13 +1,16 @@
 {
-  "date": "2012-05-10T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cpat.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clwyd-Powys Archaeological Trust", 
-  "record_id": "20120510T000000/I9b7LKUrkrBYxY/kZwoqoQ==", 
-  "publisher": "cpat.org.uk", 
+  "date": "2012-05-10T00:00:00", 
   "slug": 65208612, 
+  "publisher": "cpat.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Clwyd-Powys Archaeological Trust", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120510T000000/I9b7LKUrkrBYxY/kZwoqoQ==", 
+  "scope": "root", 
   "start_date": "2012-05-10T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.associationofairambulances.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Association of Air Ambulances, The", 
-  "record_id": "20060101T120000/tPLcbyImFNk/WvEucMuauQ==", 
-  "publisher": "associationofairambulances.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11279, 
+  "publisher": "associationofairambulances.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Association of Air Ambulances, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tPLcbyImFNk/WvEucMuauQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

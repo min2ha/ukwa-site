@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-22T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.literatureforumscotland.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Literature Forum Scotland", 
-  "record_id": "20150922T100000/x0/xcLFuEIDrfVJFfwqrjw==", 
-  "publisher": "literatureforumscotland.org.uk", 
+  "date": "2015-09-22T10:00:00", 
   "slug": 30799, 
+  "publisher": "literatureforumscotland.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Literature Forum Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150922T100000/x0/xcLFuEIDrfVJFfwqrjw==", 
+  "scope": "root", 
   "start_date": "2015-09-22T10:00:00Z"
 }
 

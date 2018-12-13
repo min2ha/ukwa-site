@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wrexhamglyndwrsu.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wrexham Glynd\u0175r Students Union |  Undeb Myfyrwyr Glynd\u0175r Wrecsam", 
-  "record_id": "20170216T090000/jFFUeAnwSj2IvO+ywON2KQ==", 
-  "publisher": "wrexhamglyndwrsu.org.uk", 
+  "date": "2017-02-16T09:00:00", 
   "slug": 49392, 
+  "publisher": "wrexhamglyndwrsu.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wrexham Glynd\u0175r Students Union |  Undeb Myfyrwyr Glynd\u0175r Wrecsam", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170216T090000/jFFUeAnwSj2IvO+ywON2KQ==", 
+  "scope": "root", 
   "start_date": "2017-02-16T09:00:00Z"
 }
 

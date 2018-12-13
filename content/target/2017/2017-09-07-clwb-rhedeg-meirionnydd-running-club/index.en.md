@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.run-meirionnydd.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clwb Rhedeg MEIRIONNYDD Running Club", 
-  "record_id": "20170907T090000/KWU/E7K4TfEvj7+4N1k+LQ==", 
-  "publisher": "run-meirionnydd.co.uk", 
+  "date": "2017-09-07T09:00:00", 
   "slug": 57049, 
+  "publisher": "run-meirionnydd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clwb Rhedeg MEIRIONNYDD Running Club", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170907T090000/KWU/E7K4TfEvj7+4N1k+LQ==", 
+  "scope": "root", 
   "start_date": "2017-09-07T09:00:00Z"
 }
 

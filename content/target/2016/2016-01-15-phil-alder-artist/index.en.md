@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.philalderart.co.uk/", 
-  "description": "Phil Alder is a practicing artist in west Wales. His work is represented in several public collections, private and corporate collections.", 
   "end_date": null, 
-  "title": "Phil Alder Artist", 
-  "record_id": "20160115T090000/idvoa7qTZ4hvtZbhFbrVyg==", 
-  "publisher": "philalderart.co.uk", 
+  "date": "2016-01-15T09:00:00", 
   "slug": 34065, 
+  "publisher": "philalderart.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Phil Alder Artist", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160115T090000/idvoa7qTZ4hvtZbhFbrVyg==", 
+  "scope": "root", 
   "start_date": "2016-01-15T09:00:00Z"
 }
 

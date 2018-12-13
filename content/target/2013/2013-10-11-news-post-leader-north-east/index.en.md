@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.newspostleader.co.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-11T10:00:00", 
   "slug": 3555, 
-  "subject": "News Sites", 
   "publisher": "newspostleader.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "News Post Leader (North East)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20131011T100000/mZKZt1R8EVETOV/s8E0mIw==", 
+  "scope": "root", 
   "start_date": "2013-10-11T10:00:00Z"
 }
 

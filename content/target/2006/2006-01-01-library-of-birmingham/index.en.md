@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.libraryofbirmingham.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Library of Birmingham", 
-  "record_id": "20060101T120000/GvijZsAkIFaPjjo9mpU2Yg==", 
-  "publisher": "libraryofbirmingham.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 255492153, 
+  "publisher": "libraryofbirmingham.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Library of Birmingham", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/GvijZsAkIFaPjjo9mpU2Yg==", 
+  "scope": "root", 
   "start_date": null
 }
 

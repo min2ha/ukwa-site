@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://keithhillstreatham.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Keith Hill MP", 
-  "record_id": "20060101T120000/DlmNJRDJMSw/2elpurDnTw==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 39714861, 
+  "publisher": "wordpress.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Keith Hill MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/DlmNJRDJMSw/2elpurDnTw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-13T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/HackneyIrish/", 
-  "description": "Weekly club, occasional quiz, frequent parties, pub protection, local interest, history, Ireland, Hackney, London", 
   "end_date": "2018-04-13T00:00:00Z", 
-  "title": "Hackney Irish Club (@HackneyIrish) on Twitter", 
-  "record_id": "20180413T090000/SSOONMdYd4E2vXf4tS+zJA==", 
-  "publisher": "twitter.com", 
+  "date": "2018-04-13T09:00:00", 
   "slug": 64136, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hackney Irish Club (@HackneyIrish) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180413T090000/SSOONMdYd4E2vXf4tS+zJA==", 
+  "scope": "root", 
   "start_date": "2018-04-13T09:00:00Z"
 }
 

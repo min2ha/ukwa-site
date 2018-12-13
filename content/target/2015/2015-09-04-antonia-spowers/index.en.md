@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-04T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.antoniaspowers.co.uk/", 
-  "description": "Sculptress based in Wales.", 
   "end_date": null, 
-  "title": "Antonia Spowers", 
-  "record_id": "20150904T100000/VbsEARPceNPO14oaiusGPA==", 
-  "publisher": "antoniaspowers.co.uk", 
+  "date": "2015-09-04T10:00:00", 
   "slug": 326434870, 
+  "publisher": "antoniaspowers.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Antonia Spowers", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150904T100000/VbsEARPceNPO14oaiusGPA==", 
+  "scope": "root", 
   "start_date": "2015-09-04T10:00:00Z"
 }
 

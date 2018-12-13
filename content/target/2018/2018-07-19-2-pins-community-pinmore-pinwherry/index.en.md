@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.2pins.org.uk/", 
-  "description": "Community wesbite for the villages of Pinmore and Pinwherry, South Ayrshire.", 
   "end_date": null, 
-  "title": "2 Pins Community : Pinmore & Pinwherry ", 
-  "record_id": "20180719T090000/uQZVX6Nh8DnNS8EVk1tm3g==", 
-  "publisher": "2pins.org.uk", 
+  "date": "2018-07-19T09:00:00", 
   "slug": 69089, 
+  "publisher": "2pins.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "2 Pins Community : Pinmore & Pinwherry ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180719T090000/uQZVX6Nh8DnNS8EVk1tm3g==", 
+  "scope": "root", 
   "start_date": "2018-07-19T09:00:00Z"
 }
 

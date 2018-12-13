@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.businesseye.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llygad Busnes - Business Eye", 
-  "record_id": "20060101T120000/1BEAYeazaUXyPW7ISzImsA==", 
-  "publisher": "businesseye.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 134014, 
+  "publisher": "businesseye.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Llygad Busnes - Business Eye", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1BEAYeazaUXyPW7ISzImsA==", 
+  "scope": "root", 
   "start_date": null
 }
 

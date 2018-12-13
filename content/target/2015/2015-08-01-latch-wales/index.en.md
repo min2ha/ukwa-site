@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-01T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.latchwales.org/", 
-  "description": "Latch Wales is a Welsh children's cancer charity.", 
   "end_date": null, 
-  "title": "Latch Wales", 
-  "record_id": "20150801T100000/nLq/mAtMDpQSUK1efRfuIQ==", 
-  "publisher": "latchwales.org", 
+  "date": "2015-08-01T10:00:00", 
   "slug": 29590, 
+  "publisher": "latchwales.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Latch Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150801T100000/nLq/mAtMDpQSUK1efRfuIQ==", 
+  "scope": "root", 
   "start_date": "2015-08-01T10:00:00Z"
 }
 

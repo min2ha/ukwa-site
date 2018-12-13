@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.eastlothian.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "East Lothian Council", 
-  "record_id": "20060101T120000/nTiVuvZDSx7b5JtbSI4MnQ==", 
-  "publisher": "eastlothian.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338462, 
+  "publisher": "eastlothian.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "East Lothian Council", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/nTiVuvZDSx7b5JtbSI4MnQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

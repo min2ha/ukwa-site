@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.patscotland.org.uk", 
-  "description": null, 
   "end_date": null, 
-  "title": "Pensions Appeal Tribunal Scotland", 
-  "record_id": "20150206T060000/FISZVhT8Q5pBvhvUgDbI4A==", 
-  "publisher": "patscotland.org.uk", 
+  "date": "2015-02-06T06:00:00", 
   "slug": 16753, 
+  "publisher": "patscotland.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pensions Appeal Tribunal Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150206T060000/FISZVhT8Q5pBvhvUgDbI4A==", 
+  "scope": "root", 
   "start_date": "2015-02-06T06:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-22T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cardigancountyshow.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardigan County Show", 
-  "record_id": "20161022T100000/FrQGksXYxqkiI+4er9HHZQ==", 
-  "publisher": "cardigancountyshow.org.uk", 
+  "date": "2016-10-22T10:00:00", 
   "slug": 46413, 
+  "publisher": "cardigancountyshow.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardigan County Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161022T100000/FrQGksXYxqkiI+4er9HHZQ==", 
+  "scope": "root", 
   "start_date": "2016-10-22T10:00:00Z"
 }
 

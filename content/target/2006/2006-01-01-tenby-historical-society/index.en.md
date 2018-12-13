@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tenbyhistoricalsociety.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": " Tenby Historical Society ", 
-  "record_id": "20060101T120000/msiglSl3n9MhfBgPCWIWnA==", 
-  "publisher": "tenbyhistoricalsociety.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 293863751, 
+  "publisher": "tenbyhistoricalsociety.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Tenby Historical Society ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/msiglSl3n9MhfBgPCWIWnA==", 
+  "scope": "root", 
   "start_date": null
 }
 

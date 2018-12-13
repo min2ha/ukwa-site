@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.kenfrostinyourface.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "In Your Face", 
-  "record_id": "20060101T120000/CTXV57v+lPMBLFM4ISva8A==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59703300, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "In Your Face", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CTXV57v+lPMBLFM4ISva8A==", 
+  "scope": "root", 
   "start_date": null
 }
 

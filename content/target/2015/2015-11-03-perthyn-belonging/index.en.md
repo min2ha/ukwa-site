@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.perthyn.org.uk/", 
-  "description": "Perthyn is a registered charity that provides support primarily to people with a learning disability, across both Wales and England. ", 
   "end_date": null, 
-  "title": "Perthyn | Belonging", 
-  "record_id": "20151103T090000/IEDCcpjvVqSU0vmYVH+BMA==", 
-  "publisher": "perthyn.org.uk", 
+  "date": "2015-11-03T09:00:00", 
   "slug": 32035, 
+  "publisher": "perthyn.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Perthyn | Belonging", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151103T090000/IEDCcpjvVqSU0vmYVH+BMA==", 
+  "scope": "root", 
   "start_date": "2015-11-03T09:00:00Z"
 }
 

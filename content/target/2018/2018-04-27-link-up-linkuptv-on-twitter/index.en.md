@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-27T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/linkuptv/", 
-  "description": "Keeping you updated with everything Urban.", 
   "end_date": null, 
-  "title": " Link Up (@linkuptv) on Twitter", 
-  "record_id": "20180427T090000/6Sxfi1Dx+/HDDbZ0OjcfbA==", 
-  "publisher": "twitter.com", 
+  "date": "2018-04-27T09:00:00", 
   "slug": 64870, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Link Up (@linkuptv) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180427T090000/6Sxfi1Dx+/HDDbZ0OjcfbA==", 
+  "scope": "root", 
   "start_date": "2018-04-27T09:00:00Z"
 }
 

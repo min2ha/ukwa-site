@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hbsef.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Human BSE Foundation", 
-  "record_id": "20060101T120000/vts0+dw/J/a1Dcqdpqk8ug==", 
-  "publisher": "hbsef.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 134368, 
+  "publisher": "hbsef.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Human BSE Foundation", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vts0+dw/J/a1Dcqdpqk8ug==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-21T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshlandlords.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Achredu Landlordiaid Cymru | Landlord Accreditation Wales", 
-  "record_id": "20150721T100000/TiNw1qMOzt6H31EReaSjOg==", 
-  "publisher": "welshlandlords.org.uk", 
+  "date": "2015-07-21T10:00:00", 
   "slug": 29229, 
+  "publisher": "welshlandlords.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Achredu Landlordiaid Cymru | Landlord Accreditation Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150721T100000/TiNw1qMOzt6H31EReaSjOg==", 
+  "scope": "root", 
   "start_date": "2015-07-21T10:00:00Z"
 }
 

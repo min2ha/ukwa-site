@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.buddug.co.uk/", 
-  "description": "Buddug Verona James is a Welsh Mezzo-soprano and former Welsh Singers Competition winner.", 
   "end_date": null, 
-  "title": "Buddug Verona James: Opera singer, Actress and Butcher", 
-  "record_id": "20170324T090000/yV8lbr0KpLaRhm8FhUMpSw==", 
-  "publisher": "buddug.co.uk", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 51088, 
+  "publisher": "buddug.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Buddug Verona James: Opera singer, Actress and Butcher", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/yV8lbr0KpLaRhm8FhUMpSw==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

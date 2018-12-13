@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ceredigion.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Coleg Ceredigion", 
-  "record_id": "20150704T100000/OsD34Knp79lm7JV3KUrVhg==", 
-  "publisher": "ceredigion.ac.uk", 
+  "date": "2015-07-04T10:00:00", 
   "slug": 28732, 
+  "publisher": "ceredigion.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Coleg Ceredigion", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150704T100000/OsD34Knp79lm7JV3KUrVhg==", 
+  "scope": "root", 
   "start_date": "2015-07-04T10:00:00Z"
 }
 

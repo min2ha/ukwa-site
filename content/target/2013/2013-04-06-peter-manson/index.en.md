@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://petermanson.wordpress.com/", 
-  "description": "<p>Website of the poet and translator Peter Manson.</p>\n", 
   "end_date": null, 
-  "title": "Peter Manson", 
-  "record_id": "20130406T010000//dCIIlgwcroTAlf7wvCk/Q==", 
-  "publisher": "wordpress.com", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14290, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Peter Manson", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000//dCIIlgwcroTAlf7wvCk/Q==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

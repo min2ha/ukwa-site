@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.euanrobson.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Euan Robson: candidate for Roxburgh & Berwickshire", 
-  "record_id": "20060101T120000/+vkgQcE0H6O5BwYA8ZOf8w==", 
-  "publisher": "euanrobson.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 139214, 
+  "publisher": "euanrobson.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Euan Robson: candidate for Roxburgh & Berwickshire", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+vkgQcE0H6O5BwYA8ZOf8w==", 
+  "scope": "root", 
   "start_date": null
 }
 

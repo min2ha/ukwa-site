@@ -1,14 +1,30 @@
 {
   "target_url": "http://wavingdrowning.wordpress.com/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 49905719, 
-  "subject": "Blogs", 
   "publisher": "wordpress.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Waving and Drowning", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }, 
+    {
+      "id": 2443, 
+      "name": "Personal Experiences of Illness"
+    }
+  ], 
   "record_id": "20131014T100000/zR9hccw3kWnyXAdOKetShQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

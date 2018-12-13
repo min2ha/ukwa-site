@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-17T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.openhouselondon.org.uk/", 
-  "description": "Open House London is the world\u2019s largest architecture festival, giving free public access to 800+ buildings, walks, talks and tours over one weekend in September each year.", 
   "end_date": null, 
-  "title": "Open House London", 
-  "record_id": "20181017T090000/SIGxgpoCyAuoWjtOZJdbbQ==", 
-  "publisher": "openhouselondon.org.uk", 
+  "date": "2018-10-17T09:00:00", 
   "slug": 81600, 
+  "publisher": "openhouselondon.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Open House London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181017T090000/SIGxgpoCyAuoWjtOZJdbbQ==", 
+  "scope": "root", 
   "start_date": "2018-10-17T09:00:00Z"
 }
 

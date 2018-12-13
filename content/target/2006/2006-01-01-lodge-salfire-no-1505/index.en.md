@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.salfire.co.uk/", 
-  "description": "Site of a masonic lodge located in Dennistoun, Glasgow and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "Lodge Salfire No. 1505", 
-  "record_id": "20060101T120000/TgESk3lazuh2MC2v+PcDjw==", 
-  "publisher": "salfire.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 64902, 
+  "publisher": "salfire.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge Salfire No. 1505", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/TgESk3lazuh2MC2v+PcDjw==", 
+  "scope": "root", 
   "start_date": null
 }
 

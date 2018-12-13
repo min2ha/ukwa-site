@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://darkskiesfestival.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hay Dark Skies Festival", 
-  "record_id": "20060101T120000/cPGSStCcb0Dv/jFC8mMaog==", 
-  "publisher": "darkskiesfestival.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 44606, 
+  "publisher": "darkskiesfestival.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hay Dark Skies Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cPGSStCcb0Dv/jFC8mMaog==", 
+  "scope": "root", 
   "start_date": null
 }
 

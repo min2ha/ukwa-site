@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.indcatholicnews.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Independent Catholic News (ICN)", 
-  "record_id": "20131014T100000/ukl+dorq7UMCJRtIaXWtNw==", 
-  "publisher": "indcatholicnews.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 127747, 
+  "publisher": "indcatholicnews.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Independent Catholic News (ICN)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ukl+dorq7UMCJRtIaXWtNw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

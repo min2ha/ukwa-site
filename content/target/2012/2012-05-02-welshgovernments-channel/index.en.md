@@ -1,13 +1,16 @@
 {
-  "date": "2012-05-02T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.youtube.com/welshgovernment/", 
-  "description": "", 
   "end_date": null, 
-  "title": "welshgovernment's channel", 
-  "record_id": "20120502T000000/x+rEWTKIrmPXMOvqMMZG1Q==", 
-  "publisher": "youtube.com", 
+  "date": "2012-05-02T00:00:00", 
   "slug": 65208540, 
+  "publisher": "youtube.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "welshgovernment's channel", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120502T000000/x+rEWTKIrmPXMOvqMMZG1Q==", 
+  "scope": "root", 
   "start_date": "2012-05-02T00:00:00Z"
 }
 

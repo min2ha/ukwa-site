@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://vaynorshow.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Vaynor Show", 
-  "record_id": "20151112T090000/HJDBs//nsOvc1C48Y16oXg==", 
-  "publisher": "vaynorshow.co.uk", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32432, 
+  "publisher": "vaynorshow.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Vaynor Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/HJDBs//nsOvc1C48Y16oXg==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.stephenhough.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Stephen Hough", 
-  "record_id": "20131014T100000/hygBArp9ZeWfLIqjphtJIw==", 
-  "publisher": "stephenhough.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 9175094, 
+  "publisher": "stephenhough.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Stephen Hough", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/hygBArp9ZeWfLIqjphtJIw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

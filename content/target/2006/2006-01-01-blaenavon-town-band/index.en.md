@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.blaenavonband.co.uk/", 
-  "description": "This is the website for Blaenavon Town Band, established late in the 1890's. ", 
   "end_date": null, 
-  "title": "Blaenavon Town Band", 
-  "record_id": "20060101T120000/kqmYK3UEACszlONjVew5Ew==", 
-  "publisher": "blaenavonband.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 69856, 
+  "publisher": "blaenavonband.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Blaenavon Town Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/kqmYK3UEACszlONjVew5Ew==", 
+  "scope": "root", 
   "start_date": null
 }
 

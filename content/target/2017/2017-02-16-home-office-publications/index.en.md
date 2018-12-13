@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-16T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.gov.uk/government/publications?departments%5B%5D=home-office", 
-  "description": "Guidance, policy documents and statistical reports issued by the Home Office", 
   "end_date": null, 
-  "title": "Home Office Publications", 
-  "record_id": "20170216T090000/41vagrjriVsy+zCDGgFZLg==", 
-  "publisher": "www.gov.uk", 
+  "date": "2017-02-16T09:00:00", 
   "slug": 49397, 
+  "publisher": "www.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Home Office Publications", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170216T090000/41vagrjriVsy+zCDGgFZLg==", 
+  "scope": "root", 
   "start_date": "2017-02-16T09:00:00Z"
 }
 

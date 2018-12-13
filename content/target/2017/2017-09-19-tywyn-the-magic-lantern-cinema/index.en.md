@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-19T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.tywyncinema.co.uk/", 
-  "description": "The Magic Lantern has been here since 1893. ", 
   "end_date": null, 
-  "title": "Tywyn, the Magic Lantern Cinema", 
-  "record_id": "20170919T090000/UkNst8hf1SnTlywLJyC1Rw==", 
-  "publisher": "tywyncinema.co.uk", 
+  "date": "2017-09-19T09:00:00", 
   "slug": 57226, 
+  "publisher": "tywyncinema.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tywyn, the Magic Lantern Cinema", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170919T090000/UkNst8hf1SnTlywLJyC1Rw==", 
+  "scope": "subdomains", 
   "start_date": "2017-09-19T09:00:00Z"
 }
 

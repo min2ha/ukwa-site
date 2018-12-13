@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sportrelief.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Sport Relief", 
-  "record_id": "20060101T120000/589COPNr/zn3H2Zcu7Xefg==", 
-  "publisher": "sportrelief.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13114, 
+  "publisher": "sportrelief.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sport Relief", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/589COPNr/zn3H2Zcu7Xefg==", 
+  "scope": "root", 
   "start_date": null
 }
 

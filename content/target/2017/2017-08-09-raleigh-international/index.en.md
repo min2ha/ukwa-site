@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-09T09:00:00", 
-  "open_access": false, 
   "target_url": "https://raleighinternational.org/", 
-  "description": "Raleigh International works to create lasting change through youth.", 
   "end_date": null, 
-  "title": "Raleigh International", 
-  "record_id": "20170809T090000/eef4mLLEm7BMPGP6xARbRA==", 
-  "publisher": "raleighinternational.org", 
+  "date": "2017-08-09T09:00:00", 
   "slug": 56505, 
+  "publisher": "raleighinternational.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Raleigh International", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170809T090000/eef4mLLEm7BMPGP6xARbRA==", 
+  "scope": "root", 
   "start_date": "2017-08-09T09:00:00Z"
 }
 

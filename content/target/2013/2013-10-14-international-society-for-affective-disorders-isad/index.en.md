@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.isad.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "International Society for Affective Disorders (ISAD)", 
-  "record_id": "20131014T100000/Yfv0z9/ahnTX9w8TyHPFug==", 
-  "publisher": "isad.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 125108232, 
+  "publisher": "isad.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "International Society for Affective Disorders (ISAD)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/Yfv0z9/ahnTX9w8TyHPFug==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

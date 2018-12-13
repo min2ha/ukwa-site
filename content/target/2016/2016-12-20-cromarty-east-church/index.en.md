@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.eastchurchcromarty.co.uk/", 
-  "description": "Site of a former church operating as a performance and wedding venue in the town of Cromarty, Highland, Scotland", 
   "end_date": null, 
-  "title": "Cromarty East Church ", 
-  "record_id": "20161220T090000/OJ2y2CTOHK+2HQB1YYE8Ow==", 
-  "publisher": "eastchurchcromarty.co.uk", 
+  "date": "2016-12-20T09:00:00", 
   "slug": 47918, 
+  "publisher": "eastchurchcromarty.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cromarty East Church ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161220T090000/OJ2y2CTOHK+2HQB1YYE8Ow==", 
+  "scope": "root", 
   "start_date": "2016-12-20T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-16T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.golfunionwales.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Undeb Golff Cymru | Golf Union Wales", 
-  "record_id": "20160316T090000/ot4AKADgi6BKtZsSMnZ1Ow==", 
-  "publisher": "golfunionwales.org", 
+  "date": "2016-03-16T09:00:00", 
   "slug": 19398658, 
+  "publisher": "golfunionwales.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Undeb Golff Cymru | Golf Union Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160316T090000/ot4AKADgi6BKtZsSMnZ1Ow==", 
+  "scope": "root", 
   "start_date": "2016-03-16T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.breconwater.co.uk/", 
-  "description": "Welsh Water", 
   "end_date": null, 
-  "title": "Brecon Carreg ", 
-  "record_id": "20151029T090000/kMlq+0QxjSS4kd/OqIN1UA==", 
-  "publisher": "breconwater.co.uk", 
+  "date": "2015-10-29T09:00:00", 
   "slug": 31831, 
+  "publisher": "breconwater.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brecon Carreg ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151029T090000/kMlq+0QxjSS4kd/OqIN1UA==", 
+  "scope": "root", 
   "start_date": "2015-10-29T09:00:00Z"
 }
 

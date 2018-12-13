@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://communityenergywales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ynni Cymunedol Cymru | Community Energy Wales", 
-  "record_id": "20151208T090000/yrU1OFHXIZR5X+5HiTKG1g==", 
-  "publisher": "communityenergywales.org.uk", 
+  "date": "2015-12-08T09:00:00", 
   "slug": 33271, 
+  "publisher": "communityenergywales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ynni Cymunedol Cymru | Community Energy Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151208T090000/yrU1OFHXIZR5X+5HiTKG1g==", 
+  "scope": "root", 
   "start_date": "2015-12-08T09:00:00Z"
 }
 

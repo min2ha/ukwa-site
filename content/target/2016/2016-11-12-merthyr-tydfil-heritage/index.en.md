@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://merthyrtydfilheritage.blogspot.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Merthyr Tydfil Heritage", 
-  "record_id": "20161112T090000/81WSkgiyrG2vTySfYU61fA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2016-11-12T09:00:00", 
   "slug": 46971, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Merthyr Tydfil Heritage", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161112T090000/81WSkgiyrG2vTySfYU61fA==", 
+  "scope": "root", 
   "start_date": "2016-11-12T09:00:00Z"
 }
 

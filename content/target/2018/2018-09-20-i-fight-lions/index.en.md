@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-20T09:00:00", 
-  "open_access": false, 
   "target_url": "https://ifightlions.com/", 
-  "description": "I Fight Lions is a rock band from Llanberis, North Wales signed to Recordiau Cosh Records.", 
   "end_date": null, 
-  "title": "I Fight Lions", 
-  "record_id": "20180920T090000/RKD47j3eTsBaYc5II6pzrg==", 
-  "publisher": "ifightlions.com", 
+  "date": "2018-09-20T09:00:00", 
   "slug": 71445, 
+  "publisher": "ifightlions.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "I Fight Lions", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180920T090000/RKD47j3eTsBaYc5II6pzrg==", 
+  "scope": "root", 
   "start_date": "2018-09-20T09:00:00Z"
 }
 

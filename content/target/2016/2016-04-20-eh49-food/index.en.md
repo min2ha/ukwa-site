@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://eh49-food-coop.myshopify.com/", 
-  "description": "Site of a business and voluntary group of residents of Linlithgow, Scotland bringing fresh, locally produced, sustainable and ethically sourced food to the town at fair, affordable prices.", 
   "end_date": null, 
-  "title": "EH49 Food", 
-  "record_id": "20160420T100000/I02cSp9dcPrshCc+ubkR3w==", 
-  "publisher": "myshopify.com", 
+  "date": "2016-04-20T10:00:00", 
   "slug": 39195, 
+  "publisher": "myshopify.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "EH49 Food", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160420T100000/I02cSp9dcPrshCc+ubkR3w==", 
+  "scope": "root", 
   "start_date": "2016-04-20T10:00:00Z"
 }
 

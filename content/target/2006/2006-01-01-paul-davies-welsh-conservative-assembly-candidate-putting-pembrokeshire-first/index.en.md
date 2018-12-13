@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.paulwdavies.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Paul Davies: Welsh Conservative Assembly Candidate: Putting Pembrokeshire First", 
-  "record_id": "20060101T120000/E4LLUAC4gmdBBZlZT/GKUw==", 
-  "publisher": "paulwdavies.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 139050, 
+  "publisher": "paulwdavies.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Paul Davies: Welsh Conservative Assembly Candidate: Putting Pembrokeshire First", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/E4LLUAC4gmdBBZlZT/GKUw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.acteoncommunication.com/", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 106234243, 
-  "subject": "Cambridge Network", 
   "publisher": "acteoncommunication.com", 
   "open_access": true, 
+  "npld": false, 
   "title": "Acteon Consultancy LLP, The", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2442, 
+      "name": "Cambridge Network"
+    }
+  ], 
   "record_id": "20060101T120000/FcHikmlvKnZR+o/ElHyCMA==", 
+  "scope": "root", 
   "start_date": null
 }
 

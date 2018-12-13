@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://absolutelymagazines.london/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Absolutely Magazines", 
-  "record_id": "20060101T120000/KzsfYS0P9DNhuNCekQvlaA==", 
-  "publisher": "absolutelymagazines.london", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10637, 
+  "publisher": "absolutelymagazines.london", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Absolutely Magazines", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/KzsfYS0P9DNhuNCekQvlaA==", 
+  "scope": "root", 
   "start_date": null
 }
 

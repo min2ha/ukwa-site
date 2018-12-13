@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.yourrights.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Your Rights", 
-  "record_id": "20131014T100000/wCPaH4FOwgi3AmsG/hQtxg==", 
-  "publisher": "yourrights.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 119475, 
+  "publisher": "yourrights.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Your Rights", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/wCPaH4FOwgi3AmsG/hQtxg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

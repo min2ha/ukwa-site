@@ -1,13 +1,16 @@
 {
-  "date": "2013-07-29T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.stmarysbrecon.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "St Mary's Brecon", 
-  "record_id": "20130729T000000/I2Z8u2lHZno7tnYvvr4itw==", 
-  "publisher": "stmarysbrecon.org.uk", 
+  "date": "2013-07-29T00:00:00", 
   "slug": 182124551, 
+  "publisher": "stmarysbrecon.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "St Mary's Brecon", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130729T000000/I2Z8u2lHZno7tnYvvr4itw==", 
+  "scope": "root", 
   "start_date": "2013-07-29T00:00:00Z"
 }
 

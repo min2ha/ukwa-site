@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-04T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.venuecymru.co.uk/", 
-  "description": "Theatre and arts venue in Llandudno.", 
   "end_date": null, 
-  "title": "Venue Cymru ", 
-  "record_id": "20150904T100000/F1qjBkDMwcpfuA0x2M1idA==", 
-  "publisher": "venuecymru.co.uk", 
+  "date": "2015-09-04T10:00:00", 
   "slug": 30196, 
+  "publisher": "venuecymru.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Venue Cymru ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150904T100000/F1qjBkDMwcpfuA0x2M1idA==", 
+  "scope": "root", 
   "start_date": "2015-09-04T10:00:00Z"
 }
 

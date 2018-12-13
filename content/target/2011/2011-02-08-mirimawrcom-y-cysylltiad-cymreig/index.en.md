@@ -1,13 +1,16 @@
 {
-  "date": "2011-02-08T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mirimawr.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mirimawr.com: Y Cysylltiad Cymreig", 
-  "record_id": "20110208T000000/6cCiHy/WqJikEO/Y8VGzzQ==", 
-  "publisher": "mirimawr.com", 
+  "date": "2011-02-08T00:00:00", 
   "slug": 116498, 
+  "publisher": "mirimawr.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Mirimawr.com: Y Cysylltiad Cymreig", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110208T000000/6cCiHy/WqJikEO/Y8VGzzQ==", 
+  "scope": "root", 
   "start_date": "2011-02-08T00:00:00Z"
 }
 

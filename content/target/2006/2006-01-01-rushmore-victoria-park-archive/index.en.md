@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://rusholmearchive.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Rushmore & Victoria Park Archive", 
-  "record_id": "20060101T120000/0nitmfQJ79oGs+zrZcRKXw==", 
-  "publisher": "rusholmearchive.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62226468, 
+  "publisher": "rusholmearchive.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rushmore & Victoria Park Archive", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/0nitmfQJ79oGs+zrZcRKXw==", 
+  "scope": "root", 
   "start_date": null
 }
 

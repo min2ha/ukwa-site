@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fourteenlocks.co.uk/", 
-  "description": "The Canal centre is located at Rogerstone, Newport.", 
   "end_date": null, 
-  "title": "Fourteen Locks Canal Centre", 
-  "record_id": "20150417T090000/H0O7P2+P43kbfZgiFK3Smw==", 
-  "publisher": "fourteenlocks.co.uk", 
+  "date": "2015-04-17T09:00:00", 
   "slug": 21935, 
+  "publisher": "fourteenlocks.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fourteen Locks Canal Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150417T090000/H0O7P2+P43kbfZgiFK3Smw==", 
+  "scope": "root", 
   "start_date": "2015-04-17T09:00:00Z"
 }
 

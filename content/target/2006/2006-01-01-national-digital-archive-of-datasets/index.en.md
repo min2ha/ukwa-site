@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ndad.nationalarchives.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "National Digital Archive of Datasets", 
-  "record_id": "20060101T120000/FwQQQAIXxNU4y7wxOhcFEw==", 
-  "publisher": "nationalarchives.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 126670, 
+  "publisher": "nationalarchives.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "National Digital Archive of Datasets", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FwQQQAIXxNU4y7wxOhcFEw==", 
+  "scope": "root", 
   "start_date": null
 }
 

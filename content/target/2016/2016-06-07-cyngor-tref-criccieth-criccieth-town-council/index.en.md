@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-07T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cyngortrefcriccieth.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Tref Criccieth | Criccieth Town Council", 
-  "record_id": "20160607T100000/lQ2plYmbvIX6u/003s0ufg==", 
-  "publisher": "cyngortrefcriccieth.org.uk", 
+  "date": "2016-06-07T10:00:00", 
   "slug": 42518, 
+  "publisher": "cyngortrefcriccieth.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Tref Criccieth | Criccieth Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160607T100000/lQ2plYmbvIX6u/003s0ufg==", 
+  "scope": "root", 
   "start_date": "2016-06-07T10:00:00Z"
 }
 

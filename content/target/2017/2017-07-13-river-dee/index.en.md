@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.riverdee.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "River Dee", 
-  "record_id": "20170713T090000/escjHZgq6Yz4lHYtKejbOg==", 
-  "publisher": "riverdee.org.uk", 
+  "date": "2017-07-13T09:00:00", 
   "slug": 55697, 
+  "publisher": "riverdee.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "River Dee", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170713T090000/escjHZgq6Yz4lHYtKejbOg==", 
+  "scope": "root", 
   "start_date": "2017-07-13T09:00:00Z"
 }
 

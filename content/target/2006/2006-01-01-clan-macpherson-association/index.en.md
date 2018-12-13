@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.clan-macpherson.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clan Macpherson Association", 
-  "record_id": "20060101T120000/eaM/KprUnNZuCRcNYVupxg==", 
-  "publisher": "clan-macpherson.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32155, 
+  "publisher": "clan-macpherson.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Clan Macpherson Association", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/eaM/KprUnNZuCRcNYVupxg==", 
+  "scope": "root", 
   "start_date": null
 }
 

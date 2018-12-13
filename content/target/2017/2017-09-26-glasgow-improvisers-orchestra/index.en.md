@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://glasgowimprovisersorchestra.com/", 
-  "description": "Site of a musical organisation based in Glasgow that specialises in group improvisation in musical performance.", 
   "end_date": null, 
-  "title": "Glasgow Improvisers Orchestra", 
-  "record_id": "20170926T090000/sLcM9zDKLRZ1u4ffMojusQ==", 
-  "publisher": "glasgowimprovisersorchestra.com", 
+  "date": "2017-09-26T09:00:00", 
   "slug": 57437, 
+  "publisher": "glasgowimprovisersorchestra.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glasgow Improvisers Orchestra", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170926T090000/sLcM9zDKLRZ1u4ffMojusQ==", 
+  "scope": "root", 
   "start_date": "2017-09-26T09:00:00Z"
 }
 

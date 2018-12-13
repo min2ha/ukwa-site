@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.virtualstudio.tv/", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 136020271, 
-  "subject": "Cambridge Network", 
   "publisher": "virtualstudio.tv", 
   "open_access": true, 
+  "npld": false, 
   "title": "VirtualStudio.TV", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2442, 
+      "name": "Cambridge Network"
+    }
+  ], 
   "record_id": "20060101T120000/4dJyWwF9gt28rbLLK3UTMg==", 
+  "scope": "root", 
   "start_date": null
 }
 

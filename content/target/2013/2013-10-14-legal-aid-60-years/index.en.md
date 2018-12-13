@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.legalaid60.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Legal Aid 60 Years", 
-  "record_id": "20131014T100000/70rUhbuJqrpw1XnY5urYpA==", 
-  "publisher": "legalaid60.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741838, 
+  "publisher": "legalaid60.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Legal Aid 60 Years", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/70rUhbuJqrpw1XnY5urYpA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

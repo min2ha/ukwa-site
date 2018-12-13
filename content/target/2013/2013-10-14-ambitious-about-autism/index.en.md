@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ambitiousaboutautism.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Ambitious about Autism", 
-  "record_id": "20131014T100000/bOGT0Ei/HS90+uJfqocEzA==", 
-  "publisher": "ambitiousaboutautism.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 65208820, 
+  "publisher": "ambitiousaboutautism.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Ambitious about Autism", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/bOGT0Ei/HS90+uJfqocEzA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

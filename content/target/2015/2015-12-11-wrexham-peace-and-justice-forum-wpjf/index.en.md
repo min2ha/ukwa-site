@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wpjf.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wrexham Peace and Justice Forum (WPJF)", 
-  "record_id": "20151211T090000/FK4wa/cC+C0zmPAJFfX34Q==", 
-  "publisher": "wpjf.org.uk", 
+  "date": "2015-12-11T09:00:00", 
   "slug": 33376, 
+  "publisher": "wpjf.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wrexham Peace and Justice Forum (WPJF)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151211T090000/FK4wa/cC+C0zmPAJFfX34Q==", 
+  "scope": "root", 
   "start_date": "2015-12-11T09:00:00Z"
 }
 

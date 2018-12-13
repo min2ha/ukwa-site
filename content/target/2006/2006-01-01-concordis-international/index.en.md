@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://concordis.international/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Concordis International", 
-  "record_id": "20060101T120000/5E02bkd6JCuPavwaYrLoKQ==", 
-  "publisher": "concordis.international", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14828, 
+  "publisher": "concordis.international", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Concordis International", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/5E02bkd6JCuPavwaYrLoKQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

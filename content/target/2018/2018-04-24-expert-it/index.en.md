@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://expertit.co.uk/", 
-  "description": "Delivering corporate and home IT services", 
   "end_date": null, 
-  "title": "Expert IT", 
-  "record_id": "20180424T090000//DG4BUmL2E42ljZvKEVj7w==", 
-  "publisher": "expertit.co.uk", 
+  "date": "2018-04-24T09:00:00", 
   "slug": 64737, 
+  "publisher": "expertit.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Expert IT", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180424T090000//DG4BUmL2E42ljZvKEVj7w==", 
+  "scope": "root", 
   "start_date": "2018-04-24T09:00:00Z"
 }
 

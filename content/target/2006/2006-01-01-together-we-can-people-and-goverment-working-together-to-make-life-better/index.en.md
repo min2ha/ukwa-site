@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.togetherwecan.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Together we can - People and goverment, working together to make life better", 
-  "record_id": "20060101T120000/8zPKODmX+ANQHbuOqubTTg==", 
-  "publisher": "togetherwecan.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 137763, 
+  "publisher": "togetherwecan.info", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Together we can - People and goverment, working together to make life better", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/8zPKODmX+ANQHbuOqubTTg==", 
+  "scope": "root", 
   "start_date": null
 }
 

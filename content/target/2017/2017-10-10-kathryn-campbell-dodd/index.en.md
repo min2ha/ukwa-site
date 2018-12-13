@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://kathryncampbelldodd.co.uk/", 
-  "description": "Kathryn Campbell Dodd is an artist living and working in West Wales. She is interested in the \u2018object\u2019 within visual art and craft contexts.", 
   "end_date": null, 
-  "title": "Kathryn Campbell Dodd", 
-  "record_id": "20171010T090000/hwEbHQ77IBcQ/VQQtMZD5A==", 
-  "publisher": "kathryncampbelldodd.co.uk", 
+  "date": "2017-10-10T09:00:00", 
   "slug": 57719, 
+  "publisher": "kathryncampbelldodd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kathryn Campbell Dodd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171010T090000/hwEbHQ77IBcQ/VQQtMZD5A==", 
+  "scope": "root", 
   "start_date": "2017-10-10T09:00:00Z"
 }
 

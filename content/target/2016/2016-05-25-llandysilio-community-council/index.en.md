@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://llandysilio-council.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llandysilio Community Council", 
-  "record_id": "20160525T100000/l9cz+Dq0f9SmcTmOMJFzpg==", 
-  "publisher": "llandysilio-council.org.uk", 
+  "date": "2016-05-25T10:00:00", 
   "slug": 41654, 
+  "publisher": "llandysilio-council.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llandysilio Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160525T100000/l9cz+Dq0f9SmcTmOMJFzpg==", 
+  "scope": "root", 
   "start_date": "2016-05-25T10:00:00Z"
 }
 

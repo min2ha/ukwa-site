@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://dowlaismalechoir.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": " Cor Meibion Dowlais Male Voice Choir ", 
-  "record_id": "20150606T090000/8P28D44J1axxocNP7df77g==", 
-  "publisher": "dowlaismalechoir.co.uk", 
+  "date": "2015-06-06T09:00:00", 
   "slug": 27344, 
+  "publisher": "dowlaismalechoir.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Cor Meibion Dowlais Male Voice Choir ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150606T090000/8P28D44J1axxocNP7df77g==", 
+  "scope": "root", 
   "start_date": "2015-06-06T09:00:00Z"
 }
 

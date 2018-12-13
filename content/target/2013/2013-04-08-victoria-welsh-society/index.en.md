@@ -1,13 +1,16 @@
 {
-  "date": "2013-04-08T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.victoriawelshsociety.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Victoria Welsh Society", 
-  "record_id": "20130408T000000/YyQQB/USXLf8hyZDiyoVIw==", 
-  "publisher": "victoriawelshsociety.org", 
+  "date": "2013-04-08T00:00:00", 
   "slug": 64454805, 
+  "publisher": "victoriawelshsociety.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Victoria Welsh Society", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130408T000000/YyQQB/USXLf8hyZDiyoVIw==", 
+  "scope": "root", 
   "start_date": "2013-04-08T00:00:00Z"
 }
 

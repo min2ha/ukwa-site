@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-02T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.forthestuaryforum.co.uk/", 
-  "description": "The Forum is a voluntary partnership of organisations around the Forth with an interest in the wellbeing of the Forth and its coastal communities.", 
   "end_date": null, 
-  "title": "Forth Estuary Forum", 
-  "record_id": "20150402T060000/cjOWsexSnzQuTygcHkXvWA==", 
-  "publisher": "forthestuaryforum.co.uk", 
+  "date": "2015-04-02T06:00:00", 
   "slug": 20278, 
+  "publisher": "forthestuaryforum.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Forth Estuary Forum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150402T060000/cjOWsexSnzQuTygcHkXvWA==", 
+  "scope": "root", 
   "start_date": "2015-04-02T06:00:00Z"
 }
 

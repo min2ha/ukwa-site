@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.britishseahorsesurvey.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "British Seahorse Survey", 
-  "record_id": "20060101T120000//IYZL5W1UePuDKX8G9QHcw==", 
-  "publisher": "britishseahorsesurvey.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15499289, 
+  "publisher": "britishseahorsesurvey.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "British Seahorse Survey", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000//IYZL5W1UePuDKX8G9QHcw==", 
+  "scope": "root", 
   "start_date": null
 }
 

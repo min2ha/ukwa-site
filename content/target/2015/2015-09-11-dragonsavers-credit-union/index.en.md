@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dragonsavers.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dragonsavers Credit Union", 
-  "record_id": "20150911T100000/MIWARH+1MWlS28DaxwwuRg==", 
-  "publisher": "dragonsavers.org", 
+  "date": "2015-09-11T10:00:00", 
   "slug": 30407, 
+  "publisher": "dragonsavers.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dragonsavers Credit Union", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150911T100000/MIWARH+1MWlS28DaxwwuRg==", 
+  "scope": "root", 
   "start_date": "2015-09-11T10:00:00Z"
 }
 

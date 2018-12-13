@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://theoldmarket.com/", 
-  "description": "Brighton and Hove City Reads organised by the The Old Market", 
   "end_date": null, 
-  "title": "Old Market, The", 
-  "record_id": "20150716T100000/LsuY4CVX1Tdkw54P6fUvAA==", 
-  "publisher": "theoldmarket.com", 
+  "date": "2015-07-16T10:00:00", 
   "slug": 29148, 
+  "publisher": "theoldmarket.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Old Market, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150716T100000/LsuY4CVX1Tdkw54P6fUvAA==", 
+  "scope": "root", 
   "start_date": "2015-07-16T10:00:00Z"
 }
 

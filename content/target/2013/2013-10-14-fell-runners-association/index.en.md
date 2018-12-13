@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.fellrunner.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fell Runners Association", 
-  "record_id": "20131014T100000/cPvTpVCflrFryzQbdMHUzw==", 
-  "publisher": "fellrunner.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60915755, 
+  "publisher": "fellrunner.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fell Runners Association", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/cPvTpVCflrFryzQbdMHUzw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

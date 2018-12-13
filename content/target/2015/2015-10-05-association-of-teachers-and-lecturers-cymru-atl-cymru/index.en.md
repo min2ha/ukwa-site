@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.atlcymru.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Association of Teachers and Lecturers Cymru (ATL Cymru)", 
-  "record_id": "20151005T100000/N8NWQloZqY9Zjes2SAgWCA==", 
-  "publisher": "atlcymru.org.uk", 
+  "date": "2015-10-05T10:00:00", 
   "slug": 31132, 
+  "publisher": "atlcymru.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Association of Teachers and Lecturers Cymru (ATL Cymru)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151005T100000/N8NWQloZqY9Zjes2SAgWCA==", 
+  "scope": "root", 
   "start_date": "2015-10-05T10:00:00Z"
 }
 

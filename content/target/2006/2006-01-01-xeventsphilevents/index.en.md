@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://xevents-blog.sas.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "xEvents/PhilEvents", 
-  "record_id": "20060101T120000/K0AuFXl8PUNBKZMOYcJS9g==", 
-  "publisher": "sas.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588273, 
+  "publisher": "sas.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "xEvents/PhilEvents", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/K0AuFXl8PUNBKZMOYcJS9g==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-28T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.historictownsatlas.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "British Historic Towns Atlas", 
-  "record_id": "20160128T090000/NTIC0ov2wZbt5uTfpp/YHA==", 
-  "publisher": "historictownsatlas.org.uk", 
+  "date": "2016-01-28T09:00:00", 
   "slug": 34702, 
+  "publisher": "historictownsatlas.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "British Historic Towns Atlas", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160128T090000/NTIC0ov2wZbt5uTfpp/YHA==", 
+  "scope": "root", 
   "start_date": "2016-01-28T09:00:00Z"
 }
 

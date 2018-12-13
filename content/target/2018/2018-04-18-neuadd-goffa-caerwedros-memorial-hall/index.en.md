@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-18T09:00:00", 
-  "open_access": false, 
   "target_url": "https://neuaddgoffacaerwedros.org/", 
-  "description": "Neudd Goffa Caerwedros is in Bro Si\u00f4n Cwilt, Ceredigion.", 
   "end_date": null, 
-  "title": "Neuadd Goffa Caerwedros Memorial Hall", 
-  "record_id": "20180418T090000/olZUW+XpDxO5TVuhc8vbSw==", 
-  "publisher": "neuaddgoffacaerwedros.org", 
+  "date": "2018-04-18T09:00:00", 
   "slug": 64498, 
+  "publisher": "neuaddgoffacaerwedros.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Neuadd Goffa Caerwedros Memorial Hall", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180418T090000/olZUW+XpDxO5TVuhc8vbSw==", 
+  "scope": "root", 
   "start_date": "2018-04-18T09:00:00Z"
 }
 

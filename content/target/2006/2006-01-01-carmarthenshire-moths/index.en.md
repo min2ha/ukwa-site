@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.carmarthenshiremoths.co.uk/", 
-  "description": "<p>This is a recording blog for the Carmarthenshire Moth and Butterfly Group</p>\n", 
   "end_date": null, 
-  "title": "Carmarthenshire Moths", 
-  "record_id": "20060101T120000/4NGgA/BEh8ajXznRJuySWw==", 
-  "publisher": "carmarthenshiremoths.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 284590090, 
+  "publisher": "carmarthenshiremoths.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Carmarthenshire Moths", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/4NGgA/BEh8ajXznRJuySWw==", 
+  "scope": "root", 
   "start_date": null
 }
 

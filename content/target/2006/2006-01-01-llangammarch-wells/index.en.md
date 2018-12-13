@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://llangammarchwells.org.uk/", 
-  "description": "<p>The communities of Llangammarch Wells, Cefn Gorwydd and Tirabad are in Carmarthenshire. The website is run by the community council.</p>\n", 
   "end_date": null, 
-  "title": "Llangammarch Wells", 
-  "record_id": "20060101T120000/vjwFlZqPhVhaD8CKy+Q/0A==", 
-  "publisher": "llangammarchwells.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 16335, 
+  "publisher": "llangammarchwells.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llangammarch Wells", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vjwFlZqPhVhaD8CKy+Q/0A==", 
+  "scope": "root", 
   "start_date": null
 }
 

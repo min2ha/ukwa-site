@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lastordersontheunderground.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Last Orders On The Underground", 
-  "record_id": "20060101T120000/Dk2NYTIsO2fmZLXzCpUoVw==", 
-  "publisher": "lastordersontheunderground.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 7503900, 
+  "publisher": "lastordersontheunderground.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Last Orders On The Underground", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Dk2NYTIsO2fmZLXzCpUoVw==", 
+  "scope": "root", 
   "start_date": null
 }
 

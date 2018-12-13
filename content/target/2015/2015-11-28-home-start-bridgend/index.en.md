@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.homestartbridgend.co.uk/", 
-  "description": "Home Start Bridgend supports parents who are dealing with issues such as isolation, sickness, disability, mental health and difficult relationships.", 
   "end_date": null, 
-  "title": "Home Start Bridgend", 
-  "record_id": "20151128T090000/APGsVClcQpLAvZieVah46Q==", 
-  "publisher": "homestartbridgend.co.uk", 
+  "date": "2015-11-28T09:00:00", 
   "slug": 32975, 
+  "publisher": "homestartbridgend.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Home Start Bridgend", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151128T090000/APGsVClcQpLAvZieVah46Q==", 
+  "scope": "root", 
   "start_date": "2015-11-28T09:00:00Z"
 }
 

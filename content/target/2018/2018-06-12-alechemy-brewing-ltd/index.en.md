@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alechemy.beer/", 
-  "description": "Site of a brewer located in Livingston West Lothian, making hand crafted real ale.", 
   "end_date": null, 
-  "title": "Alechemy Brewing Ltd", 
-  "record_id": "20180612T090000/VlTfL3U+/ekCmWVZe+1PnA==", 
-  "publisher": "alechemy.beer", 
+  "date": "2018-06-12T09:00:00", 
   "slug": 67083, 
+  "publisher": "alechemy.beer", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alechemy Brewing Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180612T090000/VlTfL3U+/ekCmWVZe+1PnA==", 
+  "scope": "root", 
   "start_date": "2018-06-12T09:00:00Z"
 }
 

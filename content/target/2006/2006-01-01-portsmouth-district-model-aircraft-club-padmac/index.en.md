@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.padmac.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Portsmouth & District Model Aircraft Club (PADMAC)", 
-  "record_id": "20060101T120000/gL4ce6fLMwXM6ORqBUuPxQ==", 
-  "publisher": "padmac.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 218955780, 
+  "publisher": "padmac.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Portsmouth & District Model Aircraft Club (PADMAC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/gL4ce6fLMwXM6ORqBUuPxQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

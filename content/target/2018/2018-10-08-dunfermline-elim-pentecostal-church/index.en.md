@@ -1,14 +1,26 @@
 {
   "target_url": "http://elimdunfermline.org/", 
-  "description": "Site of an Elim Pentecostal church (Christian) located in Dunfermline, Fife.", 
   "end_date": null, 
   "date": "2018-10-08T09:00:00", 
   "slug": 72301, 
-  "subject": "Religion/Theology", 
   "publisher": "elimdunfermline.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Dunfermline Elim Pentecostal Church ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20181008T090000/RER4KTtdP6/vevRpnHRFKg==", 
+  "scope": "root", 
   "start_date": "2018-10-08T09:00:00Z"
 }
 

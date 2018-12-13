@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hawardenhigh.org.uk/index.html", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hawarden High School, Deeside | Ysgol Uwchradd Penarl\u00e2g, Clwyd", 
-  "record_id": "20170323T090000/Huch1TzRshYtgLpbhILC7A==", 
-  "publisher": "hawardenhigh.org.uk", 
+  "date": "2017-03-23T09:00:00", 
   "slug": 50941, 
+  "publisher": "hawardenhigh.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hawarden High School, Deeside | Ysgol Uwchradd Penarl\u00e2g, Clwyd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170323T090000/Huch1TzRshYtgLpbhILC7A==", 
+  "scope": "root", 
   "start_date": "2017-03-23T09:00:00Z"
 }
 

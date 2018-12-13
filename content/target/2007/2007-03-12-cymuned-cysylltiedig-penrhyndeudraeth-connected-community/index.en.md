@@ -1,13 +1,16 @@
 {
-  "date": "2007-03-12T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.penrhyndeudraeth.cymru.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymuned Cysylltiedig Penrhyndeudraeth Connected Community", 
-  "record_id": "20070312T000000/cWbe37VmU5a9wH2TKVqukw==", 
-  "publisher": "cymru.org", 
+  "date": "2007-03-12T00:00:00", 
   "slug": 138211, 
+  "publisher": "cymru.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Cymuned Cysylltiedig Penrhyndeudraeth Connected Community", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20070312T000000/cWbe37VmU5a9wH2TKVqukw==", 
+  "scope": "root", 
   "start_date": "2007-03-12T00:00:00Z"
 }
 

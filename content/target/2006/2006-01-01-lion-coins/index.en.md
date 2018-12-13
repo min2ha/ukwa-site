@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lioncoins.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Lion Coins", 
-  "record_id": "20060101T120000/vRu7H+rVVyzYx2E3xA3C/w==", 
-  "publisher": "lioncoins.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 61538376, 
+  "publisher": "lioncoins.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Lion Coins", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vRu7H+rVVyzYx2E3xA3C/w==", 
+  "scope": "root", 
   "start_date": null
 }
 

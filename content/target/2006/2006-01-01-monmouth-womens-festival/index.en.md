@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://monmouthwomensfestival.com/", 
-  "description": "<p>Monmouth Women\u2019s Festival aims to celebrate the achievements of women and raise awareness of issues relating to women locally and internationally.</p>\n", 
   "end_date": null, 
-  "title": "Monmouth Women\u2019s Festival", 
-  "record_id": "20060101T120000/iwfzxHUhaOTz/R6Hl+IOww==", 
-  "publisher": "monmouthwomensfestival.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15572, 
+  "publisher": "monmouthwomensfestival.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Monmouth Women\u2019s Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/iwfzxHUhaOTz/R6Hl+IOww==", 
+  "scope": "root", 
   "start_date": null
 }
 

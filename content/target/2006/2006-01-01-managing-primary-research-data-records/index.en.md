@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://northumbria.ac.uk/sd/academic/ceis/re/isrc/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Managing primary research data & records", 
-  "record_id": "20060101T120000/ZD3pqUJgY137FQBf8qhrug==", 
-  "publisher": "northumbria.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 118919, 
+  "publisher": "northumbria.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Managing primary research data & records", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ZD3pqUJgY137FQBf8qhrug==", 
+  "scope": "root", 
   "start_date": null
 }
 

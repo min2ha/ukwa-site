@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bartg.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "British Amateur Radio Teledata Group", 
-  "record_id": "20060101T120000/HW11auoxLOu1npFDZ4JVkQ==", 
-  "publisher": "bartg.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4040, 
+  "publisher": "bartg.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Amateur Radio Teledata Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HW11auoxLOu1npFDZ4JVkQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

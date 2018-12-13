@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bathgateregal.org/", 
-  "description": "Site of a community theatre and cineman at Bathgate, West Lothian.", 
   "end_date": null, 
-  "title": "Bathgate Regal", 
-  "record_id": "20171026T090000/UBP29CTmHdnL20pt1YwgcQ==", 
-  "publisher": "bathgateregal.org", 
+  "date": "2017-10-26T09:00:00", 
   "slug": 58104, 
+  "publisher": "bathgateregal.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bathgate Regal", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171026T090000/UBP29CTmHdnL20pt1YwgcQ==", 
+  "scope": "root", 
   "start_date": "2017-10-26T09:00:00Z"
 }
 

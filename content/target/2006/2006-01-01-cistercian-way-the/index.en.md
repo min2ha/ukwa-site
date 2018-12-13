@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://cistercian-way.newport.ac.uk/", 
-  "description": "<p>The project was created by Newport University and is a detailed description of the Cistercian Way, a long-distance path that runs through Wales.</p>\n", 
   "end_date": null, 
-  "title": "Cistercian Way, The", 
-  "record_id": "20060101T120000/0zyrCPKX6xpljXPvpSKUhw==", 
-  "publisher": "newport.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 26640439, 
+  "publisher": "newport.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Cistercian Way, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/0zyrCPKX6xpljXPvpSKUhw==", 
+  "scope": "root", 
   "start_date": null
 }
 

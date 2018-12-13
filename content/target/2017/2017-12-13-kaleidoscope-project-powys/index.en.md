@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.recoverypowys.uk/", 
-  "description": "Kaleidoscope Project Powys provide substance misuse services for young people across Powys.", 
   "end_date": null, 
-  "title": "Kaleidoscope Project Powys", 
-  "record_id": "20171213T090000/P1tu4M43m7H/CX8wJv7tvw==", 
-  "publisher": "recoverypowys.uk", 
+  "date": "2017-12-13T09:00:00", 
   "slug": 59718, 
+  "publisher": "recoverypowys.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kaleidoscope Project Powys", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171213T090000/P1tu4M43m7H/CX8wJv7tvw==", 
+  "scope": "root", 
   "start_date": "2017-12-13T09:00:00Z"
 }
 

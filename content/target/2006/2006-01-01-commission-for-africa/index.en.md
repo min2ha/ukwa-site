@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.commissionforafrica.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Commission for Africa", 
-  "record_id": "20060101T120000/Ykele3KXRmBSxgAr1HkKUw==", 
-  "publisher": "commissionforafrica.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 126295, 
+  "publisher": "commissionforafrica.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Commission for Africa", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Ykele3KXRmBSxgAr1HkKUw==", 
+  "scope": "root", 
   "start_date": null
 }
 

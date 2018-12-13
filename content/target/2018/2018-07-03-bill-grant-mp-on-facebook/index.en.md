@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-03T09:00:00", 
-  "open_access": false, 
   "target_url": "https://m.facebook.com/billgrantmp/", 
-  "description": "Bill Grant is the Member of Parliament for Ayr, Carrick and Cumnock.", 
   "end_date": "2021-05-01T00:00:00Z", 
-  "title": "Bill Grant MP on Facebook", 
-  "record_id": "20180703T090000/lb8wkvi2mQd7fgjCPf3YBw==", 
-  "publisher": "facebook.com", 
+  "date": "2018-07-03T09:00:00", 
   "slug": 68496, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bill Grant MP on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180703T090000/lb8wkvi2mQd7fgjCPf3YBw==", 
+  "scope": "root", 
   "start_date": "2018-07-03T09:00:00Z"
 }
 

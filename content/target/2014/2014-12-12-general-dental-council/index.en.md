@@ -1,13 +1,21 @@
 {
-  "date": "2014-12-12T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gdc-uk.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "General Dental Council ", 
-  "record_id": "20141212T060000/Mt9Z16jyPyWyuCZXwUqpsg==", 
-  "publisher": "gdc-uk.org", 
+  "date": "2014-12-12T06:00:00", 
   "slug": 15483, 
+  "publisher": "gdc-uk.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "General Dental Council ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141212T060000/Mt9Z16jyPyWyuCZXwUqpsg==", 
+  "scope": "root", 
   "start_date": "2014-12-12T06:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://witheredhand.com/", 
-  "description": "Site of a musician, Dan Willson, based in Fife, Scotland, and using.", 
   "end_date": null, 
-  "title": "Withered Hand", 
-  "record_id": "20170609T090000/FMmr1um9Z5L3KXECI65stw==", 
-  "publisher": "witheredhand.com", 
+  "date": "2017-06-09T09:00:00", 
   "slug": 54476, 
+  "publisher": "witheredhand.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Withered Hand", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170609T090000/FMmr1um9Z5L3KXECI65stw==", 
+  "scope": "root", 
   "start_date": "2017-06-09T09:00:00Z"
 }
 

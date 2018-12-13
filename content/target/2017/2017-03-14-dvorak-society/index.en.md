@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-14T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.dvorak-society.org/", 
-  "description": "The Dvo\u0159\u00e1k Society for Czech and Slovak Music is devoted to the musical arts of all Czech and Slovak composers and performers, past and present. ", 
   "end_date": null, 
-  "title": "Dvorak Society", 
-  "record_id": "20170314T090000/991zTGW0/jirQb8Ig9v5+g==", 
-  "publisher": "dvorak-society.org", 
+  "date": "2017-03-14T09:00:00", 
   "slug": 50413, 
+  "publisher": "dvorak-society.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Dvorak Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170314T090000/991zTGW0/jirQb8Ig9v5+g==", 
+  "scope": "root", 
   "start_date": "2017-03-14T09:00:00Z"
 }
 

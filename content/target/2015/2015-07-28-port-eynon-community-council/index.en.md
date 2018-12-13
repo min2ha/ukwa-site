@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://porteynoncc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Port Eynon Community Council ", 
-  "record_id": "20150728T100000/iUzqeXXBXHKcXsBpcRXQKQ==", 
-  "publisher": "porteynoncc.org.uk", 
+  "date": "2015-07-28T10:00:00", 
   "slug": 29391, 
+  "publisher": "porteynoncc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Port Eynon Community Council ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150728T100000/iUzqeXXBXHKcXsBpcRXQKQ==", 
+  "scope": "root", 
   "start_date": "2015-07-28T10:00:00Z"
 }
 

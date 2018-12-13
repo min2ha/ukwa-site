@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ukcgg.org/", 
-  "description": "Cancer Genetics Group", 
   "end_date": null, 
-  "title": "Cancer Genetics Group", 
-  "record_id": "20170404T090000/hceSiRKkV8in70pYaw9YGw==", 
-  "publisher": "ukcgg.org", 
+  "date": "2017-04-04T09:00:00", 
   "slug": 51705, 
+  "publisher": "ukcgg.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cancer Genetics Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170404T090000/hceSiRKkV8in70pYaw9YGw==", 
+  "scope": "root", 
   "start_date": "2017-04-04T09:00:00Z"
 }
 

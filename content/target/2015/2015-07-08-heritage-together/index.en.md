@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://heritagetogether.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Heritage Together", 
-  "record_id": "20150708T100000/LdV9ShwqHCdjlkZDpAS3Ew==", 
-  "publisher": "heritagetogether.org", 
+  "date": "2015-07-08T10:00:00", 
   "slug": 28806, 
+  "publisher": "heritagetogether.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Heritage Together", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150708T100000/LdV9ShwqHCdjlkZDpAS3Ew==", 
+  "scope": "root", 
   "start_date": "2015-07-08T10:00:00Z"
 }
 

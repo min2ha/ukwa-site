@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://arthurianlifesciences.co.uk/", 
-  "description": "Arthurian Life Sciences Ltd was established to act as General Partner of the Wales Life Sciences Investment Fund, a \u00a3100 million fund and key part of the Welsh Government\u2019s Life Sciences initiative.", 
   "end_date": null, 
-  "title": "Arthurian Life Sciences Ltd", 
-  "record_id": "20151203T090000/jXtKaSEcTXS/ZDL0oMu1vQ==", 
-  "publisher": "arthurianlifesciences.co.uk", 
+  "date": "2015-12-03T09:00:00", 
   "slug": 33131, 
+  "publisher": "arthurianlifesciences.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Arthurian Life Sciences Ltd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151203T090000/jXtKaSEcTXS/ZDL0oMu1vQ==", 
+  "scope": "root", 
   "start_date": "2015-12-03T09:00:00Z"
 }
 

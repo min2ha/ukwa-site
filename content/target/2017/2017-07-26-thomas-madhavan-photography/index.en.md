@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tmadhavan.com/", 
-  "description": "Thomas Madhavan is a Cardiff-based photographer, interested mainly in street and documentary photography. ", 
   "end_date": null, 
-  "title": "Thomas Madhavan Photography", 
-  "record_id": "20170726T090000/y6+3rr/nmKtMOL3TJP1IjA==", 
-  "publisher": "tmadhavan.com", 
+  "date": "2017-07-26T09:00:00", 
   "slug": 56119, 
+  "publisher": "tmadhavan.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Thomas Madhavan Photography", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170726T090000/y6+3rr/nmKtMOL3TJP1IjA==", 
+  "scope": "root", 
   "start_date": "2017-07-26T09:00:00Z"
 }
 

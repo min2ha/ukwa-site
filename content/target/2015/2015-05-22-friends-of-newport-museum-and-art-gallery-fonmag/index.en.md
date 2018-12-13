@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://fonmag.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Friends of Newport Museum and Art Gallery (FoNMAG)", 
-  "record_id": "20150522T090000/+O1Iyo487jNqTl8Ew8veng==", 
-  "publisher": "fonmag.org.uk", 
+  "date": "2015-05-22T09:00:00", 
   "slug": 26779, 
+  "publisher": "fonmag.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Friends of Newport Museum and Art Gallery (FoNMAG)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150522T090000/+O1Iyo487jNqTl8Ew8veng==", 
+  "scope": "root", 
   "start_date": "2015-05-22T09:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.penrhyndeudraeth.cymru.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Penrhyndeudraeth: y pentref rhwydweithiol - the networked village", 
-  "record_id": "20060101T120000/cWbe37VmU5a9wH2TKVqukw==", 
-  "publisher": "cymru.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 138220, 
+  "publisher": "cymru.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Penrhyndeudraeth: y pentref rhwydweithiol - the networked village", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cWbe37VmU5a9wH2TKVqukw==", 
+  "scope": "root", 
   "start_date": null
 }
 

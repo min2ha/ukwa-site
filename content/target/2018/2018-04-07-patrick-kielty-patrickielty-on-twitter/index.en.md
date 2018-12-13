@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-07T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/PatricKielty/", 
-  "description": "A comedian from Northern Ireland. ", 
   "end_date": null, 
-  "title": "Patrick Kielty (@PatricKielty) on Twitter", 
-  "record_id": "20180407T090000/BXtOXRIV0GmAXjKrvsAumg==", 
-  "publisher": "twitter.com", 
+  "date": "2018-04-07T09:00:00", 
   "slug": 63772, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Patrick Kielty (@PatricKielty) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180407T090000/BXtOXRIV0GmAXjKrvsAumg==", 
+  "scope": "root", 
   "start_date": "2018-04-07T09:00:00Z"
 }
 

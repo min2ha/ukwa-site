@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llen-dysilio.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ll\u00ean-dysilio", 
-  "record_id": "20150521T090000/Xn1fQ1vp+BLUp1s2x2ZGkA==", 
-  "publisher": "llen-dysilio.com", 
+  "date": "2015-05-21T09:00:00", 
   "slug": 26348, 
+  "publisher": "llen-dysilio.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ll\u00ean-dysilio", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150521T090000/Xn1fQ1vp+BLUp1s2x2ZGkA==", 
+  "scope": "root", 
   "start_date": "2015-05-21T09:00:00Z"
 }
 

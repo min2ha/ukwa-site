@@ -1,13 +1,16 @@
 {
-  "date": "2015-07-06T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.castlewales.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Castles of Wales, The", 
-  "record_id": "20150706T000000/+YZW3CKlgEk1/vVfMtemeQ==", 
-  "publisher": "castlewales.com", 
+  "date": "2015-07-06T00:00:00", 
   "slug": 320700424, 
+  "publisher": "castlewales.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Castles of Wales, The", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150706T000000/+YZW3CKlgEk1/vVfMtemeQ==", 
+  "scope": "root", 
   "start_date": "2015-07-06T00:00:00Z"
 }
 

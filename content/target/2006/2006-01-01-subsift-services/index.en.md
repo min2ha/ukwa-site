@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://subsift.ilrt.bris.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "SubSift Services", 
-  "record_id": "20060101T120000/UvBg1NOpixpel9wEY/PHoQ==", 
-  "publisher": "bris.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31653954, 
+  "publisher": "bris.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "SubSift Services", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/UvBg1NOpixpel9wEY/PHoQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

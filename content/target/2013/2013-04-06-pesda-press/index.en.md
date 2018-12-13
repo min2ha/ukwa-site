@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pesdapress.com/", 
-  "description": "<p>Mountaineering, climbing, kayaking and canoeing guidebooks based in north Wales.</p>\n", 
   "end_date": null, 
-  "title": "Pesda Press", 
-  "record_id": "20130406T010000/4hy4+TWd2l0gOvr06j7vaA==", 
-  "publisher": "pesdapress.com", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15460, 
+  "publisher": "pesdapress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pesda Press", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/4hy4+TWd2l0gOvr06j7vaA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

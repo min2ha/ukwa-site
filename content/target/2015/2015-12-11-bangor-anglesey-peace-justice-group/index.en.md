@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://bangorpeace.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bangor & Anglesey Peace & Justice Group ", 
-  "record_id": "20151211T090000/yU9SLyV/iAuczMZJ1mn5fg==", 
-  "publisher": "bangorpeace.co.uk", 
+  "date": "2015-12-11T09:00:00", 
   "slug": 33377, 
+  "publisher": "bangorpeace.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bangor & Anglesey Peace & Justice Group ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151211T090000/yU9SLyV/iAuczMZJ1mn5fg==", 
+  "scope": "root", 
   "start_date": "2015-12-11T09:00:00Z"
 }
 

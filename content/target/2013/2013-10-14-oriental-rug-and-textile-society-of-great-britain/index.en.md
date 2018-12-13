@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.orientalrugandtextilesociety.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Oriental Rug and Textile Society of Great Britain", 
-  "record_id": "20131014T100000/vdFbFdF7dDZt14rXLLABQA==", 
-  "publisher": "orientalrugandtextilesociety.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 64290992, 
+  "publisher": "orientalrugandtextilesociety.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Oriental Rug and Textile Society of Great Britain", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/vdFbFdF7dDZt14rXLLABQA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

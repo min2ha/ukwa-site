@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-13T09:00:00", 
-  "open_access": true, 
   "target_url": "http://traceywarrwriting.com/", 
-  "description": "Fiction and non-fiction writer, born in London and liveS in Pembrokeshire.", 
   "end_date": null, 
-  "title": "Tracey Warr Writing ", 
-  "record_id": "20150413T090000/6z/WDCSD47mRJwRONrnxxg==", 
-  "publisher": "traceywarrwriting.com", 
+  "date": "2015-04-13T09:00:00", 
   "slug": 293863716, 
+  "publisher": "traceywarrwriting.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tracey Warr Writing ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150413T090000/6z/WDCSD47mRJwRONrnxxg==", 
+  "scope": "root", 
   "start_date": "2015-04-13T09:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.stpetersw6.org/St_Peters_Hammersmith/HOME.html", 
-  "description": "St Peter\u2019s is a thriving and diverse church for all ages,\nwith an open and inclusive Anglican tradition.\n\nIt is located on the boundary between Hammersmith and Chiswick, on Black Lion Lane, London W6 9BE.", 
   "end_date": null, 
   "date": "2017-04-13T09:00:00", 
   "slug": 51992, 
-  "subject": "Religion/Theology", 
   "publisher": "stpetersw6.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Peter's Church, Hammersmith", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170413T090000/3uZ6kg/egq+pfd2mzOOYuQ==", 
+  "scope": "root", 
   "start_date": "2017-04-13T09:00:00Z"
 }
 

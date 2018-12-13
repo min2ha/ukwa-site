@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cymunedau.org/", 
-  "description": "An organisation that links Welsh speaking communities across Wales in order to explore ways in halting a decline in a number of Welsh speakers across communities in Wales.", 
   "end_date": null, 
-  "title": "Cynghrair Cymunedau Cymraeg", 
-  "record_id": "20151106T090000/nHt0Y5ovi87e4bX1lm2vNg==", 
-  "publisher": "cymunedau.org", 
+  "date": "2015-11-06T09:00:00", 
   "slug": 32156, 
+  "publisher": "cymunedau.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cynghrair Cymunedau Cymraeg", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151106T090000/nHt0Y5ovi87e4bX1lm2vNg==", 
+  "scope": "root", 
   "start_date": "2015-11-06T09:00:00Z"
 }
 

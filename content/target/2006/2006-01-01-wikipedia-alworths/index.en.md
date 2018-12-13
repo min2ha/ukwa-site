@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://en.wikipedia.org/wiki/Alworths", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wikipedia: Alworths", 
-  "record_id": "20060101T120000/Weqt9TrPQvjJ/5c2niuS7A==", 
-  "publisher": "wikipedia.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32899120, 
+  "publisher": "wikipedia.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Wikipedia: Alworths", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Weqt9TrPQvjJ/5c2niuS7A==", 
+  "scope": "root", 
   "start_date": null
 }
 

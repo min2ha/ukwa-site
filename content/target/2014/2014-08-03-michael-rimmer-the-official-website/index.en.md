@@ -1,14 +1,26 @@
 {
   "target_url": "http://michaelrimmer.co.uk/", 
-  "description": "The website of middle distance runner Michale Rimmer, member of Team England for the Glasgow 2014 Commonwealth Games.\n", 
   "end_date": "2014-08-05T07:00:00Z", 
   "date": "2014-08-03T07:00:00", 
   "slug": 12729, 
-  "subject": null, 
   "publisher": "michaelrimmer.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Michael Rimmer | The Official Website", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1768, 
+      "name": "Sports Collection"
+    }
+  ], 
   "record_id": "20140803T070000/omON47ZtkFE8dz8lzicKNQ==", 
+  "scope": "root", 
   "start_date": "2014-08-03T07:00:00Z"
 }
 

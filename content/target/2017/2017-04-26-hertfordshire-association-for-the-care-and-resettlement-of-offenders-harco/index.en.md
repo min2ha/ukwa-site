@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://hacro.org.uk/", 
-  "description": "HACRO volunteers with business backgrounds work as mentors at HMP The Mount on the Education Department's Business Enterprise programme. ", 
   "end_date": null, 
-  "title": "Hertfordshire Association for the Care and Resettlement of Offenders (HARCO)", 
-  "record_id": "20170426T090000/Y3/G7crPeBVKEuvfKdVNgg==", 
-  "publisher": "hacro.org.uk", 
+  "date": "2017-04-26T09:00:00", 
   "slug": 52445, 
+  "publisher": "hacro.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hertfordshire Association for the Care and Resettlement of Offenders (HARCO)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170426T090000/Y3/G7crPeBVKEuvfKdVNgg==", 
+  "scope": "root", 
   "start_date": "2017-04-26T09:00:00Z"
 }
 

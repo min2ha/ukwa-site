@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://llanfechell.info/", 
-  "description": "<p>This is a community website for the village of Llanfechell, North of Anglesey.</p>\n", 
   "end_date": null, 
-  "title": "Llanfechell", 
-  "record_id": "20060101T120000/ly/WjkKwPV+mEPYAlFJPiw==", 
-  "publisher": "llanfechell.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14352, 
+  "publisher": "llanfechell.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanfechell", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ly/WjkKwPV+mEPYAlFJPiw==", 
+  "scope": "root", 
   "start_date": null
 }
 

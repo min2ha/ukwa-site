@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sorleymaclean.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Sorley MacLean Official Website", 
-  "record_id": "20060101T120000/F+2by3CqIsOJ73IAt70bMQ==", 
-  "publisher": "sorleymaclean.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11969, 
+  "publisher": "sorleymaclean.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sorley MacLean Official Website", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/F+2by3CqIsOJ73IAt70bMQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

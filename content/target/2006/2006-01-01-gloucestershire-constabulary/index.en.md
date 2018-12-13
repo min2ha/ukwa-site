@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gloucestershire.police.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Gloucestershire Constabulary", 
-  "record_id": "20060101T120000/heG+VDqlKd35XzxtpYD4CA==", 
-  "publisher": "gloucestershire.police.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4677, 
+  "publisher": "gloucestershire.police.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gloucestershire Constabulary", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/heG+VDqlKd35XzxtpYD4CA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://localenergy.gov.wales/", 
-  "description": "Local energy is the Welsh Government\u2019s renewable energy support service.", 
   "end_date": null, 
-  "title": "Welsh Government: Local energy | Ynni Lleol", 
-  "record_id": "20161216T090000/AEuGDtfCtVpnuldzWu4LfQ==", 
-  "publisher": "gov.wales", 
+  "date": "2016-12-16T09:00:00", 
   "slug": 47826, 
+  "publisher": "gov.wales", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Government: Local energy | Ynni Lleol", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161216T090000/AEuGDtfCtVpnuldzWu4LfQ==", 
+  "scope": "root", 
   "start_date": "2016-12-16T09:00:00Z"
 }
 

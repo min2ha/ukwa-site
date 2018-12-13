@@ -1,13 +1,16 @@
 {
-  "date": "2011-06-09T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tpascymru.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "TPAS Cymru", 
-  "record_id": "20110609T000000/jVZraShMCOeFKqDHP+CIfw==", 
-  "publisher": "tpascymru.org.uk", 
+  "date": "2011-06-09T00:00:00", 
   "slug": 60588279, 
+  "publisher": "tpascymru.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "TPAS Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110609T000000/jVZraShMCOeFKqDHP+CIfw==", 
+  "scope": "root", 
   "start_date": "2011-06-09T00:00:00Z"
 }
 

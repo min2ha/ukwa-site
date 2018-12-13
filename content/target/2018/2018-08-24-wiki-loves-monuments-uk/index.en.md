@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wikilovesmonuments.org.uk/", 
-  "description": "Wiki Loves Monuments is an international event which takes place every September. The competition brings together amateur and professional photographers alike to capture images of the world\u2019s historic monuments.", 
   "end_date": null, 
-  "title": "Wiki Loves Monuments  UK", 
-  "record_id": "20180824T090000/844HLy4ksC40J7mJflLzrg==", 
-  "publisher": "wikilovesmonuments.org.uk", 
+  "date": "2018-08-24T09:00:00", 
   "slug": 70381, 
+  "publisher": "wikilovesmonuments.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wiki Loves Monuments  UK", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180824T090000/844HLy4ksC40J7mJflLzrg==", 
+  "scope": "root", 
   "start_date": "2018-08-24T09:00:00Z"
 }
 

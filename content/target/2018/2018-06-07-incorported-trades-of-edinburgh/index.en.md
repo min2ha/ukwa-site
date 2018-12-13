@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://edinburghtrades.org/", 
-  "description": "Site of a charitable organisation representing the traditional trade and craft bodies of the city of Edinburgh.", 
   "end_date": null, 
-  "title": "Incorported Trades of Edinburgh", 
-  "record_id": "20180607T090000/dYdowipaDP4XzXJCMZRCyQ==", 
-  "publisher": "edinburghtrades.org", 
+  "date": "2018-06-07T09:00:00", 
   "slug": 66858, 
+  "publisher": "edinburghtrades.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Incorported Trades of Edinburgh", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180607T090000/dYdowipaDP4XzXJCMZRCyQ==", 
+  "scope": "root", 
   "start_date": "2018-06-07T09:00:00Z"
 }
 

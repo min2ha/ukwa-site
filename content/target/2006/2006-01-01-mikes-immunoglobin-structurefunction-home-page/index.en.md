@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.path.cam.ac.uk/~mrc7/mikeimages.html", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mike's Immunoglobin Structure/Function Home Page", 
-  "record_id": "20060101T120000/71ZB6NF8kbK3bSwrcdEZmw==", 
-  "publisher": "cam.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 124041, 
+  "publisher": "cam.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Mike's Immunoglobin Structure/Function Home Page", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/71ZB6NF8kbK3bSwrcdEZmw==", 
+  "scope": "root", 
   "start_date": null
 }
 

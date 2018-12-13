@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.maxton.bordernet.co.uk/", 
-  "description": "Community website for the parish of Maxton, Scottish Borders.", 
   "end_date": null, 
-  "title": "Maxton Parish Website", 
-  "record_id": "20170114T090000/pRD3yX8STJ+vGiVaEciIqA==", 
-  "publisher": "bordernet.co.uk", 
+  "date": "2017-01-14T09:00:00", 
   "slug": 48251, 
+  "publisher": "bordernet.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Maxton Parish Website", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170114T090000/pRD3yX8STJ+vGiVaEciIqA==", 
+  "scope": "root", 
   "start_date": "2017-01-14T09:00:00Z"
 }
 

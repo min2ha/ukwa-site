@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://breconmrt.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Brecon Mountain Rescue", 
-  "record_id": "20170114T090000/8wbL2cz9NXJxgnw4qIZrxA==", 
-  "publisher": "breconmrt.co.uk", 
+  "date": "2017-01-14T09:00:00", 
   "slug": 48273, 
+  "publisher": "breconmrt.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brecon Mountain Rescue", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170114T090000/8wbL2cz9NXJxgnw4qIZrxA==", 
+  "scope": "root", 
   "start_date": "2017-01-14T09:00:00Z"
 }
 

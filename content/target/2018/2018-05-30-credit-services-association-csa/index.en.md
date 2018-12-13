@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.csa-uk.com/", 
-  "description": "UK trade association for the debt collection and debt purchase industry.", 
   "end_date": null, 
-  "title": "Credit Services Association (CSA)", 
-  "record_id": "20180530T090000/RWOEdHfCayoGHUn82/+4Lg==", 
-  "publisher": "csa-uk.com", 
+  "date": "2018-05-30T09:00:00", 
   "slug": 66327, 
+  "publisher": "csa-uk.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Credit Services Association (CSA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180530T090000/RWOEdHfCayoGHUn82/+4Lg==", 
+  "scope": "root", 
   "start_date": "2018-05-30T09:00:00Z"
 }
 

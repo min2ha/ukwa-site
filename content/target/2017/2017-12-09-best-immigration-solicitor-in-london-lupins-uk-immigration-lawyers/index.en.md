@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lupinsimmigration.com/", 
-  "description": "Established in 1998 as a niche human rights firm \u2013 we have a trusted record of excellent service. LUPINS are frequently recommended by a long list of happy clients.\nWe are passionate about our work and dedicated to achieving life-changing results.", 
   "end_date": null, 
-  "title": "Best Immigration Solicitor in London - Lupins UK Immigration Lawyers", 
-  "record_id": "20171209T090000/LSb+ceIGF1Yaz6bokuNwXA==", 
-  "publisher": "lupinsimmigration.com", 
+  "date": "2017-12-09T09:00:00", 
   "slug": 59591, 
+  "publisher": "lupinsimmigration.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Best Immigration Solicitor in London - Lupins UK Immigration Lawyers", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171209T090000/LSb+ceIGF1Yaz6bokuNwXA==", 
+  "scope": "root", 
   "start_date": "2017-12-09T09:00:00Z"
 }
 

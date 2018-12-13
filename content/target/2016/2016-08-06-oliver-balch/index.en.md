@@ -1,13 +1,21 @@
 {
-  "date": "2016-08-06T10:00:00", 
-  "open_access": false, 
   "target_url": "https://oliverbalch.com/", 
-  "description": "Oliver Balch is a Journalist, writer, researcher born in Essex and living on the Welsh Borders.", 
   "end_date": null, 
-  "title": "Oliver Balch", 
-  "record_id": "20160806T100000/NVJ7F4mCH5peTkKjc8HvEg==", 
-  "publisher": "oliverbalch.com", 
+  "date": "2016-08-06T10:00:00", 
   "slug": 44899, 
+  "publisher": "oliverbalch.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Oliver Balch", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160806T100000/NVJ7F4mCH5peTkKjc8HvEg==", 
+  "scope": "root", 
   "start_date": "2016-08-06T10:00:00Z"
 }
 

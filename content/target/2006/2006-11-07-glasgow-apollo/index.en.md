@@ -1,13 +1,16 @@
 {
-  "date": "2006-11-07T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.inthewilderness.com/apollo/", 
-  "description": null, 
   "end_date": "2007-12-11T00:00:00Z", 
-  "title": "Glasgow Apollo", 
-  "record_id": "20061107T000000//0PeD0AMsWRm95shtXnaZA==", 
-  "publisher": "inthewilderness.com", 
+  "date": "2006-11-07T00:00:00", 
   "slug": 134322, 
+  "publisher": "inthewilderness.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Glasgow Apollo", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20061107T000000//0PeD0AMsWRm95shtXnaZA==", 
+  "scope": "root", 
   "start_date": "2006-11-07T00:00:00Z"
 }
 

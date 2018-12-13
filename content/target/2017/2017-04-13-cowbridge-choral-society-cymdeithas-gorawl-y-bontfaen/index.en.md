@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cowbridgechoralsociety.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cowbridge Choral Society | Cymdeithas Gorawl y Bontfaen", 
-  "record_id": "20170413T090000/nYMBCtyZk8TSHNpxNzSHUA==", 
-  "publisher": "cowbridgechoralsociety.co.uk", 
+  "date": "2017-04-13T09:00:00", 
   "slug": 51985, 
+  "publisher": "cowbridgechoralsociety.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cowbridge Choral Society | Cymdeithas Gorawl y Bontfaen", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170413T090000/nYMBCtyZk8TSHNpxNzSHUA==", 
+  "scope": "root", 
   "start_date": "2017-04-13T09:00:00Z"
 }
 

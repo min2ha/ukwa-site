@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.northwaleslmc.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "North Wales Local Medical Committee", 
-  "record_id": "20150623T100000/QV+33wR3i1Ajq8jBLzmBgQ==", 
-  "publisher": "northwaleslmc.co.uk", 
+  "date": "2015-06-23T10:00:00", 
   "slug": 28256, 
+  "publisher": "northwaleslmc.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "North Wales Local Medical Committee", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150623T100000/QV+33wR3i1Ajq8jBLzmBgQ==", 
+  "scope": "root", 
   "start_date": "2015-06-23T10:00:00Z"
 }
 

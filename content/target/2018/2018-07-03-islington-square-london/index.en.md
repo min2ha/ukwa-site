@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.islingtonsquare.com/", 
-  "description": "New residential and retail development in Islington, London by Cain International", 
   "end_date": null, 
-  "title": "Islington Square, London", 
-  "record_id": "20180703T090000/afsaitdDDgddjNbmeoj4mA==", 
-  "publisher": "islingtonsquare.com", 
+  "date": "2018-07-03T09:00:00", 
   "slug": 68501, 
+  "publisher": "islingtonsquare.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Islington Square, London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180703T090000/afsaitdDDgddjNbmeoj4mA==", 
+  "scope": "root", 
   "start_date": "2018-07-03T09:00:00Z"
 }
 

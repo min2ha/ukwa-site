@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://dorothy.dk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dorothy King (Archaeology - The Elgin Marbles)", 
-  "record_id": "20060101T120000/CTit0iyxEdU0+f+sfFqQOg==", 
-  "publisher": "dorothy.dk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 118079, 
+  "publisher": "dorothy.dk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Dorothy King (Archaeology - The Elgin Marbles)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CTit0iyxEdU0+f+sfFqQOg==", 
+  "scope": "root", 
   "start_date": null
 }
 

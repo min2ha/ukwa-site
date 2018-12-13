@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mollynaylor.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Molly Naylor", 
-  "record_id": "20131014T100000/wQyRi32JFOUq4RwaGL5vzw==", 
-  "publisher": "mollynaylor.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 47579205, 
+  "publisher": "mollynaylor.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Molly Naylor", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/wQyRi32JFOUq4RwaGL5vzw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

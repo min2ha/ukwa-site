@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nlb.org.uk/", 
-  "description": "The Northern Lighthouse Board is the General Lighthouse Authority for Scotland and the Isle of Man and its website includes a directory of lighthouses within its area of operation.", 
   "end_date": null, 
-  "title": "Northern Lighthouse Board", 
-  "record_id": "20160429T100000/WEZGsfM5kSqPw0sUvXJYaA==", 
-  "publisher": "nlb.org.uk", 
+  "date": "2016-04-29T10:00:00", 
   "slug": 40183, 
+  "publisher": "nlb.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Northern Lighthouse Board", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160429T100000/WEZGsfM5kSqPw0sUvXJYaA==", 
+  "scope": "root", 
   "start_date": "2016-04-29T10:00:00Z"
 }
 

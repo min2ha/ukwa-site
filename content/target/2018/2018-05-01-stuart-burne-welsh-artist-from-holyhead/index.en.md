@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://stuartburne.cymru/", 
-  "description": "Stuart Byrne is a Welsh artist from Holyhead. His works are influenced by influenced by Holyhead, its port, structures, buildings and people.", 
   "end_date": null, 
-  "title": " Stuart Burne Welsh Artist from Holyhead", 
-  "record_id": "20180501T090000//F9AyH/nXVSFxbJbDH1mSg==", 
-  "publisher": "stuartburne.cymru", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64939, 
+  "publisher": "stuartburne.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Stuart Burne Welsh Artist from Holyhead", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000//F9AyH/nXVSFxbJbDH1mSg==", 
+  "scope": "subdomains", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

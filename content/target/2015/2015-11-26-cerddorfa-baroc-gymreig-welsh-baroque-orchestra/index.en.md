@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshbaroqueorchestra.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cerddorfa Baroc Gymreig | Welsh Baroque Orchestra", 
-  "record_id": "20151126T090000/s0MYQ+yZzAKyrLCS30GAxw==", 
-  "publisher": "welshbaroqueorchestra.co.uk", 
+  "date": "2015-11-26T09:00:00", 
   "slug": 32874, 
+  "publisher": "welshbaroqueorchestra.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cerddorfa Baroc Gymreig | Welsh Baroque Orchestra", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151126T090000/s0MYQ+yZzAKyrLCS30GAxw==", 
+  "scope": "root", 
   "start_date": "2015-11-26T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.youthworkwales.org.uk/", 
-  "description": "youthworkwales is supported by the YMCA Wales Community College and University of Wales Trinity Saint David and provides youth workers in Wales with a range of historical and current information on youth work.", 
   "end_date": null, 
-  "title": "Youth Work Wales | Gwaith Ieuenctid Cymru", 
-  "record_id": "20150428T090000/HjaYc2PmML6cHa+3C1pQOQ==", 
-  "publisher": "youthworkwales.org.uk", 
+  "date": "2015-04-28T09:00:00", 
   "slug": 22860, 
+  "publisher": "youthworkwales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Youth Work Wales | Gwaith Ieuenctid Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150428T090000/HjaYc2PmML6cHa+3C1pQOQ==", 
+  "scope": "root", 
   "start_date": "2015-04-28T09:00:00Z"
 }
 

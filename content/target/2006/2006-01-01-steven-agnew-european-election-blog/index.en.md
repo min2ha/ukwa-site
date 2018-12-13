@@ -1,14 +1,29 @@
 {
   "target_url": "http://wordpress.stevenagnew.eu/", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 29261846, 
-  "subject": "Blogs", 
   "publisher": "stevenagnew.eu", 
   "open_access": true, 
+  "npld": false, 
   "title": "Steven Agnew European Election Blog", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }, 
+    {
+      "id": 2399, 
+      "name": "Northern Ireland"
+    }, 
+    {
+      "id": 2450, 
+      "name": "European Parliament Elections 2009"
+    }
+  ], 
   "record_id": "20060101T120000/AChhEUECpVLSUP9pk0FMqQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

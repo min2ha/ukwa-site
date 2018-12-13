@@ -1,13 +1,16 @@
 {
-  "date": "2013-01-09T00:00:00", 
-  "open_access": true, 
   "target_url": "http://welshbacks.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wales Bad Backs | Cefnau Cymru", 
-  "record_id": "20130109T000000/SiYdOjoFZ5g8R9aNz3Do2A==", 
-  "publisher": "welshbacks.com", 
+  "date": "2013-01-09T00:00:00", 
   "slug": 93028464, 
+  "publisher": "welshbacks.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Wales Bad Backs | Cefnau Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130109T000000/SiYdOjoFZ5g8R9aNz3Do2A==", 
+  "scope": "root", 
   "start_date": "2013-01-09T00:00:00Z"
 }
 

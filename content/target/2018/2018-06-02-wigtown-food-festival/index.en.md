@@ -1,14 +1,30 @@
 {
   "target_url": "http://wigtownfoodfestival.uk/", 
-  "description": "celebration of seasonal produce from Scotland and the north of England", 
   "end_date": null, 
   "date": "2018-06-02T09:00:00", 
   "slug": 66472, 
-  "subject": "Food Archive", 
   "publisher": "wigtownfoodfestival.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Wigtown Food Festival", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1092, 
+      "name": "Food Archive"
+    }, 
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180602T090000/dhY94+PvKOTwcZA0Ud7vlQ==", 
+  "scope": "root", 
   "start_date": "2018-06-02T09:00:00Z"
 }
 

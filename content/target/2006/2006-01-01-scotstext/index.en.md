@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://scotstext.org/", 
-  "description": "Site describing and listing writing in Scots.", 
   "end_date": null, 
-  "title": "Scotstext", 
-  "record_id": "20060101T120000/262B5HUlAa6F7laMbZNLmg==", 
-  "publisher": "scotstext.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 45917, 
+  "publisher": "scotstext.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scotstext", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/262B5HUlAa6F7laMbZNLmg==", 
+  "scope": "root", 
   "start_date": null
 }
 

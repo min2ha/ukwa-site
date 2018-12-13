@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://builder.bham.ac.uk/main.asp", 
-  "description": "", 
   "end_date": null, 
-  "title": "Birmingham University Integrated Library Development and Electronic Resource (BUILDER)", 
-  "record_id": "20060101T120000/QQif93mtTIK5HFC+DFalVA==", 
-  "publisher": "bham.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 99988, 
+  "publisher": "bham.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Birmingham University Integrated Library Development and Electronic Resource (BUILDER)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QQif93mtTIK5HFC+DFalVA==", 
+  "scope": "root", 
   "start_date": null
 }
 

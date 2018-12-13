@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshfencing.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Fencing ", 
-  "record_id": "20151103T090000/bVYxMeVx9Z1Q2fb7hIm7sw==", 
-  "publisher": "welshfencing.org.uk", 
+  "date": "2015-11-03T09:00:00", 
   "slug": 32016, 
+  "publisher": "welshfencing.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Fencing ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151103T090000/bVYxMeVx9Z1Q2fb7hIm7sw==", 
+  "scope": "root", 
   "start_date": "2015-11-03T09:00:00Z"
 }
 

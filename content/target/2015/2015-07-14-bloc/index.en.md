@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-14T10:00:00", 
-  "open_access": false, 
   "target_url": "http://bloc.org.uk/", 
-  "description": "bloc is a Wales-based organisation and international hub of creators, producers, makers and thinkers supporting creative uses of technology.", 
   "end_date": null, 
-  "title": "bloc", 
-  "record_id": "20150714T100000/GFp0Z4eMhTJGkdCMN81Zbg==", 
-  "publisher": "bloc.org.uk", 
+  "date": "2015-07-14T10:00:00", 
   "slug": 28905, 
+  "publisher": "bloc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "bloc", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150714T100000/GFp0Z4eMhTJGkdCMN81Zbg==", 
+  "scope": "root", 
   "start_date": "2015-07-14T10:00:00Z"
 }
 

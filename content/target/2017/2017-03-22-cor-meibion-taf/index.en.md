@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cormeibiontaf.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "C\u00f4r Meibion Taf", 
-  "record_id": "20170322T090000/GbTtWc3/u2mq0EACtZPLIw==", 
-  "publisher": "cormeibiontaf.com", 
+  "date": "2017-03-22T09:00:00", 
   "slug": 50871, 
+  "publisher": "cormeibiontaf.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "C\u00f4r Meibion Taf", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170322T090000/GbTtWc3/u2mq0EACtZPLIw==", 
+  "scope": "root", 
   "start_date": "2017-03-22T09:00:00Z"
 }
 

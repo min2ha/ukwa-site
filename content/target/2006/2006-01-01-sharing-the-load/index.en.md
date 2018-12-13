@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ucel.ac.uk/load/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sharing The Load", 
-  "record_id": "20060101T120000/wFPGaNuhGGx5UiZofOEKgQ==", 
-  "publisher": "ucel.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 142198, 
+  "publisher": "ucel.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sharing The Load", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/wFPGaNuhGGx5UiZofOEKgQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

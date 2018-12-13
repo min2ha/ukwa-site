@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lsrc.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Learning and Skills Research Centre", 
-  "record_id": "20060101T120000/BcnxaN1DMZgY/lkvZXzm6g==", 
-  "publisher": "lsrc.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 26017829, 
+  "publisher": "lsrc.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Learning and Skills Research Centre", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/BcnxaN1DMZgY/lkvZXzm6g==", 
+  "scope": "root", 
   "start_date": null
 }
 

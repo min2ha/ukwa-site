@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.accentpress.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Accent Press", 
-  "record_id": "20160112T090000/rVBbDHbpXq4IBorlgrTYUg==", 
-  "publisher": "accentpress.co.uk", 
+  "date": "2016-01-12T09:00:00", 
   "slug": 33882, 
+  "publisher": "accentpress.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Accent Press", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160112T090000/rVBbDHbpXq4IBorlgrTYUg==", 
+  "scope": "root", 
   "start_date": "2016-01-12T09:00:00Z"
 }
 

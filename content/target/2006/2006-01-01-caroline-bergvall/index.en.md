@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.carolinebergvall.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Caroline Bergvall", 
-  "record_id": "20060101T120000/YY16ikUmb+5w7loJcH2pNg==", 
-  "publisher": "carolinebergvall.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 61538370, 
+  "publisher": "carolinebergvall.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Caroline Bergvall", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/YY16ikUmb+5w7loJcH2pNg==", 
+  "scope": "root", 
   "start_date": null
 }
 

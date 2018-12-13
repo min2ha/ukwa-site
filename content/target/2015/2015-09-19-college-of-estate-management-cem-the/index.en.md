@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.cem.ac.uk/", 
-  "description": "Official website of the College of Estate Management, Reading.", 
   "end_date": null, 
-  "title": "College of Estate Management (CEM), The", 
-  "record_id": "20150919T100000/owI6kGNR+IwN4brJX/MCsw==", 
-  "publisher": "cem.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30670, 
+  "publisher": "cem.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "College of Estate Management (CEM), The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/owI6kGNR+IwN4brJX/MCsw==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

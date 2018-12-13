@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.devonwildlifetrust.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Devon Wildlife Trust", 
-  "record_id": "20131014T100000/IMhn5y18/RiwVxc8wQYlag==", 
-  "publisher": "devonwildlifetrust.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 9404482, 
+  "publisher": "devonwildlifetrust.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Devon Wildlife Trust", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/IMhn5y18/RiwVxc8wQYlag==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

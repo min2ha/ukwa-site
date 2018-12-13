@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.thisisdairyfarming.com/", 
-  "description": "This is Dairy Farming is a website dedicated to dairy farmers and the cows they look after.", 
   "end_date": null, 
-  "title": "This is Dairy Farming", 
-  "record_id": "20151003T100000/jZdXKRV3tCzNZbXwf9yckQ==", 
-  "publisher": "thisisdairyfarming.com", 
+  "date": "2015-10-03T10:00:00", 
   "slug": 31097, 
+  "publisher": "thisisdairyfarming.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "This is Dairy Farming", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151003T100000/jZdXKRV3tCzNZbXwf9yckQ==", 
+  "scope": "root", 
   "start_date": "2015-10-03T10:00:00Z"
 }
 

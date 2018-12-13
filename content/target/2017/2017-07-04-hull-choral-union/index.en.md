@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hullchoralunion.org/", 
-  "description": "An amateur choir that has been providing high quality music in the City of Hull for over 80 years.", 
   "end_date": null, 
-  "title": "Hull Choral Union ", 
-  "record_id": "20170704T090000/SxXVdwBJ8pqMFYuLnjTEew==", 
-  "publisher": "hullchoralunion.org", 
+  "date": "2017-07-04T09:00:00", 
   "slug": 55470, 
+  "publisher": "hullchoralunion.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Hull Choral Union ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170704T090000/SxXVdwBJ8pqMFYuLnjTEew==", 
+  "scope": "root", 
   "start_date": "2017-07-04T09:00:00Z"
 }
 

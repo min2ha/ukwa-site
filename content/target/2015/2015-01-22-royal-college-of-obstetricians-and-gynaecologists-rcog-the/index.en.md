@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-22T00:00:00", 
-  "open_access": false, 
   "target_url": "https://www.rcog.org.uk/", 
-  "description": "<p>The Royal College of Obstetricians and Gynaecologists (RCOG) works to improve health care for women everywhere, by setting standards for clinical practice, providing doctors with training and lifelong learning, and advocating for women\u2019s health care worldwide.</p>\n", 
   "end_date": null, 
-  "title": "Royal College of Obstetricians and Gynaecologists (RCOG), The", 
-  "record_id": "20150122T000000/qQbsk8D7OtPzMlY/u3DpBQ==", 
-  "publisher": "rcog.org.uk", 
+  "date": "2015-01-22T00:00:00", 
   "slug": 16069, 
+  "publisher": "rcog.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal College of Obstetricians and Gynaecologists (RCOG), The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150122T000000/qQbsk8D7OtPzMlY/u3DpBQ==", 
+  "scope": "root", 
   "start_date": "2015-01-22T00:00:00Z"
 }
 

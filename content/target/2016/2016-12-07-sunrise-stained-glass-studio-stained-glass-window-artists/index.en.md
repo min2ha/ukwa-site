@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-07T09:00:00", 
-  "open_access": false, 
   "target_url": "https://stainedglassartist.wordpress.com", 
-  "description": "Gallery and blog of Sunrise Stained Glass studio. The studio produces fine new stained glass windows for churches, schools, public buildings, and for private homes in the UK.", 
   "end_date": null, 
-  "title": "Sunrise Stained Glass Studio:  Stained Glass Window Artists ", 
-  "record_id": "20161207T090000/Q7E7L856SanombaqG1bc3w==", 
-  "publisher": "wordpress.com", 
+  "date": "2016-12-07T09:00:00", 
   "slug": 47657, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sunrise Stained Glass Studio:  Stained Glass Window Artists ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161207T090000/Q7E7L856SanombaqG1bc3w==", 
+  "scope": "root", 
   "start_date": "2016-12-07T09:00:00Z"
 }
 

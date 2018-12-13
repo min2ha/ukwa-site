@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-15T10:00:00", 
-  "open_access": false, 
   "target_url": "http://severnestuarycoastalgroup.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Severn Estuary Coastal Group ", 
-  "record_id": "20160915T100000/+O6AUwEOAZyhCCL8AtkV1A==", 
-  "publisher": "severnestuarycoastalgroup.org.uk", 
+  "date": "2016-09-15T10:00:00", 
   "slug": 45411, 
+  "publisher": "severnestuarycoastalgroup.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Severn Estuary Coastal Group ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160915T100000/+O6AUwEOAZyhCCL8AtkV1A==", 
+  "scope": "root", 
   "start_date": "2016-09-15T10:00:00Z"
 }
 

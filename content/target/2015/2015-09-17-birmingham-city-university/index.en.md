@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bcu.ac.uk/", 
-  "description": "Official website of Birmingham City University.", 
   "end_date": null, 
-  "title": "Birmingham City University", 
-  "record_id": "20150917T100000/RTk2t3DKrYsfMKI633GdwA==", 
-  "publisher": "bcu.ac.uk", 
+  "date": "2015-09-17T10:00:00", 
   "slug": 30487, 
+  "publisher": "bcu.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Birmingham City University", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150917T100000/RTk2t3DKrYsfMKI633GdwA==", 
+  "scope": "root", 
   "start_date": "2015-09-17T10:00:00Z"
 }
 

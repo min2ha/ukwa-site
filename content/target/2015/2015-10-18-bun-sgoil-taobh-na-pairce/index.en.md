@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-18T10:00:00", 
-  "open_access": false, 
   "target_url": "https://bunsgoiltaobhnapairce.wordpress.com/ar-sgoil-our-school/", 
-  "description": "The site of Bun-sgoil Taobh na P\u00e0irce, a Gaelic language school based in Edinburgh.", 
   "end_date": null, 
-  "title": "Bun-sgoil Taobh na P\u00e0irce", 
-  "record_id": "20151018T100000/XkSnlbCb/iycDcJ8MdmHCA==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-10-18T10:00:00", 
   "slug": 30618, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Bun-sgoil Taobh na P\u00e0irce", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151018T100000/XkSnlbCb/iycDcJ8MdmHCA==", 
+  "scope": "root", 
   "start_date": "2015-10-18T10:00:00Z"
 }
 

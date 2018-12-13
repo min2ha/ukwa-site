@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-22T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.ancientbrazen.co.uk/", 
-  "description": "Site of a masonic lodge located in Linlithgow, West Lothian, and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "Lodge Ancient Brazen, No. 17", 
-  "record_id": "20180222T090000/W5TpOzmN+/EgoFpkFpx5Mg==", 
-  "publisher": "ancientbrazen.co.uk", 
+  "date": "2018-02-22T09:00:00", 
   "slug": 61525, 
+  "publisher": "ancientbrazen.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge Ancient Brazen, No. 17", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180222T090000/W5TpOzmN+/EgoFpkFpx5Mg==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

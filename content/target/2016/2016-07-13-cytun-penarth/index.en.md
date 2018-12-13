@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://penarthcytun.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cytun Penarth", 
-  "record_id": "20160713T100000/8LUVOq9kamkJJAWnNzK89A==", 
-  "publisher": "penarthcytun.co.uk", 
+  "date": "2016-07-13T10:00:00", 
   "slug": 44255, 
+  "publisher": "penarthcytun.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cytun Penarth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160713T100000/8LUVOq9kamkJJAWnNzK89A==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

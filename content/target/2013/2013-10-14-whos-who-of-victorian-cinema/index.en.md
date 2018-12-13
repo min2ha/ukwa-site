@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.victorian-cinema.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Who's Who of Victorian Cinema", 
-  "record_id": "20131014T100000/xps/mnBWb7U5+oXhI5Dkzg==", 
-  "publisher": "victorian-cinema.net", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 142866, 
+  "publisher": "victorian-cinema.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Who's Who of Victorian Cinema", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/xps/mnBWb7U5+oXhI5Dkzg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-15T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.medwayvalley.org/", 
-  "description": "Medway Valley Countryside Partnership is based at Sandling just outside of Maidstone.", 
   "end_date": null, 
-  "title": "Medway Valley Countryside Partnership", 
-  "record_id": "20170315T090000/vgJGOvRFH+74NEHKWypJJw==", 
-  "publisher": "medwayvalley.org", 
+  "date": "2017-03-15T09:00:00", 
   "slug": 50478, 
+  "publisher": "medwayvalley.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Medway Valley Countryside Partnership", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170315T090000/vgJGOvRFH+74NEHKWypJJw==", 
+  "scope": "root", 
   "start_date": "2017-03-15T09:00:00Z"
 }
 

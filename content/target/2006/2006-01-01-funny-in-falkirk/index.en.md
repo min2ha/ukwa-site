@@ -1,14 +1,30 @@
 {
   "target_url": "http://www.funnyinfalkirk.com/", 
-  "description": "Site of a comedy festival located in Falkirk.", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 54737, 
-  "subject": "British Stand-up Comedy Archive", 
   "publisher": "funnyinfalkirk.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Funny in Falkirk", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 329, 
+      "name": "British Stand-up Comedy Archive"
+    }, 
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20060101T120000/zPtHRoXXCDYjxOdSo8R9mg==", 
+  "scope": "root", 
   "start_date": null
 }
 

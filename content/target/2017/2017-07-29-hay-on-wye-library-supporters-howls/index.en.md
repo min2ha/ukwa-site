@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://savehaylibrary.org/", 
-  "description": "Hay-on-Wye Library Supporters eas established in 2016 to protect library services in Hay from planned cuts by Powys County Council (CC).", 
   "end_date": null, 
-  "title": "Hay-on-Wye Library Supporters (HOWLS)", 
-  "record_id": "20170729T090000/zYti5SQABJWOpLoT3lYGkg==", 
-  "publisher": "savehaylibrary.org", 
+  "date": "2017-07-29T09:00:00", 
   "slug": 56228, 
+  "publisher": "savehaylibrary.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hay-on-Wye Library Supporters (HOWLS)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170729T090000/zYti5SQABJWOpLoT3lYGkg==", 
+  "scope": "root", 
   "start_date": "2017-07-29T09:00:00Z"
 }
 

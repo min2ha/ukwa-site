@@ -1,13 +1,16 @@
 {
-  "date": "2010-04-28T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hccw.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Highland Cattle Club of Wales", 
-  "record_id": "20100428T000000/QAZ+ZjNM3oKn1h3KkMknXQ==", 
-  "publisher": "hccw.org.uk", 
+  "date": "2010-04-28T00:00:00", 
   "slug": 34078728, 
+  "publisher": "hccw.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Highland Cattle Club of Wales", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100428T000000/QAZ+ZjNM3oKn1h3KkMknXQ==", 
+  "scope": "root", 
   "start_date": "2010-04-28T00:00:00Z"
 }
 

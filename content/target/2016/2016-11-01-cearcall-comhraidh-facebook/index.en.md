@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-01T00:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/CearcallComhraidh/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cearcall Comhraidh Facebook", 
-  "record_id": "20161101T000000/pBDHHouYir8dSnv5t+Mhew==", 
-  "publisher": "facebook.com", 
+  "date": "2016-11-01T00:00:00", 
   "slug": 46652, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cearcall Comhraidh Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161101T000000/pBDHHouYir8dSnv5t+Mhew==", 
+  "scope": "root", 
   "start_date": "2016-11-01T00:00:00Z"
 }
 

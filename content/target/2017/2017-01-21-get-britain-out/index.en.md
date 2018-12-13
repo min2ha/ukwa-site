@@ -1,14 +1,42 @@
 {
   "target_url": "http://getbritainout.org/", 
-  "description": "Get Britain Out is an independent, non-party, grassroots campaign to Get Britain Out of the European Union.\n", 
   "end_date": "2019-03-31T00:00:00Z", 
   "date": "2017-01-21T09:00:00", 
   "slug": 15888, 
-  "subject": "UK General Election 2015", 
   "publisher": "getbritainout.org", 
   "open_access": true, 
+  "npld": true, 
   "title": "Get Britain Out", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 208, 
+      "name": "Political Action and Communication"
+    }, 
+    {
+      "id": 649, 
+      "name": "EU Referendum"
+    }, 
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170121T090000/As8Ts7QOQp3EiqBkvXcwpA==", 
+  "scope": "root", 
   "start_date": "2017-01-21T09:00:00Z"
 }
 

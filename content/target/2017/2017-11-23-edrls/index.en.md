@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-23T09:00:00", 
-  "open_access": false, 
   "target_url": "https://edrls.wordpress.com/", 
-  "description": "The blog for the New Edinburgh Edition of the Collected Works of Robert Louis Stevenson\u00a0(EdRLS), published by Edinburgh University Press.", 
   "end_date": null, 
-  "title": "EdRLS", 
-  "record_id": "20171123T090000/yv5pxT02fvJwqIk9lNplmg==", 
-  "publisher": "wordpress.com", 
+  "date": "2017-11-23T09:00:00", 
   "slug": 59109, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "EdRLS", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171123T090000/yv5pxT02fvJwqIk9lNplmg==", 
+  "scope": "root", 
   "start_date": "2017-11-23T09:00:00Z"
 }
 

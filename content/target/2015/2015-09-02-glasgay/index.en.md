@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-02T10:00:00", 
-  "open_access": true, 
   "target_url": "http://glasgay.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Glasgay!", 
-  "record_id": "20150902T100000/AoWovXraj7DOGJM5HDo1UA==", 
-  "publisher": "glasgay.com", 
+  "date": "2015-09-02T10:00:00", 
   "slug": 30110, 
+  "publisher": "glasgay.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Glasgay!", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150902T100000/AoWovXraj7DOGJM5HDo1UA==", 
+  "scope": "root", 
   "start_date": "2015-09-02T10:00:00Z"
 }
 

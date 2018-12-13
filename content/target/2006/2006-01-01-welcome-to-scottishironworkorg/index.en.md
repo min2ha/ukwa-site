@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishironwork.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Welcome to Scottishironwork.org", 
-  "record_id": "20060101T120000/OiKZUjexW3XVl9ne+CG88w==", 
-  "publisher": "scottishironwork.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 115353, 
+  "publisher": "scottishironwork.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Welcome to Scottishironwork.org", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/OiKZUjexW3XVl9ne+CG88w==", 
+  "scope": "root", 
   "start_date": null
 }
 

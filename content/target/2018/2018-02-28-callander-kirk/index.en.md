@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.callanderkirk.org.uk/", 
-  "description": "Site of a Church of Scotland parish church at Callander, Stirlingshire.", 
   "end_date": null, 
   "date": "2018-02-28T09:00:00", 
   "slug": 61707, 
-  "subject": "Religion/Theology", 
   "publisher": "callanderkirk.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Callander Kirk", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180228T090000/mt7kFZ74qzxl8IBKRxIhkg==", 
+  "scope": "root", 
   "start_date": "2018-02-28T09:00:00Z"
 }
 

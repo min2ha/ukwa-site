@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.uwe.ac.uk/", 
-  "description": "Official website of the University of the West of England, Bristol.", 
   "end_date": null, 
-  "title": "University of the West of England, Bristol", 
-  "record_id": "20150919T100000/4ddR6k1fiypPxjgbABcRnQ==", 
-  "publisher": "uwe.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30641, 
+  "publisher": "uwe.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of the West of England, Bristol", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/4ddR6k1fiypPxjgbABcRnQ==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

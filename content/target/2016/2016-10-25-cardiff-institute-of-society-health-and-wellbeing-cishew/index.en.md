@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cishew.co.uk/", 
-  "description": "Cardiff Institute of Society, Health and Wellbeing (CISHeW) is a new research institute within Cardiff School of Social Sciences at Cardiff University focusing on 'social action, policy dialogue, the dynamic nature of health and wellbeing, and social justice'. ", 
   "end_date": null, 
-  "title": "Cardiff Institute of Society, Health and Wellbeing (CISHeW)", 
-  "record_id": "20161025T100000/OekwGaVNPZY0IhTxiWo7IQ==", 
-  "publisher": "cishew.co.uk", 
+  "date": "2016-10-25T10:00:00", 
   "slug": 46446, 
+  "publisher": "cishew.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Institute of Society, Health and Wellbeing (CISHeW)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161025T100000/OekwGaVNPZY0IhTxiWo7IQ==", 
+  "scope": "root", 
   "start_date": "2016-10-25T10:00:00Z"
 }
 

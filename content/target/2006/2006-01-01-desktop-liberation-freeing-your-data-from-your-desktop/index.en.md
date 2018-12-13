@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://excelramblings.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Desktop Liberation - Freeing your data from your desktop", 
-  "record_id": "20060101T120000/fvYeI1R/wnDgxiui57cJIA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13263, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Desktop Liberation - Freeing your data from your desktop", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fvYeI1R/wnDgxiui57cJIA==", 
+  "scope": "root", 
   "start_date": null
 }
 

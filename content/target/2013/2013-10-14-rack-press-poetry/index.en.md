@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rackpress.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Rack Press Poetry", 
-  "record_id": "20131014T100000/VxGZ1jIhyvoqTEh4fRuxew==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 73007179, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rack Press Poetry", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/VxGZ1jIhyvoqTEh4fRuxew==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

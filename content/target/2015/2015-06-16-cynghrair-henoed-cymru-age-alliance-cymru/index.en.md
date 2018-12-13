@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-16T09:00:00", 
-  "open_access": true, 
   "target_url": "http://agealliancewales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cynghrair Henoed Cymru | Age Alliance Cymru", 
-  "record_id": "20150616T090000/fN6IU9+OFG4l+nUD+Iuolg==", 
-  "publisher": "agealliancewales.org.uk", 
+  "date": "2015-06-16T09:00:00", 
   "slug": 28000, 
+  "publisher": "agealliancewales.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Cynghrair Henoed Cymru | Age Alliance Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150616T090000/fN6IU9+OFG4l+nUD+Iuolg==", 
+  "scope": "root", 
   "start_date": "2015-06-16T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://pentrehafod.school/", 
-  "description": "", 
   "end_date": null, 
-  "title": "PentreHafod School, Swansea | Ysgol Pentrehafod, Abertawe", 
-  "record_id": "20170426T090000/zJeAl69chqQTlNGs8lt4Lg==", 
-  "publisher": "pentrehafod.school", 
+  "date": "2017-04-26T09:00:00", 
   "slug": 52437, 
+  "publisher": "pentrehafod.school", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "PentreHafod School, Swansea | Ysgol Pentrehafod, Abertawe", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170426T090000/zJeAl69chqQTlNGs8lt4Lg==", 
+  "scope": "subdomains", 
   "start_date": "2017-04-26T09:00:00Z"
 }
 

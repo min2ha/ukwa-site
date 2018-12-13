@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiovascular.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiovascular Communications & Consultancy", 
-  "record_id": "20151111T090000/cMCNZE1dWdYN0jNyozOkiQ==", 
-  "publisher": "cardiovascular.org", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 32392, 
+  "publisher": "cardiovascular.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiovascular Communications & Consultancy", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/cMCNZE1dWdYN0jNyozOkiQ==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

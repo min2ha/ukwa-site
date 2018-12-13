@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-18T07:00:00", 
-  "open_access": false, 
   "target_url": "http://croftinglawblog.com/", 
-  "description": "The blog of Inksters Solicitors, a law firm specialising in crofting law, with offices in Glasgow, Inverness, Portree and Wick.", 
   "end_date": null, 
-  "title": "Crofting Law Blog", 
-  "record_id": "20150618T070000/GzXL3Z5MlBdj53vf6Ui/OA==", 
-  "publisher": "croftinglawblog.com", 
+  "date": "2015-06-18T07:00:00", 
   "slug": 28173, 
+  "publisher": "croftinglawblog.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Crofting Law Blog", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150618T070000/GzXL3Z5MlBdj53vf6Ui/OA==", 
+  "scope": "root", 
   "start_date": "2015-06-18T07:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-02T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffbusinesscouncil.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Business Council", 
-  "record_id": "20150702T100000/FLfOqFAgNop+KILlff7Sjw==", 
-  "publisher": "cardiffbusinesscouncil.com", 
+  "date": "2015-07-02T10:00:00", 
   "slug": 28636, 
+  "publisher": "cardiffbusinesscouncil.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Cardiff Business Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150702T100000/FLfOqFAgNop+KILlff7Sjw==", 
+  "scope": "root", 
   "start_date": "2015-07-02T10:00:00Z"
 }
 

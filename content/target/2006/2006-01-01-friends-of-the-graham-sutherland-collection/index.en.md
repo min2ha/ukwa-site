@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://gsutherlandfriends.co.uk/", 
-  "description": "Graham Vivian Sutherland was an artist notable for his glass, fabrics, prints and portraits artworks.", 
   "end_date": null, 
-  "title": "Friends of the Graham Sutherland Collection", 
-  "record_id": "20060101T120000/ZWPKmkyfH7xEd/iyVdhU2g==", 
-  "publisher": "gsutherlandfriends.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 53588, 
+  "publisher": "gsutherlandfriends.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Friends of the Graham Sutherland Collection", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ZWPKmkyfH7xEd/iyVdhU2g==", 
+  "scope": "root", 
   "start_date": null
 }
 

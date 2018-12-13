@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.ofoc.co.uk/", 
-  "description": "Movement of angry, determined young people dedicated to opposing Brexit which they regard as a disaster that must be stopped.", 
   "end_date": null, 
   "date": "2018-03-17T09:00:00", 
   "slug": 62762, 
-  "subject": "Brexit", 
   "publisher": "ofoc.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Our Future Our Choice! (OFOC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }
+  ], 
   "record_id": "20180317T090000/SIKkVHEguD/NU1o2eYeGjQ==", 
+  "scope": "root", 
   "start_date": "2018-03-17T09:00:00Z"
 }
 

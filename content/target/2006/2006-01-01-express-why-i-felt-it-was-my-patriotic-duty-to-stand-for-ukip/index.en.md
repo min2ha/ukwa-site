@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.express.co.uk/comment/expresscomment/478364/Patrick-O-Flynn-talks-his-decision-to-stand-for-Ukip", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 11319, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "express.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Express: Why I felt it was my patriotic duty to stand for Ukip", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20060101T120000/C78L9dHhmJMeiTMF+p0BKg==", 
+  "scope": "root", 
   "start_date": null
 }
 

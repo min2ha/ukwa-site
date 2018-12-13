@@ -1,13 +1,16 @@
 {
-  "date": "2010-03-15T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.patently-creative.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Patently Creative - Service to Inventors Home", 
-  "record_id": "20100315T000000/n9Spz9o4Rh4Szsi7Z3pdWQ==", 
-  "publisher": "patently-creative.co.uk", 
+  "date": "2010-03-15T00:00:00", 
   "slug": 37617704, 
+  "publisher": "patently-creative.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Patently Creative - Service to Inventors Home", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100315T000000/n9Spz9o4Rh4Szsi7Z3pdWQ==", 
+  "scope": "root", 
   "start_date": "2010-03-15T00:00:00Z"
 }
 

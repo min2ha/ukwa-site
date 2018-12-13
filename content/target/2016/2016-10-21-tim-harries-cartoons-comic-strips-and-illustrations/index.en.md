@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-21T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.harriescartoons.co.uk/", 
-  "description": "Tim Harries is a UK based freelance professional cartoonist producing Cartoons, Comic Strips and Humorous Illustration for a variety of magazines and newspapers.", 
   "end_date": null, 
-  "title": "Tim Harries: Cartoons, Comic Strips and Illustrations", 
-  "record_id": "20161021T100000/fwpVR/cTfIWDTjEzdTJN2A==", 
-  "publisher": "harriescartoons.co.uk", 
+  "date": "2016-10-21T10:00:00", 
   "slug": 46385, 
+  "publisher": "harriescartoons.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tim Harries: Cartoons, Comic Strips and Illustrations", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161021T100000/fwpVR/cTfIWDTjEzdTJN2A==", 
+  "scope": "root", 
   "start_date": "2016-10-21T10:00:00Z"
 }
 

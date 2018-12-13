@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.headhunterstudios.co.uk/", 
-  "description": "Website of a music recording and rehearsal studio in Glasgow, Scotland.", 
   "end_date": null, 
-  "title": "Headhunter Studios", 
-  "record_id": "20180627T090000/bFN3UsRR51h1K1V0By0VeQ==", 
-  "publisher": "headhunterstudios.co.uk", 
+  "date": "2018-06-27T09:00:00", 
   "slug": 67216, 
+  "publisher": "headhunterstudios.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Headhunter Studios", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180627T090000/bFN3UsRR51h1K1V0By0VeQ==", 
+  "scope": "root", 
   "start_date": "2018-06-27T09:00:00Z"
 }
 

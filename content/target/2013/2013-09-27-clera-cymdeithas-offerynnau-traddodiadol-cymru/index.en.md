@@ -1,13 +1,16 @@
 {
-  "date": "2013-09-27T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.clera.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clera - Cymdeithas Offerynnau Traddodiadol Cymru", 
-  "record_id": "20130927T000000/RZsgsHkE1u52zI9R/dZdQQ==", 
-  "publisher": "clera.org", 
+  "date": "2013-09-27T00:00:00", 
   "slug": 191037491, 
+  "publisher": "clera.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Clera - Cymdeithas Offerynnau Traddodiadol Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130927T000000/RZsgsHkE1u52zI9R/dZdQQ==", 
+  "scope": "root", 
   "start_date": "2013-09-27T00:00:00Z"
 }
 

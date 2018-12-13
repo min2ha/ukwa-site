@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pals.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Accrington Pals", 
-  "record_id": "20131014T100000/aKLFJu6OKo08xr5olcCXAw==", 
-  "publisher": "pals.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 47579201, 
+  "publisher": "pals.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Accrington Pals", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/aKLFJu6OKo08xr5olcCXAw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

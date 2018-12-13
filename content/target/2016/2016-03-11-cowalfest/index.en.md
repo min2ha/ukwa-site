@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cowalfest.org/", 
-  "description": "Festival of walking and outdoors activity based in Argyllshire, Scotland", 
   "end_date": null, 
-  "title": "Cowalfest", 
-  "record_id": "20160311T090000/JN2ckRC8dP7/WEQoZFZVLw==", 
-  "publisher": "cowalfest.org", 
+  "date": "2016-03-11T09:00:00", 
   "slug": 36995, 
+  "publisher": "cowalfest.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cowalfest", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160311T090000/JN2ckRC8dP7/WEQoZFZVLw==", 
+  "scope": "root", 
   "start_date": "2016-03-11T09:00:00Z"
 }
 

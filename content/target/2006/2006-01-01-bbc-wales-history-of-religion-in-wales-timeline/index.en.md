@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/wales/religion/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC Wales - History of religion in Wales timeline", 
-  "record_id": "20060101T120000/5XbGVX0JHGcTeejNt/X7Yw==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 57737249, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC Wales - History of religion in Wales timeline", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/5XbGVX0JHGcTeejNt/X7Yw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.aspirin-foundation.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Aspirin Foundation", 
-  "record_id": "20060101T120000/234JcaBhCoDOTLxwcoMzDg==", 
-  "publisher": "aspirin-foundation.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 109908, 
+  "publisher": "aspirin-foundation.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Aspirin Foundation", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/234JcaBhCoDOTLxwcoMzDg==", 
+  "scope": "root", 
   "start_date": null
 }
 

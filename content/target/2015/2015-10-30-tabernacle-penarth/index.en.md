@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tabspenarth.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Tabernacle : Penarth", 
-  "record_id": "20151030T090000/xMggA0cI3xfmlYjPSpnJiw==", 
-  "publisher": "tabspenarth.org.uk", 
+  "date": "2015-10-30T09:00:00", 
   "slug": 65208603, 
+  "publisher": "tabspenarth.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tabernacle : Penarth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T090000/xMggA0cI3xfmlYjPSpnJiw==", 
+  "scope": "root", 
   "start_date": "2015-10-30T09:00:00Z"
 }
 

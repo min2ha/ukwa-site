@@ -1,13 +1,16 @@
 {
-  "date": "2011-03-17T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pillars-of-faith.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pillars of Faith", 
-  "record_id": "20110317T000000/VmRMCNkU170jvMrSBZY9ww==", 
-  "publisher": "pillars-of-faith.com", 
+  "date": "2011-03-17T00:00:00", 
   "slug": 60293253, 
+  "publisher": "pillars-of-faith.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Pillars of Faith", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110317T000000/VmRMCNkU170jvMrSBZY9ww==", 
+  "scope": "root", 
   "start_date": "2011-03-17T00:00:00Z"
 }
 

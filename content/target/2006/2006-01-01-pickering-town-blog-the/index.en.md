@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.pickeringtown.info", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 15202, 
-  "subject": null, 
   "publisher": "pickeringtown.info", 
   "open_access": false, 
+  "npld": true, 
   "title": "Pickering Town Blog, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20060101T120000/E2IFAtvF+ztMfqMPpLNl4g==", 
+  "scope": "root", 
   "start_date": null
 }
 

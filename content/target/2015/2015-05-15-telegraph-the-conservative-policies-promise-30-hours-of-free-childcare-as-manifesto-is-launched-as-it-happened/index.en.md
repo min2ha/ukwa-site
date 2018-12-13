@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.telegraph.co.uk/news/politics/conservative/11533463/Conservative-manifesto-launch-live.html", 
-  "description": null, 
   "end_date": "2015-05-15T20:00:00Z", 
   "date": "2015-05-15T18:00:00", 
   "slug": 24417, 
-  "subject": "UK General Election 2015", 
   "publisher": "telegraph.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Telegraph, The: Conservative policies promise 30 hours of free childcare as manifesto is launched: as it happened", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }
+  ], 
   "record_id": "20150515T180000/Ybl/pJCbUrOwkAtF0G3XrA==", 
+  "scope": "root", 
   "start_date": "2015-05-15T18:00:00Z"
 }
 

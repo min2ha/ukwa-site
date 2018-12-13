@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gsm.org.uk/", 
-  "description": "Official website of the Greenwich School of Management London.", 
   "end_date": null, 
-  "title": "Greenwich School of Management London", 
-  "record_id": "20150919T100000/1k7WyqqLMl2F1mNKyRzVDw==", 
-  "publisher": "gsm.org.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30687, 
+  "publisher": "gsm.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Greenwich School of Management London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/1k7WyqqLMl2F1mNKyRzVDw==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

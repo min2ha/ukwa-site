@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.corocantabile.co.uk/", 
-  "description": "Coro Cantabile is a small choir of 25-30 ladies based in Torfaen, conducted by Andrew Protherough Jones and accompanied by Gaynor Smith.", 
   "end_date": null, 
-  "title": "Coro Cantabile", 
-  "record_id": "20180718T090000/DkxlZQIUJleYhUwTy4J7Rg==", 
-  "publisher": "corocantabile.co.uk", 
+  "date": "2018-07-18T09:00:00", 
   "slug": 68984, 
+  "publisher": "corocantabile.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Coro Cantabile", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180718T090000/DkxlZQIUJleYhUwTy4J7Rg==", 
+  "scope": "root", 
   "start_date": "2018-07-18T09:00:00Z"
 }
 

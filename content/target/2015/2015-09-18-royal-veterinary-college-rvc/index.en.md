@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rvc.ac.uk/", 
-  "description": "Official website of the Royal Veterinary College.", 
   "end_date": null, 
-  "title": "Royal Veterinary College (RVC)", 
-  "record_id": "20150918T100000/siIvj6yZduPBVYpjJMZCQQ==", 
-  "publisher": "rvc.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30566, 
+  "publisher": "rvc.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal Veterinary College (RVC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/siIvj6yZduPBVYpjJMZCQQ==", 
+  "scope": "root", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

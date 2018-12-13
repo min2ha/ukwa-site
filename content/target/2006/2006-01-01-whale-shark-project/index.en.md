@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.whalesharkproject.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Whale Shark Project", 
-  "record_id": "20060101T120000/xuQU+sVLSO3mGcYO8uuxkA==", 
-  "publisher": "whalesharkproject.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 6062100, 
+  "publisher": "whalesharkproject.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Whale Shark Project", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xuQU+sVLSO3mGcYO8uuxkA==", 
+  "scope": "root", 
   "start_date": null
 }
 

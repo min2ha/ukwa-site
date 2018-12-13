@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trinitybuoywharf.com/", 
-  "description": "Trinity Buoy Wharf - arts centre based around training lighthouse", 
   "end_date": null, 
-  "title": "Trinity Buoy Wharf", 
-  "record_id": "20180324T090000/xI89uQnZzTDwck/XCYBsSQ==", 
-  "publisher": "trinitybuoywharf.com", 
+  "date": "2018-03-24T09:00:00", 
   "slug": 63035, 
+  "publisher": "trinitybuoywharf.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trinity Buoy Wharf", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180324T090000/xI89uQnZzTDwck/XCYBsSQ==", 
+  "scope": "root", 
   "start_date": "2018-03-24T09:00:00Z"
 }
 

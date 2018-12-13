@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.roadsigns.me.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Spanish no-overtaking roadsigns", 
-  "record_id": "20060101T120000/BCF3nwYBJrg83+CsPuT+vg==", 
-  "publisher": "roadsigns.me.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 191037493, 
+  "publisher": "roadsigns.me.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Spanish no-overtaking roadsigns", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/BCF3nwYBJrg83+CsPuT+vg==", 
+  "scope": "root", 
   "start_date": null
 }
 

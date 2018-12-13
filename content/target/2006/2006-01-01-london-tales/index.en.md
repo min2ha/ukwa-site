@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://cspj-londontales.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "London Tales", 
-  "record_id": "20060101T120000/YMTyQ/nXSLQoFKkm5eCXvQ==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62521356, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "London Tales", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/YMTyQ/nXSLQoFKkm5eCXvQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

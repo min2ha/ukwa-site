@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ymlaenceredigion.org.uk/", 
-  "description": "An environmental body based in Ceredigion.", 
   "end_date": null, 
-  "title": "Ymlaen Ceredigion", 
-  "record_id": "20150609T090000/ZKMJ4qOCx4V3Ul6AlohEiw==", 
-  "publisher": "ymlaenceredigion.org.uk", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27391, 
+  "publisher": "ymlaenceredigion.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ymlaen Ceredigion", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/ZKMJ4qOCx4V3Ul6AlohEiw==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

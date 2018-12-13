@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pauldennett.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Paul Dennett", 
-  "record_id": "20160505T100000/V1arBsvjuu2aSSTeaORG9g==", 
-  "publisher": "pauldennett.co.uk", 
+  "date": "2016-05-05T10:00:00", 
   "slug": 40478, 
+  "publisher": "pauldennett.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Paul Dennett", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160505T100000/V1arBsvjuu2aSSTeaORG9g==", 
+  "scope": "root", 
   "start_date": "2016-05-05T10:00:00Z"
 }
 

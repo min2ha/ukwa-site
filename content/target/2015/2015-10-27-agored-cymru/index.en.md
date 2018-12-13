@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.agored.cymru/", 
-  "description": "Agored Cymru is the Welsh awarding body of choice for education and training providers in Wales. ", 
   "end_date": null, 
-  "title": "Agored Cymru", 
-  "record_id": "20151027T090000/zd/DfDyOmjaqVfWnK+MCpg==", 
-  "publisher": "agored.cymru", 
+  "date": "2015-10-27T09:00:00", 
   "slug": 31810, 
+  "publisher": "agored.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Agored Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151027T090000/zd/DfDyOmjaqVfWnK+MCpg==", 
+  "scope": "root", 
   "start_date": "2015-10-27T09:00:00Z"
 }
 

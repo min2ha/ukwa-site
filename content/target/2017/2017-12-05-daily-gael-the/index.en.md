@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://dailygael.com/", 
-  "description": "Spoof news in English and Scottish Gaelic.", 
   "end_date": null, 
-  "title": "Daily Gael, The", 
-  "record_id": "20171205T090000/pc+n8hsToD0Y36d4eZeGKg==", 
-  "publisher": "dailygael.com", 
+  "date": "2017-12-05T09:00:00", 
   "slug": 59417, 
+  "publisher": "dailygael.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Daily Gael, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171205T090000/pc+n8hsToD0Y36d4eZeGKg==", 
+  "scope": "root", 
   "start_date": "2017-12-05T09:00:00Z"
 }
 

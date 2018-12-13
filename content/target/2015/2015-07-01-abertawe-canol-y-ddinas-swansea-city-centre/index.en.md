@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-01T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swanseacitycentre.com/", 
-  "description": "Swansea City Council's guide to the centre of Swansea for visitors. The site also looks at future developments for the city centre.", 
   "end_date": null, 
-  "title": "Abertawe Canol y Ddinas | Swansea City Centre", 
-  "record_id": "20150701T100000/MzWnUKv8aMsJOIKMRqAIkQ==", 
-  "publisher": "swanseacitycentre.com", 
+  "date": "2015-07-01T10:00:00", 
   "slug": 28569, 
+  "publisher": "swanseacitycentre.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Abertawe Canol y Ddinas | Swansea City Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150701T100000/MzWnUKv8aMsJOIKMRqAIkQ==", 
+  "scope": "root", 
   "start_date": "2015-07-01T10:00:00Z"
 }
 

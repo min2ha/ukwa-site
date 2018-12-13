@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-07T09:00:00", 
-  "open_access": true, 
   "target_url": "http://upsi.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Universities' Police Science Institute (UPSI), The ", 
-  "record_id": "20160307T090000//LTvIRhydVpCwmMHjaKgyg==", 
-  "publisher": "upsi.org.uk", 
+  "date": "2016-03-07T09:00:00", 
   "slug": 326434846, 
+  "publisher": "upsi.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Universities' Police Science Institute (UPSI), The ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160307T090000//LTvIRhydVpCwmMHjaKgyg==", 
+  "scope": "root", 
   "start_date": "2016-03-07T09:00:00Z"
 }
 

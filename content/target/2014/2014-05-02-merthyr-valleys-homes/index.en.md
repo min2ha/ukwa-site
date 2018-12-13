@@ -1,13 +1,16 @@
 {
-  "date": "2014-05-02T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mvhomes.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Merthyr Valleys Homes", 
-  "record_id": "20140502T000000/Mrjp13brrSDr4u2uuebgpw==", 
-  "publisher": "mvhomes.org.uk", 
+  "date": "2014-05-02T00:00:00", 
   "slug": 235438209, 
+  "publisher": "mvhomes.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Merthyr Valleys Homes", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140502T000000/Mrjp13brrSDr4u2uuebgpw==", 
+  "scope": "root", 
   "start_date": "2014-05-02T00:00:00Z"
 }
 

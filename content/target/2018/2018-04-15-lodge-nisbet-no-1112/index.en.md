@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nisbet1112.org.uk/", 
-  "description": "Site of a masonic lodge located in Tranent, East Lothian and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "Lodge Nisbet No. 1112", 
-  "record_id": "20180415T090000/54/0nEPatdLa0aMohmd86g==", 
-  "publisher": "nisbet1112.org.uk", 
+  "date": "2018-04-15T09:00:00", 
   "slug": 64301, 
+  "publisher": "nisbet1112.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge Nisbet No. 1112", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180415T090000/54/0nEPatdLa0aMohmd86g==", 
+  "scope": "root", 
   "start_date": "2018-04-15T09:00:00Z"
 }
 

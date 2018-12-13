@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rehab4addiction.co.uk/", 
-  "description": "Rehab 4 Addiction provides help for those seeking addiction treatment. ", 
   "end_date": null, 
-  "title": "Rehab 4 Addiction", 
-  "record_id": "20160923T100000/5aGClO/kXpvGCKNPk+Yd+Q==", 
-  "publisher": "rehab4addiction.co.uk", 
+  "date": "2016-09-23T10:00:00", 
   "slug": 45535, 
+  "publisher": "rehab4addiction.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rehab 4 Addiction", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160923T100000/5aGClO/kXpvGCKNPk+Yd+Q==", 
+  "scope": "root", 
   "start_date": "2016-09-23T10:00:00Z"
 }
 

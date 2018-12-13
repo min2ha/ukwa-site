@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://wimd.wales.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mynegai Amddifadedd Lluosg Cymru (2014)  | Welsh Index of Multiple deprivaions (2014)", 
-  "record_id": "20060101T120000/G5cNTH5nGrPTon75MU1sfQ==", 
-  "publisher": "wales.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 293863817, 
+  "publisher": "wales.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Mynegai Amddifadedd Lluosg Cymru (2014)  | Welsh Index of Multiple deprivaions (2014)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/G5cNTH5nGrPTon75MU1sfQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

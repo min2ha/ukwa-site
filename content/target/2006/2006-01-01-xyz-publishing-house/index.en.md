@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.xyzpublishing.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "XYZ Publishing House", 
-  "record_id": "20060101T120000/FeIc7mpuAAnxdcghPtlJnQ==", 
-  "publisher": "xyzpublishing.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 122744, 
+  "publisher": "xyzpublishing.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "XYZ Publishing House", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FeIc7mpuAAnxdcghPtlJnQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

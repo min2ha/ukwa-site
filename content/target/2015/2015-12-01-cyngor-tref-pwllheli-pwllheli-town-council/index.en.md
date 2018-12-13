@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-01T09:00:00", 
-  "open_access": true, 
   "target_url": "http://cyngortrefpwllheli.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Tref Pwllheli | Pwllheli Town Council", 
-  "record_id": "20151201T090000/VEeIP3aYzvlKIs9kl6Qmrg==", 
-  "publisher": "cyngortrefpwllheli.org", 
+  "date": "2015-12-01T09:00:00", 
   "slug": 33065, 
+  "publisher": "cyngortrefpwllheli.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Cyngor Tref Pwllheli | Pwllheli Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151201T090000/VEeIP3aYzvlKIs9kl6Qmrg==", 
+  "scope": "root", 
   "start_date": "2015-12-01T09:00:00Z"
 }
 

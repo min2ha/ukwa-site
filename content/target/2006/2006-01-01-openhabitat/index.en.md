@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://magazine.openhabitat.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "OpenHabitat", 
-  "record_id": "20060101T120000/AZjUeOos+A0dmn+9FoPktg==", 
-  "publisher": "openhabitat.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14385153, 
+  "publisher": "openhabitat.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "OpenHabitat", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/AZjUeOos+A0dmn+9FoPktg==", 
+  "scope": "root", 
   "start_date": null
 }
 

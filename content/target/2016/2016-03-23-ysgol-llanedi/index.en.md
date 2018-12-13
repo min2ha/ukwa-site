@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llanedi.amdro.org.uk/", 
-  "description": "Carmarthenshire school due to close in 2016/17.", 
   "end_date": null, 
-  "title": "Ysgol Llanedi", 
-  "record_id": "20160323T090000/hQhVraYQC2w98CmVgYBFzw==", 
-  "publisher": "amdro.org.uk", 
+  "date": "2016-03-23T09:00:00", 
   "slug": 37880, 
+  "publisher": "amdro.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Llanedi", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160323T090000/hQhVraYQC2w98CmVgYBFzw==", 
+  "scope": "root", 
   "start_date": "2016-03-23T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.buckleytc.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Buckley Town Council", 
-  "record_id": "20060101T120000/pC3VsVFsf4HMZoWiAq0Ffw==", 
-  "publisher": "buckleytc.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15556, 
+  "publisher": "buckleytc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Buckley Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pC3VsVFsf4HMZoWiAq0Ffw==", 
+  "scope": "root", 
   "start_date": null
 }
 

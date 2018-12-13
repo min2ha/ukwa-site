@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fireflypress.co.uk/", 
-  "description": "Children's publisher based in Wales.", 
   "end_date": null, 
-  "title": "Firefly Press", 
-  "record_id": "20150710T100000/0BVZsfRbCcbknKy8QXbwwA==", 
-  "publisher": "fireflypress.co.uk", 
+  "date": "2015-07-10T10:00:00", 
   "slug": 28840, 
+  "publisher": "fireflypress.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Firefly Press", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150710T100000/0BVZsfRbCcbknKy8QXbwwA==", 
+  "scope": "root", 
   "start_date": "2015-07-10T10:00:00Z"
 }
 

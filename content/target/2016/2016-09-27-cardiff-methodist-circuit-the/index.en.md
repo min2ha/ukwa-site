@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffmethodist.org.uk/", 
-  "description": "The Cardiff Methodist Circuit is part of the Wales Synod, the Methodist Church.", 
   "end_date": null, 
-  "title": "Cardiff Methodist Circuit, The", 
-  "record_id": "20160927T100000/1Idw6Ucij61qD/6DdYDSzA==", 
-  "publisher": "cardiffmethodist.org.uk", 
+  "date": "2016-09-27T10:00:00", 
   "slug": 45629, 
+  "publisher": "cardiffmethodist.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Methodist Circuit, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160927T100000/1Idw6Ucij61qD/6DdYDSzA==", 
+  "scope": "root", 
   "start_date": "2016-09-27T10:00:00Z"
 }
 

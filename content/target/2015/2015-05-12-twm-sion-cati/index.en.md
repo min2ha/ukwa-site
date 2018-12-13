@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.twmsioncati.co.uk/", 
-  "description": "Twm Sion Cati is a figure in Welsh folklore from Tregaron and was born in or around 1530.", 
   "end_date": null, 
-  "title": "Twm Sion Cati", 
-  "record_id": "20150512T090000/XUpzFiqFyl3GVwtjZhs57Q==", 
-  "publisher": "twmsioncati.co.uk", 
+  "date": "2015-05-12T09:00:00", 
   "slug": 23712, 
+  "publisher": "twmsioncati.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Twm Sion Cati", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150512T090000/XUpzFiqFyl3GVwtjZhs57Q==", 
+  "scope": "root", 
   "start_date": "2015-05-12T09:00:00Z"
 }
 

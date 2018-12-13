@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hilltoptheatre.co.uk/", 
-  "description": "Hilltop Theatre Company is based in Pentyrch.", 
   "end_date": null, 
-  "title": "Hilltop Theatre Company", 
-  "record_id": "20180306T090000/b/YsuGw0ONLoDjbxCcjEdg==", 
-  "publisher": "hilltoptheatre.co.uk", 
+  "date": "2018-03-06T09:00:00", 
   "slug": 62109, 
+  "publisher": "hilltoptheatre.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hilltop Theatre Company", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180306T090000/b/YsuGw0ONLoDjbxCcjEdg==", 
+  "scope": "root", 
   "start_date": "2018-03-06T09:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2012-06-27T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.newportgwentdragons.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Newport Gwent Dragons - \"men of gwent\"", 
-  "record_id": "20120627T000000/mOruup7rmpdB0R+AakVhaw==", 
-  "publisher": "newportgwentdragons.com", 
+  "date": "2012-06-27T00:00:00", 
   "slug": 119017, 
+  "publisher": "newportgwentdragons.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Newport Gwent Dragons - \"men of gwent\"", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120627T000000/mOruup7rmpdB0R+AakVhaw==", 
+  "scope": "root", 
   "start_date": "2012-06-27T00:00:00Z"
 }
 

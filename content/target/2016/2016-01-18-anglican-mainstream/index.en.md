@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://anglicanmainstream.org/", 
-  "description": "An information resource for orthodox Anglicans.", 
   "end_date": null, 
-  "title": "Anglican Mainstream", 
-  "record_id": "20160118T090000/gB+pDnixjUE+KBOhDH2wKQ==", 
-  "publisher": "anglicanmainstream.org", 
+  "date": "2016-01-18T09:00:00", 
   "slug": 34109, 
+  "publisher": "anglicanmainstream.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Anglican Mainstream", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160118T090000/gB+pDnixjUE+KBOhDH2wKQ==", 
+  "scope": "root", 
   "start_date": "2016-01-18T09:00:00Z"
 }
 

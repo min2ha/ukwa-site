@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.youthden.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Difanc | Youthden", 
-  "record_id": "20060101T120000/W2zExQ/sNA6OzfmhEZzmjA==", 
-  "publisher": "youthden.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 36700187, 
+  "publisher": "youthden.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Difanc | Youthden", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/W2zExQ/sNA6OzfmhEZzmjA==", 
+  "scope": "root", 
   "start_date": null
 }
 

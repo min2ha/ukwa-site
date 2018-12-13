@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.live8live.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Live 8", 
-  "record_id": "20060101T120000/s7/ucjwvCsLWz6cJDeDHUA==", 
-  "publisher": "live8live.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 120195, 
+  "publisher": "live8live.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Live 8", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/s7/ucjwvCsLWz6cJDeDHUA==", 
+  "scope": "root", 
   "start_date": null
 }
 

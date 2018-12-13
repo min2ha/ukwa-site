@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hbrg.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Highland Biological Recording Group", 
-  "record_id": "20151116T090000/ZM9toIxZvMuT5IJG+INmkw==", 
-  "publisher": "hbrg.org.uk", 
+  "date": "2015-11-16T09:00:00", 
   "slug": 32566, 
+  "publisher": "hbrg.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Highland Biological Recording Group", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151116T090000/ZM9toIxZvMuT5IJG+INmkw==", 
+  "scope": "root", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

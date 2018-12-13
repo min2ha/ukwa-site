@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-11T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.orielqnarberth.com/", 
-  "description": "Oriel Q is a gallery showcasing established & emerging national & international artists and is located in Narberth.", 
   "end_date": null, 
-  "title": "Oriel Q, Narberth", 
-  "record_id": "20180511T090000/G+HS1n1ucM56KDAIvmd2Dw==", 
-  "publisher": "orielqnarberth.com", 
+  "date": "2018-05-11T09:00:00", 
   "slug": 65371, 
+  "publisher": "orielqnarberth.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Oriel Q, Narberth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180511T090000/G+HS1n1ucM56KDAIvmd2Dw==", 
+  "scope": "root", 
   "start_date": "2018-05-11T09:00:00Z"
 }
 

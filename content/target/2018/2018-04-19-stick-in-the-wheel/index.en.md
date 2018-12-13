@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stickinthewheel.com/", 
-  "description": "Modern UK folk band", 
   "end_date": null, 
-  "title": "Stick in the Wheel", 
-  "record_id": "20180419T090000/v8dK8aKAK/HBE1PcAsRYxw==", 
-  "publisher": "stickinthewheel.com", 
+  "date": "2018-04-19T09:00:00", 
   "slug": 64557, 
+  "publisher": "stickinthewheel.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Stick in the Wheel", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180419T090000/v8dK8aKAK/HBE1PcAsRYxw==", 
+  "scope": "root", 
   "start_date": "2018-04-19T09:00:00Z"
 }
 

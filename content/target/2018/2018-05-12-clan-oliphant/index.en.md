@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.clanoliphant.com/", 
-  "description": "Site of a clan association for the name Oliphant.", 
   "end_date": null, 
-  "title": "Clan Oliphant", 
-  "record_id": "20180512T090000/dhP4JiTpFfzOlbhUJIVggQ==", 
-  "publisher": "clanoliphant.com", 
+  "date": "2018-05-12T09:00:00", 
   "slug": 65419, 
+  "publisher": "clanoliphant.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clan Oliphant", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180512T090000/dhP4JiTpFfzOlbhUJIVggQ==", 
+  "scope": "root", 
   "start_date": "2018-05-12T09:00:00Z"
 }
 

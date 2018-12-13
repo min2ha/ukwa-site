@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.linlithgow.com/", 
-  "description": "Site of a business improvement district for the town and neighbourhood of Linlithgow, West Lothian, providing listings of amenities in the town and promoting local businesses.", 
   "end_date": null, 
-  "title": "Linlithgow\u2026 Leading the Way", 
-  "record_id": "20170425T090000/fu1e0+Yx0HB0nOX4CsY5LA==", 
-  "publisher": "linlithgow.com", 
+  "date": "2017-04-25T09:00:00", 
   "slug": 52380, 
+  "publisher": "linlithgow.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Linlithgow\u2026 Leading the Way", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170425T090000/fu1e0+Yx0HB0nOX4CsY5LA==", 
+  "scope": "root", 
   "start_date": "2017-04-25T09:00:00Z"
 }
 

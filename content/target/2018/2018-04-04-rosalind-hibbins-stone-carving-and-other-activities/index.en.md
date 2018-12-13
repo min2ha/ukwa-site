@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rosalindhibbins.info/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Rosalind Hibbins: Stone carving and other activities", 
-  "record_id": "20180404T090000/NnUWnG5HVnrHj2OBYSCqJQ==", 
-  "publisher": "rosalindhibbins.info", 
+  "date": "2018-04-04T09:00:00", 
   "slug": 63538, 
+  "publisher": "rosalindhibbins.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rosalind Hibbins: Stone carving and other activities", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180404T090000/NnUWnG5HVnrHj2OBYSCqJQ==", 
+  "scope": "root", 
   "start_date": "2018-04-04T09:00:00Z"
 }
 

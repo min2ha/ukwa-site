@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.nazarene.org.uk/", 
-  "description": "<p>Christian Evangelical<br />\nAn evangelical church in the Wesleyan Holiness tradition</p>\n", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 3326, 
-  "subject": "Religion/Theology", 
   "publisher": "nazarene.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Church of Nazarene", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/sCbqUW+ohdxLgRXk26vm+w==", 
+  "scope": "root", 
   "start_date": null
 }
 

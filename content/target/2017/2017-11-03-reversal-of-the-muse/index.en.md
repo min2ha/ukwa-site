@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.reversalofthemuse.com/", 
-  "description": "This podcast focuses on a small part of the global conversation about women in the arts.", 
   "end_date": null, 
-  "title": "Reversal Of The Muse", 
-  "record_id": "20171103T090000/LCd23Gqtje6wWwD299EERw==", 
-  "publisher": "reversalofthemuse.com", 
+  "date": "2017-11-03T09:00:00", 
   "slug": 58405, 
+  "publisher": "reversalofthemuse.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Reversal Of The Muse", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171103T090000/LCd23Gqtje6wWwD299EERw==", 
+  "scope": "root", 
   "start_date": "2017-11-03T09:00:00Z"
 }
 

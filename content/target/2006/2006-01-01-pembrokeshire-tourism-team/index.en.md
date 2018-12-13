@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tourismhelp.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pembrokeshire Tourism Team", 
-  "record_id": "20060101T120000/2uPAfkyABwWt7gtIi7IXXQ==", 
-  "publisher": "tourismhelp.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 61325, 
+  "publisher": "tourismhelp.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pembrokeshire Tourism Team", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/2uPAfkyABwWt7gtIi7IXXQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

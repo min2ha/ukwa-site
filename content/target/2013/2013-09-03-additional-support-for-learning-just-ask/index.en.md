@@ -1,13 +1,21 @@
 {
-  "date": "2013-09-03T00:15:00", 
-  "open_access": true, 
   "target_url": "http://www.justaskscotland.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Additional support for learning : just ask", 
-  "record_id": "20130903T001500/XTafSJxhirlVhv8AXqTcBA==", 
-  "publisher": "justaskscotland.org", 
+  "date": "2013-09-03T00:15:00", 
   "slug": 191037454, 
+  "publisher": "justaskscotland.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Additional support for learning : just ask", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130903T001500/XTafSJxhirlVhv8AXqTcBA==", 
+  "scope": "root", 
   "start_date": "2013-09-03T00:15:00Z"
 }
 

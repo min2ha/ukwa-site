@@ -1,13 +1,21 @@
 {
-  "date": "2014-04-10T04:15:00", 
-  "open_access": true, 
   "target_url": "https://www.facebook.com/archbishopofcanterbury", 
-  "description": null, 
   "end_date": null, 
-  "title": "Archbishop of Canterbury, The, on Facebook", 
-  "record_id": "20140410T041500/QS+a1n/l0slAtONgN8wIzg==", 
-  "publisher": "facebook.com", 
+  "date": "2014-04-10T04:15:00", 
   "slug": 235438243, 
+  "publisher": "facebook.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Archbishop of Canterbury, The, on Facebook", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140410T041500/QS+a1n/l0slAtONgN8wIzg==", 
+  "scope": "root", 
   "start_date": "2014-04-10T04:15:00Z"
 }
 

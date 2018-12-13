@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.tabloidarthistory.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Tabloid Art History", 
-  "record_id": "20171128T090000/10Rss54RaqfE7XcjURBqlg==", 
-  "publisher": "tabloidarthistory.com", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59234, 
+  "publisher": "tabloidarthistory.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tabloid Art History", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/10Rss54RaqfE7XcjURBqlg==", 
+  "scope": "root", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

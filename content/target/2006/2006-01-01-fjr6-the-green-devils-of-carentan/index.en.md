@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fjr6.co.uk/", 
-  "description": "FJR6 are a WW2 living history group who specifically portray \n\na late war impression of the \n\nground role that the\n\nFallschirmj\u00e4ger \n\n(German paratroopers) of \n\nRegiment 6 undertook, from Normandy through to Holland \n\nand early 1945.", 
   "end_date": null, 
-  "title": "FJR6: The Green Devils of Carentan ", 
-  "record_id": "20060101T120000/ra+pOYSANMNH8xvIEMtsuA==", 
-  "publisher": "fjr6.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32229, 
+  "publisher": "fjr6.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "FJR6: The Green Devils of Carentan ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ra+pOYSANMNH8xvIEMtsuA==", 
+  "scope": "root", 
   "start_date": null
 }
 

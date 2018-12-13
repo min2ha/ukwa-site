@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trossachs.co.uk", 
-  "description": "Site of a tourism directory focusing on the Trossachs and Loch Lomond areas of west central Scotland.", 
   "end_date": null, 
-  "title": "Trossachs.co.uk", 
-  "record_id": "20161125T090000/kCoiZabJ+xCs6EvFiQEHDQ==", 
-  "publisher": "trossachs.co.uk", 
+  "date": "2016-11-25T09:00:00", 
   "slug": 47332, 
+  "publisher": "trossachs.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trossachs.co.uk", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161125T090000/kCoiZabJ+xCs6EvFiQEHDQ==", 
+  "scope": "root", 
   "start_date": "2016-11-25T09:00:00Z"
 }
 

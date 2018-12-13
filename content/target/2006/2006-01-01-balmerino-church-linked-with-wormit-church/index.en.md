@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.balmerinochurch.org.uk/", 
-  "description": "Old website of Balmerino Church linked with Wormit Church. ", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 50124, 
-  "subject": "Religion/Theology", 
   "publisher": "balmerinochurch.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Balmerino Church linked with Wormit Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/hbYExdU9nxD3MMLRoR54Hw==", 
+  "scope": "root", 
   "start_date": null
 }
 

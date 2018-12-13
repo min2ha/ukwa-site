@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mikederrett.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mike Derrett Marine", 
-  "record_id": "20060101T120000/3b1wFAXr9rj7BLTdCh6Pog==", 
-  "publisher": "mikederrett.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 235438203, 
+  "publisher": "mikederrett.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Mike Derrett Marine", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/3b1wFAXr9rj7BLTdCh6Pog==", 
+  "scope": "root", 
   "start_date": null
 }
 

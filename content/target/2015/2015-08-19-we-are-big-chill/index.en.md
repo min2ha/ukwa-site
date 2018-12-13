@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://wearebigchill.com/", 
-  "description": "Festival", 
   "end_date": null, 
-  "title": "We Are Big Chill", 
-  "record_id": "20150819T100000/Kz/tyWRWR76FCnKc2EZX/w==", 
-  "publisher": "wearebigchill.com", 
+  "date": "2015-08-19T10:00:00", 
   "slug": 29840, 
+  "publisher": "wearebigchill.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "We Are Big Chill", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150819T100000/Kz/tyWRWR76FCnKc2EZX/w==", 
+  "scope": "root", 
   "start_date": "2015-08-19T10:00:00Z"
 }
 

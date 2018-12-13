@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dewijones.co.uk/", 
-  "description": "Welsh visual artists/photographer.", 
   "end_date": null, 
-  "title": "Dewi Jones", 
-  "record_id": "20150806T100000/0ghFVh1HggvgJpAyk9iyFw==", 
-  "publisher": "dewijones.co.uk", 
+  "date": "2015-08-06T10:00:00", 
   "slug": 29632, 
+  "publisher": "dewijones.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dewi Jones", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150806T100000/0ghFVh1HggvgJpAyk9iyFw==", 
+  "scope": "root", 
   "start_date": "2015-08-06T10:00:00Z"
 }
 

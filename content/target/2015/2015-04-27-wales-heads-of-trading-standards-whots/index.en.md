@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tradingstandardswales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wales Heads of Trading Standards (WHoTS) ", 
-  "record_id": "20150427T090000/qsZyL0oKYvQtUZUfbXcB9Q==", 
-  "publisher": "tradingstandardswales.org.uk", 
+  "date": "2015-04-27T09:00:00", 
   "slug": 22733, 
+  "publisher": "tradingstandardswales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wales Heads of Trading Standards (WHoTS) ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150427T090000/qsZyL0oKYvQtUZUfbXcB9Q==", 
+  "scope": "root", 
   "start_date": "2015-04-27T09:00:00Z"
 }
 

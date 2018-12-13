@@ -1,13 +1,16 @@
 {
-  "date": "2004-12-06T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.grahamedavies.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "grahamedavies.com", 
-  "record_id": "20041206T000000/o5WGJJvMKUUl7mIbmT/+kQ==", 
-  "publisher": "grahamedavies.com", 
+  "date": "2004-12-06T00:00:00", 
   "slug": 103932, 
+  "publisher": "grahamedavies.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "grahamedavies.com", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20041206T000000/o5WGJJvMKUUl7mIbmT/+kQ==", 
+  "scope": "root", 
   "start_date": "2004-12-06T00:00:00Z"
 }
 

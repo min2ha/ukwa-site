@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.aberdyfi-sart.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Aberdyfi Search And Rescue Team", 
-  "record_id": "20170613T090000/fdRih5fYwjx0sWNkbsPu/Q==", 
-  "publisher": "aberdyfi-sart.org.uk", 
+  "date": "2017-06-13T09:00:00", 
   "slug": 54649, 
+  "publisher": "aberdyfi-sart.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aberdyfi Search And Rescue Team", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170613T090000/fdRih5fYwjx0sWNkbsPu/Q==", 
+  "scope": "root", 
   "start_date": "2017-06-13T09:00:00Z"
 }
 

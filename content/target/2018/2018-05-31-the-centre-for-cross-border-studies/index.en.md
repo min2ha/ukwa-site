@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-31T09:00:00", 
-  "open_access": false, 
   "target_url": "http://crossborder.ie/", 
-  "description": "The Centre for Cross Border Studies (CCBS) is a think tank based in Ireland.\n", 
   "end_date": null, 
-  "title": "The Centre for Cross Border Studies", 
-  "record_id": "20180531T090000/i2fQxGuZbGemckbepc6fcw==", 
-  "publisher": "crossborder.ie", 
+  "date": "2018-05-31T09:00:00", 
   "slug": 66415, 
+  "publisher": "crossborder.ie", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Centre for Cross Border Studies", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180531T090000/i2fQxGuZbGemckbepc6fcw==", 
+  "scope": "root", 
   "start_date": "2018-05-31T09:00:00Z"
 }
 

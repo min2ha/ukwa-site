@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.btmbrassband.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bedwas, Trethomas & Machen Band Society (BTM Band)", 
-  "record_id": "20151205T090000/TIXjq/T4G+KIOmtBXlDYKg==", 
-  "publisher": "btmbrassband.com", 
+  "date": "2015-12-05T09:00:00", 
   "slug": 33231, 
+  "publisher": "btmbrassband.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bedwas, Trethomas & Machen Band Society (BTM Band)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151205T090000/TIXjq/T4G+KIOmtBXlDYKg==", 
+  "scope": "root", 
   "start_date": "2015-12-05T09:00:00Z"
 }
 

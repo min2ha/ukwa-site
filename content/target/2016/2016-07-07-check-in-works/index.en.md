@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-07T10:00:00", 
-  "open_access": false, 
   "target_url": "http://checkin-giraffe.uk/", 
-  "description": "Site of a social enterprise providing training and job opportunites in catering in Perth, Scotland.", 
   "end_date": null, 
-  "title": "Check In Works", 
-  "record_id": "20160707T100000/x5Qq4yUPQL0yBzJcsx5qiw==", 
-  "publisher": "checkin-giraffe.uk", 
+  "date": "2016-07-07T10:00:00", 
   "slug": 44102, 
+  "publisher": "checkin-giraffe.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Check In Works", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160707T100000/x5Qq4yUPQL0yBzJcsx5qiw==", 
+  "scope": "root", 
   "start_date": "2016-07-07T10:00:00Z"
 }
 

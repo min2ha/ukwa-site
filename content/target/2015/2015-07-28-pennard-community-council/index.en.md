@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pennardcc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pennard Community Council", 
-  "record_id": "20150728T100000/eNi83ixlCw9D8SaqDx4b8g==", 
-  "publisher": "pennardcc.org.uk", 
+  "date": "2015-07-28T10:00:00", 
   "slug": 29386, 
+  "publisher": "pennardcc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pennard Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150728T100000/eNi83ixlCw9D8SaqDx4b8g==", 
+  "scope": "root", 
   "start_date": "2015-07-28T10:00:00Z"
 }
 

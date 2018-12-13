@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.therightplace.plus.com/jp/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Investigation into Personalisation in Presentation Services", 
-  "record_id": "20060101T120000/2+ey6fDSkCEuO7fZdBuKdg==", 
-  "publisher": "plus.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 125048, 
+  "publisher": "plus.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Investigation into Personalisation in Presentation Services", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/2+ey6fDSkCEuO7fZdBuKdg==", 
+  "scope": "root", 
   "start_date": null
 }
 

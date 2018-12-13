@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scaa.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Scotland\u2019s Charity Air Ambulance (SCAA)", 
-  "record_id": "20060101T120000/T4asTQOdhsyhgevDgPJFNw==", 
-  "publisher": "scaa.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11289, 
+  "publisher": "scaa.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scotland\u2019s Charity Air Ambulance (SCAA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/T4asTQOdhsyhgevDgPJFNw==", 
+  "scope": "root", 
   "start_date": null
 }
 

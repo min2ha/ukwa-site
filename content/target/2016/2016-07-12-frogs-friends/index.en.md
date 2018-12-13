@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-12T10:00:00", 
-  "open_access": false, 
   "target_url": "https://frogsandfriends.org/", 
-  "description": "A family run swim school set up in Berkshire over 50 years ago.", 
   "end_date": null, 
-  "title": "Frogs & Friends", 
-  "record_id": "20160712T100000/A31ibygYvvvkcDqxqEdZEw==", 
-  "publisher": "frogsandfriends.org", 
+  "date": "2016-07-12T10:00:00", 
   "slug": 44238, 
+  "publisher": "frogsandfriends.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Frogs & Friends", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160712T100000/A31ibygYvvvkcDqxqEdZEw==", 
+  "scope": "root", 
   "start_date": "2016-07-12T10:00:00Z"
 }
 

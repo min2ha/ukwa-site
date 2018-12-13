@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.chicombatsystem.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Chi Combat System Croydon", 
-  "record_id": "20060101T120000/v1bGPlWgS0fgWA9WFehtbA==", 
-  "publisher": "chicombatsystem.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12566, 
+  "publisher": "chicombatsystem.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Chi Combat System Croydon", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/v1bGPlWgS0fgWA9WFehtbA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lakevyrnwyhalfmarathon.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lake Vyrnwy Half Marathon", 
-  "record_id": "20170214T090000/yhsEIc5QTzrFQ7sSIpmT5A==", 
-  "publisher": "lakevyrnwyhalfmarathon.com", 
+  "date": "2017-02-14T09:00:00", 
   "slug": 49320, 
+  "publisher": "lakevyrnwyhalfmarathon.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lake Vyrnwy Half Marathon", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170214T090000/yhsEIc5QTzrFQ7sSIpmT5A==", 
+  "scope": "root", 
   "start_date": "2017-02-14T09:00:00Z"
 }
 

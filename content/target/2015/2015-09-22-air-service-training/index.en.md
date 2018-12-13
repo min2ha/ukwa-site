@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-22T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.airservicetraining.co.uk/", 
-  "description": "Air Service Training is an aviation school based in Perth.", 
   "end_date": null, 
-  "title": "Air Service Training", 
-  "record_id": "20150922T100000/uvh92i2Mg3Xqg+79aoh83g==", 
-  "publisher": "airservicetraining.co.uk", 
+  "date": "2015-09-22T10:00:00", 
   "slug": 30758, 
+  "publisher": "airservicetraining.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Air Service Training", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150922T100000/uvh92i2Mg3Xqg+79aoh83g==", 
+  "scope": "root", 
   "start_date": "2015-09-22T10:00:00Z"
 }
 

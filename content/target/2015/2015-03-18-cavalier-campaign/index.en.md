@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cavaliercampaign.com/", 
-  "description": "Cavalier Campaign is a campaign to improve the health of pedigree and purebred dogs.\n", 
   "end_date": null, 
-  "title": "Cavalier Campaign", 
-  "record_id": "20150318T090000/Bc/mWbEWrivQuL+kaNYIUg==", 
-  "publisher": "cavaliercampaign.com", 
+  "date": "2015-03-18T09:00:00", 
   "slug": 15893, 
+  "publisher": "cavaliercampaign.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Cavalier Campaign", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150318T090000/Bc/mWbEWrivQuL+kaNYIUg==", 
+  "scope": "root", 
   "start_date": "2015-03-18T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mrsoc.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Monmouthshire Railway Society", 
-  "record_id": "20060101T120000/B6G+gEEqf7rBxfwPSX+rTg==", 
-  "publisher": "mrsoc.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 293863663, 
+  "publisher": "mrsoc.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Monmouthshire Railway Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/B6G+gEEqf7rBxfwPSX+rTg==", 
+  "scope": "root", 
   "start_date": null
 }
 

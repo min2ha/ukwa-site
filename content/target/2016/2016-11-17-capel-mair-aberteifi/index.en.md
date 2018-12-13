@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://capelmairaberteifi.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Capel Mair Aberteifi", 
-  "record_id": "20161117T090000/gB8j9bmPrpWvmWmtQ9rAEQ==", 
-  "publisher": "capelmairaberteifi.org.uk", 
+  "date": "2016-11-17T09:00:00", 
   "slug": 47155, 
+  "publisher": "capelmairaberteifi.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Capel Mair Aberteifi", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161117T090000/gB8j9bmPrpWvmWmtQ9rAEQ==", 
+  "scope": "root", 
   "start_date": "2016-11-17T09:00:00Z"
 }
 

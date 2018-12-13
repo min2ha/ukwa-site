@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.caithnessmoths.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Moths of Caithness", 
-  "record_id": "20151214T090000/BBHzQ6hZc8CnCMxdmkKLig==", 
-  "publisher": "caithnessmoths.org.uk", 
+  "date": "2015-12-14T09:00:00", 
   "slug": 33433, 
+  "publisher": "caithnessmoths.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Moths of Caithness", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151214T090000/BBHzQ6hZc8CnCMxdmkKLig==", 
+  "scope": "root", 
   "start_date": "2015-12-14T09:00:00Z"
 }
 

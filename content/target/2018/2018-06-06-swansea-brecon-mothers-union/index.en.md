@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.muswansea-brecon.co.uk/", 
-  "description": "Mothers\u2019 Union is an international Christian charity that seeks to support families worldwide. This is the Mothers' Union for the Diocese of Swansea and Brecon.", 
   "end_date": null, 
-  "title": "Swansea & Brecon Mothers' Union", 
-  "record_id": "20180606T090000/Lfi5cD/hXTjFHBDo5rDRlA==", 
-  "publisher": "muswansea-brecon.co.uk", 
+  "date": "2018-06-06T09:00:00", 
   "slug": 66766, 
+  "publisher": "muswansea-brecon.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea & Brecon Mothers' Union", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180606T090000/Lfi5cD/hXTjFHBDo5rDRlA==", 
+  "scope": "root", 
   "start_date": "2018-06-06T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://savetheage.org/", 
-  "description": "Britain\u2019s population is ageing first, 10 million people in the UK are over 65 years old.", 
   "end_date": null, 
-  "title": "Save the Age", 
-  "record_id": "20170314T090000/393U5aZxylf8ekgmnlhfHQ==", 
-  "publisher": "savetheage.org", 
+  "date": "2017-03-14T09:00:00", 
   "slug": 50458, 
+  "publisher": "savetheage.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Save the Age", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170314T090000/393U5aZxylf8ekgmnlhfHQ==", 
+  "scope": "root", 
   "start_date": "2017-03-14T09:00:00Z"
 }
 

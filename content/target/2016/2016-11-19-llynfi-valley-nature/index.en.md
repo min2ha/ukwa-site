@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://llynfivalleynature.blogspot.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llynfi Valley Nature", 
-  "record_id": "20161119T090000/xkxj4xfhQVA9CGWjTRvHPg==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2016-11-19T09:00:00", 
   "slug": 47199, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llynfi Valley Nature", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161119T090000/xkxj4xfhQVA9CGWjTRvHPg==", 
+  "scope": "root", 
   "start_date": "2016-11-19T09:00:00Z"
 }
 

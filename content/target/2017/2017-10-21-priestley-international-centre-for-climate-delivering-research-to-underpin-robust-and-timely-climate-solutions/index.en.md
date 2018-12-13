@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://climate.leeds.ac.uk/", 
-  "description": "The Priestley International Centre for Climate  is unique in bringing together world leading expertise in all the key strands of climate change research.", 
   "end_date": null, 
-  "title": "Priestley International Centre for Climate: Delivering research to underpin robust and timely climate solutions", 
-  "record_id": "20171021T090000/9aIVgJXNXv36aCDn9riCpw==", 
-  "publisher": "leeds.ac.uk", 
+  "date": "2017-10-21T09:00:00", 
   "slug": 57970, 
+  "publisher": "leeds.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Priestley International Centre for Climate: Delivering research to underpin robust and timely climate solutions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171021T090000/9aIVgJXNXv36aCDn9riCpw==", 
+  "scope": "root", 
   "start_date": "2017-10-21T09:00:00Z"
 }
 

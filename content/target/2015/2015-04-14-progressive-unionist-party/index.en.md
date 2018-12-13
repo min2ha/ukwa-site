@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pupni.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Progressive Unionist Party", 
-  "record_id": "20150414T090000/LyNemsrUYVFy/T+xMXviSg==", 
-  "publisher": "pupni.com", 
+  "date": "2015-04-14T09:00:00", 
   "slug": 21846, 
+  "publisher": "pupni.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Progressive Unionist Party", 
+  "organisation": {
+    "abbreviation": "TCD", 
+    "id": 6, 
+    "name": "Trinity College Dublin"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T090000/LyNemsrUYVFy/T+xMXviSg==", 
+  "scope": "root", 
   "start_date": "2015-04-14T09:00:00Z"
 }
 

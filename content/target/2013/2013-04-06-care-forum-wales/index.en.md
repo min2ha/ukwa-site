@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.careforumwales.co.uk/", 
-  "description": "<p>Care Forum Wales represents 450+ care homes, nursing homes and other independent health and social care providers across Wales.</p>\n", 
   "end_date": null, 
-  "title": "Care Forum Wales ", 
-  "record_id": "20130406T010000/9s45ypuVRYyhWLeSaGaeoA==", 
-  "publisher": "careforumwales.co.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15407, 
+  "publisher": "careforumwales.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Care Forum Wales ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/9s45ypuVRYyhWLeSaGaeoA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://orchid-cancer.org.uk/", 
-  "description": "Orchid is a charity dedicated to fighting cancer that effects men. ", 
   "end_date": null, 
-  "title": "Orchid", 
-  "record_id": "20180804T090000/wmpPw5ea5OddJTDZxBNM1Q==", 
-  "publisher": "orchid-cancer.org.uk", 
+  "date": "2018-08-04T09:00:00", 
   "slug": 69652, 
+  "publisher": "orchid-cancer.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Orchid", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180804T090000/wmpPw5ea5OddJTDZxBNM1Q==", 
+  "scope": "root", 
   "start_date": "2018-08-04T09:00:00Z"
 }
 

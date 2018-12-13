@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swdfas.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Decorative & Fine Arts Society", 
-  "record_id": "20150924T100000/fKGM0U18x5cOZOaAmVzIpQ==", 
-  "publisher": "swdfas.org.uk", 
+  "date": "2015-09-24T10:00:00", 
   "slug": 30831, 
+  "publisher": "swdfas.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South Wales Decorative & Fine Arts Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150924T100000/fKGM0U18x5cOZOaAmVzIpQ==", 
+  "scope": "root", 
   "start_date": "2015-09-24T10:00:00Z"
 }
 

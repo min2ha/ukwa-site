@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-15T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.julianhodgebank.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Julian Hodge Bank", 
-  "record_id": "20150915T100000/5lZQeMFw5Ksg5Fzn7Doy0w==", 
-  "publisher": "julianhodgebank.com", 
+  "date": "2015-09-15T10:00:00", 
   "slug": 30459, 
+  "publisher": "julianhodgebank.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Julian Hodge Bank", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150915T100000/5lZQeMFw5Ksg5Fzn7Doy0w==", 
+  "scope": "root", 
   "start_date": "2015-09-15T10:00:00Z"
 }
 

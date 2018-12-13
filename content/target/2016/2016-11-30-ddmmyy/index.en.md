@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ddmmyyseries.com/", 
-  "description": "Site dedicated to experimental music, installations, and performance.", 
   "end_date": null, 
-  "title": "ddmmyy", 
-  "record_id": "20161130T090000/rN9Qjj+tIq/wC8y3DSVPtw==", 
-  "publisher": "ddmmyyseries.com", 
+  "date": "2016-11-30T09:00:00", 
   "slug": 47476, 
+  "publisher": "ddmmyyseries.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ddmmyy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161130T090000/rN9Qjj+tIq/wC8y3DSVPtw==", 
+  "scope": "root", 
   "start_date": "2016-11-30T09:00:00Z"
 }
 

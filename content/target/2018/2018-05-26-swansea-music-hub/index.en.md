@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.swanseamusichub.com/", 
-  "description": "The Swansea Music Hub is a collective aiming to revitalise and support Swansea's live, original music scene. The website provides a directory of music services, a blog and a gig guide to Swansea.", 
   "end_date": null, 
-  "title": "Swansea Music Hub", 
-  "record_id": "20180526T090000/jchfv4csBIXId034AHB44A==", 
-  "publisher": "swanseamusichub.com", 
+  "date": "2018-05-26T09:00:00", 
   "slug": 66214, 
+  "publisher": "swanseamusichub.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Music Hub", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180526T090000/jchfv4csBIXId034AHB44A==", 
+  "scope": "root", 
   "start_date": "2018-05-26T09:00:00Z"
 }
 

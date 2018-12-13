@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bluesalt.co.uk/", 
-  "description": "Site of a poetry publishing group also involved in poetry performance, and based in the north east of Scotland.", 
   "end_date": null, 
-  "title": "Blue Salt Collective ", 
-  "record_id": "20060101T120000/ozSpVbQ/vETy3HG8i+6gWg==", 
-  "publisher": "bluesalt.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 46871, 
+  "publisher": "bluesalt.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Blue Salt Collective ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ozSpVbQ/vETy3HG8i+6gWg==", 
+  "scope": "root", 
   "start_date": null
 }
 

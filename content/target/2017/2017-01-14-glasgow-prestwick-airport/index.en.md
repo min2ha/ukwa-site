@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glasgowprestwick.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Glasgow Prestwick Airport", 
-  "record_id": "20170114T090000/ot3GyfeDuIBQ8bfpVls+WA==", 
-  "publisher": "glasgowprestwick.com", 
+  "date": "2017-01-14T09:00:00", 
   "slug": 48274, 
+  "publisher": "glasgowprestwick.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glasgow Prestwick Airport", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170114T090000/ot3GyfeDuIBQ8bfpVls+WA==", 
+  "scope": "root", 
   "start_date": "2017-01-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://johnstonehistory.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Johnstone History Museum", 
-  "record_id": "20151214T090000/Ny1MsTcPDkFvcDBZoVgKLg==", 
-  "publisher": "johnstonehistory.org", 
+  "date": "2015-12-14T09:00:00", 
   "slug": 33423, 
+  "publisher": "johnstonehistory.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Johnstone History Museum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151214T090000/Ny1MsTcPDkFvcDBZoVgKLg==", 
+  "scope": "root", 
   "start_date": "2015-12-14T09:00:00Z"
 }
 

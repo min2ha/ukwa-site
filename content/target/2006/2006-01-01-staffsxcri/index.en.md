@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.staffs.ac.uk/xcri/", 
-  "description": "", 
   "end_date": null, 
-  "title": "staffsXCRI", 
-  "record_id": "20060101T120000/2Csrr5d7Lt6wg7BivVPrEQ==", 
-  "publisher": "staffs.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 141880, 
+  "publisher": "staffs.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "staffsXCRI", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/2Csrr5d7Lt6wg7BivVPrEQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

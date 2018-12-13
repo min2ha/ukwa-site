@@ -1,13 +1,16 @@
 {
-  "date": "2010-04-15T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bacheldremill.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Organic Flour, Stoneground & Spelt Flour | Bacheldre Mill", 
-  "record_id": "20100415T000000/Ww+xUVRqBoBIyK1yeccTQg==", 
-  "publisher": "bacheldremill.co.uk", 
+  "date": "2010-04-15T00:00:00", 
   "slug": 41713717, 
+  "publisher": "bacheldremill.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Organic Flour, Stoneground & Spelt Flour | Bacheldre Mill", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100415T000000/Ww+xUVRqBoBIyK1yeccTQg==", 
+  "scope": "root", 
   "start_date": "2010-04-15T00:00:00Z"
 }
 

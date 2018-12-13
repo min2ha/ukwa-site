@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-21T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.sabrain.com/", 
-  "description": "Established in 1882, Brains is Wales' biggest brewer and manages about 250 pubs in Wales.", 
   "end_date": null, 
-  "title": "S.A. Brain & Co Ltd", 
-  "record_id": "20171121T090000/rHZR0W/gJt7xk5jwGQbdLQ==", 
-  "publisher": "sabrain.com", 
+  "date": "2017-11-21T09:00:00", 
   "slug": 58985, 
+  "publisher": "sabrain.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "S.A. Brain & Co Ltd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171121T090000/rHZR0W/gJt7xk5jwGQbdLQ==", 
+  "scope": "root", 
   "start_date": "2017-11-21T09:00:00Z"
 }
 

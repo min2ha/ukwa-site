@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shakespearelives.org/", 
-  "description": "Website run by the British Council promoting events and activities celebrating Shakespeare\u2019s work marking the 400th anniversary of his death.", 
   "end_date": null, 
-  "title": "Shakespeare Lives", 
-  "record_id": "20160106T090000/DwozxGve9YjCflWOHGaPSQ==", 
-  "publisher": "shakespearelives.org", 
+  "date": "2016-01-06T09:00:00", 
   "slug": 33668, 
+  "publisher": "shakespearelives.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shakespeare Lives", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160106T090000/DwozxGve9YjCflWOHGaPSQ==", 
+  "scope": "root", 
   "start_date": "2016-01-06T09:00:00Z"
 }
 

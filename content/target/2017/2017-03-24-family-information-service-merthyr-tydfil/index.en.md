@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://merthyrfis.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Family Information Service Merthyr Tydfil", 
-  "record_id": "20170324T090000/s6XPjyhAadiu3vhqMBmfAA==", 
-  "publisher": "merthyrfis.org", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 51142, 
+  "publisher": "merthyrfis.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Family Information Service Merthyr Tydfil", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/s6XPjyhAadiu3vhqMBmfAA==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

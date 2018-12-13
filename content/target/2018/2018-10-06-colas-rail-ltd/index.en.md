@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-06T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.colasrail.co.uk/", 
-  "description": "Leading railway infrastructure company including construction and renewal", 
   "end_date": null, 
-  "title": "Colas Rail Ltd. ", 
-  "record_id": "20181006T090000/iQGafxas2YMPFHD6e6qTKw==", 
-  "publisher": "colasrail.co.uk", 
+  "date": "2018-10-06T09:00:00", 
   "slug": 72218, 
+  "publisher": "colasrail.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Colas Rail Ltd. ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181006T090000/iQGafxas2YMPFHD6e6qTKw==", 
+  "scope": "root", 
   "start_date": "2018-10-06T09:00:00Z"
 }
 

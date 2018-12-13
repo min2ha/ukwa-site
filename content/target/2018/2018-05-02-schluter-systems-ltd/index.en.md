@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.schluter.co.uk/", 
-  "description": "Manufacturer of architectural profiles, waterproofing and insulation systems.", 
   "end_date": null, 
-  "title": "Schl\u00fcter-Systems Ltd.", 
-  "record_id": "20180502T090000/eA7rA8VQzMxn9gWzAd28fQ==", 
-  "publisher": "schluter.co.uk", 
+  "date": "2018-05-02T09:00:00", 
   "slug": 65083, 
+  "publisher": "schluter.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Schl\u00fcter-Systems Ltd.", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180502T090000/eA7rA8VQzMxn9gWzAd28fQ==", 
+  "scope": "root", 
   "start_date": "2018-05-02T09:00:00Z"
 }
 

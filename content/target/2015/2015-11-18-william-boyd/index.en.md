@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.williamboyd.co.uk/", 
-  "description": "The site of author and journalist, William Boyd.", 
   "end_date": null, 
-  "title": "William Boyd", 
-  "record_id": "20151118T090000/ymBwICdCopoTC45kX7n9Gw==", 
-  "publisher": "williamboyd.co.uk", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32661, 
+  "publisher": "williamboyd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "William Boyd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/ymBwICdCopoTC45kX7n9Gw==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

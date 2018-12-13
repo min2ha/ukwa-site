@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://preservation.eprints.org/keepit/", 
-  "description": "", 
   "end_date": null, 
-  "title": "KeepIt: Kultur, eCrystals, EdShare (and NECTAR) - Preserve It!", 
-  "record_id": "20060101T120000/rNiZ3b4OEMFdgIPi5QGTWg==", 
-  "publisher": "eprints.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32145486, 
+  "publisher": "eprints.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "KeepIt: Kultur, eCrystals, EdShare (and NECTAR) - Preserve It!", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/rNiZ3b4OEMFdgIPi5QGTWg==", 
+  "scope": "root", 
   "start_date": null
 }
 

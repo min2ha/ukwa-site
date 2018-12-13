@@ -1,14 +1,30 @@
 {
   "target_url": "http://barelitfestival.com/", 
-  "description": "Bare Lit is a festival celebrating the work of writers, poets, playwrights, journalists and academics of colour.", 
   "end_date": null, 
   "date": "2018-05-05T09:00:00", 
   "slug": 65243, 
-  "subject": null, 
   "publisher": "barelitfestival.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Bare Lit Festival", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1107, 
+      "name": "Black and Asian Britain"
+    }, 
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180505T090000/KgWFp2NLiZaTMfaBti6JuA==", 
+  "scope": "root", 
   "start_date": "2018-05-05T09:00:00Z"
 }
 

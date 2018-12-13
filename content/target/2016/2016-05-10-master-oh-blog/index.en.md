@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.masteroh.org/", 
-  "description": "The official blog of London-\u00adbased energy healer Master Oh. This blog is dedicated to advice to improve your health, relationships and wellbeing.  ", 
   "end_date": null, 
-  "title": "Master Oh Blog", 
-  "record_id": "20160510T100000/IU8LhbUg0cZDbBU0smsGsg==", 
-  "publisher": "masteroh.org", 
+  "date": "2016-05-10T10:00:00", 
   "slug": 40730, 
+  "publisher": "masteroh.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Master Oh Blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160510T100000/IU8LhbUg0cZDbBU0smsGsg==", 
+  "scope": "subdomains", 
   "start_date": "2016-05-10T10:00:00Z"
 }
 

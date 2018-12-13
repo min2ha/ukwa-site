@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.warwickandleamingtonukip.co.uk/", 
-  "description": "", 
   "end_date": "2017-06-30T00:00:00Z", 
   "date": "2017-06-01T09:00:00", 
   "slug": 54068, 
-  "subject": "UK General Election 2017", 
   "publisher": "warwickandleamingtonukip.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "UKIP Warwick and Leamington Spa", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170601T090000/fKRd0KrcMKGT8/N9TCbHjA==", 
+  "scope": "root", 
   "start_date": "2017-06-01T09:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.saintbarnabaschurch.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2018-02-28T09:00:00", 
   "slug": 61748, 
-  "subject": "Religion/Theology", 
   "publisher": "saintbarnabaschurch.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "St Barnabas, Waunarlwydd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180228T090000/3r+qAVuaWTGdPmw2Rcm90Q==", 
+  "scope": "root", 
   "start_date": "2018-02-28T09:00:00Z"
 }
 

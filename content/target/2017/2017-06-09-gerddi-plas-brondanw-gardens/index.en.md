@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.plasbrondanw.com/", 
-  "description": "Plas Brondanw was given to Sir Clough Williams-Ellis by his father in 1902. \nThe gardens at Plas Brondanw, near Penrhyndeudraeth, are a fine example of Sir Clough Williams-Ellis talent for creative landscape design.", 
   "end_date": null, 
-  "title": "Gerddi Plas Brondanw Gardens", 
-  "record_id": "20170609T090000/jP3nUxm2G6xn3XpFBIZNKw==", 
-  "publisher": "plasbrondanw.com", 
+  "date": "2017-06-09T09:00:00", 
   "slug": 54547, 
+  "publisher": "plasbrondanw.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gerddi Plas Brondanw Gardens", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170609T090000/jP3nUxm2G6xn3XpFBIZNKw==", 
+  "scope": "root", 
   "start_date": "2017-06-09T09:00:00Z"
 }
 

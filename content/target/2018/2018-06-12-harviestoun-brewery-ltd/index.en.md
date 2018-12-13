@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://harviestoun.com/", 
-  "description": "Site of a brewer located in Alva, Clackmannanshire.", 
   "end_date": null, 
-  "title": "Harviestoun Brewery Ltd", 
-  "record_id": "20180612T090000/hPiqCg6NJmaB+HXxbGllLQ==", 
-  "publisher": "harviestoun.com", 
+  "date": "2018-06-12T09:00:00", 
   "slug": 67094, 
+  "publisher": "harviestoun.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Harviestoun Brewery Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180612T090000/hPiqCg6NJmaB+HXxbGllLQ==", 
+  "scope": "root", 
   "start_date": "2018-06-12T09:00:00Z"
 }
 

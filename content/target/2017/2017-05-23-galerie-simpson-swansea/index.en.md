@@ -1,13 +1,21 @@
 {
-  "date": "2017-05-23T09:00:00", 
-  "open_access": false, 
   "target_url": "https://galeriesimpsonswansea.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Galerie Simpson, Swansea", 
-  "record_id": "20170523T090000/kWCyQZiVY2v8/TIKirlgcA==", 
-  "publisher": "galeriesimpsonswansea.com", 
+  "date": "2017-05-23T09:00:00", 
   "slug": 53443, 
+  "publisher": "galeriesimpsonswansea.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Galerie Simpson, Swansea", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170523T090000/kWCyQZiVY2v8/TIKirlgcA==", 
+  "scope": "subdomains", 
   "start_date": "2017-05-23T09:00:00Z"
 }
 

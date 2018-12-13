@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.penmaenmawr.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Penmaenmawr and Dwygylchfi Community website", 
-  "record_id": "20150414T080000/+NwS5fvMR134o7DQqKdcJg==", 
-  "publisher": "penmaenmawr.com", 
+  "date": "2015-04-14T08:00:00", 
   "slug": 21832, 
+  "publisher": "penmaenmawr.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Penmaenmawr and Dwygylchfi Community website", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T080000/+NwS5fvMR134o7DQqKdcJg==", 
+  "scope": "root", 
   "start_date": "2015-04-14T08:00:00Z"
 }
 

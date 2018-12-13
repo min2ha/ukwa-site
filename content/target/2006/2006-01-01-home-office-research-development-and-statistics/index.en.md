@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.homeoffice.gov.uk/rds/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Home Office Research Development and Statistics", 
-  "record_id": "20060101T120000/Wv2Zz3bxqp7P0VAWUoWODw==", 
-  "publisher": "homeoffice.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 8486913, 
+  "publisher": "homeoffice.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Home Office Research Development and Statistics", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Wv2Zz3bxqp7P0VAWUoWODw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.workingclassmusic.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Working Class Life & Music Festival 2011", 
-  "record_id": "20131014T100000/CyjUenSzYCT6adKs8jXzwg==", 
-  "publisher": "workingclassmusic.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588450, 
+  "publisher": "workingclassmusic.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Working Class Life & Music Festival 2011", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/CyjUenSzYCT6adKs8jXzwg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.londonarthouse.com/", 
-  "description": "Suite of meeting rooms in Islington, London", 
   "end_date": null, 
-  "title": "London Art House", 
-  "record_id": "20180808T090000/8SVSqBrKbThQcTIIOa78xQ==", 
-  "publisher": "londonarthouse.com", 
+  "date": "2018-08-08T09:00:00", 
   "slug": 69769, 
+  "publisher": "londonarthouse.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London Art House", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180808T090000/8SVSqBrKbThQcTIIOa78xQ==", 
+  "scope": "root", 
   "start_date": "2018-08-08T09:00:00Z"
 }
 

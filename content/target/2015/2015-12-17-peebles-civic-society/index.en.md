@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.peeblescivicsociety.co.uk/", 
-  "description": "Society concerned with planning and architectural matters in Peebles, Peeblesshire, Scotland", 
   "end_date": null, 
-  "title": "Peebles Civic Society", 
-  "record_id": "20151217T090000//5oSPrYSHnT652Kj6JCeKw==", 
-  "publisher": "peeblescivicsociety.co.uk", 
+  "date": "2015-12-17T09:00:00", 
   "slug": 33561, 
+  "publisher": "peeblescivicsociety.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Peebles Civic Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151217T090000//5oSPrYSHnT652Kj6JCeKw==", 
+  "scope": "root", 
   "start_date": "2015-12-17T09:00:00Z"
 }
 

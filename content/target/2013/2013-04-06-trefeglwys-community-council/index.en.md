@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trefeglwys.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Trefeglwys Community Council", 
-  "record_id": "20130406T010000/dbcbjkaFQJWLM1DBtBlxnA==", 
-  "publisher": "trefeglwys.com", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15396, 
+  "publisher": "trefeglwys.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trefeglwys Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/dbcbjkaFQJWLM1DBtBlxnA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

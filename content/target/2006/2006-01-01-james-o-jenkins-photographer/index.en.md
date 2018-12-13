@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://jamesojenkins.co.uk/", 
-  "description": "<p>James O. Jenkins is a Welsh photographer based in London.</p>\n", 
   "end_date": null, 
-  "title": "James O. Jenkins Photographer", 
-  "record_id": "20060101T120000/A9AJBlrLKoQCxzcP7kAoHQ==", 
-  "publisher": "jamesojenkins.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338479, 
+  "publisher": "jamesojenkins.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "James O. Jenkins Photographer", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/A9AJBlrLKoQCxzcP7kAoHQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

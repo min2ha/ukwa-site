@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/masoncrossbooks/", 
-  "description": "The twitter profile of crime writer, Mason Cross.", 
   "end_date": null, 
-  "title": "Mason Cross (@MasonCrossBooks) on Twitter", 
-  "record_id": "20151118T090000/nsoxcJpNRokcxjX5BZ7mVw==", 
-  "publisher": "twitter.com", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32664, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mason Cross (@MasonCrossBooks) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/nsoxcJpNRokcxjX5BZ7mVw==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cambrianmines.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cambrian Mines Trust", 
-  "record_id": "20150812T100000/CaaM8c+BN9ZxTKVWrkHZng==", 
-  "publisher": "cambrianmines.co.uk", 
+  "date": "2015-08-12T10:00:00", 
   "slug": 29735, 
+  "publisher": "cambrianmines.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cambrian Mines Trust", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150812T100000/CaaM8c+BN9ZxTKVWrkHZng==", 
+  "scope": "root", 
   "start_date": "2015-08-12T10:00:00Z"
 }
 

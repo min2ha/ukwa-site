@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.philipgross.co.uk/", 
-  "description": "<p>Philip Gross is a novelist and a Professor of Creative Writing at Glamorgan University.</p>\n", 
   "end_date": null, 
-  "title": "Philip Gross", 
-  "record_id": "20060101T120000/2bDArQ3XyKh10zjWfyMRAQ==", 
-  "publisher": "philipgross.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 286294080, 
+  "publisher": "philipgross.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Philip Gross", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/2bDArQ3XyKh10zjWfyMRAQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

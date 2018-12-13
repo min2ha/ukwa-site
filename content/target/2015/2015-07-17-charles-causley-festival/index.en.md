@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://charlescausleyfestival.co.uk/", 
-  "description": "Charles Causley Festival", 
   "end_date": null, 
-  "title": "Charles Causley Festival ", 
-  "record_id": "20150717T100000/sUv20NTHsQgtQxJYw82wXw==", 
-  "publisher": "charlescausleyfestival.co.uk", 
+  "date": "2015-07-17T10:00:00", 
   "slug": 29189, 
+  "publisher": "charlescausleyfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Charles Causley Festival ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150717T100000/sUv20NTHsQgtQxJYw82wXw==", 
+  "scope": "root", 
   "start_date": "2015-07-17T10:00:00Z"
 }
 

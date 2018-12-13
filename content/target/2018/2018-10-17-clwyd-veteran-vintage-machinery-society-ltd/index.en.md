@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-17T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.cvvms.co.uk/", 
-  "description": "This is the website for the Clwyd Veteran and Vintage Machinery Society Ltd established in 1976.", 
   "end_date": null, 
-  "title": "Clwyd Veteran & Vintage Machinery Society Ltd.", 
-  "record_id": "20181017T090000/8tf73B4hxWTZOVZfBMopcQ==", 
-  "publisher": "cvvms.co.uk", 
+  "date": "2018-10-17T09:00:00", 
   "slug": 81540, 
+  "publisher": "cvvms.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clwyd Veteran & Vintage Machinery Society Ltd.", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181017T090000/8tf73B4hxWTZOVZfBMopcQ==", 
+  "scope": "root", 
   "start_date": "2018-10-17T09:00:00Z"
 }
 

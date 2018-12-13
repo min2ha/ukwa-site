@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T10:00:00", 
-  "open_access": true, 
   "target_url": "http://youthcymru.org.uk/", 
-  "description": "Youth Cymru is a charity that works with youth groups, youth workers and young people throughout the whole of Wales.", 
   "end_date": null, 
-  "title": "Youth Cymru", 
-  "record_id": "20150925T100000/ZTQO1M6cfEzpYOwCagoQng==", 
-  "publisher": "youthcymru.org.uk", 
+  "date": "2015-09-25T10:00:00", 
   "slug": 30843, 
+  "publisher": "youthcymru.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Youth Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T100000/ZTQO1M6cfEzpYOwCagoQng==", 
+  "scope": "root", 
   "start_date": "2015-09-25T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lowriannrichards.com/", 
-  "description": "Lowri-Ann Richards is a Welsh actress, singer, cabaret and music hall performer. ", 
   "end_date": null, 
-  "title": "Lowri-Ann Richards", 
-  "record_id": "20180412T090000/zu2MSyND9N5+sBKnGyL39g==", 
-  "publisher": "lowriannrichards.com", 
+  "date": "2018-04-12T09:00:00", 
   "slug": 64003, 
+  "publisher": "lowriannrichards.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lowri-Ann Richards", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180412T090000/zu2MSyND9N5+sBKnGyL39g==", 
+  "scope": "subdomains", 
   "start_date": "2018-04-12T09:00:00Z"
 }
 

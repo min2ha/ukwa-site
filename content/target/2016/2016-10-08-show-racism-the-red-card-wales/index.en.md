@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.theredcardwales.org/", 
-  "description": "Show Racism the Red Card is the UK\u2019s anti-racism educational charity.", 
   "end_date": null, 
-  "title": "Show Racism the Red Card Wales", 
-  "record_id": "20161008T100000//fb5uSWaG9ZOmXdToxNrJg==", 
-  "publisher": "theredcardwales.org", 
+  "date": "2016-10-08T10:00:00", 
   "slug": 46025, 
+  "publisher": "theredcardwales.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Show Racism the Red Card Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161008T100000//fb5uSWaG9ZOmXdToxNrJg==", 
+  "scope": "root", 
   "start_date": "2016-10-08T10:00:00Z"
 }
 

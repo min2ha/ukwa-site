@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://annedenholm.com/", 
-  "description": "Anne Denholm is official harpist to the Prince of Wales.", 
   "end_date": null, 
-  "title": "Anne Denholm Harpist", 
-  "record_id": "20170920T090000/YWvbHzH6HFNYSdM7pZGGCQ==", 
-  "publisher": "annedenholm.com", 
+  "date": "2017-09-20T09:00:00", 
   "slug": 57286, 
+  "publisher": "annedenholm.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Anne Denholm Harpist", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170920T090000/YWvbHzH6HFNYSdM7pZGGCQ==", 
+  "scope": "root", 
   "start_date": "2017-09-20T09:00:00Z"
 }
 

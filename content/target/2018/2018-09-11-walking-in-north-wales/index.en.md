@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.walkingnorthwales.co.uk/", 
-  "description": "Walking in North Wales is a Tourism Partnership North Wales website and provides details of walks across north Wales.", 
   "end_date": null, 
-  "title": "Walking in North Wales", 
-  "record_id": "20180911T090000/aGMnwkF2psoLmheHvjfSyA==", 
-  "publisher": "walkingnorthwales.co.uk", 
+  "date": "2018-09-11T09:00:00", 
   "slug": 71031, 
+  "publisher": "walkingnorthwales.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Walking in North Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180911T090000/aGMnwkF2psoLmheHvjfSyA==", 
+  "scope": "root", 
   "start_date": "2018-09-11T09:00:00Z"
 }
 

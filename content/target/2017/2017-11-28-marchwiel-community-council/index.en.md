@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.marchwiel.org.uk/", 
-  "description": "Marchwiel is a village located outside Wrexham.", 
   "end_date": null, 
-  "title": "Marchwiel Community Council", 
-  "record_id": "20171128T090000/6WuX1/3DZZxunbGQxoQMkw==", 
-  "publisher": "marchwiel.org.uk", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59256, 
+  "publisher": "marchwiel.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Marchwiel Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/6WuX1/3DZZxunbGQxoQMkw==", 
+  "scope": "subdomains", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

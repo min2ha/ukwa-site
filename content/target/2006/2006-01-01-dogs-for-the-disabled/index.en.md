@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dogsforthedisabled.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Dogs for the Disabled", 
-  "record_id": "20060101T120000/4EBUc76H7LqZKoIIw4/wSA==", 
-  "publisher": "dogsforthedisabled.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4492, 
+  "publisher": "dogsforthedisabled.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dogs for the Disabled", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/4EBUc76H7LqZKoIIw4/wSA==", 
+  "scope": "root", 
   "start_date": null
 }
 

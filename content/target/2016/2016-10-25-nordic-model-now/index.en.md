@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-25T11:00:00", 
-  "open_access": true, 
   "target_url": "https://nordicmodelnow.org/", 
-  "description": "Nordic Model Now! is a new UK grassroots organisation campaigning for the abolition of prostitution and related practices (such as lapdancing, pornography and surrogacy).", 
   "end_date": null, 
-  "title": "Nordic Model Now!", 
-  "record_id": "20161025T110000/ejSlFK04XZ2SgcMUfqRhJw==", 
-  "publisher": "nordicmodelnow.org", 
+  "date": "2016-10-25T11:00:00", 
   "slug": 46452, 
+  "publisher": "nordicmodelnow.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Nordic Model Now!", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161025T110000/ejSlFK04XZ2SgcMUfqRhJw==", 
+  "scope": "root", 
   "start_date": "2016-10-25T11:00:00Z"
 }
 

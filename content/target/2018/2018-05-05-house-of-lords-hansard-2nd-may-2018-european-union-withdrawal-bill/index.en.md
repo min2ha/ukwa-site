@@ -1,14 +1,30 @@
 {
   "target_url": "https://hansard.parliament.uk/Lords/2018-05-02/debates/28839055-F2B2-497C-A4DF-D797224BC747/EuropeanUnion(Withdrawal)Bill", 
-  "description": "the Government suffered a tenth defeat on the European Union (Withdrawal) Bill, over that amendment from former European Commissioner Lord Patten enshrining support for the Good Friday Agreement in the legislation while giving a veto to the Irish Government over post-Brexit border arrangements.", 
   "end_date": "2018-05-15T00:00:00Z", 
   "date": "2018-05-05T09:00:00", 
   "slug": 65206, 
-  "subject": "Brexit", 
   "publisher": "parliament.uk", 
   "open_access": true, 
+  "npld": true, 
   "title": "House of Lords Hansard: 2nd May 2018: European Union (Withdrawal) Bill", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1021, 
+      "name": "Brexit : Impact on Northern Ireland"
+    }
+  ], 
   "record_id": "20180505T090000/Dvnt917Bh5+vm25HUnpFdg==", 
+  "scope": "root", 
   "start_date": "2018-05-05T09:00:00Z"
 }
 

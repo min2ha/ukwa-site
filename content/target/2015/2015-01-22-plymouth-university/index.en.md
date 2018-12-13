@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-22T00:00:00", 
-  "open_access": false, 
   "target_url": "https://www.plymouth.ac.uk/", 
-  "description": "<p>Official website of the Plymouth University.</p>\n", 
   "end_date": null, 
-  "title": "Plymouth University", 
-  "record_id": "20150122T000000/dnFHoOAqLHcNKoTrNa8WJg==", 
-  "publisher": "plymouth.ac.uk", 
+  "date": "2015-01-22T00:00:00", 
   "slug": 16063, 
+  "publisher": "plymouth.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Plymouth University", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150122T000000/dnFHoOAqLHcNKoTrNa8WJg==", 
+  "scope": "root", 
   "start_date": "2015-01-22T00:00:00Z"
 }
 

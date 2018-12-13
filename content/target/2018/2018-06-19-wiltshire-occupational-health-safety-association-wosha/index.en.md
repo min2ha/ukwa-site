@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wosha.btik.com/", 
-  "description": "OSHA is a non profit registered charity consisting of volunteer safety and environmental professionals covering Wiltshire.", 
   "end_date": null, 
-  "title": "Wiltshire Occupational Health & Safety Association (WOSHA)", 
-  "record_id": "20180619T090000/Ckw1WDG7IqmEqFNNDR81wQ==", 
-  "publisher": "btik.com", 
+  "date": "2018-06-19T09:00:00", 
   "slug": 67541, 
+  "publisher": "btik.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wiltshire Occupational Health & Safety Association (WOSHA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180619T090000/Ckw1WDG7IqmEqFNNDR81wQ==", 
+  "scope": "root", 
   "start_date": "2018-06-19T09:00:00Z"
 }
 

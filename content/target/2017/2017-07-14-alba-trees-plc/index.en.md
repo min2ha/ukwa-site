@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.albatrees.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Alba Trees plc", 
-  "record_id": "20170714T090000/AdG9hsotI+hY1efZP1pbhA==", 
-  "publisher": "albatrees.co.uk", 
+  "date": "2017-07-14T09:00:00", 
   "slug": 55751, 
+  "publisher": "albatrees.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alba Trees plc", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170714T090000/AdG9hsotI+hY1efZP1pbhA==", 
+  "scope": "root", 
   "start_date": "2017-07-14T09:00:00Z"
 }
 

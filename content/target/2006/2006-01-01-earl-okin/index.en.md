@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.earlokin.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Earl Okin", 
-  "record_id": "20060101T120000/IYPHuysYrFGAQn0I90FSGA==", 
-  "publisher": "earlokin.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65208583, 
+  "publisher": "earlokin.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Earl Okin", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/IYPHuysYrFGAQn0I90FSGA==", 
+  "scope": "root", 
   "start_date": null
 }
 

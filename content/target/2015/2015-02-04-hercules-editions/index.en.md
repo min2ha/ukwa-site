@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-04T06:00:00", 
-  "open_access": false, 
   "target_url": "http://herculeseditions.wordpress.com/", 
-  "description": "<p>Site of Hercules Editions, the publisher</p>\n", 
   "end_date": null, 
-  "title": "Hercules Editions", 
-  "record_id": "20150204T060000/BU2iYgbNURv4gz68wawGVg==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-02-04T06:00:00", 
   "slug": 16213, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hercules Editions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150204T060000/BU2iYgbNURv4gz68wawGVg==", 
+  "scope": "root", 
   "start_date": "2015-02-04T06:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.brianiddon.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dr Brian Iddon MP", 
-  "record_id": "20060101T120000/VdA0JXZDDJRY/5E5N6F0TA==", 
-  "publisher": "brianiddon.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 38305805, 
+  "publisher": "brianiddon.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Dr Brian Iddon MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/VdA0JXZDDJRY/5E5N6F0TA==", 
+  "scope": "root", 
   "start_date": null
 }
 

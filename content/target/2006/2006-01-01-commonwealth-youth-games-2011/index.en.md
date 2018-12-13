@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cyg2011.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Commonwealth Youth Games 2011", 
-  "record_id": "20060101T120000/HsPs8NrBwQMcDDpnBGMSkg==", 
-  "publisher": "cyg2011.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62226452, 
+  "publisher": "cyg2011.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Commonwealth Youth Games 2011", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HsPs8NrBwQMcDDpnBGMSkg==", 
+  "scope": "root", 
   "start_date": null
 }
 

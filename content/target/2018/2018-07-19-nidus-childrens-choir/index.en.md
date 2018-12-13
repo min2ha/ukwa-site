@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.niduschildrenschoir.co.uk/", 
-  "description": "Nidus Children's Choir was formed in the autumn of 2006 and are based in  Upper Cwmbran.", 
   "end_date": null, 
-  "title": "Nidus Children's Choir", 
-  "record_id": "20180719T090000/z25jauHEKx36gcw9CIIp+Q==", 
-  "publisher": "niduschildrenschoir.co.uk", 
+  "date": "2018-07-19T09:00:00", 
   "slug": 69025, 
+  "publisher": "niduschildrenschoir.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nidus Children's Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180719T090000/z25jauHEKx36gcw9CIIp+Q==", 
+  "scope": "root", 
   "start_date": "2018-07-19T09:00:00Z"
 }
 

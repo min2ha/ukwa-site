@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.criticalnetwork.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Critical Network", 
-  "record_id": "20131014T100000/v1gD4luqAsrxowbf1K6aaA==", 
-  "publisher": "criticalnetwork.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588155, 
+  "publisher": "criticalnetwork.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Critical Network", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/v1gD4luqAsrxowbf1K6aaA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

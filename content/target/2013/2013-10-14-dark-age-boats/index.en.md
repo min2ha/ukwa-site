@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://dark-age-boats.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Dark Age Boats", 
-  "record_id": "20131014T100000/4Q0CRUSMU1blSu5flN/GcQ==", 
-  "publisher": "dark-age-boats.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741964, 
+  "publisher": "dark-age-boats.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Dark Age Boats", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/4Q0CRUSMU1blSu5flN/GcQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

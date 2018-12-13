@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.uksafari.com/", 
-  "description": "UK Safari is a website for anyone interested in the wildlife of the UK.", 
   "end_date": null, 
-  "title": "UK Safari", 
-  "record_id": "20150312T090000/MPF8HINoGUlV0bVMzBgv8Q==", 
-  "publisher": "uksafari.com", 
+  "date": "2015-03-12T09:00:00", 
   "slug": 17930, 
+  "publisher": "uksafari.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "UK Safari", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150312T090000/MPF8HINoGUlV0bVMzBgv8Q==", 
+  "scope": "root", 
   "start_date": "2015-03-12T09:00:00Z"
 }
 

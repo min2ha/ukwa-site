@@ -1,14 +1,34 @@
 {
   "target_url": "http://politicalbetting.com/", 
-  "description": "Political Betting is a British political blog.", 
   "end_date": null, 
   "date": "2013-10-14T09:00:00", 
   "slug": 140193, 
-  "subject": "Blogs", 
   "publisher": "politicalbetting.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Political Betting", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }, 
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20131014T090000/Wewv3uxgcTX9G6DizQtEbQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://electroniccigarettebud.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Best e Cigarette UK", 
-  "record_id": "20060101T120000/GKBXw3yehFWZmooywJx+Xw==", 
-  "publisher": "electroniccigarettebud.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11262, 
+  "publisher": "electroniccigarettebud.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Best e Cigarette UK", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/GKBXw3yehFWZmooywJx+Xw==", 
+  "scope": "root", 
   "start_date": null
 }
 

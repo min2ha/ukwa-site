@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nottspeoplesassembly.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "The official site of Nottingham People's Assembly", 
-  "record_id": "20060101T120000/mOLkR9f+OKjA28Ex2//sxg==", 
-  "publisher": "nottspeoplesassembly.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49629, 
+  "publisher": "nottspeoplesassembly.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "The official site of Nottingham People's Assembly", 
+  "organisation": {
+    "abbreviation": "TCD", 
+    "id": 6, 
+    "name": "Trinity College Dublin"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/mOLkR9f+OKjA28Ex2//sxg==", 
+  "scope": "root", 
   "start_date": null
 }
 

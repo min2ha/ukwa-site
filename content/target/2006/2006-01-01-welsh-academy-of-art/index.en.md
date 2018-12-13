@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshacademyofart.com/", 
-  "description": "<p>The Wales Academy of Art is based in Crickhowell and is run by Lucy Corbett.</p>\n", 
   "end_date": null, 
-  "title": "Welsh Academy of Art", 
-  "record_id": "20060101T120000/pTmjl3Epvx/ixPWI7gLsbg==", 
-  "publisher": "welshacademyofart.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15615, 
+  "publisher": "welshacademyofart.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Academy of Art", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pTmjl3Epvx/ixPWI7gLsbg==", 
+  "scope": "root", 
   "start_date": null
 }
 

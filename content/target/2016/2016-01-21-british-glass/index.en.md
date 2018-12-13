@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.britglass.org.uk/", 
-  "description": "British Glass act as the UK industry\u2019s focal point, playing the principal role in communicating the concerns and aspirations of our Members to the Government, the European Union and other external interest groups and trade bodies.", 
   "end_date": null, 
-  "title": "British Glass", 
-  "record_id": "20160121T090000/d2zhx0rrWh9GiBhSNON3RQ==", 
-  "publisher": "britglass.org.uk", 
+  "date": "2016-01-21T09:00:00", 
   "slug": 34271, 
+  "publisher": "britglass.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Glass", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160121T090000/d2zhx0rrWh9GiBhSNON3RQ==", 
+  "scope": "root", 
   "start_date": "2016-01-21T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-10T10:00:00", 
-  "open_access": true, 
   "target_url": "http://garethglyn.info/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gareth Glyn", 
-  "record_id": "20150710T100000/xCnjwoDunUT9m1UGF7tLHw==", 
-  "publisher": "garethglyn.info", 
+  "date": "2015-07-10T10:00:00", 
   "slug": 339312703, 
+  "publisher": "garethglyn.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Gareth Glyn", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150710T100000/xCnjwoDunUT9m1UGF7tLHw==", 
+  "scope": "root", 
   "start_date": "2015-07-10T10:00:00Z"
 }
 

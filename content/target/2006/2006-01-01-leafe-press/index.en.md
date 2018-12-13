@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.leafepress.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Leafe Press", 
-  "record_id": "20060101T120000/H+28NK51bbSsYnqU+nq2Vw==", 
-  "publisher": "leafepress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 93028413, 
+  "publisher": "leafepress.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Leafe Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/H+28NK51bbSsYnqU+nq2Vw==", 
+  "scope": "root", 
   "start_date": null
 }
 

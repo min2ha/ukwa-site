@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cowbridgehistorysociety.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cowbridge History Society", 
-  "record_id": "20060101T120000/WByQwNcAYBOqbFTKCDYWNw==", 
-  "publisher": "cowbridgehistorysociety.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 51938, 
+  "publisher": "cowbridgehistorysociety.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cowbridge History Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WByQwNcAYBOqbFTKCDYWNw==", 
+  "scope": "root", 
   "start_date": null
 }
 

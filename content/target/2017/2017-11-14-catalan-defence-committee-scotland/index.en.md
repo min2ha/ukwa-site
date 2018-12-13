@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-14T09:00:00", 
-  "open_access": false, 
   "target_url": "https://catalandefence.org/", 
-  "description": "Site of a Catalan independence solidarity group based in Scotland.", 
   "end_date": null, 
-  "title": "Catalan Defence Committee Scotland", 
-  "record_id": "20171114T090000/5XPsrzJczh+sT5/dmi/Cjg==", 
-  "publisher": "catalandefence.org", 
+  "date": "2017-11-14T09:00:00", 
   "slug": 58754, 
+  "publisher": "catalandefence.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Catalan Defence Committee Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171114T090000/5XPsrzJczh+sT5/dmi/Cjg==", 
+  "scope": "root", 
   "start_date": "2017-11-14T09:00:00Z"
 }
 

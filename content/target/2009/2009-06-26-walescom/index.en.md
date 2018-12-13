@@ -1,13 +1,16 @@
 {
-  "date": "2009-06-26T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.wales.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wales.com", 
-  "record_id": "20090626T000000/BctGBgTof3WhMSM4s3ZcHg==", 
-  "publisher": "wales.com", 
+  "date": "2009-06-26T00:00:00", 
   "slug": 31260677, 
+  "publisher": "wales.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Wales.com", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20090626T000000/BctGBgTof3WhMSM4s3ZcHg==", 
+  "scope": "root", 
   "start_date": "2009-06-26T00:00:00Z"
 }
 

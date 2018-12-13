@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-27T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/bbciwonder/", 
-  "description": "The Facebook profile of BBC iWonder. They post stories that make you think, from across BBC TV, radio, online and beyond.", 
   "end_date": "2017-03-04T01:00:00Z", 
-  "title": "BBC iWonder on Facebook", 
-  "record_id": "20170227T100000/xoQbyTp8/A6ogJ7yaLZUbw==", 
-  "publisher": "facebook.com", 
+  "date": "2017-02-27T10:00:00", 
   "slug": 41270, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "BBC iWonder on Facebook", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170227T100000/xoQbyTp8/A6ogJ7yaLZUbw==", 
+  "scope": "subdomains", 
   "start_date": "2017-02-27T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-08T10:00:00", 
-  "open_access": true, 
   "target_url": "http://meidrim.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Meidrim | Meidrim Community Council", 
-  "record_id": "20160608T100000/KzCP7uLJu4AePufAdnr3pA==", 
-  "publisher": "meidrim.org.uk", 
+  "date": "2016-06-08T10:00:00", 
   "slug": 42601, 
+  "publisher": "meidrim.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Meidrim | Meidrim Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160608T100000/KzCP7uLJu4AePufAdnr3pA==", 
+  "scope": "root", 
   "start_date": "2016-06-08T10:00:00Z"
 }
 

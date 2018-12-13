@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-13T06:00:00", 
-  "open_access": false, 
   "target_url": "https://www.chocolate.co.uk", 
-  "description": "<p>The Chocolate Society is a small artisan chocolate company based in England.</p>\n", 
   "end_date": null, 
-  "title": "Chocolate Society, The", 
-  "record_id": "20150113T060000/pgqr+jIuKLlUvCCbijeXow==", 
-  "publisher": "chocolate.co.uk", 
+  "date": "2015-01-13T06:00:00", 
   "slug": 15808, 
+  "publisher": "chocolate.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Chocolate Society, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150113T060000/pgqr+jIuKLlUvCCbijeXow==", 
+  "scope": "root", 
   "start_date": "2015-01-13T06:00:00Z"
 }
 

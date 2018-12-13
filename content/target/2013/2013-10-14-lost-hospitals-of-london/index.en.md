@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://ezitis.myzen.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Lost Hospitals of London", 
-  "record_id": "20131014T100000/xhpafkrD0io5jYCzinF5iw==", 
-  "publisher": "myzen.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 61833283, 
+  "publisher": "myzen.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Lost Hospitals of London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/xhpafkrD0io5jYCzinF5iw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

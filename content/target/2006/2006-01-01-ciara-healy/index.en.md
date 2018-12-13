@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://ciarahealy.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Ciara Healy", 
-  "record_id": "20060101T120000/daOEFRhInl2StyM2dfeQSA==", 
-  "publisher": "ciarahealy.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59703329, 
+  "publisher": "ciarahealy.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Ciara Healy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/daOEFRhInl2StyM2dfeQSA==", 
+  "scope": "root", 
   "start_date": null
 }
 

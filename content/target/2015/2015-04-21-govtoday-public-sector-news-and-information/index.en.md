@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.govtoday.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Govtoday: public sector news and information", 
-  "record_id": "20150421T090000/YJYFyeYCp0KkXiVNlSQDZQ==", 
-  "publisher": "govtoday.co.uk", 
+  "date": "2015-04-21T09:00:00", 
   "slug": 22066, 
+  "publisher": "govtoday.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Govtoday: public sector news and information", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150421T090000/YJYFyeYCp0KkXiVNlSQDZQ==", 
+  "scope": "root", 
   "start_date": "2015-04-21T09:00:00Z"
 }
 

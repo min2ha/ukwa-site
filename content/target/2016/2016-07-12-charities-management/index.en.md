@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.charitiesmanagement.com/", 
-  "description": "Charities Management magazine appears six times a year and the material in this magazine is aimed at UK readers.", 
   "end_date": null, 
-  "title": "Charities Management", 
-  "record_id": "20160712T100000/qKKT4mCi21IYpoNAEwbUqQ==", 
-  "publisher": "charitiesmanagement.com", 
+  "date": "2016-07-12T10:00:00", 
   "slug": 44225, 
+  "publisher": "charitiesmanagement.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Charities Management", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160712T100000/qKKT4mCi21IYpoNAEwbUqQ==", 
+  "scope": "subdomains", 
   "start_date": "2016-07-12T10:00:00Z"
 }
 

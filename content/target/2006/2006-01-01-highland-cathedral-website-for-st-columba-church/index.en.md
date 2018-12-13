@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.highlandcathedral.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Highland Cathedral : website for St Columba Church", 
-  "record_id": "20060101T120000/YUDi0qrGd1aKlKk2zeGf2w==", 
-  "publisher": "highlandcathedral.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117103, 
+  "publisher": "highlandcathedral.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Highland Cathedral : website for St Columba Church", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/YUDi0qrGd1aKlKk2zeGf2w==", 
+  "scope": "root", 
   "start_date": null
 }
 

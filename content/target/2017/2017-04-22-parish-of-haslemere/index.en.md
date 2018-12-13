@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.haslemereparish.org/", 
-  "description": "The Parish of Haslemere worships together in two churches St Bartholomew\u2019s on Derby Road and St Christopher\u2019s on St Christopher\u2019s Green.", 
   "end_date": null, 
   "date": "2017-04-22T09:00:00", 
   "slug": 52218, 
-  "subject": "Religion/Theology", 
   "publisher": "haslemereparish.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Parish of Haslemere", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170422T090000/LGVH8L+kP5BZuNfZ/B0c3w==", 
+  "scope": "root", 
   "start_date": "2017-04-22T09:00:00Z"
 }
 

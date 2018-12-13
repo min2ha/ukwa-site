@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.moravian.org.uk/", 
-  "description": "<p>Christian Reformed<br />\nA Protestant Church originating in Bohemia and Moravia in the sixteenth century</p>\n", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 3317, 
-  "subject": "Religion/Theology", 
   "publisher": "moravian.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Moravian Church of the British Province", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/RlBhMtNYkePdamo/HiqK9A==", 
+  "scope": "root", 
   "start_date": null
 }
 

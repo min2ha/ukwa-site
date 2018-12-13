@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://uksif.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "UK Sustainable Investment and Finance Association (UKSIF)", 
-  "record_id": "20060101T120000/KxqmMI8KUj5swn5jPsNlZQ==", 
-  "publisher": "uksif.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12250, 
+  "publisher": "uksif.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "UK Sustainable Investment and Finance Association (UKSIF)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/KxqmMI8KUj5swn5jPsNlZQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

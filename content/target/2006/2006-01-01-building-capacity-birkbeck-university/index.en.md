@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbk.ac.uk/mybirkbeck/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Building Capacity: Birkbeck University", 
-  "record_id": "20060101T120000/qq5EEMIVoskG1SStgYXW7g==", 
-  "publisher": "bbk.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588181, 
+  "publisher": "bbk.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Building Capacity: Birkbeck University", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/qq5EEMIVoskG1SStgYXW7g==", 
+  "scope": "root", 
   "start_date": null
 }
 

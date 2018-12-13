@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://kps.biz/", 
-  "description": null, 
   "end_date": null, 
-  "title": "KPS Consultants", 
-  "record_id": "20060101T120000/o7iJCDRi+zW4JwCZzcG6jA==", 
-  "publisher": "kps.biz", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11815, 
+  "publisher": "kps.biz", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "KPS Consultants", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/o7iJCDRi+zW4JwCZzcG6jA==", 
+  "scope": "root", 
   "start_date": null
 }
 

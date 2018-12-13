@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://technologyenhancedlearning.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Building Capacity: University of Plymouth (BCUP)", 
-  "record_id": "20060101T120000/fAjTjRonhFm/ITxvVaJ1QA==", 
-  "publisher": "technologyenhancedlearning.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 58195988, 
+  "publisher": "technologyenhancedlearning.net", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Building Capacity: University of Plymouth (BCUP)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fAjTjRonhFm/ITxvVaJ1QA==", 
+  "scope": "root", 
   "start_date": null
 }
 

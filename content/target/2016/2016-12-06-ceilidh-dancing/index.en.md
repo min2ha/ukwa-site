@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ceilidhculture.co.uk/", 
-  "description": "Site dedicated to Scottish ceilidh dance and music.", 
   "end_date": null, 
-  "title": " Ceilidh Dancing", 
-  "record_id": "20161206T090000/8mE9Ui9hkwbeOX/qS0SfKQ==", 
-  "publisher": "ceilidhculture.co.uk", 
+  "date": "2016-12-06T09:00:00", 
   "slug": 47649, 
+  "publisher": "ceilidhculture.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Ceilidh Dancing", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161206T090000/8mE9Ui9hkwbeOX/qS0SfKQ==", 
+  "scope": "root", 
   "start_date": "2016-12-06T09:00:00Z"
 }
 

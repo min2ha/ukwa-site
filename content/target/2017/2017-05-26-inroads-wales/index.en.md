@@ -1,13 +1,21 @@
 {
-  "date": "2017-05-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://inroadswales.org/", 
-  "description": "Inroads is a Cardiff based charity providing supporting individuals around drug and alcohol issues.", 
   "end_date": null, 
-  "title": "Inroads Wales", 
-  "record_id": "20170526T090000/MO3nQzxgNTSsFqBuFaFDXA==", 
-  "publisher": "inroadswales.org", 
+  "date": "2017-05-26T09:00:00", 
   "slug": 53689, 
+  "publisher": "inroadswales.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Inroads Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170526T090000/MO3nQzxgNTSsFqBuFaFDXA==", 
+  "scope": "root", 
   "start_date": "2017-05-26T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.zhen-hua.co.uk/", 
-  "description": "Acupuncture and bodywork based from a private clinic in Westbourne Park, W11.", 
   "end_date": null, 
-  "title": "Zhen Hua Integrated Oriental Healthcare", 
-  "record_id": "20060101T120000/wFCBW/c3W5KyQ+YMr6naeQ==", 
-  "publisher": "zhen-hua.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 58285, 
+  "publisher": "zhen-hua.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Zhen Hua Integrated Oriental Healthcare", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/wFCBW/c3W5KyQ+YMr6naeQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

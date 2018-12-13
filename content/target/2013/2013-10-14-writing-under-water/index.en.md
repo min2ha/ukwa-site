@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.writingunderwater.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Writing Under Water", 
-  "record_id": "20131014T100000/XMqhcUztxJmS9Vh0GX7o7g==", 
-  "publisher": "writingunderwater.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 59703326, 
+  "publisher": "writingunderwater.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Writing Under Water", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/XMqhcUztxJmS9Vh0GX7o7g==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

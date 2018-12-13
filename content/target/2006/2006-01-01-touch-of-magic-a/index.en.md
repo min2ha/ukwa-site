@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.atouchofmagic.biz/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Touch of Magic, A", 
-  "record_id": "20060101T120000/3nEY0klmHQqZz7CAc67LOA==", 
-  "publisher": "atouchofmagic.biz", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11784, 
+  "publisher": "atouchofmagic.biz", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Touch of Magic, A", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/3nEY0klmHQqZz7CAc67LOA==", 
+  "scope": "root", 
   "start_date": null
 }
 

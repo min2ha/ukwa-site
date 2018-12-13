@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.northop.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Northop Village", 
-  "record_id": "20151013T100000/woTiwC37vdlaAzVCNXySaA==", 
-  "publisher": "northop.org.uk", 
+  "date": "2015-10-13T10:00:00", 
   "slug": 31400, 
+  "publisher": "northop.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Northop Village", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151013T100000/woTiwC37vdlaAzVCNXySaA==", 
+  "scope": "root", 
   "start_date": "2015-10-13T10:00:00Z"
 }
 

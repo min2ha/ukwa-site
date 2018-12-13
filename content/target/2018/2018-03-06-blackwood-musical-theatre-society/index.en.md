@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://blackwoodmusicaltheatresociety.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Blackwood Musical Theatre Society", 
-  "record_id": "20180306T090000/m/ikqg53d7X/wb1BwLfN3g==", 
-  "publisher": "blackwoodmusicaltheatresociety.org", 
+  "date": "2018-03-06T09:00:00", 
   "slug": 62117, 
+  "publisher": "blackwoodmusicaltheatresociety.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Blackwood Musical Theatre Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180306T090000/m/ikqg53d7X/wb1BwLfN3g==", 
+  "scope": "root", 
   "start_date": "2018-03-06T09:00:00Z"
 }
 

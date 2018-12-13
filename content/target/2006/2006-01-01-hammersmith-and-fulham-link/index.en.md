@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lbhflink.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hammersmith and Fulham LINk", 
-  "record_id": "20060101T120000/SOXXgyZKVAs6hVLg/FsnEw==", 
-  "publisher": "lbhflink.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 136020156, 
+  "publisher": "lbhflink.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Hammersmith and Fulham LINk", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/SOXXgyZKVAs6hVLg/FsnEw==", 
+  "scope": "root", 
   "start_date": null
 }
 

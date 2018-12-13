@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.experience-barnsley.com/", 
-  "description": "Experience Barnsley Museum and Discovery Centre is dedicated to the history and people of Barnsley.", 
   "end_date": null, 
-  "title": "Experience Barnsley", 
-  "record_id": "20151120T090000/zzVS+GUOi7UP/mnymizYnw==", 
-  "publisher": "experience-barnsley.com", 
+  "date": "2015-11-20T09:00:00", 
   "slug": 32744, 
+  "publisher": "experience-barnsley.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Experience Barnsley", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151120T090000/zzVS+GUOi7UP/mnymizYnw==", 
+  "scope": "root", 
   "start_date": "2015-11-20T09:00:00Z"
 }
 

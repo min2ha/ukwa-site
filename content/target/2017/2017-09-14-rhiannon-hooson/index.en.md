@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://rhiannonhooson.blogspot.co.uk/", 
-  "description": "Dr. Rhiannon Hooson is a Welsh poet and author. ", 
   "end_date": null, 
-  "title": "Rhiannon Hooson", 
-  "record_id": "20170914T090000/vJUTedofQQ7ZWg53jnroaA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2017-09-14T09:00:00", 
   "slug": 57162, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rhiannon Hooson", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170914T090000/vJUTedofQQ7ZWg53jnroaA==", 
+  "scope": "subdomains", 
   "start_date": "2017-09-14T09:00:00Z"
 }
 

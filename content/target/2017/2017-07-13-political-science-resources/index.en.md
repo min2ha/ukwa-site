@@ -1,14 +1,34 @@
 {
   "target_url": "http://www.politicsresources.net", 
-  "description": "Politics and Government mainly in the UK and the USA", 
   "end_date": null, 
   "date": "2017-07-13T09:00:00", 
   "slug": 52149, 
-  "subject": "Political Action and Communication", 
   "publisher": "politicsresources.net", 
   "open_access": false, 
+  "npld": true, 
   "title": "Political Science Resources", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 208, 
+      "name": "Political Action and Communication"
+    }, 
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170713T090000/HIXOgjF5QatTH0vRvz2Xcg==", 
+  "scope": "root", 
   "start_date": "2017-07-13T09:00:00Z"
 }
 

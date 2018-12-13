@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://howsheilaseesit.wordpress.com/", 
-  "description": "Sheila McNeill's blog about educational technology in Higher Education.", 
   "end_date": null, 
-  "title": "HowsheilaseesIT", 
-  "record_id": "20060101T120000/Z3gk2p/xI7nXZeuytv9GNA==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 39466, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "HowsheilaseesIT", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Z3gk2p/xI7nXZeuytv9GNA==", 
+  "scope": "root", 
   "start_date": null
 }
 

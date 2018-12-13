@@ -1,13 +1,16 @@
 {
-  "date": "2012-11-28T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sioellandysulshow.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sioe Llandysul Show", 
-  "record_id": "20121128T000000/GWVawJ7avj+uUIhpShgfWQ==", 
-  "publisher": "sioellandysulshow.co.uk", 
+  "date": "2012-11-28T00:00:00", 
   "slug": 79921222, 
+  "publisher": "sioellandysulshow.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sioe Llandysul Show", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20121128T000000/GWVawJ7avj+uUIhpShgfWQ==", 
+  "scope": "root", 
   "start_date": "2012-11-28T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://7reasonstobrew.co.uk/", 
-  "description": "Site of a brewer located in Aberdeenshire.", 
   "end_date": null, 
-  "title": "7 Reasons to Brew", 
-  "record_id": "20180622T090000/VEdQESDjQH/LEXtS1sPJag==", 
-  "publisher": "7reasonstobrew.co.uk", 
+  "date": "2018-06-22T09:00:00", 
   "slug": 67918, 
+  "publisher": "7reasonstobrew.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "7 Reasons to Brew", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180622T090000/VEdQESDjQH/LEXtS1sPJag==", 
+  "scope": "root", 
   "start_date": "2018-06-22T09:00:00Z"
 }
 

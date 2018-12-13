@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.obanphoenix.com/", 
-  "description": "Site of a cinema located in Oban, Argyll & Bute.", 
   "end_date": null, 
-  "title": "Oban Phoenix Cinema", 
-  "record_id": "20171103T090000/9O7NbXgTpnBPcphfVFxOaw==", 
-  "publisher": "obanphoenix.com", 
+  "date": "2017-11-03T09:00:00", 
   "slug": 58391, 
+  "publisher": "obanphoenix.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Oban Phoenix Cinema", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171103T090000/9O7NbXgTpnBPcphfVFxOaw==", 
+  "scope": "root", 
   "start_date": "2017-11-03T09:00:00Z"
 }
 

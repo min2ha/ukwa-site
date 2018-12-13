@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.plascadnant.co.uk/", 
-  "description": "Plas Cadnant is a restoration project within the Grade II Listed\noutbuildings of Plas Cadnant on the Isle of Anglesey. The European\nfunded project created a number of self catering cottages", 
   "end_date": null, 
-  "title": "Plas Cadnant", 
-  "record_id": "20180222T090000/gRY4FJKQMGsIXZI7eecdtQ==", 
-  "publisher": "plascadnant.co.uk", 
+  "date": "2018-02-22T09:00:00", 
   "slug": 61485, 
+  "publisher": "plascadnant.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Plas Cadnant", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180222T090000/gRY4FJKQMGsIXZI7eecdtQ==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

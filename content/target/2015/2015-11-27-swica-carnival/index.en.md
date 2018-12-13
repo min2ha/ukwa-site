@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swicacarnival.co.uk/", 
-  "description": "Swica Carnival run Wales' biggest annual carnival, the Cardiff Carnival.", 
   "end_date": null, 
-  "title": "Swica Carnival", 
-  "record_id": "20151127T090000/LlpKfXsImthivxGmWALTTA==", 
-  "publisher": "swicacarnival.co.uk", 
+  "date": "2015-11-27T09:00:00", 
   "slug": 32925, 
+  "publisher": "swicacarnival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swica Carnival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151127T090000/LlpKfXsImthivxGmWALTTA==", 
+  "scope": "root", 
   "start_date": "2015-11-27T09:00:00Z"
 }
 

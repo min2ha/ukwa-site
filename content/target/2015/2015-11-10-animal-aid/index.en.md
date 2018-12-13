@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.animalaid.org.uk/", 
-  "description": "Animal rights group.", 
   "end_date": null, 
-  "title": "Animal Aid", 
-  "record_id": "20151110T090000/ljrAzkuY88Q8OmgysBkosg==", 
-  "publisher": "animalaid.org.uk", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 32100, 
+  "publisher": "animalaid.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Animal Aid", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/ljrAzkuY88Q8OmgysBkosg==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

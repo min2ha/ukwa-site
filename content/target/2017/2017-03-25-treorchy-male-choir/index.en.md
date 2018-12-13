@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.treorchymalechoir.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Treorchy Male Choir", 
-  "record_id": "20170325T090000/LZUp+l32iedCHUXVn713LQ==", 
-  "publisher": "treorchymalechoir.com", 
+  "date": "2017-03-25T09:00:00", 
   "slug": 36077601, 
+  "publisher": "treorchymalechoir.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Treorchy Male Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170325T090000/LZUp+l32iedCHUXVn713LQ==", 
+  "scope": "root", 
   "start_date": "2017-03-25T09:00:00Z"
 }
 

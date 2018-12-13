@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-20T09:00:00", 
-  "open_access": false, 
   "target_url": "https://climatemuseumuk.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Climate Museum UK", 
-  "record_id": "20180920T090000/lrIAah5sBhe535+mlTBa2g==", 
-  "publisher": "climatemuseumuk.org", 
+  "date": "2018-09-20T09:00:00", 
   "slug": 71413, 
+  "publisher": "climatemuseumuk.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Climate Museum UK", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180920T090000/lrIAah5sBhe535+mlTBa2g==", 
+  "scope": "root", 
   "start_date": "2018-09-20T09:00:00Z"
 }
 

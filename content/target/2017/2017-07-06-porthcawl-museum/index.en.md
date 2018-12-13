@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.porthcawlmuseum.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Porthcawl Museum", 
-  "record_id": "20170706T090000/50O1AGN30w4MPg1hc43x6Q==", 
-  "publisher": "porthcawlmuseum.com", 
+  "date": "2017-07-06T09:00:00", 
   "slug": 73007141, 
+  "publisher": "porthcawlmuseum.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Porthcawl Museum", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170706T090000/50O1AGN30w4MPg1hc43x6Q==", 
+  "scope": "root", 
   "start_date": "2017-07-06T09:00:00Z"
 }
 

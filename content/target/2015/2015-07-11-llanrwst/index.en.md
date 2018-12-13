@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llanrwst.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llanrwst", 
-  "record_id": "20150711T100000/yK63iBQisYfkCEw4z4kvRA==", 
-  "publisher": "llanrwst.net", 
+  "date": "2015-07-11T10:00:00", 
   "slug": 28874, 
+  "publisher": "llanrwst.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanrwst", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150711T100000/yK63iBQisYfkCEw4z4kvRA==", 
+  "scope": "root", 
   "start_date": "2015-07-11T10:00:00Z"
 }
 

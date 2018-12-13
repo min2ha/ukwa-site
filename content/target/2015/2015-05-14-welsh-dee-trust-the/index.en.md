@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshdeetrust.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Dee Trust, The", 
-  "record_id": "20150514T090000/bvKWQbA8QVr0c15cZBsovg==", 
-  "publisher": "welshdeetrust.com", 
+  "date": "2015-05-14T09:00:00", 
   "slug": 23857, 
+  "publisher": "welshdeetrust.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Dee Trust, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150514T090000/bvKWQbA8QVr0c15cZBsovg==", 
+  "scope": "root", 
   "start_date": "2015-05-14T09:00:00Z"
 }
 

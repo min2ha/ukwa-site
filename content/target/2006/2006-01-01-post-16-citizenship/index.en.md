@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://whatwhyhow.excellencegateway.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Post 16 Citizenship", 
-  "record_id": "20060101T120000/u3oz/wN9H1XQD3DkJwwrYQ==", 
-  "publisher": "excellencegateway.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65208814, 
+  "publisher": "excellencegateway.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Post 16 Citizenship", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/u3oz/wN9H1XQD3DkJwwrYQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

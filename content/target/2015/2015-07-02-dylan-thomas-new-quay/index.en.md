@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-02T11:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dylanthomaswales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dylan Thomas' New Quay", 
-  "record_id": "20150702T110000/OjrMxCkHlxheGaGWeoWVfA==", 
-  "publisher": "dylanthomaswales.org.uk", 
+  "date": "2015-07-02T11:00:00", 
   "slug": 28649, 
+  "publisher": "dylanthomaswales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dylan Thomas' New Quay", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150702T110000/OjrMxCkHlxheGaGWeoWVfA==", 
+  "scope": "root", 
   "start_date": "2015-07-02T11:00:00Z"
 }
 

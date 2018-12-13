@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "https://beefriendlymonmouthshire.org/", 
-  "description": "A Coalition of groups and organisations working to make Monmouthshire a pollinator-friendly place. ", 
   "end_date": null, 
-  "title": "Bee Friendly Monmouthshire", 
-  "record_id": "20170314T090000/HSq16Q3LD4yvuXUOUd6/bw==", 
-  "publisher": "beefriendlymonmouthshire.org", 
+  "date": "2017-03-14T09:00:00", 
   "slug": 50477, 
+  "publisher": "beefriendlymonmouthshire.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bee Friendly Monmouthshire", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170314T090000/HSq16Q3LD4yvuXUOUd6/bw==", 
+  "scope": "root", 
   "start_date": "2017-03-14T09:00:00Z"
 }
 

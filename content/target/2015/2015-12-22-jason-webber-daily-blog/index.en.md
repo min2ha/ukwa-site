@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-22T09:00:00", 
-  "open_access": false, 
   "target_url": "https://jasonwebberdaily.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Jason Webber Daily blog", 
-  "record_id": "20151222T090000/3njJANR4TyZkI2Pg+UjarA==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-12-22T09:00:00", 
   "slug": 33597, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Jason Webber Daily blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151222T090000/3njJANR4TyZkI2Pg+UjarA==", 
+  "scope": "root", 
   "start_date": "2015-12-22T09:00:00Z"
 }
 

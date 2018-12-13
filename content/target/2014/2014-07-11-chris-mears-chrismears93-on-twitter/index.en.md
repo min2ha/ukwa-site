@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/ChrisMears93/", 
-  "description": "<p>The twitter profile of diver Chris Mears, member of Team England for the Glasgow 2014 Commonwealth Games.</p>\n", 
   "end_date": "2014-08-05T07:00:00Z", 
   "date": "2014-07-11T07:00:00", 
   "slug": 12494, 
-  "subject": null, 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Chris Mears (ChrisMears93) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1768, 
+      "name": "Sports Collection"
+    }
+  ], 
   "record_id": "20140711T070000/2AyFjzmZAVhqN0ea6Qh32A==", 
+  "scope": "root", 
   "start_date": "2014-07-11T07:00:00Z"
 }
 

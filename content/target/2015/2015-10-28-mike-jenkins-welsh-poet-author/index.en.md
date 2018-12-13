@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mikejenkins.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mike Jenkins - Welsh Poet & Author ", 
-  "record_id": "20151028T090000/CK3RmX4TXMStKsVKtWnjOQ==", 
-  "publisher": "mikejenkins.net", 
+  "date": "2015-10-28T09:00:00", 
   "slug": 31857, 
+  "publisher": "mikejenkins.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mike Jenkins - Welsh Poet & Author ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151028T090000/CK3RmX4TXMStKsVKtWnjOQ==", 
+  "scope": "root", 
   "start_date": "2015-10-28T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2014-09-12T07:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rhigosmemories.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Rhigos Memories", 
-  "record_id": "20140912T070000/uUtD2RAkYdf2ANk2YbeTYw==", 
-  "publisher": "rhigosmemories.org.uk", 
+  "date": "2014-09-12T07:00:00", 
   "slug": 14009, 
+  "publisher": "rhigosmemories.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rhigos Memories", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140912T070000/uUtD2RAkYdf2ANk2YbeTYw==", 
+  "scope": "root", 
   "start_date": "2014-09-12T07:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2010-05-20T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.llangrannog.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welcome to Llangrannog", 
-  "record_id": "20100520T000000/RAsL/ODlmmN3nXtrVF1jyA==", 
-  "publisher": "llangrannog.org.uk", 
+  "date": "2010-05-20T00:00:00", 
   "slug": 48791552, 
+  "publisher": "llangrannog.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Welcome to Llangrannog", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100520T000000/RAsL/ODlmmN3nXtrVF1jyA==", 
+  "scope": "root", 
   "start_date": "2010-05-20T00:00:00Z"
 }
 

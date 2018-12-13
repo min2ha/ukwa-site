@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.paisleynaturalhistorysociety.org.uk", 
-  "description": "Site of a society encouraging study and conservation of wildlife in Paisley and Renfrewshire.", 
   "end_date": null, 
-  "title": "Paisley Natural History Society ", 
-  "record_id": "20160229T090000/wEf0gEeORbtsl8y8K7zbiw==", 
-  "publisher": "paisleynaturalhistorysociety.org.uk", 
+  "date": "2016-02-29T09:00:00", 
   "slug": 36132, 
+  "publisher": "paisleynaturalhistorysociety.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Paisley Natural History Society ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160229T090000/wEf0gEeORbtsl8y8K7zbiw==", 
+  "scope": "root", 
   "start_date": "2016-02-29T09:00:00Z"
 }
 

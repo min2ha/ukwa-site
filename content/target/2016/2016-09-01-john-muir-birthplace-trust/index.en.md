@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-01T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.jmbt.org.uk/", 
-  "description": "Site of an organisation establised to promote knowledge of the Scottish naturalist John Muir\u2019s life and legacy, encourage participation in conservation and inspire people to follow Muir\u2019s example.", 
   "end_date": null, 
-  "title": "John Muir Birthplace Trust", 
-  "record_id": "20160901T100000/5nwa7DM90r9YSKnUg+vXag==", 
-  "publisher": "jmbt.org.uk", 
+  "date": "2016-09-01T10:00:00", 
   "slug": 45211, 
+  "publisher": "jmbt.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "John Muir Birthplace Trust", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160901T100000/5nwa7DM90r9YSKnUg+vXag==", 
+  "scope": "root", 
   "start_date": "2016-09-01T10:00:00Z"
 }
 

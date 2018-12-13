@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.filmafrica.org.uk/", 
-  "description": "Film Africa is the Royal African Society\u2019s annual London film festival celebrating the African cinema from across the continent and diaspora. It was established in 2011.", 
   "end_date": null, 
-  "title": "Film Africa", 
-  "record_id": "20151029T090000/BfK2AX/dS8DIqIo3peerzQ==", 
-  "publisher": "filmafrica.org.uk", 
+  "date": "2015-10-29T09:00:00", 
   "slug": 31913, 
+  "publisher": "filmafrica.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Film Africa", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151029T090000/BfK2AX/dS8DIqIo3peerzQ==", 
+  "scope": "root", 
   "start_date": "2015-10-29T09:00:00Z"
 }
 

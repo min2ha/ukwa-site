@@ -1,13 +1,21 @@
 {
-  "date": "2014-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mullofkintyrereview.org.uk", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mull of Kintyre Review", 
-  "record_id": "20140206T060000/xkfHNKarFM3erUysQadeVA==", 
-  "publisher": "mullofkintyrereview.org.uk", 
+  "date": "2014-02-06T06:00:00", 
   "slug": 16745, 
+  "publisher": "mullofkintyrereview.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mull of Kintyre Review", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140206T060000/xkfHNKarFM3erUysQadeVA==", 
+  "scope": "root", 
   "start_date": "2014-02-06T06:00:00Z"
 }
 

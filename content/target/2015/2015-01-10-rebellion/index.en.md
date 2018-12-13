@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.rebellion.co.uk", 
-  "description": "<p>Rebellion is a game development company based in Oxford.</p>\n", 
   "end_date": null, 
   "date": "2015-01-10T00:00:00", 
   "slug": 15760, 
-  "subject": "Video Games", 
   "publisher": "rebellion.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Rebellion", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 286, 
+      "name": "Video Games"
+    }
+  ], 
   "record_id": "20150110T000000/bx3S0iR6sij8j3GBgGthnA==", 
+  "scope": "root", 
   "start_date": "2015-01-10T00:00:00Z"
 }
 

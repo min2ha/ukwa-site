@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.metamodernism.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Notes on Metamodernism", 
-  "record_id": "20060101T120000/MGkFuKKrkLN/Mg3DmXZMYg==", 
-  "publisher": "metamodernism.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65208786, 
+  "publisher": "metamodernism.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Notes on Metamodernism", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/MGkFuKKrkLN/Mg3DmXZMYg==", 
+  "scope": "root", 
   "start_date": null
 }
 

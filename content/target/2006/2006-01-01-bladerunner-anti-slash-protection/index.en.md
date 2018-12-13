@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bladerunner.tv/", 
-  "description": null, 
   "end_date": null, 
-  "title": "BladeRunner - Anti-Slash Protection", 
-  "record_id": "20060101T120000/WOp7OqdRmTUFGbX05rP3Gw==", 
-  "publisher": "bladerunner.tv", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11913, 
+  "publisher": "bladerunner.tv", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "BladeRunner - Anti-Slash Protection", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WOp7OqdRmTUFGbX05rP3Gw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-07T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishleadersforum.org", 
-  "description": "<p>The Scottish Leaders Forum (SLF) is a forum of Chief Executive level leaders from across Scotland\u2019s public services.</p>\n", 
   "end_date": null, 
-  "title": "Scottish Leaders Forum", 
-  "record_id": "20150207T060000/8hW+5C0UR45KVq9hpErg4w==", 
-  "publisher": "scottishleadersforum.org", 
+  "date": "2015-02-07T06:00:00", 
   "slug": 16792, 
+  "publisher": "scottishleadersforum.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Leaders Forum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150207T060000/8hW+5C0UR45KVq9hpErg4w==", 
+  "scope": "root", 
   "start_date": "2015-02-07T06:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://markjohnstonephotography.com", 
-  "description": "Bespoke website designed for your business\nA small company based in Clydebank near Glasgow. We offer a bespoke website design and photography service to suit your needs within today\u2019s digital world.", 
   "end_date": null, 
-  "title": "Mark Johnstone | Photography and Design", 
-  "record_id": "20171122T090000/aYbFsTrr+uXoeAQktbxdXQ==", 
-  "publisher": "markjohnstonephotography.com", 
+  "date": "2017-11-22T09:00:00", 
   "slug": 59027, 
+  "publisher": "markjohnstonephotography.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mark Johnstone | Photography and Design", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171122T090000/aYbFsTrr+uXoeAQktbxdXQ==", 
+  "scope": "root", 
   "start_date": "2017-11-22T09:00:00Z"
 }
 

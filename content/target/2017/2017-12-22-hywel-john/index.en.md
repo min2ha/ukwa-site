@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://hyweljohn.com/", 
-  "description": "Hywel John is a Welsh playwright and actor born in Pembrokeshire.", 
   "end_date": null, 
-  "title": "Hywel John", 
-  "record_id": "20171222T090000/HqxXfkUTM584SEgflAYlUQ==", 
-  "publisher": "hyweljohn.com", 
+  "date": "2017-12-22T09:00:00", 
   "slug": 59918, 
+  "publisher": "hyweljohn.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hywel John", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171222T090000/HqxXfkUTM584SEgflAYlUQ==", 
+  "scope": "root", 
   "start_date": "2017-12-22T09:00:00Z"
 }
 

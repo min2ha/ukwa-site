@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bruichladdich.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Bruichladdich", 
-  "record_id": "20060101T120000/LvtAdcUZYmBkcHdxn5qNMA==", 
-  "publisher": "bruichladdich.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101452, 
+  "publisher": "bruichladdich.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Bruichladdich", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/LvtAdcUZYmBkcHdxn5qNMA==", 
+  "scope": "root", 
   "start_date": null
 }
 

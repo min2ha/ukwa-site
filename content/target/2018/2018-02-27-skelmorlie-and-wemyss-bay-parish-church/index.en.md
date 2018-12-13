@@ -1,14 +1,26 @@
 {
   "target_url": "https://skelmorliewemyssbaychurch.org/", 
-  "description": "Site of a Church of Scotland parish church at Skelmorlie, Ayrshire.", 
   "end_date": null, 
   "date": "2018-02-27T09:00:00", 
   "slug": 61631, 
-  "subject": "Religion/Theology", 
   "publisher": "skelmorliewemyssbaychurch.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Skelmorlie and Wemyss Bay Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180227T090000/i1IBnsRwkY0vBRjjEEkPRg==", 
+  "scope": "root", 
   "start_date": "2018-02-27T09:00:00Z"
 }
 

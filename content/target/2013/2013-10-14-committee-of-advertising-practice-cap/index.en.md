@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cap.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Committee of Advertising Practice (CAP)", 
-  "record_id": "20131014T100000/oxVoVU6GlfyJxEO52ynEuQ==", 
-  "publisher": "cap.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 65208498, 
+  "publisher": "cap.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Committee of Advertising Practice (CAP)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/oxVoVU6GlfyJxEO52ynEuQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

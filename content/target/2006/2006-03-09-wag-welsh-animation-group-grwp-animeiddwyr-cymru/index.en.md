@@ -1,13 +1,16 @@
 {
-  "date": "2006-03-09T00:00:00", 
-  "open_access": false, 
   "target_url": "http://wag.sequence.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "WAG: welsh animation group - grwp animeiddwyr cymru", 
-  "record_id": "20060309T000000/Pfb8W00FbC+XFSIHQa2IvQ==", 
-  "publisher": "sequence.co.uk", 
+  "date": "2006-03-09T00:00:00", 
   "slug": 118136, 
+  "publisher": "sequence.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "WAG: welsh animation group - grwp animeiddwyr cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060309T000000/Pfb8W00FbC+XFSIHQa2IvQ==", 
+  "scope": "root", 
   "start_date": "2006-03-09T00:00:00Z"
 }
 

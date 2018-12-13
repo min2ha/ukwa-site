@@ -1,13 +1,16 @@
 {
-  "date": "2015-06-29T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.substancemisuseworkforcewales.org/?lang=en", 
-  "description": "", 
   "end_date": null, 
-  "title": "Substance Misuse Workforce Wales | Gweithlu Camddefnyddio Sylweddau Cymru", 
-  "record_id": "20150629T000000/MQAZVmob37jQzaf0gVdYfw==", 
-  "publisher": "substancemisuseworkforcewales.org", 
+  "date": "2015-06-29T00:00:00", 
   "slug": 293863828, 
+  "publisher": "substancemisuseworkforcewales.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Substance Misuse Workforce Wales | Gweithlu Camddefnyddio Sylweddau Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150629T000000/MQAZVmob37jQzaf0gVdYfw==", 
+  "scope": "root", 
   "start_date": "2015-06-29T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-31T09:00:00", 
-  "open_access": false, 
   "target_url": "https://cciff.co.uk/", 
-  "description": "Copper Coast International Film Festival (CCIFF) is a three-day short film festival set in Swansea.", 
   "end_date": null, 
-  "title": "Copper Coast International Film Festival", 
-  "record_id": "20180131T090000/3wnSHFaLUXGYJoI5dehzTA==", 
-  "publisher": "cciff.co.uk", 
+  "date": "2018-01-31T09:00:00", 
   "slug": 60689, 
+  "publisher": "cciff.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Copper Coast International Film Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180131T090000/3wnSHFaLUXGYJoI5dehzTA==", 
+  "scope": "root", 
   "start_date": "2018-01-31T09:00:00Z"
 }
 

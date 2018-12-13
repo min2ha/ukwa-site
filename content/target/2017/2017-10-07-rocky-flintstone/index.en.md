@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rockyflintstone.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Rocky Flintstone ", 
-  "record_id": "20171007T090000/dU4uTyTl+Q54UajDtgyqrw==", 
-  "publisher": "rockyflintstone.com", 
+  "date": "2017-10-07T09:00:00", 
   "slug": 57713, 
+  "publisher": "rockyflintstone.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rocky Flintstone ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171007T090000/dU4uTyTl+Q54UajDtgyqrw==", 
+  "scope": "root", 
   "start_date": "2017-10-07T09:00:00Z"
 }
 

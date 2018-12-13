@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-22T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.adamroberts.com/", 
-  "description": "<p>Website and blog of the British science fiction writer Adam Roberts.</p>\n", 
   "end_date": null, 
-  "title": "Adam Roberts", 
-  "record_id": "20150122T000000/z1Hy4K1QiVkBYdQIMz1zig==", 
-  "publisher": "adamroberts.com", 
+  "date": "2015-01-22T00:00:00", 
   "slug": 12875, 
+  "publisher": "adamroberts.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Adam Roberts", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150122T000000/z1Hy4K1QiVkBYdQIMz1zig==", 
+  "scope": "root", 
   "start_date": "2015-01-22T00:00:00Z"
 }
 

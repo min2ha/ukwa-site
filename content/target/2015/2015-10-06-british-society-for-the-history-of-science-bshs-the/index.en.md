@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-06T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bshs.org.uk/", 
-  "description": "Founded in 1947, the BSHS is Britain\u2019s learned society devoted to the history of science, technology and medicine. ", 
   "end_date": null, 
-  "title": "British Society for the History of Science (BSHS), The", 
-  "record_id": "20151006T100000/fHkFjq6Ka4yutfzLhiYICg==", 
-  "publisher": "bshs.org.uk", 
+  "date": "2015-10-06T10:00:00", 
   "slug": 113415, 
+  "publisher": "bshs.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "British Society for the History of Science (BSHS), The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151006T100000/fHkFjq6Ka4yutfzLhiYICg==", 
+  "scope": "root", 
   "start_date": "2015-10-06T10:00:00Z"
 }
 

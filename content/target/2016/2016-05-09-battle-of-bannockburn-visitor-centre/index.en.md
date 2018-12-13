@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-09T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.battleofbannockburn.com/", 
-  "description": "Site of a visitor centre on the site of the 1314 Battle of Bannockburn.", 
   "end_date": null, 
-  "title": "Battle of Bannockburn Visitor Centre", 
-  "record_id": "20160509T100000/bN3OXj9OPH1MBzr0DROYVw==", 
-  "publisher": "battleofbannockburn.com", 
+  "date": "2016-05-09T10:00:00", 
   "slug": 40539, 
+  "publisher": "battleofbannockburn.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Battle of Bannockburn Visitor Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160509T100000/bN3OXj9OPH1MBzr0DROYVw==", 
+  "scope": "root", 
   "start_date": "2016-05-09T10:00:00Z"
 }
 

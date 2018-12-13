@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-27T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.placeforhope.org.uk/", 
-  "description": "Site of Scottish faith based charity promoting transformational potential of conflict's potential for peacebuildling in and between communities.", 
   "end_date": null, 
-  "title": "Place for Hope", 
-  "record_id": "20160527T100000/p394yZ3eeGaGJgvhVl43dA==", 
-  "publisher": "placeforhope.org.uk", 
+  "date": "2016-05-27T10:00:00", 
   "slug": 41896, 
+  "publisher": "placeforhope.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Place for Hope", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160527T100000/p394yZ3eeGaGJgvhVl43dA==", 
+  "scope": "root", 
   "start_date": "2016-05-27T10:00:00Z"
 }
 

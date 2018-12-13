@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://nationalyouthballet.org/", 
-  "description": "National Youth Ballet of Great Britain is a charity supporting young ballet dancers.", 
   "end_date": null, 
-  "title": "National Youth Ballet of Great Britain", 
-  "record_id": "20150717T100000/jQvKJ01Ul3mPFW2bQWcYdg==", 
-  "publisher": "nationalyouthballet.org", 
+  "date": "2015-07-17T10:00:00", 
   "slug": 29193, 
+  "publisher": "nationalyouthballet.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "National Youth Ballet of Great Britain", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150717T100000/jQvKJ01Ul3mPFW2bQWcYdg==", 
+  "scope": "root", 
   "start_date": "2015-07-17T10:00:00Z"
 }
 

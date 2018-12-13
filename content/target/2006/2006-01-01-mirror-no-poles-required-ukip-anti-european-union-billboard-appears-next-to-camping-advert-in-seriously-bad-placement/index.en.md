@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.mirror.co.uk/news/uk-news/no-poles-required-ukip-anti-european-3464588", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 11037, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "mirror.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Mirror: \"No poles required\": UKIP anti-European Union billboard appears next to camping advert in \"seriously bad placement\"", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20060101T120000/OaHeex9tfXYHmtAsO0KjMw==", 
+  "scope": "root", 
   "start_date": null
 }
 

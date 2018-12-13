@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://rhondda.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymdeithas Tai Rhondda | Rhondda Housing Association", 
-  "record_id": "20160119T090000/oooACdA2COOdLUvBnRmlIQ==", 
-  "publisher": "rhondda.org", 
+  "date": "2016-01-19T09:00:00", 
   "slug": 34120, 
+  "publisher": "rhondda.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cymdeithas Tai Rhondda | Rhondda Housing Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160119T090000/oooACdA2COOdLUvBnRmlIQ==", 
+  "scope": "root", 
   "start_date": "2016-01-19T09:00:00Z"
 }
 

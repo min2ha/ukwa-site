@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://llwyn-on.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llwyn-on Flock of Badger Face Welsh Mountain Sheep", 
-  "record_id": "20170621T090000/ad6lJvpcN5z1BSxxRwbcEA==", 
-  "publisher": "llwyn-on.co.uk", 
+  "date": "2017-06-21T09:00:00", 
   "slug": 54931, 
+  "publisher": "llwyn-on.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llwyn-on Flock of Badger Face Welsh Mountain Sheep", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170621T090000/ad6lJvpcN5z1BSxxRwbcEA==", 
+  "scope": "root", 
   "start_date": "2017-06-21T09:00:00Z"
 }
 

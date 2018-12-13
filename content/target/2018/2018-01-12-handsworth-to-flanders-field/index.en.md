@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.secretcityarts.com/?page_id=2142", 
-  "description": "Rookery School has a war memorial in its Red Hall, and a school logbook dating back to World War 1. Working with Year 6, we\u2019ve traced two soldiers named on the memorial, and have been piecing together archive materials and historical artefacts to imagine what life might have been like for their families living locally a hundred years ago during the war.", 
   "end_date": "2018-01-31T00:00:00Z", 
   "date": "2018-01-12T09:00:00", 
   "slug": 60206, 
-  "subject": "First World War Centenary, 2014-18", 
   "publisher": "secretcityarts.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Handsworth to Flanders Field", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 114, 
+      "name": "First World War Centenary, 2014-18"
+    }
+  ], 
   "record_id": "20180112T090000/45yLmz8Q1wt6syS+8OInEA==", 
+  "scope": "root", 
   "start_date": "2018-01-12T09:00:00Z"
 }
 

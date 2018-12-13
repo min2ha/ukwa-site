@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fnh.stir.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Forth Naturalist and Historian ", 
-  "record_id": "20151008T100000/kt1xlTeftHjJRRiR/QS9Sw==", 
-  "publisher": "stir.ac.uk", 
+  "date": "2015-10-08T10:00:00", 
   "slug": 31282, 
+  "publisher": "stir.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Forth Naturalist and Historian ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151008T100000/kt1xlTeftHjJRRiR/QS9Sw==", 
+  "scope": "root", 
   "start_date": "2015-10-08T10:00:00Z"
 }
 

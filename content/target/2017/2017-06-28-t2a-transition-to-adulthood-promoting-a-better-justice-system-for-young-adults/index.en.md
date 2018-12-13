@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-28T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.t2a.org.uk/", 
-  "description": "T2A (Transition to Adulthood) is an initiative of the Barrow Cadbury Trust\u2019s criminal justice programme. The Trust is an independent, charitable foundation \u2013 which does not receive any government funding \u2013 committed to bringing about socially just change.\n\nThe Trust\u2019s criminal justice programme aims to develop and promote evidence of effective policy and practice for young adults and women at all stages of the criminal justice system, and  to enable the voices of those directly affected to be heard.", 
   "end_date": null, 
-  "title": "T2A Transition to Adulthood: Promoting a better justice system for young adults", 
-  "record_id": "20170628T090000/+NjRoDPbHxJydZYleJQHCA==", 
-  "publisher": "t2a.org.uk", 
+  "date": "2017-06-28T09:00:00", 
   "slug": 55196, 
+  "publisher": "t2a.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "T2A Transition to Adulthood: Promoting a better justice system for young adults", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170628T090000/+NjRoDPbHxJydZYleJQHCA==", 
+  "scope": "root", 
   "start_date": "2017-06-28T09:00:00Z"
 }
 

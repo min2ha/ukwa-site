@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://bmacymruwales.blogspot.co.uk/", 
-  "description": "Blog by BMA Welsh Secretary Richard Lewis' giving his views on health, politics and just about anything.", 
   "end_date": null, 
-  "title": "BMA Cymru Wales Blog", 
-  "record_id": "20060101T120000/UPUQq9FT+hBio84vlaEH3w==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32797, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "BMA Cymru Wales Blog", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/UPUQq9FT+hBio84vlaEH3w==", 
+  "scope": "root", 
   "start_date": null
 }
 

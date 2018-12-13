@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.esfa.co.uk", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 61351, 
-  "subject": "Sport: Football", 
   "publisher": "esfa.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "English Schools FA", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20060101T120000/ZHTEw3Kdy5esjIl+eJ3JNg==", 
+  "scope": "root", 
   "start_date": null
 }
 

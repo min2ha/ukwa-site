@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://i0.wp.com/www.birnamarts.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Birnam Arts", 
-  "record_id": "20151209T090000/Rof5LdUnQy2zIVAHaqjB/w==", 
-  "publisher": "wp.com", 
+  "date": "2015-12-09T09:00:00", 
   "slug": 31250, 
+  "publisher": "wp.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Birnam Arts", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151209T090000/Rof5LdUnQy2zIVAHaqjB/w==", 
+  "scope": "root", 
   "start_date": "2015-12-09T09:00:00Z"
 }
 

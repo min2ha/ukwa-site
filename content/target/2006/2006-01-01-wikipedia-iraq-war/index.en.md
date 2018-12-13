@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://en.wikipedia.org/wiki/Iraq_War", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wikipedia: Iraq War", 
-  "record_id": "20060101T120000/cpv5gi9G8b4b/mifPH/L1A==", 
-  "publisher": "wikipedia.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 56623146, 
+  "publisher": "wikipedia.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Wikipedia: Iraq War", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cpv5gi9G8b4b/mifPH/L1A==", 
+  "scope": "root", 
   "start_date": null
 }
 

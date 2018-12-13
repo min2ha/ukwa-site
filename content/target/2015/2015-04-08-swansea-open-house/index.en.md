@@ -1,13 +1,16 @@
 {
-  "date": "2015-04-08T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.swanseaopenhouse.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Swansea Open House", 
-  "record_id": "20150408T000000/wI8yUKjGjPh9FjMCaazppw==", 
-  "publisher": "swanseaopenhouse.com", 
+  "date": "2015-04-08T00:00:00", 
   "slug": 293863692, 
+  "publisher": "swanseaopenhouse.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Swansea Open House", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150408T000000/wI8yUKjGjPh9FjMCaazppw==", 
+  "scope": "root", 
   "start_date": "2015-04-08T00:00:00Z"
 }
 

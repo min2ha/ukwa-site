@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/ScottishCriticalHeritage/", 
-  "description": "Facebook page of an organisation professing new critical perspectives on Scotland\u2019s political, cultural and literary heritage.", 
   "end_date": null, 
-  "title": "Scottish Critical Heritage on Facebook", 
-  "record_id": "20180504T090000/bPMTLF4YqWJoCrciItDLpQ==", 
-  "publisher": "facebook.com", 
+  "date": "2018-05-04T09:00:00", 
   "slug": 65169, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Critical Heritage on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180504T090000/bPMTLF4YqWJoCrciItDLpQ==", 
+  "scope": "root", 
   "start_date": "2018-05-04T09:00:00Z"
 }
 

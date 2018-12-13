@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-01T09:00:00", 
-  "open_access": true, 
   "target_url": "http://alanhale.co.uk/", 
-  "description": "Alan Hale is a photographer from west Wales.", 
   "end_date": null, 
-  "title": "Alan Hale, photography from West Wales.", 
-  "record_id": "20180301T090000/8UJC5gpXGeJKRXdmXf+LDA==", 
-  "publisher": "alanhale.co.uk", 
+  "date": "2018-03-01T09:00:00", 
   "slug": 61817, 
+  "publisher": "alanhale.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Alan Hale, photography from West Wales.", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180301T090000/8UJC5gpXGeJKRXdmXf+LDA==", 
+  "scope": "root", 
   "start_date": "2018-03-01T09:00:00Z"
 }
 

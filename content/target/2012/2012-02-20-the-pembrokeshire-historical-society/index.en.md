@@ -1,13 +1,16 @@
 {
-  "date": "2012-02-20T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pembrokeshirehistoricalsociety.org/", 
-  "description": "Historical Society", 
   "end_date": null, 
-  "title": "The Pembrokeshire Historical Society", 
-  "record_id": "20120220T000000/AWYj2wsnAto07w3nv+unuw==", 
-  "publisher": "pembrokeshirehistoricalsociety.org", 
+  "date": "2012-02-20T00:00:00", 
   "slug": 64290986, 
+  "publisher": "pembrokeshirehistoricalsociety.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "The Pembrokeshire Historical Society", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120220T000000/AWYj2wsnAto07w3nv+unuw==", 
+  "scope": "root", 
   "start_date": "2012-02-20T00:00:00Z"
 }
 

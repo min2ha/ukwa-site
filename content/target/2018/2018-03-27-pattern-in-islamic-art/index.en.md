@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-27T09:00:00", 
-  "open_access": true, 
   "target_url": "https://patterninislamicart.com/", 
-  "description": "An archive of over 4000 images of patterns and other design features drawn from the rich cultural heritage of the Islamic world. Historically, the decorative arts have always formed a major part of Islamic aesthetic expression.", 
   "end_date": null, 
-  "title": " Pattern in Islamic Art", 
-  "record_id": "20180327T090000/rZ0N+7F3wEKXCzEk9FROzA==", 
-  "publisher": "patterninislamicart.com", 
+  "date": "2018-03-27T09:00:00", 
   "slug": 58451, 
+  "publisher": "patterninislamicart.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": " Pattern in Islamic Art", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180327T090000/rZ0N+7F3wEKXCzEk9FROzA==", 
+  "scope": "root", 
   "start_date": "2018-03-27T09:00:00Z"
 }
 

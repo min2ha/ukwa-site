@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cardiffbeekeepers.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff, Vale and Valleys Beekeepers\u2019 Association", 
-  "record_id": "20170316T090000/nKpwiOCP46/unVToxJeZYw==", 
-  "publisher": "cardiffbeekeepers.co.uk", 
+  "date": "2017-03-16T09:00:00", 
   "slug": 50563, 
+  "publisher": "cardiffbeekeepers.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff, Vale and Valleys Beekeepers\u2019 Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170316T090000/nKpwiOCP46/unVToxJeZYw==", 
+  "scope": "root", 
   "start_date": "2017-03-16T09:00:00Z"
 }
 

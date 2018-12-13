@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lochfyne.com/", 
-  "description": "Site of a business producing sea food at Loch Fyne, Scotland, and their restaurant, retail outlet and food festival.", 
   "end_date": null, 
-  "title": "Loch Fyne Oysters Limited", 
-  "record_id": "20170926T090000/4hrNmCHov0WAiDS10jAu1Q==", 
-  "publisher": "lochfyne.com", 
+  "date": "2017-09-26T09:00:00", 
   "slug": 57402, 
+  "publisher": "lochfyne.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Loch Fyne Oysters Limited", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170926T090000/4hrNmCHov0WAiDS10jAu1Q==", 
+  "scope": "root", 
   "start_date": "2017-09-26T09:00:00Z"
 }
 

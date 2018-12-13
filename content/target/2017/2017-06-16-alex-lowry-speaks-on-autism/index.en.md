@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alexlowery.co.uk/", 
-  "description": "Alex Lowery is a public speaker and writer on Autism.", 
   "end_date": null, 
-  "title": "Alex Lowry speaks on Autism.", 
-  "record_id": "20170616T090000/mBuSWmnYm4bNtiY6qnCnTA==", 
-  "publisher": "alexlowery.co.uk", 
+  "date": "2017-06-16T09:00:00", 
   "slug": 54775, 
+  "publisher": "alexlowery.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alex Lowry speaks on Autism.", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170616T090000/mBuSWmnYm4bNtiY6qnCnTA==", 
+  "scope": "root", 
   "start_date": "2017-06-16T09:00:00Z"
 }
 

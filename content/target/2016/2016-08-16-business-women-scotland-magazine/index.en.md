@@ -1,13 +1,21 @@
 {
-  "date": "2016-08-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://bwsltd.co.uk/", 
-  "description": "Site of a Scottish magazine focussing on women in business.", 
   "end_date": null, 
-  "title": "Business Women Scotland magazine", 
-  "record_id": "20160816T100000/nh5zxinkOOHiuqgBmn7KvQ==", 
-  "publisher": "bwsltd.co.uk", 
+  "date": "2016-08-16T10:00:00", 
   "slug": 45044, 
+  "publisher": "bwsltd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Business Women Scotland magazine", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160816T100000/nh5zxinkOOHiuqgBmn7KvQ==", 
+  "scope": "root", 
   "start_date": "2016-08-16T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.volunteeredinburgh.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Volunteer Edinburgh", 
-  "record_id": "20060101T120000/7jS6kguNr/g2/X7CRfslyw==", 
-  "publisher": "volunteeredinburgh.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 47430, 
+  "publisher": "volunteeredinburgh.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Volunteer Edinburgh", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/7jS6kguNr/g2/X7CRfslyw==", 
+  "scope": "root", 
   "start_date": null
 }
 

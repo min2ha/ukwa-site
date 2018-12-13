@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-20T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.exclusivelyshows.co.uk/", 
-  "description": "Trade shows held annually at the Business Design Centre in Islington", 
   "end_date": null, 
-  "title": "Exclusively Shows (Housewares and Electrical)", 
-  "record_id": "20180420T090000/99uiug2jyFyvkUqQV/rWkA==", 
-  "publisher": "exclusivelyshows.co.uk", 
+  "date": "2018-04-20T09:00:00", 
   "slug": 64634, 
+  "publisher": "exclusivelyshows.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Exclusively Shows (Housewares and Electrical)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180420T090000/99uiug2jyFyvkUqQV/rWkA==", 
+  "scope": "root", 
   "start_date": "2018-04-20T09:00:00Z"
 }
 

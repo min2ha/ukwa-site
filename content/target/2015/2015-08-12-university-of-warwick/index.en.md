@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-12T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www2.warwick.ac.uk/", 
-  "description": "Official website of the University of Warwick.", 
   "end_date": null, 
-  "title": "University of Warwick", 
-  "record_id": "20150812T100000/PgANTl8CnGputwWTXelZ/A==", 
-  "publisher": "warwick.ac.uk", 
+  "date": "2015-08-12T10:00:00", 
   "slug": 29724, 
+  "publisher": "warwick.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "University of Warwick", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150812T100000/PgANTl8CnGputwWTXelZ/A==", 
+  "scope": "root", 
   "start_date": "2015-08-12T10:00:00Z"
 }
 

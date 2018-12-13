@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.royalmintmuseum.org.uk/", 
-  "description": "The Royal Mint Museum is a numismatics museum located in Llantrisant.", 
   "end_date": null, 
-  "title": "Royal Mint Museum, The", 
-  "record_id": "20171128T090000/Y9cbrPb2TaaSuGq8a8m1GQ==", 
-  "publisher": "royalmintmuseum.org.uk", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59257, 
+  "publisher": "royalmintmuseum.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal Mint Museum, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/Y9cbrPb2TaaSuGq8a8m1GQ==", 
+  "scope": "subdomains", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

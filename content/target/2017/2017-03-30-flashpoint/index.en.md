@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://flashpointmag.com/", 
-  "description": "Flashpoint is a multidisciplinary journal in the arts and politics. ", 
   "end_date": null, 
-  "title": "Flashpoint", 
-  "record_id": "20170330T090000/vESEfuLCFmw/a5zW5NPibQ==", 
-  "publisher": "flashpointmag.com", 
+  "date": "2017-03-30T09:00:00", 
   "slug": 51514, 
+  "publisher": "flashpointmag.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Flashpoint", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170330T090000/vESEfuLCFmw/a5zW5NPibQ==", 
+  "scope": "root", 
   "start_date": "2017-03-30T09:00:00Z"
 }
 

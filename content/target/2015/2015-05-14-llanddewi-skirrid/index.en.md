@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llanddewiskirrid.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llanddewi Skirrid", 
-  "record_id": "20150514T090000/61QH4CUz/vegryY0qiCFXw==", 
-  "publisher": "llanddewiskirrid.co.uk", 
+  "date": "2015-05-14T09:00:00", 
   "slug": 23847, 
+  "publisher": "llanddewiskirrid.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanddewi Skirrid", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150514T090000/61QH4CUz/vegryY0qiCFXw==", 
+  "scope": "root", 
   "start_date": "2015-05-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gofalaethbangor.org/", 
-  "description": "News from the Pastorate of Bangor, the Presbyterian Church of Wales.", 
   "end_date": null, 
-  "title": "Gofalaeth Bangor", 
-  "record_id": "20160924T100000/oTBsVCrC/e1kLP1O6Bs58A==", 
-  "publisher": "gofalaethbangor.org", 
+  "date": "2016-09-24T10:00:00", 
   "slug": 45581, 
+  "publisher": "gofalaethbangor.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gofalaeth Bangor", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160924T100000/oTBsVCrC/e1kLP1O6Bs58A==", 
+  "scope": "root", 
   "start_date": "2016-09-24T10:00:00Z"
 }
 

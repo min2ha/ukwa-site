@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-20T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nhslothian.scot.nhs.uk/Pages/default.aspx", 
-  "description": "", 
   "end_date": null, 
-  "title": "NHS Lothian", 
-  "record_id": "20150120T060000/9jJkqdjKx244yYNwx6P3TA==", 
-  "publisher": "scot.nhs.uk", 
+  "date": "2015-01-20T06:00:00", 
   "slug": 15986, 
+  "publisher": "scot.nhs.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NHS Lothian", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150120T060000/9jJkqdjKx244yYNwx6P3TA==", 
+  "scope": "root", 
   "start_date": "2015-01-20T06:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.aylesburyvaleccg.nhs.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 1692, 
-  "subject": null, 
   "publisher": "aylesburyvaleccg.nhs.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "NHS Aylesbury Vale CCG", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 9, 
+      "name": "Health and Social Care Act 2012 - NHS Reforms"
+    }
+  ], 
   "record_id": "20060101T120000/aIt3UnXVHNPdN5aXPHgRtA==", 
+  "scope": "root", 
   "start_date": null
 }
 

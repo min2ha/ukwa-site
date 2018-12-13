@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dunninald.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dunninald Castle and Gardens", 
-  "record_id": "20151214T090000/Jkk3i6ScdidCTPwbGJNvOQ==", 
-  "publisher": "dunninald.com", 
+  "date": "2015-12-14T09:00:00", 
   "slug": 33437, 
+  "publisher": "dunninald.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dunninald Castle and Gardens", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151214T090000/Jkk3i6ScdidCTPwbGJNvOQ==", 
+  "scope": "root", 
   "start_date": "2015-12-14T09:00:00Z"
 }
 

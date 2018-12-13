@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.gpsg.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Greek Politics Specialist Group (GPSG)", 
-  "record_id": "20131014T100000/AnwXHdXqxfNgje75eEklHA==", 
-  "publisher": "gpsg.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 65208515, 
+  "publisher": "gpsg.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Greek Politics Specialist Group (GPSG)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/AnwXHdXqxfNgje75eEklHA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

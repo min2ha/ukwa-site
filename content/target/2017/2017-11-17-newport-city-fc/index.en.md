@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-17T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.newportcityfc.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Newport City FC", 
-  "record_id": "20171117T090000/VKxWlvIXiIy2FJneuqz5pw==", 
-  "publisher": "newportcityfc.co.uk", 
+  "date": "2017-11-17T09:00:00", 
   "slug": 58889, 
+  "publisher": "newportcityfc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Newport City FC", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171117T090000/VKxWlvIXiIy2FJneuqz5pw==", 
+  "scope": "subdomains", 
   "start_date": "2017-11-17T09:00:00Z"
 }
 

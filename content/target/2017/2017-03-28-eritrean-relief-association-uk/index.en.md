@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.era-uk.org/", 
-  "description": "The Eritrean Relief Association (UK) is a charity registered in the UK. As a company limited by guarantee incorporated in England, it is governed by a Memorandum and Article of Association.", 
   "end_date": null, 
-  "title": "Eritrean Relief Association (UK)", 
-  "record_id": "20170328T090000/hXvTJ7tBCbMy28Tk0Jiegw==", 
-  "publisher": "era-uk.org", 
+  "date": "2017-03-28T09:00:00", 
   "slug": 51269, 
+  "publisher": "era-uk.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Eritrean Relief Association (UK)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170328T090000/hXvTJ7tBCbMy28Tk0Jiegw==", 
+  "scope": "root", 
   "start_date": "2017-03-28T09:00:00Z"
 }
 

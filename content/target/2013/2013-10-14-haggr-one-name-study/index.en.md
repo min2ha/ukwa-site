@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hagger.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "HAGG*R One Name Study", 
-  "record_id": "20131014T100000/5uTmmWl1dCsUoXPnI3H53A==", 
-  "publisher": "hagger.info", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741849, 
+  "publisher": "hagger.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "HAGG*R One Name Study", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/5uTmmWl1dCsUoXPnI3H53A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

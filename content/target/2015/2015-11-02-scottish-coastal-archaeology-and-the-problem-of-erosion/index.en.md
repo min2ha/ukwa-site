@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scapetrust.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scottish Coastal Archaeology and the Problem of Erosion", 
-  "record_id": "20151102T090000/ipG7Zn7JOQfYJZyuGKLaOw==", 
-  "publisher": "scapetrust.org", 
+  "date": "2015-11-02T09:00:00", 
   "slug": 31981, 
+  "publisher": "scapetrust.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Coastal Archaeology and the Problem of Erosion", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151102T090000/ipG7Zn7JOQfYJZyuGKLaOw==", 
+  "scope": "root", 
   "start_date": "2015-11-02T09:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.bbc.co.uk/news/uk-politics-26843996", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 10562, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "bbc.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "BBC:  Nick Clegg and Nigel Farage in heated BBC debate over EU", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20060101T120000/E/tVaGP1aQsb1EDb7DzQdQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

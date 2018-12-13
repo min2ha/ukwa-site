@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.derbyshireccc.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Derbyshire County Cricket Club", 
-  "record_id": "20060101T120000/zVnhVgyZCrvB9HEvrAJSAA==", 
-  "publisher": "derbyshireccc.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13099, 
+  "publisher": "derbyshireccc.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Derbyshire County Cricket Club", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/zVnhVgyZCrvB9HEvrAJSAA==", 
+  "scope": "root", 
   "start_date": null
 }
 

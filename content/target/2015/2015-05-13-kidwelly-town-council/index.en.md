@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.kidwelly.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Kidwelly Town Council", 
-  "record_id": "20150513T090000/8CLHN43QQTba9lS/ZlZFlg==", 
-  "publisher": "kidwelly.gov.uk", 
+  "date": "2015-05-13T09:00:00", 
   "slug": 23787, 
+  "publisher": "kidwelly.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kidwelly Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150513T090000/8CLHN43QQTba9lS/ZlZFlg==", 
+  "scope": "root", 
   "start_date": "2015-05-13T09:00:00Z"
 }
 

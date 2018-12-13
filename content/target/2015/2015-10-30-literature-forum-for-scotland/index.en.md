@@ -1,13 +1,16 @@
 {
-  "date": "2015-10-30T00:00:00", 
-  "open_access": true, 
   "target_url": "http://literatureforumscotland.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Literature Forum for Scotland", 
-  "record_id": "20151030T000000/BgGY9JCeHL98Uy9PDcr2iQ==", 
-  "publisher": "literatureforumscotland.org.uk", 
+  "date": "2015-10-30T00:00:00", 
   "slug": 339312662, 
+  "publisher": "literatureforumscotland.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Literature Forum for Scotland", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T000000/BgGY9JCeHL98Uy9PDcr2iQ==", 
+  "scope": "root", 
   "start_date": "2015-10-30T00:00:00Z"
 }
 

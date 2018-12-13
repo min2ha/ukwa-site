@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ukaaf.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "UK Association for Accessible Formats (UKAAF)", 
-  "record_id": "20060101T120000/Ex7lC5Ws366Cscw/eWiGRQ==", 
-  "publisher": "ukaaf.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60293409, 
+  "publisher": "ukaaf.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "UK Association for Accessible Formats (UKAAF)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Ex7lC5Ws366Cscw/eWiGRQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

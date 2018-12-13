@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.teds.org.uk/", 
-  "description": "TEDS (Treatment and Education Services) is a voluntary agency offering free and confidential services to users of drugs or alcohol throughout the Rhondda Cynon Taff. ", 
   "end_date": null, 
-  "title": "TEDS (Treatment and Education Services)", 
-  "record_id": "20170330T090000/MohuPd2HSzSl3AsdlsW+Cg==", 
-  "publisher": "teds.org.uk", 
+  "date": "2017-03-30T09:00:00", 
   "slug": 51502, 
+  "publisher": "teds.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "TEDS (Treatment and Education Services)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170330T090000/MohuPd2HSzSl3AsdlsW+Cg==", 
+  "scope": "root", 
   "start_date": "2017-03-30T09:00:00Z"
 }
 

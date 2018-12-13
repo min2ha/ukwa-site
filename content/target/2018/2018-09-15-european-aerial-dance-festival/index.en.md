@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.eadf.co.uk/", 
-  "description": "Website for the European Aerial Dance Festival", 
   "end_date": null, 
   "date": "2018-09-15T09:00:00", 
   "slug": 71228, 
-  "subject": "Festivals", 
   "publisher": "eadf.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "European Aerial Dance Festival", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180915T090000/UhoCTmDyn/mqy3SSr+TTpA==", 
+  "scope": "root", 
   "start_date": "2018-09-15T09:00:00Z"
 }
 

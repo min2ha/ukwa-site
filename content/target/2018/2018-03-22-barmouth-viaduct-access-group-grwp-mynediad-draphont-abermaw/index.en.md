@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.b-vag.org.uk/", 
-  "description": "\"Barmouth - Viaduct Access Group was established to promote the idea of\nbuilding a safe access from Barmouth, to the Viaduct across the\nMawddach. The 700-yard Barmouth Bridge is the longest viaduct in Wales\nand carries the Cambrian Coast line from Machynlleth to Pwllheli across\nthe River Mawddach.\"", 
   "end_date": null, 
-  "title": "Barmouth Viaduct Access Group | Grwp Mynediad Draphont Abermaw", 
-  "record_id": "20180322T090000/BpWX32pc7FyL2HKTsve6WQ==", 
-  "publisher": "b-vag.org.uk", 
+  "date": "2018-03-22T09:00:00", 
   "slug": 62936, 
+  "publisher": "b-vag.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Barmouth Viaduct Access Group | Grwp Mynediad Draphont Abermaw", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180322T090000/BpWX32pc7FyL2HKTsve6WQ==", 
+  "scope": "root", 
   "start_date": "2018-03-22T09:00:00Z"
 }
 

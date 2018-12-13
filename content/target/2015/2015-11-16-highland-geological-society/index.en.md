@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.spanglefish.com/highlandgeologicalsociety/index.asp", 
-  "description": "", 
   "end_date": null, 
-  "title": "Highland Geological Society", 
-  "record_id": "20151116T090000/bSoS/Jp2uNBnXu6UtdFq+A==", 
-  "publisher": "spanglefish.com", 
+  "date": "2015-11-16T09:00:00", 
   "slug": 32567, 
+  "publisher": "spanglefish.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Highland Geological Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151116T090000/bSoS/Jp2uNBnXu6UtdFq+A==", 
+  "scope": "root", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

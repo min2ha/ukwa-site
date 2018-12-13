@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.pentathlongb.org/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 122602, 
-  "subject": null, 
   "publisher": "pentathlongb.org", 
   "open_access": true, 
+  "npld": true, 
   "title": "British Pentathlon - Pentathlon GB", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20131014T100000/M5/N5+p7oOX2fZAzCwtnhQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

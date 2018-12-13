@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://welshpooltransportfestival.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welshpool Transport Festival 2018", 
-  "record_id": "20180222T090000/IXMOsybuj/iRp57pJIBLxA==", 
-  "publisher": "welshpooltransportfestival.org.uk", 
+  "date": "2018-02-22T09:00:00", 
   "slug": 61484, 
+  "publisher": "welshpooltransportfestival.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Welshpool Transport Festival 2018", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180222T090000/IXMOsybuj/iRp57pJIBLxA==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

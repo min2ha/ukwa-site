@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-19T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tonyattwood.com.au/", 
-  "description": "This website is a guide for parents, professionals and people with Asperger's Syndrome and their partners.", 
   "end_date": null, 
-  "title": "Tony Attwood", 
-  "record_id": "20150619T090000/IaYbCDEjTyfHamKvsIhRJg==", 
-  "publisher": "tonyattwood.com.au", 
+  "date": "2015-06-19T09:00:00", 
   "slug": 61538368, 
+  "publisher": "tonyattwood.com.au", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Tony Attwood", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150619T090000/IaYbCDEjTyfHamKvsIhRJg==", 
+  "scope": "root", 
   "start_date": "2015-06-19T09:00:00Z"
 }
 

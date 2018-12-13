@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nationaltrail.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "National Trails", 
-  "record_id": "20131014T100000/1jyyr2xcxxhfBM9QP2831A==", 
-  "publisher": "nationaltrail.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 9404499, 
+  "publisher": "nationaltrail.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "National Trails", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/1jyyr2xcxxhfBM9QP2831A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

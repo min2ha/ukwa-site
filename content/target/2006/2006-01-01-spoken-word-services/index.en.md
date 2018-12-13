@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.spokenword.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Spoken Word Services", 
-  "record_id": "20060101T120000/I8y9SpZiCMjmSBYA9xlJWA==", 
-  "publisher": "spokenword.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 119324, 
+  "publisher": "spokenword.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Spoken Word Services", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/I8y9SpZiCMjmSBYA9xlJWA==", 
+  "scope": "root", 
   "start_date": null
 }
 

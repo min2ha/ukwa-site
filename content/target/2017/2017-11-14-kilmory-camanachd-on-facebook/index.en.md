@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-14T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/KilmoryCamanachd/", 
-  "description": "Facebook Page for a shinty club based at Lochgilphead, Argyll & Bute.", 
   "end_date": null, 
-  "title": "Kilmory Camanachd on Facebook", 
-  "record_id": "20171114T090000/uaZgSdr/rQhRzZM4Mb/GNQ==", 
-  "publisher": "facebook.com", 
+  "date": "2017-11-14T09:00:00", 
   "slug": 58761, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kilmory Camanachd on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171114T090000/uaZgSdr/rQhRzZM4Mb/GNQ==", 
+  "scope": "root", 
   "start_date": "2017-11-14T09:00:00Z"
 }
 

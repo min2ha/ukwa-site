@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://urexamsyllabus.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Your Exam Syllabus", 
-  "record_id": "20060101T120000/QwtUtagZU2+/0vCn8N2ZnQ==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9340, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Your Exam Syllabus", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QwtUtagZU2+/0vCn8N2ZnQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shippingtimes.co.uk/", 
-  "description": "Shipping Times seeks to provide news of interest to maritime enthusiasts and professionals in Scotland and in the rest of the British Isles.", 
   "end_date": null, 
-  "title": "Shipping Times - Scotland's Shipping & Shipbuilding News", 
-  "record_id": "20160427T100000/r+WZDN82wZhBKVkMSHw7+Q==", 
-  "publisher": "shippingtimes.co.uk", 
+  "date": "2016-04-27T10:00:00", 
   "slug": 40034, 
+  "publisher": "shippingtimes.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shipping Times - Scotland's Shipping & Shipbuilding News", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160427T100000/r+WZDN82wZhBKVkMSHw7+Q==", 
+  "scope": "root", 
   "start_date": "2016-04-27T10:00:00Z"
 }
 

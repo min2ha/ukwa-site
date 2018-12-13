@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.everythingisnewproject.com/", 
-  "description": "Site of a Scottish arts project supporting Dalit 'untouchable' children in south-east India.", 
   "end_date": null, 
-  "title": "Everything Is New Project", 
-  "record_id": "20160628T100000/47lckYGHM9KA/T7GonbdPA==", 
-  "publisher": "everythingisnewproject.com", 
+  "date": "2016-06-28T10:00:00", 
   "slug": 43917, 
+  "publisher": "everythingisnewproject.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Everything Is New Project", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160628T100000/47lckYGHM9KA/T7GonbdPA==", 
+  "scope": "root", 
   "start_date": "2016-06-28T10:00:00Z"
 }
 

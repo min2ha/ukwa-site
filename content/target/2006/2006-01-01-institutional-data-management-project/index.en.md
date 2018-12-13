@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.allclothing.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Institutional Data Management Project", 
-  "record_id": "20060101T120000/irQz3MgBntxW4873dOaiCA==", 
-  "publisher": "allclothing.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 37814282, 
+  "publisher": "allclothing.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Institutional Data Management Project", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/irQz3MgBntxW4873dOaiCA==", 
+  "scope": "root", 
   "start_date": null
 }
 

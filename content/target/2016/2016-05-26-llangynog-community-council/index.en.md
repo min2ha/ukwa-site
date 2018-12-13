@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-26T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llangynogcc.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llangynog Community Council", 
-  "record_id": "20160526T100000/WSV3LVQ0j10xsHVtvJeJCA==", 
-  "publisher": "llangynogcc.org", 
+  "date": "2016-05-26T10:00:00", 
   "slug": 41834, 
+  "publisher": "llangynogcc.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llangynog Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160526T100000/WSV3LVQ0j10xsHVtvJeJCA==", 
+  "scope": "root", 
   "start_date": "2016-05-26T10:00:00Z"
 }
 

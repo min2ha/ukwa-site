@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://mandynash.co.uk/", 
-  "description": "Mandy Nash is a Jewellery and Textile Design Maker who has a studio in Llanishen.", 
   "end_date": null, 
-  "title": "Mandy Nash: Jewellery and Textile Design Maker", 
-  "record_id": "20170316T090000/t3ZqinGlSQx+c7AkHqE/0w==", 
-  "publisher": "mandynash.co.uk", 
+  "date": "2017-03-16T09:00:00", 
   "slug": 50610, 
+  "publisher": "mandynash.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mandy Nash: Jewellery and Textile Design Maker", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170316T090000/t3ZqinGlSQx+c7AkHqE/0w==", 
+  "scope": "root", 
   "start_date": "2017-03-16T09:00:00Z"
 }
 

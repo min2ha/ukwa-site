@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://theatriolo.com/", 
-  "description": "Welsh theatre company company based in Cardiff.", 
   "end_date": null, 
-  "title": "Theatr Iolo", 
-  "record_id": "20151112T090000/s9O1neclpXtAA0MFiNzFdQ==", 
-  "publisher": "theatriolo.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32440, 
+  "publisher": "theatriolo.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Theatr Iolo", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/s9O1neclpXtAA0MFiNzFdQ==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

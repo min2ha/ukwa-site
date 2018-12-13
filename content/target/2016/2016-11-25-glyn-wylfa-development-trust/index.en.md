@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glynwylfa.co.uk/", 
-  "description": "Glyn Wylfa Ltd is a social enterprise and Development Trust in Chirk.", 
   "end_date": null, 
-  "title": "Glyn Wylfa Development Trust", 
-  "record_id": "20161125T090000/yFl3F5m1AwZWjw67LzWwQA==", 
-  "publisher": "glynwylfa.co.uk", 
+  "date": "2016-11-25T09:00:00", 
   "slug": 47363, 
+  "publisher": "glynwylfa.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glyn Wylfa Development Trust", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161125T090000/yFl3F5m1AwZWjw67LzWwQA==", 
+  "scope": "root", 
   "start_date": "2016-11-25T09:00:00Z"
 }
 

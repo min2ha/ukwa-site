@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fishlink.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "British Marine Finfish Association", 
-  "record_id": "20060101T120000/wdG93pZ/j/0n1kvPJgbG2g==", 
-  "publisher": "fishlink.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 55903, 
+  "publisher": "fishlink.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Marine Finfish Association", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/wdG93pZ/j/0n1kvPJgbG2g==", 
+  "scope": "root", 
   "start_date": null
 }
 

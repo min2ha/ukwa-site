@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.eastbourne.gov.uk/", 
-  "description": "Eastbourne Borough Council website offers information about local services, news, consultations, committee meeting minutes and agendas and information on the budget and spending ", 
   "end_date": null, 
   "date": "2016-02-16T09:00:00", 
   "slug": 35230, 
-  "subject": "District Councils", 
   "publisher": "eastbourne.gov.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Eastbourne Borough Council", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 629, 
+      "name": "District Councils"
+    }
+  ], 
   "record_id": "20160216T090000/50wXC1cO7Et4g4/i0rpk4w==", 
+  "scope": "root", 
   "start_date": "2016-02-16T09:00:00Z"
 }
 

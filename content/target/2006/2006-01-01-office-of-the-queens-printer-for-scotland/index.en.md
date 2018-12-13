@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.oqps.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Office of the Queen's Printer for Scotland", 
-  "record_id": "20060101T120000/nVOn7o9B1MA3g66IT2foug==", 
-  "publisher": "oqps.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 142410, 
+  "publisher": "oqps.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Office of the Queen's Printer for Scotland", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/nVOn7o9B1MA3g66IT2foug==", 
+  "scope": "root", 
   "start_date": null
 }
 

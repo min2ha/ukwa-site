@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.stdavidsmold.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 51675, 
-  "subject": "Religion/Theology", 
   "publisher": "stdavidsmold.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "St Davids Church Mold", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/MKFD7Bta/bt/+SWAjZ2qsw==", 
+  "scope": "root", 
   "start_date": null
 }
 

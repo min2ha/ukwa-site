@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.acklamcarsales.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Acklam Car Centre", 
-  "record_id": "20060101T120000/y4TId/AKsnLS/x0GRM3qfA==", 
-  "publisher": "acklamcarsales.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 261128214, 
+  "publisher": "acklamcarsales.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Acklam Car Centre", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/y4TId/AKsnLS/x0GRM3qfA==", 
+  "scope": "root", 
   "start_date": null
 }
 

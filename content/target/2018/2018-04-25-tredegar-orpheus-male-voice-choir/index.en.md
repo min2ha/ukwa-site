@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tredegar-orpheus.co.uk/", 
-  "description": "Tredegar Orpheus Male Voice Choir was founded in 1909. The site provides a comprehensive history to the choir.", 
   "end_date": null, 
-  "title": "Tredegar Orpheus Male Voice Choir", 
-  "record_id": "20180425T090000/4Rf+UEDvIppDQkaT7g6Y/g==", 
-  "publisher": "tredegar-orpheus.co.uk", 
+  "date": "2018-04-25T09:00:00", 
   "slug": 64787, 
+  "publisher": "tredegar-orpheus.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tredegar Orpheus Male Voice Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180425T090000/4Rf+UEDvIppDQkaT7g6Y/g==", 
+  "scope": "root", 
   "start_date": "2018-04-25T09:00:00Z"
 }
 

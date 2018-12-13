@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.derbyshire.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Derbyshire County Council", 
-  "record_id": "20060101T120000/1RuweZ6DkyeHBP8CxMFPmg==", 
-  "publisher": "derbyshire.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 1928, 
+  "publisher": "derbyshire.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Derbyshire County Council", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1RuweZ6DkyeHBP8CxMFPmg==", 
+  "scope": "root", 
   "start_date": null
 }
 

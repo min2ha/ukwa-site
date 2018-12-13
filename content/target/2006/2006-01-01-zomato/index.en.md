@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.zomato.london/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Zomato", 
-  "record_id": "20060101T120000/rZ6V+fSxbjQH5gZ4QudveA==", 
-  "publisher": "zomato.london", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10662, 
+  "publisher": "zomato.london", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Zomato", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/rZ6V+fSxbjQH5gZ4QudveA==", 
+  "scope": "root", 
   "start_date": null
 }
 

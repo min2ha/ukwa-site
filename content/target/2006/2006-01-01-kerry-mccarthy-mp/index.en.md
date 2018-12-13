@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.kerrymccarthymp.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Kerry McCarthy MP", 
-  "record_id": "20060101T120000/xkkbSIZBM0FdfFNosjdPbA==", 
-  "publisher": "kerrymccarthymp.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66158653, 
+  "publisher": "kerrymccarthymp.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Kerry McCarthy MP", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xkkbSIZBM0FdfFNosjdPbA==", 
+  "scope": "root", 
   "start_date": null
 }
 

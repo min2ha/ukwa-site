@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cyngor.egryn.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Llanegryn | Llanegryn Community Council", 
-  "record_id": "20160517T100000/dHNnOxx+ZTFDa7P3QKSUQw==", 
-  "publisher": "egryn.org.uk", 
+  "date": "2016-05-17T10:00:00", 
   "slug": 41082, 
+  "publisher": "egryn.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Llanegryn | Llanegryn Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160517T100000/dHNnOxx+ZTFDa7P3QKSUQw==", 
+  "scope": "root", 
   "start_date": "2016-05-17T10:00:00Z"
 }
 

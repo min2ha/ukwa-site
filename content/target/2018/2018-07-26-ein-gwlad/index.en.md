@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://eingwlad.wales/", 
-  "description": "Ein Gwlad is a political party that is campaiging for an independent Wales.", 
   "end_date": null, 
-  "title": "Ein Gwlad ", 
-  "record_id": "20180726T090000/fTvdsDZsEylLPrdGb0/asA==", 
-  "publisher": "eingwlad.wales", 
+  "date": "2018-07-26T09:00:00", 
   "slug": 69311, 
+  "publisher": "eingwlad.wales", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ein Gwlad ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180726T090000/fTvdsDZsEylLPrdGb0/asA==", 
+  "scope": "root", 
   "start_date": "2018-07-26T09:00:00Z"
 }
 

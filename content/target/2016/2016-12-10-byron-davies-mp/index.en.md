@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/byrondaviesMP/", 
-  "description": "Byron Davies is the Conservative MP for Gower.", 
   "end_date": null, 
-  "title": "Byron Davies MP ", 
-  "record_id": "20161210T090000/eZ1hFPNe6APeGTa+af9Yqg==", 
-  "publisher": "facebook.com", 
+  "date": "2016-12-10T09:00:00", 
   "slug": 47726, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Byron Davies MP ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161210T090000/eZ1hFPNe6APeGTa+af9Yqg==", 
+  "scope": "root", 
   "start_date": "2016-12-10T09:00:00Z"
 }
 

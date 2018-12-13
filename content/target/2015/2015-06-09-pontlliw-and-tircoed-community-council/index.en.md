@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pontlliw-tircoed.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pontlliw and Tircoed Community Council", 
-  "record_id": "20150609T090000/CaDhVZw2lcQI0iFpDHLbYg==", 
-  "publisher": "pontlliw-tircoed.org.uk", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27425, 
+  "publisher": "pontlliw-tircoed.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pontlliw and Tircoed Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/CaDhVZw2lcQI0iFpDHLbYg==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

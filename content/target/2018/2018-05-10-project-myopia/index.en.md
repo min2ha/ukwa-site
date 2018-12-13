@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://projectmyopia.com/", 
-  "description": "Project Myopia connects \"globally disparate people with concerns about education reform\".", 
   "end_date": null, 
-  "title": "Project Myopia", 
-  "record_id": "20180510T090000/sI3s3ec5Be9RHlGqLMcZHA==", 
-  "publisher": "projectmyopia.com", 
+  "date": "2018-05-10T09:00:00", 
   "slug": 65319, 
+  "publisher": "projectmyopia.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Project Myopia", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180510T090000/sI3s3ec5Be9RHlGqLMcZHA==", 
+  "scope": "root", 
   "start_date": "2018-05-10T09:00:00Z"
 }
 

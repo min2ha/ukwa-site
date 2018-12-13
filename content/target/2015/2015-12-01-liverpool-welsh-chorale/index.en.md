@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lwcu.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Liverpool Welsh Chorale", 
-  "record_id": "20151201T090000/A6Oh4UO0/MPgtt9MAkOMBQ==", 
-  "publisher": "lwcu.co.uk", 
+  "date": "2015-12-01T09:00:00", 
   "slug": 33049, 
+  "publisher": "lwcu.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Liverpool Welsh Chorale", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151201T090000/A6Oh4UO0/MPgtt9MAkOMBQ==", 
+  "scope": "root", 
   "start_date": "2015-12-01T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://hamishmacd.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hamish MacDonald", 
-  "record_id": "20180214T090000/5pmzllPL8VxVW8VcDiWRMA==", 
-  "publisher": "hamishmacd.com", 
+  "date": "2018-02-14T09:00:00", 
   "slug": 61303, 
+  "publisher": "hamishmacd.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hamish MacDonald", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180214T090000/5pmzllPL8VxVW8VcDiWRMA==", 
+  "scope": "root", 
   "start_date": "2018-02-14T09:00:00Z"
 }
 

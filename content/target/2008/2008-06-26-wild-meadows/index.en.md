@@ -1,13 +1,16 @@
 {
-  "date": "2008-06-26T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.wildmeadows.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wild Meadows", 
-  "record_id": "20080626T000000/oXzxLTAVBWg2wgYfciv2Jw==", 
-  "publisher": "wildmeadows.org.uk", 
+  "date": "2008-06-26T00:00:00", 
   "slug": 8683550, 
+  "publisher": "wildmeadows.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Wild Meadows", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20080626T000000/oXzxLTAVBWg2wgYfciv2Jw==", 
+  "scope": "root", 
   "start_date": "2008-06-26T00:00:00Z"
 }
 

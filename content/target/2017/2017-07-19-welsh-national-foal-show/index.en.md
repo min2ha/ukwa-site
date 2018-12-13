@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-19T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.welshnationalfoalshow.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh National Foal Show", 
-  "record_id": "20170719T090000/HBfKEtrFfA+OzaQPq7Z0lg==", 
-  "publisher": "welshnationalfoalshow.com", 
+  "date": "2017-07-19T09:00:00", 
   "slug": 55924, 
+  "publisher": "welshnationalfoalshow.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh National Foal Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170719T090000/HBfKEtrFfA+OzaQPq7Z0lg==", 
+  "scope": "root", 
   "start_date": "2017-07-19T09:00:00Z"
 }
 

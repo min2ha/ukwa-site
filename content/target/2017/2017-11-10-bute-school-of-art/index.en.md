@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.buteschoolofart.com/", 
-  "description": "Site of a small art school based on the Isle of Bute, Argyll & Bute.", 
   "end_date": null, 
-  "title": "Bute School of Art", 
-  "record_id": "20171110T090000/pCcc0engWAFYKCMpskQPFA==", 
-  "publisher": "buteschoolofart.com", 
+  "date": "2017-11-10T09:00:00", 
   "slug": 58692, 
+  "publisher": "buteschoolofart.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bute School of Art", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171110T090000/pCcc0engWAFYKCMpskQPFA==", 
+  "scope": "root", 
   "start_date": "2017-11-10T09:00:00Z"
 }
 

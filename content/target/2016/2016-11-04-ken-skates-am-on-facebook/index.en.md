@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/KenSkatesAM/", 
-  "description": "Ken Skates is the Assembly Member for Clwyd South.", 
   "end_date": null, 
-  "title": "Ken Skates AM on Facebook", 
-  "record_id": "20161104T090000/NwKflGzWSLyHY/rL6C0PbQ==", 
-  "publisher": "facebook.com", 
+  "date": "2016-11-04T09:00:00", 
   "slug": 46749, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ken Skates AM on Facebook", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161104T090000/NwKflGzWSLyHY/rL6C0PbQ==", 
+  "scope": "root", 
   "start_date": "2016-11-04T09:00:00Z"
 }
 

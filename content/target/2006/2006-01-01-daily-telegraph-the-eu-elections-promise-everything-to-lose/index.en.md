@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.telegraph.co.uk/news/politics/10838170/The-EU-elections-promise-everything-to-lose.html", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 10974, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "telegraph.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Daily Telegraph: The EU elections promise everything to lose", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20060101T120000/nKl6Qfrw1J4otztbcNw34g==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.topoutbrewery.com/", 
-  "description": "Site of a brewer located in Loanhead, Midlothian.", 
   "end_date": null, 
-  "title": "Top Out Brewery", 
-  "record_id": "20180620T090000/tmZNxAfGOF9CT6VjD1/5dg==", 
-  "publisher": "topoutbrewery.com", 
+  "date": "2018-06-20T09:00:00", 
   "slug": 67698, 
+  "publisher": "topoutbrewery.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Top Out Brewery", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180620T090000/tmZNxAfGOF9CT6VjD1/5dg==", 
+  "scope": "root", 
   "start_date": "2018-06-20T09:00:00Z"
 }
 

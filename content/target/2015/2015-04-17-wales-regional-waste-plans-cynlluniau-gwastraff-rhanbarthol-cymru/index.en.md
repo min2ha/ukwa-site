@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-17T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.walesregionalwasteplans.gov.uk/", 
-  "description": "Regional Waste Plans are long-term strategic waste management strategy and land-use planning frameworks for the sustainable management\nof wastes and recovery of resources. This is the plans for Wales.", 
   "end_date": null, 
-  "title": "Wales Regional Waste Plans | Cynlluniau Gwastraff Rhanbarthol Cymru", 
-  "record_id": "20150417T090000/tmXiSJKVEqk9vJHF+RuOPQ==", 
-  "publisher": "walesregionalwasteplans.gov.uk", 
+  "date": "2015-04-17T09:00:00", 
   "slug": 293863722, 
+  "publisher": "walesregionalwasteplans.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Wales Regional Waste Plans | Cynlluniau Gwastraff Rhanbarthol Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150417T090000/tmXiSJKVEqk9vJHF+RuOPQ==", 
+  "scope": "root", 
   "start_date": "2015-04-17T09:00:00Z"
 }
 

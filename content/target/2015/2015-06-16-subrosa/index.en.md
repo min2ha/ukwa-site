@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://subrosa-blonde.blogspot.co.uk/", 
-  "description": "\"A Dundee Wifey's view of Scottish Politics.\"", 
   "end_date": null, 
-  "title": "Subrosa", 
-  "record_id": "20150616T090000/yQ9N96tcSkl74YeYQPNNLQ==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2015-06-16T09:00:00", 
   "slug": 28068, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Subrosa", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150616T090000/yQ9N96tcSkl74YeYQPNNLQ==", 
+  "scope": "root", 
   "start_date": "2015-06-16T09:00:00Z"
 }
 

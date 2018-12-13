@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://andrewrbarr.com/", 
-  "description": "\"Andrew Redmond Barr is a writer and artist from Edinburgh, interested in literature, history and illustration.\"", 
   "end_date": null, 
-  "title": "Andrew Redmond Barr", 
-  "record_id": "20180510T090000/EdN4KvX8v9D4vWO79Lw58g==", 
-  "publisher": "andrewrbarr.com", 
+  "date": "2018-05-10T09:00:00", 
   "slug": 65316, 
+  "publisher": "andrewrbarr.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Andrew Redmond Barr", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180510T090000/EdN4KvX8v9D4vWO79Lw58g==", 
+  "scope": "root", 
   "start_date": "2018-05-10T09:00:00Z"
 }
 

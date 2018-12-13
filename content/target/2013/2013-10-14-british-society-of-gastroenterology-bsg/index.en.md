@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bsg.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "British Society of Gastroenterology (BSG)", 
-  "record_id": "20131014T100000/oEjHLfcMjND98BAwdkJPAQ==", 
-  "publisher": "bsg.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 120474, 
+  "publisher": "bsg.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "British Society of Gastroenterology (BSG)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/oEjHLfcMjND98BAwdkJPAQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

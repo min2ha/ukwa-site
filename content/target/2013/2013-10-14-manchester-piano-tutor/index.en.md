@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://manchesterpianotutor.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Manchester Piano Tutor", 
-  "record_id": "20131014T100000/iT+ZdFwpqIhsV6/VLzbe6w==", 
-  "publisher": "manchesterpianotutor.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 53248029, 
+  "publisher": "manchesterpianotutor.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Manchester Piano Tutor", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/iT+ZdFwpqIhsV6/VLzbe6w==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

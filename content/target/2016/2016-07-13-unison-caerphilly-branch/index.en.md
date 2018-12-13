@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.unison-caerphilly.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "UNISON Caerphilly Branch", 
-  "record_id": "20160713T100000/jcwoLkpzBCUvnOWzk01yJw==", 
-  "publisher": "unison-caerphilly.org.uk", 
+  "date": "2016-07-13T10:00:00", 
   "slug": 44261, 
+  "publisher": "unison-caerphilly.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "UNISON Caerphilly Branch", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160713T100000/jcwoLkpzBCUvnOWzk01yJw==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

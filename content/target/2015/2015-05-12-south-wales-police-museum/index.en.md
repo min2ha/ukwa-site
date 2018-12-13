@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.southwalespolicemuseum.org.uk", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Police Museum", 
-  "record_id": "20150512T090000/Gwm1aspDMN7akKY/GKVRjw==", 
-  "publisher": "southwalespolicemuseum.org.uk", 
+  "date": "2015-05-12T09:00:00", 
   "slug": 23664, 
+  "publisher": "southwalespolicemuseum.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South Wales Police Museum", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150512T090000/Gwm1aspDMN7akKY/GKVRjw==", 
+  "scope": "root", 
   "start_date": "2015-05-12T09:00:00Z"
 }
 

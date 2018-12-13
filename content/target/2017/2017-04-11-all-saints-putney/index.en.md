@@ -1,14 +1,26 @@
 {
   "target_url": "http://allsaints.parishofputney.com/", 
-  "description": "All Saints\u2019 Church is a Church of England church in the \u2018liberal Catholic Anglican tradition\u2019, welcoming people of all Christian traditions and backgrounds.", 
   "end_date": null, 
   "date": "2017-04-11T09:00:00", 
   "slug": 51895, 
-  "subject": "Religion/Theology", 
   "publisher": "parishofputney.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "All Saints\u2019 Putney", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170411T090000/O0u8RlJBK2KW56hTvB0ILA==", 
+  "scope": "root", 
   "start_date": "2017-04-11T09:00:00Z"
 }
 

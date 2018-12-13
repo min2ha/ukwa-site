@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.killaycommunitycouncil.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Killay Community Council", 
-  "record_id": "20150728T100000/ThP2fC4XH6QUo+iZPjRmWQ==", 
-  "publisher": "killaycommunitycouncil.com", 
+  "date": "2015-07-28T10:00:00", 
   "slug": 29399, 
+  "publisher": "killaycommunitycouncil.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Killay Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150728T100000/ThP2fC4XH6QUo+iZPjRmWQ==", 
+  "scope": "root", 
   "start_date": "2015-07-28T10:00:00Z"
 }
 

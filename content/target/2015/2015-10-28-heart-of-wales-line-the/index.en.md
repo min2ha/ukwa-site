@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.heart-of-wales.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Heart of Wales Line, The", 
-  "record_id": "20151028T090000/hfHGXVY12EY04fjQTGxEoQ==", 
-  "publisher": "heart-of-wales.co.uk", 
+  "date": "2015-10-28T09:00:00", 
   "slug": 31792, 
+  "publisher": "heart-of-wales.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Heart of Wales Line, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151028T090000/hfHGXVY12EY04fjQTGxEoQ==", 
+  "scope": "root", 
   "start_date": "2015-10-28T09:00:00Z"
 }
 

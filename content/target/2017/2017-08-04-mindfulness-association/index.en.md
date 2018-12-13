@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mindfulnessassociation.org/", 
-  "description": "At the Mindfulness Association we believe that Mindfulness is a way of life and not a brief intervention for relieving symptoms. ", 
   "end_date": null, 
-  "title": "Mindfulness Association", 
-  "record_id": "20170804T090000/OeRSV3ciijoTt21kHLqz9g==", 
-  "publisher": "mindfulnessassociation.org", 
+  "date": "2017-08-04T09:00:00", 
   "slug": 56410, 
+  "publisher": "mindfulnessassociation.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mindfulness Association", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170804T090000/OeRSV3ciijoTt21kHLqz9g==", 
+  "scope": "root", 
   "start_date": "2017-08-04T09:00:00Z"
 }
 

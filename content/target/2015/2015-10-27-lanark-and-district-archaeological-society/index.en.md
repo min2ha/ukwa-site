@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ladas.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lanark and District Archaeological Society", 
-  "record_id": "20151027T090000/OMaeNQH7La2ZEwQqLXnK2g==", 
-  "publisher": "ladas.org.uk", 
+  "date": "2015-10-27T09:00:00", 
   "slug": 31800, 
+  "publisher": "ladas.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lanark and District Archaeological Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151027T090000/OMaeNQH7La2ZEwQqLXnK2g==", 
+  "scope": "root", 
   "start_date": "2015-10-27T09:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cetis.ac.uk/", 
-  "description": "This is the 'old' site which has been superseded by JISC-CETIS.", 
   "end_date": null, 
-  "title": "CETIS : Centre for Educational Technology Interoperability Standards", 
-  "record_id": "20060101T120000/Uh5t6XfTrHRwUsIJm5jF8A==", 
-  "publisher": "cetis.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 140266, 
+  "publisher": "cetis.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "CETIS : Centre for Educational Technology Interoperability Standards", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Uh5t6XfTrHRwUsIJm5jF8A==", 
+  "scope": "root", 
   "start_date": null
 }
 

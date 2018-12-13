@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-19T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.seanvicary.com/", 
-  "description": "Sean Vicary is an artist, filmaker and animator based in west Wales.", 
   "end_date": null, 
-  "title": "Sean Vicary", 
-  "record_id": "20170819T090000/uQwJVL/zPi19J4cZYElLxQ==", 
-  "publisher": "seanvicary.com", 
+  "date": "2017-08-19T09:00:00", 
   "slug": 56735, 
+  "publisher": "seanvicary.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Sean Vicary", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170819T090000/uQwJVL/zPi19J4cZYElLxQ==", 
+  "scope": "root", 
   "start_date": "2017-08-19T09:00:00Z"
 }
 

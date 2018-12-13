@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shda.co.sh/", 
-  "description": null, 
   "end_date": null, 
-  "title": "ACT Consortium", 
-  "record_id": "20060101T120000/jEKcoZtFVNUzWP9HQ+RdgQ==", 
-  "publisher": "co.sh", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13498, 
+  "publisher": "co.sh", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ACT Consortium", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/jEKcoZtFVNUzWP9HQ+RdgQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

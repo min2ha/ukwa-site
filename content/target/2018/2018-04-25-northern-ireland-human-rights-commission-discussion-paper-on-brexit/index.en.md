@@ -1,14 +1,30 @@
 {
   "target_url": "http://www.nihrc.org/uploads/publications/Discussion_Paper_on_Brexit.pdf", 
-  "description": "This report examines the impact of the United Kingdom\u2019s exit from the European Union (Brexit) upon human rights and equality issues.", 
   "end_date": "2018-05-08T00:00:00Z", 
   "date": "2018-04-25T09:00:00", 
   "slug": 64820, 
-  "subject": "Brexit", 
   "publisher": "nihrc.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Northern Ireland Human Rights Commission: Discussion Paper on Brexit", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1021, 
+      "name": "Brexit : Impact on Northern Ireland"
+    }
+  ], 
   "record_id": "20180425T090000/tVNhdKX1w7rxO2gisBGMew==", 
+  "scope": "root", 
   "start_date": "2018-04-25T09:00:00Z"
 }
 

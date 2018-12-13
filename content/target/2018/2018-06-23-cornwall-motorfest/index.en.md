@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.cornwallmotorfest.co.uk/", 
-  "description": "Website for the Cornwall Motorfest", 
   "end_date": null, 
   "date": "2018-06-23T09:00:00", 
   "slug": 67994, 
-  "subject": "Festivals", 
   "publisher": "cornwallmotorfest.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cornwall Motorfest", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180623T090000/Vlayz7iiYB57hzvt0ZYGSA==", 
+  "scope": "root", 
   "start_date": "2018-06-23T09:00:00Z"
 }
 

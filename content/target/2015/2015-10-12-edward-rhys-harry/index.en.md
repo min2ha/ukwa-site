@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.edwardrhysharry.com/", 
-  "description": "Edward Rhys Harry is a composer from Gower, Wales.", 
   "end_date": null, 
-  "title": "Edward Rhys Harry", 
-  "record_id": "20151012T100000/CeQTcj0f5Zdn419j+qRlIQ==", 
-  "publisher": "edwardrhysharry.com", 
+  "date": "2015-10-12T10:00:00", 
   "slug": 31385, 
+  "publisher": "edwardrhysharry.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Edward Rhys Harry", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151012T100000/CeQTcj0f5Zdn419j+qRlIQ==", 
+  "scope": "root", 
   "start_date": "2015-10-12T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-20T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.ceredigion-labour.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ceredigion Labour Party", 
-  "record_id": "20180920T090000/lSi3IlLz4UoM0mxn+OLnzw==", 
-  "publisher": "ceredigion-labour.org.uk", 
+  "date": "2018-09-20T09:00:00", 
   "slug": 71447, 
+  "publisher": "ceredigion-labour.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ceredigion Labour Party", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180920T090000/lSi3IlLz4UoM0mxn+OLnzw==", 
+  "scope": "root", 
   "start_date": "2018-09-20T09:00:00Z"
 }
 

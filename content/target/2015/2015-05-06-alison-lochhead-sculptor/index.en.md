@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-06T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.alisonlochhead.co.uk/", 
-  "description": "Alison Lochhead is a Welsh Sculptor.", 
   "end_date": null, 
-  "title": "Alison Lochhead Sculptor", 
-  "record_id": "20150506T090000/+f1LTOVvx11vNRsy9HZKMQ==", 
-  "publisher": "alisonlochhead.co.uk", 
+  "date": "2015-05-06T09:00:00", 
   "slug": 65208630, 
+  "publisher": "alisonlochhead.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Alison Lochhead Sculptor", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150506T090000/+f1LTOVvx11vNRsy9HZKMQ==", 
+  "scope": "root", 
   "start_date": "2015-05-06T09:00:00Z"
 }
 

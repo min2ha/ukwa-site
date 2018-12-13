@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://www.highlifehighland.com/", 
-  "description": "High Life Highland develops and promotes opportunities in culture, learning, sport, leisure, health and wellbeing.", 
   "end_date": null, 
-  "title": "High Life Highland", 
-  "record_id": "20060101T120000/0mzSPMS1o8UuREy6g3BMLg==", 
-  "publisher": "highlifehighland.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31996, 
+  "publisher": "highlifehighland.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "High Life Highland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/0mzSPMS1o8UuREy6g3BMLg==", 
+  "scope": "root", 
   "start_date": null
 }
 

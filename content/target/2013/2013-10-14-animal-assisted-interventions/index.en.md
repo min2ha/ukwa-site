@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.equine-animal-assisted-therapy.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Animal Assisted Interventions", 
-  "record_id": "20131014T100000/OKypFoWSBrIC6/Q5re0KgQ==", 
-  "publisher": "equine-animal-assisted-therapy.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 66158849, 
+  "publisher": "equine-animal-assisted-therapy.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Animal Assisted Interventions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/OKypFoWSBrIC6/Q5re0KgQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

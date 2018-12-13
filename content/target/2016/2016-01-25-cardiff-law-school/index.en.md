@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.law.cardiff.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Law School", 
-  "record_id": "20160125T090000/BrGod2K8tj/aYthvyX/gnA==", 
-  "publisher": "cardiff.ac.uk", 
+  "date": "2016-01-25T09:00:00", 
   "slug": 34426, 
+  "publisher": "cardiff.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Law School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160125T090000/BrGod2K8tj/aYthvyX/gnA==", 
+  "scope": "root", 
   "start_date": "2016-01-25T09:00:00Z"
 }
 

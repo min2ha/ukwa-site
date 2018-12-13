@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hse.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Human Scale Education (HSE)", 
-  "record_id": "20131014T100000/WpJICLq+GXmJm5XL8jYn3Q==", 
-  "publisher": "hse.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 124697, 
+  "publisher": "hse.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Human Scale Education (HSE)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/WpJICLq+GXmJm5XL8jYn3Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

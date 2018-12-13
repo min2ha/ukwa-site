@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.radiobeca.co.uk/", 
-  "description": "Community Radio station for west Wales.", 
   "end_date": null, 
-  "title": "Radio Beca", 
-  "record_id": "20150604T090000/isWqqgoXybn1gIbUN65f5g==", 
-  "publisher": "radiobeca.co.uk", 
+  "date": "2015-06-04T09:00:00", 
   "slug": 27226, 
+  "publisher": "radiobeca.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Radio Beca", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150604T090000/isWqqgoXybn1gIbUN65f5g==", 
+  "scope": "root", 
   "start_date": "2015-06-04T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-03T09:00:00", 
-  "open_access": false, 
   "target_url": "https://scottishdawn.com/", 
-  "description": "Scottish far-right political group.", 
   "end_date": null, 
-  "title": "Scottish Dawn - Alba Gu Br\u00e0th", 
-  "record_id": "20180503T090000/aLgT4XOwswqNc5sFQRekDA==", 
-  "publisher": "scottishdawn.com", 
+  "date": "2018-05-03T09:00:00", 
   "slug": 54660, 
+  "publisher": "scottishdawn.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Dawn - Alba Gu Br\u00e0th", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180503T090000/aLgT4XOwswqNc5sFQRekDA==", 
+  "scope": "root", 
   "start_date": "2018-05-03T09:00:00Z"
 }
 

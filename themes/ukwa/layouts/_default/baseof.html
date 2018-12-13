@@ -6,7 +6,13 @@
     </div>
   </div>
 {{ end }}
+<section id="content">
+  <div class=" padding-right-20" style="padding-left: 40px">
+    <div class="row margin-0 padding-right-20">
 {{ block "content" .}}
   This is the baseof template.
 {{ end }}
+    </div>
+  </div>
+</section>
 {{ partial "footer.html" .}}

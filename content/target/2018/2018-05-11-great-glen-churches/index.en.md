@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.greatglenchurches.co.uk/", 
-  "description": "The website of Great Glen Churches, incorporating the churches of Fort Augustus and Glengarry.", 
   "end_date": null, 
-  "title": "Great Glen Churches", 
-  "record_id": "20180511T090000/YDA2hbcNViMWerg53IBijw==", 
-  "publisher": "greatglenchurches.co.uk", 
+  "date": "2018-05-11T09:00:00", 
   "slug": 64261, 
+  "publisher": "greatglenchurches.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Great Glen Churches", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180511T090000/YDA2hbcNViMWerg53IBijw==", 
+  "scope": "root", 
   "start_date": "2018-05-11T09:00:00Z"
 }
 

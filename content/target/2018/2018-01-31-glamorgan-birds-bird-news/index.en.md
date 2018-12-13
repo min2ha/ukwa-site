@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-31T09:00:00", 
-  "open_access": false, 
   "target_url": "https://glamorganbirds.wordpress.com/", 
-  "description": "This is a bird sightings blog established in 2003 for Glamorgan. It is run by Glamorgan Bird Club and Gower Ornithological Society. ", 
   "end_date": null, 
-  "title": "Glamorgan Birds \u2013 bird news", 
-  "record_id": "20180131T090000/vKPbc9FB0Gd9xzmMQVwQGA==", 
-  "publisher": "wordpress.com", 
+  "date": "2018-01-31T09:00:00", 
   "slug": 60669, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glamorgan Birds \u2013 bird news", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180131T090000/vKPbc9FB0Gd9xzmMQVwQGA==", 
+  "scope": "root", 
   "start_date": "2018-01-31T09:00:00Z"
 }
 

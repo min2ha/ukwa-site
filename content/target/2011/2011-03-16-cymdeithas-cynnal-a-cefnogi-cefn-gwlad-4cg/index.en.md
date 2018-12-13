@@ -1,13 +1,16 @@
 {
-  "date": "2011-03-16T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.4cg.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymdeithas Cynnal a Cefnogi Cefn Gwlad (4CG)", 
-  "record_id": "20110316T000000/OcPn5caJ6ctlWSIg9AYpIQ==", 
-  "publisher": "4cg.org.uk", 
+  "date": "2011-03-16T00:00:00", 
   "slug": 60293251, 
+  "publisher": "4cg.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Cymdeithas Cynnal a Cefnogi Cefn Gwlad (4CG)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110316T000000/OcPn5caJ6ctlWSIg9AYpIQ==", 
+  "scope": "root", 
   "start_date": "2011-03-16T00:00:00Z"
 }
 

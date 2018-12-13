@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://able.open.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Automatic Biodiversity Literature Enhancement (ABLE)", 
-  "record_id": "20060101T120000/a+liYMdfkHRnXxBXWreoBA==", 
-  "publisher": "open.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32899083, 
+  "publisher": "open.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Automatic Biodiversity Literature Enhancement (ABLE)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/a+liYMdfkHRnXxBXWreoBA==", 
+  "scope": "root", 
   "start_date": null
 }
 

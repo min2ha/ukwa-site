@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.dewar4research.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Dewar Research", 
-  "record_id": "20060101T120000/l3lZxWvlFPTd+jwCna0dVA==", 
-  "publisher": "dewar4research.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59113482, 
+  "publisher": "dewar4research.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Dewar Research", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/l3lZxWvlFPTd+jwCna0dVA==", 
+  "scope": "root", 
   "start_date": null
 }
 

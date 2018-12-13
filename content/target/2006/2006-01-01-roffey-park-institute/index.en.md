@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.roffeypark.com", 
-  "description": null, 
   "end_date": null, 
-  "title": "Roffey Park Institute", 
-  "record_id": "20060101T120000/CELzGwZu5+MMBdoJPeeHNA==", 
-  "publisher": "roffeypark.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 25, 
+  "publisher": "roffeypark.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Roffey Park Institute", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CELzGwZu5+MMBdoJPeeHNA==", 
+  "scope": "root", 
   "start_date": null
 }
 

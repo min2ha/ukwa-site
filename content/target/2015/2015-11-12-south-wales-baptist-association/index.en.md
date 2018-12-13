@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.southwalesbaptistassociation.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Baptist Association", 
-  "record_id": "20151112T090000/EZCf4kRpVRje0TW8NkcyyQ==", 
-  "publisher": "southwalesbaptistassociation.org.uk", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32441, 
+  "publisher": "southwalesbaptistassociation.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "South Wales Baptist Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/EZCf4kRpVRje0TW8NkcyyQ==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

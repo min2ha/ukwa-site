@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-20T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.olivereglin.com/", 
-  "description": "Oliver Eglin is a British artist working between London and Wales. ", 
   "end_date": null, 
-  "title": "Oliver Eglin", 
-  "record_id": "20170620T090000/7cXWcKk7XDiAMTSAzDXoPA==", 
-  "publisher": "olivereglin.com", 
+  "date": "2017-06-20T09:00:00", 
   "slug": 54835, 
+  "publisher": "olivereglin.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Oliver Eglin", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170620T090000/7cXWcKk7XDiAMTSAzDXoPA==", 
+  "scope": "root", 
   "start_date": "2017-06-20T09:00:00Z"
 }
 

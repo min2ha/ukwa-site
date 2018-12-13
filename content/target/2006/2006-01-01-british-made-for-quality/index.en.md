@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.britishmadeforquality.co.uk/", 
-  "description": "A pressure group set up to lobby The Government to work with businesses to produce a long-term manufacturing investment strategy for the United Kingdom \u2013 one that goes beyond the 5-year term of a single Parliament.", 
   "end_date": null, 
-  "title": "British Made For Quality", 
-  "record_id": "20060101T120000/uHlvq+aeMwY+iRm+LuALUw==", 
-  "publisher": "britishmadeforquality.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 34304, 
+  "publisher": "britishmadeforquality.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Made For Quality", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/uHlvq+aeMwY+iRm+LuALUw==", 
+  "scope": "root", 
   "start_date": null
 }
 

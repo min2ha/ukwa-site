@@ -1,13 +1,16 @@
 {
-  "date": "2015-02-23T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.llandeilo.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llandeilo Town Council", 
-  "record_id": "20150223T000000/QzpnmTrhi5e1kp7H7lKoQQ==", 
-  "publisher": "llandeilo.gov.uk", 
+  "date": "2015-02-23T00:00:00", 
   "slug": 293863567, 
+  "publisher": "llandeilo.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Llandeilo Town Council", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150223T000000/QzpnmTrhi5e1kp7H7lKoQQ==", 
+  "scope": "root", 
   "start_date": "2015-02-23T00:00:00Z"
 }
 

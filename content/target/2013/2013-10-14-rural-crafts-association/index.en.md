@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ruralcraftsassociation.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Rural Crafts Association", 
-  "record_id": "20131014T100000/golOYkGCph8a7IRkRRzH7Q==", 
-  "publisher": "ruralcraftsassociation.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 7655, 
+  "publisher": "ruralcraftsassociation.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rural Crafts Association", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/golOYkGCph8a7IRkRRzH7Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

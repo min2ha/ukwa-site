@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://manchesterua.ac/", 
-  "description": "Official website of Manchester Universal Academy.", 
   "end_date": null, 
-  "title": "Manchester Universal Academy", 
-  "record_id": "20150919T100000/DWBzZGOlScai2Crf02oR1w==", 
-  "publisher": "manchesterua.ac", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30708, 
+  "publisher": "manchesterua.ac", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Manchester Universal Academy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/DWBzZGOlScai2Crf02oR1w==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

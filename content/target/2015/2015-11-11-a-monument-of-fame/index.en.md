@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": false, 
   "target_url": "https://lambethpalacelibrary.wordpress.com/", 
-  "description": "A Monument of Fame is the Lambeth Palace Library blog.", 
   "end_date": null, 
-  "title": "A Monument of Fame", 
-  "record_id": "20151111T090000/mhW9f41uGBcrkTOAiNuLgQ==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 32405, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "A Monument of Fame", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/mhW9f41uGBcrkTOAiNuLgQ==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

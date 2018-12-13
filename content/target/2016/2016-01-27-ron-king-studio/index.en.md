@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ronkingstudio.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ron King Studio", 
-  "record_id": "20160127T090000/1FFA12yLlX0lCvpJRCTM+w==", 
-  "publisher": "ronkingstudio.com", 
+  "date": "2016-01-27T09:00:00", 
   "slug": 34604, 
+  "publisher": "ronkingstudio.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ron King Studio", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160127T090000/1FFA12yLlX0lCvpJRCTM+w==", 
+  "scope": "root", 
   "start_date": "2016-01-27T09:00:00Z"
 }
 

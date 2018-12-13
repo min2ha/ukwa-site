@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.barrywaterfront.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Barry Waterfront", 
-  "record_id": "20060101T120000/1uNdOD3l71VsmGaT4DxnTQ==", 
-  "publisher": "barrywaterfront.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31051, 
+  "publisher": "barrywaterfront.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Barry Waterfront", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1uNdOD3l71VsmGaT4DxnTQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

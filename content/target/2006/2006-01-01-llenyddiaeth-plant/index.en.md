@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://llenyddiaethplant.wordpress.com/", 
-  "description": "Blog by Siwan M. Rosser, a lecturer at Cardiff University, exploring the issue of Children literature in the Welsh language.", 
   "end_date": null, 
-  "title": "Llenyddiaeth Plant", 
-  "record_id": "20060101T120000/L/4T3fSse7cEpvS6Vl2kVw==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 35716, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llenyddiaeth Plant", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/L/4T3fSse7cEpvS6Vl2kVw==", 
+  "scope": "root", 
   "start_date": null
 }
 

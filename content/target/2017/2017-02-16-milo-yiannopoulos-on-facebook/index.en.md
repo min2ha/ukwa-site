@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-16T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/myiannopoulos/", 
-  "description": "This is the official Facebook page of Milo Yiannopoulos. It is maintained by a team of researchers and writers.", 
   "end_date": null, 
-  "title": "Milo Yiannopoulos on Facebook", 
-  "record_id": "20170216T090000/0fHe9MZOvforRu7PxGywwQ==", 
-  "publisher": "facebook.com", 
+  "date": "2017-02-16T09:00:00", 
   "slug": 49413, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Milo Yiannopoulos on Facebook", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170216T090000/0fHe9MZOvforRu7PxGywwQ==", 
+  "scope": "root", 
   "start_date": "2017-02-16T09:00:00Z"
 }
 

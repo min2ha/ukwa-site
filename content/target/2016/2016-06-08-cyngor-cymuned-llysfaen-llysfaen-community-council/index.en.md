@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llysfaencc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Llysfaen | Llysfaen Community Council ", 
-  "record_id": "20160608T100000/xuYowdpR86FbEo3AxACZPQ==", 
-  "publisher": "llysfaencc.org.uk", 
+  "date": "2016-06-08T10:00:00", 
   "slug": 42587, 
+  "publisher": "llysfaencc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Llysfaen | Llysfaen Community Council ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160608T100000/xuYowdpR86FbEo3AxACZPQ==", 
+  "scope": "root", 
   "start_date": "2016-06-08T10:00:00Z"
 }
 

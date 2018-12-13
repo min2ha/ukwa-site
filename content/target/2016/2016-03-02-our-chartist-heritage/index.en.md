@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ourchartistheritage.co.uk/", 
-  "description": "Community group established in and around Newport to bring forward projects and initiatives celebrating Newport's Chartist history.", 
   "end_date": null, 
-  "title": "Our Chartist Heritage", 
-  "record_id": "20160302T090000/qXkXX0IwAn4X572hMy4j8Q==", 
-  "publisher": "ourchartistheritage.co.uk", 
+  "date": "2016-03-02T09:00:00", 
   "slug": 36273, 
+  "publisher": "ourchartistheritage.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Our Chartist Heritage", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160302T090000/qXkXX0IwAn4X572hMy4j8Q==", 
+  "scope": "root", 
   "start_date": "2016-03-02T09:00:00Z"
 }
 

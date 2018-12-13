@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.soundworks.co.uk/", 
-  "description": "Bafta award winning audio post production studios in Cardiff Bay.", 
   "end_date": null, 
-  "title": "Soundworks", 
-  "record_id": "20150704T100000/Yv8Fab6N4WRX50tlFTphqA==", 
-  "publisher": "soundworks.co.uk", 
+  "date": "2015-07-04T10:00:00", 
   "slug": 28752, 
+  "publisher": "soundworks.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Soundworks", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150704T100000/Yv8Fab6N4WRX50tlFTphqA==", 
+  "scope": "root", 
   "start_date": "2015-07-04T10:00:00Z"
 }
 

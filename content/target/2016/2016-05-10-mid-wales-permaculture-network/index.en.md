@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.permaculture-wales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mid Wales Permaculture Network", 
-  "record_id": "20160510T100000/LwyrTpYktuOx2T0IM+CA6A==", 
-  "publisher": "permaculture-wales.org.uk", 
+  "date": "2016-05-10T10:00:00", 
   "slug": 40726, 
+  "publisher": "permaculture-wales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mid Wales Permaculture Network", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160510T100000/LwyrTpYktuOx2T0IM+CA6A==", 
+  "scope": "root", 
   "start_date": "2016-05-10T10:00:00Z"
 }
 

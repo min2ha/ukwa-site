@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mycromer.co.uk/", 
-  "description": "A local news site that also provides an online shopping service for local businesses. ", 
   "end_date": null, 
-  "title": "Cromer Norfolk", 
-  "record_id": "20060101T120000/fWcvR/Rz/KgPrOSh9hhE+A==", 
-  "publisher": "mycromer.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 41739, 
+  "publisher": "mycromer.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cromer Norfolk", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fWcvR/Rz/KgPrOSh9hhE+A==", 
+  "scope": "subdomains", 
   "start_date": null
 }
 

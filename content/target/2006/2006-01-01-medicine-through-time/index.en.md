@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.medicinethroughtime.co.uk/", 
-  "description": "Medicine through time", 
   "end_date": null, 
-  "title": "Medicine through time", 
-  "record_id": "20060101T120000/CMqOIdUiIyuu1ocW9QTZmg==", 
-  "publisher": "medicinethroughtime.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31653947, 
+  "publisher": "medicinethroughtime.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Medicine through time", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CMqOIdUiIyuu1ocW9QTZmg==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "https://shekicks.net/", 
-  "description": "She Kicks is a multimedia women\u2019s football information service, covering what\u2019s going on in the game in the UK and the Rest of the World.", 
   "end_date": null, 
   "date": "2018-03-10T09:00:00", 
   "slug": 62489, 
-  "subject": "Sport: Football", 
   "publisher": "shekicks.net", 
   "open_access": false, 
+  "npld": true, 
   "title": "She Kicks", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20180310T090000/K1k+nFltsYc3COlSP2fxIA==", 
+  "scope": "root", 
   "start_date": "2018-03-10T09:00:00Z"
 }
 

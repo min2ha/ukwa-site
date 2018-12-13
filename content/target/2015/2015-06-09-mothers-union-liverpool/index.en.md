@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.liverpoolmothersunion.org.uk/", 
-  "description": "Mothers' Union is an international Christian charity that seeks to support families of all faiths and none through practical outreach, prayer and advocating family friendly policies within both government and public life. ", 
   "end_date": null, 
-  "title": "Mothers' Union Liverpool", 
-  "record_id": "20150609T090000//LKqbZo9WWT6+lDQLJM7UQ==", 
-  "publisher": "liverpoolmothersunion.org.uk", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27394, 
+  "publisher": "liverpoolmothersunion.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mothers' Union Liverpool", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000//LKqbZo9WWT6+lDQLJM7UQ==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

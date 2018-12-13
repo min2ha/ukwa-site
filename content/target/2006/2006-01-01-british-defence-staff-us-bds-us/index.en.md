@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bdsus.mod.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "British Defence Staff - US (BDS-US)", 
-  "record_id": "20060101T120000/y2aTg3GjbGYi1I+cccdiSg==", 
-  "publisher": "mod.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 142378, 
+  "publisher": "mod.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "British Defence Staff - US (BDS-US)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/y2aTg3GjbGYi1I+cccdiSg==", 
+  "scope": "root", 
   "start_date": null
 }
 

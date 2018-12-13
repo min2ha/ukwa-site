@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.101honeymoons.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "101 Honeymoons", 
-  "record_id": "20131014T100000/rcEHv/8Hh4JkXEeUEcDYxg==", 
-  "publisher": "101honeymoons.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 55607299, 
+  "publisher": "101honeymoons.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "101 Honeymoons", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/rcEHv/8Hh4JkXEeUEcDYxg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

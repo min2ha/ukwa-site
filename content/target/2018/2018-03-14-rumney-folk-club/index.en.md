@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rumneyfolkclub.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Rumney Folk Club", 
-  "record_id": "20180314T090000/NKLbnH3q41zDpS1ZaE63MQ==", 
-  "publisher": "rumneyfolkclub.co.uk", 
+  "date": "2018-03-14T09:00:00", 
   "slug": 62635, 
+  "publisher": "rumneyfolkclub.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rumney Folk Club", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180314T090000/NKLbnH3q41zDpS1ZaE63MQ==", 
+  "scope": "root", 
   "start_date": "2018-03-14T09:00:00Z"
 }
 

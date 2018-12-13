@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishflooddefences.gov.uk", 
-  "description": null, 
   "end_date": null, 
-  "title": "Scottish Flood Defence Asset Database", 
-  "record_id": "20150206T060000/Ev0W/3ZU4gZcIyKAHEVJtg==", 
-  "publisher": "scottishflooddefences.gov.uk", 
+  "date": "2015-02-06T06:00:00", 
   "slug": 16730, 
+  "publisher": "scottishflooddefences.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Flood Defence Asset Database", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150206T060000/Ev0W/3ZU4gZcIyKAHEVJtg==", 
+  "scope": "root", 
   "start_date": "2015-02-06T06:00:00Z"
 }
 

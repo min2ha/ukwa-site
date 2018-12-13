@@ -1,13 +1,16 @@
 {
-  "date": "2014-09-16T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.severnwye.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Asiantaeth Ynni Severn Wye Energy Agency", 
-  "record_id": "20140916T000000/6VhgFj3BldDZ6kQ/16pryw==", 
-  "publisher": "severnwye.org.uk", 
+  "date": "2014-09-16T00:00:00", 
   "slug": 266338344, 
+  "publisher": "severnwye.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Asiantaeth Ynni Severn Wye Energy Agency", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140916T000000/6VhgFj3BldDZ6kQ/16pryw==", 
+  "scope": "root", 
   "start_date": "2014-09-16T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nanostate.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Nanostate", 
-  "record_id": "20060101T120000/QULkIUnJOMDYnN9uHJUw9Q==", 
-  "publisher": "nanostate.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13103, 
+  "publisher": "nanostate.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nanostate", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QULkIUnJOMDYnN9uHJUw9Q==", 
+  "scope": "subdomains", 
   "start_date": null
 }
 

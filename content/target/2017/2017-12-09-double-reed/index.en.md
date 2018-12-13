@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.doublereed.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Double Reed", 
-  "record_id": "20171209T090000/lqSjxOQnOXTnpqA4jKfb9A==", 
-  "publisher": "doublereed.co.uk", 
+  "date": "2017-12-09T09:00:00", 
   "slug": 59619, 
+  "publisher": "doublereed.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Double Reed", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171209T090000/lqSjxOQnOXTnpqA4jKfb9A==", 
+  "scope": "root", 
   "start_date": "2017-12-09T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ismprofessional.com/", 
-  "description": "The Institute of Sales Management (ISM) is the UK\u2019s largest professional body for salespeople and is the authoritative voice of selling, ethics and best practice.", 
   "end_date": null, 
-  "title": "The Institute of Sales Management", 
-  "record_id": "20180410T090000/dbZQw6qTEbAFtMDxo1VZSw==", 
-  "publisher": "ismprofessional.com", 
+  "date": "2018-04-10T09:00:00", 
   "slug": 63859, 
+  "publisher": "ismprofessional.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Institute of Sales Management", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180410T090000/dbZQw6qTEbAFtMDxo1VZSw==", 
+  "scope": "root", 
   "start_date": "2018-04-10T09:00:00Z"
 }
 

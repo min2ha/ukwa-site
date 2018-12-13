@@ -1,14 +1,26 @@
 {
   "target_url": "http://outandproudcardiff.co.uk/", 
-  "description": "Out and Proud Cardiff is a Cardiff based LGBT+ youth group for people age 13-21. ", 
   "end_date": null, 
   "date": "2016-10-01T10:00:00", 
   "slug": 45816, 
-  "subject": "LGBTQ+", 
   "publisher": "outandproudcardiff.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Out and Proud Cardiff", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1151, 
+      "name": "LGBTQ+"
+    }
+  ], 
   "record_id": "20161001T100000/yWRlNCVtJnR7yl3ofgD2+g==", 
+  "scope": "root", 
   "start_date": "2016-10-01T10:00:00Z"
 }
 

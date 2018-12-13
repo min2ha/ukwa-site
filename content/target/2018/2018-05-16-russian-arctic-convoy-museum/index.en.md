@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.theracmproject.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Russian Arctic convoy Museum", 
-  "record_id": "20180516T090000/KelhB4AIU0koDk3Dt/9okA==", 
-  "publisher": "theracmproject.org", 
+  "date": "2018-05-16T09:00:00", 
   "slug": 65660, 
+  "publisher": "theracmproject.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Russian Arctic convoy Museum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180516T090000/KelhB4AIU0koDk3Dt/9okA==", 
+  "scope": "root", 
   "start_date": "2018-05-16T09:00:00Z"
 }
 

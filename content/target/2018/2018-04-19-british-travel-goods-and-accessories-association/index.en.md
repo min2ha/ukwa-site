@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.btaa.org.uk/", 
-  "description": "The British Travelgoods and Accessories Association (BTAA) is trade association for companies making and selling handbags, suitcases etc.", 
   "end_date": null, 
-  "title": "British Travel Goods and Accessories Association ", 
-  "record_id": "20180419T090000/7Cj457fXSTJwvgA/WQ30Kw==", 
-  "publisher": "btaa.org.uk", 
+  "date": "2018-04-19T09:00:00", 
   "slug": 64590, 
+  "publisher": "btaa.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Travel Goods and Accessories Association ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180419T090000/7Cj457fXSTJwvgA/WQ30Kw==", 
+  "scope": "root", 
   "start_date": "2018-04-19T09:00:00Z"
 }
 

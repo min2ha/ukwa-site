@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://robztobor.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Slightly Eccentric Diary of Rob Z Tobor, The", 
-  "record_id": "20060101T120000/tNHX1pYpSBpjE63VLV3AhQ==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9631, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Slightly Eccentric Diary of Rob Z Tobor, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tNHX1pYpSBpjE63VLV3AhQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glaslynwildlife.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bywyd Gwyllt Glaslyn | Glaslyn Wildlife", 
-  "record_id": "20170422T090000/MlOuFnRVcmj7i1ODf9uMAw==", 
-  "publisher": "glaslynwildlife.co.uk", 
+  "date": "2017-04-22T09:00:00", 
   "slug": 52235, 
+  "publisher": "glaslynwildlife.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bywyd Gwyllt Glaslyn | Glaslyn Wildlife", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170422T090000/MlOuFnRVcmj7i1ODf9uMAw==", 
+  "scope": "root", 
   "start_date": "2017-04-22T09:00:00Z"
 }
 

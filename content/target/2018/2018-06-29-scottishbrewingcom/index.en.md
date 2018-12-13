@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishbrewing.com/", 
-  "description": "Portal about Scottish craft brewing and brewing heritage.", 
   "end_date": null, 
-  "title": "ScottishBrewing.com.", 
-  "record_id": "20180629T090000/MAnT690qBRfzhohVTiDhFA==", 
-  "publisher": "scottishbrewing.com", 
+  "date": "2018-06-29T09:00:00", 
   "slug": 68368, 
+  "publisher": "scottishbrewing.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ScottishBrewing.com.", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180629T090000/MAnT690qBRfzhohVTiDhFA==", 
+  "scope": "root", 
   "start_date": "2018-06-29T09:00:00Z"
 }
 

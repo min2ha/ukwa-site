@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.billygriff.sathosting.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bill Griffiths", 
-  "record_id": "20060101T120000/Je+8TNo+aJNP3XITe35dcg==", 
-  "publisher": "sathosting.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 98849, 
+  "publisher": "sathosting.net", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Bill Griffiths", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Je+8TNo+aJNP3XITe35dcg==", 
+  "scope": "root", 
   "start_date": null
 }
 

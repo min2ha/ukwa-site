@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "https://www.dorset.pcc.police.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Dorset Police and Crime Commissioner", 
-  "record_id": "20060101T120000/k8Zh4Mi/HjZ6ePMLbf7JZg==", 
-  "publisher": "pcc.police.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 378863618, 
+  "publisher": "pcc.police.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Dorset Police and Crime Commissioner", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/k8Zh4Mi/HjZ6ePMLbf7JZg==", 
+  "scope": "root", 
   "start_date": null
 }
 

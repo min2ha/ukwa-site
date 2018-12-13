@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-26T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.literaturewales.org/writers-of-wales/", 
-  "description": "The Writers of Wales Database includes living authors who were born, raised and/or are currently resident in Wales. The entries include biographies, photographs, reviews and bibliographies.", 
   "end_date": null, 
-  "title": "Literature Wales' Writers of Wales database", 
-  "record_id": "20160526T100000/CCXF02G6LcFloyaTYeg5ig==", 
-  "publisher": "literaturewales.org", 
+  "date": "2016-05-26T10:00:00", 
   "slug": 41788, 
+  "publisher": "literaturewales.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Literature Wales' Writers of Wales database", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160526T100000/CCXF02G6LcFloyaTYeg5ig==", 
+  "scope": "root", 
   "start_date": "2016-05-26T10:00:00Z"
 }
 

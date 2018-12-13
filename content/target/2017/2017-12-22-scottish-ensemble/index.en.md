@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://scottishensemble.co.uk/", 
-  "description": "Site of a Scottish classical string ensemble based in Glasgow.", 
   "end_date": null, 
-  "title": "Scottish Ensemble", 
-  "record_id": "20171222T090000/HtSvg9cUBqiFwmMR14Rvnw==", 
-  "publisher": "scottishensemble.co.uk", 
+  "date": "2017-12-22T09:00:00", 
   "slug": 59920, 
+  "publisher": "scottishensemble.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Ensemble", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171222T090000/HtSvg9cUBqiFwmMR14Rvnw==", 
+  "scope": "root", 
   "start_date": "2017-12-22T09:00:00Z"
 }
 

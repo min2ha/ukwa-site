@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.uhr.org.uk/", 
-  "description": "A coalistion of the British Hedgehog Preservation Society, Hessilhead Wildlife Rescue Trust, International Animal Rescue and OneKind working to translocate hedgehogs from the Outer Hebrides.", 
   "end_date": null, 
-  "title": "Uist Hedgehog Rescue", 
-  "record_id": "20060101T120000/xStTiO6Rj/ha4fmFNB4SFg==", 
-  "publisher": "uhr.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 55696, 
+  "publisher": "uhr.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Uist Hedgehog Rescue", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xStTiO6Rj/ha4fmFNB4SFg==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://sosig.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "SOSIG : Social Science Information Gateway", 
-  "record_id": "20060101T120000/pYNHLTVJkx9lxeNCcv2daA==", 
-  "publisher": "sosig.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 113789, 
+  "publisher": "sosig.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "SOSIG : Social Science Information Gateway", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pYNHLTVJkx9lxeNCcv2daA==", 
+  "scope": "root", 
   "start_date": null
 }
 

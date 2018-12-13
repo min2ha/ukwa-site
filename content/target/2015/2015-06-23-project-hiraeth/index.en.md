@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.project-hiraeth.com/", 
-  "description": "Project Hiraeth explores, documents and celebrates the stories of the Welsh colony in Patagonia, Argentina.", 
   "end_date": null, 
-  "title": "Project Hiraeth", 
-  "record_id": "20150623T100000/SGamuNbjDj8VXARRSIhcmQ==", 
-  "publisher": "project-hiraeth.com", 
+  "date": "2015-06-23T10:00:00", 
   "slug": 28232, 
+  "publisher": "project-hiraeth.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Project Hiraeth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150623T100000/SGamuNbjDj8VXARRSIhcmQ==", 
+  "scope": "root", 
   "start_date": "2015-06-23T10:00:00Z"
 }
 

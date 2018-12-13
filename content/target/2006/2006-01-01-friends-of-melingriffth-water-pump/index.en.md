@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://friendsofmelingriffithwaterpump.weebly.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Friends of Melingriffth Water Pump", 
-  "record_id": "20060101T120000/hkNxdYw3PQzLgsKTXwsZhA==", 
-  "publisher": "weebly.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15534, 
+  "publisher": "weebly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Friends of Melingriffth Water Pump", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/hkNxdYw3PQzLgsKTXwsZhA==", 
+  "scope": "root", 
   "start_date": null
 }
 

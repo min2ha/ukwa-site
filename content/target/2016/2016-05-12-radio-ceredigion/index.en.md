@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-12T10:00:00", 
-  "open_access": true, 
   "target_url": "http://radioceredigion.wales/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Radio Ceredigion", 
-  "record_id": "20160512T100000/OEq/jaOc78Ar/gneWvnkow==", 
-  "publisher": "radioceredigion.wales", 
+  "date": "2016-05-12T10:00:00", 
   "slug": 57344013, 
+  "publisher": "radioceredigion.wales", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Radio Ceredigion", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160512T100000/OEq/jaOc78Ar/gneWvnkow==", 
+  "scope": "root", 
   "start_date": "2016-05-12T10:00:00Z"
 }
 

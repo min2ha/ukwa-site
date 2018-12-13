@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.igo.org.uk/", 
-  "description": "International Gospel Outreach (IGO) is a fellowship based in Conwy and is affiliated to the Evangelical Alliance.", 
   "end_date": null, 
-  "title": "International Gospel Outreach (IGO)", 
-  "record_id": "20160310T090000/BiYB7t8/THlNJ6BAbxiVSA==", 
-  "publisher": "igo.org.uk", 
+  "date": "2016-03-10T09:00:00", 
   "slug": 36931, 
+  "publisher": "igo.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "International Gospel Outreach (IGO)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160310T090000/BiYB7t8/THlNJ6BAbxiVSA==", 
+  "scope": "root", 
   "start_date": "2016-03-10T09:00:00Z"
 }
 

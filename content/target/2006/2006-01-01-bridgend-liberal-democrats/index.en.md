@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bridgend-libdems.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bridgend Liberal Democrats", 
-  "record_id": "20060101T120000/VM0NZMbLobL/+7x5syvwPg==", 
-  "publisher": "bridgend-libdems.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 105456, 
+  "publisher": "bridgend-libdems.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Bridgend Liberal Democrats", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/VM0NZMbLobL/+7x5syvwPg==", 
+  "scope": "root", 
   "start_date": null
 }
 

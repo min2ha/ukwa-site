@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.parkinsonshipley.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "J W Parkinson and Son (Shipley) Limited", 
-  "record_id": "20060101T120000/Kuig+j7pKf3CtyFWM55geg==", 
-  "publisher": "parkinsonshipley.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 235438139, 
+  "publisher": "parkinsonshipley.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "J W Parkinson and Son (Shipley) Limited", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Kuig+j7pKf3CtyFWM55geg==", 
+  "scope": "root", 
   "start_date": null
 }
 

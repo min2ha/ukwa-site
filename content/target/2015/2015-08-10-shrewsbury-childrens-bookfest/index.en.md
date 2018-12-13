@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shrewsburybookfest.co.uk/", 
-  "description": "Shrewsbury Children's Bookfest", 
   "end_date": null, 
-  "title": "Shrewsbury Children's Bookfest", 
-  "record_id": "20150810T100000/pWqbpL6zrHeh9Zc81YLOtw==", 
-  "publisher": "shrewsburybookfest.co.uk", 
+  "date": "2015-08-10T10:00:00", 
   "slug": 29665, 
+  "publisher": "shrewsburybookfest.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shrewsbury Children's Bookfest", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150810T100000/pWqbpL6zrHeh9Zc81YLOtw==", 
+  "scope": "root", 
   "start_date": "2015-08-10T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-06T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ewc.wales/", 
-  "description": "Education Workforce Council regulate education practitioners in Wales in the interests of learners and the general public. ", 
   "end_date": null, 
-  "title": "Cyngor y Gweithle Addysg | Education Workforce Council", 
-  "record_id": "20151006T100000/jUCjHCxxIGAtLFycEGBbtw==", 
-  "publisher": "ewc.wales", 
+  "date": "2015-10-06T10:00:00", 
   "slug": 31171, 
+  "publisher": "ewc.wales", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Cyngor y Gweithle Addysg | Education Workforce Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151006T100000/jUCjHCxxIGAtLFycEGBbtw==", 
+  "scope": "root", 
   "start_date": "2015-10-06T10:00:00Z"
 }
 

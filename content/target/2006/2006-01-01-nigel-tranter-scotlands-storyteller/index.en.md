@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nigeltranter.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Nigel Tranter Scotland's storyteller", 
-  "record_id": "20060101T120000//QiyDBoI2yyugJl5nJNlQQ==", 
-  "publisher": "nigeltranter.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 116656, 
+  "publisher": "nigeltranter.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Nigel Tranter Scotland's storyteller", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000//QiyDBoI2yyugJl5nJNlQQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

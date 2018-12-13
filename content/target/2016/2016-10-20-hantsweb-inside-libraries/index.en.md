@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://blogs.hants.gov.uk/libraries/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hantsweb: Inside Libraries", 
-  "record_id": "20161020T100000/W1TRZfYSSJlSsMgujTJ4bg==", 
-  "publisher": "hants.gov.uk", 
+  "date": "2016-10-20T10:00:00", 
   "slug": 46350, 
+  "publisher": "hants.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hantsweb: Inside Libraries", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161020T100000/W1TRZfYSSJlSsMgujTJ4bg==", 
+  "scope": "root", 
   "start_date": "2016-10-20T10:00:00Z"
 }
 

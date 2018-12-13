@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llansadwrn.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Llansadwrn | Llansadwrn Community Council", 
-  "record_id": "20160527T100000/mSUNbMnvQRdchO3raadG5Q==", 
-  "publisher": "llansadwrn.org.uk", 
+  "date": "2016-05-27T10:00:00", 
   "slug": 41920, 
+  "publisher": "llansadwrn.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Llansadwrn | Llansadwrn Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160527T100000/mSUNbMnvQRdchO3raadG5Q==", 
+  "scope": "root", 
   "start_date": "2016-05-27T10:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://sceno.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scenography - the theatre design website", 
-  "record_id": "20060101T120000/DJ8Q4gsTigiJCGFlioLo/Q==", 
-  "publisher": "sceno.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15237166, 
+  "publisher": "sceno.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Scenography - the theatre design website", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/DJ8Q4gsTigiJCGFlioLo/Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

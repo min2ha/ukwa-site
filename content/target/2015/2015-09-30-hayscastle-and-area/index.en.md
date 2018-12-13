@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://hayscastle.com/", 
-  "description": "Community information resource for Haycastle in Pembrokeshire.", 
   "end_date": null, 
-  "title": "Hayscastle and area", 
-  "record_id": "20150930T100000/wGrAPxWBNF30+hiwsbXLsA==", 
-  "publisher": "hayscastle.com", 
+  "date": "2015-09-30T10:00:00", 
   "slug": 31019, 
+  "publisher": "hayscastle.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hayscastle and area", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150930T100000/wGrAPxWBNF30+hiwsbXLsA==", 
+  "scope": "root", 
   "start_date": "2015-09-30T10:00:00Z"
 }
 

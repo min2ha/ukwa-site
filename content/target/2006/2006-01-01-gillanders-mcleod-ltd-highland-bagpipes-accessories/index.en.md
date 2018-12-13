@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gandmbagpipes.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Gillanders & McLeod Ltd : Highland Bagpipes & Accessories", 
-  "record_id": "20060101T120000/cRofZzXSLmOuuhl//6kGaw==", 
-  "publisher": "gandmbagpipes.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117183, 
+  "publisher": "gandmbagpipes.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Gillanders & McLeod Ltd : Highland Bagpipes & Accessories", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cRofZzXSLmOuuhl//6kGaw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dufftown.co.uk/", 
-  "description": "Site providing local information and amenities for visitors to the town of Dufftown, Speyside, Moray, Scotland.", 
   "end_date": null, 
-  "title": "Dufftown", 
-  "record_id": "20170202T090000/DvfgHpnctsX/JicoF/6Q8Q==", 
-  "publisher": "dufftown.co.uk", 
+  "date": "2017-02-02T09:00:00", 
   "slug": 48963, 
+  "publisher": "dufftown.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dufftown", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170202T090000/DvfgHpnctsX/JicoF/6Q8Q==", 
+  "scope": "root", 
   "start_date": "2017-02-02T09:00:00Z"
 }
 

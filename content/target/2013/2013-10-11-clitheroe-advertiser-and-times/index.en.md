@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.clitheroeadvertiser.co.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-11T10:00:00", 
   "slug": 3567, 
-  "subject": "News Sites", 
   "publisher": "clitheroeadvertiser.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Clitheroe Advertiser and Times", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20131011T100000/SNkSD7Zh/VWrNgssxQ0oVQ==", 
+  "scope": "root", 
   "start_date": "2013-10-11T10:00:00Z"
 }
 

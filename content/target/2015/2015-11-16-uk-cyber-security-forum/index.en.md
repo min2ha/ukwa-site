@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.ukcybersecurityforum.com/", 
-  "description": "The UK Cyber Security Forum represents small companies who are actively working in cyber security across the UK.", 
   "end_date": null, 
   "date": "2015-11-16T09:00:00", 
   "slug": 32591, 
-  "subject": "IT Collection", 
   "publisher": "ukcybersecurityforum.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "UK Cyber Security Forum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 520, 
+      "name": "IT Collection"
+    }
+  ], 
   "record_id": "20151116T090000/A+b466pFVHCquTT/gza7yg==", 
+  "scope": "root", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

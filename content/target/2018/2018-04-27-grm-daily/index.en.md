@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://grmdaily.com/", 
-  "description": "UK Grime, Rap music and Culture ", 
   "end_date": null, 
-  "title": "GRM Daily", 
-  "record_id": "20180427T090000/bNoIZvtFXzIQ86VI3NQBYQ==", 
-  "publisher": "grmdaily.com", 
+  "date": "2018-04-27T09:00:00", 
   "slug": 64872, 
+  "publisher": "grmdaily.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "GRM Daily", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180427T090000/bNoIZvtFXzIQ86VI3NQBYQ==", 
+  "scope": "root", 
   "start_date": "2018-04-27T09:00:00Z"
 }
 

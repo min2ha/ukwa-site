@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-22T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cymanfabedyddwyrdm.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymanfa Bedyddwyr Dwyrain Morgannwg | East Glamorgan Baptist Association", 
-  "record_id": "20161022T120000/jWQpvE5HJADU7qDLHnWj2Q==", 
-  "publisher": "cymanfabedyddwyrdm.com", 
+  "date": "2016-10-22T12:00:00", 
   "slug": 46424, 
+  "publisher": "cymanfabedyddwyrdm.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cymanfa Bedyddwyr Dwyrain Morgannwg | East Glamorgan Baptist Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161022T120000/jWQpvE5HJADU7qDLHnWj2Q==", 
+  "scope": "root", 
   "start_date": "2016-10-22T12:00:00Z"
 }
 

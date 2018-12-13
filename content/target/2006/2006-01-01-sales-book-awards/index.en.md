@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.salesbookawards.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sales Book Awards", 
-  "record_id": "20060101T120000/w/wSTGmamVibaQGnkFkjRQ==", 
-  "publisher": "salesbookawards.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15499278, 
+  "publisher": "salesbookawards.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sales Book Awards", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/w/wSTGmamVibaQGnkFkjRQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

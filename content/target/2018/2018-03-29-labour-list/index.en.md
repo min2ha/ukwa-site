@@ -1,14 +1,38 @@
 {
   "target_url": "http://labourlist.org/", 
-  "description": "\"LabourList is an independent progressive blog providing a platform for open debate about centre-left issues and the future of the Labour movement.\nAlthough we are a broad umbrella organisation seeking to draw together the many views and factions of the progressive spectrum, we also believe that progressive ends \u2013 such as a robust and resolute welfare state, social and educational equality and a fully funded National Health Service, free to all at the point of delivery \u2013 can only ultimately be achieved through the continued electoral success of the Labour Party.\" ", 
   "end_date": null, 
   "date": "2018-03-29T09:00:00", 
   "slug": 14273, 
-  "subject": "UK General Election 2015", 
   "publisher": "labourlist.org", 
   "open_access": true, 
+  "npld": true, 
   "title": "Labour List", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }, 
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20180329T090000/AER/tArrUKAwBIy10zaqxg==", 
+  "scope": "subdomains", 
   "start_date": "2018-03-29T09:00:00Z"
 }
 

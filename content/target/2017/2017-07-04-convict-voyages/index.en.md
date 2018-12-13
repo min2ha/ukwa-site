@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://convictvoyages.org/", 
-  "description": "A global history of convicts and penal colonies. This project is funded by the European Research Council (2013-2018). It is based in the School of History at the University of Leicester, under the direction of Professor Clare Anderson.", 
   "end_date": "2018-07-31T00:00:00Z", 
-  "title": "Convict Voyages", 
-  "record_id": "20170704T090000/0ia2sl1EkDmc7u6gATWGyw==", 
-  "publisher": "convictvoyages.org", 
+  "date": "2017-07-04T09:00:00", 
   "slug": 55104, 
+  "publisher": "convictvoyages.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Convict Voyages", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170704T090000/0ia2sl1EkDmc7u6gATWGyw==", 
+  "scope": "root", 
   "start_date": "2017-07-04T09:00:00Z"
 }
 

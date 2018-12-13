@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scotclans.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "ScotClans | Scottish Clans | Crests & Tartans of Scotland", 
-  "record_id": "20151110T090000/tJHlLNITWOqS8txh3sY/rw==", 
-  "publisher": "scotclans.com", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 32315, 
+  "publisher": "scotclans.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ScotClans | Scottish Clans | Crests & Tartans of Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/tJHlLNITWOqS8txh3sY/rw==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

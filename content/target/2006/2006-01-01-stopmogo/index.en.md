@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stopmogo.com/", 
-  "description": "Site of company based in Edinburgh using stop motion animation films as the focus of public events, bespoke parties, and workshops.", 
   "end_date": null, 
-  "title": "StopMoGo", 
-  "record_id": "20060101T120000/Yc5BCs+TVCcI+9UzbqUE0g==", 
-  "publisher": "stopmogo.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 44097, 
+  "publisher": "stopmogo.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "StopMoGo", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Yc5BCs+TVCcI+9UzbqUE0g==", 
+  "scope": "root", 
   "start_date": null
 }
 

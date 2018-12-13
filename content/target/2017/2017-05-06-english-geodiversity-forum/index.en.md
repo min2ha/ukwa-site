@@ -1,13 +1,21 @@
 {
-  "date": "2017-05-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.englishgeodiversityforum.org/", 
-  "description": "The English Geodiversity Forum is a collective voice for England\u2019s geodiversity and is open to all. ", 
   "end_date": null, 
-  "title": "English Geodiversity Forum", 
-  "record_id": "20170506T090000/QpYdcWBi904KiGfiFDrAJA==", 
-  "publisher": "englishgeodiversityforum.org", 
+  "date": "2017-05-06T09:00:00", 
   "slug": 52805, 
+  "publisher": "englishgeodiversityforum.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "English Geodiversity Forum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170506T090000/QpYdcWBi904KiGfiFDrAJA==", 
+  "scope": "root", 
   "start_date": "2017-05-06T09:00:00Z"
 }
 

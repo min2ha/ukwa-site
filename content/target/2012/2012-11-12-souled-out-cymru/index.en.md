@@ -1,13 +1,16 @@
 {
-  "date": "2012-11-12T00:00:00", 
-  "open_access": true, 
   "target_url": "http://souledoutcymru.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Souled Out Cymru", 
-  "record_id": "20121112T000000/RQaWirNglxcs5SJX0g4VMA==", 
-  "publisher": "souledoutcymru.net", 
+  "date": "2012-11-12T00:00:00", 
   "slug": 6062082, 
+  "publisher": "souledoutcymru.net", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Souled Out Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20121112T000000/RQaWirNglxcs5SJX0g4VMA==", 
+  "scope": "root", 
   "start_date": "2012-11-12T00:00:00Z"
 }
 

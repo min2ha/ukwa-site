@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.newwildlife.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bywyd gwyllt Gogledd Cymru | North East Wales wildlife", 
-  "record_id": "20151107T090000/3Bar3GCTJesf07cTeX8Zqg==", 
-  "publisher": "newwildlife.org.uk", 
+  "date": "2015-11-07T09:00:00", 
   "slug": 32218, 
+  "publisher": "newwildlife.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bywyd gwyllt Gogledd Cymru | North East Wales wildlife", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151107T090000/3Bar3GCTJesf07cTeX8Zqg==", 
+  "scope": "root", 
   "start_date": "2015-11-07T09:00:00Z"
 }
 

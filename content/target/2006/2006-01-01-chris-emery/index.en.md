@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://chrishamiltonemery.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Chris Emery", 
-  "record_id": "20060101T120000/i96Z5l7f/kVM4CNlBVVPhA==", 
-  "publisher": "chrishamiltonemery.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12259, 
+  "publisher": "chrishamiltonemery.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Chris Emery", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/i96Z5l7f/kVM4CNlBVVPhA==", 
+  "scope": "root", 
   "start_date": null
 }
 

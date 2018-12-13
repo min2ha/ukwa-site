@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cor-curiad.co.uk/", 
-  "description": "C\u00f4r Curiad is a ladies choir based in Llanelli and established in 1995.", 
   "end_date": null, 
-  "title": "C\u00f4r Curiad ", 
-  "record_id": "20180620T090000/5JLnoXE2VsZb8hovnM4YBA==", 
-  "publisher": "cor-curiad.co.uk", 
+  "date": "2018-06-20T09:00:00", 
   "slug": 67703, 
+  "publisher": "cor-curiad.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "C\u00f4r Curiad ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180620T090000/5JLnoXE2VsZb8hovnM4YBA==", 
+  "scope": "root", 
   "start_date": "2018-06-20T09:00:00Z"
 }
 

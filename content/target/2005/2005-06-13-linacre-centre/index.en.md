@@ -1,13 +1,16 @@
 {
-  "date": "2005-06-13T23:00:00", 
-  "open_access": false, 
   "target_url": "http://www.linacre.org/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "Linacre Centre", 
-  "record_id": "20050613T230000/gMUzLLXksFQWMA27Cxv3Uw==", 
-  "publisher": "linacre.org", 
+  "date": "2005-06-13T23:00:00", 
   "slug": 109330, 
+  "publisher": "linacre.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Linacre Centre", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20050613T230000/gMUzLLXksFQWMA27Cxv3Uw==", 
+  "scope": "root", 
   "start_date": "2005-06-13T23:00:00Z"
 }
 

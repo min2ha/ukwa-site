@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://camtriplehelix.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Triple Helix, The", 
-  "record_id": "20060101T120000/vUS4vK8NVCExM4Jflx1KUA==", 
-  "publisher": "camtriplehelix.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 64454683, 
+  "publisher": "camtriplehelix.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Triple Helix, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vUS4vK8NVCExM4Jflx1KUA==", 
+  "scope": "root", 
   "start_date": null
 }
 

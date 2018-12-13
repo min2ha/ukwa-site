@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rigb.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Royal Institution, The (Ri)", 
-  "record_id": "20151127T090000/g+jeiRGJBWJYOmStQgQ1Lw==", 
-  "publisher": "rigb.org", 
+  "date": "2015-11-27T09:00:00", 
   "slug": 11946, 
+  "publisher": "rigb.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal Institution, The (Ri)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151127T090000/g+jeiRGJBWJYOmStQgQ1Lw==", 
+  "scope": "root", 
   "start_date": "2015-11-27T09:00:00Z"
 }
 

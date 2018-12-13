@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gwentlmc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwent Local Medical Committee", 
-  "record_id": "20161122T090000/cZHxf2ir5AIdcAkr0TmG0g==", 
-  "publisher": "gwentlmc.org.uk", 
+  "date": "2016-11-22T09:00:00", 
   "slug": 47255, 
+  "publisher": "gwentlmc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwent Local Medical Committee", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161122T090000/cZHxf2ir5AIdcAkr0TmG0g==", 
+  "scope": "root", 
   "start_date": "2016-11-22T09:00:00Z"
 }
 

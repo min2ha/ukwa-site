@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-18T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.johnbyrneaward.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "John Byrne Award, The", 
-  "record_id": "20181018T090000/UnxBFau/sfDJNa5ibcut7A==", 
-  "publisher": "johnbyrneaward.org.uk", 
+  "date": "2018-10-18T09:00:00", 
   "slug": 81607, 
+  "publisher": "johnbyrneaward.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "John Byrne Award, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181018T090000/UnxBFau/sfDJNa5ibcut7A==", 
+  "scope": "root", 
   "start_date": "2018-10-18T09:00:00Z"
 }
 

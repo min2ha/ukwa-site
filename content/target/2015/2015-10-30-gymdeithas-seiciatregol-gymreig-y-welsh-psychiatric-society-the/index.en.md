@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wps.swan.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gymdeithas Seiciatregol Gymreig, Y | Welsh Psychiatric Society, The", 
-  "record_id": "20151030T090000/5w2UM/KvVu4py4Yr1Lbijg==", 
-  "publisher": "swan.ac.uk", 
+  "date": "2015-10-30T09:00:00", 
   "slug": 31936, 
+  "publisher": "swan.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gymdeithas Seiciatregol Gymreig, Y | Welsh Psychiatric Society, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T090000/5w2UM/KvVu4py4Yr1Lbijg==", 
+  "scope": "root", 
   "start_date": "2015-10-30T09:00:00Z"
 }
 

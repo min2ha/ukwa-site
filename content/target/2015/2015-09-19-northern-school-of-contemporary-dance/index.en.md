@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nscd.ac.uk/", 
-  "description": "Official website of the Northern School of Contemporary Dance, Leeds.", 
   "end_date": null, 
-  "title": "Northern School of Contemporary Dance", 
-  "record_id": "20150919T100000/YVcpBdgqEDBdatrNxpkyqg==", 
-  "publisher": "nscd.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30677, 
+  "publisher": "nscd.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Northern School of Contemporary Dance", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/YVcpBdgqEDBdatrNxpkyqg==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

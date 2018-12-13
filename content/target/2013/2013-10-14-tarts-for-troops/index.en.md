@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://tartsfortroops.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Tarts for Troops", 
-  "record_id": "20131014T100000/0rfP4kjajd5AHrnKbrzKAg==", 
-  "publisher": "tartsfortroops.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 125108229, 
+  "publisher": "tartsfortroops.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tarts for Troops", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/0rfP4kjajd5AHrnKbrzKAg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

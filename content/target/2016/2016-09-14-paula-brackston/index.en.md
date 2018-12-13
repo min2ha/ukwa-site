@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-14T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.paulabrackston.com/", 
-  "description": "Paula Brackston is a Welsh writer listed in the 'The Writers of Wales Database'.", 
   "end_date": null, 
-  "title": "Paula Brackston", 
-  "record_id": "20160914T120000/FZg6GbbDV4WCmVLo2knwHQ==", 
-  "publisher": "paulabrackston.com", 
+  "date": "2016-09-14T12:00:00", 
   "slug": 45367, 
+  "publisher": "paulabrackston.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Paula Brackston", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160914T120000/FZg6GbbDV4WCmVLo2knwHQ==", 
+  "scope": "root", 
   "start_date": "2016-09-14T12:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hthartscentre.co.uk/", 
-  "description": "Hornsey Town Hall Arts Centre in North London.", 
   "end_date": null, 
-  "title": "Hornsey Town Hall Arts Centre", 
-  "record_id": "20160122T090000/3MjZ5k9SczEyYmTA2bpWyg==", 
-  "publisher": "hthartscentre.co.uk", 
+  "date": "2016-01-22T09:00:00", 
   "slug": 34318, 
+  "publisher": "hthartscentre.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hornsey Town Hall Arts Centre", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160122T090000/3MjZ5k9SczEyYmTA2bpWyg==", 
+  "scope": "root", 
   "start_date": "2016-01-22T09:00:00Z"
 }
 

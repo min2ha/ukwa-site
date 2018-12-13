@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.clocktower-tc.co.uk/", 
-  "description": "Clock Tower is a Theatre Company based in Cardiff. ", 
   "end_date": null, 
-  "title": "Clock Tower Theatre Company ", 
-  "record_id": "20161011T100000/N/Mas+JL635KSZ9lr0eh+g==", 
-  "publisher": "clocktower-tc.co.uk", 
+  "date": "2016-10-11T10:00:00", 
   "slug": 46047, 
+  "publisher": "clocktower-tc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clock Tower Theatre Company ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161011T100000/N/Mas+JL635KSZ9lr0eh+g==", 
+  "scope": "root", 
   "start_date": "2016-10-11T10:00:00Z"
 }
 

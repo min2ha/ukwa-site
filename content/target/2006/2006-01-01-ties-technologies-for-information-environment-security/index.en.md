@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.edina.ac.uk/projects/ties/", 
-  "description": "", 
   "end_date": null, 
-  "title": "TIES: Technologies for Information Environment Security", 
-  "record_id": "20060101T120000/wwpQkHzf+uAhotJI7vml0A==", 
-  "publisher": "edina.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 118216, 
+  "publisher": "edina.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "TIES: Technologies for Information Environment Security", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/wwpQkHzf+uAhotJI7vml0A==", 
+  "scope": "root", 
   "start_date": null
 }
 

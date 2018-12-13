@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mda.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "MDA - Museum Documentation Association", 
-  "record_id": "20060101T120000/TSpM3sxZLOxBqBxBCgJg2g==", 
-  "publisher": "mda.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 126921, 
+  "publisher": "mda.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "MDA - Museum Documentation Association", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/TSpM3sxZLOxBqBxBCgJg2g==", 
+  "scope": "root", 
   "start_date": null
 }
 

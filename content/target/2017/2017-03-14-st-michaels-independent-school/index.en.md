@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stmikes.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "St. Michael\u2019s Independent School", 
-  "record_id": "20170314T090000/qOCAogsx8mCRZJ3NIIQjCg==", 
-  "publisher": "stmikes.co.uk", 
+  "date": "2017-03-14T09:00:00", 
   "slug": 50453, 
+  "publisher": "stmikes.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St. Michael\u2019s Independent School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170314T090000/qOCAogsx8mCRZJ3NIIQjCg==", 
+  "scope": "subdomains", 
   "start_date": "2017-03-14T09:00:00Z"
 }
 

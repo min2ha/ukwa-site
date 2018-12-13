@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.selkirkfilmclub.com/", 
-  "description": "Site of a film club showing commercial films in the town of Selkirk, Scottish Borders.", 
   "end_date": null, 
-  "title": "Selkirk Film Club", 
-  "record_id": "20171107T090000/nCEVBbv/MzUi8ZtfeOVOMg==", 
-  "publisher": "selkirkfilmclub.com", 
+  "date": "2017-11-07T09:00:00", 
   "slug": 58464, 
+  "publisher": "selkirkfilmclub.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Selkirk Film Club", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171107T090000/nCEVBbv/MzUi8ZtfeOVOMg==", 
+  "scope": "root", 
   "start_date": "2017-11-07T09:00:00Z"
 }
 

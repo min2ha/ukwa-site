@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.catrinwilliams.co.uk/", 
-  "description": "\nCatrin Williams is from Bala and is an elected member of the Royal Cambrian Academy of Art (RCA). Her Welshness and experience of living in Wales is a theme in her work.", 
   "end_date": null, 
-  "title": "Catrin Williams", 
-  "record_id": "20180208T090000/z8M+FyGM1z/tvIGrjVBz2w==", 
-  "publisher": "catrinwilliams.co.uk", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 293863755, 
+  "publisher": "catrinwilliams.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Catrin Williams", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/z8M+FyGM1z/tvIGrjVBz2w==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

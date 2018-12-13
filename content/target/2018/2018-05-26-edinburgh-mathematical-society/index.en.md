@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.ems.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Edinburgh Mathematical Society", 
-  "record_id": "20180526T090000/+KsGPHqQjwKElumrluLaOQ==", 
-  "publisher": "ems.ac.uk", 
+  "date": "2018-05-26T09:00:00", 
   "slug": 66220, 
+  "publisher": "ems.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Edinburgh Mathematical Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180526T090000/+KsGPHqQjwKElumrluLaOQ==", 
+  "scope": "root", 
   "start_date": "2018-05-26T09:00:00Z"
 }
 

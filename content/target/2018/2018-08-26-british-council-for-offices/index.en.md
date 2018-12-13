@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bco.org.uk/", 
-  "description": "Association for companies operating in the office property sector.", 
   "end_date": null, 
-  "title": "British Council for Offices ", 
-  "record_id": "20180826T090000/dS7dI9YwlMJmoyeu6gwUfw==", 
-  "publisher": "bco.org.uk", 
+  "date": "2018-08-26T09:00:00", 
   "slug": 70441, 
+  "publisher": "bco.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Council for Offices ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180826T090000/dS7dI9YwlMJmoyeu6gwUfw==", 
+  "scope": "root", 
   "start_date": "2018-08-26T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.taiceredigion.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Tai Ceredigion", 
-  "record_id": "20151030T090000/COZmChNglU/v+l5jXQUSeg==", 
-  "publisher": "taiceredigion.org.uk", 
+  "date": "2015-10-30T09:00:00", 
   "slug": 31896, 
+  "publisher": "taiceredigion.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tai Ceredigion", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T090000/COZmChNglU/v+l5jXQUSeg==", 
+  "scope": "root", 
   "start_date": "2015-10-30T09:00:00Z"
 }
 

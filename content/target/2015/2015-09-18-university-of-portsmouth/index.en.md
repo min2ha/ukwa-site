@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.port.ac.uk/", 
-  "description": "Official website of the University of Portsmouth.", 
   "end_date": null, 
-  "title": "University of Portsmouth", 
-  "record_id": "20150918T100000/E4CcEtd5Cs5GkKOJXywYPQ==", 
-  "publisher": "port.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30607, 
+  "publisher": "port.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of Portsmouth", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/E4CcEtd5Cs5GkKOJXywYPQ==", 
+  "scope": "subdomains", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

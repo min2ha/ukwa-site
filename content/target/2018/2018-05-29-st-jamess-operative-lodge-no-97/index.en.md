@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.st-james-operative-97.masoniclodge.org.uk/", 
-  "description": "Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "St. James's Operative Lodge No. 97", 
-  "record_id": "20180529T090000/Qu7WSTXWZ8nC60gmZLnQuA==", 
-  "publisher": "masoniclodge.org.uk", 
+  "date": "2018-05-29T09:00:00", 
   "slug": 66269, 
+  "publisher": "masoniclodge.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St. James's Operative Lodge No. 97", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180529T090000/Qu7WSTXWZ8nC60gmZLnQuA==", 
+  "scope": "root", 
   "start_date": "2018-05-29T09:00:00Z"
 }
 

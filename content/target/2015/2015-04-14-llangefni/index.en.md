@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llangefni.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llangefni", 
-  "record_id": "20150414T080000/eH5vzIBetNlGyXvsRsmoPw==", 
-  "publisher": "llangefni.org", 
+  "date": "2015-04-14T08:00:00", 
   "slug": 21837, 
+  "publisher": "llangefni.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llangefni", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T080000/eH5vzIBetNlGyXvsRsmoPw==", 
+  "scope": "root", 
   "start_date": "2015-04-14T08:00:00Z"
 }
 

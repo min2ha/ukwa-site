@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cyngor-dyffryn-arth-council.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Dyffryn Arth | Dyffryn Arth Community Council", 
-  "record_id": "20160520T100000/oLISQEeha+KBD7sFek54Rw==", 
-  "publisher": "cyngor-dyffryn-arth-council.org.uk", 
+  "date": "2016-05-20T10:00:00", 
   "slug": 41333, 
+  "publisher": "cyngor-dyffryn-arth-council.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Dyffryn Arth | Dyffryn Arth Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160520T100000/oLISQEeha+KBD7sFek54Rw==", 
+  "scope": "root", 
   "start_date": "2016-05-20T10:00:00Z"
 }
 

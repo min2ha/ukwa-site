@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-23T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.midwalesgeology.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mid Wales Geology Club ", 
-  "record_id": "20151023T100000/UNd1eA8XblGaqF44lDO2WQ==", 
-  "publisher": "midwalesgeology.org.uk", 
+  "date": "2015-10-23T10:00:00", 
   "slug": 339312659, 
+  "publisher": "midwalesgeology.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Mid Wales Geology Club ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151023T100000/UNd1eA8XblGaqF44lDO2WQ==", 
+  "scope": "root", 
   "start_date": "2015-10-23T10:00:00Z"
 }
 

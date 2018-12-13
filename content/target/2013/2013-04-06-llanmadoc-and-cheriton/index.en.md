@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llanmadocgower.co.uk/", 
-  "description": "<p>This is an information resource on the villages of Llanmadoc and Cheriton in Gower.</p>\n", 
   "end_date": null, 
-  "title": "Llanmadoc and Cheriton", 
-  "record_id": "20130406T010000/bBg+r6W2ez+E9/n12DLOLg==", 
-  "publisher": "llanmadocgower.co.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 16321, 
+  "publisher": "llanmadocgower.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanmadoc and Cheriton", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/bBg+r6W2ez+E9/n12DLOLg==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

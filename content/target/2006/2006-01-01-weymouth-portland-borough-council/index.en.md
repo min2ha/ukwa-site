@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.weymouth.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Weymouth & Portland Borough Council", 
-  "record_id": "20060101T120000/sXIBUm9Qw2jaJGTW0et01Q==", 
-  "publisher": "weymouth.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9404464, 
+  "publisher": "weymouth.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Weymouth & Portland Borough Council", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/sXIBUm9Qw2jaJGTW0et01Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

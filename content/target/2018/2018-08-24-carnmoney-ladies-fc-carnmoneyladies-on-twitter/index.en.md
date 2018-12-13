@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/carnmoneyladies/", 
-  "description": "Carnmoney Ladies FC\n\nThe official Twitter account of Carnmoney Ladies Football club. \nEstablished in 2011, based at Nortel FC in Newtownabbey.", 
   "end_date": null, 
   "date": "2018-08-24T09:00:00", 
   "slug": 70173, 
-  "subject": "Sport: Football", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": false, 
   "title": "Carnmoney Ladies FC (@carnmoneyladies) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20180824T090000/xV067EbKBmRbJ3gsZu3zXg==", 
+  "scope": "root", 
   "start_date": "2018-08-24T09:00:00Z"
 }
 

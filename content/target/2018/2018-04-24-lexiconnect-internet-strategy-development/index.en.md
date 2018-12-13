@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-24T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.lexiconnect.co.uk/", 
-  "description": "Internet Strategy Development by Lexiconnect. Internet Business Consultancy for companies in both B2B & B2C sectors.", 
   "end_date": null, 
-  "title": "Lexiconnect - Internet Strategy Development", 
-  "record_id": "20180424T090000/MsxPAv61UMMBEaytI4KFWw==", 
-  "publisher": "lexiconnect.co.uk", 
+  "date": "2018-04-24T09:00:00", 
   "slug": 64733, 
+  "publisher": "lexiconnect.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lexiconnect - Internet Strategy Development", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180424T090000/MsxPAv61UMMBEaytI4KFWw==", 
+  "scope": "root", 
   "start_date": "2018-04-24T09:00:00Z"
 }
 

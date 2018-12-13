@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.prokop.co.uk/", 
-  "description": "Website of Andreas Prokop, researcher at the University of Manchester.", 
   "end_date": null, 
-  "title": "Andreas Prokop Lab", 
-  "record_id": "20151116T090000/znzxL0EpkqDvkrUl+dtxjw==", 
-  "publisher": "prokop.co.uk", 
+  "date": "2015-11-16T09:00:00", 
   "slug": 32581, 
+  "publisher": "prokop.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Andreas Prokop Lab", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151116T090000/znzxL0EpkqDvkrUl+dtxjw==", 
+  "scope": "root", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

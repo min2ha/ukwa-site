@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cymmrodorion.org/", 
-  "description": "The Honourable Society of Cymmrodorion seeks to promote the practice and development of the Language, Literature, Arts and Sciences of Wales.", 
   "end_date": null, 
-  "title": "Anrhydeddus Gymdeithas y Cymmrodorion | Honourable Society of Cymmrodorion, The", 
-  "record_id": "20150925T100000/Cm6ZJaLl1xdxILtpcTcZew==", 
-  "publisher": "cymmrodorion.org", 
+  "date": "2015-09-25T10:00:00", 
   "slug": 30862, 
+  "publisher": "cymmrodorion.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Anrhydeddus Gymdeithas y Cymmrodorion | Honourable Society of Cymmrodorion, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T100000/Cm6ZJaLl1xdxILtpcTcZew==", 
+  "scope": "root", 
   "start_date": "2015-09-25T10:00:00Z"
 }
 

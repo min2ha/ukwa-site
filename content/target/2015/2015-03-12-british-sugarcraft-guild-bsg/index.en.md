@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://bsguk.org/", 
-  "description": "British Sugarcraft Guild (BSG) was established in 1981 and it promotes and improves standards of sugarcraft.", 
   "end_date": null, 
-  "title": "British Sugarcraft Guild (BSG)", 
-  "record_id": "20150312T090000/hyvbWJkeTB8lYr7o+P9yYg==", 
-  "publisher": "bsguk.org", 
+  "date": "2015-03-12T09:00:00", 
   "slug": 17918, 
+  "publisher": "bsguk.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Sugarcraft Guild (BSG)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150312T090000/hyvbWJkeTB8lYr7o+P9yYg==", 
+  "scope": "root", 
   "start_date": "2015-03-12T09:00:00Z"
 }
 

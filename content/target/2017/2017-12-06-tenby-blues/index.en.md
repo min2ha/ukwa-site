@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-06T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.tenbyblues.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Tenby Blues", 
-  "record_id": "20171206T090000/bcBtGhFe5qicsnerpwP0UQ==", 
-  "publisher": "tenbyblues.co.uk", 
+  "date": "2017-12-06T09:00:00", 
   "slug": 59509, 
+  "publisher": "tenbyblues.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tenby Blues", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171206T090000/bcBtGhFe5qicsnerpwP0UQ==", 
+  "scope": "root", 
   "start_date": "2017-12-06T09:00:00Z"
 }
 

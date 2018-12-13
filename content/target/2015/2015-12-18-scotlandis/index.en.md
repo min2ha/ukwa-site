@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scotlandis.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "ScotlandIS", 
-  "record_id": "20151218T090000/2YxVHz+gDLhiU3Q8GO+Otw==", 
-  "publisher": "scotlandis.com", 
+  "date": "2015-12-18T09:00:00", 
   "slug": 33581, 
+  "publisher": "scotlandis.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ScotlandIS", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151218T090000/2YxVHz+gDLhiU3Q8GO+Otw==", 
+  "scope": "root", 
   "start_date": "2015-12-18T09:00:00Z"
 }
 

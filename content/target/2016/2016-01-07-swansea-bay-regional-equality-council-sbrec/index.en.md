@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://sbrec.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Swansea Bay Regional Equality Council (SBREC)", 
-  "record_id": "20160107T090000/mArx77dpgf/Lb6cDmhfBDg==", 
-  "publisher": "sbrec.org.uk", 
+  "date": "2016-01-07T09:00:00", 
   "slug": 33659, 
+  "publisher": "sbrec.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Bay Regional Equality Council (SBREC)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160107T090000/mArx77dpgf/Lb6cDmhfBDg==", 
+  "scope": "root", 
   "start_date": "2016-01-07T09:00:00Z"
 }
 

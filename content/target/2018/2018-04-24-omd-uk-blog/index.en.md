@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.omdukblog.com/", 
-  "description": "Media agency OMD UK are dedicated to our clients\u2019 growth. It starts with our unwavering commitment to deliver sharper insights, smarter ideas and stronger results.", 
   "end_date": null, 
-  "title": "OMD UK Blog", 
-  "record_id": "20180424T090000/JbfclyEy8efoB65xXgmjRw==", 
-  "publisher": "omdukblog.com", 
+  "date": "2018-04-24T09:00:00", 
   "slug": 64736, 
+  "publisher": "omdukblog.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "OMD UK Blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180424T090000/JbfclyEy8efoB65xXgmjRw==", 
+  "scope": "root", 
   "start_date": "2018-04-24T09:00:00Z"
 }
 

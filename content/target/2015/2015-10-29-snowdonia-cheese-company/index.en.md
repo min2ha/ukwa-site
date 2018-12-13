@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.snowdoniacheese.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Snowdonia Cheese Company", 
-  "record_id": "20151029T090000/iWfCpl7Z2tmu/y/Q4t89iw==", 
-  "publisher": "snowdoniacheese.co.uk", 
+  "date": "2015-10-29T09:00:00", 
   "slug": 31847, 
+  "publisher": "snowdoniacheese.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Snowdonia Cheese Company", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151029T090000/iWfCpl7Z2tmu/y/Q4t89iw==", 
+  "scope": "root", 
   "start_date": "2015-10-29T09:00:00Z"
 }
 

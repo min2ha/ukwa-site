@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://macharsmovies.weebly.com/", 
-  "description": "Site of a community cinema located in the Isle of Whithorn, Dumfries & Galloway", 
   "end_date": null, 
-  "title": "Machars Movies", 
-  "record_id": "20171026T090000/Q2iev4Jx2nh4UoWf3YyPBA==", 
-  "publisher": "weebly.com", 
+  "date": "2017-10-26T09:00:00", 
   "slug": 58093, 
+  "publisher": "weebly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Machars Movies", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171026T090000/Q2iev4Jx2nh4UoWf3YyPBA==", 
+  "scope": "root", 
   "start_date": "2017-10-26T09:00:00Z"
 }
 

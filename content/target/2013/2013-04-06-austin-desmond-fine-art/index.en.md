@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.austindesmond.com/", 
-  "description": "<p>Art gallery specialising in modern British art, including paintings and sculpture</p>\n", 
   "end_date": null, 
-  "title": "Austin / Desmond Fine Art", 
-  "record_id": "20130406T010000/CsIXvpjd0df0DQNMlgIwIw==", 
-  "publisher": "austindesmond.com", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14294, 
+  "publisher": "austindesmond.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Austin / Desmond Fine Art", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/CsIXvpjd0df0DQNMlgIwIw==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

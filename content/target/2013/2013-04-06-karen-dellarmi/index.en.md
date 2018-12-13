@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dellarmi.co.uk/", 
-  "description": "<p>Karen Dell'Armi is Contemporary Jeweller from Wales.</p>\n", 
   "end_date": null, 
-  "title": "Karen Dell'armi", 
-  "record_id": "20130406T010000///uE2FOsbQSdOiww086qPw==", 
-  "publisher": "dellarmi.co.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14469, 
+  "publisher": "dellarmi.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Karen Dell'armi", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000///uE2FOsbQSdOiww086qPw==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

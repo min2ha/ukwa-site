@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.cardiffnewsroom.co.uk/", 
-  "description": "News from City of Cardiff Council.", 
   "end_date": null, 
   "date": "2017-03-08T09:00:00", 
   "slug": 27910, 
-  "subject": null, 
   "publisher": "cardiffnewsroom.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cardiff News Room", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20170308T090000/HLc/iCARV0gAXLI2kc3iDw==", 
+  "scope": "root", 
   "start_date": "2017-03-08T09:00:00Z"
 }
 

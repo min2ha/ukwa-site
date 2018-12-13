@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-17T09:00:00", 
-  "open_access": false, 
   "target_url": "https://nosasblog.wordpress.com/", 
-  "description": "Blog site reporting on digs, surveys, research and field trips by North of Scotland Archaeological Society", 
   "end_date": null, 
-  "title": "NOSAS Archaeology Blog", 
-  "record_id": "20180617T090000/ClSm4Dt/obY7sFT9YcTD2w==", 
-  "publisher": "wordpress.com", 
+  "date": "2018-06-17T09:00:00", 
   "slug": 67510, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NOSAS Archaeology Blog", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180617T090000/ClSm4Dt/obY7sFT9YcTD2w==", 
+  "scope": "root", 
   "start_date": "2018-06-17T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-11T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.trawscymru.info/", 
-  "description": "TrawsCymru is the brand for a network of six medium and long distance express bus routes in Wales, sponsored by the Welsh Government. ", 
   "end_date": null, 
-  "title": "TrawsCymru", 
-  "record_id": "20161011T100000/Eiv7YQzGKq8hdJAwZyMvaw==", 
-  "publisher": "trawscymru.info", 
+  "date": "2016-10-11T10:00:00", 
   "slug": 62521386, 
+  "publisher": "trawscymru.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "TrawsCymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161011T100000/Eiv7YQzGKq8hdJAwZyMvaw==", 
+  "scope": "root", 
   "start_date": "2016-10-11T10:00:00Z"
 }
 

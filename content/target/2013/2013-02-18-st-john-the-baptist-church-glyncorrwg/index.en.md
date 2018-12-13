@@ -1,13 +1,16 @@
 {
-  "date": "2013-02-18T00:00:00", 
-  "open_access": true, 
   "target_url": "http://glyncorrwgchurch.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "St John The Baptist Church Glyncorrwg", 
-  "record_id": "20130218T000000/szk7WvUkFiPbDpcjw7hdYw==", 
-  "publisher": "glyncorrwgchurch.co.uk", 
+  "date": "2013-02-18T00:00:00", 
   "slug": 124026883, 
+  "publisher": "glyncorrwgchurch.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "St John The Baptist Church Glyncorrwg", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130218T000000/szk7WvUkFiPbDpcjw7hdYw==", 
+  "scope": "root", 
   "start_date": "2013-02-18T00:00:00Z"
 }
 

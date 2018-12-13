@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.boardmantasker.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Boardman Tasker Prize for Mountain Literature, The", 
-  "record_id": "20131014T100000/8Tqi3etyEoSeCGoY5RVPuQ==", 
-  "publisher": "boardmantasker.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 26640406, 
+  "publisher": "boardmantasker.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Boardman Tasker Prize for Mountain Literature, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/8Tqi3etyEoSeCGoY5RVPuQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

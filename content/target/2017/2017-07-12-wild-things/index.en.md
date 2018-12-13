@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://wild-things.org.uk/", 
-  "description": "An environmental education charity working in Moray, Aberdeenshire and the Highlands.", 
   "end_date": null, 
-  "title": "Wild things!", 
-  "record_id": "20170712T090000/cO0NZennEakiITohR9PoJw==", 
-  "publisher": "wild-things.org.uk", 
+  "date": "2017-07-12T09:00:00", 
   "slug": 55643, 
+  "publisher": "wild-things.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wild things!", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170712T090000/cO0NZennEakiITohR9PoJw==", 
+  "scope": "root", 
   "start_date": "2017-07-12T09:00:00Z"
 }
 

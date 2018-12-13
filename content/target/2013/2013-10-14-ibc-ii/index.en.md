@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ibc2.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "IBC II", 
-  "record_id": "20131014T100000/kuJTTQke3IfhxixgvcOudQ==", 
-  "publisher": "ibc2.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 50659387, 
+  "publisher": "ibc2.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "IBC II", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/kuJTTQke3IfhxixgvcOudQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.deborah-levy.com/", 
-  "description": "Personal pages of playwright and author Deborah Levy.", 
   "end_date": null, 
-  "title": "Deborah Levy", 
-  "record_id": "20170822T090000/iFarI6CFdZGuVLAjHSRNug==", 
-  "publisher": "deborah-levy.com", 
+  "date": "2017-08-22T09:00:00", 
   "slug": 56753, 
+  "publisher": "deborah-levy.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Deborah Levy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170822T090000/iFarI6CFdZGuVLAjHSRNug==", 
+  "scope": "root", 
   "start_date": "2017-08-22T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cantorionpontyclun.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cantorion Pontyclun Ladies Choir", 
-  "record_id": "20180208T090000/8zJOBuXdD+ELJgJvLSeaQQ==", 
-  "publisher": "cantorionpontyclun.org.uk", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 61088, 
+  "publisher": "cantorionpontyclun.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cantorion Pontyclun Ladies Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/8zJOBuXdD+ELJgJvLSeaQQ==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

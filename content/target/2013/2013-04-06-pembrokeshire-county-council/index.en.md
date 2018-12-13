@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pembrokeshire.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pembrokeshire County Council", 
-  "record_id": "20130406T010000/lxnTBbvhufwAuxwhHhIsKg==", 
-  "publisher": "pembrokeshire.gov.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15926, 
+  "publisher": "pembrokeshire.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pembrokeshire County Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/lxnTBbvhufwAuxwhHhIsKg==", 
+  "scope": "subdomains", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

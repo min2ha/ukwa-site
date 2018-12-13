@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-09T10:00:00", 
-  "open_access": false, 
   "target_url": "http://catrinllwyd.co.uk/", 
-  "description": "Catrin Llwyd is an artist from Mid Wales.", 
   "end_date": null, 
-  "title": "Catrin Llwyd Evans", 
-  "record_id": "20160909T100000/drCmdg9ZDWQqUcL0aQogBw==", 
-  "publisher": "catrinllwyd.co.uk", 
+  "date": "2016-09-09T10:00:00", 
   "slug": 45306, 
+  "publisher": "catrinllwyd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Catrin Llwyd Evans", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160909T100000/drCmdg9ZDWQqUcL0aQogBw==", 
+  "scope": "root", 
   "start_date": "2016-09-09T10:00:00Z"
 }
 

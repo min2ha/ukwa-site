@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-22T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.parishofaberavon.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Aberavon Parish Church", 
-  "record_id": "20161022T100000/fyFYK0UMsJO/rH91ocFnHQ==", 
-  "publisher": "parishofaberavon.org", 
+  "date": "2016-10-22T10:00:00", 
   "slug": 46410, 
+  "publisher": "parishofaberavon.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aberavon Parish Church", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161022T100000/fyFYK0UMsJO/rH91ocFnHQ==", 
+  "scope": "root", 
   "start_date": "2016-10-22T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "https://merallydrive.com/", 
-  "description": "Matt Edwards is a Rally Driver from north Wales.", 
   "end_date": null, 
   "date": "2018-08-04T09:00:00", 
   "slug": 69637, 
-  "subject": "Sports Collection", 
   "publisher": "merallydrive.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Matt Edwards Rally Driver", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1768, 
+      "name": "Sports Collection"
+    }
+  ], 
   "record_id": "20180804T090000/WaH4ficffLcnfcStgyBeNw==", 
+  "scope": "root", 
   "start_date": "2018-08-04T09:00:00Z"
 }
 

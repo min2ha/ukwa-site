@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.open.ac.uk/education-and-languages/loro/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Languages Open Resources Online (LORO)", 
-  "record_id": "20060101T120000/XMdTzbVppL1m6IGnYyRlyQ==", 
-  "publisher": "open.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31653942, 
+  "publisher": "open.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Languages Open Resources Online (LORO)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/XMdTzbVppL1m6IGnYyRlyQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

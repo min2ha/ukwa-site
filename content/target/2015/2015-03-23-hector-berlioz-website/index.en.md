@@ -1,13 +1,16 @@
 {
-  "date": "2015-03-23T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hberlioz.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hector Berlioz website", 
-  "record_id": "20150323T000000/OMQl9zZwY5nROo4YOslwOA==", 
-  "publisher": "hberlioz.com", 
+  "date": "2015-03-23T00:00:00", 
   "slug": 26574848, 
+  "publisher": "hberlioz.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Hector Berlioz website", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150323T000000/OMQl9zZwY5nROo4YOslwOA==", 
+  "scope": "root", 
   "start_date": "2015-03-23T00:00:00Z"
 }
 

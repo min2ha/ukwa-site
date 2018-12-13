@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gwsfhs.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Glasgow & West of Scotland Family History Society", 
-  "record_id": "20151104T090000/tmW6MDMYl9VLViPTXm3dfA==", 
-  "publisher": "gwsfhs.org.uk", 
+  "date": "2015-11-04T09:00:00", 
   "slug": 32107, 
+  "publisher": "gwsfhs.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glasgow & West of Scotland Family History Society", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T090000/tmW6MDMYl9VLViPTXm3dfA==", 
+  "scope": "root", 
   "start_date": "2015-11-04T09:00:00Z"
 }
 

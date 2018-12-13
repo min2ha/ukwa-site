@@ -1,13 +1,16 @@
 {
-  "date": "2012-05-25T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.menterabusnes.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Menter a Busnes", 
-  "record_id": "20120525T000000/7YPKOrNGNAVgVLnDB3fLIw==", 
-  "publisher": "menterabusnes.com", 
+  "date": "2012-05-25T00:00:00", 
   "slug": 65208719, 
+  "publisher": "menterabusnes.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Menter a Busnes", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120525T000000/7YPKOrNGNAVgVLnDB3fLIw==", 
+  "scope": "root", 
   "start_date": "2012-05-25T00:00:00Z"
 }
 

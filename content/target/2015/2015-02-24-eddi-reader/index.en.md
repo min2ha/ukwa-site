@@ -1,13 +1,16 @@
 {
-  "date": "2015-02-24T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.eddireader.co.uk/", 
-  "description": "Singer Eddi Reader's official website.", 
   "end_date": null, 
-  "title": "Eddi Reader", 
-  "record_id": "20150224T000000/fDbpUgh5vd50vS7jGM5wGQ==", 
-  "publisher": "eddireader.co.uk", 
+  "date": "2015-02-24T00:00:00", 
   "slug": 98618, 
+  "publisher": "eddireader.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Eddi Reader", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150224T000000/fDbpUgh5vd50vS7jGM5wGQ==", 
+  "scope": "root", 
   "start_date": "2015-02-24T00:00:00Z"
 }
 

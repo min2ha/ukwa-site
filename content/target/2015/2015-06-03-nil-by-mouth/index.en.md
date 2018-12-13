@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-03T08:00:00", 
-  "open_access": false, 
   "target_url": "http://nilbymouth.org/", 
-  "description": "Nil by Mouth is a charity which works to challenge sectarianism in Scotland.", 
   "end_date": null, 
-  "title": "Nil by Mouth", 
-  "record_id": "20150603T080000/cpxhdzPmsaH7JM/DdvaxaQ==", 
-  "publisher": "nilbymouth.org", 
+  "date": "2015-06-03T08:00:00", 
   "slug": 27186, 
+  "publisher": "nilbymouth.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nil by Mouth", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150603T080000/cpxhdzPmsaH7JM/DdvaxaQ==", 
+  "scope": "root", 
   "start_date": "2015-06-03T08:00:00Z"
 }
 

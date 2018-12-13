@@ -1,14 +1,26 @@
 {
   "target_url": "http://guernseypress.com/", 
-  "description": "", 
   "end_date": null, 
   "date": "2015-09-22T10:00:00", 
   "slug": 30792, 
-  "subject": "News Sites", 
   "publisher": "guernseypress.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Guernsey Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20150922T100000/QP8MPc70ueLhr89+eOXBEA==", 
+  "scope": "root", 
   "start_date": "2015-09-22T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-02T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/railandroad/", 
-  "description": "The Office of Rail and Road protects the interests of rail and road users. We do not respond to complaints here.", 
   "end_date": null, 
-  "title": "Office of Rail and Road (ORR) (@railandroad) on Twitter", 
-  "record_id": "20180602T090000/GA/MsT+u9yvEyx63LeIY7Q==", 
-  "publisher": "twitter.com", 
+  "date": "2018-06-02T09:00:00", 
   "slug": 66550, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Office of Rail and Road (ORR) (@railandroad) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180602T090000/GA/MsT+u9yvEyx63LeIY7Q==", 
+  "scope": "root", 
   "start_date": "2018-06-02T09:00:00Z"
 }
 

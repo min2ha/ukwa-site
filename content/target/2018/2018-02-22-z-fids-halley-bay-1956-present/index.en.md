@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.zfids.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Z-fids: Halley Bay, 1956-present", 
-  "record_id": "20180222T090000/p8tb3k3GCalaGXjM6Orvqw==", 
-  "publisher": "zfids.org.uk", 
+  "date": "2018-02-22T09:00:00", 
   "slug": 6291463, 
+  "publisher": "zfids.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Z-fids: Halley Bay, 1956-present", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180222T090000/p8tb3k3GCalaGXjM6Orvqw==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

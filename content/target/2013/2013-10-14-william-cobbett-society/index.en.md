@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.williamcobbett.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "William Cobbett Society", 
-  "record_id": "20131014T100000/IqMMxjsmHKZ/k/zQVexsgQ==", 
-  "publisher": "williamcobbett.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60293370, 
+  "publisher": "williamcobbett.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "William Cobbett Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/IqMMxjsmHKZ/k/zQVexsgQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

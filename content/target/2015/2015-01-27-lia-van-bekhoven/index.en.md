@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-27T00:00:00", 
-  "open_access": false, 
   "target_url": "http://liavanbekhoven.blogspot.co.uk/", 
-  "description": "<p>Blog by Lia van Bekhoven, Dutch correspondent in UK.</p>\n", 
   "end_date": null, 
-  "title": "Lia van Bekhoven ", 
-  "record_id": "20150127T000000/7M+pgCV3LUq/xTTwAhdN0Q==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2015-01-27T00:00:00", 
   "slug": 16166, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lia van Bekhoven ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150127T000000/7M+pgCV3LUq/xTTwAhdN0Q==", 
+  "scope": "root", 
   "start_date": "2015-01-27T00:00:00Z"
 }
 

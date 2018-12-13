@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llandyfaelog.show/", 
-  "description": "Llandyfaelog Show website features information about Llandyfaelog's annual Agricultural and Horticultural Show.", 
   "end_date": null, 
-  "title": "Llandyfaelog Show", 
-  "record_id": "20171128T090000/IDOuX3v12+pE4rmY9iZujg==", 
-  "publisher": "llandyfaelog.show", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59236, 
+  "publisher": "llandyfaelog.show", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llandyfaelog Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/IDOuX3v12+pE4rmY9iZujg==", 
+  "scope": "root", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

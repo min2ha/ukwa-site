@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://redkite-animation.com/", 
-  "description": "Red Kite Animation is a production company that specialises in the development and production of children\u2019s animated content for international television broadcast.  ", 
   "end_date": null, 
-  "title": "Red Kite Animation", 
-  "record_id": "20151109T090000/zeyooEmi7g1GdrVKW6S2jw==", 
-  "publisher": "redkite-animation.com", 
+  "date": "2015-11-09T09:00:00", 
   "slug": 3126, 
+  "publisher": "redkite-animation.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Red Kite Animation", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151109T090000/zeyooEmi7g1GdrVKW6S2jw==", 
+  "scope": "root", 
   "start_date": "2015-11-09T09:00:00Z"
 }
 

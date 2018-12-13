@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.creativecommons.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Creative Commons UK", 
-  "record_id": "20060101T120000/eicUr3fHtz6JLQSMkkIY6Q==", 
-  "publisher": "creativecommons.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 116003, 
+  "publisher": "creativecommons.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Creative Commons UK", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/eicUr3fHtz6JLQSMkkIY6Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

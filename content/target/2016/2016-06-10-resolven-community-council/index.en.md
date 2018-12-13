@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://resolvencc.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Resolven Community Council", 
-  "record_id": "20160610T100000/DNjds9NY9SfInOYFcHiu/g==", 
-  "publisher": "resolvencc.co.uk", 
+  "date": "2016-06-10T10:00:00", 
   "slug": 42745, 
+  "publisher": "resolvencc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Resolven Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160610T100000/DNjds9NY9SfInOYFcHiu/g==", 
+  "scope": "root", 
   "start_date": "2016-06-10T10:00:00Z"
 }
 

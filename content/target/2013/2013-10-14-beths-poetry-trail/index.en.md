@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bethspoetrytrail.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Beth's Poetry Trail", 
-  "record_id": "20131014T100000/BZh1ZCSBy0/xxAQwQ/hHag==", 
-  "publisher": "bethspoetrytrail.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741847, 
+  "publisher": "bethspoetrytrail.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Beth's Poetry Trail", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/BZh1ZCSBy0/xxAQwQ/hHag==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

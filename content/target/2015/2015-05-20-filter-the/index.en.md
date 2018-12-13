@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-20T08:00:00", 
-  "open_access": true, 
   "target_url": "http://thefilterwales.org/", 
-  "description": "Anti-smoking resource for young people in Wales.", 
   "end_date": null, 
-  "title": "Filter, The", 
-  "record_id": "20150520T080000/03JvzQEUl5MngNIyMp6Xhw==", 
-  "publisher": "thefilterwales.org", 
+  "date": "2015-05-20T08:00:00", 
   "slug": 293863774, 
+  "publisher": "thefilterwales.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Filter, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150520T080000/03JvzQEUl5MngNIyMp6Xhw==", 
+  "scope": "root", 
   "start_date": "2015-05-20T08:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.discoverwildlife.com/", 
-  "description": "Online version of the BBC Wildlife magazine.", 
   "end_date": null, 
-  "title": "Discover Wildlife", 
-  "record_id": "20151112T090000//91CXbIMw97T+ptbH4XdrA==", 
-  "publisher": "discoverwildlife.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32461, 
+  "publisher": "discoverwildlife.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Discover Wildlife", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000//91CXbIMw97T+ptbH4XdrA==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

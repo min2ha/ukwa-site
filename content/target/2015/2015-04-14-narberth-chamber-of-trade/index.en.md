@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.narberthchamber.com", 
-  "description": "", 
   "end_date": null, 
-  "title": "Narberth Chamber of Trade", 
-  "record_id": "20150414T080000/Uq8XxdTfJBcNWlpx2h1nig==", 
-  "publisher": "narberthchamber.com", 
+  "date": "2015-04-14T08:00:00", 
   "slug": 21825, 
+  "publisher": "narberthchamber.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Narberth Chamber of Trade", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T080000/Uq8XxdTfJBcNWlpx2h1nig==", 
+  "scope": "root", 
   "start_date": "2015-04-14T08:00:00Z"
 }
 

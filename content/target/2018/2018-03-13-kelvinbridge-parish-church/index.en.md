@@ -1,14 +1,26 @@
 {
   "target_url": "http://kelvinbridgepc.blogspot.co.uk/", 
-  "description": "Site of a Church of Scotland parish church at Kelvinbridge, Glasgow.", 
   "end_date": null, 
   "date": "2018-03-13T09:00:00", 
   "slug": 62517, 
-  "subject": "Religion/Theology", 
   "publisher": "blogspot.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Kelvinbridge Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180313T090000/qsHoJoo6SjrzLEfmIMJaHA==", 
+  "scope": "root", 
   "start_date": "2018-03-13T09:00:00Z"
 }
 

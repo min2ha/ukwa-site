@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.oxdys.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Oxfordshire Dyslexia Association (ODA)", 
-  "record_id": "20131014T100000/5LI6pZ+8dikSnwsCs5PjNA==", 
-  "publisher": "oxdys.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 65208483, 
+  "publisher": "oxdys.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Oxfordshire Dyslexia Association (ODA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/5LI6pZ+8dikSnwsCs5PjNA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,14 +1,21 @@
 {
   "target_url": "http://readingpoetryfestival.org/", 
-  "description": "<p>Site of the Reading Poetry Festival, associated with Reading University.</p>\n", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 14442, 
-  "subject": null, 
   "publisher": "readingpoetryfestival.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Reading Poetry Festival", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20060101T120000/q80F4Jscy5BuP/DcXWpaAw==", 
+  "scope": "root", 
   "start_date": null
 }
 

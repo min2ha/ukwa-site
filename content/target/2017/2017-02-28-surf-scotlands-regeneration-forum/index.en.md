@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-28T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.surf.scot/", 
-  "description": "Site of a network of organisations set up to SURF\u2019s overall objective is to improve the health and wellbeing of residents in Scotland\u2019s disadvantaged communities through regeneration.", 
   "end_date": null, 
-  "title": "SURF : Scotland's Regeneration Forum", 
-  "record_id": "20170228T090000/s6MRR5it2INcv7t6WIj/HA==", 
-  "publisher": "surf.scot", 
+  "date": "2017-02-28T09:00:00", 
   "slug": 49776, 
+  "publisher": "surf.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "SURF : Scotland's Regeneration Forum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170228T090000/s6MRR5it2INcv7t6WIj/HA==", 
+  "scope": "root", 
   "start_date": "2017-02-28T09:00:00Z"
 }
 

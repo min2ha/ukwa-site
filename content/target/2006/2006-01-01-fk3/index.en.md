@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fk3.biz/", 
-  "description": null, 
   "end_date": null, 
-  "title": "FK3", 
-  "record_id": "20060101T120000/bbp79OZhF3rA1fFGqulyCA==", 
-  "publisher": "fk3.biz", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11777, 
+  "publisher": "fk3.biz", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "FK3", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/bbp79OZhF3rA1fFGqulyCA==", 
+  "scope": "root", 
   "start_date": null
 }
 

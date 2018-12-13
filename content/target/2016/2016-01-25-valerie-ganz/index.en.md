@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.valerieganz.co.uk/", 
-  "description": "Valerie Ganz (1936 \u2013 2015) was born in Swansea andn is known for her paintings of South Wales coal miners. ", 
   "end_date": null, 
-  "title": "Valerie Ganz", 
-  "record_id": "20160125T090000/7jYyYgfj0PLRCr43FyGQEw==", 
-  "publisher": "valerieganz.co.uk", 
+  "date": "2016-01-25T09:00:00", 
   "slug": 34406, 
+  "publisher": "valerieganz.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Valerie Ganz", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160125T090000/7jYyYgfj0PLRCr43FyGQEw==", 
+  "scope": "root", 
   "start_date": "2016-01-25T09:00:00Z"
 }
 

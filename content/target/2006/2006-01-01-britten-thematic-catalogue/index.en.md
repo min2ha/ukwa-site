@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.brittenproject.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Britten Thematic Catalogue", 
-  "record_id": "20060101T120000/9LB4sWxf633ZvGLVLG+WAg==", 
-  "publisher": "brittenproject.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66158664, 
+  "publisher": "brittenproject.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Britten Thematic Catalogue", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/9LB4sWxf633ZvGLVLG+WAg==", 
+  "scope": "root", 
   "start_date": null
 }
 

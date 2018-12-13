@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "https://sthelenscaerphilly.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "St Helen's Roman Catholic Church, Caerphilly ", 
-  "record_id": "20161214T090000/NffDFBFeKGDKWvUdtpidWg==", 
-  "publisher": "sthelenscaerphilly.com", 
+  "date": "2016-12-14T09:00:00", 
   "slug": 47781, 
+  "publisher": "sthelenscaerphilly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St Helen's Roman Catholic Church, Caerphilly ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161214T090000/NffDFBFeKGDKWvUdtpidWg==", 
+  "scope": "root", 
   "start_date": "2016-12-14T09:00:00Z"
 }
 

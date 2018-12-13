@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-30T10:00:00", 
-  "open_access": true, 
   "target_url": "https://5style.com/", 
-  "description": "A lifestyle magazine covering minimalism in fashion, design and travel.", 
   "end_date": null, 
-  "title": "5 Style", 
-  "record_id": "20160930T100000/8ib05LFD5TYsIHPpGnvQ7g==", 
-  "publisher": "5style.com", 
+  "date": "2016-09-30T10:00:00", 
   "slug": 45771, 
+  "publisher": "5style.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "5 Style", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160930T100000/8ib05LFD5TYsIHPpGnvQ7g==", 
+  "scope": "root", 
   "start_date": "2016-09-30T10:00:00Z"
 }
 

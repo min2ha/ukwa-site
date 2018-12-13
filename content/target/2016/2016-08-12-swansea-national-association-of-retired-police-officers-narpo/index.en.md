@@ -1,13 +1,21 @@
 {
-  "date": "2016-08-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://narposwansea.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Swansea National Association of Retired Police Officers (NARPO)", 
-  "record_id": "20160812T100000/Jg6rMxRHg3LHKqbd0vMIrg==", 
-  "publisher": "narposwansea.co.uk", 
+  "date": "2016-08-12T10:00:00", 
   "slug": 45011, 
+  "publisher": "narposwansea.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea National Association of Retired Police Officers (NARPO)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160812T100000/Jg6rMxRHg3LHKqbd0vMIrg==", 
+  "scope": "root", 
   "start_date": "2016-08-12T10:00:00Z"
 }
 

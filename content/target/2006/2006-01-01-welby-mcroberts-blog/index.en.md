@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://whmcr.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welby McRoberts blog", 
-  "record_id": "20060101T120000/qUuwgNZTvOH/kqogS1SVdQ==", 
-  "publisher": "whmcr.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 48731, 
+  "publisher": "whmcr.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Welby McRoberts blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/qUuwgNZTvOH/kqogS1SVdQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2014-12-15T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.womenmakingadifference.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Women Making a Difference", 
-  "record_id": "20141215T000000/xSFtItc0RHTy3BQhpRoUhA==", 
-  "publisher": "womenmakingadifference.org.uk", 
+  "date": "2014-12-15T00:00:00", 
   "slug": 277413998, 
+  "publisher": "womenmakingadifference.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Women Making a Difference", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141215T000000/xSFtItc0RHTy3BQhpRoUhA==", 
+  "scope": "root", 
   "start_date": "2014-12-15T00:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/SouthLanTories/", 
-  "description": "Twitter profile of South Lanarkshire Conservative & Unionist Association.", 
   "end_date": "2016-05-07T01:00:00Z", 
   "date": "2016-04-26T10:00:00", 
   "slug": 39878, 
-  "subject": "Scottish Parliament Election 2016", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "South Lanarkshire Conservaitves (@SouthLanTories) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 689, 
+      "name": "Scottish Parliament Election 2016"
+    }
+  ], 
   "record_id": "20160426T100000/piMLmY+9OhhEr/y/dD62Xg==", 
+  "scope": "root", 
   "start_date": "2016-04-26T10:00:00Z"
 }
 

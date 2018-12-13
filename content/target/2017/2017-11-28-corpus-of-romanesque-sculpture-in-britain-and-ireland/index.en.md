@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.crsbi.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Corpus of Romanesque Sculpture in Britain and Ireland ", 
-  "record_id": "20171128T090000/NiYRALpd6buBq/Iy8bcw8Q==", 
-  "publisher": "crsbi.ac.uk", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59205, 
+  "publisher": "crsbi.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Corpus of Romanesque Sculpture in Britain and Ireland ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/NiYRALpd6buBq/Iy8bcw8Q==", 
+  "scope": "root", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

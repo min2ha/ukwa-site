@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.frackfreewales.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Frack Free Wales", 
-  "record_id": "20161214T090000/brLiRHPlBw642dB8CmjtQg==", 
-  "publisher": "frackfreewales.org", 
+  "date": "2016-12-14T09:00:00", 
   "slug": 47768, 
+  "publisher": "frackfreewales.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Frack Free Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161214T090000/brLiRHPlBw642dB8CmjtQg==", 
+  "scope": "root", 
   "start_date": "2016-12-14T09:00:00Z"
 }
 

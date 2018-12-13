@@ -1,13 +1,16 @@
 {
-  "date": "2009-10-27T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.siopinc.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Siop Inc", 
-  "record_id": "20091027T000000/ACJTZNNzu2RkQ+cEQujjsw==", 
-  "publisher": "siopinc.com", 
+  "date": "2009-10-27T00:00:00", 
   "slug": 32145525, 
+  "publisher": "siopinc.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Siop Inc", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20091027T000000/ACJTZNNzu2RkQ+cEQujjsw==", 
+  "scope": "root", 
   "start_date": "2009-10-27T00:00:00Z"
 }
 

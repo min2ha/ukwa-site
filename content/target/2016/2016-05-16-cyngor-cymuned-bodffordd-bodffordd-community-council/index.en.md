@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ccbodffordd.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Bodffordd | Bodffordd Community Council", 
-  "record_id": "20160516T100000/qFRbs3R7wQmUdgx2kQ4lIA==", 
-  "publisher": "ccbodffordd.co.uk", 
+  "date": "2016-05-16T10:00:00", 
   "slug": 41024, 
+  "publisher": "ccbodffordd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Bodffordd | Bodffordd Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160516T100000/qFRbs3R7wQmUdgx2kQ4lIA==", 
+  "scope": "root", 
   "start_date": "2016-05-16T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-10T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.citystayuk.com/", 
-  "description": "<p>Citystay provides serviced self catering apartments in Cambridge.</p>\n", 
   "end_date": null, 
-  "title": "Citystay", 
-  "record_id": "20150110T000000/k8HWAleE1NgT0b3qR0P5Hw==", 
-  "publisher": "citystayuk.com", 
+  "date": "2015-01-10T00:00:00", 
   "slug": 15783, 
+  "publisher": "citystayuk.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Citystay", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150110T000000/k8HWAleE1NgT0b3qR0P5Hw==", 
+  "scope": "root", 
   "start_date": "2015-01-10T00:00:00Z"
 }
 

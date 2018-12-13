@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.healingthroughremembering.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Healing Through Remembering", 
-  "record_id": "20060101T120000/b8eqcfgVKZj8qCTueHa2nQ==", 
-  "publisher": "healingthroughremembering.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13353, 
+  "publisher": "healingthroughremembering.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Healing Through Remembering", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/b8eqcfgVKZj8qCTueHa2nQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

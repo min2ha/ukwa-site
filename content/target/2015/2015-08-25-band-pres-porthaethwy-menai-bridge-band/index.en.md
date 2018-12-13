@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://menaibridgeband.weebly.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Band Pres Porthaethwy | Menai Bridge Band", 
-  "record_id": "20150825T100000/JHpMD/vS1RZjrGxkGD07vQ==", 
-  "publisher": "weebly.com", 
+  "date": "2015-08-25T10:00:00", 
   "slug": 29958, 
+  "publisher": "weebly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Band Pres Porthaethwy | Menai Bridge Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150825T100000/JHpMD/vS1RZjrGxkGD07vQ==", 
+  "scope": "root", 
   "start_date": "2015-08-25T10:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://thegfp.treasury.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Government Finance Profession", 
-  "record_id": "20060101T120000/tEVT3J9h18ImqMTtcZFG8w==", 
-  "publisher": "treasury.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 127429, 
+  "publisher": "treasury.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Government Finance Profession", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tEVT3J9h18ImqMTtcZFG8w==", 
+  "scope": "root", 
   "start_date": null
 }
 

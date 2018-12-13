@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.educaid.org.uk/ebola/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 15422, 
-  "subject": "Ebola Outbreak, West Africa 2014", 
   "publisher": "educaid.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Educaid: Fighting for a life after Ebola", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 100, 
+      "name": "Ebola Outbreak, West Africa 2014"
+    }
+  ], 
   "record_id": "20060101T120000/SJlU+SHtntfZHLgR4krH3w==", 
+  "scope": "root", 
   "start_date": null
 }
 

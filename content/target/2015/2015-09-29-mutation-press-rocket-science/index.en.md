@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mutationpress.com/", 
-  "description": "An Edinburgh based micro-press, publishing works of science fiction and fantasy.", 
   "end_date": null, 
-  "title": "MutatioN Press - Rocket Science", 
-  "record_id": "20150929T100000/RGLzz3kiKWiAfGzv/dPnMQ==", 
-  "publisher": "mutationpress.com", 
+  "date": "2015-09-29T10:00:00", 
   "slug": 30954, 
+  "publisher": "mutationpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "MutatioN Press - Rocket Science", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150929T100000/RGLzz3kiKWiAfGzv/dPnMQ==", 
+  "scope": "root", 
   "start_date": "2015-09-29T10:00:00Z"
 }
 

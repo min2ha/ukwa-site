@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.st-dominics.org.uk/", 
-  "description": "Site of a Scottish Roman Catholic parish church located in Bishopbriggs, Lanarkshire.", 
   "end_date": null, 
   "date": "2018-08-14T09:00:00", 
   "slug": 69908, 
-  "subject": "Religion/Theology", 
   "publisher": "st-dominics.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Dominic's Church, Bishopbriggs", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180814T090000/G5O8uemMnGoEZkuc2+HVlg==", 
+  "scope": "root", 
   "start_date": "2018-08-14T09:00:00Z"
 }
 

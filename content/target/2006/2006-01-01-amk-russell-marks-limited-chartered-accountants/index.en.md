@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.russellmarks.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "AMK Russell Marks Limited Chartered Accountants", 
-  "record_id": "20060101T120000/kgy/0oWYdXMlLz+oQnWPew==", 
-  "publisher": "russellmarks.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11627, 
+  "publisher": "russellmarks.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "AMK Russell Marks Limited Chartered Accountants", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/kgy/0oWYdXMlLz+oQnWPew==", 
+  "scope": "root", 
   "start_date": null
 }
 

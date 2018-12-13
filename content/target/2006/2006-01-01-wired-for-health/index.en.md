@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wiredforhealth.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Wired for Health", 
-  "record_id": "20060101T120000/Lj/Bv7WFutUFtyVORiWIow==", 
-  "publisher": "wiredforhealth.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 102863, 
+  "publisher": "wiredforhealth.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Wired for Health", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Lj/Bv7WFutUFtyVORiWIow==", 
+  "scope": "root", 
   "start_date": null
 }
 

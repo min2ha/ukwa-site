@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://poetryolympics.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Poetry Olympics", 
-  "record_id": "20060101T120000/NLuzppkdXMrp8IjzmXan3A==", 
-  "publisher": "poetryolympics.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13112, 
+  "publisher": "poetryolympics.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Poetry Olympics", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NLuzppkdXMrp8IjzmXan3A==", 
+  "scope": "root", 
   "start_date": null
 }
 

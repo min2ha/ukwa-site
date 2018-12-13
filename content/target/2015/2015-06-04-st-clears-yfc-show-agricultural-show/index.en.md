@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://stclearsyfcshow.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "St Clears YFC Show Agricultural Show", 
-  "record_id": "20150604T090000/HD/vYROKwJJ3pf1Zj6KFGw==", 
-  "publisher": "stclearsyfcshow.co.uk", 
+  "date": "2015-06-04T09:00:00", 
   "slug": 27277, 
+  "publisher": "stclearsyfcshow.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St Clears YFC Show Agricultural Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150604T090000/HD/vYROKwJJ3pf1Zj6KFGw==", 
+  "scope": "root", 
   "start_date": "2015-06-04T09:00:00Z"
 }
 

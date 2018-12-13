@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://creativenepal.co.uk/", 
-  "description": "The NIAP also seeks to help with clarification that Nepali art is distinct in its own right, and not simply \u2018Indian art\u2019.", 
   "end_date": null, 
-  "title": "Nepal International Art Project (NIAP)", 
-  "record_id": "20160224T090000/Wb6eRuI6kHQc/jxTpt7fUg==", 
-  "publisher": "creativenepal.co.uk", 
+  "date": "2016-02-24T09:00:00", 
   "slug": 35850, 
+  "publisher": "creativenepal.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nepal International Art Project (NIAP)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160224T090000/Wb6eRuI6kHQc/jxTpt7fUg==", 
+  "scope": "root", 
   "start_date": "2016-02-24T09:00:00Z"
 }
 

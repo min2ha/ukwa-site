@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.arthurmachen.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Friends of Arthur Machen", 
-  "record_id": "20150521T090000/GwMgX4pOIs5qS2EUQ5sSkQ==", 
-  "publisher": "arthurmachen.org.uk", 
+  "date": "2015-05-21T09:00:00", 
   "slug": 26796, 
+  "publisher": "arthurmachen.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Friends of Arthur Machen", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150521T090000/GwMgX4pOIs5qS2EUQ5sSkQ==", 
+  "scope": "root", 
   "start_date": "2015-05-21T09:00:00Z"
 }
 

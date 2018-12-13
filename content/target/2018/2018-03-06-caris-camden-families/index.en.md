@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-06T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.cariscamdenfamilies.org/", 
-  "description": "Supporting homeless children and their parents in north London", 
   "end_date": null, 
-  "title": "CARIS Camden Families", 
-  "record_id": "20180306T090000/5HxCQveeyf4tp0wmBsHEpw==", 
-  "publisher": "cariscamdenfamilies.org", 
+  "date": "2018-03-06T09:00:00", 
   "slug": 62025, 
+  "publisher": "cariscamdenfamilies.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "CARIS Camden Families", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180306T090000/5HxCQveeyf4tp0wmBsHEpw==", 
+  "scope": "root", 
   "start_date": "2018-03-06T09:00:00Z"
 }
 

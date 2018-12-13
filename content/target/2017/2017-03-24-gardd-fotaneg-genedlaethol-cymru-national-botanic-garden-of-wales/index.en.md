@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "https://botanicgarden.wales/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gardd Fotaneg Genedlaethol Cymru | National Botanic Garden of Wales", 
-  "record_id": "20170324T090000/yLFIUNdmaoKg7KiM18fdUQ==", 
-  "publisher": "botanicgarden.wales", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 103161, 
+  "publisher": "botanicgarden.wales", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gardd Fotaneg Genedlaethol Cymru | National Botanic Garden of Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/yLFIUNdmaoKg7KiM18fdUQ==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

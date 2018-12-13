@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-22T10:00:00", 
-  "open_access": true, 
   "target_url": "https://www.graffeg.com/", 
-  "description": "Graffeg is a book published based in Cardiff.", 
   "end_date": null, 
-  "title": "Graffeg", 
-  "record_id": "20160922T100000/zQM9HpUS3x3EXHY/G5d3gA==", 
-  "publisher": "graffeg.com", 
+  "date": "2016-09-22T10:00:00", 
   "slug": 45517, 
+  "publisher": "graffeg.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Graffeg", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160922T100000/zQM9HpUS3x3EXHY/G5d3gA==", 
+  "scope": "root", 
   "start_date": "2016-09-22T10:00:00Z"
 }
 

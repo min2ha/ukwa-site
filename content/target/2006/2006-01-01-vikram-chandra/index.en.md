@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.vikramchandra.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Vikram Chandra", 
-  "record_id": "20060101T120000/ciEhX35tLLFYVMSNZ6JsuA==", 
-  "publisher": "vikramchandra.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14811166, 
+  "publisher": "vikramchandra.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Vikram Chandra", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ciEhX35tLLFYVMSNZ6JsuA==", 
+  "scope": "root", 
   "start_date": null
 }
 

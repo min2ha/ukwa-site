@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.academi.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Academi", 
-  "record_id": "20060101T120000/szbuK8G3CbSkSQsdKZbVUw==", 
-  "publisher": "academi.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 103684, 
+  "publisher": "academi.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Academi", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/szbuK8G3CbSkSQsdKZbVUw==", 
+  "scope": "root", 
   "start_date": null
 }
 

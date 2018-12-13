@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sentrain.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "OnLineInset", 
-  "record_id": "20131014T100000/SzPMurYddh3EWPc0YFsFFA==", 
-  "publisher": "sentrain.net", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 12124166, 
+  "publisher": "sentrain.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "OnLineInset", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/SzPMurYddh3EWPc0YFsFFA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

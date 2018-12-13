@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.birthlink.org.uk/", 
-  "description": "Birthlink is a charity which promotes the welfare of all people affected by adoptions with a Scottish connection.", 
   "end_date": null, 
-  "title": "Birthlink", 
-  "record_id": "20151218T090000/83iCFYQAnq2EhKSj3/NggA==", 
-  "publisher": "birthlink.org.uk", 
+  "date": "2015-12-18T09:00:00", 
   "slug": 33584, 
+  "publisher": "birthlink.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Birthlink", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151218T090000/83iCFYQAnq2EhKSj3/NggA==", 
+  "scope": "root", 
   "start_date": "2015-12-18T09:00:00Z"
 }
 

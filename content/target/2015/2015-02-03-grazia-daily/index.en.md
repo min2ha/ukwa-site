@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.graziadaily.co.uk/", 
-  "description": "<p>The online version of the 'Grazia' magazine.</p>\n", 
   "end_date": null, 
   "date": "2015-02-03T00:00:00", 
   "slug": 16421, 
-  "subject": "News Sites", 
   "publisher": "graziadaily.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Grazia Daily", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20150203T000000/Ng3xgNTnbTJatomHCrxzLA==", 
+  "scope": "root", 
   "start_date": "2015-02-03T00:00:00Z"
 }
 

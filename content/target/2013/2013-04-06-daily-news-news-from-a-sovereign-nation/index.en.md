@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://dailywales.net/", 
-  "description": "<p>A news story site covering Wales.</p>\n", 
   "end_date": null, 
-  "title": "Daily News - News from a sovereign nation", 
-  "record_id": "20130406T010000/ghuxnzfYRXVKpcKW0AySJQ==", 
-  "publisher": "dailywales.net", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15399, 
+  "publisher": "dailywales.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Daily News - News from a sovereign nation", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/ghuxnzfYRXVKpcKW0AySJQ==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

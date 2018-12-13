@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tapsalteerie.co.uk/", 
-  "description": "Site of a Scottish poetry pamphlet publisher based in Aberdeenshire.", 
   "end_date": null, 
-  "title": "Tapsalteerie", 
-  "record_id": "20161006T100000/tK6n2Ih5U8rqNhCAKzbhtg==", 
-  "publisher": "tapsalteerie.co.uk", 
+  "date": "2016-10-06T10:00:00", 
   "slug": 45914, 
+  "publisher": "tapsalteerie.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tapsalteerie", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161006T100000/tK6n2Ih5U8rqNhCAKzbhtg==", 
+  "scope": "root", 
   "start_date": "2016-10-06T10:00:00Z"
 }
 

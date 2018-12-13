@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.weamerthyrtydfil.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "WEA (Workers Education Association) Merthyr Tydfil", 
-  "record_id": "20161208T090000/rQKUcxH6mulQ0joSfhM3tQ==", 
-  "publisher": "weamerthyrtydfil.org.uk", 
+  "date": "2016-12-08T09:00:00", 
   "slug": 47670, 
+  "publisher": "weamerthyrtydfil.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "WEA (Workers Education Association) Merthyr Tydfil", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161208T090000/rQKUcxH6mulQ0joSfhM3tQ==", 
+  "scope": "root", 
   "start_date": "2016-12-08T09:00:00Z"
 }
 

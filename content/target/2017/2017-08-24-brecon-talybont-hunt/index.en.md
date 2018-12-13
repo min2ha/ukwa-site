@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brecontalybonthunt.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Brecon & Talybont Hunt", 
-  "record_id": "20170824T090000/SeyrqOUPKGI6JhBKMl+6AQ==", 
-  "publisher": "brecontalybonthunt.com", 
+  "date": "2017-08-24T09:00:00", 
   "slug": 56813, 
+  "publisher": "brecontalybonthunt.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brecon & Talybont Hunt", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170824T090000/SeyrqOUPKGI6JhBKMl+6AQ==", 
+  "scope": "subdomains", 
   "start_date": "2017-08-24T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.radiotimes.com/", 
-  "description": "Online version of Radio Times magazine.", 
   "end_date": null, 
-  "title": "Radio Times", 
-  "record_id": "20180327T090000/r/yBTCdiwO1GWJaKMvW4rg==", 
-  "publisher": "radiotimes.com", 
+  "date": "2018-03-27T09:00:00", 
   "slug": 32483, 
+  "publisher": "radiotimes.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Radio Times", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180327T090000/r/yBTCdiwO1GWJaKMvW4rg==", 
+  "scope": "root", 
   "start_date": "2018-03-27T09:00:00Z"
 }
 

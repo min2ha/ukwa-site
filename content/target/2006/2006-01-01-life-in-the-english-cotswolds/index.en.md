@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://johnshortlandwriter.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Life in the English Cotswolds", 
-  "record_id": "20060101T120000/bpE7/1xy+uR1baG238FWvw==", 
-  "publisher": "johnshortlandwriter.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13906, 
+  "publisher": "johnshortlandwriter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Life in the English Cotswolds", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/bpE7/1xy+uR1baG238FWvw==", 
+  "scope": "root", 
   "start_date": null
 }
 

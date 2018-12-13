@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.wpf.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "WPF Therapy", 
-  "record_id": "20131014T100000/dwjkndY9Ft0wKNmwnzz1CQ==", 
-  "publisher": "wpf.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 28180582, 
+  "publisher": "wpf.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "WPF Therapy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/dwjkndY9Ft0wKNmwnzz1CQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

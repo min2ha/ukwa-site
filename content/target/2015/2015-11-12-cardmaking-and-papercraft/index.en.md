@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardmakingandpapercraft.com/", 
-  "description": "Online version of the Cardmaking and Papercraft magazine.", 
   "end_date": null, 
-  "title": "Cardmaking and Papercraft", 
-  "record_id": "20151112T090000/xpm4lSMwhtZKjz3Fq7JLfQ==", 
-  "publisher": "cardmakingandpapercraft.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32462, 
+  "publisher": "cardmakingandpapercraft.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardmaking and Papercraft", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/xpm4lSMwhtZKjz3Fq7JLfQ==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

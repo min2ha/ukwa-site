@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": true, 
   "target_url": "http://www.jasonandbecky.co.uk/", 
-  "description": "<p>Jason and Becky are tweo artist based at Elysium Gallery, Swansea.</p>\n", 
   "end_date": null, 
-  "title": "Jason and Becky", 
-  "record_id": "20130406T010000/tilU/a2+bneLJh28y2oqdg==", 
-  "publisher": "jasonandbecky.co.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14697, 
+  "publisher": "jasonandbecky.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jason and Becky", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/tilU/a2+bneLJh28y2oqdg==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

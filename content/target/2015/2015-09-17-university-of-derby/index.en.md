@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.derby.ac.uk/", 
-  "description": "The official website of the University of Derby.", 
   "end_date": null, 
-  "title": "University of Derby", 
-  "record_id": "20150917T100000/o1kSAGkV4ljBAbbnshVzrQ==", 
-  "publisher": "derby.ac.uk", 
+  "date": "2015-09-17T10:00:00", 
   "slug": 30511, 
+  "publisher": "derby.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of Derby", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150917T100000/o1kSAGkV4ljBAbbnshVzrQ==", 
+  "scope": "root", 
   "start_date": "2015-09-17T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.inverclyde.gov.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2018-03-29T09:00:00", 
   "slug": 13902, 
-  "subject": "Scottish Independence Referendum", 
   "publisher": "inverclyde.gov.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Inverclyde Council", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 65, 
+      "name": "Scottish Independence Referendum"
+    }
+  ], 
   "record_id": "20180329T090000/zK8iYPyNNaijqmKylEY2Iw==", 
+  "scope": "root", 
   "start_date": "2018-03-29T09:00:00Z"
 }
 

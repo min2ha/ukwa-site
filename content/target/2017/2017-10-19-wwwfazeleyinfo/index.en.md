@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-19T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.fazeley.info/", 
-  "description": "Welcome to www.fazeley.info a community resource for Mile Oak, Fazeley, Drayton Bassett and surrounding areas. ", 
   "end_date": null, 
-  "title": "www.fazeley.info", 
-  "record_id": "20171019T000000/JIk7QnxJKav66aLmm3k+7A==", 
-  "publisher": "fazeley.info", 
+  "date": "2017-10-19T00:00:00", 
   "slug": 57933, 
+  "publisher": "fazeley.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "www.fazeley.info", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171019T000000/JIk7QnxJKav66aLmm3k+7A==", 
+  "scope": "root", 
   "start_date": "2017-10-19T00:00:00Z"
 }
 

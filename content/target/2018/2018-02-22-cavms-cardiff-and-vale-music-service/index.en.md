@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-22T09:00:00", 
-  "open_access": false, 
   "target_url": "https://cavms.co.uk/", 
-  "description": "Cardiff and Vale Music Services is an Independent Music Service serving schools throughout South Wales.", 
   "end_date": null, 
-  "title": "CAVMS - Cardiff and Vale Music Service", 
-  "record_id": "20180222T090000/35FRra/mlD63y/WaYkTRig==", 
-  "publisher": "cavms.co.uk", 
+  "date": "2018-02-22T09:00:00", 
   "slug": 61483, 
+  "publisher": "cavms.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "CAVMS - Cardiff and Vale Music Service", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180222T090000/35FRra/mlD63y/WaYkTRig==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

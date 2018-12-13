@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-11T09:00:00", 
-  "open_access": false, 
   "target_url": "https://sites.google.com/site/netherlochaberchurch/links", 
-  "description": "", 
   "end_date": null, 
-  "title": "Nether Lochaber Parish Church", 
-  "record_id": "20180511T090000/ulFD56Ve+u4ObXfUiNe1rw==", 
-  "publisher": "google.com", 
+  "date": "2018-05-11T09:00:00", 
   "slug": 64264, 
+  "publisher": "google.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nether Lochaber Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180511T090000/ulFD56Ve+u4ObXfUiNe1rw==", 
+  "scope": "root", 
   "start_date": "2018-05-11T09:00:00Z"
 }
 

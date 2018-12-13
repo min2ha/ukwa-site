@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cordre.com/", 
-  "description": "C\u00f4r Dre is a mised young people's choir based in Caernarfon.", 
   "end_date": null, 
-  "title": "C\u00f4r Dre", 
-  "record_id": "20170817T090000/W51xDuivPFMKVkxR7uzr8Q==", 
-  "publisher": "cordre.com", 
+  "date": "2017-08-17T09:00:00", 
   "slug": 56638, 
+  "publisher": "cordre.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "C\u00f4r Dre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170817T090000/W51xDuivPFMKVkxR7uzr8Q==", 
+  "scope": "root", 
   "start_date": "2017-08-17T09:00:00Z"
 }
 

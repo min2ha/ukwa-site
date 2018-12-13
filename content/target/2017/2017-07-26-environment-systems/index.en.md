@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.envsys.co.uk/", 
-  "description": "Environment Systems is an environmental and agricultural data consultancy based in Aberystwyth.", 
   "end_date": null, 
-  "title": "Environment Systems", 
-  "record_id": "20170726T090000/N1O57i5U4dIpK/sXUS3XYg==", 
-  "publisher": "envsys.co.uk", 
+  "date": "2017-07-26T09:00:00", 
   "slug": 56129, 
+  "publisher": "envsys.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Environment Systems", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170726T090000/N1O57i5U4dIpK/sXUS3XYg==", 
+  "scope": "root", 
   "start_date": "2017-07-26T09:00:00Z"
 }
 

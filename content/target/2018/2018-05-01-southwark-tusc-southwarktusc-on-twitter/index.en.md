@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/SouthwarkTUSC/", 
-  "description": "The Southwark, London branch of TUSC the Trade Union Socialist Coalition.", 
   "end_date": "2018-07-02T00:00:00Z", 
-  "title": "Southwark TUSC (@SouthwarkTUSC) on Twitter", 
-  "record_id": "20180501T090000/UY0Wy7gzjeI7PG0fGSgdoQ==", 
-  "publisher": "twitter.com", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64959, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Southwark TUSC (@SouthwarkTUSC) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000/UY0Wy7gzjeI7PG0fGSgdoQ==", 
+  "scope": "root", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

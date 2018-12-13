@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://rondomedia.co.uk/", 
-  "description": "Rondo is a major UK independent multi-genre media production company, producing content for a wide range of UK and international broadcasters.", 
   "end_date": null, 
-  "title": "Rondo Media", 
-  "record_id": "20180726T090000/M6T9ocPabyHjENFfIfLkTw==", 
-  "publisher": "rondomedia.co.uk", 
+  "date": "2018-07-26T09:00:00", 
   "slug": 69325, 
+  "publisher": "rondomedia.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rondo Media", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180726T090000/M6T9ocPabyHjENFfIfLkTw==", 
+  "scope": "root", 
   "start_date": "2018-07-26T09:00:00Z"
 }
 

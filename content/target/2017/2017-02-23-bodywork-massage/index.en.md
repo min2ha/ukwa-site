@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bodyworkmassage.co.uk/", 
-  "description": "Bodywork Massage is a company that is run by a  a holistic massage therapist.", 
   "end_date": null, 
-  "title": "Bodywork Massage ", 
-  "record_id": "20170223T090000/nDBc4BQbvBhZ2zHVm9EhEA==", 
-  "publisher": "bodyworkmassage.co.uk", 
+  "date": "2017-02-23T09:00:00", 
   "slug": 49691, 
+  "publisher": "bodyworkmassage.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bodywork Massage ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170223T090000/nDBc4BQbvBhZ2zHVm9EhEA==", 
+  "scope": "root", 
   "start_date": "2017-02-23T09:00:00Z"
 }
 

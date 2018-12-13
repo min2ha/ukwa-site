@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.makinghistories.org.uk/", 
-  "description": "Developed by the Runnymede Trust, in collaboration with the LSE and University of Cambridge, this website brings together family histories and migration stories from young people in Cardiff, Leicester and Sheffield. ", 
   "end_date": null, 
-  "title": "Making Histories: developing young community historians", 
-  "record_id": "20151116T090000/wMApfPJnJpNyZLIb/5q03g==", 
-  "publisher": "makinghistories.org.uk", 
+  "date": "2015-11-16T09:00:00", 
   "slug": 32608, 
+  "publisher": "makinghistories.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Making Histories: developing young community historians", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151116T090000/wMApfPJnJpNyZLIb/5q03g==", 
+  "scope": "root", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

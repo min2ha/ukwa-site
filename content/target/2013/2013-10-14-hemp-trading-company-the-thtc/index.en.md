@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.thtc.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Hemp Trading Company, The (THTC)", 
-  "record_id": "20131014T100000/uWzq5ntWEIJEDVAKAZ7LhQ==", 
-  "publisher": "thtc.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 12681226, 
+  "publisher": "thtc.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Hemp Trading Company, The (THTC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/uWzq5ntWEIJEDVAKAZ7LhQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

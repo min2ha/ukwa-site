@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://invernessgigs.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Inverness Gigs", 
-  "record_id": "20060101T120000/JXya5JeGr+RJHECI7ZEWFg==", 
-  "publisher": "invernessgigs.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 235438217, 
+  "publisher": "invernessgigs.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Inverness Gigs", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/JXya5JeGr+RJHECI7ZEWFg==", 
+  "scope": "root", 
   "start_date": null
 }
 

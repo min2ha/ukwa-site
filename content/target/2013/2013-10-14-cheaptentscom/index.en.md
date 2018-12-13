@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cheaptents.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "CheapTents.com", 
-  "record_id": "20131014T100000/GPX1q981nrspkLA/7eo0hQ==", 
-  "publisher": "cheaptents.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49315918, 
+  "publisher": "cheaptents.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "CheapTents.com", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/GPX1q981nrspkLA/7eo0hQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wmc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Canolfan Mileniwm Cymru | Wales Millennium Centre", 
-  "record_id": "20150911T100000/MmSRcEndvvtESdZWa9V/qg==", 
-  "publisher": "wmc.org.uk", 
+  "date": "2015-09-11T10:00:00", 
   "slug": 30405, 
+  "publisher": "wmc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Canolfan Mileniwm Cymru | Wales Millennium Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150911T100000/MmSRcEndvvtESdZWa9V/qg==", 
+  "scope": "root", 
   "start_date": "2015-09-11T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardifffilmfest.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Independent Film Festival", 
-  "record_id": "20150413T090000/ZFQYG1rPZsnOv9V7d/0uSQ==", 
-  "publisher": "cardifffilmfest.org.uk", 
+  "date": "2015-04-13T09:00:00", 
   "slug": 21782, 
+  "publisher": "cardifffilmfest.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Independent Film Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150413T090000/ZFQYG1rPZsnOv9V7d/0uSQ==", 
+  "scope": "root", 
   "start_date": "2015-04-13T09:00:00Z"
 }
 

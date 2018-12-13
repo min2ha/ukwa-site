@@ -1,13 +1,16 @@
 {
-  "date": "2012-09-25T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.artsconnection.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Arts Connection | Cyswllt Celf", 
-  "record_id": "20120925T000000/Malbsc8wJelfTZFgiUlzag==", 
-  "publisher": "artsconnection.org.uk", 
+  "date": "2012-09-25T00:00:00", 
   "slug": 66158876, 
+  "publisher": "artsconnection.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Arts Connection | Cyswllt Celf", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120925T000000/Malbsc8wJelfTZFgiUlzag==", 
+  "scope": "root", 
   "start_date": "2012-09-25T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://katedaviesdesigns.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Kate Davies Designs", 
-  "record_id": "20060101T120000/ETiCklNt87JvwmQ1ESukAQ==", 
-  "publisher": "katedaviesdesigns.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 160595968, 
+  "publisher": "katedaviesdesigns.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Kate Davies Designs", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ETiCklNt87JvwmQ1ESukAQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

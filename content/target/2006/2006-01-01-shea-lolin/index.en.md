@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.shealolin.co.uk/", 
-  "description": "<p>Website of the musician Shea Lolin.</p>\n", 
   "end_date": null, 
-  "title": "Shea Lolin", 
-  "record_id": "20060101T120000/Fn3LZMQYjFi+sMKlhsBiHg==", 
-  "publisher": "shealolin.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338350, 
+  "publisher": "shealolin.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Shea Lolin", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Fn3LZMQYjFi+sMKlhsBiHg==", 
+  "scope": "root", 
   "start_date": null
 }
 

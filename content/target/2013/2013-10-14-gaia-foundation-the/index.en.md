@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.gaiafoundation.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Gaia Foundation, The", 
-  "record_id": "20131014T100000/th5qYebGUICrp8GcESS2Pg==", 
-  "publisher": "gaiafoundation.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 9404425, 
+  "publisher": "gaiafoundation.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Gaia Foundation, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/th5qYebGUICrp8GcESS2Pg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

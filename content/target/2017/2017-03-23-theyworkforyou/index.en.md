@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.theyworkforyou.com/", 
-  "description": "TheyWorkForYou takes open data from the UK Parliament, and presents it in a way that\u2019s easy to follow \u2013 for everyone.", 
   "end_date": null, 
-  "title": "TheyWorkForYou", 
-  "record_id": "20170323T090000/QvtfEKThR6bmoMfyaNoAAQ==", 
-  "publisher": "theyworkforyou.com", 
+  "date": "2017-03-23T09:00:00", 
   "slug": 13213, 
+  "publisher": "theyworkforyou.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "TheyWorkForYou", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170323T090000/QvtfEKThR6bmoMfyaNoAAQ==", 
+  "scope": "subdomains", 
   "start_date": "2017-03-23T09:00:00Z"
 }
 

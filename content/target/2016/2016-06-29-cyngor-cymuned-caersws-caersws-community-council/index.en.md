@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://caerswscommunitycouncil.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Caersws | Caersws Community Council", 
-  "record_id": "20160629T100000/LmKAtMQGy5Y9PYIf5H+tCQ==", 
-  "publisher": "caerswscommunitycouncil.co.uk", 
+  "date": "2016-06-29T10:00:00", 
   "slug": 43981, 
+  "publisher": "caerswscommunitycouncil.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Caersws | Caersws Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160629T100000/LmKAtMQGy5Y9PYIf5H+tCQ==", 
+  "scope": "root", 
   "start_date": "2016-06-29T10:00:00Z"
 }
 

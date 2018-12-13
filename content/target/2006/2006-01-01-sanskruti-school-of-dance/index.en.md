@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sanskruti.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Sanskruti School of Dance", 
-  "record_id": "20060101T120000/MS4zQlfjdx2IZ0V6fIEY1Q==", 
-  "publisher": "sanskruti.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 261128211, 
+  "publisher": "sanskruti.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Sanskruti School of Dance", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/MS4zQlfjdx2IZ0V6fIEY1Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

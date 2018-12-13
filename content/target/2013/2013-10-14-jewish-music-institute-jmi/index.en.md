@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.jmi.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Jewish Music Institute (JMI)", 
-  "record_id": "20131014T100000/zlATBXEi8OxJXwM2to2aew==", 
-  "publisher": "jmi.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741899, 
+  "publisher": "jmi.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jewish Music Institute (JMI)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/zlATBXEi8OxJXwM2to2aew==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.rte.ie/", 
-  "description": "RT\u00c9.ie is the website of Raidi\u00f3 Teilif\u00eds \u00c9ireann, Ireland's National Public Service Broadcaster.", 
   "end_date": null, 
   "date": "2018-09-25T09:00:00", 
   "slug": 71613, 
-  "subject": "News Sites", 
   "publisher": "rte.ie", 
   "open_access": true, 
+  "npld": true, 
   "title": "RTE", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20180925T090000/JqDgzMXm7Up3UlzW27+b0A==", 
+  "scope": "root", 
   "start_date": "2018-09-25T09:00:00Z"
 }
 

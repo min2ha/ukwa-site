@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://clwydscouts.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clwyd Area Scouts", 
-  "record_id": "20151107T090000/yT6IFnlhK3ISbL5Ltq3HsA==", 
-  "publisher": "clwydscouts.org.uk", 
+  "date": "2015-11-07T09:00:00", 
   "slug": 32216, 
+  "publisher": "clwydscouts.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clwyd Area Scouts", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151107T090000/yT6IFnlhK3ISbL5Ltq3HsA==", 
+  "scope": "root", 
   "start_date": "2015-11-07T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mugdock-country-park.org.uk/", 
-  "description": "Site of a country park near Milngavie, East Dunbartonshire, offering outdoor activities as well as facilities for events.", 
   "end_date": null, 
-  "title": "Mugdock Country Park", 
-  "record_id": "20170324T090000/+WZzilGLr5xjP9CGdFfnNg==", 
-  "publisher": "mugdock-country-park.org.uk", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 51039, 
+  "publisher": "mugdock-country-park.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mugdock Country Park", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/+WZzilGLr5xjP9CGdFfnNg==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

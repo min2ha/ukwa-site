@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hockertonhousingproject.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Hockerton Housing Project (HHP)", 
-  "record_id": "20131014T100000/ImDJip7aEFBhpxeDJ8AprQ==", 
-  "publisher": "hockertonhousingproject.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 31260680, 
+  "publisher": "hockertonhousingproject.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Hockerton Housing Project (HHP)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ImDJip7aEFBhpxeDJ8AprQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

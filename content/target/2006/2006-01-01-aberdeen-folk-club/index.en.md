@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.aberdeenfolkclub.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Aberdeen Folk Club", 
-  "record_id": "20060101T120000/WnWEDtMRU1kZw+e/h5mHVw==", 
-  "publisher": "aberdeenfolkclub.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 44274, 
+  "publisher": "aberdeenfolkclub.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aberdeen Folk Club", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WnWEDtMRU1kZw+e/h5mHVw==", 
+  "scope": "root", 
   "start_date": null
 }
 

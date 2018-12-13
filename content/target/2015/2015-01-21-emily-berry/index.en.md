@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-21T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.emilyberry.co.uk/", 
-  "description": "<p>Official website of the poet Emily Berry.</p>\n", 
   "end_date": null, 
-  "title": "Emily Berry", 
-  "record_id": "20150121T000000/Yjbk1zNaNUX7cVFJlnQUmA==", 
-  "publisher": "emilyberry.co.uk", 
+  "date": "2015-01-21T00:00:00", 
   "slug": 16013, 
+  "publisher": "emilyberry.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Emily Berry", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150121T000000/Yjbk1zNaNUX7cVFJlnQUmA==", 
+  "scope": "root", 
   "start_date": "2015-01-21T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.monbizawards.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Monmouth Business Awards", 
-  "record_id": "20170321T090000/MffsSg89G3zj4tql5pOSxg==", 
-  "publisher": "monbizawards.co.uk", 
+  "date": "2017-03-21T09:00:00", 
   "slug": 50818, 
+  "publisher": "monbizawards.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Monmouth Business Awards", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170321T090000/MffsSg89G3zj4tql5pOSxg==", 
+  "scope": "root", 
   "start_date": "2017-03-21T09:00:00Z"
 }
 

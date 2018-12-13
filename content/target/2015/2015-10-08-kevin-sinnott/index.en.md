@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-08T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.kevinsinnott.co.uk/", 
-  "description": "Kevin Sinnott is a Welsh artist.", 
   "end_date": null, 
-  "title": "Kevin Sinnott", 
-  "record_id": "20151008T100000/puKm8kMBieYIoxRDaGB2pg==", 
-  "publisher": "kevinsinnott.co.uk", 
+  "date": "2015-10-08T10:00:00", 
   "slug": 339312647, 
+  "publisher": "kevinsinnott.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Kevin Sinnott", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151008T100000/puKm8kMBieYIoxRDaGB2pg==", 
+  "scope": "root", 
   "start_date": "2015-10-08T10:00:00Z"
 }
 

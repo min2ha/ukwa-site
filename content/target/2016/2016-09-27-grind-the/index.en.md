@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.the-grind.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Grind, The", 
-  "record_id": "20160927T100000/Hk09zoKJ+DuyOj+2UZC3zA==", 
-  "publisher": "the-grind.co.uk", 
+  "date": "2016-09-27T10:00:00", 
   "slug": 45651, 
+  "publisher": "the-grind.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Grind, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160927T100000/Hk09zoKJ+DuyOj+2UZC3zA==", 
+  "scope": "root", 
   "start_date": "2016-09-27T10:00:00Z"
 }
 

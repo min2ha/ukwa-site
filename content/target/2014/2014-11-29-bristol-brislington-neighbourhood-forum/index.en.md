@@ -1,14 +1,26 @@
 {
   "target_url": "http://forums.e-democracy.org/groups/bristol-bris", 
-  "description": "", 
   "end_date": null, 
   "date": "2014-11-29T10:00:00", 
   "slug": 14939, 
-  "subject": null, 
   "publisher": "e-democracy.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Bristol Brislington Neighbourhood Forum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20141129T100000/e+nYHlWHpfdQgbo7EWhK/A==", 
+  "scope": "root", 
   "start_date": "2014-11-29T10:00:00Z"
 }
 

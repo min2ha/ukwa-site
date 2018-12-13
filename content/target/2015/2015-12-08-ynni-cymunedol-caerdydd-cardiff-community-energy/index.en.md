@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffcommunityenergy.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ynni Cymunedol Caerdydd | Cardiff Community Energy", 
-  "record_id": "20151208T090000/duexAWK0CKkzVJJxxllJeQ==", 
-  "publisher": "cardiffcommunityenergy.co.uk", 
+  "date": "2015-12-08T09:00:00", 
   "slug": 33272, 
+  "publisher": "cardiffcommunityenergy.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ynni Cymunedol Caerdydd | Cardiff Community Energy", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151208T090000/duexAWK0CKkzVJJxxllJeQ==", 
+  "scope": "root", 
   "start_date": "2015-12-08T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://glamourousrags.dymphna.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Glamourous Rags", 
-  "record_id": "20060101T120000/4vLst9ptT8Jclmp78Yj/5Q==", 
-  "publisher": "dymphna.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 73007144, 
+  "publisher": "dymphna.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Glamourous Rags", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/4vLst9ptT8Jclmp78Yj/5Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

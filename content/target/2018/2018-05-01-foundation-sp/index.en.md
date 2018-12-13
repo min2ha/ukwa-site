@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.foundation-sp.com/", 
-  "description": "We deliver technology solutions that bring people together and create a journey towards a more responsive organisation.", 
   "end_date": null, 
-  "title": "Foundation SP", 
-  "record_id": "20180501T090000/lYokxwrueo1gRZgJUO2bEw==", 
-  "publisher": "foundation-sp.com", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64961, 
+  "publisher": "foundation-sp.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Foundation SP", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000/lYokxwrueo1gRZgJUO2bEw==", 
+  "scope": "root", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

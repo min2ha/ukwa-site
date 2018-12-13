@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.xcri.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "XCRI (eXchanging Course-Related Information)", 
-  "record_id": "20060101T120000/BcOr9MxKU7oX1ChCyOhpTw==", 
-  "publisher": "xcri.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 129944, 
+  "publisher": "xcri.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "XCRI (eXchanging Course-Related Information)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/BcOr9MxKU7oX1ChCyOhpTw==", 
+  "scope": "root", 
   "start_date": null
 }
 

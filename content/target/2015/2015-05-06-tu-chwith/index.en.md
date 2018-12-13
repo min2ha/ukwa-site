@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://tuchwith.com/", 
-  "description": "Tu Chwith is a Welsh language magazine for young people.", 
   "end_date": null, 
-  "title": "Tu Chwith", 
-  "record_id": "20150506T090000/bf8aCqHI1mhpDcJgTMiBiw==", 
-  "publisher": "tuchwith.com", 
+  "date": "2015-05-06T09:00:00", 
   "slug": 23307, 
+  "publisher": "tuchwith.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tu Chwith", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150506T090000/bf8aCqHI1mhpDcJgTMiBiw==", 
+  "scope": "root", 
   "start_date": "2015-05-06T09:00:00Z"
 }
 

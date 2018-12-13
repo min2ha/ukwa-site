@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "https://statswales.wales.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "StatsWales | StatsCymru", 
-  "record_id": "20060101T120000/uJmvBqCfBXkHGypjKBv4HA==", 
-  "publisher": "wales.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 79921223, 
+  "publisher": "wales.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "StatsWales | StatsCymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/uJmvBqCfBXkHGypjKBv4HA==", 
+  "scope": "root", 
   "start_date": null
 }
 

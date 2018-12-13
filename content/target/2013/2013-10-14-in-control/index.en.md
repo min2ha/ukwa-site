@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.in-control.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "In Control", 
-  "record_id": "20131014T100000/2A5WkMhHvOgzzBWpmIjoVQ==", 
-  "publisher": "in-control.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 111170, 
+  "publisher": "in-control.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "In Control", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/2A5WkMhHvOgzzBWpmIjoVQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

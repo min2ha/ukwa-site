@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cantonianhighschool.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cantonian High School", 
-  "record_id": "20170307T090000/mVtWgYINWvE2rI3ye3QvXA==", 
-  "publisher": "cantonianhighschool.net", 
+  "date": "2017-03-07T09:00:00", 
   "slug": 50078, 
+  "publisher": "cantonianhighschool.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cantonian High School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170307T090000/mVtWgYINWvE2rI3ye3QvXA==", 
+  "scope": "subdomains", 
   "start_date": "2017-03-07T09:00:00Z"
 }
 

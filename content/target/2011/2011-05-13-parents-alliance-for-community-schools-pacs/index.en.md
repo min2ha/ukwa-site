@@ -1,13 +1,16 @@
 {
-  "date": "2011-05-13T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.parentsallianceforcommunityschools.org/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "Parents Alliance for  Community Schools (PACS)", 
-  "record_id": "20110513T000000/z5M/V3jxtYFnVAJLHxIpeA==", 
-  "publisher": "parentsallianceforcommunityschools.org", 
+  "date": "2011-05-13T00:00:00", 
   "slug": 60293394, 
+  "publisher": "parentsallianceforcommunityschools.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Parents Alliance for  Community Schools (PACS)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110513T000000/z5M/V3jxtYFnVAJLHxIpeA==", 
+  "scope": "root", 
   "start_date": "2011-05-13T00:00:00Z"
 }
 

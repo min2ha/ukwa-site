@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wiltshire.police.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Wiltshire Police", 
-  "record_id": "20060101T120000/NfDFB9MGPXMVcbIgTLL6uA==", 
-  "publisher": "wiltshire.police.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4703, 
+  "publisher": "wiltshire.police.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wiltshire Police", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NfDFB9MGPXMVcbIgTLL6uA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.dunkeldcathedral.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2018-05-31T09:00:00", 
   "slug": 63809, 
-  "subject": "Religion/Theology", 
   "publisher": "dunkeldcathedral.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Dunkeld Cathedral", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180531T090000/Qi/cAhAPjwcO1XZSKi7KBg==", 
+  "scope": "root", 
   "start_date": "2018-05-31T09:00:00Z"
 }
 

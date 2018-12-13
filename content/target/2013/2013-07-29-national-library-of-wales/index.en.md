@@ -1,13 +1,21 @@
 {
-  "date": "2013-07-29T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nlw.org.uk/", 
-  "description": "Official website of the Llyfrgell Genedlaethol Cymru - National Library of Wales.\n", 
   "end_date": null, 
-  "title": "National Library of Wales", 
-  "record_id": "20130729T120000/MnZzhtTaQeWVQHbUL/2MlA==", 
-  "publisher": "nlw.org.uk", 
+  "date": "2013-07-29T12:00:00", 
   "slug": 116018, 
+  "publisher": "nlw.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "National Library of Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130729T120000/MnZzhtTaQeWVQHbUL/2MlA==", 
+  "scope": "subdomains", 
   "start_date": "2013-07-29T12:00:00Z"
 }
 

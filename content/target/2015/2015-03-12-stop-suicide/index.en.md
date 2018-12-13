@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stopsuicidepledge.org/", 
-  "description": "Stop Suicide is a suicide prevention campaign which reaches across Peterborough and Cambridgeshire. It is an NHS England-funded pilot campaign across the East of England. ", 
   "end_date": null, 
-  "title": "Stop Suicide", 
-  "record_id": "20150312T090000/oTeMUaDIhqS7xP5elGJaNg==", 
-  "publisher": "stopsuicidepledge.org", 
+  "date": "2015-03-12T09:00:00", 
   "slug": 17915, 
+  "publisher": "stopsuicidepledge.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Stop Suicide", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150312T090000/oTeMUaDIhqS7xP5elGJaNg==", 
+  "scope": "root", 
   "start_date": "2015-03-12T09:00:00Z"
 }
 

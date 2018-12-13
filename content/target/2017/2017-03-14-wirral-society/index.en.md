@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wirralsociety.net/", 
-  "description": "The Wirral Society was formed in May 1928, following a public meeting at St Michael\u2019s Church Hall, Claughton in Birkenhead. ... A Constitution was drawn up with its objectives being to protect the Wirral Peninsula\u2019s natural beauty, architecture, flora and fauna and its sea coast.", 
   "end_date": null, 
-  "title": "Wirral Society", 
-  "record_id": "20170314T090000/CadgXOF92XYTjYFyUKuwtQ==", 
-  "publisher": "wirralsociety.net", 
+  "date": "2017-03-14T09:00:00", 
   "slug": 50422, 
+  "publisher": "wirralsociety.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wirral Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170314T090000/CadgXOF92XYTjYFyUKuwtQ==", 
+  "scope": "root", 
   "start_date": "2017-03-14T09:00:00Z"
 }
 

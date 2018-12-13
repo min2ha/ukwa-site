@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lumsdencommunity.co.uk/", 
-  "description": "Community website of the village of Lumsden, Abderdeenshire, providing information on amenities, businesses, activities and the community council for residents and visitors.", 
   "end_date": null, 
-  "title": "Lumsden", 
-  "record_id": "20180509T090000/d9ZS9gtkv/NC5ba5DQvSCQ==", 
-  "publisher": "lumsdencommunity.co.uk", 
+  "date": "2018-05-09T09:00:00", 
   "slug": 65294, 
+  "publisher": "lumsdencommunity.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lumsden", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180509T090000/d9ZS9gtkv/NC5ba5DQvSCQ==", 
+  "scope": "root", 
   "start_date": "2018-05-09T09:00:00Z"
 }
 

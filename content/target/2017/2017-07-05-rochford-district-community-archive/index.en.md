@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-05T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rochforddistricthistory.org.uk", 
-  "description": "A website preserving people's memories of the Rochford District in Essex.\n", 
   "end_date": null, 
-  "title": "Rochford District Community Archive", 
-  "record_id": "20170705T090000/aTBXX/VxFmlmP3qQaev1Zg==", 
-  "publisher": "rochforddistricthistory.org.uk", 
+  "date": "2017-07-05T09:00:00", 
   "slug": 55482, 
+  "publisher": "rochforddistricthistory.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rochford District Community Archive", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170705T090000/aTBXX/VxFmlmP3qQaev1Zg==", 
+  "scope": "root", 
   "start_date": "2017-07-05T09:00:00Z"
 }
 

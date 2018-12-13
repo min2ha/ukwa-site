@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.keilview.webs.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Keil View Estate", 
-  "record_id": "20060101T120000/CshpSDVxPI3Mhag28bhidA==", 
-  "publisher": "webs.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338348, 
+  "publisher": "webs.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Keil View Estate", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CshpSDVxPI3Mhag28bhidA==", 
+  "scope": "root", 
   "start_date": null
 }
 

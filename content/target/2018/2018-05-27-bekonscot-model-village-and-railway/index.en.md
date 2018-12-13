@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-27T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.bekonscot.co.uk/", 
-  "description": "The World's oldest model village in Beaconsfield, Buckinghamshire.", 
   "end_date": null, 
-  "title": "Bekonscot Model Village and Railway", 
-  "record_id": "20180527T090000/ULTE7w+F7PB6YHQqpbHDXw==", 
-  "publisher": "bekonscot.co.uk", 
+  "date": "2018-05-27T09:00:00", 
   "slug": 66229, 
+  "publisher": "bekonscot.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Bekonscot Model Village and Railway", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180527T090000/ULTE7w+F7PB6YHQqpbHDXw==", 
+  "scope": "root", 
   "start_date": "2018-05-27T09:00:00Z"
 }
 

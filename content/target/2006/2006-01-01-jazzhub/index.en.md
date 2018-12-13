@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lcm.ac.uk/research-conference/jazzhub.htm", 
-  "description": "", 
   "end_date": null, 
-  "title": "Jazzhub", 
-  "record_id": "20060101T120000/WSzc2ftESrlVoX1N4lbEww==", 
-  "publisher": "lcm.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49741946, 
+  "publisher": "lcm.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jazzhub", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WSzc2ftESrlVoX1N4lbEww==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.maestegtownhall.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Maesteg Town Hall | Neuadd y Dref Maesteg", 
-  "record_id": "20170720T090000/jbzhLy37hbU0ilB51CRKAg==", 
-  "publisher": "maestegtownhall.com", 
+  "date": "2017-07-20T09:00:00", 
   "slug": 277414001, 
+  "publisher": "maestegtownhall.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Maesteg Town Hall | Neuadd y Dref Maesteg", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170720T090000/jbzhLy37hbU0ilB51CRKAg==", 
+  "scope": "root", 
   "start_date": "2017-07-20T09:00:00Z"
 }
 

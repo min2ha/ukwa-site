@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.fairground-heritage.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fairground Heritage Trust, The", 
-  "record_id": "20131014T100000/vNYe4a2LoBv7REaSlBf6iQ==", 
-  "publisher": "fairground-heritage.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 53248031, 
+  "publisher": "fairground-heritage.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fairground Heritage Trust, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/vNYe4a2LoBv7REaSlBf6iQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

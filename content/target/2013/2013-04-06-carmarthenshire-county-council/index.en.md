@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": true, 
   "target_url": "http://www.carmarthenshire.gov.wales/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Carmarthenshire County Council", 
-  "record_id": "20130406T010000/NGeb8qBT5XMeiIwSMDp17A==", 
-  "publisher": "gov.wales", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 63275097, 
+  "publisher": "gov.wales", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Carmarthenshire County Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/NGeb8qBT5XMeiIwSMDp17A==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

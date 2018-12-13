@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.staffordshire.police.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Staffordshire Police", 
-  "record_id": "20060101T120000/9tc1YqPnlwn52dhkfZC9tQ==", 
-  "publisher": "staffordshire.police.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4694, 
+  "publisher": "staffordshire.police.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Staffordshire Police", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/9tc1YqPnlwn52dhkfZC9tQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

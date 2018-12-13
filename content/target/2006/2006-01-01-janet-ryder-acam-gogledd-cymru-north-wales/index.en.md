@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://janetryder.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Janet Ryder AC/AM: Gogledd Cymru - North Wales", 
-  "record_id": "20060101T120000/g7tc4WgY35UbmiGPNvsPhA==", 
-  "publisher": "janetryder.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 144576, 
+  "publisher": "janetryder.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Janet Ryder AC/AM: Gogledd Cymru - North Wales", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/g7tc4WgY35UbmiGPNvsPhA==", 
+  "scope": "root", 
   "start_date": null
 }
 

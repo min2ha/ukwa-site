@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://hampshirearchivesandlocalstudies.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Hampshire Archives and Local Studies", 
-  "record_id": "20170204T090000/mdZ+cWO4AWVMC7vbWusEsw==", 
-  "publisher": "wordpress.com", 
+  "date": "2017-02-04T09:00:00", 
   "slug": 49042, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hampshire Archives and Local Studies", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170204T090000/mdZ+cWO4AWVMC7vbWusEsw==", 
+  "scope": "root", 
   "start_date": "2017-02-04T09:00:00Z"
 }
 

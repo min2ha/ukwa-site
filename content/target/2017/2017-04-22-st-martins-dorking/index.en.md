@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.stmartinsdorking.org/welcome-to-our-church/index.html", 
-  "description": "St Martin\u2019s has a long history \u2013 there have been several earlier churches on the site of the present building, and worship has been offered here during a period spanning many hundreds of years. As a parish church today it has a central place in the lives of its members and in the life of the town \u2013 it is a living centre for work, worship and prayer. ", 
   "end_date": null, 
   "date": "2017-04-22T09:00:00", 
   "slug": 52222, 
-  "subject": "Religion/Theology", 
   "publisher": "stmartinsdorking.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Martin's, Dorking", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170422T090000/0hLPVlkhm2CT8iF8NFaryw==", 
+  "scope": "root", 
   "start_date": "2017-04-22T09:00:00Z"
 }
 

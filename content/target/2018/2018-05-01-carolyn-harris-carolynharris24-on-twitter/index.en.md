@@ -1,14 +1,30 @@
 {
   "target_url": "https://twitter.com/carolynharris24/", 
-  "description": "Labour parliamentary candidate for Swansea East.", 
   "end_date": null, 
   "date": "2018-05-01T09:00:00", 
   "slug": 21247, 
-  "subject": null, 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Carolyn Harris (@carolynharris24) on Twitter ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20180501T090000/3xAe7qU6kmspgZhjt76SjQ==", 
+  "scope": "root", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

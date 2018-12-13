@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-20T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.cwcwsound.co.uk/", 
-  "description": "CwCw are a Welsh band from Blackwood, South Wales. ", 
   "end_date": null, 
-  "title": "CwCw", 
-  "record_id": "20170720T090000/WNBKtsqJ6fvNy9tk9QuGKA==", 
-  "publisher": "cwcwsound.co.uk", 
+  "date": "2017-07-20T09:00:00", 
   "slug": 56012, 
+  "publisher": "cwcwsound.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "CwCw", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170720T090000/WNBKtsqJ6fvNy9tk9QuGKA==", 
+  "scope": "root", 
   "start_date": "2017-07-20T09:00:00Z"
 }
 

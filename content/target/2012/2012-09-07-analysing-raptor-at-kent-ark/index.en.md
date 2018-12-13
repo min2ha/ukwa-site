@@ -1,13 +1,16 @@
 {
-  "date": "2012-09-07T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.kent.ac.uk/is/projects/ark/", 
-  "description": "", 
   "end_date": "2014-07-01T00:00:00Z", 
-  "title": "Analysing Raptor at Kent (ARK)", 
-  "record_id": "20120907T000000/xsZtlXryaPMA639zWmTRlw==", 
-  "publisher": "kent.ac.uk", 
+  "date": "2012-09-07T00:00:00", 
   "slug": 66158764, 
+  "publisher": "kent.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Analysing Raptor at Kent (ARK)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120907T000000/xsZtlXryaPMA639zWmTRlw==", 
+  "scope": "root", 
   "start_date": "2012-09-07T00:00:00Z"
 }
 

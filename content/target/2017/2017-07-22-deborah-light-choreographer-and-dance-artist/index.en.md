@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-22T09:00:00", 
-  "open_access": false, 
   "target_url": "https://deborahlight.com/", 
-  "description": "Deborah Light is a Choreographer and Dance Artist based in Cardiff.", 
   "end_date": null, 
-  "title": "Deborah Light: Choreographer and Dance Artist", 
-  "record_id": "20170722T090000/pNbAyQvq7AT6UcwV3nswSw==", 
-  "publisher": "deborahlight.com", 
+  "date": "2017-07-22T09:00:00", 
   "slug": 56070, 
+  "publisher": "deborahlight.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Deborah Light: Choreographer and Dance Artist", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170722T090000/pNbAyQvq7AT6UcwV3nswSw==", 
+  "scope": "root", 
   "start_date": "2017-07-22T09:00:00Z"
 }
 

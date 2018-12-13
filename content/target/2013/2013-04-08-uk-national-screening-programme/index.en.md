@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.screening.nhs.uk", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-04-08T13:00:00", 
   "slug": 1091, 
-  "subject": null, 
   "publisher": "screening.nhs.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "UK National Screening Programme", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20130408T130000/N6DP8nWgC2CIQ1c/EBI7DA==", 
+  "scope": "root", 
   "start_date": "2013-04-08T13:00:00Z"
 }
 

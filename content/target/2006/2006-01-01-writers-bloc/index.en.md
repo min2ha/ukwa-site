@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.writers-bloc.org.uk/", 
-  "description": "The blog of Writer's Bloc, a spoken word performance group based in Edinburgh.", 
   "end_date": null, 
-  "title": "Writer's Bloc", 
-  "record_id": "20060101T120000/K3wKQU7aYe0gYAPLcN/saA==", 
-  "publisher": "writers-bloc.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 123093, 
+  "publisher": "writers-bloc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Writer's Bloc", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/K3wKQU7aYe0gYAPLcN/saA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swwna.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South West Wales Neurological Alliance", 
-  "record_id": "20150825T100000/6l8gb1eA2IRLkPqBJUUMHg==", 
-  "publisher": "swwna.com", 
+  "date": "2015-08-25T10:00:00", 
   "slug": 29971, 
+  "publisher": "swwna.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South West Wales Neurological Alliance", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150825T100000/6l8gb1eA2IRLkPqBJUUMHg==", 
+  "scope": "root", 
   "start_date": "2015-08-25T10:00:00Z"
 }
 

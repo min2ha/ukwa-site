@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-07T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cmc.cymru/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Canolfan Milfeddygaeth Cymru | Welsh Veterinary Science Centre", 
-  "record_id": "20150707T100000/ThCJqCKAJt4siGHkPdkLLw==", 
-  "publisher": "cmc.cymru", 
+  "date": "2015-07-07T10:00:00", 
   "slug": 28760, 
+  "publisher": "cmc.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Canolfan Milfeddygaeth Cymru | Welsh Veterinary Science Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150707T100000/ThCJqCKAJt4siGHkPdkLLw==", 
+  "scope": "root", 
   "start_date": "2015-07-07T10:00:00Z"
 }
 

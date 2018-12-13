@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://tidyproductions.co.uk/", 
-  "description": "Tidy Productions is a TV Production Company based in Cardiff.", 
   "end_date": null, 
-  "title": "Tidy Productions", 
-  "record_id": "20060101T120000/z5jD0DzkCwnFQLZiX/QTcA==", 
-  "publisher": "tidyproductions.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 48041, 
+  "publisher": "tidyproductions.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tidy Productions", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/z5jD0DzkCwnFQLZiX/QTcA==", 
+  "scope": "root", 
   "start_date": null
 }
 

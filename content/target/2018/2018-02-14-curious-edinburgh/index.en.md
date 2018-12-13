@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.curiousedinburgh.org/", 
-  "description": "Blog outlining walking tours of Edinburgh which highlight its scientific, medical and technological heritage.", 
   "end_date": null, 
-  "title": "Curious Edinburgh", 
-  "record_id": "20180214T090000/+s5tBS1jy4nh10imBAIIUw==", 
-  "publisher": "curiousedinburgh.org", 
+  "date": "2018-02-14T09:00:00", 
   "slug": 61272, 
+  "publisher": "curiousedinburgh.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Curious Edinburgh", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180214T090000/+s5tBS1jy4nh10imBAIIUw==", 
+  "scope": "root", 
   "start_date": "2018-02-14T09:00:00Z"
 }
 

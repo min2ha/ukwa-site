@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-16T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hafodcare.org.uk/", 
-  "description": "Hafod Care Housing Association provides housing, care and support services across South and West Wales to vulnerable people with a variety of needs.", 
   "end_date": null, 
-  "title": "Hafod Care Housing Association", 
-  "record_id": "20160116T090000/KVGoGtHb3vFiwuGaiwNxUg==", 
-  "publisher": "hafodcare.org.uk", 
+  "date": "2016-01-16T09:00:00", 
   "slug": 172294191, 
+  "publisher": "hafodcare.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Hafod Care Housing Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160116T090000/KVGoGtHb3vFiwuGaiwNxUg==", 
+  "scope": "root", 
   "start_date": "2016-01-16T09:00:00Z"
 }
 

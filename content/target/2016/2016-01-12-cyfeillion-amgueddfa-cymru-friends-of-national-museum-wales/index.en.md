@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://friendsmuseumwales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyfeillion Amgueddfa Cymru | Friends of National Museum Wales", 
-  "record_id": "20160112T090000/nh7alKPSVh8Z8nmc3jTnqg==", 
-  "publisher": "friendsmuseumwales.org.uk", 
+  "date": "2016-01-12T09:00:00", 
   "slug": 33878, 
+  "publisher": "friendsmuseumwales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyfeillion Amgueddfa Cymru | Friends of National Museum Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160112T090000/nh7alKPSVh8Z8nmc3jTnqg==", 
+  "scope": "root", 
   "start_date": "2016-01-12T09:00:00Z"
 }
 

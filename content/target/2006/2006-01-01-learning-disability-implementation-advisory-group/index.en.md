@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://ldiag.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Learning disability Implementation Advisory Group", 
-  "record_id": "20060101T120000/LdrZtHAXBQFcgIp1am+3wA==", 
-  "publisher": "ldiag.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 293863822, 
+  "publisher": "ldiag.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Learning disability Implementation Advisory Group", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/LdrZtHAXBQFcgIp1am+3wA==", 
+  "scope": "root", 
   "start_date": null
 }
 

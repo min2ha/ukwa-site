@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.thelondonwelshrugbyclubchoir.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "London Welsh Rugby Club Choir", 
-  "record_id": "20170316T090000/aPTzWjp6Fgyy/1KDQHvmDw==", 
-  "publisher": "thelondonwelshrugbyclubchoir.org", 
+  "date": "2017-03-16T09:00:00", 
   "slug": 50591, 
+  "publisher": "thelondonwelshrugbyclubchoir.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London Welsh Rugby Club Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170316T090000/aPTzWjp6Fgyy/1KDQHvmDw==", 
+  "scope": "root", 
   "start_date": "2017-03-16T09:00:00Z"
 }
 

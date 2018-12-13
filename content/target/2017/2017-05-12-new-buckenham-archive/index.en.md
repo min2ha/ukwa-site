@@ -1,13 +1,21 @@
 {
-  "date": "2017-05-12T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.newbuckenhamarchive.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "New Buckenham Archive ", 
-  "record_id": "20170512T090000/qcTxGQNVa+Jug06qGj9yLw==", 
-  "publisher": "newbuckenhamarchive.co.uk", 
+  "date": "2017-05-12T09:00:00", 
   "slug": 53099, 
+  "publisher": "newbuckenhamarchive.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "New Buckenham Archive ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170512T090000/qcTxGQNVa+Jug06qGj9yLw==", 
+  "scope": "root", 
   "start_date": "2017-05-12T09:00:00Z"
 }
 

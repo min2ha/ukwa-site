@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ents24.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Ents24", 
-  "record_id": "20131014T100000/SlKbdGpqfxTf3ovPElMShg==", 
-  "publisher": "ents24.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 14811161, 
+  "publisher": "ents24.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Ents24", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/SlKbdGpqfxTf3ovPElMShg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

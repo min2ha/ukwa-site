@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brad.ac.uk/lss/tqeg/projects/its4sea/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Integrating thin client systems for secure e-assessment", 
-  "record_id": "20060101T120000/v19vCkCjFFHX7scFJkL4LQ==", 
-  "publisher": "brad.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49741945, 
+  "publisher": "brad.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Integrating thin client systems for secure e-assessment", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/v19vCkCjFFHX7scFJkL4LQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

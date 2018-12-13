@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://hbtsr.org.uk/", 
-  "description": "City of Sanctuary is a UK based movement  to developing a \u2018culture of welcome and inclusion\u2019 for people seeking sanctuary in the UK. ", 
   "end_date": null, 
-  "title": "Hay, Brecon and Talgarth City of Sanctuary", 
-  "record_id": "20160108T090000/IFZZs7Y/GerSpcg8Ui6ITQ==", 
-  "publisher": "hbtsr.org.uk", 
+  "date": "2016-01-08T09:00:00", 
   "slug": 33714, 
+  "publisher": "hbtsr.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hay, Brecon and Talgarth City of Sanctuary", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160108T090000/IFZZs7Y/GerSpcg8Ui6ITQ==", 
+  "scope": "root", 
   "start_date": "2016-01-08T09:00:00Z"
 }
 

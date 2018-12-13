@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llandudno.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Tref Llandudno Town Council ", 
-  "record_id": "20151023T100000/HCTBZT7b8ac9wihF718lng==", 
-  "publisher": "llandudno.gov.uk", 
+  "date": "2015-10-23T10:00:00", 
   "slug": 31650, 
+  "publisher": "llandudno.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Tref Llandudno Town Council ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151023T100000/HCTBZT7b8ac9wihF718lng==", 
+  "scope": "root", 
   "start_date": "2015-10-23T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sianfiddle.co.uk/", 
-  "description": "Sian Phillips is a fifth generation professional fiddle player and has played with The Constitution Hillbillies,\nMeic Stevens, Wild Welsh Women, Celtish\nand more recently, MoonDance. ", 
   "end_date": null, 
-  "title": "Sian Fiddle", 
-  "record_id": "20180920T090000/6nj+xwPVmdLV+gQ22Ds1wg==", 
-  "publisher": "sianfiddle.co.uk", 
+  "date": "2018-09-20T09:00:00", 
   "slug": 71441, 
+  "publisher": "sianfiddle.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sian Fiddle", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180920T090000/6nj+xwPVmdLV+gQ22Ds1wg==", 
+  "scope": "root", 
   "start_date": "2018-09-20T09:00:00Z"
 }
 

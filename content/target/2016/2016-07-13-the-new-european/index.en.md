@@ -1,14 +1,34 @@
 {
   "target_url": "http://theneweuropean.co.uk", 
-  "description": "Extensive coverage of Brexit and the 2017 General Election from a pro-European point of view.", 
   "end_date": null, 
   "date": "2016-07-13T10:00:00", 
   "slug": 44277, 
-  "subject": "News Sites", 
   "publisher": "theneweuropean.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "The New European", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }, 
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20160713T100000/Ll7ukXvFOCefrV6BYj/jvw==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

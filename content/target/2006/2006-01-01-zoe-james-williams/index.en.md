@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.zoejameswilliams.com/", 
-  "description": "Zoe James-Williams is a Welsh figurative artist living in Swansea on the Gower coast. ", 
   "end_date": null, 
-  "title": "Zoe James-Williams", 
-  "record_id": "20060101T120000/O+TnB6xnkPhXKgNS6mCWnA==", 
-  "publisher": "zoejameswilliams.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32062, 
+  "publisher": "zoejameswilliams.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Zoe James-Williams", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/O+TnB6xnkPhXKgNS6mCWnA==", 
+  "scope": "root", 
   "start_date": null
 }
 

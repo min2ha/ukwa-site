@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.pollokfc.com/", 
-  "description": "Site for a Scottish junior football club based in the Pollok area of Glasgow.", 
   "end_date": null, 
   "date": "2017-03-15T09:00:00", 
   "slug": 50494, 
-  "subject": "Sport: Football", 
   "publisher": "pollokfc.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Pollok Football Club", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20170315T090000/f2+PU4jxK0rGWwylpDdYFA==", 
+  "scope": "root", 
   "start_date": "2017-03-15T09:00:00Z"
 }
 

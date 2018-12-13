@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sowmusic.org.uk/", 
-  "description": "<p>Sound of Wales (SOW) are a collective of musicians based in Wales 'who love Jesus and above all want to be a part of revealing his glory to the Earth.'</p>\n", 
   "end_date": null, 
-  "title": "Sow Music (SOW)", 
-  "record_id": "20130406T010000/kStpEtTvZnPH9PMwsIboFA==", 
-  "publisher": "sowmusic.org.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14700, 
+  "publisher": "sowmusic.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sow Music (SOW)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/kStpEtTvZnPH9PMwsIboFA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

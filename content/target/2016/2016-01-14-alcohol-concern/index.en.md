@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alcoholconcern.org.uk/", 
-  "description": "They work to reduce alcohol-related harm.", 
   "end_date": null, 
-  "title": "Alcohol Concern", 
-  "record_id": "20160114T090000/1s9jQiNS/xNNej02CRICGQ==", 
-  "publisher": "alcoholconcern.org.uk", 
+  "date": "2016-01-14T09:00:00", 
   "slug": 57737261, 
+  "publisher": "alcoholconcern.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alcohol Concern", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160114T090000/1s9jQiNS/xNNej02CRICGQ==", 
+  "scope": "root", 
   "start_date": "2016-01-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-31T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.goodlifedeathgrief.org.uk/", 
-  "description": "Site of an alliance of organisations and individuals that work together to raise public awareness of ways of dealing with death, dying and bereavement\nand promote community involvement in death, dying and bereavement in Scotland.\n", 
   "end_date": null, 
-  "title": "Good Life, Good Death, Good Grief", 
-  "record_id": "20171031T090000/eg59sRcWpDBRHWRmnbRprw==", 
-  "publisher": "goodlifedeathgrief.org.uk", 
+  "date": "2017-10-31T09:00:00", 
   "slug": 58194, 
+  "publisher": "goodlifedeathgrief.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Good Life, Good Death, Good Grief", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171031T090000/eg59sRcWpDBRHWRmnbRprw==", 
+  "scope": "root", 
   "start_date": "2017-10-31T09:00:00Z"
 }
 

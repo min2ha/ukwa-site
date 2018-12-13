@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.forwardwales.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Forward Wales - Cymru Ymlaen", 
-  "record_id": "20060101T120000/awWUNPQFNVfGfD42Uutyng==", 
-  "publisher": "forwardwales.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 106911, 
+  "publisher": "forwardwales.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Forward Wales - Cymru Ymlaen", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/awWUNPQFNVfGfD42Uutyng==", 
+  "scope": "root", 
   "start_date": null
 }
 

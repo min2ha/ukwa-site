@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://greenbuild.wales/", 
-  "description": "This is Wales' premier conference and expo for green building sponsored by the Welsh Government.", 
   "end_date": null, 
-  "title": "Wales Green Build Marketplace", 
-  "record_id": "20160311T090000/CFJEuM0ktHiQcx0dtyQHUA==", 
-  "publisher": "greenbuild.wales", 
+  "date": "2016-03-11T09:00:00", 
   "slug": 37004, 
+  "publisher": "greenbuild.wales", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wales Green Build Marketplace", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160311T090000/CFJEuM0ktHiQcx0dtyQHUA==", 
+  "scope": "root", 
   "start_date": "2016-03-11T09:00:00Z"
 }
 

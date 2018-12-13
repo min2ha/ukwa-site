@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-01T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cearcall.net/", 
-  "description": "Gaelic community speaking opportunies in Edinburgh", 
   "end_date": null, 
-  "title": "Cearcall C\u00f2mhraidh Dhun Eidinn", 
-  "record_id": "20161101T000000/+IjJQAhQkSc05PdIXhknjQ==", 
-  "publisher": "cearcall.net", 
+  "date": "2016-11-01T00:00:00", 
   "slug": 46623, 
+  "publisher": "cearcall.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cearcall C\u00f2mhraidh Dhun Eidinn", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161101T000000/+IjJQAhQkSc05PdIXhknjQ==", 
+  "scope": "root", 
   "start_date": "2016-11-01T00:00:00Z"
 }
 

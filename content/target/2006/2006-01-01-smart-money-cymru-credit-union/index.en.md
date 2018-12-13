@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.smartmoneycreditunion.co.uk/", 
-  "description": "Smart Money Cymru Credit Union covers Caerphilly, Blaenau Gwent and Newport.", 
   "end_date": null, 
-  "title": "Smart Money Cymru Credit Union", 
-  "record_id": "20060101T120000/+cdmfwTyAm3v5FHFOIMHiQ==", 
-  "publisher": "smartmoneycreditunion.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31495, 
+  "publisher": "smartmoneycreditunion.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Smart Money Cymru Credit Union", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+cdmfwTyAm3v5FHFOIMHiQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

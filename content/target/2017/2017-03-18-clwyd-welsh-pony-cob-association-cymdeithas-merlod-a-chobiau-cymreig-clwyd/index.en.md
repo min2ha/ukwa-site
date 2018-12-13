@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.clwydwpca.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clwyd Welsh Pony & Cob Association | Cymdeithas Merlod a Chobiau Cymreig Clwyd", 
-  "record_id": "20170318T090000/Q0lYHopSQDZQOdRyZORrog==", 
-  "publisher": "clwydwpca.com", 
+  "date": "2017-03-18T09:00:00", 
   "slug": 50719, 
+  "publisher": "clwydwpca.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clwyd Welsh Pony & Cob Association | Cymdeithas Merlod a Chobiau Cymreig Clwyd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170318T090000/Q0lYHopSQDZQOdRyZORrog==", 
+  "scope": "root", 
   "start_date": "2017-03-18T09:00:00Z"
 }
 

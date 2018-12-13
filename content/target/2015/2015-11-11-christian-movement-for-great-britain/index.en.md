@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.christianmovement.info/", 
-  "description": "Christian Movement for Great Britain campaigns for Christian values in government and public office.", 
   "end_date": null, 
-  "title": "Christian Movement for Great Britain", 
-  "record_id": "20151111T090000/JUuR80Kg7LUcQNSZzebgUw==", 
-  "publisher": "christianmovement.info", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 32418, 
+  "publisher": "christianmovement.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Christian Movement for Great Britain", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/JUuR80Kg7LUcQNSZzebgUw==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

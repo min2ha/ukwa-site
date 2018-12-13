@@ -1,13 +1,16 @@
 {
-  "date": "2011-11-29T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.penmorfa.com/", 
-  "description": "Photos and history ", 
   "end_date": null, 
-  "title": "Penmorfa", 
-  "record_id": "20111129T000000/qQGUfLleepGbacVvMhe7uA==", 
-  "publisher": "penmorfa.com", 
+  "date": "2011-11-29T00:00:00", 
   "slug": 63275043, 
+  "publisher": "penmorfa.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Penmorfa", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20111129T000000/qQGUfLleepGbacVvMhe7uA==", 
+  "scope": "root", 
   "start_date": "2011-11-29T00:00:00Z"
 }
 

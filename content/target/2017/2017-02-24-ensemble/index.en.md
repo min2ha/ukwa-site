@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ensembleinfife.org.uk/", 
-  "description": "Site of a choral music group based in Fife and including work from opera, operetta and musicals in their repertoire.", 
   "end_date": null, 
-  "title": "Ensemble", 
-  "record_id": "20170224T090000/p764WoUfsdQ8O5XFQj7aOA==", 
-  "publisher": "ensembleinfife.org.uk", 
+  "date": "2017-02-24T09:00:00", 
   "slug": 49718, 
+  "publisher": "ensembleinfife.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ensemble", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170224T090000/p764WoUfsdQ8O5XFQj7aOA==", 
+  "scope": "root", 
   "start_date": "2017-02-24T09:00:00Z"
 }
 

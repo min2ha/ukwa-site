@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffphilharmonic.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Philharmonic Orchestra", 
-  "record_id": "20151127T090000/kNGVpkrQysrvemxXYyjYSw==", 
-  "publisher": "cardiffphilharmonic.com", 
+  "date": "2015-11-27T09:00:00", 
   "slug": 32939, 
+  "publisher": "cardiffphilharmonic.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Philharmonic Orchestra", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151127T090000/kNGVpkrQysrvemxXYyjYSw==", 
+  "scope": "root", 
   "start_date": "2015-11-27T09:00:00Z"
 }
 

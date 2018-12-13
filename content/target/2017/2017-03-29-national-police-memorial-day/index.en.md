@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nationalpolicememorialday.org/", 
-  "description": "The National Police Memorial Day aims to:\n\n- Remember police officers who have been killed or died on duty \n\n- Demonstrate to relatives, friends and colleagues of fallen officers that their sacrifice is not forgotten \n\n- Recognise annually the dedication to duty and courage displayed by police officers", 
   "end_date": null, 
-  "title": "National Police Memorial Day", 
-  "record_id": "20170329T090000/9vCFZ57pLz7ma3fjQ8gBNA==", 
-  "publisher": "nationalpolicememorialday.org", 
+  "date": "2017-03-29T09:00:00", 
   "slug": 51391, 
+  "publisher": "nationalpolicememorialday.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "National Police Memorial Day", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170329T090000/9vCFZ57pLz7ma3fjQ8gBNA==", 
+  "scope": "root", 
   "start_date": "2017-03-29T09:00:00Z"
 }
 

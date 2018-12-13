@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://aci-uk.com/", 
-  "description": "Representing the interests of dealing, broking, operations, regulatory and compliance members engaged in FX, MM and derivatives markets.", 
   "end_date": null, 
-  "title": "ACI UK: Financial Markets Association", 
-  "record_id": "20170804T090000/TJpAu/DI6I+/TlzZDjaEhQ==", 
-  "publisher": "aci-uk.com", 
+  "date": "2017-08-04T09:00:00", 
   "slug": 56384, 
+  "publisher": "aci-uk.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ACI UK: Financial Markets Association", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170804T090000/TJpAu/DI6I+/TlzZDjaEhQ==", 
+  "scope": "root", 
   "start_date": "2017-08-04T09:00:00Z"
 }
 

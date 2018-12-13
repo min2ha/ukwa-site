@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.caricaturist.tv/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mark Tabbener - Caricaturist", 
-  "record_id": "20060101T120000/BypfWneXQrV6OaAa9WIzDw==", 
-  "publisher": "caricaturist.tv", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11649, 
+  "publisher": "caricaturist.tv", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mark Tabbener - Caricaturist", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/BypfWneXQrV6OaAa9WIzDw==", 
+  "scope": "root", 
   "start_date": null
 }
 

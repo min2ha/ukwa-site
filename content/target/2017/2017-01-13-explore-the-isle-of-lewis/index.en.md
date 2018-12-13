@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.isle-of-lewis.com/", 
-  "description": "Site providing visitor / tourist information for the Isle of Lewis, Outer Hebrides, Scotland.", 
   "end_date": null, 
-  "title": "Explore the Isle of Lewis", 
-  "record_id": "20170113T090000/ZkFe2nTIjULwhY++9V2oyg==", 
-  "publisher": "isle-of-lewis.com", 
+  "date": "2017-01-13T09:00:00", 
   "slug": 48203, 
+  "publisher": "isle-of-lewis.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Explore the Isle of Lewis", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170113T090000/ZkFe2nTIjULwhY++9V2oyg==", 
+  "scope": "root", 
   "start_date": "2017-01-13T09:00:00Z"
 }
 

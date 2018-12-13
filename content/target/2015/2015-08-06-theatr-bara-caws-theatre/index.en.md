@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://theatrbaracaws.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Theatr Bara Caws Theatre", 
-  "record_id": "20150806T100000/hw5ZPLtGuGp0k+xx3yQarA==", 
-  "publisher": "theatrbaracaws.com", 
+  "date": "2015-08-06T10:00:00", 
   "slug": 29633, 
+  "publisher": "theatrbaracaws.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Theatr Bara Caws Theatre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150806T100000/hw5ZPLtGuGp0k+xx3yQarA==", 
+  "scope": "root", 
   "start_date": "2015-08-06T10:00:00Z"
 }
 

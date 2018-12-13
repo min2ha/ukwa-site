@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.dancehouse.org/", 
-  "description": "<p>Dance House Glasgow present \u201cDancing City\u201d a film that records various dance based \u201chappenings\u201d in Glasgow. The film will be screened extensively across the City as part of the Glasgow 2014 Cultural Programme.</p>\n", 
   "end_date": "2014-08-03T07:00:00Z", 
   "date": "2014-07-24T07:00:00", 
   "slug": 12818, 
-  "subject": null, 
   "publisher": "dancehouse.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "DanceHouse", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20140724T070000/97my4S1WtNoAvCfJqOcHUA==", 
+  "scope": "root", 
   "start_date": "2014-07-24T07:00:00Z"
 }
 

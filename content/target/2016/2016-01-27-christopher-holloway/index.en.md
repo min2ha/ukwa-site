@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.christopherholloway.net/", 
-  "description": "Christopher Holloway is a Welsh painter born in Cardiff. ", 
   "end_date": null, 
-  "title": "Christopher Holloway", 
-  "record_id": "20160127T090000//9jrbvXTrdiILvVmnCMq+Q==", 
-  "publisher": "christopherholloway.net", 
+  "date": "2016-01-27T09:00:00", 
   "slug": 34644, 
+  "publisher": "christopherholloway.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Christopher Holloway", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160127T090000//9jrbvXTrdiILvVmnCMq+Q==", 
+  "scope": "root", 
   "start_date": "2016-01-27T09:00:00Z"
 }
 

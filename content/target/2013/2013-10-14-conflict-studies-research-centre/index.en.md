@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.conflictstudies.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Conflict Studies Research Centre", 
-  "record_id": "20131014T100000/NuZ+lKlHoAPynn07DBXrWw==", 
-  "publisher": "conflictstudies.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 66158693, 
+  "publisher": "conflictstudies.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Conflict Studies Research Centre", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/NuZ+lKlHoAPynn07DBXrWw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

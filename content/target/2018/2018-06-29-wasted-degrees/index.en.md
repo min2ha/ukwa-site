@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-29T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.wasteddegrees.com/", 
-  "description": "Site of a brewer located at Pitlochry, Perth & Kinross.", 
   "end_date": null, 
-  "title": "Wasted Degrees", 
-  "record_id": "20180629T090000/PRmo7i+XfXulZpxcFze+8A==", 
-  "publisher": "wasteddegrees.com", 
+  "date": "2018-06-29T09:00:00", 
   "slug": 68365, 
+  "publisher": "wasteddegrees.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wasted Degrees", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180629T090000/PRmo7i+XfXulZpxcFze+8A==", 
+  "scope": "root", 
   "start_date": "2018-06-29T09:00:00Z"
 }
 

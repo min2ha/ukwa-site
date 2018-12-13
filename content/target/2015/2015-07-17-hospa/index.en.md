@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hospa.org/", 
-  "description": "HOSPA is a not for profit educationally focused association helping hospitality\u2019s finance, revenue management and IT professionals develop their careers and network, as well as keep up-to-date with industry trends and developments. ", 
   "end_date": null, 
-  "title": "HOSPA", 
-  "record_id": "20150717T100000/WBxwKNWdmrJN4YJNQCXkMA==", 
-  "publisher": "hospa.org", 
+  "date": "2015-07-17T10:00:00", 
   "slug": 29197, 
+  "publisher": "hospa.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "HOSPA", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150717T100000/WBxwKNWdmrJN4YJNQCXkMA==", 
+  "scope": "root", 
   "start_date": "2015-07-17T10:00:00Z"
 }
 

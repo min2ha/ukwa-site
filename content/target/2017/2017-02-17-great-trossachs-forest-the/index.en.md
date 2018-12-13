@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.thegreattrossachsforest.co.uk/", 
-  "description": "The Great Trossachs Forest project was launched in 2009 by the Scottish Forest Alliance.", 
   "end_date": null, 
-  "title": "Great Trossachs Forest, The", 
-  "record_id": "20170217T090000/CEabkLPb+JddBUoWevs4SA==", 
-  "publisher": "thegreattrossachsforest.co.uk", 
+  "date": "2017-02-17T09:00:00", 
   "slug": 49497, 
+  "publisher": "thegreattrossachsforest.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Great Trossachs Forest, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170217T090000/CEabkLPb+JddBUoWevs4SA==", 
+  "scope": "root", 
   "start_date": "2017-02-17T09:00:00Z"
 }
 

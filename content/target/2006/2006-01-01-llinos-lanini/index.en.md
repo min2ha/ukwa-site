@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llinoslanini.com/", 
-  "description": "Llinos Lanini won the Photography Award at the \u2018Welsh Artist of the Year \u2018 2010 and was a finalist in 2009.", 
   "end_date": null, 
-  "title": "Llinos Lanini", 
-  "record_id": "20060101T120000/QndiTC6epliAIf1Sb+Ib+A==", 
-  "publisher": "llinoslanini.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 58090, 
+  "publisher": "llinoslanini.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llinos Lanini", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QndiTC6epliAIf1Sb+Ib+A==", 
+  "scope": "root", 
   "start_date": null
 }
 

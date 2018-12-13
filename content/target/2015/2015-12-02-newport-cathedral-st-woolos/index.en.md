@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-02T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.newportcathedral.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Newport Cathedral St Woolos", 
-  "record_id": "20151202T090000/55nHYqLZ9YmkaqbLtEmgkQ==", 
-  "publisher": "newportcathedral.org.uk", 
+  "date": "2015-12-02T09:00:00", 
   "slug": 33107, 
+  "publisher": "newportcathedral.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Newport Cathedral St Woolos", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151202T090000/55nHYqLZ9YmkaqbLtEmgkQ==", 
+  "scope": "root", 
   "start_date": "2015-12-02T09:00:00Z"
 }
 

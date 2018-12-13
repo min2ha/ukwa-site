@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://gwentyfc.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwent Young Farmers Club", 
-  "record_id": "20150812T100000/XhQTdEf0Kugs0zEF3H8jkg==", 
-  "publisher": "gwentyfc.co.uk", 
+  "date": "2015-08-12T10:00:00", 
   "slug": 29738, 
+  "publisher": "gwentyfc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwent Young Farmers Club", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150812T100000/XhQTdEf0Kugs0zEF3H8jkg==", 
+  "scope": "root", 
   "start_date": "2015-08-12T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.cramondassociation.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2015-10-07T10:00:00", 
   "slug": 31214, 
-  "subject": "Local History Societies ", 
   "publisher": "cramondassociation.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cramond Association", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1130, 
+      "name": "Local History Societies "
+    }
+  ], 
   "record_id": "20151007T100000/xSzsqU9jJcVDn8na7e+OdQ==", 
+  "scope": "root", 
   "start_date": "2015-10-07T10:00:00Z"
 }
 

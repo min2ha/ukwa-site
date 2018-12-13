@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "https://sites.google.com/site/jiscswani/home", 
-  "description": "", 
   "end_date": null, 
-  "title": "Secure Work-Based Learning Administration through Networked Infrastructure (SWANI)", 
-  "record_id": "20060101T120000/CcINmet2xc3ObWgME6mJzA==", 
-  "publisher": "google.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65994774, 
+  "publisher": "google.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Secure Work-Based Learning Administration through Networked Infrastructure (SWANI)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CcINmet2xc3ObWgME6mJzA==", 
+  "scope": "root", 
   "start_date": null
 }
 

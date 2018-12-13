@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://arceditions.com/", 
-  "description": "<p>Site of the book arts collective and publisher, featuring artists Victoria Bean, Karen Bleitz, and Sam Winston.</p>\n", 
   "end_date": null, 
-  "title": "Arc Editions", 
-  "record_id": "20060101T120000/CwbPCtp5GlM9D2HeOm6QQA==", 
-  "publisher": "arceditions.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 23855119, 
+  "publisher": "arceditions.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Arc Editions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CwbPCtp5GlM9D2HeOm6QQA==", 
+  "scope": "root", 
   "start_date": null
 }
 

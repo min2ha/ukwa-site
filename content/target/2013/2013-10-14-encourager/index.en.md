@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.encourager.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Encourager", 
-  "record_id": "20131014T100000/sYnDwCdgHTesz0kFcWFSig==", 
-  "publisher": "encourager.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 37060634, 
+  "publisher": "encourager.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Encourager", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/sYnDwCdgHTesz0kFcWFSig==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

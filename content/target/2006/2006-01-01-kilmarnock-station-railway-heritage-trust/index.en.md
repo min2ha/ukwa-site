@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://ksrht.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Kilmarnock Station Railway Heritage Trust", 
-  "record_id": "20060101T120000/w2nU4xEl+yvtuuoXe0h8DA==", 
-  "publisher": "ksrht.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 52941, 
+  "publisher": "ksrht.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kilmarnock Station Railway Heritage Trust", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/w2nU4xEl+yvtuuoXe0h8DA==", 
+  "scope": "root", 
   "start_date": null
 }
 

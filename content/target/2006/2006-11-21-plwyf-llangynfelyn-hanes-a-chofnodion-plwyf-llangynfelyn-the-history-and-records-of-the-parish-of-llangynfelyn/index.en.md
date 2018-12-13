@@ -1,13 +1,16 @@
 {
-  "date": "2006-11-21T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.llangynfelyn.org/hafan.html", 
-  "description": "", 
   "end_date": null, 
-  "title": "Plwyf Llangynfelyn: Hanes a chofnodion plwyf Llangynfelyn - The history and records of the parish of Llangynfelyn", 
-  "record_id": "20061121T000000/jYUzb9O43nccRDJKY2JcAQ==", 
-  "publisher": "llangynfelyn.org", 
+  "date": "2006-11-21T00:00:00", 
   "slug": 134497, 
+  "publisher": "llangynfelyn.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Plwyf Llangynfelyn: Hanes a chofnodion plwyf Llangynfelyn - The history and records of the parish of Llangynfelyn", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20061121T000000/jYUzb9O43nccRDJKY2JcAQ==", 
+  "scope": "root", 
   "start_date": "2006-11-21T00:00:00Z"
 }
 

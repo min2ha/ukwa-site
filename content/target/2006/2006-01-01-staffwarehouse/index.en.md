@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.staffwarehouse.biz/", 
-  "description": null, 
   "end_date": null, 
-  "title": "StaffWarehouse", 
-  "record_id": "20060101T120000/a7PfjtCWig8FoV+OfqSdRQ==", 
-  "publisher": "staffwarehouse.biz", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11800, 
+  "publisher": "staffwarehouse.biz", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "StaffWarehouse", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/a7PfjtCWig8FoV+OfqSdRQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

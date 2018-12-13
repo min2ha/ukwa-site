@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://imtiazdharker.com/", 
-  "description": "Imtiaz Dharker is a Pakistan-born British poet, artist and documentary film-maker and a Fellow of the Royal Society of Literature.", 
   "end_date": null, 
-  "title": "Imtiaz Dharker", 
-  "record_id": "20180127T090000/T7dvjC7AV4jc8qZG79JDwg==", 
-  "publisher": "imtiazdharker.com", 
+  "date": "2018-01-27T09:00:00", 
   "slug": 60554, 
+  "publisher": "imtiazdharker.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Imtiaz Dharker", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180127T090000/T7dvjC7AV4jc8qZG79JDwg==", 
+  "scope": "root", 
   "start_date": "2018-01-27T09:00:00Z"
 }
 

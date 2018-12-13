@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.castlewellancastle.org/", 
-  "description": "Castlewellan Castle is part of a group of centres known as Centre Ministries.", 
   "end_date": null, 
-  "title": "Castlewellan Castle ", 
-  "record_id": "20170310T090000/K0SzprlrQsCS+k4R/qaI2Q==", 
-  "publisher": "castlewellancastle.org", 
+  "date": "2017-03-10T09:00:00", 
   "slug": 50315, 
+  "publisher": "castlewellancastle.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Castlewellan Castle ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170310T090000/K0SzprlrQsCS+k4R/qaI2Q==", 
+  "scope": "root", 
   "start_date": "2017-03-10T09:00:00Z"
 }
 

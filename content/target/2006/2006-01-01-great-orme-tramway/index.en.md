@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.greatormetramway.co.uk/", 
-  "description": "<p>The Great Orme Tramway is Britain\u2019s only cable-hauled public road tramway and is in Llandudno.</p>\n", 
   "end_date": null, 
-  "title": "Great Orme Tramway", 
-  "record_id": "20060101T120000/4x2W/QActT6xMcLC0eG+Cw==", 
-  "publisher": "greatormetramway.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14427, 
+  "publisher": "greatormetramway.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Great Orme Tramway", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/4x2W/QActT6xMcLC0eG+Cw==", 
+  "scope": "root", 
   "start_date": null
 }
 

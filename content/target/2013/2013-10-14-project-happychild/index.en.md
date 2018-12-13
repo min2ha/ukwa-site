@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.happychild.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Project HappyChild", 
-  "record_id": "20131014T100000/TDXoJ+yTwulz0+syLPlt7Q==", 
-  "publisher": "happychild.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 64290946, 
+  "publisher": "happychild.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Project HappyChild", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/TDXoJ+yTwulz0+syLPlt7Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

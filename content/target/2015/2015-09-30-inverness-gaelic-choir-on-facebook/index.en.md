@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-30T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/Inverness.Gaelic.Choir/", 
-  "description": "", 
   "end_date": "2015-10-31T00:00:00Z", 
-  "title": "Inverness Gaelic Choir on Facebook", 
-  "record_id": "20150930T100000/tDxVR54gEk9MXi4Y9emWjw==", 
-  "publisher": "facebook.com", 
+  "date": "2015-09-30T10:00:00", 
   "slug": 31028, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Inverness Gaelic Choir on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150930T100000/tDxVR54gEk9MXi4Y9emWjw==", 
+  "scope": "root", 
   "start_date": "2015-09-30T10:00:00Z"
 }
 

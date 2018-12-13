@@ -1,13 +1,16 @@
 {
-  "date": "2014-01-14T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.caerleonlabourparty.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Caerleon Labour Party", 
-  "record_id": "20140114T000000/eEcPTbg8vzaa9m+x4Klaaw==", 
-  "publisher": "caerleonlabourparty.com", 
+  "date": "2014-01-14T00:00:00", 
   "slug": 218955796, 
+  "publisher": "caerleonlabourparty.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Caerleon Labour Party", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140114T000000/eEcPTbg8vzaa9m+x4Klaaw==", 
+  "scope": "root", 
   "start_date": "2014-01-14T00:00:00Z"
 }
 

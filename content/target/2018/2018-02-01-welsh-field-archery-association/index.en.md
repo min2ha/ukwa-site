@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wfaa-archery.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Field Archery Association", 
-  "record_id": "20180201T090000/G9e5ZXuWZGwpQ5GZmIqobw==", 
-  "publisher": "wfaa-archery.co.uk", 
+  "date": "2018-02-01T09:00:00", 
   "slug": 60721, 
+  "publisher": "wfaa-archery.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Field Archery Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180201T090000/G9e5ZXuWZGwpQ5GZmIqobw==", 
+  "scope": "root", 
   "start_date": "2018-02-01T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-01T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.saramoorhouse.com/", 
-  "description": "Welsh ceramic artist.", 
   "end_date": null, 
-  "title": "Sara Moorhouse", 
-  "record_id": "20150601T090000/Q3AyrRD1rzYxqt45vmYBdw==", 
-  "publisher": "saramoorhouse.com", 
+  "date": "2015-06-01T09:00:00", 
   "slug": 293863555, 
+  "publisher": "saramoorhouse.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Sara Moorhouse", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150601T090000/Q3AyrRD1rzYxqt45vmYBdw==", 
+  "scope": "root", 
   "start_date": "2015-06-01T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.hull4x4.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Hull 4x4 Club", 
-  "record_id": "20060101T120000/RmX5ojBTmIZTt4hYuVI1Bw==", 
-  "publisher": "hull4x4.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59113566, 
+  "publisher": "hull4x4.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Hull 4x4 Club", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/RmX5ojBTmIZTt4hYuVI1Bw==", 
+  "scope": "root", 
   "start_date": null
 }
 

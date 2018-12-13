@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.awenmedia.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "AWEN", 
-  "record_id": "20060101T120000/kotPa+Dmh8ee7dhIR7PcOg==", 
-  "publisher": "awenmedia.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 140680, 
+  "publisher": "awenmedia.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "AWEN", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/kotPa+Dmh8ee7dhIR7PcOg==", 
+  "scope": "root", 
   "start_date": null
 }
 

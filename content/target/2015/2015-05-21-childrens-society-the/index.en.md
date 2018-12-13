@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.childrenssociety.org.uk/", 
-  "description": "The Children's Society is an English charity allied to the Church of England and driven by a belief that all children deserve a good childhood. It was founded by Edward Rudolf in 1881.", 
   "end_date": null, 
-  "title": "Children's Society, The", 
-  "record_id": "20150521T090000/o16XAhbN6vMfLZVn22qc+w==", 
-  "publisher": "childrenssociety.org.uk", 
+  "date": "2015-05-21T09:00:00", 
   "slug": 119805, 
+  "publisher": "childrenssociety.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Children's Society, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150521T090000/o16XAhbN6vMfLZVn22qc+w==", 
+  "scope": "root", 
   "start_date": "2015-05-21T09:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://history.powys.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Treftadaeth Powys ar-lein - Powys Heritage online", 
-  "record_id": "20060101T120000/LfDWaTbY75uhR+ext20OiQ==", 
-  "publisher": "powys.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 129204, 
+  "publisher": "powys.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Treftadaeth Powys ar-lein - Powys Heritage online", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/LfDWaTbY75uhR+ext20OiQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

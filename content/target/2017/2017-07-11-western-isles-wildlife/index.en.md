@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.western-isles-wildlife.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Western Isles Wildlife", 
-  "record_id": "20170711T090000/f96U+AEMRFAD6Qxo7314Ug==", 
-  "publisher": "western-isles-wildlife.com", 
+  "date": "2017-07-11T09:00:00", 
   "slug": 55627, 
+  "publisher": "western-isles-wildlife.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Western Isles Wildlife", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170711T090000/f96U+AEMRFAD6Qxo7314Ug==", 
+  "scope": "root", 
   "start_date": "2017-07-11T09:00:00Z"
 }
 

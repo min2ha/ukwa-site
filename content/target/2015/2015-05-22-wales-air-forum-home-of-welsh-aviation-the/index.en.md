@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-22T10:00:00", 
-  "open_access": false, 
   "target_url": "http://walesairforum.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wales Air Forum: Home of Welsh Aviation, The", 
-  "record_id": "20150522T100000/0ZuXVIgYlxoHI2UxmHqTHw==", 
-  "publisher": "walesairforum.co.uk", 
+  "date": "2015-05-22T10:00:00", 
   "slug": 26794, 
+  "publisher": "walesairforum.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Wales Air Forum: Home of Welsh Aviation, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150522T100000/0ZuXVIgYlxoHI2UxmHqTHw==", 
+  "scope": "root", 
   "start_date": "2015-05-22T10:00:00Z"
 }
 

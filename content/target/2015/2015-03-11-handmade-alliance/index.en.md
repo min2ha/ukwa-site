@@ -1,13 +1,21 @@
 {
-  "date": "2015-03-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://handmadealliance.org/", 
-  "description": "Handmade Alliance provides a learning programme in textiles, merchandising and retail for prisoners during imprisonment, and a period of work experience/employment on release.", 
   "end_date": null, 
-  "title": "Handmade Alliance", 
-  "record_id": "20150311T090000/Se9V7+97l5/m/DGZ/zVvkQ==", 
-  "publisher": "handmadealliance.org", 
+  "date": "2015-03-11T09:00:00", 
   "slug": 17883, 
+  "publisher": "handmadealliance.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Handmade Alliance", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150311T090000/Se9V7+97l5/m/DGZ/zVvkQ==", 
+  "scope": "root", 
   "start_date": "2015-03-11T09:00:00Z"
 }
 

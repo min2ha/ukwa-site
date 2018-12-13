@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffbats.org.uk/", 
-  "description": "This is a Bat Conversion area for the Cardiff area.", 
   "end_date": null, 
-  "title": "Cardiff Bat Group | Grwp Ystumlod Caerdydd", 
-  "record_id": "20060101T120000/APnrWuxV5zkw/qL2znANYA==", 
-  "publisher": "cardiffbats.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59122, 
+  "publisher": "cardiffbats.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Bat Group | Grwp Ystumlod Caerdydd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/APnrWuxV5zkw/qL2znANYA==", 
+  "scope": "root", 
   "start_date": null
 }
 

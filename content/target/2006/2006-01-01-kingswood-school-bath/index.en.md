@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.kingswood.bath.sch.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 9122, 
-  "subject": "Religion/Theology", 
   "publisher": "kingswood.bath.sch.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Kingswood School Bath", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/5zf4T+QJ9lKppe6hjK/SPw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://grapevineeventmanagement.co.uk/", 
-  "description": "A UK based event management company.", 
   "end_date": null, 
-  "title": "Grapevine Event Management ", 
-  "record_id": "20170725T090000/lNNY/pIVlD/a7J6WSWBWKw==", 
-  "publisher": "grapevineeventmanagement.co.uk", 
+  "date": "2017-07-25T09:00:00", 
   "slug": 56107, 
+  "publisher": "grapevineeventmanagement.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Grapevine Event Management ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170725T090000/lNNY/pIVlD/a7J6WSWBWKw==", 
+  "scope": "root", 
   "start_date": "2017-07-25T09:00:00Z"
 }
 

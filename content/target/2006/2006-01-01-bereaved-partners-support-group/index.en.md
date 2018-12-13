@@ -1,14 +1,26 @@
 {
   "target_url": "http://bereavedpartnerssupportgroup.com/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 66158676, 
-  "subject": "Personal Experiences of Illness", 
   "publisher": "bereavedpartnerssupportgroup.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Bereaved Partners Support Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2443, 
+      "name": "Personal Experiences of Illness"
+    }
+  ], 
   "record_id": "20060101T120000/+6NSvZsbWvLwaESfCaDfuQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

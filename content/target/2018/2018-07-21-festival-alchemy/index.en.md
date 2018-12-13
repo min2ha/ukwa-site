@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.southbankcentre.co.uk/whats-on/festivals-series/alchemy", 
-  "description": "celebrates the exchange of ideas and cultural connections between South Asia and the UK with a programme of dance, comedy, music and literature.", 
   "end_date": null, 
   "date": "2018-07-21T09:00:00", 
   "slug": 69217, 
-  "subject": null, 
   "publisher": "southbankcentre.co.uk", 
   "open_access": true, 
+  "npld": true, 
   "title": "Festival Alchemy", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180721T090000/hZQz75+vUtwOR7qOuAH7TA==", 
+  "scope": "root", 
   "start_date": "2018-07-21T09:00:00Z"
 }
 

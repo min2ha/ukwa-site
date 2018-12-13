@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-31T09:00:00", 
-  "open_access": false, 
   "target_url": "http://familiasglasgow.blogspot.co.uk/", 
-  "description": "A group of Spanish-speaking families in Glasgow. This group provides opporunities for children and parents to make friends and network within the community. ", 
   "end_date": null, 
-  "title": "Familias en Glasgow", 
-  "record_id": "20170331T090000/dzPGgXLcV93tzx8YznqSPA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2017-03-31T09:00:00", 
   "slug": 51541, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Familias en Glasgow", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170331T090000/dzPGgXLcV93tzx8YznqSPA==", 
+  "scope": "root", 
   "start_date": "2017-03-31T09:00:00Z"
 }
 

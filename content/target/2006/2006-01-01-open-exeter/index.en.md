@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://as.exeter.ac.uk/support/educationenhancementprojects/openexeter/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Open Exeter", 
-  "record_id": "20060101T120000/aeeUkA0oZjKAoAb6B1rQlg==", 
-  "publisher": "exeter.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32145473, 
+  "publisher": "exeter.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Open Exeter", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/aeeUkA0oZjKAoAb6B1rQlg==", 
+  "scope": "root", 
   "start_date": null
 }
 

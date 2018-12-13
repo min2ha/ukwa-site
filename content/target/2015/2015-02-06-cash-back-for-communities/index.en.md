@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cashbackforcommunities.org", 
-  "description": null, 
   "end_date": null, 
-  "title": "Cash Back for Communities", 
-  "record_id": "20150206T060000/ZIFHaFd+ndmqsXOaNkEeXA==", 
-  "publisher": "cashbackforcommunities.org", 
+  "date": "2015-02-06T06:00:00", 
   "slug": 16743, 
+  "publisher": "cashbackforcommunities.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cash Back for Communities", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150206T060000/ZIFHaFd+ndmqsXOaNkEeXA==", 
+  "scope": "root", 
   "start_date": "2015-02-06T06:00:00Z"
 }
 

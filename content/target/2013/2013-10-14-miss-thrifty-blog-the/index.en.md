@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.miss-thrifty.co.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 59113559, 
-  "subject": "Blogs", 
   "publisher": "miss-thrifty.co.uk", 
   "open_access": true, 
+  "npld": true, 
   "title": "Miss Thrifty Blog, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }
+  ], 
   "record_id": "20131014T100000/+cO6e9CnZmLxtk2Zt1zHbw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

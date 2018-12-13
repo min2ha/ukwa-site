@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-13T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cyngorllangeithocouncil.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llangeitho Community Council", 
-  "record_id": "20160713T100000/F20DdG06CzW2hrhWu+OGiQ==", 
-  "publisher": "cyngorllangeithocouncil.org.uk", 
+  "date": "2016-07-13T10:00:00", 
   "slug": 44265, 
+  "publisher": "cyngorllangeithocouncil.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Llangeitho Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160713T100000/F20DdG06CzW2hrhWu+OGiQ==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

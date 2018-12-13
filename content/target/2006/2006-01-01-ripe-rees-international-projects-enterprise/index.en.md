@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://r-i-p-e.co.uk/", 
-  "description": "R.I.P.E (Rees International Projects Enterprise) is the work of Marc Rees is one of Wales\u2019s leading exponents of contemporary performance and installation.", 
   "end_date": null, 
-  "title": "R.I.P.E (Rees International Projects Enterprise)", 
-  "record_id": "20060101T120000/FGzleBWiVVsDd2hMzWIVRQ==", 
-  "publisher": "r-i-p-e.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 54847, 
+  "publisher": "r-i-p-e.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "R.I.P.E (Rees International Projects Enterprise)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FGzleBWiVVsDd2hMzWIVRQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

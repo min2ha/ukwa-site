@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-13T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.aias.us/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Alpha Institute for Advanced Studies (AIAS)", 
-  "record_id": "20160913T100000/1RRQMhFA9eA5ym8/WnKIGw==", 
-  "publisher": "aias.us", 
+  "date": "2016-09-13T10:00:00", 
   "slug": 45332, 
+  "publisher": "aias.us", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Alpha Institute for Advanced Studies (AIAS)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160913T100000/1RRQMhFA9eA5ym8/WnKIGw==", 
+  "scope": "root", 
   "start_date": "2016-09-13T10:00:00Z"
 }
 

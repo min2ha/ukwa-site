@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://rhoscolyn.com/", 
-  "description": "Rhoscolyn community website has been developed to serve the local community of Rhoscolyn and Four Mile Bridge.", 
   "end_date": null, 
-  "title": "Rhoscolyn community website", 
-  "record_id": "20170325T090000/rLJsp4AsKlBCHx11sQvMuw==", 
-  "publisher": "rhoscolyn.com", 
+  "date": "2017-03-25T09:00:00", 
   "slug": 51237, 
+  "publisher": "rhoscolyn.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rhoscolyn community website", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170325T090000/rLJsp4AsKlBCHx11sQvMuw==", 
+  "scope": "root", 
   "start_date": "2017-03-25T09:00:00Z"
 }
 

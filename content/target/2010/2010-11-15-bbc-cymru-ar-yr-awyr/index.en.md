@@ -1,13 +1,16 @@
 {
-  "date": "2010-11-15T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/cymru/cymruaryrawyr/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC - Cymru Ar Yr Awyr", 
-  "record_id": "20101115T000000/wgcoptCdO/wCoz6wL5DUZA==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2010-11-15T00:00:00", 
   "slug": 57344087, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC - Cymru Ar Yr Awyr", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20101115T000000/wgcoptCdO/wCoz6wL5DUZA==", 
+  "scope": "root", 
   "start_date": "2010-11-15T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.abergavennyboroughband.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Abergavenny Borough Band", 
-  "record_id": "20161013T100000/4UfUlMrs/JQdgppTfHCZoQ==", 
-  "publisher": "abergavennyboroughband.org.uk", 
+  "date": "2016-10-13T10:00:00", 
   "slug": 46198, 
+  "publisher": "abergavennyboroughband.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Abergavenny Borough Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161013T100000/4UfUlMrs/JQdgppTfHCZoQ==", 
+  "scope": "root", 
   "start_date": "2016-10-13T10:00:00Z"
 }
 

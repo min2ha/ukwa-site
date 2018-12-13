@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiganwelshcorgiassoc.co.uk/", 
-  "description": "The Cardigan Welsh Corgi Association is the only Club in the UK which is devoted solely to the interests of the Cardigan Welsh Corgi.", 
   "end_date": null, 
-  "title": "Cardigan Welsh Corgi Association", 
-  "record_id": "20180502T090000/qW61yZ3v+8mQYdpI0xOgWA==", 
-  "publisher": "cardiganwelshcorgiassoc.co.uk", 
+  "date": "2018-05-02T09:00:00", 
   "slug": 65070, 
+  "publisher": "cardiganwelshcorgiassoc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardigan Welsh Corgi Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180502T090000/qW61yZ3v+8mQYdpI0xOgWA==", 
+  "scope": "root", 
   "start_date": "2018-05-02T09:00:00Z"
 }
 

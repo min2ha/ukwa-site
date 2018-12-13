@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dorsetinthegreatwar.co.uk/", 
-  "description": "An online memorial and information site about the county of Dorset and the men and women who served and died during WW1. ", 
   "end_date": null, 
-  "title": "Dorset In The Great War", 
-  "record_id": "20060101T120000/HE8PjOU+mYfnEf8f3d3rDg==", 
-  "publisher": "dorsetinthegreatwar.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62017, 
+  "publisher": "dorsetinthegreatwar.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dorset In The Great War", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HE8PjOU+mYfnEf8f3d3rDg==", 
+  "scope": "root", 
   "start_date": null
 }
 

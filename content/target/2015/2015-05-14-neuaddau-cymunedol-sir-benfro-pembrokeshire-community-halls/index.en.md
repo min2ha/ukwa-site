@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-14T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pembrokeshirehalls.org.uk/", 
-  "description": "Directory of Pembrokeshire Halls.", 
   "end_date": null, 
-  "title": "Neuaddau Cymunedol Sir Benfro | Pembrokeshire Community Halls", 
-  "record_id": "20150514T080000/yHdRyvoV0Xt7SOdCNqqEhA==", 
-  "publisher": "pembrokeshirehalls.org.uk", 
+  "date": "2015-05-14T08:00:00", 
   "slug": 23846, 
+  "publisher": "pembrokeshirehalls.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Neuaddau Cymunedol Sir Benfro | Pembrokeshire Community Halls", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150514T080000/yHdRyvoV0Xt7SOdCNqqEhA==", 
+  "scope": "root", 
   "start_date": "2015-05-14T08:00:00Z"
 }
 

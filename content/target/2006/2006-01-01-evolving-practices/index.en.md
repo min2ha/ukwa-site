@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.evolvingpractice.org/", 
-  "description": "Evolving Practice was the Scottish Health Council\u2019s website for recording and sharing case studies. See also: http://www.scottishhealthcouncil.org/\ncase studies,", 
   "end_date": null, 
-  "title": "Evolving Practices", 
-  "record_id": "20060101T120000/3+Nxmz56XGlr2zowpMY/xA==", 
-  "publisher": "evolvingpractice.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 71996, 
+  "publisher": "evolvingpractice.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Evolving Practices", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/3+Nxmz56XGlr2zowpMY/xA==", 
+  "scope": "root", 
   "start_date": null
 }
 

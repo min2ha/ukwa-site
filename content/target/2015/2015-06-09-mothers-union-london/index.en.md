@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://mothersunion-london.org.uk/", 
-  "description": "Mothers' Union is an international Christian charity that seeks to support families of all faiths and none through practical outreach, prayer and advocating family friendly policies within both government and public life. ", 
   "end_date": null, 
-  "title": "Mothers' Union London", 
-  "record_id": "20150609T090000/hz5k8oz1iJCMT+ozQ2rYtg==", 
-  "publisher": "mothersunion-london.org.uk", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27395, 
+  "publisher": "mothersunion-london.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mothers' Union London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/hz5k8oz1iJCMT+ozQ2rYtg==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

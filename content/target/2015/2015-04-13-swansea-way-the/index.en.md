@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.theswanseaway.co.uk/", 
-  "description": "News, opinion and history of Swansea city football club.", 
   "end_date": null, 
-  "title": "Swansea Way, The", 
-  "record_id": "20150413T090000/9I5eCxM8GeYOF8jGJ7/hxw==", 
-  "publisher": "theswanseaway.co.uk", 
+  "date": "2015-04-13T09:00:00", 
   "slug": 21777, 
+  "publisher": "theswanseaway.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Way, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150413T090000/9I5eCxM8GeYOF8jGJ7/hxw==", 
+  "scope": "root", 
   "start_date": "2015-04-13T09:00:00Z"
 }
 

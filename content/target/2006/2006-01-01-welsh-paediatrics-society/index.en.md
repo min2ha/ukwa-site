@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.welshpaediatrics.org.uk/", 
-  "description": "<p>The society represents paediatrics in Wales.</p>\n", 
   "end_date": null, 
-  "title": "Welsh Paediatrics Society", 
-  "record_id": "20060101T120000/ySGaz75c6TXzQjvafCQ3Fg==", 
-  "publisher": "welshpaediatrics.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 277413947, 
+  "publisher": "welshpaediatrics.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Welsh Paediatrics Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ySGaz75c6TXzQjvafCQ3Fg==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.cushnie-tough.co.uk/", 
-  "description": "Site of two Church of Scotland parish churches at Tough and Leochel-Cushnie, Aberdeenshire.", 
   "end_date": null, 
   "date": "2018-03-15T09:00:00", 
   "slug": 62693, 
-  "subject": "Religion/Theology", 
   "publisher": "cushnie-tough.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cushnie & Tough Parish", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180315T090000/AuqUPEk7IDUNYltsfpivfA==", 
+  "scope": "root", 
   "start_date": "2018-03-15T09:00:00Z"
 }
 

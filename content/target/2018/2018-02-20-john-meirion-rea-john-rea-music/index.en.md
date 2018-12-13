@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.johnreamusic.com/john-meirion-rea/", 
-  "description": "John Meirion Rea is a composer, whose varied work encompasses film and television scores, concert platform commissions, and music theatre. He has received two BAFTA Awards.", 
   "end_date": null, 
-  "title": "John Meirion Rea - John Rea Music", 
-  "record_id": "20180220T090000/AAR8xttYFWG5mc6RHQd4kA==", 
-  "publisher": "johnreamusic.com", 
+  "date": "2018-02-20T09:00:00", 
   "slug": 61448, 
+  "publisher": "johnreamusic.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "John Meirion Rea - John Rea Music", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180220T090000/AAR8xttYFWG5mc6RHQd4kA==", 
+  "scope": "root", 
   "start_date": "2018-02-20T09:00:00Z"
 }
 

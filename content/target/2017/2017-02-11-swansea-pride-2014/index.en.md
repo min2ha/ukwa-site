@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swanseapride.com/", 
-  "description": "Swansea Pride was held at Singleton Park, Swansea in 2014.", 
   "end_date": "2017-03-04T00:00:00Z", 
-  "title": "Swansea Pride 2014", 
-  "record_id": "20170211T090000/xepkkpZUVN8nlb/iWjhnSw==", 
-  "publisher": "swanseapride.com", 
+  "date": "2017-02-11T09:00:00", 
   "slug": 49267, 
+  "publisher": "swanseapride.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Pride 2014", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170211T090000/xepkkpZUVN8nlb/iWjhnSw==", 
+  "scope": "root", 
   "start_date": "2017-02-11T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gwylfwydcaernarfon.cymru/", 
-  "description": "", 
   "end_date": null, 
-  "title": "G\u0175yl Fwyd Caernarfon | Caerrnarfon Food Festival", 
-  "record_id": "20160210T090000/ejvOFn9sxtmJIMCLA7GoKA==", 
-  "publisher": "gwylfwydcaernarfon.cymru", 
+  "date": "2016-02-10T09:00:00", 
   "slug": 35083, 
+  "publisher": "gwylfwydcaernarfon.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "G\u0175yl Fwyd Caernarfon | Caerrnarfon Food Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160210T090000/ejvOFn9sxtmJIMCLA7GoKA==", 
+  "scope": "root", 
   "start_date": "2016-02-10T09:00:00Z"
 }
 

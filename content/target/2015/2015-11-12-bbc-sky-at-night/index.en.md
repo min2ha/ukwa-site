@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.skyatnightmagazine.com/", 
-  "description": "Online version of the BBC Sky at Night magazine dedicated to astronomy.", 
   "end_date": null, 
-  "title": "BBC Sky at Night ", 
-  "record_id": "20151112T090000/aUHkbFCOBl8GaVnBwo0/Ww==", 
-  "publisher": "skyatnightmagazine.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32459, 
+  "publisher": "skyatnightmagazine.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "BBC Sky at Night ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/aUHkbFCOBl8GaVnBwo0/Ww==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

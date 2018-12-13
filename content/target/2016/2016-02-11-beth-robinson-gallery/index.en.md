@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-11T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bethrobinson.co.uk/", 
-  "description": "Beth Robinson is a Pembrokeshire based artist.", 
   "end_date": null, 
-  "title": "Beth Robinson Gallery", 
-  "record_id": "20160211T090000/Fp6aqAGXf9CD7noRnjoAjg==", 
-  "publisher": "bethrobinson.co.uk", 
+  "date": "2016-02-11T09:00:00", 
   "slug": 35116, 
+  "publisher": "bethrobinson.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Beth Robinson Gallery", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160211T090000/Fp6aqAGXf9CD7noRnjoAjg==", 
+  "scope": "root", 
   "start_date": "2016-02-11T09:00:00Z"
 }
 

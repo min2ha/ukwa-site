@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-07T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alexsalmond.scot/press-releases/2016/7/6/snp-statement-on-the-chilcot-report-iraq-inquiry", 
-  "description": "The SNP's view of Chilcot Report", 
   "end_date": "2016-07-10T01:00:00Z", 
-  "title": "Scottish Nationalist Party Statements on the Chilcot Report", 
-  "record_id": "20160707T100000/MiafXgm9RItwK4T34NTS3g==", 
-  "publisher": "alexsalmond.scot", 
+  "date": "2016-07-07T10:00:00", 
   "slug": 44139, 
+  "publisher": "alexsalmond.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Nationalist Party Statements on the Chilcot Report", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160707T100000/MiafXgm9RItwK4T34NTS3g==", 
+  "scope": "subdomains", 
   "start_date": "2016-07-07T10:00:00Z"
 }
 

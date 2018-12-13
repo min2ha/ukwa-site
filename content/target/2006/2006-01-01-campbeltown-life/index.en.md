@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dkeith.clara.co.uk/campbeltownlife/index.html", 
-  "description": "Site detailing the personal childhood reminiscences of Donald Keith who grew up in Campbeltown, Argyll & Bute, Scotland.", 
   "end_date": null, 
-  "title": "Campbeltown Life", 
-  "record_id": "20060101T120000/Bjgg+naC/mNVIv87cmRm9w==", 
-  "publisher": "clara.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 40973, 
+  "publisher": "clara.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Campbeltown Life", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Bjgg+naC/mNVIv87cmRm9w==", 
+  "scope": "root", 
   "start_date": null
 }
 

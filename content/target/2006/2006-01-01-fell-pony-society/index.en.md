@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.fellponysociety.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fell Pony Society", 
-  "record_id": "20060101T120000/W6VHILj3wteSRZKGN3cloA==", 
-  "publisher": "fellponysociety.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 61538363, 
+  "publisher": "fellponysociety.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fell Pony Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/W6VHILj3wteSRZKGN3cloA==", 
+  "scope": "root", 
   "start_date": null
 }
 

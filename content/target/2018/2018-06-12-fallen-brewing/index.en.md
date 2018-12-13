@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.fallenbrewing.co.uk/", 
-  "description": "Site of a brewer located at Stirling.", 
   "end_date": null, 
-  "title": "Fallen Brewing", 
-  "record_id": "20180612T090000/9kIl+Ei9F9sMwjUZuotIwQ==", 
-  "publisher": "fallenbrewing.co.uk", 
+  "date": "2018-06-12T09:00:00", 
   "slug": 67092, 
+  "publisher": "fallenbrewing.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fallen Brewing", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180612T090000/9kIl+Ei9F9sMwjUZuotIwQ==", 
+  "scope": "root", 
   "start_date": "2018-06-12T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.valleysbatgroup.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Valleys Bat Group", 
-  "record_id": "20160503T100000/q06fSRptgcYh3WbtwI0w7Q==", 
-  "publisher": "valleysbatgroup.org.uk", 
+  "date": "2016-05-03T10:00:00", 
   "slug": 40311, 
+  "publisher": "valleysbatgroup.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Valleys Bat Group", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160503T100000/q06fSRptgcYh3WbtwI0w7Q==", 
+  "scope": "root", 
   "start_date": "2016-05-03T10:00:00Z"
 }
 

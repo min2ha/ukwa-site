@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.slycooking.com/", 
-  "description": "Catr\u00econa Black illustrated forty two words in her book \"Sly Cooking\", chosen from \"Gaelic Words and Expressions from South Uist and Eriskay\" published by John Lorne Campbell. This site outlines the book, related work and includes recordings of each word.", 
   "end_date": null, 
-  "title": "Sly Cooking", 
-  "record_id": "20180509T090000/B2whjRNfX5ln2Y8XvEzPMg==", 
-  "publisher": "slycooking.com", 
+  "date": "2018-05-09T09:00:00", 
   "slug": 65283, 
+  "publisher": "slycooking.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sly Cooking", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180509T090000/B2whjRNfX5ln2Y8XvEzPMg==", 
+  "scope": "root", 
   "start_date": "2018-05-09T09:00:00Z"
 }
 

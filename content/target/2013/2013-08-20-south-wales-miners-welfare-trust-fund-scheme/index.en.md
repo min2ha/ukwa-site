@@ -1,13 +1,16 @@
 {
-  "date": "2013-08-20T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ciswo-services.org.uk/swamp/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Miners' Welfare Trust Fund Scheme", 
-  "record_id": "20130820T000000/k45wdzMDNfjXulhP2jiN4g==", 
-  "publisher": "ciswo-services.org.uk", 
+  "date": "2013-08-20T00:00:00", 
   "slug": 184647697, 
+  "publisher": "ciswo-services.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "South Wales Miners' Welfare Trust Fund Scheme", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130820T000000/k45wdzMDNfjXulhP2jiN4g==", 
+  "scope": "root", 
   "start_date": "2013-08-20T00:00:00Z"
 }
 

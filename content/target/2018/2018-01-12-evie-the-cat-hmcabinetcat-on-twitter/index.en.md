@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/HMCabinetCat/", 
-  "description": "A satirical political account commenting on UK current affairs through a cat based at Whitehall, London", 
   "end_date": null, 
-  "title": "Evie the Cat (@HMCabinetCat) on Twitter", 
-  "record_id": "20180112T090000/Hibb4FjfoCKzHugiUnSVVg==", 
-  "publisher": "twitter.com", 
+  "date": "2018-01-12T09:00:00", 
   "slug": 60229, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Evie the Cat (@HMCabinetCat) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180112T090000/Hibb4FjfoCKzHugiUnSVVg==", 
+  "scope": "root", 
   "start_date": "2018-01-12T09:00:00Z"
 }
 

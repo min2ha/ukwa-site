@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.thelighthouse.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Lighthouse : Scotland's centre for architecture, design and the city", 
-  "record_id": "20060101T120000/HryDbHoiuoqlbwRpk0/L3A==", 
-  "publisher": "thelighthouse.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101714, 
+  "publisher": "thelighthouse.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Lighthouse : Scotland's centre for architecture, design and the city", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HryDbHoiuoqlbwRpk0/L3A==", 
+  "scope": "root", 
   "start_date": null
 }
 

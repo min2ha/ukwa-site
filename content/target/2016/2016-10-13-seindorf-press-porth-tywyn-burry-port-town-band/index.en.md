@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.burryporttownband.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Seindorf Press Porth Tywyn | Burry Port Town Band", 
-  "record_id": "20161013T100000/TfPoJmcdD2AeLwAAMbAtMw==", 
-  "publisher": "burryporttownband.co.uk", 
+  "date": "2016-10-13T10:00:00", 
   "slug": 46199, 
+  "publisher": "burryporttownband.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Seindorf Press Porth Tywyn | Burry Port Town Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161013T100000/TfPoJmcdD2AeLwAAMbAtMw==", 
+  "scope": "root", 
   "start_date": "2016-10-13T10:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2009-01-15T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cristnogaeth21.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cristnogaeth 21", 
-  "record_id": "20090115T000000/krq36oU6DmeuVe//zIgtdw==", 
-  "publisher": "cristnogaeth21.org", 
+  "date": "2009-01-15T00:00:00", 
   "slug": 26312749, 
+  "publisher": "cristnogaeth21.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Cristnogaeth 21", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20090115T000000/krq36oU6DmeuVe//zIgtdw==", 
+  "scope": "root", 
   "start_date": "2009-01-15T00:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.jec.ac.uk/about-us/current-projects/sweet", 
-  "description": "", 
   "end_date": null, 
-  "title": "Synchronous Web Enabled Employee Training (SWEET)", 
-  "record_id": "20060101T120000/oOJhGTscAzr0ofyqMfYyZw==", 
-  "publisher": "jec.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 87457815, 
+  "publisher": "jec.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Synchronous Web Enabled Employee Training (SWEET)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/oOJhGTscAzr0ofyqMfYyZw==", 
+  "scope": "root", 
   "start_date": null
 }
 

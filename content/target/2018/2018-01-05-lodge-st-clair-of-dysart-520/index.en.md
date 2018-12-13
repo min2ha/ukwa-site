@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://dysart520.org.uk/", 
-  "description": "Site of a masonic lodge located in Dysart, Fife and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "Lodge St. Clair of Dysart 520", 
-  "record_id": "20180105T090000/ej6y/I8rp3mdReUv5kqDWA==", 
-  "publisher": "dysart520.org.uk", 
+  "date": "2018-01-05T09:00:00", 
   "slug": 60052, 
+  "publisher": "dysart520.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge St. Clair of Dysart 520", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180105T090000/ej6y/I8rp3mdReUv5kqDWA==", 
+  "scope": "root", 
   "start_date": "2018-01-05T09:00:00Z"
 }
 

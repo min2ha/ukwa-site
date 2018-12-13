@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.publications.scot.nhs.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scotlands Health On the Web (SHOW) - Publications", 
-  "record_id": "20181003T090000/gg6cOO271/+jEVXinyFTsw==", 
-  "publisher": "scot.nhs.uk", 
+  "date": "2018-10-03T09:00:00", 
   "slug": 72004, 
+  "publisher": "scot.nhs.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scotlands Health On the Web (SHOW) - Publications", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181003T090000/gg6cOO271/+jEVXinyFTsw==", 
+  "scope": "root", 
   "start_date": "2018-10-03T09:00:00Z"
 }
 

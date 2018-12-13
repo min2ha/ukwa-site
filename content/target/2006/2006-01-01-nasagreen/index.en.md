@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://nasagreen.blogspot.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Nasagreen", 
-  "record_id": "20060101T120000/NtpP5kyT1z5hHu6I9ojvMA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13260, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nasagreen", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NtpP5kyT1z5hHu6I9ojvMA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.villagepumps.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Village Pumps", 
-  "record_id": "20131014T100000/ZzionWUPTtUPOsUvLgG7dw==", 
-  "publisher": "villagepumps.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60293285, 
+  "publisher": "villagepumps.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Village Pumps", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ZzionWUPTtUPOsUvLgG7dw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

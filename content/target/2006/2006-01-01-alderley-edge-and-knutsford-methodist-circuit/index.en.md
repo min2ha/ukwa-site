@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.aeandkcircuit.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Alderley Edge and Knutsford Methodist Circuit", 
-  "record_id": "20060101T120000/ZoL9K+RR7N6vo7lm/+CjAQ==", 
-  "publisher": "aeandkcircuit.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12902, 
+  "publisher": "aeandkcircuit.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alderley Edge and Knutsford Methodist Circuit", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ZoL9K+RR7N6vo7lm/+CjAQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

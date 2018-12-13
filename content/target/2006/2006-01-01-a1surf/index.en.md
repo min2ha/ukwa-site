@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.a1surf.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "A1Surf", 
-  "record_id": "20060101T120000/RIIeyaMhb4M/ZeL9/EZk9Q==", 
-  "publisher": "a1surf.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13066, 
+  "publisher": "a1surf.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "A1Surf", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/RIIeyaMhb4M/ZeL9/EZk9Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

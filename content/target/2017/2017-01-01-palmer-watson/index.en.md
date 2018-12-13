@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://palmerwatson.com/", 
-  "description": "Editorial consultancy based in Edinburgh.", 
   "end_date": null, 
-  "title": "Palmer Watson", 
-  "record_id": "20170101T120000/OHIla4s71t7J0/HAoJcIAg==", 
-  "publisher": "palmerwatson.com", 
+  "date": "2017-01-01T12:00:00", 
   "slug": 47740, 
+  "publisher": "palmerwatson.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Palmer Watson", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170101T120000/OHIla4s71t7J0/HAoJcIAg==", 
+  "scope": "root", 
   "start_date": "2017-01-01T12:00:00Z"
 }
 

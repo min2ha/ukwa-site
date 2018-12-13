@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.westwales-cr.co.uk/", 
-  "description": "Care & Repair is a not for profit charitable organisation dedicated to assist older and or disabled people to remain in their own homes in comfort, safety and security.", 
   "end_date": null, 
-  "title": "West Wales Care & Repair | Gofal a Thrwsio Gorllewin Cymru", 
-  "record_id": "20170610T090000/6gOu6up+VarzmPuMC9vMeA==", 
-  "publisher": "westwales-cr.co.uk", 
+  "date": "2017-06-10T09:00:00", 
   "slug": 54581, 
+  "publisher": "westwales-cr.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "West Wales Care & Repair | Gofal a Thrwsio Gorllewin Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170610T090000/6gOu6up+VarzmPuMC9vMeA==", 
+  "scope": "root", 
   "start_date": "2017-06-10T09:00:00Z"
 }
 

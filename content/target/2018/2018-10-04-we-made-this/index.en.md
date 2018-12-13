@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://wemadethis.org.uk/", 
-  "description": "Founded by Matt Ball and Jacqui George in 2014, 'We Made This' is a theatre company based in Pontypridd.", 
   "end_date": null, 
-  "title": "We Made This", 
-  "record_id": "20181004T090000/ZJQacqrhTl7zwsJTnLocTw==", 
-  "publisher": "wemadethis.org.uk", 
+  "date": "2018-10-04T09:00:00", 
   "slug": 72111, 
+  "publisher": "wemadethis.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "We Made This", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181004T090000/ZJQacqrhTl7zwsJTnLocTw==", 
+  "scope": "root", 
   "start_date": "2018-10-04T09:00:00Z"
 }
 

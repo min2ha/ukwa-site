@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gaelicweek.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Seachdain na G\u00e0idhlig / Edinburgh Gaelic Week 2015", 
-  "record_id": "20151024T100000/ko+Q/YctjEnc+9Miv54ycg==", 
-  "publisher": "gaelicweek.net", 
+  "date": "2015-10-24T10:00:00", 
   "slug": 31532, 
+  "publisher": "gaelicweek.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Seachdain na G\u00e0idhlig / Edinburgh Gaelic Week 2015", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151024T100000/ko+Q/YctjEnc+9Miv54ycg==", 
+  "scope": "root", 
   "start_date": "2015-10-24T10:00:00Z"
 }
 

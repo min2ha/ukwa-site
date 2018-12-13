@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.venue40.org.uk/", 
-  "description": "Quaker Meeting house is a meeting space for Edinburgh's Quaker community as well as a small Edinburgh Fringe Festival venue.", 
   "end_date": "2015-09-16T01:00:00Z", 
-  "title": "Venue 40 - Quaker Meeting House", 
-  "record_id": "20150911T100000/bFTK2VWYD90ZUGLZALbKag==", 
-  "publisher": "venue40.org.uk", 
+  "date": "2015-09-11T10:00:00", 
   "slug": 29783, 
+  "publisher": "venue40.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Venue 40 - Quaker Meeting House", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150911T100000/bFTK2VWYD90ZUGLZALbKag==", 
+  "scope": "root", 
   "start_date": "2015-09-11T10:00:00Z"
 }
 

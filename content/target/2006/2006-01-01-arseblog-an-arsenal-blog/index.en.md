@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://arseblog.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Arseblog - an Arsenal blog", 
-  "record_id": "20060101T120000/QufT0I7ZCb0eRJtssagisg==", 
-  "publisher": "arseblog.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66158885, 
+  "publisher": "arseblog.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Arseblog - an Arsenal blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QufT0I7ZCb0eRJtssagisg==", 
+  "scope": "root", 
   "start_date": null
 }
 

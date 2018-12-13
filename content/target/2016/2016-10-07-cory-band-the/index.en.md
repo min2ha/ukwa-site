@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-07T11:00:00", 
-  "open_access": false, 
   "target_url": "http://coryband.com/", 
-  "description": "The Cory Band is a brass band based in the Rhondda Valley.", 
   "end_date": null, 
-  "title": "Cory Band, The", 
-  "record_id": "20161007T110000/cmLeX6u4xGUpY164hHa4nw==", 
-  "publisher": "coryband.com", 
+  "date": "2016-10-07T11:00:00", 
   "slug": 45977, 
+  "publisher": "coryband.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cory Band, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161007T110000/cmLeX6u4xGUpY164hHa4nw==", 
+  "scope": "root", 
   "start_date": "2016-10-07T11:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://capitaldrainage.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Capital Drainage", 
-  "record_id": "20060101T120000/iwdtM/2NqZGiOJTcHgupMQ==", 
-  "publisher": "capitaldrainage.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13629, 
+  "publisher": "capitaldrainage.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Capital Drainage", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/iwdtM/2NqZGiOJTcHgupMQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

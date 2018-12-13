@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mapvendor.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mapvendor", 
-  "record_id": "20060101T120000/cRmVTP2iMwv215mQGikxhw==", 
-  "publisher": "mapvendor.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11266, 
+  "publisher": "mapvendor.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mapvendor", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cRmVTP2iMwv215mQGikxhw==", 
+  "scope": "root", 
   "start_date": null
 }
 

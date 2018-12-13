@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.alistaircarmichael.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Alistair Carmichael MP", 
-  "record_id": "20060101T120000/fwAfHvucwwVJ8v+g+ZY6Gg==", 
-  "publisher": "alistaircarmichael.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32899344, 
+  "publisher": "alistaircarmichael.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Alistair Carmichael MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fwAfHvucwwVJ8v+g+ZY6Gg==", 
+  "scope": "root", 
   "start_date": null
 }
 

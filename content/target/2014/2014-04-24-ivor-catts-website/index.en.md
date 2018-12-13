@@ -1,13 +1,21 @@
 {
-  "date": "2014-04-24T04:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ivorcatt.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Ivor Catt's website ", 
-  "record_id": "20140424T040000/8pTOCZfU5J3EQFjhilOfVw==", 
-  "publisher": "ivorcatt.co.uk", 
+  "date": "2014-04-24T04:00:00", 
   "slug": 9979, 
+  "publisher": "ivorcatt.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ivor Catt's website ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140424T040000/8pTOCZfU5J3EQFjhilOfVw==", 
+  "scope": "root", 
   "start_date": "2014-04-24T04:00:00Z"
 }
 

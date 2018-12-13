@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.qmu.ac.uk/", 
-  "description": "Official website of Queen Margaret University, Edinburgh.", 
   "end_date": null, 
-  "title": "Queen Margaret University", 
-  "record_id": "20150918T100000/oBYChGVZaqkGgUl/ucwoqw==", 
-  "publisher": "qmu.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30610, 
+  "publisher": "qmu.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Queen Margaret University", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/oBYChGVZaqkGgUl/ucwoqw==", 
+  "scope": "subdomains", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

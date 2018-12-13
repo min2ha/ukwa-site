@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://savevestas.wordpress.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Save Vestas jobs! Save the planet!", 
-  "record_id": "20060101T120000/VtfkrjGOhSBrvzM2iIucHw==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 64290846, 
+  "publisher": "wordpress.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Save Vestas jobs! Save the planet!", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/VtfkrjGOhSBrvzM2iIucHw==", 
+  "scope": "root", 
   "start_date": null
 }
 

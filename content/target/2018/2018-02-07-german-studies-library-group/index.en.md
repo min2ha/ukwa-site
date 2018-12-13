@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gslg.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "German Studies Library Group", 
-  "record_id": "20180207T090000/pBJ6Oko8NPlp4iLKm124yg==", 
-  "publisher": "gslg.org.uk", 
+  "date": "2018-02-07T09:00:00", 
   "slug": 60964, 
+  "publisher": "gslg.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "German Studies Library Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180207T090000/pBJ6Oko8NPlp4iLKm124yg==", 
+  "scope": "root", 
   "start_date": "2018-02-07T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.saveeasycreditunion.co.uk/", 
-  "description": "SAVEeasy Credit Union is based in Llanelli.", 
   "end_date": null, 
-  "title": "SAVEeasy Credit Union", 
-  "record_id": "20060101T120000/HnvoK/1OkRtOmQKfT7TT7g==", 
-  "publisher": "saveeasycreditunion.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31494, 
+  "publisher": "saveeasycreditunion.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "SAVEeasy Credit Union", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HnvoK/1OkRtOmQKfT7TT7g==", 
+  "scope": "root", 
   "start_date": null
 }
 

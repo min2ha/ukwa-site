@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-05T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cpgb-ml.org/", 
-  "description": "Official website of the Communist Party of Great Britain (Marxist-Leninist). The site contains a bi-monthly publication 'Proletariat'.", 
   "end_date": null, 
-  "title": "Communist Party of Great Britain (Marxist-Leninist)", 
-  "record_id": "20150905T100000/z6o/EoVELErKp3kHw2ZUwA==", 
-  "publisher": "cpgb-ml.org", 
+  "date": "2015-09-05T10:00:00", 
   "slug": 28267, 
+  "publisher": "cpgb-ml.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Communist Party of Great Britain (Marxist-Leninist)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150905T100000/z6o/EoVELErKp3kHw2ZUwA==", 
+  "scope": "subdomains", 
   "start_date": "2015-09-05T10:00:00Z"
 }
 

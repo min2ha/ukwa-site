@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cotswoldcycling.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "North Cotswold Cycling Club", 
-  "record_id": "20131014T100000/kJyGEEA/Sr6rwo57LiPEvw==", 
-  "publisher": "cotswoldcycling.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 50659402, 
+  "publisher": "cotswoldcycling.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "North Cotswold Cycling Club", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/kJyGEEA/Sr6rwo57LiPEvw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

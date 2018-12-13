@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.groundswelltrust.org/", 
-  "description": "Groundswell is a charity which offers practical and emotional support to people affected by HIV in Hampshire. ", 
   "end_date": null, 
-  "title": "Groundswell", 
-  "record_id": "20160201T090000/NTp1Ve+urHh92NFT8Ygt+Q==", 
-  "publisher": "groundswelltrust.org", 
+  "date": "2016-02-01T09:00:00", 
   "slug": 34862, 
+  "publisher": "groundswelltrust.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Groundswell", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160201T090000/NTp1Ve+urHh92NFT8Ygt+Q==", 
+  "scope": "root", 
   "start_date": "2016-02-01T09:00:00Z"
 }
 

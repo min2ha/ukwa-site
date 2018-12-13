@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lso.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "London Symphony Orchestra", 
-  "record_id": "20060101T120000/fKKtOhkPlWhawJP213/Pfg==", 
-  "publisher": "lso.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10649, 
+  "publisher": "lso.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London Symphony Orchestra", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fKKtOhkPlWhawJP213/Pfg==", 
+  "scope": "root", 
   "start_date": null
 }
 

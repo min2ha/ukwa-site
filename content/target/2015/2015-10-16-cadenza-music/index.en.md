@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-16T10:00:00", 
-  "open_access": false, 
   "target_url": "https://cadenza-music.com/", 
-  "description": "Music publisher based in Newport, Wales.", 
   "end_date": null, 
-  "title": "Cadenza Music", 
-  "record_id": "20151016T100000/zPdFear+NYp4WA+SXB+Vzg==", 
-  "publisher": "cadenza-music.com", 
+  "date": "2015-10-16T10:00:00", 
   "slug": 31481, 
+  "publisher": "cadenza-music.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cadenza Music", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151016T100000/zPdFear+NYp4WA+SXB+Vzg==", 
+  "scope": "root", 
   "start_date": "2015-10-16T10:00:00Z"
 }
 

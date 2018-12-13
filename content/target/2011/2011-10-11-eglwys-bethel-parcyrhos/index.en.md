@@ -1,13 +1,16 @@
 {
-  "date": "2011-10-11T00:00:00", 
-  "open_access": true, 
   "target_url": "http://bethel.btck.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Eglwys Bethel Parcyrhos", 
-  "record_id": "20111011T000000/9XZdyNPuSOLfrP55DPKA/w==", 
-  "publisher": "btck.co.uk", 
+  "date": "2011-10-11T00:00:00", 
   "slug": 3047426, 
+  "publisher": "btck.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Eglwys Bethel Parcyrhos", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20111011T000000/9XZdyNPuSOLfrP55DPKA/w==", 
+  "scope": "root", 
   "start_date": "2011-10-11T00:00:00Z"
 }
 

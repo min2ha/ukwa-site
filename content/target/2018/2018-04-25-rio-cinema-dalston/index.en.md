@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "https://riocinema.org.uk/", 
-  "description": "Independent cinema in Dalston, London ", 
   "end_date": null, 
-  "title": "Rio Cinema (Dalston)", 
-  "record_id": "20180425T090000/He0TI+WNPoSNMNf2QBuEag==", 
-  "publisher": "riocinema.org.uk", 
+  "date": "2018-04-25T09:00:00", 
   "slug": 64801, 
+  "publisher": "riocinema.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rio Cinema (Dalston)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180425T090000/He0TI+WNPoSNMNf2QBuEag==", 
+  "scope": "root", 
   "start_date": "2018-04-25T09:00:00Z"
 }
 

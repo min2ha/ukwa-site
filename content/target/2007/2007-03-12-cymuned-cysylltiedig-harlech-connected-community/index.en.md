@@ -1,13 +1,16 @@
 {
-  "date": "2007-03-12T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.harlech.cymru.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cymuned Cysylltiedig Harlech Connected Community", 
-  "record_id": "20070312T000000/YN51lTzfNyQ6iawOgiIXaQ==", 
-  "publisher": "cymru.org", 
+  "date": "2007-03-12T00:00:00", 
   "slug": 138199, 
+  "publisher": "cymru.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Cymuned Cysylltiedig Harlech Connected Community", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20070312T000000/YN51lTzfNyQ6iawOgiIXaQ==", 
+  "scope": "root", 
   "start_date": "2007-03-12T00:00:00Z"
 }
 

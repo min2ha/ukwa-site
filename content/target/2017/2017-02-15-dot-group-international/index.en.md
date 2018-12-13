@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dotgroup.net/", 
-  "description": "DOTgroup International is an independent manufacturer \nand supplier of Electrical, Instrumentation, Mechanical and Safety \nLabelling and Identification Solutions.", 
   "end_date": null, 
-  "title": "DOT Group International", 
-  "record_id": "20170215T090000/4f0pbF7uA2YsIWknpLcIvA==", 
-  "publisher": "dotgroup.net", 
+  "date": "2017-02-15T09:00:00", 
   "slug": 49369, 
+  "publisher": "dotgroup.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "DOT Group International", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170215T090000/4f0pbF7uA2YsIWknpLcIvA==", 
+  "scope": "root", 
   "start_date": "2017-02-15T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.knowleurc.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Knowle United Reformed Church", 
-  "record_id": "20060101T120000/8IrDTbtAWeusYSvq9kGXbg==", 
-  "publisher": "knowleurc.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9667, 
+  "publisher": "knowleurc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Knowle United Reformed Church", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/8IrDTbtAWeusYSvq9kGXbg==", 
+  "scope": "root", 
   "start_date": null
 }
 

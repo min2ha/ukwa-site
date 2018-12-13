@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wtuclearn.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwasanaethau Dysgu TUC Cymru | Wales TUC Learning Services", 
-  "record_id": "20151105T090000/8Mx2i9euzwsOkfFhZNEmYQ==", 
-  "publisher": "wtuclearn.org.uk", 
+  "date": "2015-11-05T09:00:00", 
   "slug": 32074, 
+  "publisher": "wtuclearn.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwasanaethau Dysgu TUC Cymru | Wales TUC Learning Services", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151105T090000/8Mx2i9euzwsOkfFhZNEmYQ==", 
+  "scope": "root", 
   "start_date": "2015-11-05T09:00:00Z"
 }
 

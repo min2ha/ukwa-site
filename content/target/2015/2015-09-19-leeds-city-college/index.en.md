@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.leedscitycollege.ac.uk/", 
-  "description": "Official website of the Leeds City College.", 
   "end_date": null, 
-  "title": "Leeds City College", 
-  "record_id": "20150919T100000/X7HHPOQhXV4sTPYQaIG5xQ==", 
-  "publisher": "leedscitycollege.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30696, 
+  "publisher": "leedscitycollege.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Leeds City College", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/X7HHPOQhXV4sTPYQaIG5xQ==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://awclondon.org/", 
-  "description": "American Women\u2019s Club of London provides social, cultural, educational and philanthropic activities for members living in London.", 
   "end_date": null, 
-  "title": "American Women\u2019s Club of London", 
-  "record_id": "20151111T090000/g+ibGn+Y76ZgUa3dajsaow==", 
-  "publisher": "awclondon.org", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 32425, 
+  "publisher": "awclondon.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "American Women\u2019s Club of London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/g+ibGn+Y76ZgUa3dajsaow==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

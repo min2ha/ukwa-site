@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.childtrustfund.gov.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 142615, 
-  "subject": "Government Websites 2007 ", 
   "publisher": "childtrustfund.gov.uk", 
   "open_access": false, 
+  "npld": false, 
   "title": "Child Trust Fund", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2362, 
+      "name": "Government Websites 2007 "
+    }
+  ], 
   "record_id": "20060101T120000/ZzC7PkIBmllTpBrT81l4sA==", 
+  "scope": "root", 
   "start_date": null
 }
 

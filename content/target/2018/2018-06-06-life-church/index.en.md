@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lifechurchedinburgh.com/", 
-  "description": "Site of an Apostolic Christian church located in Edinburgh.", 
   "end_date": null, 
-  "title": "Life Church", 
-  "record_id": "20180606T090000/xxUWMo+gRVCtUzfMJWZZuw==", 
-  "publisher": "lifechurchedinburgh.com", 
+  "date": "2018-06-06T09:00:00", 
   "slug": 66806, 
+  "publisher": "lifechurchedinburgh.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Life Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180606T090000/xxUWMo+gRVCtUzfMJWZZuw==", 
+  "scope": "root", 
   "start_date": "2018-06-06T09:00:00Z"
 }
 

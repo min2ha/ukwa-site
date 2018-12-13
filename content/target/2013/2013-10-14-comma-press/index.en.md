@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.commapress.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Comma Press", 
-  "record_id": "20131014T100000/DAMv/fiQb4J/n9nLRvBnmA==", 
-  "publisher": "commapress.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 136572, 
+  "publisher": "commapress.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Comma Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/DAMv/fiQb4J/n9nLRvBnmA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

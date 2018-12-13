@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://susmita-bhattacharya.blogspot.co.uk/", 
-  "description": "Author from Bombay, India and currently residing in Cardiff, Wales.", 
   "end_date": null, 
-  "title": "Susmita Bhattacharya", 
-  "record_id": "20151125T090000/E4YAycT+cXdMPwnE11wO6Q==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2015-11-25T09:00:00", 
   "slug": 32835, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Susmita Bhattacharya", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151125T090000/E4YAycT+cXdMPwnE11wO6Q==", 
+  "scope": "root", 
   "start_date": "2015-11-25T09:00:00Z"
 }
 

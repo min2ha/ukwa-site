@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ex.ac.uk/stloyes/schhom.htm", 
-  "description": "", 
   "end_date": null, 
-  "title": "Millbrook House (formerly St Loye's School of Health Studies)", 
-  "record_id": "20060101T120000/ByhxWuxpvZzm/p6lLWXT7Q==", 
-  "publisher": "ex.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 122858, 
+  "publisher": "ex.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Millbrook House (formerly St Loye's School of Health Studies)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ByhxWuxpvZzm/p6lLWXT7Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

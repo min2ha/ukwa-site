@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-07T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ericpeake.co.uk", 
-  "description": "International Bird artist.", 
   "end_date": null, 
-  "title": "Eric Peake", 
-  "record_id": "20160307T090000/lC6j+4tHIJ1JIG/VBHrOkg==", 
-  "publisher": "ericpeake.co.uk", 
+  "date": "2016-03-07T09:00:00", 
   "slug": 36714, 
+  "publisher": "ericpeake.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Eric Peake", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160307T090000/lC6j+4tHIJ1JIG/VBHrOkg==", 
+  "scope": "root", 
   "start_date": "2016-03-07T09:00:00Z"
 }
 

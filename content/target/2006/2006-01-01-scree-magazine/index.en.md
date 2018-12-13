@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://screemagazine.wordpress.com/", 
-  "description": "Poetry magazine ", 
   "end_date": null, 
-  "title": "Scree Magazine", 
-  "record_id": "20060101T120000/qyc0VtZ0hAOBiFu94Oo63A==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 30061, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scree Magazine", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/qyc0VtZ0hAOBiFu94Oo63A==", 
+  "scope": "root", 
   "start_date": null
 }
 

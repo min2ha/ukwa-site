@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.langhaminrutland.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Langham Village History Group", 
-  "record_id": "20131014T100000/YEc/GfG6+QWpcUvqqpW8Jw==", 
-  "publisher": "langhaminrutland.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588487, 
+  "publisher": "langhaminrutland.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Langham Village History Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/YEc/GfG6+QWpcUvqqpW8Jw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dumfriestrust.org.uk/", 
-  "description": "Site of a trust preserving historic buildings in Dumfries & Galloway.", 
   "end_date": null, 
-  "title": "Dumfries Historic Buildings Trust", 
-  "record_id": "20180514T090000/dYlxo4SSP4jANM8I7dbMqQ==", 
-  "publisher": "dumfriestrust.org.uk", 
+  "date": "2018-05-14T09:00:00", 
   "slug": 65534, 
+  "publisher": "dumfriestrust.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dumfries Historic Buildings Trust", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180514T090000/dYlxo4SSP4jANM8I7dbMqQ==", 
+  "scope": "root", 
   "start_date": "2018-05-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "https://dndtours.co.uk", 
-  "description": "Company website for \"D\u2019n\u2019D Tours\"; a company specialsing in travel tours.", 
   "end_date": null, 
-  "title": "D\u2019n\u2019D Tours", 
-  "record_id": "20060101T120000/8R1lfvTR7o0XlimMrnmi3g==", 
-  "publisher": "dndtours.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60352, 
+  "publisher": "dndtours.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "D\u2019n\u2019D Tours", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/8R1lfvTR7o0XlimMrnmi3g==", 
+  "scope": "root", 
   "start_date": null
 }
 

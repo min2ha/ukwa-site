@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.newwritingnorth.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "New Writing North", 
-  "record_id": "20131014T100000/0pue+/yHuETeexzdm7KsLA==", 
-  "publisher": "newwritingnorth.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 120812, 
+  "publisher": "newwritingnorth.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "New Writing North", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/0pue+/yHuETeexzdm7KsLA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

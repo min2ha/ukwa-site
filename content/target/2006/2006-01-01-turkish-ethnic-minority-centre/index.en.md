@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.temc.org.uk/", 
-  "description": "Site of an organisation established for Turkish people living in Scotland.", 
   "end_date": null, 
-  "title": "Turkish Ethnic Minority Centre", 
-  "record_id": "20060101T120000/GQxoSt8fh4lvAmKJHh5A7g==", 
-  "publisher": "temc.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 70474, 
+  "publisher": "temc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Turkish Ethnic Minority Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/GQxoSt8fh4lvAmKJHh5A7g==", 
+  "scope": "root", 
   "start_date": null
 }
 

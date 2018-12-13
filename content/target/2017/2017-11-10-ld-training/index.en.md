@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://landdtraining.co.uk/", 
-  "description": "L&D Training offer training courses for workplaces that deal with the following issues: \nSexual assault\nConsent\nHonour-based violence\nSexting\nRevenge porn", 
   "end_date": null, 
-  "title": "L&D Training ", 
-  "record_id": "20171110T090000/LGIK/JGKSW+V7el7qDDZjQ==", 
-  "publisher": "landdtraining.co.uk", 
+  "date": "2017-11-10T09:00:00", 
   "slug": 58672, 
+  "publisher": "landdtraining.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "L&D Training ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171110T090000/LGIK/JGKSW+V7el7qDDZjQ==", 
+  "scope": "root", 
   "start_date": "2017-11-10T09:00:00Z"
 }
 

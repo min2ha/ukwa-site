@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://dinamico.unibg.it/rls/rls.htm", 
-  "description": null, 
   "end_date": null, 
-  "title": "Robert Louis Stevenson web site", 
-  "record_id": "20060101T120000/OkjRhYgPXeFHnCC9/whojQ==", 
-  "publisher": "unibg.it", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101697, 
+  "publisher": "unibg.it", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Robert Louis Stevenson web site", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/OkjRhYgPXeFHnCC9/whojQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

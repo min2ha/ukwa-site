@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-13T11:00:00", 
-  "open_access": true, 
   "target_url": "http://www.trefnantcouncil.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Trefnant Community Council", 
-  "record_id": "20160613T110000/n47+4MFSvGfdVGCSgTciug==", 
-  "publisher": "trefnantcouncil.org", 
+  "date": "2016-06-13T11:00:00", 
   "slug": 42876, 
+  "publisher": "trefnantcouncil.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Trefnant Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160613T110000/n47+4MFSvGfdVGCSgTciug==", 
+  "scope": "root", 
   "start_date": "2016-06-13T11:00:00Z"
 }
 

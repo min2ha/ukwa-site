@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-28T09:00:00", 
-  "open_access": true, 
   "target_url": "https://www.charityretail.org.uk", 
-  "description": "Association for charities operating in the retail sector", 
   "end_date": null, 
-  "title": "Charity Retail Association", 
-  "record_id": "20180328T090000/2vK4+sJ48Bc8JoYYdmLz0Q==", 
-  "publisher": "charityretail.org.uk", 
+  "date": "2018-03-28T09:00:00", 
   "slug": 63241, 
+  "publisher": "charityretail.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Charity Retail Association", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180328T090000/2vK4+sJ48Bc8JoYYdmLz0Q==", 
+  "scope": "root", 
   "start_date": "2018-03-28T09:00:00Z"
 }
 

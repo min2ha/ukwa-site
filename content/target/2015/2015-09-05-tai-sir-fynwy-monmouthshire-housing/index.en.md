@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.monmouthshirehousing.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Tai Sir Fynwy | Monmouthshire Housing", 
-  "record_id": "20150905T100000/37M7oau4aNQYPwCaRCgEgg==", 
-  "publisher": "monmouthshirehousing.co.uk", 
+  "date": "2015-09-05T10:00:00", 
   "slug": 30244, 
+  "publisher": "monmouthshirehousing.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tai Sir Fynwy | Monmouthshire Housing", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150905T100000/37M7oau4aNQYPwCaRCgEgg==", 
+  "scope": "root", 
   "start_date": "2015-09-05T10:00:00Z"
 }
 

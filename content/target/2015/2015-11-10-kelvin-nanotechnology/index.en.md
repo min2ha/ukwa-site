@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.kelvinnanotechnology.com/", 
-  "description": "Website of Kelvin Nanotechnology, provider of nanotechnology fabrication solutions", 
   "end_date": null, 
-  "title": "Kelvin Nanotechnology ", 
-  "record_id": "20151110T090000/U8lU5TODuLdrjVngqTc1+Q==", 
-  "publisher": "kelvinnanotechnology.com", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 32254, 
+  "publisher": "kelvinnanotechnology.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kelvin Nanotechnology ", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/U8lU5TODuLdrjVngqTc1+Q==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

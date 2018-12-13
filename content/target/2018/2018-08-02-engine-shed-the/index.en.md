@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-02T09:00:00", 
-  "open_access": false, 
   "target_url": "https://engineshed.scot/", 
-  "description": "\"The Engine Shed is Scotland\u2019s dedicated building conservation centre, based in Stirling.\"", 
   "end_date": null, 
-  "title": "Engine Shed, The", 
-  "record_id": "20180802T090000//bN3hY2Zg38OmSUPtNg2SQ==", 
-  "publisher": "engineshed.scot", 
+  "date": "2018-08-02T09:00:00", 
   "slug": 69541, 
+  "publisher": "engineshed.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Engine Shed, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180802T090000//bN3hY2Zg38OmSUPtNg2SQ==", 
+  "scope": "root", 
   "start_date": "2018-08-02T09:00:00Z"
 }
 

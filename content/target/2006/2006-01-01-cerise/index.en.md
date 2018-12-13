@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://cerise.tv/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Cerise", 
-  "record_id": "20060101T120000/X1oiH6qTD4B0ddjUDaEzsg==", 
-  "publisher": "cerise.tv", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11910, 
+  "publisher": "cerise.tv", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cerise", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/X1oiH6qTD4B0ddjUDaEzsg==", 
+  "scope": "root", 
   "start_date": null
 }
 

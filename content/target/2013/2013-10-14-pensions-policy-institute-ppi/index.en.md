@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pensionspolicyinstitute.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Pensions Policy Institute (PPI)", 
-  "record_id": "20131014T100000/qbtKHea37HQ8pnzNVzsN7A==", 
-  "publisher": "pensionspolicyinstitute.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 115194, 
+  "publisher": "pensionspolicyinstitute.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Pensions Policy Institute (PPI)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/qbtKHea37HQ8pnzNVzsN7A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

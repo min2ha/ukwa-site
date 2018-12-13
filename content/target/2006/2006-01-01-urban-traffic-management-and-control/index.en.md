@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.utmc.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Urban Traffic Management and Control", 
-  "record_id": "20060101T120000/UV0WIlJYimF2lQSw4ND5vg==", 
-  "publisher": "utmc.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 140804, 
+  "publisher": "utmc.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Urban Traffic Management and Control", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/UV0WIlJYimF2lQSw4ND5vg==", 
+  "scope": "root", 
   "start_date": null
 }
 

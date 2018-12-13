@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.saraphilpott.com/", 
-  "description": "<p>Sara Philpott is a painter and print maker and has published widely with private presses.</p>\n", 
   "end_date": null, 
-  "title": "Sara Philpott", 
-  "record_id": "20060101T120000/I991u58+sbn9g0GMxToG7g==", 
-  "publisher": "saraphilpott.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14533, 
+  "publisher": "saraphilpott.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sara Philpott", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/I991u58+sbn9g0GMxToG7g==", 
+  "scope": "root", 
   "start_date": null
 }
 

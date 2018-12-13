@@ -1,13 +1,21 @@
 {
-  "date": "2014-11-26T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.amee.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "International Association For Medical Education", 
-  "record_id": "20141126T060000/ptpWZPHiYSIDGW+wTKpBxA==", 
-  "publisher": "amee.org", 
+  "date": "2014-11-26T06:00:00", 
   "slug": 14830, 
+  "publisher": "amee.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "International Association For Medical Education", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141126T060000/ptpWZPHiYSIDGW+wTKpBxA==", 
+  "scope": "root", 
   "start_date": "2014-11-26T06:00:00Z"
 }
 

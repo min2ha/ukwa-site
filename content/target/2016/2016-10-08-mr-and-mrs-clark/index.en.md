@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://mrandmrsclark.co.uk/", 
-  "description": "Mr and Mrs Clark are performance mavericks and a dance theatre company based in Newport.", 
   "end_date": null, 
-  "title": "Mr and Mrs Clark", 
-  "record_id": "20161008T100000/LdrUdsOpA32ZR+etjWrptw==", 
-  "publisher": "mrandmrsclark.co.uk", 
+  "date": "2016-10-08T10:00:00", 
   "slug": 46041, 
+  "publisher": "mrandmrsclark.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mr and Mrs Clark", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161008T100000/LdrUdsOpA32ZR+etjWrptw==", 
+  "scope": "root", 
   "start_date": "2016-10-08T10:00:00Z"
 }
 

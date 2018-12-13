@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://penybontfawrchoir.org.uk/", 
-  "description": "C\u00f4r Meibion Penybontfawr is based in the small village of Penybontfawr situated in North Montgomeryshire.", 
   "end_date": null, 
-  "title": "C\u00f4r Meibion Pen-y-Bont Fawr ", 
-  "record_id": "20180718T090000/eMpvb4C3imCp+Disv5NNBQ==", 
-  "publisher": "penybontfawrchoir.org.uk", 
+  "date": "2018-07-18T09:00:00", 
   "slug": 68975, 
+  "publisher": "penybontfawrchoir.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "C\u00f4r Meibion Pen-y-Bont Fawr ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180718T090000/eMpvb4C3imCp+Disv5NNBQ==", 
+  "scope": "root", 
   "start_date": "2018-07-18T09:00:00Z"
 }
 

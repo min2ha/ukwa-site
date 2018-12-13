@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swansea-live.com/", 
-  "description": "Swansea TRI Live was held on Saturday 19th and Sunday 20th May 2018 and is an eclectic music event built around the Swansea Triathlon.", 
   "end_date": null, 
-  "title": "Swansea Live", 
-  "record_id": "20180703T090000/Rxb2Ai0/GZnzFSLHlz/e6w==", 
-  "publisher": "swansea-live.com", 
+  "date": "2018-07-03T09:00:00", 
   "slug": 68463, 
+  "publisher": "swansea-live.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Live", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180703T090000/Rxb2Ai0/GZnzFSLHlz/e6w==", 
+  "scope": "root", 
   "start_date": "2018-07-03T09:00:00Z"
 }
 

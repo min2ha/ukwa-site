@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lynneplowman.co.uk/", 
-  "description": "Lynne Plowman is a composer and flautist based in Wales. ", 
   "end_date": null, 
-  "title": "Lynne Plowman", 
-  "record_id": "20151020T100000/hObX1MrkIlxlh47TQmVzow==", 
-  "publisher": "lynneplowman.co.uk", 
+  "date": "2015-10-20T10:00:00", 
   "slug": 31564, 
+  "publisher": "lynneplowman.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lynne Plowman", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151020T100000/hObX1MrkIlxlh47TQmVzow==", 
+  "scope": "root", 
   "start_date": "2015-10-20T10:00:00Z"
 }
 

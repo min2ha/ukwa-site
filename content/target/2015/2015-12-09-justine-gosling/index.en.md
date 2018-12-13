@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.justinegosling.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Justine Gosling", 
-  "record_id": "20151209T090000/VEZ89/kcqxHdkG75oPVbcQ==", 
-  "publisher": "justinegosling.com", 
+  "date": "2015-12-09T09:00:00", 
   "slug": 33333, 
+  "publisher": "justinegosling.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Justine Gosling", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151209T090000/VEZ89/kcqxHdkG75oPVbcQ==", 
+  "scope": "root", 
   "start_date": "2015-12-09T09:00:00Z"
 }
 

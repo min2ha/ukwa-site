@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-21T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.anglelifeboat.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Angle Lifeboat Station", 
-  "record_id": "20150521T080000/ajKNKHddymuvbkDSFaPlcg==", 
-  "publisher": "anglelifeboat.org", 
+  "date": "2015-05-21T08:00:00", 
   "slug": 26346, 
+  "publisher": "anglelifeboat.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Angle Lifeboat Station", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150521T080000/ajKNKHddymuvbkDSFaPlcg==", 
+  "scope": "root", 
   "start_date": "2015-05-21T08:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.burnhambookfestival.co.uk/", 
-  "description": "The Burnham Market Book Festival ", 
   "end_date": null, 
-  "title": "Burnham Market Book Festival, The", 
-  "record_id": "20150717T100000/JJLLpFb5wxZzC1le5q/N1A==", 
-  "publisher": "burnhambookfestival.co.uk", 
+  "date": "2015-07-17T10:00:00", 
   "slug": 29166, 
+  "publisher": "burnhambookfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Burnham Market Book Festival, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150717T100000/JJLLpFb5wxZzC1le5q/N1A==", 
+  "scope": "root", 
   "start_date": "2015-07-17T10:00:00Z"
 }
 

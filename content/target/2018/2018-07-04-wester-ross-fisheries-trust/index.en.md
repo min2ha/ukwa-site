@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wrft.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wester Ross Fisheries Trust", 
-  "record_id": "20180704T090000/vLOeh3c1Uhtv6d/6o/eb8A==", 
-  "publisher": "wrft.org.uk", 
+  "date": "2018-07-04T09:00:00", 
   "slug": 68539, 
+  "publisher": "wrft.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wester Ross Fisheries Trust", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180704T090000/vLOeh3c1Uhtv6d/6o/eb8A==", 
+  "scope": "root", 
   "start_date": "2018-07-04T09:00:00Z"
 }
 

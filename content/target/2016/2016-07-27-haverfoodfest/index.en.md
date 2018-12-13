@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://haverfoodfest.co.uk/", 
-  "description": "Haverfoodfest is an annual food festival held in Haverfordwest.", 
   "end_date": null, 
-  "title": "Haverfoodfest", 
-  "record_id": "20160727T100000/8DtMBKhpn1RPKSPHguqMdA==", 
-  "publisher": "haverfoodfest.co.uk", 
+  "date": "2016-07-27T10:00:00", 
   "slug": 44634, 
+  "publisher": "haverfoodfest.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Haverfoodfest", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160727T100000/8DtMBKhpn1RPKSPHguqMdA==", 
+  "scope": "root", 
   "start_date": "2016-07-27T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.blogs.hss.ed.ac.uk/selcie/", 
-  "description": "\"A collaborative research project, founded by Valentina Bold and Sarah Dunnigan in 2016, dedicated to exploring Scotland\u2019s forgotten history of children\u2019s literature.\"", 
   "end_date": null, 
-  "title": "Scotland\u2019s Early Literature for Children Initiative", 
-  "record_id": "20171123T090000/zkmptbV5enTbhrpt6JLjDQ==", 
-  "publisher": "ed.ac.uk", 
+  "date": "2017-11-23T09:00:00", 
   "slug": 59110, 
+  "publisher": "ed.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scotland\u2019s Early Literature for Children Initiative", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171123T090000/zkmptbV5enTbhrpt6JLjDQ==", 
+  "scope": "root", 
   "start_date": "2017-11-23T09:00:00Z"
 }
 

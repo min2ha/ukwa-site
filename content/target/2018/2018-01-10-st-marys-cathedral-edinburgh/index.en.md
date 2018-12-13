@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cathedral.net/", 
-  "description": "Website for St Mary\u2019s Episcopal Cathedral, Edinburgh.", 
   "end_date": null, 
-  "title": "St. Mary\u2019s Cathedral, Edinburgh", 
-  "record_id": "20180110T090000/i4KUwf7lTsQAfGWQm9HQFQ==", 
-  "publisher": "cathedral.net", 
+  "date": "2018-01-10T09:00:00", 
   "slug": 60187, 
+  "publisher": "cathedral.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St. Mary\u2019s Cathedral, Edinburgh", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180110T090000/i4KUwf7lTsQAfGWQm9HQFQ==", 
+  "scope": "root", 
   "start_date": "2018-01-10T09:00:00Z"
 }
 

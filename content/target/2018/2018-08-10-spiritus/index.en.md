@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-10T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.spirituspartners.com/", 
-  "description": "A company which sells encrypted records management systems.", 
   "end_date": "2018-08-11T00:00:00Z", 
-  "title": "Spiritus", 
-  "record_id": "20180810T090000/sQLG3KuwaaMrIpdQyxPkcg==", 
-  "publisher": "spirituspartners.com", 
+  "date": "2018-08-10T09:00:00", 
   "slug": 69868, 
+  "publisher": "spirituspartners.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Spiritus", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180810T090000/sQLG3KuwaaMrIpdQyxPkcg==", 
+  "scope": "root", 
   "start_date": "2018-08-10T09:00:00Z"
 }
 

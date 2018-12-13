@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://caerphillycommunitychorus.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Caerphilly Community Chorus", 
-  "record_id": "20180208T090000/TRBaJMjtQEKxHJ44PmIhVw==", 
-  "publisher": "caerphillycommunitychorus.org.uk", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 61091, 
+  "publisher": "caerphillycommunitychorus.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Caerphilly Community Chorus", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/TRBaJMjtQEKxHJ44PmIhVw==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

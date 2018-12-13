@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.elfynevans.com/", 
-  "description": "Elfyn Evans is a Welsh rally driver who competes in the World Rally Championship from Dolgellau.", 
   "end_date": null, 
-  "title": "Elfyn Evans", 
-  "record_id": "20171108T090000/t09ftS2PUisyfmqyj9I8UA==", 
-  "publisher": "elfynevans.com", 
+  "date": "2017-11-08T09:00:00", 
   "slug": 58541, 
+  "publisher": "elfynevans.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Elfyn Evans", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171108T090000/t09ftS2PUisyfmqyj9I8UA==", 
+  "scope": "subdomains", 
   "start_date": "2017-11-08T09:00:00Z"
 }
 

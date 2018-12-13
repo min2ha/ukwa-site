@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.discoveranglesey.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Discover Anglesey", 
-  "record_id": "20160412T100000/qj41biNe12268lOZtujzoA==", 
-  "publisher": "discoveranglesey.com", 
+  "date": "2016-04-12T10:00:00", 
   "slug": 38638, 
+  "publisher": "discoveranglesey.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Discover Anglesey", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160412T100000/qj41biNe12268lOZtujzoA==", 
+  "scope": "root", 
   "start_date": "2016-04-12T10:00:00Z"
 }
 

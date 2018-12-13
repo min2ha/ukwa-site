@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://crime.cymru/", 
-  "description": "Crime Cymru is a diverse collective of Welsh crime writers. ", 
   "end_date": null, 
-  "title": "Crime Cymru", 
-  "record_id": "20181004T090000/WLgQV9E8l/vNQEHCDzMe/w==", 
-  "publisher": "crime.cymru", 
+  "date": "2018-10-04T09:00:00", 
   "slug": 72110, 
+  "publisher": "crime.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Crime Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181004T090000/WLgQV9E8l/vNQEHCDzMe/w==", 
+  "scope": "root", 
   "start_date": "2018-10-04T09:00:00Z"
 }
 

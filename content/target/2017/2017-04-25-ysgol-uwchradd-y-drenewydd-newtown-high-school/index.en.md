@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.newtown-hs.powys.sch.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Uwchradd y Drenewydd | Newtown High School", 
-  "record_id": "20170425T090000/n1zFZs56owO7wRJ028uspQ==", 
-  "publisher": "newtown-hs.powys.sch.uk", 
+  "date": "2017-04-25T09:00:00", 
   "slug": 52378, 
+  "publisher": "newtown-hs.powys.sch.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Uwchradd y Drenewydd | Newtown High School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170425T090000/n1zFZs56owO7wRJ028uspQ==", 
+  "scope": "root", 
   "start_date": "2017-04-25T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lodgewhiffletstjohn963.com/", 
-  "description": "Site of a masonic lodge located in Coatbridge, Lanarkshire and affiliated with the Grand Lodge of Scotland.", 
   "end_date": null, 
-  "title": "Lodge Whifflet St. John 963", 
-  "record_id": "20180607T090000/L9uFfNcheZvnalIsS297hg==", 
-  "publisher": "lodgewhiffletstjohn963.com", 
+  "date": "2018-06-07T09:00:00", 
   "slug": 66856, 
+  "publisher": "lodgewhiffletstjohn963.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge Whifflet St. John 963", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180607T090000/L9uFfNcheZvnalIsS297hg==", 
+  "scope": "root", 
   "start_date": "2018-06-07T09:00:00Z"
 }
 

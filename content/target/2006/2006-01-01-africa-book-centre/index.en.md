@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.africabookcentre.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Africa Book Centre", 
-  "record_id": "20060101T120000/FKDtMuX6tWv8zONjiqGltA==", 
-  "publisher": "africabookcentre.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13147, 
+  "publisher": "africabookcentre.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Africa Book Centre", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FKDtMuX6tWv8zONjiqGltA==", 
+  "scope": "root", 
   "start_date": null
 }
 

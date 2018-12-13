@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nyjo.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "National Youth Jazz Orchestra (NYJO)", 
-  "record_id": "20131014T100000/VvVHacyAo8ZwiLcIqHzcqw==", 
-  "publisher": "nyjo.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 145187, 
+  "publisher": "nyjo.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "National Youth Jazz Orchestra (NYJO)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/VvVHacyAo8ZwiLcIqHzcqw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

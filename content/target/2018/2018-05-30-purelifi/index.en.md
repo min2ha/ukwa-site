@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-30T09:00:00", 
-  "open_access": false, 
   "target_url": "https://purelifi.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "PureLiFi", 
-  "record_id": "20180530T090000/I/czksckKcrMhrSdQtngWw==", 
-  "publisher": "purelifi.com", 
+  "date": "2018-05-30T09:00:00", 
   "slug": 66334, 
+  "publisher": "purelifi.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "PureLiFi", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180530T090000/I/czksckKcrMhrSdQtngWw==", 
+  "scope": "root", 
   "start_date": "2018-05-30T09:00:00Z"
 }
 

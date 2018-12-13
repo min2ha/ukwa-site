@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-04T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.humanism.scot/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Humanist Society Scotland", 
-  "record_id": "20160504T100000/rtus8qfaGqfYOD4LvnyRCQ==", 
-  "publisher": "humanism.scot", 
+  "date": "2016-05-04T10:00:00", 
   "slug": 40371, 
+  "publisher": "humanism.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Humanist Society Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160504T100000/rtus8qfaGqfYOD4LvnyRCQ==", 
+  "scope": "root", 
   "start_date": "2016-05-04T10:00:00Z"
 }
 

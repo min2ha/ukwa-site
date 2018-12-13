@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-19T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.umhan.com/", 
-  "description": "The University Mental Health Advisers Network is a national UK charity. We are a network of mental health specialists working in the Higher/Further Education sector. ", 
   "end_date": null, 
-  "title": "University Mental Health Advisers Network (UMHAN)", 
-  "record_id": "20180619T090000/Tv1FuHxIAecZOCCNiCJuLQ==", 
-  "publisher": "umhan.com", 
+  "date": "2018-06-19T09:00:00", 
   "slug": 67570, 
+  "publisher": "umhan.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University Mental Health Advisers Network (UMHAN)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180619T090000/Tv1FuHxIAecZOCCNiCJuLQ==", 
+  "scope": "root", 
   "start_date": "2018-06-19T09:00:00Z"
 }
 

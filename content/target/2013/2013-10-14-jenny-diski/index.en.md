@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.jennydiski.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Jenny Diski", 
-  "record_id": "20131014T100000/CT1RWNbshSZ0mu/xADa/9A==", 
-  "publisher": "jennydiski.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 14385155, 
+  "publisher": "jennydiski.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jenny Diski", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/CT1RWNbshSZ0mu/xADa/9A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

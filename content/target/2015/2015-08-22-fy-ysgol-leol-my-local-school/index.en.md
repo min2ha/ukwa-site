@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-22T10:00:00", 
-  "open_access": true, 
   "target_url": "http://mylocalschool.wales.gov.uk/", 
-  "description": "My Local School is Welsh Government website designed to open up access to schools data for parents and all others with an interest in their local school. ", 
   "end_date": null, 
-  "title": "Fy Ysgol Leol | My Local School", 
-  "record_id": "20150822T100000/VlDS1oEs/ATfpd04CtZ8JA==", 
-  "publisher": "wales.gov.uk", 
+  "date": "2015-08-22T10:00:00", 
   "slug": 261128204, 
+  "publisher": "wales.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fy Ysgol Leol | My Local School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150822T100000/VlDS1oEs/ATfpd04CtZ8JA==", 
+  "scope": "root", 
   "start_date": "2015-08-22T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://alangibbons.net/", 
-  "description": "Alan Gibbons is a writer of children\u2019s books. He is the winner of the Blue Peter Book Award 2000. He is also involved in 'The Capmaign for the Book'.", 
   "end_date": null, 
-  "title": "Alan Gibbons' Diary", 
-  "record_id": "20150917T100000/4QpKIUjr5ZbD8KRchc0HDg==", 
-  "publisher": "alangibbons.net", 
+  "date": "2015-09-17T10:00:00", 
   "slug": 30469, 
+  "publisher": "alangibbons.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alan Gibbons' Diary", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150917T100000/4QpKIUjr5ZbD8KRchc0HDg==", 
+  "scope": "root", 
   "start_date": "2015-09-17T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cain.ulster.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "CAIN: Sutton Index of Deaths", 
-  "record_id": "20150806T100000/OGHt9814AMUeo6DAPfqOzA==", 
-  "publisher": "ulster.ac.uk", 
+  "date": "2015-08-06T10:00:00", 
   "slug": 29649, 
+  "publisher": "ulster.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "CAIN: Sutton Index of Deaths", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150806T100000/OGHt9814AMUeo6DAPfqOzA==", 
+  "scope": "root", 
   "start_date": "2015-08-06T10:00:00Z"
 }
 

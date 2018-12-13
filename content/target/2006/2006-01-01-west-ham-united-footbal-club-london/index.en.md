@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.westhamunited.london/", 
-  "description": null, 
   "end_date": null, 
-  "title": "West Ham United Footbal Club .London", 
-  "record_id": "20060101T120000/0F3DMlH5sJaHY8qAI6qGmQ==", 
-  "publisher": "westhamunited.london", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10660, 
+  "publisher": "westhamunited.london", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "West Ham United Footbal Club .London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/0F3DMlH5sJaHY8qAI6qGmQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

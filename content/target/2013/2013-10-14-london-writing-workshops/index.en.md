@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.londonwritingworkshops.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "London Writing Workshops", 
-  "record_id": "20131014T100000/xK3vF8Sp2RHK0L7EIyG/uQ==", 
-  "publisher": "londonwritingworkshops.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 47579209, 
+  "publisher": "londonwritingworkshops.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "London Writing Workshops", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/xK3vF8Sp2RHK0L7EIyG/uQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

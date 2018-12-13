@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.oxfordtimes.co.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2015-10-21T10:00:00", 
   "slug": 31632, 
-  "subject": "News Sites", 
   "publisher": "oxfordtimes.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Oxford Times, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20151021T100000/O4zWW8pZiPWvkA8/CUIFYg==", 
+  "scope": "subdomains", 
   "start_date": "2015-10-21T10:00:00Z"
 }
 

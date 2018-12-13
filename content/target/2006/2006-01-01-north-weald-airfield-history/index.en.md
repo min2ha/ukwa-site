@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.northwealdairfieldhistory.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "North Weald Airfield History", 
-  "record_id": "20060101T120000/7d1lzmYSqgR63bhvkRP1Gg==", 
-  "publisher": "northwealdairfieldhistory.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60293180, 
+  "publisher": "northwealdairfieldhistory.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "North Weald Airfield History", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/7d1lzmYSqgR63bhvkRP1Gg==", 
+  "scope": "root", 
   "start_date": null
 }
 

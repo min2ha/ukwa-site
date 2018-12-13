@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.nessbank.net/", 
-  "description": "", 
   "end_date": null, 
   "date": "2018-05-23T09:00:00", 
   "slug": 64186, 
-  "subject": "Religion/Theology", 
   "publisher": "nessbank.net", 
   "open_access": false, 
+  "npld": true, 
   "title": "Ness Bank Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180523T090000/f15/FWMWirunNQPfNiF97w==", 
+  "scope": "root", 
   "start_date": "2018-05-23T09:00:00Z"
 }
 

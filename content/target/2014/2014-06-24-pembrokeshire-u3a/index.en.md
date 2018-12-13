@@ -1,13 +1,16 @@
 {
-  "date": "2014-06-24T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pembrokeshireu3a.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pembrokeshire U3A", 
-  "record_id": "20140624T000000/NgJGL5WP/gYruzMfczhQmg==", 
-  "publisher": "pembrokeshireu3a.org.uk", 
+  "date": "2014-06-24T00:00:00", 
   "slug": 253919233, 
+  "publisher": "pembrokeshireu3a.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Pembrokeshire U3A", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140624T000000/NgJGL5WP/gYruzMfczhQmg==", 
+  "scope": "root", 
   "start_date": "2014-06-24T00:00:00Z"
 }
 

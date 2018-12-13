@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.freshwater-uk.com/", 
-  "description": "Freshwater is an independent communications consultancy that helps clients, across the UK, to meet their objectives in a strategic and integrated way. We think multi-channel and provide full-service support including events, training, digital and creative media production.", 
   "end_date": null, 
-  "title": "Freshwater", 
-  "record_id": "20170316T090000/ObfGZYPhdkGn8lmlDVioBg==", 
-  "publisher": "freshwater-uk.com", 
+  "date": "2017-03-16T09:00:00", 
   "slug": 50552, 
+  "publisher": "freshwater-uk.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Freshwater", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170316T090000/ObfGZYPhdkGn8lmlDVioBg==", 
+  "scope": "root", 
   "start_date": "2017-03-16T09:00:00Z"
 }
 

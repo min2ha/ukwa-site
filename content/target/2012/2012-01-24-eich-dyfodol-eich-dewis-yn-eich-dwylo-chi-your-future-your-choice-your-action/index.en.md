@@ -1,13 +1,16 @@
 {
-  "date": "2012-01-24T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.yourfuturechoiceaction.org.uk/", 
-  "description": "changing careers in Wales", 
   "end_date": null, 
-  "title": "Eich dyfodol. Eich dewis. Yn eich dwylo chi | Your future. Your choice. Your action", 
-  "record_id": "20120124T000000/Lm1zwm4qcxSwZ2WmjSeUnw==", 
-  "publisher": "yourfuturechoiceaction.org.uk", 
+  "date": "2012-01-24T00:00:00", 
   "slug": 64290840, 
+  "publisher": "yourfuturechoiceaction.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Eich dyfodol. Eich dewis. Yn eich dwylo chi | Your future. Your choice. Your action", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120124T000000/Lm1zwm4qcxSwZ2WmjSeUnw==", 
+  "scope": "root", 
   "start_date": "2012-01-24T00:00:00Z"
 }
 

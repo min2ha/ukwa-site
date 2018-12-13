@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.iffresearch.com/", 
-  "description": "IFF Research is an independent full-service research agency.", 
   "end_date": null, 
-  "title": "IFF Research", 
-  "record_id": "20151026T090000/WlgC0sksNNkbAHBi5pyK1Q==", 
-  "publisher": "iffresearch.com", 
+  "date": "2015-10-26T09:00:00", 
   "slug": 31756, 
+  "publisher": "iffresearch.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "IFF Research", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151026T090000/WlgC0sksNNkbAHBi5pyK1Q==", 
+  "scope": "root", 
   "start_date": "2015-10-26T09:00:00Z"
 }
 

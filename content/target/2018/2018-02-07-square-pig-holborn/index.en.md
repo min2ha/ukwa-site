@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.squarepigholborn.com/", 
-  "description": "A central London pub.", 
   "end_date": null, 
-  "title": "Square Pig Holborn", 
-  "record_id": "20180207T090000/fRdzUdurCuKTmgpBRVhlvg==", 
-  "publisher": "squarepigholborn.com", 
+  "date": "2018-02-07T09:00:00", 
   "slug": 60944, 
+  "publisher": "squarepigholborn.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Square Pig Holborn", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180207T090000/fRdzUdurCuKTmgpBRVhlvg==", 
+  "scope": "root", 
   "start_date": "2018-02-07T09:00:00Z"
 }
 

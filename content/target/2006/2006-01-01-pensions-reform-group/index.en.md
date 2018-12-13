@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pensionsreformgroup.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Pensions Reform Group", 
-  "record_id": "20060101T120000/50SkYRUAnkyUOJrkU7sFhQ==", 
-  "publisher": "pensionsreformgroup.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 123772, 
+  "publisher": "pensionsreformgroup.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Pensions Reform Group", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/50SkYRUAnkyUOJrkU7sFhQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

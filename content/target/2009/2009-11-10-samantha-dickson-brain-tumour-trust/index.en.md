@@ -1,13 +1,16 @@
 {
-  "date": "2009-11-10T00:00:00", 
-  "open_access": true, 
   "target_url": "http://braintumourtrust.co.uk/", 
-  "description": "Samantha Dickson Brain Tumour Trust is the leading charity dedicated to brain tumour research, and patient information and support in the UK.\n\n", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "Samantha Dickson Brain Tumour Trust", 
-  "record_id": "20091110T000000/mgBqV3rMOkH+Rr9HR40cIA==", 
-  "publisher": "braintumourtrust.co.uk", 
+  "date": "2009-11-10T00:00:00", 
   "slug": 32145560, 
+  "publisher": "braintumourtrust.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Samantha Dickson Brain Tumour Trust", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20091110T000000/mgBqV3rMOkH+Rr9HR40cIA==", 
+  "scope": "root", 
   "start_date": "2009-11-10T00:00:00Z"
 }
 

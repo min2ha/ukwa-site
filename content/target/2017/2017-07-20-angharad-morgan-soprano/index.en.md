@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.angharadmorgansoprano.co.uk/", 
-  "description": "Angharad Morgan is soprano mentored by Dame Kiri Te Kanawa and and a recipient of the Bryn Terfel Foundation. ", 
   "end_date": null, 
-  "title": "Angharad Morgan Soprano", 
-  "record_id": "20170720T090000/d3s2VDM4axGIlwGf/XHW6Q==", 
-  "publisher": "angharadmorgansoprano.co.uk", 
+  "date": "2017-07-20T09:00:00", 
   "slug": 56011, 
+  "publisher": "angharadmorgansoprano.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Angharad Morgan Soprano", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170720T090000/d3s2VDM4axGIlwGf/XHW6Q==", 
+  "scope": "root", 
   "start_date": "2017-07-20T09:00:00Z"
 }
 

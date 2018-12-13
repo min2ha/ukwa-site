@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gwauncaegurwenband.org.uk/", 
-  "description": "Gwaun Cae Gurwen Band is a brass band formed in 1892 in the former welsh mining village of Gwaun Cae Gurwen, near Neath.", 
   "end_date": null, 
-  "title": "Gwaun Cae Gurwen Band", 
-  "record_id": "20170727T090000/nYCRRmbYrIt6ogkmrI8wXQ==", 
-  "publisher": "gwauncaegurwenband.org.uk", 
+  "date": "2017-07-27T09:00:00", 
   "slug": 56166, 
+  "publisher": "gwauncaegurwenband.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwaun Cae Gurwen Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170727T090000/nYCRRmbYrIt6ogkmrI8wXQ==", 
+  "scope": "root", 
   "start_date": "2017-07-27T09:00:00Z"
 }
 

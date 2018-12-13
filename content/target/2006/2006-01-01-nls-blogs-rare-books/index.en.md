@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://blogs.nls.uk/rarebooks/", 
-  "description": "", 
   "end_date": null, 
-  "title": "NLS blogs: Rare books", 
-  "record_id": "20060101T120000/l8Gdw1SvSYC+Qb37YrBglQ==", 
-  "publisher": "nls.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 30167, 
+  "publisher": "nls.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NLS blogs: Rare books", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/l8Gdw1SvSYC+Qb37YrBglQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

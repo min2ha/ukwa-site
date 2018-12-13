@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.infobayceredigion.co.uk/", 
-  "description": "An interactive website offering information, news and advice to all young people aged 11 to 25 in Ceredigion.", 
   "end_date": null, 
-  "title": "Info Bay Ceredigion", 
-  "record_id": "20150414T090000/ZH2N04H5fF8vyyeWdwHrjg==", 
-  "publisher": "infobayceredigion.co.uk", 
+  "date": "2015-04-14T09:00:00", 
   "slug": 21822, 
+  "publisher": "infobayceredigion.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Info Bay Ceredigion", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T090000/ZH2N04H5fF8vyyeWdwHrjg==", 
+  "scope": "root", 
   "start_date": "2015-04-14T09:00:00Z"
 }
 

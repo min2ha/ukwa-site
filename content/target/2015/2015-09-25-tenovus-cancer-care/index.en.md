@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tenovuscancercare.org.uk/", 
-  "description": "Tenovus is a Welsh based cancer charity.", 
   "end_date": null, 
-  "title": "Tenovus Cancer Care", 
-  "record_id": "20150925T100000/sF/aCHv6DT7vq+CJV9fprQ==", 
-  "publisher": "tenovuscancercare.org.uk", 
+  "date": "2015-09-25T10:00:00", 
   "slug": 30852, 
+  "publisher": "tenovuscancercare.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tenovus Cancer Care", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T100000/sF/aCHv6DT7vq+CJV9fprQ==", 
+  "scope": "root", 
   "start_date": "2015-09-25T10:00:00Z"
 }
 

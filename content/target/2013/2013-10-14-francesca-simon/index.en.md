@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.francescasimon.com/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 12681233, 
-  "subject": "Children's Websites", 
   "publisher": "francescasimon.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Francesca Simon", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2391, 
+      "name": "Children's Websites"
+    }
+  ], 
   "record_id": "20131014T100000/UkvKLpmWTOI9RI2M28Avsw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

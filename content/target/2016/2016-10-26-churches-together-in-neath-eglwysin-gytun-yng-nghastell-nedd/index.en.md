@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-26T11:00:00", 
-  "open_access": false, 
   "target_url": "http://neath-churches.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Churches Together in Neath | Eglwysi'n Gytun yng Nghastell Nedd", 
-  "record_id": "20161026T110000/rc3E/DpsCkXqzJRpxUtHdg==", 
-  "publisher": "neath-churches.org", 
+  "date": "2016-10-26T11:00:00", 
   "slug": 46491, 
+  "publisher": "neath-churches.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Churches Together in Neath | Eglwysi'n Gytun yng Nghastell Nedd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161026T110000/rc3E/DpsCkXqzJRpxUtHdg==", 
+  "scope": "root", 
   "start_date": "2016-10-26T11:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://gov.wales/topics/environmentcountryside/marineandfisheries/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Government: Marine and Fisheries", 
-  "record_id": "20170325T090000//6wxi8THvqqJ/McEFwHvhQ==", 
-  "publisher": "gov.wales", 
+  "date": "2017-03-25T09:00:00", 
   "slug": 51205, 
+  "publisher": "gov.wales", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Government: Marine and Fisheries", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170325T090000//6wxi8THvqqJ/McEFwHvhQ==", 
+  "scope": "root", 
   "start_date": "2017-03-25T09:00:00Z"
 }
 

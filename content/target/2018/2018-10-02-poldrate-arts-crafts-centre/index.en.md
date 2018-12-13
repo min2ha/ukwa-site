@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://thepacc.org.uk/", 
-  "description": "Site of an arts and crafts centre at Haddington, East Lothian.", 
   "end_date": null, 
-  "title": "Poldrate Arts & Crafts Centre", 
-  "record_id": "20181002T090000/i3Oj74kBB6mh+Msqw5VLtw==", 
-  "publisher": "thepacc.org.uk", 
+  "date": "2018-10-02T09:00:00", 
   "slug": 71897, 
+  "publisher": "thepacc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Poldrate Arts & Crafts Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181002T090000/i3Oj74kBB6mh+Msqw5VLtw==", 
+  "scope": "root", 
   "start_date": "2018-10-02T09:00:00Z"
 }
 

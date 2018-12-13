@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.learndementia.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Dementia Training", 
-  "record_id": "20060101T120000/Y5gPVg+F3B+8PtbzqBTm/w==", 
-  "publisher": "learndementia.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9831, 
+  "publisher": "learndementia.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dementia Training", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Y5gPVg+F3B+8PtbzqBTm/w==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2013-05-08T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.denbighshire.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Denbighshire County Council  | Cyngor Sir Dinbych", 
-  "record_id": "20130508T000000/UGLduOgL9A5DZGCC8Zt8Mg==", 
-  "publisher": "denbighshire.gov.uk", 
+  "date": "2013-05-08T00:00:00", 
   "slug": 136020448, 
+  "publisher": "denbighshire.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Denbighshire County Council  | Cyngor Sir Dinbych", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130508T000000/UGLduOgL9A5DZGCC8Zt8Mg==", 
+  "scope": "root", 
   "start_date": "2013-05-08T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.east-yorkshire-regiment.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "East Yorkshire Regiment ", 
-  "record_id": "20131014T100000//laKTIu0+gUcA9HxHgpUZA==", 
-  "publisher": "east-yorkshire-regiment.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 7671, 
+  "publisher": "east-yorkshire-regiment.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "East Yorkshire Regiment ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000//laKTIu0+gUcA9HxHgpUZA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

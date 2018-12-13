@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-14T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ghostsinarmour.eu/", 
-  "description": "\u2018Ghosts in Armour\u2019 is a multi-disciplinary artistic exploration into the post-industrial landscape of Europe\u2019s Steel Industry. ", 
   "end_date": null, 
-  "title": "Ghosts in Armour", 
-  "record_id": "20150714T100000/1KK75rQiZd5vLiy8Q9kKkA==", 
-  "publisher": "ghostsinarmour.eu", 
+  "date": "2015-07-14T10:00:00", 
   "slug": 28894, 
+  "publisher": "ghostsinarmour.eu", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ghosts in Armour", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150714T100000/1KK75rQiZd5vLiy8Q9kKkA==", 
+  "scope": "root", 
   "start_date": "2015-07-14T10:00:00Z"
 }
 

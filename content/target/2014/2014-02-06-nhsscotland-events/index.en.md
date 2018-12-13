@@ -1,13 +1,21 @@
 {
-  "date": "2014-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nhsscotlandevent.com", 
-  "description": null, 
   "end_date": null, 
-  "title": "NHSScotland Events", 
-  "record_id": "20140206T060000/vugrJg2ExMzf+RvvHzXMtA==", 
-  "publisher": "nhsscotlandevent.com", 
+  "date": "2014-02-06T06:00:00", 
   "slug": 16739, 
+  "publisher": "nhsscotlandevent.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NHSScotland Events", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140206T060000/vugrJg2ExMzf+RvvHzXMtA==", 
+  "scope": "root", 
   "start_date": "2014-02-06T06:00:00Z"
 }
 

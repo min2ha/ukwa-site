@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.grough.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Grough - the inside view of the outdoor world", 
-  "record_id": "20131014T100000/rMwQrC6gGMGbI5klWR1LWA==", 
-  "publisher": "grough.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 31260672, 
+  "publisher": "grough.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Grough - the inside view of the outdoor world", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/rMwQrC6gGMGbI5klWR1LWA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

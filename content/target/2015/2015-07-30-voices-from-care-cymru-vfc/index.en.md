@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.vfcc.org.uk/", 
-  "description": "Voices From Care is the voice of children and young people throughout Wales, who are, or have been looked after by local authorities, voluntary and private organisations.", 
   "end_date": null, 
-  "title": "Voices from Care Cymru (VFC)", 
-  "record_id": "20150730T100000/LmF4Srr+lyV5jP8VZPV/Vw==", 
-  "publisher": "vfcc.org.uk", 
+  "date": "2015-07-30T10:00:00", 
   "slug": 29484, 
+  "publisher": "vfcc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Voices from Care Cymru (VFC)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150730T100000/LmF4Srr+lyV5jP8VZPV/Vw==", 
+  "scope": "root", 
   "start_date": "2015-07-30T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-11T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.forcardiff.com/", 
-  "description": "For Cardiff is a business improvement district, a defined area within the city which works with businesses to agree to a range of projects that will help improve the environment. FOR Cardiff was previously called Cardiff\u2019s Business Improvement District (BID). ", 
   "end_date": null, 
-  "title": "FOR Cardiff ", 
-  "record_id": "20180511T090000/OyaS00gDWW25EqXRwZ+vzQ==", 
-  "publisher": "forcardiff.com", 
+  "date": "2018-05-11T09:00:00", 
   "slug": 65372, 
+  "publisher": "forcardiff.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "FOR Cardiff ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180511T090000/OyaS00gDWW25EqXRwZ+vzQ==", 
+  "scope": "root", 
   "start_date": "2018-05-11T09:00:00Z"
 }
 

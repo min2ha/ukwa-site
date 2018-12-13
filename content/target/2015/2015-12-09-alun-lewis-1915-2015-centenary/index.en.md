@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "https://alunlewis.wordpress.com/", 
-  "description": "Alun Lewis is a Welsh writer of the Second World War.", 
   "end_date": null, 
-  "title": "Alun Lewis 1915-2015 Centenary", 
-  "record_id": "20151209T090000//4J0x2/T4iWnFP8mAUgWPQ==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-12-09T09:00:00", 
   "slug": 33327, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alun Lewis 1915-2015 Centenary", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151209T090000//4J0x2/T4iWnFP8mAUgWPQ==", 
+  "scope": "root", 
   "start_date": "2015-12-09T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.eco-island.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Eco Island - Isle of Wight", 
-  "record_id": "20131014T100000/pVfB7l32CzhMM3Rp4i1a7A==", 
-  "publisher": "eco-island.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 15499266, 
+  "publisher": "eco-island.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Eco Island - Isle of Wight", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/pVfB7l32CzhMM3Rp4i1a7A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

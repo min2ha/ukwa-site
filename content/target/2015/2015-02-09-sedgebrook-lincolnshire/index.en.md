@@ -1,13 +1,16 @@
 {
-  "date": "2015-02-09T00:00:00", 
-  "open_access": true, 
   "target_url": "http://freepages.history.rootsweb.ancestry.com/~sedgebrook/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sedgebrook - Lincolnshire", 
-  "record_id": "20150209T000000/KAuURbDWtUdu6JsamPVxfA==", 
-  "publisher": "ancestry.com", 
+  "date": "2015-02-09T00:00:00", 
   "slug": 58195980, 
+  "publisher": "ancestry.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sedgebrook - Lincolnshire", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150209T000000/KAuURbDWtUdu6JsamPVxfA==", 
+  "scope": "root", 
   "start_date": "2015-02-09T00:00:00Z"
 }
 

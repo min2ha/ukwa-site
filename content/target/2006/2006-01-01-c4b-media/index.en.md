@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.c4bmedia.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "C4B Media", 
-  "record_id": "20060101T120000/y0qO4Yp09AGzzHgjnvrFvA==", 
-  "publisher": "c4bmedia.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 1482, 
+  "publisher": "c4bmedia.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "C4B Media", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/y0qO4Yp09AGzzHgjnvrFvA==", 
+  "scope": "root", 
   "start_date": null
 }
 

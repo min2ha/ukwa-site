@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.headline.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "HEADLINE : Hybrid Electronic Access and Delivery In the Library Networked Environment", 
-  "record_id": "20060101T120000/wEGXDmJrhvtjkbDNhgwm3Q==", 
-  "publisher": "headline.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 114098, 
+  "publisher": "headline.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "HEADLINE : Hybrid Electronic Access and Delivery In the Library Networked Environment", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/wEGXDmJrhvtjkbDNhgwm3Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.annemorgan.co.uk/", 
-  "description": "Anne Morgan is a award winning jeweller supported by the Arts Council of Wales and based at her own gallery in Penarth.", 
   "end_date": null, 
-  "title": "Anne Morgan Jewellery", 
-  "record_id": "20170318T090000//qi9+lO2iRpTn7Zc+rvI7w==", 
-  "publisher": "annemorgan.co.uk", 
+  "date": "2017-03-18T09:00:00", 
   "slug": 50731, 
+  "publisher": "annemorgan.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Anne Morgan Jewellery", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170318T090000//qi9+lO2iRpTn7Zc+rvI7w==", 
+  "scope": "root", 
   "start_date": "2017-03-18T09:00:00Z"
 }
 

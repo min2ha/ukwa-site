@@ -1,14 +1,26 @@
 {
   "target_url": "http://cardonaldparishchurch.org.uk/", 
-  "description": "Site of a Church of Scotland parish church at Cardonald, Glasgow.", 
   "end_date": null, 
   "date": "2018-02-22T09:00:00", 
   "slug": 61528, 
-  "subject": "Religion/Theology", 
   "publisher": "cardonaldparishchurch.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cardonald Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180222T090000/8jo4HVH9zTU6NsfY8+14zw==", 
+  "scope": "root", 
   "start_date": "2018-02-22T09:00:00Z"
 }
 

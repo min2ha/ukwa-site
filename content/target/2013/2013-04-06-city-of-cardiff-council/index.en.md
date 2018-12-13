@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "https://www.cardiff.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "City of Cardiff Council", 
-  "record_id": "20130406T010000/PEltu/mXbYowRZcGJlmgzA==", 
-  "publisher": "cardiff.gov.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15914, 
+  "publisher": "cardiff.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "City of Cardiff Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/PEltu/mXbYowRZcGJlmgzA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

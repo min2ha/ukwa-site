@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.supremo-trial.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Selective Use of Postoperative Radiotherapy After Mastectomy (SUPREMO)", 
-  "record_id": "20181003T090000/3l/6wliu9Z2DWNbraNYskw==", 
-  "publisher": "supremo-trial.com", 
+  "date": "2018-10-03T09:00:00", 
   "slug": 72008, 
+  "publisher": "supremo-trial.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Selective Use of Postoperative Radiotherapy After Mastectomy (SUPREMO)", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181003T090000/3l/6wliu9Z2DWNbraNYskw==", 
+  "scope": "root", 
   "start_date": "2018-10-03T09:00:00Z"
 }
 

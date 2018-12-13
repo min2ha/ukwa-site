@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.open.ac.uk/", 
-  "description": "Official website of the Open University.", 
   "end_date": null, 
-  "title": "Open University, The", 
-  "record_id": "20150918T100000/ElCXyjReNlEm/AAmS95Z0w==", 
-  "publisher": "open.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 4325393, 
+  "publisher": "open.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Open University, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/ElCXyjReNlEm/AAmS95Z0w==", 
+  "scope": "root", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

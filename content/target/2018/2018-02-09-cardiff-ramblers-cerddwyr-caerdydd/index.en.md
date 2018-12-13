@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardifframblers.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Ramblers | Cerddwyr Caerdydd", 
-  "record_id": "20180209T090000/YDpKz4+8b8LkF8v7T0R7pg==", 
-  "publisher": "cardifframblers.org.uk", 
+  "date": "2018-02-09T09:00:00", 
   "slug": 61119, 
+  "publisher": "cardifframblers.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Ramblers | Cerddwyr Caerdydd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180209T090000/YDpKz4+8b8LkF8v7T0R7pg==", 
+  "scope": "root", 
   "start_date": "2018-02-09T09:00:00Z"
 }
 

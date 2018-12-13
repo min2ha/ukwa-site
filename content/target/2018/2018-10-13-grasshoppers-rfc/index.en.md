@@ -1,14 +1,26 @@
 {
   "target_url": "https://grasshoppersrfc.com/", 
-  "description": "The official website of Grasshoppers Rugby. A local community sports club in West London with excellent facilities, catering for girls and boys, men and women, from four years upwards, located just off the A4 in Osterley/Isleworth in Middlesex.\n", 
   "end_date": null, 
   "date": "2018-10-13T09:00:00", 
   "slug": 81372, 
-  "subject": "Sport: Football", 
   "publisher": "grasshoppersrfc.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Grasshoppers RFC", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20181013T090000/kLAUr96BpiR4PL6vPsE+yA==", 
+  "scope": "root", 
   "start_date": "2018-10-13T09:00:00Z"
 }
 

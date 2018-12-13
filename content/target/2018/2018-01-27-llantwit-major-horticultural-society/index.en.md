@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llantwit-major-horticultural-society.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llantwit Major Horticultural Society", 
-  "record_id": "20180127T090000/HgYOh9RUPh0az9q3yhl6Ug==", 
-  "publisher": "llantwit-major-horticultural-society.com", 
+  "date": "2018-01-27T09:00:00", 
   "slug": 60573, 
+  "publisher": "llantwit-major-horticultural-society.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llantwit Major Horticultural Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180127T090000/HgYOh9RUPh0az9q3yhl6Ug==", 
+  "scope": "root", 
   "start_date": "2018-01-27T09:00:00Z"
 }
 

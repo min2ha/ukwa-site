@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.tonycaldeira.org.uk/", 
-  "description": "Tony Caldiera stood as Conservative candidate for Wirral West in the 2017 General Election but was not elected.", 
   "end_date": "2017-09-30T00:00:00Z", 
   "date": "2017-06-02T09:00:00", 
   "slug": 54108, 
-  "subject": "UK General Election 2017", 
   "publisher": "tonycaldeira.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Tony Caldeira (Conservative Politician)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170602T090000/YfQj1NayjdqdqoaSlfbIlg==", 
+  "scope": "root", 
   "start_date": "2017-06-02T09:00:00Z"
 }
 

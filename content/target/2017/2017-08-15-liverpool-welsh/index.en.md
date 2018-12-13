@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.liverpool-welsh.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Liverpool Welsh", 
-  "record_id": "20170815T090000/4Alu3jD5mn/E175zJp34wg==", 
-  "publisher": "liverpool-welsh.co.uk", 
+  "date": "2017-08-15T09:00:00", 
   "slug": 28758, 
+  "publisher": "liverpool-welsh.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Liverpool Welsh", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170815T090000/4Alu3jD5mn/E175zJp34wg==", 
+  "scope": "root", 
   "start_date": "2017-08-15T09:00:00Z"
 }
 

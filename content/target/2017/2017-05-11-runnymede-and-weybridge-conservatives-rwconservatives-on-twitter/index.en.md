@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/RWconservatives/", 
-  "description": "Twitter feed of Runnymede and Weybridge Conservatives.", 
   "end_date": "2017-06-30T00:00:00Z", 
   "date": "2017-05-11T09:00:00", 
   "slug": 53065, 
-  "subject": "UK General Election 2017", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Runnymede and Weybridge Conservatives (@RWconservatives ) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170511T090000/Q0nZnB5j5395AVd6KI7iQQ==", 
+  "scope": "root", 
   "start_date": "2017-05-11T09:00:00Z"
 }
 

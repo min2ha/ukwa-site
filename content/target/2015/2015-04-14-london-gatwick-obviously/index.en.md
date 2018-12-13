@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gatwickobviously.com/", 
-  "description": "Website promoting the idea of building a second runway at Gatwick Airport.", 
   "end_date": null, 
-  "title": "London Gatwick Obviously", 
-  "record_id": "20150414T090000/+w+5mLFKfeHyPNidhhsFzg==", 
-  "publisher": "gatwickobviously.com", 
+  "date": "2015-04-14T09:00:00", 
   "slug": 21375, 
+  "publisher": "gatwickobviously.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London Gatwick Obviously", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T090000/+w+5mLFKfeHyPNidhhsFzg==", 
+  "scope": "root", 
   "start_date": "2015-04-14T09:00:00Z"
 }
 

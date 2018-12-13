@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-08T11:00:00", 
-  "open_access": false, 
   "target_url": "https://fragmentsofunion.wordpress.com/", 
-  "description": "This is the blog to accompany a new undergraduate course at Swansea University\u2019s English Department: \u2018Fragments of Union: The Cultural Making and Breaking of Britain\u2019.", 
   "end_date": null, 
-  "title": "Fragments of Union: The Cultural Making and Breaking of Britain", 
-  "record_id": "20161008T110000/7f2ZGziVp/crZKkvSH+pxA==", 
-  "publisher": "wordpress.com", 
+  "date": "2016-10-08T11:00:00", 
   "slug": 46032, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fragments of Union: The Cultural Making and Breaking of Britain", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161008T110000/7f2ZGziVp/crZKkvSH+pxA==", 
+  "scope": "root", 
   "start_date": "2016-10-08T11:00:00Z"
 }
 

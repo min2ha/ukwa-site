@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.serendipity-uk.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Serendipity", 
-  "record_id": "20060101T120000/JYWgifEqTiqhys7+A5iiHQ==", 
-  "publisher": "serendipity-uk.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 73007259, 
+  "publisher": "serendipity-uk.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Serendipity", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/JYWgifEqTiqhys7+A5iiHQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

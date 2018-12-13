@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ainsleyhillard.com/", 
-  "description": "<p>Ainsley Hillard is a Welsh artist from Carmarthenshire.</p>\n", 
   "end_date": null, 
-  "title": "Ainsley Hillard", 
-  "record_id": "20060101T120000/0MctwgFSN5S+Q9W3iPr8ng==", 
-  "publisher": "ainsleyhillard.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14515, 
+  "publisher": "ainsleyhillard.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ainsley Hillard", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/0MctwgFSN5S+Q9W3iPr8ng==", 
+  "scope": "root", 
   "start_date": null
 }
 

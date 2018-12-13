@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://driftwooddesigns.co.uk/", 
-  "description": "Website of West Wales artist Lizzie Spikes.", 
   "end_date": null, 
-  "title": "Driftwood Designs", 
-  "record_id": "20150424T090000/pmlxAmExemzQX2tGq+g87w==", 
-  "publisher": "driftwooddesigns.co.uk", 
+  "date": "2015-04-24T09:00:00", 
   "slug": 22359, 
+  "publisher": "driftwooddesigns.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Driftwood Designs", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150424T090000/pmlxAmExemzQX2tGq+g87w==", 
+  "scope": "root", 
   "start_date": "2015-04-24T09:00:00Z"
 }
 

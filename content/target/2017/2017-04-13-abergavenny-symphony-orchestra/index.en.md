@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-13T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.abergavennysymph.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Abergavenny Symphony Orchestra", 
-  "record_id": "20170413T090000/yM5iWh8oAAxGDaBlgqV0tw==", 
-  "publisher": "abergavennysymph.org.uk", 
+  "date": "2017-04-13T09:00:00", 
   "slug": 51987, 
+  "publisher": "abergavennysymph.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Abergavenny Symphony Orchestra", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170413T090000/yM5iWh8oAAxGDaBlgqV0tw==", 
+  "scope": "root", 
   "start_date": "2017-04-13T09:00:00Z"
 }
 

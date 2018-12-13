@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.papercraftinspirationsmagazine.co.uk/", 
-  "description": "Online version of the Papercraft Inspirations magazine.", 
   "end_date": null, 
-  "title": "Papercraft Inspirations", 
-  "record_id": "20151112T090000/9aOBc7wti35dxFX1cqR86Q==", 
-  "publisher": "papercraftinspirationsmagazine.co.uk", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32481, 
+  "publisher": "papercraftinspirationsmagazine.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Papercraft Inspirations", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/9aOBc7wti35dxFX1cqR86Q==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

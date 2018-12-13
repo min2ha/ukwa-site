@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.compoundsecurity.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Compound Security Systems", 
-  "record_id": "20060101T120000/FAEXRADl0+UtDiJ4/Pr+IQ==", 
-  "publisher": "compoundsecurity.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 138308, 
+  "publisher": "compoundsecurity.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Compound Security Systems", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FAEXRADl0+UtDiJ4/Pr+IQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

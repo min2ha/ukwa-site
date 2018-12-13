@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-21T09:00:00", 
-  "open_access": false, 
   "target_url": "https://sgribhisg.tumblr.com/", 
-  "description": "Tunblr page of Scottish Gaelic advocacy and learning.", 
   "end_date": null, 
-  "title": "Sgr\u00ecbhisg G\u00e0idhlig agus na rudan eile Tumblr page", 
-  "record_id": "20171221T090000/TGsRUqQC21TOwk2UlheFKw==", 
-  "publisher": "tumblr.com", 
+  "date": "2017-12-21T09:00:00", 
   "slug": 59883, 
+  "publisher": "tumblr.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sgr\u00ecbhisg G\u00e0idhlig agus na rudan eile Tumblr page", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171221T090000/TGsRUqQC21TOwk2UlheFKw==", 
+  "scope": "root", 
   "start_date": "2017-12-21T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://wsr.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "www.wsr.org.uk", 
-  "record_id": "20131014T100000/h2pRN6XKfENQPoSwidvk+Q==", 
-  "publisher": "wsr.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588053, 
+  "publisher": "wsr.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "www.wsr.org.uk", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/h2pRN6XKfENQPoSwidvk+Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

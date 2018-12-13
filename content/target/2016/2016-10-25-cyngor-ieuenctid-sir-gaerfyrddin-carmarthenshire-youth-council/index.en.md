@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://youthsirgar.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Ieuenctid Sir Gaerfyrddin | Carmarthenshire Youth Council", 
-  "record_id": "20161025T100000/8NwBLp56a486dgUlj8kdmA==", 
-  "publisher": "youthsirgar.org.uk", 
+  "date": "2016-10-25T10:00:00", 
   "slug": 46448, 
+  "publisher": "youthsirgar.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Ieuenctid Sir Gaerfyrddin | Carmarthenshire Youth Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161025T100000/8NwBLp56a486dgUlj8kdmA==", 
+  "scope": "root", 
   "start_date": "2016-10-25T10:00:00Z"
 }
 

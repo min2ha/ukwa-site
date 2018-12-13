@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lochstolakes.co.uk/", 
-  "description": "Site of a book published in 2016 about Donald MacDonald, \u201cD\u00f2mhnall Ghilleasbuig Sorcha\u201d ", 
   "end_date": null, 
-  "title": "From Small Lochs to Great Lakes", 
-  "record_id": "20060101T120000/k2Grvlm1DZrC/ivbXPn/ng==", 
-  "publisher": "lochstolakes.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 45656, 
+  "publisher": "lochstolakes.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "From Small Lochs to Great Lakes", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/k2Grvlm1DZrC/ivbXPn/ng==", 
+  "scope": "root", 
   "start_date": null
 }
 

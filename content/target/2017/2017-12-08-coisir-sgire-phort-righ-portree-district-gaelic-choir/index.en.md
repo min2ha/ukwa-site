@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.portreegaelicchoir.moonfruit.com/", 
-  "description": "The website of C\u00f2isir Sg\u00ecre Phort R\u00ecgh, the Portree District Gaelic Choir; their members come from the Isle of Skye and further afield.", 
   "end_date": null, 
   "date": "2017-12-08T09:00:00", 
   "slug": 31003, 
-  "subject": null, 
   "publisher": "moonfruit.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "C\u00f2isir Sgire Phort R\u00ecgh / Portree District Gaelic Choir", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20171208T090000/vL3nqsRM2IyVnb/tKq2FOw==", 
+  "scope": "root", 
   "start_date": "2017-12-08T09:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.penge-anglicans.org/", 
-  "description": "St John the Evangelist Penge is situated in the urban fringe of South East London. ", 
   "end_date": null, 
   "date": "2017-04-19T09:00:00", 
   "slug": 52037, 
-  "subject": "Religion/Theology", 
   "publisher": "penge-anglicans.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. John\u2019s Church, Penge", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170419T090000/PRx1FKqIe1c+rMmZpxWtBA==", 
+  "scope": "root", 
   "start_date": "2017-04-19T09:00:00Z"
 }
 

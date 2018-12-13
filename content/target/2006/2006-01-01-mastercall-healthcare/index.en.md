@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.mastercall.org.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 2833, 
-  "subject": null, 
   "publisher": "mastercall.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Mastercall Healthcare", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 9, 
+      "name": "Health and Social Care Act 2012 - NHS Reforms"
+    }
+  ], 
   "record_id": "20060101T120000/mCX6xOq04dZwMBbCMPUD1w==", 
+  "scope": "root", 
   "start_date": null
 }
 

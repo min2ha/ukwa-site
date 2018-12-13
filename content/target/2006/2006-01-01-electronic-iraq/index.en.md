@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://electroniciraq.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Electronic Iraq", 
-  "record_id": "20060101T120000/NGeO/OpA4ExDDrkTKEdbAQ==", 
-  "publisher": "electroniciraq.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 102223, 
+  "publisher": "electroniciraq.net", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Electronic Iraq", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NGeO/OpA4ExDDrkTKEdbAQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

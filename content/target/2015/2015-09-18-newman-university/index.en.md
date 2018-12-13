@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.newman.ac.uk/", 
-  "description": "Official website of the Newman University, Birmingham. ", 
   "end_date": null, 
-  "title": "Newman University", 
-  "record_id": "20150918T100000/e2nskSljp4ckDvqJ+G9xHw==", 
-  "publisher": "newman.ac.uk", 
+  "date": "2015-09-18T10:00:00", 
   "slug": 30600, 
+  "publisher": "newman.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Newman University", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150918T100000/e2nskSljp4ckDvqJ+G9xHw==", 
+  "scope": "root", 
   "start_date": "2015-09-18T10:00:00Z"
 }
 

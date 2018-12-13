@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.josierussell.com/", 
-  "description": "Josie Russell is a freelance textile artist based in Gwynedd.", 
   "end_date": null, 
-  "title": "Josie Russell", 
-  "record_id": "20151027T090000/5xGnPdUTvgZZncjFoffBaw==", 
-  "publisher": "josierussell.com", 
+  "date": "2015-10-27T09:00:00", 
   "slug": 31778, 
+  "publisher": "josierussell.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Josie Russell", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151027T090000/5xGnPdUTvgZZncjFoffBaw==", 
+  "scope": "root", 
   "start_date": "2015-10-27T09:00:00Z"
 }
 

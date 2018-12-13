@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.kaleidoscopeproject.org.uk/", 
-  "description": "Kaleidscope helps people with Drug, Alcohol & Mental Health issues empowering them to achieve change together.", 
   "end_date": null, 
-  "title": "Kaleidscope Project, The", 
-  "record_id": "20170330T090000/E0LfKLdXSPkS2SVKW/XOSw==", 
-  "publisher": "kaleidoscopeproject.org.uk", 
+  "date": "2017-03-30T09:00:00", 
   "slug": 51497, 
+  "publisher": "kaleidoscopeproject.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kaleidscope Project, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170330T090000/E0LfKLdXSPkS2SVKW/XOSw==", 
+  "scope": "root", 
   "start_date": "2017-03-30T09:00:00Z"
 }
 

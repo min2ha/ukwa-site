@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mossburn.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Mossburn Animal Centre", 
-  "record_id": "20060101T120000/s2azhCha3/w2WsHqXAT/EA==", 
-  "publisher": "mossburn.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117253, 
+  "publisher": "mossburn.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Mossburn Animal Centre", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/s2azhCha3/w2WsHqXAT/EA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lighthouse-church.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Light House Church", 
-  "record_id": "20151107T090000//ekCi1L5sitteiKHUWkTuQ==", 
-  "publisher": "lighthouse-church.co.uk", 
+  "date": "2015-11-07T09:00:00", 
   "slug": 32209, 
+  "publisher": "lighthouse-church.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Light House Church", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151107T090000//ekCi1L5sitteiKHUWkTuQ==", 
+  "scope": "root", 
   "start_date": "2015-11-07T09:00:00Z"
 }
 

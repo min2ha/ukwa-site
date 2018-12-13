@@ -1,13 +1,16 @@
 {
-  "date": "2008-03-18T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rawales.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Referee's Association of Wales, The", 
-  "record_id": "20080318T000000/R+fXAVmcPlv76tz8aQn/ug==", 
-  "publisher": "rawales.co.uk", 
+  "date": "2008-03-18T00:00:00", 
   "slug": 1769476, 
+  "publisher": "rawales.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Referee's Association of Wales, The", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20080318T000000/R+fXAVmcPlv76tz8aQn/ug==", 
+  "scope": "root", 
   "start_date": "2008-03-18T00:00:00Z"
 }
 

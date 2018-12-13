@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.monmouthshiremobilemovies.co.uk/", 
-  "description": "The Monmouthshire Mobile Movies group screen newly released films in rural community venues in Monmouthshire. The website is no longer live.", 
   "end_date": null, 
-  "title": "Monmouthshire Mobile Movies | Sinema Symudol Sir Fynwy", 
-  "record_id": "20060101T120000/51sGxBMUSv4416RorR5IUQ==", 
-  "publisher": "monmouthshiremobilemovies.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 67641, 
+  "publisher": "monmouthshiremobilemovies.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Monmouthshire Mobile Movies | Sinema Symudol Sir Fynwy", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/51sGxBMUSv4416RorR5IUQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

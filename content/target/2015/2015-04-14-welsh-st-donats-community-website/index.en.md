@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welsh-st-donats-community.btck.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh St Donats community website", 
-  "record_id": "20150414T090000/rCKVH0ph/qbqqBvXW/19kw==", 
-  "publisher": "btck.co.uk", 
+  "date": "2015-04-14T09:00:00", 
   "slug": 21824, 
+  "publisher": "btck.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh St Donats community website", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T090000/rCKVH0ph/qbqqBvXW/19kw==", 
+  "scope": "root", 
   "start_date": "2015-04-14T09:00:00Z"
 }
 

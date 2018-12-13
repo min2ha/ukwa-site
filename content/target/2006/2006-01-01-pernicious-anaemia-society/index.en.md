@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pernicious-anaemia-society.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Pernicious Anaemia Society", 
-  "record_id": "20060101T120000/gmFzFnQePqUmYQcxxqVj9Q==", 
-  "publisher": "pernicious-anaemia-society.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 64290819, 
+  "publisher": "pernicious-anaemia-society.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Pernicious Anaemia Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/gmFzFnQePqUmYQcxxqVj9Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

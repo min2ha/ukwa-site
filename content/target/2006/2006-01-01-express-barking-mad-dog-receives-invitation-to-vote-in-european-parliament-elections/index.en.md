@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.express.co.uk/news/weird/470369/Barking-mad-Dog-receives-invitation-to-VOTE-in-European-Parliament-elections", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 11028, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "express.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Express: Barking mad! Dog receives invitation to VOTE in European Parliament elections", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20060101T120000/tNgiVwL3DXfY/bQlO9fuOQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

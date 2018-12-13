@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://merthyrcynon.foodbank.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Merthyr Cynon Foodbank", 
-  "record_id": "20150417T090000/+u+lJJMK4yqLk+zsVnQpvA==", 
-  "publisher": "foodbank.org.uk", 
+  "date": "2015-04-17T09:00:00", 
   "slug": 21930, 
+  "publisher": "foodbank.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Merthyr Cynon Foodbank", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150417T090000/+u+lJJMK4yqLk+zsVnQpvA==", 
+  "scope": "root", 
   "start_date": "2015-04-17T09:00:00Z"
 }
 

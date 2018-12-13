@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-23T09:00:00", 
-  "open_access": true, 
   "target_url": "http://bellerbyglobemakers.co.uk", 
-  "description": "Company website of one of the few remaining globe makers in the UK", 
   "end_date": null, 
-  "title": "Bellerby & Co. Globemakers", 
-  "record_id": "20180323T090000/RxMkSXEC3ouE4Gs1NqmjXQ==", 
-  "publisher": "bellerbyglobemakers.co.uk", 
+  "date": "2018-03-23T09:00:00", 
   "slug": 62965, 
+  "publisher": "bellerbyglobemakers.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Bellerby & Co. Globemakers", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180323T090000/RxMkSXEC3ouE4Gs1NqmjXQ==", 
+  "scope": "root", 
   "start_date": "2018-03-23T09:00:00Z"
 }
 

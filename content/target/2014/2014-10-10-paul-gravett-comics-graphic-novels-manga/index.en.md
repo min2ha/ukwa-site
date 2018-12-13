@@ -1,13 +1,21 @@
 {
-  "date": "2014-10-10T07:00:00", 
-  "open_access": false, 
   "target_url": "http://www.paulgravett.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Paul Gravett: Comics, Graphic Novels, Manga", 
-  "record_id": "20141010T070000//uBoQwAiA7SoPnpv2csrzQ==", 
-  "publisher": "paulgravett.com", 
+  "date": "2014-10-10T07:00:00", 
   "slug": 14225, 
+  "publisher": "paulgravett.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Paul Gravett: Comics, Graphic Novels, Manga", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141010T070000//uBoQwAiA7SoPnpv2csrzQ==", 
+  "scope": "root", 
   "start_date": "2014-10-10T07:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llyswenandboughroodshow.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llyswen & Bougrood Show", 
-  "record_id": "20170621T090000/ySH5GTt/v+DbCaMraQqs9A==", 
-  "publisher": "llyswenandboughroodshow.org.uk", 
+  "date": "2017-06-21T09:00:00", 
   "slug": 54928, 
+  "publisher": "llyswenandboughroodshow.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llyswen & Bougrood Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170621T090000/ySH5GTt/v+DbCaMraQqs9A==", 
+  "scope": "subdomains", 
   "start_date": "2017-06-21T09:00:00Z"
 }
 

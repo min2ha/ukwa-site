@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llansantffraedcommunitycouncil.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Llansantffraed | Llansantffraed Community Council", 
-  "record_id": "20160527T100000/BcfRn5xJmEAw6LdLacU4pw==", 
-  "publisher": "llansantffraedcommunitycouncil.org.uk", 
+  "date": "2016-05-27T10:00:00", 
   "slug": 41923, 
+  "publisher": "llansantffraedcommunitycouncil.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Llansantffraed | Llansantffraed Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160527T100000/BcfRn5xJmEAw6LdLacU4pw==", 
+  "scope": "root", 
   "start_date": "2016-05-27T10:00:00Z"
 }
 

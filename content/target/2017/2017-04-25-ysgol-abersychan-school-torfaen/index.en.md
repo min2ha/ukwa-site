@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.abersychan.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Abersychan School, Torfaen", 
-  "record_id": "20170425T090000/iSf76eu8i5g6R8EmZUiXwQ==", 
-  "publisher": "abersychan.org.uk", 
+  "date": "2017-04-25T09:00:00", 
   "slug": 52382, 
+  "publisher": "abersychan.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Abersychan School, Torfaen", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170425T090000/iSf76eu8i5g6R8EmZUiXwQ==", 
+  "scope": "root", 
   "start_date": "2017-04-25T09:00:00Z"
 }
 

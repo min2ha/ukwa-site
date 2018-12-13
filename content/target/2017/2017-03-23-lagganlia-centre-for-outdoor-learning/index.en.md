@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lagganlia.com/", 
-  "description": "Site of an outdoor education centre offering guided adventures and expiditions in the Highlands around Kingussie.", 
   "end_date": null, 
-  "title": "Lagganlia Centre for Outdoor Learning", 
-  "record_id": "20170323T090000/WSKSQCwdp34q8ysxH/bPQQ==", 
-  "publisher": "lagganlia.com", 
+  "date": "2017-03-23T09:00:00", 
   "slug": 50939, 
+  "publisher": "lagganlia.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lagganlia Centre for Outdoor Learning", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170323T090000/WSKSQCwdp34q8ysxH/bPQQ==", 
+  "scope": "root", 
   "start_date": "2017-03-23T09:00:00Z"
 }
 

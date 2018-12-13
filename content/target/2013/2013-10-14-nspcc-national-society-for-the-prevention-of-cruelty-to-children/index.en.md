@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nspcc.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "NSPCC - National Society for the Prevention of Cruelty to Children", 
-  "record_id": "20131014T100000/fjNI2gCbyZq2ak2+U5VOww==", 
-  "publisher": "nspcc.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 101508, 
+  "publisher": "nspcc.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "NSPCC - National Society for the Prevention of Cruelty to Children", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/fjNI2gCbyZq2ak2+U5VOww==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

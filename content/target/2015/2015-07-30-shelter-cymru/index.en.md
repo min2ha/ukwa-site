@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://sheltercymru.org.uk/", 
-  "description": "Wales homelessness charity.", 
   "end_date": null, 
-  "title": "Shelter Cymru", 
-  "record_id": "20150730T100000/ecmbPD6FjMgsUJe3kDknxw==", 
-  "publisher": "sheltercymru.org.uk", 
+  "date": "2015-07-30T10:00:00", 
   "slug": 29483, 
+  "publisher": "sheltercymru.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shelter Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150730T100000/ecmbPD6FjMgsUJe3kDknxw==", 
+  "scope": "root", 
   "start_date": "2015-07-30T10:00:00Z"
 }
 

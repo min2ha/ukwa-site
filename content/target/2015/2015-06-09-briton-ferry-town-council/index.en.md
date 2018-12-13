@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": true, 
   "target_url": "http://britonferrycouncil.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Briton Ferry Town Council", 
-  "record_id": "20150609T090000/B0Rz8ttAxuIdjDSWXq3ufw==", 
-  "publisher": "britonferrycouncil.org.uk", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 293863778, 
+  "publisher": "britonferrycouncil.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Briton Ferry Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/B0Rz8ttAxuIdjDSWXq3ufw==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": true, 
   "target_url": "http://www.anglesey.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Isle of Anglesey County Council", 
-  "record_id": "20130406T010000/JGk4e1hAiJGbv8u+fjrCig==", 
-  "publisher": "anglesey.gov.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 62521371, 
+  "publisher": "anglesey.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Isle of Anglesey County Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/JGk4e1hAiJGbv8u+fjrCig==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

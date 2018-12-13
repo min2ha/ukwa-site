@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.worc.ac.uk/adpu/1156.htm", 
-  "description": "", 
   "end_date": null, 
-  "title": "Building Capacity: University of Worcester", 
-  "record_id": "20060101T120000/85TEEuBaAiGdMKaLjyVSYQ==", 
-  "publisher": "worc.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 58195989, 
+  "publisher": "worc.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Building Capacity: University of Worcester", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/85TEEuBaAiGdMKaLjyVSYQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

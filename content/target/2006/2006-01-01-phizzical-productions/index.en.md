@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.phizzical.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Phizzical Productions", 
-  "record_id": "20060101T120000/+Lu8j2xVFEY0Tr2orSWs0g==", 
-  "publisher": "phizzical.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117342220, 
+  "publisher": "phizzical.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Phizzical Productions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+Lu8j2xVFEY0Tr2orSWs0g==", 
+  "scope": "root", 
   "start_date": null
 }
 

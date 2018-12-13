@@ -1,13 +1,21 @@
 {
-  "date": "2014-02-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.publiccontractsscotland.gov.uk", 
-  "description": null, 
   "end_date": null, 
-  "title": "Public Contracts Scotland", 
-  "record_id": "20140206T060000/eJpo2ok41k0DMzijzOikRg==", 
-  "publisher": "publiccontractsscotland.gov.uk", 
+  "date": "2014-02-06T06:00:00", 
   "slug": 16733, 
+  "publisher": "publiccontractsscotland.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Public Contracts Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140206T060000/eJpo2ok41k0DMzijzOikRg==", 
+  "scope": "root", 
   "start_date": "2014-02-06T06:00:00Z"
 }
 

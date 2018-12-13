@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.petermay.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Peter May", 
-  "record_id": "20151118T090000/I8bQqVJO5pNXfAk2TYXlkw==", 
-  "publisher": "petermay.co.uk", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32699, 
+  "publisher": "petermay.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Peter May", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/I8bQqVJO5pNXfAk2TYXlkw==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

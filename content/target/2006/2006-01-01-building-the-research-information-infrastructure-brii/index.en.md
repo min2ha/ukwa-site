@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://brii.medsci.ox.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Building the Research Information Infrastructure (BRII)", 
-  "record_id": "20060101T120000/T3UZciiPYAW01pqHJ+OgYw==", 
-  "publisher": "ox.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 27099187, 
+  "publisher": "ox.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Building the Research Information Infrastructure (BRII)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/T3UZciiPYAW01pqHJ+OgYw==", 
+  "scope": "root", 
   "start_date": null
 }
 

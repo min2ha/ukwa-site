@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://swsfc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Sea Fisheries Committee", 
-  "record_id": "20060101T120000/FAhKIdhhN68jWFcuILMRHg==", 
-  "publisher": "swsfc.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49009, 
+  "publisher": "swsfc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South Wales Sea Fisheries Committee", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FAhKIdhhN68jWFcuILMRHg==", 
+  "scope": "root", 
   "start_date": null
 }
 

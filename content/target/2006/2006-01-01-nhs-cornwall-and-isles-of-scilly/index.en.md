@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cornwallandislesofscilly.nhs.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "NHS Cornwall and Isles of Scilly", 
-  "record_id": "20060101T120000/f/nHWlouqDdCm0ySUHiMEA==", 
-  "publisher": "cornwallandislesofscilly.nhs.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 131858473, 
+  "publisher": "cornwallandislesofscilly.nhs.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "NHS Cornwall and Isles of Scilly", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/f/nHWlouqDdCm0ySUHiMEA==", 
+  "scope": "root", 
   "start_date": null
 }
 

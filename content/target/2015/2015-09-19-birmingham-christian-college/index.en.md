@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bhxc.org.uk/", 
-  "description": "Official website of the Birmingham Christian College.", 
   "end_date": null, 
-  "title": "Birmingham Christian College", 
-  "record_id": "20150919T100000/XiWrVxPRLeND/xAMlg4OJA==", 
-  "publisher": "bhxc.org.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30662, 
+  "publisher": "bhxc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Birmingham Christian College", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/XiWrVxPRLeND/xAMlg4OJA==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

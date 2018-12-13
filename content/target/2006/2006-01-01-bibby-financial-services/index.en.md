@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bibbyfinancialservices.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Bibby Financial Services", 
-  "record_id": "20060101T120000/KWZ74vJIP5USjTuIhFEnGw==", 
-  "publisher": "bibbyfinancialservices.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9972, 
+  "publisher": "bibbyfinancialservices.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bibby Financial Services", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/KWZ74vJIP5USjTuIhFEnGw==", 
+  "scope": "root", 
   "start_date": null
 }
 

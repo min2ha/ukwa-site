@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sothebysinstitute.com/", 
-  "description": "Official website of the Sotheby's Institute of Art, London.", 
   "end_date": null, 
-  "title": "Sotheby's Institute of Art", 
-  "record_id": "20150919T100000/DUp02XjBabn1HnlRuwjEyQ==", 
-  "publisher": "sothebysinstitute.com", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30734, 
+  "publisher": "sothebysinstitute.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sotheby's Institute of Art", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/DUp02XjBabn1HnlRuwjEyQ==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

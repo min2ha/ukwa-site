@@ -1,13 +1,16 @@
 {
-  "date": "2006-03-15T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.thegarret.org.uk/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "Old Operating Theatre Museum & Herb Garret", 
-  "record_id": "20060315T000000/lZZqB3rkM47Qk/N0nxs54g==", 
-  "publisher": "thegarret.org.uk", 
+  "date": "2006-03-15T00:00:00", 
   "slug": 122481, 
+  "publisher": "thegarret.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Old Operating Theatre Museum & Herb Garret", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060315T000000/lZZqB3rkM47Qk/N0nxs54g==", 
+  "scope": "root", 
   "start_date": "2006-03-15T00:00:00Z"
 }
 

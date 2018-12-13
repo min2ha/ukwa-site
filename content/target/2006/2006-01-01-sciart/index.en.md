@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sciart.org/site/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Sciart", 
-  "record_id": "20060101T120000/flXqWvJonkHcrnII7Y53pA==", 
-  "publisher": "sciart.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 128883, 
+  "publisher": "sciart.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Sciart", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/flXqWvJonkHcrnII7Y53pA==", 
+  "scope": "root", 
   "start_date": null
 }
 

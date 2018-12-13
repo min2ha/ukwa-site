@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.parishmaryimmaculate.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Parish of Mary Immaculate, Mountain Ash", 
-  "record_id": "20161214T090000/w4Tc+/0ZkTWMpSUzyw3lWg==", 
-  "publisher": "parishmaryimmaculate.org.uk", 
+  "date": "2016-12-14T09:00:00", 
   "slug": 47782, 
+  "publisher": "parishmaryimmaculate.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Parish of Mary Immaculate, Mountain Ash", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161214T090000/w4Tc+/0ZkTWMpSUzyw3lWg==", 
+  "scope": "root", 
   "start_date": "2016-12-14T09:00:00Z"
 }
 

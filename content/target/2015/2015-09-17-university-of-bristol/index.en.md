@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bristol.ac.uk/", 
-  "description": "Official website of the University of Bristol.", 
   "end_date": null, 
-  "title": "University of Bristol", 
-  "record_id": "20150917T100000/IAaXtIB6Dzy2Pz20Df9saQ==", 
-  "publisher": "bristol.ac.uk", 
+  "date": "2015-09-17T10:00:00", 
   "slug": 30496, 
+  "publisher": "bristol.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of Bristol", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150917T100000/IAaXtIB6Dzy2Pz20Df9saQ==", 
+  "scope": "subdomains", 
   "start_date": "2015-09-17T10:00:00Z"
 }
 

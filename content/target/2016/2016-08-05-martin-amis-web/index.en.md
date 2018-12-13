@@ -1,13 +1,21 @@
 {
-  "date": "2016-08-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.martinamisweb.com/", 
-  "description": "Writer, born in Swansea, listed in the Literature Wales' Writers of Wales database and former Professor of Creative Writing at The Manchester Centre for New Writing in the University of Manchester.", 
   "end_date": null, 
-  "title": "Martin Amis Web", 
-  "record_id": "20160805T100000/XPESL4Rdps8RoMvsmi+2SQ==", 
-  "publisher": "martinamisweb.com", 
+  "date": "2016-08-05T10:00:00", 
   "slug": 44875, 
+  "publisher": "martinamisweb.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Martin Amis Web", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160805T100000/XPESL4Rdps8RoMvsmi+2SQ==", 
+  "scope": "root", 
   "start_date": "2016-08-05T10:00:00Z"
 }
 

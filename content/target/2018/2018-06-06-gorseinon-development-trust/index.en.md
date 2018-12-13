@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gdt.org.uk/", 
-  "description": "Gorseinon Development Trust took over the responsibilties of Gorseinon Regeneration Forum and is led by representatives from the public, voluntary and private sectors.", 
   "end_date": null, 
-  "title": "Gorseinon Development Trust", 
-  "record_id": "20180606T090000/C3zxZvw1xrxRgWOFLx22uA==", 
-  "publisher": "gdt.org.uk", 
+  "date": "2018-06-06T09:00:00", 
   "slug": 66736, 
+  "publisher": "gdt.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gorseinon Development Trust", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180606T090000/C3zxZvw1xrxRgWOFLx22uA==", 
+  "scope": "root", 
   "start_date": "2018-06-06T09:00:00Z"
 }
 

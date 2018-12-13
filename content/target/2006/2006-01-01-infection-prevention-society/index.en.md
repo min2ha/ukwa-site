@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ips.uk.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Infection Prevention Society", 
-  "record_id": "20060101T120000/pX2Nm3brMjsZFfbfJTofqw==", 
-  "publisher": "uk.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 61833294, 
+  "publisher": "uk.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Infection Prevention Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pX2Nm3brMjsZFfbfJTofqw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bronzefoundry.co.uk/", 
-  "description": "Castle Fine Arts Foundry is one of the UK\u2019s leading art foundries and has 20 years of experience in the manufacture and installation of public art including some of the country\u2019s most monumental sculptures", 
   "end_date": null, 
-  "title": "Castle Fine Arts Foundry Ltd", 
-  "record_id": "20171121T090000/4fjZeFfnBYWNp6pOxAYLtw==", 
-  "publisher": "bronzefoundry.co.uk", 
+  "date": "2017-11-21T09:00:00", 
   "slug": 58990, 
+  "publisher": "bronzefoundry.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Castle Fine Arts Foundry Ltd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171121T090000/4fjZeFfnBYWNp6pOxAYLtw==", 
+  "scope": "root", 
   "start_date": "2017-11-21T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.markthomas.co.uk/index.html", 
-  "description": "Mark Thomas is a Bafta winning and Emmy nominated composer for film and television.", 
   "end_date": null, 
-  "title": "Mark Thomas: composer for film and television", 
-  "record_id": "20151020T100000/fImmvChS0vCv237khN73ng==", 
-  "publisher": "markthomas.co.uk", 
+  "date": "2015-10-20T10:00:00", 
   "slug": 31558, 
+  "publisher": "markthomas.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mark Thomas: composer for film and television", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151020T100000/fImmvChS0vCv237khN73ng==", 
+  "scope": "root", 
   "start_date": "2015-10-20T10:00:00Z"
 }
 

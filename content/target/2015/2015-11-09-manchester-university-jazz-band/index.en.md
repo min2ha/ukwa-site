@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-09T09:00:00", 
-  "open_access": true, 
   "target_url": "https://sites.google.com/site/mujb195658/", 
-  "description": "This site documents information relating to the Manchester University Jazz Band from the 1950s. ", 
   "end_date": null, 
-  "title": "Manchester University Jazz Band", 
-  "record_id": "20151109T090000/x/M+eu1gSaFjbKZT63HEHw==", 
-  "publisher": "google.com", 
+  "date": "2015-11-09T09:00:00", 
   "slug": 32310, 
+  "publisher": "google.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Manchester University Jazz Band", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151109T090000/x/M+eu1gSaFjbKZT63HEHw==", 
+  "scope": "root", 
   "start_date": "2015-11-09T09:00:00Z"
 }
 

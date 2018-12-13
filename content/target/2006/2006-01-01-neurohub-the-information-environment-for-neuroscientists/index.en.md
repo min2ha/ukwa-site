@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://neurohub.ecs.soton.ac.uk/index.php/Main_Page", 
-  "description": "", 
   "end_date": null, 
-  "title": "NeuroHub: the information environment for Neuroscientists", 
-  "record_id": "20060101T120000/WCeK3LMslk/qmMQ8IoT95g==", 
-  "publisher": "soton.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588265, 
+  "publisher": "soton.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "NeuroHub: the information environment for Neuroscientists", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WCeK3LMslk/qmMQ8IoT95g==", 
+  "scope": "root", 
   "start_date": null
 }
 

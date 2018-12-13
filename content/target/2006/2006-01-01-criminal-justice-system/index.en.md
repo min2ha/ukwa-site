@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cjsonline.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Criminal Justice System", 
-  "record_id": "20060101T120000/zN6fhTUqDfjDJANmtvnyvw==", 
-  "publisher": "cjsonline.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101595, 
+  "publisher": "cjsonline.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Criminal Justice System", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/zN6fhTUqDfjDJANmtvnyvw==", 
+  "scope": "root", 
   "start_date": null
 }
 

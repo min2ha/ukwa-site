@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.stir.ac.uk/", 
-  "description": "Official website of the University of Stirling.", 
   "end_date": null, 
-  "title": "University of Stirling", 
-  "record_id": "20150919T100000/omQ/P2oaqBoIZg8rlVfDWA==", 
-  "publisher": "stir.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30628, 
+  "publisher": "stir.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of Stirling", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/omQ/P2oaqBoIZg8rlVfDWA==", 
+  "scope": "subdomains", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

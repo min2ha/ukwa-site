@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ystradmeurig.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Canolfan Edward Richard | Richard Edward Centre", 
-  "record_id": "20150514T090000/nJpC0wwcIEKVU+uSTaZbdg==", 
-  "publisher": "ystradmeurig.org.uk", 
+  "date": "2015-05-14T09:00:00", 
   "slug": 23869, 
+  "publisher": "ystradmeurig.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Canolfan Edward Richard | Richard Edward Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150514T090000/nJpC0wwcIEKVU+uSTaZbdg==", 
+  "scope": "root", 
   "start_date": "2015-05-14T09:00:00Z"
 }
 

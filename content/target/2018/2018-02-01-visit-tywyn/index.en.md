@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://visit-tywyn.co.uk/", 
-  "description": "This is a tourist information guide to Tywyn in Gwynedd.", 
   "end_date": null, 
-  "title": "Visit Tywyn", 
-  "record_id": "20180201T090000/MDvQvvRXamqJWRfIIROPDg==", 
-  "publisher": "visit-tywyn.co.uk", 
+  "date": "2018-02-01T09:00:00", 
   "slug": 60717, 
+  "publisher": "visit-tywyn.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Visit Tywyn", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180201T090000/MDvQvvRXamqJWRfIIROPDg==", 
+  "scope": "root", 
   "start_date": "2018-02-01T09:00:00Z"
 }
 

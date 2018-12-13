@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-25T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.industrialgwent.co.uk/", 
-  "description": "Site covering old and historic industrial sites in Gwent.", 
   "end_date": null, 
-  "title": "Industrial Monmouthshire ", 
-  "record_id": "20150825T100000/xwPR+wuyHV05yY5xBmU07Q==", 
-  "publisher": "industrialgwent.co.uk", 
+  "date": "2015-08-25T10:00:00", 
   "slug": 326434842, 
+  "publisher": "industrialgwent.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Industrial Monmouthshire ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150825T100000/xwPR+wuyHV05yY5xBmU07Q==", 
+  "scope": "root", 
   "start_date": "2015-08-25T10:00:00Z"
 }
 

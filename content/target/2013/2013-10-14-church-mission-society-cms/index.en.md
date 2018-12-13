@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cms-uk.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Church Mission Society (CMS)", 
-  "record_id": "20131014T100000/O8rvsVEdLmu3c/R51kngyQ==", 
-  "publisher": "cms-uk.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 8159233, 
+  "publisher": "cms-uk.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Church Mission Society (CMS)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/O8rvsVEdLmu3c/R51kngyQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

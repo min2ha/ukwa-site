@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-21T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.truewales.org.uk/", 
-  "description": "Campaign group set up to oppose direct law-making power for the Welsh Assembly.", 
   "end_date": null, 
-  "title": "True Wales", 
-  "record_id": "20150721T100000/zjbbbkqf/VZ/xTF+VBRtyA==", 
-  "publisher": "truewales.org.uk", 
+  "date": "2015-07-21T10:00:00", 
   "slug": 29234, 
+  "publisher": "truewales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "True Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150721T100000/zjbbbkqf/VZ/xTF+VBRtyA==", 
+  "scope": "root", 
   "start_date": "2015-07-21T10:00:00Z"
 }
 

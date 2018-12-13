@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-19T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.apexhotels.co.uk/", 
-  "description": "Apex Hotels Limited owns and operates a chain of hotels throughout the United Kingdom. ", 
   "end_date": null, 
-  "title": "Apex Hotels Limited", 
-  "record_id": "20180619T090000/qmbpVl9zeycuF3+ZONFFjw==", 
-  "publisher": "apexhotels.co.uk", 
+  "date": "2018-06-19T09:00:00", 
   "slug": 66443, 
+  "publisher": "apexhotels.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Apex Hotels Limited", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180619T090000/qmbpVl9zeycuF3+ZONFFjw==", 
+  "scope": "root", 
   "start_date": "2018-06-19T09:00:00Z"
 }
 

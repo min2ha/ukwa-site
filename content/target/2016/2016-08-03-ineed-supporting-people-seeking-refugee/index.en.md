@@ -1,13 +1,21 @@
 {
-  "date": "2016-08-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.refugeesineed.org.uk/", 
-  "description": "iNeed is a refugee action group based in Monmouth, Wales. ", 
   "end_date": null, 
-  "title": "iNeed: Supporting people seeking refugee", 
-  "record_id": "20160803T100000/cElcxtBIN/WGmTmrQkHhSw==", 
-  "publisher": "refugeesineed.org.uk", 
+  "date": "2016-08-03T10:00:00", 
   "slug": 44788, 
+  "publisher": "refugeesineed.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "iNeed: Supporting people seeking refugee", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160803T100000/cElcxtBIN/WGmTmrQkHhSw==", 
+  "scope": "root", 
   "start_date": "2016-08-03T10:00:00Z"
 }
 

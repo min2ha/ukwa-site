@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bsis.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bangor Students Islamic Society", 
-  "record_id": "20160224T090000/GGV6/TfvTg2bTE4RttsJxg==", 
-  "publisher": "bsis.org.uk", 
+  "date": "2016-02-24T09:00:00", 
   "slug": 35860, 
+  "publisher": "bsis.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bangor Students Islamic Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160224T090000/GGV6/TfvTg2bTE4RttsJxg==", 
+  "scope": "root", 
   "start_date": "2016-02-24T09:00:00Z"
 }
 

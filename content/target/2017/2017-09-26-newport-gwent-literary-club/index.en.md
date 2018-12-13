@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://newportandgwentliterarysociety.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Newport & Gwent Literary Club", 
-  "record_id": "20170926T090000/34dqCnR4FWvVkctgT8d2sg==", 
-  "publisher": "wordpress.com", 
+  "date": "2017-09-26T09:00:00", 
   "slug": 57427, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Newport & Gwent Literary Club", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170926T090000/34dqCnR4FWvVkctgT8d2sg==", 
+  "scope": "root", 
   "start_date": "2017-09-26T09:00:00Z"
 }
 

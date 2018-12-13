@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://blackbloggersnetwork.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Black Bloggers UK & International Network", 
-  "record_id": "20060101T120000/CqNvATV9GdY6n/AecO3jpg==", 
-  "publisher": "blackbloggersnetwork.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9838, 
+  "publisher": "blackbloggersnetwork.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Black Bloggers UK & International Network", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/CqNvATV9GdY6n/AecO3jpg==", 
+  "scope": "root", 
   "start_date": null
 }
 

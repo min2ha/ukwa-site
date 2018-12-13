@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.charlesfernyhough.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Charles Fernyhough", 
-  "record_id": "20060101T120000/t1Mbc6FITjBozAXusf/JAQ==", 
-  "publisher": "charlesfernyhough.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66159034, 
+  "publisher": "charlesfernyhough.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Charles Fernyhough", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/t1Mbc6FITjBozAXusf/JAQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/artybagger/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Muriel Gray (@ArtyBagger) on Twitter", 
-  "record_id": "20151118T090000/0Q5ZFoWpRH8diAKC4RV/hg==", 
-  "publisher": "twitter.com", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32688, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Muriel Gray (@ArtyBagger) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/0Q5ZFoWpRH8diAKC4RV/hg==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

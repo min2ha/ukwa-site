@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bhac.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Butetown History and Arts Centre", 
-  "record_id": "20150704T100000/CwVvkruh1lBNgOhU62QJLQ==", 
-  "publisher": "bhac.org", 
+  "date": "2015-07-04T10:00:00", 
   "slug": 28735, 
+  "publisher": "bhac.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Butetown History and Arts Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150704T100000/CwVvkruh1lBNgOhU62QJLQ==", 
+  "scope": "root", 
   "start_date": "2015-07-04T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://phoenix-music.com/", 
-  "description": "Music publishers based in Saron, Denbighshire.", 
   "end_date": null, 
-  "title": "Phoenix Music ", 
-  "record_id": "20151201T090000/0gRaWevXyrETer7wgLfl2w==", 
-  "publisher": "phoenix-music.com", 
+  "date": "2015-12-01T09:00:00", 
   "slug": 33052, 
+  "publisher": "phoenix-music.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Phoenix Music ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151201T090000/0gRaWevXyrETer7wgLfl2w==", 
+  "scope": "root", 
   "start_date": "2015-12-01T09:00:00Z"
 }
 

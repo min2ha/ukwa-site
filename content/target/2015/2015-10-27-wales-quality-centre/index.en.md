@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.walesqualitycentre.org.uk/", 
-  "description": "The Wales Quality Centre provides ISO Management Standards, Business Improvement and Business Skills training to organisations in Wales and across the UK. ", 
   "end_date": null, 
-  "title": "Wales Quality Centre", 
-  "record_id": "20151027T090000/tp6eAGN2OYDtMRKBZx4l9w==", 
-  "publisher": "walesqualitycentre.org.uk", 
+  "date": "2015-10-27T09:00:00", 
   "slug": 31809, 
+  "publisher": "walesqualitycentre.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wales Quality Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151027T090000/tp6eAGN2OYDtMRKBZx4l9w==", 
+  "scope": "root", 
   "start_date": "2015-10-27T09:00:00Z"
 }
 

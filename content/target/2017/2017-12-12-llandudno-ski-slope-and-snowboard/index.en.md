@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.jnlllandudno.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llandudno Ski Slope and Snowboard", 
-  "record_id": "20171212T090000/f5PKSdwNNfq1/qQDCHmSSw==", 
-  "publisher": "jnlllandudno.co.uk", 
+  "date": "2017-12-12T09:00:00", 
   "slug": 59708, 
+  "publisher": "jnlllandudno.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llandudno Ski Slope and Snowboard", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171212T090000/f5PKSdwNNfq1/qQDCHmSSw==", 
+  "scope": "root", 
   "start_date": "2017-12-12T09:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.telegraph.co.uk/news/politics/liberaldemocrats/11598285/Liberal-Democrats-could-change-name-to-the-Liberals-under-Tim-Farron.html", 
-  "description": null, 
   "end_date": "2015-06-09T15:00:00Z", 
   "date": "2015-06-09T13:00:00", 
   "slug": 27604, 
-  "subject": "UK General Election 2015", 
   "publisher": "telegraph.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Telegraph, The: Liberal Democrats could change name to 'the Liberals', under Tim Farron", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }
+  ], 
   "record_id": "20150609T130000/Ee+fM3u3P7lHd138ImCsiw==", 
+  "scope": "root", 
   "start_date": "2015-06-09T13:00:00Z"
 }
 

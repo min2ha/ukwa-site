@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-06T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.telerilea.com/", 
-  "description": "Teleri Lea is a Visual Artist from Gwynedd.", 
   "end_date": null, 
-  "title": "Teleri Lea Visual Artist Gweledol", 
-  "record_id": "20180906T090000/r7UZlSHmsZT882rQP9Kz5w==", 
-  "publisher": "telerilea.com", 
+  "date": "2018-09-06T09:00:00", 
   "slug": 70878, 
+  "publisher": "telerilea.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Teleri Lea Visual Artist Gweledol", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180906T090000/r7UZlSHmsZT882rQP9Kz5w==", 
+  "scope": "root", 
   "start_date": "2018-09-06T09:00:00Z"
 }
 

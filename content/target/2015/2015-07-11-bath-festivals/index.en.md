@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://bathfestivals.org.uk/", 
-  "description": "Bath Festivals brings international performers, writers and thinkers to Bath every year to inspire, entertain and challenge audiences of all ages and artistic tastes. Bath Festivals is the charitable organisation responsible for the Bath International Music Festival, the Independent Bath Literature Festival and the Telegraph Bath Children\u2019s Literature Festival.", 
   "end_date": null, 
-  "title": "Bath Festivals", 
-  "record_id": "20150711T100000/5teEh/3zAOxkYC0ZmikaHw==", 
-  "publisher": "bathfestivals.org.uk", 
+  "date": "2015-07-11T10:00:00", 
   "slug": 28866, 
+  "publisher": "bathfestivals.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bath Festivals", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150711T100000/5teEh/3zAOxkYC0ZmikaHw==", 
+  "scope": "root", 
   "start_date": "2015-07-11T10:00:00Z"
 }
 

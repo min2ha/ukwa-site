@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://bardbox.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bardbox - Shakespear and online video ", 
-  "record_id": "20160104T090000/PWtRsk13pdpn6qAwnRzx2Q==", 
-  "publisher": "wordpress.com", 
+  "date": "2016-01-04T09:00:00", 
   "slug": 33617, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bardbox - Shakespear and online video ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160104T090000/PWtRsk13pdpn6qAwnRzx2Q==", 
+  "scope": "root", 
   "start_date": "2016-01-04T09:00:00Z"
 }
 

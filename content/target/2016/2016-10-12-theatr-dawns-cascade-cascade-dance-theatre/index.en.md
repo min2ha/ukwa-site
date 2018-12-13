@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cascadedancetheatre.co.uk/", 
-  "description": "Cascade Dance Theatre is a repertory touring company working based in Wales.", 
   "end_date": null, 
-  "title": "Theatr Dawns Cascade | Cascade Dance Theatre", 
-  "record_id": "20161012T100000/gNmyWqBZMLUDdNHiWDYtJA==", 
-  "publisher": "cascadedancetheatre.co.uk", 
+  "date": "2016-10-12T10:00:00", 
   "slug": 46105, 
+  "publisher": "cascadedancetheatre.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Theatr Dawns Cascade | Cascade Dance Theatre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161012T100000/gNmyWqBZMLUDdNHiWDYtJA==", 
+  "scope": "root", 
   "start_date": "2016-10-12T10:00:00Z"
 }
 

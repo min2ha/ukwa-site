@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://weneedyounow.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "WeNeedYouNow.com", 
-  "record_id": "20131014T100000/ud4tY+ffAv8HJfEEtIVQlQ==", 
-  "publisher": "weneedyounow.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 5799938, 
+  "publisher": "weneedyounow.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "WeNeedYouNow.com", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ud4tY+ffAv8HJfEEtIVQlQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

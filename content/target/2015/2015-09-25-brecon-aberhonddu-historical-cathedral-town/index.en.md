@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brecontown.co.uk/", 
-  "description": "Visitors guide to Brecon.", 
   "end_date": null, 
-  "title": "Brecon - Aberhonddu, Historical Cathedral Town", 
-  "record_id": "20150925T100000/H53/HcH2u4Q1Z+jfMJHziQ==", 
-  "publisher": "brecontown.co.uk", 
+  "date": "2015-09-25T10:00:00", 
   "slug": 30866, 
+  "publisher": "brecontown.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brecon - Aberhonddu, Historical Cathedral Town", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T100000/H53/HcH2u4Q1Z+jfMJHziQ==", 
+  "scope": "root", 
   "start_date": "2015-09-25T10:00:00Z"
 }
 

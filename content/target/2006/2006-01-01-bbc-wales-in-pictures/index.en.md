@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/wales/inpictures/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC Wales - In Pictures", 
-  "record_id": "20060101T120000/Rq71g4vJrWabgV7Z413RiA==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 58195978, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC Wales - In Pictures", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Rq71g4vJrWabgV7Z413RiA==", 
+  "scope": "root", 
   "start_date": null
 }
 

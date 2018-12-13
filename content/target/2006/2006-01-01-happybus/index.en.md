@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.happybus.ch/", 
-  "description": null, 
   "end_date": null, 
-  "title": "HappyBus", 
-  "record_id": "20060101T120000/tZlZvXaMhBMYv7Ko7nWoYA==", 
-  "publisher": "happybus.ch", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11852, 
+  "publisher": "happybus.ch", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "HappyBus", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tZlZvXaMhBMYv7Ko7nWoYA==", 
+  "scope": "root", 
   "start_date": null
 }
 

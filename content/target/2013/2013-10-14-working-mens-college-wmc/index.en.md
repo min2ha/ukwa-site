@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.wmcollege.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Working Men's College (WMC)", 
-  "record_id": "20131014T100000/QaWrcvw6yA51AF0LqVPU+g==", 
-  "publisher": "wmcollege.ac.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 31260771, 
+  "publisher": "wmcollege.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Working Men's College (WMC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/QaWrcvw6yA51AF0LqVPU+g==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

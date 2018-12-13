@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pingwales.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ping Wales: Welsh IT News Online: www.pingwales.co.uk", 
-  "record_id": "20060101T120000/FiRLLAJNFRWnYISlvWNWsg==", 
-  "publisher": "pingwales.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 133991, 
+  "publisher": "pingwales.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Ping Wales: Welsh IT News Online: www.pingwales.co.uk", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FiRLLAJNFRWnYISlvWNWsg==", 
+  "scope": "root", 
   "start_date": null
 }
 

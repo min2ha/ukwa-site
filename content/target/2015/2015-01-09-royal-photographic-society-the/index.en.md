@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-09T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.rps.org/", 
-  "description": "<p>The Royal Photographic Society is a membership organisation that promotes all aspects of photography across art and science.</p>\n", 
   "end_date": null, 
-  "title": "Royal Photographic Society, The", 
-  "record_id": "20150109T000000/sCXgRWIvs0zhUIAtmATCeQ==", 
-  "publisher": "rps.org", 
+  "date": "2015-01-09T00:00:00", 
   "slug": 15736, 
+  "publisher": "rps.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal Photographic Society, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150109T000000/sCXgRWIvs0zhUIAtmATCeQ==", 
+  "scope": "root", 
   "start_date": "2015-01-09T00:00:00Z"
 }
 

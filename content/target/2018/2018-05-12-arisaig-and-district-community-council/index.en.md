@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://arisaigdcc.weebly.com/", 
-  "description": "Site of a community council for the village of Arisaig, Lochaber, Highland.", 
   "end_date": null, 
-  "title": "Arisaig and District Community Council", 
-  "record_id": "20180512T090000/WOT3E5S/cBGmg17XQU72wg==", 
-  "publisher": "weebly.com", 
+  "date": "2018-05-12T09:00:00", 
   "slug": 65411, 
+  "publisher": "weebly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Arisaig and District Community Council", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180512T090000/WOT3E5S/cBGmg17XQU72wg==", 
+  "scope": "root", 
   "start_date": "2018-05-12T09:00:00Z"
 }
 

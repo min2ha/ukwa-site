@@ -1,13 +1,16 @@
 {
-  "date": "2013-07-16T00:00:00", 
-  "open_access": true, 
   "target_url": "http://siop.llgc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Siop Arlein Llyfrgell Genedlaethol Cymru | National Library of Wales Online Shop", 
-  "record_id": "20130716T000000/zfsGeTwEe1sF0hkMDXxcbA==", 
-  "publisher": "llgc.org.uk", 
+  "date": "2013-07-16T00:00:00", 
   "slug": 172294187, 
+  "publisher": "llgc.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Siop Arlein Llyfrgell Genedlaethol Cymru | National Library of Wales Online Shop", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130716T000000/zfsGeTwEe1sF0hkMDXxcbA==", 
+  "scope": "root", 
   "start_date": "2013-07-16T00:00:00Z"
 }
 

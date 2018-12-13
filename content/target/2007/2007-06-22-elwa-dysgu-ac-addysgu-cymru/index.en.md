@@ -1,13 +1,16 @@
 {
-  "date": "2007-06-22T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.elwa.ac.uk/", 
-  "description": "Website is a part of the National Assembly website.", 
   "end_date": null, 
-  "title": "ELWa: Dysgu ac Addysgu Cymru", 
-  "record_id": "20070622T000000/lfnIuO4xddDcvCVlSESF4Q==", 
-  "publisher": "elwa.ac.uk", 
+  "date": "2007-06-22T00:00:00", 
   "slug": 145282, 
+  "publisher": "elwa.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "ELWa: Dysgu ac Addysgu Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20070622T000000/lfnIuO4xddDcvCVlSESF4Q==", 
+  "scope": "root", 
   "start_date": "2007-06-22T00:00:00Z"
 }
 

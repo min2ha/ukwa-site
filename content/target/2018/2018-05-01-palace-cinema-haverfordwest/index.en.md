@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://palacehaverfordwest.co.uk/", 
-  "description": "The Palace Cinema Two Screen Cinema, offering all the latest movies in\nComfortable surroundings on Big, Bright Screens.", 
   "end_date": null, 
-  "title": "Palace Cinema Haverfordwest", 
-  "record_id": "20180501T090000/Uk6KBK3aa/7ObR8B5C6LOQ==", 
-  "publisher": "palacehaverfordwest.co.uk", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64962, 
+  "publisher": "palacehaverfordwest.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Palace Cinema Haverfordwest", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000/Uk6KBK3aa/7ObR8B5C6LOQ==", 
+  "scope": "subdomains", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

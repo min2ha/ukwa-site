@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ucl.ac.uk/mediares/asitil/", 
-  "description": "", 
   "end_date": null, 
-  "title": "ASITIL : ATM Supported Interactive Teaching and Individual Learning", 
-  "record_id": "20060101T120000/64+Fwk+SBY/bfrhkGwAnbQ==", 
-  "publisher": "ucl.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 120313, 
+  "publisher": "ucl.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "ASITIL : ATM Supported Interactive Teaching and Individual Learning", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/64+Fwk+SBY/bfrhkGwAnbQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

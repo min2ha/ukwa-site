@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://toomolfileserv.bangor.ac.uk/elearning/links/evaluationtopic/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Toolkit for Management of Learning", 
-  "record_id": "20060101T120000/OuFIURVICwyOtBJcycUqvQ==", 
-  "publisher": "bangor.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 114425, 
+  "publisher": "bangor.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Toolkit for Management of Learning", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/OuFIURVICwyOtBJcycUqvQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

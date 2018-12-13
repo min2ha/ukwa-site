@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ggat.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Glamorgan-Gwent Archaeological Trust, The (GGAT)", 
-  "record_id": "20150714T100000/O8cd1KOXSnwBPe7txpykNg==", 
-  "publisher": "ggat.org.uk", 
+  "date": "2015-07-14T10:00:00", 
   "slug": 326434831, 
+  "publisher": "ggat.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Glamorgan-Gwent Archaeological Trust, The (GGAT)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150714T100000/O8cd1KOXSnwBPe7txpykNg==", 
+  "scope": "root", 
   "start_date": "2015-07-14T10:00:00Z"
 }
 

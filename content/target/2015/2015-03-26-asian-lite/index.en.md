@@ -1,14 +1,38 @@
 {
   "target_url": "http://asianlite.com/", 
-  "description": "Asian Lite is a newspaper for the British Asians.", 
   "end_date": null, 
   "date": "2015-03-26T09:00:00", 
   "slug": 19581, 
-  "subject": "UK General Election 2015", 
   "publisher": "asianlite.com", 
   "open_access": false, 
+  "npld": false, 
   "title": "Asian Lite", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }, 
+    {
+      "id": 182, 
+      "name": "Muslims, Trust and Cultural Dialogue"
+    }, 
+    {
+      "id": 1107, 
+      "name": "Black and Asian Britain"
+    }
+  ], 
   "record_id": "20150326T090000/QtR2uV5rz8OTUhK62Wltuw==", 
+  "scope": "root", 
   "start_date": "2015-03-26T09:00:00Z"
 }
 

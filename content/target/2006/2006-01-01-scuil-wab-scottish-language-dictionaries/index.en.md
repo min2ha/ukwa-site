@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sldl.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Scuil wab / Scottish Language Dictionaries", 
-  "record_id": "20060101T120000/gUkyoaw6W7IzMmqKsDZ09Q==", 
-  "publisher": "sldl.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 102478, 
+  "publisher": "sldl.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Scuil wab / Scottish Language Dictionaries", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/gUkyoaw6W7IzMmqKsDZ09Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

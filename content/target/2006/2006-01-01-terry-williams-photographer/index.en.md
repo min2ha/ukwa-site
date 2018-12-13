@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.terrywilliams-photographer.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Terry Williams : photographer", 
-  "record_id": "20060101T120000/ZAKQhN+sZ8kW2a4+33UM7A==", 
-  "publisher": "terrywilliams-photographer.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 100224, 
+  "publisher": "terrywilliams-photographer.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Terry Williams : photographer", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ZAKQhN+sZ8kW2a4+33UM7A==", 
+  "scope": "root", 
   "start_date": null
 }
 

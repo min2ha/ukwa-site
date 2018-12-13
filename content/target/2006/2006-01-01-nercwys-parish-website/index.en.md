@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nercwys.org.uk/", 
-  "description": "<p>This is a community website for the Nercwys, a rural village and community in Flintshire.</p>\n", 
   "end_date": null, 
-  "title": "Nercwys parish website", 
-  "record_id": "20060101T120000/7nwOEFnIO1JA8CksNM0+9Q==", 
-  "publisher": "nercwys.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15628, 
+  "publisher": "nercwys.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nercwys parish website", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/7nwOEFnIO1JA8CksNM0+9Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2015-01-15T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stanmorecombined.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Stanmore Combined", 
-  "record_id": "20150115T000000/WjnNLHfKYMYqCa/STtQ5iA==", 
-  "publisher": "stanmorecombined.org.uk", 
+  "date": "2015-01-15T00:00:00", 
   "slug": 286294087, 
+  "publisher": "stanmorecombined.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Stanmore Combined", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150115T000000/WjnNLHfKYMYqCa/STtQ5iA==", 
+  "scope": "root", 
   "start_date": "2015-01-15T00:00:00Z"
 }
 

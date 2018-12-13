@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.hm-treasury.gov.uk/budget2013.htm", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 136020259, 
-  "subject": "Spending Cuts 2010: Impact on Social Welfare", 
   "publisher": "hm-treasury.gov.uk", 
   "open_access": true, 
+  "npld": false, 
   "title": "HM Treasury: Budget 2013", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2451, 
+      "name": "Spending Cuts 2010: Impact on Social Welfare"
+    }
+  ], 
   "record_id": "20060101T120000/yNxi9u4hnKg/MaZ2E21I8Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

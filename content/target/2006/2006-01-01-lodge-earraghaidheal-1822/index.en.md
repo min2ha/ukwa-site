@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lodge1822.co.uk/", 
-  "description": "Site of a masonic lodge located in Connel, Argyll & Bute and affiliated with the Grand Lodge of Scotland.", 
   "end_date": "2018-03-31T00:00:00Z", 
-  "title": "Lodge Earraghaidheal 1822", 
-  "record_id": "20060101T120000/dZsYOF26dz0PLHlvSCdj+w==", 
-  "publisher": "lodge1822.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62413, 
+  "publisher": "lodge1822.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lodge Earraghaidheal 1822", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/dZsYOF26dz0PLHlvSCdj+w==", 
+  "scope": "root", 
   "start_date": null
 }
 

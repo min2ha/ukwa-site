@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.socresonline.org.uk/home.html", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sociological Research Online", 
-  "record_id": "20060101T120000/HlAavyFUoXWa3NAgRzs5lA==", 
-  "publisher": "socresonline.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101122, 
+  "publisher": "socresonline.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sociological Research Online", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/HlAavyFUoXWa3NAgRzs5lA==", 
+  "scope": "root", 
   "start_date": null
 }
 

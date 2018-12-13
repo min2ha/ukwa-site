@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alcoholpolicy.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Alcohol Policy UK", 
-  "record_id": "20060101T120000/Et9/GnyYFuJ+cGzuS8wwlQ==", 
-  "publisher": "alcoholpolicy.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 139881, 
+  "publisher": "alcoholpolicy.net", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Alcohol Policy UK", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Et9/GnyYFuJ+cGzuS8wwlQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

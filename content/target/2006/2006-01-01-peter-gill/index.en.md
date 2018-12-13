@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.petergill7.co.uk/", 
-  "description": "Peter Gill is a Welsh theatre director, playwright and actor born in Cardiff.", 
   "end_date": null, 
-  "title": "Peter Gill", 
-  "record_id": "20060101T120000/cpVBHtxPoJ3OdjLesOaF/w==", 
-  "publisher": "petergill7.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60231, 
+  "publisher": "petergill7.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Peter Gill", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cpVBHtxPoJ3OdjLesOaF/w==", 
+  "scope": "root", 
   "start_date": null
 }
 

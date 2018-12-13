@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/Maryhill-FC-1485597395030446/", 
-  "description": "Facebook page for a Scottish junior football club based in Maryhill, Glasgow, Scotland.", 
   "end_date": null, 
-  "title": "Maryhill Football Club on Facebook", 
-  "record_id": "20170126T090000/FgqAMQCdptfpsjiwUjG6nQ==", 
-  "publisher": "facebook.com", 
+  "date": "2017-01-26T09:00:00", 
   "slug": 48774, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Maryhill Football Club on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170126T090000/FgqAMQCdptfpsjiwUjG6nQ==", 
+  "scope": "root", 
   "start_date": "2017-01-26T09:00:00Z"
 }
 

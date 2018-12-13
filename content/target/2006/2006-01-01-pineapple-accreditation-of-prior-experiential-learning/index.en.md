@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pineappleproject.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "PineAPPLe: Accreditation of Prior Experiential Learning", 
-  "record_id": "20060101T120000/WPrSyqsr5rLbAEMGwIUlCQ==", 
-  "publisher": "pineappleproject.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31653936, 
+  "publisher": "pineappleproject.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "PineAPPLe: Accreditation of Prior Experiential Learning", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WPrSyqsr5rLbAEMGwIUlCQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

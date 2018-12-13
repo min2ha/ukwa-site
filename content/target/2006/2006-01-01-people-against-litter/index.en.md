@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.peopleagainstlitter.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "People Against Litter", 
-  "record_id": "20060101T120000/Kx8Gg7IeFkw3+tenYx0s3w==", 
-  "publisher": "peopleagainstlitter.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 128584, 
+  "publisher": "peopleagainstlitter.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "People Against Litter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Kx8Gg7IeFkw3+tenYx0s3w==", 
+  "scope": "root", 
   "start_date": null
 }
 

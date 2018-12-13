@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://navf.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Narberth A Capella Voice Festival", 
-  "record_id": "20160929T100000/C24Jeu3LryJH5dmoq2kAEw==", 
-  "publisher": "navf.co.uk", 
+  "date": "2016-09-29T10:00:00", 
   "slug": 45672, 
+  "publisher": "navf.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Narberth A Capella Voice Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160929T100000/C24Jeu3LryJH5dmoq2kAEw==", 
+  "scope": "root", 
   "start_date": "2016-09-29T10:00:00Z"
 }
 

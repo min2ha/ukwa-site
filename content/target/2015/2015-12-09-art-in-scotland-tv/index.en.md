@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.artinscotland.tv/", 
-  "description": "Arts channel, reporting contemporary Art in Scotland.", 
   "end_date": null, 
-  "title": "Art in Scotland TV", 
-  "record_id": "20151209T090000/sNelkZNudB6mNPOMU+E/tA==", 
-  "publisher": "artinscotland.tv", 
+  "date": "2015-12-09T09:00:00", 
   "slug": 33338, 
+  "publisher": "artinscotland.tv", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Art in Scotland TV", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151209T090000/sNelkZNudB6mNPOMU+E/tA==", 
+  "scope": "root", 
   "start_date": "2015-12-09T09:00:00Z"
 }
 

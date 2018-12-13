@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-17T10:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/voodoorooms/", 
-  "description": "Twitter profile of Voodoo Rooms, an Edinburgh bar and restaurant, and a Free Fringe venue.", 
   "end_date": "2015-09-03T01:00:00Z", 
-  "title": "Voodoo Rooms (@voodoorooms) on Twitter", 
-  "record_id": "20150817T100000/aFzswQVsWtQhLJSVQkJ+PQ==", 
-  "publisher": "twitter.com", 
+  "date": "2015-08-17T10:00:00", 
   "slug": 29831, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Voodoo Rooms (@voodoorooms) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150817T100000/aFzswQVsWtQhLJSVQkJ+PQ==", 
+  "scope": "root", 
   "start_date": "2015-08-17T10:00:00Z"
 }
 

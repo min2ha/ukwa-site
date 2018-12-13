@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.facebook.com/juliejamesam/", 
-  "description": "Julie James is the Assembly Member for Swansea West.", 
   "end_date": null, 
   "date": "2016-11-09T09:00:00", 
   "slug": 46834, 
-  "subject": "National Assembly for Wales Election, 2016 ", 
   "publisher": "facebook.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Julie James for Swansea West on Facebook", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 695, 
+      "name": "National Assembly for Wales Election, 2016 "
+    }
+  ], 
   "record_id": "20161109T090000/1f19u38IEDFKMFRwYqkAfQ==", 
+  "scope": "root", 
   "start_date": "2016-11-09T09:00:00Z"
 }
 

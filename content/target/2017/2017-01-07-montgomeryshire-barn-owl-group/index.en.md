@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mbog.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Montgomeryshire Barn Owl Group", 
-  "record_id": "20170107T090000/QTExNzCyjqfA2H6TUzyBQQ==", 
-  "publisher": "mbog.co.uk", 
+  "date": "2017-01-07T09:00:00", 
   "slug": 48118, 
+  "publisher": "mbog.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Montgomeryshire Barn Owl Group", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170107T090000/QTExNzCyjqfA2H6TUzyBQQ==", 
+  "scope": "root", 
   "start_date": "2017-01-07T09:00:00Z"
 }
 

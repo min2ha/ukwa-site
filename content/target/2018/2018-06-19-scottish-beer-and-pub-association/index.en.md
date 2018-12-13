@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishbeerandpub.com/", 
-  "description": "Site of an association representing Scotland\u2019s brewers and pub companies, existing to promote and protect an important Scottish industry.", 
   "end_date": null, 
-  "title": "Scottish Beer and Pub Association", 
-  "record_id": "20180619T090000/+oqOIGIvnjdVwws8rpw5Og==", 
-  "publisher": "scottishbeerandpub.com", 
+  "date": "2018-06-19T09:00:00", 
   "slug": 67597, 
+  "publisher": "scottishbeerandpub.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Beer and Pub Association", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180619T090000/+oqOIGIvnjdVwws8rpw5Og==", 
+  "scope": "root", 
   "start_date": "2018-06-19T09:00:00Z"
 }
 

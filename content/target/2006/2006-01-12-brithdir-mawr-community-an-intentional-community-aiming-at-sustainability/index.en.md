@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-12T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brithdirmawr.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Brithdir Mawr Community: An intentional community aiming at sustainability", 
-  "record_id": "20060112T000000/MjFEyC+BQHfcHTJM439TSQ==", 
-  "publisher": "brithdirmawr.co.uk", 
+  "date": "2006-01-12T00:00:00", 
   "slug": 130731, 
+  "publisher": "brithdirmawr.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Brithdir Mawr Community: An intentional community aiming at sustainability", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060112T000000/MjFEyC+BQHfcHTJM439TSQ==", 
+  "scope": "root", 
   "start_date": "2006-01-12T00:00:00Z"
 }
 

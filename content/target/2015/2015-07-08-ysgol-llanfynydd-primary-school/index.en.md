@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ysgolllanfynydd.co.uk/", 
-  "description": "Primary school in Flintshire earmarked for closure in 2015.", 
   "end_date": null, 
-  "title": "Ysgol Llanfynydd Primary School", 
-  "record_id": "20150708T100000/T2DLCpP5K7i2O1b0EbSsRQ==", 
-  "publisher": "ysgolllanfynydd.co.uk", 
+  "date": "2015-07-08T10:00:00", 
   "slug": 28795, 
+  "publisher": "ysgolllanfynydd.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Llanfynydd Primary School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150708T100000/T2DLCpP5K7i2O1b0EbSsRQ==", 
+  "scope": "root", 
   "start_date": "2015-07-08T10:00:00Z"
 }
 

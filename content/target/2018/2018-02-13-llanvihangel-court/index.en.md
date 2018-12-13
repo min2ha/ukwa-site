@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-13T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.llanvihangelcourt.com/", 
-  "description": "Llanvihangel Court is an historic 15C Tudor Manor with landscaped\ngardens located near Abergavenny and the reputed hideaway for Charles 1\nduring the Civil War.", 
   "end_date": null, 
-  "title": "Llanvihangel Court", 
-  "record_id": "20180213T090000/Xz4YfT/I/hXxLPw5zMRTWw==", 
-  "publisher": "llanvihangelcourt.com", 
+  "date": "2018-02-13T09:00:00", 
   "slug": 61235, 
+  "publisher": "llanvihangelcourt.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanvihangel Court", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180213T090000/Xz4YfT/I/hXxLPw5zMRTWw==", 
+  "scope": "subdomains", 
   "start_date": "2018-02-13T09:00:00Z"
 }
 

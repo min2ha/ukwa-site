@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T11:00:00", 
-  "open_access": true, 
   "target_url": "http://www.montgomeryshiregs.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Montgomeryshire Genealogical Society", 
-  "record_id": "20150925T110000/N+sdDthzSdWR1S4p5NZXhw==", 
-  "publisher": "montgomeryshiregs.org.uk", 
+  "date": "2015-09-25T11:00:00", 
   "slug": 30863, 
+  "publisher": "montgomeryshiregs.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Montgomeryshire Genealogical Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T110000/N+sdDthzSdWR1S4p5NZXhw==", 
+  "scope": "root", 
   "start_date": "2015-09-25T11:00:00Z"
 }
 

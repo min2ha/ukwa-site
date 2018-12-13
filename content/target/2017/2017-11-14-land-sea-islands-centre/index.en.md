@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.arisaiginfo.org.uk/", 
-  "description": "Site of a museum featuring local and natural history at Arisaig, Highland.", 
   "end_date": null, 
-  "title": "Land, Sea & Islands Centre", 
-  "record_id": "20171114T090000/KMqwPuBf8ZMQmVSCOrZ0Dg==", 
-  "publisher": "arisaiginfo.org.uk", 
+  "date": "2017-11-14T09:00:00", 
   "slug": 58751, 
+  "publisher": "arisaiginfo.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Land, Sea & Islands Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171114T090000/KMqwPuBf8ZMQmVSCOrZ0Dg==", 
+  "scope": "root", 
   "start_date": "2017-11-14T09:00:00Z"
 }
 

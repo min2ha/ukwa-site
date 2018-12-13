@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-20T10:00:00", 
-  "open_access": false, 
   "target_url": "http://ggcc.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cyngor Cymuned Gilfach Goch | Gilfach Goch Community Council", 
-  "record_id": "20160520T100000/ug3iKoc/C+A+lTrGMhtUXw==", 
-  "publisher": "ggcc.co.uk", 
+  "date": "2016-05-20T10:00:00", 
   "slug": 41419, 
+  "publisher": "ggcc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cyngor Cymuned Gilfach Goch | Gilfach Goch Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160520T100000/ug3iKoc/C+A+lTrGMhtUXw==", 
+  "scope": "root", 
   "start_date": "2016-05-20T10:00:00Z"
 }
 

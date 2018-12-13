@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.strufus.org/", 
-  "description": "The website of the Kirk of Keith, encorporating St. Rufus Church, Botriphnie Kirk and Grange Kirk.", 
   "end_date": null, 
-  "title": "Kirk of Keith", 
-  "record_id": "20180511T090000/Wsz/+zDD50140sXa/SW/Og==", 
-  "publisher": "strufus.org", 
+  "date": "2018-05-11T09:00:00", 
   "slug": 64274, 
+  "publisher": "strufus.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kirk of Keith", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180511T090000/Wsz/+zDD50140sXa/SW/Og==", 
+  "scope": "root", 
   "start_date": "2018-05-11T09:00:00Z"
 }
 

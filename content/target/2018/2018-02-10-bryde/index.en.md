@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brydemusic.com/", 
-  "description": "Bryde is Welsh Londoner Sarah Howells, a singer, songwriter and guitarist.", 
   "end_date": null, 
-  "title": "Bryde ", 
-  "record_id": "20180210T090000/B876Lg5rd625PmC+KcOgPw==", 
-  "publisher": "brydemusic.com", 
+  "date": "2018-02-10T09:00:00", 
   "slug": 61222, 
+  "publisher": "brydemusic.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bryde ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180210T090000/B876Lg5rd625PmC+KcOgPw==", 
+  "scope": "root", 
   "start_date": "2018-02-10T09:00:00Z"
 }
 

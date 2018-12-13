@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://roxburgh-street-masjid.co.uk/", 
-  "description": "Site of an Islamic place of worship and community centre in central Edinburgh.", 
   "end_date": null, 
-  "title": "Roxburgh Street Mosque & Community Centre", 
-  "record_id": "20171118T090000/YCi5kR6NwXGm/czRSPJY1Q==", 
-  "publisher": "roxburgh-street-masjid.co.uk", 
+  "date": "2017-11-18T09:00:00", 
   "slug": 58953, 
+  "publisher": "roxburgh-street-masjid.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Roxburgh Street Mosque & Community Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171118T090000/YCi5kR6NwXGm/czRSPJY1Q==", 
+  "scope": "root", 
   "start_date": "2017-11-18T09:00:00Z"
 }
 

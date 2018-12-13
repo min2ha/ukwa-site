@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.stjoesgaa.co.uk/", 
-  "description": "The history of St. Joseph\u2019s GAA Club, or \u2018The Joes\u2019, as we are affectionately known, dates back to the club\u2019s formation in 1947 in the Men\u2019s Club attached to St. Joseph\u2019s Church, Hanwell. The Club held their meetings in an old wooden hut that stood in the grounds of what is still St. Joseph\u2019s Church.", 
   "end_date": null, 
   "date": "2018-02-07T09:00:00", 
   "slug": 60976, 
-  "subject": "Sport: Football", 
   "publisher": "stjoesgaa.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Joseph\u2019s GAA Club London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20180207T090000/zc6q8w99CSp7aor2j+T38A==", 
+  "scope": "root", 
   "start_date": "2018-02-07T09:00:00Z"
 }
 

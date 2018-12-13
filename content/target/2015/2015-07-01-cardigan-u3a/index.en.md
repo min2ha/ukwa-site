@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-01T10:00:00", 
-  "open_access": true, 
   "target_url": "http://cardiganu3a.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardigan U3A", 
-  "record_id": "20150701T100000/r+48TRRhCEVkpnUZhFKVew==", 
-  "publisher": "cardiganu3a.org.uk", 
+  "date": "2015-07-01T10:00:00", 
   "slug": 321847303, 
+  "publisher": "cardiganu3a.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Cardigan U3A", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150701T100000/r+48TRRhCEVkpnUZhFKVew==", 
+  "scope": "root", 
   "start_date": "2015-07-01T10:00:00Z"
 }
 

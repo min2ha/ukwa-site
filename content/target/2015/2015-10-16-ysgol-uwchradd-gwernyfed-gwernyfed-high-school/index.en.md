@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gwernyfed-hs.powys.sch.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Uwchradd Gwernyfed | Gwernyfed High School", 
-  "record_id": "20151016T100000/qowb+aGYjsHLizI/sdYIyA==", 
-  "publisher": "gwernyfed-hs.powys.sch.uk", 
+  "date": "2015-10-16T10:00:00", 
   "slug": 31490, 
+  "publisher": "gwernyfed-hs.powys.sch.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Uwchradd Gwernyfed | Gwernyfed High School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151016T100000/qowb+aGYjsHLizI/sdYIyA==", 
+  "scope": "root", 
   "start_date": "2015-10-16T10:00:00Z"
 }
 

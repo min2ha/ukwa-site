@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.reidkerr.ac.uk/fear/", 
-  "description": "", 
   "end_date": null, 
-  "title": "FEAR : Further Education Access to Resources", 
-  "record_id": "20060101T120000/xgJhPRlZ5jJiT0rMXNEPrg==", 
-  "publisher": "reidkerr.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 122207, 
+  "publisher": "reidkerr.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "FEAR : Further Education Access to Resources", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xgJhPRlZ5jJiT0rMXNEPrg==", 
+  "scope": "root", 
   "start_date": null
 }
 

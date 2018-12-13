@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.greendavies.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "GreenDavies.co.uk", 
-  "record_id": "20131014T100000/wLrF89Q9jiwC0m6vQxXr4Q==", 
-  "publisher": "greendavies.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 47579212, 
+  "publisher": "greendavies.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "GreenDavies.co.uk", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/wLrF89Q9jiwC0m6vQxXr4Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

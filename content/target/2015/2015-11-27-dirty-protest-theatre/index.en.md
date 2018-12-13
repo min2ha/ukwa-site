@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dirtyprotesttheatre.co.uk/", 
-  "description": "Dirty Protest is Cardiff's leading fringe theatre company.", 
   "end_date": null, 
-  "title": "Dirty Protest Theatre", 
-  "record_id": "20151127T090000/+QTNg3U4WiuzTbiVc5cOfA==", 
-  "publisher": "dirtyprotesttheatre.co.uk", 
+  "date": "2015-11-27T09:00:00", 
   "slug": 32921, 
+  "publisher": "dirtyprotesttheatre.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Dirty Protest Theatre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151127T090000/+QTNg3U4WiuzTbiVc5cOfA==", 
+  "scope": "root", 
   "start_date": "2015-11-27T09:00:00Z"
 }
 

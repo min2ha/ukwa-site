@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.intelligencenetwork.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Wiltshire and Swindon Intelligence Network", 
-  "record_id": "20131014T100000/rz5WOAE270lf4DxSgEvFVw==", 
-  "publisher": "intelligencenetwork.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 15237128, 
+  "publisher": "intelligencenetwork.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Wiltshire and Swindon Intelligence Network", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/rz5WOAE270lf4DxSgEvFVw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

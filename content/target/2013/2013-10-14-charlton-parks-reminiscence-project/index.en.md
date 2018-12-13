@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.charltonparks.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Charlton Parks Reminiscence Project", 
-  "record_id": "20131014T100000/eLbfZMp3WQpB7ZvkTMsMBw==", 
-  "publisher": "charltonparks.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 66977805, 
+  "publisher": "charltonparks.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Charlton Parks Reminiscence Project", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/eLbfZMp3WQpB7ZvkTMsMBw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

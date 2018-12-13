@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.yggbm.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Gyfun Gymraeg Bro Myrddin | Bro Myrddin Welsh Comprehensive School", 
-  "record_id": "20170309T090000/SL6gUL40z/G0/7xuh3WY7Q==", 
-  "publisher": "yggbm.org", 
+  "date": "2017-03-09T09:00:00", 
   "slug": 50259, 
+  "publisher": "yggbm.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Gyfun Gymraeg Bro Myrddin | Bro Myrddin Welsh Comprehensive School", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170309T090000/SL6gUL40z/G0/7xuh3WY7Q==", 
+  "scope": "subdomains", 
   "start_date": "2017-03-09T09:00:00Z"
 }
 

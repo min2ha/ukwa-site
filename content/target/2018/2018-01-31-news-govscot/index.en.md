@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-31T09:00:00", 
-  "open_access": false, 
   "target_url": "http://news.gov.scot/", 
-  "description": "", 
   "end_date": null, 
-  "title": "News - gov.scot", 
-  "record_id": "20180131T090000/gUbxnOyVoyzC0KB8tFBooQ==", 
-  "publisher": "gov.scot", 
+  "date": "2018-01-31T09:00:00", 
   "slug": 46635, 
+  "publisher": "gov.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "News - gov.scot", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180131T090000/gUbxnOyVoyzC0KB8tFBooQ==", 
+  "scope": "root", 
   "start_date": "2018-01-31T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.kaiteoreilly.com/", 
-  "description": "Welsh playwright.", 
   "end_date": null, 
-  "title": "Kaite O'Reilly", 
-  "record_id": "20150609T090000/e946YgSsYsQKASQuv6T78Q==", 
-  "publisher": "kaiteoreilly.com", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27368, 
+  "publisher": "kaiteoreilly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kaite O'Reilly", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/e946YgSsYsQKASQuv6T78Q==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

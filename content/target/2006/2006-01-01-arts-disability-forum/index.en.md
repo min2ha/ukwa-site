@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.adf.ie/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Arts & Disability Forum", 
-  "record_id": "20060101T120000/IMeWXjo6LgnBp/QNQPBEVg==", 
-  "publisher": "adf.ie", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13488, 
+  "publisher": "adf.ie", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Arts & Disability Forum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/IMeWXjo6LgnBp/QNQPBEVg==", 
+  "scope": "root", 
   "start_date": null
 }
 

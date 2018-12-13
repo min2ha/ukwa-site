@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-28T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.victoriainfirmaryradio.co.uk/", 
-  "description": "Victoria Infirmary Radio is a voluntary-run organisation and a registered charity in Glasgow. Victoria Infirmary Radio is available in most wards. ViR extra is providing Sport (including live football), religious and specialist programmes.", 
   "end_date": null, 
-  "title": "Victoria Infirmary Radio", 
-  "record_id": "20150528T080000/4XlFxKQAd7J2bBjl0HC/pQ==", 
-  "publisher": "victoriainfirmaryradio.co.uk", 
+  "date": "2015-05-28T08:00:00", 
   "slug": 26991, 
+  "publisher": "victoriainfirmaryradio.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Victoria Infirmary Radio", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150528T080000/4XlFxKQAd7J2bBjl0HC/pQ==", 
+  "scope": "root", 
   "start_date": "2015-05-28T08:00:00Z"
 }
 

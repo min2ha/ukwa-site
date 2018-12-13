@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alra.co.uk/", 
-  "description": "Official website of the Academy of Live and Recorded Arts, London and Wigan.", 
   "end_date": null, 
-  "title": "Academy of Live and Recorded Arts (ALRA)", 
-  "record_id": "20150919T100000/+2dRnvkqTvqgt0goScMarw==", 
-  "publisher": "alra.co.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 30651, 
+  "publisher": "alra.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Academy of Live and Recorded Arts (ALRA)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/+2dRnvkqTvqgt0goScMarw==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

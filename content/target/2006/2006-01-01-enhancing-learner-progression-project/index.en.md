@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.elp.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Enhancing Learner Progression Project", 
-  "record_id": "20060101T120000/RJx00axhO8RwURBb4U9/WQ==", 
-  "publisher": "elp.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 137807, 
+  "publisher": "elp.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Enhancing Learner Progression Project", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/RJx00axhO8RwURBb4U9/WQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.merthyr.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Merthyr Tydfil County Borough Council", 
-  "record_id": "20130406T010000/LZQBc3psTcOqXXLJ/9qOJA==", 
-  "publisher": "merthyr.gov.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 15922, 
+  "publisher": "merthyr.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Merthyr Tydfil County Borough Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/LZQBc3psTcOqXXLJ/9qOJA==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

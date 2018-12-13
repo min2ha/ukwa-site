@@ -1,14 +1,26 @@
 {
   "target_url": "http://marchmontstgiles.org.uk/", 
-  "description": "Site of a Church of Scotland parish church at Marchmont, Edinburgh.", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 62665, 
-  "subject": "Religion/Theology", 
   "publisher": "marchmontstgiles.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Marchmont St Giles' Parish Church of Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20060101T120000/HugzgmgIy5bKM/lgXoDjqw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,30 @@
 {
   "target_url": "https://twitter.com/Another_Europe/", 
-  "description": "Twitter feed of  campaign against a British exit from the EU and for a social Europe.", 
   "end_date": "2019-03-30T01:00:00Z", 
   "date": "2016-11-22T09:00:00", 
   "slug": 47274, 
-  "subject": "Brexit", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Another Europe is Possible (@Another_Europe) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20161122T090000/oaDKoOgzhdQKc8vOu5LO/g==", 
+  "scope": "root", 
   "start_date": "2016-11-22T09:00:00Z"
 }
 

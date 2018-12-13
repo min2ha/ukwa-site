@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://relational.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Relational", 
-  "record_id": "20131014T100000/Q9Y9VRC0C4mEBbhPEqrovA==", 
-  "publisher": "relational.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 66158857, 
+  "publisher": "relational.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Relational", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/Q9Y9VRC0C4mEBbhPEqrovA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

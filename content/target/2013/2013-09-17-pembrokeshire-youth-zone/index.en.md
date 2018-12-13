@@ -1,13 +1,16 @@
 {
-  "date": "2013-09-17T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pembrokeshireyouthzone.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pembrokeshire Youth Zone", 
-  "record_id": "20130917T000000/tc73TNiwK66pLi9J7EgyIA==", 
-  "publisher": "pembrokeshireyouthzone.co.uk", 
+  "date": "2013-09-17T00:00:00", 
   "slug": 191037479, 
+  "publisher": "pembrokeshireyouthzone.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Pembrokeshire Youth Zone", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130917T000000/tc73TNiwK66pLi9J7EgyIA==", 
+  "scope": "root", 
   "start_date": "2013-09-17T00:00:00Z"
 }
 

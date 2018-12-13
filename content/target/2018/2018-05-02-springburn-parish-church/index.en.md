@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.springburnparishchurch.btck.co.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2018-05-02T09:00:00", 
   "slug": 63968, 
-  "subject": "Religion/Theology", 
   "publisher": "btck.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Springburn Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180502T090000/IrwjDolJA7ArpHefIxDuLg==", 
+  "scope": "root", 
   "start_date": "2018-05-02T09:00:00Z"
 }
 

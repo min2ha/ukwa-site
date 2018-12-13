@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://selwynrunnett.mycouncillor.org.uk/", 
-  "description": "Selwyn Runnett is a Liberal Democrat campaigner in Carmarthenshire.", 
   "end_date": null, 
-  "title": "Selwyn Runnett: Liberal Democrat Campaigner", 
-  "record_id": "20151027T090000/UnEciwYKQpRhkPYNxKfflg==", 
-  "publisher": "mycouncillor.org.uk", 
+  "date": "2015-10-27T09:00:00", 
   "slug": 31807, 
+  "publisher": "mycouncillor.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Selwyn Runnett: Liberal Democrat Campaigner", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151027T090000/UnEciwYKQpRhkPYNxKfflg==", 
+  "scope": "root", 
   "start_date": "2015-10-27T09:00:00Z"
 }
 

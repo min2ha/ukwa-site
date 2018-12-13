@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.quakerarts.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Quaker Arts Network (QAN)", 
-  "record_id": "20060101T120000/hLqpVoYnvE4eTbI/2LTMxw==", 
-  "publisher": "quakerarts.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12883, 
+  "publisher": "quakerarts.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Quaker Arts Network (QAN)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/hLqpVoYnvE4eTbI/2LTMxw==", 
+  "scope": "root", 
   "start_date": null
 }
 

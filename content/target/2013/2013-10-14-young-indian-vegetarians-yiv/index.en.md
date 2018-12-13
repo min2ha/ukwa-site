@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.youngindianvegetarians.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Young Indian Vegetarians (YIV)", 
-  "record_id": "20131014T100000/JlHLXb14vhbEJd5XyOT2xQ==", 
-  "publisher": "youngindianvegetarians.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 125961, 
+  "publisher": "youngindianvegetarians.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Young Indian Vegetarians (YIV)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/JlHLXb14vhbEJd5XyOT2xQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

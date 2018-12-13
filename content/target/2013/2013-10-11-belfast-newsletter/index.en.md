@@ -1,14 +1,34 @@
 {
   "target_url": "http://www.newsletter.co.uk/", 
-  "description": "A Belfast perspective on news, sport, what's on, lifestyle and more. Look for news and comment on Brexit from the point of view for Northern Ireland under the politics tab.", 
   "end_date": null, 
   "date": "2013-10-11T10:00:00", 
   "slug": 3618, 
-  "subject": "News Sites", 
   "publisher": "newsletter.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Belfast NewsLetter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }, 
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }, 
+    {
+      "id": 1021, 
+      "name": "Brexit : Impact on Northern Ireland"
+    }
+  ], 
   "record_id": "20131011T100000/qmFR2lvxBmm7ZrebRjgoJg==", 
+  "scope": "root", 
   "start_date": "2013-10-11T10:00:00Z"
 }
 

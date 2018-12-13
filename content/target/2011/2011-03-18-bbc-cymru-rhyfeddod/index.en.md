@@ -1,13 +1,16 @@
 {
-  "date": "2011-03-18T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/cymru/rhyfeddod/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC Cymru - Rhyfeddod", 
-  "record_id": "20110318T000000/ehG7FRs1nwuAwEtehuQ8eg==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2011-03-18T00:00:00", 
   "slug": 58195971, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC Cymru - Rhyfeddod", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20110318T000000/ehG7FRs1nwuAwEtehuQ8eg==", 
+  "scope": "root", 
   "start_date": "2011-03-18T00:00:00Z"
 }
 

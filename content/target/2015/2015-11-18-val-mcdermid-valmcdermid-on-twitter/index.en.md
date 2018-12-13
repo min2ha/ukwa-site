@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/valmcdermid/", 
-  "description": "The twitter profile of crime writer val McDermid.", 
   "end_date": null, 
-  "title": "Val McDermid (@valmcdermid) on Twitter", 
-  "record_id": "20151118T090000/jPux6KjWDSWPAXs+NLNsHA==", 
-  "publisher": "twitter.com", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32702, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Val McDermid (@valmcdermid) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/jPux6KjWDSWPAXs+NLNsHA==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

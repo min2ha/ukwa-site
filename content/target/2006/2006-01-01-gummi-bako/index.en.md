@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.gummibako.com/", 
-  "description": "Site of a music group assocaited with the Fence Collective and based in Fife.", 
   "end_date": null, 
-  "title": "Gummi Bako", 
-  "record_id": "20060101T120000/alb1DpvAP03z2T/95tIeTw==", 
-  "publisher": "gummibako.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 54401, 
+  "publisher": "gummibako.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gummi Bako", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/alb1DpvAP03z2T/95tIeTw==", 
+  "scope": "root", 
   "start_date": null
 }
 

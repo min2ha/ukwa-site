@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lalestoncommunitycouncil.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Laleston Community Council", 
-  "record_id": "20151105T090000/44VsJhc0Og4toAkyCgF78w==", 
-  "publisher": "lalestoncommunitycouncil.gov.uk", 
+  "date": "2015-11-05T09:00:00", 
   "slug": 32072, 
+  "publisher": "lalestoncommunitycouncil.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Laleston Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151105T090000/44VsJhc0Og4toAkyCgF78w==", 
+  "scope": "root", 
   "start_date": "2015-11-05T09:00:00Z"
 }
 

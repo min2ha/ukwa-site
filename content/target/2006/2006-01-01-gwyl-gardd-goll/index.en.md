@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://gwylgarddgoll.com/", 
-  "description": "G\u0175yl Gardd Goll was held at the National Trust\u2019s Plas Newydd, near Llanfairpwll on Anglesey.\u2028 The last festival was held in 2014.", 
   "end_date": null, 
-  "title": "G\u0175yl Gardd Goll ", 
-  "record_id": "20060101T120000/YfAXK6FsQ1mgXLcFbVhomw==", 
-  "publisher": "gwylgarddgoll.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49150, 
+  "publisher": "gwylgarddgoll.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "G\u0175yl Gardd Goll ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/YfAXK6FsQ1mgXLcFbVhomw==", 
+  "scope": "root", 
   "start_date": null
 }
 

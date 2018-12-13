@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.indiabuilding.co.uk/", 
-  "description": "Website about historic office building on Water Street, Liverpool.", 
   "end_date": null, 
-  "title": "India Building (Liverpool)", 
-  "record_id": "20180909T090000/QparunPcfF3gXg3EQ+AfKA==", 
-  "publisher": "indiabuilding.co.uk", 
+  "date": "2018-09-09T09:00:00", 
   "slug": 70974, 
+  "publisher": "indiabuilding.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "India Building (Liverpool)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180909T090000/QparunPcfF3gXg3EQ+AfKA==", 
+  "scope": "root", 
   "start_date": "2018-09-09T09:00:00Z"
 }
 

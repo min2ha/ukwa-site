@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-16T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.illuminetheatre.org/", 
-  "description": "Illumine Theatre is a collaboration between Cardiff playwright Lisa Parry and award-winning director Zo\u00eb Waterman. The theatre is currently based in London.", 
   "end_date": null, 
-  "title": "Illumine Theatre ", 
-  "record_id": "20180816T090000/E43yf4CUurQQzS036xxh0A==", 
-  "publisher": "illuminetheatre.org", 
+  "date": "2018-08-16T09:00:00", 
   "slug": 69995, 
+  "publisher": "illuminetheatre.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Illumine Theatre ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180816T090000/E43yf4CUurQQzS036xxh0A==", 
+  "scope": "root", 
   "start_date": "2018-08-16T09:00:00Z"
 }
 

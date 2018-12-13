@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ancomunn.co.uk/index_e.htm", 
-  "description": null, 
   "end_date": null, 
-  "title": "An Comunn Gaidhealach", 
-  "record_id": "20060101T120000/ZiLJC8vJ9/japciqnWXntw==", 
-  "publisher": "ancomunn.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117174, 
+  "publisher": "ancomunn.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "An Comunn Gaidhealach", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ZiLJC8vJ9/japciqnWXntw==", 
+  "scope": "root", 
   "start_date": null
 }
 

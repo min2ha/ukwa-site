@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/machinimahrc/", 
-  "description": null, 
   "end_date": null, 
-  "title": "MachinimAHRC on Twitter", 
-  "record_id": "20060101T120000/fHBAk0UZ9xEzve5IIuJPIw==", 
-  "publisher": "twitter.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338355, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "MachinimAHRC on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fHBAk0UZ9xEzve5IIuJPIw==", 
+  "scope": "root", 
   "start_date": null
 }
 

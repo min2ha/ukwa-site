@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://stfrancisandstclares.org.uk/", 
-  "description": "St Francis & St Clares Parish is a Roman Catholic Parish based in Ely, Cardiff.", 
   "end_date": null, 
-  "title": "St Francis & St Clares Parish,  Ely, Cardiff", 
-  "record_id": "20161122T090000/Gf70wa5sp7MI9E1AaABGSA==", 
-  "publisher": "stfrancisandstclares.org.uk", 
+  "date": "2016-11-22T09:00:00", 
   "slug": 47260, 
+  "publisher": "stfrancisandstclares.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St Francis & St Clares Parish,  Ely, Cardiff", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161122T090000/Gf70wa5sp7MI9E1AaABGSA==", 
+  "scope": "root", 
   "start_date": "2016-11-22T09:00:00Z"
 }
 

@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.eastyoke.com/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
   "date": "2013-02-26T00:00:00", 
   "slug": 106234237, 
-  "subject": "Cambridge Network", 
   "publisher": "eastyoke.com", 
   "open_access": true, 
+  "npld": false, 
   "title": "Eastyoke", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2442, 
+      "name": "Cambridge Network"
+    }
+  ], 
   "record_id": "20130226T000000/Hb/rZhj12Qh/Qd8mkTzqeQ==", 
+  "scope": "root", 
   "start_date": "2013-02-26T00:00:00Z"
 }
 

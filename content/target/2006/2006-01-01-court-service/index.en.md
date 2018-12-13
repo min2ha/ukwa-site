@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.courtservice.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Court Service", 
-  "record_id": "20060101T120000/Rg/CCSvKg8Co+HDBOgOx/g==", 
-  "publisher": "courtservice.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 100264, 
+  "publisher": "courtservice.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Court Service", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Rg/CCSvKg8Co+HDBOgOx/g==", 
+  "scope": "root", 
   "start_date": null
 }
 

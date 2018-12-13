@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://guernseywelshchoir.com/", 
-  "description": "The Guernsey Welsh Male Voice Choir was established in 2003 as \u201cWelsh Boys Aloud\u201d, renamed the Guernsey Welsh Male Voice Choir in 2014.", 
   "end_date": null, 
-  "title": "Guernsey Welsh Choir", 
-  "record_id": "20180518T090000/+wrvlutSfW8CoSTzf+jkjA==", 
-  "publisher": "guernseywelshchoir.com", 
+  "date": "2018-05-18T09:00:00", 
   "slug": 65831, 
+  "publisher": "guernseywelshchoir.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Guernsey Welsh Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180518T090000/+wrvlutSfW8CoSTzf+jkjA==", 
+  "scope": "root", 
   "start_date": "2018-05-18T09:00:00Z"
 }
 

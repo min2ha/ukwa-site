@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-09T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.eifionsvenmyer.com/", 
-  "description": "Eifion Sven-Myer is a Welsh artist living in Swansea.", 
   "end_date": null, 
-  "title": "Eifion Sven-Myer", 
-  "record_id": "20160909T100000/1iiAPXmxoQ25Qceps1qfdw==", 
-  "publisher": "eifionsvenmyer.com", 
+  "date": "2016-09-09T10:00:00", 
   "slug": 45302, 
+  "publisher": "eifionsvenmyer.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Eifion Sven-Myer", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160909T100000/1iiAPXmxoQ25Qceps1qfdw==", 
+  "scope": "root", 
   "start_date": "2016-09-09T10:00:00Z"
 }
 

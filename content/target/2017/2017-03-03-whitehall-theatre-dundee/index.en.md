@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.whitehalltheatre.com/", 
-  "description": "Site for a theatre / theatrical venue in Dundee, Scotland.", 
   "end_date": null, 
-  "title": "Whitehall Theatre, Dundee", 
-  "record_id": "20170303T090000/nniNItWYWkwOEqncj0bwxw==", 
-  "publisher": "whitehalltheatre.com", 
+  "date": "2017-03-03T09:00:00", 
   "slug": 49973, 
+  "publisher": "whitehalltheatre.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Whitehall Theatre, Dundee", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170303T090000/nniNItWYWkwOEqncj0bwxw==", 
+  "scope": "root", 
   "start_date": "2017-03-03T09:00:00Z"
 }
 

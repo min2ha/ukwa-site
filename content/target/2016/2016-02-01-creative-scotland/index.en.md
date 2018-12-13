@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.creativescotland.com/", 
-  "description": "Creative Scotland is the public body that supports the arts, screen and creative industries across all parts of Scotland, distributing funding from the Scottish Governemnt and the National Lottery.", 
   "end_date": null, 
-  "title": "Creative Scotland", 
-  "record_id": "20160201T090000/XWhkAm/jZtMBBh8mx5cERw==", 
-  "publisher": "creativescotland.com", 
+  "date": "2016-02-01T09:00:00", 
   "slug": 34866, 
+  "publisher": "creativescotland.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Creative Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160201T090000/XWhkAm/jZtMBBh8mx5cERw==", 
+  "scope": "root", 
   "start_date": "2016-02-01T09:00:00Z"
 }
 

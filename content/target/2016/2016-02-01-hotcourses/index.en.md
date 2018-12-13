@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hotcourses.com/", 
-  "description": "Hotcourses gives information about academic and non-academic courses.", 
   "end_date": null, 
-  "title": "Hotcourses", 
-  "record_id": "20160201T090000/lP4mPGGNYGq/T/cEDy+Ljw==", 
-  "publisher": "hotcourses.com", 
+  "date": "2016-02-01T09:00:00", 
   "slug": 34871, 
+  "publisher": "hotcourses.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hotcourses", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160201T090000/lP4mPGGNYGq/T/cEDy+Ljw==", 
+  "scope": "root", 
   "start_date": "2016-02-01T09:00:00Z"
 }
 

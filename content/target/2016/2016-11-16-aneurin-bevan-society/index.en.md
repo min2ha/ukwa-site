@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nyebevan.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Aneurin Bevan Society", 
-  "record_id": "20161116T090000/LWhqxNDWld/4nJfCKua9ig==", 
-  "publisher": "nyebevan.org.uk", 
+  "date": "2016-11-16T09:00:00", 
   "slug": 47077, 
+  "publisher": "nyebevan.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aneurin Bevan Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161116T090000/LWhqxNDWld/4nJfCKua9ig==", 
+  "scope": "root", 
   "start_date": "2016-11-16T09:00:00Z"
 }
 

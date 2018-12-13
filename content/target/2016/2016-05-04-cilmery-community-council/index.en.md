@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cilmery-community-council.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cilmery Community Council", 
-  "record_id": "20160504T100000/s2KbdsXc9g5ZXnqkyxxx7A==", 
-  "publisher": "cilmery-community-council.com", 
+  "date": "2016-05-04T10:00:00", 
   "slug": 40400, 
+  "publisher": "cilmery-community-council.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cilmery Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160504T100000/s2KbdsXc9g5ZXnqkyxxx7A==", 
+  "scope": "root", 
   "start_date": "2016-05-04T10:00:00Z"
 }
 

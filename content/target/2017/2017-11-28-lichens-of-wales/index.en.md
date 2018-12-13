@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://wales-lichens.org.uk/", 
-  "description": "The Lichens of Wales website aims to bring together in one place diverse sources of information related to the conservation of lichens in Wales.", 
   "end_date": null, 
-  "title": "Lichens of Wales", 
-  "record_id": "20171128T090000/PScgO/CvRWNBIGV615EIwA==", 
-  "publisher": "wales-lichens.org.uk", 
+  "date": "2017-11-28T09:00:00", 
   "slug": 59225, 
+  "publisher": "wales-lichens.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lichens of Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171128T090000/PScgO/CvRWNBIGV615EIwA==", 
+  "scope": "root", 
   "start_date": "2017-11-28T09:00:00Z"
 }
 

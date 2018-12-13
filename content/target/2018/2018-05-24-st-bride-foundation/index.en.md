@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-24T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sbf.org.uk/", 
-  "description": "Organisation founded in 1891 including a library of printing, workshops, venues for events and the Bridewell Theatre.", 
   "end_date": null, 
-  "title": "St. Bride Foundation", 
-  "record_id": "20180524T090000/hdUhmkVmtW8hTdF9DvyHxA==", 
-  "publisher": "sbf.org.uk", 
+  "date": "2018-05-24T09:00:00", 
   "slug": 66057, 
+  "publisher": "sbf.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "St. Bride Foundation", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180524T090000/hdUhmkVmtW8hTdF9DvyHxA==", 
+  "scope": "root", 
   "start_date": "2018-05-24T09:00:00Z"
 }
 

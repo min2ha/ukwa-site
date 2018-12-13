@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.northwalescu.co.uk", 
-  "description": "<p>North Wales Credit Union (NWCU) is a community owned and controlled financial cooperative and operates Anglesey, Conwy, Denbighshire, Flintshire, Gwynedd and Wrexham.</p>\n", 
   "end_date": null, 
-  "title": "North Wales Credit Union", 
-  "record_id": "20060101T120000/JZqXUiEyB4A9Kp07R3Hzmg==", 
-  "publisher": "northwalescu.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14434, 
+  "publisher": "northwalescu.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "North Wales Credit Union", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/JZqXUiEyB4A9Kp07R3Hzmg==", 
+  "scope": "root", 
   "start_date": null
 }
 

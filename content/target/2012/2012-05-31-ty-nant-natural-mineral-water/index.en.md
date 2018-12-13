@@ -1,13 +1,16 @@
 {
-  "date": "2012-05-31T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tynant.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ty Nant Natural Mineral Water", 
-  "record_id": "20120531T000000/n9kNDfPM/MdCEeEkh1AIyA==", 
-  "publisher": "tynant.com", 
+  "date": "2012-05-31T00:00:00", 
   "slug": 65208331, 
+  "publisher": "tynant.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Ty Nant Natural Mineral Water", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20120531T000000/n9kNDfPM/MdCEeEkh1AIyA==", 
+  "scope": "root", 
   "start_date": "2012-05-31T00:00:00Z"
 }
 

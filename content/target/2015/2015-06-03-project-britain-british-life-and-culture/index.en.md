@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.projectbritain.com/", 
-  "description": "Project Britain - British Life and Culture is a site promoting British customs and traditions among school children. ", 
   "end_date": null, 
-  "title": "Project Britain - British Life and Culture", 
-  "record_id": "20150603T090000/WlGa8vuDQpcq1ozX4W2G4w==", 
-  "publisher": "projectbritain.com", 
+  "date": "2015-06-03T09:00:00", 
   "slug": 27197, 
+  "publisher": "projectbritain.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Project Britain - British Life and Culture", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150603T090000/WlGa8vuDQpcq1ozX4W2G4w==", 
+  "scope": "root", 
   "start_date": "2015-06-03T09:00:00Z"
 }
 

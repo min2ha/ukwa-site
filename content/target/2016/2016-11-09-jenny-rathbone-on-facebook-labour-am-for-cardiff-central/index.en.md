@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-09T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/jennyrathboneAM/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Jenny Rathbone on Facebook (Labour AM for Cardiff Central)", 
-  "record_id": "20161109T090000/tzD1TMX7/YSnMVSM0IeOnA==", 
-  "publisher": "facebook.com", 
+  "date": "2016-11-09T09:00:00", 
   "slug": 46843, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Jenny Rathbone on Facebook (Labour AM for Cardiff Central)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161109T090000/tzD1TMX7/YSnMVSM0IeOnA==", 
+  "scope": "root", 
   "start_date": "2016-11-09T09:00:00Z"
 }
 

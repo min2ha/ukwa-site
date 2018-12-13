@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-19T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.belvillecommunitygarden.co.uk/", 
-  "description": "Site of a hyper-local community group in Greenock, Renfrewshire, running community projects within local schools and community groups in art and design and horticulture.", 
   "end_date": null, 
-  "title": "Belville Community Garden", 
-  "record_id": "20160519T100000/mXPGzEL1f84SsW+qpoCkrQ==", 
-  "publisher": "belvillecommunitygarden.co.uk", 
+  "date": "2016-05-19T10:00:00", 
   "slug": 41221, 
+  "publisher": "belvillecommunitygarden.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Belville Community Garden", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160519T100000/mXPGzEL1f84SsW+qpoCkrQ==", 
+  "scope": "root", 
   "start_date": "2016-05-19T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://whahealthcare.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Hospitals & Health Services Association (WHA)", 
-  "record_id": "20151205T090000/f1aHRR96SEUbRjM3kWBP8Q==", 
-  "publisher": "whahealthcare.co.uk", 
+  "date": "2015-12-05T09:00:00", 
   "slug": 33249, 
+  "publisher": "whahealthcare.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Hospitals & Health Services Association (WHA)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151205T090000/f1aHRR96SEUbRjM3kWBP8Q==", 
+  "scope": "root", 
   "start_date": "2015-12-05T09:00:00Z"
 }
 

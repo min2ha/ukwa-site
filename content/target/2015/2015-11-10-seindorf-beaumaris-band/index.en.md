@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.beaumarisband.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Seindorf Beaumaris Band", 
-  "record_id": "20151110T090000/iusqfaUg68iSMgKbNyYcpg==", 
-  "publisher": "beaumarisband.org.uk", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 32286, 
+  "publisher": "beaumarisband.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Seindorf Beaumaris Band", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/iusqfaUg68iSMgKbNyYcpg==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

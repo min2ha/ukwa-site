@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/cymru/lleol/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC Lleol", 
-  "record_id": "20060101T120000/cUN7nPMR3ZKxdeTeoUTOrg==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 57344056, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC Lleol", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cUN7nPMR3ZKxdeTeoUTOrg==", 
+  "scope": "root", 
   "start_date": null
 }
 

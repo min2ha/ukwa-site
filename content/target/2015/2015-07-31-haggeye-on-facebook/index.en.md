@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-31T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.facebook.com/haggeye/", 
-  "description": "Haggeye is an RNIB project to bring together young people living with sight loss in Scotland.", 
   "end_date": null, 
-  "title": "Haggeye on Facebook", 
-  "record_id": "20150731T100000/saSi9tN9VDUJYMM6hrmxQA==", 
-  "publisher": "facebook.com", 
+  "date": "2015-07-31T10:00:00", 
   "slug": 29596, 
+  "publisher": "facebook.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Haggeye on Facebook", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150731T100000/saSi9tN9VDUJYMM6hrmxQA==", 
+  "scope": "root", 
   "start_date": "2015-07-31T10:00:00Z"
 }
 

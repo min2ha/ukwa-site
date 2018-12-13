@@ -1,13 +1,21 @@
 {
-  "date": "2014-09-10T07:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nthouseproud.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "National Trust #NT HouseProud", 
-  "record_id": "20140910T070000/CNaPOtDBFz2VmupeTtaShg==", 
-  "publisher": "nthouseproud.org.uk", 
+  "date": "2014-09-10T07:00:00", 
   "slug": 13962, 
+  "publisher": "nthouseproud.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "National Trust #NT HouseProud", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140910T070000/CNaPOtDBFz2VmupeTtaShg==", 
+  "scope": "root", 
   "start_date": "2014-09-10T07:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2010-10-13T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.swancoll.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Coleg Abertawe - Swansea College", 
-  "record_id": "20101013T000000/HMK1VGDp4a1jQcXrgldCNw==", 
-  "publisher": "swancoll.ac.uk", 
+  "date": "2010-10-13T00:00:00", 
   "slug": 133803, 
+  "publisher": "swancoll.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Coleg Abertawe - Swansea College", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20101013T000000/HMK1VGDp4a1jQcXrgldCNw==", 
+  "scope": "root", 
   "start_date": "2010-10-13T00:00:00Z"
 }
 

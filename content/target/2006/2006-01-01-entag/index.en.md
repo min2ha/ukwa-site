@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ukoln.ac.uk/projects/enhanced-tagging/", 
-  "description": "", 
   "end_date": null, 
-  "title": "EnTag", 
-  "record_id": "20060101T120000/L5uMUIp3E7fM8lncufRgWg==", 
-  "publisher": "ukoln.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 162791471, 
+  "publisher": "ukoln.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "EnTag", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/L5uMUIp3E7fM8lncufRgWg==", 
+  "scope": "root", 
   "start_date": null
 }
 

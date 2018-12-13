@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mikebakereducation.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mike Baker", 
-  "record_id": "20131014T100000/hmLOEzYmQO10GwyMPfxlJg==", 
-  "publisher": "mikebakereducation.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 11534367, 
+  "publisher": "mikebakereducation.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Mike Baker", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/hmLOEzYmQO10GwyMPfxlJg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

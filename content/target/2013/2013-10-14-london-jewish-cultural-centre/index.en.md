@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.ljcc.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "London Jewish Cultural Centre", 
-  "record_id": "20131014T100000/VRkn0n2tUstou+l8qa6GMg==", 
-  "publisher": "ljcc.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 47579171, 
+  "publisher": "ljcc.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "London Jewish Cultural Centre", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/VRkn0n2tUstou+l8qa6GMg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

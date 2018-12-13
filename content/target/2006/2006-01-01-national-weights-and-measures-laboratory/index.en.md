@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nwml.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "National Weights and Measures Laboratory", 
-  "record_id": "20060101T120000/MrvoAirVpzi5Ezf+utO5CQ==", 
-  "publisher": "nwml.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 26574864, 
+  "publisher": "nwml.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "National Weights and Measures Laboratory", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/MrvoAirVpzi5Ezf+utO5CQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

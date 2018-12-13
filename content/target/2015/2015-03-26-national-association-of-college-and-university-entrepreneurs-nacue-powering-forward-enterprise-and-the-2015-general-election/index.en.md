@@ -1,14 +1,26 @@
 {
   "target_url": "http://nacue.com/wp-content/uploads/2015/01/2015-General-Election-consultation.pdf", 
-  "description": "The National Association of College & University Entrepreneurs, abbreviated to and operating as NACUE, is a national organisation in the United Kingdom that promotes entrepreneurship amongst students in higher education and further education. It supports student enterprise societies at colleges and universities, through its existing network of 240 enterprise societies, as well as assisting new societies. NACUE was founded in 2009, bringing together twelve enterprise societies at universities across the country. It became a charity in 2011.", 
   "end_date": "2015-03-31T00:00:00Z", 
   "date": "2015-03-26T09:00:00", 
   "slug": 19706, 
-  "subject": "UK General Election 2015", 
   "publisher": "nacue.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "National Association of College and University Entrepreneurs (NACUE): Powering Forward: Enterprise and the 2015 General Election", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }
+  ], 
   "record_id": "20150326T090000/kN/msg9dUvM406PQe0u/oA==", 
+  "scope": "root", 
   "start_date": "2015-03-26T09:00:00Z"
 }
 

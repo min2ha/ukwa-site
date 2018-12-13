@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.torfaenyis.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Torfaen Youth Information Service", 
-  "record_id": "20151216T090000/740Gufh6hdAKIXa5VfA5lw==", 
-  "publisher": "torfaenyis.org.uk", 
+  "date": "2015-12-16T09:00:00", 
   "slug": 33469, 
+  "publisher": "torfaenyis.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Torfaen Youth Information Service", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151216T090000/740Gufh6hdAKIXa5VfA5lw==", 
+  "scope": "root", 
   "start_date": "2015-12-16T09:00:00Z"
 }
 

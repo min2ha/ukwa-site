@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.carmichaelwatson.lib.ed.ac.uk/cwatson/", 
-  "description": "Carmichael Watson Project", 
   "end_date": null, 
-  "title": "Carmichael Watson Project", 
-  "record_id": "20161104T090000/qC5tCjlUu7ynx3DzmIX0uQ==", 
-  "publisher": "ed.ac.uk", 
+  "date": "2016-11-04T09:00:00", 
   "slug": 46754, 
+  "publisher": "ed.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Carmichael Watson Project", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161104T090000/qC5tCjlUu7ynx3DzmIX0uQ==", 
+  "scope": "root", 
   "start_date": "2016-11-04T09:00:00Z"
 }
 

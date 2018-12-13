@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ysgolpentrecelyn.org.uk/", 
-  "description": "School based near Ruthin and due for closure in 2016.", 
   "end_date": null, 
-  "title": "Ysgol Pentrecelyn", 
-  "record_id": "20151111T090000/FQzJvwCErcxN4s3azrDmIg==", 
-  "publisher": "ysgolpentrecelyn.org.uk", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 32318, 
+  "publisher": "ysgolpentrecelyn.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Pentrecelyn", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/FQzJvwCErcxN4s3azrDmIg==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

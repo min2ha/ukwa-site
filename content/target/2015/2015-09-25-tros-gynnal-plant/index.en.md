@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trosgynnal.org.uk/", 
-  "description": "Tros Gynnal Plant is a leading children\u2019s charity working with Wales\u2019s most vulnerable and marginalised children and young people. ", 
   "end_date": null, 
-  "title": "Tros Gynnal Plant", 
-  "record_id": "20150925T100000//IbXy1b10TFTHeEEpYNeOg==", 
-  "publisher": "trosgynnal.org.uk", 
+  "date": "2015-09-25T10:00:00", 
   "slug": 30849, 
+  "publisher": "trosgynnal.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Tros Gynnal Plant", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150925T100000//IbXy1b10TFTHeEEpYNeOg==", 
+  "scope": "root", 
   "start_date": "2015-09-25T10:00:00Z"
 }
 

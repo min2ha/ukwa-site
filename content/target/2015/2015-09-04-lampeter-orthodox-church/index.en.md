@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://lampeterorthodox.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lampeter Orthodox Church", 
-  "record_id": "20150904T100000/lzqYBsdFDUPlSa1o8Y01vg==", 
-  "publisher": "lampeterorthodox.org.uk", 
+  "date": "2015-09-04T10:00:00", 
   "slug": 30190, 
+  "publisher": "lampeterorthodox.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lampeter Orthodox Church", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150904T100000/lzqYBsdFDUPlSa1o8Y01vg==", 
+  "scope": "root", 
   "start_date": "2015-09-04T10:00:00Z"
 }
 

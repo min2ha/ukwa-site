@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiffdebate.co.uk/", 
-  "description": "The Cardiff Debate is a 3 year consultation about planning, prioritising and providing public services in Cardiff.  It will involve local people and communities in shaping the future of public services in the city. ", 
   "end_date": null, 
-  "title": "Sgwrs Caerdydd | Cardiff Debate", 
-  "record_id": "20151208T090000/+/VvBHMRNC+X4bMBjZUd5A==", 
-  "publisher": "cardiffdebate.co.uk", 
+  "date": "2015-12-08T09:00:00", 
   "slug": 33276, 
+  "publisher": "cardiffdebate.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sgwrs Caerdydd | Cardiff Debate", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151208T090000/+/VvBHMRNC+X4bMBjZUd5A==", 
+  "scope": "root", 
   "start_date": "2015-12-08T09:00:00Z"
 }
 

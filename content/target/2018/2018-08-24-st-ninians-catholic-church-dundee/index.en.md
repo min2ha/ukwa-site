@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.stniniandundee.org.uk/", 
-  "description": "Site of a Scottish Roman Catholic parish church located in Dundee.", 
   "end_date": null, 
   "date": "2018-08-24T09:00:00", 
   "slug": 70360, 
-  "subject": "Religion/Theology", 
   "publisher": "stniniandundee.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "St. Ninian's Catholic Church, Dundee", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180824T090000/JjXLOp66UwEHQfyZ4QHiLQ==", 
+  "scope": "root", 
   "start_date": "2018-08-24T09:00:00Z"
 }
 

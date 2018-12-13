@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.twfcymru.com/Cymraeg/Tudalennau/cartref.aspx", 
-  "description": "", 
   "end_date": null, 
-  "title": "Twf Cymru", 
-  "record_id": "20060101T120000/6aGtJ153YMJV6Pf6/vwuGw==", 
-  "publisher": "twfcymru.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 64291020, 
+  "publisher": "twfcymru.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Twf Cymru", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/6aGtJ153YMJV6Pf6/vwuGw==", 
+  "scope": "root", 
   "start_date": null
 }
 

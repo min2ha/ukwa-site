@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.carmarthenshire-methodists.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llanelli & Carmarthen Methodist Circuit", 
-  "record_id": "20160927T100000/qj4d9zLI3BSBMvWVT2dbYA==", 
-  "publisher": "carmarthenshire-methodists.org.uk", 
+  "date": "2016-09-27T10:00:00", 
   "slug": 45633, 
+  "publisher": "carmarthenshire-methodists.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanelli & Carmarthen Methodist Circuit", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160927T100000/qj4d9zLI3BSBMvWVT2dbYA==", 
+  "scope": "root", 
   "start_date": "2016-09-27T10:00:00Z"
 }
 

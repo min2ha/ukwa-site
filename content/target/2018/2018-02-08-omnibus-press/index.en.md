@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.omnibuspress.com/", 
-  "description": "Omnibus Press is a large publisher of music related books including artist/band biographies, photo books and collectables.", 
   "end_date": null, 
-  "title": "Omnibus Press", 
-  "record_id": "20180208T090000/hUEKBJmQIqhPMrNi3eXVXw==", 
-  "publisher": "omnibuspress.com", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 61015, 
+  "publisher": "omnibuspress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Omnibus Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/hUEKBJmQIqhPMrNi3eXVXw==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

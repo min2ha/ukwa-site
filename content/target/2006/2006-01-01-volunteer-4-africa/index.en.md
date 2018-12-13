@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.volunteer4africa.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Volunteer 4 Africa", 
-  "record_id": "20060101T120000/ccmxgSUB/eqKfa1OnJnX1g==", 
-  "publisher": "volunteer4africa.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 261128216, 
+  "publisher": "volunteer4africa.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Volunteer 4 Africa", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ccmxgSUB/eqKfa1OnJnX1g==", 
+  "scope": "root", 
   "start_date": null
 }
 

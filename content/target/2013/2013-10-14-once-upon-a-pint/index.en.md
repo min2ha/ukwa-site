@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.onceuponapint.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Once Upon a Pint", 
-  "record_id": "20131014T100000/62Csw1aXl3gkReFbLQ/Pfw==", 
-  "publisher": "onceuponapint.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 56197139, 
+  "publisher": "onceuponapint.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Once Upon a Pint", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/62Csw1aXl3gkReFbLQ/Pfw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.bbc.co.uk/news/uk-politics-42161346", 
-  "description": "Reports that the UK has offered a financial settlement of up to 50bn euros (\u00a344bn) to the EU in exchange for opening negotiations on trade.", 
   "end_date": "2017-12-10T00:00:00Z", 
   "date": "2017-11-30T09:00:00", 
   "slug": 59298, 
-  "subject": "Brexit", 
   "publisher": "bbc.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "BBC News: Brexit: UK divorce bill offer worth up to 50bn euros", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }
+  ], 
   "record_id": "20171130T090000/0qv/dLvmMBEw24y/eZYmIA==", 
+  "scope": "root", 
   "start_date": "2017-11-30T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.denbighbiz.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Asiantaeth Antur Sir Ddinbych | Denbighshire Enterprise Agency", 
-  "record_id": "20150905T100000/gvUP1uImT7GKD6WQuTbE9w==", 
-  "publisher": "denbighbiz.co.uk", 
+  "date": "2015-09-05T10:00:00", 
   "slug": 30271, 
+  "publisher": "denbighbiz.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Asiantaeth Antur Sir Ddinbych | Denbighshire Enterprise Agency", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150905T100000/gvUP1uImT7GKD6WQuTbE9w==", 
+  "scope": "root", 
   "start_date": "2015-09-05T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-22T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.vaughanassociation.org/", 
-  "description": "The Vaughan Association celebrates the life of metaphysical poet, Henry Vaughan.", 
   "end_date": null, 
-  "title": "Vaughan Association, The", 
-  "record_id": "20170422T090000/VgL1EmzCjPNuErXQCLQckQ==", 
-  "publisher": "vaughanassociation.org", 
+  "date": "2017-04-22T09:00:00", 
   "slug": 52242, 
+  "publisher": "vaughanassociation.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Vaughan Association, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170422T090000/VgL1EmzCjPNuErXQCLQckQ==", 
+  "scope": "root", 
   "start_date": "2017-04-22T09:00:00Z"
 }
 

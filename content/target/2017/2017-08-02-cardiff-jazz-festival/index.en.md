@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://rhysphillips.co.uk/cardiffjazzfest/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Jazz Festival", 
-  "record_id": "20170802T090000/C/DcVTVfcivvEy4TcF8W3g==", 
-  "publisher": "rhysphillips.co.uk", 
+  "date": "2017-08-02T09:00:00", 
   "slug": 56308, 
+  "publisher": "rhysphillips.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Jazz Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170802T090000/C/DcVTVfcivvEy4TcF8W3g==", 
+  "scope": "root", 
   "start_date": "2017-08-02T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.davidgarnerartist.com/", 
-  "description": "<p>David Garner is a Welsh artist from Ebba Vale.</p>\n", 
   "end_date": null, 
-  "title": "David Garner Artist", 
-  "record_id": "20060101T120000/NdUWOAWygprMn5wXsdC/Uw==", 
-  "publisher": "davidgarnerartist.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 276725762, 
+  "publisher": "davidgarnerartist.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "David Garner Artist", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/NdUWOAWygprMn5wXsdC/Uw==", 
+  "scope": "root", 
   "start_date": null
 }
 

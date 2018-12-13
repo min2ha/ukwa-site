@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://bit.ly/apPbkb", 
-  "description": "additional seed to capture david cameron's first speech on being elected prime minister. not on main conservative party url", 
   "end_date": null, 
-  "title": "Conservative Party David Cameron's first speech", 
-  "record_id": "20060101T120000/PLYyHaIOiPQLhCY579ZSwA==", 
-  "publisher": "bit.ly", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 48594957, 
+  "publisher": "bit.ly", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Conservative Party David Cameron's first speech", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/PLYyHaIOiPQLhCY579ZSwA==", 
+  "scope": "root", 
   "start_date": null
 }
 

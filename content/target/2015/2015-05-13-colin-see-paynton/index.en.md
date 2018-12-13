@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.see-paynton.co.uk/", 
-  "description": "Welsh artist and wood engraver.", 
   "end_date": null, 
-  "title": "Colin See-Paynton", 
-  "record_id": "20150513T090000/eEKEpBYnFMYPV6F7RF6THA==", 
-  "publisher": "see-paynton.co.uk", 
+  "date": "2015-05-13T09:00:00", 
   "slug": 23820, 
+  "publisher": "see-paynton.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Colin See-Paynton", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150513T090000/eEKEpBYnFMYPV6F7RF6THA==", 
+  "scope": "root", 
   "start_date": "2015-05-13T09:00:00Z"
 }
 

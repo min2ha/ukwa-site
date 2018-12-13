@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.leariverstrust.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lea Rivers Trust", 
-  "record_id": "20060101T120000/AH6bxjxp1P8nHEnxSogXvA==", 
-  "publisher": "leariverstrust.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 130275, 
+  "publisher": "leariverstrust.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Lea Rivers Trust", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/AH6bxjxp1P8nHEnxSogXvA==", 
+  "scope": "root", 
   "start_date": null
 }
 

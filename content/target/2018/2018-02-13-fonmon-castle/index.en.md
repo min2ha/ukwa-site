@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-13T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fonmoncastle.com/", 
-  "description": "Fonmon Castle is located near Rhoose, the Vale of Glamorgan. It was\nbuilt in 1180 and has been owned by just two families in its 800 year\nhistory. It has recently been opened to the public.", 
   "end_date": null, 
-  "title": "Fonmon Castle", 
-  "record_id": "20180213T090000/YYSt0IOcNu7lbUvKZfUWXg==", 
-  "publisher": "fonmoncastle.com", 
+  "date": "2018-02-13T09:00:00", 
   "slug": 61233, 
+  "publisher": "fonmoncastle.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fonmon Castle", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180213T090000/YYSt0IOcNu7lbUvKZfUWXg==", 
+  "scope": "root", 
   "start_date": "2018-02-13T09:00:00Z"
 }
 

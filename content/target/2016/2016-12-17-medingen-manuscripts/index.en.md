@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-17T09:00:00", 
-  "open_access": true, 
   "target_url": "http://medingen.seh.ox.ac.uk/", 
-  "description": "The website reassembles the scattered manuscripts and prints of the Cistercian nuns of Medingen", 
   "end_date": null, 
-  "title": "Medingen Manuscripts", 
-  "record_id": "20161217T090000/XSyGjdfExvZam33PxqX2Gg==", 
-  "publisher": "ox.ac.uk", 
+  "date": "2016-12-17T09:00:00", 
   "slug": 47885, 
+  "publisher": "ox.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Medingen Manuscripts", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161217T090000/XSyGjdfExvZam33PxqX2Gg==", 
+  "scope": "root", 
   "start_date": "2016-12-17T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://realaletrailflintshire.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Real Ale Trails Flintshire", 
-  "record_id": "20161125T090000/oDbax9m0m4BM3a5pkSEGJA==", 
-  "publisher": "realaletrailflintshire.co.uk", 
+  "date": "2016-11-25T09:00:00", 
   "slug": 47355, 
+  "publisher": "realaletrailflintshire.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Real Ale Trails Flintshire", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161125T090000/oDbax9m0m4BM3a5pkSEGJA==", 
+  "scope": "root", 
   "start_date": "2016-11-25T09:00:00Z"
 }
 

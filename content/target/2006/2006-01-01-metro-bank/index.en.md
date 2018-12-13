@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://www.metrobankonline.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Metro Bank", 
-  "record_id": "20060101T120000/vnTnkfDbh+3MLa2Jv2ZFTA==", 
-  "publisher": "metrobankonline.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10653, 
+  "publisher": "metrobankonline.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Metro Bank", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vnTnkfDbh+3MLa2Jv2ZFTA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,30 @@
 {
   "target_url": "https://twitter.com/danyeats/", 
-  "description": "The Twitter profile of Daniel Yeats, Scottish Green Party candidate for North East Scotland in the 2016 Scottish Parliament election.", 
   "end_date": "2016-05-08T00:00:00Z", 
   "date": "2016-04-01T06:00:00", 
   "slug": 20671, 
-  "subject": null, 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Dan Yeats (@danyeats) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 689, 
+      "name": "Scottish Parliament Election 2016"
+    }
+  ], 
   "record_id": "20160401T060000/xohEtOJ5FzMSxQk7C12MNQ==", 
+  "scope": "root", 
   "start_date": "2016-04-01T06:00:00Z"
 }
 

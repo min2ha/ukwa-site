@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/cnag_alba/", 
-  "description": "Twitter profile of Comunn na G\u00e0idhlig, the Gaelic Language Council, which promotes Gaelic language and culture.", 
   "end_date": null, 
-  "title": "Comunn na G\u00e0idhlig (@cnag_Alba) on Twitter", 
-  "record_id": "20180201T090000/ahPRXcOPT/pcCEhDk2uYEg==", 
-  "publisher": "twitter.com", 
+  "date": "2018-02-01T09:00:00", 
   "slug": 30118, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Comunn na G\u00e0idhlig (@cnag_Alba) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180201T090000/ahPRXcOPT/pcCEhDk2uYEg==", 
+  "scope": "root", 
   "start_date": "2018-02-01T09:00:00Z"
 }
 

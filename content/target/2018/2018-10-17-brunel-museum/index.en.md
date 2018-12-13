@@ -1,13 +1,21 @@
 {
-  "date": "2018-10-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brunel-museum.org.uk/", 
-  "description": "London museum based in engine house designed by Isambard Kingdom Brunel", 
   "end_date": null, 
-  "title": "Brunel Museum", 
-  "record_id": "20181017T090000/JD8WR0iCLgGiEfunnJ0E/w==", 
-  "publisher": "brunel-museum.org.uk", 
+  "date": "2018-10-17T09:00:00", 
   "slug": 81522, 
+  "publisher": "brunel-museum.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brunel Museum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20181017T090000/JD8WR0iCLgGiEfunnJ0E/w==", 
+  "scope": "root", 
   "start_date": "2018-10-17T09:00:00Z"
 }
 

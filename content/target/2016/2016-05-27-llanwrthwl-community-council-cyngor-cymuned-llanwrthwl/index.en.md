@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-27T10:00:00", 
-  "open_access": false, 
   "target_url": "http://llanwrthwlcommunitycouncil.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llanwrthwl Community Council | Cyngor Cymuned Llanwrthwl ", 
-  "record_id": "20160527T100000/ih7KzphprGNY+3JYHfiWvg==", 
-  "publisher": "llanwrthwlcommunitycouncil.co.uk", 
+  "date": "2016-05-27T10:00:00", 
   "slug": 41935, 
+  "publisher": "llanwrthwlcommunitycouncil.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanwrthwl Community Council | Cyngor Cymuned Llanwrthwl ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160527T100000/ih7KzphprGNY+3JYHfiWvg==", 
+  "scope": "root", 
   "start_date": "2016-05-27T10:00:00Z"
 }
 

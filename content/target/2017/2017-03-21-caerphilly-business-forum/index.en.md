@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cbforum.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Caerphilly Business Forum", 
-  "record_id": "20170321T090000/mmHxQnFOi3tnCJCKQ5kPTA==", 
-  "publisher": "cbforum.co.uk", 
+  "date": "2017-03-21T09:00:00", 
   "slug": 50823, 
+  "publisher": "cbforum.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Caerphilly Business Forum", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170321T090000/mmHxQnFOi3tnCJCKQ5kPTA==", 
+  "scope": "root", 
   "start_date": "2017-03-21T09:00:00Z"
 }
 

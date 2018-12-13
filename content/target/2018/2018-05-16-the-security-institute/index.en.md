@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-16T09:00:00", 
-  "open_access": true, 
   "target_url": "https://security-institute.org/", 
-  "description": "The Security Institute is a United Kingdom based professional body for security professionals. ", 
   "end_date": null, 
-  "title": "The Security Institute", 
-  "record_id": "20180516T090000//YjALYPQOEeHRpnpwYNBcg==", 
-  "publisher": "security-institute.org", 
+  "date": "2018-05-16T09:00:00", 
   "slug": 65635, 
+  "publisher": "security-institute.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "The Security Institute", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180516T090000//YjALYPQOEeHRpnpwYNBcg==", 
+  "scope": "root", 
   "start_date": "2018-05-16T09:00:00Z"
 }
 

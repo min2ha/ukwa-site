@@ -1,13 +1,16 @@
 {
-  "date": "2006-06-13T23:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardiff.ac.uk/schoolsanddivisions/academicschools/engin/wolfson/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff School of Engineering: Wolfson Centre for Magnetics", 
-  "record_id": "20060613T230000/XYkON6PPeDMou3rn8EPzkA==", 
-  "publisher": "cardiff.ac.uk", 
+  "date": "2006-06-13T23:00:00", 
   "slug": 126054, 
+  "publisher": "cardiff.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff School of Engineering: Wolfson Centre for Magnetics", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060613T230000/XYkON6PPeDMou3rn8EPzkA==", 
+  "scope": "root", 
   "start_date": "2006-06-13T23:00:00Z"
 }
 

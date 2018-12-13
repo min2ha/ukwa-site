@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.swindonfringefestival.com/", 
-  "description": "Website for the Swindon Fringe Festival.", 
   "end_date": null, 
   "date": "2018-09-08T09:00:00", 
   "slug": 70960, 
-  "subject": "Festivals", 
   "publisher": "swindonfringefestival.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Swindon Fringe Festival", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180908T090000/mDhhzw4yajZFpKLjEEKYxQ==", 
+  "scope": "root", 
   "start_date": "2018-09-08T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-10-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.zerotolerance.org.uk/", 
-  "description": "Site of a Scottish charity working to end men\u2019s violence against women by promoting gender equality and by challenging attitudes which normalise violence and abuse.", 
   "end_date": null, 
-  "title": "Zero Tolerance", 
-  "record_id": "20171028T090000/eFlMzgby2bjsEG1lmcsCyw==", 
-  "publisher": "zerotolerance.org.uk", 
+  "date": "2017-10-28T09:00:00", 
   "slug": 58138, 
+  "publisher": "zerotolerance.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Zero Tolerance", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171028T090000/eFlMzgby2bjsEG1lmcsCyw==", 
+  "scope": "root", 
   "start_date": "2017-10-28T09:00:00Z"
 }
 

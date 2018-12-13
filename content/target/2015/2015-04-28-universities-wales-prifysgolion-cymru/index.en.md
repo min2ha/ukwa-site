@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.uniswales.ac.uk/", 
-  "description": "Universities Wales represents the interests of all universities in Wales. ", 
   "end_date": null, 
-  "title": "Universities Wales | Prifysgolion Cymru", 
-  "record_id": "20150428T090000/vj8KQJNu9rG1SGbO4uPT0A==", 
-  "publisher": "uniswales.ac.uk", 
+  "date": "2015-04-28T09:00:00", 
   "slug": 22859, 
+  "publisher": "uniswales.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Universities Wales | Prifysgolion Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150428T090000/vj8KQJNu9rG1SGbO4uPT0A==", 
+  "scope": "root", 
   "start_date": "2015-04-28T09:00:00Z"
 }
 

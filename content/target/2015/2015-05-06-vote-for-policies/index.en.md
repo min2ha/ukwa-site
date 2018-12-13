@@ -1,14 +1,26 @@
 {
   "target_url": "https://voteforpolicies.org.uk/", 
-  "description": "", 
   "end_date": "2015-06-30T00:00:00Z", 
   "date": "2015-05-06T09:00:00", 
   "slug": 23369, 
-  "subject": "UK General Election 2015", 
   "publisher": "voteforpolicies.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Vote for Policies", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }
+  ], 
   "record_id": "20150506T090000/zVd+sATqVccynmu3vRKtvw==", 
+  "scope": "root", 
   "start_date": "2015-05-06T09:00:00Z"
 }
 

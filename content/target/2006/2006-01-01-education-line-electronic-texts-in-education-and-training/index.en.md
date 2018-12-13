@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.leeds.ac.uk/educol/index.html", 
-  "description": null, 
   "end_date": null, 
-  "title": "Education-line : Electronic Texts in education and training", 
-  "record_id": "20060101T120000/hewITgEyD4/eRBI+BLTuPQ==", 
-  "publisher": "leeds.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 104647, 
+  "publisher": "leeds.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Education-line : Electronic Texts in education and training", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/hewITgEyD4/eRBI+BLTuPQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

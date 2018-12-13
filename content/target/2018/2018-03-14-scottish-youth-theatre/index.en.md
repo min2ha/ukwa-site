@@ -1,13 +1,21 @@
 {
-  "date": "2018-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://scottishyouththeatre.org/", 
-  "description": "Site of a Scottish national theatre group aimed at children and young adults.", 
   "end_date": null, 
-  "title": "Scottish Youth Theatre", 
-  "record_id": "20180314T090000/81uQlrm8PdMHSfZtuQ2RjA==", 
-  "publisher": "scottishyouththeatre.org", 
+  "date": "2018-03-14T09:00:00", 
   "slug": 62596, 
+  "publisher": "scottishyouththeatre.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Youth Theatre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180314T090000/81uQlrm8PdMHSfZtuQ2RjA==", 
+  "scope": "root", 
   "start_date": "2018-03-14T09:00:00Z"
 }
 

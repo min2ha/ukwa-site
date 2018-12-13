@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "https://medium.com/@kirstyfife/", 
-  "description": "Kirsty Fife is an archivist, writer, musician and cultural organiser based in Leeds. This is her Medium profile.  ", 
   "end_date": null, 
-  "title": "Kirsty Fife (@kirstyfife) on Medium", 
-  "record_id": "20171104T090000/b/xW00eImWL++Vce52ixeA==", 
-  "publisher": "medium.com", 
+  "date": "2017-11-04T09:00:00", 
   "slug": 58455, 
+  "publisher": "medium.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Kirsty Fife (@kirstyfife) on Medium", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171104T090000/b/xW00eImWL++Vce52ixeA==", 
+  "scope": "root", 
   "start_date": "2017-11-04T09:00:00Z"
 }
 

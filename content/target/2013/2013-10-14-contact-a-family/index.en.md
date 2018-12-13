@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.cafamily.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Contact a Family", 
-  "record_id": "20131014T100000/BnKwl1uhpvsjOx2WwFvH/Q==", 
-  "publisher": "cafamily.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 112859, 
+  "publisher": "cafamily.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Contact a Family", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/BnKwl1uhpvsjOx2WwFvH/Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

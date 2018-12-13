@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.chinesefoodfestival.com", 
-  "description": "Festival celebrating Chinese food.", 
   "end_date": null, 
   "date": "2018-09-01T09:00:00", 
   "slug": 70649, 
-  "subject": "Festivals", 
   "publisher": "chinesefoodfestival.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Chinese Food Festival", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180901T090000/crbVvXUGGu/U0V4Xdoqm1g==", 
+  "scope": "root", 
   "start_date": "2018-09-01T09:00:00Z"
 }
 

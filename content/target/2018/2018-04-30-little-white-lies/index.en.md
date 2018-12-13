@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lwlies.com/", 
-  "description": "Little White Lies was established in 2005 as a bi-monthly print magazine committed to championing great movies and the talented people who make them. Combining cutting-edge design, illustration and journalism, we\u2019ve been described as being \u201cat the vanguard of the independent publishing movement.\u201d", 
   "end_date": null, 
-  "title": "Little White Lies", 
-  "record_id": "20180430T090000/+1Vkv2MzdZrGqc7bKuaBXA==", 
-  "publisher": "lwlies.com", 
+  "date": "2018-04-30T09:00:00", 
   "slug": 64935, 
+  "publisher": "lwlies.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Little White Lies", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180430T090000/+1Vkv2MzdZrGqc7bKuaBXA==", 
+  "scope": "root", 
   "start_date": "2018-04-30T09:00:00Z"
 }
 

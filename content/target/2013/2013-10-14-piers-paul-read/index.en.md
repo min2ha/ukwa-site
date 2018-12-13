@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pierspaulread.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Piers Paul Read", 
-  "record_id": "20131014T100000/wEmdSCCYdwsxm9wFSzQHAA==", 
-  "publisher": "pierspaulread.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 93028475, 
+  "publisher": "pierspaulread.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Piers Paul Read", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/wEmdSCCYdwsxm9wFSzQHAA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.eleanorrees.info/", 
-  "description": "<p>Site of the poet Eleanor Rees</p>\n", 
   "end_date": null, 
-  "title": "Eleanor Rees", 
-  "record_id": "20060101T120000/oWEd/V9L3N+wZHn+To2YLg==", 
-  "publisher": "eleanorrees.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14301, 
+  "publisher": "eleanorrees.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Eleanor Rees", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/oWEd/V9L3N+wZHn+To2YLg==", 
+  "scope": "root", 
   "start_date": null
 }
 

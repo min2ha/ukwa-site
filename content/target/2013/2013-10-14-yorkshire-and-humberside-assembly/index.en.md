@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.yhassembly.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Yorkshire and Humberside Assembly", 
-  "record_id": "20131014T100000/Q61vVmUDg9x7DN7A+J+peQ==", 
-  "publisher": "yhassembly.gov.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 32145478, 
+  "publisher": "yhassembly.gov.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Yorkshire and Humberside Assembly", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/Q61vVmUDg9x7DN7A+J+peQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

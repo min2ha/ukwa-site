@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mxsoutheast.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "South Eastern Centre Motocross Combine", 
-  "record_id": "20131014T100000/ZUCz5gfySJaJsR9RO0BX3g==", 
-  "publisher": "mxsoutheast.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 64290945, 
+  "publisher": "mxsoutheast.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "South Eastern Centre Motocross Combine", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ZUCz5gfySJaJsR9RO0BX3g==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

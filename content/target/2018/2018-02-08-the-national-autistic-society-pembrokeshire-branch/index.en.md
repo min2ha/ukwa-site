@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.naspembrokeshire.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "The National Autistic Society Pembrokeshire Branch", 
-  "record_id": "20180208T090000/NzLQIuyvy9MWX6tTp70G7A==", 
-  "publisher": "naspembrokeshire.org.uk", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 61097, 
+  "publisher": "naspembrokeshire.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The National Autistic Society Pembrokeshire Branch", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/NzLQIuyvy9MWX6tTp70G7A==", 
+  "scope": "subdomains", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

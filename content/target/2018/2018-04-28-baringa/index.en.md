@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-28T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.baringa.com/", 
-  "description": "Brighter together. We help our clients navigate industry shifts by bringing clarity and insight.", 
   "end_date": null, 
-  "title": "Baringa", 
-  "record_id": "20180428T090000/8KdqyWOY6eqALtE38KVPnQ==", 
-  "publisher": "baringa.com", 
+  "date": "2018-04-28T09:00:00", 
   "slug": 64918, 
+  "publisher": "baringa.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Baringa", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180428T090000/8KdqyWOY6eqALtE38KVPnQ==", 
+  "scope": "root", 
   "start_date": "2018-04-28T09:00:00Z"
 }
 

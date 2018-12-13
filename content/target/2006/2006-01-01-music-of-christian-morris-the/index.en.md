@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://christianmorris.net/", 
-  "description": "Christian Morris is a Welsh composer and an active writer on contemporary music.", 
   "end_date": null, 
-  "title": "Music of  Christian Morris, The", 
-  "record_id": "20060101T120000/f/gkVAQDiqrWinE0a9XCNw==", 
-  "publisher": "christianmorris.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31569, 
+  "publisher": "christianmorris.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Music of  Christian Morris, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/f/gkVAQDiqrWinE0a9XCNw==", 
+  "scope": "root", 
   "start_date": null
 }
 

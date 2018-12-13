@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-06T06:00:00", 
-  "open_access": false, 
   "target_url": "http://disclaimermag.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Disclaimer. Politics, Economics and Art.", 
-  "record_id": "20150106T060000/3+wXcPwjUkTZrevRIQ5fEQ==", 
-  "publisher": "disclaimermag.com", 
+  "date": "2015-01-06T06:00:00", 
   "slug": 15644, 
+  "publisher": "disclaimermag.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Disclaimer. Politics, Economics and Art.", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150106T060000/3+wXcPwjUkTZrevRIQ5fEQ==", 
+  "scope": "root", 
   "start_date": "2015-01-06T06:00:00Z"
 }
 

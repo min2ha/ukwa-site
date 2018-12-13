@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://nextdoor.z2k.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Nextdoor Project - Help with Housing Benefit Cuts \u2013 a Zacchaeus 2000 Trust project", 
-  "record_id": "20060101T120000/1/ahK8WTsXy1d7NjI/yTDw==", 
-  "publisher": "z2k.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12867, 
+  "publisher": "z2k.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nextdoor Project - Help with Housing Benefit Cuts \u2013 a Zacchaeus 2000 Trust project", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1/ahK8WTsXy1d7NjI/yTDw==", 
+  "scope": "root", 
   "start_date": null
 }
 

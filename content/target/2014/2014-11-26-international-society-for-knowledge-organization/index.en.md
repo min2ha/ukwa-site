@@ -1,13 +1,21 @@
 {
-  "date": "2014-11-26T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.iskouk.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "International Society for Knowledge Organization", 
-  "record_id": "20141126T060000/LaQUZORjagpdNie1DYQjhg==", 
-  "publisher": "iskouk.org", 
+  "date": "2014-11-26T06:00:00", 
   "slug": 14829, 
+  "publisher": "iskouk.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "International Society for Knowledge Organization", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141126T060000/LaQUZORjagpdNie1DYQjhg==", 
+  "scope": "root", 
   "start_date": "2014-11-26T06:00:00Z"
 }
 

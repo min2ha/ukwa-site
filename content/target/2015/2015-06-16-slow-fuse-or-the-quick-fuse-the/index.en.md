@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://peter-arnott.blogspot.co.uk/", 
-  "description": "The blog of Peter Arnott, Scottish dramatist.", 
   "end_date": null, 
-  "title": "Slow Fuse or the Quick Fuse, The", 
-  "record_id": "20150616T090000/t1OSjEZlbEom0xwSj6u2OA==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2015-06-16T09:00:00", 
   "slug": 28063, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Slow Fuse or the Quick Fuse, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150616T090000/t1OSjEZlbEom0xwSj6u2OA==", 
+  "scope": "root", 
   "start_date": "2015-06-16T09:00:00Z"
 }
 

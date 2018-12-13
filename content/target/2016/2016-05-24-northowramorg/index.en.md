@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://northowram.org/", 
-  "description": "Information on on life in Northowram village.", 
   "end_date": null, 
-  "title": "Northowram.org", 
-  "record_id": "20160524T100000/nUuTXFQP8nWigDUVpaxLBA==", 
-  "publisher": "northowram.org", 
+  "date": "2016-05-24T10:00:00", 
   "slug": 41592, 
+  "publisher": "northowram.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Northowram.org", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160524T100000/nUuTXFQP8nWigDUVpaxLBA==", 
+  "scope": "subdomains", 
   "start_date": "2016-05-24T10:00:00Z"
 }
 

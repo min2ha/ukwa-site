@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ffarmers.org/", 
-  "description": "<p>This is a community website for the village of Ffarmers in Carmarthenshire.</p>\n", 
   "end_date": null, 
-  "title": "Ffarmers Community Website", 
-  "record_id": "20060101T120000/SItNeP7iDGj1YWeiVqiHvA==", 
-  "publisher": "ffarmers.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14369, 
+  "publisher": "ffarmers.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ffarmers Community Website", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/SItNeP7iDGj1YWeiVqiHvA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.highlandclans.org/", 
-  "description": "Site of an association of societies of Scottish clans", 
   "end_date": null, 
-  "title": "Association of Highland Clans & Societies", 
-  "record_id": "20160504T100000/NxhuNxLp4VLV7lTAZyRoWA==", 
-  "publisher": "highlandclans.org", 
+  "date": "2016-05-04T10:00:00", 
   "slug": 40355, 
+  "publisher": "highlandclans.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Association of Highland Clans & Societies", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160504T100000/NxhuNxLp4VLV7lTAZyRoWA==", 
+  "scope": "root", 
   "start_date": "2016-05-04T10:00:00Z"
 }
 

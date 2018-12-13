@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.renewwales.org.uk/", 
-  "description": "Renew Wales help to deliver community renewable and environmental project in Wales.", 
   "end_date": null, 
-  "title": "Adfywio Cymru | Renew Wales", 
-  "record_id": "20150514T090000/nBmOcVCQ9axFBnkkKok+Sg==", 
-  "publisher": "renewwales.org.uk", 
+  "date": "2015-05-14T09:00:00", 
   "slug": 23867, 
+  "publisher": "renewwales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Adfywio Cymru | Renew Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150514T090000/nBmOcVCQ9axFBnkkKok+Sg==", 
+  "scope": "root", 
   "start_date": "2015-05-14T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.continualesong.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "ContinualeSong", 
-  "record_id": "20131014T100000/4olKtx94O17nmv1R3zgYjQ==", 
-  "publisher": "continualesong.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 7798799, 
+  "publisher": "continualesong.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "ContinualeSong", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/4olKtx94O17nmv1R3zgYjQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

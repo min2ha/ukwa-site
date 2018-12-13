@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.policyholderadvocate.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Office of the Policyholder Advocate", 
-  "record_id": "20060101T120000/uTzYzbEC8juu56utTt0jSA==", 
-  "publisher": "policyholderadvocate.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 32145580, 
+  "publisher": "policyholderadvocate.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Office of the Policyholder Advocate", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/uTzYzbEC8juu56utTt0jSA==", 
+  "scope": "root", 
   "start_date": null
 }
 

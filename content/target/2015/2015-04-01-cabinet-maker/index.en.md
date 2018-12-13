@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-01T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.cabinet-maker.co.uk/", 
-  "description": "Cabinet Maker - The Interiors Business Weekly is a subscription based magazine for the interiors industry.", 
   "end_date": null, 
-  "title": "Cabinet Maker", 
-  "record_id": "20150401T090000/dtZr+svIDct75d6K54IXZw==", 
-  "publisher": "cabinet-maker.co.uk", 
+  "date": "2015-04-01T09:00:00", 
   "slug": 20166, 
+  "publisher": "cabinet-maker.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cabinet Maker", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150401T090000/dtZr+svIDct75d6K54IXZw==", 
+  "scope": "root", 
   "start_date": "2015-04-01T09:00:00Z"
 }
 

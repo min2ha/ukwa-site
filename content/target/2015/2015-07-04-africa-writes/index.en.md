@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://africawrites.org/", 
-  "description": "Africa Writes Literary Festival", 
   "end_date": null, 
-  "title": "Africa Writes", 
-  "record_id": "20150704T100000/zUHhikQfzo84IcGW7gOCaw==", 
-  "publisher": "africawrites.org", 
+  "date": "2015-07-04T10:00:00", 
   "slug": 28657, 
+  "publisher": "africawrites.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Africa Writes", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150704T100000/zUHhikQfzo84IcGW7gOCaw==", 
+  "scope": "root", 
   "start_date": "2015-07-04T10:00:00Z"
 }
 

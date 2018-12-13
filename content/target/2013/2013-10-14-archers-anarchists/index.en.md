@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.archersanarchists.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Archers Anarchists", 
-  "record_id": "20131014T100000/7IhAhftHeyD79WNzW76glw==", 
-  "publisher": "archersanarchists.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 41713733, 
+  "publisher": "archersanarchists.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Archers Anarchists", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/7IhAhftHeyD79WNzW76glw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

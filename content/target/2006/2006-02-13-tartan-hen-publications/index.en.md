@@ -1,13 +1,16 @@
 {
-  "date": "2006-02-13T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tartanhen.co.uk/", 
-  "description": null, 
   "end_date": "2007-12-11T00:00:00Z", 
-  "title": "Tartan Hen Publications", 
-  "record_id": "20060213T000000/cKqorwHPKW6dXPYLBu5WGg==", 
-  "publisher": "tartanhen.co.uk", 
+  "date": "2006-02-13T00:00:00", 
   "slug": 117092, 
+  "publisher": "tartanhen.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Tartan Hen Publications", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060213T000000/cKqorwHPKW6dXPYLBu5WGg==", 
+  "scope": "root", 
   "start_date": "2006-02-13T00:00:00Z"
 }
 

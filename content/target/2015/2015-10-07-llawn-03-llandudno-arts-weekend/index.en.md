@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-07T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.llawn.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llawn 03 | Llandudno Arts Weekend", 
-  "record_id": "20151007T100000/hqgTxvecrZzPZ7yOxnM93g==", 
-  "publisher": "llawn.org", 
+  "date": "2015-10-07T10:00:00", 
   "slug": 31266, 
+  "publisher": "llawn.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Llawn 03 | Llandudno Arts Weekend", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151007T100000/hqgTxvecrZzPZ7yOxnM93g==", 
+  "scope": "root", 
   "start_date": "2015-10-07T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.tmbc.gov.uk/", 
-  "description": "Provides information on public services, council budgets and spending, consultations and committee minutes and agendas", 
   "end_date": null, 
   "date": "2016-01-08T18:00:00", 
   "slug": 33822, 
-  "subject": "District Councils", 
   "publisher": "tmbc.gov.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Tonbridge and Malling Borough Council", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 629, 
+      "name": "District Councils"
+    }
+  ], 
   "record_id": "20160108T180000/OKxR29FTk4IpYkKintZpMQ==", 
+  "scope": "root", 
   "start_date": "2016-01-08T18:00:00Z"
 }
 

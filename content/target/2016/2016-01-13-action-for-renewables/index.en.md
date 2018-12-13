@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-13T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.actionforrenewables.org/", 
-  "description": " To campaign for renewable energy, both at the local level and across the country.", 
   "end_date": null, 
-  "title": "Action for Renewables", 
-  "record_id": "20160113T090000/3JuDqBNj5I/bA98jukKcdg==", 
-  "publisher": "actionforrenewables.org", 
+  "date": "2016-01-13T09:00:00", 
   "slug": 34009, 
+  "publisher": "actionforrenewables.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Action for Renewables", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160113T090000/3JuDqBNj5I/bA98jukKcdg==", 
+  "scope": "subdomains", 
   "start_date": "2016-01-13T09:00:00Z"
 }
 

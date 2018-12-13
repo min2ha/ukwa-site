@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mlestudy.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Study of MLE Activity", 
-  "record_id": "20060101T120000/excACPY1/DK3TLpHXFCK1Q==", 
-  "publisher": "mlestudy.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 134279, 
+  "publisher": "mlestudy.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Study of MLE Activity", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/excACPY1/DK3TLpHXFCK1Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

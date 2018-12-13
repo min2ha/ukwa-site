@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.abcdcymru.org.uk/", 
-  "description": "ABCD Cymru is an ancronym for Access for Black and minority ethnic Children and young people with Disabilities and or chronic illnesses.", 
   "end_date": null, 
-  "title": "ABCD Cymru", 
-  "record_id": "20150429T090000/wz9mc+7YofxF13iXvaJ53g==", 
-  "publisher": "abcdcymru.org.uk", 
+  "date": "2015-04-29T09:00:00", 
   "slug": 22952, 
+  "publisher": "abcdcymru.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "ABCD Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150429T090000/wz9mc+7YofxF13iXvaJ53g==", 
+  "scope": "root", 
   "start_date": "2015-04-29T09:00:00Z"
 }
 

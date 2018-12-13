@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ysgolgyfunystalyfera.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Gyfun Ystalyfera, Abertawe", 
-  "record_id": "20170420T090000/ZXdPo3tEcb4qA0EJ/JsU5A==", 
-  "publisher": "ysgolgyfunystalyfera.co.uk", 
+  "date": "2017-04-20T09:00:00", 
   "slug": 52086, 
+  "publisher": "ysgolgyfunystalyfera.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Gyfun Ystalyfera, Abertawe", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170420T090000/ZXdPo3tEcb4qA0EJ/JsU5A==", 
+  "scope": "root", 
   "start_date": "2017-04-20T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-24T00:00:00", 
-  "open_access": false, 
   "target_url": "http://untoldlondon.org.uk/", 
-  "description": "<p>A website dedicated to various communities living in London.</p>\n", 
   "end_date": null, 
-  "title": "Untold London", 
-  "record_id": "20150124T000000/9fJDWGWQzZJDWhfy2uEl8g==", 
-  "publisher": "untoldlondon.org.uk", 
+  "date": "2015-01-24T00:00:00", 
   "slug": 16144, 
+  "publisher": "untoldlondon.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Untold London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150124T000000/9fJDWGWQzZJDWhfy2uEl8g==", 
+  "scope": "root", 
   "start_date": "2015-01-24T00:00:00Z"
 }
 

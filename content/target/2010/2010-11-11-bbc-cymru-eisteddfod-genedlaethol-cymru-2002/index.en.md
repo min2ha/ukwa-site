@@ -1,13 +1,16 @@
 {
-  "date": "2010-11-11T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.bbc.co.uk/cymru/eisteddfod2002/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BBC Cymru - Eisteddfod Genedlaethol Cymru 2002", 
-  "record_id": "20101111T000000/bE9etOseZf9kO13fXc+64Q==", 
-  "publisher": "bbc.co.uk", 
+  "date": "2010-11-11T00:00:00", 
   "slug": 57344072, 
+  "publisher": "bbc.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "BBC Cymru - Eisteddfod Genedlaethol Cymru 2002", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20101111T000000/bE9etOseZf9kO13fXc+64Q==", 
+  "scope": "root", 
   "start_date": "2010-11-11T00:00:00Z"
 }
 

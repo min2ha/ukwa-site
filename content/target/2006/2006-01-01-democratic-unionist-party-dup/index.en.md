@@ -1,14 +1,29 @@
 {
   "target_url": "http://www.dup.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 106592, 
-  "subject": "Northern Ireland", 
   "publisher": "dup.org.uk", 
   "open_access": true, 
+  "npld": false, 
   "title": "Democratic Unionist Party (DUP)", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2399, 
+      "name": "Northern Ireland"
+    }, 
+    {
+      "id": 2450, 
+      "name": "European Parliament Elections 2009"
+    }, 
+    {
+      "id": 2453, 
+      "name": "UK General Election 2005"
+    }
+  ], 
   "record_id": "20060101T120000/L1yTsSGY2+JJt80tA0HKTw==", 
+  "scope": "root", 
   "start_date": null
 }
 

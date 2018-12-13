@@ -1,13 +1,16 @@
 {
-  "date": "2013-01-08T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.pencoedtowncouncil.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pencoed Town Council | Cyngor Tref Pencoed", 
-  "record_id": "20130108T000000/CEAReUHZiUFhmML+RPIagg==", 
-  "publisher": "pencoedtowncouncil.gov.uk", 
+  "date": "2013-01-08T00:00:00", 
   "slug": 93028453, 
+  "publisher": "pencoedtowncouncil.gov.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Pencoed Town Council | Cyngor Tref Pencoed", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130108T000000/CEAReUHZiUFhmML+RPIagg==", 
+  "scope": "root", 
   "start_date": "2013-01-08T00:00:00Z"
 }
 

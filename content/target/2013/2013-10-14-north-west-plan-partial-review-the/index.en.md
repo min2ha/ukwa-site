@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.northwestplanpartialreview.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "North West Plan Partial Review, The", 
-  "record_id": "20131014T100000/yR8Op2pjrwEw4Wdp0oqnCw==", 
-  "publisher": "northwestplanpartialreview.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 49741962, 
+  "publisher": "northwestplanpartialreview.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "North West Plan Partial Review, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/yR8Op2pjrwEw4Wdp0oqnCw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

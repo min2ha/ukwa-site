@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshcoalmines.co.uk/", 
-  "description": "Listing and history of former coal mines in Wales.", 
   "end_date": null, 
-  "title": "Welsh Coal Mines", 
-  "record_id": "20150711T100000/hdDSN85C7VUFU28cOGADBg==", 
-  "publisher": "welshcoalmines.co.uk", 
+  "date": "2015-07-11T10:00:00", 
   "slug": 28873, 
+  "publisher": "welshcoalmines.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Welsh Coal Mines", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150711T100000/hdDSN85C7VUFU28cOGADBg==", 
+  "scope": "root", 
   "start_date": "2015-07-11T10:00:00Z"
 }
 

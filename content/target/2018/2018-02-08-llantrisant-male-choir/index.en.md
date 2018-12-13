@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llantrisantchoir.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llantrisant Male Choir", 
-  "record_id": "20180208T090000/VrqOze5rcnuOTackp/j8Rw==", 
-  "publisher": "llantrisantchoir.com", 
+  "date": "2018-02-08T09:00:00", 
   "slug": 61093, 
+  "publisher": "llantrisantchoir.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llantrisant Male Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180208T090000/VrqOze5rcnuOTackp/j8Rw==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

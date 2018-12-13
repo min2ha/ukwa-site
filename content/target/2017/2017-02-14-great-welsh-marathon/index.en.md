@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.greatwelshmarathon.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Great Welsh Marathon", 
-  "record_id": "20170214T090000/sYrDARcvvwXxY94Grgy+uQ==", 
-  "publisher": "greatwelshmarathon.org", 
+  "date": "2017-02-14T09:00:00", 
   "slug": 49318, 
+  "publisher": "greatwelshmarathon.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Great Welsh Marathon", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170214T090000/sYrDARcvvwXxY94Grgy+uQ==", 
+  "scope": "root", 
   "start_date": "2017-02-14T09:00:00Z"
 }
 

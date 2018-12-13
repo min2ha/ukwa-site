@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://st-thomas-denbigh.co.uk/", 
-  "description": "St Thomas Church Denbigh is Presbyterian Church of Wales/ Eglwys Bresbyteraidd Cymru.", 
   "end_date": null, 
-  "title": "St Thomas Church Denbigh", 
-  "record_id": "20160924T100000/XA7HakhoLA+MMSL8vtKzpw==", 
-  "publisher": "st-thomas-denbigh.co.uk", 
+  "date": "2016-09-24T10:00:00", 
   "slug": 45593, 
+  "publisher": "st-thomas-denbigh.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St Thomas Church Denbigh", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160924T100000/XA7HakhoLA+MMSL8vtKzpw==", 
+  "scope": "root", 
   "start_date": "2016-09-24T10:00:00Z"
 }
 

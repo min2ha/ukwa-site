@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-11T09:00:00", 
-  "open_access": false, 
   "target_url": "https://celfyddydauteulu.squarespace.com/", 
-  "description": "The Family Arts Campaign is run by the Fieldwork and is a national collaborative programme led by the visual and performing arts sectors to increase levels of arts engagement by families. ", 
   "end_date": null, 
-  "title": "Family Arts Campaign in Wales | Ymgyrch Celfyddydau i\u2019r Teulu yng Nghymru, Yr ", 
-  "record_id": "20170211T090000/PCdqtTUZkh+Cui3n85yxhg==", 
-  "publisher": "squarespace.com", 
+  "date": "2017-02-11T09:00:00", 
   "slug": 49277, 
+  "publisher": "squarespace.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Family Arts Campaign in Wales | Ymgyrch Celfyddydau i\u2019r Teulu yng Nghymru, Yr ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170211T090000/PCdqtTUZkh+Cui3n85yxhg==", 
+  "scope": "root", 
   "start_date": "2017-02-11T09:00:00Z"
 }
 

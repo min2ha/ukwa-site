@@ -1,13 +1,21 @@
 {
-  "date": "2018-01-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://pontardulaistownband.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Pontarddulais Town Band. ", 
-  "record_id": "20180118T090000/pdXFeq2wnH2Wq9xiDGeByw==", 
-  "publisher": "pontardulaistownband.com", 
+  "date": "2018-01-18T09:00:00", 
   "slug": 60391, 
+  "publisher": "pontardulaistownband.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pontarddulais Town Band. ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180118T090000/pdXFeq2wnH2Wq9xiDGeByw==", 
+  "scope": "root", 
   "start_date": "2018-01-18T09:00:00Z"
 }
 

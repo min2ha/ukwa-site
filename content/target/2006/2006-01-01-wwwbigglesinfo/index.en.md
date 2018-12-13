@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.biggles.info/", 
-  "description": null, 
   "end_date": null, 
-  "title": "www.biggles.info", 
-  "record_id": "20060101T120000/7AWKoF2t81Iqp2zbaihwow==", 
-  "publisher": "biggles.info", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62226466, 
+  "publisher": "biggles.info", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "www.biggles.info", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/7AWKoF2t81Iqp2zbaihwow==", 
+  "scope": "root", 
   "start_date": null
 }
 

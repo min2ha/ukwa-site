@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://medhist.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wellcome Library Intute MedHist", 
-  "record_id": "20060101T120000/Uu/qwx5Mv7bYidKisNU62g==", 
-  "publisher": "medhist.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 126439, 
+  "publisher": "medhist.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Wellcome Library Intute MedHist", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Uu/qwx5Mv7bYidKisNU62g==", 
+  "scope": "root", 
   "start_date": null
 }
 

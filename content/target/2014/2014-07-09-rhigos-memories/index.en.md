@@ -1,13 +1,16 @@
 {
-  "date": "2014-07-09T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rhigosmemories.org.uk/rhigosmemories2/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Rhigos Memories", 
-  "record_id": "20140709T000000/ZpHox+Eew+1T7iXIJKlRlQ==", 
-  "publisher": "rhigosmemories.org.uk", 
+  "date": "2014-07-09T00:00:00", 
   "slug": 255492118, 
+  "publisher": "rhigosmemories.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rhigos Memories", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20140709T000000/ZpHox+Eew+1T7iXIJKlRlQ==", 
+  "scope": "root", 
   "start_date": "2014-07-09T00:00:00Z"
 }
 

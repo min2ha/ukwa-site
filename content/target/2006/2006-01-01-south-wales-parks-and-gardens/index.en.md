@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://southwalesgardens.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Parks and Gardens", 
-  "record_id": "20060101T120000/EO2R91G9Gr5IAX+wzU5HSw==", 
-  "publisher": "southwalesgardens.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 45522, 
+  "publisher": "southwalesgardens.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South Wales Parks and Gardens", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/EO2R91G9Gr5IAX+wzU5HSw==", 
+  "scope": "root", 
   "start_date": null
 }
 

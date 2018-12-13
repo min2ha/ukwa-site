@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://unthankbooks.com/", 
-  "description": "<p>English literary publisher.</p>\n", 
   "end_date": null, 
-  "title": "Unthank Books", 
-  "record_id": "20060101T120000/ttf9CCmSsPlqEuonBGcsjA==", 
-  "publisher": "unthankbooks.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 16695, 
+  "publisher": "unthankbooks.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Unthank Books", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ttf9CCmSsPlqEuonBGcsjA==", 
+  "scope": "root", 
   "start_date": null
 }
 

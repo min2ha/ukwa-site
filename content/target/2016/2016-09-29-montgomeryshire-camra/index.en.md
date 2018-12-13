@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-29T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.montgomeryshire.camra.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Montgomeryshire CAMRA", 
-  "record_id": "20160929T100000/hTScyKtocXCIbZPJjM8ezQ==", 
-  "publisher": "camra.org.uk", 
+  "date": "2016-09-29T10:00:00", 
   "slug": 45703, 
+  "publisher": "camra.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Montgomeryshire CAMRA", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160929T100000/hTScyKtocXCIbZPJjM8ezQ==", 
+  "scope": "root", 
   "start_date": "2016-09-29T10:00:00Z"
 }
 

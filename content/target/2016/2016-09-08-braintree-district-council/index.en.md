@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.braintree.gov.uk/", 
-  "description": "The website of Braintree District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending. ", 
   "end_date": null, 
   "date": "2016-09-08T19:00:00", 
   "slug": 45270, 
-  "subject": "District Councils", 
   "publisher": "braintree.gov.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Braintree District Council", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 629, 
+      "name": "District Councils"
+    }
+  ], 
   "record_id": "20160908T190000/hsTCXK/6CPGPgSk5AyavLg==", 
+  "scope": "root", 
   "start_date": "2016-09-08T19:00:00Z"
 }
 

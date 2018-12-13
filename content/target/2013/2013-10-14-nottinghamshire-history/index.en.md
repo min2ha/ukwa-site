@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nottshistory.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Nottinghamshire History", 
-  "record_id": "20131014T100000//DyFvuYefXkwvpJtDHQOGA==", 
-  "publisher": "nottshistory.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 122623, 
+  "publisher": "nottshistory.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Nottinghamshire History", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000//DyFvuYefXkwvpJtDHQOGA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

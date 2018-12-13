@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-07T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hondduisaf-cc.org.uk", 
-  "description": "", 
   "end_date": null, 
-  "title": "Honddu Isaf Community Council", 
-  "record_id": "20160607T100000/VUl0XwTuB5JOQ6cUm6bwlA==", 
-  "publisher": "hondduisaf-cc.org.uk", 
+  "date": "2016-06-07T10:00:00", 
   "slug": 42532, 
+  "publisher": "hondduisaf-cc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Honddu Isaf Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160607T100000/VUl0XwTuB5JOQ6cUm6bwlA==", 
+  "scope": "root", 
   "start_date": "2016-06-07T10:00:00Z"
 }
 

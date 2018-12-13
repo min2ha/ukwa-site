@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.simplysewingmag.com/", 
-  "description": "Online version of the Simply Sewing magazine.", 
   "end_date": null, 
-  "title": "Simply Sewing", 
-  "record_id": "20151112T090000/YXbQE8/lixsYgdmLNODv5g==", 
-  "publisher": "simplysewingmag.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32485, 
+  "publisher": "simplysewingmag.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Simply Sewing", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/YXbQE8/lixsYgdmLNODv5g==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

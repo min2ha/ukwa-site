@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.welshfoodfestival.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Welsh Food Festival", 
-  "record_id": "20060101T120000/WV0Ljw0JBhLkvVbqops/fw==", 
-  "publisher": "welshfoodfestival.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 66158913, 
+  "publisher": "welshfoodfestival.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Welsh Food Festival", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WV0Ljw0JBhLkvVbqops/fw==", 
+  "scope": "root", 
   "start_date": null
 }
 

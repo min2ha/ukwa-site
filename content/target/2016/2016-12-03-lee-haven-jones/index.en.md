@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://leehavenjones.co.uk/", 
-  "description": "Lee Haven Jones is a BAFTA winning television director.", 
   "end_date": null, 
-  "title": "Lee Haven Jones", 
-  "record_id": "20161203T090000/DR7yQThs+68cQpMFUqNdRw==", 
-  "publisher": "leehavenjones.co.uk", 
+  "date": "2016-12-03T09:00:00", 
   "slug": 47605, 
+  "publisher": "leehavenjones.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lee Haven Jones", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161203T090000/DR7yQThs+68cQpMFUqNdRw==", 
+  "scope": "root", 
   "start_date": "2016-12-03T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tredegartowncouncil.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Tredegar Town Council", 
-  "record_id": "20060101T120000/1bziADniCjKYEqVA/DxUTw==", 
-  "publisher": "tredegartowncouncil.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 286294023, 
+  "publisher": "tredegartowncouncil.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tredegar Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/1bziADniCjKYEqVA/DxUTw==", 
+  "scope": "root", 
   "start_date": null
 }
 

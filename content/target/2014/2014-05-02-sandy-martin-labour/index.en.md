@@ -1,14 +1,26 @@
 {
   "target_url": "http://sandymartin4europe.com/", 
-  "description": null, 
   "end_date": "2014-06-07T01:00:00Z", 
   "date": "2014-05-02T00:00:00", 
   "slug": 10376, 
-  "subject": "European Parliament Elections 2014", 
   "publisher": "sandymartin4europe.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Sandy Martin, Labour ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 4, 
+      "name": "European Parliament Elections 2014"
+    }
+  ], 
   "record_id": "20140502T000000//yM/aBLtj+uN9sjXeK2coA==", 
+  "scope": "root", 
   "start_date": "2014-05-02T00:00:00Z"
 }
 

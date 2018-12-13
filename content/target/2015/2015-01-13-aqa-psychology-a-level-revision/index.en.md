@@ -1,13 +1,21 @@
 {
-  "date": "2015-01-13T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.loopa.co.uk", 
-  "description": "<p>AQA Psychology A Level Revision website is an education based blog turned revision website that helps students, adult learners and home-school students prepare for A level in psychology.</p>\n", 
   "end_date": null, 
-  "title": "AQA Psychology A Level Revision", 
-  "record_id": "20150113T000000/+KGbiDD82AXcaDNBhwNVhQ==", 
-  "publisher": "loopa.co.uk", 
+  "date": "2015-01-13T00:00:00", 
   "slug": 286294092, 
+  "publisher": "loopa.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "AQA Psychology A Level Revision", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150113T000000/+KGbiDD82AXcaDNBhwNVhQ==", 
+  "scope": "root", 
   "start_date": "2015-01-13T00:00:00Z"
 }
 

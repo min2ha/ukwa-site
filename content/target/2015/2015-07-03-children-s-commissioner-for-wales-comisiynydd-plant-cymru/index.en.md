@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.childcom.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Children\u00b4s Commissioner for Wales | Comisiynydd Plant Cymru", 
-  "record_id": "20150703T100000/ZJPRmi85YQEO9pedah4mfQ==", 
-  "publisher": "childcom.org.uk", 
+  "date": "2015-07-03T10:00:00", 
   "slug": 28698, 
+  "publisher": "childcom.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Children\u00b4s Commissioner for Wales | Comisiynydd Plant Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150703T100000/ZJPRmi85YQEO9pedah4mfQ==", 
+  "scope": "root", 
   "start_date": "2015-07-03T10:00:00Z"
 }
 

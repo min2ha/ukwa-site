@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.chepstowchurchestogether.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Churches Together in Chepstow and District", 
-  "record_id": "20160713T100000/X9RwBTp19Pg4IVfpGXX38w==", 
-  "publisher": "chepstowchurchestogether.org.uk", 
+  "date": "2016-07-13T10:00:00", 
   "slug": 44257, 
+  "publisher": "chepstowchurchestogether.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Churches Together in Chepstow and District", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160713T100000/X9RwBTp19Pg4IVfpGXX38w==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

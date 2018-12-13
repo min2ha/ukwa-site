@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.gosh.nhs.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-04-08T13:00:00", 
   "slug": 122, 
-  "subject": null, 
   "publisher": "gosh.nhs.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Great Ormond Street Hospital", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
   "record_id": "20130408T130000/J4yvO3Pp17hZ/2C2eib80w==", 
+  "scope": "root", 
   "start_date": "2013-04-08T13:00:00Z"
 }
 

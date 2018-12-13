@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.abenburycommunitycouncil.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Abenbury Community Council", 
-  "record_id": "20160302T090000/IaeBc7djQb0wiXFudzzJMw==", 
-  "publisher": "abenburycommunitycouncil.org.uk", 
+  "date": "2016-03-02T09:00:00", 
   "slug": 36290, 
+  "publisher": "abenburycommunitycouncil.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Abenbury Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160302T090000/IaeBc7djQb0wiXFudzzJMw==", 
+  "scope": "root", 
   "start_date": "2016-03-02T09:00:00Z"
 }
 

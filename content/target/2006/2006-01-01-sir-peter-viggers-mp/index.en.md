@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.peterviggers.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sir Peter Viggers MP", 
-  "record_id": "20060101T120000/U7AGYr4g3R0NMPvVRDEjYw==", 
-  "publisher": "peterviggers.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 39714840, 
+  "publisher": "peterviggers.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Sir Peter Viggers MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/U7AGYr4g3R0NMPvVRDEjYw==", 
+  "scope": "root", 
   "start_date": null
 }
 

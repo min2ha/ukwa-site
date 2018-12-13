@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.menter-aberystwyth.org.uk/", 
-  "description": "A regeneration partnership for Aberystwyth and its surrounding area.", 
   "end_date": null, 
-  "title": "Menter Aberystwyth", 
-  "record_id": "20150711T100000/r00VkCAKuipJGGYbTTSACQ==", 
-  "publisher": "menter-aberystwyth.org.uk", 
+  "date": "2015-07-11T10:00:00", 
   "slug": 28878, 
+  "publisher": "menter-aberystwyth.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Menter Aberystwyth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150711T100000/r00VkCAKuipJGGYbTTSACQ==", 
+  "scope": "root", 
   "start_date": "2015-07-11T10:00:00Z"
 }
 

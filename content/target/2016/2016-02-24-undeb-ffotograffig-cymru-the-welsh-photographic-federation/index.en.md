@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://thewpf.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Undeb Ffotograffig  Cymru | The Welsh Photographic Federation", 
-  "record_id": "20160224T090000/uNPBW+qcyCb87UZhRIZQSw==", 
-  "publisher": "thewpf.co.uk", 
+  "date": "2016-02-24T09:00:00", 
   "slug": 35869, 
+  "publisher": "thewpf.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Undeb Ffotograffig  Cymru | The Welsh Photographic Federation", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160224T090000/uNPBW+qcyCb87UZhRIZQSw==", 
+  "scope": "root", 
   "start_date": "2016-02-24T09:00:00Z"
 }
 

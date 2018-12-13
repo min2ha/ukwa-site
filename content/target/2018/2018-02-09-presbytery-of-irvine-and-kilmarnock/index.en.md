@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.irvinekilmarnockpresbytery.org.uk/", 
-  "description": "Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in northern mid Ayrshire.\n", 
   "end_date": null, 
   "date": "2018-02-09T09:00:00", 
   "slug": 61117, 
-  "subject": "Religion/Theology", 
   "publisher": "irvinekilmarnockpresbytery.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Presbytery of Irvine and Kilmarnock", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20180209T090000/B71l2TuajnawMXtd99ADYA==", 
+  "scope": "root", 
   "start_date": "2018-02-09T09:00:00Z"
 }
 

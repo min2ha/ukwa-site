@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bseinquiry.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BSE Inquiry", 
-  "record_id": "20060101T120000/vPic6mo61DpJ0Vd0XCJwKg==", 
-  "publisher": "bseinquiry.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 124224, 
+  "publisher": "bseinquiry.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "BSE Inquiry", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/vPic6mo61DpJ0Vd0XCJwKg==", 
+  "scope": "root", 
   "start_date": null
 }
 

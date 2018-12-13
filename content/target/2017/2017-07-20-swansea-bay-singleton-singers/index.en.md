@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://singletonsingers.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Swansea Bay Singleton Singers", 
-  "record_id": "20170720T090000/OUqHx4XuCaXQjW+R5u28hg==", 
-  "publisher": "singletonsingers.co.uk", 
+  "date": "2017-07-20T09:00:00", 
   "slug": 56004, 
+  "publisher": "singletonsingers.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea Bay Singleton Singers", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170720T090000/OUqHx4XuCaXQjW+R5u28hg==", 
+  "scope": "root", 
   "start_date": "2017-07-20T09:00:00Z"
 }
 

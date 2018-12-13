@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-05T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.prendergast.co/", 
-  "description": "Peter Prendergast (1946 \u2013 2007) was a Welsh landscape painter. ", 
   "end_date": null, 
-  "title": "Peter Prendergast", 
-  "record_id": "20151005T100000/VL1gFeZ3q2cZgBYsVcZm6A==", 
-  "publisher": "prendergast.co", 
+  "date": "2015-10-05T10:00:00", 
   "slug": 31123, 
+  "publisher": "prendergast.co", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Peter Prendergast", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151005T100000/VL1gFeZ3q2cZgBYsVcZm6A==", 
+  "scope": "root", 
   "start_date": "2015-10-05T10:00:00Z"
 }
 

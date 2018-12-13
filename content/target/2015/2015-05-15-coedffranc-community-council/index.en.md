@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.coedffranc-wcc.gov.uk/", 
-  "description": "Coedffranc is a county in Neath Port Talbot.", 
   "end_date": null, 
-  "title": "Coedffranc Community Council", 
-  "record_id": "20150515T090000/BA5bAq7ihN35CBRnUqzhLQ==", 
-  "publisher": "coedffranc-wcc.gov.uk", 
+  "date": "2015-05-15T09:00:00", 
   "slug": 23907, 
+  "publisher": "coedffranc-wcc.gov.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Coedffranc Community Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150515T090000/BA5bAq7ihN35CBRnUqzhLQ==", 
+  "scope": "root", 
   "start_date": "2015-05-15T09:00:00Z"
 }
 

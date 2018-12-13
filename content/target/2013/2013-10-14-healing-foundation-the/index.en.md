@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.thehealingfoundation.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Healing Foundation, The", 
-  "record_id": "20131014T100000/I2Oql/x5tVI2I8557U+tdw==", 
-  "publisher": "thehealingfoundation.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 48791598, 
+  "publisher": "thehealingfoundation.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Healing Foundation, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/I2Oql/x5tVI2I8557U+tdw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-11T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hywelddahealthcharities.org.uk/", 
-  "description": "Hywel Dda Health Charities use the generous donations they receive from patients, their families and local communities to support the University Health Board to provide services and activities above and beyond what the NHS in Wales can provide.", 
   "end_date": null, 
-  "title": "Hywel Dda Health Charities | Elusennau Iechyd Hywel Dda", 
-  "record_id": "20161011T100000/yYJlgqchAucf8DS4cwD7qg==", 
-  "publisher": "hywelddahealthcharities.org.uk", 
+  "date": "2016-10-11T10:00:00", 
   "slug": 46076, 
+  "publisher": "hywelddahealthcharities.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hywel Dda Health Charities | Elusennau Iechyd Hywel Dda", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161011T100000/yYJlgqchAucf8DS4cwD7qg==", 
+  "scope": "root", 
   "start_date": "2016-10-11T10:00:00Z"
 }
 

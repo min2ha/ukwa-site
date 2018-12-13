@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.kirkgatechurch.org.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2017-07-07T09:00:00", 
   "slug": 55540, 
-  "subject": "Religion/Theology", 
   "publisher": "kirkgatechurch.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Kirkgate Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170707T090000/z68V4fW5a92H5K8t3tWicA==", 
+  "scope": "root", 
   "start_date": "2017-07-07T09:00:00Z"
 }
 

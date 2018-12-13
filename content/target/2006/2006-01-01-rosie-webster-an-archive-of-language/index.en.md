@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://rosiewebster.wordpress.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Rosie Webster - An Archive Of Language", 
-  "record_id": "20060101T120000/jvZZxG6cnykroV9KnA2+SQ==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 4799, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rosie Webster - An Archive Of Language", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/jvZZxG6cnykroV9KnA2+SQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

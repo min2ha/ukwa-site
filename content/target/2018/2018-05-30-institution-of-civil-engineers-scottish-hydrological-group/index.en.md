@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.scottishhydrologicalgroup.org/", 
-  "description": "A specialist study group of the Institution of Civil Engineers.", 
   "end_date": null, 
-  "title": "Institution of Civil Engineers Scottish Hydrological Group", 
-  "record_id": "20180530T090000/fMXKef5TD2JvvmrPQpJAcQ==", 
-  "publisher": "scottishhydrologicalgroup.org", 
+  "date": "2018-05-30T09:00:00", 
   "slug": 66363, 
+  "publisher": "scottishhydrologicalgroup.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Institution of Civil Engineers Scottish Hydrological Group", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180530T090000/fMXKef5TD2JvvmrPQpJAcQ==", 
+  "scope": "root", 
   "start_date": "2018-05-30T09:00:00Z"
 }
 

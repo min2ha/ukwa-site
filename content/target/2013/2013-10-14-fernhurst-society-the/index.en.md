@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.fernhurstsociety.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fernhurst Society, The", 
-  "record_id": "20131014T100000/KrNQ6WvKJcjAUAmABA4/+A==", 
-  "publisher": "fernhurstsociety.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 11534376, 
+  "publisher": "fernhurstsociety.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fernhurst Society, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/KrNQ6WvKJcjAUAmABA4/+A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

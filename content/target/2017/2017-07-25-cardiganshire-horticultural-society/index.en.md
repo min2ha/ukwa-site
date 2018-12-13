@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://cardshortsoc.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiganshire Horticultural Society", 
-  "record_id": "20170725T090000/zBJlpO51UbX9u3hYRxLBUQ==", 
-  "publisher": "cardshortsoc.org.uk", 
+  "date": "2017-07-25T09:00:00", 
   "slug": 56095, 
+  "publisher": "cardshortsoc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiganshire Horticultural Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170725T090000/zBJlpO51UbX9u3hYRxLBUQ==", 
+  "scope": "root", 
   "start_date": "2017-07-25T09:00:00Z"
 }
 

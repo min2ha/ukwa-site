@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://felixstowebookfestival.co.uk/", 
-  "description": "Felixstowe Book Festival", 
   "end_date": null, 
-  "title": "Felixstowe Book Festival", 
-  "record_id": "20150723T100000/biNlarvulicgyGUWX7kEXw==", 
-  "publisher": "felixstowebookfestival.co.uk", 
+  "date": "2015-07-23T10:00:00", 
   "slug": 29278, 
+  "publisher": "felixstowebookfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Felixstowe Book Festival", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150723T100000/biNlarvulicgyGUWX7kEXw==", 
+  "scope": "root", 
   "start_date": "2015-07-23T10:00:00Z"
 }
 

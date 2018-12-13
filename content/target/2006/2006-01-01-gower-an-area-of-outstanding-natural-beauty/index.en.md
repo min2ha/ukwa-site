@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.goweruk.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gower: An area of outstanding natural beauty", 
-  "record_id": "20060101T120000/mGyF03J6a6Wl3pZzjgHliw==", 
-  "publisher": "goweruk.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 51046, 
+  "publisher": "goweruk.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Gower: An area of outstanding natural beauty", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/mGyF03J6a6Wl3pZzjgHliw==", 
+  "scope": "root", 
   "start_date": null
 }
 

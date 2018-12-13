@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://thebusinessnarrative.com/", 
-  "description": "A marketing and events company", 
   "end_date": null, 
-  "title": "The Business Narrative", 
-  "record_id": "20160713T100000/eafp56MIVwMdK24RdWlm0A==", 
-  "publisher": "thebusinessnarrative.com", 
+  "date": "2016-07-13T10:00:00", 
   "slug": 44271, 
+  "publisher": "thebusinessnarrative.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Business Narrative", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160713T100000/eafp56MIVwMdK24RdWlm0A==", 
+  "scope": "root", 
   "start_date": "2016-07-13T10:00:00Z"
 }
 

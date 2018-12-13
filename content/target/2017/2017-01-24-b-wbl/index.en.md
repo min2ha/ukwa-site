@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://b-wbl.co.uk/", 
-  "description": "B-wbl, formerly Skills Academy Wales (South West) is is led by Pembrokeshire College and is a work based learning consortium made up of training providers. ", 
   "end_date": null, 
-  "title": "B-wbl", 
-  "record_id": "20170124T090000/5za1TdGqpmrSvXqxY+EQPA==", 
-  "publisher": "b-wbl.co.uk", 
+  "date": "2017-01-24T09:00:00", 
   "slug": 48652, 
+  "publisher": "b-wbl.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "B-wbl", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170124T090000/5za1TdGqpmrSvXqxY+EQPA==", 
+  "scope": "root", 
   "start_date": "2017-01-24T09:00:00Z"
 }
 

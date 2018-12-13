@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.homesandantiques.com/", 
-  "description": "Online version of the Homes and Antiques magazine.", 
   "end_date": null, 
-  "title": "Homes and Antiques", 
-  "record_id": "20151112T090000/ucbsSW76gd39XwmEzOfrkg==", 
-  "publisher": "homesandantiques.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32474, 
+  "publisher": "homesandantiques.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Homes and Antiques", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/ucbsSW76gd39XwmEzOfrkg==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

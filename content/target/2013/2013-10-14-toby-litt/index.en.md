@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tobylitt.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Toby Litt", 
-  "record_id": "20131014T100000/YNk8/xdPPWiwVuOWnHWKGA==", 
-  "publisher": "tobylitt.com", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 108630, 
+  "publisher": "tobylitt.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Toby Litt", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/YNk8/xdPPWiwVuOWnHWKGA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

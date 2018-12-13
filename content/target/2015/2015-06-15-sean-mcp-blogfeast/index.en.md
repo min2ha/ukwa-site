@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-15T05:00:00", 
-  "open_access": false, 
   "target_url": "https://blogfeast.wordpress.com/", 
-  "description": "Sean McPartlin, a teacher and writer, blogs on the subjects of faith, education, arts, sports and travel.", 
   "end_date": null, 
-  "title": "Sean McP Blogfeast", 
-  "record_id": "20150615T050000/z+uwPTBw30wg41mk8RJqAw==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-06-15T05:00:00", 
   "slug": 27990, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sean McP Blogfeast", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150615T050000/z+uwPTBw30wg41mk8RJqAw==", 
+  "scope": "root", 
   "start_date": "2015-06-15T05:00:00Z"
 }
 

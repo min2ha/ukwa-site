@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mostyn.org/", 
-  "description": "Llandudno art gallery.", 
   "end_date": null, 
-  "title": "Mostyn Art Gallery", 
-  "record_id": "20150609T090000/Gp/q1bSXNlSKutXeVpYeFA==", 
-  "publisher": "mostyn.org", 
+  "date": "2015-06-09T09:00:00", 
   "slug": 27427, 
+  "publisher": "mostyn.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mostyn Art Gallery", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150609T090000/Gp/q1bSXNlSKutXeVpYeFA==", 
+  "scope": "root", 
   "start_date": "2015-06-09T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cwmnigwerinpontypwl.btck.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cwmni Gwerin Pontypool", 
-  "record_id": "20170104T090000/OUQpU+bxTagyesQYCPQaPQ==", 
-  "publisher": "btck.co.uk", 
+  "date": "2017-01-04T09:00:00", 
   "slug": 48028, 
+  "publisher": "btck.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cwmni Gwerin Pontypool", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170104T090000/OUQpU+bxTagyesQYCPQaPQ==", 
+  "scope": "root", 
   "start_date": "2017-01-04T09:00:00Z"
 }
 

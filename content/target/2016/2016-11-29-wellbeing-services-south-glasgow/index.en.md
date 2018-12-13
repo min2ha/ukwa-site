@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://wellbeing-glasgow.org.uk/", 
-  "description": "Site of part of the National Health Service for South Glasgow, dealing with psychological wellbeing and mental health.", 
   "end_date": null, 
-  "title": "Wellbeing Services South Glasgow", 
-  "record_id": "20161129T090000/hwxAOLIGOMvWHLAcPLIsvw==", 
-  "publisher": "wellbeing-glasgow.org.uk", 
+  "date": "2016-11-29T09:00:00", 
   "slug": 47432, 
+  "publisher": "wellbeing-glasgow.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wellbeing Services South Glasgow", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161129T090000/hwxAOLIGOMvWHLAcPLIsvw==", 
+  "scope": "root", 
   "start_date": "2016-11-29T09:00:00Z"
 }
 

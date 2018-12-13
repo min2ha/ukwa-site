@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.millennium.gov.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Millennium Commission", 
-  "record_id": "20060101T120000/7DO15gJkpBKwU+66N0PnJQ==", 
-  "publisher": "millennium.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 128559, 
+  "publisher": "millennium.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Millennium Commission", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/7DO15gJkpBKwU+66N0PnJQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

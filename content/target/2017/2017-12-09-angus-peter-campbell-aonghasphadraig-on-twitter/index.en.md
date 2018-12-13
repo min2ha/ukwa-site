@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/aonghasphadraig/", 
-  "description": "Twitter profile of Angus Peter Campbell, writer and actor.", 
   "end_date": null, 
-  "title": "Angus Peter Campbell (@aonghasphadraig) on Twitter", 
-  "record_id": "20171209T090000/fAEgEPP9lbAcKsNuQfHiqQ==", 
-  "publisher": "twitter.com", 
+  "date": "2017-12-09T09:00:00", 
   "slug": 33932, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Angus Peter Campbell (@aonghasphadraig) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171209T090000/fAEgEPP9lbAcKsNuQfHiqQ==", 
+  "scope": "root", 
   "start_date": "2017-12-09T09:00:00Z"
 }
 

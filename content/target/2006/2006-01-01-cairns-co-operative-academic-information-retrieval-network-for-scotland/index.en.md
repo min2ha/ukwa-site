@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://cairns.lib.gla.ac.uk/index.html", 
-  "description": "", 
   "end_date": null, 
-  "title": "CAIRNS : Co-operative Academic Information Retrieval Network for Scotland", 
-  "record_id": "20060101T120000/BbHfTONpvEy/jvil99DZJA==", 
-  "publisher": "gla.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 114005, 
+  "publisher": "gla.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "CAIRNS : Co-operative Academic Information Retrieval Network for Scotland", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/BbHfTONpvEy/jvil99DZJA==", 
+  "scope": "root", 
   "start_date": null
 }
 

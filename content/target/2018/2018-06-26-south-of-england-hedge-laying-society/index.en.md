@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://sehls.weebly.com/", 
-  "description": "The Society was formed to bring together many hedge layers who were enjoying their craft and competing at local ploughing matches", 
   "end_date": null, 
-  "title": "South of England Hedge Laying Society", 
-  "record_id": "20180626T090000/epqEwaGU0dLHvPeScYolvw==", 
-  "publisher": "weebly.com", 
+  "date": "2018-06-26T09:00:00", 
   "slug": 68066, 
+  "publisher": "weebly.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South of England Hedge Laying Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180626T090000/epqEwaGU0dLHvPeScYolvw==", 
+  "scope": "root", 
   "start_date": "2018-06-26T09:00:00Z"
 }
 

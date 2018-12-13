@@ -1,13 +1,21 @@
 {
-  "date": "2018-02-13T09:00:00", 
-  "open_access": false, 
   "target_url": "https://nowcastingscotland.com/", 
-  "description": "Blog \"based on research carried out by Grant J. Allan, Gary Koop, Stuart G. McIntyre and Paul Smith, ... of the Department of Economics at the University of Strathclyde.\"", 
   "end_date": null, 
-  "title": "Nowcasting Scotland", 
-  "record_id": "20180213T090000/DlahvxhI1SK6yNO/mTNHEA==", 
-  "publisher": "nowcastingscotland.com", 
+  "date": "2018-02-13T09:00:00", 
   "slug": 61269, 
+  "publisher": "nowcastingscotland.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Nowcasting Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180213T090000/DlahvxhI1SK6yNO/mTNHEA==", 
+  "scope": "root", 
   "start_date": "2018-02-13T09:00:00Z"
 }
 

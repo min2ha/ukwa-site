@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-13T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.amgylchedd.com/", 
-  "description": "A network established in order to discuss environmental matters through the medium of Welsh.", 
   "end_date": null, 
-  "title": "Amgylchedd.com: Rhwydwaith er hybu'r Gymraeg yn y maes amgylcheddol", 
-  "record_id": "20150413T090000/nUUnlenz0/24VHDzZqN3Ng==", 
-  "publisher": "amgylchedd.com", 
+  "date": "2015-04-13T09:00:00", 
   "slug": 339312805, 
+  "publisher": "amgylchedd.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Amgylchedd.com: Rhwydwaith er hybu'r Gymraeg yn y maes amgylcheddol", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150413T090000/nUUnlenz0/24VHDzZqN3Ng==", 
+  "scope": "root", 
   "start_date": "2015-04-13T09:00:00Z"
 }
 

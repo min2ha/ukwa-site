@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://guestlist.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Guestlist", 
-  "record_id": "20060101T120000/pc9X9deI336/L08nrXnvmg==", 
-  "publisher": "guestlist.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12543, 
+  "publisher": "guestlist.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Guestlist", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pc9X9deI336/L08nrXnvmg==", 
+  "scope": "root", 
   "start_date": null
 }
 

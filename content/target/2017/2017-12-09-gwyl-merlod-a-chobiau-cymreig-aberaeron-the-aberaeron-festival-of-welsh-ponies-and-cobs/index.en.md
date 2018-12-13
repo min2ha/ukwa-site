@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://aberaeronfestival.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwyl Merlod a Chobiau Cymreig Aberaeron | The Aberaeron Festival of Welsh Ponies and Cobs", 
-  "record_id": "20171209T090000/NFQOXNHIWDfMMxyksuo8Yg==", 
-  "publisher": "aberaeronfestival.co.uk", 
+  "date": "2017-12-09T09:00:00", 
   "slug": 59611, 
+  "publisher": "aberaeronfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwyl Merlod a Chobiau Cymreig Aberaeron | The Aberaeron Festival of Welsh Ponies and Cobs", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171209T090000/NFQOXNHIWDfMMxyksuo8Yg==", 
+  "scope": "root", 
   "start_date": "2017-12-09T09:00:00Z"
 }
 

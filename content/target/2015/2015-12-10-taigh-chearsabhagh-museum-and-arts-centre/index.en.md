@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.taigh-chearsabhagh.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Taigh Chearsabhagh Museum and Arts Centre", 
-  "record_id": "20151210T090000/6W7GdDAYVzvTAHKpFTklhw==", 
-  "publisher": "taigh-chearsabhagh.org", 
+  "date": "2015-12-10T09:00:00", 
   "slug": 31207, 
+  "publisher": "taigh-chearsabhagh.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Taigh Chearsabhagh Museum and Arts Centre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151210T090000/6W7GdDAYVzvTAHKpFTklhw==", 
+  "scope": "root", 
   "start_date": "2015-12-10T09:00:00Z"
 }
 

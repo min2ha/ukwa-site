@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://informage.net/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Informage", 
-  "record_id": "20060101T120000/cHyPMizh+NQTlo6dD5VFzg==", 
-  "publisher": "informage.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 110313, 
+  "publisher": "informage.net", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Informage", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/cHyPMizh+NQTlo6dD5VFzg==", 
+  "scope": "root", 
   "start_date": null
 }
 

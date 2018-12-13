@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": true, 
   "target_url": "http://www.llandeilomusicfestival.org.uk/", 
-  "description": "<p>Llandeilo Music festival is an annual classical music festival held in July.</p>\n", 
   "end_date": null, 
-  "title": "Llandeilo Music Festival", 
-  "record_id": "20130406T010000/+3880p4NwxALO9wFf5biPQ==", 
-  "publisher": "llandeilomusicfestival.org.uk", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 286294077, 
+  "publisher": "llandeilomusicfestival.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Llandeilo Music Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/+3880p4NwxALO9wFf5biPQ==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

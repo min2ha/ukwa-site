@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://julietgreenwoodauthor.wordpress.com/", 
-  "description": "<p>Juliet is the author of First World War Novel \u2018We That are Left\u2019, completed with a Literature Wales Writers\u2019 Bursary 2013 and published by Honno Press.</p>\n", 
   "end_date": null, 
-  "title": "Juliet Greenwood", 
-  "record_id": "20060101T120000/82hfiGHaiZPpW08hsbqURw==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15630, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Juliet Greenwood", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/82hfiGHaiZPpW08hsbqURw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.lucycaldwell.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Lucy Caldwell", 
-  "record_id": "20060101T120000/x8PK9CnR4iMXlcoz+ac4Vw==", 
-  "publisher": "lucycaldwell.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 63275205, 
+  "publisher": "lucycaldwell.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Lucy Caldwell", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/x8PK9CnR4iMXlcoz+ac4Vw==", 
+  "scope": "root", 
   "start_date": null
 }
 

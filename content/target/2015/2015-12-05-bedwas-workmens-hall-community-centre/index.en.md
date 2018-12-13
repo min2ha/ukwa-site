@@ -1,13 +1,21 @@
 {
-  "date": "2015-12-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bedwasworkmenshall.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Bedwas Workmen's Hall Community Centre", 
-  "record_id": "20151205T090000/rDdH7v3Xv5AaTThLpXnLvQ==", 
-  "publisher": "bedwasworkmenshall.co.uk", 
+  "date": "2015-12-05T09:00:00", 
   "slug": 33230, 
+  "publisher": "bedwasworkmenshall.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Bedwas Workmen's Hall Community Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151205T090000/rDdH7v3Xv5AaTThLpXnLvQ==", 
+  "scope": "root", 
   "start_date": "2015-12-05T09:00:00Z"
 }
 

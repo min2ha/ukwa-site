@@ -1,13 +1,16 @@
 {
-  "date": "2013-05-13T00:00:00", 
-  "open_access": true, 
   "target_url": "http://radnorshiresociety.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "The Radnorshire Society", 
-  "record_id": "20130513T000000/UJRDNGiDPmMya4nvfCxmXQ==", 
-  "publisher": "radnorshiresociety.org", 
+  "date": "2013-05-13T00:00:00", 
   "slug": 162791438, 
+  "publisher": "radnorshiresociety.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "The Radnorshire Society", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130513T000000/UJRDNGiDPmMya4nvfCxmXQ==", 
+  "scope": "root", 
   "start_date": "2013-05-13T00:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/jamswilliams85/", 
-  "description": "James Williams is BBC Cymru Wales' Brexit Correspondent.", 
   "end_date": null, 
   "date": "2018-07-04T09:00:00", 
   "slug": 58302, 
-  "subject": "Brexit : Impact on Wales", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "James Williams (@jamswilliams85) on Twitter ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1023, 
+      "name": "Brexit : Impact on Wales"
+    }
+  ], 
   "record_id": "20180704T090000/vKxJWiajeDdddnARJ9bTYw==", 
+  "scope": "root", 
   "start_date": "2018-07-04T09:00:00Z"
 }
 

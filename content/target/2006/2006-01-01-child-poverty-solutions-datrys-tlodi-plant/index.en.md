@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.childpovertysolutions.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Child Poverty Solutions | Datrys Tlodi Plant", 
-  "record_id": "20060101T120000/PPJ5MtzUne8w0PujB9dmoQ==", 
-  "publisher": "childpovertysolutions.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 162791512, 
+  "publisher": "childpovertysolutions.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Child Poverty Solutions | Datrys Tlodi Plant", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/PPJ5MtzUne8w0PujB9dmoQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.telegraph.co.uk/news/2016/10/22/queen-facing-million-pound-black-hole-in-estate-finances-after-b/", 
-  "description": "Sandringham Estate, the\u00a0Queen\u2019s country retreat in Norfolk, will lose close to \u00a3700,000 a year when EU farming subsidies end while the farms near Windsor Castle will be around \u00a3300,000 down.\u00a0", 
   "end_date": "2016-11-12T00:00:00Z", 
   "date": "2016-11-06T09:00:00", 
   "slug": 46619, 
-  "subject": "Brexit", 
   "publisher": "telegraph.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Telegraph, The: Queen facing million-pound black hole in estate finances after Brexit ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 910, 
+      "name": "Brexit"
+    }
+  ], 
   "record_id": "20161106T090000/a8TQD+UecHyLU709SSEXSg==", 
+  "scope": "root", 
   "start_date": "2016-11-06T09:00:00Z"
 }
 

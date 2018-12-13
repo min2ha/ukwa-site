@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.welshthoracicsociety.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "The Welsh Thoracic Society", 
-  "record_id": "20161122T090000/QDBPkZPH9SMzjCTf1BJcNA==", 
-  "publisher": "welshthoracicsociety.org.uk", 
+  "date": "2016-11-22T09:00:00", 
   "slug": 47240, 
+  "publisher": "welshthoracicsociety.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Welsh Thoracic Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161122T090000/QDBPkZPH9SMzjCTf1BJcNA==", 
+  "scope": "root", 
   "start_date": "2016-11-22T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://machinima.dmu.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Machinima", 
-  "record_id": "20060101T120000/ThEDJBpWzlmoINiePfOHyA==", 
-  "publisher": "dmu.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 266338354, 
+  "publisher": "dmu.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Machinima", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ThEDJBpWzlmoINiePfOHyA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-24T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.musicalityacademy.com/", 
-  "description": "Musicality is a music and theatre Academy based in Swansea.", 
   "end_date": null, 
-  "title": "Musicality", 
-  "record_id": "20171224T090000/Uz/S0fyPII3WgHs0DEUNxQ==", 
-  "publisher": "musicalityacademy.com", 
+  "date": "2017-12-24T09:00:00", 
   "slug": 59940, 
+  "publisher": "musicalityacademy.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Musicality", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171224T090000/Uz/S0fyPII3WgHs0DEUNxQ==", 
+  "scope": "root", 
   "start_date": "2017-12-24T09:00:00Z"
 }
 

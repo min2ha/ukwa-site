@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://jedds.mcc.ac.uk/website/index.html", 
-  "description": null, 
   "end_date": null, 
-  "title": "JEDDS : Joint Electronic Document Delivery Software Project", 
-  "record_id": "20060101T120000/WnoLSgAFUUnEcHhmqn+yIg==", 
-  "publisher": "mcc.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 112069, 
+  "publisher": "mcc.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "JEDDS : Joint Electronic Document Delivery Software Project", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/WnoLSgAFUUnEcHhmqn+yIg==", 
+  "scope": "root", 
   "start_date": null
 }
 

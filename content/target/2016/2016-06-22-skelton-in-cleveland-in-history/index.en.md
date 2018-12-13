@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-22T11:00:00", 
-  "open_access": true, 
   "target_url": "http://skeltonincleveland.com", 
-  "description": "A local history site", 
   "end_date": null, 
-  "title": "Skelton-In-Cleveland In History", 
-  "record_id": "20160622T110000/9/GXbGO3VW7+aK7By36DQg==", 
-  "publisher": "skeltonincleveland.com", 
+  "date": "2016-06-22T11:00:00", 
   "slug": 43678, 
+  "publisher": "skeltonincleveland.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Skelton-In-Cleveland In History", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160622T110000/9/GXbGO3VW7+aK7By36DQg==", 
+  "scope": "subdomains", 
   "start_date": "2016-06-22T11:00:00Z"
 }
 

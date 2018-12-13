@@ -1,13 +1,16 @@
 {
-  "date": "2008-09-01T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.londonarchitecturediary.com/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "London Architecture Diary", 
-  "record_id": "20080901T000000/2WOlCSJ4GdsYSP0F6IJVsA==", 
-  "publisher": "londonarchitecturediary.com", 
+  "date": "2008-09-01T00:00:00", 
   "slug": 14254081, 
+  "publisher": "londonarchitecturediary.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "London Architecture Diary", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20080901T000000/2WOlCSJ4GdsYSP0F6IJVsA==", 
+  "scope": "root", 
   "start_date": "2008-09-01T00:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ambucopter.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Lincolnshire & Nottinghamshire Air Ambulance", 
-  "record_id": "20060101T120000/Fm4lMqWulJOkJjkYv8ddIw==", 
-  "publisher": "ambucopter.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11285, 
+  "publisher": "ambucopter.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lincolnshire & Nottinghamshire Air Ambulance", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Fm4lMqWulJOkJjkYv8ddIw==", 
+  "scope": "root", 
   "start_date": null
 }
 

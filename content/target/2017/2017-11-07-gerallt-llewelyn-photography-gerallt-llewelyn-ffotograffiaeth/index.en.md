@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://geraphoto.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gerallt Llewelyn Photography | Gerallt Llewelyn Ffotograffiaeth", 
-  "record_id": "20171107T090000/OZHBJPja9BsXQqic5z9kuw==", 
-  "publisher": "geraphoto.com", 
+  "date": "2017-11-07T09:00:00", 
   "slug": 58493, 
+  "publisher": "geraphoto.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gerallt Llewelyn Photography | Gerallt Llewelyn Ffotograffiaeth", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171107T090000/OZHBJPja9BsXQqic5z9kuw==", 
+  "scope": "subdomains", 
   "start_date": "2017-11-07T09:00:00Z"
 }
 

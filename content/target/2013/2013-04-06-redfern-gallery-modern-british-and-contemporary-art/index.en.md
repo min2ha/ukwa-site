@@ -1,13 +1,21 @@
 {
-  "date": "2013-04-06T01:00:00", 
-  "open_access": false, 
   "target_url": "http://www.redfern-gallery.com/", 
-  "description": "<p>Art gallery devoted to modern British and contemporary art</p>\n", 
   "end_date": null, 
-  "title": "Redfern Gallery: Modern British and Contemporary Art", 
-  "record_id": "20130406T010000/CKSYXCrcGxbtXrmhOLgqtw==", 
-  "publisher": "redfern-gallery.com", 
+  "date": "2013-04-06T01:00:00", 
   "slug": 14286, 
+  "publisher": "redfern-gallery.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Redfern Gallery: Modern British and Contemporary Art", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20130406T010000/CKSYXCrcGxbtXrmhOLgqtw==", 
+  "scope": "root", 
   "start_date": "2013-04-06T01:00:00Z"
 }
 

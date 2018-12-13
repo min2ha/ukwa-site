@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wmp.org.uk/", 
-  "description": "WSMP is a partnership organisation aimed at providing an enabling function and a strategic leadership, independent, advisory and consultative body on migration in Wales. ", 
   "end_date": null, 
-  "title": "Partneriaeth Mewnfudo Strategol Cymru | Wales Strategic Migration Partnership (WSMP)", 
-  "record_id": "20150928T100000/Rz8X7u9eG0JIiK2KF94c4A==", 
-  "publisher": "wmp.org.uk", 
+  "date": "2015-09-28T10:00:00", 
   "slug": 30886, 
+  "publisher": "wmp.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Partneriaeth Mewnfudo Strategol Cymru | Wales Strategic Migration Partnership (WSMP)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150928T100000/Rz8X7u9eG0JIiK2KF94c4A==", 
+  "scope": "root", 
   "start_date": "2015-09-28T10:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.yorkagainstthewar.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "York against the War", 
-  "record_id": "20060101T120000/Vef5MpeOYknAArhyqJ2gkQ==", 
-  "publisher": "yorkagainstthewar.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 101920, 
+  "publisher": "yorkagainstthewar.org.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "York against the War", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Vef5MpeOYknAArhyqJ2gkQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

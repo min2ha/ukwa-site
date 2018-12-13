@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.building4change.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Building4Change", 
-  "record_id": "20060101T120000/D6w6XEG5eYZ7CrzvwIeMaw==", 
-  "publisher": "building4change.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 93028431, 
+  "publisher": "building4change.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Building4Change", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/D6w6XEG5eYZ7CrzvwIeMaw==", 
+  "scope": "root", 
   "start_date": null
 }
 

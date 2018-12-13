@@ -1,13 +1,16 @@
 {
-  "date": "2015-09-22T00:00:00", 
-  "open_access": true, 
   "target_url": "http://someplacenamesinsouthwales.4t.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Some place-names in South Wales", 
-  "record_id": "20150922T000000/U/m0Y14cx8CCWB+/lvbHtA==", 
-  "publisher": "4t.com", 
+  "date": "2015-09-22T00:00:00", 
   "slug": 326434853, 
+  "publisher": "4t.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Some place-names in South Wales", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150922T000000/U/m0Y14cx8CCWB+/lvbHtA==", 
+  "scope": "root", 
   "start_date": "2015-09-22T00:00:00Z"
 }
 

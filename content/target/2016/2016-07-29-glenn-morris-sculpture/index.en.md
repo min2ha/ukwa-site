@@ -1,13 +1,21 @@
 {
-  "date": "2016-07-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glennmorris.co.uk/", 
-  "description": "Glenn Morris is a stone, wood, bronze & mixed media scultpurist from Wales.", 
   "end_date": null, 
-  "title": "Glenn Morris Sculpture", 
-  "record_id": "20160729T100000/RbVXd9Pc0RBQeAkpX3M3SQ==", 
-  "publisher": "glennmorris.co.uk", 
+  "date": "2016-07-29T10:00:00", 
   "slug": 44687, 
+  "publisher": "glennmorris.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glenn Morris Sculpture", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160729T100000/RbVXd9Pc0RBQeAkpX3M3SQ==", 
+  "scope": "root", 
   "start_date": "2016-07-29T10:00:00Z"
 }
 

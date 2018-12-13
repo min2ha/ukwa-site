@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.robbiethomson.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Robbie Thomson", 
-  "record_id": "20060101T120000/dKIj+sIg7ceS3WLLYkppjw==", 
-  "publisher": "robbiethomson.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 54259, 
+  "publisher": "robbiethomson.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Robbie Thomson", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/dKIj+sIg7ceS3WLLYkppjw==", 
+  "scope": "root", 
   "start_date": null
 }
 

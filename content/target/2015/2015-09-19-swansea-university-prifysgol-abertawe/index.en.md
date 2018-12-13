@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-19T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.swansea.ac.uk/", 
-  "description": "Official website of the Swansea University - Prifysgol Abertawe.", 
   "end_date": null, 
-  "title": "Swansea University - Prifysgol Abertawe", 
-  "record_id": "20150919T100000/fQ6mRyGGRW3DMbIacM2MUg==", 
-  "publisher": "swansea.ac.uk", 
+  "date": "2015-09-19T10:00:00", 
   "slug": 137036, 
+  "publisher": "swansea.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Swansea University - Prifysgol Abertawe", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150919T100000/fQ6mRyGGRW3DMbIacM2MUg==", 
+  "scope": "root", 
   "start_date": "2015-09-19T10:00:00Z"
 }
 

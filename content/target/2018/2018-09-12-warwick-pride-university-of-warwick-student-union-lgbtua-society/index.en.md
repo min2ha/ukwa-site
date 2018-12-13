@@ -1,14 +1,26 @@
 {
   "target_url": "http://home.warwickpride.org/", 
-  "description": "The University of Warwick Students\u2019 Union society for Lesbian, Gay, Bi+, Trans*, Undefined and Asexual students and their friends.", 
   "end_date": null, 
   "date": "2018-09-12T09:00:00", 
   "slug": 71045, 
-  "subject": "Gender Equality", 
   "publisher": "warwickpride.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "Warwick Pride, University of Warwick Student Union LGBTUA+ Society", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1942, 
+      "name": "Gender Equality"
+    }
+  ], 
   "record_id": "20180912T090000/3qsEoV1ygt/zWV0HBd3aQQ==", 
+  "scope": "root", 
   "start_date": "2018-09-12T09:00:00Z"
 }
 

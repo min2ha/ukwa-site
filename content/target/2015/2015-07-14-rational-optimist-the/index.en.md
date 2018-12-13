@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.rationaloptimist.com/", 
-  "description": "The website of Matt Ridley who posts columns, reviews, articles, blogs and links here.", 
   "end_date": null, 
   "date": "2015-07-14T10:00:00", 
   "slug": 28923, 
-  "subject": "Climate Change Debates", 
   "publisher": "rationaloptimist.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Rational Optimist, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 369, 
+      "name": "Climate Change Debates"
+    }
+  ], 
   "record_id": "20150714T100000/emP+NEWeIBZgKHXarpIhKA==", 
+  "scope": "root", 
   "start_date": "2015-07-14T10:00:00Z"
 }
 

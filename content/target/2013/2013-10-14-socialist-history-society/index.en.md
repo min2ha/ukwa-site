@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.socialisthistorysociety.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Socialist History Society", 
-  "record_id": "20131014T100000/j4zXmPMh0xHYvb4ZZJnovA==", 
-  "publisher": "socialisthistorysociety.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 7798812, 
+  "publisher": "socialisthistorysociety.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Socialist History Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/j4zXmPMh0xHYvb4ZZJnovA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

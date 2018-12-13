@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.dumfriesandgalloway.police.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 136019974, 
-  "subject": "Governing the Police", 
   "publisher": "dumfriesandgalloway.police.uk", 
   "open_access": true, 
+  "npld": true, 
   "title": "Dunfries and Galloway Constabulary", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2433, 
+      "name": "Governing the Police"
+    }
+  ], 
   "record_id": "20131014T100000/aL3g3yBPuhGGlK4qUhpRJw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

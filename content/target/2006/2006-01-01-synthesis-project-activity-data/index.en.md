@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.activitydata.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Synthesis Project: Activity Data", 
-  "record_id": "20060101T120000/XyBdbJX1431GwSOHhC1Ygg==", 
-  "publisher": "activitydata.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588271, 
+  "publisher": "activitydata.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Synthesis Project: Activity Data", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/XyBdbJX1431GwSOHhC1Ygg==", 
+  "scope": "root", 
   "start_date": null
 }
 

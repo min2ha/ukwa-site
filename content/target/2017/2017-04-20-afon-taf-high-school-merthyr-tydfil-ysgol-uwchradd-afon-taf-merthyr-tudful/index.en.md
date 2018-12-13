@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.afontaf.merthyr.sch.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Afon T\u00e2f High School, Merthyr Tydfil | Ysgol Uwchradd Afon T\u00e2f, Merthyr Tudful", 
-  "record_id": "20170420T090000/AHYGEypKYJDGlfPC69w4BQ==", 
-  "publisher": "afontaf.merthyr.sch.uk", 
+  "date": "2017-04-20T09:00:00", 
   "slug": 52075, 
+  "publisher": "afontaf.merthyr.sch.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Afon T\u00e2f High School, Merthyr Tydfil | Ysgol Uwchradd Afon T\u00e2f, Merthyr Tudful", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170420T090000/AHYGEypKYJDGlfPC69w4BQ==", 
+  "scope": "root", 
   "start_date": "2017-04-20T09:00:00Z"
 }
 

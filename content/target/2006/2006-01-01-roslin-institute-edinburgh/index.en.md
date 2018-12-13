@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ri.bbsrc.ac.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Roslin Institute Edinburgh", 
-  "record_id": "20060101T120000/rffG9iQ93oSDCiUUmBunaA==", 
-  "publisher": "bbsrc.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 114845, 
+  "publisher": "bbsrc.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Roslin Institute Edinburgh", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/rffG9iQ93oSDCiUUmBunaA==", 
+  "scope": "root", 
   "start_date": null
 }
 

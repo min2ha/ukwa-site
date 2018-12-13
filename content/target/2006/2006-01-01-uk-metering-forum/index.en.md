@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ukmf.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "UK Metering Forum", 
-  "record_id": "20060101T120000/xBZio88FhkijFkoH7LYIVg==", 
-  "publisher": "ukmf.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 18256, 
+  "publisher": "ukmf.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "UK Metering Forum", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xBZio88FhkijFkoH7LYIVg==", 
+  "scope": "root", 
   "start_date": null
 }
 

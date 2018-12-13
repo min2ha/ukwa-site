@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.royalwelshveterans.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Royal Welsh Veterans", 
-  "record_id": "20150730T100000/WU0Rvs7l+YsdhsBqsNl9CQ==", 
-  "publisher": "royalwelshveterans.co.uk", 
+  "date": "2015-07-30T10:00:00", 
   "slug": 29504, 
+  "publisher": "royalwelshveterans.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Royal Welsh Veterans", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150730T100000/WU0Rvs7l+YsdhsBqsNl9CQ==", 
+  "scope": "root", 
   "start_date": "2015-07-30T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.jwa.org.uk/", 
-  "description": "Site of an organisation in the UK supporting Jewish women affected by domestic violence and abuse.", 
   "end_date": null, 
-  "title": "Jewish Women's Aid", 
-  "record_id": "20180527T090000/eWK4iSJBf+tGH/+hVARjXg==", 
-  "publisher": "jwa.org.uk", 
+  "date": "2018-05-27T09:00:00", 
   "slug": 66248, 
+  "publisher": "jwa.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Jewish Women's Aid", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180527T090000/eWK4iSJBf+tGH/+hVARjXg==", 
+  "scope": "root", 
   "start_date": "2018-05-27T09:00:00Z"
 }
 

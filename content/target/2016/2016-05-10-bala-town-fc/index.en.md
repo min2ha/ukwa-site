@@ -1,14 +1,30 @@
 {
   "target_url": "http://www.balatownfc.co.uk/", 
-  "description": "", 
   "end_date": null, 
   "date": "2016-05-10T10:00:00", 
   "slug": 40643, 
-  "subject": "Sport: Football", 
   "publisher": "balatownfc.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Bala Town FC", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }, 
+    {
+      "id": 1768, 
+      "name": "Sports Collection"
+    }
+  ], 
   "record_id": "20160510T100000//52pJxtzseDGsEONgZACgQ==", 
+  "scope": "root", 
   "start_date": "2016-05-10T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.metroconsortium.co.uk/", 
-  "description": "The Cardiff Capital Region Metro is a project that aims to connect and transform the communities of the City Region.", 
   "end_date": null, 
-  "title": "Metro Consortium", 
-  "record_id": "20150903T100000/H3sZcFujjiMYGEjlLWz7ig==", 
-  "publisher": "metroconsortium.co.uk", 
+  "date": "2015-09-03T10:00:00", 
   "slug": 30142, 
+  "publisher": "metroconsortium.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Metro Consortium", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150903T100000/H3sZcFujjiMYGEjlLWz7ig==", 
+  "scope": "root", 
   "start_date": "2015-09-03T10:00:00Z"
 }
 

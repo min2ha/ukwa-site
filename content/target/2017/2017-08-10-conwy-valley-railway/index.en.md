@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-10T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.conwyvalleyrailway.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Conwy Valley Railway", 
-  "record_id": "20170810T090000/WiOdVqh4uLMT8apiDEQmvw==", 
-  "publisher": "conwyvalleyrailway.co.uk", 
+  "date": "2017-08-10T09:00:00", 
   "slug": 56533, 
+  "publisher": "conwyvalleyrailway.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Conwy Valley Railway", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170810T090000/WiOdVqh4uLMT8apiDEQmvw==", 
+  "scope": "root", 
   "start_date": "2017-08-10T09:00:00Z"
 }
 

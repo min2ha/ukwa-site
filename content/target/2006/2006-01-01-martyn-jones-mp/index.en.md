@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.martynjonesmp.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Martyn Jones MP", 
-  "record_id": "20060101T120000/5RB3qwLheWFp0QdtnOlKgQ==", 
-  "publisher": "martynjonesmp.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 37617691, 
+  "publisher": "martynjonesmp.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Martyn Jones MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/5RB3qwLheWFp0QdtnOlKgQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-11T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.barco.com/en/", 
-  "description": "Barco, a global technology company, designs and develops networked visualization products for the Entertainment, Enterprise and Healthcare markets.", 
   "end_date": null, 
-  "title": "Barco", 
-  "record_id": "20161011T100000/dMOaiOQpsAM9LAFMHvmd9w==", 
-  "publisher": "barco.com", 
+  "date": "2016-10-11T10:00:00", 
   "slug": 46061, 
+  "publisher": "barco.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Barco", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161011T100000/dMOaiOQpsAM9LAFMHvmd9w==", 
+  "scope": "root", 
   "start_date": "2016-10-11T10:00:00Z"
 }
 

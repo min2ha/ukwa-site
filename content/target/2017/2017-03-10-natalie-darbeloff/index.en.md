@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-10T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.nataliedarbeloff.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Natalie d'Arbeloff", 
-  "record_id": "20170310T090000/WMvipPaUEbrXLx/RPEyjRQ==", 
-  "publisher": "nataliedarbeloff.com", 
+  "date": "2017-03-10T09:00:00", 
   "slug": 121556, 
+  "publisher": "nataliedarbeloff.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Natalie d'Arbeloff", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170310T090000/WMvipPaUEbrXLx/RPEyjRQ==", 
+  "scope": "root", 
   "start_date": "2017-03-10T09:00:00Z"
 }
 

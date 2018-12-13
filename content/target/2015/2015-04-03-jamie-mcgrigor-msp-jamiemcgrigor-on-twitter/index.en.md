@@ -1,14 +1,30 @@
 {
   "target_url": "https://twitter.com/JamieMcGrigor/", 
-  "description": "<p>The twitter profile of Jamie McGrigor, Conservative and Unionist Party Member of the Scottish Parliament for Highlands and Islands.</p>\n", 
   "end_date": "2015-05-14T01:00:00Z", 
   "date": "2015-04-03T07:00:00", 
   "slug": 12602, 
-  "subject": "UK General Election 2015", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Jamie McGrigor MSP (JamieMcGrigor) on Twitter", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 65, 
+      "name": "Scottish Independence Referendum"
+    }
+  ], 
   "record_id": "20150403T070000/S/pnx/uEwVh+4CBnp0gchA==", 
+  "scope": "root", 
   "start_date": "2015-04-03T07:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2005-01-06T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bangorcityfc.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Clwb P\u00eal-Droed Bangor City Football Club", 
-  "record_id": "20050106T000000/fOKDH/G2kpP9AHoPZWF4GA==", 
-  "publisher": "bangorcityfc.com", 
+  "date": "2005-01-06T00:00:00", 
   "slug": 104558, 
+  "publisher": "bangorcityfc.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Clwb P\u00eal-Droed Bangor City Football Club", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20050106T000000/fOKDH/G2kpP9AHoPZWF4GA==", 
+  "scope": "root", 
   "start_date": "2005-01-06T00:00:00Z"
 }
 

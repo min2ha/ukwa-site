@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llanthonyshow.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llanthony Valley and District Show", 
-  "record_id": "20161112T090000/bH/inc50K9mW/vp4tsMa6g==", 
-  "publisher": "llanthonyshow.co.uk", 
+  "date": "2016-11-12T09:00:00", 
   "slug": 46992, 
+  "publisher": "llanthonyshow.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llanthony Valley and District Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161112T090000/bH/inc50K9mW/vp4tsMa6g==", 
+  "scope": "root", 
   "start_date": "2016-11-12T09:00:00Z"
 }
 

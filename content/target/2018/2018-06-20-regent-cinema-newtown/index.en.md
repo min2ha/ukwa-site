@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.regentcentre.net/", 
-  "description": "Regent Cinema is a cinema based in Newtown, Powys.", 
   "end_date": null, 
-  "title": "Regent Cinema, Newtown", 
-  "record_id": "20180620T090000/Un8lfnr0O50zEeMxRhTNZg==", 
-  "publisher": "regentcentre.net", 
+  "date": "2018-06-20T09:00:00", 
   "slug": 67637, 
+  "publisher": "regentcentre.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Regent Cinema, Newtown", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180620T090000/Un8lfnr0O50zEeMxRhTNZg==", 
+  "scope": "subdomains", 
   "start_date": "2018-06-20T09:00:00Z"
 }
 

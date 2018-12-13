@@ -1,13 +1,16 @@
 {
-  "date": "2010-03-31T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.colinchallen.org.uk/", 
-  "description": "", 
   "end_date": "2010-12-12T00:00:00Z", 
-  "title": "Colin Challen MP", 
-  "record_id": "20100331T000000/4Ppl2Wm0OhdpeFiahdxfNA==", 
-  "publisher": "colinchallen.org.uk", 
+  "date": "2010-03-31T00:00:00", 
   "slug": 39714851, 
+  "publisher": "colinchallen.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Colin Challen MP", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100331T000000/4Ppl2Wm0OhdpeFiahdxfNA==", 
+  "scope": "root", 
   "start_date": "2010-03-31T00:00:00Z"
 }
 

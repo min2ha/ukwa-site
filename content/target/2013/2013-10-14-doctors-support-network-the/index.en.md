@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.dsn.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Doctors Support Network, The", 
-  "record_id": "20131014T100000/ipFyk7FMFOqn7Tc5327CIg==", 
-  "publisher": "dsn.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 65208398, 
+  "publisher": "dsn.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Doctors Support Network, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ipFyk7FMFOqn7Tc5327CIg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

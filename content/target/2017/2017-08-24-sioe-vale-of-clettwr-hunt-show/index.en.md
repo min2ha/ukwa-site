@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sioevochuntshow.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Sioe Vale of Clettwr Hunt Show", 
-  "record_id": "20170824T090000/7Y6YA43WlA6pjanyCIdr5Q==", 
-  "publisher": "sioevochuntshow.co.uk", 
+  "date": "2017-08-24T09:00:00", 
   "slug": 56808, 
+  "publisher": "sioevochuntshow.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Sioe Vale of Clettwr Hunt Show", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170824T090000/7Y6YA43WlA6pjanyCIdr5Q==", 
+  "scope": "root", 
   "start_date": "2017-08-24T09:00:00Z"
 }
 

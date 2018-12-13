@@ -1,13 +1,16 @@
 {
-  "date": "2015-11-04T00:00:00", 
-  "open_access": true, 
   "target_url": "http://safetysurvey.audit.wales/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Arolwg diogelwch cymunedol  | Community Safety Survey", 
-  "record_id": "20151104T000000/0GFvd9lO7IPYdxGsiwscvQ==", 
-  "publisher": "audit.wales", 
+  "date": "2015-11-04T00:00:00", 
   "slug": 339312673, 
+  "publisher": "audit.wales", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Arolwg diogelwch cymunedol  | Community Safety Survey", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T000000/0GFvd9lO7IPYdxGsiwscvQ==", 
+  "scope": "root", 
   "start_date": "2015-11-04T00:00:00Z"
 }
 

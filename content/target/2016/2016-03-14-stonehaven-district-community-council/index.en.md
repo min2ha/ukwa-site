@@ -1,13 +1,21 @@
 {
-  "date": "2016-03-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://stonehavencc.org.uk/", 
-  "description": "Community council website for Stonehaven, a town in Aberdeenshire Scotland", 
   "end_date": null, 
-  "title": "Stonehaven & District Community Council", 
-  "record_id": "20160314T090000/MKyn4dC4IgrzCgZZeRVWog==", 
-  "publisher": "stonehavencc.org.uk", 
+  "date": "2016-03-14T09:00:00", 
   "slug": 37027, 
+  "publisher": "stonehavencc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Stonehaven & District Community Council", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160314T090000/MKyn4dC4IgrzCgZZeRVWog==", 
+  "scope": "root", 
   "start_date": "2016-03-14T09:00:00Z"
 }
 

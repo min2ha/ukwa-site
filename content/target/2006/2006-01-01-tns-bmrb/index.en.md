@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tns-bmrb.co.uk", 
-  "description": "<p>TNS BMRB conducts market research relating to political, social and business issues for policy makers. The News section of the website provides access to past research, headline reports and data tables.</p>\n", 
   "end_date": null, 
-  "title": "TNS BMRB", 
-  "record_id": "20060101T120000/jndCr+hSIOEOrXQcZKF3uA==", 
-  "publisher": "tns-bmrb.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10085, 
+  "publisher": "tns-bmrb.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "TNS BMRB", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/jndCr+hSIOEOrXQcZKF3uA==", 
+  "scope": "root", 
   "start_date": null
 }
 

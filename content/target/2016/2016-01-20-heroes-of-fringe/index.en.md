@@ -1,14 +1,30 @@
 {
   "target_url": "http://www.heroesoffringe.com/", 
-  "description": "A collection of comedy and caberet acts promoted by Bob Slayer. Performing at the Edinburgh Fringe Festival.", 
   "end_date": null, 
   "date": "2016-01-20T09:00:00", 
   "slug": 29789, 
-  "subject": "British Stand-up Comedy Archive", 
   "publisher": "heroesoffringe.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Heroes of Fringe", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 329, 
+      "name": "British Stand-up Comedy Archive"
+    }, 
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20160120T090000/roL2I4QD/biVVIdlT1AfWA==", 
+  "scope": "root", 
   "start_date": "2016-01-20T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-29T09:00:00", 
-  "open_access": false, 
   "target_url": "https://twitter.com/bbclaurak/", 
-  "description": "Laura Kuenssberg is the Political Editor at the BBC.", 
   "end_date": null, 
-  "title": "Laura Kuenssberg (@bbclaurak) on Twitter", 
-  "record_id": "20171129T090000/yAztYHSqr/wN4Qilxk4zHw==", 
-  "publisher": "twitter.com", 
+  "date": "2017-11-29T09:00:00", 
   "slug": 59272, 
+  "publisher": "twitter.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Laura Kuenssberg (@bbclaurak) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171129T090000/yAztYHSqr/wN4Qilxk4zHw==", 
+  "scope": "root", 
   "start_date": "2017-11-29T09:00:00Z"
 }
 

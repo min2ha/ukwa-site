@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alasdairgray.info/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Alasdair Gray the Official Website", 
-  "record_id": "20151104T090000/KbjY+yMlZF/N5cpQaWFslQ==", 
-  "publisher": "alasdairgray.info", 
+  "date": "2015-11-04T09:00:00", 
   "slug": 32109, 
+  "publisher": "alasdairgray.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alasdair Gray the Official Website", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T090000/KbjY+yMlZF/N5cpQaWFslQ==", 
+  "scope": "root", 
   "start_date": "2015-11-04T09:00:00Z"
 }
 

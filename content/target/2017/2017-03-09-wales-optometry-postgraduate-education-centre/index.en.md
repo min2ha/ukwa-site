@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://wopec.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wales Optometry Postgraduate Education Centre", 
-  "record_id": "20170309T090000/4JpdTSyUX/I8e3ranCFcxQ==", 
-  "publisher": "wopec.co.uk", 
+  "date": "2017-03-09T09:00:00", 
   "slug": 50272, 
+  "publisher": "wopec.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wales Optometry Postgraduate Education Centre", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170309T090000/4JpdTSyUX/I8e3ranCFcxQ==", 
+  "scope": "root", 
   "start_date": "2017-03-09T09:00:00Z"
 }
 

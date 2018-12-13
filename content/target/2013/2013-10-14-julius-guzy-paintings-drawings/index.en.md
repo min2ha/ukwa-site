@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://juliuspaintings.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Julius Guzy: Paintings & Drawings", 
-  "record_id": "20131014T100000/caKOEOz3NeDm5lmshCU0/w==", 
-  "publisher": "juliuspaintings.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60293302, 
+  "publisher": "juliuspaintings.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Julius Guzy: Paintings & Drawings", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/caKOEOz3NeDm5lmshCU0/w==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

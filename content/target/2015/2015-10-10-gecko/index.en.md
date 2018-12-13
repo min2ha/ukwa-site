@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-10T10:00:00", 
-  "open_access": false, 
   "target_url": "http://geckotheatre.com/", 
-  "description": "Gecko is a physical theatre company, led by Artistic Director Amit Lahav.", 
   "end_date": null, 
-  "title": "Gecko", 
-  "record_id": "20151010T100000/KGL/latmbC4JfqRraSCCwA==", 
-  "publisher": "geckotheatre.com", 
+  "date": "2015-10-10T10:00:00", 
   "slug": 31345, 
+  "publisher": "geckotheatre.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gecko", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151010T100000/KGL/latmbC4JfqRraSCCwA==", 
+  "scope": "root", 
   "start_date": "2015-10-10T10:00:00Z"
 }
 

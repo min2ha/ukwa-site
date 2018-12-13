@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.mcsuk.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Marine Conservation Society (MCS)", 
-  "record_id": "20131014T100000/mv9P2pboCG7oE0reR59InA==", 
-  "publisher": "mcsuk.org", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 124407, 
+  "publisher": "mcsuk.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Marine Conservation Society (MCS)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/mv9P2pboCG7oE0reR59InA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

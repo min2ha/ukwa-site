@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.monmasons.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Masonic Province of Monmouthshire", 
-  "record_id": "20150930T100000/FH6hMTXJbAMUrao4HpxB2Q==", 
-  "publisher": "monmasons.org.uk", 
+  "date": "2015-09-30T10:00:00", 
   "slug": 31041, 
+  "publisher": "monmasons.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Masonic Province of Monmouthshire", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150930T100000/FH6hMTXJbAMUrao4HpxB2Q==", 
+  "scope": "root", 
   "start_date": "2015-09-30T10:00:00Z"
 }
 

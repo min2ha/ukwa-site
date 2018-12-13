@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-26T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.showhouse.co.uk/", 
-  "description": "Website for people working in housebuilding and housing. Site includes news, jobs and details of events and courses.", 
   "end_date": null, 
-  "title": "Show House (Globespan Media Ltd.)", 
-  "record_id": "20180826T090000/DrlmF8hWoyanRZZTvWsz7A==", 
-  "publisher": "showhouse.co.uk", 
+  "date": "2018-08-26T09:00:00", 
   "slug": 70446, 
+  "publisher": "showhouse.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Show House (Globespan Media Ltd.)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180826T090000/DrlmF8hWoyanRZZTvWsz7A==", 
+  "scope": "root", 
   "start_date": "2018-08-26T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.barryislandpleasurepark.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Barry Island Pleasure Park", 
-  "record_id": "20170214T090000//KzyngESyUROh6j5WfP9uA==", 
-  "publisher": "barryislandpleasurepark.co.uk", 
+  "date": "2017-02-14T09:00:00", 
   "slug": 49305, 
+  "publisher": "barryislandpleasurepark.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Barry Island Pleasure Park", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170214T090000//KzyngESyUROh6j5WfP9uA==", 
+  "scope": "root", 
   "start_date": "2017-02-14T09:00:00Z"
 }
 

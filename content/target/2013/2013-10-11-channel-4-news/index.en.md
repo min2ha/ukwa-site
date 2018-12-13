@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.channel4.com/news/", 
-  "description": "", 
   "end_date": null, 
   "date": "2013-10-11T10:00:00", 
   "slug": 3816, 
-  "subject": "News Sites", 
   "publisher": "channel4.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Channel 4 News", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20131011T100000/bDr7fNROpD9yVlmPWDEDmQ==", 
+  "scope": "root", 
   "start_date": "2013-10-11T10:00:00Z"
 }
 

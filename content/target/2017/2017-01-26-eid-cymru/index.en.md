@@ -1,13 +1,21 @@
 {
-  "date": "2017-01-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.eidcymru.org/", 
-  "description": "EIDCymru is the electronic sheep and goat movement recording system for Wales. ", 
   "end_date": null, 
-  "title": "EID Cymru", 
-  "record_id": "20170126T090000/jrVzwSdcIwH4IsyPpbuwOg==", 
-  "publisher": "eidcymru.org", 
+  "date": "2017-01-26T09:00:00", 
   "slug": 48804, 
+  "publisher": "eidcymru.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "EID Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170126T090000/jrVzwSdcIwH4IsyPpbuwOg==", 
+  "scope": "root", 
   "start_date": "2017-01-26T09:00:00Z"
 }
 

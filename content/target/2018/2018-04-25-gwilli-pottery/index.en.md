@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-25T09:00:00", 
-  "open_access": false, 
   "target_url": "https://gwilipottery.com/en/about-us-2", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwilli Pottery", 
-  "record_id": "20180425T090000/WCeRVE9+jTLSfNw9KYrqVg==", 
-  "publisher": "gwilipottery.com", 
+  "date": "2018-04-25T09:00:00", 
   "slug": 64793, 
+  "publisher": "gwilipottery.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwilli Pottery", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180425T090000/WCeRVE9+jTLSfNw9KYrqVg==", 
+  "scope": "root", 
   "start_date": "2018-04-25T09:00:00Z"
 }
 

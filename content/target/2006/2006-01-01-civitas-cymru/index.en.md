@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.civitascymru.co.uk/", 
-  "description": "Civitas Cymru is a Welsh Public Affairs and Strategic Communications consultancy company.", 
   "end_date": null, 
-  "title": "Civitas Cymru", 
-  "record_id": "20060101T120000/SluOxAHkGMkF9FZrfoH8kw==", 
-  "publisher": "civitascymru.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31808, 
+  "publisher": "civitascymru.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Civitas Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/SluOxAHkGMkF9FZrfoH8kw==", 
+  "scope": "root", 
   "start_date": null
 }
 

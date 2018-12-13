@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-10T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.collabgroup.co.uk/", 
-  "description": "The Collab Group is a membership organisation which represents 35 UK colleges and college groups.", 
   "end_date": null, 
-  "title": "Collab Group", 
-  "record_id": "20170310T090000/HXTuhYS5V0LzazczMcJ6IA==", 
-  "publisher": "collabgroup.co.uk", 
+  "date": "2017-03-10T09:00:00", 
   "slug": 50334, 
+  "publisher": "collabgroup.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Collab Group", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170310T090000/HXTuhYS5V0LzazczMcJ6IA==", 
+  "scope": "root", 
   "start_date": "2017-03-10T09:00:00Z"
 }
 

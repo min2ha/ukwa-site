@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-01T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cftorfaen.org.uk/", 
-  "description": "Communities First is a community focused programme for the Torfaen area that supports the Welsh Government\u2019s Tackling Poverty agenda. ", 
   "end_date": null, 
-  "title": "Communities First Torfaen", 
-  "record_id": "20150801T100000/lTTsJ4oWgKFq6Lss4QAPZQ==", 
-  "publisher": "cftorfaen.org.uk", 
+  "date": "2015-08-01T10:00:00", 
   "slug": 29572, 
+  "publisher": "cftorfaen.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Communities First Torfaen", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150801T100000/lTTsJ4oWgKFq6Lss4QAPZQ==", 
+  "scope": "root", 
   "start_date": "2015-08-01T10:00:00Z"
 }
 

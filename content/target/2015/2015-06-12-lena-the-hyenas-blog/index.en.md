@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://lenathehyena.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lena the Hyena's Blog", 
-  "record_id": "20150612T090000/TXM8zwivp6OzG94mnou8eQ==", 
-  "publisher": "wordpress.com", 
+  "date": "2015-06-12T09:00:00", 
   "slug": 27957, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lena the Hyena's Blog", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150612T090000/TXM8zwivp6OzG94mnou8eQ==", 
+  "scope": "root", 
   "start_date": "2015-06-12T09:00:00Z"
 }
 

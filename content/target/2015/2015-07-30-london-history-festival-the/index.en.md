@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.londonhistoryfestival.com/", 
-  "description": "The London History Festival", 
   "end_date": null, 
-  "title": "London History Festival, The", 
-  "record_id": "20150730T100000/03FmPp1SnEtwqn+PTZktBQ==", 
-  "publisher": "londonhistoryfestival.com", 
+  "date": "2015-07-30T10:00:00", 
   "slug": 29478, 
+  "publisher": "londonhistoryfestival.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "London History Festival, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150730T100000/03FmPp1SnEtwqn+PTZktBQ==", 
+  "scope": "root", 
   "start_date": "2015-07-30T10:00:00Z"
 }
 

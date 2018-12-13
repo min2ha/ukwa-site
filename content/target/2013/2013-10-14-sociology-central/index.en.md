@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.sociology.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Sociology Central", 
-  "record_id": "20131014T100000/atnr/H8UVx85U+6f5nyVdg==", 
-  "publisher": "sociology.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 103946, 
+  "publisher": "sociology.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Sociology Central", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/atnr/H8UVx85U+6f5nyVdg==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

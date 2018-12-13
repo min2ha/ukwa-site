@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nativewoods.co.uk/", 
-  "description": "Native Woods Cooperative Scotland (Ltd) are a Scottish land consultancy.", 
   "end_date": null, 
-  "title": "Native Woods Cooperative Scotland (Ltd)", 
-  "record_id": "20180607T090000/aORSYF/+zRbOPlccipyjZg==", 
-  "publisher": "nativewoods.co.uk", 
+  "date": "2018-06-07T09:00:00", 
   "slug": 66940, 
+  "publisher": "nativewoods.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Native Woods Cooperative Scotland (Ltd)", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180607T090000/aORSYF/+zRbOPlccipyjZg==", 
+  "scope": "root", 
   "start_date": "2018-06-07T09:00:00Z"
 }
 

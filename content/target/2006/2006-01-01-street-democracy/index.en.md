@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "https://streetdemocracy.wordpress.com/", 
-  "description": "<p>UK politics blog.</p>\n", 
   "end_date": null, 
-  "title": "Street Democracy", 
-  "record_id": "20060101T120000/LFc7BNk7Tf4Ay1U7nLpVbg==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14555, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Street Democracy", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/LFc7BNk7Tf4Ay1U7nLpVbg==", 
+  "scope": "root", 
   "start_date": null
 }
 

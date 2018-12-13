@@ -1,13 +1,21 @@
 {
-  "date": "2017-12-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://stsepulchres.org/", 
-  "description": "St. Sepulchre\u2019s is a vibrant Anglican church in the City of London, with a vision of \u2018Living for God in the heart of the City\u2019.\n\nOur location in the midst of the City of London\u2019s workplaces inspires our vision to be \u2018The Workplace Church\u2019.  We seek to envision and equip people to live out their faith at work, sharing the good news of Jesus with those around them.", 
   "end_date": null, 
-  "title": "St. Sepulchres", 
-  "record_id": "20171208T090000/P85Rf427+wtFyacJf6STcA==", 
-  "publisher": "stsepulchres.org", 
+  "date": "2017-12-08T09:00:00", 
   "slug": 59585, 
+  "publisher": "stsepulchres.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "St. Sepulchres", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171208T090000/P85Rf427+wtFyacJf6STcA==", 
+  "scope": "root", 
   "start_date": "2017-12-08T09:00:00Z"
 }
 

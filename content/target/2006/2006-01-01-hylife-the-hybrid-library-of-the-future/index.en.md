@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://hylife.unn.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "HyLiFe : The Hybrid Library of the Future", 
-  "record_id": "20060101T120000/48qpE1uCsxVKCnAMml3VVA==", 
-  "publisher": "unn.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 100920, 
+  "publisher": "unn.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "HyLiFe : The Hybrid Library of the Future", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/48qpE1uCsxVKCnAMml3VVA==", 
+  "scope": "root", 
   "start_date": null
 }
 

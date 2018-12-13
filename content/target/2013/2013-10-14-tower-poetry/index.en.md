@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.towerpoetry.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Tower Poetry", 
-  "record_id": "20131014T100000/ceVv14AAbP2v5l0jt5UQOQ==", 
-  "publisher": "towerpoetry.org.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 28180546, 
+  "publisher": "towerpoetry.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tower Poetry", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/ceVv14AAbP2v5l0jt5UQOQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

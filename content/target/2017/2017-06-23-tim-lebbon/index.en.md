@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-23T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.timlebbon.net/", 
-  "description": "Tim Lebbon is a horror and dark fantasy from Wales.", 
   "end_date": null, 
-  "title": "Tim Lebbon", 
-  "record_id": "20170623T090000/2eBVTWEtVOKo0CBzUYRE3Q==", 
-  "publisher": "timlebbon.net", 
+  "date": "2017-06-23T09:00:00", 
   "slug": 55065, 
+  "publisher": "timlebbon.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tim Lebbon", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170623T090000/2eBVTWEtVOKo0CBzUYRE3Q==", 
+  "scope": "root", 
   "start_date": "2017-06-23T09:00:00Z"
 }
 

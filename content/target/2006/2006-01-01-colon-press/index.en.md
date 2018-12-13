@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.colonpress.com/", 
-  "description": "<p>The site of poet Graeme Hawley, containing information about poetry, events, and band, 56n.</p>\n", 
   "end_date": null, 
-  "title": "Colon : Press", 
-  "record_id": "20060101T120000/prYBfTq7JnxnXZuOk+cMzQ==", 
-  "publisher": "colonpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 15491, 
+  "publisher": "colonpress.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Colon : Press", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/prYBfTq7JnxnXZuOk+cMzQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.prostatecancerwales.co.uk/", 
-  "description": "Prostate Cancer Wales & UK funding prostate cancer research, campaign for testing and raise awareness of the issue.\n", 
   "end_date": null, 
-  "title": "Prostrate Cancer Wales", 
-  "record_id": "20161006T100000/tsTON8rgjd5rn2S9KtVbag==", 
-  "publisher": "prostatecancerwales.co.uk", 
+  "date": "2016-10-06T10:00:00", 
   "slug": 45929, 
+  "publisher": "prostatecancerwales.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Prostrate Cancer Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161006T100000/tsTON8rgjd5rn2S9KtVbag==", 
+  "scope": "root", 
   "start_date": "2016-10-06T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://research.ncl.ac.uk/shock/", 
-  "description": null, 
   "end_date": null, 
-  "title": "SHOCK (NOT) HORROR Project", 
-  "record_id": "20060101T120000/zLuaJSq8XBbEnJkKaYaxJQ==", 
-  "publisher": "ncl.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 9906, 
+  "publisher": "ncl.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "SHOCK (NOT) HORROR Project", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/zLuaJSq8XBbEnJkKaYaxJQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

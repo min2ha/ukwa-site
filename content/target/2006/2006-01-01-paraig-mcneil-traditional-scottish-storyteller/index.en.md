@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.paraigmacneil.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Paraig McNeil : traditional Scottish storyteller", 
-  "record_id": "20060101T120000/FecmKH0CLBn/3GwcdG1lOQ==", 
-  "publisher": "paraigmacneil.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 103006, 
+  "publisher": "paraigmacneil.co.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Paraig McNeil : traditional Scottish storyteller", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/FecmKH0CLBn/3GwcdG1lOQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

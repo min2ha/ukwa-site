@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-30T08:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bassc.org/", 
-  "description": "The British Academy of Stage & Screen Combat is a provider of professional level stage combat training. ", 
   "end_date": null, 
-  "title": "British Academy of Stage & Screen Combat, The", 
-  "record_id": "20150530T080000/kgU8Fbuu2+D1xpJ3PlUiSg==", 
-  "publisher": "bassc.org", 
+  "date": "2015-05-30T08:00:00", 
   "slug": 27117, 
+  "publisher": "bassc.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "British Academy of Stage & Screen Combat, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150530T080000/kgU8Fbuu2+D1xpJ3PlUiSg==", 
+  "scope": "root", 
   "start_date": "2015-05-30T08:00:00Z"
 }
 

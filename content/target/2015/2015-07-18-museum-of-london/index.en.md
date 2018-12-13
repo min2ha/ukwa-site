@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.museumoflondon.org.uk/", 
-  "description": "Official website of the Museum of London.", 
   "end_date": null, 
-  "title": "Museum of London", 
-  "record_id": "20150718T100000/Ln0vhm6kal2llcrIDu7HGQ==", 
-  "publisher": "museumoflondon.org.uk", 
+  "date": "2015-07-18T10:00:00", 
   "slug": 3088, 
+  "publisher": "museumoflondon.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Museum of London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150718T100000/Ln0vhm6kal2llcrIDu7HGQ==", 
+  "scope": "root", 
   "start_date": "2015-07-18T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llangeinorwardpartnership.btik.com/", 
-  "description": "'Communities First is a long term Welsh Assembly funded project which aims to improve the opportunities and quality of life for those living and working in the ward of Llangeinor, which includes Pont-yr-hyl, Lluest and the Braich-y-Cymmer area. ' - homepage.", 
   "end_date": null, 
-  "title": "Communities First Llangeinor", 
-  "record_id": "20060101T120000/VAJxt2pr5QZ88+X7oLz7iQ==", 
-  "publisher": "btik.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 21869, 
+  "publisher": "btik.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Communities First Llangeinor", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/VAJxt2pr5QZ88+X7oLz7iQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

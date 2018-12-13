@@ -1,13 +1,21 @@
 {
-  "date": "2014-11-30T23:00:00", 
-  "open_access": false, 
   "target_url": "http://www.llangollenmuseum.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Llangollen Museum", 
-  "record_id": "20141130T230000/lvMnlIq1GkH3vhH/WFQKbA==", 
-  "publisher": "llangollenmuseum.org.uk", 
+  "date": "2014-11-30T23:00:00", 
   "slug": 14454, 
+  "publisher": "llangollenmuseum.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llangollen Museum", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141130T230000/lvMnlIq1GkH3vhH/WFQKbA==", 
+  "scope": "root", 
   "start_date": "2014-11-30T23:00:00Z"
 }
 

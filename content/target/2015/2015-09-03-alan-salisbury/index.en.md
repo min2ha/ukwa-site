@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-03T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.alansalisbury.com/", 
-  "description": "Artist born in Preston and based in Wales.", 
   "end_date": null, 
-  "title": "Alan Salisbury", 
-  "record_id": "20150903T100000/15nASrsyiDS3RHFr2vPUUw==", 
-  "publisher": "alansalisbury.com", 
+  "date": "2015-09-03T10:00:00", 
   "slug": 30151, 
+  "publisher": "alansalisbury.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Alan Salisbury", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150903T100000/15nASrsyiDS3RHFr2vPUUw==", 
+  "scope": "root", 
   "start_date": "2015-09-03T10:00:00Z"
 }
 

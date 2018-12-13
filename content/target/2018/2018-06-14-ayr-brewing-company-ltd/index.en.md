@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-14T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.ayrbrewingcompany.com/", 
-  "description": "Site of a brewer located at Ayr, Ayrshire.", 
   "end_date": null, 
-  "title": "Ayr Brewing Company Ltd", 
-  "record_id": "20180614T090000/KJvwuTSE3le06UTvy5Ut6Q==", 
-  "publisher": "ayrbrewingcompany.com", 
+  "date": "2018-06-14T09:00:00", 
   "slug": 67261, 
+  "publisher": "ayrbrewingcompany.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ayr Brewing Company Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180614T090000/KJvwuTSE3le06UTvy5Ut6Q==", 
+  "scope": "root", 
   "start_date": "2018-06-14T09:00:00Z"
 }
 

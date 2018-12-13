@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-12T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.porkpieclub.com/", 
-  "description": "Website for pork pie lovers.", 
   "end_date": null, 
-  "title": "Pork Pie Appreciation Society", 
-  "record_id": "20151112T090000/NQOqWRx2FuJHlfL0GSa5uw==", 
-  "publisher": "porkpieclub.com", 
+  "date": "2015-11-12T09:00:00", 
   "slug": 32444, 
+  "publisher": "porkpieclub.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pork Pie Appreciation Society", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151112T090000/NQOqWRx2FuJHlfL0GSa5uw==", 
+  "scope": "root", 
   "start_date": "2015-11-12T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.rewindmuseum.com/", 
-  "description": "<p>Online museum of consumer electronics.</p>\n", 
   "end_date": null, 
-  "title": "Rewind Museum, The", 
-  "record_id": "20060101T120000/JyRTPBhBgJ2VtLhiS0PElw==", 
-  "publisher": "rewindmuseum.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 2882, 
+  "publisher": "rewindmuseum.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Rewind Museum, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/JyRTPBhBgJ2VtLhiS0PElw==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-09-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://swanseawriters.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Swansea & District Writers Circle (SDWC)", 
-  "record_id": "20170927T090000/airdPGrBXrb3l/n+OoBfvw==", 
-  "publisher": "swanseawriters.co.uk", 
+  "date": "2017-09-27T09:00:00", 
   "slug": 57516, 
+  "publisher": "swanseawriters.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Swansea & District Writers Circle (SDWC)", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170927T090000/airdPGrBXrb3l/n+OoBfvw==", 
+  "scope": "subdomains", 
   "start_date": "2017-09-27T09:00:00Z"
 }
 

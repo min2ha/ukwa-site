@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.edinburgh-royalmile.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Edinburgh-Royalmile.com", 
-  "record_id": "20060101T120000/xRa4lXW7T2K0e/lEpl+jZA==", 
-  "publisher": "edinburgh-royalmile.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 117031, 
+  "publisher": "edinburgh-royalmile.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Edinburgh-Royalmile.com", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/xRa4lXW7T2K0e/lEpl+jZA==", 
+  "scope": "root", 
   "start_date": null
 }
 

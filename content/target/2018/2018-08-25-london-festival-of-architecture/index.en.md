@@ -1,14 +1,26 @@
 {
   "target_url": "https://www.londonfestivalofarchitecture.org/", 
-  "description": "Website for the London Festival of Architecture.", 
   "end_date": null, 
   "date": "2018-08-25T09:00:00", 
   "slug": 70423, 
-  "subject": "Festivals", 
   "publisher": "londonfestivalofarchitecture.org", 
   "open_access": false, 
+  "npld": true, 
   "title": "London Festival of Architecture ", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180825T090000/DZ+ddYs5l/rDYqe7OoSySw==", 
+  "scope": "root", 
   "start_date": "2018-08-25T09:00:00Z"
 }
 

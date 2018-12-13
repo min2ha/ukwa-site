@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-10T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.touch33.net/", 
-  "description": "The website is an archive from an independent company, established in 1982, focusing on music and promoting independent artists.", 
   "end_date": null, 
-  "title": "Touch", 
-  "record_id": "20151110T090000/lEA9HqZx64bGbb+0IvT6Cg==", 
-  "publisher": "touch33.net", 
+  "date": "2015-11-10T09:00:00", 
   "slug": 22668, 
+  "publisher": "touch33.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Touch", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151110T090000/lEA9HqZx64bGbb+0IvT6Cg==", 
+  "scope": "root", 
   "start_date": "2015-11-10T09:00:00Z"
 }
 

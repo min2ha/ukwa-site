@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-27T09:00:00", 
-  "open_access": false, 
   "target_url": "http://celticradicals.tumblr.com/", 
-  "description": "CELTIC RADICAL is a body of choreographic research and a collaboration between Siriol Joyner (Aberystwyth, Cymru) and Ruair\u00ed Donovan (Cork, \u00c9ire). They are exploring the notions of cultural identity infused in language and place both in Wales and Ireland.", 
   "end_date": null, 
-  "title": "Celtic Radical ", 
-  "record_id": "20180727T090000/dxXwtF2sKrWzCjC01YojXg==", 
-  "publisher": "tumblr.com", 
+  "date": "2018-07-27T09:00:00", 
   "slug": 69366, 
+  "publisher": "tumblr.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Celtic Radical ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180727T090000/dxXwtF2sKrWzCjC01YojXg==", 
+  "scope": "root", 
   "start_date": "2018-07-27T09:00:00Z"
 }
 

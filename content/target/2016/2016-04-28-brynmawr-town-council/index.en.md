@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-28T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.brynmawrtc.co.uk/", 
-  "description": "Brynmawr, meaning \u201cbig hill\u201d in Welsh. It is a market town in Blaenau Gwent, South Wales.", 
   "end_date": null, 
-  "title": "Brynmawr Town Council", 
-  "record_id": "20160428T100000/IH9DULJi2CVtXBIiaDvCKw==", 
-  "publisher": "brynmawrtc.co.uk", 
+  "date": "2016-04-28T10:00:00", 
   "slug": 40108, 
+  "publisher": "brynmawrtc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brynmawr Town Council", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160428T100000/IH9DULJi2CVtXBIiaDvCKw==", 
+  "scope": "root", 
   "start_date": "2016-04-28T10:00:00Z"
 }
 

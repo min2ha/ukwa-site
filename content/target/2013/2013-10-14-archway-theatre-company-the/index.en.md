@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.archwaytheatre.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Archway Theatre Company, The", 
-  "record_id": "20131014T100000/mpSTDLIC6r+vGn/JyyNPwA==", 
-  "publisher": "archwaytheatre.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 60588557, 
+  "publisher": "archwaytheatre.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Archway Theatre Company, The", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/mpSTDLIC6r+vGn/JyyNPwA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

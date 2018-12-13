@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-12T09:00:00", 
-  "open_access": false, 
   "target_url": "https://lapeyrelapeyre.com/", 
-  "description": "\"LAPEYRE & LAPEYRE are looking to unleash transcultural creative projects that aim to inspire and provoke.\"", 
   "end_date": null, 
-  "title": "Lapeyre & Lapeyre", 
-  "record_id": "20180512T090000/PrKVOjZFiF0wkwr+33Y2nA==", 
-  "publisher": "lapeyrelapeyre.com", 
+  "date": "2018-05-12T09:00:00", 
   "slug": 65425, 
+  "publisher": "lapeyrelapeyre.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lapeyre & Lapeyre", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180512T090000/PrKVOjZFiF0wkwr+33Y2nA==", 
+  "scope": "root", 
   "start_date": "2018-05-12T09:00:00Z"
 }
 

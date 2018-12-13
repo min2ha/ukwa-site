@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bgcwales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Boys\u2019 and Girls\u2019 Clubs of Wales", 
-  "record_id": "20160916T100000/RNPvjH+USE+gr1eBtNpLaA==", 
-  "publisher": "bgcwales.org.uk", 
+  "date": "2016-09-16T10:00:00", 
   "slug": 45445, 
+  "publisher": "bgcwales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Boys\u2019 and Girls\u2019 Clubs of Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160916T100000/RNPvjH+USE+gr1eBtNpLaA==", 
+  "scope": "root", 
   "start_date": "2016-09-16T10:00:00Z"
 }
 

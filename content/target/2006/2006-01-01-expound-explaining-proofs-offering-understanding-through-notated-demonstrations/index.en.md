@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.projectexpound.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "ExPOUND: Explaining proofs: Offering understanding through notated demonstrations", 
-  "record_id": "20060101T120000/glA/EMzQCoVWDtbqckv5xQ==", 
-  "publisher": "projectexpound.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 31653933, 
+  "publisher": "projectexpound.org.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "ExPOUND: Explaining proofs: Offering understanding through notated demonstrations", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/glA/EMzQCoVWDtbqckv5xQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

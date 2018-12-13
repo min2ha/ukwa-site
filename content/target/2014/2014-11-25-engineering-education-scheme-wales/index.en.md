@@ -1,13 +1,21 @@
 {
-  "date": "2014-11-25T06:00:00", 
-  "open_access": true, 
   "target_url": "http://www.stemcymru.org.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Engineering Education Scheme Wales", 
-  "record_id": "20141125T060000/SKZOuYBhxbzkYfdR8+8ISg==", 
-  "publisher": "stemcymru.org.uk", 
+  "date": "2014-11-25T06:00:00", 
   "slug": 65208552, 
+  "publisher": "stemcymru.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Engineering Education Scheme Wales", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20141125T060000/SKZOuYBhxbzkYfdR8+8ISg==", 
+  "scope": "root", 
   "start_date": "2014-11-25T06:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://newwinecymru.co.uk/", 
-  "description": "New Wine Cymru works with leaders and churches,  to see Wales once again transformed by the person, message and power of Jesus Christ.\n\n", 
   "end_date": null, 
-  "title": "New Wine Cymru : local churches changing nations", 
-  "record_id": "20150414T090000/qN0eMGHPoAQSiABSfk7JNw==", 
-  "publisher": "newwinecymru.co.uk", 
+  "date": "2015-04-14T09:00:00", 
   "slug": 21820, 
+  "publisher": "newwinecymru.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "New Wine Cymru : local churches changing nations", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150414T090000/qN0eMGHPoAQSiABSfk7JNw==", 
+  "scope": "root", 
   "start_date": "2015-04-14T09:00:00Z"
 }
 

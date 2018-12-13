@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-04T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glantaf.cardiff.sch.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ysgol Gyfun Gymraeg Glantaf", 
-  "record_id": "20150704T100000/3jpYD6fLk7ACrgQD2ShWHQ==", 
-  "publisher": "glantaf.cardiff.sch.uk", 
+  "date": "2015-07-04T10:00:00", 
   "slug": 28713, 
+  "publisher": "glantaf.cardiff.sch.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ysgol Gyfun Gymraeg Glantaf", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150704T100000/3jpYD6fLk7ACrgQD2ShWHQ==", 
+  "scope": "root", 
   "start_date": "2015-07-04T10:00:00Z"
 }
 

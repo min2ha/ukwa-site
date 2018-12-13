@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-14T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.nrbo.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "North Ronaldsay Bird Observatory & Guest House", 
-  "record_id": "20170714T090000/d9R1AgO6QfEXoW5HD1nMig==", 
-  "publisher": "nrbo.co.uk", 
+  "date": "2017-07-14T09:00:00", 
   "slug": 55732, 
+  "publisher": "nrbo.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "North Ronaldsay Bird Observatory & Guest House", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170714T090000/d9R1AgO6QfEXoW5HD1nMig==", 
+  "scope": "root", 
   "start_date": "2017-07-14T09:00:00Z"
 }
 

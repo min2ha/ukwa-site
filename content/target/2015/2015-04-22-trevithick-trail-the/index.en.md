@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.trevithicktrail.co.uk/", 
-  "description": "The Trevithick Trail is in Merthyr Tydfil.", 
   "end_date": null, 
-  "title": "Trevithick Trail, The", 
-  "record_id": "20150422T090000/H4hNIHQ7YjbXvCcl1gdaJw==", 
-  "publisher": "trevithicktrail.co.uk", 
+  "date": "2015-04-22T09:00:00", 
   "slug": 22196, 
+  "publisher": "trevithicktrail.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trevithick Trail, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150422T090000/H4hNIHQ7YjbXvCcl1gdaJw==", 
+  "scope": "root", 
   "start_date": "2015-04-22T09:00:00Z"
 }
 

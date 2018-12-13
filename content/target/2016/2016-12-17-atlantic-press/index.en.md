@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://atlanticpressbooks.com/", 
-  "description": "Atlantic Press creates works of graphic literature which respect the illustrator\u2019s personal voice: their ideas, their pictures and their words.", 
   "end_date": null, 
-  "title": "Atlantic Press", 
-  "record_id": "20161217T090000/YKgtS1F2a0Nt14cuUDfNhg==", 
-  "publisher": "atlanticpressbooks.com", 
+  "date": "2016-12-17T09:00:00", 
   "slug": 47887, 
+  "publisher": "atlanticpressbooks.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Atlantic Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161217T090000/YKgtS1F2a0Nt14cuUDfNhg==", 
+  "scope": "root", 
   "start_date": "2016-12-17T09:00:00Z"
 }
 

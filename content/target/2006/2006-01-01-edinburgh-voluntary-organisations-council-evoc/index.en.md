@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.evoc.org.uk/", 
-  "description": "Edinburgh Voluntary Organisations\u2019 Council supports the work of voluntary and community organisations in Edinburgh.", 
   "end_date": null, 
-  "title": "Edinburgh Voluntary Organisations' Council (EVOC)", 
-  "record_id": "20060101T120000/AUilZzDCWAjyF8cuRjd72w==", 
-  "publisher": "evoc.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 30305, 
+  "publisher": "evoc.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Edinburgh Voluntary Organisations' Council (EVOC)", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/AUilZzDCWAjyF8cuRjd72w==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-24T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.jenniferhowes.com/", 
-  "description": "Website of art historian Jennifer Howes, who specialises in the art and architecture of British India.", 
   "end_date": null, 
-  "title": "Jennifer Howes", 
-  "record_id": "20150624T100000/DVpN5VxOP8mnE0kFqSO2vg==", 
-  "publisher": "jenniferhowes.com", 
+  "date": "2015-06-24T10:00:00", 
   "slug": 28269, 
+  "publisher": "jenniferhowes.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jennifer Howes", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150624T100000/DVpN5VxOP8mnE0kFqSO2vg==", 
+  "scope": "root", 
   "start_date": "2015-06-24T10:00:00Z"
 }
 

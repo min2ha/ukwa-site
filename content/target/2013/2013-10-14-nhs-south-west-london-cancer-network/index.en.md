@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.swlcn.nhs.uk/backup/", 
-  "description": null, 
   "end_date": null, 
-  "title": "NHS South West London Cancer Network", 
-  "record_id": "20131014T100000/Y+LZqQNgSkUKAalAK0nD5A==", 
-  "publisher": "swlcn.nhs.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 136020403, 
+  "publisher": "swlcn.nhs.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "NHS South West London Cancer Network", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/Y+LZqQNgSkUKAalAK0nD5A==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

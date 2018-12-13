@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://crossborders.beer/", 
-  "description": "Site of a brewer based in Edinburgh.", 
   "end_date": null, 
-  "title": "Cross Borders Brewing Company Ltd", 
-  "record_id": "20180615T090000/Cf70SALalMPTGTJqm/Cb8w==", 
-  "publisher": "crossborders.beer", 
+  "date": "2018-06-15T09:00:00", 
   "slug": 67431, 
+  "publisher": "crossborders.beer", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cross Borders Brewing Company Ltd", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180615T090000/Cf70SALalMPTGTJqm/Cb8w==", 
+  "scope": "root", 
   "start_date": "2018-06-15T09:00:00Z"
 }
 

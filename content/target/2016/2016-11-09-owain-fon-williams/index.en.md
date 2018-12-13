@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://owainfonwilliams.com/", 
-  "description": "Owain F\u00f4n Williams is a Welsh Football International Goalkeeper and a popular artist. This website showcases his artwork.", 
   "end_date": null, 
-  "title": "Owain F\u00f4n Williams", 
-  "record_id": "20161109T090000/wIJ+bHBmvG9T8uTCMhof5A==", 
-  "publisher": "owainfonwilliams.com", 
+  "date": "2016-11-09T09:00:00", 
   "slug": 46855, 
+  "publisher": "owainfonwilliams.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Owain F\u00f4n Williams", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161109T090000/wIJ+bHBmvG9T8uTCMhof5A==", 
+  "scope": "root", 
   "start_date": "2016-11-09T09:00:00Z"
 }
 

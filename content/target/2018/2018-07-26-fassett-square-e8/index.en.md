@@ -1,13 +1,21 @@
 {
-  "date": "2018-07-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.darklingroom.co.uk/scrapbook/fassettsquare/", 
-  "description": "Short history of Square in Hackney, used as the model for Albert Square in EastEnders", 
   "end_date": null, 
-  "title": "Fassett Square, E8", 
-  "record_id": "20180726T090000/vVJAJBCV6vyeUTHZjbJgwg==", 
-  "publisher": "darklingroom.co.uk", 
+  "date": "2018-07-26T09:00:00", 
   "slug": 69358, 
+  "publisher": "darklingroom.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fassett Square, E8", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180726T090000/vVJAJBCV6vyeUTHZjbJgwg==", 
+  "scope": "root", 
   "start_date": "2018-07-26T09:00:00Z"
 }
 

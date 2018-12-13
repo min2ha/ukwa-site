@@ -1,13 +1,21 @@
 {
-  "date": "2017-05-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wbs.ac.uk/", 
-  "description": "Warwick Business School is part of the University of Warwick, it also opened a London campus in 2015.", 
   "end_date": null, 
-  "title": "Warwick Business School (WBS)", 
-  "record_id": "20170517T090000/xkHyqDX085042atKJOytpQ==", 
-  "publisher": "wbs.ac.uk", 
+  "date": "2017-05-17T09:00:00", 
   "slug": 53260, 
+  "publisher": "wbs.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Warwick Business School (WBS)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170517T090000/xkHyqDX085042atKJOytpQ==", 
+  "scope": "root", 
   "start_date": "2017-05-17T09:00:00Z"
 }
 

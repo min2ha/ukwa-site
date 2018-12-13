@@ -1,13 +1,21 @@
 {
-  "date": "2018-09-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.monstervoicecardiff.co.uk/", 
-  "description": "Monster Voice Cardiff is a voice agency representing actors, comedians and voiceover artists for commercial, radio, character and narration work. ", 
   "end_date": null, 
-  "title": "Monster Voice Cardiff", 
-  "record_id": "20180929T090000/dKVfgAyoiGBdW6Sk+iRElg==", 
-  "publisher": "monstervoicecardiff.co.uk", 
+  "date": "2018-09-29T09:00:00", 
   "slug": 71810, 
+  "publisher": "monstervoicecardiff.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Monster Voice Cardiff", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180929T090000/dKVfgAyoiGBdW6Sk+iRElg==", 
+  "scope": "root", 
   "start_date": "2018-09-29T09:00:00Z"
 }
 

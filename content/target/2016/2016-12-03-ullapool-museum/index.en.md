@@ -1,13 +1,21 @@
 {
-  "date": "2016-12-03T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ullapoolmuseum.co.uk/", 
-  "description": "Site of a museum of local and family history about and located in Ullapool, Highland.", 
   "end_date": null, 
-  "title": "Ullapool Museum", 
-  "record_id": "20161203T090000/NfEHFgjrxC6RgfDwBNkAiA==", 
-  "publisher": "ullapoolmuseum.co.uk", 
+  "date": "2016-12-03T09:00:00", 
   "slug": 47622, 
+  "publisher": "ullapoolmuseum.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ullapool Museum", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161203T090000/NfEHFgjrxC6RgfDwBNkAiA==", 
+  "scope": "root", 
   "start_date": "2016-12-03T09:00:00Z"
 }
 

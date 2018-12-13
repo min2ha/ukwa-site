@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-02T09:00:00", 
-  "open_access": false, 
   "target_url": "http://scharp.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scotland's Coastal Heritage at Risk", 
-  "record_id": "20151102T090000/cWvHNJs9to7zJkSTDO1myQ==", 
-  "publisher": "scharp.co.uk", 
+  "date": "2015-11-02T09:00:00", 
   "slug": 31983, 
+  "publisher": "scharp.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scotland's Coastal Heritage at Risk", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151102T090000/cWvHNJs9to7zJkSTDO1myQ==", 
+  "scope": "root", 
   "start_date": "2015-11-02T09:00:00Z"
 }
 

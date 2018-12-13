@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.keithbowenartist.co.uk/", 
-  "description": "Wrexham born artist.", 
   "end_date": null, 
-  "title": "Keith Bowen Artist", 
-  "record_id": "20150930T100000/+HjtdhJ8OrqDZh6tV6kBdg==", 
-  "publisher": "keithbowenartist.co.uk", 
+  "date": "2015-09-30T10:00:00", 
   "slug": 31026, 
+  "publisher": "keithbowenartist.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Keith Bowen Artist", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150930T100000/+HjtdhJ8OrqDZh6tV6kBdg==", 
+  "scope": "root", 
   "start_date": "2015-09-30T10:00:00Z"
 }
 

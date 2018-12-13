@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/GeorgeBestcom/", 
-  "description": "The official Twitter account of http://georgebest.com ", 
   "end_date": null, 
   "date": "2018-08-22T09:00:00", 
   "slug": 70253, 
-  "subject": "Sport: Football", 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": false, 
   "title": "George Best (@GeorgeBestcom) on Twitter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20180822T090000/d/WjC8/92rnusY0x2xUf0Q==", 
+  "scope": "root", 
   "start_date": "2018-08-22T09:00:00Z"
 }
 

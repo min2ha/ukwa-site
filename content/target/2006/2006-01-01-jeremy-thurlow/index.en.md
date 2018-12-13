@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://jeremythurlow.wordpress.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Jeremy Thurlow", 
-  "record_id": "20060101T120000/n9V0f9APpEs5RKnvF+GWUg==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60293234, 
+  "publisher": "wordpress.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Jeremy Thurlow", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/n9V0f9APpEs5RKnvF+GWUg==", 
+  "scope": "root", 
   "start_date": null
 }
 

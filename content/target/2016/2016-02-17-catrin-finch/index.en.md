@@ -1,13 +1,21 @@
 {
-  "date": "2016-02-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.catrinfinch.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Catrin Finch", 
-  "record_id": "20160217T090000/b91OsCRhkx1B1g4VnfKNVg==", 
-  "publisher": "catrinfinch.com", 
+  "date": "2016-02-17T09:00:00", 
   "slug": 124517, 
+  "publisher": "catrinfinch.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Catrin Finch", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160217T090000/b91OsCRhkx1B1g4VnfKNVg==", 
+  "scope": "root", 
   "start_date": "2016-02-17T09:00:00Z"
 }
 

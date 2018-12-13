@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-29T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cprw.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ymgyrch Diogelu Cymru Wledig | Campaign for the Protection of Rural Wales", 
-  "record_id": "20150729T100000/Wk/luU250dLSIFrn/Fy5/g==", 
-  "publisher": "cprw.org.uk", 
+  "date": "2015-07-29T10:00:00", 
   "slug": 29467, 
+  "publisher": "cprw.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ymgyrch Diogelu Cymru Wledig | Campaign for the Protection of Rural Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150729T100000/Wk/luU250dLSIFrn/Fy5/g==", 
+  "scope": "root", 
   "start_date": "2015-07-29T10:00:00Z"
 }
 

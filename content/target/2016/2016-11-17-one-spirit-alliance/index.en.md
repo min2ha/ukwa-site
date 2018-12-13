@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-17T09:00:00", 
-  "open_access": false, 
   "target_url": "http://onespiritalliance.net/", 
-  "description": "The One Spirit Alliance works to promote and provide a forum for spiritually-minded people, organisations and networks to foster connection and collaboration between them.", 
   "end_date": null, 
-  "title": "One Spirit Alliance", 
-  "record_id": "20161117T090000/p515qcpslI6HwHDqg97B8Q==", 
-  "publisher": "onespiritalliance.net", 
+  "date": "2016-11-17T09:00:00", 
   "slug": 47131, 
+  "publisher": "onespiritalliance.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "One Spirit Alliance", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161117T090000/p515qcpslI6HwHDqg97B8Q==", 
+  "scope": "root", 
   "start_date": "2016-11-17T09:00:00Z"
 }
 

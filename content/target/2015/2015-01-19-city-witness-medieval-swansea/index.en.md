@@ -1,13 +1,16 @@
 {
-  "date": "2015-01-19T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.medievalswansea.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "City Witness : Medieval Swansea", 
-  "record_id": "20150119T000000/pKvXU11SiMAMmKClPAfLFg==", 
-  "publisher": "medievalswansea.ac.uk", 
+  "date": "2015-01-19T00:00:00", 
   "slug": 286294102, 
+  "publisher": "medievalswansea.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "City Witness : Medieval Swansea", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150119T000000/pKvXU11SiMAMmKClPAfLFg==", 
+  "scope": "root", 
   "start_date": "2015-01-19T00:00:00Z"
 }
 

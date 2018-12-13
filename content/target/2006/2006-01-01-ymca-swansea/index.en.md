@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ymcaswansea.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "YMCA Swansea", 
-  "record_id": "20060101T120000/tK5IxC6rFhUgkRe70UbhMA==", 
-  "publisher": "ymcaswansea.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49293, 
+  "publisher": "ymcaswansea.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "YMCA Swansea", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tK5IxC6rFhUgkRe70UbhMA==", 
+  "scope": "root", 
   "start_date": null
 }
 

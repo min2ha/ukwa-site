@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-25T09:00:00", 
-  "open_access": false, 
   "target_url": "http://emily-hinshelwood.co.uk/", 
-  "description": "Emily Hinshelwood is a poet, playwright, tutor, desk-top publisher, performer and  'writer in residence' in the pop-up Dylan Thomas Writing Shed.", 
   "end_date": null, 
-  "title": "Emily Hinshelwood", 
-  "record_id": "20151125T090000/RDZeMIxSgStPknf43e+wtQ==", 
-  "publisher": "emily-hinshelwood.co.uk", 
+  "date": "2015-11-25T09:00:00", 
   "slug": 32802, 
+  "publisher": "emily-hinshelwood.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Emily Hinshelwood", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151125T090000/RDZeMIxSgStPknf43e+wtQ==", 
+  "scope": "root", 
   "start_date": "2015-11-25T09:00:00Z"
 }
 

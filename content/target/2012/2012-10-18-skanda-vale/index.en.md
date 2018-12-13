@@ -1,13 +1,16 @@
 {
-  "date": "2012-10-18T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.Skandavale.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Skanda Vale", 
-  "record_id": "20121018T000000/k45PQbGLlCaRQSsZcr1bqQ==", 
-  "publisher": "Skandavale.org", 
+  "date": "2012-10-18T00:00:00", 
   "slug": 140156, 
+  "publisher": "Skandavale.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Skanda Vale", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20121018T000000/k45PQbGLlCaRQSsZcr1bqQ==", 
+  "scope": "root", 
   "start_date": "2012-10-18T00:00:00Z"
 }
 

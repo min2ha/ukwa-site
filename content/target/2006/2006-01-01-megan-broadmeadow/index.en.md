@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.megartmix.co.uk/", 
-  "description": "Megan Broadmeadow is a Welsh artist and was awarded the 2015\u201316 Mark Tanner Sculpture Award. Her aims 'are to continue to explore immersivity, and our complex relationships to objects. To understand how objects and environments affect our subconscious, and bring a little touch of magic to peoples lives'.", 
   "end_date": null, 
-  "title": "Megan Broadmeadow", 
-  "record_id": "20060101T120000/+APYDPhpQNjyl6EjGPgNug==", 
-  "publisher": "megartmix.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59931, 
+  "publisher": "megartmix.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Megan Broadmeadow", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+APYDPhpQNjyl6EjGPgNug==", 
+  "scope": "root", 
   "start_date": null
 }
 

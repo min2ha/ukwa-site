@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://livingkidneydonation.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Living Kidney Donation", 
-  "record_id": "20131014T100000/T7cDlZaK/YDB2WIllg6bfA==", 
-  "publisher": "livingkidneydonation.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 62521382, 
+  "publisher": "livingkidneydonation.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Living Kidney Donation", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/T7cDlZaK/YDB2WIllg6bfA==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

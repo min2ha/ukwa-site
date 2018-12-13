@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.martinsalter.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Martin Salter", 
-  "record_id": "20060101T120000/flmueD5G9dhZckJXe3VbNQ==", 
-  "publisher": "martinsalter.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 39714875, 
+  "publisher": "martinsalter.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Martin Salter", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/flmueD5G9dhZckJXe3VbNQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

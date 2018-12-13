@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-11T09:00:00", 
-  "open_access": true, 
   "target_url": "http://www.stpancras.com/", 
-  "description": "Official website of St Pancras International, a railway station in London.", 
   "end_date": null, 
-  "title": "St Pancras International", 
-  "record_id": "20151111T090000/tXMr0If9ND/8NxCYDlUtnA==", 
-  "publisher": "stpancras.com", 
+  "date": "2015-11-11T09:00:00", 
   "slug": 14385166, 
+  "publisher": "stpancras.com", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "St Pancras International", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151111T090000/tXMr0If9ND/8NxCYDlUtnA==", 
+  "scope": "root", 
   "start_date": "2015-11-11T09:00:00Z"
 }
 

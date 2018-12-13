@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cardifftransition.org.uk/", 
-  "description": "Cardiff Transition acts as an mbrella group to support and raise awareness of all sustainability themed voluntary groups, events, businesses and organisations. across Cardiff.", 
   "end_date": null, 
-  "title": "Trawsnewid Caerdydd | Cardiff Transition", 
-  "record_id": "20060101T120000/4sopCNpx+a87rbRJwak46w==", 
-  "publisher": "cardifftransition.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 33315, 
+  "publisher": "cardifftransition.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Trawsnewid Caerdydd | Cardiff Transition", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/4sopCNpx+a87rbRJwak46w==", 
+  "scope": "root", 
   "start_date": null
 }
 

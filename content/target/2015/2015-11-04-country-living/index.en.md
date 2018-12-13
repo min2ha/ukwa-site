@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.countryliving.co.uk/", 
-  "description": "Online version of the magazine 'Country Living'.", 
   "end_date": null, 
-  "title": "Country Living", 
-  "record_id": "20151104T090000/ckAp+9oNPIGMwimoVO/PWQ==", 
-  "publisher": "countryliving.co.uk", 
+  "date": "2015-11-04T09:00:00", 
   "slug": 32102, 
+  "publisher": "countryliving.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Country Living", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T090000/ckAp+9oNPIGMwimoVO/PWQ==", 
+  "scope": "root", 
   "start_date": "2015-11-04T09:00:00Z"
 }
 

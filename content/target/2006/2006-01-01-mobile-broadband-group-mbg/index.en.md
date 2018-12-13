@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.mobilebroadbandgroup.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Mobile Broadband Group (MBG)", 
-  "record_id": "20060101T120000/m+v4cRyFX8bIdM8VCxZktQ==", 
-  "publisher": "mobilebroadbandgroup.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13237, 
+  "publisher": "mobilebroadbandgroup.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mobile Broadband Group (MBG)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/m+v4cRyFX8bIdM8VCxZktQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

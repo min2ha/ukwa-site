@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://northumbria.ac.uk/sd/academic/ceis/re/isrc/themes/rmarea/ermtp/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Electronic Records Management Training Package", 
-  "record_id": "20060101T120000/66OlPkI3V6LMfGNCV+QNpQ==", 
-  "publisher": "northumbria.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 141087, 
+  "publisher": "northumbria.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Electronic Records Management Training Package", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/66OlPkI3V6LMfGNCV+QNpQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.breconchoir.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Brecon and District Choir", 
-  "record_id": "20170720T090000/1jJnkc2NQ5/0gFFddzbgqA==", 
-  "publisher": "breconchoir.co.uk", 
+  "date": "2017-07-20T09:00:00", 
   "slug": 55996, 
+  "publisher": "breconchoir.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Brecon and District Choir", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170720T090000/1jJnkc2NQ5/0gFFddzbgqA==", 
+  "scope": "root", 
   "start_date": "2017-07-20T09:00:00Z"
 }
 

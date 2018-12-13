@@ -1,13 +1,16 @@
 {
-  "date": "2015-08-11T00:00:00", 
-  "open_access": true, 
   "target_url": "http://whiterocktrails.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "White Rock Trails", 
-  "record_id": "20150811T000000/exuDE1jt9Wcpdd/YeuXS8Q==", 
-  "publisher": "whiterocktrails.org", 
+  "date": "2015-08-11T00:00:00", 
   "slug": 326434821, 
+  "publisher": "whiterocktrails.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "White Rock Trails", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150811T000000/exuDE1jt9Wcpdd/YeuXS8Q==", 
+  "scope": "root", 
   "start_date": "2015-08-11T00:00:00Z"
 }
 

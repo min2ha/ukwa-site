@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.poultryclubofwales.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Poultry Club of Wales", 
-  "record_id": "20060101T120000/fi6GPZs6d7pY3cixeqR1Dw==", 
-  "publisher": "poultryclubofwales.org.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 62976, 
+  "publisher": "poultryclubofwales.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Poultry Club of Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/fi6GPZs6d7pY3cixeqR1Dw==", 
+  "scope": "root", 
   "start_date": null
 }
 

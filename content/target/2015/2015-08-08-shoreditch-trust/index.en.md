@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-08T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shoreditchtrust.org.uk/", 
-  "description": "Shoreditch Trust works to reduce social and economic disadvantage in Hackney, East London, by supporting people to gain knowledge, skills and opportunities.", 
   "end_date": null, 
-  "title": "Shoreditch Trust", 
-  "record_id": "20150808T100000/RMkLM7y/wiErmtUT8j1hAw==", 
-  "publisher": "shoreditchtrust.org.uk", 
+  "date": "2015-08-08T10:00:00", 
   "slug": 29664, 
+  "publisher": "shoreditchtrust.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shoreditch Trust", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150808T100000/RMkLM7y/wiErmtUT8j1hAw==", 
+  "scope": "root", 
   "start_date": "2015-08-08T10:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.canterbury.ac.uk/", 
-  "description": "Official website of the Canterbury Christ Church University.", 
   "end_date": null, 
-  "title": "Canterbury Christ Church University", 
-  "record_id": "20150415T090000/8rRvAgRPUcQUVtysxfZsVw==", 
-  "publisher": "canterbury.ac.uk", 
+  "date": "2015-04-15T09:00:00", 
   "slug": 21844, 
+  "publisher": "canterbury.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Canterbury Christ Church University", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150415T090000/8rRvAgRPUcQUVtysxfZsVw==", 
+  "scope": "root", 
   "start_date": "2015-04-15T09:00:00Z"
 }
 

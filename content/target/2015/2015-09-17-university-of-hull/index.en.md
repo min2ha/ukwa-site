@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www2.hull.ac.uk/", 
-  "description": "Official website of the University of Hull.", 
   "end_date": null, 
-  "title": "University of Hull", 
-  "record_id": "20150917T100000/LGlcLFct2r5M7UX5qfsqfQ==", 
-  "publisher": "hull.ac.uk", 
+  "date": "2015-09-17T10:00:00", 
   "slug": 30528, 
+  "publisher": "hull.ac.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "University of Hull", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150917T100000/LGlcLFct2r5M7UX5qfsqfQ==", 
+  "scope": "root", 
   "start_date": "2015-09-17T10:00:00Z"
 }
 

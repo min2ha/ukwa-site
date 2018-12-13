@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.anneaylor.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Anne Aylor Creative Writing Courses", 
-  "record_id": "20131014T100000/YMswTZFzuxTdrmsOT3vzdw==", 
-  "publisher": "anneaylor.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 55148639, 
+  "publisher": "anneaylor.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Anne Aylor Creative Writing Courses", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/YMswTZFzuxTdrmsOT3vzdw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

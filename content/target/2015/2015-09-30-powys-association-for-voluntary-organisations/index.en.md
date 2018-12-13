@@ -1,13 +1,21 @@
 {
-  "date": "2015-09-30T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pavo.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Powys Association for Voluntary Organisations ", 
-  "record_id": "20150930T100000/lYxIyErtVIMzDgDpIEqlbg==", 
-  "publisher": "pavo.org.uk", 
+  "date": "2015-09-30T10:00:00", 
   "slug": 30945, 
+  "publisher": "pavo.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Powys Association for Voluntary Organisations ", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150930T100000/lYxIyErtVIMzDgDpIEqlbg==", 
+  "scope": "root", 
   "start_date": "2015-09-30T10:00:00Z"
 }
 

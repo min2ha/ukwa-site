@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fobj.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Friends of Brecon Jazz", 
-  "record_id": "20060101T120000/De5pO4qHVIwZeZ4Osz+hTA==", 
-  "publisher": "fobj.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 56309, 
+  "publisher": "fobj.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Friends of Brecon Jazz", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/De5pO4qHVIwZeZ4Osz+hTA==", 
+  "scope": "root", 
   "start_date": null
 }
 

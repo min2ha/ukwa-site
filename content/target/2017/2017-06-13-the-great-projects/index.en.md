@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-13T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.thegreatprojects.com/", 
-  "description": "Who We Are\nWhere Your Money Goes\nMeet the Team\nResponsible Travel Policy\nEndorsers & Awards\nIt all began with The Great Orangutan Project in Malaysian Borneo and after a number of years working with local authorities, passionate project facilitators, and hard-working volunteers to create a sustainable, progressive, and effective project", 
   "end_date": null, 
-  "title": "The Great Projects", 
-  "record_id": "20170613T090000/Fug77wcjmeRvZUkZV3xdrw==", 
-  "publisher": "thegreatprojects.com", 
+  "date": "2017-06-13T09:00:00", 
   "slug": 54661, 
+  "publisher": "thegreatprojects.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "The Great Projects", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170613T090000/Fug77wcjmeRvZUkZV3xdrw==", 
+  "scope": "root", 
   "start_date": "2017-06-13T09:00:00Z"
 }
 

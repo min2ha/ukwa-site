@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-20T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lastinvasiontapestry.co.uk/", 
-  "description": "The tapestry was commissioned by the Fishguard Arts Society to\ncommemorate the Bicentenary of the Last Invasion of Britain in 1997 and\nis on display at Fishguard Town Hall in The Last Invasion Tapestry\nGallery.", 
   "end_date": null, 
-  "title": "Last Ever Invasion Tapestry at Fishguard", 
-  "record_id": "20170620T090000/sxjKUsWaJmrGJfNtOOVMBQ==", 
-  "publisher": "lastinvasiontapestry.co.uk", 
+  "date": "2017-06-20T09:00:00", 
   "slug": 54841, 
+  "publisher": "lastinvasiontapestry.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Last Ever Invasion Tapestry at Fishguard", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170620T090000/sxjKUsWaJmrGJfNtOOVMBQ==", 
+  "scope": "root", 
   "start_date": "2017-06-20T09:00:00Z"
 }
 

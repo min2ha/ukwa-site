@@ -1,13 +1,21 @@
 {
-  "date": "2015-04-02T06:00:00", 
-  "open_access": false, 
   "target_url": "http://www.morayfirth-partnership.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Moray Firth Partnership, The", 
-  "record_id": "20150402T060000/pY7RUxeuDlKb8x531FF9DA==", 
-  "publisher": "morayfirth-partnership.org", 
+  "date": "2015-04-02T06:00:00", 
   "slug": 20284, 
+  "publisher": "morayfirth-partnership.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Moray Firth Partnership, The", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150402T060000/pY7RUxeuDlKb8x531FF9DA==", 
+  "scope": "root", 
   "start_date": "2015-04-02T06:00:00Z"
 }
 

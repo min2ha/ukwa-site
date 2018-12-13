@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://cuba.coventry.ac.uk/curve/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Coventry University Repository Validation & Enhancement (CURVE)", 
-  "record_id": "20060101T120000/arrPnWGUq/3Z7t1YRcezqA==", 
-  "publisher": "coventry.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 49741913, 
+  "publisher": "coventry.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Coventry University Repository Validation & Enhancement (CURVE)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/arrPnWGUq/3Z7t1YRcezqA==", 
+  "scope": "root", 
   "start_date": null
 }
 

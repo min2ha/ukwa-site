@@ -1,14 +1,26 @@
 {
   "target_url": "http://remembersarowiwa.com/", 
-  "description": "", 
   "end_date": null, 
   "date": "2013-10-14T10:00:00", 
   "slug": 28180565, 
-  "subject": "Live Art", 
   "publisher": "remembersarowiwa.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Remember Saro-Wiwa", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1170, 
+      "name": "Live Art"
+    }
+  ], 
   "record_id": "20131014T100000/2AhBsdggJd1TgWXAOWb2bQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

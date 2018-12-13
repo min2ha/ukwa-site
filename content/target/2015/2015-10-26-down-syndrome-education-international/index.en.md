@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-26T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dseinternational.org/", 
-  "description": "Down Syndrome Education International works to improve early intervention and education for children with Down syndrome.", 
   "end_date": null, 
-  "title": "Down Syndrome Education International", 
-  "record_id": "20151026T090000//osfovMSasrKmT/orMgCkA==", 
-  "publisher": "dseinternational.org", 
+  "date": "2015-10-26T09:00:00", 
   "slug": 31752, 
+  "publisher": "dseinternational.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Down Syndrome Education International", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151026T090000//osfovMSasrKmT/orMgCkA==", 
+  "scope": "root", 
   "start_date": "2015-10-26T09:00:00Z"
 }
 

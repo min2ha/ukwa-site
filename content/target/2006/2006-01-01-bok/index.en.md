@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://bokbox.org/", 
-  "description": "An expression of a digital book comprising of chapters that are added infrequently.", 
   "end_date": null, 
-  "title": "BOK", 
-  "record_id": "20060101T120000/TE9+j3vzRg90gTtsI50arA==", 
-  "publisher": "bokbox.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 65601, 
+  "publisher": "bokbox.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "BOK", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/TE9+j3vzRg90gTtsI50arA==", 
+  "scope": "root", 
   "start_date": null
 }
 

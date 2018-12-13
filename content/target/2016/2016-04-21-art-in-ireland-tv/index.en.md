@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-21T11:00:00", 
-  "open_access": false, 
   "target_url": "http://www.artinireland.tv/", 
-  "description": "A news channel reflecting contemporary arts and culture in Ireland.", 
   "end_date": null, 
-  "title": "Art in Ireland TV", 
-  "record_id": "20160421T110000/1EmiibszfHdgCBTHUvjsdQ==", 
-  "publisher": "artinireland.tv", 
+  "date": "2016-04-21T11:00:00", 
   "slug": 39446, 
+  "publisher": "artinireland.tv", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Art in Ireland TV", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160421T110000/1EmiibszfHdgCBTHUvjsdQ==", 
+  "scope": "root", 
   "start_date": "2016-04-21T11:00:00Z"
 }
 

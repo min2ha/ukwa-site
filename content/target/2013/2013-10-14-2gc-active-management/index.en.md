@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.2gc.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "2GC Active Management", 
-  "record_id": "20131014T100000//RsUetazLlFX1thqWipOVw==", 
-  "publisher": "2gc.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 111510, 
+  "publisher": "2gc.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "2GC Active Management", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000//RsUetazLlFX1thqWipOVw==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

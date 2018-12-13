@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-18T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.douglasskelton.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Douglas Skelton - Crime Writer", 
-  "record_id": "20151118T090000/FfnacxC/vPlksOXEt2xsxQ==", 
-  "publisher": "douglasskelton.com", 
+  "date": "2015-11-18T09:00:00", 
   "slug": 32734, 
+  "publisher": "douglasskelton.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Douglas Skelton - Crime Writer", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151118T090000/FfnacxC/vPlksOXEt2xsxQ==", 
+  "scope": "root", 
   "start_date": "2015-11-18T09:00:00Z"
 }
 

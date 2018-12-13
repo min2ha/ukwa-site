@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.southwalesladiesbusinessclub.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "South Wales Ladies Business Club", 
-  "record_id": "20170324T090000/wrdv2QV94o3BQtN7ZamuRw==", 
-  "publisher": "southwalesladiesbusinessclub.co.uk", 
+  "date": "2017-03-24T09:00:00", 
   "slug": 51067, 
+  "publisher": "southwalesladiesbusinessclub.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "South Wales Ladies Business Club", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170324T090000/wrdv2QV94o3BQtN7ZamuRw==", 
+  "scope": "root", 
   "start_date": "2017-03-24T09:00:00Z"
 }
 

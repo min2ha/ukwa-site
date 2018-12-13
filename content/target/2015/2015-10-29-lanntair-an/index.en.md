@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://lanntair.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Lanntair, An", 
-  "record_id": "20151029T090000/JbtECr3dz5UQR0y6eX2g+g==", 
-  "publisher": "lanntair.com", 
+  "date": "2015-10-29T09:00:00", 
   "slug": 31908, 
+  "publisher": "lanntair.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lanntair, An", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151029T090000/JbtECr3dz5UQR0y6eX2g+g==", 
+  "scope": "root", 
   "start_date": "2015-10-29T09:00:00Z"
 }
 

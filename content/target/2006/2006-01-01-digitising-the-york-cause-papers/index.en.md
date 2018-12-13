@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://yorkcausepapers.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Digitising the York Cause Papers", 
-  "record_id": "20060101T120000/GawEikqmxOqoNnxmeH7iSg==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60915756, 
+  "publisher": "wordpress.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Digitising the York Cause Papers", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/GawEikqmxOqoNnxmeH7iSg==", 
+  "scope": "root", 
   "start_date": null
 }
 

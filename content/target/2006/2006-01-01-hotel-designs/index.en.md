@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hoteldesigns.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Hotel Designs", 
-  "record_id": "20060101T120000/9qx2s8geTWhdhhKiz4URFg==", 
-  "publisher": "hoteldesigns.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 14322, 
+  "publisher": "hoteldesigns.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hotel Designs", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/9qx2s8geTWhdhhKiz4URFg==", 
+  "scope": "root", 
   "start_date": null
 }
 

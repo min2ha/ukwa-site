@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.centralsomersetgazette.co.uk/", 
-  "description": null, 
   "end_date": null, 
   "date": "2013-10-11T10:00:00", 
   "slug": 3758, 
-  "subject": "News Sites", 
   "publisher": "centralsomersetgazette.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Cental Somerset Gazette", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }
+  ], 
   "record_id": "20131011T100000/YF215GYChSSQFZlOsB+Tnw==", 
+  "scope": "root", 
   "start_date": "2013-10-11T10:00:00Z"
 }
 

@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.thesun.co.uk/sol/homepage/news/politics/4189007/Miliband-watches-footie-just-hours-after-he-was-too-ill-to-attend-NHS-rally.html", 
-  "description": null, 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 1384, 
-  "subject": null, 
   "publisher": "thesun.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Sun: Miliband watches footie just hours after he was 'too ill' to attend NHS rally", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 9, 
+      "name": "Health and Social Care Act 2012 - NHS Reforms"
+    }
+  ], 
   "record_id": "20060101T120000/41185wFQgPOw2+hh0fwcaA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-08T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.valeofleithen.co.uk/", 
-  "description": "Site for a Scottish amateur football club based in Innerleithen, Scottish Borders.", 
   "end_date": null, 
-  "title": "Vale of Leithen Football Club", 
-  "record_id": "20170208T090000/nF+/ELtSZdaImZ/UuObung==", 
-  "publisher": "valeofleithen.co.uk", 
+  "date": "2017-02-08T09:00:00", 
   "slug": 49118, 
+  "publisher": "valeofleithen.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Vale of Leithen Football Club", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170208T090000/nF+/ELtSZdaImZ/UuObung==", 
+  "scope": "root", 
   "start_date": "2017-02-08T09:00:00Z"
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tvu.ac.uk/shibboleth/Welcome.jsp", 
-  "description": "", 
   "end_date": null, 
-  "title": "NABATEA : improving access to resources and services at TVU", 
-  "record_id": "20060101T120000/EPJVOdrmkmimOqmxw/etgg==", 
-  "publisher": "tvu.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 145511, 
+  "publisher": "tvu.ac.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "NABATEA : improving access to resources and services at TVU", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/EPJVOdrmkmimOqmxw/etgg==", 
+  "scope": "root", 
   "start_date": null
 }
 

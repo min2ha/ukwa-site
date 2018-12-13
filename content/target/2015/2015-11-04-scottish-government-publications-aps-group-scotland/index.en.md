@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://scotgov.publishingthefuture.info/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scottish Government Publications | APS Group Scotland", 
-  "record_id": "20151104T090000/X/RZMqVOPmGpWm7OrVEaow==", 
-  "publisher": "publishingthefuture.info", 
+  "date": "2015-11-04T09:00:00", 
   "slug": 32121, 
+  "publisher": "publishingthefuture.info", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Government Publications | APS Group Scotland", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151104T090000/X/RZMqVOPmGpWm7OrVEaow==", 
+  "scope": "root", 
   "start_date": "2015-11-04T09:00:00Z"
 }
 

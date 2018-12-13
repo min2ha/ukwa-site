@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-18T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.npg.org.uk/", 
-  "description": "Official website of the National Portrait Gallery.", 
   "end_date": null, 
-  "title": "National Portrait Gallery", 
-  "record_id": "20150718T100000/h0eOQk2ep9hKhi6FKfFFDg==", 
-  "publisher": "npg.org.uk", 
+  "date": "2015-07-18T10:00:00", 
   "slug": 3099, 
+  "publisher": "npg.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "National Portrait Gallery", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150718T100000/h0eOQk2ep9hKhi6FKfFFDg==", 
+  "scope": "root", 
   "start_date": "2015-07-18T10:00:00Z"
 }
 

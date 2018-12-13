@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://holesinthewall.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Holes in the Wall", 
-  "record_id": "20131014T100000/Uj33DAzp/QhvVcPCuqgl5Q==", 
-  "publisher": "holesinthewall.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 66158630, 
+  "publisher": "holesinthewall.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Holes in the Wall", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/Uj33DAzp/QhvVcPCuqgl5Q==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

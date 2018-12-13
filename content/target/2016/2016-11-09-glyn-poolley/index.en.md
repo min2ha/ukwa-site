@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.glynpooley.co.uk/", 
-  "description": "Glyn Poolley is a Welsh artist. Many of his exhibitions have been held at the Welsh Senedd.", 
   "end_date": null, 
-  "title": "Glyn Poolley", 
-  "record_id": "20161109T090000/u6qLU/86VimRiXEdx7BPoQ==", 
-  "publisher": "glynpooley.co.uk", 
+  "date": "2016-11-09T09:00:00", 
   "slug": 46858, 
+  "publisher": "glynpooley.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Glyn Poolley", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161109T090000/u6qLU/86VimRiXEdx7BPoQ==", 
+  "scope": "root", 
   "start_date": "2016-11-09T09:00:00Z"
 }
 

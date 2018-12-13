@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.wild-wales.com/", 
-  "description": "The site for professional Welsh photographer Jeremy Moore.", 
   "end_date": null, 
-  "title": "Wild Wales", 
-  "record_id": "20151030T090000/NiiuvAdMkl2HaSRTfWNLIA==", 
-  "publisher": "wild-wales.com", 
+  "date": "2015-10-30T09:00:00", 
   "slug": 31945, 
+  "publisher": "wild-wales.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wild Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151030T090000/NiiuvAdMkl2HaSRTfWNLIA==", 
+  "scope": "root", 
   "start_date": "2015-10-30T09:00:00Z"
 }
 

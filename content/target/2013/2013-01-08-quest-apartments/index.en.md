@@ -1,14 +1,21 @@
 {
   "target_url": "http://www.questapartments.co.uk/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
   "date": "2013-01-08T00:00:00", 
   "slug": 87457884, 
-  "subject": "Cambridge Network", 
   "publisher": "questapartments.co.uk", 
   "open_access": true, 
+  "npld": false, 
   "title": "Quest Apartments", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2442, 
+      "name": "Cambridge Network"
+    }
+  ], 
   "record_id": "20130108T000000/GvOwx7xCUiJ2B2de83lS1w==", 
+  "scope": "root", 
   "start_date": "2013-01-08T00:00:00Z"
 }
 

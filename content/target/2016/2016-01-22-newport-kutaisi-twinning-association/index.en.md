@@ -1,13 +1,21 @@
 {
-  "date": "2016-01-22T09:00:00", 
-  "open_access": false, 
   "target_url": "http://nkta.org/", 
-  "description": "Newport and Kutaisi in Georgia twinning agreement was established in 1989. ", 
   "end_date": null, 
-  "title": "Newport Kutaisi Twinning Association", 
-  "record_id": "20160122T090000/XjiDfkmRfmTbA6QgZYkUNA==", 
-  "publisher": "nkta.org", 
+  "date": "2016-01-22T09:00:00", 
   "slug": 34323, 
+  "publisher": "nkta.org", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Newport Kutaisi Twinning Association", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160122T090000/XjiDfkmRfmTbA6QgZYkUNA==", 
+  "scope": "root", 
   "start_date": "2016-01-22T09:00:00Z"
 }
 

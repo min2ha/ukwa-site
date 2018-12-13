@@ -1,13 +1,21 @@
 {
-  "date": "2015-06-25T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.themmf.net/", 
-  "description": "Music Managers Forum (MMF) is a representative body for the artist management.", 
   "end_date": null, 
-  "title": "Music Managers Forum (MMF)", 
-  "record_id": "20150625T100000/YVZ9q0hQiOywlV5pVo3bRw==", 
-  "publisher": "themmf.net", 
+  "date": "2015-06-25T10:00:00", 
   "slug": 28349, 
+  "publisher": "themmf.net", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Music Managers Forum (MMF)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150625T100000/YVZ9q0hQiOywlV5pVo3bRw==", 
+  "scope": "root", 
   "start_date": "2015-06-25T10:00:00Z"
 }
 

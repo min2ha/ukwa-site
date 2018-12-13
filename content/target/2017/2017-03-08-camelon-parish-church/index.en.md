@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.camelonparishchurch.org.uk/", 
-  "description": "The website of the Camelon Parish Church of Scotland. ", 
   "end_date": null, 
   "date": "2017-03-08T09:00:00", 
   "slug": 50167, 
-  "subject": "Religion/Theology", 
   "publisher": "camelonparishchurch.org.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Camelon Parish Church", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 239, 
+      "name": "Religion/Theology"
+    }
+  ], 
   "record_id": "20170308T090000/CaKXzyYvJJG1phPZ8vH6tA==", 
+  "scope": "root", 
   "start_date": "2017-03-08T09:00:00Z"
 }
 

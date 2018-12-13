@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://cowbridgebookfestival.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Cowbridge Book Festival", 
-  "record_id": "20060101T120000/J2+tIm7cXfIvDHeGfPdxHQ==", 
-  "publisher": "cowbridgebookfestival.co.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 16665, 
+  "publisher": "cowbridgebookfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cowbridge Book Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/J2+tIm7cXfIvDHeGfPdxHQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

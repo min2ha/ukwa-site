@@ -1,13 +1,21 @@
 {
-  "date": "2013-10-14T10:00:00", 
-  "open_access": true, 
   "target_url": "http://www.tax-hell.co.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Tax Hell", 
-  "record_id": "20131014T100000/XUYx8IqgpGa7s6xsU3OrxQ==", 
-  "publisher": "tax-hell.co.uk", 
+  "date": "2013-10-14T10:00:00", 
   "slug": 64454731, 
+  "publisher": "tax-hell.co.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Tax Hell", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20131014T100000/XUYx8IqgpGa7s6xsU3OrxQ==", 
+  "scope": "root", 
   "start_date": "2013-10-14T10:00:00Z"
 }
 

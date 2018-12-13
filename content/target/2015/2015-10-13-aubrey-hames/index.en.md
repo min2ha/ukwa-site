@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-13T10:00:00", 
-  "open_access": false, 
   "target_url": "http://aubreyhames.co.uk/", 
-  "description": "Biography of the former leader of old Newport Borough Council.", 
   "end_date": null, 
-  "title": "Aubrey Hames", 
-  "record_id": "20151013T100000/Yi3peDBZE3VTDsHnrOCaLg==", 
-  "publisher": "aubreyhames.co.uk", 
+  "date": "2015-10-13T10:00:00", 
   "slug": 31393, 
+  "publisher": "aubreyhames.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aubrey Hames", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151013T100000/Yi3peDBZE3VTDsHnrOCaLg==", 
+  "scope": "root", 
   "start_date": "2015-10-13T10:00:00Z"
 }
 

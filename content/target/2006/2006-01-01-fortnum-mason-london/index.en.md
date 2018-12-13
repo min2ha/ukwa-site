@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.fortnumandmason.london/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fortnum & Mason .London", 
-  "record_id": "20060101T120000/yIjYhWC6KdmSpLVKqzsNBA==", 
-  "publisher": "fortnumandmason.london", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 10646, 
+  "publisher": "fortnumandmason.london", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Fortnum & Mason .London", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/yIjYhWC6KdmSpLVKqzsNBA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-11-03T09:00:00", 
-  "open_access": false, 
   "target_url": "https://www.radyr.org.uk/parish/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Parish of Radyr", 
-  "record_id": "20161103T090000/ORyiuUgLHmQQuYW09OLvTw==", 
-  "publisher": "radyr.org.uk", 
+  "date": "2016-11-03T09:00:00", 
   "slug": 46708, 
+  "publisher": "radyr.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Parish of Radyr", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161103T090000/ORyiuUgLHmQQuYW09OLvTw==", 
+  "scope": "root", 
   "start_date": "2016-11-03T09:00:00Z"
 }
 

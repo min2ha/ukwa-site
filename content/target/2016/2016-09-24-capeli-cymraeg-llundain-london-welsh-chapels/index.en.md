@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://capelillundain.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Capeli Cymraeg Llundain | London Welsh Chapels", 
-  "record_id": "20160924T100000/4x6eqsm0qYps2ImGBN25IQ==", 
-  "publisher": "capelillundain.org", 
+  "date": "2016-09-24T10:00:00", 
   "slug": 45587, 
+  "publisher": "capelillundain.org", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Capeli Cymraeg Llundain | London Welsh Chapels", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160924T100000/4x6eqsm0qYps2ImGBN25IQ==", 
+  "scope": "root", 
   "start_date": "2016-09-24T10:00:00Z"
 }
 

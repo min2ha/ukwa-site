@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.clwydbadgergroup.org.uk/", 
-  "description": "Clwyd Badger Group was founded in 1983 to promote the study and conservation of badgers and their habitat.", 
   "end_date": null, 
-  "title": "Clwyd Badger Group | Cymdeithas M\u00f4ch Daear Clwyd", 
-  "record_id": "20180501T090000/C5+VPvrbumEmsflr/anLQA==", 
-  "publisher": "clwydbadgergroup.org.uk", 
+  "date": "2018-05-01T09:00:00", 
   "slug": 64986, 
+  "publisher": "clwydbadgergroup.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Clwyd Badger Group | Cymdeithas M\u00f4ch Daear Clwyd", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180501T090000/C5+VPvrbumEmsflr/anLQA==", 
+  "scope": "root", 
   "start_date": "2018-05-01T09:00:00Z"
 }
 

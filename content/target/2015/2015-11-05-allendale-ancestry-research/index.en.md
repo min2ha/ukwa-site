@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-05T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ajmacleod.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Allendale Ancestry Research", 
-  "record_id": "20151105T090000/F7jbLU448uoyKwdzqgD4Hg==", 
-  "publisher": "ajmacleod.co.uk", 
+  "date": "2015-11-05T09:00:00", 
   "slug": 32125, 
+  "publisher": "ajmacleod.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Allendale Ancestry Research", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151105T090000/F7jbLU448uoyKwdzqgD4Hg==", 
+  "scope": "root", 
   "start_date": "2015-11-05T09:00:00Z"
 }
 

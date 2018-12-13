@@ -1,13 +1,21 @@
 {
-  "date": "2017-04-07T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.manicstreetpreachers.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Manic Street Preachers", 
-  "record_id": "20170407T090000/gPLCqCbCntWVjpapdSrDZg==", 
-  "publisher": "manicstreetpreachers.com", 
+  "date": "2017-04-07T09:00:00", 
   "slug": 51826, 
+  "publisher": "manicstreetpreachers.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Manic Street Preachers", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170407T090000/gPLCqCbCntWVjpapdSrDZg==", 
+  "scope": "root", 
   "start_date": "2017-04-07T09:00:00Z"
 }
 

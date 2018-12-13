@@ -1,14 +1,21 @@
 {
   "target_url": "http://mikecrockart.org.uk/", 
-  "description": null, 
   "end_date": "2007-12-11T00:00:00Z", 
   "date": "2005-04-25T00:00:00", 
   "slug": 105683, 
-  "subject": "UK General Election 2005", 
   "publisher": "mikecrockart.org.uk", 
   "open_access": false, 
+  "npld": false, 
   "title": "Mike Crockart parliamentary spokespersons for Edinburgh North and Leith", 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 2453, 
+      "name": "UK General Election 2005"
+    }
+  ], 
   "record_id": "20050425T000000/CDhzf3w3jfyPHAoo9XWoPg==", 
+  "scope": "root", 
   "start_date": "2005-04-25T00:00:00Z"
 }
 

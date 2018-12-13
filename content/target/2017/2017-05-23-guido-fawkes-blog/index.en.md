@@ -1,14 +1,42 @@
 {
   "target_url": "http://www.order-order.com/", 
-  "description": "", 
   "end_date": null, 
   "date": "2017-05-23T09:00:00", 
   "slug": 14811151, 
-  "subject": "Blogs", 
   "publisher": "order-order.com", 
   "open_access": true, 
+  "npld": true, 
   "title": "Guido Fawkes' Blog", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }, 
+    {
+      "id": 60, 
+      "name": "UK General Election 2015"
+    }, 
+    {
+      "id": 138, 
+      "name": "News Sites"
+    }, 
+    {
+      "id": 208, 
+      "name": "Political Action and Communication"
+    }, 
+    {
+      "id": 1233, 
+      "name": "UK General Election 2017"
+    }
+  ], 
   "record_id": "20170523T090000/Msrj7iCGgRRbkNk+gi/SkA==", 
+  "scope": "root", 
   "start_date": "2017-05-23T09:00:00Z"
 }
 

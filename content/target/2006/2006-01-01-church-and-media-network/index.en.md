@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.churchandmedia.net/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Church and Media Network", 
-  "record_id": "20060101T120000/eyRortjqWbto+tJ9nw7uoA==", 
-  "publisher": "churchandmedia.net", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588261, 
+  "publisher": "churchandmedia.net", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Church and Media Network", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/eyRortjqWbto+tJ9nw7uoA==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.freewebs.com/yorkshiremain/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Yorkshire Main Colliery", 
-  "record_id": "20060101T120000/6teCVev1Xz+VyqvkRE7uPA==", 
-  "publisher": "freewebs.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12484624, 
+  "publisher": "freewebs.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Yorkshire Main Colliery", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/6teCVev1Xz+VyqvkRE7uPA==", 
+  "scope": "root", 
   "start_date": null
 }
 

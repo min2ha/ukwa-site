@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://festivalofromance.co.uk/", 
-  "description": "Festival of Romance Fiction", 
   "end_date": null, 
-  "title": "Festival of Romance Fiction", 
-  "record_id": "20150723T100000/UhqVyCUK6DP4YTWV6myOxQ==", 
-  "publisher": "festivalofromance.co.uk", 
+  "date": "2015-07-23T10:00:00", 
   "slug": 29272, 
+  "publisher": "festivalofromance.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Festival of Romance Fiction", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150723T100000/UhqVyCUK6DP4YTWV6myOxQ==", 
+  "scope": "root", 
   "start_date": "2015-07-23T10:00:00Z"
 }
 

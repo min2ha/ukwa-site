@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://irra.eprints.org/", 
-  "description": "", 
   "end_date": null, 
-  "title": "IRRA: Institutional Repositories and Research Assessment", 
-  "record_id": "20060101T120000/AaJHoHBiWYbAOgZT5KN0gw==", 
-  "publisher": "eprints.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 118362, 
+  "publisher": "eprints.org", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "IRRA: Institutional Repositories and Research Assessment", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/AaJHoHBiWYbAOgZT5KN0gw==", 
+  "scope": "root", 
   "start_date": null
 }
 

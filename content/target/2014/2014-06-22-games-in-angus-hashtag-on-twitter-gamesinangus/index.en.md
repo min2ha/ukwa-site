@@ -1,14 +1,26 @@
 {
   "target_url": "https://twitter.com/hashtag/GamesinAngus/", 
-  "description": "<p>Tweets with the \u201cGames in Angus\u201d hashtag commenting on the XX Commonwealth Games events in Angus.</p>\n", 
   "end_date": "2014-08-05T07:00:00Z", 
   "date": "2014-06-22T06:00:00", 
   "slug": 12799, 
-  "subject": null, 
   "publisher": "twitter.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "Games in Angus hashtag on Twitter (#GamesinAngus)", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1768, 
+      "name": "Sports Collection"
+    }
+  ], 
   "record_id": "20140622T060000/bWb4daZM0hi2UZxSjoWgSw==", 
+  "scope": "root", 
   "start_date": "2014-06-22T06:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-05-21T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cesi.org.uk/", 
-  "description": "The Centre for Economic and Social Inclusion is the UK\u2019s not-for-profit company dedicated to tackling disadvantage and promoting social inclusion in the labour market.", 
   "end_date": null, 
-  "title": "Centre for Economic and Social Inclusion", 
-  "record_id": "20150521T090000/1ohYEEERwuMigWRsLjdNDQ==", 
-  "publisher": "cesi.org.uk", 
+  "date": "2015-05-21T09:00:00", 
   "slug": 3023, 
+  "publisher": "cesi.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Centre for Economic and Social Inclusion", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150521T090000/1ohYEEERwuMigWRsLjdNDQ==", 
+  "scope": "root", 
   "start_date": "2015-05-21T09:00:00Z"
 }
 

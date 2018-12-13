@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://aselproject.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Audio Supported Enhanced Learning (ASEL)", 
-  "record_id": "20060101T120000/Rkc1oBWMnxIauodzvkqFxg==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 17235968, 
+  "publisher": "wordpress.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Audio Supported Enhanced Learning (ASEL)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/Rkc1oBWMnxIauodzvkqFxg==", 
+  "scope": "root", 
   "start_date": null
 }
 

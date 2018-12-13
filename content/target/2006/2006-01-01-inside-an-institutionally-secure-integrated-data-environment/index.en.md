@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dcs.st-and.ac.uk/inside/", 
-  "description": null, 
   "end_date": null, 
-  "title": "INSIDE : An Institutionally Secure Integrated Data Environment", 
-  "record_id": "20060101T120000/+zmBJ9fTMiEdlTvXDfM0YQ==", 
-  "publisher": "st-and.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 114106, 
+  "publisher": "st-and.ac.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "INSIDE : An Institutionally Secure Integrated Data Environment", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+zmBJ9fTMiEdlTvXDfM0YQ==", 
+  "scope": "root", 
   "start_date": null
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-02-07T00:00:00", 
-  "open_access": false, 
   "target_url": "http://www.patient.co.uk/", 
-  "description": "<p>Patient.co.uk is an independent health site.</p>\n", 
   "end_date": null, 
-  "title": "Patient", 
-  "record_id": "20150207T000000/c0wvPzx82G1N/tSAzhUoLg==", 
-  "publisher": "patient.co.uk", 
+  "date": "2015-02-07T00:00:00", 
   "slug": 16816, 
+  "publisher": "patient.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Patient", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150207T000000/c0wvPzx82G1N/tSAzhUoLg==", 
+  "scope": "root", 
   "start_date": "2015-02-07T00:00:00Z"
 }
 

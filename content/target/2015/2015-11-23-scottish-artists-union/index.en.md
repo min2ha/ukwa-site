@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-23T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.sau.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Scottish Artists Union", 
-  "record_id": "20151123T090000//ezIclsEzAo5RQWKING9CA==", 
-  "publisher": "sau.org.uk", 
+  "date": "2015-11-23T09:00:00", 
   "slug": 32779, 
+  "publisher": "sau.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Scottish Artists Union", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151123T090000//ezIclsEzAo5RQWKING9CA==", 
+  "scope": "root", 
   "start_date": "2015-11-23T09:00:00Z"
 }
 

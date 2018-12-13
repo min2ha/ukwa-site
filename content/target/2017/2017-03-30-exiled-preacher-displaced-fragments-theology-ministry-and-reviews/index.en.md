@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-30T09:00:00", 
-  "open_access": false, 
   "target_url": "http://exiledpreacher.blogspot.co.uk/", 
-  "description": "This is a blog by Guy Davies, a Reformed Baptist Welsh preacher living in South West of England and joint-pastor of Providence Baptist Church and Ebenezer Baptist Church.", 
   "end_date": null, 
-  "title": "Exiled Preacher: Displaced fragments, theology, ministry and reviews", 
-  "record_id": "20170330T090000/NEAAWW1/V8Nac6XuP6YGKw==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2017-03-30T09:00:00", 
   "slug": 51504, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Exiled Preacher: Displaced fragments, theology, ministry and reviews", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170330T090000/NEAAWW1/V8Nac6XuP6YGKw==", 
+  "scope": "root", 
   "start_date": "2017-03-30T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2017-03-03T09:00:00", 
-  "open_access": true, 
   "target_url": "http://blog.bettisfieldvillage.org.uk/", 
-  "description": "Bettisfield is a small village on the Welsh Marches.", 
   "end_date": null, 
-  "title": "Bettsifield Village", 
-  "record_id": "20170303T090000/C5bq3EhaSoly6nqBt1fpdg==", 
-  "publisher": "bettisfieldvillage.org.uk", 
+  "date": "2017-03-03T09:00:00", 
   "slug": 49936, 
+  "publisher": "bettisfieldvillage.org.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Bettsifield Village", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170303T090000/C5bq3EhaSoly6nqBt1fpdg==", 
+  "scope": "root", 
   "start_date": "2017-03-03T09:00:00Z"
 }
 

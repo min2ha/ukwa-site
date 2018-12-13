@@ -1,13 +1,21 @@
 {
-  "date": "2015-07-24T10:00:00", 
-  "open_access": false, 
   "target_url": "http://greenwichbookfest.com/", 
-  "description": "The Greenwich Book Festival is hosted by the University of Greenwich and with the support of the Royal Borough of Greenwich and the Old Royal Naval College.", 
   "end_date": null, 
-  "title": "Greenwich Book Festival", 
-  "record_id": "20150724T100000/YIN5v5o+BL/yYk92FFDzLw==", 
-  "publisher": "greenwichbookfest.com", 
+  "date": "2015-07-24T10:00:00", 
   "slug": 29335, 
+  "publisher": "greenwichbookfest.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Greenwich Book Festival", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150724T100000/YIN5v5o+BL/yYk92FFDzLw==", 
+  "scope": "root", 
   "start_date": "2015-07-24T10:00:00Z"
 }
 

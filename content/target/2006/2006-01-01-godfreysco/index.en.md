@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.godfreys.co/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Godfreys.co", 
-  "record_id": "20060101T120000/+KHmBAcvPr2UGU++Wjiz/Q==", 
-  "publisher": "godfreys.co", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 11855, 
+  "publisher": "godfreys.co", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Godfreys.co", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/+KHmBAcvPr2UGU++Wjiz/Q==", 
+  "scope": "root", 
   "start_date": null
 }
 

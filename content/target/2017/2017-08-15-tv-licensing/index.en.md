@@ -1,13 +1,21 @@
 {
-  "date": "2017-08-15T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.tvlicensing.co.uk/", 
-  "description": "The official TV Licensing website for the UK.", 
   "end_date": null, 
-  "title": "TV Licensing ", 
-  "record_id": "20170815T090000/UbimTecl6hFjWH6k9fRZCw==", 
-  "publisher": "tvlicensing.co.uk", 
+  "date": "2017-08-15T09:00:00", 
   "slug": 56577, 
+  "publisher": "tvlicensing.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "TV Licensing ", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170815T090000/UbimTecl6hFjWH6k9fRZCw==", 
+  "scope": "root", 
   "start_date": "2017-08-15T09:00:00Z"
 }
 

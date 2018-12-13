@@ -1,14 +1,26 @@
 {
   "target_url": "http://obanlorne.co.uk/", 
-  "description": "Site of a Scottish rugby union football club based in Oban, Argyll and Bute.", 
   "end_date": null, 
   "date": "2018-02-08T09:00:00", 
   "slug": 61050, 
-  "subject": "Sport: Football", 
   "publisher": "obanlorne.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Oban Lorne Rugby Football Club", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1490, 
+      "name": "Sport: Football"
+    }
+  ], 
   "record_id": "20180208T090000/sqxJUC4J2Ep8AfIiFMC6vA==", 
+  "scope": "root", 
   "start_date": "2018-02-08T09:00:00Z"
 }
 

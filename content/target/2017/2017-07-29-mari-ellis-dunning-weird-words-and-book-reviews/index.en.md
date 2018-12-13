@@ -1,13 +1,21 @@
 {
-  "date": "2017-07-29T09:00:00", 
-  "open_access": false, 
   "target_url": "https://mariellisdunning.cymru/", 
-  "description": "Welsh writer of poetry, short stories, novels and children\u2019s books and her debut poetry collection, Salacia, will be launched in Spring 2018 with Parthian.", 
   "end_date": null, 
-  "title": "Mari Ellis Dunning - Weird words and book reviews", 
-  "record_id": "20170729T090000/tqjBAv/OL1gweaATPoUdXw==", 
-  "publisher": "mariellisdunning.cymru", 
+  "date": "2017-07-29T09:00:00", 
   "slug": 56201, 
+  "publisher": "mariellisdunning.cymru", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Mari Ellis Dunning - Weird words and book reviews", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170729T090000/tqjBAv/OL1gweaATPoUdXw==", 
+  "scope": "root", 
   "start_date": "2017-07-29T09:00:00Z"
 }
 

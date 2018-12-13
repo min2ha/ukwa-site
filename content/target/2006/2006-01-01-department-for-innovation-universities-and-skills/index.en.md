@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.dius.gov.uk/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Department for Innovation, Universities and Skills", 
-  "record_id": "20060101T120000/ahXbBeLoeNZibQC/U/bSAg==", 
-  "publisher": "dius.gov.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 142276, 
+  "publisher": "dius.gov.uk", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "Department for Innovation, Universities and Skills", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/ahXbBeLoeNZibQC/U/bSAg==", 
+  "scope": "root", 
   "start_date": null
 }
 

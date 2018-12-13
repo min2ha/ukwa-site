@@ -1,13 +1,16 @@
 {
-  "date": "2010-03-22T00:00:00", 
-  "open_access": true, 
   "target_url": "http://www.kidsandnutrition.co.uk/", 
-  "description": "", 
   "end_date": "2013-04-30T23:59:59Z", 
-  "title": "Kids And Nutrition", 
-  "record_id": "20100322T000000/NBkpDYXD8jxW1gYwH3qo5g==", 
-  "publisher": "kidsandnutrition.co.uk", 
+  "date": "2010-03-22T00:00:00", 
   "slug": 38666306, 
+  "publisher": "kidsandnutrition.co.uk", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "Kids And Nutrition", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20100322T000000/NBkpDYXD8jxW1gYwH3qo5g==", 
+  "scope": "root", 
   "start_date": "2010-03-22T00:00:00Z"
 }
 

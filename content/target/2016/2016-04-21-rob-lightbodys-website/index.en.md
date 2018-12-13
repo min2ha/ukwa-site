@@ -1,13 +1,21 @@
 {
-  "date": "2016-04-21T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.roblightbody.com/", 
-  "description": "The website of Rob Lightbody which includes the history of transatlantic passenger liners and the River Clyde paddlesteamer 'Waverley'", 
   "end_date": null, 
-  "title": "Rob Lightbody's Website", 
-  "record_id": "20160421T100000/gIEzcQzgprATAhdJeZ9VZA==", 
-  "publisher": "roblightbody.com", 
+  "date": "2016-04-21T10:00:00", 
   "slug": 39467, 
+  "publisher": "roblightbody.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Rob Lightbody's Website", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160421T100000/gIEzcQzgprATAhdJeZ9VZA==", 
+  "scope": "root", 
   "start_date": "2016-04-21T10:00:00Z"
 }
 

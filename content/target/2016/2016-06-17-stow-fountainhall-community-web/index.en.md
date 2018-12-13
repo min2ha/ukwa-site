@@ -1,13 +1,21 @@
 {
-  "date": "2016-06-17T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stow-borders.co.uk/", 
-  "description": "Site of the community of Stow and Fountainhall, Scottish Borders, providing information on the local area, amenities and the community council.", 
   "end_date": null, 
-  "title": " Stow & Fountainhall Community Web", 
-  "record_id": "20160617T100000/sXpmqEjmQQw13L1mkpFf9A==", 
-  "publisher": "stow-borders.co.uk", 
+  "date": "2016-06-17T10:00:00", 
   "slug": 43115, 
+  "publisher": "stow-borders.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": " Stow & Fountainhall Community Web", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160617T100000/sXpmqEjmQQw13L1mkpFf9A==", 
+  "scope": "root", 
   "start_date": "2016-06-17T10:00:00Z"
 }
 

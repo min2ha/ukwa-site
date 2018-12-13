@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-29T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.ceredigioncoastpath.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Llwybr Arfordir Ceredigion | Ceredigion Coast Path", 
-  "record_id": "20151029T090000/HcGHTOqLqQJt9IOoRxfhZA==", 
-  "publisher": "ceredigioncoastpath.org.uk", 
+  "date": "2015-10-29T09:00:00", 
   "slug": 31816, 
+  "publisher": "ceredigioncoastpath.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Llwybr Arfordir Ceredigion | Ceredigion Coast Path", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151029T090000/HcGHTOqLqQJt9IOoRxfhZA==", 
+  "scope": "root", 
   "start_date": "2015-10-29T09:00:00Z"
 }
 

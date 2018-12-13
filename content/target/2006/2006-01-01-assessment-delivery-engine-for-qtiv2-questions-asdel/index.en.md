@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.asdel.ecs.soton.ac.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Assessment Delivery Engine for QTIv2 questions (ASDEL)", 
-  "record_id": "20060101T120000/lmtnSbEyFPZxBEW965WkbA==", 
-  "publisher": "soton.ac.uk", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 142063, 
+  "publisher": "soton.ac.uk", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Assessment Delivery Engine for QTIv2 questions (ASDEL)", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/lmtnSbEyFPZxBEW965WkbA==", 
+  "scope": "root", 
   "start_date": null
 }
 

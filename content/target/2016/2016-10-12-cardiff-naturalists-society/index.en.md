@@ -1,13 +1,21 @@
 {
-  "date": "2016-10-12T10:00:00", 
-  "open_access": false, 
   "target_url": "http://cardiffnaturalists.org.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Cardiff Naturalists' Society", 
-  "record_id": "20161012T100000/EQ2EctdCNrk04kE+eJ0qzw==", 
-  "publisher": "cardiffnaturalists.org.uk", 
+  "date": "2016-10-12T10:00:00", 
   "slug": 46138, 
+  "publisher": "cardiffnaturalists.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Cardiff Naturalists' Society", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20161012T100000/EQ2EctdCNrk04kE+eJ0qzw==", 
+  "scope": "root", 
   "start_date": "2016-10-12T10:00:00Z"
 }
 

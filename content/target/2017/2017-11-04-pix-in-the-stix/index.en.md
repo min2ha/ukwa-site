@@ -1,13 +1,21 @@
 {
-  "date": "2017-11-04T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pixinthestix.org.uk/", 
-  "description": "Site of a volunteer run community cinema bringing commercial films to the communities of East Linton and Tyninghame, East Lothian.", 
   "end_date": null, 
-  "title": "Pix in the Stix", 
-  "record_id": "20171104T090000/ZWQ59hmFVVGY9pDp2cNQoA==", 
-  "publisher": "pixinthestix.org.uk", 
+  "date": "2017-11-04T09:00:00", 
   "slug": 58445, 
+  "publisher": "pixinthestix.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Pix in the Stix", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20171104T090000/ZWQ59hmFVVGY9pDp2cNQoA==", 
+  "scope": "root", 
   "start_date": "2017-11-04T09:00:00Z"
 }
 

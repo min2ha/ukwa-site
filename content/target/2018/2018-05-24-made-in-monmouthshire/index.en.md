@@ -1,13 +1,21 @@
 {
-  "date": "2018-05-24T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.madeinmonmouthshire.com/", 
-  "description": "Made in Monmouthshire promotes the artists, crafts people and food producers from Monmouthshire.", 
   "end_date": null, 
-  "title": "Made in Monmouthshire", 
-  "record_id": "20180524T090000/xX8yhG2qyAATRiln0rc1UA==", 
-  "publisher": "madeinmonmouthshire.com", 
+  "date": "2018-05-24T09:00:00", 
   "slug": 66098, 
+  "publisher": "madeinmonmouthshire.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Made in Monmouthshire", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180524T090000/xX8yhG2qyAATRiln0rc1UA==", 
+  "scope": "subdomains", 
   "start_date": "2018-05-24T09:00:00Z"
 }
 

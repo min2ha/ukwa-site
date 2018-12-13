@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.appletree.ie/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Appletree Press", 
-  "record_id": "20060101T120000/20Y5fd+9un5ld4WxdQKI1A==", 
-  "publisher": "appletree.ie", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 13492, 
+  "publisher": "appletree.ie", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Appletree Press", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/20Y5fd+9un5ld4WxdQKI1A==", 
+  "scope": "root", 
   "start_date": null
 }
 

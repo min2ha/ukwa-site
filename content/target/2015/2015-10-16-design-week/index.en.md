@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-16T10:00:00", 
-  "open_access": false, 
   "target_url": "https://www.designweek.co.uk/", 
-  "description": "Design Week is an online magazine about design.", 
   "end_date": null, 
-  "title": "Design Week", 
-  "record_id": "20151016T100000/gVQdD+bwRtk40nAW+m//0A==", 
-  "publisher": "designweek.co.uk", 
+  "date": "2015-10-16T10:00:00", 
   "slug": 31475, 
+  "publisher": "designweek.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Design Week", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151016T100000/gVQdD+bwRtk40nAW+m//0A==", 
+  "scope": "root", 
   "start_date": "2015-10-16T10:00:00Z"
 }
 

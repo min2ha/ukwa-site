@@ -1,13 +1,21 @@
 {
-  "date": "2017-06-06T09:00:00", 
-  "open_access": false, 
   "target_url": "http://aberavonplaidcymru.blogspot.co.uk/", 
-  "description": "Aberavon Plaid Cymru blog", 
   "end_date": "2017-08-01T00:00:00Z", 
-  "title": "Aberavon Plaid Cymru", 
-  "record_id": "20170606T090000/SVSSxacRQW+gA+FI11MqSQ==", 
-  "publisher": "blogspot.co.uk", 
+  "date": "2017-06-06T09:00:00", 
   "slug": 54308, 
+  "publisher": "blogspot.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Aberavon Plaid Cymru", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170606T090000/SVSSxacRQW+gA+FI11MqSQ==", 
+  "scope": "subdomains", 
   "start_date": "2017-06-06T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2016-09-16T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.cricciethfestival.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Gwyl Criccieth Festival", 
-  "record_id": "20160916T100000/9xqYNiKxhjL9p2G6iQ9EgA==", 
-  "publisher": "cricciethfestival.co.uk", 
+  "date": "2016-09-16T10:00:00", 
   "slug": 45432, 
+  "publisher": "cricciethfestival.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Gwyl Criccieth Festival", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160916T100000/9xqYNiKxhjL9p2G6iQ9EgA==", 
+  "scope": "root", 
   "start_date": "2016-09-16T10:00:00Z"
 }
 

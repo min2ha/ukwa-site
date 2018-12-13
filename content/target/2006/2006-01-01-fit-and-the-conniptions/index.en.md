@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://www.conniptions.org/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Fit and the Conniptions", 
-  "record_id": "20060101T120000/tYENuaSomeTGPRV9d5yAjg==", 
-  "publisher": "conniptions.org", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 59441191, 
+  "publisher": "conniptions.org", 
+  "open_access": true, 
+  "npld": true, 
+  "title": "Fit and the Conniptions", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/tYENuaSomeTGPRV9d5yAjg==", 
+  "scope": "root", 
   "start_date": null
 }
 

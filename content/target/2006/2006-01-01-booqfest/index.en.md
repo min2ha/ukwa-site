@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://booqfest.webs.com/", 
-  "description": "BooQfest Northampton", 
   "end_date": null, 
-  "title": "BooQfest", 
-  "record_id": "20060101T120000/pv7ZeooKkUqmDyAjidM5QA==", 
-  "publisher": "webs.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 29126, 
+  "publisher": "webs.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "BooQfest", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/pv7ZeooKkUqmDyAjidM5QA==", 
+  "scope": "root", 
   "start_date": null
 }
 

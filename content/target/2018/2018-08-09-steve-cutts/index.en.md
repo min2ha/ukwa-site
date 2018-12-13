@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-09T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.stevecutts.com/", 
-  "description": "UK based illustrator and animator ", 
   "end_date": null, 
-  "title": "Steve Cutts", 
-  "record_id": "20180809T090000/WxCSu/u/Nb1SC1CDEI0yxQ==", 
-  "publisher": "stevecutts.com", 
+  "date": "2018-08-09T09:00:00", 
   "slug": 69854, 
+  "publisher": "stevecutts.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Steve Cutts", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180809T090000/WxCSu/u/Nb1SC1CDEI0yxQ==", 
+  "scope": "root", 
   "start_date": "2018-08-09T09:00:00Z"
 }
 

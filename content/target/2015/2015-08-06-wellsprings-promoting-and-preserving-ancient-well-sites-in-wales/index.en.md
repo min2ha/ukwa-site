@@ -1,13 +1,21 @@
 {
-  "date": "2015-08-06T10:00:00", 
-  "open_access": false, 
   "target_url": "http://wellspringswales.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Wellsprings: Promoting and preserving ancient well sites in Wales", 
-  "record_id": "20150806T100000/VXOmLyrdggW5zrplDoKEfw==", 
-  "publisher": "wellspringswales.com", 
+  "date": "2015-08-06T10:00:00", 
   "slug": 29645, 
+  "publisher": "wellspringswales.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Wellsprings: Promoting and preserving ancient well sites in Wales", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20150806T100000/VXOmLyrdggW5zrplDoKEfw==", 
+  "scope": "root", 
   "start_date": "2015-08-06T10:00:00Z"
 }
 

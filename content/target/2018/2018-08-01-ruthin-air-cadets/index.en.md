@@ -1,13 +1,21 @@
 {
-  "date": "2018-08-01T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.aircadets.co/index.html", 
-  "description": "Ruthin Air Cadets are a RAF sponsored uniformed youth organisation for young people 13 to 17 years old. ", 
   "end_date": null, 
-  "title": "Ruthin Air Cadets", 
-  "record_id": "20180801T090000/tqCYcLm5ssu1inMogAYwgw==", 
-  "publisher": "aircadets.co", 
+  "date": "2018-08-01T09:00:00", 
   "slug": 69494, 
+  "publisher": "aircadets.co", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ruthin Air Cadets", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180801T090000/tqCYcLm5ssu1inMogAYwgw==", 
+  "scope": "root", 
   "start_date": "2018-08-01T09:00:00Z"
 }
 

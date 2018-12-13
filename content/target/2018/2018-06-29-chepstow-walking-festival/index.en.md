@@ -1,14 +1,26 @@
 {
   "target_url": "http://www.walksinchepstow.co.uk/", 
-  "description": "Walking festival in border town of Chepstow", 
   "end_date": null, 
   "date": "2018-06-29T09:00:00", 
   "slug": 68329, 
-  "subject": "Festivals", 
   "publisher": "walksinchepstow.co.uk", 
   "open_access": false, 
+  "npld": true, 
   "title": "Chepstow Walking Festival", 
+  "organisation": {
+    "abbreviation": "Bodleian", 
+    "id": 4, 
+    "name": "Bodleian Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 1837, 
+      "name": "Festivals"
+    }
+  ], 
   "record_id": "20180629T090000/H+h4Kzop1aSQK0WN7NBtaw==", 
+  "scope": "root", 
   "start_date": "2018-06-29T09:00:00Z"
 }
 

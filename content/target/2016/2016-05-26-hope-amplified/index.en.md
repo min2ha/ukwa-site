@@ -1,13 +1,21 @@
 {
-  "date": "2016-05-26T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.hopeamplified.org.uk/", 
-  "description": "Site of a Scottish charity working with supporting vulnerable and disadvantaged families, young people and children helping them fulfil their potential and participate in society.", 
   "end_date": null, 
-  "title": "Hope Amplified", 
-  "record_id": "20160526T100000/IT0gXtZXfDvjKTxAkbYAeg==", 
-  "publisher": "hopeamplified.org.uk", 
+  "date": "2016-05-26T10:00:00", 
   "slug": 41789, 
+  "publisher": "hopeamplified.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Hope Amplified", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20160526T100000/IT0gXtZXfDvjKTxAkbYAeg==", 
+  "scope": "root", 
   "start_date": "2016-05-26T10:00:00Z"
 }
 

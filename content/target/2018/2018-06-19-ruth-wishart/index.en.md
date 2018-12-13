@@ -1,13 +1,21 @@
 {
-  "date": "2018-06-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://ruthwishart.scot/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Ruth Wishart", 
-  "record_id": "20180619T090000/bFH0sw/3SudE9M0JUWdLIw==", 
-  "publisher": "ruthwishart.scot", 
+  "date": "2018-06-19T09:00:00", 
   "slug": 67604, 
+  "publisher": "ruthwishart.scot", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Ruth Wishart", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180619T090000/bFH0sw/3SudE9M0JUWdLIw==", 
+  "scope": "root", 
   "start_date": "2018-06-19T09:00:00Z"
 }
 

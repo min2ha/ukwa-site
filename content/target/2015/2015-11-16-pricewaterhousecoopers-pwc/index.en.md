@@ -1,13 +1,21 @@
 {
-  "date": "2015-11-16T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.pwc.co.uk/", 
-  "description": "UK website of a global accountancy and consultancy company.", 
   "end_date": null, 
-  "title": "PricewaterhouseCoopers (PwC)", 
-  "record_id": "20151116T090000/YTMpKLgRVFzM7fBHxIRYdg==", 
-  "publisher": "pwc.co.uk", 
+  "date": "2015-11-16T09:00:00", 
   "slug": 32595, 
+  "publisher": "pwc.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "PricewaterhouseCoopers (PwC)", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151116T090000/YTMpKLgRVFzM7fBHxIRYdg==", 
+  "scope": "subdomains", 
   "start_date": "2015-11-16T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.shirleywells.com/", 
-  "description": null, 
   "end_date": null, 
-  "title": "Shirley Wells", 
-  "record_id": "20060101T120000/IC1TfvzPrQI28xBW2vLkHA==", 
-  "publisher": "shirleywells.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 12853, 
+  "publisher": "shirleywells.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Shirley Wells", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/IC1TfvzPrQI28xBW2vLkHA==", 
+  "scope": "root", 
   "start_date": null
 }
 

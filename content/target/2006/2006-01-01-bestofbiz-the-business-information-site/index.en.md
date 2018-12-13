@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": false, 
   "target_url": "http://www.bestofbiz.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "BestofBiz - the Business Information Site", 
-  "record_id": "20060101T120000/5HuivTdBRMAQj/K4mwyHqw==", 
-  "publisher": "bestofbiz.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 98699, 
+  "publisher": "bestofbiz.com", 
+  "open_access": false, 
+  "npld": false, 
+  "title": "BestofBiz - the Business Information Site", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/5HuivTdBRMAQj/K4mwyHqw==", 
+  "scope": "root", 
   "start_date": null
 }
 

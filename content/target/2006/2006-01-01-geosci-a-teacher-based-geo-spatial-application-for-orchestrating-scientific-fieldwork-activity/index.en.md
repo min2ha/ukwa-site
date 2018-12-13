@@ -1,13 +1,16 @@
 {
-  "date": "2006-01-01T12:00:00", 
-  "open_access": true, 
   "target_url": "http://geosciteach.wordpress.com/", 
-  "description": "", 
   "end_date": null, 
-  "title": "GeoSci: a teacher-based geo-spatial application for orchestrating scientific fieldwork activity", 
-  "record_id": "20060101T120000/QWTAz72qofKZfCTz5mJfMg==", 
-  "publisher": "wordpress.com", 
+  "date": "2006-01-01T12:00:00", 
   "slug": 60588299, 
+  "publisher": "wordpress.com", 
+  "open_access": true, 
+  "npld": false, 
+  "title": "GeoSci: a teacher-based geo-spatial application for orchestrating scientific fieldwork activity", 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20060101T120000/QWTAz72qofKZfCTz5mJfMg==", 
+  "scope": "root", 
   "start_date": null
 }
 

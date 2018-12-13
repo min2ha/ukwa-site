@@ -1,14 +1,26 @@
 {
   "target_url": "http://apracticeforeverydaylife.com/", 
-  "description": "<p>Design company, based in London.</p>\n", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
   "slug": 15641, 
-  "subject": "Conservative Party Website deletions - Press articles November 2013", 
   "publisher": "apracticeforeverydaylife.com", 
   "open_access": false, 
+  "npld": true, 
   "title": "A Practice for Everyday Life", 
+  "organisation": {
+    "abbreviation": "BL", 
+    "id": 1, 
+    "name": "The British Library"
+  }, 
+  "subjects": [], 
+  "collections": [
+    {
+      "id": 81, 
+      "name": "Conservative Party Website deletions - Press articles November 2013"
+    }
+  ], 
   "record_id": "20060101T120000/877Izg4beYQ1KuTj8SCbMg==", 
+  "scope": "root", 
   "start_date": null
 }
 

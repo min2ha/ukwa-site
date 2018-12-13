@@ -1,13 +1,21 @@
 {
-  "date": "2018-04-19T09:00:00", 
-  "open_access": false, 
   "target_url": "http://secretowlgarden.co.uk/", 
-  "description": "", 
   "end_date": null, 
-  "title": "Secret Owl Garden, The", 
-  "record_id": "20180419T090000/9zh6ST3kYr5mPgmYBYBeQQ==", 
-  "publisher": "secretowlgarden.co.uk", 
+  "date": "2018-04-19T09:00:00", 
   "slug": 64588, 
+  "publisher": "secretowlgarden.co.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Secret Owl Garden, The", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20180419T090000/9zh6ST3kYr5mPgmYBYBeQQ==", 
+  "scope": "root", 
   "start_date": "2018-04-19T09:00:00Z"
 }
 

@@ -1,13 +1,21 @@
 {
-  "date": "2015-10-23T10:00:00", 
-  "open_access": false, 
   "target_url": "http://www.churchontherise.org.uk/", 
-  "description": "Church on the Rise is a church for and of the community and is based in Beaufort, Ebbw Vale and is based at the Soar Baptist Church.", 
   "end_date": null, 
-  "title": "Church on the Rise", 
-  "record_id": "20151023T100000/BwXC4Pzmwyh29Fm9hOnqBQ==", 
-  "publisher": "churchontherise.org.uk", 
+  "date": "2015-10-23T10:00:00", 
   "slug": 31710, 
+  "publisher": "churchontherise.org.uk", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Church on the Rise", 
+  "organisation": {
+    "abbreviation": "NLW", 
+    "id": 2, 
+    "name": "The National Library of Wales"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20151023T100000/BwXC4Pzmwyh29Fm9hOnqBQ==", 
+  "scope": "root", 
   "start_date": "2015-10-23T10:00:00Z"
 }
 

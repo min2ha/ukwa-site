@@ -1,13 +1,21 @@
 {
-  "date": "2017-02-28T09:00:00", 
-  "open_access": false, 
   "target_url": "http://www.lochgellyband.com/", 
-  "description": "Site of an amateur brass ban based in Lochgelly, Fife.", 
   "end_date": null, 
-  "title": "Lochgelly Band", 
-  "record_id": "20170228T090000/RQ1bvCVD9iWSmirEcdPF1Q==", 
-  "publisher": "lochgellyband.com", 
+  "date": "2017-02-28T09:00:00", 
   "slug": 49785, 
+  "publisher": "lochgellyband.com", 
+  "open_access": false, 
+  "npld": true, 
+  "title": "Lochgelly Band", 
+  "organisation": {
+    "abbreviation": "NLS", 
+    "id": 3, 
+    "name": "The National Library of Scotland"
+  }, 
+  "subjects": [], 
+  "collections": [], 
+  "record_id": "20170228T090000/RQ1bvCVD9iWSmirEcdPF1Q==", 
+  "scope": "root", 
   "start_date": "2017-02-28T09:00:00Z"
 }
 
