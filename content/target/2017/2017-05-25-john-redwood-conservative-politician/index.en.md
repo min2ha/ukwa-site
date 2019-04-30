@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 910, 
-      "name": "Brexit"
     }
   ], 
   "record_id": "20170525T090000/YVgETvAEUYM7RQH2tQ5WXA==", 
