@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 182, 
-      "name": "Muslims, Trust and Cultural Dialogue"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 2131, 
-      "name": "Caribbean Communities in the UK"
     }
   ], 
   "record_id": "20150721T100000/oTzYMuAm3gqqIuhQBwOBig==", 

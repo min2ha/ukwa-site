@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 114, 
-      "name": "First World War Centenary, 2014-18"
     }
   ], 
   "record_id": "20060101T120000/X/1qD6/p658XvInYeXv5Eg==", 

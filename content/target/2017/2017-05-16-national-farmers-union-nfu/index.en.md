@@ -17,14 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2429, 
-      "name": "British Countryside"
     }
   ], 
   "record_id": "20170516T090000/MFCQuEMbnPNOf2lqRAQVvA==", 

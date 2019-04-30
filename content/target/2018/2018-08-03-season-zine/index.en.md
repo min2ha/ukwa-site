@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 871, 
-      "name": "Zines and Fanzines"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1490, 
-      "name": "Sport: Football"
-    }, 
-    {
-      "id": 1942, 
-      "name": "Gender Equality"
     }
   ], 
   "record_id": "20180803T090000/Qs0+t8vE25osf+GqYifmWw==", 

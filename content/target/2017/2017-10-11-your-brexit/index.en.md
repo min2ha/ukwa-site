@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

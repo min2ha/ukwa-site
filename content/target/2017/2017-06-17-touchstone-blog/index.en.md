@@ -21,18 +21,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
-    }, 
-    {
-      "id": 2456, 
-      "name": "Credit Crunch"
     }
   ], 
   "record_id": "20170617T090000/4v5V8L0shGVs2SDvub9LDQ==", 

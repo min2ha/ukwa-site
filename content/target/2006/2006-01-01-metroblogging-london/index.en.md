@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2439, 
-      "name": "London Terrorist Attack 7th July 2005"
     }
   ], 
   "record_id": "20060101T120000/Y9ZrktJf5clhU7L3TiXx8A==", 

@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 182, 
-      "name": "Muslims, Trust and Cultural Dialogue"
-    }, 
-    {
-      "id": 871, 
-      "name": "Zines and Fanzines"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

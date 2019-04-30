@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1170, 
-      "name": "Live Art"
     }
   ], 
   "record_id": "20170620T090000/3pzMPhkSvAx7y4AS1lSBhg==", 

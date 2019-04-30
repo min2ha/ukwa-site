@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1092, 
-      "name": "Food Archive"
     }
   ], 
   "record_id": "20151112T090000/bs8RHuolGUXw8bHGZHNt4A==", 

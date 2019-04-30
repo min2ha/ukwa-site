@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2445, 
-      "name": "Mental Health"
     }
   ], 
   "record_id": "20131014T100000/HdHla3n4V5dxx9vfFg70gg==", 

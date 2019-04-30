@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 309, 
-      "name": "London French Special Collection"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

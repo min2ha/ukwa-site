@@ -15,24 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 65, 
-      "name": "Scottish Independence Referendum"
-    }, 
-    {
-      "id": 695, 
-      "name": "National Assembly for Wales Election, 2016 "
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170523T090000/sTWBFewfHzrQECZO3tpDNA==", 

@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2456, 
-      "name": "Credit Crunch"
     }
   ], 
   "record_id": "20081024T000000/JXaYrTIynojXFSZJ4V8uXQ==", 

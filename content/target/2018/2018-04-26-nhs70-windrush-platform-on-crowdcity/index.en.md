@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 2131, 
-      "name": "Caribbean Communities in the UK"
     }
   ], 
   "record_id": "20180426T090000/Qff3UKJ6X8qF+sLF0Pa6bg==", 

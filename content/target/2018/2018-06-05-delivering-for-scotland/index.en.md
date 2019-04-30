@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 971, 
-      "name": "Brexit : Impact on Scotland"
     }
   ], 
   "record_id": "20180605T090000/beWh+k2jeH7FKzn3/vH2IA==", 

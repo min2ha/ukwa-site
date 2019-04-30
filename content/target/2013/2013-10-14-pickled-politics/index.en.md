@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2383, 
-      "name": "42 Days"
     }
   ], 
   "record_id": "20131014T100000/A4GRy2hY9WnKPSksQhwv7w==", 

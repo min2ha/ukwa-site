@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 1170, 
-      "name": "Live Art"
     }
   ], 
   "record_id": "20060101T120000/kKUeiUBzGdhHlYrBqU0azQ==", 

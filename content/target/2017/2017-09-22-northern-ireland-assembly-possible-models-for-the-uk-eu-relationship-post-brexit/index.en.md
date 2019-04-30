@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1021, 
-      "name": "Brexit : Impact on Northern Ireland"
     }
   ], 
   "record_id": "20170922T090000/TS1Q2h8A389Z28LBu7z4LA==", 

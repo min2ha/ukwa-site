@@ -17,18 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 971, 
-      "name": "Brexit : Impact on Scotland"
-    }, 
-    {
-      "id": 1021, 
-      "name": "Brexit : Impact on Northern Ireland"
-    }, 
-    {
-      "id": 1023, 
-      "name": "Brexit : Impact on Wales"
     }
   ], 
   "record_id": "20180126T090000/lLvrJD127OEaEjjg/p5u/g==", 

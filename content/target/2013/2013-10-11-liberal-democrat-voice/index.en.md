@@ -19,32 +19,8 @@
       "name": "Blogs"
     }, 
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2383, 
-      "name": "42 Days"
     }
   ], 
   "record_id": "20131011T110000/n+kgcvdcpDXHkto5GmNHsA==", 

@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

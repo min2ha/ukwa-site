@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170521T090000/dHHkH4wx2AJkyIox9kKosA==", 

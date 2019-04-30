@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1150, 
-      "name": "UK/India Year of Culture 2017"
     }
   ], 
   "record_id": "20170803T090000/0T1C3fGO8mr4cCHo7s2Knw==", 

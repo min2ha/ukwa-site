@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170713T090000/HIXOgjF5QatTH0vRvz2Xcg==", 

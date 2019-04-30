@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 871, 
-      "name": "Zines and Fanzines"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1942, 
-      "name": "Gender Equality"
     }
   ], 
   "record_id": "20180802T090000/bEvve8Csf04OmWUHNPMZ7Q==", 

@@ -12,18 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 2383, 
-      "name": "42 Days"
-    }, 
-    {
-      "id": 2453, 
-      "name": "UK General Election 2005"
     }
   ], 
   "record_id": "20060101T120000/12iq3Fxx+uI3anmKrHBzYQ==", 

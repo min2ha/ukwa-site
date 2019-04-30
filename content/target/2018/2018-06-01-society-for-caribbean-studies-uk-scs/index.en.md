@@ -17,10 +17,6 @@
     {
       "id": 2, 
       "name": "19th Century English Literature"
-    }, 
-    {
-      "id": 2131, 
-      "name": "Caribbean Communities in the UK"
     }
   ], 
   "record_id": "20180601T090000/9Lyd0DVM2Ov2Vq4sY0KZJg==", 

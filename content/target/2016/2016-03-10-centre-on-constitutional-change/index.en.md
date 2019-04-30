@@ -15,18 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
-      "id": 689, 
-      "name": "Scottish Parliament Election 2016"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

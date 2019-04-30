@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170711T090000/xNPl83C3w7kajeLKhKd6oQ==", 

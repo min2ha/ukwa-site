@@ -1,10 +1,10 @@
 {
-  "target_url": "http://www.open-dialogues.blogspot.co.uk/", 
+  "target_url": "http://www.open-dialogues.blogspot.com/", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
-  "slug": 1501, 
-  "publisher": "blogspot.co.uk", 
-  "open_access": false, 
+  "slug": 27099153, 
+  "publisher": "blogspot.com", 
+  "open_access": true, 
   "npld": true, 
   "title": "Open Dialogues Blog", 
   "organisation": {
@@ -13,10 +13,15 @@
     "name": "The British Library"
   }, 
   "subjects": [], 
-  "collections": [], 
-  "record_id": "20060101T120000/roHGX9aDoBOSp8EWpEtGIQ==", 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }
+  ], 
+  "record_id": "20060101T120000/JkLfJ5pZsfYZ2OFU1feJBA==", 
   "scope": "root", 
   "start_date": null
 }
 
-None
+Open Dialogues is a writing collaboration that produces writing on and as performance. It was founded by Rachel Lois Clapham and Mary Paterson in 2008. The last blog post was February 2015.

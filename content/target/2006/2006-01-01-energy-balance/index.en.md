@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2455, 
-      "name": "Energy"
     }
   ], 
   "record_id": "20060101T120000/xmwXZOYRo9+Mqxz6lraZzA==", 

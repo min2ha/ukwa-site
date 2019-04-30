@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2431, 
-      "name": "E-publishing Trends/Emerging Formats"
     }
   ], 
   "record_id": "20130405T000000/jfRS/PN6ByIyRLWsgz1Quw==", 

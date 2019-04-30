@@ -17,14 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2385, 
-      "name": "Scottish Independence Referendum 2014"
     }
   ], 
   "record_id": "20170221T090000/4uwYwxAOGh2sNQwAJJv7uA==", 

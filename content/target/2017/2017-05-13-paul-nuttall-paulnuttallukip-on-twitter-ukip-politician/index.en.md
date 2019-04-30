@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170513T110000/txJ7A2JVPIgeJNnH9wfQbQ==", 

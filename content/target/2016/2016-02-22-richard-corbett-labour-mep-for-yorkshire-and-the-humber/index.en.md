@@ -15,24 +15,12 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
       "id": 44, 
       "name": "Blogs"
     }, 
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
     }
   ], 
   "record_id": "20160222T090000/+gNLiOHwBro5EClG3FDP2w==", 

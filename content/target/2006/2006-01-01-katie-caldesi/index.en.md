@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2406, 
-      "name": "Italy UK"
     }
   ], 
   "record_id": "20060101T120000/LjIgfPGnEfWbqfF2NVitaQ==", 

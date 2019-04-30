@@ -17,10 +17,6 @@
     {
       "id": 2361, 
       "name": "Africa UK"
-    }, 
-    {
-      "id": 2371, 
-      "name": "Free e-Journals"
     }
   ], 
   "record_id": "20131014T100000/tWbhh9sFvRigAcpTeY8JWw==", 

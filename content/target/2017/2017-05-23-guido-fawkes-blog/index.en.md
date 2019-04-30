@@ -17,22 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170523T090000/Msrj7iCGgRRbkNk+gi/SkA==", 

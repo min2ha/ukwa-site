@@ -17,14 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
-    }, 
-    {
-      "id": 2456, 
-      "name": "Credit Crunch"
     }
   ], 
   "record_id": "20160916T100000/pd06iOkWRvuwbVz9XI3J7g==", 

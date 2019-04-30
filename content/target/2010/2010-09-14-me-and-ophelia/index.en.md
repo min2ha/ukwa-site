@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2443, 
-      "name": "Personal Experiences of Illness"
     }
   ], 
   "record_id": "20100914T000000/rvIe1B5pkrsEN7/+faXK0Q==", 

@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 114, 
-      "name": "First World War Centenary, 2014-18"
-    }, 
-    {
-      "id": 202, 
-      "name": "Oral History in the UK"
     }
   ], 
   "record_id": "20131014T100000/GLYC34K1cinyZIEZp9uLGg==", 

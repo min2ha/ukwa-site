@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

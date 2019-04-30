@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
     }
   ], 
   "record_id": "20180503T090000/N1OLUmMeU4zfd2jvU6h13g==", 

@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 1151, 
-      "name": "LGBTQ+"
     }
   ], 
   "record_id": "20131014T100000/p1qijKaYi6/AhyTTKfxYEQ==", 

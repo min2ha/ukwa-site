@@ -15,32 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
-    }, 
-    {
-      "id": 2456, 
-      "name": "Credit Crunch"
     }
   ], 
   "record_id": "20160201T200000/haOXesAEWY/rE6qPjBTk/w==", 

@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 1768, 
-      "name": "Sports Collection"
     }
   ], 
   "record_id": "20160205T090000/PcAULTzGXXCaT2kXbz6HXg==", 

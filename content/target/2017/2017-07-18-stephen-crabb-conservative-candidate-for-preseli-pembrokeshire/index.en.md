@@ -15,24 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1023, 
-      "name": "Brexit : Impact on Wales"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170718T090000/Oz/exXkJ6D0XSqcV8y9LoQ==", 

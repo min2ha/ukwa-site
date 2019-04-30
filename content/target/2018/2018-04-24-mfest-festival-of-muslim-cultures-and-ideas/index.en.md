@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 182, 
-      "name": "Muslims, Trust and Cultural Dialogue"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

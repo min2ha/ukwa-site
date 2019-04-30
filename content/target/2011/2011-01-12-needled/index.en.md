@@ -12,14 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2443, 
-      "name": "Personal Experiences of Illness"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20110112T000000/5B8EAh6/Owp8OP2SpqGpLA==", 

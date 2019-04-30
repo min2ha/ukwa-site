@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

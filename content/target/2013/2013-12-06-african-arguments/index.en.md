@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 185, 
-      "name": "Nelson Mandela"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
     }
   ], 
   "record_id": "20131206T234500/VqYQ8waU0RU1ILIfHvfJIg==", 

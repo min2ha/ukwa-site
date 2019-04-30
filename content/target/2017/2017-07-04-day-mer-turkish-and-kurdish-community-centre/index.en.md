@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 870, 
-      "name": "Housing and Social Housing"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

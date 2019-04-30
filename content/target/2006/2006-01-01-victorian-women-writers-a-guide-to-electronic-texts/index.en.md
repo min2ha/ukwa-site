@@ -12,14 +12,6 @@
     {
       "id": 2, 
       "name": "19th Century English Literature"
-    }, 
-    {
-      "id": 2431, 
-      "name": "E-publishing Trends/Emerging Formats"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20060101T120000/Iyqy8JxNm0rmot4r5kmXrw==", 

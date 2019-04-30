@@ -15,24 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 469, 
-      "name": "Easter Rising "
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170523T080000/x54cCgCk+cjXXHPG5nxseA==", 

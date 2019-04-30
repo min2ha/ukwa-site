@@ -17,22 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 172, 
-      "name": "Margaret Thatcher"
-    }, 
-    {
-      "id": 1023, 
-      "name": "Brexit : Impact on Wales"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170126T090000/3aNefMy7mD2nu6shrNaOVw==", 

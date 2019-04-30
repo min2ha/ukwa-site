@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
     }
   ], 
   "record_id": "20131011T100000/coXNWYuuFqxqSN41rWxh0A==", 

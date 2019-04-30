@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 132, 
-      "name": "History of the Book"
     }
   ], 
   "record_id": "20150521T080000/fM5Dx3uifT4dFKtgdGU0RQ==", 

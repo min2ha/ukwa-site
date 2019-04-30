@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20060209T000000/B9/Yd5fSYKEw7qjyosOv4w==", 

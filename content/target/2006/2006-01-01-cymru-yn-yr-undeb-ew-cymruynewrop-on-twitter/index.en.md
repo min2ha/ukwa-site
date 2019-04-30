@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1023, 
-      "name": "Brexit : Impact on Wales"
     }
   ], 
   "record_id": "20060101T120000/h9BxluVXM4V4nE5RD3rpNw==", 

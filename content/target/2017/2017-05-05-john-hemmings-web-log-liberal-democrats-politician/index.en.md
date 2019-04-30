@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2453, 
-      "name": "UK General Election 2005"
     }
   ], 
   "record_id": "20170505T090000/Rxs4ximE/EBZJaLkRCd9JQ==", 

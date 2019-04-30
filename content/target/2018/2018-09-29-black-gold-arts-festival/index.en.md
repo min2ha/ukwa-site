@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1837, 
-      "name": "Festivals"
     }
   ], 
   "record_id": "20180929T090000/u0ZpvuBWBh5Xcq+UZ1t2sw==", 

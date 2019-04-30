@@ -15,18 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 182, 
-      "name": "Muslims, Trust and Cultural Dialogue"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

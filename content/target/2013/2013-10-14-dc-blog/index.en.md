@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2377, 
-      "name": "English Language"
     }
   ], 
   "record_id": "20131014T100000/2eUHW++IACbmqK5k+xcYzA==", 

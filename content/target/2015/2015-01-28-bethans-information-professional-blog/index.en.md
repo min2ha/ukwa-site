@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 131, 
-      "name": "History of Libraries Collection"
     }
   ], 
   "record_id": "20150128T000000/WmzYwUZigUHuiSiPOVhkQA==", 

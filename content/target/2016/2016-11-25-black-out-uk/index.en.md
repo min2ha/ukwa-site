@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1151, 
-      "name": "LGBTQ+"
     }
   ], 
   "record_id": "20161125T090000/JVrfVmblg+U2ZsfMekYAxQ==", 

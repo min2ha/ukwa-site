@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2375, 
-      "name": "National Assembly for Wales election 2011"
     }
   ], 
   "record_id": "20110525T000000/GWVknPC83P9C2D3473K1iw==", 

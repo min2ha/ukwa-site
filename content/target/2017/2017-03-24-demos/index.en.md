@@ -19,16 +19,8 @@
       "name": "Blogs"
     }, 
     {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170324T215400/oBojKDCthX9+VqpLl95fkg==", 

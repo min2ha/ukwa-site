@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 1, 
-      "name": "100 Best Sites"
-    }, 
-    {
       "id": 2, 
       "name": "19th Century English Literature"
     }

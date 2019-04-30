@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
-      "id": 689, 
-      "name": "Scottish Parliament Election 2016"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20160624T101400/iRjqCDEWepUHouF+hKoNhg==", 

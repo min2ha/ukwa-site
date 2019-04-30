@@ -17,18 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20160708T100000/rrqe1rE+74z/lWYNLY9sbw==", 

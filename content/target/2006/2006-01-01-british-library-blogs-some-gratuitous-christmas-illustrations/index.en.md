@@ -16,10 +16,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2378, 
-      "name": "Dickens Bicentenary"
     }
   ], 
   "record_id": "20060101T120000/ihRx38VsexQldsPcXyoEFQ==", 

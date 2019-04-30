@@ -17,18 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 65, 
-      "name": "Scottish Independence Referendum"
-    }, 
-    {
-      "id": 2374, 
-      "name": "Welsh devolution referendum 2011"
     }
   ], 
   "record_id": "20150327T090000/QncD/pKefpraoQx9ne1dVw==", 

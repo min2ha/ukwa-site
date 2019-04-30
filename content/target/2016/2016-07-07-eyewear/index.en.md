@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 889, 
-      "name": "Poetry Zines and Journals"
     }
   ], 
   "record_id": "20160707T110000/mHEdg6gPuAxphdIynZzQvw==", 

@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2449, 
-      "name": "London Mayoral Election 2008"
     }
   ], 
   "record_id": "20060101T120000/gy8L9mmQ9gdOiONcmA91Ew==", 

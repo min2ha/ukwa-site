@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 65, 
-      "name": "Scottish Independence Referendum"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
     }
   ], 
   "record_id": "20131014T100000/oadxBMP/hHfAY+F8vrW6NA==", 

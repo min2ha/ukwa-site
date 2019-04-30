@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
     }
   ], 
   "record_id": "20131014T100000/bhzF6u8Fj1Fh2FW5qXJ+aw==", 

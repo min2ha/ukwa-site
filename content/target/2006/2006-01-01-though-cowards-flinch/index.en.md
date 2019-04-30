@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
     }
   ], 
   "record_id": "20060101T120000/jLaxV9jOGEhTACYPhR9Q2Q==", 

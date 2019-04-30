@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1021, 
-      "name": "Brexit : Impact on Northern Ireland"
     }
   ], 
   "record_id": "20131011T100000/qmFR2lvxBmm7ZrebRjgoJg==", 

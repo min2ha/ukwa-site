@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 871, 
-      "name": "Zines and Fanzines"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

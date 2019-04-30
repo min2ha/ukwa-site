@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
     }
   ], 
   "record_id": "20160609T100000/PIA7IwLqRS8t257VZcVjbw==", 

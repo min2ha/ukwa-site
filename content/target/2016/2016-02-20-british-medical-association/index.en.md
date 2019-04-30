@@ -15,18 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 9, 
-      "name": "Health and Social Care Act 2012 - NHS Reforms"
-    }, 
-    {
-      "id": 100, 
-      "name": "Ebola Outbreak, West Africa 2014"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

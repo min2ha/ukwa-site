@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 520, 
-      "name": "IT Collection"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

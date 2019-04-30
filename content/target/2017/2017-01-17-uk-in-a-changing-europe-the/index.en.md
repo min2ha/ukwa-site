@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170117T090000/8CoBY4UE6OTeZjk7VLnByA==", 

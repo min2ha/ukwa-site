@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 114, 
-      "name": "First World War Centenary, 2014-18"
-    }, 
-    {
-      "id": 2399, 
-      "name": "Northern Ireland"
     }
   ], 
   "record_id": "20131014T100000/rDH2Cz//0L2Shqz6Vm0L5w==", 

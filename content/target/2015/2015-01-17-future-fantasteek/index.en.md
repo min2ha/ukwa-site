@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 871, 
-      "name": "Zines and Fanzines"
     }
   ], 
   "record_id": "20150117T000000/v63JIY0+t5E2ehbs1tLiYA==", 

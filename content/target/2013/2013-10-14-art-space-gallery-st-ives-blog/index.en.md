@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2430, 
-      "name": "Cornwall"
     }
   ], 
   "record_id": "20131014T100000/ic0TNWmd0oGLUxr9DqmtlQ==", 

@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 114, 
-      "name": "First World War Centenary, 2014-18"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2399, 
-      "name": "Northern Ireland"
     }
   ], 
   "record_id": "20131014T100000/HkxKKE9zn1OdGBpFonTiCg==", 

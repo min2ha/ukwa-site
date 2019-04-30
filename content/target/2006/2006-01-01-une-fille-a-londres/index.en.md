@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 309, 
-      "name": "London French Special Collection"
-    }, 
-    {
-      "id": 2393, 
-      "name": "French in London"
     }
   ], 
   "record_id": "20060101T120000/B43hdYq7PMVPNvJD3dUDTQ==", 

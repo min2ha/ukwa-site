@@ -15,40 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 369, 
-      "name": "Climate Change Debates"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
-    }, 
-    {
-      "id": 2456, 
-      "name": "Credit Crunch"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
     }
   ], 
   "record_id": "20160707T070000/WrJuSyisoD0eT/Av7dQM1w==", 

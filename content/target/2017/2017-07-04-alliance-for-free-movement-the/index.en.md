@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2442, 
-      "name": "Cambridge Network"
     }
   ], 
   "record_id": "20160811T120000/odsRMKLLn2dizgRoepFrlA==", 

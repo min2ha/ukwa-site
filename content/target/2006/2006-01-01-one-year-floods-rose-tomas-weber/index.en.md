@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2395, 
-      "name": "Offshore Islands Collection (Channel Islands and Isle of Man)"
     }
   ], 
   "record_id": "20060101T120000/hUI92vXHaIte0TzGwTF2zQ==", 

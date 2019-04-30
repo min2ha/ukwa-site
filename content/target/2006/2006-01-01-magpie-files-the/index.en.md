@@ -1,22 +1,21 @@
 {
-  "target_url": "http://magpiefiles.blogspot.co.uk/", 
+  "target_url": "http://magpiefiles.blogspot.com/", 
   "end_date": null, 
   "date": "2006-01-01T12:00:00", 
-  "slug": 156006, 
-  "publisher": "blogspot.co.uk", 
-  "open_access": true, 
-  "npld": true, 
+  "slug": 59441159, 
+  "publisher": "blogspot.com", 
+  "open_access": false, 
+  "npld": false, 
   "title": "Magpie Files, The", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
   "subjects": [], 
-  "collections": [], 
-  "record_id": "20060101T120000/3OhSeDLx7/3U0YYGS8scvQ==", 
+  "collections": [
+    {
+      "id": 44, 
+      "name": "Blogs"
+    }
+  ], 
+  "record_id": "20060101T120000/rYNV3PrCE+seOjJ9t/+gcg==", 
   "scope": "root", 
   "start_date": null
 }
 
-None

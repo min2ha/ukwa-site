@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
     }
   ], 
   "record_id": "20060101T120000/lUxSBXMFOSM/QH/B8T79jA==", 

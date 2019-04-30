@@ -25,10 +25,6 @@
     {
       "id": 2361, 
       "name": "Africa UK"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20131014T030000/A3ylhaVYkkuK2iqZghmqRw==", 

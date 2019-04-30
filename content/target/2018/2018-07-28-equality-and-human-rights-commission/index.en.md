@@ -17,10 +17,6 @@
     {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1942, 
-      "name": "Gender Equality"
     }
   ], 
   "record_id": "20180728T090000/wgM0LV214p3C5VAW81MSMA==", 

@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 695, 
-      "name": "National Assembly for Wales Election, 2016 "
     }
   ], 
   "record_id": "20160401T060000/LJFQ+5TW44lENehjO4P38g==", 

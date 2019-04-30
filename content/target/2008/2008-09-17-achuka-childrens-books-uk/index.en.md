@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2391, 
-      "name": "Children's Websites"
     }
   ], 
   "record_id": "20080917T000000/jjw8Cxtd6pvpqBW1Ulzgsg==", 

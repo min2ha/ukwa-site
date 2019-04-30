@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2453, 
-      "name": "UK General Election 2005"
     }
   ], 
   "record_id": "20170630T090000/8rKxPdJuP2b2X+aW7QuTVQ==", 

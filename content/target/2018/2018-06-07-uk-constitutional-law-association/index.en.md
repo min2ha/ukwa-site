@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 65, 
-      "name": "Scottish Independence Referendum"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

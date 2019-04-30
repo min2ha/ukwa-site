@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2446, 
-      "name": "Pandemic Influenza"
     }
   ], 
   "record_id": "20090818T000000/vyj3xU2Nu6cQaV4OZSXPHQ==", 

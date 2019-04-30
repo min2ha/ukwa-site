@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
     }
   ], 
   "record_id": "20160629T110000/HcXb+s1meFnq5TwACEP5Eg==", 

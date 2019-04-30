@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2394, 
-      "name": "Sex, Power and the Games"
     }
   ], 
   "record_id": "20060101T120000/reBu91sFYT/xZWJ0K+tnrQ==", 

@@ -17,18 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
-      "id": 2449, 
-      "name": "London Mayoral Election 2008"
     }
   ], 
   "record_id": "20160222T090000/Q0Lv79K9vzcr93lQesLGdw==", 

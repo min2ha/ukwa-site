@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2441, 
-      "name": "Queen's Diamond Jubilee, 2012"
     }
   ], 
   "record_id": "20120704T000000/KFO/r7nCuA3jG93s55IOAg==", 

@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 202, 
-      "name": "Oral History in the UK"
     }
   ], 
   "record_id": "20060101T120000/evuTA5svo4jC3XoOAYPFoQ==", 

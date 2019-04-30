@@ -17,10 +17,6 @@
     {
       "id": 2, 
       "name": "19th Century English Literature"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20170617T090000/FTt3hfGcVRjgQzFbvCo+SA==", 

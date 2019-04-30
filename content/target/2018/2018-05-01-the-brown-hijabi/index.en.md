@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 889, 
-      "name": "Poetry Zines and Journals"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

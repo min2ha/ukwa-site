@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2451, 
-      "name": "Spending Cuts 2010: Impact on Social Welfare"
     }
   ], 
   "record_id": "20160831T100000/QaF0H0WMZOg5TWM0uwYSeA==", 

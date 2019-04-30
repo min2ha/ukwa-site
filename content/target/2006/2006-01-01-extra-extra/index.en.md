@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2435, 
-      "name": "Indian Ocean Tsunami December 2004"
     }
   ], 
   "record_id": "20060101T120000/RzmYquKh7W8fi0mPA1FQzQ==", 

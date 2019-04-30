@@ -15,40 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 4, 
-      "name": "European Parliament Elections 2014"
-    }, 
-    {
-      "id": 60, 
-      "name": "UK General Election 2015"
-    }, 
-    {
-      "id": 65, 
-      "name": "Scottish Independence Referendum"
-    }, 
-    {
-      "id": 369, 
-      "name": "Climate Change Debates"
-    }, 
-    {
-      "id": 649, 
-      "name": "EU Referendum"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
-    }, 
-    {
-      "id": 2453, 
-      "name": "UK General Election 2005"
-    }, 
-    {
-      "id": 2450, 
-      "name": "European Parliament Elections 2009"
     }
   ], 
   "record_id": "20170503T090000/F/3mC8KWcmolCyIZ7mOTbw==", 

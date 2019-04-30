@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2371, 
-      "name": "Free e-Journals"
     }
   ], 
   "record_id": "20131014T100000/oqFHmawwYWh4mvyls4Gz3Q==", 

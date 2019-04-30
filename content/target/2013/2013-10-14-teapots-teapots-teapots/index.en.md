@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2365, 
-      "name": "Britishness"
     }
   ], 
   "record_id": "20131014T100000/vnW2udFCJn7XV9+Czziqcw==", 

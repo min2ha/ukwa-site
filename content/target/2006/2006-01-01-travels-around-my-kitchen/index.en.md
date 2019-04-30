@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2393, 
-      "name": "French in London"
     }
   ], 
   "record_id": "20060101T120000/f9u2pKA0u62GYnH2DX/dHg==", 

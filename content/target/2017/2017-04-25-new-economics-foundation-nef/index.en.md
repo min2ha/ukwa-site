@@ -15,20 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 369, 
-      "name": "Climate Change Debates"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 1233, 
-      "name": "UK General Election 2017"
     }
   ], 
   "record_id": "20170425T090000/85HO3DoIYx1rq1yBI2/i5w==", 

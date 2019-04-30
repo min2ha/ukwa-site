@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
-    }, 
-    {
-      "id": 2131, 
-      "name": "Caribbean Communities in the UK"
     }
   ], 
   "record_id": "20161230T090000/A5ompKmne/Q1ur/3i0M+eQ==", 

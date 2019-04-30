@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 239, 
-      "name": "Religion/Theology"
     }
   ], 
   "record_id": "20150331T090000/12mO/qYWeh2p0v1pjbwIXg==", 

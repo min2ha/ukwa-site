@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2429, 
-      "name": "British Countryside"
-    }, 
-    {
-      "id": 2455, 
-      "name": "Energy"
     }
   ], 
   "record_id": "20060101T120000/yc+JslPz1O3hqInsGnZF3Q==", 

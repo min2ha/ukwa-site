@@ -15,14 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 369, 
-      "name": "Climate Change Debates"
-    }, 
-    {
       "id": 910, 
       "name": "Brexit"
     }

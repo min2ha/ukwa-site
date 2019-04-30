@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2392, 
-      "name": "Fashion"
     }
   ], 
   "record_id": "20080731T000000/vX1ANUYxlRSjcUvOEJJTww==", 

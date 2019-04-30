@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 695, 
-      "name": "National Assembly for Wales Election, 2016 "
     }
   ], 
   "record_id": "20180804T090000/8oesPNkps3Mk0Sqcq9nHiA==", 

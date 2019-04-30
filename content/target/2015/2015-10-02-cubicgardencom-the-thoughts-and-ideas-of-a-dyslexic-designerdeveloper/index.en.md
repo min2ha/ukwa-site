@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 520, 
-      "name": "IT Collection"
     }
   ], 
   "record_id": "20151002T100000/4JLDdpPhQpMYDvzEISV1RQ==", 

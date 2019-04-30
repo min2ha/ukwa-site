@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 138, 
-      "name": "News Sites"
-    }, 
-    {
-      "id": 2399, 
-      "name": "Northern Ireland"
     }
   ], 
   "record_id": "20131014T100000/HKBDWd3m5xsUgvXK10CiwQ==", 

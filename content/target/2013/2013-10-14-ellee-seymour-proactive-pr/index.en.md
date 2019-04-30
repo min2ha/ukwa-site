@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2442, 
-      "name": "Cambridge Network"
     }
   ], 
   "record_id": "20131014T100000/U7C5tGS4eErtol5Kkb3+CA==", 

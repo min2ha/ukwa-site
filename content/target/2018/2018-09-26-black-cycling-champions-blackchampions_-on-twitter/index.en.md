@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1768, 
-      "name": "Sports Collection"
     }
   ], 
   "record_id": "20180926T090000/Z+ZIjgUn3lnb2lLe2Yp5bg==", 

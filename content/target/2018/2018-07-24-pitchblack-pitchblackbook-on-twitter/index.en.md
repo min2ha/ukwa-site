@@ -17,10 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1490, 
-      "name": "Sport: Football"
     }
   ], 
   "record_id": "20180724T090000/fVFzE2QKnC78t3OELdStbA==", 

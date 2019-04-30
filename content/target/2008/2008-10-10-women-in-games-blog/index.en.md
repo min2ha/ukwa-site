@@ -12,14 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 286, 
-      "name": "Video Games"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20081010T000000/uGFjW+XBI+7em07IggDc0w==", 

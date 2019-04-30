@@ -17,14 +17,6 @@
     {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 1150, 
-      "name": "UK/India Year of Culture 2017"
-    }, 
-    {
-      "id": 1837, 
-      "name": "Festivals"
     }
   ], 
   "record_id": "20170804T090000/34j5ZanVnpqIDF6dHtx7hg==", 

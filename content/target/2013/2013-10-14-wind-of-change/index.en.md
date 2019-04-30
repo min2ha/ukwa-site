@@ -17,14 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 208, 
-      "name": "Political Action and Communication"
-    }, 
-    {
-      "id": 2455, 
-      "name": "Energy"
     }
   ], 
   "record_id": "20131014T100000/TZhpBkdGr07olP7ssY+zgw==", 

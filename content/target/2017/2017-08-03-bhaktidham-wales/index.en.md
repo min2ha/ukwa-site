@@ -15,10 +15,6 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 239, 
-      "name": "Religion/Theology"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
     }

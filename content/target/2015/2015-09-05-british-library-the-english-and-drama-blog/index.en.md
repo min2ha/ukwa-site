@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 1840, 
-      "name": "UK Legal Deposit Libraries Websites"
     }
   ], 
   "record_id": "20150905T100000/XIRcDpCozbEz+oBn2EVrag==", 

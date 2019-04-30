@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2429, 
-      "name": "British Countryside"
     }
   ], 
   "record_id": "20060101T120000/cZf8SBUJpzLCm0Q+GUhTLQ==", 

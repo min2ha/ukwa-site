@@ -17,10 +17,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2438, 
-      "name": "Slavery and Abolition in the Caribbean"
     }
   ], 
   "record_id": "20131014T100000/r9Y/hOU1TpXYugjooA1MGg==", 

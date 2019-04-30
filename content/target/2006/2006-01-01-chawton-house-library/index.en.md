@@ -17,14 +17,6 @@
     {
       "id": 2, 
       "name": "19th Century English Literature"
-    }, 
-    {
-      "id": 131, 
-      "name": "History of Libraries Collection"
-    }, 
-    {
-      "id": 2447, 
-      "name": "Women's Issues"
     }
   ], 
   "record_id": "20060101T120000/tox3Bgco0cdfWET8Oo1Ezg==", 

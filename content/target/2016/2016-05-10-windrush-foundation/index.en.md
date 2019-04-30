@@ -15,16 +15,8 @@
   "subjects": [], 
   "collections": [
     {
-      "id": 114, 
-      "name": "First World War Centenary, 2014-18"
-    }, 
-    {
       "id": 1107, 
       "name": "Black and Asian Britain"
-    }, 
-    {
-      "id": 2131, 
-      "name": "Caribbean Communities in the UK"
     }
   ], 
   "record_id": "20160510T100000/wocina/iboportR3oZWe+w==", 

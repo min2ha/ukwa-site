@@ -12,10 +12,6 @@
     {
       "id": 44, 
       "name": "Blogs"
-    }, 
-    {
-      "id": 2374, 
-      "name": "Welsh devolution referendum 2011"
     }
   ], 
   "record_id": "20060101T120000/B/DHeNgoXltUUc3EOfgf2g==", 
