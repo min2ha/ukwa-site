@@ -3,7 +3,7 @@ languageCode = "en-gb"
 defaultContentLanguage = "en"
 
 rssLimit = 100
-Paginate = 100
+Paginate = 20
 theme = "hugo-bootstrap"
 
 [permalinks]
@@ -35,6 +35,21 @@ theme = "hugo-bootstrap"
     name = "Topics & Themes"
     url = "/collection/"
     weight = 2
+
+[[menu.main]]
+    name = "Save a UK website"
+    url = "/info/nominate"
+    weight = 3
+
+[[menu.main]]
+    name = "About Us"
+    url = "/about"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact Us"
+    url = "/contact"
+    weight = 5
 
 [params]
   google_analytics_id=""

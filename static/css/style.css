@@ -1,6 +1,13 @@
+html, body {
+    font-family: "Open Sans", Roboto, sans-serif;
+}
+
+body {
+  border-top: 4px solid royalblue;
+}
+
 .blog-header, .blog-post, .blog-pagination {
   /* margin-bottom: 2rem; */
-  border-top: 4px solid royalblue;
 }
 
 /* Make sure the image size is reasonable. */
@@ -12,22 +19,31 @@
   background-color: white !important;
 }
 
-.navbar a.nav-link {
+.navbar a {
     color: #2e6dd9 !important;
 }
 
-.navbar a.nav-link:hover {
-    text-decoration: underline;
+.navbar a:hover {
+    text-decoration: underline !important;
 }
 
-.main-search-input-new {
+.blog-main h2 {
+  color: #0c49b0;  
+}
+
+.ukwa-hero-banner {
   color: #ffffff;
-  height: 256px;
+  height: 15rem;
   width: 100%;
+  padding-top: 6.1rem;
   background-repeat: no-repeat;
   background-image: url("/img/icons/UKWA-hero-composite-final.png");
   background-size: cover;
 }
-.main-search-input-new h1 {
-    margin-top: 100px;
+
+.footer-logos {
+  border-bottom: 4px solid royalblue;
+}
+.footer-logos .img-thumbnail {
+  border: none;
 }

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ $truncate := default true .Site.Params.truncate }}
+
+{{ if .Content }}
+<section class="blog-post">
+    {{ .Content }}
+</section>
+{{ end }}
+
+{{ $paginator := .Paginate (where .Pages "Type" "post") }}
+{{ range $paginator.Pages }}
+
+    {{ if $truncate }}
+        {{ .Render "summary" }}
+    {{ else }}
+        {{ .Render "content" }}
+    {{ end }}
+
+{{ end }}
+
+{{ partial "paginator" . }}
+
+{{ end }}

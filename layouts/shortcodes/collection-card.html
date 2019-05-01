@@ -1,0 +1,15 @@
+<div class="card text-center">
+  <a href='/collection/{{ .Get "id" }}'>
+    {{ $img_path := ( printf "static/img/collections/collection_%s.png" ( .Get "id" )) }}
+    {{ if (fileExists $img_path) -}}
+    <img class="card-img-top" src='/img/collections/collection_{{ .Get "id" }}.png' alt='{{ .Get "title" }}'>
+    {{- else -}}
+    <img class="card-img-top" src="/img/collections/collection_default.png" alt='{{ .Get "title" }}'>
+    {{- end }}
+  </a>
+  <div class="card-body">
+    <h5 class="card-title">{{ .Get "title" }}</h5>
+    <p class="card-text">{{ .Get "description" | safeHTML | truncate 200 }}</p>
+    <a href='/collection/{{ .Get "id" }}' class="btn btn-primary">View</a> 
+  </div>
+</div>
