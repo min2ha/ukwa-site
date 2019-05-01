@@ -1,0 +1,16 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    <ul>
+      <li><a href="{{ .Params.target_url }}">Link to the live site</a></li>
+    </ul>
+
+    <ul>
+        {{ range .Params.collections }}
+            <li>
+                <a href="{{ "collection/" | relLangURL }}{{ .id }}/">{{ .name }}</a>
+            </li>
+        {{ end }}
+    </ul>
+
+{{ end }}

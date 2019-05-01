@@ -1,0 +1,39 @@
+{{ define "body" }}
+
+<div class="container-fluid">
+<div class="row">
+    <div class="col-12 white main-search-input-new left background-settings-default">
+      <div class="main-heading-2-bold-redesign white">{{ .Title }}</div>
+            </div>
+</div>
+</div>
+
+    <div class="container-fluid pr-5 pl-5">
+      <div class="row">
+
+  <main>
+      {{ .Content }}
+
+            <!--THUMBNAIL DISPLAY-->
+            <div class="row">
+          {{ range .Paginator.Pages }}
+<div class="col-sm-3 pb-3">
+<div class="card text-center">
+  <a href="{{ .Permalink }}">
+    <img class="card-img-top" src="/img/collections/collection_{{ .Params.id }}.png" alt="{{ .Title }}">
+  </a>
+  <div class="card-body">
+    <h5 class="card-title">{{ .Title }}</h5>
+    <p class="card-text">{{ .Description | safeHTML | truncate 200 }}</p>
+    <a href="{{ .Permalink }}" class="btn btn-primary">View</a> 
+  </div>
+</div>
+</div>
+          {{ end }}
+          </div>
+      {{ template "_internal/pagination.html" . }}
+  </main>
+
+      </div>
+    </div>
+{{ end }}

@@ -1,0 +1,10 @@
+{{ define "main" }}
+    {{ .Content }}
+    <ul>
+        {{ range .Params.targetIds }}
+            <li>
+                <a href="{{ "target/" | relLangURL }}{{ . }}/">{{ . }}</a>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}

@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <main>
+      {{ .Content }}
+
+            <!--THUMBNAIL DISPLAY-->
+            <div class="row margin-0 padding-side-5 padding-mobile-side-20 padding-top-0 targets">
+          {{ range .Paginator.Pages }}
+                    <div class="col-lg-3 col-md-6 col-sm-12 image-grid-col padding-bottom-20 padding-top-30">
+                        <a href="{{ .Permalink }}" class="target-link">
+                            <div class="left light-blue padding-bottom-10 padding-left-20 padding-right-20 target-heading-bold">{{ .Title }}</div>
+                            <div class="left black padding-bottom-10 padding-left-20 padding-right-20 target-heading thumbnail">{{ .Description | safeHTML | truncate 60 }}</div>
+                        </a>
+                    </div>
+          {{ end }}
+          </div>
+      {{ template "_internal/pagination.html" . }}
+  </main>
+{{ end }}
