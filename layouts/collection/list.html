@@ -20,7 +20,12 @@
 <div class="col-sm-3 pb-3">
 <div class="card text-center">
   <a href="{{ .Permalink }}">
+    {{ $img_path := ( printf "static/img/collections/collection_%.f.png" .Params.id ) }}
+    {{ if (fileExists $img_path) -}}
     <img class="card-img-top" src="/img/collections/collection_{{ .Params.id }}.png" alt="{{ .Title }}">
+    {{- else -}}
+    <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}">
+    {{- end }}
   </a>
   <div class="card-body">
     <h5 class="card-title">{{ .Title }}</h5>
