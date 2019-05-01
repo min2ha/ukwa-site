@@ -4,7 +4,7 @@ title: Welcome
 
 ## What we do
 
-<div class="row pt-2">
+<div class="row pt-2 pb-2">
     <div class="col-md-8">
         <p>
             The UK Web Archive (UKWA) collects millions of websites each year, preserving them for future generations. The UKWA is a partnership of the six <a class="infolink" data-toggle="tooltip" data-placement="top" title="By law, all UK print and digital publications, including websites, must be deposited with the British Library and by request to the other five Legal Deposit Libraries. They are - the National Library of Scotland, National Library of Wales, Bodleian Libraries, Cambridge University Libraries and Trinity College, Dublin.">UK Legal Deposit Libraries</a>.
@@ -29,15 +29,15 @@ more](https://www.webarchive.org.uk/en/ukwa/collection "Find out more").
 
 <div class="row pt-4">
 
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
   {{< collection-card id="329" title="British Stand-up Comedy Archive" description="Collection owned and administered by Elspeth Millar." >}}
 </div>
 
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
   {{< collection-card id="309" title="French in London" description="This collection of websites has been selected by Saskia Huc-Hepher." >}}
 </div>
 
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
   {{< collection-card id="138" title="News Sites" description="558 titles are included in this collection." >}}
 </div>
 
