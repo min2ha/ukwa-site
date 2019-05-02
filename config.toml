@@ -1,6 +1,8 @@
 baseURL = "/"
 languageCode = "en-gb"
-defaultContentLanguage = "en"
+DefaultContentLanguage = "en"
+enableMissingTranslationPlaceholders = "true"
+defaultContentLanguageInSubdir = "true"
 
 rssLimit = 100
 Paginate = 20
@@ -15,15 +17,12 @@ theme = "hugo-bootstrap"
     languageName = "English"
     title = "The UK Web Archive"
     weight = 1
-    [languages.en.params]
-      linkedin = "https://linkedin.com/whoever"
   [languages.cy]
     languageName = "Cymraeg"
-    title = "TBC"
+    title = "Archif We y DG"
     weight = 2
     [languages.cy.params]
-      linkedin = "https://linkedin.com/fr/whoever"
-      [languages.fr.params.navigation]
+      [languages.cy.params.navigation]
         help = "Aide"
 
 [[menu.main]]

@@ -7,7 +7,7 @@
     <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}">
     {{- end }}
   </a>
-  <div class="card-body">
+  <div class="card-body position-relative">
     <h5 class="card-title">{{ .Title }}</h5>
     <p class="card-text">{{ .Description | safeHTML | truncate 200 }}</p>
     <a href="{{ .Permalink }}" class="btn btn-primary">View</a> 
