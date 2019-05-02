@@ -15,9 +15,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
 
-    {{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ end }}
+    <link href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
     {{ template "_internal/google_analytics_async.html" . }}
 
@@ -27,16 +25,16 @@
     {{ block "header" . }}
       {{ partial "header" . }}
     {{ end }}
-
-<div class="container-fluid">
-  <div class="row">
-     <div class="col-12 mb-3 ukwa-hero-banner">
-      <span class="align-middle">
-        <h1 class="pl-5">{{ .Title }}</h1>
-      </span>
-      </div>
-</div>
-</div>
+    
+    {{ block "hero" . }}
+    <div class="container-fluid">
+      <div class="row">
+         <div class="col-12 mb-3 ukwa-hero-banner">
+            <h1 class="pl-5">{{ .Title }}</h1>
+          </div>
+    </div>
+    </div>
+    {{ end }}
 
     {{ block "body" . }}
     <div class="container-fluid">
@@ -45,6 +43,8 @@
 
           {{ block "main" . }}
           {{ end }}
+
+          <hr/>
 
         </div>
 

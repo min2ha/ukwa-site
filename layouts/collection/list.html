@@ -7,22 +7,8 @@
             <div class="row">
           {{ range .Paginator.Pages }}
 <div class="col-sm-3 pb-3">
-  
-<div class="card text-center">
-  <a href="{{ .Permalink }}">
-    {{ $img_path := ( printf "static/img/collections/collection_%.f.png" .Params.id ) }}
-    {{ if (fileExists $img_path) -}}
-    <img class="card-img-top" src="/img/collections/collection_{{ .Params.id }}.png" alt="{{ .Title }}">
-    {{- else -}}
-    <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}">
-    {{- end }}
-  </a>
-  <div class="card-body">
-    <h5 class="card-title">{{ .Title }}</h5>
-    <p class="card-text">{{ .Description | safeHTML | truncate 200 }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-primary">View</a> 
-  </div>
-</div>
+
+{{ partial "collection-card" . }}
 
 </div>
           {{ end }}

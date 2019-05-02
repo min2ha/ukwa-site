@@ -1,0 +1,148 @@
+{{ define "hero" }}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12 mb-3 ukwa-hero-banner">
+
+  <div class="row">
+    <div class="col-6 offset-md-2">
+        <h2 class="">Search the UK Web Archive</h2>
+    </div>
+  </div>
+
+<form action="search" method="get" enctype="multipart/form-data">
+  <div class="row">
+    <div class="col-6 offset-md-2">
+      <input type="text" name="text" class="form-control form-control-lg" placeholder="Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...">
+    </div>
+    <div class="col-2">
+      <button type="submit" class="btn btn-light mb-2 pl-4 pr-4 btn-lg">Search<i class="fa fa-search"></i></button>
+    </div>
+  </div>
+</form>
+
+  <div class="row">
+    <div class="col-6 offset-md-2">
+<p>
+  <a href="/info/tips" class="text-white">Tips/Notes for using the UK Web Archive</a>
+</p>
+    </div>
+  </div>
+
+    </div>
+  </div>
+</div>
+{{ end }}
+
+
+{{ define "main" }}
+    {{ .Content }}
+
+<div class="row pt-4">
+
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
+	{{ with .Site.GetPage "/collection/british-stand-up-comedy-archive/index" }}
+	  {{ partial "collection-card" .}}
+	{{ end }}
+</div>
+
+<!-- additional (temporary) for testing -->
+
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
+	{{ with .Site.GetPage "/collection/aging/index" }}
+	  {{ partial "collection-card" .}}
+	{{ end }}
+</div>
+
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
+	{{ with .Site.GetPage "/collection/blogs/index" }}
+	  {{ partial "collection-card" .}}
+	{{ end }}
+</div>
+
+<!-- The proper ones 
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
+	{{ with .Site.GetPage "/collection/french-in-london/index" }}
+	  {{ partial "collection-card" .}}
+	{{ end }}
+</div>
+
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
+	{{ with .Site.GetPage "/collection/news-sites/index" }}
+	  {{ partial "collection-card" .}}
+	{{ end }}
+</div>
+-->
+
+</div>
+
+<div class="row padding-top-40">
+	<p class="text-center w-100">
+<a href="/collection" class="btn btn-primary">View all Topics & Themes</a>
+</p>
+</div>
+
+
+<hr>
+
+<div class="row">
+
+<div class="col-md-4">	
+<ul class="nav flex-column">
+  <li class="nav-item">
+    <a class="nav-link" href="/">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/collection/">Topics &amp; Themes</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/info/nominate">Save a UK website</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/info">About Us</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/contact">Contact Us</a>
+  </li>
+</ul>
+</div>
+
+<div class="col-md-4">	
+<ul class="nav flex-column">
+  <li class="nav-item">
+    <a class="nav-link" href="/info/notice_takedown">Notice &amp; Takedown</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/info/terms">Terms &amp; Conditions</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="http://www.bl.uk/aboutus/terms/privacy/index.html">Privacy Statement</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/info/cookies">Cookie Policy</a>
+  </li>
+</ul>
+</div>
+
+<div class="col-md-4">
+<ul class="nav flex-column">
+  <li class="nav-item">
+    <a class="nav-link active" href="http://britishlibrary.typepad.co.uk/webarchive/">Blog</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/info/faq">FAQ</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/index.xml">RSS Feed</a><!-- was rss/recent.xml? -->
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/target">All Curated Web Sites</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/cy/">Cymraeg</a>
+  </li>
+</ul>
+</div>
+
+</div>
+
+{{ end }}
