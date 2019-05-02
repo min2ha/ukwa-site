@@ -92,7 +92,7 @@
     <a class="nav-link" href="/">Home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/collection/">Topics &amp; Themes</a>
+    <a class="nav-link" href='{{ ref . "collection" }}'>Topics &amp; Themes</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/info/nominate">Save a UK website</a>
@@ -132,10 +132,10 @@
     <a class="nav-link" href="/info/faq">FAQ</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/index.xml">RSS Feed</a><!-- was rss/recent.xml? -->
+    <a class="nav-link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>RSS Feed</a><!-- was rss/recent.xml? -->
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/target">All Curated Web Sites</a>
+    <a class="nav-link" href='{{ ref . "target" }}'>All Curated Web Sites</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/cy/">Cymraeg</a>
