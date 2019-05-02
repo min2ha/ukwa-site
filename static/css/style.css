@@ -19,6 +19,14 @@ body {
   background-color: white !important;
 }
 
+.navbar-brand {
+  max-width: 50%;
+}
+
+.navbar-brand img {
+  max-width: 100%;
+}
+
 .navbar a, .ukwa-hero-banner button {
     color: #2e6dd9 !important;
 }
@@ -33,7 +41,7 @@ body {
 
 .ukwa-hero-banner {
   color: #ffffff;
-  height: 15rem;
+  min-height: 15rem;
   width: 100%;
   background-repeat: no-repeat;
   background-image: url("/img/icons/UKWA-hero-composite-final.png");
