@@ -6,12 +6,12 @@
       <!--THUMBNAIL DISPLAY-->
       <div class="row margin-0 padding-side-5 padding-mobile-side-20 padding-top-0 targets">
       {{ range .Paginator.Pages }}
-        <div class="col-lg-3 col-md-6 col-sm-12 image-grid-col padding-bottom-20 padding-top-30">
+        <div class="col-lg-3 col-md-6 col-sm-12">
           {{ partial "target-card" . }}
         </div>
       {{ end }}
       </div>
-      
+
       <div class="d-flex justify-content-center">
         {{ template "_internal/pagination.html" . }}
       </div>
