@@ -1,0 +1,19 @@
+<div class="card text-center mb-3">
+  {{ if eq .Params.open_access true }}
+  <a href="{{ .Permalink }}">
+    <img class="card-img-top" height="200" src="https://beta.webarchive.org.uk/access/screenshot/?type=screenshot&target_date=20010101120000&source=archive&url={{ .Params.target_url }}" alt="{{ .Title }}">
+  </a>
+  {{ else }}
+  <img class="card-img-top" height="200" src="/img/collections/collection_default.png" alt="{{ .Title }}">
+  {{ end }}
+  <div class="card-body">
+    <h5 class="card-title">{{ .Title | safeHTML | truncate 60 }}</h5>
+    <p class="card-text">{{ .Content | safeHTML | truncate 80 }}</p>
+    {{ if .Params.open_access }}
+    <a href="{{ .Permalink }}" class="btn btn-primary">View Online</a>
+    {{ else }}
+    <a href="{{ .Permalink }}" class="btn btn-secondary">Limited Access</a> 
+    {{ end }}
+  </div>
+</div>
+

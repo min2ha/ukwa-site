@@ -2,18 +2,19 @@
 
   <main>
       {{ .Content }}
+      <!--THUMBNAIL DISPLAY-->
+      <div class="row">
+        {{ range .Paginator.Pages }}
+        <div class="col-sm-3 pb-3">
 
-            <!--THUMBNAIL DISPLAY-->
-            <div class="row">
-          {{ range .Paginator.Pages }}
-<div class="col-sm-3 pb-3">
+          {{ partial "collection-card" . }}
 
-{{ partial "collection-card" . }}
-
-</div>
-          {{ end }}
-          </div>
-      {{ template "_internal/pagination.html" . }}
-  </main>
+        </div>
+        {{ end }}
+      </div>
+      <div class="d-flex justify-content-center">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+</main>
 
 {{ end }}
