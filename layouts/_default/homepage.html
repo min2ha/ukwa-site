@@ -1,32 +1,26 @@
 {{ define "hero" }}
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-12 mb-3 ukwa-hero-banner">
 
-  <div class="row">
-    <div class="col-6 offset-md-2">
+<div class="container-fluid d-flex ukwa-hero-banner mb-3">
+  <div class="row justify-content-center align-self-center">
+
+    <div class="col-md-12 offset-md-2">
         <h2 class="">Search the UK Web Archive</h2>
     </div>
-  </div>
 
-<form action="search" method="get" enctype="multipart/form-data">
-  <div class="row">
-    <div class="col-6 offset-md-2">
+    <div class="col-md-8 col-sm-12 mb-3">
+     <form action="search" method="get" enctype="multipart/form-data">
       <input type="text" name="text" class="form-control form-control-lg" placeholder="Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...">
     </div>
-    <div class="col-2">
+    <div class="col-md-2 col-sm-12">
       <button type="submit" class="btn btn-light mb-2 pl-4 pr-4 btn-lg">Search<i class="fa fa-search"></i></button>
+     </form>
     </div>
-  </div>
-</form>
 
-  <div class="row">
-    <div class="col-6 offset-md-2">
-<p>
-  <a href="/info/tips" class="text-white">Tips/Notes for using the UK Web Archive</a>
-</p>
+    <div class="col-md-12 offset-md-2">
+	<p>
+	  <a href="/info/tips" class="text-white">Tips/Notes for using the UK Web Archive</a>
+	</p>
     </div>
-  </div>
 
     </div>
   </div>
