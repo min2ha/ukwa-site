@@ -1,7 +1,9 @@
 {{ define "main" }}
   <main>
 
+      {{ if eq .Paginator.PageNumber 1 }}
       {{ .Content }}
+      {{ end }}
 
       <!--THUMBNAIL DISPLAY-->
       <div class="row margin-0 padding-side-5 padding-mobile-side-20 padding-top-0 targets">
