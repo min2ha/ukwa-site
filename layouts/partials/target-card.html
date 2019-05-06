@@ -1,19 +1,16 @@
 <div class="card mb-3 target-card">
-      <div class="card-header text-center">
-        <h5>{{ .Title | safeHTML | truncate 80 }}</h5>
-        <!-- <p class="card-text">{{ .Content | safeHTML | truncate 80 }}</p> -->
-      </div>
-
       {{ if eq .Params.open_access true }}
-      <img class="card-img-top" src="https://beta.webarchive.org.uk/access/screenshot/?type=screenshot&target_date=20010101120000&source=archive&url={{ .Params.target_url }}" alt="{{ .Title }}" height="175">
+      <img class="card-img-top" src="https://beta.webarchive.org.uk/access/screenshot/?type=screenshot&target_date=20010101120000&source=archive&url={{ .Params.target_url }}" alt="{{ .Title }}">
       {{ else }}
-      <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}" height="175" style="opacity: 0.5;">
+      <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}" height="175"style="opacity: 0.5;">
       {{ end }}
-      <div class="card-footer text-right">
+      <div class="card-body">
         {{ if .Params.open_access }}
-        <a href="{{ .Permalink }}" class="btn btn-primary btn-sm stretched-link">Open Access</a>
+        <a href="{{ .Permalink }}" class="btn btn-primary btn-sm float-right stretched-link align-middle">Open Access</a>
         {{ else }}
-        <a href="{{ .Permalink }}" class="btn btn-secondary btn-sm stretched-link">Limited Access</a> 
+        <a href="{{ .Permalink }}" class="btn btn-secondary btn-sm float-right stretched-link">Limited Access</a> 
         {{ end }}
+        {{ .Title | safeHTML | truncate 60 }}
+        <!-- <p class="card-text">{{ .Content | safeHTML | truncate 80 }}</p> -->
       </div>
 </div>
