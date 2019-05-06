@@ -3,7 +3,7 @@
     {{ $img_path := ( printf "static/img/collections/collection_%.f.png" .Params.id ) }}
     {{ if (fileExists $img_path) -}}
     <img class="card-img-top" src="/img/collections/collection_{{ .Params.id }}.png" alt="{{ .Title }}">
-    {{- else -}}
+    {{- else if eq .Parent.File.Dir "collection/" -}}
     <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}">
     {{- end }}
   </a>

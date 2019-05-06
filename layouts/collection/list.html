@@ -2,13 +2,14 @@
 
   <main>
     
-      {{ if eq .Paginator.PageNumber 1 }}
-      {{ .Content }}
-      {{ end }}
+    {{ .Content }}
 
-      <!--THUMBNAIL DISPLAY-->
+    {{ if .Sections }}
+      {{ if not .Parent.IsHome }}
+      <h2>Sub-collections</h2>
+      {{ end }}
       <div class="row">
-        {{ range .Paginator.Pages }}
+        {{ range .Sections}}
         <div class="col-sm-3 pb-3">
 
           {{ partial "collection-card" . }}
@@ -16,9 +17,26 @@
         </div>
         {{ end }}
       </div>
-      <div class="d-flex justify-content-center">
-        {{ template "_internal/pagination.html" . }}
+    {{ end }}
+
+    {{ if .Params.targets }}
+      <h2>Web sites</h2>
+
+      <div class="row margin-0 padding-side-5 padding-mobile-side-20 padding-top-0 targets">
+        {{ range .Params.targets }}
+          {{ $file_path := printf "/target/%s" .file_path  }}
+          {{ with $.Site.GetPage $file_path }}
+          <div class="col-lg-3 col-md-6 col-sm-12">
+            {{ partial "target-card" . }}
+          </div>
+          {{ end }}
+        {{ end }}
       </div>
+    {{ end }}
 </main>
 
+{{ end }}
+
+
+{{ define "target" }}
 {{ end }}
