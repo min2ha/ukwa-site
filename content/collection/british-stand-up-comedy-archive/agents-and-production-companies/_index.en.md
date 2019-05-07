@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 8, 
+    "num_oa_targets": 2
+  }, 
   "endDate": null, 
   "name": "Agents and Production companies", 
   "title": "Agents and Production companies", 
@@ -9,16 +13,6 @@
   "id": 450, 
   "field_publish": true, 
   "url": "collection/450/", 
-  "targetIds": [
-    30896, 
-    28075, 
-    28603, 
-    28074, 
-    28007, 
-    2186, 
-    28226, 
-    60265
-  ], 
   "updatedAt": 1434368740240, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/agents-and-production-companies", 
   "ttype": "collections", 

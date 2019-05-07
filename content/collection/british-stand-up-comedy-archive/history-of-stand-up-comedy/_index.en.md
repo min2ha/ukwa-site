@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 9, 
+    "num_oa_targets": 1
+  }, 
   "endDate": null, 
   "name": "History of stand-up comedy", 
   "title": "History of stand-up comedy", 
@@ -9,17 +13,6 @@
   "id": 334, 
   "field_publish": true, 
   "url": "collection/334/", 
-  "targetIds": [
-    28229, 
-    18613, 
-    28228, 
-    28076, 
-    27991, 
-    17944, 
-    28079, 
-    42011, 
-    29290
-  ], 
   "updatedAt": 1426680289868, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/history-of-stand-up-comedy", 
   "ttype": "collections", 

@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 5, 
+    "num_oa_targets": 3
+  }, 
   "endDate": null, 
   "name": "Linda Smith Collection", 
   "title": "Linda Smith Collection", 
@@ -9,13 +13,6 @@
   "id": 332, 
   "field_publish": true, 
   "url": "collection/332/", 
-  "targetIds": [
-    18630, 
-    20370, 
-    18611, 
-    18020, 
-    27828
-  ], 
   "updatedAt": 1426680179220, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/linda-smith-collection", 
   "ttype": "collections", 

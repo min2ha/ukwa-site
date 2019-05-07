@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 4, 
+    "num_oa_targets": 2
+  }, 
   "endDate": null, 
   "name": "Richard Herring", 
   "title": "Richard Herring", 
@@ -9,12 +13,6 @@
   "id": 409, 
   "field_publish": true, 
   "url": "collection/409/", 
-  "targetIds": [
-    27027, 
-    2385, 
-    69820, 
-    29907
-  ], 
   "updatedAt": 1432801514656, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/richard-herring", 
   "ttype": "collections", 

@@ -1,8 +1,51 @@
 {{ define "main" }}
 
   <main>
-    
-    {{ .Content }}
+
+    <div class="row">
+      <div class="col-8 pb-3">
+        {{ .Content }}
+        
+
+        <form action="search" method="get" enctype="multipart/form-data">
+          <input type="hidden" name="search_location" value="full_text">
+          <input type="hidden" name="collection" value="{{ .Title }}">
+          <input type="hidden" name="collection_id" value="{{ .Params.Id }}">
+          <div class="row">
+            <div class="col-md-8">
+              <input type="text" name="text" class="form-control" placeholder="Search within '{{ .Title }}'">
+            </div>
+            <div class="col-4">
+              <button type="submit" class="btn btn-primary mb-2 pl-4 pr-4">Search within... <i class="fa fa-search"></i></button>
+            </div>
+          </div>
+        </form>
+
+      </div>
+      <div class="col-4 pb-3">
+        {{ with .Params.stats }}
+        <table class="table table-borderless">
+          <thead>
+            <tr>
+              <th colspan="2" class="text-center">
+                Collection Statistics
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Number of Targets</th>
+              <td class="text-right">{{ .num_targets }}</td>
+            </tr>
+            <tr>
+              <th scope="row">Number of Open Access Targets</th>
+              <td class="text-right">{{ .num_oa_targets }}</td>
+            </tr>
+          </tbody>
+        </table>
+        {{ end }}
+      </div>
+    </div>
 
     {{ if .Sections }}
       {{ if not .Parent.IsHome }}

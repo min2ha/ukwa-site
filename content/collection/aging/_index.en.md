@@ -1,5 +1,9 @@
 {
   "startDate": 1254441600000, 
+  "stats": {
+    "num_targets": 19, 
+    "num_oa_targets": 19
+  }, 
   "endDate": null, 
   "name": "Aging", 
   "title": "Aging", 
@@ -9,27 +13,6 @@
   "id": 2367, 
   "field_publish": true, 
   "url": "collection/2367/", 
-  "targetIds": [
-    7227, 
-    2748, 
-    5256, 
-    6511, 
-    7008, 
-    7009, 
-    7073, 
-    7092, 
-    7093, 
-    7167, 
-    7168, 
-    7170, 
-    7222, 
-    8478, 
-    72957, 
-    73355, 
-    74092, 
-    76255, 
-    74019
-  ], 
   "updatedAt": 1538982575212, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/aging", 
   "ttype": "collections", 

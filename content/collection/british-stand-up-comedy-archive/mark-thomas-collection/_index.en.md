@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 9, 
+    "num_oa_targets": 1
+  }, 
   "endDate": null, 
   "name": "Mark Thomas Collection", 
   "title": "Mark Thomas Collection", 
@@ -9,17 +13,6 @@
   "id": 336, 
   "field_publish": true, 
   "url": "collection/336/", 
-  "targetIds": [
-    17945, 
-    32122, 
-    23811, 
-    17913, 
-    18612, 
-    18326, 
-    17898, 
-    18223, 
-    18317
-  ], 
   "updatedAt": 1426680376409, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/mark-thomas-collection", 
   "ttype": "collections", 

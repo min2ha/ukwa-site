@@ -1,5 +1,9 @@
 {
   "startDate": 1114905600000, 
+  "stats": {
+    "num_targets": 19, 
+    "num_oa_targets": 18
+  }, 
   "endDate": null, 
   "name": "Africa UK", 
   "title": "Africa UK", 
@@ -9,27 +13,6 @@
   "id": 2361, 
   "field_publish": true, 
   "url": "collection/2361/", 
-  "targetIds": [
-    7793, 
-    2087, 
-    2598, 
-    4972, 
-    5441, 
-    5442, 
-    5695, 
-    5999, 
-    6000, 
-    6001, 
-    6002, 
-    6003, 
-    6004, 
-    6405, 
-    6388, 
-    6427, 
-    6428, 
-    7551, 
-    74742
-  ], 
   "updatedAt": 1538982575212, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/africa-uk", 
   "ttype": "collections", 

@@ -1,5 +1,9 @@
 {
   "startDate": null, 
+  "stats": {
+    "num_targets": 4, 
+    "num_oa_targets": 0
+  }, 
   "endDate": null, 
   "name": "Researching stand-up comedy", 
   "title": "Researching stand-up comedy", 
@@ -9,12 +13,6 @@
   "id": 335, 
   "field_publish": true, 
   "url": "collection/335/", 
-  "targetIds": [
-    28229, 
-    28228, 
-    27991, 
-    17944
-  ], 
   "updatedAt": 1426680335439, 
   "file_path": "/Users/andy/Documents/workspace/ukwa-site/content/collection/british-stand-up-comedy-archive/researching-stand-up-comedy", 
   "ttype": "collections", 
