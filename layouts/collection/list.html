@@ -7,19 +7,19 @@
         {{ .Content }}
         
         {{ if eq .Parent.Dir "collection/" }}
-        <form action="search" method="get" enctype="multipart/form-data">
-          <input type="hidden" name="search_location" value="full_text">
-          <input type="hidden" name="collection" value="{{ .Title }}">
-          <input type="hidden" name="collection_id" value="{{ .Params.Id }}">
-          <div class="row mt-4 mb-2">
-            <div class="col-md-8">
-              <input type="text" name="text" class="form-control" placeholder="Search within '{{ .Title }}'">
+          <form action="search" method="get" enctype="multipart/form-data">
+            <input type="hidden" name="search_location" value="full_text">
+            <input type="hidden" name="collection" value="{{ .Title }}">
+            <input type="hidden" name="collection_id" value="{{ .Params.Id }}">
+            <div class="row mt-4 mb-2">
+              <div class="col-md-8">
+                <input type="text" name="text" class="form-control" placeholder="Search within '{{ .Title }}'">
+              </div>
+              <div class="col-md-4">
+                <button type="submit" class="btn btn-primary">Search within... <i class="fa fa-search ml-2"></i></button>
+              </div>
             </div>
-            <div class="col-md-4">
-              <button type="submit" class="btn btn-primary">Search within... <i class="fa fa-search"></i></button>
-            </div>
-          </div>
-        </form>
+          </form>
         {{ end }}
 
       </div>
