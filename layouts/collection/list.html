@@ -6,6 +6,7 @@
       <div class="col-8 pb-3">
         {{ .Content }}
         
+        {{ if eq .Parent.Dir "collection/" }}
         <form action="search" method="get" enctype="multipart/form-data">
           <input type="hidden" name="search_location" value="full_text">
           <input type="hidden" name="collection" value="{{ .Title }}">
@@ -19,6 +20,7 @@
             </div>
           </div>
         </form>
+        {{ end }}
 
       </div>
       <div class="col-4 pb-3">
