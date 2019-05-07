@@ -3,7 +3,7 @@
   <main>
 
     <div class="row">
-      <div class="col-8 pb-3">
+      <div class="col-md-8 col-sm-12 pb-3">
         {{ .Content }}
         
         {{ if eq .Parent.Dir "collection/" }}
@@ -11,19 +11,19 @@
             <input type="hidden" name="search_location" value="full_text">
             <input type="hidden" name="collection" value="{{ .Title }}">
             <input type="hidden" name="collection_id" value="{{ .Params.Id }}">
-            <div class="row mt-4 mb-2">
-              <div class="col-md-8">
+            <div class="row mt-4">
+              <div class="col-md-8 col-sm-12 mb-2">
                 <input type="text" name="text" class="form-control" placeholder="Search within '{{ .Title }}'">
               </div>
-              <div class="col-md-4">
-                <button type="submit" class="btn btn-primary">Search within... <i class="fa fa-search ml-2"></i></button>
+              <div class="col-md-4 col-sm-12 mb-2">
+                <button type="submit" class="btn btn-primary w-100">Search within...<i class="fa fa-search ml-2"></i></button>
               </div>
             </div>
           </form>
         {{ end }}
 
       </div>
-      <div class="col-4 pb-3">
+      <div class="col-md-4 col-sm-12 pb-3">
         {{ with .Params.stats }}
         <table class="table table-borderless">
           <thead>
