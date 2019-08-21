@@ -1,26 +1,28 @@
-{
-  "target_url": "http://glyn-davies.blogspot.co.uk/", 
-  "end_date": null, 
-  "date": "2017-01-26T09:00:00", 
-  "slug": 60588095, 
-  "publisher": "blogspot.co.uk", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "View from Rural Wales, A - Glyn Davies", 
-  "organisation": {
-    "abbreviation": "NLW", 
-    "id": 2, 
-    "name": "The National Library of Wales"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 44, 
-      "name": "Blogs"
-    }
-  ], 
-  "record_id": "20170126T090000/3aNefMy7mD2nu6shrNaOVw==", 
-  "scope": "root", 
-  "start_date": "2017-01-26T09:00:00Z"
-}
+---
+crawl_frequency: MONTHLY
+curator_id: '39'
+date: '2017-01-26T09:00:00'
+end_date: null
+id: 1219
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: true
+open_access: true
+organisation_id: '2'
+originating_organisation: ''
+publisher: blogspot.co.uk
+qaissue: QA issues found
+qaissue_score: 1
+record_id: 20170126T090000/3aNefMy7mD2nu6shrNaOVw==
+scope: root
+slug: '60588095'
+start_date: '2017-01-26T09:00:00'
+subjects: []
+target_url: http://glyn-davies.blogspot.co.uk/
+title: View from Rural Wales, A - Glyn Davies
+wct_id: '60588095'
+---
 

@@ -1,27 +1,28 @@
-{
-  "target_url": "http://peterchasseaud.blogspot.co.uk/", 
-  "end_date": null, 
-  "date": "2013-10-14T10:00:00", 
-  "slug": 9404473, 
-  "publisher": "blogspot.co.uk", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "Peter Chasseaud Artist and Writer", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 44, 
-      "name": "Blogs"
-    }
-  ], 
-  "record_id": "20131014T100000/xXjW1sqB3oGmjuhoWQFEdQ==", 
-  "scope": "root", 
-  "start_date": "2013-10-14T10:00:00Z"
-}
+---
+crawl_frequency: DOMAINCRAWL
+curator_id: '42'
+date: '2013-10-14T10:00:00'
+end_date: null
+id: 5990
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: true
+open_access: true
+organisation_id: '1'
+originating_organisation: ''
+publisher: blogspot.co.uk
+qaissue: null
+qaissue_score: 0
+record_id: 20131014T100000/xXjW1sqB3oGmjuhoWQFEdQ==
+scope: root
+slug: '9404473'
+start_date: '2013-10-14T10:00:00'
+subjects: []
+target_url: http://peterchasseaud.blogspot.co.uk/
+title: Peter Chasseaud Artist and Writer
+wct_id: '9404473'
+---
 
-None

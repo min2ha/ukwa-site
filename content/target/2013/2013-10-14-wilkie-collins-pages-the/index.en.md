@@ -1,27 +1,28 @@
-{
-  "target_url": "http://www.wilkiecollins.com/", 
-  "end_date": null, 
-  "date": "2013-10-14T10:00:00", 
-  "slug": 50659393, 
-  "publisher": "wilkiecollins.com", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "Wilkie Collins Pages, The", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 2, 
-      "name": "19th Century English Literature"
-    }
-  ], 
-  "record_id": "20131014T100000/MYgD54ol5KD9I776ZRNJ6Q==", 
-  "scope": "root", 
-  "start_date": "2013-10-14T10:00:00Z"
-}
+---
+crawl_frequency: DOMAINCRAWL
+curator_id: '42'
+date: '2013-10-14T10:00:00'
+end_date: null
+id: 7453
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: true
+open_access: true
+organisation_id: '1'
+originating_organisation: ''
+publisher: wilkiecollins.com
+qaissue: null
+qaissue_score: 0
+record_id: 20131014T100000/MYgD54ol5KD9I776ZRNJ6Q==
+scope: root
+slug: '50659393'
+start_date: '2013-10-14T10:00:00'
+subjects: []
+target_url: http://www.wilkiecollins.com/
+title: Wilkie Collins Pages, The
+wct_id: '50659393'
+---
 
-None

@@ -1,27 +1,29 @@
-{
-  "target_url": "http://ownit.london/", 
-  "end_date": null, 
-  "date": "2018-05-05T09:00:00", 
-  "slug": 65235, 
-  "publisher": "ownit.london", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "Own It!", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 1107, 
-      "name": "Black and Asian Britain"
-    }
-  ], 
-  "record_id": "20180505T090000/w02cbpJeW+QnMucfCbTVGA==", 
-  "scope": "root", 
-  "start_date": "2018-05-05T09:00:00Z"
-}
+---
+crawl_frequency: SIXMONTHLY
+curator_id: '463'
+date: '2018-05-05T09:00:00'
+end_date: null
+id: 65235
+license_status: GRANTED
+licenses:
+- Joint LDL Web Archiving Licence (2016-)
+live_site_status: LIVE
+nominating_organisation: null
+npld: true
+open_access: true
+organisation_id: '1'
+originating_organisation: ''
+publisher: ownit.london
+qaissue: null
+qaissue_score: 0
+record_id: 20180505T090000/w02cbpJeW+QnMucfCbTVGA==
+scope: root
+slug: 65235
+start_date: '2018-05-05T09:00:00'
+subjects: []
+target_url: http://ownit.london/
+title: Own It!
+wct_id: ''
+---
 
 A storytelling lifestyle brand telling stories across books, music, fashion and film. 

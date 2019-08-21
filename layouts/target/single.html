@@ -1,16 +1,34 @@
 {{ define "main" }}
     {{ .Content }}
 
+    This site was archived for preservation by the British Library.
+
+The URL at time of capture may provide more information.
+
+{{ .Path }}
+
+{{ .Params }} 
+
+
     <ul>
       <li><a href="{{ .Params.target_url }}">Link to the live site</a></li>
     </ul>
 
+{{ $related := .Site.Pages.RelatedTo ( keyVals "target_ids" ( string .Params.id ) ) }}
+{{ with $related }}
+This site is part of the following Special Collection(s):
+
     <ul>
-        {{ range .Params.collections }}
+        {{ range . }}
             <li>
-                <a href="{{ "collection/" | relLangURL }}{{ .id }}/">{{ .name }}</a>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </li>
         {{ end }}
     </ul>
+{{ end }}
+
+
+This site is part of the following subject(s):
+
 
 {{ end }}

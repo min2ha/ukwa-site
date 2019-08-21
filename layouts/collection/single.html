@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{ .Content }}
     <ul>
-        {{ range .Params.targetIds }}
+        {{ range .Params.target_ids }}
             <li>
                 <a href="{{ "target/" | relLangURL }}{{ . }}/">{{ . }}</a>
             </li>

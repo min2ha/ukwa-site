@@ -1,26 +1,28 @@
-{
-  "target_url": "http://www.sluggerotoole.com/", 
-  "end_date": null, 
-  "date": "2018-06-07T09:00:00", 
-  "slug": 7176247, 
-  "publisher": "sluggerotoole.com", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "Slugger O'Toole", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 44, 
-      "name": "Blogs"
-    }
-  ], 
-  "record_id": "20180607T090000/iKu8Z9UFPGiNYCkROB/yrQ==", 
-  "scope": "root", 
-  "start_date": "2018-06-07T09:00:00Z"
-}
+---
+crawl_frequency: WEEKLY
+curator_id: '42'
+date: '2018-06-07T09:00:00'
+end_date: null
+id: 5753
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: true
+open_access: true
+organisation_id: '1'
+originating_organisation: ''
+publisher: sluggerotoole.com
+qaissue: QA issues found
+qaissue_score: 1
+record_id: 20180607T090000/iKu8Z9UFPGiNYCkROB/yrQ==
+scope: root
+slug: '7176247'
+start_date: '2018-06-07T09:00:00'
+subjects: []
+target_url: http://www.sluggerotoole.com/
+title: Slugger O'Toole
+wct_id: '7176247'
+---
 

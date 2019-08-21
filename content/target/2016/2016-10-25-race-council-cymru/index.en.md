@@ -1,26 +1,27 @@
-{
-  "target_url": "http://racecouncilcymru.org.uk/about-us", 
-  "end_date": null, 
-  "date": "2016-10-25T10:00:00", 
-  "slug": 46456, 
-  "publisher": "racecouncilcymru.org.uk", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "Race Council Cymru", 
-  "organisation": {
-    "abbreviation": "NLW", 
-    "id": 2, 
-    "name": "The National Library of Wales"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 1107, 
-      "name": "Black and Asian Britain"
-    }
-  ], 
-  "record_id": "20161025T100000/jaLbsDaYi0sT4jss1hvtdg==", 
-  "scope": "root", 
-  "start_date": "2016-10-25T10:00:00Z"
-}
+---
+crawl_frequency: SIXMONTHLY
+curator_id: '34'
+date: '2016-10-25T10:00:00'
+end_date: null
+id: 46456
+license_status: NOT_INITIATED
+licenses: []
+live_site_status: LIVE
+nominating_organisation: null
+npld: true
+open_access: false
+organisation_id: '2'
+originating_organisation: Race Council Cymru
+publisher: racecouncilcymru.org.uk
+qaissue: null
+qaissue_score: 0
+record_id: 20161025T100000/FzBPARIHh0hE319sCoF7kw==
+scope: root
+slug: 46456
+start_date: '2016-10-25T10:00:00'
+subjects: []
+target_url: http://racecouncilcymru.org.uk/
+title: Race Council Cymru
+wct_id: ''
+---
 

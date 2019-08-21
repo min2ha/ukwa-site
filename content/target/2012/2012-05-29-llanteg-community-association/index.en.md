@@ -1,21 +1,28 @@
-{
-  "target_url": "http://www.llantegcommunityassociation.blogspot.com/", 
-  "end_date": null, 
-  "date": "2012-05-29T00:00:00", 
-  "slug": 60293147, 
-  "publisher": "blogspot.com", 
-  "open_access": true, 
-  "npld": false, 
-  "title": "Llanteg Community Association", 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 44, 
-      "name": "Blogs"
-    }
-  ], 
-  "record_id": "20120529T000000/3JT0IqLJBsxjpJteteudDw==", 
-  "scope": "root", 
-  "start_date": "2012-05-29T00:00:00Z"
-}
+---
+crawl_frequency: SIXMONTHLY
+curator_id: '1343'
+date: '2012-05-29T00:00:00'
+end_date: null
+id: 80930
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: false
+open_access: true
+organisation_id: ''
+originating_organisation: ''
+publisher: blogspot.com
+qaissue: null
+qaissue_score: 0
+record_id: 20120529T000000/3JT0IqLJBsxjpJteteudDw==
+scope: root
+slug: '60293147'
+start_date: '2012-05-29T00:00:00'
+subjects: []
+target_url: http://www.llantegcommunityassociation.blogspot.com/
+title: Llanteg Community Association
+wct_id: '60293147'
+---
 

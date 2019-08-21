@@ -1,26 +1,27 @@
-{
-  "target_url": "http://southwaleschinese.com/", 
-  "end_date": null, 
-  "date": "2016-01-07T09:00:00", 
-  "slug": 33648, 
-  "publisher": "southwaleschinese.com", 
-  "open_access": false, 
-  "npld": true, 
-  "title": "South Wales Chinese Association (SWCA)", 
-  "organisation": {
-    "abbreviation": "NLW", 
-    "id": 2, 
-    "name": "The National Library of Wales"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 1107, 
-      "name": "Black and Asian Britain"
-    }
-  ], 
-  "record_id": "20160107T090000/rHy5U9WJbSwR/Ja7lz+vWQ==", 
-  "scope": "root", 
-  "start_date": "2016-01-07T09:00:00Z"
-}
+---
+crawl_frequency: ANNUAL
+curator_id: '34'
+date: '2016-01-07T09:00:00'
+end_date: null
+id: 33648
+license_status: NOT_INITIATED
+licenses: []
+live_site_status: LIVE
+nominating_organisation: null
+npld: true
+open_access: false
+organisation_id: '2'
+originating_organisation: South Wales Chinese Association (SWCA)
+publisher: southwaleschinese.com
+qaissue: null
+qaissue_score: 0
+record_id: 20160107T090000/rHy5U9WJbSwR/Ja7lz+vWQ==
+scope: root
+slug: 33648
+start_date: '2016-01-07T09:00:00'
+subjects: []
+target_url: http://southwaleschinese.com/
+title: South Wales Chinese Association (SWCA)
+wct_id: ''
+---
 

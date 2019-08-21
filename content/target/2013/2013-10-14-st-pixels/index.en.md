@@ -1,27 +1,28 @@
-{
-  "target_url": "http://www.stpixels.com/", 
-  "end_date": null, 
-  "date": "2013-10-14T10:00:00", 
-  "slug": 11534354, 
-  "publisher": "stpixels.com", 
-  "open_access": true, 
-  "npld": true, 
-  "title": "St Pixels", 
-  "organisation": {
-    "abbreviation": "BL", 
-    "id": 1, 
-    "name": "The British Library"
-  }, 
-  "subjects": [], 
-  "collections": [
-    {
-      "id": 44, 
-      "name": "Blogs"
-    }
-  ], 
-  "record_id": "20131014T100000/7/bSWaypPj67LthCn70CJg==", 
-  "scope": "root", 
-  "start_date": "2013-10-14T10:00:00Z"
-}
+---
+crawl_frequency: DOMAINCRAWL
+curator_id: '42'
+date: '2013-10-14T10:00:00'
+end_date: null
+id: 5771
+license_status: GRANTED
+licenses:
+- UKWA Selective Archive Licence
+live_site_status: ''
+nominating_organisation: null
+npld: false
+open_access: true
+organisation_id: '1'
+originating_organisation: ''
+publisher: stpixels.com
+qaissue: null
+qaissue_score: 0
+record_id: 20131014T100000/7/bSWaypPj67LthCn70CJg==
+scope: root
+slug: '11534354'
+start_date: '2013-10-14T10:00:00'
+subjects: []
+target_url: http://www.stpixels.com/
+title: St Pixels
+wct_id: '11534354'
+---
 
-None

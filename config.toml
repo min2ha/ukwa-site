@@ -1,3 +1,7 @@
+#
+# Core configuration
+#
+
 baseURL = "/"
 languageCode = "en-gb"
 DefaultContentLanguage = "en"
@@ -12,6 +16,10 @@ theme = "hugo-bootstrap"
   target = "/target/:slug/"
   collection = "/collection/:slug/"
 
+#
+# Internationalisation
+#
+
 [languages]
   [languages.en]
     languageName = "English"
@@ -24,6 +32,10 @@ theme = "hugo-bootstrap"
     [languages.cy.params]
       [languages.cy.params.navigation]
         help = "Aide"
+
+#
+# Menus
+#
 
 [[menu.main]]
     name = "Home"
@@ -46,9 +58,30 @@ theme = "hugo-bootstrap"
     weight = 4
 
 [[menu.main]]
-    name = "Contact Us"
-    url = "/contact"
-    weight = 5
+   name = "Contact Us"
+   url = "/contact"
+   weight = 5
+
+
+#
+# Related Content
+# (used here to allow back-references to be resolved)
+#
+
+[related]
+   threshold = 40 # n.b. the default of 80 did not work, and references were not found.
+   includeNewer = true
+   toLower = false
+
+# Ensures the target_ids listed under a Collection can be known to the Target.
+[[related.indices]]
+   name = "target_ids"
+   weight = 100
+
+
+# 
+# Other parameters
+#
 
 [params]
   google_analytics_id=""
