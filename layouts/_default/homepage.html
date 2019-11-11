@@ -7,14 +7,14 @@
         <h2 class="">Search the UK Web Archive</h2>
     </div>
 
+  <form action="search" method="get" enctype="multipart/form-data">
     <div class="col-lg-8 col-md-8 col-sm-12 mb-3">
-     <form action="search" method="get" enctype="multipart/form-data">
       <input type="text" name="text" class="form-control form-control-lg" placeholder="Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...">
     </div>
     <div class="col-lg-2 col-md-2 col-sm-12">
       <button type="submit" class="btn btn-light mb-2 pl-4 pr-4 btn-lg">Search <i class="fa fa-search ml-2"></i></button>
-     </form>
     </div>
+   </form>
 
     <div class="col-md-12 offset-md-2">
 	<p>
@@ -24,7 +24,6 @@
 
     </div>
   </div>
-</div>
 {{ end }}
 
 
