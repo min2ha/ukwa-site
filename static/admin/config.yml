@@ -4,6 +4,14 @@ backend:
 media_folder: static/assets/uploads
 
 collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Technical Information"
+        name: "technical-info"
+        file: "content/info/technical/index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
