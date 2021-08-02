@@ -26,5 +26,5 @@ cy:
   body: ""
 gd:
   title: this
-  body: that
+  body: ""
 ---
