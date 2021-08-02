@@ -1,7 +1,7 @@
 ---
 en:
   title: Technical Information
-  body: "|
+  body: "
 ## UK Web Archive Crawler Settings
 
 We run a number of different web crawlers for different purposes. Our main crawler visit hundreds of sites on a daily, weekly, monthly, quarterly or six-monthly basis. This crawl process uses two different approaches for capturing web pages. For some URLs, we use an automated web browser to download the page, including images, stylesheets, and some dynamic JavaScript content. We identify this crawling process by including the following declaration in the [User Agent](https://en.wikipedia.org/wiki/User_agent):
