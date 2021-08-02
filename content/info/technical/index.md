@@ -1,6 +1,8 @@
+
 ---
-title: Technical Information
----
+en:
+  title: Technical Information
+  body: >
 ## UK Web Archive Crawler Settings
 
 We run a number of different web crawlers for different purposes. Our main crawler visit hundreds of sites on a daily, weekly, monthly, quarterly or six-monthly basis. This crawl process uses two different approaches for capturing web pages. For some URLs, we use an automated web browser to download the page, including images, stylesheets, and some dynamic JavaScript content. We identify this crawling process by including the following declaration in the [User Agent](https://en.wikipedia.org/wiki/User_agent):
@@ -80,3 +82,4 @@ To use a link that has the UK Web Archive logo, then copy and paste this code:
 Before the 2013 [Legal Deposit](https://www.bl.uk/legal-deposit) regulations came into force, websites were gathered for the UK Web Archive strictly on a by-permission-only basis using the Web Curator Tool (WCT) which was developed collaboratively by the National Library of New Zealand and the British Library, under the auspices of the International Internet Preservation Consortium. [WCT is an open-source software](http://dia-nz.github.io/webcurator/), freely available under the terms of the Apache Public License. 
 
 Due to the increase volume of continual crawling activity required to meet our Legal Deposit responsibilities, we have moved to different crawl tools. Like WCT, we use the core [Heritrix](https://github.com/internetarchive/heritrix3) archival crawler software, developed by the Internet Archive, but as part of a different suite of lifecycle management tools. All of these tools are available for re-use via [our GitHub organisation](https://github.com/ukwa).
+---
