@@ -6,10 +6,21 @@ media_folder: static/assets/uploads
 collections:
   - label: "Pages"
     name: "pages"
+    i18n:
+      structure: single_file
+      locales: [en, cy, gd]
     files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "_index.md"
+        i18n: true
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Technical Information"
         name: "technical-info"
         file: "content/info/technical/index.md"
+        i18n: true
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
