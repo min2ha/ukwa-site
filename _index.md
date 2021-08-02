@@ -25,6 +25,6 @@ cy:
   title: Croeso
   body: ""
 gd:
-  title: this
+  title: ""
   body: ""
 ---
