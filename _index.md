@@ -23,7 +23,7 @@ en:
     more](https://www.webarchive.org.uk/en/ukwa/collection "Find out more").
 cy:
   title: Croeso
-  body: test
+  body: ""
 gd:
   title: this
   body: that
