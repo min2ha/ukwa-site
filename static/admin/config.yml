@@ -19,15 +19,15 @@ collections:
         file: "_index.md"
         i18n: true
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Title, name: title, widget: string, i18n: true}
+          - {label: "Body", name: "body", widget: "markdown", i18n: true}
       - label: "Technical Information"
         name: "technical-info"
         file: "content/info/technical/index.md"
         i18n: true
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Title, name: title, widget: string, i18n: true}
+          - {label: "Body", name: "body", widget: "markdown", i18n: true}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
@@ -35,10 +35,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     i18n: true
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog", i18n: duplicate}
+      - {label: "Title", name: "title", widget: "string", i18n: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", i18n: duplicate}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number", i18n: duplicate}
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
 
