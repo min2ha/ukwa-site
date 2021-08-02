@@ -46,6 +46,7 @@ collections:
     label_singular: 'Collection'
     folder: content/collection
     create: false
+    i18n: true
     # adding a nested object will show the collection folder structure
     nested:
       depth: 100 # max depth to show in the collection tree
