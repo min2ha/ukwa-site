@@ -79,6 +79,10 @@ theme = "hugo-bootstrap"
    weight = 100
 
 
+[outputs]
+  home     = ["HTML", "RSS"]
+  section  = ["HTML"] # No RSS feeds in every section and sub-section
+
 # 
 # Other parameters
 #
