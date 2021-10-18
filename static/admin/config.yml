@@ -11,8 +11,6 @@ i18n:
 collections:
   - label: "Pages"
     name: "pages"
-    i18n:
-      structure: single_file
     files:
       - label: "Homepage"
         name: "homepage"
