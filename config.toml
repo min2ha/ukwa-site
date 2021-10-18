@@ -12,6 +12,10 @@ rssLimit = 100
 Paginate = 20
 theme = "hugo-bootstrap"
 
+# Use this to allow raw HTML in the pages:
+[markup.goldmark.renderer]
+unsafe = true
+
 # Used to clean up links if we're using static site generation for targets/collections
 #[permalinks]
 #  target = "/target/:slug/"
