@@ -1,6 +1,7 @@
 ---
 title: Croeso
 layout: homepage
+url: /
 ---
 
 ## What we do

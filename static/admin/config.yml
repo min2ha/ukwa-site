@@ -11,20 +11,17 @@ i18n:
 collections:
   - label: "Pages"
     name: "pages"
-    # File collections only support single-file mode.
-    i18n:
-      structure: single_file    
-    files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "content/_index.md"
-        i18n: true
-        fields:
-          - {label: Title, name: title, widget: string, i18n: true}
-          - {label: "Body", name: "body", widget: "markdown", i18n: true}
+    folder: content/pages
+    path: "{{slug}}/index"
+    i18n: true
+    fields:
+      - {label: Title, name: title, widget: string, i18n: true}
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
+      - {label: 'URL', name: 'url', widget: 'hidden'}
       
   - name: "info"
-    label: "Info"
+    label: "Information"
     folder: content/info
     create: true
     path: "{{slug}}/index"
@@ -38,10 +35,6 @@ collections:
         name: body
         widget: markdown
         i18n: true
-      - label: 'Layout'
-        name: 'layout'
-        widget: 'hidden'
-        default: 'page'
     
 
 
