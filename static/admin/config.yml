@@ -26,7 +26,8 @@ collections:
   - name: "info"
     label: "Info"
     folder: content/info
-    create: false
+    create: true
+    path: "{{slug}}/_index"
     i18n: true
     fields:
       - label: Title
