@@ -33,23 +33,17 @@
 <div class="row pt-4">
 
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-	{{ with .Site.GetPage "/collection/british-stand-up-comedy-archive" }}
-	  {{ partial "collection-card" .}}
-	{{ end }}
+TO ADD
 </div>
 
 <!-- additional (temporary) for testing -->
 
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-	{{ with .Site.GetPage "/collection/aging" }}
-	  {{ partial "collection-card" .}}
-	{{ end }}
+TO ADD
 </div>
 
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-	{{ with .Site.GetPage "/collection/blogs" }}
-	  {{ partial "collection-card" .}}
-	{{ end }}
+TO ADD
 </div>
 
 <!-- The proper ones 
@@ -70,7 +64,7 @@
 
 <div class="row pt-2">
 	<p class="text-center w-100">
-<a href='{{ ref . "collection" }}' class="btn btn-primary btn-lg">View all Topics & Themes</a>
+<a href='{{ "collection/" | relLangURL }}' class="btn btn-primary btn-lg">View all Topics & Themes</a>
 </p>
 </div>
 
@@ -85,7 +79,7 @@
     <a class="nav-link" href="/">Home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ ref . "collection" }}'>Topics &amp; Themes</a>
+    <a class="nav-link" href='{{ "collection/" | relLangURL }}'>Topics &amp; Themes</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/info/nominate">Save a UK website</a>
@@ -128,7 +122,7 @@
     <a class="nav-link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>RSS Feed</a><!-- was rss/recent.xml? -->
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ ref . "target" }}'>All Curated Web Sites</a>
+    <a class="nav-link" href='{{ "target/" | relLangURL }}'>All Curated Web Sites</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/cy/">Cymraeg</a>

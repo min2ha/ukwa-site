@@ -12,9 +12,10 @@ rssLimit = 100
 Paginate = 20
 theme = "hugo-bootstrap"
 
-[permalinks]
-  target = "/target/:slug/"
-  collection = "/collection/:slug/"
+# Used to clean up links if we're using static site generation for targets/collections
+#[permalinks]
+#  target = "/target/:slug/"
+#  collection = "/collection/:slug/"
 
 #
 # Internationalisation
