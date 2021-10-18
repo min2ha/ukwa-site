@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: homepage
-url: /
+url: /en/
 ---
 
 ## What we do
