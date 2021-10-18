@@ -1,7 +1,6 @@
 ---
 title: Croeso
 layout: homepage
-url: /cy/
 ---
 
 ## What we do
