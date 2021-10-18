@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 ---
 If your question isn't answered below then please [contact us](https://www.webarchive.org.uk/en/ukwa/info/contact).
 
