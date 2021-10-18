@@ -1,5 +1,5 @@
 html, body {
-    font-family: "Open Sans", Roboto, sans-serif;
+    font-family: "Open Sans", Roboto, sans-serif !important;
 }
 
 body {
@@ -60,4 +60,8 @@ body {
 }
 .footer-logos .img-thumbnail {
   border: none;
+}
+
+*:focus {
+  outline: 3px solid red !important;
 }
