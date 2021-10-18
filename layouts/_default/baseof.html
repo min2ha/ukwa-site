@@ -43,15 +43,6 @@
       <div class="row pr-lg-5 pl-lg-5 pr-md-3 pl-md-3 pr-sm-1 pl-sm-1">
         <div class="col-12 blog-main">
 
-          {{ if ne .Page.Params "layout" "homepage" }}
-          <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-white">
-              {{ template "breadcrumb" dict "currentPage" .Page "id" .File.UniqueID }}
-            </ol>
-          </nav>
-          <hr/>
-          {{ end }}
-
           {{ block "main" . }}
           {{ end }}
 

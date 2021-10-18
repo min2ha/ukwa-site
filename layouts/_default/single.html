@@ -6,6 +6,14 @@
     {{ partial "post-categories" . }}
 </header>
 <article class="blog-post">
+
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb bg-white">
+      {{ template "breadcrumb" dict "currentPage" .Page "id" .File.UniqueID }}
+    </ol>
+  </nav>
+  <hr/>
+
     {{ .Content }}
 
     {{ if .IsTranslated }}
