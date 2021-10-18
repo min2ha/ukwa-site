@@ -11,32 +11,22 @@ i18n:
 collections:
   - label: "Pages"
     name: "pages"
+    # File collections only support single-file mode.
+    i18n:
+      structure: single_file    
     files:
       - label: "Homepage"
         name: "homepage"
-        file: "_index.md"
+        file: "content/_index.md"
         i18n: true
         fields:
           - {label: Title, name: title, widget: string, i18n: true}
           - {label: "Body", name: "body", widget: "markdown", i18n: true}
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "content/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    i18n: true
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog", i18n: duplicate}
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", i18n: duplicate}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number", i18n: duplicate}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
       
   - name: "info"
     label: "Info"
     folder: content/info
-    create: true
+    create: false
     i18n: true
     # adding a nested object will show the collection folder structure
     nested:
@@ -55,27 +45,5 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
     meta: { path: { widget: string, label: 'Path', index_file: '_index' } }
     
-  - name: "collection"
-    label: "Collections"
-    label_singular: 'Collection'
-    folder: content/collection
-    create: false
-    i18n: true
-    # adding a nested object will show the collection folder structure
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-    fields:
-      - label: Title
-        name: title
-        widget: string
-        i18n: true
-      - label: Body
-        name: body
-        widget: markdown
-        i18n: true
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }    
 
 
