@@ -27,15 +27,15 @@ body {
   max-width: 100%;
 }
 
-.navbar a, .ukwa-hero-banner button {
+.nav-link a, .ukwa-hero-banner button {
   color: #2e6dd9 !important;
 }
 
-.navbar a:disabled {
+.nav-link a.disabled {
   color: #6c757d !important;
 }
 
-.navbar a:hover {
+.nav-link a:hover {
     text-decoration: underline !important;
 }
 
