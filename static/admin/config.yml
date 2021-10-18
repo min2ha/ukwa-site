@@ -38,6 +38,10 @@ collections:
         name: body
         widget: markdown
         i18n: true
+      - label: 'Layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'page'
     
 
 
