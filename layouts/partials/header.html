@@ -46,12 +46,17 @@
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                     {{ range .AllTranslations }}
                         {{ if eq .Lang $pageLang }}
-                            {{ upper .Lang }}
+                            <a class="dropdown-item disabled" href="#">{{ .Language.LanguageName }}</a>
                         {{ else }}
-                            <a class="dropdown-item" href="{{ .Permalink }}">{{ upper .Lang }}</a>
+                            <a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
                         {{ end }}
                     {{ end }}
                     </div>
+                </li>
+                <li class="nav-item">
+                    <a href="javascript:void(0)" id="universalaccess_href" class="col-md-1 col-sm-1" aria-label="High Contrast Mode Switch" title="High Contrast Mode Switch" tabindex="0">
+                        <i class="fas fa-universal-access fa fa-2x highcontastUAIconOff"></i>
+                    </a>
                 </li>
             </ul>
             {{ end }} 
