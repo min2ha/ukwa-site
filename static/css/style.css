@@ -69,6 +69,7 @@ body {
 /* Ensure images in markdown are not way too large */
 .information-page img {
   max-width: 600px;
+  width: 100%;
   display: block;
   margin: 0 auto;
 }
