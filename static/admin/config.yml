@@ -36,9 +36,10 @@ collections:
   - name: "info"
     label: "Information Page"
     folder: content/info
-    create: true
+    create: false
     path: "{{slug}}/index"
     i18n: true
+    preview_path: "info/{{slug}}"
     fields:
       - label: Title
         name: title
