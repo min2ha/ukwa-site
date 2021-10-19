@@ -32,13 +32,23 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'homepage'}
+      - label: "Homepage (GD)"
+        name: "homepage_gd"
+        file: "content/_index.gd.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'homepage'}
       
   - name: "info"
     label: "Information Page"
     folder: content/info
-    create: false
+    create: true
     path: "{{slug}}/index"
-    i18n: true
+    i18n: 
+      structure: multiple_files
+      locales: [en, cy, gd]
+      default_locale: en
     preview_path: "info/{{slug}}"
     fields:
       - label: Title
