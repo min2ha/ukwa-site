@@ -1,6 +1,7 @@
 ---
 title: Croeso
 layout: homepage
+aliases: [ "/cy/ukwa/" ]
 ---
 
 ## Yr hyn rydym yn ei wneud

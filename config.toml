@@ -19,8 +19,10 @@ googleAnalytics = "UA-7571526-1"
 [markup.goldmark.renderer]
 unsafe = true
 
+# Set up ukwa prefix (legacy of original deployment but that's the URLs we have)
+[permalinks]
+ info = '/ukwa/info/:filename/'
 # Used to clean up links if we're using static site generation for targets/collections
-#[permalinks]
 #  target = "/target/:slug/"
 #  collection = "/collection/:slug/"
 
