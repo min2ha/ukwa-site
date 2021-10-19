@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<header>
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+</header>
+<article class="information-page">
+
+    <h3>Contents</h3>
+    {{ .TableOfContents }}
+
+    {{ .Content }}
+
+    {{ partial "i18nlist" . }}
+
+    {{ partial "related" . }}
+
+</article>
+
+{{ end }}

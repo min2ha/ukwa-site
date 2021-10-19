@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ $truncate := default true .Site.Params.truncate }}
+
+{{ if .Content }}
+<section class="information-page">
+    {{ .Content }}
+</section>
+{{ end }}
+
+<ul>
+{{ range where .Pages "Type" "info" }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>    
+{{ end }}
+</ul>
+
+{{ end }}

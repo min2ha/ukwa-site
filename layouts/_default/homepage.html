@@ -115,17 +115,23 @@ TO ADD
     <a class="nav-link active" href="http://britishlibrary.typepad.co.uk/webarchive/">Blog</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/info/faq">FAQ</a>
+    {{ with .Site.GetPage "info/faq" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>RSS Feed</a><!-- was rss/recent.xml? -->
+    {{ with .Site.GetPage "info/technical" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+  </li>
+  <!-- This not supported by the current system.
+  <li class="nav-item">
+    <a class="nav-link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>RSS Feed</a><!- - was rss/recent.xml? - ->
   </li>
   <li class="nav-item">
     <a class="nav-link" href='{{ "target/" | relLangURL }}'>All Curated Web Sites</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/cy/">Cymraeg</a>
-  </li>
+  -->
 </ul>
 </div>
 

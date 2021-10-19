@@ -43,7 +43,7 @@
       <div class="row pr-lg-5 pl-lg-5 pr-md-3 pl-md-3 pr-sm-1 pl-sm-1">
         <div class="col-12 blog-main">
 
-          {{ if not .IsHome }}
+          {{ if and (not .IsHome) .File }}
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb bg-white">
               {{ template "breadcrumb" dict "currentPage" .Page "id" .File.UniqueID }}
