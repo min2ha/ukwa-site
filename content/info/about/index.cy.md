@@ -1,5 +1,6 @@
 ---
 title: Amdanom ni
+aliases: ["/cy/about"]
 ---
 ## Beth yr ydym yn ei wneud?
 

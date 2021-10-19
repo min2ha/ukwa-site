@@ -1,5 +1,6 @@
 ---
 title: About Us
+aliases: ["/en/about"]
 ---
 ## What do we do?
 

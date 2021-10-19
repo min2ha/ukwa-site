@@ -9,7 +9,7 @@
 {{ end }}
 
 <ul>
-{{ range where .Pages "Type" "info" }}
+{{ range sort (where .Pages "Type" "info") "Title" }}
         <li>
             <a href="{{.Permalink}}">{{.Title}}</a>
         </li>    

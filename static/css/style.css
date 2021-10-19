@@ -67,10 +67,8 @@ body {
 }
 
 /* Ensure images in markdown are not way too large */
-.md__image {
-  text-align: center;
-}
-
-.md__image img {
+.information-page img {
   max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }

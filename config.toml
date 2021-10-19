@@ -34,36 +34,37 @@ unsafe = true
     languageName = "Cymraeg"
     title = "Archif We y DG"
     weight = 2
-    [languages.cy.params]
-      [languages.cy.params.navigation]
-        help = "Aide"
+  [languages.gd]
+    languageName = "Gàidhlig"
+    title = "Dachaigh UKWA"
+    weight = 3
 
 #
 # Menus
 #
 
 [[menu.main]]
-    name = "Home"
+    name = "home"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Topics & Themes"
+    name = "topics-and-themes"
     url = "/collection/"
     weight = 2
 
 [[menu.main]]
-    name = "Save a UK website"
+    name = "save-a-uk-website"
     url = "/info/nominate"
     weight = 3
 
 [[menu.main]]
-    name = "About Us"
+    name = "about-us"
     url = "/about"
     weight = 4
 
 [[menu.main]]
-   name = "Contact Us"
+   name = "contact-us"
    url = "/contact"
    weight = 5
 

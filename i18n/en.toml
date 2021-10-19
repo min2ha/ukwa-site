@@ -1,2 +1,20 @@
 [ukWebArchive]
 other = "UK Web Archive"
+
+[language]
+other = "Language"
+
+[home]
+other = "Home"
+
+[topics-and-themes]
+other = "Topics & Themes"
+
+[save-a-uk-website]
+other = "Save a UK Website"
+
+[about-us]
+other = "About Us"
+
+[contact-us]
+other = "Contact Us"

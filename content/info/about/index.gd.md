@@ -1,5 +1,6 @@
 ---
 title: Mu ar dèidhinn
+aliases: ["/gd/about"]
 ---
 ## Dè an obair a th’ againn?
 

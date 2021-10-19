@@ -84,7 +84,9 @@ TO ADD
     <a class="nav-link" href="/info/nominate">Save a UK website</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/info">About Us</a>
+    {{ with .Site.GetPage "about" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/contact">Contact Us</a>
@@ -95,16 +97,22 @@ TO ADD
 <div class="col-md-4">	
 <ul class="nav flex-column">
   <li class="nav-item">
-    <a class="nav-link" href="/info/notice_takedown">Notice &amp; Takedown</a>
+    {{ with .Site.GetPage "info/notice_takedown" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/info/terms">Terms &amp; Conditions</a>
+    {{ with .Site.GetPage "info/terms_conditions" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
   <li class="nav-item">
     <a class="nav-link" href="http://www.bl.uk/aboutus/terms/privacy/index.html">Privacy Statement</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/info/cookies">Cookie Policy</a>
+    {{ with .Site.GetPage "info/cookies" }}
+    <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
 </ul>
 </div>

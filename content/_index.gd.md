@@ -1,11 +1,13 @@
 ---
 title: Dachaigh
+layout: homepage
 ---
-# Na tha sinn a’ dèanamh
+
+## Na tha sinn a’ dèanamh
 
 Bidh Tasglann-lìn na RA (UK Web Archive - UKWA) a’ cruinneachadh nam milleanan de làraichean-lìn gach bliadhna, gan glèidheadh airson nan ginealaichean ri teachd. Cleachd an làrach-lìn seo gus seann tionndaidhean de làraichean-lìn na RA a lorg, gus teacsa nan làraichean-lìn a rannsachadh agus gus coimhead air duilleagan-lìn air an tasgadh mu dhiofar chuspairean.
 
-Tha an UKWA na chom-pàirteachas de na sia [Leabharlannan Tasgaidh Reachdail na RA](https://www.webarchive.org.uk/gd/ukwa/#).
+Tha an UKWA na chom-pàirteachas de na sia <a href="#" class="homepage-tooltip" data-toggle="tooltip" data-trigger="hover click" title="" data-original-title="A rèir an lagha, feumaidh gach foillseachadh clò-bhuailte agus didseatach san RA, a’ gabhail a-steach làraichean-lìn, a bhith air an tasgadh le Leabharlann Bhreatainn agus, ma thèid iarraidh, leis na còig Leabharlannan Tasgaidh Laghail eile. Is iad sin - Leabharlann Nàiseanta na h-Alba, Leabharlann Nàiseanta na Cuimrigh, na Leabharlannan Bodleian, Leabharlannan Oilthigh Cambridge agus Coláiste na Tríonóide, Baile Átha Cliath.">Leabharlannan Tasgaidh Reachdail na RA</a>.
 
 ## Cuspairean
 
