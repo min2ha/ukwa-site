@@ -5,17 +5,23 @@ title: Technical Information
 
 We run a number of different web crawlers for different purposes. Our main crawler visit hundreds of sites on a daily, weekly, monthly, quarterly or six-monthly basis. This crawl process uses two different approaches for capturing web pages. For some URLs, we use an automated web browser to download the page, including images, stylesheets, and some dynamic JavaScript content. We identify this crawling process by including the following declaration in the [User Agent](https://en.wikipedia.org/wiki/User_agent):
 
-    bl.uk_lddc_renderbot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
+bl.uk_lddc_renderbot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
 
 Where the `{{VERSION}}` part indicates which version of our crawler is in use, e.g. `bl.uk_lddc_renderbot/2.0.0`.
 
 Because this process involves running an actual web browser, it can download quite a lot of URLs in a short time, just like a normal user would. However, only a very small set of URLs use this crawl method -- the vast majority of URLs are downloaded using a more traditional web crawler that works a bit more like a normal search engine web crawler. This identifies itself as:
 
-    bl.uk_ldfc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
+bl.uk_ldfc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
 
 for the usual regular crawling activity, or as
 
-    bl.uk_lddc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
+bl.uk_lddc_bot/{{VERSION}} (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)
+```
 
 if it's part of our less frequent domain crawls, where we attempt to download content from all UK web sites, which we usually do once per year.
 
@@ -29,14 +35,14 @@ In general a limit is set on the amount of data we download from a given web hos
 
 There are a number of things which you can do to help the UK Web Archive capture as much content as possible from your website:
 
- * Create a [Site Map](https://en.wikipedia.org/wiki/Site_map), and if possible a XML site map too. Creating a site map ensures all the website content can be crawled (some pages may not be discoverable by the crawler, for example pages which use Flash or JavaScript navigation). Having a site map will also help users to find your pages via search engines.
- * Use [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) to prevent access to areas of the site which may cause problems if crawled e.g. databases, including online catalogues; "shopping baskets", etc.
- * Provide standard links to content which would otherwise only be accessed via selecting drop down menus, certain dynamic kinds of navigation (e.g JavaScript) or by conducting searches on the website. This is because the crawler cannot access content hidden behind search forms. Websites can of course still use those devices but if standard links are also provided on the website then the content is more likely to be captured properly.
- 
+* Create a [Site Map](https://en.wikipedia.org/wiki/Site_map), and if possible a XML site map too. Creating a site map ensures all the website content can be crawled (some pages may not be discoverable by the crawler, for example pages which use Flash or JavaScript navigation). Having a site map will also help users to find your pages via search engines.
+* Use [`robots.txt`](https://en.wikipedia.org/wiki/Robots_exclusion_standard) to prevent access to areas of the site which may cause problems if crawled e.g. databases, including online catalogues; "shopping baskets", etc.
+* Provide standard links to content which would otherwise only be accessed via selecting drop down menus, certain dynamic kinds of navigation (e.g JavaScript) or by conducting searches on the website. This is because the crawler cannot access content hidden behind search forms. Websites can of course still use those devices but if standard links are also provided on the website then the content is more likely to be captured properly.
+
 For more information, please see:
 
-- Columbia Universities Libraries' [Guidelines for Preservable Websites](https://library.columbia.edu/bts/web_resources_collection/guidelines_for_preservable_websites.html)
-- Stanford Libraries' [Archivability](https://library.stanford.edu/projects/web-archiving/archivability)
+* Columbia Universities Libraries' [Guidelines for Preservable Websites](https://library.columbia.edu/bts/web_resources_collection/guidelines_for_preservable_websites.html)
+* Stanford Libraries' [Archivability](https://library.stanford.edu/projects/web-archiving/archivability)
 
 ## What Can't Yet Be Archived
 
@@ -69,11 +75,15 @@ All sites are welcome to link to the UK Web Archive.
 
 To use a plain text link, simply copy and paste the following code below onto your page. Please customise the text between > and < to suit your own house style of citation:
 
-    <div style=...><a href="http://www.webarchive.org.uk/">Click here for the UK Web Archive</a></div>
+```
+<div style=...><a href="http://www.webarchive.org.uk/">Click here for the UK Web Archive</a></div>
+```
 
 To use a link that has the UK Web Archive logo, then copy and paste this code:
 
-    <div style=...><a href="http://www.webarchive.org.uk/"><img alt="UK Web Archive" src="https://www.webarchive.org.uk/en/ukwa/img/ukwa-logo-60px.jpg"></img></a></div>
+```
+<div style=...><a href="http://www.webarchive.org.uk/"><img alt="UK Web Archive" src="https://www.webarchive.org.uk/en/ukwa/img/ukwa-logo-60px.jpg"></img></a></div>
+```
 
 ## Technical Background
 
