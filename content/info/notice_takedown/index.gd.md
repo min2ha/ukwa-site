@@ -1,5 +1,5 @@
 ---
-title: " Rabhadh is Toirt a-nuas"
+title: Rabhadh is Toirt a-nuas
 ---
 Tha ceannas aig Bòrd Leabharlann Bhreatainn air Tasglann-lìn na RA aig a’ cheann thall. Tha rùn aig a’ Bhòrd dèanamh cinnteach gu bheil an stuth a tha air a thaisbeanadh air Tasglann-lìn na RA (?an Tasglann?) laghail agus a rèir nan Teirmichean is Cumhaichean againn.
 

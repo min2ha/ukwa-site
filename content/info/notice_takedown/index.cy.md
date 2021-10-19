@@ -1,5 +1,5 @@
 ---
-title: " Hysbysu a Chymryd i Lawr"
+title: Hysbysu a Chymryd i Lawr
 ---
 Mae Archif We y DG yn cael ei goruchwylio yn y pen draw gan Fwrdd y Llyfrgell Brydeinig. Mae’r Bwrdd wedi ymrwymo i sicrhau bod deunydd sydd i’w weld yn safle Archif We y DG (“Yr Archif”) yn gyfreithlon ac yn unol â’u Telerau ac Amodau.
 
