@@ -9,19 +9,28 @@ i18n:
   default_locale: en
 
 collections:
-  - label: "Pages"
-    name: "pages"
-    folder: content/pages
-    path: "{{slug}}/index"
-    i18n: true
-    fields:
-      - {label: Title, name: title, widget: string, i18n: true}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
-      - {label: 'URL', name: 'url', widget: 'hidden'}
+  - label: "Page"
+    name: "page"
+    # i18n mode currently only supports single-file transations for file collections
+    # So we have separate editors for each
+    files:
+      - label: "Homepage (EN)"
+        name: "homepage_en"
+        file: "content/_index.en.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'homepage'}
+      - label: "Homepage (CY)"
+        name: "homepage_cy"
+        file: "content/_index.cy.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'homepage'}
       
   - name: "info"
-    label: "Information"
+    label: "Information Page"
     folder: content/info
     create: true
     path: "{{slug}}/index"
