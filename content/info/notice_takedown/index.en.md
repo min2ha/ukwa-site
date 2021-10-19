@@ -1,5 +1,5 @@
 ---
-title: " Notice and Takedown"
+title: Notice and Takedown
 ---
 The UK Web Archive is ultimately overseen by, the British Library Board. The Board are committed to ensuring that the material displayed on the UK Web Archive Website ("the Archive") is lawful and in accordance with our Terms and Conditions.
 
