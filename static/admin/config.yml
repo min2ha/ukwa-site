@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: ukwa/ukwa-site
 
 # https://www.netlifycms.org/docs/configuration-options/?#publish-mode
