@@ -65,3 +65,12 @@ body {
 *:focus {
   outline: 3px solid red !important;
 }
+
+/* Ensure images in markdown are not way too large */
+.md__image {
+  text-align: center;
+}
+
+.md__image img {
+  max-width: 600px;
+}
