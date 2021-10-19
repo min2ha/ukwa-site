@@ -12,6 +12,9 @@ rssLimit = 100
 Paginate = 20
 theme = "hugo-bootstrap"
 
+# Google analytics
+googleAnalytics = "UA-7571526-1"
+
 # Use this to allow raw HTML in the pages:
 [markup.goldmark.renderer]
 unsafe = true
@@ -50,12 +53,12 @@ unsafe = true
 
 [[menu.main]]
     name = "topics-and-themes"
-    url = "/collection/"
+    url = "/ukwa/collection/"
     weight = 2
 
 [[menu.main]]
     name = "save-a-uk-website"
-    url = "/info/nominate"
+    url = "/ukwa/info/nominate"
     weight = 3
 
 [[menu.main]]
@@ -65,7 +68,7 @@ unsafe = true
 
 [[menu.main]]
    name = "contact-us"
-   url = "/contact"
+   url = "/ukwa/contact"
    weight = 5
 
 
@@ -85,28 +88,3 @@ unsafe = true
    weight = 100
 
 
-# 
-# Other parameters
-#
-
-[params]
-  google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
-
-  [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
-    meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-
-  [params.logo]
-      mobile = "/img/ukwa-2018-onwhite-close.svg"
-      standard = "/img/ukwa-2018-onwhite-close.svg"
