@@ -1,24 +1,13 @@
-# This Compose file is intended for local development, not production deployment.
-#
-
-version: "2.4"
+version: '3.7'
 
 services:
 
-  hugo:
-    image: jojomi/hugo:latest
-    volumes:
-      - .:/src
-      - ../ukwa-site-build:/output
-    environment:
-      - HUGO_REFRESH_TIME=3600
-      - HUGO_THEME=ukwa
-      - HUGO_BASEURL=http://localhost:81
-
-  nginx:
-    image: nginx
+  site:
+    build:
+      context: .
+      args:
+        http_proxy: ${HTTP_PROXY}
+        https_proxy: ${HTTPS_PROXY}
     ports:
-      - "81:80"
-    volumes:
-      - ../ukwa-site-build:/usr/share/nginx/html:ro
+      - 1080:80
 
