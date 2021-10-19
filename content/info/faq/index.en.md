@@ -3,6 +3,8 @@ title: Frequently Asked Questions
 ---
 If your question isn't answered below then please [contact us](https://www.webarchive.org.uk/en/ukwa/info/contact).
 
+![WooYay](ukwa-square.png "Logo")
+
 ## Why do we need a Web Archive?
 
 There are millions of UK websites. They are constantly changing and even disappearing. Often they contain information that is only available on the Web. Responding to the challenge of a potential "digital black hole" web archives are designed to safeguard as many of these websites as practical. The purpose of the UK Web Archive is to collect, preserve and give permanent access to key UK websites for future generations.
