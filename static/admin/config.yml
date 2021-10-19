@@ -1,5 +1,9 @@
 backend:
   name: github
+  repo: ukwa/ukwa-site
+
+# https://www.netlifycms.org/docs/configuration-options/?#publish-mode
+publish_mode: editorial_workflow
 
 media_folder: static/assets/uploads
 
