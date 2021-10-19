@@ -1,6 +1,6 @@
 ---
 title: About Us
-aliases: ["/en/about"]
+aliases: ["/en/about", "/en/ukwa/about"]
 ---
 ## What do we do?
 
