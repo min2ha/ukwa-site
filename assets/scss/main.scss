@@ -3363,4 +3363,23 @@ footer {
   }
 
 
+  /* Ensure images in markdown are not way too large */
+.information-page img {
+  max-width: 600px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Higher-contrast colours */
+a {
+  color: #006ee5;
+}
+.btn-primary {
+  background-color: #006ee5;
+}
+code {
+  color: #d1377e;
+}
+
 /*# sourceMappingURL=main.css.map */
