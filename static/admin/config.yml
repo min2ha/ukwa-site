@@ -47,7 +47,7 @@ collections:
     create: false
     path: "{{slug}}/index"
     i18n: true
-    preview_path: "en/info/{{dirname}}"
+    preview_path: "en/ukwa/info/{{dirname}}"
     fields:
       - {label: 'Title', name: 'title', widget: 'string', i18n: true}
       - {label: 'Body', name: 'body', widget: 'markdown', i18n: true}
