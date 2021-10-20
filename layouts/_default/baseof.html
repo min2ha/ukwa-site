@@ -84,12 +84,10 @@
       });
     </script>
 
-    {{ $js := resources.Get "js/jquery.cookie.min.js" }}
-    {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+    {{ $secureJS := resources.Get "js/jquery.cookie.min.js" | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
-    {{ $js := resources.Get "js/common.js" }}
-    {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+    {{ $secureJS := resources.Get "js/common.js" | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
   </body>
