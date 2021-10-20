@@ -15,8 +15,7 @@
                 </button>
             </div>
             <div class="col-md-10 mt-2 dialog-link">
-                <label for="hs-input-field" id="tipsDialog">Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...&nbsp;</label>
-                <a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title="Tips/Notes for using the UK Web Archive"><i class="fas fa-info-circle text-white"></i></a>
+                <label for="hs-input-field" id="tipsDialog">Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title="Tips/Notes for using the UK Web Archive"><i class="fas fa-info-circle text-white"></i></a></label>
             </div>
             <input aria-hidden="true" type="hidden" name="search_location" id="search_location_full_text" value="full_text">
             <input aria-hidden="true" type="hidden" name="reset_filters" id="reset_filters" value="false">
@@ -49,13 +48,13 @@
       </a></div>
   </div>    
 
+<!-- additional (temporary) for testing 
 <div class="row pt-4">
 
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
 TO ADD
 </div>
 
-<!-- additional (temporary) for testing -->
 
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
 TO ADD
@@ -65,7 +64,9 @@ TO ADD
 TO ADD
 </div>
 
-<!-- The proper ones 
+-->
+
+<!-- The proper ones, assuming collections are managed here as static files
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
 	{{ with .Site.GetPage "/collection/french-in-london" }}
 	  {{ partial "collection-card" .}}
