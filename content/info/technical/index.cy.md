@@ -1,6 +1,4 @@
 ---
-title: Technical Information In Welsh
+title: Technical Information (TBA In Welsh)
 ---
 This is the NOT the correct translation.
-
-![This is Commander Data dressed as Sherlock Holmes.](elementary3.png)
