@@ -41,6 +41,8 @@ The `static/admin/config.yaml` file contains the configuration for the CMS, and 
 
 The idea is that curators and collaborators can edit and translate content without requiring any technical support.  When they are happy with the content, it can be rolled out onto the production web domain.
 
+Note that there is a weird bug that means the Scottish Gaelic (GD) page titles show up in the page lists in the CMS, but these don't work correctly and should not be used.  This [has been reported to the NetlifyCMS developers](https://github.com/netlify/netlify-cms/issues/5909).
+
 ## Deployment
 
 The Docker build compiles the content and then patches it into an NGINX container.  The Docker Compose file can be used to do this locally, but GitHub Actions are used to automatically update container images.
