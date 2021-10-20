@@ -1,7 +1,4 @@
-{{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
-
-<header class="blog-header">
-    <nav class="navbar navbar-expand-md navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
+    <nav role="navigation" class="navbar navbar-light navbar-expand-md" id="main-nav" aria-label="Main">
         <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
             {{ partial "brand" . }}
         </a>
@@ -48,4 +45,3 @@
             </ul>
         </div>
     </nav>
-</header>

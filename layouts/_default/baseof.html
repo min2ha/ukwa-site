@@ -12,9 +12,15 @@
     </title>
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="">
+    {{ $style := resources.Get "bootstrap/css/bootstrap.min.css" }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <!-- Theme additions -->
+    {{ $sass := resources.Get "scss/main.scss" }}
+    {{ $style := $sass | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    <!-- link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet" -->
 
     <link href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
@@ -22,7 +28,9 @@
 
     {{ partial "head-custom.html" . }}
   </head>
-  <body>
+  <body class="theme-light">
+    <div class="container-fluid">
+
     {{ block "header" . }}
       {{ partial "header" . }}
     {{ end }}
@@ -45,7 +53,7 @@
 
           {{ if and (not .IsHome) .File }}
           <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-white">
+            <ol class="breadcrumb">
               {{ template "breadcrumb" dict "currentPage" .Page "id" .File.UniqueID }}
             </ol>
           </nav>
@@ -67,6 +75,8 @@
       {{ partial "footer" . }}
     {{ end }}
 
+    </div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -78,6 +88,14 @@
         $('[data-toggle="tooltip"]').tooltip()
       });
     </script>
+
+    {{ $js := resources.Get "js/jquery.cookie.min.js" }}
+    {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+
+    {{ $js := resources.Get "js/common.js" }}
+    {{ $secureJS := $js | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
   </body>
 </html>
