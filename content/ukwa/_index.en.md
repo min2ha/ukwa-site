@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: homepage
-aliases: [ "/en/ukwa/", "/en/ukwa/index" ]
+aliases: [ "/en/ukwa/index" ]
 ---
 
 ## What we do

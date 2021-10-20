@@ -26,6 +26,9 @@ unsafe = true
 #  target = "/target/:slug/"
 #  collection = "/collection/:slug/"
 
+[params]
+  mainSections = ["ukwa", "info"]
+
 #
 # Internationalisation
 #

@@ -1,7 +1,7 @@
 ---
 title: Dachaigh
 layout: homepage
-aliases: [ "/gd/ukwa/", "/gd/ukwa/index" ]
+aliases: [ "/gd/ukwa/index" ]
 ---
 
 ## Na tha sinn a’ dèanamh
