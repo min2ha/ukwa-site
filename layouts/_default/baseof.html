@@ -16,8 +16,8 @@
     {{ $style := resources.Get "bootstrap/css/bootstrap.min.css" }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <!-- Theme additions -->
-    {{ $sass := resources.Get "scss/main.scss" }}
-    {{ $style := $sass | resources.ToCSS }}
+    {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+    {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     <!-- link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet" -->
@@ -63,7 +63,17 @@
         </div>
 
       </div>
-    </div>
+
+      <div class="cookies-cont">
+        <div class="row">
+            {{ with .Site.GetPage "info/cookies" }}
+            <div class="col-md-8 col-sm-12">{{ i18n "footerCookiesText" | safeHTML }}</div>
+            {{ end }}
+            <div class="col-md-4 col-sm-12 padding-top-mobile-10"><button class="button float-sm-right" id="btn_cookies" title='{{ i18n "footerCookiesCloseButton" }}'>{{ i18n "footerCookiesButton" }}</button></div>
+        </div>
+      </div>
+  
+      </div>
     {{ end }} 
 
     {{ block "footer" . }}
@@ -74,21 +84,24 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    {{ $secureJS := resources.Get "js/jquery-3.5.1.min.js" | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+    {{ $secureJS := resources.Get "popperjs/popper.min.js" | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+    {{ $secureJS := resources.Get "bootstrap/js/bootstrap.min.js" | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+
+    {{ $secureJS := resources.Get "js/jquery.cookie.min.js" | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+
+    {{ $secureJS := resources.Get "js/common.js" | resources.Minify | resources.Fingerprint "sha512" }}
+    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
     <script>
       $(function () {
         $('[data-toggle="tooltip"]').tooltip()
       });
     </script>
-
-    {{ $secureJS := resources.Get "js/jquery.cookie.min.js" | resources.Fingerprint "sha512" }}
-    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
-
-    {{ $secureJS := resources.Get "js/common.js" | resources.Fingerprint "sha512" }}
-    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
   </body>
 </html>

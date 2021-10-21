@@ -88,6 +88,15 @@ other = "Trinity College Dublin"
 [backToTop]
 other = "Back to top"
 
+[footerCookiesText]
+other = "By using this site, you agree we can set and use cookies. For more details of these cookies and how to disable them, see our <a href='{{ .Permalink }}'>cookie policy</a>."
+
+[footerCookiesCloseButton]
+other = "Close this message"
+
+[footerCookiesButton]
+other = "OK"
+
 [collection329Title]
 other=""
 
