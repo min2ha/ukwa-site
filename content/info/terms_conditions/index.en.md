@@ -113,4 +113,7 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 ### 9. APPLICABLE LAW
 
-9.1 These Terms and Conditions shall be governed by and construed in accordance with English law. You hereby submit to and agree that the sole jurisdiction and venue for any actions that may arise under or in relation to
+9.1 These Terms and Conditions shall be governed by and construed in accordance with English law. You hereby submit to and agree that the sole jurisdiction and venue for any actions that may arise under or in relation to the subject matter hereof shall be the English courts.
+
+The British Library\
+September 2010
