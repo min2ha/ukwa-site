@@ -3,11 +3,11 @@ title: Telerau ac Amodau Defnyddio Archif Gwefannau’r Deyrnas Unedig
 ---
 Gweithredir Archif Gwefannau’r DU (yr "Archif") gan Fwrdd y Llyfrgell Brydeinig, corff a sefydlwyd dan Ddeddf y Llyfrgell Brydeinig 27 Gorffennaf 1972, 96 Euston Road, Llundain NW12DB, y Deyrnas Unedig ("Ni" "Ninnau" ac "Ein"). Mae’r Archif yn cynnwys gwefannau dethol ar draws y DU ac fe’i darperir i’r defnyddiwr ("Chi" ac "Eich") yn unig mewn cydymffurfiad â’r telerau a’r amodau "Telerau ac Amodau" sy’n anghyfnewidiadwy.
 
-### 1. CYFFREDINOL
+## 1. CYFFREDINOL
 
 1.1 Os defnyddiwch yr Archif, yr ydych yn cytuno i fod yn rhwymedig gan y Telerau a’r Amodau ac unrhyw ganllawiau, rheolau neu ymwadiadau a allai fod wedi’u gosod a’u diweddaru ar We-dudalennau penodol neu ar hysbysiadau a anfonir atoch. Os nad ydych yn cydymffurfio â’r telerau uchod, gallwn farnu yn ôl ein doethineb i wahardd eich mynediad dros dro neu ddiddymu eich mynediad i’r Archif ar unwaith, a hynny heb unrhyw ragrybudd. Ni fyddwn yn atebol am unrhyw golledion neu iawndal a allai godi yn sgîl gwaharddiad neu ddiddymiad o’r fath.
 
-### 2. CANIATÁU TRWYDDED A DEFNYDD O’R ARCHIF
+## 2. CANIATÁU TRWYDDED A DEFNYDD O’R ARCHIF
 
 2.1 Yr ydym yn caniatáu i chi, yn gyfan gwbl mewn cydymffurfiad â’r Telerau a’r Amodau, drwydded anhrosglwyddadwy, anghyfyngedig i:
 
@@ -35,7 +35,7 @@ Gweithredir Archif Gwefannau’r DU (yr "Archif") gan Fwrdd y Llyfrgell Brydeini
 
 2.3 Er popeth sydd yn y Telerau a’r Amodau hyn, ni waherddir chi rhag gwneud unrhyw weithred mewn perthynas â’r Archif a fyddai fel arall yn cael ei chaniatáu gan y gyfraith.
 
-### 3. MYNEDIAD A NEWIDIADAU I’R ARCHIF
+## 3. MYNEDIAD A NEWIDIADAU I’R ARCHIF
 
 3.1 Gallwn:
 
@@ -49,7 +49,7 @@ Gweithredir Archif Gwefannau’r DU (yr "Archif") gan Fwrdd y Llyfrgell Brydeini
 
 3.4 Chi fydd yn gyfrifol am wneud y trefniadau angenrheidiol ar gyfer mynediad i’r Archif ac am sicrhau y cydymffurfir â’r holl ofynion, cyfreithiol a thechnegol.
 
-### 4. ATEBOLRWYDD
+## 4. ATEBOLRWYDD
 
 4.1 Yr ydych yn cydnabod eich bod, yn eich defnydd o’r Archif:
 
@@ -75,19 +75,19 @@ Gweithredir Archif Gwefannau’r DU (yr "Archif") gan Fwrdd y Llyfrgell Brydeini
 
 4.7 Ni fyddwn yn atebol am unrhyw iawndal (gan gynnwys, heb gyfyngiad, iawndal am golli elw) sy’n codi mewn contract, camwedd neu fel arall o’ch defnydd neu’ch anallu i ddefnyddio’r Archif neu unrhyw gynnwys neu o unrhyw gamau a gymerwyd (neu a ymatalwyd rhag eu cymryd) o ganlyniad i ddefnyddio’r Archif neu unrhyw gynnwys arni, gan gynnwys mewn perthynas â thorri hawliau trydydd parti sy’n codi o’ch defnydd o’r cynnwys.
 
-### 5. DIGOLLEDIAD
+## 5. DIGOLLEDIAD
 
 5.1 Yr ydych yn cytuno i’n digolledu ni a’n cadw’n ddigolledig bob amser rhag yr holl weithredoedd, achosion, costau, hawliau, gorchmynion, cyfrifoldebau a pha dreuliau bynnag (gan gynnwys ffioedd cyfreithiol ac eraill, a thaliadau) a ddioddefwyd, a wynebwyd neu a dalwyd gennym ni yn uniongyrchol neu’n anuniongyrchol yng nghyswllt:
 
 5.1.1 mynediad at yr Archif a’r/neu’r defnydd ohoni (ar wahân i’r hyn a ganiateir gan y Telerau a’r Amodau) gennych chi; 2. unrhyw wybodaeth, data neu ddeunydd a gynhyrchir gennych o ganlyniad i’ch defnydd o’r Archif; a 3. thorri unrhyw rai o’r Telerau a’r Amodau gennych chi.
 
-### 6. HAWLIAU EIDDO DEALLUSOL
+## 6. HAWLIAU EIDDO DEALLUSOL
 
 6.1 Diogelir yr Archif a’r gwefannau a gynhwysir ynddi gan hawlfraint a HED eraill. Wrth fynd i mewn i’r Archif, yr ydych yn cydnabod bod yr hawliau hynny yn eiddo llwyr a neilltuedig deiliad yr hawlfraint a/neu HED arall.
 
 6.2 Os dymunwch ddefnyddio unrhyw wybodaeth sy’n tarddu o’r Archif at unrhyw bwrpas sy’n anghyson â’r Telerau a’r Amodau hyn, rhaid i chi gysylltu â deiliad yr hawlfraint i gael caniatâd.
 
-### 7. GWYBODAETH GYFRINACHOL
+## 7. GWYBODAETH GYFRINACHOL
 
 7.1 Yr ydych yn cydnabod ac yn derbyn, er mwyn cyflawni ein hymrwymiadau dan y Telerau a’r Amodau hyn, y gall fod yn angenrheidiol i ni ddal gwybodaeth sy’n ymwneud â chi.
 
@@ -103,11 +103,11 @@ Gweithredir Archif Gwefannau’r DU (yr "Archif") gan Fwrdd y Llyfrgell Brydeini
 
 7.2.5 na fydd gwybodaeth yn cael ei datgelu i unrhyw drydydd parti, ac eithrio ar gyfer ‘datgeliad a ganiateir’ fel y’i diffinnir gan y Ddeddf. 7.3 Yr ydych yn cydnabod ein bod dan reolaeth gofynion y Ddeddf Rhyddid Gwybodaeth 2000 ("y Ddeddf"), ac y rhowch i ni’r holl gymorth angenrheidiol sy’n ofynnol gennym o fewn rheswm i’n galluogi i gydymffurfio â’r Ddeddf. Yr ydych yn cytuno i roi unrhyw gymorth o’r fath i ni o fewn pum diwrnod gwaith o’r adeg y gwneir unrhyw gais gennym dan y cymal hwn 7.3
 
-### 8. NEILLTUAD
+## 8. NEILLTUAD
 
 8.1 Ni ddylech neilltuo nac ychwaith waredu eich hawliau dan y Telerau a’r Amodau hyn heb ein caniatâd ysgrifenedig ni yn gyntaf.
 
-### 9. DEDDF GYMWYS
+## 9. DEDDF GYMWYS
 
 9.1 Bydd y Telerau a’r Amodau hyn yn cael eu gweinyddu a’u dehongli yn unol â chyfraith Lloegr. Yr ydych drwy hyn yn derbyn ac yn cytuno mai’r unig awdurdodaeth a chyrchfan ar gyfer unrhyw weithredoedd a all godi dan neu yng nghyswllt y cynnwys hwn fydd llysoedd Lloegr.
 

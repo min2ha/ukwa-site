@@ -4,18 +4,18 @@
     <div class="container-fluid d-flex ukwa-hero-banner mb-3 pt-2 px-md-5 px-sm-3 px-xs-3 px-2">
         <div class="row justify-content-center align-self-center" role="group">
             <div class="col-md-10">
-                <h1 class="main-heading-2-redesign padding-bottom-20">Search the UK Web Archive</h1>
+                <h1 class="main-heading-2-redesign padding-bottom-20">{{ i18n "searchTheUkWebArchive" }}</h1>
             </div>
             <div class="col-md-8 offset-md-1 mt-2">
-                <input role="textbox" type="text" name="text" class="form-control form-control-lg homepage-search-input mr-lg-5 mr-md-5" placeholder="" aria-label="Input search text" title="Search field" required="" aria-required="true" id="hs-input-field">
+                <input role="textbox" type="text" name="text" class="form-control form-control-lg homepage-search-input mr-lg-5 mr-md-5" placeholder="" aria-label='{{ i18n "inputSearchText" }}' title='{{ i18n "searchField" }}' required="" aria-required="true" id="hs-input-field">
             </div>
             <div class="col-md-3 mt-2">
-                <button role="button" type="submit" class="btn btn-lg btn-light h-100 w-auto align-items-center" title="Search">
-                    <span class="align-middle">Search<i class="fa fa-search ml-2" aria-hidden="true"></i></span>
+                <button role="button" type="submit" class="btn btn-lg btn-light h-100 w-auto align-items-center" title='{{ i18n "search" }}'>
+                    <span class="align-middle">{{ i18n "search" }}<i class="fa fa-search ml-2" aria-hidden="true"></i></span>
                 </button>
             </div>
             <div class="col-md-10 mt-2 dialog-link">
-                <label for="hs-input-field" id="tipsDialog">Enter a specific website URL (e.g. www.bl.uk) or any word or phrase...&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title="Tips/Notes for using the UK Web Archive"><i class="fas fa-info-circle text-white"></i></a></label>
+	<label for="hs-input-field" id="tipsDialog">{{ i18n "searchTipsLink" }}&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title='{{ i18n "searchTipsTitle" }}'><i class="fas fa-info-circle text-white"></i></a></label>
             </div>
             <input aria-hidden="true" type="hidden" name="search_location" id="search_location_full_text" value="full_text">
             <input aria-hidden="true" type="hidden" name="reset_filters" id="reset_filters" value="false">
@@ -88,7 +88,7 @@ TO ADD
 
 <div class="row pt-2">
 	<p class="text-center w-100">
-<a href='{{ "ukwa/collection/" | relLangURL }}' class="btn btn-primary btn-lg">View all Topics & Themes</a>
+<a href='{{ "ukwa/collection/" | relLangURL }}' class="btn btn-primary btn-lg">{{ i18n "viewAllCollections" }}</a>
 </p>
 </div>
 
@@ -100,13 +100,13 @@ TO ADD
 <div class="col-md-4">	
 <ul class="nav flex-column">
   <li class="nav-item">
-    <a class="nav-link" href='{{ "/" | relLangURL }}'>Home</a>
+    <a class="nav-link" href='{{ "/" | relLangURL }}'>{{ i18n "home" }}</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ "ukwa/collection/" | relLangURL }}'>Topics &amp; Themes</a>
+    <a class="nav-link" href='{{ "ukwa/collection/" | relLangURL }}'>{{ i18n "collectionsTitle" }}</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ "ukwa/info/nominate" | relLangURL }}'>Save a UK website</a>
+    <a class="nav-link" href='{{ "ukwa/info/nominate" | relLangURL }}'>{{ i18n "saveAUkWebsite" }}</a>
   </li>
   <li class="nav-item">
     {{ with .Site.GetPage "about" }}
@@ -114,7 +114,7 @@ TO ADD
     {{ end }}
   </li>
   <li class="nav-item">
-    <a class="nav-link" href='{{ "ukwa/contact" | relLangURL }}'>Contact Us</a>
+    <a class="nav-link" href='{{ "ukwa/contact" | relLangURL }}'>{{ i18n "contactUs" }}</a>
   </li>
 </ul>
 </div>
@@ -132,7 +132,7 @@ TO ADD
     {{ end }}
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.bl.uk/about-us/privacy-policy">Privacy Statement</a>
+    <a class="nav-link" href="https://www.bl.uk/about-us/privacy-policy">{{ i18n "privacyStatement" }}</a>
   </li>
   <li class="nav-item">
     {{ with .Site.GetPage "info/cookies" }}
@@ -145,7 +145,7 @@ TO ADD
 <div class="col-md-4">
 <ul class="nav flex-column">
   <li class="nav-item">
-    <a class="nav-link active" href="http://britishlibrary.typepad.co.uk/webarchive/">Blog</a>
+    <a class="nav-link active" href="http://britishlibrary.typepad.co.uk/webarchive/">{{ i18n "blog" }}</a>
   </li>
   <li class="nav-item">
     {{ with .Site.GetPage "info/faq" }}

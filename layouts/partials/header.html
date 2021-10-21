@@ -1,9 +1,9 @@
-    <nav role="navigation" class="navbar navbar-light navbar-expand-md" id="main-nav" aria-label="Main">
-        <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
+    <nav role="navigation" class="navbar navbar-light navbar-expand-md" id="main-nav" aria-label='{{ i18n "mainNavigation" }}'>
+        <a class="navbar-brand" href='{{ "/ukwa/" | relLangURL }}'>
             {{ partial "brand" . }}
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
-            aria-label="Toggle navigation">
+            aria-label='{{ i18n "toggleNavigation" }}'>
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
@@ -38,7 +38,7 @@
                 </li>
                 {{ end }} 
                 <li class="nav-item">
-                    <a href="javascript:void(0)" id="universalaccess_href" class="col-md-1 col-sm-1" aria-label="High Contrast Mode Switch" title="High Contrast Mode Switch" tabindex="0">
+                    <a href="javascript:void(0)" id="universalaccess_href" class="col-md-1 col-sm-1" aria-label='{{ i18n "highContrastModeSwitch" }}' title='{{ i18n "highContrastModeSwitch" }}' tabindex="0">
                         <i class="fas fa-universal-access fa fa-2x highcontastUAIconOff"></i>
                     </a>
                 </li>

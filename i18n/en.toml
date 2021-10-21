@@ -7,14 +7,89 @@ other = "Language"
 [home]
 other = "Home"
 
-[topics-and-themes]
+[collectionsTitle]
 other = "Topics & Themes"
 
-[save-a-uk-website]
+[saveAUkWebsite]
 other = "Save a UK Website"
 
-[about-us]
+[about]
+other = "About"
+
+[aboutUs]
 other = "About Us"
 
-[contact-us]
+[contactUs]
 other = "Contact Us"
+
+[mainNavigation]
+other = "Main navigation"
+
+[toggleNavigation]
+other = "Toggle Navigation"
+
+[highContrastModeSwitch]
+other = "High Contrast Mode Switch"
+
+[searchTheUkWebArchive]
+other = "Search the UK Web Archive"
+
+[inputSearchText]
+other = "Input search text"
+
+[searchField]
+other = "Search field"
+
+[search]
+other = "Search"
+
+[searchTipsLink]
+other = "Enter a specific website URL (e.g. www.bl.uk) or any word or phrase..."
+
+[searchTipsTitle]
+other = "Tips/Notes for using the UK Web Archive"
+
+[viewAllCollections]
+other = "View all Topics & Themes"
+
+[youAreHere]
+other = "You are here"
+
+[contents]
+other = "Contents"
+
+[privacyStatement]
+other="Privacy Statement"
+
+[blog]
+other="Blog"
+
+[footerTextLine]
+other = "The UK Web Archive collects on behalf of these UK Legal deposit Libraries"
+
+[titleBod]
+other = "Bodleian Libraries"
+
+[titleLLGC]
+other = "LLGC NLW"
+
+[titleNLS]
+other = "National Library of Scotland"
+
+[titleBL]
+other = "British Library" 
+
+[titleCUL]
+other = "Cambrige University Library"
+
+[titleTCD]
+other = "Trinity College Dublin"
+
+[backToTop]
+other = "Back to top"
+
+[collection329Title]
+other=""
+
+[collection329Description]
+other=""

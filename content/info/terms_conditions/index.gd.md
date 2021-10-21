@@ -3,11 +3,11 @@ title: Teirmichean is Cumhaichean
 ---
 Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann Bhreatainn, buidheann chorporra a chaidh a stèidheachadh fo Achd Leabharlann Bhreatainn air 27 Iuchar 1972, air 96 Euston Road, Lunnainn NW1 2DB, An Rìoghachd Aonaichte (“We” “Us” and “Our”). Tha làraichean-lìn taghte anns an Tasglann bho air feadh na RA agus tha e air a thoirt dhan neach-cleachdaidh (& ldquo; thu& rdquo; agus & ldquo; agad & rdquo;) a rèir nan teirmichean is cumhaichean seo a-mhàin& ldquo; Teirmichean is Cumhaichean & rdquo ;, nach gabh ath-rèiteachadh.
 
-### 1. COITCHEANN
+## 1. COITCHEANN
 
 1.1 Ma chleachdas tu an Tasglann, tha thu ag aontachadh ris na Teirmichean is Cumhaichean agus ri stiùireadh, riaghailtean no aithrisean-àichidh sam bith a dh’fhaodadh a bhith air am postadh is air an ùrachadh air làraichean-lìn sònraichte no air brathan a thèid a chur thugad. Ma tha sinn den bheachd gun do bhris thu gin de na tha riaghailtean gu h-àrd, faodaidh sinn, a rèir ar toil fhèin, cur às dhan chothrom agad air an Tasglann sa bhad rè ùine no gu bràth, gun rabhadh ro-làimh agus cha bhi sinn buailteach airson call no milleadh sam bith a dh’fhaodadh èirigh mar thoradh air a leithid de chasg no cuir dheth.
 
-### 2. A’ TOIRT SEACHAD CEADACHAS AGUS A’ CLEACHDADH AN TASGLAINN
+## 2. A’ TOIRT SEACHAD CEADACHAS AGUS A’ CLEACHDADH AN TASGLAINN
 
 2.1 Bheir sinn dhut, dìreach a rèir nan Teirmean is Cumhaichean, cead neo-ghluasadach, neo-às-dùnach gus:
 
@@ -35,7 +35,7 @@ Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann B
 
 2.3 A dh’aindeoin rud sam bith anns na Teirmichean is Cumhaichean seo, chan eil e toirmisgte dhut gnìomh sam bith a ghabhail a thaobh an Tasglainn a bhiodh ceadaichte a rèir an lagh.
 
-### 3. COTHROM AGUS ATHARRACHAIDHEAN DHAN TASGLANN
+## 3. COTHROM AGUS ATHARRACHAIDHEAN DHAN TASGLANN
 
 3.1 Faodaidh sinn:
 
@@ -49,7 +49,7 @@ Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann B
 
 3.4 Bidh e an urra riut na h-ullachaidhean riatanach a dhèanamh airson faighinn chun Tasglainn agus dèanamh cinnteach gu bheilear a’ cumail ris na riatanasan, laghail agus teicnigeach.
 
-### 4. BUAILTEACHD
+## 4. BUAILTEACHD
 
 4.1 Tha thu ag aontachadh, le bhith a’ cleachdadh an Tasglainn:
 
@@ -75,7 +75,7 @@ Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann B
 
 4.7 Cha bhi sinn buailteach airson milleadh sam bith (a’ gabhail a-steach, gun chuingealachadh, airgead-dìolaidh airson call phrothaidean) ag èirigh ann an cùmhnant, tort no eile bho do chleachdadh den Tasglann, gun chomas a bhith agad an Tasglann, a chleachdadh, no susbaint sam bith a chleachdadh no bho ghnìomh sam bith a chaidh a ghabhail (no nach deach a ghabhail) mar thoradh air a bhith a’ cleachdadh an Tasglainn no susbaint sam bith air, a’ gabhail a-steach a bhith a’ briseadh chòraichean treas pàrtaidh ag èirigh bho bhith a’ cleachdadh na susbaint.
 
-### 5. BARANTAS-DÌON
+## 5. BARANTAS-DÌON
 
 5.1 Tha thu ag aontachadh barantas-dìon a thoirt dhuinn agus ar cumail fo bharantas-dìon fad na h-ùine an aghaidh a h-uile gnìomh, cùis lagh, cosgais, tagradh, iarrtas agus uallach sam bith (a’ gabhail a-steach chìsean laghail is cìsean agus pàighidhean eile) a fhuaradh, a dh’adhbharaicheadh no a chaidh a phàigheadh leinn gu dìreach no gu neo-dhìreach a thaobh:
 
@@ -85,13 +85,13 @@ Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann B
 
 5.1.3 briseadh sam bith a rinn thu air gin de na Teirmichean is Cumhaichean.
 
-### 6. CÒRAICHEAN SEILBHEACHD INNLEACHDAIL
+## 6. CÒRAICHEAN SEILBHEACHD INNLEACHDAIL
 
 6.1 Tha an Tasglann agus na làraichean-lìn na lùib air an dìon le còraichean-lethbhreac agus IPR eile. Le bhith a’ dol a-steach dhan Tasglann, tha thu ag aithneachadh gu bheil na còraichean sin leis an neach aig a bheil a’ chòir-lethbhreac agus/no IPR eile a-mhàin.
 
 6.2 Ma tha thu airson fiosrachadh sam bith a gheibhear bhon Tasglann a chleachdadh airson adhbhar sam bith nach eil co-chòrdail ris na Teirmichean is Cumhaichean seo, feumaidh tu fios a chur gu neach-gleidhidh na còrach-lethbhreac gus cead iarraidh.
 
-### 7. FIOSRACHADH DÌOMHAIR
+## 7. FIOSRACHADH DÌOMHAIR
 
 7.1 Tha thu ag AITHNEACHADH agus a’ gabhail ris, gus na dleastanasan againn fo na Teirmichean is Cumhaichean seo a choileanadh, gum feum sinn fiosrachadh a bhuineas riut a chumail.
 
@@ -107,11 +107,11 @@ Tha Tasglann-lìn na RA (the “Archive”) air obrachadh le Bòrd Leabharlann B
 
 7.2.5 nach tèid fhoillseachadh do threas pàrtaidh sam bith, ach a-mhàin airson ?foillseachadh ceadaichte’ mar a tha e air a mhìneachadh anns an Achd. 7.3 Tha thu ag aithneachadh gu bheil sinn a’ tighinn fo uallachaidhean Achd Saorsa an Fiosrachaidh 2020 ("An Achd"), agus bheir thu seachad a h-uile taic a dh’fheumas sinn gu reusanta gus an cum sinn ris an Achd. Tha thu ag aontachadh taic den t-seòrsa seo a thoirt dhuinn taobh a-staigh còig latha obrach bho iarrtas sam bith a rinn sinn fo chlàs 7.3 an seo.
 
-### 8. ATH-SHÒNRACHADH
+## 8. ATH-SHÒNRACHADH
 
 Chan fhaod thu do chòraichean ath-shònrachadh no cuidhteas fhaighinn dhiubh fo na Teirmichean is Cumhaichean seo gun chead sgrìobhte ro làimh bhuainn.
 
-### 9. LAGH BUNTAINNEACH
+## 9. LAGH BUNTAINNEACH
 
 Thèid na Teirmichean is Cumhaichean seo a riaghladh le, agus a mhìneachadh, a rèir lagh Shasainn. Leis a seo, tha thu ag aithneachadh agus ag aontachadh gur e cùirtean Shasainn an t-aon uachdranas laghail agus an t-aon àite airson cùis lagha sam bith a dh’fhaodadh èirigh fon chuspair seo
 

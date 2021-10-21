@@ -32,6 +32,8 @@ unsafe = true
 #
 # Internationalisation
 #
+# Site titles defined here, everything else is in ./i18n/* files.
+#
 
 [languages]
   [languages.en]
@@ -53,26 +55,26 @@ unsafe = true
 
 [[menu.main]]
     name = "home"
-    url = "/"
+    url = "/ukwa/"
     weight = 1
 
 [[menu.main]]
-    name = "topics-and-themes"
+    name = "collectionsTitle"
     url = "/ukwa/collection/"
     weight = 2
 
 [[menu.main]]
-    name = "save-a-uk-website"
+    name = "saveAUkWebsite"
     url = "/ukwa/info/nominate"
     weight = 3
 
 [[menu.main]]
-    name = "about-us"
+    name = "about"
     url = "/about"
     weight = 4
 
 [[menu.main]]
-   name = "contact-us"
+   name = "contactUs"
    url = "/ukwa/contact"
    weight = 5
 

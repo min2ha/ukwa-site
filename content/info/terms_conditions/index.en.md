@@ -3,11 +3,11 @@ title: " Terms and Conditions"
 ---
 The UK Web Archive (the “Archive”) is operated by the British Library Board, a body corporate established under the British Library Act of 27 July 1972, of 96 Euston Road, London NW1 2DB, United Kingdom (“We” “Us” and “Our”). The Archive contains selected websites from across the UK and is provided to the user (“You” and “Your”) solely in accordance with these terms and conditions “Terms and Conditions”, which are non-negotiable.
 
-### 1. GENERAL
+## 1. GENERAL
 
 1.1 If you use the Archive you agree to be bound by the Terms and Conditions and any guidelines, rules or disclaimers that may be posted and updated on specific Web pages or on notices that are sent to you. If we believe you have breached any of the above, we may, at our sole discretion, suspend or cancel your access to the Archive immediately, without giving you any advance notice and we shall not be liable for any losses or damages that may arise from such suspension or cancellation.
 
-### 2. GRANT OF LICENCE AND USE OF THE ARCHIVE
+## 2. GRANT OF LICENCE AND USE OF THE ARCHIVE
 
 2.1 We grant to you, solely in accordance with the Terms and Conditions, a non-transferable, non-exclusive licence to:
 
@@ -35,7 +35,7 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 2.3 Not withstanding anything in these Terms and Conditions, you are not prohibited from doing any act in relation to the Archive which would otherwise be permitted by law.
 
-### 3. ACCESS AND CHANGES TO THE ARCHIVE
+## 3. ACCESS AND CHANGES TO THE ARCHIVE
 
 3.1 We may:
 
@@ -49,7 +49,7 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 3.4 You will be responsible for making the necessary arrangements for access to the Archive and for ensuring that all requirements, legal and technical, are complied with.
 
-### 4. LIABILITY
+## 4. LIABILITY
 
 4.1 You acknowledge that, in your use of the Archive:
 
@@ -75,7 +75,7 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 4.7 We will not be liable for any damages (including, without limitation, damages for loss of the profits) arising in contract, tort or otherwise from your use or inability to use the Archive or any content or from any action taken (or refrained from being taken) as a result of using the Archive or any content on it, including in respect of infringement of third party rights arising from the your use of the content.
 
-### 5. INDEMNITY
+## 5. INDEMNITY
 
 5.1 You undertake to indemnify us and keep us indemnified at all times against all actions, proceedings, costs, claims, demands, liabilities and expenses whatsoever (including legal and other fees and disbursements) sustained, incurred or paid by us directly or indirectly in respect of:
 
@@ -85,13 +85,13 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 5.1.3 any breach by you of any of the Terms and Conditions.
 
-### 6. INTELLECTUAL PROPERTY RIGHTS
+## 6. INTELLECTUAL PROPERTY RIGHTS
 
 6.1 The Archive and the websites contained therein are protected by copyright and other IPR. By entering the Archive, you acknowledge that those rights are the sole and exclusive property of the copyright and/or other IPR holder.
 
 6.2 If you wish to use any information sourced from the Archive for any purpose inconsistent with these Terms and Conditions, you must contact the copyright holder to seek permission.
 
-### 7. CONFIDENTIAL INFORMATION
+## 7. CONFIDENTIAL INFORMATION
 
 7.1 You acknowledge and accept that, in order to perform our obligations under these Terms and Conditions, it may be necessary for us to hold information relating to you.
 
@@ -107,11 +107,11 @@ The UK Web Archive (the “Archive”) is operated by the British Library Board,
 
 7.2.5 shall not be disclosed to any third party, other than for a 'permitted disclosure' as defined by the Act. 7.3 You acknowledge that we are subject to the requirements of the Freedom of Information Act 2000 ("the Act"), and shall provide all necessary assistance as reasonably required by us to enable us to comply with the Act. You agree to provide any such assistance to us within five working days of any request made by us under this clause 7.3.
 
-### 8. ASSIGNMENT
+## 8. ASSIGNMENT
 
 8.1 You must not assign or otherwise dispose of your rights under these Terms and Conditions without our prior written consent.
 
-### 9. APPLICABLE LAW
+## 9. APPLICABLE LAW
 
 9.1 These Terms and Conditions shall be governed by and construed in accordance with English law. You hereby submit to and agree that the sole jurisdiction and venue for any actions that may arise under or in relation to the subject matter hereof shall be the English courts.
 
