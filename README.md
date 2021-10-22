@@ -48,3 +48,13 @@ Note that there is a weird bug that means the Scottish Gaelic (GD) page titles s
 The Docker build compiles the content and then patches it into an NGINX container.  The Docker Compose file can be used to do this locally, but GitHub Actions are used to automatically update container images.
 
 These images are then referenced in `ukwa-services` in the `website` stack, which adds a more complex NGINX configuration that makes this content accessible where appropriate, but passed through and proxies through to other services as needed.
+
+## Future Work
+
+Hugo is nice and fast, but is quite opinionated in that it forces a lot of structure (e.g. the different Bundles) that we don't really need, and the templating system effectively requires you to have a basic understanding of the Go language (potentially meaning we need a wider range of skills to maintain this long term).  There are also limitations in how well it can integrate with the JavaScript frameworks that will necessarily be used to develop the site itself. See e.g. [this example of the issues and difficulties when developing React and Vue apps (respectively) on Hugo](https://forum.vuejs.org/t/how-do-i-get-vue-to-work-with-hugo-server/115628).
+
+Longer term, it would make sense to move this site to a framework that means we can focus on JavaScript + markup, in particular one of the modern ones that make it easy to mix statically-generated, server-generated, and client-side deployment:
+
+- [Nuxt](https://nuxtjs.org/) - site generator system focussed on Vue
+- [Astro](https://astro.build/) - site generator system that is framework-agnostic, allowing different pages to be React/Vue/whatever.
+
