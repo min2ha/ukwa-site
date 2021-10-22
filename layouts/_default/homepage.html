@@ -98,59 +98,16 @@
     <article class="home-page">
     {{ .Content }}
 
-    <div class="row padding-top-20">
-      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 image-grid-col padding-bottom-20 padding-top-30"> <a href='{{ "ukwa/collection/329" | relLangURL }}' class="collection-link">
-          <img class="img-fluid border-gray coll-img" alt="British Stand-up Comedy Archive" src="/img/collections/collection_329.png">
-          <h3 class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading-bold">British Stand-up Comedy Archive</h3>
-          <div class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading thumbnail" style="">Collection owned and administered by Elspeth Millar.</div>
-      </a> </div>
-
-      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 image-grid-col padding-bottom-20 padding-top-30"> <a href="ukwa/collection/309" class="collection-link">
-          <img class="img-fluid border-gray coll-img" alt="French in London" src="/img/collections/collection_309.png">
-          <h3 class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading-bold">French in London</h3>
-          <div class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading thumbnail" style="height: 86.8px;">This collection of websites has been selected by Saskia Huc-Hepher.</div>
-      </a></div>
-
-      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 image-grid-col padding-bottom-20 padding-top-30"> <a href="ukwa/collection/138" class="collection-link">
-          <img class="img-responsive border-gray coll-img" alt="News Sites" src="/img/collections/collection_138.png">
-          <h3 class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading-bold">News Sites</h3>
-          <div class="left padding-bottom-10 padding-left-20 padding-right-20 collection-heading thumbnail" style="height: 86.8px;">558 titles are included in this collection.</div>
-      </a></div>
-    </div>    
-
-<!-- additional (temporary) for testing 
-<div class="row pt-4">
-
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-TO ADD
-</div>
 
 
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-TO ADD
-</div>
 
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-TO ADD
-</div>
-
--->
-
-<!-- The proper ones, assuming collections are managed here as static files
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-	{{ with .Site.GetPage "/collection/french-in-london" }}
-	  {{ partial "collection-card" .}}
-	{{ end }}
-</div>
-
-<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3">
-	{{ with .Site.GetPage "/collection/news-sites" }}
-	  {{ partial "collection-card" .}}
-	{{ end }}
-</div>
-
-</div>
--->
+    <div class="row pt-4">
+    {{ range .Params.highlights }}
+      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
+      {{ partial "collection-card" .}}
+      </div>
+    {{ end }}
+    </div>
 
 <div class="row pt-2">
 	<p class="text-center w-100">

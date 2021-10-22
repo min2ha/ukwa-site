@@ -1,16 +1,16 @@
 <div class="card text-center">
-  <a href="{{ .Permalink }}">
-    {{ $img_path := ( printf "static/img/collections/collection_%.f.png" .Params.id ) }}
-    {{ if (fileExists $img_path) -}}
-    <img class="card-img-top" src="/img/collections/collection_{{ .Params.id }}.png" alt="{{ .Title }}">
-    {{- else if eq .Parent.File.Dir "collection/" -}}
-    <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}">
+  {{ $imgPath := ( printf "static/img/collections/collection_%s.png" .collectionId ) }}
+  <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}'>
+    {{ if (fileExists $imgPath) -}}
+    <img class="card-img-top" src="/img/collections/collection_{{ .collectionId }}.png" alt="{{ .title }}">
+    {{- else -}}
+    <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .title }}">
     {{- end }}
   </a>
   <div class="card-body position-relative">
-    <h5 class="card-title">{{ .Title | safeHTML | truncate 60 }}</h5>
-    <p class="card-text">{{ .Description | safeHTML | truncate 200 }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-primary stretched-link">View</a> 
+    <h5 class="card-title">{{ .title | safeHTML | truncate 60 }}</h5>
+    <p class="card-text">{{ .description | safeHTML | truncate 200 }}</p>
+    <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}' class="btn ukwa-button btn-primary stretched-link">{{ i18n "view" }}</a> 
   </div>
 </div>
 
