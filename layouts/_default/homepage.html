@@ -23,7 +23,7 @@
     </div>
   </form>
 
-  <!-- Modal -->
+  <!-- Modal: search tips -->
   <div class="modal fade" id="searchingUKWAModalCenter" tabindex="-1" role="dialog" aria-label='{{ i18n "searchTipsDialog" }}' aria-hidden="true">
     <div class="modal-dialog tips-dialog modal-lg modal-dialog-centered" role="document">
         <div class="modal-content">
@@ -69,6 +69,21 @@
             </div>
             <div class="modal-footer inline-block-items justify-content-center" style="width: 100%;">
                 <button type="button" class="btn btn-primary" style="width: 20%;" data-dismiss="modal">{{ i18n "close" }}</button>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Modal: search message -->
+  <div class="modal fade" id="pleaseWaitDialog" tabindex="-1" role="progressbar">
+    <div class="modal-dialog" style="padding-top:15%" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="main-heading-2-bold-redesign modal-title mobile-dialog text-center">{{ i18n "searchModalPleasewaitText" }}</h2>
+            </div>
+            <div class="modal-body center pleasewait-modal-body-config">
+                <div class="center-block align-items-center">
+                    <img alt='{{ i18n "progressBar" }}' src="/img/icons/gif4.gif">
+                </div>
             </div>
         </div>
     </div>

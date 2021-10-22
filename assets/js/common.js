@@ -118,7 +118,15 @@ $(document).ready(function(e) {
 		})
     });
 
-
+    //progress bar
+    var pleaseWait = $('#pleaseWaitDialog');
+    showPleaseWait = function () {
+        pleaseWait.modal('show');
+    };
+    hidePleaseWait = function () {
+        pleaseWait.modal('hide');
+    };
+    
 	//add default HTML document type filter
 	$("#search_form").submit(function(e) {
         showPleaseWait();

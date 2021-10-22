@@ -72,6 +72,11 @@ other = "18,000+ websites, collected from 2005 to the present, are publicly avai
 [searchTip7Text]
 other = "The majority of the UK Web Archive has been collected under the Non-Print Legal Deposit regulations 2013. Material collected this way can legally only be viewed in UK Legal Deposit reading rooms (on library terminals)."
 
+[searchModalPleasewaitText]
+other = "Your search is in progress. Please wait..."
+
+[progressBar]
+other = "Progress Bar"
 
 
 [viewAllCollections]
