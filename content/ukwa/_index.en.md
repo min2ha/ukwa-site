@@ -5,14 +5,14 @@ aliases:
   - /en/ukwa/index
 highlights:
   - collectionId: "329"
-    collectionTitle: British Stand-up Comedy Archive
-    collectionDescription: Collection owned and administered by Elspeth Millar.
+    title: British Stand-up Comedy Archive
+    description: Collection owned and administered by Elspeth Millar.
   - collectionId: "309"
-    collectionTitle: French in London
-    collectionDescription: This collection of websites has been selected by Saskia Huc-Hepher.
+    title: French in London
+    description: This collection of websites has been selected by Saskia Huc-Hepher.
   - collectionId: "138"
-    collectionDescription: 558 titles are included in this collection.
-    collectionTitle: News Sites
+    title: News Sites
+    description: 558 titles are included in this collection.
 ---
 
 ## What we do
