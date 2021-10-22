@@ -36,7 +36,7 @@
     {{ end }}
     
     {{ block "hero" . }}
-    <div class="container-fluid d-flex ukwa-hero-banner mb-3 pt-2">
+    <div class="d-flex ukwa-hero-banner mb-3 pt-2">
       <div class="row justify-content-center align-self-center">
          <div class="col-12">
             <h1 class="pl-lg-5 pl-md-3 pl-sm-1 mb-0">{{ .Title }}</h1>
@@ -47,22 +47,17 @@
 
     {{ block "body" . }}
 
-    <div class="container-fluid">
-      <div class="row pr-lg-5 pl-lg-5 pr-md-3 pl-md-3 pr-sm-1 pl-sm-1">
-        <div class="col-12 blog-main">
-
           {{ block "breadcrumb" . }}
             {{ partial "breadcrumb" . }}
           {{ end }}
 
-          {{ block "main" . }}
-          {{ end }}
+          <div class="pr-3 pl-3">
+            {{ block "main" . }}
+            {{ end }}
+          </div>
 
           <hr/>
 
-        </div>
-
-      </div>
 
       <div class="cookies-cont">
         <div class="row">
@@ -71,8 +66,6 @@
             {{ end }}
             <div class="col-md-4 col-sm-12 padding-top-mobile-10"><button class="button float-sm-right" id="btn_cookies" title='{{ i18n "footerCookiesCloseButton" }}'>{{ i18n "footerCookiesButton" }}</button></div>
         </div>
-      </div>
-  
       </div>
     {{ end }} 
 

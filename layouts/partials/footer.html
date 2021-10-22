@@ -1,6 +1,6 @@
-<div class="container-fluid footer">
+<footer class="footer">
 
-<div class="row pt-3 pb-5">
+<div class="row pt-3 pb-2">
     <div class="col-12 text-center">
         {{ i18n "footerTextLine" }}
     </div>
@@ -17,11 +17,9 @@
 
 {{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
 
-<footer class="blog-footer w-100">
     <nav class="navbar navbar-{{ $colorScheme }}">
         <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
     </nav>
-</footer>
 
-</div>
+</footer>
 
