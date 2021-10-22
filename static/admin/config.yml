@@ -27,14 +27,16 @@ collections:
       - {label: 'Aliases', name: 'aliases', widget: 'hidden'}
       - label: "Highlights"
         name: "highlights"
-        collapsed: false
+        collapsed: true
         widget: "list"
         min: 3
         max: 3
+        i18n: true
+        summary: '{{fields.title}}'
         fields:
          - {label: "Collection ID Number", name: collectionId, widget: string}
-         - {label: "Collection Title", name: collectionTitle, widget: string, i18n: true }
-         - {label: "Collection Description", name: collectionDescription, widget: string, i18n: true }
+         - {label: "Title", name: title, widget: string, i18n: true }
+         - {label: "Description", name: description, widget: string, i18n: true }
       
   - name: "info"
     label: "Information Page"
