@@ -1150,14 +1150,6 @@ input {
 }
 
 .homepage-search-button{
-  display: flex;
-  flex-direction: row;
-  align-self: flex-end;
-  justify-content: flex-end;
-  @include media-breakpoint-up(md) {
-    margin: 0 20vw 0 0;
-  }
-
   @include themify($themes) {
     box-shadow: themed('home_page_btn_box-shadow');
 
