@@ -14,8 +14,8 @@ i18n:
   default_locale: en
 
 collections:
-  - name: "Page"
-    label: "Pages"
+  - name: "homepage"
+    label: "Homepage"
     folder: content/ukwa
     create: false
     i18n: true
@@ -25,6 +25,16 @@ collections:
       - {label: 'Body', name: 'body', widget: 'markdown', i18n: true}
       - {label: 'Layout', name: 'layout', widget: 'hidden'}
       - {label: 'Aliases', name: 'aliases', widget: 'hidden'}
+      - label: "Highlights"
+        name: "highlights"
+        collapsed: false
+        widget: "list"
+        min: 3
+        max: 3
+        fields:
+         - {label: "Collection ID Number", name: collectionId, widget: string}
+         - {label: "Collection Title", name: collectionTitle, widget: string, i18n: true }
+         - {label: "Collection Description", name: collectionDescription, widget: string, i18n: true }
       
   - name: "info"
     label: "Information Page"
