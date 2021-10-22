@@ -78,6 +78,8 @@ other = "Your search is in progress. Please wait..."
 [progressBar]
 other = "Progress Bar"
 
+[view]
+other = "View"
 
 [viewAllCollections]
 other = "View all Topics & Themes"
