@@ -1091,7 +1091,9 @@ input {
 
 .ukwa-hero-banner {
   min-height: 15rem;
-  width: 100%;
+
+  /* Avoid horizontal scrollbar showing up on narrow screens. */
+  overflow-x: hidden;
 
   background-repeat: no-repeat;
   background-image: url("../img/icons/UKWA-hero-composite-final.png");

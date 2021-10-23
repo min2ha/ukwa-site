@@ -29,22 +29,22 @@
     {{ partial "head-custom.html" . }}
   </head>
   <body class="theme-light">
-    <div class="container-fluid">
 
     {{ block "header" . }}
       {{ partial "header" . }}
     {{ end }}
     
     {{ block "hero" . }}
-    <div class="d-flex ukwa-hero-banner mb-3 pt-2">
+    <div class="container-fluid d-flex ukwa-hero-banner mb-3 pt-2">
       <div class="row justify-content-center align-self-center">
          <div class="col-12">
             <h1 class="pl-lg-5 pl-md-3 pl-sm-1 mb-0">{{ .Title }}</h1>
           </div>
-    </div>
+      </div>
     </div>
     {{ end }}
 
+    <div class="container-fluid">
     {{ block "body" . }}
 
           {{ block "breadcrumb" . }}

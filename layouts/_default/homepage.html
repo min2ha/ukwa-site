@@ -15,12 +15,12 @@
                 </button>
             </div>
             <div class="col-md-10 mt-2 dialog-link">
-	<label for="hs-input-field" id="tipsDialog">{{ i18n "searchTipsLink" }}&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title='{{ i18n "searchTipsTitle" }}'><i class="fas fa-info-circle text-white"></i></a></label>
+              <label for="hs-input-field" id="tipsDialog">{{ i18n "searchTipsLink" }}&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title='{{ i18n "searchTipsTitle" }}'><i class="fas fa-info-circle text-white"></i></a></label>
             </div>
-            <input aria-hidden="true" type="hidden" name="search_location" id="search_location_full_text" value="full_text">
-            <input aria-hidden="true" type="hidden" name="reset_filters" id="reset_filters" value="false">
         </div>
     </div>
+    <input aria-hidden="true" type="hidden" name="search_location" id="search_location_full_text" value="full_text">
+    <input aria-hidden="true" type="hidden" name="reset_filters" id="reset_filters" value="false">
   </form>
 
   <!-- Modal: search tips -->
@@ -98,14 +98,12 @@
     <article class="home-page">
     {{ .Content }}
 
-    <div class="container-fluid">
     <div class="row pt-4">
     {{ range .Params.highlights }}
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
       {{ partial "collection-card" .}}
       </div>
     {{ end }}
-    </div>
     </div>
 
 <div class="row pt-2">
