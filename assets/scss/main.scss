@@ -171,11 +171,22 @@ body {
 .results-container,
 .results-count, .topics-themes-description,
 .modal-content-tab-panel, .main-search-check-label,
-.label-for-accessibility-placeholder {
+.label-for-accessibility-placeholder,
+.navbar-toggler-icon,
+footer {
   @include themify($themes) {
     color: themed('textColor');
     background-color: themed('backgroundColor');
   }
+}
+.navbar-toggler {
+  @include themify($themes) {
+    border-color: themed('textColor');
+  }
+}
+.navbar-toggler-icon {
+  /* were using a fontawesome icon instead so we can switch it's colours. */
+  background-image: none;
 }
 .breadcrumb, .breadcrumb-item {
   background-color: transparent;
@@ -805,7 +816,7 @@ h2.policy {
   border: none !important;
 }
 
-a, .navbar-light .navbar-nav .nav-link, .navbar-toggler-icon-2 {
+a, .navbar-light .navbar-nav .nav-link {
 
 
   @include themify($themes) {
