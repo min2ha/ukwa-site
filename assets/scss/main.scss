@@ -816,7 +816,7 @@ h2.policy {
   border: none !important;
 }
 
-a, .navbar-light .navbar-nav .nav-link, .dropdown-menu, .dropdown-item {
+a, .navbar-light .navbar-nav .nav-link {
 
 
   @include themify($themes) {
@@ -833,7 +833,23 @@ a, .navbar-light .navbar-nav .nav-link, .dropdown-menu, .dropdown-item {
 
   }
 }
+.dropdown-menu, .dropdown-item {
 
+
+  @include themify($themes) {
+
+    color: themed('textColor');
+    background-color: themed('backgroundColor');
+
+    &, &:link, &:visited, &:active, &:focus {
+      color: themed('nav-link-focus-color');
+    }
+    &:hover {
+      color: themed('nav-hover-color');
+    }
+
+  }
+}
 .white a {
   &:link, &:visited, &:active, &:focus, &:hover {
     text-decoration: underline;
