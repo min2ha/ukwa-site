@@ -29,6 +29,7 @@
     {{ partial "head-custom.html" . }}
   </head>
   <body class="theme-light">
+    <div class="container-fluid">
 
     {{ block "header" . }}
       {{ partial "header" . }}
@@ -44,7 +45,6 @@
     </div>
     {{ end }}
 
-    <div class="container-fluid">
     {{ block "body" . }}
 
           {{ block "breadcrumb" . }}
