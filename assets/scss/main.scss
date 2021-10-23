@@ -816,7 +816,7 @@ h2.policy {
   border: none !important;
 }
 
-a, .navbar-light .navbar-nav .nav-link {
+a, .navbar-light .navbar-nav .nav-link, .dropdown-menu, .dropdown-item {
 
 
   @include themify($themes) {
