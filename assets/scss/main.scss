@@ -169,14 +169,16 @@ body {
 .main-search-field-redesign, .searchpage_search_bg_settings, .search-no-results, .pagination-number-redesign, .sidebar-filter-header, .checkbox-sidebar, .radio-sidebar, .date-sidebar, .sidebar-clear-filter-button,
 .q-description, .q-grid, .technical-code,
 .results-container,
-.breadcrumb, .results-count, .topics-themes-description,
+.results-count, .topics-themes-description,
 .modal-content-tab-panel, .main-search-check-label,
-.breadcrumb-item,
-.label-for-accessibility-placeholder{
+.label-for-accessibility-placeholder {
   @include themify($themes) {
     color: themed('textColor');
     background-color: themed('backgroundColor');
   }
+}
+.breadcrumb, .breadcrumb-item {
+  background-color: transparent;
 }
 
 .nominate-result-row{
@@ -1519,14 +1521,7 @@ article h2, article h3, article h4, article h5 {
   font-family: "Open Sans Bold",sans-serif,Arial;
   font-size: 2.5em;
   margin-bottom: 0;
-
-  @include themify($themes) {
-    text-transform: themed('redesign-text-transform');
-    text-decoration: themed('redesign-text-decoration');
-    color: themed('ukwa-pagetab-title-text-color');
-
-  }
-
+  color: white;
 }
 
 
