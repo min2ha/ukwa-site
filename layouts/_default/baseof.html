@@ -62,7 +62,7 @@
       <div class="cookies-cont">
         <div class="row">
             {{ with .Site.GetPage "info/cookies" }}
-            <div class="col-md-8 col-sm-12">{{ i18n "footerCookiesText" | safeHTML }}</div>
+            <div class="col-md-8 col-sm-12">{{ i18n "footerCookiesText" . | safeHTML }}</div>
             {{ end }}
             <div class="col-md-4 col-sm-12 padding-top-mobile-10"><button class="button float-sm-right" id="btn_cookies" title='{{ i18n "footerCookiesCloseButton" }}'>{{ i18n "footerCookiesButton" }}</button></div>
         </div>
