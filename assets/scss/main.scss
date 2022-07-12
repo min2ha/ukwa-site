@@ -1735,7 +1735,7 @@ article h2, article h3, article h4, article h5 {
   margin: 10px;
   width: calc(100% - 20px);
   height: auto;
-  background-color: #2e6dd9;
+  background-color: white;
   color: #fff;
   position: fixed;
   z-index: 102000;
@@ -1747,6 +1747,10 @@ article h2, article h3, article h4, article h5 {
   font-size: 0.9em;
   border-radius: 10px;
   border: solid 3px #fff;
+}
+.cookies-cont row {
+  margin: 0;
+  background-color: white;
 }
 
 footer {
