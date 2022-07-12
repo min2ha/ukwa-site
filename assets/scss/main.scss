@@ -1518,7 +1518,9 @@ article h2, article h3, article h4, article h5 {
   font-family: "Open Sans",sans-serif,Arial;
 
   font-size: 1.9rem;
-  margin-bottom: 0;
+  padding-bottom: 0 !important;
+  display: inline-block;
+  background-color: #2e6dd9;
 
   @include themify($themes) {
     text-transform: themed('redesign-text-transform');
