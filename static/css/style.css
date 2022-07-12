@@ -66,6 +66,10 @@ body {
   outline: 3px solid red !important;
 }
 
+.tipsDialog {
+  background-color: #2e6dd9;
+}
+
 /* Ensure images in markdown are not way too large */
 .information-page img {
   max-width: 600px;
