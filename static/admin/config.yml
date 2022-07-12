@@ -10,7 +10,7 @@ public_folder: /assets/uploads
 
 i18n:
   structure: multiple_files
-  locales: ["en", "cy", "gd", "un"]
+  locales: ["en", "cy", "gd"]
   default_locale: en
 
 collections:
