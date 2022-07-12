@@ -39,7 +39,7 @@ collections:
          - {label: "Description", name: description, widget: string, i18n: true }
       
   - name: "info"
-    label: "Information Page"
+    label: "Information Pages"
     folder: content/info
     create: false
     path: "{{slug}}/index"
