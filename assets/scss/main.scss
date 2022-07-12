@@ -3190,6 +3190,11 @@ footer {
     font-size:1.07rem;
     width: 20vw !important;
   }
+
+  #tipsDialog {
+    background-color: #2e6dd9;
+  }
+
   /*---------------------------------------------------------------
                                     Search page
       ---------------------------------------------------------------*/
@@ -3376,9 +3381,7 @@ footer {
   .back-button{
     font-size:0.77rem;
   }
-  /*
-  FAQ
-  */
+  /* FAQ */
   .q-grid{
     font-size:1.07rem;
   }
