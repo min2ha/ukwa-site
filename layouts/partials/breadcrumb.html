@@ -12,7 +12,7 @@
 {{ if eq .id .currentPage.File.UniqueID }}
   <li class="breadcrumb-item active">{{ .currentPage.Title }}</li>
 {{ else if .currentPage.IsHome }}
-  <li class="breadcrumb-item"><i>{{ i18n "youAreHere"}}:</i>&nbsp;&nbsp;<a href="{{ .currentPage.Permalink }}">{{ i18n "home" }}</a></li>
+  <li class="breadcrumb-item"><i>{{ i18n "youAreHere"}}:</i>&nbsp;&nbsp;<a href='{{ "ukwa/" | relLangURL }}'>{{ i18n "home" }}</a></li>
 {{ else }}
   <li class="breadcrumb-item"><a href="{{ .currentPage.Permalink }}">{{ .currentPage.Title }}</a></li>
 {{ end }}
