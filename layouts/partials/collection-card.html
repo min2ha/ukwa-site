@@ -1,11 +1,17 @@
 <div class="card text-center">
-  {{ $imgPath := ( printf "static/img/collections/collection_%s.png" .collectionId ) }}
   <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}'>
-    {{ if (fileExists $imgPath) -}}
-    <img class="card-img-top" src="/img/collections/collection_{{ .collectionId }}.png" alt="{{ .title }}">
-    {{- else -}}
-    <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .title }}">
+    {{ $image := newScratch }}
+    {{ $imgPath := ( printf "images/uploads/collection_%s.png" .collectionId ) }}
+    {{ with resources.Get $imgPath }}
+      {{ $image.Set "image" . }}
+    {{ else }}
+      {{ $image.Set "image" (resources.Get "images/uploads/collection_default.png") }}
     {{- end }}
+
+    {{ $image := $image.Get "image" }}
+    {{ $image := $image.Fill "400x300" }}
+    <!-- not setting width="{{ $image.Width }}" height="{{ $image.Height }}" as this is a flexible layout -->
+    <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .title }}">
   </a>
   <div class="card-body position-relative">
     <h5 class="card-title">{{ .title | safeHTML | truncate 60 }}</h5>
