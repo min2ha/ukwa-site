@@ -5,6 +5,10 @@ bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
+#tmp
+public/
+resources/
+
 # Other files and folders
 .settings/
 
