@@ -69,7 +69,7 @@ unsafe = true
     weight = 3
 
 [[menu.main]]
-    name = "about"
+    name = "aboutUs"
     url = "/about"
     weight = 4
 

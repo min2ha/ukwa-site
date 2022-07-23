@@ -67,6 +67,10 @@
             <div class="col-md-4 col-sm-12 padding-top-mobile-10"><button class="button float-sm-right" id="btn_cookies" title='{{ i18n "footerCookiesCloseButton" }}'>{{ i18n "footerCookiesButton" }}</button></div>
         </div>
       </div>
+
+      <hr>
+      {{ partial "footer-menu" .}}
+
     {{ end }} 
 
     {{ block "footer" . }}

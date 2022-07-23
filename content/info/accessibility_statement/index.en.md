@@ -63,7 +63,7 @@ This website is fully compliant with the Public Sector Bodies (Websites and Mobi
 
 The content listed below is non-accessible for the following reasons:
 
-**The content listed below is non-accessible for the following reasons:**
+**The content listed below is non-accessible for the following reasons**
 
 * The archival content delivered by the UK Web Archive is exempt from the Regulations under Reg 3(2)(h). This content might fail any of the WCAG 2.1 AA Success Criteria.
 

@@ -2,13 +2,13 @@
 other = "UK Web Archive"
 
 [language]
-other = "Language"
+other = "English"
 
 [home]
 other = "Home"
 
 [collectionsTitle]
-other = "Topics & Themes"
+other = "Topics and Themes"
 
 [saveAUkWebsite]
 other = "Save a UK Website"
@@ -21,6 +21,9 @@ other = "About Us"
 
 [contactUs]
 other = "Contact Us"
+
+[accessibilityStatement]
+other = "Accessibility Statement"
 
 [mainNavigation]
 other = "Main navigation"
@@ -82,7 +85,7 @@ other = "Progress Bar"
 other = "View"
 
 [viewAllCollections]
-other = "View all Topics & Themes"
+other = "View all Topics and Themes"
 
 [youAreHere]
 other = "You are here"
