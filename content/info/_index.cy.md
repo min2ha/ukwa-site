@@ -1,6 +1,3 @@
 ---
-title: Infoes
+title: Gwybodaeth
 ---
-
-
-
