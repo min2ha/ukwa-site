@@ -37,11 +37,19 @@ Once the system is running, you can make updates like editing the main.scss and 
 
 This deployment includes [NetlifyCMS](https://www.netlifycms.org/), which is an in-browser content management system that works by being integrated with GitHub. This means GitHub can be use to manage users and authorisation, and everything is kept transparent as all changes are recorded and version controlled.
 
-The `static/admin/config.yaml` file contains the configuration for the CMS, and the whole thing is backed by [Netlify](https://www.netlify.com/) which helps manage the authentication and provides work-in-progress builds for content previews etc.
+The `static/admin/config.yaml` file contains the configuration for the CMS, and the whole thing is backed by [Netlify](https://www.netlify.com/) which helps manage the authentication and provides work-in-progress builds for content previews etc. The Netlify service back-end is [here](https://app.netlify.com/sites/ukwa-site/).
 
 The idea is that curators and collaborators can edit and translate content without requiring any technical support.  When they are happy with the content, it can be rolled out onto the production web domain.
 
-Note that there is a weird bug that means the Scottish Gaelic (GD) page titles show up in the page lists in the CMS, but these don't work correctly and should not be used.  This [has been reported to the NetlifyCMS developers](https://github.com/netlify/netlify-cms/issues/5909).
+### Editorial Workflow
+
+The current work-in-progress site is at: https://ukwa-site.netlify.app/en/ukwa/
+
+The editing interface is at: https://ukwa-site.netlify.app/admin/
+
+Users can log into the editor using GitHub. They can then select different pages, and edit the pages or their translations.  The system is currently configured to support the [_editorial workflow_ publishing mode](https://www.netlifycms.org/docs/configuration-options/#publish-mode).  This means each edit creates a separate set of changes, that can be reviewed and accepted on GitHub.  This needs to be evaluated, as it depends on there being someone willing to review all changes to the site.  If this workflow is not working, we can switch to making changes directly to the work-in-progress site.
+
+Note that none of this changes the live site.  Whenit is time to roll out an update version of the live site, the UKWA tech team need to be told to create a new version of the site (by tagging this repository) and then update the `ukwa-services` stack to roll the new website out to BETA and then PROD. Again, if this workflow is not working, it can be reviewed, and we can look into rolling out changes in a more automated fashion.
 
 ## Deployment
 
