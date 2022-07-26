@@ -4,6 +4,12 @@ other = "Archif We y DG"
 [language]
 other = "Iaith"
 
+[translations]
+other = "Cyfieithiadau"
+
+[contents]
+other = "Cynnwys"
+
 [home]
 other = "Hafan"
 
@@ -89,9 +95,6 @@ other = "Gweld pob pwnc a thema"
 
 [youAreHere]
 other = "Rydych chi yma"
-
-[contents]
-other = "Contents"
 
 [privacyStatement]
 other="Datganiad Preifatrwydd"

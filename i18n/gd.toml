@@ -4,6 +4,12 @@ other = "Bidh Tasglann-lìn na RA"
 [language]
 other = "Cànan"
 
+[translations]
+other = "Eadar-theangachaidhean"
+
+[contents]
+other = "Susbaint"
+
 [home]
 other = "Dachaigh"
 
@@ -91,9 +97,6 @@ other = "Faic a h-uile Cuspair is Tèama"
 
 [youAreHere]
 other = "Tha thu an seo"
-
-[contents]
-other = "Contents"
 
 [privacyStatement]
 other="Aithris prìobhaideachd"

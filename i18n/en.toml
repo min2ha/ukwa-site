@@ -4,6 +4,9 @@ other = "UK Web Archive"
 [language]
 other = "Language"
 
+[translations]
+other = "Translations"
+
 [home]
 other = "Home"
 
