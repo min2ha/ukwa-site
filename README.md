@@ -41,6 +41,12 @@ The `static/admin/config.yaml` file contains the configuration for the CMS, and 
 
 The idea is that curators and collaborators can edit and translate content without requiring any technical support.  When they are happy with the content, it can be rolled out onto the production web domain.
 
+### Giving People Permission To Be Editors
+
+Currently, only invited users can log into the content management system. To set someone up, they need to be invited via https://app.netlify.com/sites/ukwa-site/identity by a Netlify account admin, using the email address associated with their GitHub account (they should create a GitHub account if they don't already have one).
+
+An email invitation will be sent for them to accept. After this, they should be able to log in (via GitHub) and access the admin interface as described below.
+
 ### Editorial Workflow
 
 The current work-in-progress site is at: https://ukwa-site.netlify.app/en/ukwa/
