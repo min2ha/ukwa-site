@@ -10,3 +10,18 @@
   to = "/en/ukwa"
   force = true
 
+[[redirects]]
+  from = "/cy"
+  to = "/cy/ukwa"
+  force = true
+
+[[redirects]]
+  from = "/gd"
+  to = "/gd/ukwa"
+  force = true
+
+[[redirects]]
+  from = "/info/faq"
+  to = "/en/ukwa/info/faq"
+  force = true
+
