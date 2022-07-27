@@ -70,7 +70,7 @@ unsafe = true
 
 [[menu.main]]
     name = "aboutUs"
-    url = "/about"
+    url = "/ukwa/info/about"
     weight = 4
 
 [[menu.main]]
