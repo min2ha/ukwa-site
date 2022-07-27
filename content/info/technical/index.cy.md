@@ -1,4 +1,5 @@
 ---
-title: Technical Information (TBA In Welsh)
+title: Gwybodaeth dechnegol
 ---
-This is the NOT the correct translation.
+
+NO translation.

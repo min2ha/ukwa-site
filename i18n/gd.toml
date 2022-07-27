@@ -4,5 +4,141 @@ other = "Bidh Tasglann-lìn na RA"
 [language]
 other = "Cànan"
 
+[translations]
+other = "Eadar-theangachaidhean"
+
+[contents]
+other = "Susbaint"
+
 [home]
 other = "Dachaigh"
+
+[collectionsTitle]
+other = "Cuspairean"
+
+[saveAUkWebsite]
+other = "Sàbhail làrach-lìn às an RA"
+
+[about]
+other = "About"
+
+[aboutUs]
+other = "Mu ar dèidhinn"
+
+[contactUs]
+other = "Cuir fios thugainn"
+
+[accessibilityStatement]
+other = "Aithris Ruigsinneachd"
+
+[mainNavigation]
+other = "Main navigation"
+
+[toggleNavigation]
+other = "Toggle Navigation"
+
+[highContrastModeSwitch]
+other = "High Contrast Mode Switch"
+
+[searchTheUkWebArchive]
+other = "Lorg ann an Tasglann-lìn na RA"
+
+[inputSearchText]
+other = "Input search text"
+
+[searchField]
+other = "Search field"
+
+[search]
+other = "Lorg"
+
+[close]
+other = "Close"
+
+[searchTipsLink]
+other = "Cuir a-steach URL airson làrach-lìn shònraichte (me www.bl.uk) no facal no abairt sam bith..."
+
+[searchTipsTitle]
+other = "Comhairle/Nòtaichean mu bhith a’ cleachdadh Tasglann-lìn na RA"
+
+[searchTipsDialog]
+other = "Gliocasan luirg"
+
+[searchTipsText]
+other =  "<p>If you are looking for a single website that you believe may be in the UK Web Archive, you can search for it via the Search tab. Use a phrase or name that you think is most likely to be in the website and in that website alone. This will search across all the archived websites.</p><p>There are several options for narrowing your search. For example, a phrase search uses more than one term (i.e. more than a single word). If two (or more) terms are submitted without the use of quotes, only one of those terms need appear in the documents to produce a result. If the terms are quoted, then only that precise string will be returned. See the Query Syntax section below for full details.</p><p>Having submitted your query you can further refine your search using the facets on the left-hand side of the full text search results page. This allows the matching results to be filtered by various properties, such as content type, collection and crawl year. For example, you can use the \"Refine by domain suffix\" facet to limit the results set to those resources hosted on domains with names that share the same common suffix, such as \"co.uk\", \"ac.uk\" or \"com\".</p><p>Note that all queries are case-insensitive.</p><br/><h2>Query Syntax</h2>  <table>    <tr>      <td>Query type</td>      <td>Example</td>      <td>Description</td>    </tr>    <tr>      <td>Logical AND</td>      <td><a href=search?text=economics+finance&search_location=full_text&content_type=Web+Page>economics finance</a>, <a href=search?text=economics+AND+finance&search_location=full_text&content_type=Web+Page&content_type=Web+Page&content_type=Web+Page>economics AND finance</a></td>      <td>Returns resources containing the words 'economics' and \"finance\", but not necessarily together.</td>    </tr>    <tr>      <td>Logical OR</td>      <td><a href=search?text=economics+AND+finance&search_location=full_text&content_type=Web+Page&content_type=Web+Page&content_type=Web+Page>economics AND finance</a></td>      <td>Returns resources containing the words 'economics' and \"finance\", but not necessarily together.</td>    </tr>    <tr>      <td>Logical OR</td>      <td><a href=search?text=breakfast+OR+marmalade&search_location=full_text&content_type=Web+Page>breakfast OR marmalade</a></td>      <td>Returns resources containing either the word \"breakfast\" or the word \"marmalade\"</td>    </tr>    <tr>      <td>Logical NOT</td>      <td><a href=search?text=coffee+NOT+java&search_location=full_text&content_type=Web+Page>coffee NOT java</a></td>      <td>Returns resources containing the word \"coffee\", but excluding all resources that contain the word \"java\".</td>    </tr>    <tr>      <td>Phrase search</td>      <td><a href=search?text=\"Tony+Blair\"&search_location=full_text&content_type"
+
+
+[searchTip1Text]
+other = "Cleachd faclan luirg Boolean - AND, NOT, OR is mar sin air adhart, m.e. ubhal NOT measan."
+[searchTip2Text]
+other = "Cleachd comharran-comharraidh nuair a tha thu a&rsquo; lorg abairt shònraichte, mar eisimpleir. \"Geamannan Oileampach Lunnainn\"."
+[searchTip3Text]
+other = "Nòta air cinn-latha - is iad seo na làithean air an deach rudan a chur dhan tasglann agus chan e an latha air an deach fhoillseachadh."
+[searchTip4Text]
+other = "Tha beagan bho na meadhanan sòisealta san tasglann (bho Twitter sa chuid as motha) ach CHAN EIL seo coileanta."
+[searchTip5Text]
+other = "Seo cruinneachadh de làraichean-lìn às an RA. Tha tòrr a bharrachd làraichean-lìn .uk san Tasglann na àrainnean eile aig an ìre as àirde mar eisimpleir .com."
+[searchTip6Text]
+other = "Tha 18,000+ làrach-lìn, a chaidh a chruinneachadh bho 2005 chun an latha an-diugh, rim faighinn air-loidhne gu poblach oir tha cead neach-seilbh nan làrach-lìn againn gus an toirt seachad mar seo."
+[searchTip7Text]
+other = "Chaidh a&rsquo; mhòr-chuid de Thasgadh Lìn na RA a chruinneachadh bho riaghailtean Tasgadh Laghail Neo-chlò-bhuailte 2013. Chan fhaodar stuth a chaidh a chruinneachadh san dòigh seo fhaicinn gu laghail ach a-mhàin ann an seòmraichean-leughaidh ann an Leabharlannan Tasgaidh Laghail na RA (air compiutairean leabharlainn)."
+
+[searchModalPleasewaitText]
+other = "Tha an lorg agad a 'dol air adhart. Fuirich greiseag..."
+
+[progressBar]
+other = "Progress Bar"
+
+[view]
+other = "a choimhead"
+
+[viewAllCollections]
+other = "Faic a h-uile Cuspair is Tèama"
+
+[youAreHere]
+other = "Tha thu an seo"
+
+[privacyStatement]
+other="Aithris prìobhaideachd"
+
+[blog]
+other="Blog"
+
+[footerTextLine]
+other = "The UK Web Archive collects on behalf of these UK Legal deposit Libraries"
+
+[titleBod]
+other = "Bodleian Libraries"
+
+[titleLLGC]
+other = "LLGC NLW"
+
+[titleNLS]
+other = "National Library of Scotland"
+
+[titleBL]
+other = "British Library" 
+
+[titleCUL]
+other = "Cambrige University Library"
+
+[titleTCD]
+other = "Trinity College Dublin"
+
+[backToTop]
+other = "Back to top"
+
+[footerCookiesText]
+other = "By using this site, you agree we can set and use cookies. For more details of these cookies and how to disable them, see our <a href='{{ .Permalink }}'>cookie policy</a>."
+
+[footerCookiesCloseButton]
+other = "Close this message"
+
+[footerCookiesButton]
+other = "OK"
+
+[collection329Title]
+other=""
+
+[collection329Description]
+other=""

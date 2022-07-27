@@ -1,0 +1,82 @@
+<div class="row">
+
+    <div class="col-md-4">	
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "ukwa/" | relLangURL }}'>{{ i18n "home" }}</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "ukwa/collection/" | relLangURL }}'>{{ i18n "collectionsTitle" }}</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "ukwa/info/nominate" | relLangURL }}'>{{ i18n "saveAUkWebsite" }}</a>
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "about" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "ukwa/contact" | relLangURL }}'>{{ i18n "contactUs" }}</a>
+      </li>
+    </ul>
+    </div>
+    
+    <div class="col-md-4">	
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "ukwa/info/accessibility_statement" | relLangURL }}'>{{ i18n "accessibilityStatement" }}</a>
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "info/notice_takedown" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "info/terms_conditions" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.bl.uk/about-us/privacy-policy">{{ i18n "privacyStatement" }}</a>
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "info/cookies" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+    </ul>
+    </div>
+    
+    <div class="col-md-4">
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link active" href="http://britishlibrary.typepad.co.uk/webarchive/">{{ i18n "blog" }}</a>
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "info/faq" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+      <li class="nav-item">
+        {{ with .Site.GetPage "info/technical" }}
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </li>
+      {{ range $.Translations }}
+      <li class="nav-item">
+        <a class="nav-link" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}" aria-label="{{ i18n "ariaTranslation" }}{{ .Language.LanguageName }}">{{ .Language.LanguageName }}</a>
+      </li>
+      {{ end }}
+      <!-- This not supported by the current system.
+      <li class="nav-item">
+        <a class="nav-link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>RSS Feed</a><!- - was rss/recent.xml? - ->
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "target/" | relLangURL }}'>All Curated Web Sites</a>
+      </li>
+      -->
+    </ul>
+    </div>
+    
+    </div>

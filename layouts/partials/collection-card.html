@@ -14,9 +14,10 @@
     <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .title }}">
   </a>
   <div class="card-body position-relative">
-    <h5 class="card-title">{{ .title | safeHTML | truncate 60 }}</h5>
-    <p class="card-text">{{ .description | safeHTML | truncate 200 }}</p>
-    <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}' class="btn ukwa-button btn-primary stretched-link" aria-label='{{ i18n "view" }} {{ .title | safeHTML }}'>{{ i18n "view" }}</a> 
+    <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}' class="collection-link" aria-label='{{ i18n "view" }} {{ .title | safeHTML }}'>
+      <h5 class="card-title">{{ .title | safeHTML | truncate 60 }}</h5>
+      <p class="card-text">{{ .description | safeHTML | truncate 200 }}</p>
+    </a> 
   </div>
 </div>
 
