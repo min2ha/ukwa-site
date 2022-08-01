@@ -2,8 +2,9 @@ backend:
   name: git-gateway
   repo: ukwa/ukwa-site
 
+# Quite complex, so seeing if we can use the simple workflow for now:
 # https://www.netlifycms.org/docs/configuration-options/?#publish-mode
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_folder: assets/images/uploads
 public_folder: /assets/images/uploads
