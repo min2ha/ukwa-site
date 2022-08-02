@@ -1,5 +1,4 @@
 ---
 title: Gwybodaeth dechnegol
 ---
-
-NO translation.
+*Awaiting translation...*
