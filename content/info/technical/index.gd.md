@@ -1,5 +1,4 @@
 ---
 title: Fiosrachadh teicnigeach
 ---
-
-NO translation.
+*Awaiting translation...*
