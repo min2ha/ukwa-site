@@ -19,6 +19,7 @@ collections:
     label: "Homepage"
     folder: content/ukwa
     create: false
+    delete: false
     i18n: true
     preview_path: "en/ukwa/{{dirname}}"
     fields:
@@ -43,6 +44,7 @@ collections:
     label: "Information Pages"
     folder: content/info
     create: false
+    delete: false
     path: "{{slug}}/index"
     i18n: true
     preview_path: "en/ukwa/info/{{dirname}}"
