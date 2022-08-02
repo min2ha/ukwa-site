@@ -53,9 +53,11 @@ The current work-in-progress site is at: https://ukwa-site.netlify.app/en/ukwa/
 
 The editing interface is at: https://ukwa-site.netlify.app/admin/
 
-Users can log into the editor using GitHub. They can then select different pages, and edit the pages or their translations.  The system is currently configured to support the [_editorial workflow_ publishing mode](https://www.netlifycms.org/docs/configuration-options/#publish-mode).  This means each edit creates a separate set of changes, that can be reviewed and accepted on GitHub.  This needs to be evaluated, as it depends on there being someone willing to review all changes to the site.  If this workflow is not working, we can switch to making changes directly to the work-in-progress site.
+Users can log into the editor using GitHub. They can then select different pages, and edit the pages or their translations. When they are happy, they can select 'Publish -> Publish Now...' and this will commit the changes directly to GitHub. The changes will be visible on the work-in-progress site a few moments later.
 
-Note that none of this changes the live site.  Whenit is time to roll out an update version of the live site, the UKWA tech team need to be told to create a new version of the site (by tagging this repository) and then update the `ukwa-services` stack to roll the new website out to BETA and then PROD. Again, if this workflow is not working, it can be reviewed, and we can look into rolling out changes in a more automated fashion.
+Note that none of this changes the actual _live_ site.  Whenit is time to roll out an update version of the live site, the UKWA tech team need to be told to create a new version of the site (by tagging this repository) and then update the `ukwa-services` stack to roll the new website out to BETA and then PROD. Again, if this workflow is not working, it can be reviewed, and we can look into rolling out changes in a more automated fashion.
+
+Note that the CMS is _NOT_ currently configured to support more complex [_editorial workflow_ publishing mode](https://www.netlifycms.org/docs/configuration-options/#publish-mode).  This alternative mode means each edit creates a separate set of changes, that can be reviewed and accepted on GitHub as pull requests.  This additional complexity is probably not needed, as we will be pooling edits from a small set of trusted contributors. However, it's useful to be aware of the option in case things change.
 
 ## Deployment
 
