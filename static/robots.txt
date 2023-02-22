@@ -9,7 +9,7 @@ Disallow: /datasets/
 Disallow: /shine/search
 # Allow search engines to index specific sites:
 # As requested in https://github.com/ukwa/ukwa-services/issues/96
-Allow: /wayback/archive/*/http://www.europeandialogue.org/
+Allow: /wayback/archive/*/http://www.europeandialogue.org/*
 
 # Allow Twitterbot so social cards work:
 User-agent: Twitterbot
