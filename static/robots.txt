@@ -1,8 +1,12 @@
+#
 # Default settings for robots:
+#
 User-agent: *
+
 # Allow search engines to index specific sites:
 # As requested in https://github.com/ukwa/ukwa-services/issues/96
 Allow: /wayback/archive/*/http://www.europeandialogue.org/*
+
 # Otherwise, avoid archives copies of websites interfering with live sites search presence:
 Disallow: /wayback/
 # Block infinite traps:
@@ -13,6 +17,9 @@ Disallow: /gd/ukwa/search
 Disallow: /datasets/
 Disallow: /shine/search
 
+#
+# Robot-specific settings:
+#
 # Social cards support:
 User-agent: Twitterbot
 Allow: /wayback/
