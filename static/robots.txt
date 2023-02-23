@@ -16,6 +16,7 @@ Disallow: /cy/ukwa/search
 Disallow: /gd/ukwa/search
 Disallow: /datasets/
 Disallow: /shine/search
+Disallow: /act/
 
 #
 # Robot-specific settings:
