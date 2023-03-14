@@ -26,3 +26,8 @@ User-agent: Twitterbot
 Allow: /wayback/
 User-agent: facebookexternalhit
 Allow: /wayback/
+
+#
+# Add Site Map (created by static site generator):
+#
+Sitemap: /sitemap.xml
