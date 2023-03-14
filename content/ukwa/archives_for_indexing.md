@@ -1,8 +1,6 @@
 ---
-title: Archives For Indexing
+title: Archives for indexing by search engines
 ---
-
-## Archives for indexing by search engines
 
 This page lists archived sites that we have been permitted to make available for indexing in search engines.  By listing them here, crawlers can use the site map to find their way to the particular pages in question.
 
