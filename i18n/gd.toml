@@ -49,6 +49,15 @@ other = "Input search text"
 [searchField]
 other = "Search field"
 
+[searchTypeLabel]
+other = "Seòrsa rannsachaidh ri dhèanamh"
+
+[searchTypeFullText]
+other = "Teacs slàn"
+
+[searchTypeUrl]
+other = "URL"
+
 [search]
 other = "Lorg"
 

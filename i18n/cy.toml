@@ -49,6 +49,15 @@ other = "Input search text"
 [searchField]
 other = "Search field"
 
+[searchTypeLabel]
+other = "Math o chwiliad i'w berfformio"
+
+[searchTypeFullText]
+other = "Testun Llawn"
+
+[searchTypeUrl]
+other = "URL"
+
 [search]
 other = "Chwilio"
 

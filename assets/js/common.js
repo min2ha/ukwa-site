@@ -198,8 +198,9 @@ $(document).ready(function(e) {
     });
 
 	//match height for collection headings and descriptions
-	$('.collection-heading').matchHeight();
-	$('.img-square-caption').matchHeight();
+	// ANJ This seems to be broken as there is no 'matchHeight'
+	//$('.collection-heading').matchHeight();
+	//$('.img-square-caption').matchHeight();
 
 	//hide back button if not needed
 	if (history.length<3) $(".back-button").hide();

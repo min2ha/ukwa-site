@@ -81,7 +81,7 @@
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     {{ $secureJS := resources.Get "js/jquery-3.5.1.min.js" | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
-    {{ $secureJS := resources.Get "popperjs/popper.min.js" | resources.Fingerprint "sha512" }}
+    {{ $secureJS := resources.Get "popperjs/umd/popper.min.js" | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
     {{ $secureJS := resources.Get "bootstrap/js/bootstrap.min.js" | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>

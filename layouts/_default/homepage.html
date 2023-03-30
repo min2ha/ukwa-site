@@ -6,13 +6,19 @@
             <div class="col-md-10">
                 <h1 class="main-heading-2-redesign padding-bottom-20">{{ i18n "searchTheUkWebArchive" }}</h1>
             </div>
-            <div class="col-md-8 offset-md-1 mt-2">
-                <input role="textbox" type="text" name="text" class="form-control form-control-lg homepage-search-input mr-lg-5 mr-md-5" placeholder="" aria-label='{{ i18n "inputSearchText" }}' title='{{ i18n "searchField" }}' required="" aria-required="true" id="hs-input-field">
-            </div>
-            <div class="col-md-3 mt-2">
-                <button role="button" type="submit" class="btn btn-lg btn-light h-100 w-auto align-items-center homepage-search-button" title='{{ i18n "search" }}'>
-                    <span class="align-middle">{{ i18n "search" }}<i class="fa fa-search ml-2" aria-hidden="true"></i></span>
-                </button>
+            <div class="col-md-10">
+                <div class="input-group input-group-lg">
+                    <input type="text" class="form-control" id="search-text-input" name="text" placeholder="" aria-label='{{ i18n "inputSearchText" }}' title='{{ i18n "searchField" }}' required="" aria-required="true">
+                    <div class="input-group-append">
+                        <select class="form-control form-control-lg" id="search-type-select" name="search-type" aria-label='{{ i18n "searchTypeLabel" }}'>
+                            <option value="text" selected>{{ i18n "searchTypeFullText" }}</option>
+                            <option value="url">{{ i18n "searchTypeUrl" }}</option>
+                        </select>
+                        <button role="button" type="submit" id="search-form-submit" class="btn btn-light homepage-search-button" title='{{ i18n "search" }}'>
+                            {{ i18n "search" }}<i class="fa fa-search ml-2" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                  </div>                
             </div>
             <div class="col-md-10 mt-2 dialog-link">
               <label for="hs-input-field" id="tipsDialog">{{ i18n "searchTipsLink" }}&nbsp;<a role="dialog" aria-labelledby="tipsDialog" href="#" data-toggle="modal" data-target="#searchingUKWAModalCenter" class="no-decoration bg-transparent" title='{{ i18n "searchTipsTitle" }}'><i class="fas fa-info-circle text-white"></i></a></label>
@@ -22,6 +28,67 @@
     <input aria-hidden="true" type="hidden" name="search_location" id="search_location_full_text" value="full_text">
     <input aria-hidden="true" type="hidden" name="reset_filters" id="reset_filters" value="false">
   </form>
+
+  <!-- Script to detect if the search is for a URL and flip to that -->
+  <script lang="application/javascript">
+const searchText = document.getElementById('search-text-input');
+const searchType = document.getElementById('search-type-select');
+
+function isValidHttpUrl(string) {
+  let url;
+  try {
+    url = new URL(string);
+  } catch (_) {
+    return false;
+  }
+  // Demand at least one dot (not at the end):
+  let pos = url.hostname.indexOf('.');
+  if( pos == -1 || pos == (url.hostname.length-1) ) { 
+    return false;
+  }
+  // Only HTTP(S):
+  return url.protocol === "http:" || url.protocol === "https:";
+}
+
+const inputHandler = function(e) {
+  value = e.target.value.trim();
+  // Allow missing prefix as we are enforcing a dot.
+  if( isValidHttpUrl(value) || isValidHttpUrl('https://' + value) ) {
+    searchType.value = 'url';
+  } else {
+    searchType.value = 'text';
+  }
+}
+
+searchText.addEventListener('input', inputHandler);
+
+/* 
+ * Add a form data handler to override ACTION and fields based on search type
+ */
+const textSearchUrl = '{{ "ukwa/search" | relLangURL }}';
+const urlSearchUrl = '/wayback/{{ .Page.Lang }}/archive/*';
+
+const searchForm = document.getElementById('search_form');
+searchForm.addEventListener('formdata', (e) => {
+  const formData = e.formData;
+  if( formData.get('search-type') == 'url') {
+    e.target.action = urlSearchUrl;
+    formData.set('url', formData.get('text'));
+    formData.delete('text');
+    formData.delete('search_location');
+    formData.delete('reset_filters');
+    formData.delete('content_type');
+  } else {
+    e.target.action = textSearchUrl;
+    formData.delete('url');
+  }
+  // And drop the 'search-type' as that is only used here to distinguish search modes:
+  formData.delete('search-type');
+});
+
+
+  </script>
+
 
   <!-- Modal: search tips -->
   <div class="modal fade" id="searchingUKWAModalCenter" tabindex="-1" role="dialog" aria-label='{{ i18n "searchTipsDialog" }}' aria-hidden="true">

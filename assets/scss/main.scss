@@ -186,7 +186,7 @@ footer {
 }
 .navbar-toggler-icon {
   /* were using a fontawesome icon instead so we can switch it's colours. */
-  background-image: none;
+  background-image: none !important;
 }
 .breadcrumb, .breadcrumb-item {
   background-color: transparent;
@@ -937,13 +937,10 @@ a.no-decoration {
   border-radius: 0 !important;
 
   @include themify($themes) {
-    box-shadow: themed('home_page_btn_box-shadow');
 
-    border: themed('buttonBorder');
     color: themed('buttonTextColor');
     border-color: themed('buttonTextColor');
     background-color: themed('buttonColor');
-    text-transform: themed('buttonTextTransform');
 
     &:hover {
       color: themed('buttonTextHoverColor');
@@ -1181,14 +1178,13 @@ input {
 }
 
 .homepage-search-button{
-  @include themify($themes) {
-    box-shadow: themed('home_page_btn_box-shadow');
+  white-space: nowrap;
 
-    border: themed('buttonBorder');
+  @include themify($themes) {
+
     color: themed('buttonTextColor');
     border-color: themed('buttonTextColor');
     background-color: themed('buttonColor');
-    text-transform: themed('buttonTextTransform');
 
     &:hover {
       color: themed('buttonTextHoverColor');

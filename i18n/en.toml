@@ -46,6 +46,15 @@ other = "Input search text"
 [searchField]
 other = "Search field"
 
+[searchTypeLabel]
+other = "Type of search to perform"
+
+[searchTypeFullText]
+other = "Full Text"
+
+[searchTypeUrl]
+other = "URL"
+
 [search]
 other = "Search"
 
