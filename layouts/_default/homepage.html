@@ -55,8 +55,11 @@ const inputHandler = function(e) {
   // Allow missing prefix as we are enforcing a dot.
   if( isValidHttpUrl(value) || isValidHttpUrl('https://' + value) ) {
     searchType.value = 'url';
+    // Change action here too, as Chrome sometimes doesn't change it in the formdata event:
+    searchForm.action = urlSearchUrl;
   } else {
     searchType.value = 'text';
+    searchForm.action = textSearchUrl;
   }
 }
 
