@@ -5,7 +5,7 @@ User-agent: *
 
 # Allow search engines to index specific sites:
 # As requested in https://github.com/ukwa/ukwa-services/issues/96
-Allow: /wayback/archive/*/http://www.europeandialogue.org/*
+#Allow: /wayback/archive/*/http://www.europeandialogue.org/*
 
 # Otherwise, avoid archives copies of websites interfering with live sites search presence:
 Disallow: /wayback/
