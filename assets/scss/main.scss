@@ -2372,7 +2372,7 @@ footer {
   cursor: pointer;
 }
 
-.badge {
+.badge-alt {
   height: 100px;
   width: 100px;
   display: table-cell;
@@ -3407,8 +3407,13 @@ code {
   color: #d1377e;
 }
 
+/* Tweaks to card display. */
 .card {
   background-color: transparent;
 }
+
+  .card-img-top {
+    border-bottom: 1px solid #eee;
+  }
 
 /*# sourceMappingURL=main.css.map */

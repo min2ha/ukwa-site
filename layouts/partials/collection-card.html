@@ -1,7 +1,8 @@
 <div class="card text-center">
-  <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}'>
+  {{ if index . "showImages" }}
+  <a href='{{ "ukwa/collection" | relLangURL }}/{{ .id }}'>
     {{ $image := newScratch }}
-    {{ $imgPath := ( printf "images/uploads/collection_%s.png" .collectionId ) }}
+    {{ $imgPath := ( printf "images/uploads/collection_%d.png" ( int .id ) ) }}
     {{ with resources.Get $imgPath }}
       {{ $image.Set "image" . }}
     {{ else }}
@@ -11,11 +12,12 @@
     {{ $image := $image.Get "image" }}
     {{ $image := $image.Fill "400x300" }}
     <!-- not setting width="{{ $image.Width }}" height="{{ $image.Height }}" as this is a flexible layout -->
-    <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .title }}">
+    <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .title }}" height="300" width="400">
   </a>
+  {{ end }}
   <div class="card-body position-relative">
-    <a href='{{ "ukwa/collection" | relLangURL }}/{{ .collectionId }}' class="collection-link" aria-label='{{ i18n "view" }} {{ .title | safeHTML }}'>
-      <h5 class="card-title">{{ .title | safeHTML | truncate 60 }}</h5>
+    <a href='{{ "ukwa/collection" | relLangURL }}/{{ .id }}' class="collection-link" aria-label='{{ i18n "view" }} {{ .title | safeHTML }}'>
+      <h3 class="card-title">{{ .title | safeHTML | truncate 60 }}</h3>
       <p class="card-text">{{ .description | safeHTML | truncate 200 }}</p>
     </a> 
   </div>

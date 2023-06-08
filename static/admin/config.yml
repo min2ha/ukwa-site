@@ -36,7 +36,7 @@ collections:
         i18n: true
         summary: '{{fields.title}}'
         fields:
-         - {label: "Collection ID Number", name: collectionId, widget: string}
+         - {label: "Collection ID Number", name: collectionId, widget: number, value_type: int }
          - {label: "Title", name: title, widget: string, i18n: true }
          - {label: "Description", name: description, widget: string, i18n: true }
       

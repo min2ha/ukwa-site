@@ -6,7 +6,8 @@
       <div class="col-md-8 col-sm-12 pb-3">
         {{ .Content }}
         
-        {{ if eq .Parent.Dir "collection/" }}
+        {{ if .Parent.File }}
+        {{ if eq .Parent.File.Dir "collection/" }}
           <form action="search" method="get" enctype="multipart/form-data">
             <input type="hidden" name="search_location" value="full_text">
             <input type="hidden" name="collection" value="{{ .Title }}">
@@ -16,10 +17,11 @@
                 <input type="text" name="text" class="form-control" placeholder="Search within '{{ .Title }}'">
               </div>
               <div class="col-md-4 col-sm-12 mb-2">
-                <button type="submit" class="btn btn-primary w-100">Search within...<i class="fa fa-search ml-2"></i></button>
+                <button type="submit" class="btn btn-primary homepage-search-button w-100">Search within...<i class="fa fa-search ml-2"></i></button>
               </div>
             </div>
           </form>
+        {{ end }}
         {{ end }}
 
       </div>
@@ -53,10 +55,10 @@
       <h2>Sub-collections</h2>
       {{ end }}
       <div class="row">
-        {{ range .Sections}}
+        {{ range .Sections }}
         <div class="col-sm-3 pb-3">
 
-          {{ partial "collection-card" . }}
+          {{ partial "collection-card" ( dict "id" .Params.id "title" .Params.title "description" .Params.description "showImages" $.Parent.IsHome  ) }}
 
         </div>
         {{ end }}
@@ -70,7 +72,7 @@
         {{ range .Params.targets }}
           {{ $file_path := printf "/target/%s" .  }}
           {{ with $.Site.GetPage $file_path }}
-          <div class="col-lx-3 col-lg-4 col-md-6 col-sm-12">
+          <div class="col-lx-2 col-lg-3 col-md-6 col-sm-12 --d-flex --align-items-stretch">
             {{ partial "target-card" . }}
           </div>
           {{ end }}

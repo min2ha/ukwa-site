@@ -1,16 +1,19 @@
-<div class="card mb-3 target-card">
-      {{ if eq .Params.open_access true }}
-      <img class="card-img-top" src="https://beta.webarchive.org.uk/access/screenshot/?type=screenshot&target_date=20010101120000&source=archive&url={{ .Params.target_url }}" alt="{{ .Title }}">
-      {{ else }}
-      <img class="card-img-top" src="/img/collections/collection_default.png" alt="{{ .Title }}" height="175"style="opacity: 0.5;">
-      {{ end }}
-      <div class="card-body">
-        {{ if .Params.open_access }}
-        <a href="{{ .Permalink }}" class="btn btn-primary btn-sm float-right stretched-link">Open Access</a>
-        {{ else }}
-        <a href="{{ .Permalink }}" class="btn btn-secondary btn-sm float-right stretched-link">Limited Access</a> 
-        {{ end }}
-        {{ .Title | safeHTML | truncate 60 }}
-        <!-- <p class="card-text">{{ .Content | safeHTML | truncate 80 }}</p> -->
-      </div>
+<div class="card mb-3 target-card d-flex align-items-stretch">
+  {{ if eq .Params.open_access true }}
+    <img class="card-img-top" 
+           src="https://www.webarchive.org.uk/api/iiif/2/{{ .Params.pwid_b64 }}/128,0,1024,768/300,/0/default.png" 
+           alt="{{ .Title }}">
+  {{ else }}
+    {{ $image := resources.Get "images/uploads/collection_default.png" }}
+    <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .Title }}" style="opacity: 0.2;">
+  {{ end }}
+  <div class="card-body">
+    <a href="{{ .Permalink }}" class="stretched-link">{{ .Title | safeHTML | truncate 60 }}</a>
+    {{ if .Params.open_access }}
+    <span class="badge badge-primary float-right">Available Online</span>
+    {{ else }}
+    <span class="badge badge-secondary float-right">Reading Rooms Only</span>
+    {{ end }}
+    <!-- <p class="card-text">{{ .Content | safeHTML | truncate 80 }}</p> -->
+  </div>
 </div>

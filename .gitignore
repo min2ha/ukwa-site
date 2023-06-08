@@ -24,6 +24,10 @@ resources/
 # Hugo
 public/
 
+# Hugo files that are machine generated and not to be included at this point
+content/target
+content/collection
+
 # Backup Files
 *.markdown~
 *.md~

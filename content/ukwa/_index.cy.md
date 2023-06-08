@@ -4,13 +4,13 @@ layout: homepage
 aliases:
   - /cy/ukwa/index
 highlights:
-  - collectionId: "329"
+  - id: 329
     title: British Stand-up Comedy Archive
     description: Perchennog a gweinyddwr y casgliad yw Elspeth Millar.
-  - collectionId: "309"
+  - id: 309
     title: French in London
     description: Detholwyd y casgliad hwn o wefannau gan Saskia Huc-Hepher.
-  - collectionId: "138"
+  - id: 138
     title: News Sites
     description: 558 o deitlau yn y casgliad hwn.
 ---

@@ -4,14 +4,14 @@ layout: homepage
 aliases:
   - /gd/ukwa/index
 highlights:
-  - collectionId: "329"
+  - id: 329
     description: Tha an cruinneachadh le, agus air a riaghladh le Elspeth Millar.
     title: British Stand-up Comedy Archive
-  - collectionId: "309"
+  - id: 309
     title: French in London
     description: Chaidh an cruinneachadh seo de làraichean-lìn a thaghadh le Saskia
       Huc-Hepher.
-  - collectionId: "138"
+  - id: 138
     title: News Sites
     description: 558 Tha an cruinneachadh le agus air a rianachd le.
 ---

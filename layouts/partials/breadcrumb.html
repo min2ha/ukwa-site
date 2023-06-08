@@ -1,6 +1,6 @@
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    {{ template "breadcrumb" dict "currentPage" .Page "id" .File.UniqueID }}
+    {{ template "breadcrumb" dict "currentPage" .Page "id" .Page.RelPermalink }}
   </ol>
 </nav>
 <hr/>
@@ -9,7 +9,7 @@
 {{ if .currentPage.Parent }}
   {{ template "breadcrumb" dict "currentPage" .currentPage.Parent }}
 {{ end }}
-{{ if eq .id .currentPage.File.UniqueID }}
+{{ if eq .id .currentPage.RelPermalink }}
   <li class="breadcrumb-item active">{{ .currentPage.Title }}</li>
 {{ else if .currentPage.IsHome }}
   <li class="breadcrumb-item"><i>{{ i18n "youAreHere" }}:</i>&nbsp;&nbsp;<a href='{{ "ukwa/" | relLangURL }}'>{{ i18n "home" }}</a></li>

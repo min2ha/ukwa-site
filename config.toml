@@ -21,10 +21,10 @@ unsafe = true
 
 # Set up ukwa prefix (legacy of original deployment but that's the URLs we have)
 [permalinks]
- info = '/ukwa/info/:filename/'
-# Used to clean up links if we're using static site generation for targets/collections
-#  target = "/target/:slug/"
-#  collection = "/collection/:slug/"
+  info = '/ukwa/info/:filename/'
+  # Used to clean up links if we're using static site generation for targets/collections
+  target = '/ukwa/target/:slug/'
+  collection = '/ukwa/collection/:slug/'
 
 [params]
   mainSections = ["ukwa", "info"]
