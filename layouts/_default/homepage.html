@@ -171,7 +171,7 @@ searchForm.addEventListener('formdata', (e) => {
     <div class="row pt-4">
     {{ range .Params.highlights }}
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-      {{ partial "collection-card" .}}
+      {{ partial "collection-card" . }}
       </div>
     {{ end }}
     </div>

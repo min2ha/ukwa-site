@@ -7,12 +7,15 @@ highlights:
   - id: 329
     title: British Stand-up Comedy Archive
     description: Collection owned and administered by Elspeth Millar.
+    showImages: true
   - id: 309
     title: French in London
     description: This collection of websites has been selected by Saskia Huc-Hepher.
+    showImages: true
   - id: 138
     title: News Sites
     description: 558 titles are included in this collection.
+    showImages: true
 ---
 
 ## What we do

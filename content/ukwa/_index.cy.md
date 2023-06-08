@@ -7,12 +7,15 @@ highlights:
   - id: 329
     title: British Stand-up Comedy Archive
     description: Perchennog a gweinyddwr y casgliad yw Elspeth Millar.
+    showImages: true
   - id: 309
     title: French in London
     description: Detholwyd y casgliad hwn o wefannau gan Saskia Huc-Hepher.
+    showImages: true
   - id: 138
     title: News Sites
     description: 558 o deitlau yn y casgliad hwn.
+    showImages: true
 ---
 
 ## Yr hyn rydym yn ei wneud
