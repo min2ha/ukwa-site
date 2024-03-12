@@ -65,6 +65,9 @@ The Docker build compiles the content and then patches it into an NGINX containe
 
 These images are then referenced in `ukwa-services` in the `website` stack, which adds a more complex NGINX configuration that makes this content accessible where appropriate, but passed through and proxies through to other services as needed.
 
+## Deployment to Cloud
+Use GitHub Actions to depoy to the Cloud.
+
 ## Future Work
 
 Hugo is nice and fast, but is quite opinionated in that it forces a lot of structure (e.g. the different Bundles) that we don't really need, and the templating system effectively requires you to have a basic understanding of the Go language (potentially meaning we need a wider range of skills to maintain this long term).  There are also limitations in how well it can integrate with the JavaScript frameworks that will necessarily be used to develop the site itself. See e.g. [this example of the issues and difficulties when developing React and Vue apps (respectively) on Hugo](https://forum.vuejs.org/t/how-do-i-get-vue-to-work-with-hugo-server/115628).
