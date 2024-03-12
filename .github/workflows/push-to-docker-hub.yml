@@ -13,8 +13,8 @@ jobs:
     # This uses the default metadata-action configuration, see https://github.com/docker/metadata-action
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the repo
-        uses: actions/checkout@v2
+      - name: Check out the repository
+        uses: actions/checkout@v4
       - name: Set up Docker metadata
         id: meta
         uses: docker/metadata-action@v3
