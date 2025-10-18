@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   repo: min2ha/ukwa-site
+  branch: main
+  base_url: https://ukwa-static.netlify.app
 
 # Quite complex, so seeing if we can use the simple workflow for now:
 # https://www.netlifycms.org/docs/configuration-options/?#publish-mode
