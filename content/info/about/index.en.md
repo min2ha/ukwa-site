@@ -1,8 +1,10 @@
 ---
 title: About Us
-aliases: ["/en/about", "/en/ukwa/about"]
+aliases:
+  - /en/about
+  - /en/ukwa/about
 ---
-## What do we do?
+## What do we do in 2025?
 
 The UK Web Archive aims to collect all UK websites at least once per year.
 

@@ -1,0 +1,28 @@
+{
+  "username": "viewer",
+  "email": "viewer@ukwa-local.test",
+  "role": "viewer",
+  "permissions": {
+    "content": {
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false,
+      "publish": false,
+      "unpublish": false
+    },
+    "media": {
+      "upload": false,
+      "delete": false
+    },
+    "workflow": {
+      "approve": false,
+      "reject": false,
+      "publish": false
+    },
+    "users": {
+      "manage": false
+    }
+  },
+  "description": "Read-only access to view content and workflow status"
+}

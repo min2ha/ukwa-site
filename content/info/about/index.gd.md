@@ -1,6 +1,8 @@
 ---
 title: Mu ar dèidhinn
-aliases: ["/gd/about", "/gd/ukwa/about"]
+aliases:
+  - /gd/about
+  - /gd/ukwa/about
 ---
 ## Dè an obair a th’ againn?
 

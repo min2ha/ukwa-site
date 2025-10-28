@@ -1,0 +1,28 @@
+{
+  "username": "supervisor",
+  "email": "supervisor@ukwa-local.test",
+  "role": "admin",
+  "permissions": {
+    "content": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true,
+      "publish": true,
+      "unpublish": true
+    },
+    "media": {
+      "upload": true,
+      "delete": true
+    },
+    "workflow": {
+      "approve": true,
+      "reject": true,
+      "publish": true
+    },
+    "users": {
+      "manage": true
+    }
+  },
+  "description": "Full access to all CMS features including publishing and user management"
+}

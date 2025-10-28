@@ -1,6 +1,8 @@
 ---
 title: Amdanom ni
-aliases: ["/cy/about", "/cy/ukwa/about"]
+aliases:
+  - /cy/about
+  - /cy/ukwa/about
 ---
 ## Beth yr ydym yn ei wneud?
 

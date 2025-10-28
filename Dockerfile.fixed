@@ -1,0 +1,41 @@
+# Multi-stage build for UKWA Hugo site with Decap CMS
+# Stage 1: Build Hugo site
+FROM klakegg/hugo:0.111.3-ext-alpine AS hugo-builder
+
+# Set working directory
+WORKDIR /src
+
+# Copy Hugo configuration and content
+COPY config.toml /src/
+COPY content /src/content
+COPY static /src/static
+COPY layouts /src/layouts
+COPY i18n /src/i18n
+COPY data /src/data
+COPY archetypes /src/archetypes
+COPY assets /src/assets
+
+# Copy themes (including submodules)
+COPY themes /src/themes
+
+# Build the Hugo site
+RUN hugo --minify --destination /target
+
+# Stage 2: Serve with Nginx
+FROM nginx:alpine
+
+# Copy built site from builder stage
+COPY --from=hugo-builder /target /usr/share/nginx/html
+
+# Copy custom nginx configuration if exists
+# COPY nginx.conf /etc/nginx/nginx.conf
+
+# Expose port 80
+EXPOSE 80
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
+  CMD wget --quiet --tries=1 --spider http://localhost/ || exit 1
+
+# Start nginx
+CMD ["nginx", "-g", "daemon off;"]

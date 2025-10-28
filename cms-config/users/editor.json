@@ -1,0 +1,28 @@
+{
+  "username": "editor",
+  "email": "editor@ukwa-local.test",
+  "role": "editor",
+  "permissions": {
+    "content": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false,
+      "publish": false,
+      "unpublish": false
+    },
+    "media": {
+      "upload": true,
+      "delete": false
+    },
+    "workflow": {
+      "approve": false,
+      "reject": false,
+      "publish": false
+    },
+    "users": {
+      "manage": false
+    }
+  },
+  "description": "Can create and edit content, upload media, but cannot publish or delete"
+}

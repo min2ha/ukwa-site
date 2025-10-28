@@ -1,10 +1,15 @@
 backend:
   name: git-gateway
-  repo: ukwa/ukwa-site
+  repo: min2ha/ukwa-site
+  branch: development
 
-# Quite complex, so seeing if we can use the simple workflow for now:
-# https://www.netlifycms.org/docs/configuration-options/?#publish-mode
-#publish_mode: editorial_workflow
+# Enable editorial workflow for draft/review/publish workflow
+publish_mode: editorial_workflow
+
+# editorial workflow board (/admin/#/workflow) is NOT available 
+# when using local_backend: true
+# Local backend for development (comment out for production)
+local_backend: false
 
 media_folder: assets/images/uploads
 public_folder: /assets/images/uploads
