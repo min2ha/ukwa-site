@@ -1,0 +1,60 @@
+# Decap CMS Production Configuration
+# For deployment to: ukwa-static.netlify.app
+
+backend:
+  name: git-gateway
+  repo: min2ha/ukwa-site
+  branch: development
+
+# Enable editorial workflow for draft/review/publish workflow
+publish_mode: editorial_workflow
+
+# Production: local_backend MUST be disabled
+# local_backend: false  # or remove this line entirely
+
+media_folder: static/assets/images/uploads
+public_folder: /assets/images/uploads
+
+i18n:
+  structure: multiple_files
+  locales: ["en", "cy", "gd"]
+  default_locale: en
+
+collections:
+  - name: "homepage"
+    label: "Homepage"
+    folder: content/ukwa
+    create: false
+    delete: false
+    i18n: true
+    preview_path: "en/ukwa/{{dirname}}"
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string', i18n: true}
+      - {label: 'Body', name: 'body', widget: 'markdown', i18n: true}
+      - {label: 'Layout', name: 'layout', widget: 'hidden'}
+      - {label: 'Aliases', name: 'aliases', widget: 'hidden'}
+      - label: "Highlights"
+        name: "highlights"
+        collapsed: true
+        widget: "list"
+        min: 3
+        max: 3
+        i18n: true
+        summary: '{{fields.title}}'
+        fields:
+         - {label: "Collection ID Number", name: collectionId, widget: number, value_type: int }
+         - {label: "Title", name: title, widget: string, i18n: true }
+         - {label: "Description", name: description, widget: string, i18n: true }
+
+  - name: "info"
+    label: "Information Pages"
+    folder: content/info
+    create: false
+    delete: false
+    path: "{{slug}}/index"
+    i18n: true
+    preview_path: "en/ukwa/info/{{dirname}}"
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string', i18n: true}
+      - {label: 'Body', name: 'body', widget: 'markdown', i18n: true}
+      - {label: 'Aliases', name: 'aliases', widget: 'hidden'}
