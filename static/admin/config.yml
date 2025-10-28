@@ -1,14 +1,13 @@
 backend:
-  name: git-gateway
+  name: github
   repo: min2ha/ukwa-site
   branch: development
 
 # Enable editorial workflow for draft/review/publish workflow
 publish_mode: editorial_workflow
 
-# editorial workflow board (/admin/#/workflow) is NOT available 
-# Local backend for development (comment out for production)
-local_backend: false
+# Note: For local development, add 'local_backend: true' here
+# For production deployment, keep it removed (GitHub OAuth authentication)
 
 media_folder: assets/images/uploads
 public_folder: /assets/images/uploads
