@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Us 2025
 aliases:
   - /en/about
   - /en/ukwa/about
