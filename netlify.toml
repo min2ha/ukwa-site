@@ -1,5 +1,6 @@
 # Netlify Configuration for UKWA Static Site
-# Site URL: https://ukwa-static.netlify.app
+# Main Site URL (development branch): https://ukwa-static.netlify.app
+# Limited Access Site URL (dev_limited_access branch): https://static-ukwa-site.netlify.app
 
 [build]
   command = "hugo --minify"
@@ -15,6 +16,16 @@
 
 [context.deploy-preview.environment]
   HUGO_ENV = "staging"
+
+# Context for dev_limited_access branch
+# Deploy to: https://static-ukwa-site.netlify.app
+[context.dev_limited_access]
+  command = "hugo --minify"
+
+[context.dev_limited_access.environment]
+  HUGO_ENV = "production"
+  HUGO_VERSION = "0.111.3"
+  HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "/en"

@@ -1,11 +1,14 @@
 backend:
   name: github
   repo: min2ha/ukwa-site
-  branch: development
+  branch: dev_limited_access
 
 # Enable editorial workflow for draft/review/publish workflow
 publish_mode: editorial_workflow
 
+# Limited Access Configuration
+# This branch provides restricted content editing capabilities
+# Users can only edit specific collections (no deletion, no creation)
 # Note: For local development, add 'local_backend: true' here
 # For production deployment, keep it removed (GitHub OAuth authentication)
 
